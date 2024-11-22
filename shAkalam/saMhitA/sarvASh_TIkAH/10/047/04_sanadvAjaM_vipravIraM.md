@@ -93,91 +93,131 @@ vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)
 -   *sanadvājaṃ* ← *sanat* ← *san*
 - \[verb noun\]
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanadvājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipravīraṃ* ← *vipra*
 - \[noun\], masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipravīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarutraṃ* ← *tarutram* ← *tarutra*
 - \[noun\], accusative, singular, masculine
 - “triumphant; conquering(a); superior.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanaspṛtaṃ* ← *dhana*
 - \[noun\], neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanaspṛtaṃ* ← *spṛtam* ← *spṛt*
 - \[noun\], accusative, singular, masculine
 - “victorious; protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūśuvāṃsaṃ* ← *śūśuvāṃsam* ← *śvi*
 - \[verb noun\], accusative, singular
 - “swell; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudakṣam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudakṣam* ← *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyuhanam* ← *dasyu*
 - \[noun\], masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyuhanam* ← *hanam* ← *han*
 - \[noun\], accusative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrbhidam* ← *pūrbhid*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyam* ← *satya*
 - \[noun\], accusative, singular, masculine
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *citraṃ* ← *citram* ← *citra*
 - \[noun\], accusative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇaṃ* ← *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāḥ* ← *dā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

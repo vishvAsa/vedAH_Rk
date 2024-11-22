@@ -88,55 +88,79 @@ uditám ← √vadⁱ- (root)
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *śraddhe* ← *śraddhā*
 - \[noun\], vocative, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadataḥ* ← *dā*
 - \[verb noun\], genitive, singular
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyaṃ* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *śraddhe* ← *śraddhā*
 - \[noun\], vocative, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
-------------------------------------------------------------------------
+
+_________
+
 - *didāsataḥ* ← *didās* ← *√dā*
 - \[verb noun\], genitive, singular
-------------------------------------------------------------------------
+
+_________
+
 - *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojeṣu* ← *bhoja*
 - \[noun\], locative, plural, masculine
 - “big; hospitable.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajvasv* ← *yajvasu* ← *yajvan*
 - \[noun\], locative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ma* ← *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *uditaṃ* ← *uditam* ← *vad*
 - \[verb noun\], accusative, singular
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -147,7 +171,9 @@ uditám ← √vadⁱ- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

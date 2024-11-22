@@ -89,64 +89,94 @@ ubhā́ ← ubhá- (pronoun)
 - \[noun\], nominative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suyujā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suyujā* ← *yujā* ← *yuj*
 - \[noun\], nominative, dual, masculine
 - “amalgamated; harnessed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivratā* ← *vivrata*
 - \[noun\], nominative, dual, masculine
 - “refractory; loath.”
-------------------------------------------------------------------------
+
+_________
+
 - *ver* ← *veḥ* ← *vi*
 - \[noun\], genitive, singular, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvantānu* ← *arvantā* ← *arvat*
 - \[noun\], nominative, dual, masculine
 - “running.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvantānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *śepā* ← *śepa*
 - \[noun\], accusative, dual, masculine
 - “penis.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *rajī* ← *raji*
 - \[noun\], nominative, dual, masculine
 - “Raji.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *keśinā* ← *keśin*
 - \[noun\], nominative, dual, masculine
 - “haired.”
-------------------------------------------------------------------------
+
+_________
+
 - *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *dan* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

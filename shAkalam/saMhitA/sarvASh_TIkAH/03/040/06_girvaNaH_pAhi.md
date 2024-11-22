@@ -78,47 +78,69 @@ yáśaḥ ← yáśas- (nominal stem)
 
 -   *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutam* ← *suta*
 - \[noun\], accusative, singular, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhor* ← *madhoḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārābhir* ← *dhārābhiḥ* ← *dhārā*
 - \[noun\], instrumental, plural, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajyase* ← *añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvādātam* ← *tvādāta*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaśaḥ* ← *yaśas*
 - \[noun\], nominative, singular, neuter
 - “fame; Yaśas.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

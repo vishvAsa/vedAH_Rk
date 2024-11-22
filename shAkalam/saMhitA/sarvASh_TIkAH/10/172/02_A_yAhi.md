@@ -65,37 +65,53 @@ sudā́nubhiḥ ← sudā́nu- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasvyā* ← *vasu*
 - \[noun\], instrumental, singular, feminine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhiṣṭho* ← *maṃhiṣṭhaḥ* ← *maṃhiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *jārayanmakhaḥ* ← *jārayat* ← *jāray* ← *√jṛ*
 - \[verb noun\]
 - “jāray; digest.”
-------------------------------------------------------------------------
+
+_________
+
 - *jārayanmakhaḥ* ← *makhaḥ* ← *makha*
 - \[noun\], nominative, singular, masculine
 - “yajña; Makha; festival.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānubhiḥ* ← *sudānu*
 - \[noun\], instrumental, plural, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

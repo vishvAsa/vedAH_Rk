@@ -105,87 +105,127 @@ varivasyantu ← √varivasy- (root)
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *jmā* ← *jm*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *mahino* ← *mahinaḥ* ← *mahin*
 - \[noun\], nominative, plural, masculine
 - “mighty; great.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahimāyā* ← *ahi*
 - \[noun\], masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahimāyā* ← *māyāḥ* ← *māyā*
 - \[noun\], nominative, plural, masculine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *jajñire* ← *jan*
 - \[verb\], plural, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣaye* ← *iṣi*
 - \[noun\], dative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣapa* ← *kṣapaḥ* ← *kṣap*
 - \[noun\], accusative, plural, feminine
 - “night.”
-------------------------------------------------------------------------
+
+_________
+
 - *usrā* ← *usrāḥ* ← *usrā*
 - \[noun\], accusative, plural, feminine
 - “cow; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *varivasyantu* ← *varivasy*
 - \[verb\], plural, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

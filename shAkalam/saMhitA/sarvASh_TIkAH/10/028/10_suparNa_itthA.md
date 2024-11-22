@@ -102,78 +102,114 @@ tásmai ← sá- ~ tá- (pronoun)
 -   *suparṇa* ← *suparṇaḥ* ← *suparṇa*
 - \[noun\], nominative, singular, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
-------------------------------------------------------------------------
+
+_________
+
 - *itthā*
 - \[adverb\]
 - “thus; here.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakham* ← *nakha*
 - \[noun\], accusative, singular, masculine
 - “fingernail; claw; nakha \[word\]; toenail.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣāyāvaruddhaḥ* ← *siṣāya* ← *sā*
 - \[verb\], singular, Perfect indicative
 - “tie.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣāyāvaruddhaḥ* ← *avaruddhaḥ* ← *avarudh* ← *√rudh*
 - \[verb noun\], nominative, singular
 - “obtain; obstruct; imprison.”
-------------------------------------------------------------------------
+
+_________
+
 - *paripadaṃ* ← *paripadam* ← *paripad*
 - \[noun\], accusative, singular, feminine
 - “trap.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *siṃhaḥ* ← *siṃha*
 - \[noun\], nominative, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *niruddhaś* ← *niruddhaḥ* ← *nirudh* ← *√rudh*
 - \[verb noun\], nominative, singular
 - “close; insert; seal; obstruct; fill into; enclose; put; stop;
     suppress; puṭ; banish; impede; envelop; capture.”
-------------------------------------------------------------------------
+
+_________
+
 - *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahiṣas* ← *mahiṣaḥ* ← *mahiṣa*
 - \[noun\], nominative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarṣyāvān* ← *tarṣyāvat*
 - \[noun\], nominative, singular, masculine
 - “thirsty.”
-------------------------------------------------------------------------
+
+_________
+
 - *godhā*
 - \[noun\], nominative, singular, feminine
 - “monitor; Godhā; godhā \[word\]; chord.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayathaṃ* ← *ayatham* ← *ayatha*
 - \[noun\], accusative, singular, neuter
 - “animal foot.”
-------------------------------------------------------------------------
+
+_________
+
 - *karṣad* ← *karṣat* ← *kṛṣ*
 - \[verb\], singular, Imperfect
 - “plow; drag; pull; dry; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *etat* ← *etad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

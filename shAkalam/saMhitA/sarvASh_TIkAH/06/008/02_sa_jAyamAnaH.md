@@ -98,78 +98,112 @@ vaiśvānaráḥ ← vaiśvānará- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyamānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *parame* ← *parama*
 - \[noun\], locative, singular, masculine
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyomani* ← *vyoman*
 - \[noun\], locative, singular, masculine
 - “abhra; sky; ākāśa; Svarga; Vyoman.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratāny* ← *vratāni* ← *vrata*
 - \[noun\], accusative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratapā* ← *vrata*
 - \[noun\], neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratapā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *arakṣata* ← *rakṣ*
 - \[verb\], singular, Imperfect
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣam* ← *antarikṣa*
 - \[noun\], accusative, singular, neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *amimīta* ← *mā*
 - \[verb\], singular, Imperfect
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratur* ← *sukratuḥ* ← *sukratu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaiśvānaro* ← *vaiśvānaraḥ* ← *vaiśvānara*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *nākam* ← *nāka*
 - \[noun\], accusative, singular, neuter
 - “sky; celestial sphere; Svarga; nāka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aspṛśat* ← *spṛś*
 - \[verb\], singular, Imperfect
 - “touch; enter (a state); reach; touch.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

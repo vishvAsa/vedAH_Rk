@@ -75,44 +75,64 @@ ná ← ná (invariable)
 
 -   *uśanā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāvata* ← *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣṇo* ← *ukṣṇaḥ* ← *ukṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *randhram* ← *randhra*
 - \[noun\], accusative, singular, neuter
 - “hole; aperture; brahmarandhra; failing; nine; cave.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayātana* ← *yā*
 - \[verb\], plural, Imperfect
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cakradad* ← *cakradat* ← *krand*
 - \[verb\], singular, Plusquamperfect
 - “roar; neigh; cry; howl; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhiyā* ← *bhī*
 - \[noun\], instrumental, singular, feminine
 - “fear; bhī; alarm.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

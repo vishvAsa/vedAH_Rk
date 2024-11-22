@@ -84,61 +84,89 @@ yāhí ← √yā- 1 (root)
 -   *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇe* ← *kṛṣṇa*
 - \[noun\], nominative, dual, feminine
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasudhitī* ← *vasu*
 - \[noun\], masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasudhitī* ← *dhitī* ← *dhiti*
 - \[noun\], nominative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yemāte* ← *yam*
 - \[verb\], dual, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvapeśasā* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvapeśasā* ← *peśasā* ← *peśas*
 - \[noun\], nominative, dual, feminine
 - “decoration; shape.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyav* ← *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *candreṇa* ← *candra*
 - \[noun\], instrumental, singular, masculine
 - “aglitter(p); shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasya* ← *suta*
 - \[noun\], genitive, singular, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

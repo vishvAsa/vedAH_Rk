@@ -111,90 +111,132 @@ yújam ← yúj- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tyad* ← *tya*
 - \[noun\], nominative, singular, neuter
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇayā* ← *ṛṇayāḥ* ← *ṛṇayā*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīro* ← *dhīraḥ* ← *dhīra*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; intelligent; versed; adept.”
-------------------------------------------------------------------------
+
+_________
+
 - *'sir* ← *asiḥ* ← *asi*
 - \[noun\], nominative, singular, masculine
 - “sword; knife; knife.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *parva* ← *parvan*
 - \[noun\], accusative, singular, neuter
 - “joint; knot; festival; day; articulation; knot.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjinā* ← *vṛjina*
 - \[noun\], accusative, plural, neuter
 - “sin.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇāsi* ← *śṛ*
 - \[verb\], singular, Present indikative
 - “fall off; break; disintegrate; crush; break; fracture.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujaṃ* ← *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “ally; friend; pair; two; companion.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *janā* ← *janāḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *minanti* ← *mī*
 - \[verb\], plural, Present indikative
 - “transgress; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

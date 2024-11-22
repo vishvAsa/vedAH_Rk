@@ -94,69 +94,99 @@ dvíṣaḥ ← dvíṣ- (nominal stem)
 -   *ādityāso* ← *ādityāsaḥ* ← *āditya*
 - \[noun\], nominative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *sridho* ← *sridhaḥ* ← *sridh*
 - \[noun\], accusative, plural, feminine
 - “failure; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *marudbhī* ← *marudbhiḥ* ← *marut*
 - \[noun\], instrumental, plural
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudraṃ* ← *rudram* ← *rudra*
 - \[noun\], accusative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *huvemendram* ← *huvema* ← *hu*
 - \[verb\], plural, Aorist optative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *huvemendram* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ti* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, feminine
 - “hate; dviṣ; hostility; hostility.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

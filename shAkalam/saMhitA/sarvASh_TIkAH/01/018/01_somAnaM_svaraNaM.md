@@ -69,10 +69,14 @@ yáḥ ← yá- (pronoun)
 
 -   *somānaṃ* ← *somānam* ← *soman*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *svaraṇaṃ* ← *svaraṇam* ← *svaraṇa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -83,29 +87,41 @@ yáḥ ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaṇas* ← *brahman*
 - \[noun\], genitive, singular, masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakṣīvantaṃ* ← *kakṣīvantam* ← *kakṣīvant*
 - \[noun\], accusative, singular, masculine
 - “Kakṣīvant; kakṣīvant \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *auśijaḥ* ← *auśija*
 - \[noun\], nominative, singular, masculine
 - “Kakṣīvant.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

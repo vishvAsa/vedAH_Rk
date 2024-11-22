@@ -73,44 +73,64 @@ havāmahe ← √hū- (root)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhṛguvacchuce* ← *bhṛgu*
 - \[noun\], masculine
 - “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhṛguvacchuce* ← *vat*
 - \[adverb\]
 - “equally; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhṛguvacchuce* ← *śuce* ← *śuci*
 - \[noun\], vocative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣvad* ← *manuṣvat*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhuta* ← *āhu* ← *√hu*
 - \[verb noun\], vocative, singular
 - “sacrifice; sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgirasvaddhavāmahe* ← *aṅgirasvat*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgirasvaddhavāmahe* ← *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

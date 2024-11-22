@@ -113,91 +113,133 @@ yāhi ← √yā- 1 (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *niyudbhiḥ* ← *niyut*
 - \[noun\], instrumental, plural
 - “gift; team.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruhūta*
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedho* ← *vedhaḥ* ← *vedhas*
 - \[noun\], vocative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavārābhir* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavārābhir* ← *vārābhiḥ* ← *vāra*
 - \[noun\], instrumental, plural, feminine
 - “treasure; choice.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayajyo* ← *prayajyu*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yāḥ* ← *yad*
 - \[noun\], accusative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adevo* ← *adevaḥ* ← *adeva*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *varate* ← *vṛ*
 - \[verb\], singular, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *deva* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhir* ← *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *tūyam* ← *tūya*
 - \[noun\], accusative, singular, neuter
 - “quick; fast; potent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *madryadrik*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

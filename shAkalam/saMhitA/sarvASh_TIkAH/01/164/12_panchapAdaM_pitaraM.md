@@ -99,93 +99,135 @@ saptácakre ← saptácakra- (nominal stem)
 -   *pañcapādam* ← *pañca* ← *pañcan*
 - \[noun\]
 - “five; fifth; pañcan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pañcapādam* ← *pādam* ← *pāda*
 - \[noun\], accusative, singular, masculine
 - “foot; one-fourth; beam; pāda; foot; foundation; pāda \[word\]; leg;
     leg; animal foot; step; foot; footfall; verse.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitaraṃ* ← *pitaram* ← *pitṛ*
 - \[noun\], accusative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvādaśākṛtiṃ* ← *dvādaśa* ← *dvādaśan*
 - \[noun\]
 - “twelve; twelfth.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvādaśākṛtiṃ* ← *ākṛtim* ← *ākṛti*
 - \[noun\], accusative, singular, masculine
 - “form; appearance; symptom; shape; kind.”
-------------------------------------------------------------------------
+
+_________
+
 - *diva* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
-------------------------------------------------------------------------
+
+_________
+
 - *pare* ← *para*
 - \[noun\], locative, singular, neuter
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
-------------------------------------------------------------------------
+
+_________
+
 - *ardhe* ← *ardha*
 - \[noun\], locative, singular, neuter
 - “one-half; ardha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *purīṣiṇam* ← *purīṣin*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *atheme* ← *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *atheme* ← *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *anya* ← *anye* ← *anya*
 - \[noun\], nominative, plural, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *upare* ← *upara*
 - \[noun\], nominative, plural, masculine
 - “later(a); future(a); nether.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicakṣaṇaṃ* ← *vicakṣaṇam* ← *vicakṣaṇa*
 - \[noun\], accusative, singular, masculine
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptacakre* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptacakre* ← *cakre* ← *cakra*
 - \[noun\], locative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣaﾱara* ← *ṣaṣ*
 - \[noun\]
 - “six; ṣaṣ; sixth; ṣaṣ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣaﾱara* ← *are* ← *ara*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *āhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
-------------------------------------------------------------------------
+
+_________
+
 - *arpitam* ← *arpay*
 - \[verb noun\], accusative, singular
 - “shoot; give; direct; hide; put; insert.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

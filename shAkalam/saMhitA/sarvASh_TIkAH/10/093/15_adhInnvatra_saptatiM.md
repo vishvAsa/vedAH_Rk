@@ -99,69 +99,103 @@ sadyás ← sadyás (invariable)
 -   *adhīn* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhīn* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptatiṃ* ← *saptatim* ← *saptati*
 - \[noun\], accusative, singular, feminine
 - “seventy; saptati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *didiṣṭa* ← *diś*
 - \[verb\], singular, Plusquamperfect
 - “describe; give; give; teach.”
-------------------------------------------------------------------------
+
+_________
+
 - *tānvaḥ* ← *tānva*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *didiṣṭa* ← *diś*
 - \[verb\], singular, Plusquamperfect
 - “describe; give; give; teach.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārthyaḥ* ← *pārthya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *didiṣṭa* ← *diś*
 - \[verb\], singular, Plusquamperfect
 - “describe; give; give; teach.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyavaḥ* ← *māyava*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

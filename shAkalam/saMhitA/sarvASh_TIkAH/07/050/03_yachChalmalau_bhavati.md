@@ -114,101 +114,145 @@ vidat ← √vid- 1 (root)
 -   *yacchalmalau* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchalmalau* ← *śalmalau* ← *śalmali*
 - \[noun\], locative, singular, masculine
 - “red silk-cotton tree, Bombax ceiba Linn..”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nadīṣu* ← *nadī*
 - \[noun\], locative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhībhyaḥ* ← *oṣadhī*
 - \[noun\], ablative, plural, feminine
 - “herb; plant; drug; herb.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyate* ← *jan*
 - \[verb\], singular, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣam* ← *viṣa*
 - \[noun\], nominative, singular, neuter
 - “poison; poisoning; viṣa; venom; vatsanābha; Aconitum Ferox; viṣa
     \[word\]; Viṣa; myrrh; myrrh.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *itas*
 - \[adverb\]
 - “from here; therefore.”
-------------------------------------------------------------------------
+
+_________
+
 - *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvantu* ← *sū*
 - \[verb\], plural, Present imperative
 - “give birth; urge; bestow; cause.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *padyena* ← *padya*
 - \[noun\], instrumental, singular, neuter
 - “foot.”
-------------------------------------------------------------------------
+
+_________
+
 - *rapasā* ← *rapas*
 - \[noun\], instrumental, singular, neuter
 - “injury; disease; infirmity; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *tsaruḥ* ← *tsaru*
 - \[noun\], nominative, singular, masculine
 - “hilt; sycophant.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -90,68 +90,96 @@ savitā́ ← savitár- (nominal stem)
 -   *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhūyur* ← *vadhūyuḥ* ← *vadhūyu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhavad* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvināstām* ← *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvināstām* ← *āstām* ← *as*
 - \[verb\], dual, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *varā* ← *vara*
 - \[noun\], nominative, dual, masculine
 - “suitor; groom; husband; Vara; lover.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryāṃ* ← *sūryām* ← *sūryā*
 - \[noun\], accusative, singular, feminine
 - “Citrullus colocynthis Schrad..”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *patye* ← *pati*
 - \[noun\], dative, singular
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsantīm* ← *śaṃs*
 - \[verb noun\], accusative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitādadāt* ← *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitādadāt* ← *adadāt* ← *dā*
 - \[verb\], singular, Imperfect
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

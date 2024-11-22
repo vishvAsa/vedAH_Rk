@@ -136,120 +136,174 @@ svébhiḥ ← svá- (pronoun)
 -   *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tyan* ← *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇāv* ← *mitrāvaruṇau* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtād* ← *ṛtāt* ← *ṛta*
 - \[noun\], ablative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhy* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādadāthe* ← *ādā* ← *√dā*
 - \[verb\], dual, Perfect indicative
 - “take; take away; take out; pick; extract; drink; grasp; put;
     collect; accept; get; choose; remove; steal; bring; press out;
     impound; keep; eat; use; distill.”
-------------------------------------------------------------------------
+
+_________
+
 - *anṛtaṃ* ← *anṛtam* ← *anṛta*
 - \[noun\], accusative, singular, neuter
 - “falsehood; lying; lie; cheat.”
-------------------------------------------------------------------------
+
+_________
+
 - *svena* ← *sva*
 - \[noun\], instrumental, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyunā* ← *manyu*
 - \[noun\], instrumental, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣasya* ← *dakṣa*
 - \[noun\], genitive, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *svena* ← *sva*
 - \[noun\], instrumental, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyunā* ← *manyu*
 - \[noun\], instrumental, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *itthādhi* ← *itthā*
 - \[adverb\]
 - “thus; here.”
-------------------------------------------------------------------------
+
+_________
+
 - *itthādhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadmasv* ← *sadmasu* ← *sadman*
 - \[noun\], locative, plural, neuter
 - “seat; house; stable; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaśyāma* ← *paś*
 - \[verb\], plural, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayam* ← *hiraṇyaya*
 - \[noun\], accusative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhībhiś* ← *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *svebhir* ← *svebhiḥ* ← *sva*
 - \[noun\], instrumental, plural, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣabhiḥ* ← *akṣa*
 - \[noun\], instrumental, plural, neuter
 - “eye; akṣa \[word\]; hole.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *svebhir* ← *svebhiḥ* ← *sva*
 - \[noun\], instrumental, plural, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣabhiḥ* ← *akṣa*
 - \[noun\], instrumental, plural, neuter
 - “eye; akṣa \[word\]; hole.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

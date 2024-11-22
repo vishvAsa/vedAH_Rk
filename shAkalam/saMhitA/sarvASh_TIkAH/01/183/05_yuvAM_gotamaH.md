@@ -108,80 +108,118 @@ yātam ← √yā- 1 (root)
 -   *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *gotamaḥ* ← *gotama*
 - \[noun\], nominative, singular, masculine
 - “Gotama; gotama \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *purumīﾱho* ← *purumīﾱhaḥ* ← *purumīḍha*
 - \[noun\], nominative, singular, masculine
 - “Purumīḍha.”
-------------------------------------------------------------------------
+
+_________
+
 - *atrir* ← *atriḥ* ← *atri*
 - \[noun\], nominative, singular, masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dasrā* ← *dasrāḥ* ← *dasra*
 - \[noun\], vocative, plural, masculine
 - “Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *havate* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vase* ← *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣmān* ← *haviṣmat*
 - \[noun\], nominative, singular, masculine
 - “sacrificing.”
-------------------------------------------------------------------------
+
+_________
+
 - *diśaṃ* ← *diśam* ← *diś*
 - \[noun\], accusative, singular, feminine
 - “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
     distant region; Diś; four; example; method; space.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *diṣṭām* ← *diś*
 - \[verb noun\], accusative, singular
 - “describe; give; give; teach.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjūyeva* ← *ṛjūyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjūyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *yantā* ← *i*
 - \[verb noun\], nominative, dual
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyopa* ← *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -82,57 +82,81 @@ vocaḥ ← √vac- (root)
 -   *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *saniṃ* ← *sanim* ← *sani*
 - \[noun\], accusative, singular, masculine
 - “gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyatraṃ* ← *gāyatram* ← *gāyatra*
 - \[noun\], accusative, singular, masculine
 - “Gāyatra.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyāṃsam* ← *navyas*
 - \[noun\], accusative, singular, masculine
 - “new.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vocaḥ* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

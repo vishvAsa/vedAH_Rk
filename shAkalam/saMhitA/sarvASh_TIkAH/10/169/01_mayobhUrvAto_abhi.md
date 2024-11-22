@@ -96,76 +96,112 @@ rudra ← rudrá- (nominal stem)
 -   *mayobhūr* ← *mayaḥ* ← *mayas*
 - \[noun\], neuter
 - “pleasure; refreshment.”
-------------------------------------------------------------------------
+
+_________
+
 - *mayobhūr* ← *bhūḥ* ← *bhū*
 - \[noun\], nominative, singular, feminine
 - “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
     place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
     bhūnāga; sphaṭikā; beginning; birth; estate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāto* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātūsrā* ← *vātu* ← *vā*
 - \[verb\], singular, Present imperative
 - “blow; blow; emit.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātūsrā* ← *usrāḥ* ← *usrā*
 - \[noun\], accusative, plural, feminine
 - “cow; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjasvatīr* ← *ūrjasvatīḥ* ← *ūrjasvat*
 - \[noun\], accusative, plural, feminine
 - “alimentary.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhīr* ← *oṣadhīḥ* ← *oṣadhi*
 - \[noun\], accusative, plural, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *riśantām* ← *riś*
 - \[verb\], plural, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *pīvasvatīr* ← *pīvasvatīḥ* ← *pīvasvat*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *jīvadhanyāḥ* ← *jīva*
 - \[noun\], masculine
 - “life; Jupiter; Brihaspati; jīv; person.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvadhanyāḥ* ← *dhanyāḥ* ← *dhanya*
 - \[noun\], accusative, plural, feminine
 - “fortunate; auspicious; affluent.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibantv* ← *pibantu* ← *pā*
 - \[verb\], plural, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasāya* ← *avasa*
 - \[noun\], dative, singular, neuter
 - “stores; food.”
-------------------------------------------------------------------------
+
+_________
+
 - *padvate* ← *padvat*
 - \[noun\], dative, singular, neuter
 - “footed.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudra*
 - \[noun\], vocative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛḍa* ← *mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -103,79 +103,115 @@ vidat ← √vid- 1 (root)
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyuṣi* ← *vyuṣ*
 - \[noun\], locative, singular, feminine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *māhināyāḥ* ← *māhina*
 - \[noun\], genitive, singular, feminine
 - “mighty; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgiraso* ← *aṅgirasaḥ* ← *aṅgiras*
 - \[noun\], nominative, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *navanta* ← *nū*
 - \[verb\], plural, Present injunctive
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *utsa* ← *utsaḥ* ← *utsa*
 - \[noun\], nominative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsām* ← *idam*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *parame* ← *parama*
 - \[noun\], locative, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhastha* ← *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *saramā*
 - \[noun\], nominative, singular, feminine
 - “Saramā.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidad* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

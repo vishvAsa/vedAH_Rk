@@ -99,79 +99,113 @@ marútaḥ ← marút- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśve* ← *viśva*
 - \[noun\], vocative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣaso* ← *sajoṣasaḥ* ← *sajoṣas*
 - \[noun\], nominative, plural, masculine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *gantanopa* ← *gantana* ← *gam*
 - \[verb\], plural, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *gantanopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasavo* ← *vasavaḥ* ← *vasu*
 - \[noun\], nominative, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudrā* ← *rudrāḥ* ← *rudra*
 - \[noun\], nominative, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gamañchṛṇvantu* ← *gaman* ← *gam*
 - \[verb\], plural, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *gamañchṛṇvantu* ← *śṛṇvantu* ← *śru*
 - \[verb\], plural, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

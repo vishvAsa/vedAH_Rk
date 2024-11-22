@@ -82,56 +82,82 @@ sú ← sú (invariable)
 -   *kim*
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅga*
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
-------------------------------------------------------------------------
+
+_________
+
 - *radhracodanaḥ* ← *radhra*
 - \[noun\]
 - “obedient; powerless; weak.”
-------------------------------------------------------------------------
+
+_________
+
 - *radhracodanaḥ* ← *codanaḥ* ← *codana*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sunvānasyāvited* ← *sunvānasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunvānasyāvited* ← *avitā* ← *av*
 - \[verb\], singular, periphrast. future
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunvānasyāvited* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *sv* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṇaḥ* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakaḥ* ← *śak*
 - \[verb\], singular, Aorist conj./subj.
 - “can; invigorate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

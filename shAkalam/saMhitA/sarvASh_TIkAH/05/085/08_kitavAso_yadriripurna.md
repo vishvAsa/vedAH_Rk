@@ -123,110 +123,160 @@ varuṇa ← váruṇa- (nominal stem)
 -   *kitavāso* ← *kitavāsaḥ* ← *kitava*
 - \[noun\], nominative, plural, masculine
 - “gambler; deceiver; thorn apple; kitava \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *riripur* ← *riripuḥ* ← *rip*
 - \[verb\], plural, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dīvi* ← *dīv*
 - \[noun\], locative, singular, feminine
 - “gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghā* ← *gha*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvā* ← *sarva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣya* ← *sya* ← *sā*
 - \[verb\], singular, Present imperative
 - “tie.”
-------------------------------------------------------------------------
+
+_________
+
 - *śithireva* ← *śithirā* ← *śithira*
 - \[noun\], accusative, plural, neuter
 - “flexible; flexible.”
-------------------------------------------------------------------------
+
+_________
+
 - *śithireva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *devādhā* ← *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devādhā* ← *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyāsaḥ* ← *priya*
 - \[noun\], nominative, plural, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

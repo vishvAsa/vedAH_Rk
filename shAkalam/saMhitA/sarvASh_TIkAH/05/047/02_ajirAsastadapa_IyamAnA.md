@@ -90,67 +90,97 @@ yanti ← √i- 1 (root)
 -   *ajirāsas* ← *ajirāsaḥ* ← *ajira*
 - \[noun\], nominative, plural, masculine
 - “fast; agile; ajira \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tadapa* ← *tad*
 - \[noun\]
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tadapa* ← *apaḥ* ← *apas*
 - \[noun\], accusative, singular, neuter
 - “work; deed.”
-------------------------------------------------------------------------
+
+_________
+
 - *īyamānā* ← *īyamānāḥ* ← *i*
 - \[verb noun\], nominative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātasthivāṃso* ← *ātasthivāṃsaḥ* ← *āsthā* ← *√sthā*
 - \[verb noun\], nominative, plural
 - “practice; stand; assume; reach; board; perform; face; stand; stay;
     hop on; climb; travel; seize; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
-------------------------------------------------------------------------
+
+_________
+
 - *nābhim* ← *nābhi*
 - \[noun\], accusative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
-------------------------------------------------------------------------
+
+_________
+
 - *anantāsa* ← *anantāsaḥ* ← *ananta*
 - \[noun\], nominative, plural, masculine
 - “infinite; ananta \[word\]; countless; permanent; boundless.”
-------------------------------------------------------------------------
+
+_________
+
 - *uravo* ← *uravaḥ* ← *uru*
 - \[noun\], nominative, plural, masculine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīm*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvāpṛthivī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *panthāḥ* ← *pathin*
 - \[noun\], nominative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -81,52 +81,76 @@ urúdhārā ← urúdhāra- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śivaḥ* ← *śiva*
 - \[noun\], nominative, singular, masculine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhāśvāvad* ← *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhāśvāvad* ← *aśvāvat*
 - \[noun\], accusative, singular, neuter
 - “rich in horses.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomad* ← *gomat*
 - \[noun\], accusative, singular, neuter
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yavamat*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *urudhāreva* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *urudhāreva* ← *dhārā*
 - \[noun\], nominative, singular, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *urudhāreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dohate* ← *duh*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

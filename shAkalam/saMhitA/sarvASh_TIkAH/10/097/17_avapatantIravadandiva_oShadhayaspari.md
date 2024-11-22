@@ -83,54 +83,78 @@ sá ← sá- ~ tá- (pronoun)
 
 -   *avapatantīr* ← *avapatantīḥ* ← *avapat* ← *√pat*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *avadan* ← *vad*
 - \[verb\], plural, Imperfect
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *diva* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhayas* ← *oṣadhayaḥ* ← *oṣadhi*
 - \[noun\], nominative, plural, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvam* ← *jīva*
 - \[noun\], accusative, singular, masculine
 - “live; alive(p); amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnavāmahai* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *riṣyāti* ← *riṣ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “suffer; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūruṣaḥ* ← *pūruṣa*
 - \[noun\], nominative, singular, masculine
 - “man; man; Puruṣa.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

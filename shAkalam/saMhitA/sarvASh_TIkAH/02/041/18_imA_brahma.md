@@ -87,60 +87,86 @@ priyā́ ← priyá- (nominal stem)
 -   *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvati* ← *sarasvatī*
 - \[noun\], vocative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinīvati* ← *vājinīvat*
 - \[noun\], vocative, singular, feminine
 - “rich; rich in horses.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛtsamadā* ← *gṛtsamadāḥ* ← *gṛtsamada*
 - \[noun\], nominative, plural, masculine
 - “Gṛtsamada.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvari* ← *ṛtāvan*
 - \[noun\], vocative, singular, feminine
 - “law-abiding; faithful; righteous.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyā* ← *priya*
 - \[noun\], accusative, plural, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhvati* ← *hu*
 - \[verb\], plural, Present indikative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

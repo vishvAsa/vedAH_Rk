@@ -73,41 +73,59 @@ aṣṭā́padībhiḥ ← aṣṭā́pad- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāratāgne* ← *bhārata*
 - \[noun\], vocative, singular, masculine
 - “Bhārata; bhārata \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāratāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaśābhir* ← *vaśābhiḥ* ← *vaśā*
 - \[noun\], instrumental, plural, feminine
 - “cow; female elephant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣabhiḥ* ← *ukṣan*
 - \[noun\], instrumental, plural, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣṭāpadībhir* ← *aṣṭāpadībhiḥ* ← *aṣṭāpada*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *āhutaḥ* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

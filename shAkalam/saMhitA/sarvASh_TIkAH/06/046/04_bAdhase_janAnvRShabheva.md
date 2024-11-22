@@ -93,74 +93,106 @@ tanū́ṣu ← tanū́- (nominal stem)
 -   *bādhase* ← *bādh*
 - \[verb\], singular, Present indikative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *janān* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabheva* ← *vṛṣabha*
 - \[noun\], vocative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyunā* ← *manyu*
 - \[noun\], instrumental, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛṣau* ← *ghṛṣu*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mīﾱha* ← *mīḍhe* ← *mih*
 - \[verb noun\], locative, singular
 - “make; moisten.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛcīṣama*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bodhy* ← *bodhi* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *avitā* ← *avitṛ*
 - \[noun\], nominative, singular, masculine
 - “favorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahādhane* ← *mahā* ← *mahat*
 - \[noun\]
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahādhane* ← *dhane* ← *dhana*
 - \[noun\], locative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūṣv* ← *tanūṣu* ← *tanū*
 - \[noun\], locative, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrye* ← *sūrya*
 - \[noun\], locative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

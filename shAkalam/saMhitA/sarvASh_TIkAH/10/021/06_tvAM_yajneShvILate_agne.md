@@ -100,72 +100,104 @@ vívakṣase ← √vac- (root)
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñeṣv* ← *yajñeṣu* ← *yajña*
 - \[noun\], locative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayaty* ← *prayati* ← *pre* ← *√i*
 - \[verb noun\], locative, singular
 - “die; proceed; advance; continue; begin; depart.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmyā* ← *kāmya*
 - \[noun\], accusative, plural, neuter
 - “desirable; optional; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāsi* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivakṣase* ← *vivakṣ* ← *√vac*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

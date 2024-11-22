@@ -104,84 +104,120 @@ yāti ← √yā- 1 (root)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthair* ← *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣayo* ← *ṛṣayaḥ* ← *ṛṣi*
 - \[noun\], nominative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *hvayante* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmani* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *bādhitāsaḥ* ← *bādh*
 - \[verb noun\], nominative, plural
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣe* ← *antarikṣa*
 - \[noun\], locative, singular, neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *patanto* ← *patantaḥ* ← *pat*
 - \[verb noun\], nominative, plural
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gniḥ* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *gonām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

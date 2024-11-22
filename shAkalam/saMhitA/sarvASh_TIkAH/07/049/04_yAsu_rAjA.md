@@ -108,90 +108,130 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 -   *yāsu* ← *yad*
 - \[noun\], locative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāsu* ← *yad*
 - \[noun\], locative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāsūrjam* ← *yāsu* ← *yad*
 - \[noun\], locative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yāsūrjam* ← *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
-------------------------------------------------------------------------
+
+_________
+
 - *madanti* ← *mad*
 - \[verb\], plural, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaiśvānaro* ← *vaiśvānaraḥ* ← *vaiśvānara*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāsv* ← *yāsu* ← *yad*
 - \[noun\], locative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *praviṣṭas* ← *praviṣṭaḥ* ← *praviś* ← *√viś*
 - \[verb noun\], nominative, singular
 - “enter; throw; insert; fit; marry; repair to; permeate.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *devīr* ← *devīḥ* ← *deva*
 - \[noun\], nominative, plural, feminine
 - “divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *avantu* ← *av*
 - \[verb\], plural, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

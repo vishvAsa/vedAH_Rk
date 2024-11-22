@@ -99,73 +99,107 @@ víśve ← víśva- (nominal stem)
 -   *etaṃ* ← *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhaṃ* ← *śardham* ← *śardha*
 - \[noun\], accusative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāma* ← *dhā*
 - \[verb\], plural, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrer* ← *sūreḥ* ← *sūri*
 - \[noun\], genitive, singular, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *ity* ← *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *avocan* ← *vac*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśatayasya* ← *daśataya*
 - \[noun\], genitive, singular, masculine
 - “tenfold.”
-------------------------------------------------------------------------
+
+_________
+
 - *naṃśe* ← *naṃśa*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnāni* ← *dyumna*
 - \[noun\], nominative, plural, neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣu* ← *yad*
 - \[noun\], locative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vasutātī* ← *vasutātiḥ* ← *vasutāti*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *rāran* ← *ran*
 - \[verb\], singular, Perfect injunctive
 - “rejoice.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanvantu* ← *san*
 - \[verb\], plural, Present imperative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *prabhṛtheṣu* ← *prabhṛtha*
 - \[noun\], locative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

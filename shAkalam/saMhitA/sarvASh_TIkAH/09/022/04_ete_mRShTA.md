@@ -73,40 +73,58 @@ rájaḥ ← rájas- (nominal stem)
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛṣṭā* ← *mṛṣṭāḥ* ← *mṛj*
 - \[verb noun\], nominative, plural
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartyāḥ* ← *amartya*
 - \[noun\], nominative, plural, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasṛvāṃso* ← *sasṛvāṃsaḥ* ← *sṛ*
 - \[verb noun\], nominative, plural
 - “sṛ; liquefy; run; spread; stretch out.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśramuḥ* ← *śram*
 - \[verb\], plural, Perfect indicative
 - “tire; exercise; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyakṣantaḥ* ← *iyakṣ* ← *√yaj*
 - \[verb noun\], nominative, plural
 - “endeavor.”
-------------------------------------------------------------------------
+
+_________
+
 - *patho* ← *pathaḥ* ← *pathin*
 - \[noun\], genitive, singular, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajaḥ* ← *rajas*
 - \[noun\], accusative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

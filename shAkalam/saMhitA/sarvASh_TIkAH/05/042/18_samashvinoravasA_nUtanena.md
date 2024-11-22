@@ -102,83 +102,121 @@ víśvāni ← víśva- (nominal stem)
 -   *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinor* ← *aśvinoḥ* ← *aśvin*
 - \[noun\], genitive, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūtanena* ← *nūtana*
 - \[noun\], instrumental, singular, neuter
 - “new; fresh; recent; contemporary; present(a); first.”
-------------------------------------------------------------------------
+
+_________
+
 - *mayobhuvā* ← *mayobhu*
 - \[noun\], instrumental, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *supraṇītī* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supraṇītī* ← *praṇītī* ← *praṇīti*
 - \[noun\], instrumental, singular, feminine
 - “guidance; guidance.”
-------------------------------------------------------------------------
+
+_________
+
 - *gamema* ← *gam*
 - \[verb\], plural, Aorist optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahatam* ← *vah*
 - \[verb\], dual, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *ota* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrān* ← *vīra*
 - \[noun\], accusative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāny* ← *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtā* ← *amṛta*
 - \[noun\], vocative, dual, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *saubhagāni* ← *saubhaga*
 - \[noun\], accusative, plural, neuter
 - “well-being.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

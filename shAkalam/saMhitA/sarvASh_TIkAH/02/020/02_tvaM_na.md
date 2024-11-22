@@ -102,86 +102,126 @@ yáḥ ← yá- (pronoun)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvābhir* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāyato* ← *tvāyataḥ* ← *tvāyat*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭipāsi* ← *abhiṣṭi*
 - \[noun\], feminine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭipāsi* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭipāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *janān* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ino* ← *inaḥ* ← *ina*
 - \[noun\], nominative, singular, masculine
 - “mighty; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣo* ← *dāśuṣaḥ* ← *dāś*
 - \[verb noun\], genitive, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *varūtetthādhīr* ← *varūtā* ← *varūtṛ*
 - \[noun\], nominative, singular, masculine
 - “varūtṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *varūtetthādhīr* ← *itthā*
 - \[adverb\]
 - “thus; here.”
-------------------------------------------------------------------------
+
+_________
+
 - *varūtetthādhīr* ← *dhīḥ* ← *dhī*
 - \[noun\], nominative, singular, masculine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣati* ← *nakṣ*
 - \[verb\], singular, Present indikative
 - “reach; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

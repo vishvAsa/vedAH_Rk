@@ -111,97 +111,141 @@ táva ← tvám (pronoun)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudro* ← *samudraḥ* ← *samudra*
 - \[noun\], nominative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavit* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavit* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *kave* ← *kavi*
 - \[noun\], vocative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavemāḥ* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavemāḥ* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *pañca* ← *pañcan*
 - \[noun\], nominative, plural, feminine
 - “five; fifth; pañcan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pradiśo* ← *pradiśaḥ* ← *pradiś*
 - \[noun\], nominative, plural, feminine
 - “quarter; direction; command; region; indication.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidharmaṇi* ← *vidharman*
 - \[noun\], locative, singular, neuter
 - “receptacle; enclosure.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāṃ* ← *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīṃ* ← *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāti* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāti* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *jabhriṣe* ← *bhṛ*
 - \[verb\], singular, Perfect indicative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotīṃṣi* ← *jyotis*
 - \[noun\], nominative, plural, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

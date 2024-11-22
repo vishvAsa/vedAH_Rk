@@ -93,63 +93,93 @@ pārayanti ← √pr̥- (root)
 -   *avaviddhaṃ* ← *avaviddham* ← *avavyadh* ← *√vyadh*
 - \[verb noun\], accusative, singular
 - “throw.”
-------------------------------------------------------------------------
+
+_________
+
 - *taugryam* ← *taugrya*
 - \[noun\], accusative, singular, masculine
 - “Bhujyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *anārambhaṇe* ← *anārambhaṇa*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *tamasi* ← *tamas*
 - \[noun\], locative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *praviddham* ← *pravyadh* ← *√vyadh*
 - \[verb noun\], accusative, singular
 - “throw; hurl; lunge.”
-------------------------------------------------------------------------
+
+_________
+
 - *catasro* ← *catasraḥ* ← *catur*
 - \[noun\], nominative, plural, feminine
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāvo* ← *nāvaḥ* ← *nau*
 - \[noun\], nominative, plural, feminine
 - “ship; boat; nau \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṭhalasya* ← *jaṭhala*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *juṣṭā* ← *juṣṭāḥ* ← *juṣ*
 - \[verb noun\], nominative, plural
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvibhyām* ← *aśvin*
 - \[noun\], instrumental, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣitāḥ* ← *iṣ*
 - \[verb noun\], nominative, plural
 - “send.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārayanti* ← *pāray* ← *√pṛ*
 - \[verb\], plural, Present indikative
 - “rescue; keep alive; satisfy; save; resist; endure.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

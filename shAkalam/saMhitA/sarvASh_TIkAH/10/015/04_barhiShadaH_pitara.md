@@ -108,32 +108,46 @@ yós ← yós (invariable)
 -   *barhiṣadaḥ* ← *barhiṣad*
 - \[noun\], vocative, plural, masculine
 - “Pitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitara* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], vocative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūty* ← *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *arvāg* ← *arvāk*
 - \[adverb\]
 - “here.”
-------------------------------------------------------------------------
+
+_________
+
 - *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṛmā* ← *cakṛma* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -144,62 +158,88 @@ yós ← yós (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣadhvam* ← *juṣ*
 - \[verb\], plural, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gatāvasā* ← *gata* ← *gam*
 - \[verb\], plural, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *gatāvasā* ← *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *śantamenāthā* ← *śantamena* ← *śaṃtama*
 - \[noun\], instrumental, singular, neuter
 - “beneficent.”
-------------------------------------------------------------------------
+
+_________
+
 - *śantamenāthā* ← *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃ* ← *śam*
 - \[noun\], accusative, singular, neuter
 - “luck; well-being; fortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *yor* ← *yoḥ* ← *yos*
 - \[noun\], accusative, singular
 - “fortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *arapo* ← *arapaḥ* ← *arapas*
 - \[noun\], accusative, singular, neuter
 - “safe; unharmed; beneficial.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāta* ← *dhā*
 - \[verb\], plural, Aorist imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

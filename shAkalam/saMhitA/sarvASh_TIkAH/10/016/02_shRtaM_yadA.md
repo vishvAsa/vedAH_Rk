@@ -102,11 +102,15 @@ vaśanī́ḥ ← vaśanī́- (nominal stem)
 -   *śṛtaṃ* ← *śṛtam* ← *śrī*
 - \[verb noun\], accusative, singular
 - “cook; boil; heat; cook; mix.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadā*
 - \[adverb\]
 - “once \[when\]; if.”
-------------------------------------------------------------------------
+
+_________
+
 - *karasi* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -117,77 +121,109 @@ vaśanī́ḥ ← vaśanī́- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedo* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *'them* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *'them* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *dattāt* ← *dā*
 - \[verb\], singular, Present imperative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitṛbhyaḥ* ← *pitṛ*
 - \[noun\], dative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadā*
 - \[adverb\]
 - “once \[when\]; if.”
-------------------------------------------------------------------------
+
+_________
+
 - *gacchāty* ← *gacchāti* ← *gam*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *asunītim* ← *asunīti*
 - \[noun\], accusative, singular, feminine
 - “afterworld.”
-------------------------------------------------------------------------
+
+_________
+
 - *etām* ← *etad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaśanīr* ← *vaśanīḥ* ← *vaśanī*
 - \[noun\], nominative, singular, masculine
 - “subject.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavāti* ← *bhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

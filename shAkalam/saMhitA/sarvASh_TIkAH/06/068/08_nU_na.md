@@ -99,70 +99,104 @@ tarema ← √tr̥̄- 1 (root)
 -   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇānā* ← *gṛ*
 - \[verb noun\], nominative, dual
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṅktaṃ* ← *pṛṅktam* ← *pṛc*
 - \[verb\], dual, Present imperative
 - “mix; unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *sauśravasāya* ← *sauśravasa*
 - \[noun\], dative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *deva*
 - \[noun\], vocative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *itthā*
 - \[adverb\]
 - “thus; here.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇanto* ← *gṛṇantaḥ* ← *gṛ*
 - \[verb noun\], nominative, plural
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahinasya* ← *mahina*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], accusative, singular, neuter
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *'po* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāvā* ← *nau*
 - \[noun\], instrumental, singular, feminine
 - “ship; boat; nau \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarema* ← *tṛ*
 - \[verb\], plural, Present optative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

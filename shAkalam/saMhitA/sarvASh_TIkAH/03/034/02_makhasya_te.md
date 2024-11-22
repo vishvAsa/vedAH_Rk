@@ -98,84 +98,120 @@ viśā́m ← víś- (nominal stem)
 
 -   *makhasya* ← *makha*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣasya* ← *taviṣa*
 - \[noun\], genitive, singular, masculine
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *jūtim* ← *jūti*
 - \[noun\], accusative, singular, feminine
 - “jūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iyarmi* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtāya* ← *amṛta*
 - \[noun\], dative, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūṣan* ← *bhūṣ*
 - \[verb noun\], nominative, singular
 - “endeavor; attend; strive.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣitīnām* ← *kṣiti*
 - \[noun\], genitive, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣīṇāṃ* ← *mānuṣīṇām* ← *mānuṣa*
 - \[noun\], genitive, plural, feminine
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśāṃ* ← *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivīnām* ← *daiva*
 - \[noun\], genitive, plural, feminine
 - “divine; religious.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvayāvā* ← *pūrva*
 - \[noun\]
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvayāvā* ← *yāvā* ← *yāvan*
 - \[noun\], nominative, singular, masculine
 - “traveler.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

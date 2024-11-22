@@ -108,86 +108,126 @@ sruvéṇa ← sruvá- (nominal stem)
 -   *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *jajñe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *taraṇir* ← *taraṇiḥ* ← *taraṇi*
 - \[noun\], nominative, singular, masculine
 - “energetic; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *mamattu* ← *mad*
 - \[verb\], singular, Perfect imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocy* ← *roci* ← *ruc*
 - \[verb\], singular, Aorist passive
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], ablative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], ablative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *yebhir* ← *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āṣṭa* ← *aś*
 - \[verb\], singular, Root aorist (Ind.)
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *sveduhavyaiḥ* ← *sveduhavya*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sruveṇa* ← *sruva*
 - \[noun\], instrumental, singular, masculine
 - “Sruva; sruva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *siñcañ* ← *siñcan* ← *sic*
 - \[verb noun\], nominative, singular
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaraṇābhi* ← *jaraṇā* ← *jaraṇa*
 - \[noun\], accusative, plural, neuter
 - “digestive; old.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaraṇābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

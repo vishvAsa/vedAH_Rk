@@ -99,19 +99,27 @@ vásau ← vásu- (nominal stem)
 -   *kṣiyantaṃ* ← *kṣiyantam* ← *kṣi*
 - \[verb noun\], accusative, singular
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣiyantaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣiyantaṃ* ← *kṣiyantam* ← *kṣi*
 - \[verb noun\], accusative, singular
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇotīyarti* ← *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -122,65 +130,95 @@ vásau ← vásu- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇotīyarti* ← *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *reṇum* ← *reṇu*
 - \[noun\], accusative, singular, masculine
 - “dust; pollen; powder.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *samoham* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *samoham* ← *moham* ← *moha*
 - \[noun\], accusative, singular, masculine
 - “delusion; confusion; bewilderment; loss of consciousness; moha;
     folly; distraction; error; stupefaction; illusion; folly; ignorance;
     faint; grogginess; stupidity; perplexity.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhañjanur* ← *vibhañjanuḥ* ← *vibhañjanu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśanimāṃ* ← *aśanimat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotāram* ← *stotṛ*
 - \[noun\], accusative, singular, masculine
 - “laudatory; worshiping.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vasau* ← *vasu*
 - \[noun\], locative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāt* ← *dhā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,78 +102,114 @@ iṣitáḥ ← √iṣ- 1 (root)
 -   *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūto* ← *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasma* ← *dasmaḥ* ← *dasma*
 - \[noun\], nominative, singular, masculine
 - “overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *īyate* ← *ī* ← *√i*
 - \[verb\], singular, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣatto* ← *niṣattaḥ* ← *niṣad* ← *√sad*
 - \[verb noun\], nominative, singular
 - “sit down; sit; put.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣaḥ* ← *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *purohitaḥ* ← *purohita*
 - \[noun\], nominative, singular, masculine
 - “Purohita; purohita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūṣati* ← *bhūṣ*
 - \[verb\], singular, Present indikative
 - “endeavor; attend; strive.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyubhir* ← *dyubhiḥ* ← *div*
 - \[noun\], instrumental, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhir* ← *devebhiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣito* ← *iṣitaḥ* ← *iṣay* ← *√iṣ*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyāvasuḥ* ← *dhiyāvasu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

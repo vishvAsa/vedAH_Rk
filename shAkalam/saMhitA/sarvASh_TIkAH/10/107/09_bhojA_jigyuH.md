@@ -105,94 +105,136 @@ yé ← yá- (pronoun)
 -   *bhojā* ← *bhojāḥ* ← *bhoja*
 - \[noun\], nominative, plural, masculine
 - “big; hospitable.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigyuḥ* ← *ji*
 - \[verb\], plural, Perfect indicative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *surabhiṃ* ← *surabhim* ← *surabhi*
 - \[noun\], accusative, singular, feminine
 - “fragrant; perfumed; surabhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojā* ← *bhojāḥ* ← *bhoja*
 - \[noun\], nominative, plural, masculine
 - “big; hospitable.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigyur* ← *jigyuḥ* ← *ji*
 - \[verb\], plural, Perfect indicative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhvaṃ* ← *vadhvam* ← *vadhū*
 - \[noun\], accusative, singular, feminine
 - “wife; woman; bride; female; Trigonella corniculata; female; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suvāsāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvāsāḥ* ← *vāsāḥ* ← *vāsas*
 - \[noun\], nominative, singular, feminine
 - “clothing; fabric; garment; feather; dress; envelope.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojā* ← *bhojāḥ* ← *bhoja*
 - \[noun\], nominative, plural, masculine
 - “big; hospitable.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigyur* ← *jigyuḥ* ← *ji*
 - \[verb\], plural, Perfect indicative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥpeyaṃ* ← *antaḥpeyam* ← *antaḥpeya*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *surāyā* ← *surāyāḥ* ← *surā*
 - \[noun\], genitive, singular, feminine
 - “alcohol; surā; surā; surā \[word\]; Devi; wine; tavern.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojā* ← *bhojāḥ* ← *bhoja*
 - \[noun\], nominative, plural, masculine
 - “big; hospitable.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigyur* ← *jigyuḥ* ← *ji*
 - \[verb\], plural, Perfect indicative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ahūtāḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahūtāḥ* ← *hūtāḥ* ← *hvā*
 - \[verb noun\], nominative, plural
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayanti* ← *pre* ← *√i*
 - \[verb\], plural, Present indikative
 - “die; proceed; advance; continue; begin; depart.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

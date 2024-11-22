@@ -118,101 +118,147 @@ yéna ← yá- (pronoun)
 - \[noun\], vocative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *śāstana* ← *śās*
 - \[verb\], plural, Present imperative
 - “teach; govern; command; order; control; tell; recommend; chastize;
     instruct.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatheha* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatheha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛto* ← *vṛtaḥ* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *manavai* ← *man*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣadya* ← *niṣad* ← *√sad*
 - \[verb noun\]
 - “sit down; sit; put.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *brūta* ← *brū*
 - \[verb\], plural, Present imperative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāgadheyaṃ* ← *bhāgadheyam* ← *bhāgadheya*
 - \[noun\], accusative, singular, neuter
 - “parcel; bhāgadheya \[word\]; Destiny; destiny.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahāni* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

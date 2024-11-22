@@ -80,50 +80,72 @@ téṣām ← sá- ~ tá- (pronoun)
 - \[noun\], vocative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *darśateme* ← *darśata*
 - \[noun\], vocative, singular, masculine
 - “beautiful; visible; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *darśateme* ← *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *somā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *araṃkṛtāḥ* ← *alaṃkṛ* ← *√kṛ*
 - \[verb noun\], nominative, plural
 - “decorate; prepare.”
-------------------------------------------------------------------------
+
+_________
+
 - *teṣām* ← *tad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrudhī* ← *śrudhi* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

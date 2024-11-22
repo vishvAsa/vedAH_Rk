@@ -76,44 +76,64 @@ sukhátame ← sukhátama- (nominal stem)
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhānā* ← *dhānāḥ* ← *dhānā*
 - \[noun\], accusative, plural, feminine
 - “Dhānā; Coriander; corn; grain.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtasnuvo* ← *ghṛtasnuvaḥ* ← *ghṛtasnu*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *ihopa* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *ihopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣataḥ* ← *vah*
 - \[verb\], dual, Aorist conj./subj.
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukhatame* ← *sukhatama*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

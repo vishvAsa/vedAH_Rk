@@ -98,70 +98,102 @@ vā́jasya ← vā́ja- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sānasī* ← *sānasi*
 - \[noun\], nominative, dual, masculine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasānā* ← *śavasāna*
 - \[noun\], nominative, dual, masculine
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtaṃ* ← *bhūtam* ← *bhū*
 - \[verb\], dual, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *sākaṃvṛdhā* ← *sākaṃvṛdh*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūśuvāṃsā* ← *śvi*
 - \[verb noun\], nominative, dual
 - “swell; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣayantau* ← *kṣi*
 - \[verb noun\], nominative, dual
 - “decrease; emaciate; vanish; kill; wane; destroy; run down; elapse;
     lose; lose; gasify; decline; decay; corrupt.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *yavasasya* ← *yavasa*
 - \[noun\], genitive, singular, masculine
 - “eatage; pasture; fodder.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūreḥ* ← *bhūri*
 - \[noun\], genitive, singular, masculine
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṅktaṃ* ← *pṛṅktam* ← *pṛc*
 - \[verb\], dual, Present imperative
 - “mix; unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasya* ← *vāja*
 - \[noun\], genitive, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthavirasya* ← *sthavira*
 - \[noun\], genitive, singular, masculine
 - “old; strong; hardy; firm; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛṣveḥ* ← *ghṛṣvi*
 - \[noun\], genitive, singular, masculine
 - “anticipated; electrifying.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

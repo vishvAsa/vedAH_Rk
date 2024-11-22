@@ -105,48 +105,68 @@ uṣásam ← uṣás- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthau* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanāny* ← *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *amartyo* ← *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāny* ← *tāni* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvan* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -157,39 +177,57 @@ uṣásam ← uṣás- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃcṛtaṃ* ← *saṃcṛtam* ← *saṃcṛt*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vicṛtam* ← *vicṛt*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭaya* ← *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣakty* ← *siṣakti* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasaṃ* ← *uṣasam* ← *uṣas*
 - \[noun\], accusative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

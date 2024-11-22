@@ -107,82 +107,120 @@ tvíṣyā ← tvíṣi- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *urū* ← *uru*
 - \[noun\], accusative, plural, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *varāṃsy* ← *varāṃsi* ← *varas*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *endro* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *endro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavṛtyād* ← *vavṛtyāt* ← *vṛt*
 - \[verb\], singular, Perfect optative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathyeva* ← *rathyā* ← *rathya*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *rathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakrā* ← *cakra*
 - \[noun\], accusative, plural, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
-------------------------------------------------------------------------
+
+_________
+
 - *atiṣṭhantam* ← *atiṣṭhat*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *apasyaṃ* ← *apasyam* ← *apasya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sargaṃ* ← *sargam* ← *sarga*
 - \[noun\], accusative, singular, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇā* ← *kṛṣṇa*
 - \[noun\], accusative, plural, neuter
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamāṃsi* ← *tamas*
 - \[noun\], accusative, plural, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *tviṣyā* ← *tviṣi*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *jaghāna* ← *han*
 - \[verb\], singular, Perfect indicative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

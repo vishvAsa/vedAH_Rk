@@ -117,101 +117,147 @@ tvám ← tvám (pronoun)
 -   *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghā* ← *gha*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣyā* ← *puruṣyāḥ* ← *puruṣya*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsan* ← *as*
 - \[verb\], plural, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrveṣām* ← *pūrva*
 - \[noun\], genitive, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśṛṇor* ← *aśṛṇoḥ* ← *śru*
 - \[verb\], singular, Imperfect
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣīṇām* ← *ṛṣi*
 - \[noun\], genitive, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhāhaṃ* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhāhaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavañ* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *johavīmi* ← *johav* ← *√hvā*
 - \[verb\], singular, Present indikative
 - “appeal.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāsi* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *pramatiḥ* ← *pramati*
 - \[noun\], nominative, singular, feminine
 - “care; solicitude; caution; providence.”
-------------------------------------------------------------------------
+
+_________
+
 - *piteva* ← *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *piteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

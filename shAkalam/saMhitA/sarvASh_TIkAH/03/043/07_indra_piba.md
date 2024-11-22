@@ -109,94 +109,136 @@ yásya ← yá- (pronoun)
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣadhūtasya* ← *vṛṣa* ← *vṛṣan*
 - \[noun\]
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣadhūtasya* ← *dhūtasya* ← *dhū*
 - \[verb noun\], genitive, singular
 - “shake; remove; chase away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇa* ← *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyena* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśate* ← *vaś*
 - \[verb noun\], dative, singular
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *jabhāra* ← *bhṛ*
 - \[verb\], singular, Perfect indicative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *cyāvayasi* ← *cyāvay* ← *√cyu*
 - \[verb\], singular, Present indikative
 - “chase away; remove; move.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭīr* ← *kṛṣṭīḥ* ← *kṛṣṭi*
 - \[noun\], accusative, plural, feminine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *gotrā* ← *gotra*
 - \[noun\], accusative, plural, neuter
 - “Gotra; patronymic; gotra \[word\]; name; family; family; kin;
     Gotra; mountain; herd; cow pen; cowbarn.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavartha* ← *vṛ*
 - \[verb\], singular, Perfect indicative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

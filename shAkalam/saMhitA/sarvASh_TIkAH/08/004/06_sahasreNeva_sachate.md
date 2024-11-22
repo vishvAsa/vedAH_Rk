@@ -90,41 +90,61 @@ náma:uktibhiḥ ← náma:ukti- (nominal stem)
 -   *sahasreṇeva* ← *sahasreṇa* ← *sahasra*
 - \[noun\], instrumental, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasreṇeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacate* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *yavīyudhā* ← *yavīyudh*
 - \[noun\], instrumental, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaﾱ* ← *ānaṭ* ← *naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “reach; achieve; enter (a state); reach.”
-------------------------------------------------------------------------
+
+_________
+
 - *upastutim* ← *upastuti*
 - \[noun\], accusative, singular, feminine
 - “praise; applause.”
-------------------------------------------------------------------------
+
+_________
+
 - *putram* ← *putra*
 - \[noun\], accusative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāvargaṃ* ← *prāvargam* ← *prāvarga*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -135,24 +155,34 @@ náma:uktibhiḥ ← náma:ukti- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīrye* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīrye* ← *vīrye* ← *vīrya*
 - \[noun\], locative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśnoti* ← *dāś*
 - \[verb\], singular, Present indikative
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *namauktibhiḥ* ← *namaukti*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

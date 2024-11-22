@@ -99,76 +99,110 @@ víṣṇoḥ ← víṣṇu- (nominal stem)
 -   *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitā* ← *janitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; janitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *matīnāṃ* ← *matīnām* ← *mati*
 - \[noun\], genitive, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitā* ← *janitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; janitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitā* ← *janitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; janitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitāgner* ← *janitā* ← *janitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; janitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *janitāgner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitā* ← *janitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; janitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitendrasya* ← *janitā* ← *janitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; janitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *janitendrasya* ← *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitota* ← *janitā* ← *janitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; janitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *janitota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṇoḥ* ← *viṣṇu*
 - \[noun\], genitive, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

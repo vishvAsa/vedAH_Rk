@@ -90,62 +90,90 @@ kṣā́maḥ ← kṣám- (nominal stem)
 -   *aṣāﾱham* ← *aṣāḍham* ← *aṣāḍha*
 - \[noun\], accusative, singular, masculine
 - “invincible.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāsahiṃ* ← *sāsahim* ← *sāsahi*
 - \[noun\], accusative, singular, masculine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mahīr* ← *mahīḥ* ← *mahī*
 - \[noun\], nominative, plural, feminine
 - “Earth; floor; Earth; land; real property; heaven and earth; space;
     Mahī; soil; earth; estate; area.”
-------------------------------------------------------------------------
+
+_________
+
 - *urujrayaḥ* ← *urujri*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenavo* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyamāne* ← *jan*
 - \[verb noun\], locative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *anonavur* ← *anonavuḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Imperfect
 - “bellow.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāmo* ← *kṣāmaḥ* ← *kṣam*
 - \[noun\], nominative, plural, feminine
 - “Earth; heaven and earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *anonavuḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Imperfect
 - “bellow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

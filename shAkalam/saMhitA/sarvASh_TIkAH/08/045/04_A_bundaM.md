@@ -85,61 +85,87 @@ ugrā́ḥ ← ugrá- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bundaṃ* ← *bundam* ← *bunda*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛcchad* ← *pṛcchat* ← *pracch*
 - \[verb\], singular, Present injunctive
 - “ask; ask; ask; consult; interrogate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ka* ← *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ugrāḥ* ← *ugra*
 - \[noun\], nominative, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇvire* ← *śru*
 - \[verb\], plural, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

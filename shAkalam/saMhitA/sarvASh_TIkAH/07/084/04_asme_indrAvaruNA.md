@@ -96,73 +96,107 @@ vásūni ← vásu- (nominal stem)
 -   *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavāraṃ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavāraṃ* ← *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “treasure; choice.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhattaṃ* ← *dhattam* ← *dhā*
 - \[verb\], dual, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasumantam* ← *vasumat*
 - \[noun\], accusative, singular, masculine
 - “deluxe; affluent; rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *purukṣum* ← *purukṣu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityo* ← *ādityaḥ* ← *āditya*
 - \[noun\], nominative, singular, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *anṛtā* ← *anṛta*
 - \[noun\], accusative, plural, neuter
 - “falsehood; lying; lie; cheat.”
-------------------------------------------------------------------------
+
+_________
+
 - *mināty* ← *mināti* ← *mī*
 - \[verb\], singular, Present indikative
 - “transgress; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *amitā* ← *amita*
 - \[noun\], accusative, plural, neuter
 - “infinite; illimitable; countless.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūro* ← *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *dayate* ← *day*
 - \[verb\], singular, Present indikative
 - “share.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

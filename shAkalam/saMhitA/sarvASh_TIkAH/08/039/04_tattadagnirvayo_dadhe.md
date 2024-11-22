@@ -111,106 +111,152 @@ same ← sama- (pronoun)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayo* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛpaṇyati* ← *kṛpaṇy*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjāhutir* ← *ūrjā*
 - \[noun\], feminine
 - “refreshment.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjāhutir* ← *āhutiḥ* ← *āhuti*
 - \[noun\], nominative, singular, masculine
 - “āhuti; offering.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūnāṃ* ← *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃ* ← *śam*
 - \[noun\], accusative, singular, neuter
 - “luck; well-being; fortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoś* ← *yos*
 - \[noun\], accusative, singular, neuter
 - “fortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *mayo* ← *mayaḥ* ← *mayas*
 - \[noun\], accusative, singular, neuter
 - “pleasure; refreshment.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasyai* ← *viśva*
 - \[noun\], dative, singular, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *devahūtyai* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devahūtyai* ← *hūtyai* ← *hūti*
 - \[noun\], dative, singular, feminine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhantām* ← *nabh*
 - \[verb\], plural, Present imperative
 - “burst.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyake* ← *anyaka*
 - \[noun\], nominative, plural, masculine
 - “other; another(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *same* ← *sama*
 - \[noun\], nominative, plural, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);
     accurate; identical; fair; equal; synonymous; changeless; whole;
     exact; calm; straight; even; wide.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,51 +105,71 @@ yandhi ← √yam- (root)
 -   *etā* ← *etad*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucathāni* ← *ucatha*
 - \[noun\], nominative, plural, neuter
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedho* ← *vedhaḥ* ← *vedhas*
 - \[noun\], vocative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vocāma* ← *avocāma* ← *vac*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavaye* ← *kavi*
 - \[noun\], dative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucchocasva* ← *ucchuc* ← *√śuc*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -160,39 +180,57 @@ yandhi ← √yam- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasyaso* ← *vasyasaḥ* ← *vasyas*
 - \[noun\], accusative, plural, masculine
 - “better; rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruvāra* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruvāra* ← *vāra*
 - \[noun\], vocative, singular, masculine
 - “treasure; choice.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *yandhi* ← *yam*
 - \[verb\], singular, Aorist imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -77,46 +77,66 @@ vásānaḥ ← √vas- 2 (root)
 - \[verb noun\], nominative, singular
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocanā* ← *rocana*
 - \[noun\], accusative, plural, neuter
 - “light; celestial sphere.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *janayann* ← *janayan* ← *janay* ← *√jan*
 - \[verb noun\], nominative, singular
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasāno* ← *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

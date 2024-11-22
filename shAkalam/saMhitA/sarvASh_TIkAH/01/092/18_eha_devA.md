@@ -73,48 +73,70 @@ vahantu ← √vah- (root)
 -   *eha* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *deva*
 - \[noun\], nominative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *mayobhuvā* ← *mayobhu*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dasrā* ← *dasra*
 - \[noun\], nominative, dual, masculine
 - “Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyavartanī* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyavartanī* ← *vartanī* ← *vartani*
 - \[noun\], nominative, dual, masculine
 - “path; East; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣarbudho* ← *uṣarbudhaḥ* ← *uṣarbudh*
 - \[noun\], nominative, plural, masculine
 - “early rising.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapītaye* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapītaye* ← *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,7 +102,9 @@ rātáhaviṣe ← rātáhavis- (nominal stem)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuñjate* ← *yuj*
 - \[verb\], plural, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -110,81 +112,119 @@ rātáhaviṣe ← rātáhavis- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmavakṣaso* ← *rukma*
 - \[noun\], neuter
 - “gold; svarṇamākṣika.”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmavakṣaso* ← *vakṣasaḥ* ← *vakṣas*
 - \[noun\], nominative, plural, masculine
 - “breast; breast; bosom; thorax.”
-------------------------------------------------------------------------
+
+_________
+
 - *'śvān* ← *aśvān* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratheṣu* ← *ratha*
 - \[noun\], locative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhaga* ← *bhage* ← *bhaga*
 - \[noun\], locative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānavaḥ* ← *sudānu*
 - \[noun\], nominative, plural, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenur* ← *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśve* ← *śiśu*
 - \[noun\], dative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasareṣu* ← *svasara*
 - \[noun\], locative, plural, neuter
 - “pasture; stall.”
-------------------------------------------------------------------------
+
+_________
+
 - *pinvate* ← *pinv*
 - \[verb\], singular, Present indikative
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *janāya* ← *jana*
 - \[noun\], dative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātahaviṣe* ← *rāta* ← *rā*
 - \[verb noun\]
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātahaviṣe* ← *haviṣe* ← *havis*
 - \[noun\], dative, singular, masculine
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mahīm* ← *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

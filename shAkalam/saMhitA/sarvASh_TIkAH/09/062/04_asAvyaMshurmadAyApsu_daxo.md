@@ -79,46 +79,66 @@ yónim ← yóni- (nominal stem)
 -   *asāvy* ← *asāvi* ← *su*
 - \[verb\], singular, Aorist passive
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃśur* ← *aṃśuḥ* ← *aṃśu*
 - \[noun\], nominative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
-------------------------------------------------------------------------
+
+_________
+
 - *madāyāpsu* ← *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *madāyāpsu* ← *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣo* ← *dakṣaḥ* ← *dakṣa*
 - \[noun\], nominative, singular, masculine
 - “deft; right; intelligent; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *giriṣṭhāḥ* ← *giriṣṭhā*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsadat* ← *āsad* ← *√sad*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “approach; attack; sit down; approach; find; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

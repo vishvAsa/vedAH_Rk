@@ -99,75 +99,109 @@ sū́ryasya ← sū́rya- (nominal stem)
 -   *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *parāvati* ← *parāvat*
 - \[noun\], locative, singular, feminine
 - “distance; distance; distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *stho* ← *sthaḥ* ← *as*
 - \[verb\], dual, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *turvaśe* ← *turvaśa*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ato* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvṛtā* ← *suvṛt*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gataṃ* ← *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sākaṃ* ← *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

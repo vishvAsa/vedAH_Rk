@@ -84,57 +84,81 @@ víśvāni ← víśva- (nominal stem)
 -   *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravaś* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *citrebhir* ← *citrebhiḥ* ← *citra*
 - \[noun\], instrumental, plural, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāsi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhan* ← *śṛdh*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *tamāṃsi* ← *tamas*
 - \[noun\], accusative, plural, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *jighnase* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣo* ← *dāśuṣaḥ* ← *dāś*
 - \[verb noun\], genitive, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

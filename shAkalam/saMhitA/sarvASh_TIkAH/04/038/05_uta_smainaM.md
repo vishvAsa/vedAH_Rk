@@ -111,82 +111,122 @@ yūthám ← yūthá- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *smainaṃ* ← *smā* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *smainaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *vastramathiṃ* ← *vastramathim* ← *vastramathi*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tāyum* ← *tāyu*
 - \[noun\], accusative, singular, masculine
 - “thief.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *krośanti* ← *kruś*
 - \[verb\], plural, Present indikative
 - “cry; shout; lament.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣitayo* ← *kṣitayaḥ* ← *kṣiti*
 - \[noun\], nominative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhareṣu* ← *bhara*
 - \[noun\], locative, plural, masculine
 - “battle; weight; foray; bhṛ; load.”
-------------------------------------------------------------------------
+
+_________
+
 - *nīcāyamānaṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *jasuriṃ* ← *jasurim* ← *jasuri*
 - \[noun\], accusative, singular, masculine
 - “starved.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śyenaṃ* ← *śyenam* ← *śyena*
 - \[noun\], accusative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravaś* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *cācchā* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cācchā* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paśumac* ← *paśumat*
 - \[noun\], accusative, singular, neuter
 - “rich in cattle.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūtham* ← *yūtha*
 - \[noun\], accusative, singular, neuter
 - “herd; troop; battalion.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

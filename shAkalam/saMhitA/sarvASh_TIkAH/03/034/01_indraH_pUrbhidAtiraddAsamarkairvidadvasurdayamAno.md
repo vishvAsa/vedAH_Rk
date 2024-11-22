@@ -103,75 +103,111 @@ ubhé ← ubhá- (pronoun)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrbhid*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātirad* ← *ātirat* ← *ātṛ* ← *√tṛ*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *dāsam* ← *dāsa*
 - \[noun\], accusative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkair* ← *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidadvasur* ← *vidadvasuḥ* ← *vidadvasu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dayamāno* ← *dayamānaḥ* ← *day*
 - \[verb noun\], nominative, singular
 - “share.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmajūtas* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmajūtas* ← *jūtaḥ* ← *jū*
 - \[verb noun\], nominative, singular
 - “animate; encourage; impel; inspire.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhāno* ← *vāvṛdhānaḥ* ← *vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūridātra* ← *bhūri*
 - \[noun\]
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūridātra* ← *dātraḥ* ← *dātra*
 - \[noun\], nominative, singular, masculine
 - “sickle; gift; scythe.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpṛṇad* ← *āpṛṇat* ← *āpṛṇ* ← *√pṛṇ*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

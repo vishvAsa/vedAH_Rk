@@ -96,69 +96,101 @@ sā́dha ← √sādh- ~ sidh- (root)
 -   *kathā*
 - \[adverb\]
 - “how.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāya* ← *ṛta*
 - \[noun\], dative, singular, masculine
 - “timely; honest.”
-------------------------------------------------------------------------
+
+_________
+
 - *kathā*
 - \[adverb\]
 - “how.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūre* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhate* ← *bṛhat*
 - \[noun\], dative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛcchyamānaḥ* ← *pracch*
 - \[verb noun\], nominative, singular
 - “ask; ask; ask; consult; interrogate.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *bravo* ← *bravaḥ* ← *brū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ditaye* ← *aditaye* ← *aditi*
 - \[noun\], dative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *turāya* ← *tura*
 - \[noun\], dative, singular, masculine
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhā* ← *sādh*
 - \[verb\], singular, Present imperative
 - “promote; succeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedaś* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikitvān* ← *cit*
 - \[verb noun\], nominative, singular
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

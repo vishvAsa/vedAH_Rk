@@ -93,60 +93,88 @@ mamattu ← √mad- (root)
 -   *eto* ← *eta* ← *e* ← *√i*
 - \[verb\], plural, Present imperative
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *eto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *stavāma* ← *stu*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuddhaṃ* ← *śuddham* ← *śudh*
 - \[verb noun\], accusative, singular
 - “become pure; purify; wash; expiate; clean; cleanse.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuddhena* ← *śudh*
 - \[verb noun\], instrumental, singular
 - “become pure; purify; wash; expiate; clean; cleanse.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāmnā* ← *sāman*
 - \[noun\], instrumental, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuddhair* ← *śuddhaiḥ* ← *śudh*
 - \[verb noun\], instrumental, plural
 - “become pure; purify; wash; expiate; clean; cleanse.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthair* ← *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhvāṃsaṃ* ← *vāvṛdhvāṃsam* ← *vṛdh*
 - \[verb noun\], accusative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuddha* ← *śuddhaḥ* ← *śudh*
 - \[verb noun\], nominative, singular
 - “become pure; purify; wash; expiate; clean; cleanse.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśīrvān* ← *āśīrvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mamattu* ← *mad*
 - \[verb\], singular, Perfect imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

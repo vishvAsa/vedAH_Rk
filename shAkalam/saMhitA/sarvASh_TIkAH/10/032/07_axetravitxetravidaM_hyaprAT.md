@@ -99,89 +99,129 @@ vindati ← √vid- 1 (root)
 -   *akṣetravit* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣetravit* ← *kṣetra*
 - \[noun\], neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣetravit* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣetravidaṃ* ← *kṣetra*
 - \[noun\], neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣetravidaṃ* ← *vidam* ← *vid*
 - \[noun\], accusative, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aprāṭ* ← *pracch*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “ask; ask; ask; consult; interrogate.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *praiti* ← *pre* ← *√i*
 - \[verb\], singular, Present indikative
 - “die; proceed; advance; continue; begin; depart.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣetravidānuśiṣṭaḥ* ← *kṣetra*
 - \[noun\], neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣetravidānuśiṣṭaḥ* ← *vidā* ← *vid*
 - \[noun\], instrumental, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣetravidānuśiṣṭaḥ* ← *anuśiṣṭaḥ* ← *anuśās* ← *√śās*
 - \[verb noun\], nominative, singular
 - “order; govern; teach.”
-------------------------------------------------------------------------
+
+_________
+
 - *etad* ← *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vai*
 - \[adverb\]
 - “surely; on the other hand; vai \[word\]; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadram* ← *bhadra*
 - \[noun\], nominative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *anuśāsanasyota* ← *anuśāsanasya* ← *anuśāsana*
 - \[noun\], genitive, singular, neuter
 - “command; teaching; direction.”
-------------------------------------------------------------------------
+
+_________
+
 - *anuśāsanasyota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *srutiṃ* ← *srutim* ← *sruti*
 - \[noun\], accusative, singular, feminine
 - “discharge; path; road; stream.”
-------------------------------------------------------------------------
+
+_________
+
 - *vindaty* ← *vindati* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjasīnām* ← *añjasīna*
 - \[noun\], accusative, singular, feminine
 - “correct.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

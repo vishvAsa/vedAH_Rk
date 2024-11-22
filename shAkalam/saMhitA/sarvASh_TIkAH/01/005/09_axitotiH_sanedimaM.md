@@ -73,41 +73,59 @@ yásmin ← yá- (pronoun)
 -   *akṣitotiḥ* ← *akṣitoti*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *saned* ← *sanet* ← *san*
 - \[verb\], singular, Aorist optative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasriṇam* ← *sahasrin*
 - \[noun\], accusative, singular, masculine
 - “thousandfold.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāni* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *pauṃsyā* ← *pauṃsya*
 - \[noun\], instrumental, singular, neuter
 - “manfulness; deed; army; strength.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,41 +102,59 @@ vásu ← vásu- (nominal stem)
 -   *pātā* ← *pā*
 - \[verb\], singular, periphrast. future
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutam* ← *suta*
 - \[noun\], accusative, singular, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *praṇenīr* ← *praṇenīḥ* ← *praṇenī*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaritāram* ← *jaritṛ*
 - \[noun\], accusative, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kartā* ← *kṛ*
 - \[verb\], singular, periphrast. future
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -147,46 +165,66 @@ vásu ← vásu- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrāya* ← *vīra*
 - \[noun\], dative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣvaya* ← *suṣvaye* ← *suṣvi*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *lokaṃ* ← *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
-------------------------------------------------------------------------
+
+_________
+
 - *dātā* ← *dā*
 - \[verb\], singular, periphrast. future
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *kīraye* ← *kīri*
 - \[noun\], dative, singular, masculine
 - “pauper.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

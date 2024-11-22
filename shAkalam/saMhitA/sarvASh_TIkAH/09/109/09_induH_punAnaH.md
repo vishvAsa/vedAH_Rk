@@ -68,20 +68,28 @@ víśvāni ← víśva- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajām* ← *prajā*
 - \[noun\], accusative, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *urāṇaḥ* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *karad* ← *karat* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -92,20 +100,28 @@ víśvāni ← víśva- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇāni* ← *draviṇa*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; money; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

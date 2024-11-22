@@ -76,47 +76,67 @@ prá ← prá (invariable)
 -   *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛjā* ← *sṛj*
 - \[verb\], singular, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanaspate* ← *vanaspati*
 - \[noun\], vocative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviḥ* ← *havis*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *dātur* ← *dātuḥ* ← *dātṛ*
 - \[noun\], genitive, singular, masculine
 - “giving; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *cetanam* ← *cetana*
 - \[noun\], nominative, singular, neuter
 - “mind; consciousness.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

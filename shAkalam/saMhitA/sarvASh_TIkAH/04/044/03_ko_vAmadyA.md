@@ -105,19 +105,27 @@ yemānáḥ ← √yam- (root)
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adyā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *karate* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -128,74 +136,108 @@ yemānáḥ ← √yam- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātahavya* ← *rāta* ← *rā*
 - \[verb noun\]
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātahavya* ← *havyaḥ* ← *havya*
 - \[noun\], nominative, singular, masculine
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutapeyāya* ← *suta*
 - \[noun\], masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutapeyāya* ← *peyāya* ← *peya*
 - \[noun\], dative, singular, neuter
 - “beverage.”
-------------------------------------------------------------------------
+
+_________
+
 - *vārkaiḥ* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *vārkaiḥ* ← *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanuṣe* ← *vanus*
 - \[noun\], dative, singular, masculine
 - “unfriendly; competing(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyāya* ← *pūrvya*
 - \[noun\], dative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *namo* ← *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *yemāno* ← *yemānaḥ* ← *yam*
 - \[verb noun\], nominative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavartat* ← *vṛt*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

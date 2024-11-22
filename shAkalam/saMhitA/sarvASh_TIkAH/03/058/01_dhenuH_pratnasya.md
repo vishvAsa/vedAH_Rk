@@ -96,74 +96,108 @@ uṣásaḥ ← uṣás- (nominal stem)
 -   *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnasya* ← *pratna*
 - \[noun\], genitive, singular, masculine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmyaṃ* ← *kāmyam* ← *kāmya*
 - \[noun\], accusative, singular, neuter
 - “desirable; optional; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhānāntaḥ* ← *duhānā* ← *duh*
 - \[verb noun\], nominative, singular
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhānāntaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *putraś* ← *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇāyāḥ* ← *dakṣiṇā*
 - \[noun\], genitive, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dyotaniṃ* ← *dyotanim* ← *dyotani*
 - \[noun\], accusative, singular, feminine
 - “luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahati* ← *vah*
 - \[verb\], singular, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhrayāmoṣasa* ← *śubhra*
 - \[noun\]
 - “white; beautiful; attractive; śubhra \[word\]; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhrayāmoṣasa* ← *yāmā* ← *yāma*
 - \[noun\], nominative, singular, feminine
 - “prahara; watch; travel; path.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhrayāmoṣasa* ← *uṣasa* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomo* ← *stomaḥ* ← *stoma*
 - \[noun\], nominative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvināv* ← *aśvinau* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajīgaḥ* ← *jāgṛ*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “wake; watch; awaken; wake up; oversee.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

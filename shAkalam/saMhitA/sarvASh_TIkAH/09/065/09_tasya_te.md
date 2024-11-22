@@ -78,50 +78,72 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], genitive, singular, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanāni* ← *dhana*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigyuṣaḥ* ← *ji*
 - \[verb noun\], genitive, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhitvam* ← *sakhi*
 - \[noun\], masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhitvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

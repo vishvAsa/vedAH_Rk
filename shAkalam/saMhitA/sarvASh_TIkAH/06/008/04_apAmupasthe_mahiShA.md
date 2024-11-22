@@ -99,15 +99,21 @@ vaiśvānarám ← vaiśvānará- (nominal stem)
 -   *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahiṣā* ← *mahiṣāḥ* ← *mahiṣa*
 - \[noun\], nominative, plural, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *agṛbhṇata* ← *grah*
 - \[verb\], plural, Imperfect
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -115,64 +121,92 @@ vaiśvānarám ← vaiśvānará- (nominal stem)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājānam* ← *rājan*
 - \[noun\], accusative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthur* ← *tasthuḥ* ← *sthā*
 - \[verb\], plural, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛgmiyam* ← *ṛgmiya*
 - \[noun\], accusative, singular, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dūto* ← *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *abharad* ← *abharat* ← *bhṛ*
 - \[verb\], singular, Imperfect
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivasvato* ← *vivasvataḥ* ← *vivasvant*
 - \[noun\], genitive, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaiśvānaram* ← *vaiśvānara*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātariśvā* ← *mātariśvan*
 - \[noun\], nominative, singular, masculine
 - “wind; Mātariśvan; Vayu; vāta.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

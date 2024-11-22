@@ -95,65 +95,93 @@ yé ← yá- (pronoun)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *praukṣan* ← *prokṣ* ← *√ukṣ*
 - \[verb\], plural, Imperfect
 - “butcher; consecrate; sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣaṃ* ← *puruṣam* ← *puruṣa*
 - \[noun\], accusative, singular, masculine
 - “man; man; Puruṣa; puṃvajra; puruṣa; servant; puruṣa \[word\];
     assistant; soldier; soul; commoner; generation; people; doll.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātam* ← *jan*
 - \[verb noun\], accusative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *agrataḥ* ← *agratas*
 - \[adverb\]
 - “ahead; first; agratas \[word\]; earlier.”
-------------------------------------------------------------------------
+
+_________
+
 - *tena* ← *tad*
 - \[noun\], instrumental, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayajanta* ← *yaj*
 - \[verb\], plural, Imperfect
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhyā* ← *sādhyāḥ* ← *sādhya*
 - \[noun\], nominative, plural, masculine
 - “Sādhya.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣayaś* ← *ṛṣayaḥ* ← *ṛṣi*
 - \[noun\], nominative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

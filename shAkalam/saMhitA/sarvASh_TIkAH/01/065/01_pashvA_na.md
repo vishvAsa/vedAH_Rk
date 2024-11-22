@@ -71,27 +71,39 @@ yujānám ← √yuj- (root)
 - \[noun\], instrumental, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tāyuṃ* ← *tāyum* ← *tāyu*
 - \[noun\], accusative, singular, masculine
 - “thief.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhā*
 - \[adverb\]
 - “secretly.”
-------------------------------------------------------------------------
+
+_________
+
 - *catantaṃ* ← *catantam* ← *cat*
 - \[verb noun\], accusative, singular
 - “flee.”
-------------------------------------------------------------------------
+
+_________
+
 - *namo* ← *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujānaṃ* ← *yujānam* ← *yuj*
 - \[verb noun\], accusative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -99,16 +111,22 @@ yujānám ← √yuj- (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *namo* ← *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahantam* ← *vah*
 - \[verb noun\], accusative, singular
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

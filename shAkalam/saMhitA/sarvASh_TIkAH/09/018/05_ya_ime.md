@@ -79,57 +79,81 @@ sarvadhā́ḥ ← sarvadhā́- (nominal stem)
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ime* ← *idam*
 - \[noun\], accusative, dual, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahī* ← *mahi*
 - \[noun\], accusative, dual, feminine
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātareva* ← *mātarā* ← *mātṛ*
 - \[noun\], accusative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātareva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dohate* ← *duh*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *madeṣu* ← *mada*
 - \[noun\], locative, plural, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvadhā* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvadhā* ← *dhāḥ* ← *dhā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

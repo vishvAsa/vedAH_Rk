@@ -77,43 +77,63 @@ sávīmani ← sávīman- (nominal stem)
 -   *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhikṣeta* ← *bhikṣ* ← *√bhaj*
 - \[verb\], singular, Present optative
 - “beg; beg.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityānām* ← *āditya*
 - \[noun\], genitive, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *apūrvyaṃ* ← *apūrvyam* ← *apūrvya*
 - \[noun\], accusative, singular, neuter
 - “incomparable.”
-------------------------------------------------------------------------
+
+_________
+
 - *savīmani* ← *savīman*
 - \[noun\], locative, singular, neuter
 - “impulse.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

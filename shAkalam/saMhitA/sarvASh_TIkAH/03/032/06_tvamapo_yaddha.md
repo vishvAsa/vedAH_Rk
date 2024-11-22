@@ -108,90 +108,130 @@ vavrivā́ṁsam ← √vr̥- (root)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jaghanvāṃ* ← *han*
 - \[verb noun\], nominative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *atyāṃ* ← *atya*
 - \[noun\], accusative, plural, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāsṛjaḥ* ← *prasṛj* ← *√sṛj*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *sartavājau* ← *sartavā* ← *sṛ*
 - \[verb noun\]
 - “sṛ; liquefy; run; spread; stretch out.”
-------------------------------------------------------------------------
+
+_________
+
 - *sartavājau* ← *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *śayānam* ← *śī*
 - \[verb noun\], accusative, singular
 - “lie; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *caratā* ← *car*
 - \[verb noun\], instrumental, singular
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhena* ← *vadha*
 - \[noun\], instrumental, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavrivāṃsam* ← *vṛ*
 - \[verb noun\], accusative, singular
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *devīr* ← *devīḥ* ← *deva*
 - \[noun\], accusative, plural, feminine
 - “divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *adevam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *adevam* ← *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,73 +99,107 @@ vípāṭ ← vípāś- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatānām* ← *parvata*
 - \[noun\], genitive, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśatī* ← *vaś*
 - \[verb noun\], nominative, dual
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *upasthād* ← *upasthāt* ← *upastha*
 - \[noun\], ablative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśve* ← *aśvā*
 - \[noun\], nominative, dual, feminine
 - “mare.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣite* ← *viṣita*
 - \[noun\], nominative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *hāsamāne* ← *hā*
 - \[verb noun\], nominative, dual
 - “move over; yield; give way.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāveva* ← *gāvā* ← *go*
 - \[noun\], nominative, dual, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhre* ← *śubhra*
 - \[noun\], nominative, dual, feminine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātarā* ← *mātṛ*
 - \[noun\], nominative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *rihāṇe* ← *rih*
 - \[verb noun\], nominative, dual
 - “lick.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipāṭ* ← *vipāś*
 - \[noun\], nominative, singular, feminine
 - “Vipāś.”
-------------------------------------------------------------------------
+
+_________
+
 - *chutudrī* ← *śutudrī*
 - \[noun\], nominative, singular, feminine
 - “Sutlej/Śatadru.”
-------------------------------------------------------------------------
+
+_________
+
 - *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *javete* ← *jū*
 - \[verb\], dual, Present indikative
 - “animate; encourage; impel; inspire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

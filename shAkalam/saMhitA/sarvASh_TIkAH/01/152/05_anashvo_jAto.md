@@ -96,86 +96,124 @@ váruṇe ← váruṇa- (nominal stem)
 -   *anaśvo* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *anaśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāto* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *anabhīśur* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *anabhīśur* ← *abhīśuḥ* ← *abhīśu*
 - \[noun\], nominative, singular, masculine
 - “beam; rein.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
-------------------------------------------------------------------------
+
+_________
+
 - *patayad* ← *patayat* ← *patay* ← *√pat*
 - \[verb\], singular, Present injunctive
 - “fly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrdhvasānuḥ* ← *ūrdhva*
 - \[noun\]
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrdhvasānuḥ* ← *sānuḥ* ← *sānu*
 - \[noun\], nominative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *acittam* ← *acitta*
 - \[noun\], accusative, singular, neuter
 - “unexpected.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *jujuṣur* ← *jujuṣuḥ* ← *juṣ*
 - \[verb\], plural, Perfect indicative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvānaḥ* ← *yuvan*
 - \[noun\], nominative, plural, masculine
 - “young; youthful.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitre* ← *mitra*
 - \[noun\], locative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇe* ← *varuṇa*
 - \[noun\], locative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇantaḥ* ← *gṛ*
 - \[verb noun\], nominative, plural
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

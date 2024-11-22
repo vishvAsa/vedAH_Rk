@@ -99,75 +99,111 @@ ródasyoḥ ← ródasī- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāntaṃ* ← *pāntam* ← *pānta*
 - \[noun\], accusative, singular, masculine
 - “drink; beverage.”
-------------------------------------------------------------------------
+
+_________
+
 - *raghumanyavo* ← *raghu*
 - \[noun\]
 - “low; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *raghumanyavo* ← *manyavaḥ* ← *manyu*
 - \[noun\], vocative, plural, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ndho* ← *andhaḥ* ← *andhas*
 - \[noun\], accusative, singular, neuter
 - “Soma; drink; amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudrāya* ← *rudra*
 - \[noun\], dative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *mīﾱhuṣe* ← *mīḍhuṣe* ← *mīḍhvas*
 - \[noun\], dative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharadhvam* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *astoṣy* ← *astoṣi* ← *stu*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *asurasya* ← *asura*
 - \[noun\], genitive, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrair* ← *vīraiḥ* ← *vīra*
 - \[noun\], instrumental, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣudhyeva* ← *iṣudhyā*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *iṣudhyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], accusative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasyoḥ* ← *rodasī*
 - \[noun\], locative, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

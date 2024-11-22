@@ -80,54 +80,76 @@ puruspŕ̥ham ← puruspŕ̥h- (nominal stem)
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ī*
 - \[adverb\]
 - “īkāra.”
-------------------------------------------------------------------------
+
+_________
+
 - *garbham* ← *garbha*
 - \[noun\], accusative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvṛdho* ← *ṛtāvṛdhaḥ* ← *ṛtāvṛdh*
 - \[noun\], nominative, plural, masculine
 - “sincere.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛśe* ← *dṛś*
 - \[verb noun\]
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *cārum* ← *cāru*
 - \[noun\], accusative, singular, masculine
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ajījanan* ← *jan*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhiṣṭham* ← *maṃhiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *puruspṛham* ← *puruspṛh*
 - \[noun\], accusative, singular, masculine
 - “coveted; desirous.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

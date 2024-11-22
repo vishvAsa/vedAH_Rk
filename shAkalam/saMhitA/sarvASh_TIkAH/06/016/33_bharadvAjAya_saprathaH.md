@@ -70,36 +70,52 @@ vásu ← vásu- (nominal stem)
 -   *bharadvājāya* ← *bharadvāja*
 - \[noun\], dative, singular, masculine
 - “Bharadvāja; Droṇa; Bharadvāja; skylark.”
-------------------------------------------------------------------------
+
+_________
+
 - *saprathaḥ* ← *saprathas*
 - \[noun\], accusative, singular, neuter
 - “extensive; wide; extended.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaccha* ← *yam*
 - \[verb\], singular, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahantya*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vareṇyaṃ* ← *vareṇyam* ← *vareṇya*
 - \[noun\], accusative, singular, neuter
 - “excellent; desirable.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

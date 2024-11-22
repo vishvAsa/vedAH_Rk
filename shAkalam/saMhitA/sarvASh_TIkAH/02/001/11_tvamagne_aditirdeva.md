@@ -105,100 +105,144 @@ vr̥trahā́ ← vr̥trahán- (nominal stem)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *aditir* ← *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotrā* ← *hotṛ*
 - \[noun\], instrumental, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāratī*
 - \[noun\], nominative, singular, feminine
 - “statement; language; voice; bhāratī; Sarasvatī; voice; speech;
     word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhase* ← *vṛdh*
 - \[verb\], singular, Present indikative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *iḍā* ← *iḍ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; libation.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatahimāsi* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatahimāsi* ← *himā* ← *hima*
 - \[noun\], instrumental, singular, feminine
 - “snow; frost; hima \[word\]; winter; tin; silver; pearl;
     sauvīrāñjana; year; ague; Himalayas; coldness.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatahimāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣase* ← *dakṣ*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahā* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahā* ← *hāḥ* ← *han*
 - \[noun\], nominative, plural, feminine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasupate* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasupate* ← *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvatī*
 - \[noun\], nominative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

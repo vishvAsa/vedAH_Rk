@@ -100,77 +100,111 @@ vratā́ni ← vratá- (nominal stem)
 - \[noun\], accusative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketuṃ* ← *ketum* ← *ketu*
 - \[noun\], accusative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāsim* ← *dhāsi*
 - \[noun\], accusative, singular, feminine
 - “seat; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhānum* ← *bhānu*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrer* ← *adreḥ* ← *adri*
 - \[noun\], genitive, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinvanti* ← *hi*
 - \[verb\], plural, Present indikative
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rājyaṃ* ← *rājyam* ← *rājya*
 - \[noun\], accusative, singular, neuter
 - “kingdom; kingship; sovereignty; rājya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasyoḥ* ← *rodasī*
 - \[noun\], genitive, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *purandarasya* ← *puraṃdara*
 - \[noun\], genitive, singular, masculine
 - “Indra; puraṃdara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vivāse* ← *vivās* ← *√van*
 - \[verb\], singular, Present indikative
 - “invite; endeavor; try for.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratāni* ← *vrata*
 - \[noun\], accusative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyā* ← *pūrvya*
 - \[noun\], accusative, plural, neuter
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *mahāni* ← *maha*
 - \[noun\], accusative, plural, neuter
 - “great; abundant.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

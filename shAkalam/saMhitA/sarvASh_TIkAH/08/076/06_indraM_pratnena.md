@@ -71,35 +71,51 @@ sómasya ← sóma- (nominal stem)
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnena* ← *pratna*
 - \[noun\], instrumental, singular, neuter
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *manmanā* ← *manman*
 - \[noun\], instrumental, singular, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutvantaṃ* ← *marutvantam* ← *marutvat*
 - \[noun\], accusative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pītaye* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

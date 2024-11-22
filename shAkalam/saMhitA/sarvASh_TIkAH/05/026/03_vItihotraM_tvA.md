@@ -73,43 +73,61 @@ br̥hántam ← br̥hánt- (nominal stem)
 -   *vītihotraṃ* ← *vītihotram* ← *vītihotra*
 - \[noun\], accusative, singular, masculine
 - “Vītihotra; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kave* ← *kavi*
 - \[noun\], vocative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumantaṃ* ← *dyumantam* ← *dyumat*
 - \[noun\], accusative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *idhīmahi* ← *indh*
 - \[verb\], plural, Present optative
 - “kindle; ignite; set ablaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

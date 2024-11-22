@@ -99,63 +99,93 @@ yúvānam ← yúvan- (nominal stem)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandanam* ← *vandana*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *airataṃ* ← *airatam* ← *īr*
 - \[verb\], dual, Imperfect
 - “go.”
-------------------------------------------------------------------------
+
+_________
+
 - *daṃsanābhir* ← *daṃsanābhiḥ* ← *daṃsanā*
 - \[noun\], instrumental, plural, feminine
 - “wonder; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *rebhaṃ* ← *rebham* ← *rebha*
 - \[noun\], accusative, singular, masculine
 - “bard; eulogist.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣ* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṭaugryam* ← *taugryam* ← *taugrya*
 - \[noun\], accusative, singular, masculine
 - “Bhujyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārayathaḥ* ← *pāray* ← *√pṛ*
 - \[verb\], dual, Present indikative
 - “rescue; keep alive; satisfy; save; resist; endure.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudrāt* ← *samudra*
 - \[noun\], ablative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *punaś* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *cyavānaṃ* ← *cyavānam* ← *cyavāna*
 - \[noun\], accusative, singular, masculine
 - “Cyavana.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakrathur* ← *cakrathuḥ* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -166,12 +196,16 @@ yúvānam ← yúvan- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvānam* ← *yuvan*
 - \[noun\], accusative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

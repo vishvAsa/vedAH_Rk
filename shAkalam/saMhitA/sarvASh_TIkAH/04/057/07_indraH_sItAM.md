@@ -91,15 +91,21 @@ sámām ← sámā- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sītāṃ* ← *sītām* ← *sītā*
 - \[noun\], accusative, singular, feminine
 - “Sita; Sītā; furrow; sītā \[word\]; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhṇātu* ← *grah*
 - \[verb\], singular, Present imperative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -107,61 +113,85 @@ sámām ← sámā- (nominal stem)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *tām* ← *tad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣānu* ← *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchatu* ← *yam*
 - \[verb\], singular, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *payasvatī* ← *payasvat*
 - \[noun\], nominative, singular, feminine
 - “sappy; watery; milk(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *duhām* ← *duh*
 - \[verb\], singular, Present imperative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttarām* ← *uttara*
 - \[noun\], accusative, singular, feminine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *uttarāṃ* ← *uttarām* ← *uttara*
 - \[noun\], accusative, singular, feminine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *samām* ← *samā*
 - \[noun\], accusative, singular, feminine
 - “year; samā \[word\]; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

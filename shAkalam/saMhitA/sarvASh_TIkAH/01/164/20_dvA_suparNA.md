@@ -99,78 +99,114 @@ cākaśīti ← √kāś- (root)
 -   *dvā* ← *dvi*
 - \[noun\], nominative, dual, masculine
 - “two; dvi \[word\]; second.”
-------------------------------------------------------------------------
+
+_________
+
 - *suparṇā* ← *suparṇa*
 - \[noun\], nominative, dual, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
-------------------------------------------------------------------------
+
+_________
+
 - *sayujā* ← *sayuj*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sakhāyā* ← *sakhi*
 - \[noun\], nominative, dual, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *samānaṃ* ← *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkṣam* ← *vṛkṣa*
 - \[noun\], accusative, singular, masculine
 - “tree; fruit tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣasvajāte* ← *sasvajāte* ← *svaj*
 - \[verb\], dual, Perfect indicative
 - “embrace.”
-------------------------------------------------------------------------
+
+_________
+
 - *tayor* ← *tayoḥ* ← *tad*
 - \[noun\], genitive, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *pippalaṃ* ← *pippalam* ← *pippala*
 - \[noun\], accusative, singular, neuter
 - “berry.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādv* ← *svādu*
 - \[noun\], accusative, singular, neuter
 - “Madhura; sweet; sweet; dainty; agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *atty* ← *atti* ← *ad*
 - \[verb\], singular, Present indikative
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *anaśnann* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *anaśnann* ← *aśnan* ← *aś*
 - \[verb noun\], nominative, singular
 - “eat; consume; chew; feed.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyo* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *cākaśīti* ← *cākaś* ← *√kāś*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -76,51 +76,73 @@ vratā́ ← vratá- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣyati* ← *iṣ*
 - \[verb\], singular, Present indikative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣāsan* ← *siṣās* ← *√san*
 - \[verb noun\], nominative, singular
 - “win; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasā* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasā* ← *sāḥ* ← *sā*
 - \[noun\], nominative, singular, masculine
 - “winning.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratā* ← *vrata*
 - \[noun\], accusative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidāna* ← *vidānaḥ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyudhā* ← *āyudha*
 - \[noun\], accusative, plural, neuter
 - “weapon; āyudha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

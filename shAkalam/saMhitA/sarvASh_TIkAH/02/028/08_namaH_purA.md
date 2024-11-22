@@ -105,92 +105,134 @@ vratā́ni ← vratá- (nominal stem)
 -   *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇota* ← *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *utāparaṃ* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *utāparaṃ* ← *aparam* ← *apara*
 - \[noun\], accusative, singular, neuter
 - “other; another(a); following; western; future; apara \[word\];
     elder; remaining; some(a); later(a); back(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvijāta* ← *tuvi*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *tuvijāta* ← *jāta* ← *jan*
 - \[verb noun\], vocative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *bravāma* ← *brū*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *parvate* ← *parvata*
 - \[noun\], locative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śritāny* ← *śritāni* ← *śri*
 - \[verb noun\], nominative, plural
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
-------------------------------------------------------------------------
+
+_________
+
 - *apracyutāni* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *apracyutāni* ← *pracyutāni* ← *pracyu* ← *√cyu*
 - \[verb noun\], nominative, plural
 - “fall down.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūḍabha*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vratāni* ← *vrata*
 - \[noun\], nominative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

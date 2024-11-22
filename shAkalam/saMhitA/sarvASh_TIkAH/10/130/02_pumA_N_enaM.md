@@ -111,77 +111,113 @@ tásarāṇi ← tásara- (nominal stem)
 -   *pumāṃ* ← *pumān* ← *puṃs*
 - \[noun\], nominative, singular, masculine
 - “man; masculine; man; puṃvajra; puruṣa; son; puṃs \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *enaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *tanuta* ← *tanute* ← *tan*
 - \[verb\], singular, Present indikative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ut* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇatti* ← *kṛt*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *pumān* ← *puṃs*
 - \[noun\], nominative, singular, masculine
 - “man; masculine; man; puṃvajra; puruṣa; son; puṃs \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatne* ← *tan*
 - \[verb\], singular, Perfect indicative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāke* ← *nāka*
 - \[noun\], locative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *mayūkhā* ← *mayūkhāḥ* ← *mayūkha*
 - \[noun\], nominative, plural, masculine
 - “beam; peg; post.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *sedur* ← *seduḥ* ← *sad*
 - \[verb\], plural, Perfect indicative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadaḥ* ← *sadas*
 - \[noun\], accusative, singular, neuter
 - “mansion; assembly; seat; seat.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāmāni* ← *sāman*
 - \[noun\], accusative, plural, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakrus* ← *cakruḥ* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -192,15 +228,21 @@ tásarāṇi ← tásara- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasarāṇy* ← *tasarāṇi* ← *tasara*
 - \[noun\], accusative, plural, neuter
 - “shuttle.”
-------------------------------------------------------------------------
+
+_________
+
 - *otave* ← *ve*
 - \[verb noun\]
 - “weave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

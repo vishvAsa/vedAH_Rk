@@ -105,56 +105,84 @@ sávyāya ← sávya- (nominal stem)
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *randhayam* ← *randhay* ← *√radh*
 - \[verb\], singular, Present injunctive
 - “subjugate; hand over.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛgayaṃ* ← *mṛgayam* ← *mṛgaya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śrutarvaṇe* ← *śrutarvan*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *mājihīta* ← *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mājihīta* ← *ajihīta* ← *hā*
 - \[verb\], singular, Imperfect
 - “move over; yield; give way.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayunā* ← *vayuna*
 - \[noun\], ablative, plural, neuter
 - “convention; custom; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *canānuṣak* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *canānuṣak* ← *ānuṣak*
 - \[adverb\]
 - “correctly; in sequence; punctually.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *veśaṃ* ← *veśam* ← *veśa*
 - \[noun\], accusative, singular, masculine
 - “whorehouse; prostitute; neighbor; braid.”
-------------------------------------------------------------------------
+
+_________
+
 - *namram* ← *namra*
 - \[noun\], accusative, singular, masculine
 - “dangling(a); submissive; curved; bent.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyave* ← *āyu*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *'karam* ← *akaram* ← *kṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -165,21 +193,31 @@ sávyāya ← sávya- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *savyāya* ← *savya*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *paḍgṛbhim* ← *paḍgṛbhi*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *arandhayam* ← *randhay* ← *√radh*
 - \[verb\], singular, Imperfect
 - “subjugate; hand over.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

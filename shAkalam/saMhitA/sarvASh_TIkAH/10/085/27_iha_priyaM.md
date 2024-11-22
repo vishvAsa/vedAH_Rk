@@ -108,87 +108,127 @@ vidátham ← vidátha- (nominal stem)
 -   *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyam* ← *priya*
 - \[noun\], nominative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajayā* ← *prajā*
 - \[noun\], instrumental, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛdhyatām* ← *ṛdh*
 - \[verb\], singular, Present imperative
 - “boom; stick to.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, masculine
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 - *gārhapatyāya* ← *gārhapatya*
 - \[noun\], dative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *jāgṛhi* ← *jāgṛ*
 - \[verb\], singular, Present imperative
 - “wake; watch; awaken; wake up; oversee.”
-------------------------------------------------------------------------
+
+_________
+
 - *enā* ← *idam*
 - \[noun\], instrumental, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *patyā* ← *pati*
 - \[noun\], instrumental, singular
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[noun\], nominative, singular, masculine
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛjasvādhā* ← *sṛjasva* ← *sṛj*
 - \[verb\], singular, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛjasvādhā* ← *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *jivrī* ← *jivri*
 - \[noun\], nominative, dual, masculine
 - “old.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidatham* ← *vidatha*
 - \[noun\], accusative, singular, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vadāthaḥ* ← *vad*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

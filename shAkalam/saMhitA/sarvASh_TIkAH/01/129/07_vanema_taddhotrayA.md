@@ -124,120 +124,176 @@ yájatram ← yájatra- (nominal stem)
 -   *vanema* ← *van*
 - \[verb\], plural, Present optative
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *taddhotrayā* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *taddhotrayā* ← *hotrayā* ← *hotrā*
 - \[noun\], instrumental, singular, feminine
 - “hotrā \[word\]; Hautra.”
-------------------------------------------------------------------------
+
+_________
+
 - *citantyā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *vanema* ← *van*
 - \[verb\], plural, Present optative
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayivaḥ* ← *rayivas* ← *rayivat*
 - \[noun\], vocative, singular, masculine
 - “rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīryaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīryaṃ* ← *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, masculine
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṇvaṃ* ← *raṇvam* ← *raṇva*
 - \[noun\], accusative, singular, masculine
 - “agreeable; happy; delightful; gay.”
-------------------------------------------------------------------------
+
+_________
+
 - *santaṃ* ← *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīryam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīryam* ← *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, masculine
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *durmanmānaṃ* ← *durmanmānam* ← *durmanman*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sumantubhir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumantubhir* ← *mantubhiḥ* ← *mantu*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *em* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *em* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *iṣā* ← *iṣ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛcīmahi* ← *pṛc*
 - \[verb\], plural, Aorist optative
 - “mix; unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *satyābhir* ← *satyābhiḥ* ← *satya*
 - \[noun\], instrumental, plural, feminine
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnahūtibhir* ← *dyumna*
 - \[noun\], neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnahūtibhir* ← *hūtibhiḥ* ← *hūti*
 - \[noun\], instrumental, plural, feminine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatraṃ* ← *yajatram* ← *yajatra*
 - \[noun\], accusative, singular, masculine
 - “adorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnahūtibhiḥ* ← *dyumna*
 - \[noun\], neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnahūtibhiḥ* ← *hūtibhiḥ* ← *hūti*
 - \[noun\], instrumental, plural, feminine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

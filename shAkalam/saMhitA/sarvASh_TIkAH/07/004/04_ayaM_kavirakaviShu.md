@@ -105,85 +105,123 @@ tvé ← tvám (pronoun)
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *akaviṣu* ← *akavi*
 - \[noun\], locative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pracetā* ← *pracetāḥ* ← *pracetas*
 - \[noun\], nominative, singular, masculine
 - “Pracetas; Pracetas; Varuna; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *marteṣv* ← *marteṣu* ← *marta*
 - \[noun\], locative, plural, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛto* ← *amṛtaḥ* ← *amṛta*
 - \[noun\], nominative, singular, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhuraḥ* ← *hvṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 - *sahasvaḥ* ← *sahasvas* ← *sahasvat*
 - \[noun\], vocative, singular, masculine
 - “mighty; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
-------------------------------------------------------------------------
+
+_________
+
 - *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumanasaḥ* ← *sumanas*
 - \[noun\], nominative, plural, masculine
 - “benevolent; cheerful; happy; satisfied.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

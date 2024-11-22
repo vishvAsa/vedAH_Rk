@@ -76,45 +76,65 @@ támaḥ ← támas- (nominal stem)
 -   *orv* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *orv* ← *uru*
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *aprā* ← *aprāḥ* ← *prā*
 - \[verb\], singular, Root aorist (Ind.)
 - “fill; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartyā* ← *amartya*
 - \[noun\], nominative, singular, feminine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *nivato* ← *nivataḥ* ← *nivat*
 - \[noun\], accusative, plural, feminine
 - “depth.”
-------------------------------------------------------------------------
+
+_________
+
 - *devy* ← *devī*
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *udvataḥ* ← *udvat*
 - \[noun\], accusative, plural, feminine
 - “altitude.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *bādhate* ← *bādh*
 - \[verb\], singular, Present indikative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

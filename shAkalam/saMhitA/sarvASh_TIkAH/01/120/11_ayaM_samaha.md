@@ -76,45 +76,65 @@ sukháḥ ← sukhá- (nominal stem)
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *samaha*
 - \[adverb\]
 - “verily; somewhere; somehow.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūhyāte* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *janāṃ* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapeyaṃ* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapeyaṃ* ← *peyam* ← *peya*
 - \[noun\], accusative, singular, masculine
 - “beverage.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukho* ← *sukhaḥ* ← *sukha*
 - \[noun\], nominative, singular, masculine
 - “pleasant; easy; lukewarm; comfortable; sukha \[word\]; successful;
     easy; content(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

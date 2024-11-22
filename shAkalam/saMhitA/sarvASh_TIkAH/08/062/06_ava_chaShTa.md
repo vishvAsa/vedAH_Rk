@@ -95,43 +95,63 @@ rātáyaḥ ← rātí- (nominal stem)
 -   *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *caṣṭa* ← *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛcīṣamo* ← *ṛcīṣamaḥ* ← *ṛcīṣama*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vatāṃ* ← *avatāṃ* ← *avata*
 - \[noun\], accusative, plural, masculine
 - “well.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣaḥ* ← *mānuṣa*
 - \[noun\], nominative, singular, masculine
 - “man; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣṭvī* ← *juṣ*
 - \[verb noun\]
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣasya* ← *dakṣa*
 - \[noun\], genitive, singular, masculine
 - “deft; right; intelligent; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *sominaḥ* ← *somin*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sakhāyaṃ* ← *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -142,25 +162,35 @@ rātáyaḥ ← rātí- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “amalgamated; harnessed.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadrāḥ* ← *bhadra*
 - \[noun\], nominative, plural, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātayaḥ* ← *rāti*
 - \[noun\], nominative, plural, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -101,81 +101,119 @@ vakṣi ← √vah- (root)
 
 -   *vṛṣāyante* ← *vṛṣāy*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *atyāya* ← *atya*
 - \[noun\], dative, singular, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *citrāya* ← *citra*
 - \[noun\], dative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśmayaḥ* ← *raśmi*
 - \[noun\], nominative, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *suyāmāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suyāmāḥ* ← *yāmāḥ* ← *yāma*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotar* ← *hotṛ*
 - \[noun\], vocative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandrataraś* ← *mandrataraḥ* ← *mandratara*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *cikitvān* ← *cit*
 - \[verb noun\], nominative, singular
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *eha* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣi* ← *vah*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

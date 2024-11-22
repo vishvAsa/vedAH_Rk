@@ -108,86 +108,126 @@ mánman ← mánman- (nominal stem)
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tya* ← *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyeṣu* ← *sakhya*
 - \[noun\], locative, plural, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahnaya* ← *vahnayaḥ* ← *vahni*
 - \[noun\], nominative, plural, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
     leader.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *manvānā* ← *manvānāḥ* ← *man*
 - \[verb noun\], nominative, plural
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *adardirur* ← *adardiruḥ* ← *dardar* ← *√dṛ*
 - \[verb\], plural, Imperfect
 - “cleave.”
-------------------------------------------------------------------------
+
+_________
+
 - *valam* ← *vala*
 - \[noun\], accusative, singular, masculine
 - “Vala; vala; cave.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśasyann* ← *daśasyan* ← *daśasy*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *riṇann* ← *riṇan* ← *ri*
 - \[verb noun\], nominative, singular
 - “free; liberate; run; let go of.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaḥ* ← *ap*
 - \[noun\], accusative, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *kutsāya* ← *kutsa*
 - \[noun\], dative, singular, masculine
 - “Kutsa; kutsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *manmann* ← *manman*
 - \[noun\], locative, singular, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahyaś* ← *ahyaḥ* ← *hi*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *daṃsayaḥ* ← *daṃsay* ← *√daṃs*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

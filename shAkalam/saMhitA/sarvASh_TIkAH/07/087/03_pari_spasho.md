@@ -93,68 +93,100 @@ yé ← yá- (pronoun)
 -   *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *spaśo* ← *spaśaḥ* ← *spaś*
 - \[noun\], nominative, plural, masculine
 - “lookout; spy; spaś.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *smadiṣṭā* ← *smadiṣṭāḥ* ← *smadiṣṭa*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *paśyanti* ← *paś*
 - \[verb\], plural, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumeke* ← *sumeka*
 - \[noun\], accusative, dual, neuter
 - “fast; fixed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvānaḥ* ← *ṛtāvan*
 - \[noun\], nominative, plural, masculine
 - “law-abiding; faithful; righteous.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavayo* ← *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñadhīrāḥ* ← *yajña*
 - \[noun\], masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñadhīrāḥ* ← *dhīrāḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
-------------------------------------------------------------------------
+
+_________
+
 - *pracetaso* ← *pracetasaḥ* ← *pracetas*
 - \[noun\], nominative, plural, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣayanta* ← *iṣay* ← *√iṣ*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

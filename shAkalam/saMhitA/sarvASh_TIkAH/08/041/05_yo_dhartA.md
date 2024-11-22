@@ -112,94 +112,134 @@ same ← sama- (pronoun)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhartā* ← *dhartṛ*
 - \[noun\], nominative, singular, masculine
 - “supporter.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanānāṃ* ← *bhuvanānām* ← *bhuvana*
 - \[noun\], genitive, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *usrāṇām* ← *usrā*
 - \[noun\], genitive, plural, feminine
 - “cow; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *apīcyā* ← *apīcya*
 - \[noun\], accusative, plural, neuter
 - “secret; hidden; cryptic.”
-------------------------------------------------------------------------
+
+_________
+
 - *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāmāni* ← *nāman*
 - \[noun\], accusative, plural, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhyā* ← *guhya*
 - \[noun\], accusative, plural, neuter
 - “secret; concealed.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāvyā* ← *kāvya*
 - \[noun\], accusative, plural, neuter
 - “Uśanas; poem; Kāvya; wisdom.”
-------------------------------------------------------------------------
+
+_________
+
 - *puru*
 - \[noun\], accusative, singular, neuter
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *rūpaṃ* ← *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣyati* ← *puṣ*
 - \[verb\], singular, Present indikative
 - “boom; grow; promote; foster.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhantām* ← *nabh*
 - \[verb\], plural, Present imperative
 - “burst.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyake* ← *anyaka*
 - \[noun\], nominative, plural, masculine
 - “other; another(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *same* ← *sama*
 - \[noun\], nominative, plural, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);
     accurate; identical; fair; equal; synonymous; changeless; whole;
     exact; calm; straight; even; wide.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

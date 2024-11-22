@@ -99,76 +99,112 @@ vítatāḥ ← √tan- (root)
 -   *aṃseṣu* ← *aṃsa*
 - \[noun\], locative, plural, masculine
 - “shoulder; aṃsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣṭayaḥ* ← *ṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “spear.”
-------------------------------------------------------------------------
+
+_________
+
 - *patsu* ← *pad*
 - \[noun\], locative, plural, masculine
 - “foot; pad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *khādayo* ← *khādayaḥ* ← *khādi*
 - \[noun\], nominative, plural, masculine
 - “ring.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣassu* ← *vakṣas*
 - \[noun\], locative, plural, neuter
 - “breast; breast; bosom; thorax.”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmā* ← *rukma*
 - \[noun\], nominative, plural, neuter
 - “gold; svarṇamākṣika.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhaḥ* ← *śubh*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *agnibhrājaso* ← *agni*
 - \[noun\], masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnibhrājaso* ← *bhrājasaḥ* ← *bhrājas*
 - \[noun\], nominative, plural, feminine
 - “glare.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyuto* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], nominative, plural, feminine
 - “lightning; Vidyut; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiprāḥ* ← *śiprā*
 - \[noun\], nominative, plural, feminine
 - “lip; śiprā.”
-------------------------------------------------------------------------
+
+_________
+
 - *śīrṣasu* ← *śīrṣan*
 - \[noun\], locative, plural, neuter
 - “head; śīrṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vitatā* ← *vitatāḥ* ← *vitan* ← *√tan*
 - \[verb noun\], nominative, plural
 - “expand; perform; scatter; prolong; increase.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayīḥ* ← *hiraṇyaya*
 - \[noun\], nominative, plural, feminine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

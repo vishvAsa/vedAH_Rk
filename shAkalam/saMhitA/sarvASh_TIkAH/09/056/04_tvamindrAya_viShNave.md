@@ -79,50 +79,72 @@ stotr̥̄́n ← stotár- (nominal stem)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṇave* ← *viṣṇu*
 - \[noun\], dative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādur* ← *svāduḥ* ← *svādu*
 - \[noun\], nominative, singular, masculine
 - “Madhura; sweet; sweet; dainty; agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotṝn* ← *stotṛ*
 - \[noun\], accusative, plural, masculine
 - “laudatory; worshiping.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāhy* ← *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -114,76 +114,112 @@ yát ← yá- (pronoun)
 -   *upastutir* ← *upastutiḥ* ← *upastuti*
 - \[noun\], nominative, singular, feminine
 - “praise; applause.”
-------------------------------------------------------------------------
+
+_________
+
 - *aucathyam* ← *aucathya*
 - \[noun\], accusative, singular, masculine
 - “Dīrghatamas.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruṣyen* ← *uruṣyet* ← *uruṣy*
 - \[verb\], singular, Present optative
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ime* ← *idam*
 - \[noun\], nominative, dual, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *patatriṇī* ← *patatrin*
 - \[noun\], nominative, dual, neuter
 - “flying; winged.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dugdhām* ← *duh*
 - \[verb\], dual, Present imperative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *edho* ← *edhaḥ* ← *edha*
 - \[noun\], nominative, singular, masculine
 - “fuel.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśatayaś* ← *daśatayaḥ* ← *daśataya*
 - \[noun\], nominative, singular, masculine
 - “tenfold.”
-------------------------------------------------------------------------
+
+_________
+
 - *cito* ← *citaḥ* ← *ci*
 - \[verb noun\], nominative, singular
 - “cover; accumulate; pile up; pick; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāk* ← *dah*
 - \[verb\], singular, Aorist inj. (proh.)
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *baddhas* ← *baddhaḥ* ← *bandh*
 - \[verb noun\], nominative, singular
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
@@ -191,19 +227,27 @@ yát ← yá- (pronoun)
     restrain; bind; gesticulate; wear; bar; bandh; connect; stud; mix;
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmani* ← *tman*
 - \[noun\], locative, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *khādati* ← *khād*
 - \[verb\], singular, Present indikative
 - “eat; chew; feed; consume; gnash; gulp; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

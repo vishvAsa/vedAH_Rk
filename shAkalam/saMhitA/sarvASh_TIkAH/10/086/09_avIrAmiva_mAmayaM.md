@@ -97,82 +97,118 @@ víśvasmāt ← víśva- (nominal stem)
 
 -   *avīrām* ← *avīra*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarārur* ← *śarāruḥ* ← *śarāru*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyate* ← *man*
 - \[verb\], singular, Present indikative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *utāham* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *utāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīriṇīndrapatnī* ← *vīriṇī*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vīriṇīndrapatnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīriṇīndrapatnī* ← *patnī*
 - \[noun\], nominative, singular, feminine
 - “wife; mistress; queen.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutsakhā* ← *marut*
 - \[noun\], masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutsakhā* ← *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, feminine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttaraḥ* ← *uttara*
 - \[noun\], nominative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

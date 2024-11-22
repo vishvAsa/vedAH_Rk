@@ -74,43 +74,63 @@ pávasva ← √pū- (root)
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pātave* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yataḥ* ← *yam*
 - \[verb noun\], nominative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāyudho* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāyudho* ← *āyudhaḥ* ← *āyudha*
 - \[noun\], nominative, singular, masculine
 - “weapon; āyudha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *madintamaḥ* ← *madintama*
 - \[noun\], nominative, singular, masculine
 - “exhilarating; intoxicant.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumattamaḥ* ← *madhumattama*
 - \[noun\], nominative, singular, masculine
 - “sweetest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

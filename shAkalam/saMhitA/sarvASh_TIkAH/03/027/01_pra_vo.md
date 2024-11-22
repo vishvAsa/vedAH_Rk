@@ -73,39 +73,57 @@ sumnayúḥ ← sumnayú- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], nominative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhidyavo* ← *abhidyavaḥ* ← *abhidyu*
 - \[noun\], nominative, plural, masculine
 - “celestial; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣmanto* ← *haviṣmantaḥ* ← *haviṣmat*
 - \[noun\], nominative, plural, masculine
 - “sacrificing.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtācyā* ← *ghṛtācī*
 - \[noun\], instrumental, singular, feminine
 - “Ghṛtācī.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāñ* ← *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigāti* ← *gā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnayuḥ* ← *sumnayu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

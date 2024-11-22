@@ -102,85 +102,123 @@ vr̥jánam ← vr̥jána- (nominal stem)
 -   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvāpṛthivī*
 - \[noun\], vocative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *satyam* ← *satya*
 - \[noun\], nominative, singular, neuter
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitar* ← *pitṛ*
 - \[noun\], vocative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātar* ← *mātṛ*
 - \[noun\], vocative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ihopabruve* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *ihopabruve* ← *upabruve* ← *upabrū* ← *√brū*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtaṃ* ← *bhūtam* ← *bhū*
 - \[verb\], dual, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *avame* ← *avama*
 - \[noun\], nominative, dual, feminine
 - “avama \[word\]; bottom; last.”
-------------------------------------------------------------------------
+
+_________
+
 - *avobhir* ← *avobhiḥ* ← *avas*
 - \[noun\], instrumental, plural, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyāmeṣaṃ* ← *vidyāma* ← *vid*
 - \[verb\], plural, Present optative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyāmeṣaṃ* ← *iṣam* ← *iṣa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjanaṃ* ← *vṛjanam* ← *vṛjana*
 - \[noun\], accusative, singular, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīradānum* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīradānum* ← *dānum* ← *dānu*
 - \[noun\], accusative, singular, masculine
 - “Dānu; dew; drop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

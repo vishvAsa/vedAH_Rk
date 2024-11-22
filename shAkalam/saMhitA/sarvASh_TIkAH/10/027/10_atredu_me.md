@@ -115,104 +115,150 @@ ví ← ví (invariable)
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *atred* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṃsase* ← *man*
 - \[verb\], singular, Aorist conj./subj.
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *uktaṃ* ← *uktam* ← *vac*
 - \[verb noun\], accusative, singular
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvipāc* ← *dvipād*
 - \[noun\], nominative, singular, masculine
 - “biped; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yac* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *catuṣpāt* ← *catuṣpād*
 - \[noun\], nominative, singular, masculine
 - “quadruped.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃsṛjāni* ← *saṃsṛj* ← *√sṛj*
 - \[verb\], singular, Present imperative
 - “mix; saṃsṛj; combine; accompany; blend; afflict; endow; consociate;
     love; alloy.”
-------------------------------------------------------------------------
+
+_________
+
 - *strībhir* ← *strībhiḥ* ← *strī*
 - \[noun\], instrumental, plural, feminine
 - “woman; wife; feminine; strīvajra; sexual activity; strī \[word\];
     daughter; female.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇam* ← *vṛṣaṇa*
 - \[noun\], accusative, singular, masculine
 - “Vṛṣaṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanyād* ← *pṛtanyāt* ← *pṛtany*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayuddho* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayuddho* ← *yuddhaḥ* ← *yudh*
 - \[verb noun\], nominative, singular
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhajāni* ← *bhaj*
 - \[verb\], singular, Present imperative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedaḥ* ← *vedas*
 - \[noun\], accusative, singular, neuter
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

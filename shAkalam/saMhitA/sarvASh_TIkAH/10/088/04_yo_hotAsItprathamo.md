@@ -105,85 +105,123 @@ jātávedāḥ ← jātávedas- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hotāsīt* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotāsīt* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamo* ← *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *devajuṣṭo* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devajuṣṭo* ← *juṣṭaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *samāñjann* ← *samāñjan* ← *samañj* ← *√añj*
 - \[verb\], plural, Imperfect
 - “anoint.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājyenā* ← *ājyena* ← *ājya*
 - \[noun\], instrumental, singular, neuter
 - “ghee; clarified butter; ājya.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājyenā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇānāḥ* ← *vṛ*
 - \[verb noun\], nominative, plural
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *patatrītvaraṃ* ← *patatri* ← *patatrin*
 - \[noun\], accusative, singular, neuter
 - “flying; winged.”
-------------------------------------------------------------------------
+
+_________
+
 - *patatrītvaraṃ* ← *itvaram* ← *itvara*
 - \[noun\], accusative, singular, neuter
 - “terrestrial.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthā*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *jagad* ← *jagat*
 - \[noun\], nominative, singular, neuter
 - “movable; Jagatī; moving.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchvātram* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchvātram* ← *śvātram* ← *śvātra*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇoj* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -194,11 +232,15 @@ jātávedāḥ ← jātávedas- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedāḥ* ← *jātavedas*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,89 +102,129 @@ sanā́t ← sanā́t (invariable)
 -   *triviṣṭidhātu* ← *triviṣṭi*
 - \[adverb\]
 - “thrice.”
-------------------------------------------------------------------------
+
+_________
+
 - *triviṣṭidhātu* ← *dhātu*
 - \[noun\], accusative, singular, neuter
 - “mineral; dhātu; saptadhātu; Sanskrit verbal root; etymon; aṣṭaloha;
     mahābhūta; gairika; component; navadhātu; svarṇamākṣika; doṣa;
     inorganic compound.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratimānam* ← *pratimāna*
 - \[noun\], accusative, singular, neuter
 - “weight.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasas* ← *ojasaḥ* ← *ojas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmīr* ← *bhūmīḥ* ← *bhūmi*
 - \[noun\], accusative, plural, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛpate* ← *nṛpati*
 - \[noun\], vocative, singular, masculine
 - “king.”
-------------------------------------------------------------------------
+
+_________
+
 - *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rocanā* ← *rocana*
 - \[noun\], accusative, plural, neuter
 - “light; celestial sphere.”
-------------------------------------------------------------------------
+
+_________
+
 - *atīdaṃ* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *atīdaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanaṃ* ← *bhuvanam* ← *bhuvana*
 - \[noun\], accusative, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vavakṣithāśatrur* ← *vavakṣitha* ← *vakṣ*
 - \[verb\], singular, Perfect indicative
 - “grow; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavakṣithāśatrur* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavakṣithāśatrur* ← *śatruḥ* ← *śatru*
 - \[noun\], nominative, singular, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *januṣā* ← *janus*
 - \[noun\], instrumental, singular, masculine
 - “birth.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanād* ← *sanāt*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

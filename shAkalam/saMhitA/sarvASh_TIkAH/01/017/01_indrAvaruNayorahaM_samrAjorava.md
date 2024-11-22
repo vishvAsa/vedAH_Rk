@@ -76,45 +76,65 @@ tā́ ← sá- ~ tá- (pronoun)
 -   *indrāvaruṇayor* ← *indrāvaruṇayoḥ* ← *indrāvaruṇa*
 - \[noun\], genitive, dual, masculine
 - “Varuna; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *samrājor* ← *samrājoḥ* ← *samrāj*
 - \[noun\], genitive, dual, masculine
 - “sovereign; ruler.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava* ← *avaḥ* ← *avas*
 - \[noun\], accusative, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇe* ← *vṛ*
 - \[verb\], singular, Present indikative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛḍāta* ← *mṛḍātaḥ* ← *mṛḍ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “pardon.”
-------------------------------------------------------------------------
+
+_________
+
 - *īdṛśe* ← *īdṛś*
 - \[noun\], dative, singular, masculine
 - “such(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

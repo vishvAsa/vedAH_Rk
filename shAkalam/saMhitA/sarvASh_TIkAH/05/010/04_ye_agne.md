@@ -101,84 +101,122 @@ tmánā ← tmán- (nominal stem)
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *candra*
 - \[noun\], vocative, singular, masculine
 - “aglitter(p); shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *śumbhanty* ← *śumbhanti* ← *śubh*
 - \[verb\], plural, Present indikative
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvarādhasaḥ* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvarādhasaḥ* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], nominative, plural, masculine
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmebhiḥ* ← *śuṣma*
 - \[noun\], instrumental, plural, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmiṇo* ← *śuṣmiṇaḥ* ← *śuṣmin*
 - \[noun\], nominative, plural, masculine
 - “strong; hotheaded.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaś* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhat*
 - \[noun\], nominative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukīrtir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukīrtir* ← *kīrtiḥ* ← *kīrti*
 - \[noun\], nominative, singular, feminine
 - “fame; fame; glory; kīrti \[word\]; mention.”
-------------------------------------------------------------------------
+
+_________
+
 - *bodhati* ← *budh*
 - \[verb\], singular, Present indikative
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

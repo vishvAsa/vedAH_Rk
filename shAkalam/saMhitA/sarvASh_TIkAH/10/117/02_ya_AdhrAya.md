@@ -108,45 +108,65 @@ vindate ← √vid- 1 (root)
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ādhrāya* ← *ādhra*
 - \[noun\], dative, singular, masculine
 - “weak.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakamānāya* ← *kam*
 - \[verb noun\], dative, singular
 - “desire.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitvo* ← *pitvaḥ* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *'nnavān* ← *annavān* ← *annavat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *san* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *raphitāyopajagmuṣe* ← *raphitāya* ← *raphita*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *raphitāyopajagmuṣe* ← *upajagmuṣe* ← *upagam* ← *√gam*
 - \[verb noun\], dative, singular
 - “enter (a state); go; approach; meet; arrive; repair to.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthiram* ← *sthira*
 - \[noun\], accusative, singular, neuter
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
-------------------------------------------------------------------------
+
+_________
+
 - *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -157,46 +177,66 @@ vindate ← √vid- 1 (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *sevate* ← *sev*
 - \[verb\], singular, Present indikative
 - “consume; frequent; practice; worship; dwell; enjoy; indulge; eat;
     honor; endeavor; endow; respect; haunt; perform.”
-------------------------------------------------------------------------
+
+_________
+
 - *puroto* ← *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *puroto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *puroto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *marḍitāraṃ* ← *marḍitāram* ← *marḍitṛ*
 - \[noun\], accusative, singular, masculine
 - “sympathizer.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vindate* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -76,42 +76,60 @@ rásam ← rása- (nominal stem)
 -   *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dribhiḥ* ← *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhānaḥ* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *kalaśe* ← *kalaśa*
 - \[noun\], locative, singular, masculine
 - “jar.”
-------------------------------------------------------------------------
+
+_________
+
 - *rasam* ← *rasa*
 - \[noun\], accusative, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
@@ -119,7 +137,9 @@ rásam ← rása- (nominal stem)
     body substance; rasa; formulation; myrrh; rasa \[word\]; amṛta;
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

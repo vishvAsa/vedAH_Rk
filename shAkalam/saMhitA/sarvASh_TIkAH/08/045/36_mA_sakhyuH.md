@@ -82,53 +82,77 @@ te ← tvám (pronoun)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyuḥ* ← *sakhi*
 - \[noun\], genitive, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śūnam* ← *śūna*
 - \[noun\], nominative, singular, neuter
 - “lack; absence.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vide* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *putrasya* ← *putra*
 - \[noun\], genitive, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *prabhūvaso* ← *prabhūvasu*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āvṛtvad* ← *āvṛtvat*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtu* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

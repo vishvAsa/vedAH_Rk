@@ -76,46 +76,66 @@ uttamám ← uttamá- (nominal stem)
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭhāni* ← *pṛṣṭha*
 - \[noun\], accusative, plural, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasor* ← *rodasoḥ* ← *rodas*
 - \[noun\], locative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprayanto* ← *viprayantaḥ* ← *vipre* ← *√i*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaśuḥ* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *utedam* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *utedam* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttamaṃ* ← *uttamam* ← *uttama*
 - \[noun\], accusative, singular, neuter
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
     finest.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajaḥ* ← *rajas*
 - \[noun\], accusative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

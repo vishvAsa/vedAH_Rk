@@ -99,81 +99,117 @@ bhuvat ← √bhū- (root)
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīryam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīryam* ← *vīryam* ← *vīrya*
 - \[noun\], nominative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyad* ← *tya*
 - \[noun\], nominative, singular, neuter
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśvaśvyam* ← *āśu*
 - \[noun\]
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśvaśvyam* ← *aśvyam* ← *aśvya*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *mano* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamāna* ← *yajamānaḥ* ← *yaj*
 - \[verb noun\], nominative, singular
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyakṣaty* ← *iyakṣati* ← *iyakṣ* ← *√yaj*
 - \[verb\], singular, Present indikative
 - “endeavor.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīd* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīd* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayajvano* ← *ayajvanaḥ* ← *ayajvan*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

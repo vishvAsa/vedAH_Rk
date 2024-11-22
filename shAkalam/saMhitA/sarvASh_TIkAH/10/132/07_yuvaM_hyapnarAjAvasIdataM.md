@@ -104,76 +104,112 @@ tatre ← √trā- (root)
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *apnarājāv* ← *apnarājau* ← *apnarāj*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *asīdataṃ* ← *asīdatam* ← *sad*
 - \[verb\], dual, Imperfect
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhad* ← *tiṣṭhat* ← *sthā*
 - \[verb\], singular, Imperfect
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūrṣadaṃ* ← *dhūrṣadam* ← *dhūrṣad*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vanarṣadam* ← *vanarṣad*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tāḥ* ← *tad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṇūkayantīr* ← *kaṇūkayantīḥ* ← *kaṇūkay*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmedhas* ← *nṛmedhaḥ* ← *nṛmedha*
 - \[noun\], nominative, singular, masculine
 - “Nṛmedha.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatre* ← *tṛ*
 - \[verb\], singular, Perfect indicative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumedhas* ← *sumedhaḥ* ← *sumedha*
 - \[noun\], nominative, singular, masculine
 - “Sumedha; Sumedha.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatre* ← *tṛ*
 - \[verb\], singular, Perfect indicative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,82 +102,120 @@ tokā́ya ← toká- (nominal stem)
 -   *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitre* ← *pitṛ*
 - \[noun\], dative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucyate* ← *vac*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vacaḥ* ← *vacas*
 - \[noun\], nominative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādoḥ* ← *svādu*
 - \[noun\], ablative, singular, neuter
 - “Madhura; sweet; sweet; dainty; agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādīyo* ← *svādīyaḥ* ← *svādīyas*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *rudrāya* ← *rudra*
 - \[noun\], dative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhanam* ← *vardhana*
 - \[noun\], accusative, singular, neuter
 - “increasing; fortifying; promotive; prolonging.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāsvā* ← *rā*
 - \[verb\], singular, Aorist imperative
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛta*
 - \[noun\], vocative, singular, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *martabhojanaṃ* ← *marta*
 - \[noun\], masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *martabhojanaṃ* ← *bhojanam* ← *bhojana*
 - \[noun\], accusative, singular, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmane* ← *tman*
 - \[noun\], dative, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanayāya* ← *tanaya*
 - \[noun\], dative, singular, neuter
 - “biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛﾱa* ← *mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

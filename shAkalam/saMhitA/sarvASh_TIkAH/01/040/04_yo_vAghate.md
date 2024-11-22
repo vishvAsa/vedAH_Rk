@@ -96,81 +96,117 @@ suprátūrtim ← suprátūrti- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāghate* ← *vāghant*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dadāti* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnaraṃ* ← *sūnaram* ← *sūnara*
 - \[noun\], accusative, singular, neuter
 - “noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhatte* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣiti*
 - \[noun\], accusative, singular, neuter
 - “imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *iḍāṃ* ← *iḍām* ← *iḍā*
 - \[noun\], accusative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīrām* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīrām* ← *vīrām* ← *vīra*
 - \[noun\], accusative, singular, feminine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajāmahe* ← *yaj*
 - \[verb\], plural, Present indikative
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *supratūrtim* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supratūrtim* ← *pratūrtim* ← *pratūrti*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *anehasam* ← *anehas*
 - \[noun\], accusative, singular, feminine
 - “faultless; anehas \[word\]; incomparable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

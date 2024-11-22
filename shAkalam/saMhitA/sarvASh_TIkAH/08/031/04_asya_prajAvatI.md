@@ -70,42 +70,62 @@ duhe ← √duh- (root)
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajāvatī* ← *prajāvat*
 - \[noun\], nominative, singular, feminine
 - “prolific.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 - *'saścantī* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *'saścantī* ← *saścantī* ← *sac*
 - \[verb noun\], nominative, singular
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *iﾱā* ← *iḍā*
 - \[noun\], nominative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenumatī* ← *dhenumat*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *duhe* ← *duh*
 - \[verb\], singular, Present indikative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

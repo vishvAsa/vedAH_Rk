@@ -87,60 +87,86 @@ dyāvāpr̥thivī ← dyā́vāpr̥thivī́- (nominal stem)
 -   *ādityāso* ← *ādityāsaḥ* ← *āditya*
 - \[noun\], nominative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aditayaḥ* ← *aditi*
 - \[noun\], nominative, plural, masculine
 - “impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūr* ← *pūḥ* ← *pur*
 - \[noun\], nominative, singular, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vasavo* ← *vasavaḥ* ← *vasu*
 - \[noun\], vocative, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyatrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sanema* ← *san*
 - \[verb\], plural, Aorist optative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sananto* ← *sanantaḥ* ← *san*
 - \[verb noun\], nominative, plural
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavema* ← *bhū*
 - \[verb\], plural, Present optative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvāpṛthivī*
 - \[noun\], vocative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavantaḥ* ← *bhū*
 - \[verb noun\], nominative, plural
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -98,77 +98,111 @@ yugā́ni ← yugá- (nominal stem)
 
 -   *caniṣṭaṃ* ← *caniṣṭam* ← *can*
 - \[verb\], dual, Aorist inj. (proh.)
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devau* ← *deva*
 - \[noun\], vocative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhīṣv* ← *oṣadhīṣu* ← *oṣadhī*
 - \[noun\], locative, plural, feminine
 - “herb; plant; drug; herb.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yogyā* ← *yogya*
 - \[noun\], accusative, plural, neuter
 - “suitable; fit.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnavaithe* ← *aś*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣīṇām* ← *ṛṣi*
 - \[noun\], genitive, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *purūṇi* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratnā* ← *ratna*
 - \[noun\], accusative, plural, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhatau* ← *dhā*
 - \[verb noun\], nominative, dual
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvāṇi* ← *pūrva*
 - \[noun\], accusative, plural, neuter
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakhyathur* ← *cakhyathuḥ* ← *khyā*
 - \[verb\], dual, Perfect indicative
 - “name; describe; call; enumerate; watch; know.”
-------------------------------------------------------------------------
+
+_________
+
 - *yugāni* ← *yuga*
 - \[noun\], accusative, plural, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

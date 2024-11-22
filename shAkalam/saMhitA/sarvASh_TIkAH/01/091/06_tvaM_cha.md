@@ -76,48 +76,70 @@ vánaspátiḥ ← vánaspáti- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaśo* ← *vaśaḥ* ← *vaś*
 - \[verb\], singular, Present injunctive
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvātuṃ* ← *jīvātum* ← *jīvātu*
 - \[noun\], accusative, singular, feminine
 - “life.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *marāmahe* ← *mṛ*
 - \[verb\], plural, Present indikative
 - “mṛ; die; disappear; go out.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyastotro* ← *priya*
 - \[noun\]
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyastotro* ← *stotraḥ* ← *stotra*
 - \[noun\], nominative, singular, masculine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanaspatiḥ* ← *vanaspati*
 - \[noun\], nominative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

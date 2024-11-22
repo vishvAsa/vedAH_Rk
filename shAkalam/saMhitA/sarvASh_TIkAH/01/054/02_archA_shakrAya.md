@@ -102,80 +102,118 @@ vr̥ṣatvā́ ← vr̥ṣatvá- (nominal stem)
 -   *arcā* ← *arc*
 - \[verb\], singular, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakrāya* ← *śakra*
 - \[noun\], dative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *śākine* ← *śākina*
 - \[noun\], locative, singular, masculine
 - “mighty; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *śacīvate* ← *śacīvat*
 - \[noun\], dative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇvantam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahayann* ← *mahayan* ← *mahay* ← *√mah*
 - \[verb noun\], nominative, singular
 - “glorify.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣṭuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇunā* ← *dhṛṣṇu*
 - \[noun\], instrumental, singular, neuter
 - “brave; ferocious; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣatvā* ← *vṛṣa* ← *vṛṣan*
 - \[noun\]
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣatvā* ← *tvā* ← *tva*
 - \[noun\], instrumental, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *nyṛñjate* ← *nyṛj* ← *√ṛj*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

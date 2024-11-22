@@ -108,88 +108,128 @@ viṣvadryàk ← viṣvadryàñc- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *maha* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *indroty* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indroty* ← *ūtī* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ugra*
 - \[noun\], vocative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *samanyavo* ← *samanyavaḥ* ← *samanyu*
 - \[noun\], nominative, plural, feminine
 - “consentaneous.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *samaranta* ← *samṛch* ← *√ṛch*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “collapse.”
-------------------------------------------------------------------------
+
+_________
+
 - *senāḥ* ← *senā*
 - \[noun\], nominative, plural, feminine
 - “army; senā \[word\]; armament.”
-------------------------------------------------------------------------
+
+_________
+
 - *patāti* ← *pat*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 - *didyun* ← *didyut*
 - \[noun\], nominative, singular, feminine
 - “arrow; Didyut.”
-------------------------------------------------------------------------
+
+_________
+
 - *naryasya* ← *narya*
 - \[noun\], genitive, singular, masculine
 - “manly; heroic; powerful; male; human.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhvor* ← *bāhvoḥ* ← *bāhu*
 - \[noun\], locative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mano* ← *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣvadryag* ← *viṣvadryak* ← *viṣvadryañc*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *cārīt* ← *car*
 - \[verb\], singular, Aorist inj. (proh.)
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

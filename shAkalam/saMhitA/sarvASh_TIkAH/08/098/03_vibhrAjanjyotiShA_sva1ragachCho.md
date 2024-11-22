@@ -78,53 +78,75 @@ yemire ← √yam- (root)
 
 -   *vibhrājañ* ← *vibhrājan* ← *vibhrāj* ← *√bhrāj*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *svar*
 - \[noun\], accusative, singular, neuter
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *agaccho* ← *agacchaḥ* ← *gam*
 - \[verb\], singular, Imperfect
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocanaṃ* ← *rocanam* ← *rocana*
 - \[noun\], accusative, singular, neuter
 - “citron; pomegranate.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *devās* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *yemire* ← *yam*
 - \[verb\], plural, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

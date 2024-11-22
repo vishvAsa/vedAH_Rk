@@ -74,49 +74,69 @@ mā́rutam ← mā́ruta- (nominal stem)
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indravāyū* ← *vāyū* ← *vāyu*
 - \[noun\], accusative, dual, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāgnim* ← *mitra*
 - \[noun\], masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāgnim* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣaṇam* ← *pūṣan*
 - \[noun\], accusative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhagam* ← *bhaga*
 - \[noun\], accusative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityān* ← *ādityāt* ← *āditya*
 - \[noun\], ablative, singular, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], accusative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇam* ← *gaṇa*
 - \[noun\], accusative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

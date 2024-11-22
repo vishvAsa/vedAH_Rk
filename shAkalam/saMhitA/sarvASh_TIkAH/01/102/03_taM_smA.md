@@ -116,89 +116,131 @@ yacha ← √yam- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *smā* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prāva* ← *prāv* ← *√av*
 - \[verb\], singular, Present imperative
 - “help; promote.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaitraṃ* ← *jaitram* ← *jaitra*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *anumadāma* ← *anumad* ← *√mad*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “praise; cheer; applaud.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃgame* ← *saṃgama*
 - \[noun\], locative, singular, masculine
 - “confluence; sexual intercourse; contact; meeting; association;
     battle; harmony; rendezvous; coupling; sexual activity.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājā* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣṭuta*
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāyadbhyo* ← *tvāyadbhyaḥ* ← *tvāyat*
 - \[noun\], dative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *maghavañcharma* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavañcharma* ← *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaccha* ← *yam*
 - \[verb\], singular, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

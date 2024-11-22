@@ -83,57 +83,81 @@ utá ← utá (invariable)
 - \[noun\], nominative, singular, masculine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhuto* ← *āhutaḥ* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadra*
 - \[noun\], nominative, singular, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhaga*
 - \[noun\], vocative, singular, masculine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadro* ← *bhadraḥ* ← *bhadra*
 - \[noun\], nominative, singular, masculine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvaraḥ* ← *adhvara*
 - \[noun\], nominative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadrāḥ* ← *bhadra*
 - \[noun\], nominative, plural, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *praśastayaḥ* ← *praśasti*
 - \[noun\], nominative, plural, feminine
 - “announcement; praise; respect.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

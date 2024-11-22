@@ -73,46 +73,66 @@ yatásrucaḥ ← yatásruc- (nominal stem)
 -   *sabādho* ← *sabādhas*
 - \[noun\], accusative, singular, neuter
 - “eager; ardent.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *janā* ← *janāḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyebhir* ← *havyebhiḥ* ← *havya*
 - \[noun\], instrumental, plural, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īﾱate* ← *īḍate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhvānāso* ← *juhvānāsaḥ* ← *hu*
 - \[verb noun\], nominative, plural
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatasrucaḥ* ← *yata* ← *yam*
 - \[verb noun\]
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatasrucaḥ* ← *srucaḥ* ← *sruc*
 - \[noun\], nominative, plural, masculine
 - “Sruc.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

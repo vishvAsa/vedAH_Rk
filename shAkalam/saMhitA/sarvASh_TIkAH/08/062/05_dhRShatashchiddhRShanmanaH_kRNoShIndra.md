@@ -98,20 +98,28 @@ rātáyaḥ ← rātí- (nominal stem)
 -   *dhṛṣataś* ← *dhṛṣataḥ* ← *dhṛṣ*
 - \[verb noun\], genitive, singular
 - “dare; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣan* ← *dhṛṣat* ← *dhṛṣ*
 - \[verb noun\], accusative, singular
 - “dare; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇoṣīndra* ← *kṛṇoṣi* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -122,53 +130,77 @@ rātáyaḥ ← rātí- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇoṣīndra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tīvraiḥ* ← *tīvra*
 - \[noun\], instrumental, plural, masculine
 - “intense; severe; pungent; acute; potent; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyato* ← *saparyataḥ* ← *sapary*
 - \[verb noun\], genitive, singular
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratibhūṣato* ← *pratibhūṣataḥ* ← *pratibhūṣ* ← *√bhūṣ*
 - \[verb noun\], genitive, singular
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadrāḥ* ← *bhadra*
 - \[noun\], nominative, plural, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātayaḥ* ← *rāti*
 - \[noun\], nominative, plural, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

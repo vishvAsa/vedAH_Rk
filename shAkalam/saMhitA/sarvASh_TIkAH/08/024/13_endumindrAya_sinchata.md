@@ -79,49 +79,71 @@ rā́dhasā ← rā́dhas- (nominal stem)
 -   *endum* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *endum* ← *indum* ← *indu*
 - \[noun\], accusative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *siñcata* ← *sic*
 - \[verb\], plural, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibāti* ← *pā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *somyam* ← *somya*
 - \[noun\], accusative, singular, neuter
 - “saumya.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhasā* ← *rādhas*
 - \[noun\], instrumental, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *codayāte* ← *coday* ← *√cud*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “impel; drive; incite; command; drive; arouse; propel.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvanā* ← *mahitvana*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

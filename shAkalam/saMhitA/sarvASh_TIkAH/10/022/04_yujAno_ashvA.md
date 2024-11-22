@@ -91,59 +91,85 @@ stoṣi ← √stu- (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvā* ← *aśva*
 - \[noun\], accusative, dual, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhunī* ← *dhuni*
 - \[noun\], accusative, dual, masculine
 - “deafening; boisterous; noisy.”
-------------------------------------------------------------------------
+
+_________
+
 - *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrivaḥ* ← *vajrivas* ← *vajrivat*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *syantā* ← *syand*
 - \[verb\], singular, periphrast. future
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *virukmatā* ← *virukmat*
 - \[noun\], instrumental, singular, masculine
 - “bright; glistening.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛjāna* ← *sṛj*
 - \[verb noun\], nominative, singular
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *stoṣy* ← *stoṣi* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvanaḥ* ← *adhvan*
 - \[noun\], accusative, plural, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -92,58 +92,86 @@ saparyánti ← √sapary- (root)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍe* ← *īḍ*
 - \[verb\], singular, Present indikative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhujāṃ* ← *bhujām* ← *bhuj*
 - \[noun\], genitive, plural, masculine
 - “bhuj; enjoyer.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaviṣṭhaṃ* ← *yaviṣṭham* ← *yaviṣṭha*
 - \[noun\], accusative, singular, masculine
 - “youngest.”
-------------------------------------------------------------------------
+
+_________
+
 - *śāsā* ← *śās*
 - \[noun\], instrumental, singular, feminine
 - “śās; command; ruler; commander.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *durdharītum* ← *durdharītu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dharman*
 - \[noun\], locative, singular, neuter
 - “regulation; Dharma; law; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *enīḥ* ← *enī*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *saparyanti* ← *sapary*
 - \[verb\], plural, Present indikative
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātur* ← *mātuḥ* ← *mātṛ*
 - \[noun\], genitive, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūdhaḥ* ← *ūdhas*
 - \[noun\], accusative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

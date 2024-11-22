@@ -102,78 +102,116 @@ saparyátaḥ ← √sapary- (root)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandamānāyāndhaso* ← *mandamānāya* ← *mad*
 - \[verb noun\], dative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandamānāyāndhaso* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *'rcā* ← *arcā* ← *arc*
 - \[verb\], singular, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvānarāya* ← *viśvānara*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *viśvābhuve* ← *viśvābhū*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sumakhaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumakhaṃ* ← *makham* ← *makha*
 - \[noun\], accusative, singular, masculine
 - “yajña; Makha; festival.”
-------------------------------------------------------------------------
+
+_________
+
 - *saho* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmṇaṃ* ← *nṛmṇam* ← *nṛmṇa*
 - \[noun\], accusative, singular, neuter
 - “manhood; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], nominative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyataḥ* ← *sapary*
 - \[verb\], dual, Present indikative
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,11 +105,15 @@ pathíbhiḥ ← pánthā- ~ path- (nominal stem)
 -   *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *karmaṇā* ← *karman*
 - \[noun\], instrumental, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -117,72 +121,106 @@ pathíbhiḥ ← pánthā- ~ path- (nominal stem)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣā* ← *iṣ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinomīndrāviṣṇū* ← *hinomi* ← *hi*
 - \[verb\], singular, Present indikative
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinomīndrāviṣṇū* ← *indrāviṣṇū* ← *indrāviṣṇu*
 - \[noun\], vocative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *apasas* ← *apasaḥ* ← *apas*
 - \[noun\], genitive, singular, neuter
 - “work; deed.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāre* ← *pāra*
 - \[noun\], locative, singular, masculine
 - “shore; pāra \[word\]; end; excellence.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣethāṃ* ← *juṣethām* ← *juṣ*
 - \[verb\], dual, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇaṃ* ← *draviṇam* ← *draviṇa*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhattam* ← *dhā*
 - \[verb\], dual, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣṭair* ← *ariṣṭaiḥ* ← *ariṣṭa*
 - \[noun\], instrumental, plural, masculine
 - “safe; unharmed.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathibhiḥ* ← *pathin*
 - \[noun\], instrumental, plural, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārayantā* ← *pāray* ← *√pṛ*
 - \[verb noun\], nominative, dual
 - “rescue; keep alive; satisfy; save; resist; endure.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

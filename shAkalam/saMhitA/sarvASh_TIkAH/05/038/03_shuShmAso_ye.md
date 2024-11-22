@@ -90,58 +90,86 @@ rājathaḥ ← √rāj- (root)
 -   *śuṣmāso* ← *śuṣmāsaḥ* ← *śuṣma*
 - \[noun\], nominative, plural, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrivo* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
-------------------------------------------------------------------------
+
+_________
+
 - *mehanā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ketasāpaḥ* ← *ketasap*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *devāv* ← *devau* ← *deva*
 - \[noun\], nominative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaś* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *gmaś* ← *gmaḥ* ← *gam*
 - \[noun\], genitive, singular
 - “gam.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājathaḥ* ← *rāj*
 - \[verb\], dual, Present indikative
 - “govern; shine; glitter; direct.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

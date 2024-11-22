@@ -97,72 +97,104 @@ yajñásya ← yajñá- (nominal stem)
 - \[noun\], accusative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñānāṃ* ← *yajñānām* ← *yajña*
 - \[noun\], genitive, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadanaṃ* ← *sadanam* ← *sadana*
 - \[noun\], accusative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayīṇām* ← *rayi*
 - \[noun\], genitive, plural, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahām* ← *mahat*
 - \[noun\], accusative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhāvam* ← *āhāva*
 - \[noun\], accusative, singular, masculine
 - “bucket; āhāva \[word\]; manger.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *navanta* ← *nū*
 - \[verb\], plural, Present injunctive
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaiśvānaraṃ* ← *vaiśvānaram* ← *vaiśvānara*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathyam* ← *rathī*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *adhvarāṇāṃ* ← *adhvarāṇām* ← *adhvara*
 - \[noun\], genitive, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketuṃ* ← *ketum* ← *ketu*
 - \[noun\], accusative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *janayanta* ← *janay* ← *√jan*
 - \[verb\], plural, Present injunctive
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -76,49 +76,69 @@ vaktā́ ← vaktár- (nominal stem)
 -   *nakir*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śacīnāṃ* ← *śacīnām* ← *śacī*
 - \[noun\], genitive, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
-------------------------------------------------------------------------
+
+_________
+
 - *niyantā* ← *niyantṛ*
 - \[noun\], nominative, singular, masculine
 - “charioteer; driver.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛtānām* ← *sūnṛtā*
 - \[noun\], genitive, plural, feminine
 - “liberality.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakir*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaktā* ← *vac*
 - \[verb\], singular, periphrast. future
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dād* ← *dāt* ← *dā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -75,45 +75,65 @@ víśve ← víśva- (nominal stem)
 
 -   *nahi*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *asty* ← *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *arbhako* ← *arbhakaḥ* ← *arbhaka*
 - \[noun\], nominative, singular, masculine
 - “humble; weak.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kumārakaḥ* ← *kumāraka*
 - \[noun\], nominative, singular, masculine
 - “kumārabandha; child.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *satomahānta* ← *satomahāntaḥ* ← *satomahat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

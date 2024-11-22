@@ -102,85 +102,123 @@ priyátamasya ← priyátama- (nominal stem)
 -   *dyāvābhūmī*
 - \[noun\], vocative, dual, feminine
 - “heaven and earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *adite* ← *aditi*
 - \[noun\], vocative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *trāsīthāṃ* ← *trāsīthām* ← *trā*
 - \[verb\], dual, Aorist optative
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *jajñuḥ* ← *jan*
 - \[verb\], plural, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujanimāna* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujanimāna* ← *janimānaḥ* ← *janiman*
 - \[noun\], nominative, plural, masculine
 - “birth; offspring; origin; kind; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣve* ← *ṛṣva*
 - \[noun\], vocative, singular, feminine
 - “distinguished; high; noble; enormous.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *heﾱe* ← *heḍe* ← *heḍa*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bhūma* ← *bhū*
 - \[verb\], plural, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyor* ← *vāyoḥ* ← *vāyu*
 - \[noun\], genitive, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyatamasya* ← *priyatama*
 - \[noun\], genitive, singular, masculine
 - “beloved; dearest.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṇām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

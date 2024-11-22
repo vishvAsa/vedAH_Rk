@@ -96,75 +96,109 @@ eṣām ← ayám (pronoun)
 -   *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rājānaḥ* ← *rājan*
 - \[noun\], nominative, plural, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *samitā* ← *samitāḥ* ← *sami* ← *√i*
 - \[verb noun\], nominative, plural
 - “meet.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayajyavaḥ* ← *ayajyu*
 - \[noun\], nominative, plural, masculine
 - “irreligious.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudāsam* ← *sudās*
 - \[noun\], accusative, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyudhuḥ* ← *yudh*
 - \[verb\], plural, Perfect indicative
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyā* ← *satya*
 - \[noun\], nominative, singular, feminine
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṇām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *admasadām* ← *admasad*
 - \[noun\], genitive, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *upastutir* ← *upastutiḥ* ← *upastuti*
 - \[noun\], nominative, singular, feminine
 - “praise; applause.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhavan* ← *bhū*
 - \[verb\], plural, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *devahūtiṣu* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devahūtiṣu* ← *hūtiṣu* ← *hūti*
 - \[noun\], locative, plural, feminine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

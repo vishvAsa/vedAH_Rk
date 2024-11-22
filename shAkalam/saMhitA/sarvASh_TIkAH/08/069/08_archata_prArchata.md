@@ -84,45 +84,67 @@ púram ← púr- (nominal stem)
 -   *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *prārcata* ← *prārc* ← *√arc*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *priyamedhāso* ← *priyamedhāsaḥ* ← *priyamedha*
 - \[noun\], vocative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcantu* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *putrakā* ← *putrakāḥ* ← *putraka*
 - \[noun\], nominative, plural, masculine
 - “son; male child; Putraka; baby; doll.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *puraṃ* ← *puram* ← *pura*
 - \[noun\], accusative, singular, neuter
 - “town; pura \[word\]; stronghold.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇv* ← *dhṛṣṇu*
 - \[noun\], accusative, singular, neuter
 - “brave; ferocious; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

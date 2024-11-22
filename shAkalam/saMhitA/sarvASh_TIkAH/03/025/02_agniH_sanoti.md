@@ -93,70 +93,100 @@ vaha ← √vah- (root)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanoti* ← *san*
 - \[verb\], singular, Present indikative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīryāṇi* ← *vīrya*
 - \[noun\], accusative, plural, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanoti* ← *san*
 - \[verb\], singular, Present indikative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtāya* ← *amṛta*
 - \[noun\], dative, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūṣan* ← *bhūṣ*
 - \[verb noun\], nominative, singular
 - “endeavor; attend; strive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *eha* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahā* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *purukṣo* ← *purukṣu*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

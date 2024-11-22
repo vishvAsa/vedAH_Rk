@@ -76,47 +76,67 @@ yáḥ ← yá- (pronoun)
 -   *yajadhvainam*
 - \[adverb\]
 - “yajadhvainam \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *priyamedhā* ← *priyamedhāḥ* ← *priyamedha*
 - \[noun\], vocative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *satrācā* ← *satrāc*
 - \[noun\], instrumental, singular, neuter
 - “focused; attentive.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyamadvā* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyamadvā* ← *madvā* ← *madvan*
 - \[noun\], nominative, singular, masculine
 - “intoxicated.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -108,81 +108,121 @@ sántam ← √as- 1 (root)
 -   *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *budhnān* ← *budhnāt* ← *budhna*
 - \[noun\], ablative, singular, masculine
 - “bottom; bottom; base.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahiṣasya* ← *mahiṣa*
 - \[noun\], genitive, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *varpasa* ← *varpasaḥ* ← *varpas*
 - \[noun\], ablative, singular, neuter
 - “form; look; disguise.”
-------------------------------------------------------------------------
+
+_________
+
 - *īśānāsaḥ* ← *īś*
 - \[verb noun\], nominative, plural
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *kranta* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrayaḥ* ← *sūri*
 - \[noun\], nominative, plural, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *pradivo* ← *pradivaḥ* ← *pradiv*
 - \[noun\], ablative, singular, masculine
 - “age-old; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhva* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ādhave* ← *ādhava*
 - \[noun\], locative, singular, masculine
 - “agitator.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhā*
 - \[adverb\]
 - “secretly.”
-------------------------------------------------------------------------
+
+_________
+
 - *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātariśvā* ← *mātariśvan*
 - \[noun\], nominative, singular, masculine
 - “wind; Mātariśvan; Vayu; vāta.”
-------------------------------------------------------------------------
+
+_________
+
 - *mathāyati* ← *mathāy* ← *√math*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

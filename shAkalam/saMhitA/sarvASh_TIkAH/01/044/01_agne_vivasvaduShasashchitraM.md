@@ -92,62 +92,90 @@ uṣarbúdhaḥ ← uṣarbúdh- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivasvad* ← *vivasvat*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasaś* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *citraṃ* ← *citram* ← *citra*
 - \[noun\], accusative, singular, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartya*
 - \[noun\], vocative, singular, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedo* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahā* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣarbudhaḥ* ← *uṣarbudh*
 - \[noun\], accusative, plural, masculine
 - “early rising.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,46 +73,66 @@ víśvā ← víśva- (nominal stem)
 -   *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *rucā* ← *ruc*
 - \[noun\], instrumental, singular, feminine
 - “beam; radiance; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *rucā* ← *ruc*
 - \[noun\], instrumental, singular, feminine
 - “beam; radiance; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhyas* ← *devebhyaḥ* ← *deva*
 - \[noun\], ablative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūny* ← *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśa* ← *viś*
 - \[verb\], singular, Present imperative
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

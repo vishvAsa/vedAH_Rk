@@ -76,43 +76,63 @@ ripúḥ ← ripú- (nominal stem)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paro* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāntara* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāntara* ← *antare*
 - \[adverb\]
 - “in.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādadharṣad* ← *ādadharṣat* ← *ādhṛṣ* ← *√dhṛṣ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “overcome; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇvasū* ← *vṛṣaṇvasu*
 - \[noun\], vocative, dual, masculine
 - “affluent.”
-------------------------------------------------------------------------
+
+_________
+
 - *duḥśaṃso* ← *duḥśaṃsaḥ* ← *duḥśaṃsa*
 - \[noun\], nominative, singular, masculine
 - “calumniatory; wicked.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyo* ← *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “mortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *ripuḥ* ← *ripu*
 - \[noun\], nominative, singular, masculine
 - “enemy; arivarga; Ripu; foe.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

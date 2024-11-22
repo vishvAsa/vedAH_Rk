@@ -93,56 +93,82 @@ kr̥ṇvantu ← √kr̥- (root)
 -   *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], nominative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rudrā* ← *rudrāḥ* ← *rudra*
 - \[noun\], nominative, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasavaḥ* ← *vasu*
 - \[noun\], nominative, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunīthā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunīthā* ← *nīthāḥ* ← *nītha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvākṣāmā* ← *dyāvākṣam*
 - \[noun\], nominative, dual, feminine
 - “heaven and earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivī*
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣam* ← *antarikṣa*
 - \[noun\], nominative, singular, neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣaso* ← *sajoṣasaḥ* ← *sajoṣas*
 - \[noun\], nominative, plural, masculine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *avantu* ← *av*
 - \[verb\], plural, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrdhvaṃ* ← *ūrdhvam* ← *ūrdhva*
 - \[noun\], accusative, singular, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvantv* ← *kṛṇvantu* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -153,16 +179,22 @@ kr̥ṇvantu ← √kr̥- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvarasya* ← *adhvara*
 - \[noun\], genitive, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ketum* ← *ketu*
 - \[noun\], accusative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

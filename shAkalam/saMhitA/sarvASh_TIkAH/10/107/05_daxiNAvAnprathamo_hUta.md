@@ -98,79 +98,113 @@ yáḥ ← yá- (pronoun)
 
 -   *dakṣiṇāvān* ← *dakṣiṇāvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *prathamo* ← *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *hūta* ← *hūtaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇāvān* ← *dakṣiṇāvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *grāmaṇīr* ← *grāmaṇīḥ* ← *grāmaṇī*
 - \[noun\], nominative, singular, masculine
 - “greatest.”
-------------------------------------------------------------------------
+
+_________
+
 - *agram* ← *agra*
 - \[noun\], accusative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *manye* ← *man*
 - \[verb\], singular, Present indikative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛpatiṃ* ← *nṛpatim* ← *nṛpati*
 - \[noun\], accusative, singular, masculine
 - “king.”
-------------------------------------------------------------------------
+
+_________
+
 - *janānāṃ* ← *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamo* ← *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇām* ← *dakṣiṇā*
 - \[noun\], accusative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvivāya* ← *āvī* ← *√vī*
 - \[verb\], singular, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

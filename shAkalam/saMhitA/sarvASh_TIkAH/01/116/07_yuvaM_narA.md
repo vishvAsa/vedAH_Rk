@@ -93,63 +93,93 @@ súrāyāḥ ← súrā- (nominal stem)
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *pajriyāya* ← *pajriya*
 - \[noun\], dative, singular, masculine
 - “Kakṣīvant.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakṣīvate* ← *kakṣīvant*
 - \[noun\], dative, singular, masculine
 - “Kakṣīvant; kakṣīvant \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aradatam* ← *rad*
 - \[verb\], dual, Imperfect
 - “dig.”
-------------------------------------------------------------------------
+
+_________
+
 - *purandhim* ← *puraṃdhi*
 - \[noun\], accusative, singular, feminine
 - “liberality; Puraṃdhi; munificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *kārotarāc* ← *kārotarāt* ← *kārotara*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *chaphād* ← *śaphāt* ← *śapha*
 - \[noun\], ablative, singular, masculine
 - “one-eighth; śapha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kumbhāṃ* ← *kumbha*
 - \[noun\], accusative, plural, masculine
 - “jar; Kumbha; kumbha \[word\]; kumbhapuṭa; kumbha; Aquarius.”
-------------------------------------------------------------------------
+
+_________
+
 - *asiñcataṃ* ← *asiñcatam* ← *sic*
 - \[verb\], dual, Imperfect
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *surāyāḥ* ← *surā*
 - \[noun\], genitive, singular, feminine
 - “alcohol; surā; surā; surā \[word\]; Devi; wine; tavern.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

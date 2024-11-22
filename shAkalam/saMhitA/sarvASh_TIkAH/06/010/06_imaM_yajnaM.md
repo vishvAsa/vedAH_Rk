@@ -102,78 +102,114 @@ vā́jasya ← vā́ja- (nominal stem)
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *cano* ← *canaḥ* ← *canas*
 - \[noun\], accusative, singular, neuter
 - “delight.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhā* ← *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśan* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsāno* ← *āsānaḥ* ← *ās*
 - \[verb noun\], nominative, singular
 - “sit; stay; sit down; dwell; lie; lie; exist.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhute* ← *hu*
 - \[verb\], singular, Present indikative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣmān* ← *haviṣmat*
 - \[noun\], nominative, singular, masculine
 - “sacrificing.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharadvājeṣu* ← *bharadvāja*
 - \[noun\], locative, plural, masculine
 - “Bharadvāja; Droṇa; Bharadvāja; skylark.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhiṣe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvṛktim* ← *suvṛkti*
 - \[noun\], accusative, singular, feminine
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *avīr* ← *avīḥ* ← *av*
 - \[verb\], singular, Aorist inj. (proh.)
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasya* ← *vāja*
 - \[noun\], genitive, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *gadhyasya* ← *gadhya*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

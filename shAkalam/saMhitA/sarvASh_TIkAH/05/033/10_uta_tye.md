@@ -102,84 +102,122 @@ vrajám ← vrajá- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhvanyasya* ← *dhvanya*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *juṣṭā* ← *juṣṭāḥ* ← *juṣ*
 - \[verb noun\], nominative, plural
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *lakṣmaṇyasya* ← *lakṣmaṇya*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *suruco* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suruco* ← *rucaḥ* ← *ruc*
 - \[noun\], nominative, plural, masculine
 - “beam; radiance; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatānāḥ* ← *yat*
 - \[verb noun\], nominative, plural
 - “strive; endeavor; join; equal; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvaraṇasya* ← *saṃvaraṇa*
 - \[noun\], genitive, singular, masculine
 - “Saṃvaraṇa; Saṃvaraṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣer* ← *ṛṣeḥ* ← *ṛṣi*
 - \[noun\], genitive, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrajaṃ* ← *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayatā* ← *prayatāḥ* ← *prayam* ← *√yam*
 - \[verb noun\], nominative, plural
 - “give; emit; send; transmit.”
-------------------------------------------------------------------------
+
+_________
+
 - *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *gman* ← *gam*
 - \[verb\], plural, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

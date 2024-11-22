@@ -93,75 +93,109 @@ sukŕ̥ttarāya ← sukŕ̥ttara- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ma* ← *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanāmandac* ← *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanāmandac* ← *amandat* ← *mad*
 - \[verb\], singular, Imperfect
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *citraṃ* ← *citram* ← *citra*
 - \[noun\], accusative, singular, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *araṭve* ← *araṭva*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *akṣe* ← *akṣa*
 - \[noun\], locative, singular, masculine
 - “Akṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *nahuṣe* ← *nahuṣa*
 - \[noun\], locative, singular, masculine
 - “Nahuṣa; Nahuṣa; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtvani* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtvani* ← *kṛtvani* ← *kṛtvan*
 - \[noun\], locative, singular, masculine
 - “busy.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛttarāya* ← *sukṛttara*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sukratuḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratuḥ* ← *kratuḥ* ← *kratu*
 - \[noun\], nominative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

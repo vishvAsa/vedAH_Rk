@@ -78,45 +78,65 @@ yóṣaṇām ← yóṣaṇā- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *giram* ← *gir*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājayantīm* ← *vājay* ← *√vaj*
 - \[verb noun\], accusative, singular
 - “incite.”
-------------------------------------------------------------------------
+
+_________
+
 - *avā* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhūyur* ← *vadhūyuḥ* ← *vadhūyu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣaṇām* ← *yoṣaṇā*
 - \[noun\], accusative, singular, feminine
 - “girl; wife.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

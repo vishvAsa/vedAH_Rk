@@ -86,61 +86,89 @@ te ← tvám (pronoun)
 
 -   *ācchadvidhānair* ← *ācchad*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ācchadvidhānair* ← *vidhānaiḥ* ← *vidhāna*
 - \[noun\], instrumental, plural, neuter
 - “method; treatment; preparation; ritual; rule; formulation; means;
     manner; administration; performance; act.”
-------------------------------------------------------------------------
+
+_________
+
 - *gupito* ← *gupitaḥ* ← *gup*
 - \[verb noun\], nominative, singular
 - “protect; hide; guard; defend; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *bārhataiḥ* ← *bārhata*
 - \[noun\], instrumental, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣitaḥ* ← *rakṣ*
 - \[verb noun\], nominative, singular
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *grāvṇām* ← *grāvan*
 - \[noun\], genitive, plural, masculine
 - “stone; millstone; grindstone; mountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchṛṇvan* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchṛṇvan* ← *śṛṇvan* ← *śru*
 - \[verb noun\], nominative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhasi* ← *sthā*
 - \[verb\], singular, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnāti* ← *aś*
 - \[verb\], singular, Present indikative
 - “eat; consume; chew; feed.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārthivaḥ* ← *pārthiva*
 - \[noun\], nominative, singular, masculine
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

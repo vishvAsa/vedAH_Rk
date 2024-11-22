@@ -108,91 +108,131 @@ ná ← ná (invariable)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatasya* ← *parvata*
 - \[noun\], genitive, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭhād* ← *pṛṣṭhāt* ← *pṛṣṭha*
 - \[noun\], ablative, singular, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthebhir* ← *ukthebhiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrānayanta* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrānayanta* ← *anayanta* ← *nī*
 - \[verb\], plural, Imperfect
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvābhiḥ* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvābhiḥ* ← *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭutibhir* ← *suṣṭutibhiḥ* ← *suṣṭuti*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājayanta* ← *vājayantaḥ* ← *vājay* ← *√vaj*
 - \[verb noun\], nominative, plural
 - “incite.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājiṃ* ← *ājim* ← *āji*
 - \[noun\], accusative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jagmur* ← *jagmuḥ* ← *gam*
 - \[verb\], plural, Perfect indicative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *girvāho* ← *girvāhaḥ* ← *girvāhas*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

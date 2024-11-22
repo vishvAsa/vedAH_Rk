@@ -99,73 +99,107 @@ stuṣé ← √stu- (root)
 -   *vemi* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣann* ← *pūṣan*
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛñjase* ← *ṛj*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *vemi* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotava* ← *stotave* ← *stu*
 - \[verb noun\]
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *āghṛṇe* ← *āghṛṇi*
 - \[noun\], vocative, singular, masculine
 - “aglow(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tasya* ← *tad*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vemy* ← *vemi* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *araṇaṃ* ← *araṇam* ← *araṇa*
 - \[noun\], nominative, singular, neuter
 - “foreign; unrelated.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *stuṣe* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *pajrāya* ← *pajra*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sāmne* ← *sāman*
 - \[noun\], dative, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

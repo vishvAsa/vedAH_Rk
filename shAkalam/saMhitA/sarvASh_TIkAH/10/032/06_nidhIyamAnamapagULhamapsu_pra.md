@@ -109,94 +109,134 @@ téna ← sá- ~ tá- (pronoun)
 - \[verb noun\], accusative, singular
 - “put; fill into; stow; insert; ignite; insert; add; put on;
     establish; keep down.”
-------------------------------------------------------------------------
+
+_________
+
 - *apagūḍham* ← *apaguh* ← *√guh*
 - \[verb noun\], accusative, singular
 - “hide.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsu* ← *ap*
 - \[noun\], locative, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratapā* ← *vrata*
 - \[noun\], neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratapā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *uvāca* ← *vac*
 - \[verb\], singular, Perfect indicative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvāṃ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *cacakṣa* ← *cakṣ*
 - \[verb\], singular, Perfect indicative
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *tenāham* ← *tena* ← *tad*
 - \[noun\], instrumental, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tenāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *anuśiṣṭa* ← *anuśiṣṭaḥ* ← *anuśās* ← *√śās*
 - \[verb noun\], nominative, singular
 - “order; govern; teach.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgām* ← *āgā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “come; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

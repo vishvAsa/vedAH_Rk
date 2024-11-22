@@ -101,79 +101,115 @@ vīrā́ḥ ← vīrá- (nominal stem)
 
 -   *unatti* ← *und*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmim* ← *bhūmi*
 - \[noun\], accusative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāṃ* ← *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadā*
 - \[adverb\]
 - “once \[when\]; if.”
-------------------------------------------------------------------------
+
+_________
+
 - *dugdhaṃ* ← *dugdham* ← *duh*
 - \[verb noun\], accusative, singular
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaṣṭy* ← *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhreṇa* ← *abhra*
 - \[noun\], instrumental, singular, neuter
 - “abhra; cloud; sky; abhra \[word\]; cumulonimbus; mica; air;
     cloudiness.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasata* ← *vas*
 - \[verb\], plural, Present injunctive
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatāsas* ← *parvatāsaḥ* ← *parvata*
 - \[noun\], nominative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣīyantaḥ* ← *taviṣīy*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *śrathayanta* ← *śrathay* ← *√śrath*
 - \[verb\], plural, Present injunctive
 - “relax.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

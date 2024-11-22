@@ -95,72 +95,106 @@ rúśat ← rúśant- (nominal stem)
 
 -   *sanemi*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapasyamānaḥ* ← *svapasy*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *sūnur* ← *sūnuḥ* ← *sūnu*
 - \[noun\], nominative, singular, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *dādhāra* ← *dhṛ*
 - \[verb\], singular, Perfect indicative
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudaṃsāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudaṃsāḥ* ← *daṃsāḥ* ← *daṃsas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āmāsu* ← *āma*
 - \[noun\], locative, plural, feminine
 - “uncooked; unfestering; unburnt; green; undigested; fusty; raw.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhiṣe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *pakvam* ← *pakva*
 - \[noun\], accusative, singular, neuter
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇāsu* ← *kṛṣṇa*
 - \[noun\], locative, plural, feminine
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruśad* ← *ruśat*
 - \[noun\], accusative, singular, neuter
 - “white; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *rohiṇīṣu* ← *rohin*
 - \[noun\], locative, plural, feminine
 - “growing.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -106,83 +106,121 @@ spáśaḥ ← spáś- (nominal stem)
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhanā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *mandamānāḥ* ← *mad*
 - \[verb noun\], nominative, plural
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatraṃ* ← *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *adadhuḥ* ← *dhā*
 - \[verb\], plural, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, plural, masculine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtho* ← *bhūthaḥ* ← *bhū*
 - \[verb\], dual, Aorist conj./subj.
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *urvī* ← *uru*
 - \[noun\], accusative, dual, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *spaśo* ← *spaśaḥ* ← *spaś*
 - \[noun\], nominative, plural, masculine
 - “lookout; spy; spaś.”
-------------------------------------------------------------------------
+
+_________
+
 - *adabdhāso* ← *adabdhāsaḥ* ← *adabdha*
 - \[noun\], nominative, plural, masculine
 - “unfailing; unimpaired.”
-------------------------------------------------------------------------
+
+_________
+
 - *amūrāḥ* ← *amūra*
 - \[noun\], nominative, plural, masculine
 - “wise; intelligent; apt.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -95,70 +95,102 @@ sudānū ← sudā́nu- (nominal stem)
 
 -   *hiraṇyahastam* ← *hiraṇyahasta*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *rarāṇā* ← *rā*
 - \[verb noun\], nominative, dual
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *putraṃ* ← *putram* ← *putra*
 - \[noun\], accusative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhrimatyā* ← *vadhrimatyai* ← *vadhrimatī*
 - \[noun\], dative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *adattam* ← *dā*
 - \[verb\], dual, Imperfect
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *tridhā*
 - \[adverb\]
 - “threefold.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śyāvam* ← *śyāva*
 - \[noun\], accusative, singular, masculine
 - “śyāva; Śyāva.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *vikastam* ← *vikas* ← *√kas*
 - \[verb noun\], accusative, singular
 - “unfold; expand.”
-------------------------------------------------------------------------
+
+_________
+
 - *uj* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvasa* ← *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
-------------------------------------------------------------------------
+
+_________
+
 - *airayataṃ* ← *airayatam* ← *īray* ← *√īr*
 - \[verb\], dual, Imperfect
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānū* ← *sudānu*
 - \[noun\], vocative, dual, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

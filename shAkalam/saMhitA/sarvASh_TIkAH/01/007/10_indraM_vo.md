@@ -74,42 +74,60 @@ kévalaḥ ← kévala- (nominal stem)
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *janebhyaḥ* ← *jana*
 - \[noun\], dative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *kevalaḥ* ← *kevala*
 - \[noun\], nominative, singular, masculine
 - “pure; alone(p); whole; all(a); pure; entire; kevala \[word\];
     alone(p); single(a); white; absolute.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

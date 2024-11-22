@@ -106,52 +106,74 @@ yuvatáyaḥ ← yuvatí- (nominal stem)
 - \[noun\], ablative, singular, neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaśyaṃ* ← *apaśyam* ← *paś*
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanutaś* ← *sanutar*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *carantaṃ* ← *carantam* ← *car*
 - \[verb noun\], accusative, singular
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumad* ← *sumat*
 - \[adverb\]
 - “together.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūthaṃ* ← *yūtham* ← *yūtha*
 - \[noun\], accusative, singular, masculine
 - “herd; troop; battalion.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *puru*
 - \[noun\], accusative, singular, neuter
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *śobhamānam* ← *śubh*
 - \[verb noun\], accusative, singular
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *agṛbhrann* ← *agṛbhran* ← *grah*
 - \[verb\], plural, Root aorist (Ind.)
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -159,41 +181,57 @@ yuvatáyaḥ ← yuvatí- (nominal stem)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajaniṣṭa* ← *jan*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣaḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *paliknīr* ← *paliknīḥ* ← *paliknī*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvatayo* ← *yuvatayaḥ* ← *yuvati*
 - \[noun\], nominative, plural, feminine
 - “girl; woman.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavanti* ← *bhū*
 - \[verb\], plural, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

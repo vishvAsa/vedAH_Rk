@@ -113,95 +113,139 @@ yé ← yá- (pronoun)
 
 -   *nahi*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatraṃ* ← *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saho* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *manyuṃ* ← *manyum* ← *manyu*
 - \[noun\], accusative, singular, feminine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaś* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 - *canāmī* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *canāmī* ← *amī* ← *adas*
 - \[noun\], nominative, plural, masculine
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *patayanta* ← *patayantaḥ* ← *patay* ← *√pat*
 - \[verb noun\], nominative, plural
 - “fly.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpuḥ* ← *āp*
 - \[verb\], plural, Perfect indicative
 - “enter (a state); get; reach; obtain; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *nemā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nemā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *animiṣaṃ* ← *animiṣam* ← *animiṣa*
 - \[noun\], accusative, singular, neuter
 - “agaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *carantīr* ← *carantīḥ* ← *car*
 - \[verb noun\], nominative, plural
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *praminanty* ← *praminanti* ← *pramī* ← *√mī*
 - \[verb\], plural, Present indikative
 - “destroy.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhvam* ← *abhva*
 - \[noun\], accusative, singular, neuter
 - “monstrosity; nothingness; void; force.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

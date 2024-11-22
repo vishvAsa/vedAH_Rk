@@ -79,43 +79,61 @@ yógam ← yóga- (nominal stem)
 -   *yasmād* ← *yasmāt* ← *yad*
 - \[noun\], ablative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛte*
 - \[adverb\]
 - “without; ṛte \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sidhyati* ← *sidh*
 - \[verb\], singular, Present indikative
 - “prepare; prepare; succeed; heal; perfect; be known; compound;
     achieve; prove.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipaścitaś* ← *vipaścitaḥ* ← *vipaścit*
 - \[noun\], genitive, singular, masculine
 - “wise; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīnāṃ* ← *dhīnām* ← *dhī*
 - \[noun\], genitive, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *yogam* ← *yoga*
 - \[noun\], accusative, singular, masculine
 - “method; application; yoga; remedy; mix; treatment; mixture;
@@ -124,11 +142,15 @@ yógam ← yóga- (nominal stem)
     therapy; enterprise; addition; undertaking; performance; marriage;
     yoke; yoga \[word\]; art; combination; assortment; confluence;
     constellation; relationship; connection; agent; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *invati* ← *inv*
 - \[verb\], singular, Present indikative
 - “bring; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

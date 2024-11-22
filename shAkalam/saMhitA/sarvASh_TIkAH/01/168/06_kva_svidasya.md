@@ -111,93 +111,135 @@ ví ← ví (invariable)
 -   *kva*
 - \[adverb\]
 - “wherein; how; kva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svid*
 - \[adverb\]
 - “svid \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajaso* ← *rajasaḥ* ← *rajas*
 - \[noun\], genitive, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahas* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *paraṃ* ← *param* ← *para*
 - \[noun\], nominative, singular, neuter
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
-------------------------------------------------------------------------
+
+_________
+
 - *kvāvaram* ← *kva*
 - \[adverb\]
 - “wherein; how; kva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kvāvaram* ← *avaram* ← *avara*
 - \[noun\], nominative, singular, neuter
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasminn* ← *yasmin* ← *yad*
 - \[noun\], locative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āyaya* ← *āyā* ← *√yā*
 - \[verb\], plural, Perfect indicative
 - “enter (a state); come; transform; approach; arrive; reach; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *yac* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *cyāvayatha* ← *cyāvay* ← *√cyu*
 - \[verb\], plural, Present indikative
 - “chase away; remove; move.”
-------------------------------------------------------------------------
+
+_________
+
 - *vithureva* ← *vithurā* ← *vithura*
 - \[noun\], accusative, plural, neuter
 - “weak.”
-------------------------------------------------------------------------
+
+_________
+
 - *vithureva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃhitaṃ* ← *saṃhitam* ← *saṃdhā* ← *√dhā*
 - \[verb noun\], accusative, singular
 - “connect; refer; aim; grow together; compress; ally; unite; operate
     on.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *adriṇā* ← *adri*
 - \[noun\], instrumental, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *patatha* ← *pat*
 - \[verb\], plural, Present indikative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṇavam* ← *arṇava*
 - \[noun\], accusative, singular, masculine
 - “wave; flood.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

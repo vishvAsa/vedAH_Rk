@@ -93,7 +93,9 @@ vibhájan ← √bhaj- (root)
 -   *bhūrikarmaṇe* ← *bhūri*
 - \[noun\]
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūrikarmaṇe* ← *karmaṇe* ← *karman*
 - \[noun\], dative, singular, masculine
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -101,68 +103,100 @@ vibhájan ← √bhaj- (root)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhāya* ← *vṛṣabha*
 - \[noun\], dative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyaśuṣmāya* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyaśuṣmāya* ← *śuṣmāya* ← *śuṣma*
 - \[noun\], dative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunavāma* ← *su*
 - \[verb\], plural, Present imperative
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ādṛtyā* ← *ādṛ* ← *√dṛ*
 - \[verb noun\]
 - “care; regard.”
-------------------------------------------------------------------------
+
+_________
+
 - *paripanthīva* ← *paripanthī* ← *paripanthin*
 - \[noun\], nominative, singular, masculine
 - “unfriendly; clogging; paripanthin \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paripanthīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūro* ← *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *'yajvano* ← *ayajvanaḥ* ← *ayajvan*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vibhajann* ← *vibhajan* ← *vibhaj* ← *√bhaj*
 - \[verb noun\], nominative, singular
 - “divide; give away; distribute; choose; allocate; separate; spread;
     consider; assign; distinguish; proportion.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedaḥ* ← *vedas*
 - \[noun\], accusative, singular, neuter
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

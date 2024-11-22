@@ -73,48 +73,70 @@ vājī́ ← vājín- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukraitu* ← *śukrā* ← *śukra*
 - \[noun\], nominative, singular, feminine
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukraitu* ← *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *devī* ← *deva*
 - \[noun\], nominative, singular, feminine
 - “divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣā*
 - \[noun\], nominative, singular, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutaṣṭo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutaṣṭo* ← *taṣṭaḥ* ← *takṣ*
 - \[verb noun\], nominative, singular
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

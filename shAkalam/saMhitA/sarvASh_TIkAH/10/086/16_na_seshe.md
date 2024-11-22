@@ -104,84 +104,120 @@ víśvasmāt ← víśva- (nominal stem)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *seśe* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *seśe* ← *īśe* ← *īś*
 - \[verb\], singular, Perfect indicative
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rambate* ← *lamb*
 - \[verb\], singular, Present indikative
 - “hang down; set.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ntarā* ← *antarā*
 - \[adverb\]
 - “inside; meanwhile; occasionally.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakthyā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *kapṛt* ← *kapṛth*
 - \[noun\], nominative, singular, masculine
 - “penis.”
-------------------------------------------------------------------------
+
+_________
+
 - *sed* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *īśe* ← *īś*
 - \[verb\], singular, Perfect indicative
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *romaśaṃ* ← *romaśam* ← *romaśa*
 - \[noun\], nominative, singular, neuter
 - “vulva.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣeduṣo* ← *niṣeduṣaḥ* ← *niṣad* ← *√sad*
 - \[verb noun\], genitive, singular
 - “sit down; sit; put.”
-------------------------------------------------------------------------
+
+_________
+
 - *vijṛmbhate* ← *vijṛmbh* ← *√jṛmbh*
 - \[verb\], singular, Present indikative
 - “yawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttaraḥ* ← *uttara*
 - \[noun\], nominative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -90,59 +90,87 @@ víśvāḥ ← víśva- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyaṃ* ← *navyam* ← *navya*
 - \[noun\], accusative, singular, neuter
 - “new; fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *daṃsiṣṭha*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sanyase* ← *sanyas*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhimātīḥ* ← *abhimāti*
 - \[noun\], accusative, plural, feminine
 - “aggression; hostility.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakṣaṇiḥ* ← *sakṣaṇi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

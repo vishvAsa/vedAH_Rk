@@ -72,42 +72,60 @@ yuṣmā́ka ← tvám (pronoun)
 
 -   *sāṃtapanā* ← *sāṃtapanāḥ* ← *sāṃtapana*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *havir* ← *haviḥ* ← *havis*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *marutas* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *taj* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *jujuṣṭana* ← *juṣ*
 - \[verb\], plural, Perfect imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuṣmākotī* ← *yuṣmākā* ← *yuṣmāka*
 - \[noun\], instrumental, singular, feminine
 - “your(a); yuṣmāka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yuṣmākotī* ← *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *riśādasaḥ* ← *riśādas*
 - \[noun\], vocative, plural, masculine
 - “superior; superior; proud.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

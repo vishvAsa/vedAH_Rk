@@ -104,84 +104,122 @@ várpasā ← várpas- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātāpaduṣpadā* ← *yātā* ← *yā*
 - \[verb\], singular, periphrast. future
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātāpaduṣpadā* ← *apaduṣpadā* ← *apaduṣpad*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarṣātā* ← *svarṣāti*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣadat* ← *sadat* ← *sad*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *saniṣyan* ← *san*
 - \[verb noun\], nominative, singular
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *anarvā* ← *anarvan*
 - \[noun\], nominative, singular, masculine
 - “unchallenged; unrivaled.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchatadurasya* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchatadurasya* ← *śatadurasya* ← *śatadura*
 - \[noun\], genitive, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vedo* ← *vedaḥ* ← *vedas*
 - \[noun\], accusative, singular, neuter
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghnañchiśnadevāṃ* ← *ghnan* ← *han*
 - \[verb noun\], nominative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghnañchiśnadevāṃ* ← *śiśna*
 - \[noun\], masculine
 - “penis; tail.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghnañchiśnadevāṃ* ← *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *varpasā* ← *varpas*
 - \[noun\], instrumental, singular, neuter
 - “form; look; disguise.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

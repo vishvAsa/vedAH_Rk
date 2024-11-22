@@ -99,80 +99,118 @@ vásyaḥ ← vásyaṁs- (nominal stem)
 -   *śikṣeyam* ← *śikṣ*
 - \[verb\], singular, Present optative
 - “help; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahayate* ← *mahay* ← *√mah*
 - \[verb noun\], dative, singular
 - “glorify.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], accusative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kuhacidvide* ← *kuhacid*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *kuhacidvide* ← *vide* ← *vid*
 - \[verb noun\]
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *nahi*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyan* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpyaṃ* ← *āpyam* ← *āpya*
 - \[noun\], nominative, singular, neuter
 - “friendship.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasyo* ← *vasyaḥ* ← *vasyas*
 - \[noun\], nominative, singular, neuter
 - “better; rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

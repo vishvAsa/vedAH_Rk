@@ -102,77 +102,113 @@ yát ← yá- (pronoun)
 -   *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmaṃ* ← *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *turayantam* ← *turay* ← *√tṛ*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *īyatuḥ* ← *i*
 - \[verb\], dual, Perfect indicative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣoṇī*
 - \[noun\], nominative, dual, feminine
 - “Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśuṃ* ← *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mātarā* ← *mātṛ*
 - \[noun\], nominative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvās* ← *viśvāḥ* ← *viśva*
 - \[noun\], nominative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛdhaḥ* ← *spṛdh*
 - \[noun\], nominative, plural, feminine
 - “adversary; enemy; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *śnathayanta* ← *śnathay* ← *√śnath*
 - \[verb\], plural, Present injunctive
 - “kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyave* ← *manyu*
 - \[noun\], dative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tūrvasi* ← *tūrv*
 - \[verb\], singular, Present indikative
 - “overpower.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

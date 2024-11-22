@@ -105,7 +105,9 @@ tát ← sá- ~ tá- (pronoun)
 -   *ṛbhuś* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakra* ← *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -116,84 +118,120 @@ tát ← sá- ~ tá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍyaṃ* ← *īḍyam* ← *īḍ*
 - \[verb noun\], accusative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāru*
 - \[noun\], accusative, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāma*
 - \[adverb\]
 - “by name; indeed; however; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayunāni* ← *vayuna*
 - \[noun\], accusative, plural, neuter
 - “convention; custom; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasasya* ← *sasa*
 - \[noun\], genitive, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *carma* ← *carman*
 - \[noun\], accusative, singular, neuter
 - “leather; hide; shield; skin; carman \[word\]; carman; hide.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtavat*
 - \[noun\], accusative, singular, neuter
 - “buttery.”
-------------------------------------------------------------------------
+
+_________
+
 - *padaṃ* ← *padam* ← *pada*
 - \[noun\], accusative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
-------------------------------------------------------------------------
+
+_________
+
 - *ves* ← *veḥ* ← *vi*
 - \[noun\], genitive, singular, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnī* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣaty* ← *rakṣati* ← *rakṣ*
 - \[verb\], singular, Present indikative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *aprayucchan* ← *aprayucchat*
 - \[noun\], nominative, singular, masculine
 - “ceaseless; attentive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

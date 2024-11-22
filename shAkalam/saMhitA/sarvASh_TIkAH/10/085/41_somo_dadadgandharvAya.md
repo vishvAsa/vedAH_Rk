@@ -96,76 +96,106 @@ u ← u (invariable)
 -   *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadad* ← *dadat* ← *dā*
 - \[verb\], singular, Imperfect
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *gandharvāya* ← *gandharva*
 - \[noun\], dative, singular, masculine
 - “Gandharva; castor-oil plant; horse; Gandharva; Indian cuckoo.”
-------------------------------------------------------------------------
+
+_________
+
 - *gandharvo* ← *gandharvaḥ* ← *gandharva*
 - \[noun\], nominative, singular, masculine
 - “Gandharva; castor-oil plant; horse; Gandharva; Indian cuckoo.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadad* ← *dadat* ← *dā*
 - \[verb\], singular, Imperfect
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnaye* ← *agni*
 - \[noun\], dative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *putrāṃś* ← *putrān* ← *putra*
 - \[noun\], accusative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *cādād* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cādād* ← *adāt* ← *dā*
 - \[verb\], singular, Root aorist (Ind.)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *atho*
 - \[adverb\]
 - “now; but; furthermore.”
-------------------------------------------------------------------------
+
+_________
+
 - *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

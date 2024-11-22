@@ -64,35 +64,49 @@ váreṇyam ← váreṇya- (nominal stem)
 -   *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīnāṃ* ← *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvarūpam* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvarūpam* ← *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *adābhyam* ← *adābhya*
 - \[noun\], accusative, singular, masculine
 - “trustworthy; disabused(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatiṃ* ← *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *vareṇyam* ← *vareṇya*
 - \[noun\], accusative, singular, masculine
 - “excellent; desirable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

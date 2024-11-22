@@ -108,84 +108,124 @@ turváṇe ← √tūr(v)- ~ tur- (root)
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛkṣau* ← *tṛkṣi*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *druhyāv* ← *druhyau* ← *druhyu*
 - \[noun\], locative, singular, masculine
 - “Druhyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrau* ← *pūru*
 - \[noun\], locative, singular, masculine
 - “Pūru; Pūru.”
-------------------------------------------------------------------------
+
+_________
+
 - *kac* ← *kad* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇyam* ← *vṛṣṇya*
 - \[noun\], nominative, singular, neuter
 - “manfulness; virility.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *rirīhi* ← *rā*
 - \[verb\], singular, Present imperative
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṣāhye* ← *nṛṣāhya*
 - \[noun\], locative, singular, neuter
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *'mitrān* ← *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *turvaṇe* ← *tur*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

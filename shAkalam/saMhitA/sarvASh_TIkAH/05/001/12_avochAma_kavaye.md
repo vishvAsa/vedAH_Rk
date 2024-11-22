@@ -99,70 +99,102 @@ uruvyáñcam ← uruvyáñc- (nominal stem)
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavaye* ← *kavi*
 - \[noun\], dative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhyāya* ← *medhya*
 - \[noun\], dative, singular, masculine
 - “clean; sacrificial; clean.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaco* ← *vacaḥ* ← *vacas*
 - \[noun\], accusative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandāru*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhāya* ← *vṛṣabha*
 - \[noun\], dative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaviṣṭhiro* ← *gaviṣṭhiraḥ* ← *gaviṣṭhira*
 - \[noun\], nominative, singular, masculine
 - “Gaviṣṭhira.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agnau* ← *agni*
 - \[noun\], locative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *divīva* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *divīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmam* ← *rukma*
 - \[noun\], accusative, singular, masculine
 - “adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruvyañcam* ← *uruvyañc*
 - \[noun\], accusative, singular, masculine
 - “extensive; wide.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśret* ← *śri*
 - \[verb\], singular, Root aorist (Ind.)
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

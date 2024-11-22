@@ -102,74 +102,110 @@ viśvaminvám ← viśvaminvá- (nominal stem)
 -   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinomi* ← *hi*
 - \[verb\], singular, Present indikative
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *taṣṭeva* ← *taṣṭā* ← *taṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “carpenter.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṣṭeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatsināya* ← *tatsina*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *giraś* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *girvāhase* ← *girvāhas*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *suvṛktīndrāya* ← *suvṛktī* ← *suvṛkti*
 - \[noun\], instrumental, singular, feminine
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvṛktīndrāya* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaminvam* ← *viśvaminva*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *medhirāya* ← *medhira*
 - \[noun\], dative, singular, masculine
 - “wise; intelligent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -87,43 +87,63 @@ gr̥hám ← gr̥há- (nominal stem)
 -   *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyā* ← *tya*
 - \[noun\], nominative, dual, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *purubhūtamā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purubhūtamā* ← *bhūtamā* ← *bhūtama*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *deva*
 - \[noun\], accusative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvācīnā* ← *arvācīna*
 - \[noun\], accusative, dual, masculine
 - “favorable; backward; inclined(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *sv* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *karāmahe* ← *kṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -134,19 +154,27 @@ gr̥hám ← gr̥há- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *gantārā* ← *gantṛ*
 - \[noun\], accusative, dual, masculine
 - “going.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣo* ← *dāśuṣaḥ* ← *dāś*
 - \[verb noun\], genitive, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

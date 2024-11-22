@@ -99,76 +99,110 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhrajato* ← *dhrajataḥ* ← *dhraj*
 - \[verb noun\], genitive, singular
 - “rush.”
-------------------------------------------------------------------------
+
+_________
+
 - *ranta* ← *ram*
 - \[verb\], singular, Root aorist (Ind.)
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
-------------------------------------------------------------------------
+
+_________
+
 - *ityā* ← *ityāḥ* ← *ityā*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *apīpayanta* ← *pyā*
 - \[verb\], plural, Plusquamperfect
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenavo* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūdāḥ* ← *sūda*
 - \[noun\], nominative, plural, masculine
 - “cook; sūda \[word\]; sūd.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyamāno* ← *jāyamānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *'cikradad* ← *acikradat* ← *krand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “roar; neigh; cry; howl; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasminn* ← *sasmin* ← *tad*
 - \[noun\], locative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūdhan* ← *ūdhas*
 - \[noun\], locative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,71 +102,107 @@ sahásraiḥ ← sahásra- (nominal stem)
 -   *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣmāśvināv* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ṣmāśvināv* ← *aśvinau* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *virudrasya* ← *virudra*
 - \[noun\], genitive, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *prasravaṇasya* ← *prasravaṇa*
 - \[noun\], genitive, singular, neuter
 - “waterfall; spring; discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *agastyo* ← *agastyaḥ* ← *agastya*
 - \[noun\], nominative, singular, masculine
 - “Agastya; Sesbania grandiflora; Polaris; agastya \[word\]; Agastya.”
-------------------------------------------------------------------------
+
+_________
+
 - *narāṃ* ← *narām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṣu* ← *nṛ*
 - \[noun\], locative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *praśastaḥ* ← *praśaṃs* ← *√śaṃs*
 - \[verb noun\], nominative, singular
 - “recommend; approve; praise; laud; favor; proclaim.”
-------------------------------------------------------------------------
+
+_________
+
 - *kārādhunīva* ← *kārādhunī*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *kārādhunīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *citayat* ← *citay* ← *√cit*
 - \[verb\], singular, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *sahasraiḥ* ← *sahasra*
 - \[noun\], instrumental, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

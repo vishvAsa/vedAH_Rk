@@ -76,45 +76,65 @@ sthāḥ ← √sthā- (root)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhuṃ* ← *sindhum* ← *sindhu*
 - \[noun\], accusative, singular, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vibālyaṃ* ← *vibālyam* ← *vibālī*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vitasthānām* ← *viṣṭhā* ← *√sthā*
 - \[verb noun\], accusative, singular
 - “stand; stay; resist.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣami* ← *kṣam*
 - \[noun\], locative, singular, feminine
 - “Earth; heaven and earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣṭhā* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyayā* ← *māyā*
 - \[noun\], instrumental, singular, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

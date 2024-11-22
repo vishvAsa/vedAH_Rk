@@ -101,73 +101,107 @@ vásānāḥ ← √vas- 2 (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *śagmāso* ← *śagmāsaḥ* ← *śagma*
 - \[noun\], nominative, plural, masculine
 - “powerful; reliable; competent.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṣāso* ← *aruṣāsaḥ* ← *aruṣa*
 - \[noun\], nominative, plural, masculine
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatiṃ* ← *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahavāho* ← *sahavāhaḥ* ← *sahavah*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahaś* ← *sahaḥ* ← *saha*
 - \[noun\], nominative, singular, masculine
 - “enduring; bearing(a); subjugating; enured; mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nīlavat*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *sadhasthaṃ* ← *sadhastham* ← *sadhastha*
 - \[noun\], nominative, singular, neuter
 - “dwelling; location; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabho* ← *nabhaḥ* ← *nabhas*
 - \[noun\], accusative, singular, neuter
 - “sky; cloud; ākāśa; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṣaṃ* ← *aruṣam* ← *aruṣa*
 - \[noun\], accusative, singular, neuter
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasānāḥ* ← *vas*
 - \[verb noun\], nominative, plural
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

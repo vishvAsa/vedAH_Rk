@@ -74,40 +74,58 @@ ukthébhiḥ ← ukthá- (nominal stem)
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomair* ← *stomaiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthebhiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuvid*
 - \[adverb\]
 - “surely; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgamat* ← *āgam* ← *√gam*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

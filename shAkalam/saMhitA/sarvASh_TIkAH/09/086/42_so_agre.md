@@ -116,96 +116,140 @@ nárā ← nár- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahnāṃ* ← *ahnām* ← *ahar*
 - \[noun\], genitive, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryato* ← *haryataḥ* ← *haryata*
 - \[noun\], nominative, singular, masculine
 - “desirable; delightful.”
-------------------------------------------------------------------------
+
+_________
+
 - *madaḥ* ← *mada*
 - \[noun\], nominative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *cetasā* ← *cetas*
 - \[noun\], instrumental, singular, neuter
 - “mind; heart; consciousness; intelligence; purpose; cetas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cetayate* ← *cetay* ← *√cit*
 - \[verb\], singular, Present indikative
 - “blaze; notice.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyubhiḥ* ← *div*
 - \[noun\], instrumental, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvā* ← *dvi*
 - \[noun\], accusative, dual, masculine
 - “two; dvi \[word\]; second.”
-------------------------------------------------------------------------
+
+_________
+
 - *janā* ← *jana*
 - \[noun\], accusative, dual, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātayann* ← *yātayan* ← *yātay* ← *√yat*
 - \[verb noun\], nominative, singular
 - “endeavor; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *īyate* ← *ī* ← *√i*
 - \[verb\], singular, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], accusative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsaṃ* ← *śaṃsam* ← *śaṃsa*
 - \[noun\], accusative, singular, masculine
 - “praise; śaṃs; recitation.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivyaṃ* ← *daivyam* ← *daivya*
 - \[noun\], accusative, singular, masculine
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhartari* ← *dhartṛ*
 - \[noun\], locative, singular, masculine
 - “supporter.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

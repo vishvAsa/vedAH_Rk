@@ -102,11 +102,15 @@ svávasaḥ ← svávas- (nominal stem)
 -   *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cakruḥ* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -117,92 +121,134 @@ svávasaḥ ← svávas- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvṛtaṃ* ← *suvṛtam* ← *suvṛt*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nareṣṭhāṃ* ← *nareṣṭhām* ← *nareṣṭhā*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenuṃ* ← *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvajuvaṃ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvajuvaṃ* ← *juvam* ← *jū*
 - \[noun\], accusative, singular, feminine
 - “fleet.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvarūpām* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvarūpām* ← *rūpām* ← *rūpa*
 - \[noun\], accusative, singular, feminine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *takṣantv* ← *takṣantu* ← *takṣ*
 - \[verb\], plural, Present imperative
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *svavasaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svavasaḥ* ← *avasaḥ* ← *avas*
 - \[noun\], nominative, plural, masculine
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapasaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapasaḥ* ← *apasaḥ* ← *apas*
 - \[noun\], nominative, plural, masculine
 - “busy; effective; hardworking.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhastāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhastāḥ* ← *hastāḥ* ← *hasta*
 - \[noun\], nominative, plural, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

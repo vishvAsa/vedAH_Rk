@@ -105,82 +105,120 @@ vr̥ṣabha ← vr̥ṣabhá- (nominal stem)
 -   *ghṛtam* ← *ghṛta*
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimikṣe* ← *mikṣ*
 - \[verb\], singular, Perfect indicative
 - “season.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtam* ← *ghṛta*
 - \[noun\], nominative, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yonir* ← *yoniḥ* ← *yoni*
 - \[noun\], nominative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛte* ← *ghṛta*
 - \[noun\], locative, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrito* ← *śritaḥ* ← *śri*
 - \[verb noun\], nominative, singular
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtam* ← *ghṛta*
 - \[noun\], nominative, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *v* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāma* ← *dhāman*
 - \[noun\], nominative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 - *anuṣvadham*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaha* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādayasva* ← *māday* ← *√mad*
 - \[verb\], singular, Present imperative
 - “delight; enjoy; intoxicate.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāhākṛtaṃ* ← *svāhākṛtam* ← *svāhākṛta*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabha*
 - \[noun\], vocative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣi* ← *vah*
 - \[verb\], singular, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

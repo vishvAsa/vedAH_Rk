@@ -109,87 +109,127 @@ yajñám ← yajñá- (nominal stem)
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhayā* ← *svadhā*
 - \[noun\], instrumental, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasyāgner* ← *sutasya* ← *suta*
 - \[noun\], genitive, singular, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasyāgner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvayā* ← *jihvā*
 - \[noun\], instrumental, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatra*
 - \[noun\], vocative, singular, masculine
 - “adorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvaryor* ← *adhvaryoḥ* ← *adhvaryu*
 - \[noun\], genitive, singular, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayataṃ* ← *prayatam* ← *pre* ← *√i*
 - \[verb noun\], accusative, singular
 - “die; proceed; advance; continue; begin; depart.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakra*
 - \[noun\], vocative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *hastāddhotur* ← *hastāt* ← *hasta*
 - \[noun\], ablative, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *hastāddhotur* ← *hotuḥ* ← *hotṛ*
 - \[noun\], genitive, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣo* ← *haviṣaḥ* ← *havis*
 - \[noun\], genitive, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

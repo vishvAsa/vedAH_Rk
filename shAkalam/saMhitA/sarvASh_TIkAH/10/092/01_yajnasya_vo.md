@@ -102,73 +102,109 @@ yajatáḥ ← yajatá- (nominal stem)
 -   *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathyaṃ* ← *rathyam* ← *rathya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *viśpatiṃ* ← *viśpatim* ← *viśpati*
 - \[noun\], accusative, singular, masculine
 - “overlord; head.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśāṃ* ← *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *aktor* ← *aktoḥ* ← *aktu*
 - \[noun\], genitive, singular, masculine
 - “night; dark; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *atithiṃ* ← *atithim* ← *atithi*
 - \[noun\], accusative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāvasum* ← *vibhāvasu*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sun; Surya.”
-------------------------------------------------------------------------
+
+_________
+
 - *śocañchuṣkāsu* ← *śocan* ← *śuc*
 - \[verb noun\], nominative, singular
 - “mourn; grieve; flame; glow; burn; repent.”
-------------------------------------------------------------------------
+
+_________
+
 - *śocañchuṣkāsu* ← *śuṣkāsu* ← *śuṣka*
 - \[noun\], locative, plural, feminine
 - “dried; dry; dried-up; śuṣka \[word\]; baseless; arid.”
-------------------------------------------------------------------------
+
+_________
+
 - *hariṇīṣu* ← *hariṇī*
 - \[noun\], locative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *jarbhurad* ← *jarbhurat* ← *jarbhur* ← *√bhur*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketur* ← *ketuḥ* ← *ketu*
 - \[noun\], nominative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajato* ← *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśāyata* ← *śī*
 - \[verb\], singular, Imperfect
 - “lie; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

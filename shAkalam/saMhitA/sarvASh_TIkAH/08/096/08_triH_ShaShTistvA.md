@@ -111,52 +111,76 @@ vidhema ← √vidh- (root)
 -   *triḥ* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣaṣṭis* ← *ṣaṣṭiḥ* ← *ṣaṣṭi*
 - \[noun\], nominative, singular, feminine
 - “sixty; sixtieth; ṣaṣṭi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhānā* ← *vāvṛdhānāḥ* ← *vṛdh*
 - \[verb noun\], nominative, plural
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *usrā* ← *usrāḥ* ← *usrā*
 - \[noun\], nominative, plural, feminine
 - “cow; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāśayo* ← *rāśayaḥ* ← *rāśi*
 - \[noun\], nominative, plural, masculine
 - “pile; quantity; sign of the zodiac; mass.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyāsaḥ* ← *yajñiya*
 - \[noun\], nominative, plural, masculine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvemaḥ* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvemaḥ* ← *imaḥ* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -167,35 +191,51 @@ vidhema ← √vidh- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāgadheyaṃ* ← *bhāgadheyam* ← *bhāgadheya*
 - \[noun\], accusative, singular, neuter
 - “parcel; bhāgadheya \[word\]; Destiny; destiny.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmaṃ* ← *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *enā* ← *idam*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhema* ← *vidh*
 - \[verb\], plural, Present optative
 - “worship; offer.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -84,55 +84,81 @@ sómasya ← sóma- (nominal stem)
 
 -   *oṣam*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṅghanānīha* ← *jaṅghanāni* ← *jaṅghan* ← *√han*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “murder; kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṅghanānīha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *veha* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *veha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasyāpām* ← *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasyāpām* ← *apām* ← *pā*
 - \[verb\], singular, Root aorist (Ind.)
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

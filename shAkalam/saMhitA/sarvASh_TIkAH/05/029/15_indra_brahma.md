@@ -106,12 +106,16 @@ svápāḥ ← svápas- (nominal stem)
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahma* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *kriyamāṇā* ← *kṛ*
 - \[verb noun\], accusative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -122,28 +126,40 @@ svápāḥ ← svápas- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], accusative, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaviṣṭha*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyā* ← *navya*
 - \[noun\], accusative, plural, neuter
 - “new; fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *akarma* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -154,24 +170,34 @@ svápāḥ ← svápas- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vastreva* ← *vastrā* ← *vastra*
 - \[noun\], accusative, plural, neuter
 - “fabric; clothing; dress; vastra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vastreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadra*
 - \[noun\], accusative, plural, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtā* ← *kṛtā* ← *kṛ*
 - \[verb noun\], accusative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -182,34 +208,50 @@ svápāḥ ← svápas- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūyū* ← *vasūyu*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīraḥ* ← *dhīra*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; intelligent; versed; adept.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapā* ← *apāḥ* ← *apas*
 - \[noun\], nominative, singular, masculine
 - “work; deed.”
-------------------------------------------------------------------------
+
+_________
+
 - *atakṣam* ← *takṣ*
 - \[verb\], singular, Imperfect
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

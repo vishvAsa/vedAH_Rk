@@ -106,82 +106,120 @@ ugrám ← ugrá- (nominal stem)
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanā* ← *pṛtanāḥ* ← *pṛtanā*
 - \[noun\], accusative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhibhūtaraṃ* ← *abhibhūtaram* ← *abhibhūtara*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *naraṃ* ← *naram* ← *nara*
 - \[noun\], accusative, singular, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajūs*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *tatakṣur* ← *tatakṣuḥ* ← *takṣ*
 - \[verb\], plural, Perfect indicative
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *jajanuś* ← *jajanuḥ* ← *jan*
 - \[verb\], plural, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājase* ← *rāj*
 - \[verb noun\]
 - “govern; shine; glitter; direct.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *variṣṭhaṃ* ← *variṣṭham* ← *variṣṭha*
 - \[noun\], accusative, singular, masculine
 - “best; preferable.”
-------------------------------------------------------------------------
+
+_________
+
 - *vara* ← *vare* ← *vara*
 - \[noun\], locative, singular, masculine
 - “vara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āmurim* ← *āmuri*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *utogram* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *utogram* ← *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojiṣṭhaṃ* ← *ojiṣṭham* ← *ojiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavasaṃ* ← *tavasam* ← *tavas*
 - \[noun\], accusative, singular, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarasvinam* ← *tarasvin*
 - \[noun\], accusative, singular, masculine
 - “strong; energetic; fast; agile.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

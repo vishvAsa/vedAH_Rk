@@ -110,85 +110,125 @@ viśé ← víś- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *rītim* ← *rīti*
 - \[noun\], accusative, singular, feminine
 - “brass; rītikā; method; bell metal; stream; expressive style;
     manner.”
-------------------------------------------------------------------------
+
+_________
+
 - *paraśor* ← *paraśoḥ* ← *paraśu*
 - \[noun\], genitive, singular, masculine
 - “ax.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *anīkam* ← *anīka*
 - \[noun\], accusative, singular, neuter
 - “army; face; battalion; battlefront; point; appearance.”
-------------------------------------------------------------------------
+
+_________
+
 - *akhyam* ← *khyā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “name; describe; call; enumerate; watch; know.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuje* ← *bhuj*
 - \[verb noun\]
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *varpasaḥ* ← *varpas*
 - \[noun\], genitive, singular, neuter
 - “form; look; disguise.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitumantam* ← *pitumat*
 - \[noun\], accusative, singular, masculine
 - “alimentary.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣayaṃ* ← *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratnaṃ* ← *ratnam* ← *ratna*
 - \[noun\], accusative, singular, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāti* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharahūtaye* ← *bharahūti*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *viśe* ← *viś*
 - \[noun\], dative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

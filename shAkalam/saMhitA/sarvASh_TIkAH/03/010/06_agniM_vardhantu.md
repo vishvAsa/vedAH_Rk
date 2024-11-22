@@ -81,51 +81,73 @@ vā́jāya ← vā́ja- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhantu* ← *vṛdh*
 - \[verb\], plural, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *giro* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *yato* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyata* ← *jāyate* ← *jan*
 - \[verb\], singular, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthyaḥ* ← *ukthya*
 - \[noun\], nominative, singular, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇāya* ← *draviṇa*
 - \[noun\], dative, singular, neuter
 - “wealth; property; money; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *darśataḥ* ← *darśata*
 - \[noun\], nominative, singular, masculine
 - “beautiful; visible; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

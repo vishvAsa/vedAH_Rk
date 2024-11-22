@@ -119,101 +119,149 @@ svapatyaí ← svapatyá- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *śevṛdham* ← *śevṛdha*
 - \[noun\], accusative, singular, neuter
 - “precious.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhā* ← *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnam* ← *dyumna*
 - \[noun\], accusative, singular, neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatraṃ* ← *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *janāṣāḍ* ← *janāṣāh* ← *janāṣah*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavyam* ← *tavya*
 - \[noun\], accusative, singular, neuter
 - “tavya; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣā* ← *rakṣ*
 - \[verb\], singular, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghonaḥ* ← *maghavan*
 - \[noun\], accusative, plural, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrīn* ← *sūri*
 - \[noun\], accusative, plural, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapatyā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapatyā* ← *apatyā* ← *apatya*
 - \[noun\], accusative, plural, neuter
 - “child; offspring; patronymic; descendant.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣe* ← *iṣ*
 - \[noun\], dative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

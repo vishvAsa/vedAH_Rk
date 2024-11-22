@@ -93,65 +93,95 @@ yajñám ← yajñá- (nominal stem)
 -   *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāgṛvir* ← *jāgṛviḥ* ← *jāgṛvi*
 - \[noun\], nominative, singular, masculine
 - “attentive; argus-eyed; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyo* ← *avyaḥ* ← *avya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vāre* ← *vāra*
 - \[noun\], locative, singular, masculine
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipro* ← *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhavo* ← *abhavaḥ* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ṅgirastamo* ← *aṅgirastamaḥ* ← *aṅgirastama*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *madhvā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimikṣa* ← *mikṣ*
 - \[verb\], plural, Perfect indicative
 - “season.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

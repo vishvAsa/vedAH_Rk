@@ -76,46 +76,66 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 -   *mahi*
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahatām* ← *mahat*
 - \[noun\], genitive, plural, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *avo* ← *avaḥ* ← *avas*
 - \[noun\], nominative, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāryaman* ← *mitra*
 - \[noun\], vocative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāryaman* ← *aryaman*
 - \[noun\], vocative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *avāṃsy* ← *avāṃsi* ← *avas*
 - \[noun\], accusative, plural, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

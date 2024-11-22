@@ -101,33 +101,47 @@ srava ← √sru- (root)
 -   *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadann* ← *vadan* ← *vad*
 - \[verb noun\], nominative, singular
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtadyumna* ← *ṛta*
 - \[noun\]
 - “timely; honest.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtadyumna* ← *dyumna*
 - \[noun\], vocative, singular, masculine
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyaṃ* ← *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
 - “truth; oath; satya \[word\]; promise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadan* ← *vad*
 - \[verb noun\], nominative, singular
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyakarman* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyakarman* ← *karman*
 - \[noun\], vocative, singular, masculine
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -135,55 +149,79 @@ srava ← √sru- (root)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 - *śraddhāṃ* ← *śraddhām* ← *śraddhā*
 - \[noun\], accusative, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadan* ← *vad*
 - \[verb noun\], nominative, singular
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhātrā* ← *dhātṛ*
 - \[noun\], instrumental, singular, masculine
 - “Brahma; Dhātṛ; creator; Dhātṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣkṛta* ← *pariṣkṛtaḥ* ← *pariṣkṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāyendo* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāyendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

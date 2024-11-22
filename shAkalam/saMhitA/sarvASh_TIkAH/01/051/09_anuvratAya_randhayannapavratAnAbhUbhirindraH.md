@@ -99,80 +99,116 @@ ví ← ví (invariable)
 -   *anuvratāya* ← *anuvrata*
 - \[noun\], dative, singular, masculine
 - “attached; devoted(p); faithful.”
-------------------------------------------------------------------------
+
+_________
+
 - *randhayann* ← *randhayan* ← *randhay* ← *√radh*
 - \[verb noun\], nominative, singular
 - “subjugate; hand over.”
-------------------------------------------------------------------------
+
+_________
+
 - *apavratān* ← *apavrata*
 - \[noun\], accusative, plural, masculine
 - “lawless; faithless.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhūbhir* ← *ābhūbhiḥ* ← *ābhū*
 - \[noun\], instrumental, plural, masculine
 - “assistant.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śnathayann* ← *śnathayan* ← *śnathay* ← *√śnath*
 - \[verb noun\], nominative, singular
 - “kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *anābhuvaḥ* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *anābhuvaḥ* ← *ābhuvaḥ* ← *ābhū*
 - \[noun\], accusative, plural, masculine
 - “assistant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛddhasya* ← *vṛdh*
 - \[verb noun\], genitive, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhato* ← *vardhataḥ* ← *vṛdh*
 - \[verb noun\], genitive, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *inakṣata* ← *inakṣ* ← *√naś*
 - \[verb\], singular, Present injunctive
 - “wish.”
-------------------------------------------------------------------------
+
+_________
+
 - *stavāno* ← *stavānaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vamro* ← *vamraḥ* ← *vamra*
 - \[noun\], nominative, singular, masculine
 - “ant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaghāna* ← *han*
 - \[verb\], singular, Perfect indicative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃdihaḥ* ← *saṃdih*
 - \[noun\], accusative, plural, feminine
 - “rampart.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

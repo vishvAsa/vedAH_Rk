@@ -102,79 +102,115 @@ víśvāni ← víśva- (nominal stem)
 -   *anūnod* ← *anūnot* ← *nū*
 - \[verb\], singular, Plusquamperfect
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *hastayato* ← *hasta*
 - \[noun\], masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *hastayato* ← *yataḥ* ← *yam*
 - \[verb noun\], nominative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrir* ← *adriḥ* ← *adri*
 - \[noun\], nominative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārcan* ← *arc*
 - \[verb\], plural, Imperfect
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *māso* ← *māsaḥ* ← *mās*
 - \[noun\], accusative, plural, masculine
 - “month; lunar month.”
-------------------------------------------------------------------------
+
+_________
+
 - *navagvāḥ* ← *navagva*
 - \[noun\], nominative, plural, masculine
 - “Navagva.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatī* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *saramā*
 - \[noun\], nominative, singular, feminine
 - “Saramā.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *avindad* ← *avindat* ← *vid*
 - \[verb\], singular, Imperfect
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyāṅgirāś* ← *satyā* ← *satya*
 - \[noun\], accusative, plural, neuter
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyāṅgirāś* ← *aṅgirāḥ* ← *aṅgiras*
 - \[noun\], nominative, singular, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -185,7 +221,9 @@ víśvāni ← víśva- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

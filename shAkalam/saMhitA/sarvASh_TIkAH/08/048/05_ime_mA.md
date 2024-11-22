@@ -111,89 +111,131 @@ yavayantu ← √yu- 2 (root)
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pītā* ← *pītāḥ* ← *pā*
 - \[verb noun\], nominative, plural
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaśasa* ← *yaśasaḥ* ← *yaśas*
 - \[noun\], nominative, plural, masculine
 - “esteemed; celebrated; glorious; honorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruṣyavo* ← *uruṣyavaḥ* ← *uruṣyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *anāha* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *parvasu* ← *parvan*
 - \[noun\], locative, plural, neuter
 - “joint; knot; festival; day; articulation; knot.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣantu* ← *rakṣ*
 - \[verb\], plural, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *visrasaś* ← *visrasaḥ* ← *visraṃs* ← *√sraṃs*
 - \[verb noun\]
 - “fall off.”
-------------------------------------------------------------------------
+
+_________
+
 - *caritrād* ← *caritrāt* ← *caritra*
 - \[noun\], ablative, singular, neuter
 - “foot; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *srāmād* ← *srāmāt* ← *srāma*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yavayantv* ← *yavayantu* ← *yavay* ← *√yu*
 - \[verb\], plural, Present imperative
 - “keep away; ward off.”
-------------------------------------------------------------------------
+
+_________
+
 - *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

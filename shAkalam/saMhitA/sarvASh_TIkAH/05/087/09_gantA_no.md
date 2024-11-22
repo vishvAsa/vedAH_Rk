@@ -110,90 +110,132 @@ syā́ta ← √as- 1 (root)
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyāḥ* ← *yajñiya*
 - \[noun\], vocative, plural, masculine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśami*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *śrotā* ← *śrota* ← *śru*
 - \[verb\], plural, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *arakṣa* ← *arakṣaḥ* ← *arakṣas*
 - \[noun\], accusative, singular, neuter
 - “harmless.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāmarut* ← *eva*
 - \[noun\]
 - “fast; rapid; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāmarut* ← *yā*
 - \[noun\]
 - “going.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāmarut* ← *marut*
 - \[noun\], nominative, singular, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyeṣṭhāso* ← *jyeṣṭhāsaḥ* ← *jyeṣṭha*
 - \[noun\], nominative, plural, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatāso* ← *parvatāsaḥ* ← *parvata*
 - \[noun\], nominative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyomani* ← *vyoman*
 - \[noun\], locative, singular, masculine
 - “abhra; sky; ākāśa; Svarga; Vyoman.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pracetasaḥ* ← *pracetas*
 - \[noun\], genitive, singular, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāta* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *durdhartavo* ← *durdhartavaḥ* ← *durdhartu*
 - \[noun\], nominative, plural, masculine
 - “unbearable.”
-------------------------------------------------------------------------
+
+_________
+
 - *nidaḥ* ← *nid*
 - \[noun\], genitive, singular, feminine
 - “derision; scoffer; contempt.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

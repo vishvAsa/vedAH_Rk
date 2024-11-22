@@ -79,47 +79,69 @@ prathinā́ ← prathimán- (nominal stem)
 -   *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyave* ← *dasyu*
 - \[noun\], dative, singular, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛka*
 - \[noun\], vocative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], nominative, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *adarśy* ← *adarśi* ← *dṛś*
 - \[verb\], singular, Aorist passive
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahrayam* ← *ahraya*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prathinā* ← *prathiman*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śavaḥ* ← *śavas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

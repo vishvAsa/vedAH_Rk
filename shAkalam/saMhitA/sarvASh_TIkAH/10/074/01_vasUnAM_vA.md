@@ -108,87 +108,129 @@ yé ← yá- (pronoun)
 -   *vasūnāṃ* ← *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *carkṛṣa* ← *carkṛṣe* ← *carkar* ← *√kṛ*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “praise; commemorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyakṣan* ← *iyakṣ* ← *√yaj*
 - \[verb noun\], nominative, singular
 - “endeavor.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñair* ← *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasyoḥ* ← *rodasī*
 - \[noun\], genitive, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvanto* ← *arvantaḥ* ← *arvant*
 - \[noun\], nominative, plural, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rayimantaḥ* ← *rayimat*
 - \[noun\], nominative, plural, masculine
 - “rich; affluent.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanuṃ* ← *vanum* ← *vanu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suśruṇaṃ* ← *suśruṇam* ← *suśruṇa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *suśruto* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśruto* ← *śrutaḥ* ← *śrut*
 - \[noun\], nominative, plural, masculine
 - “listening.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhuḥ* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,77 +96,113 @@ vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyuṃ* ← *vāyum* ← *vāyu*
 - \[noun\], accusative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīty* ← *vītī* ← *vīti*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *arṣā* ← *arṣa* ← *ṛṣ*
 - \[verb\], singular, Present imperative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇāno* ← *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *'bhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], accusative, dual, masculine
 - “Varuna; Mitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūyamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *naraṃ* ← *naram* ← *nṛ*
 - \[noun\], accusative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhījavanaṃ* ← *dhī*
 - \[noun\], feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhījavanaṃ* ← *javanam* ← *javana*
 - \[noun\], accusative, singular, masculine
 - “fleet; stimulating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratheṣṭhām* ← *ratheṣṭhā*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhīndraṃ* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīndraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇaṃ* ← *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrabāhum* ← *vajra*
 - \[noun\], masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrabāhum* ← *bāhum* ← *bāhu*
 - \[noun\], accusative, singular, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

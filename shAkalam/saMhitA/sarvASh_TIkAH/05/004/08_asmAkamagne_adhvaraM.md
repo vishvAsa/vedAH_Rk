@@ -96,80 +96,116 @@ trivárūthena ← trivárūtha- (nominal stem)
 -   *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūno* ← *sūnu*
 - \[noun\], vocative, singular, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *triṣadhastha*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtaḥ* ← *kṛtaḥ* ← *kṛt*
 - \[noun\], nominative, plural, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarmaṇā* ← *śarman*
 - \[noun\], instrumental, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *trivarūthena* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *trivarūthena* ← *varūthena* ← *varūtha*
 - \[noun\], instrumental, singular, neuter
 - “defense; protective covering.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -106,34 +106,48 @@ vr̥ṣaláḥ ← vr̥ṣalá- (nominal stem)
 - \[noun\], accusative, singular, feminine
 - “woman; wife; feminine; strīvajra; sexual activity; strī \[word\];
     daughter; female.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛṣṭvāya* ← *dṛś*
 - \[verb noun\]
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *kitavaṃ* ← *kitavam* ← *kitava*
 - \[noun\], accusative, singular, masculine
 - “gambler; deceiver; thorn apple; kitava \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tatāpānyeṣāṃ* ← *tatāpa* ← *tap*
 - \[verb\], singular, Perfect indicative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatāpānyeṣāṃ* ← *anyeṣām* ← *anya*
 - \[noun\], genitive, plural, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyāṃ* ← *jāyām* ← *jāyā*
 - \[noun\], accusative, singular, feminine
 - “wife; jāyā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb noun\], accusative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -144,25 +158,35 @@ vr̥ṣaláḥ ← vr̥ṣalá- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yonim* ← *yoni*
 - \[noun\], accusative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvāhṇe* ← *pūrvāhṇa*
 - \[noun\], locative, singular, masculine
 - “morning; pūrvāhṇa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvān* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyuje* ← *yuj*
 - \[verb\], singular, Perfect indicative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -170,42 +194,58 @@ vr̥ṣaláḥ ← vr̥ṣalá- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *babhrūn* ← *babhru*
 - \[noun\], accusative, plural, masculine
 - “tawny; brown.”
-------------------------------------------------------------------------
+
+_________
+
 - *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *agner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ante* ← *anta*
 - \[noun\], locative, singular, masculine
 - “end; last syllable; end; end; boundary; inside; border; death; anta
     \[word\]; edge; end; shore; limit; region; outskirt; destruction;
     boundary; limit; anta; termination; corner; conclusion; hem; end;
     ant; edge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣalaḥ* ← *vṛṣala*
 - \[noun\], nominative, singular, masculine
 - “Shudra; Shudra.”
-------------------------------------------------------------------------
+
+_________
+
 - *papāda* ← *pad*
 - \[verb\], singular, Perfect indicative
 - “fall.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

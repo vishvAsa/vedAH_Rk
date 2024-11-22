@@ -96,29 +96,41 @@ sahá ← sahá (invariable)
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *cyavānam* ← *cyavāna*
 - \[noun\], accusative, singular, masculine
 - “Cyavana.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarantam* ← *jṛ*
 - \[verb noun\], accusative, singular
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
-------------------------------------------------------------------------
+
+_________
+
 - *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvānaṃ* ← *yuvānam* ← *yuvan*
 - \[noun\], accusative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakrathuḥ* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -129,46 +141,66 @@ sahá ← sahá (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvo* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *saha*
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
-------------------------------------------------------------------------
+
+_________
+
 - *śriyā* ← *śrī*
 - \[noun\], instrumental, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyāvṛṇīta* ← *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyāvṛṇīta* ← *avṛṇīta* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

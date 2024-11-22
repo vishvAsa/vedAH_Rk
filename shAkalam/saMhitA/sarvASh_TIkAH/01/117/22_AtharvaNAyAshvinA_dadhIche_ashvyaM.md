@@ -102,78 +102,114 @@ yát ← yá- (pronoun)
 -   *ātharvaṇāyāśvinā* ← *ātharvaṇāya* ← *ātharvaṇa*
 - \[noun\], dative, singular, masculine
 - “Atharva-Veda.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātharvaṇāyāśvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhīce* ← *dadhyac*
 - \[noun\], dative, singular, masculine
 - “Dadhyac.”
-------------------------------------------------------------------------
+
+_________
+
 - *'śvyaṃ* ← *aśvyam* ← *aśvya*
 - \[noun\], accusative, singular, neuter
 - “equine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiraḥ* ← *śiras*
 - \[noun\], accusative, singular, neuter
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
-------------------------------------------------------------------------
+
+_________
+
 - *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *airayatam* ← *īray* ← *√īr*
 - \[verb\], dual, Imperfect
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vocad* ← *vocat* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāyan* ← *ṛtāy*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *tvāṣṭraṃ* ← *tvāṣṭram* ← *tvāṣṭra*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dasrāv* ← *dasrau* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *apikakṣyaṃ* ← *apikakṣyam* ← *apikakṣya*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

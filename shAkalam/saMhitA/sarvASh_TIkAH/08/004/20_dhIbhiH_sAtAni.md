@@ -94,61 +94,91 @@ yūthā́ni ← yūthá- (nominal stem)
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātāni* ← *san*
 - \[verb noun\], accusative, plural
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāṇvasya* ← *kāṇva*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vājinaḥ* ← *vājin*
 - \[noun\], genitive, singular, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyamedhair* ← *priyamedhaiḥ* ← *priyamedha*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhidyubhiḥ* ← *abhidyu*
 - \[noun\], instrumental, plural, masculine
 - “celestial; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣaṣṭiṃ* ← *ṣaṣṭim* ← *ṣaṣṭi*
 - \[noun\], accusative, singular, feminine
 - “sixty; sixtieth; ṣaṣṭi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrānu* ← *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *nirmajām* ← *nirmajā*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *aje* ← *aj*
 - \[verb\], singular, Present indikative
 - “drive; expel.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūthāni* ← *yūtha*
 - \[noun\], accusative, plural, neuter
 - “herd; troop; battalion.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

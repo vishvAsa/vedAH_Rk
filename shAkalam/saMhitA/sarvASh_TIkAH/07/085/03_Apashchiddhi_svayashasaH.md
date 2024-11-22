@@ -102,88 +102,126 @@ vr̥trā́ṇi ← vr̥trá- (nominal stem)
 -   *āpaś* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svayaśasaḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayaśasaḥ* ← *yaśasaḥ* ← *yaśas*
 - \[noun\], nominative, plural, feminine
 - “fame; Yaśas.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadassu* ← *sadas*
 - \[noun\], locative, plural, neuter
 - “mansion; assembly; seat; seat.”
-------------------------------------------------------------------------
+
+_________
+
 - *devīr* ← *devīḥ* ← *deva*
 - \[noun\], nominative, plural, feminine
 - “divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇaṃ* ← *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatā* ← *devatāḥ* ← *devatā*
 - \[noun\], accusative, plural, feminine
 - “Hindu deity; Deva; deity; idol; devatā \[word\]; divinity; temple.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhuḥ* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭīr* ← *kṛṣṭīḥ* ← *kṛṣṭi*
 - \[noun\], accusative, plural, feminine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyo* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārayati* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Present indikative
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *praviktā* ← *praviktāḥ* ← *pravij* ← *√vij*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrāṇy* ← *vṛtrāṇi* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyo* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *apratīni* ← *aprati*
 - \[noun\], accusative, plural, neuter
 - “irresistible.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

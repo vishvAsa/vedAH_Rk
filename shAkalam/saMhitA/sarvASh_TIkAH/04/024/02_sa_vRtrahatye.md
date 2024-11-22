@@ -104,88 +104,128 @@ várivaḥ ← várivas- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahatye* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahatye* ← *hatye* ← *hatya*
 - \[noun\], locative, singular, neuter
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍyaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭuta* ← *suṣṭutaḥ* ← *suṣṭuta*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyarādhāḥ* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyarādhāḥ* ← *rādhāḥ* ← *rādhas*
 - \[noun\], nominative, singular, masculine
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmann* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *martyāya* ← *martya*
 - \[noun\], dative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaṇyate* ← *brahmaṇy*
 - \[verb noun\], dative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *suṣvaye* ← *suṣvi*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *varivo* ← *varivaḥ* ← *varivas*
 - \[noun\], accusative, singular, neuter
 - “room; varivas \[word\]; space; escape.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāt* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

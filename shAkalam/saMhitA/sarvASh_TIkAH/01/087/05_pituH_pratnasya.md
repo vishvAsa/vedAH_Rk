@@ -109,88 +109,128 @@ yajñíyāni ← yajñíya- (nominal stem)
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnasya* ← *pratna*
 - \[noun\], genitive, singular, masculine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *janmanā* ← *janman*
 - \[noun\], instrumental, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadāmasi* ← *vad*
 - \[verb\], plural, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvā*
 - \[noun\], nominative, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigāti* ← *gā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣasā* ← *cakṣas*
 - \[noun\], instrumental, singular, neuter
 - “eye; look; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śamy* ← *śamī*
 - \[noun\], instrumental, singular, feminine
 - “Prosopis spicigera Linn.; śamī \[word\]; Acacia sundra; attempt;
     labor.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛkvāṇa* ← *ṛkvāṇaḥ* ← *ṛkvan*
 - \[noun\], nominative, plural, masculine
 - “singing.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśatād* ← *āśata* ← *aś*
 - \[verb\], plural, Root aorist (Ind.)
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *āśatād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāmāni* ← *nāman*
 - \[noun\], accusative, plural, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyāni* ← *yajñiya*
 - \[noun\], accusative, plural, neuter
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

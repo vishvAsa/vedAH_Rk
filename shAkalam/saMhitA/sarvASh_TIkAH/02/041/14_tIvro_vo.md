@@ -73,38 +73,56 @@ pibata ← √pā- 2 (root)
 -   *tīvro* ← *tīvraḥ* ← *tīvra*
 - \[noun\], nominative, singular, masculine
 - “intense; severe; pungent; acute; potent; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumāṃ* ← *madhumat*
 - \[noun\], nominative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śunahotreṣu* ← *śunahotra*
 - \[noun\], locative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *matsaraḥ* ← *matsara*
 - \[noun\], nominative, singular, masculine
 - “intoxicant; invigorating; hostile.”
-------------------------------------------------------------------------
+
+_________
+
 - *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pibata* ← *pā*
 - \[verb\], plural, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmyam* ← *kāmya*
 - \[noun\], accusative, singular, masculine
 - “desirable; optional; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

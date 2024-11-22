@@ -76,11 +76,15 @@ tátra ← tátra (invariable)
 -   *svāhā*
 - \[noun\], instrumental, singular, feminine
 - “Svāhā; svāhā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇotanendrāya* ← *kṛṇotana* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -91,37 +95,53 @@ tátra ← tátra (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇotanendrāya* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajvano* ← *yajvanaḥ* ← *yajvan*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatra*
 - \[adverb\]
 - “there; now; then; then; there; in that place; then; locative;
     respectively; there; tatra \[word\]; inside; therefore.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *hvaye* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

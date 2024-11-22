@@ -67,46 +67,66 @@ vidhema ← √vidh- (root)
 -   *ukṣānnāya* ← *ukṣa* ← *ukṣan*
 - \[noun\], masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣānnāya* ← *annāya* ← *anna*
 - \[noun\], dative, singular, masculine
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaśānnāya* ← *vaśā*
 - \[noun\], feminine
 - “cow; female elephant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaśānnāya* ← *annāya* ← *anna*
 - \[noun\], dative, singular, masculine
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapṛṣṭhāya* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapṛṣṭhāya* ← *pṛṣṭhāya* ← *pṛṣṭha*
 - \[noun\], dative, singular, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedhase* ← *vedhas*
 - \[noun\], dative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomair* ← *stomaiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhemāgnaye* ← *vidhema* ← *vidh*
 - \[verb\], plural, Present optative
 - “worship; offer.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhemāgnaye* ← *agnaye* ← *agni*
 - \[noun\], dative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

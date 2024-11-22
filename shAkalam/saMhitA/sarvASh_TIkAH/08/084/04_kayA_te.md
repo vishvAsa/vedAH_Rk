@@ -76,47 +76,67 @@ várāya ← vára- 1 (nominal stem)
 -   *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgira* ← *aṅgiraḥ* ← *aṅgiras*
 - \[noun\], vocative, singular, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjo* ← *ūrjaḥ* ← *ūrj*
 - \[noun\], genitive, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
-------------------------------------------------------------------------
+
+_________
+
 - *napād* ← *napāt*
 - \[noun\], vocative, singular, masculine
 - “grandson; nephew; napāt \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *upastutim* ← *upastuti*
 - \[noun\], accusative, singular, feminine
 - “praise; applause.”
-------------------------------------------------------------------------
+
+_________
+
 - *varāya* ← *vara*
 - \[noun\], dative, singular, masculine
 - “gift; favor; wish; privilege; varac; wages.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyave* ← *manyu*
 - \[noun\], dative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

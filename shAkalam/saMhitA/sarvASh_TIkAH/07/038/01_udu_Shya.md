@@ -105,83 +105,121 @@ yáḥ ← yá- (pronoun)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣya* ← *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yayāma* ← *yam*
 - \[verb\], singular, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayīm* ← *hiraṇyaya*
 - \[noun\], accusative, singular, feminine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *amatiṃ* ← *amatim* ← *amati*
 - \[noun\], accusative, singular, feminine
 - “effigy; ignorance; light; light; luster; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśiśret* ← *śri*
 - \[verb\], singular, Plusquamperfect
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhago* ← *bhagaḥ* ← *bhaga*
 - \[noun\], nominative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyo* ← *havyaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣebhir* ← *mānuṣebhiḥ* ← *mānuṣa*
 - \[noun\], instrumental, plural, masculine
 - “man; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ratnā* ← *ratna*
 - \[noun\], accusative, plural, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
-------------------------------------------------------------------------
+
+_________
+
 - *purūvasur* ← *purūvasuḥ* ← *purūvasu*
 - \[noun\], nominative, singular, masculine
 - “rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāti* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

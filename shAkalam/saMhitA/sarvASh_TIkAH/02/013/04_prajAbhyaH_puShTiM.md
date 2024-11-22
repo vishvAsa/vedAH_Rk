@@ -112,73 +112,105 @@ yáḥ ← yá- (pronoun)
 - \[noun\], dative, plural, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣṭiṃ* ← *puṣṭim* ← *puṣṭi*
 - \[noun\], accusative, singular, feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhajanta* ← *vibhajantaḥ* ← *vibhaj* ← *√bhaj*
 - \[verb noun\], nominative, plural
 - “divide; give away; distribute; choose; allocate; separate; spread;
     consider; assign; distinguish; proportion.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsate* ← *ās*
 - \[verb\], plural, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], accusative, singular, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *prabhavantam* ← *prabhū* ← *√bhū*
 - \[verb noun\], accusative, singular
 - “arise; issue; can; happen; suffice; originate; succeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyate* ← *e* ← *√i*
 - \[verb noun\], dative, singular
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *asinvan* ← *asinvat*
 - \[noun\], vocative, singular, masculine
 - “insatiate.”
-------------------------------------------------------------------------
+
+_________
+
 - *daṃṣṭraiḥ* ← *daṃṣṭra*
 - \[noun\], instrumental, plural, masculine
 - “tusk; fang; tooth; fang; bite.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitur* ← *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *atti* ← *ad*
 - \[verb\], singular, Present indikative
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojanaṃ* ← *bhojanam* ← *bhojana*
 - \[noun\], accusative, singular, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tākṛṇoḥ* ← *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tākṛṇoḥ* ← *akṛṇoḥ* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -189,26 +221,36 @@ yáḥ ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamaṃ* ← *prathamam*
 - \[adverb\]
 - “first.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāsy* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāsy* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthyaḥ* ← *ukthya*
 - \[noun\], nominative, singular, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

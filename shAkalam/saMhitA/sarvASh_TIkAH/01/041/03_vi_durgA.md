@@ -79,50 +79,72 @@ tirás ← tirás (invariable)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *durgā* ← *durga*
 - \[noun\], accusative, plural, neuter
 - “fortress; stronghold; difficulty; danger; passage.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, feminine
 - “hate; dviṣ; hostility; hostility.”
-------------------------------------------------------------------------
+
+_________
+
 - *puro* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghnanti* ← *han*
 - \[verb\], plural, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājāna* ← *rājānaḥ* ← *rājan*
 - \[noun\], nominative, plural, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *nayanti* ← *nī*
 - \[verb\], plural, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiraḥ* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

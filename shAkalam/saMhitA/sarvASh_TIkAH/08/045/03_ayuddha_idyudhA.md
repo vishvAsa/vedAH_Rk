@@ -82,53 +82,77 @@ yúvā ← yúvan- (nominal stem)
 -   *ayuddha* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayuddha* ← *yuddhaḥ* ← *yudh*
 - \[verb noun\], nominative, singular
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhā* ← *yudh*
 - \[noun\], instrumental, singular, feminine
 - “battle; fight; war; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtaṃ* ← *vṛtam* ← *vṛ*
 - \[verb noun\], accusative, singular
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūra* ← *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājati* ← *āj* ← *√aj*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *satvabhiḥ* ← *satvan*
 - \[noun\], instrumental, plural, masculine
 - “warrior.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
 - “young; youthful.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

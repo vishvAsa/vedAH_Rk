@@ -108,46 +108,66 @@ várṇam ← várṇa- (nominal stem)
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhikṣamāṇā* ← *bhikṣamāṇāḥ* ← *bhikṣ* ← *√bhaj*
 - \[verb noun\], nominative, plural
 - “beg; beg.”
-------------------------------------------------------------------------
+
+_________
+
 - *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyāsaḥ* ← *yajñiya*
 - \[noun\], nominative, plural, masculine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *naktā* ← *nakta*
 - \[noun\], accusative, plural, neuter
 - “night; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakrur* ← *cakruḥ* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -158,45 +178,65 @@ várṇam ← várṇa- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasā* ← *uṣas*
 - \[noun\], ablative, dual, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *virūpe* ← *virūpa*
 - \[noun\], accusative, dual, feminine
 - “ugly; maimed; grotesque.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇaṃ* ← *kṛṣṇam* ← *kṛṣṇa*
 - \[noun\], accusative, singular, masculine
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṇaṃ* ← *aruṇam* ← *aruṇa*
 - \[noun\], accusative, singular, masculine
 - “red; tawny; dusty; gray.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhuḥ* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

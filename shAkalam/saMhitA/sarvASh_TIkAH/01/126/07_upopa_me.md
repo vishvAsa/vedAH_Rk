@@ -93,71 +93,103 @@ iva ← iva (invariable)
 -   *upopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *upopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛśa* ← *mṛś*
 - \[verb\], singular, Present imperative
 - “touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dabhrāṇi* ← *dabhra*
 - \[noun\], accusative, plural, neuter
 - “few; little(a); deficient.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyathāḥ* ← *man*
 - \[verb\], singular, Present injunctive
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvāham* ← *sarvā* ← *sarva*
 - \[noun\], nominative, singular, feminine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *romaśā* ← *romaśa*
 - \[noun\], nominative, singular, feminine
 - “hairy; green.”
-------------------------------------------------------------------------
+
+_________
+
 - *gandhārīṇām* ← *gandhāri*
 - \[noun\], genitive, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ivāvikā* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivāvikā* ← *avikā*
 - \[noun\], nominative, singular, feminine
 - “ewe.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

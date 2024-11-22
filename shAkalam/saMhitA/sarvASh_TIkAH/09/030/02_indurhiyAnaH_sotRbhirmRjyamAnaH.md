@@ -71,35 +71,51 @@ vagnúm ← vagnú- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiyānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sotṛbhir* ← *sotṛbhiḥ* ← *sotṛ*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mṛjyamānaḥ* ← *mṛj*
 - \[verb noun\], nominative, singular
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vagnum* ← *vagnu*
 - \[noun\], accusative, singular, masculine
 - “cry.”
-------------------------------------------------------------------------
+
+_________
+
 - *indriyam* ← *indriya*
 - \[noun\], accusative, singular, masculine
 - “aindra.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -100,74 +100,108 @@ manīṣíbhiḥ ← manīṣín- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhatta* ← *dhatte* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyudhā* ← *āyudha*
 - \[noun\], accusative, plural, neuter
 - “weapon; āyudha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣāsan* ← *siṣās* ← *√san*
 - \[verb noun\], nominative, singular
 - “win; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathiro* ← *rathiraḥ* ← *rathira*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *gaviṣṭiṣu* ← *gaviṣṭi*
 - \[noun\], locative, plural, feminine
 - “foray.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *īrayann* ← *īrayan* ← *īray* ← *√īr*
 - \[verb noun\], nominative, singular
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
-------------------------------------------------------------------------
+
+_________
+
 - *apasyubhir* ← *apasyubhiḥ* ← *apasyu*
 - \[noun\], instrumental, plural, masculine
 - “active.”
-------------------------------------------------------------------------
+
+_________
+
 - *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinvāno* ← *hinvānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajyate* ← *añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣibhiḥ* ← *manīṣin*
 - \[noun\], instrumental, plural, masculine
 - “sage; expert; devout.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

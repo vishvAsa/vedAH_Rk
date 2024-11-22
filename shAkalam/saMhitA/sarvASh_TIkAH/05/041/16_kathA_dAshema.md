@@ -107,85 +107,127 @@ upamātivániḥ ← upamātiváni- (nominal stem)
 -   *kathā*
 - \[adverb\]
 - “how.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśema* ← *dāś*
 - \[verb\], plural, Present optative
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānūn* ← *sudānu*
 - \[noun\], accusative, plural, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayā* ← *eva*
 - \[noun\]
 - “fast; rapid; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayā* ← *yāḥ* ← *yā*
 - \[noun\], accusative, plural, masculine
 - “going.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], accusative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *acchoktau* ← *acchokti*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *praśravaso* ← *praśravasaḥ* ← *praśravas*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], accusative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *acchoktau* ← *acchokti*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'hir* ← *ahiḥ* ← *ahi*
 - \[noun\], nominative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 - *budhnyo* ← *budhnyaḥ* ← *budhnya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *riṣe* ← *riṣ*
 - \[verb noun\]
 - “suffer; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhād* ← *dhāt* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūd* ← *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *upamātivaniḥ* ← *upamāti*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *upamātivaniḥ* ← *vaniḥ* ← *vani*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

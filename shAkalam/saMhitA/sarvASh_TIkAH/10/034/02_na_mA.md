@@ -105,93 +105,133 @@ jāyā́m ← jāyā́- (nominal stem)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimetha* ← *mith*
 - \[verb\], singular, Perfect indicative
 - “oppose.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jihīḍa* ← *hīḍ*
 - \[verb\], singular, Perfect indicative
 - “anger; stew.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śivā* ← *śiva*
 - \[noun\], nominative, singular, feminine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhibhya* ← *sakhibhyaḥ* ← *sakhi*
 - \[noun\], dative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣasyāham* ← *akṣasya* ← *akṣa*
 - \[noun\], genitive, singular, masculine
 - “belleric myrobalan; dice; gambling; karṣa; akṣa; akṣa \[word\];
     berry.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣasyāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekaparasya* ← *eka*
 - \[noun\]
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekaparasya* ← *parasya* ← *para*
 - \[noun\], genitive, singular, masculine
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
-------------------------------------------------------------------------
+
+_________
+
 - *hetor* ← *hetoḥ* ← *hetu*
 - \[noun\], genitive, singular, masculine
 - “cause; for; reason; agens; means; logic; hetu \[word\]; origin;
     cause; argument.”
-------------------------------------------------------------------------
+
+_________
+
 - *anuvratām* ← *anuvrata*
 - \[noun\], accusative, singular, feminine
 - “attached; devoted(p); faithful.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyām* ← *jāyā*
 - \[noun\], accusative, singular, feminine
 - “wife; jāyā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *arodham* ← *rudh*
 - \[verb\], singular, Root aorist (Ind.)
 - “fill into; close; insert; put; enclose; obstruct; seal; besiege;
     cover; blockade; stop; lock in; plug; withhold; extinguish;
     connect.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

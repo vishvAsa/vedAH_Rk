@@ -77,43 +77,63 @@ pratnám ← pratná- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “self; nature; Ātman; mind; soul; self; body; character; ātman
     \[word\]; person; life; peculiarity.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṃhyā* ← *raṃhi*
 - \[noun\], instrumental, singular, feminine
 - “speed.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣvāṇaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnaṃ* ← *pratnam* ← *pratna*
 - \[noun\], accusative, singular, neuter
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāti* ← *pā*
 - \[verb\], singular, Present indikative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāvyam* ← *kāvya*
 - \[noun\], accusative, singular, neuter
 - “Uśanas; poem; Kāvya; wisdom.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -92,68 +92,98 @@ vyáciṣṭham ← vyáciṣṭha- (nominal stem)
 
 -   *jigharmy* ← *jigharmi* ← *ghṛ*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratikṣiyantam* ← *pratikṣi* ← *√kṣi*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthuṃ* ← *pṛthum* ← *pṛthu*
 - \[noun\], accusative, singular, masculine
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiraścā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *vayasā* ← *vayas*
 - \[noun\], instrumental, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhantaṃ* ← *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyaciṣṭham* ← *vyaciṣṭha*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *annai* ← *annaiḥ* ← *anna*
 - \[noun\], instrumental, plural, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
-------------------------------------------------------------------------
+
+_________
+
 - *rabhasaṃ* ← *rabhasam* ← *rabhasa*
 - \[noun\], accusative, singular, masculine
 - “fierce; impetuous; powerful; potent; flamboyant.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛśānam* ← *dṛś*
 - \[verb noun\], accusative, singular
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

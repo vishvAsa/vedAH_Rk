@@ -76,52 +76,76 @@ voḷhám ← √vah- (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomantam* ← *gomat*
 - \[noun\], accusative, singular, masculine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīraṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *surathaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *surathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *voﾱham* ← *voḍham* ← *vah*
 - \[verb\], dual, Aorist imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvāvatīr* ← *aśvāvatīḥ* ← *aśvāvat*
 - \[noun\], accusative, plural, feminine
 - “rich in horses.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

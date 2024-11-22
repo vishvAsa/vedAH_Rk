@@ -90,67 +90,95 @@ yamé ← yamá- (nominal stem)
 -   *trikadrukebhiḥ* ← *trikadruka*
 - \[noun\], instrumental, plural, masculine
 - “Trikadruka.”
-------------------------------------------------------------------------
+
+_________
+
 - *patati* ← *pat*
 - \[verb\], singular, Present indikative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣaḍ* ← *ṣaṣ*
 - \[noun\], nominative, singular, neuter
 - “six; ṣaṣ; sixth; ṣaṣ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *urvīr* ← *urvīḥ* ← *urvī*
 - \[noun\], nominative, plural, feminine
 - “Earth; floor; land; heaven and earth; urvī; pṛthivī; kingdom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekam* ← *eka*
 - \[noun\], nominative, singular, neuter
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhat*
 - \[noun\], nominative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *triṣṭub* ← *triṣṭubh*
 - \[noun\], nominative, singular, feminine
 - “Triṣṭubh.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyatrī*
 - \[noun\], nominative, singular, feminine
 - “Gāyatrī; catechu; Gāyatrī.”
-------------------------------------------------------------------------
+
+_________
+
 - *chandāṃsi* ← *chandas*
 - \[noun\], nominative, plural, neuter
 - “Veda; meter; chandas \[word\]; hymn; meter; meter.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvā* ← *sarva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *yama* ← *yame* ← *yama*
 - \[noun\], locative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhitā* ← *ādhā* ← *√dhā*
 - \[verb noun\], nominative, plural
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

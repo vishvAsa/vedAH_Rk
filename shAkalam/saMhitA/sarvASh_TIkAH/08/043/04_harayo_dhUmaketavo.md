@@ -70,47 +70,67 @@ yátante ← √yat- (root)
 -   *harayo* ← *harayaḥ* ← *hari*
 - \[noun\], nominative, plural, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūmaketavo* ← *dhūma*
 - \[noun\], masculine
 - “smoke; dhūmavedha; carbon black; dhūmana; mist; vapor;
     vaporization; dhūma \[word\]; incense.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūmaketavo* ← *ketavaḥ* ← *ketu*
 - \[noun\], nominative, plural, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātajūtā* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātajūtā* ← *jūtāḥ* ← *jū*
 - \[verb noun\], nominative, plural
 - “animate; encourage; impel; inspire.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyavi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatante* ← *yat*
 - \[verb\], plural, Present indikative
 - “strive; endeavor; join; equal; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛthag* ← *vṛthak*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *agnayaḥ* ← *agni*
 - \[noun\], nominative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

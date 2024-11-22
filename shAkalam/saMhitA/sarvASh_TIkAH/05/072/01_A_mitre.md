@@ -79,58 +79,84 @@ sómapītaye ← sómapīti- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mitre* ← *mitra*
 - \[noun\], locative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇe* ← *varuṇa*
 - \[noun\], locative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhumo* ← *juhumaḥ* ← *hu*
 - \[verb\], plural, Present indikative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *atrivat* ← *atri*
 - \[noun\], masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *atrivat* ← *vat*
 - \[adverb\]
 - “equally; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sadataṃ* ← *sadatam* ← *sad*
 - \[verb\], dual, Aorist imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapītaye* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapītaye* ← *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

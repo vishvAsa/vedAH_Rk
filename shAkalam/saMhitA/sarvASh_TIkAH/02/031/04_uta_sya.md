@@ -108,84 +108,124 @@ pūṣā́ ← pūṣán- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sakṣaṇis* ← *sakṣaṇiḥ* ← *sakṣaṇi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *gnābhiḥ* ← *gnā*
 - \[noun\], instrumental, plural, feminine
 - “goddess.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣā* ← *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, masculine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *jūjuvad* ← *jūjuvat* ← *jū*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “animate; encourage; impel; inspire.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *iḍā*
 - \[noun\], nominative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhago* ← *bhagaḥ* ← *bhaga*
 - \[noun\], nominative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaddivota* ← *bṛhaddivā* ← *bṛhaddiva*
 - \[noun\], nominative, singular, masculine
 - “Bṛhaddiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaddivota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], nominative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *purandhir* ← *purandhiḥ* ← *purandhi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśvināv* ← *aśvinau* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *patī* ← *pati*
 - \[noun\], nominative, dual, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

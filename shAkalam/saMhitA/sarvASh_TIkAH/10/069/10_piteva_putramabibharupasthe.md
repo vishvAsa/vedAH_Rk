@@ -103,80 +103,116 @@ vrā́dhataḥ ← √vrādh- (root)
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *piteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *putram* ← *putra*
 - \[noun\], accusative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *abibhar* ← *bhṛ*
 - \[verb\], singular, Imperfect
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhryaśvaḥ* ← *vadhryaśva*
 - \[noun\], nominative, singular, masculine
 - “Vadhryaśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyan* ← *sapary*
 - \[verb noun\], nominative, singular
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣāṇo* ← *juṣāṇaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *samidhaṃ* ← *samidham* ← *samidh*
 - \[noun\], accusative, singular, feminine
 - “firewood; kindling; fuel; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaviṣṭhota* ← *yaviṣṭha*
 - \[noun\], vocative, singular, masculine
 - “youngest.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaviṣṭhota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvāṃ* ← *pūrvām* ← *pūrva*
 - \[noun\], accusative, singular, feminine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *avanor* ← *avanoḥ* ← *van*
 - \[verb\], singular, Imperfect
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrādhataś* ← *vrādhataḥ* ← *vrādh*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

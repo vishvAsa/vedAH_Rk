@@ -85,55 +85,81 @@ aryáḥ ← arí- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣann* ← *pūṣan*
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *drava* ← *dru*
 - \[verb\], singular, Present imperative
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsiṣaṃ* ← *śaṃsiṣam* ← *śaṃs*
 - \[verb\], singular, Aorist inj. (proh.)
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *apikarṇa* ← *apikarṇe* ← *apikarṇa*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *āghṛṇe* ← *āghṛṇi*
 - \[noun\], vocative, singular, masculine
 - “aglow(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *aghā* ← *aghāḥ* ← *agha*
 - \[noun\], nominative, plural, feminine
 - “bad; dangerous; ill; iniquitous; bad.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *arātayaḥ* ← *arāti*
 - \[noun\], nominative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

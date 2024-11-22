@@ -93,74 +93,106 @@ yachata ← √yam- (root)
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *trāyadhva* ← *trāyadhve* ← *trā*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *nayatha* ← *nī*
 - \[verb\], plural, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāryaman* ← *mitra*
 - \[noun\], vocative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāryaman* ← *aryaman*
 - \[noun\], vocative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchata* ← *yam*
 - \[verb\], plural, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

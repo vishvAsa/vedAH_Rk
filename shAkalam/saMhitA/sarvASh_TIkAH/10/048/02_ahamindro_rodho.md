@@ -108,90 +108,130 @@ mātaríśvane ← mātaríśvan- (nominal stem)
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodho* ← *rodhaḥ* ← *rodhas*
 - \[noun\], nominative, singular, neuter
 - “shore; bank; slope; wall.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣo* ← *vakṣaḥ* ← *vakṣas*
 - \[noun\], nominative, singular, neuter
 - “breast; breast; bosom; thorax.”
-------------------------------------------------------------------------
+
+_________
+
 - *atharvaṇas* ← *atharvaṇaḥ* ← *atharvan*
 - \[noun\], genitive, singular, masculine
 - “Atharvan; Atharvavedin.”
-------------------------------------------------------------------------
+
+_________
+
 - *tritāya* ← *trita*
 - \[noun\], dative, singular, masculine
 - “Trita.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajanayam* ← *janay* ← *√jan*
 - \[verb\], singular, Imperfect
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *aher* ← *aheḥ* ← *ahi*
 - \[noun\], ablative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyubhyaḥ* ← *dasyu*
 - \[noun\], ablative, plural, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmṇam* ← *nṛmṇa*
 - \[noun\], accusative, singular, neuter
 - “manhood; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *gotrā* ← *gotra*
 - \[noun\], accusative, plural, neuter
 - “Gotra; patronymic; gotra \[word\]; name; family; family; kin;
     Gotra; mountain; herd; cow pen; cowbarn.”
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣan* ← *śikṣ*
 - \[verb noun\], nominative, singular
 - “help; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhīce* ← *dadhyac*
 - \[noun\], dative, singular
 - “Dadhyac.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātariśvane* ← *mātariśvan*
 - \[noun\], dative, singular, masculine
 - “wind; Mātariśvan; Vayu; vāta.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

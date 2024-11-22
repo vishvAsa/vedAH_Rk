@@ -111,101 +111,145 @@ tanū́ḥ ← tanū́- (nominal stem)
 -   *abhāgaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhāgaḥ* ← *bhāgaḥ* ← *bhāga*
 - \[noun\], nominative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
-------------------------------------------------------------------------
+
+_________
+
 - *sann* ← *san* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *pareto* ← *paretaḥ* ← *pare* ← *√i*
 - \[verb noun\], nominative, singular
 - “travel; depart; go; die.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣasya* ← *taviṣa*
 - \[noun\], genitive, singular, masculine
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *pracetaḥ* ← *pracetas*
 - \[noun\], vocative, singular, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyo* ← *manyu*
 - \[noun\], vocative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *akratur* ← *akratuḥ* ← *akratu*
 - \[noun\], nominative, singular, masculine
 - “powerless.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihīḍāhaṃ* ← *jihīḍa* ← *hīḍ*
 - \[verb\], singular, Perfect indicative
 - “anger; stew.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihīḍāhaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *svā* ← *sva*
 - \[noun\], nominative, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūr* ← *tanūḥ* ← *tanū*
 - \[noun\], nominative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *baladeyāya* ← *bala*
 - \[noun\], neuter
 - “strength; army; power; force; potency; vigor; Balarama; bala;
     violence; might; Shiva; bala \[word\]; myrrh; semen; reflex; bronze;
     influence; erection; potency; intensity.”
-------------------------------------------------------------------------
+
+_________
+
 - *baladeyāya* ← *deyāya* ← *deya*
 - \[noun\], dative, singular, neuter
 - “giving; gift.”
-------------------------------------------------------------------------
+
+_________
+
 - *mehi* ← *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mehi* ← *ihi* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

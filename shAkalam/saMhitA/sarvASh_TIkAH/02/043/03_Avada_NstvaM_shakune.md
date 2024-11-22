@@ -107,91 +107,133 @@ vidáthe ← vidátha- (nominal stem)
 
 -   *āvadaṃs* ← *āvadan* ← *āvad* ← *√vad*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakune* ← *śakuni*
 - \[noun\], vocative, singular, masculine
 - “Śakuni; bird; large bird; Śakuni.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
 - “happiness; bhadra; deodar; Bhadra; Bhadra; bhadra \[word\]; Bhadra;
     Bhadrāsana; prosperity; good fortune; benefit.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vada* ← *vad*
 - \[verb\], singular, Present imperative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *tūṣṇīm*
 - \[adverb\]
 - “mutely.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsīnaḥ* ← *ās*
 - \[verb noun\], nominative, singular
 - “sit; stay; sit down; dwell; lie; lie; exist.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumatiṃ* ← *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikiddhi* ← *cit*
 - \[verb\], singular, Perfect imperative
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *utpatan* ← *utpat* ← *√pat*
 - \[verb noun\], nominative, singular
 - “soar; arise; originate; rise; get up.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadasi* ← *vad*
 - \[verb\], singular, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *karkarir* ← *karkariḥ* ← *karkari*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadema* ← *vad*
 - \[verb\], plural, Present optative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīrāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīrāḥ* ← *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,72 +96,106 @@ matsaráḥ ← matsará- (nominal stem)
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumāṃ* ← *madhumat*
 - \[noun\], nominative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvāpo* ← *ṛtāvā* ← *ṛtāvan*
 - \[noun\], nominative, singular, masculine
 - “law-abiding; faithful; righteous.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvāpo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasāno* ← *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāno* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *avye* ← *avya*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *droṇāni* ← *droṇa*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtavānti* ← *ghṛtavat*
 - \[noun\], accusative, plural, neuter
 - “buttery.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīda* ← *sad*
 - \[verb\], singular, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *madintamo* ← *madintamaḥ* ← *madintama*
 - \[noun\], nominative, singular, masculine
 - “exhilarating; intoxicant.”
-------------------------------------------------------------------------
+
+_________
+
 - *matsara* ← *matsaraḥ* ← *matsara*
 - \[noun\], nominative, singular, masculine
 - “intoxicant; invigorating; hostile.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrapānaḥ* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrapānaḥ* ← *pānaḥ* ← *pāna*
 - \[noun\], nominative, singular, masculine
 - “beverage; drinking; alcohol; drink; draft; drinking vessel; pāna
     \[word\]; vagina; well; cup; inhalation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

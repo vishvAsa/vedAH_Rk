@@ -79,53 +79,75 @@ jīvā́bhiḥ ← jīvá- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nivarta*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartaya* ← *vartay* ← *√vṛt*
 - \[verb\], singular, Present imperative
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
-------------------------------------------------------------------------
+
+_________
+
 - *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dehi* ← *dā*
 - \[verb\], singular, Present imperative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvābhir* ← *jīvābhiḥ* ← *jīva*
 - \[noun\], instrumental, plural, feminine
 - “live; alive(p); amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhunajāmahai* ← *bhuj*
 - \[verb\], plural, Present imperative
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

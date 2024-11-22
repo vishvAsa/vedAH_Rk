@@ -82,50 +82,72 @@ vásyasaḥ ← vásyaṁs- (nominal stem)
 -   *sanā* ← *sana* ← *san*
 - \[verb\], singular, Aorist imperative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛdho* ← *mṛdhaḥ* ← *mṛdh*
 - \[noun\], accusative, plural, feminine
 - “enemy; adversary.”
-------------------------------------------------------------------------
+
+_________
+
 - *jahi* ← *han*
 - \[verb\], singular, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasyasas* ← *vasyasaḥ* ← *vasyas*
 - \[noun\], accusative, plural, masculine
 - “better; rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -136,7 +158,9 @@ vásyasaḥ ← vásyaṁs- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

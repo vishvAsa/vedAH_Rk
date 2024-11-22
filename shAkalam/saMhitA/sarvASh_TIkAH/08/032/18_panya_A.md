@@ -78,46 +78,68 @@ yájvanaḥ ← yájvan- (nominal stem)
 
 -   *panya* ← *panyaḥ* ← *panya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dardiracchatā* ← *dardirat* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “cleave.”
-------------------------------------------------------------------------
+
+_________
+
 - *dardiracchatā* ← *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vājy* ← *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛtaḥ* ← *avṛta*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajvano* ← *yajvanaḥ* ← *yajvan*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdhaḥ* ← *vṛdha*
 - \[noun\], nominative, singular, masculine
 - “increasing; promotive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

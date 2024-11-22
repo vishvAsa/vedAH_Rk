@@ -110,98 +110,144 @@ véḥ ← ví- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *asteva* ← *astā* ← *astṛ*
 - \[noun\], nominative, singular, masculine
 - “archer; shot.”
-------------------------------------------------------------------------
+
+_________
+
 - *asteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhād* ← *dhāt* ← *dhā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *asiṣyañ* ← *asiṣyan* ← *as*
 - \[verb noun\], nominative, singular
 - “shoot; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *chiśīta* ← *śiśīta* ← *śā*
 - \[verb\], plural, Present imperative
 - “sharpen; whet; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *tejo* ← *tejaḥ* ← *tejas*
 - \[noun\], accusative, singular, neuter
 - “magnificence; luminosity; glory; fire; semen; fire; heat; light;
     quintessence; brilliance; glare; dignity; beauty; tejas; potency;
     ferocity; power; edge; efficacy; ardor; authority.”
-------------------------------------------------------------------------
+
+_________
+
 - *'yaso* ← *ayasaḥ* ← *ayas*
 - \[noun\], genitive, singular, neuter
 - “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
     weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārām* ← *dhārā*
 - \[noun\], accusative, singular, feminine
 - “blade; edge; acme; nostrils.”
-------------------------------------------------------------------------
+
+_________
+
 - *citradhrajatir* ← *citra*
 - \[noun\]
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *citradhrajatir* ← *dhrajatiḥ* ← *dhrajati*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aratir* ← *aratiḥ* ← *arati*
 - \[noun\], nominative, singular, masculine
 - “charioteer.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aktor* ← *aktoḥ* ← *aktu*
 - \[noun\], genitive, singular, masculine
 - “night; dark; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *ver* ← *veḥ* ← *vi*
 - \[noun\], genitive, singular, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *druṣadvā* ← *druṣadvan*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *raghupatmajaṃhāḥ* ← *raghu*
 - \[noun\]
 - “low; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *raghupatmajaṃhāḥ* ← *patma* ← *patman*
 - \[noun\], neuter
 - “flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *raghupatmajaṃhāḥ* ← *jaṃhāḥ* ← *jaṃhas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

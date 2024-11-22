@@ -96,50 +96,72 @@ udájāyanta ← √janⁱ- (root)
 -   *aibhir* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aibhir* ← *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇyā* ← *vṛṣṇya*
 - \[noun\], accusative, plural, neuter
 - “manfulness; virility.”
-------------------------------------------------------------------------
+
+_________
+
 - *pauṃsyāni* ← *pauṃsya*
 - \[noun\], accusative, plural, neuter
 - “manfulness; deed; army; strength.”
-------------------------------------------------------------------------
+
+_________
+
 - *yebhir* ← *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aukṣad* ← *aukṣat* ← *vakṣ*
 - \[verb\], singular, Imperfect
 - “grow; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahatyāya* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahatyāya* ← *hatyāya* ← *hatya*
 - \[noun\], dative, singular, neuter
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrī* ← *vajrin*
 - \[noun\], nominative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *karmaṇaḥ* ← *karman*
 - \[noun\], genitive, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -147,7 +169,9 @@ udájāyanta ← √janⁱ- (root)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 - *kriyamāṇasya* ← *kṛ*
 - \[verb noun\], genitive, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -158,29 +182,41 @@ udájāyanta ← √janⁱ- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahna* ← *mahnaḥ* ← *mahan*
 - \[noun\], ablative, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtekarmam*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāyanta* ← *jan*
 - \[verb\], plural, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

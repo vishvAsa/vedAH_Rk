@@ -111,55 +111,79 @@ mahā́m ← máh- (nominal stem)
 -   *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīda* ← *sad*
 - \[verb\], singular, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇapate* ← *gaṇapati*
 - \[noun\], vocative, singular, masculine
 - “Ganesa; general; Shiva; Brihaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇeṣu* ← *gaṇa*
 - \[noun\], locative, plural, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipratamaṃ* ← *vipratamam* ← *vipratama*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kavīnām* ← *kavi*
 - \[noun\], genitive, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛte*
 - \[adverb\]
 - “without; ṛte \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kriyate* ← *kṛ*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -170,41 +194,59 @@ mahā́m ← máh- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kiṃ* ← *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *canāre* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *canāre* ← *are*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *mahām* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavañ* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *citram* ← *citra*
 - \[noun\], accusative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *arca* ← *arc*
 - \[verb\], singular, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

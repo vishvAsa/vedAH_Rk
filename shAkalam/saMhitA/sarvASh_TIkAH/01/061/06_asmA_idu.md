@@ -102,78 +102,116 @@ tujatā́ ← √tuj- (root)
 -   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *takṣad* ← *takṣat* ← *takṣ*
 - \[verb\], singular, Present injunctive
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapastamaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapastamaṃ* ← *apastamam* ← *apastama*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *svaryaṃ* ← *svaryam* ← *svarya*
 - \[noun\], accusative, singular, masculine
 - “good for the voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṇāya* ← *raṇa*
 - \[noun\], dative, singular, masculine
 - “battle; fight; pleasure; joy; war; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrasya* ← *vṛtra*
 - \[noun\], genitive, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidad* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *marma* ← *marman*
 - \[noun\], accusative, singular, neuter
 - “marman; secret; secret; mystery; vulnerability.”
-------------------------------------------------------------------------
+
+_________
+
 - *tujann* ← *tujan* ← *tuj*
 - \[verb noun\], nominative, singular
 - “draw.”
-------------------------------------------------------------------------
+
+_________
+
 - *īśānas* ← *īśānaḥ* ← *īś*
 - \[verb noun\], nominative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *tujatā* ← *tuj*
 - \[verb noun\], instrumental, singular
 - “draw.”
-------------------------------------------------------------------------
+
+_________
+
 - *kiyedhāḥ* ← *kiyedhā*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

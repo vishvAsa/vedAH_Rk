@@ -90,61 +90,87 @@ yuvā́kuḥ ← yuvā́ku- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvāṃsā* ← *vid*
 - \[verb noun\], accusative, dual
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvāṃsā* ← *vid*
 - \[verb noun\], nominative, dual
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vocetam* ← *vac*
 - \[verb\], dual, Aorist optative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prārcad* ← *prārcat* ← *prārc* ← *√arc*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *dayamāno* ← *dayamānaḥ* ← *day*
 - \[verb noun\], nominative, singular
 - “share.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvākuḥ* ← *yuvāku*
 - \[noun\], nominative, singular, masculine
 - “your(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

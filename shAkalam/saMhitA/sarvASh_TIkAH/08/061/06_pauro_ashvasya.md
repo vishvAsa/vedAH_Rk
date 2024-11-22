@@ -101,91 +101,131 @@ yā́mi ← √yā- 2 (root)
 
 -   *pauro* ← *pauraḥ* ← *paura*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *purukṛd* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purukṛd* ← *kṛt*
 - \[noun\], nominative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *asy* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *utso* ← *utsaḥ* ← *utsa*
 - \[noun\], nominative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayaḥ* ← *hiraṇyaya*
 - \[noun\], nominative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nakir*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dānam* ← *dāna*
 - \[noun\], nominative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
-------------------------------------------------------------------------
+
+_________
+
 - *parimardhiṣat* ← *parimṛdh* ← *√mṛdh*
 - \[verb\], singular, Aorist conj./subj.
-------------------------------------------------------------------------
+
+_________
+
 - *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

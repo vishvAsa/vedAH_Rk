@@ -104,81 +104,119 @@ naḥ ← ahám (pronoun)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāmibhir* ← *jāmibhiḥ* ← *jāmi*
 - \[noun\], instrumental, plural, masculine
 - “related; ancestral; customary; usual.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *samajāti* ← *samaj* ← *√aj*
 - \[verb\], singular, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 - *mīḍhe* ← *mīḍha*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *'jāmibhir* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *'jāmibhir* ← *jāmibhiḥ* ← *jāmi*
 - \[noun\], instrumental, plural, masculine
 - “related; ancestral; customary; usual.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruhūta* ← *puruhūtaḥ* ← *puruhūta*
 - \[noun\], nominative, singular, masculine
 - “Indra; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *evaiḥ* ← *eva*
 - \[noun\], instrumental, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *tokasya* ← *toka*
 - \[noun\], genitive, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanayasya* ← *tanaya*
 - \[noun\], genitive, singular, neuter
 - “biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *jeṣe* ← *jeṣa*
 - \[noun\], locative, singular, masculine
 - “conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutvān* ← *marutvat*
 - \[noun\], nominative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavatv* ← *bhavatu* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtī* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

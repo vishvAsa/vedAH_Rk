@@ -99,78 +99,114 @@ sujāte ← sujātá- (nominal stem)
 -   *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomair* ← *stomaiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īﾱate* ← *īḍate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭhā* ← *vasiṣṭhāḥ* ← *vasiṣṭha*
 - \[noun\], nominative, plural, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣarbudhaḥ* ← *uṣarbudh*
 - \[noun\], nominative, plural, masculine
 - “early rising.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhage* ← *subhaga*
 - \[noun\], vocative, singular, feminine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuṣṭuvāṃsaḥ* ← *stu*
 - \[verb noun\], nominative, plural
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavāṃ* ← *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *netrī*
 - \[noun\], nominative, singular, feminine
 - “leader; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājapatnī* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājapatnī* ← *patnī*
 - \[noun\], nominative, singular, feminine
 - “wife; mistress; queen.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucchoṣaḥ* ← *uccha* ← *vas*
 - \[verb\], singular, Present imperative
 - “dawn; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucchoṣaḥ* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujāte* ← *sujāta*
 - \[noun\], vocative, singular, feminine
 - “noble; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamā* ← *prathama*
 - \[noun\], nominative, singular, feminine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarasva* ← *jṛ*
 - \[verb\], singular, Present imperative
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

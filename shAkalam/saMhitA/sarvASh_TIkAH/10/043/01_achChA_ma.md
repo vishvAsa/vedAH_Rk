@@ -105,86 +105,126 @@ ná ← ná (invariable)
 -   *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ma* ← *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *matayaḥ* ← *mati*
 - \[noun\], nominative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarvidaḥ* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarvidaḥ* ← *vidaḥ* ← *vid*
 - \[noun\], nominative, plural, feminine
 - “finding.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhrīcīr* ← *sadhrīcīḥ* ← *sadhryañc*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], nominative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśatīr* ← *uśatīḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣvajante* ← *svajante* ← *svaj*
 - \[verb\], plural, Present indikative
 - “embrace.”
-------------------------------------------------------------------------
+
+_________
+
 - *janayo* ← *janayaḥ* ← *jani*
 - \[noun\], nominative, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *maryaṃ* ← *maryam* ← *marya*
 - \[noun\], accusative, singular, masculine
 - “young buck; boyfriend.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śundhyum* ← *śundhyu*
 - \[noun\], accusative, singular, masculine
 - “fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavānam* ← *maghavan*
 - \[noun\], accusative, singular
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

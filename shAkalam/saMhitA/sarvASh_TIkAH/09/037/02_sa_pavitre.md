@@ -75,42 +75,60 @@ yónim ← yóni- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicakṣaṇo* ← *vicakṣaṇaḥ* ← *vicakṣaṇa*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharṇasiḥ* ← *dharṇasi*
 - \[noun\], nominative, singular, masculine
 - “permanent; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoniṃ* ← *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

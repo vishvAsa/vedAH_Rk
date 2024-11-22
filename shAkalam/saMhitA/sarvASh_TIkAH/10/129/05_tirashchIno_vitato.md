@@ -102,84 +102,122 @@ svadhā́ ← svadhā́- (nominal stem)
 -   *tiraścīno* ← *tiraścīnaḥ* ← *tiraścīna*
 - \[noun\], nominative, singular, masculine
 - “horizontal; cross(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *vitato* ← *vitataḥ* ← *vitan* ← *√tan*
 - \[verb noun\], nominative, singular
 - “expand; perform; scatter; prolong; increase.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśmir* ← *raśmiḥ* ← *raśmi*
 - \[noun\], nominative, singular, masculine
 - “beam; rein; sunbeam; shininess; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhaḥ* ← *adhas*
 - \[adverb\]
 - “below; down; adhas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svid*
 - \[adverb\]
 - “svid \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *upari*
 - \[adverb\]
 - “above; up; additionally; upari \[word\]; subsequently.”
-------------------------------------------------------------------------
+
+_________
+
 - *svid*
 - \[adverb\]
 - “svid \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *retodhā* ← *retaḥ* ← *retas*
 - \[noun\], neuter
 - “semen; sperm.”
-------------------------------------------------------------------------
+
+_________
+
 - *retodhā* ← *dhāḥ* ← *dhā*
 - \[noun\], nominative, plural, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsan* ← *as*
 - \[verb\], plural, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahimāna* ← *mahimānaḥ* ← *mahiman*
 - \[noun\], nominative, plural, masculine
 - “greatness; power; mahiman.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsan* ← *as*
 - \[verb\], plural, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhā*
 - \[noun\], nominative, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
-------------------------------------------------------------------------
+
+_________
+
 - *avastāt*
 - \[adverb\]
 - “below.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayatiḥ* ← *prayati*
 - \[noun\], nominative, singular, feminine
 - “offering.”
-------------------------------------------------------------------------
+
+_________
+
 - *parastāt*
 - \[adverb\]
 - “above; subsequently.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -78,43 +78,63 @@ sutam ← √su- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vanaspatī* ← *vanaspati*
 - \[noun\], nominative, dual, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣvāv* ← *ṛṣvau* ← *ṛṣva*
 - \[noun\], nominative, dual, masculine
 - “distinguished; high; noble; enormous.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣvebhiḥ* ← *ṛṣva*
 - \[noun\], instrumental, plural, masculine
 - “distinguished; high; noble; enormous.”
-------------------------------------------------------------------------
+
+_________
+
 - *sotṛbhiḥ* ← *sotṛ*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumat*
 - \[noun\], accusative, singular, neuter
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutam* ← *su*
 - \[verb\], dual, Aorist imperative
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

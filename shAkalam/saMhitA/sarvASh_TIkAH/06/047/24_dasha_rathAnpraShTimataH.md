@@ -73,41 +73,59 @@ pāyáve ← pāyú- (nominal stem)
 -   *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rathān* ← *ratha*
 - \[noun\], accusative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *praṣṭimataḥ* ← *praṣṭimat*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *atharvabhyaḥ* ← *atharvan*
 - \[noun\], dative, plural, masculine
 - “Atharvan; Atharvavedin.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvathaḥ* ← *aśvatha*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pāyave* ← *pāyu*
 - \[noun\], dative, singular, masculine
 - “guard; pāyu \[word\]; Pāyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dāt* ← *adāt* ← *dā*
 - \[verb\], singular, Root aorist (Ind.)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

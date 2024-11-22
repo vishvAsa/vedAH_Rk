@@ -73,44 +73,64 @@ nudásva ← √nud- (root)
 -   *apaghnan* ← *apahan* ← *√han*
 - \[verb noun\], nominative, singular
 - “remove; cure; ward off; repel.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavase* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛdhaḥ* ← *mṛdh*
 - \[noun\], accusative, plural, feminine
 - “enemy; adversary.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratuvit* ← *kratu*
 - \[noun\], masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratuvit* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *matsaraḥ* ← *matsara*
 - \[noun\], nominative, singular, masculine
 - “intoxicant; invigorating; hostile.”
-------------------------------------------------------------------------
+
+_________
+
 - *nudasvādevayuṃ* ← *nudasva* ← *nud*
 - \[verb\], singular, Present imperative
 - “push; propel; expel; push; move.”
-------------------------------------------------------------------------
+
+_________
+
 - *nudasvādevayuṃ* ← *adevayum* ← *adevayu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

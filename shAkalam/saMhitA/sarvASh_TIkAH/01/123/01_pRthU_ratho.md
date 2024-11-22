@@ -99,15 +99,21 @@ mā́nuṣāya ← mā́nuṣa- (nominal stem)
 -   *pṛthū* ← *pṛthuḥ* ← *pṛthu*
 - \[noun\], nominative, singular, masculine
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇāyā* ← *dakṣiṇāyāḥ* ← *dakṣiṇā*
 - \[noun\], genitive, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayojy* ← *ayoji* ← *yuj*
 - \[verb\], singular, Aorist passive
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -115,64 +121,92 @@ mā́nuṣāya ← mā́nuṣa- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *ainaṃ* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ainaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtāso* ← *amṛtāsaḥ* ← *amṛta*
 - \[noun\], nominative, plural, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *asthuḥ* ← *sthā*
 - \[verb\], plural, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇād* ← *kṛṣṇāt* ← *kṛṣṇa*
 - \[noun\], ablative, singular, neuter
 - “sauvīrāñjana; kṛṣṇalavaṇa; lead; kṛṣṇavarga; añjana; kācalavaṇa;
     sauvarcala; iron; pepper; darkness; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *asthād* ← *asthāt* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryā* ← *arya*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vihāyāś* ← *vihāyāḥ* ← *vihāyas*
 - \[noun\], nominative, singular, feminine
 - “vigorous.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikitsantī* ← *cikits*
 - \[verb noun\], nominative, singular
 - “cure; understand; take care; heal.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣāya* ← *mānuṣa*
 - \[noun\], dative, singular, masculine
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣayāya* ← *kṣaya*
 - \[noun\], dative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

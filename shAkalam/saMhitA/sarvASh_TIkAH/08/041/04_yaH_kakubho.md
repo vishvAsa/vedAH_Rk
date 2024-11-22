@@ -115,99 +115,141 @@ same ← sama- (pronoun)
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kakubho* ← *kakubhaḥ* ← *kakubh*
 - \[noun\], accusative, plural, feminine
 - “Kakubh; peak; bulge.”
-------------------------------------------------------------------------
+
+_________
+
 - *nidhārayaḥ* ← *nidhāray* ← *√dhṛ*
 - \[verb\], singular, Present injunctive
 - “put.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyām* ← *pṛthivī*
 - \[noun\], locative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *darśataḥ* ← *darśata*
 - \[noun\], nominative, singular, masculine
 - “beautiful; visible; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, masculine
 - “Mātṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, neuter
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *padaṃ* ← *padam* ← *pada*
 - \[noun\], accusative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptyaṃ* ← *saptyam* ← *saptya*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gopā* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *iveryo* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *iveryo* ← *iryaḥ* ← *irya*
 - \[noun\], nominative, singular, masculine
 - “argus-eyed; active; heedful.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhantām* ← *nabh*
 - \[verb\], plural, Present imperative
 - “burst.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyake* ← *anyaka*
 - \[noun\], nominative, plural, masculine
 - “other; another(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *same* ← *sama*
 - \[noun\], nominative, plural, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);
     accurate; identical; fair; equal; synonymous; changeless; whole;
     exact; calm; straight; even; wide.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

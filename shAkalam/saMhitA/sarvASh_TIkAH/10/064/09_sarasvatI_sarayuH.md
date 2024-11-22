@@ -106,73 +106,109 @@ páyaḥ ← páyas- (nominal stem)
 - \[noun\], nominative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarayuḥ* ← *sarayu*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmibhir* ← *ūrmibhiḥ* ← *ūrmi*
 - \[noun\], instrumental, plural, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mahas*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *mahīr* ← *mahīḥ* ← *mahi*
 - \[noun\], nominative, plural, feminine
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣaṇīḥ* ← *vakṣaṇa*
 - \[noun\], nominative, plural, feminine
 - “fortifying.”
-------------------------------------------------------------------------
+
+_________
+
 - *devīr* ← *devīḥ* ← *devī*
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātaraḥ* ← *mātṛ*
 - \[noun\], nominative, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūdayitnvo* ← *sūdayitnvaḥ* ← *sūdayitnu*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtavat*
 - \[noun\], accusative, singular, neuter
 - “buttery.”
-------------------------------------------------------------------------
+
+_________
+
 - *payo* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhuman* ← *madhumat*
 - \[noun\], accusative, singular, neuter
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

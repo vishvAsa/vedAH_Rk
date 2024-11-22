@@ -99,57 +99,81 @@ priyā́ ← priyá- (nominal stem)
 -   *asāvi* ← *su*
 - \[verb\], singular, Aorist passive
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *jujuṣāṇāya* ← *juṣ*
 - \[verb noun\], dative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratve* ← *kratu*
 - \[noun\], dative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣāya* ← *dakṣa*
 - \[noun\], dative, singular, masculine
 - “deft; right; intelligent; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhate* ← *bṛhat*
 - \[noun\], dative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhurā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhurā* ← *dhurā* ← *dhura*
 - \[noun\], accusative, dual, masculine
 - “yoke.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoge* ← *yoga*
 - \[noun\], locative, singular, masculine
 - “method; application; yoga; remedy; mix; treatment; mixture;
@@ -158,21 +182,29 @@ priyā́ ← priyá- (nominal stem)
     therapy; enterprise; addition; undertaking; performance; marriage;
     yoke; yoga \[word\]; art; combination; assortment; confluence;
     constellation; relationship; connection; agent; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvāg* ← *arvāk*
 - \[adverb\]
 - “here.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyā* ← *priya*
 - \[noun\], accusative, dual, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -183,11 +215,15 @@ priyā́ ← priyá- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *hūyamānaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,79 +96,111 @@ vavr̥tsva ← √vr̥t- (root)
 -   *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratīcī* ← *pratyañc*
 - \[noun\], nominative, singular, feminine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvordhvā* ← *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvordhvā* ← *ūrdhvā* ← *ūrdhva*
 - \[noun\], nominative, singular, feminine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhasy* ← *tiṣṭhasi* ← *sthā*
 - \[verb\], singular, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketuḥ* ← *ketu*
 - \[noun\], nominative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *arthaṃ* ← *artham* ← *artha*
 - \[noun\], accusative, singular, masculine
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
     topic; property; situation; reason; affair; concern; reason;
     enterprise; reason; cause; five; application; application.”
-------------------------------------------------------------------------
+
+_________
+
 - *caraṇīyamānā* ← *caraṇīy*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *cakram* ← *cakra*
 - \[noun\], nominative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyasy* ← *navyasi* ← *navyas*
 - \[noun\], vocative, singular, feminine
 - “new.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vavṛtsva* ← *vṛt*
 - \[verb\], singular, Perfect imperative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

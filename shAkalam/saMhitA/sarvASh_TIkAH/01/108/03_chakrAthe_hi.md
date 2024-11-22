@@ -109,86 +109,124 @@ vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhryaṅ* ← *sadhryak* ← *sadhryañc*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadraṃ* ← *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhrīcīnā* ← *sadhrīcīna*
 - \[noun\], nominative, dual, masculine
 - “concentrated; joint.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahaṇā* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahaṇā* ← *haṇā* ← *han*
 - \[noun\], nominative, dual, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthaḥ* ← *as*
 - \[verb\], dual, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāv* ← *tau* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgnī* ← *agnī* ← *agni*
 - \[noun\], nominative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhryañcā* ← *sadhryañc*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *niṣadyā* ← *niṣad* ← *√sad*
 - \[verb noun\]
 - “sit down; sit; put.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], nominative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣethām* ← *vṛṣ*
 - \[verb\], dual, Present imperative
 - “shower; rain; effuse; shower; drench.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

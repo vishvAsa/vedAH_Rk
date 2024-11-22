@@ -84,58 +84,86 @@ cátuḥśatam ← cátuḥśata- (nominal stem)
 -   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *veṇūñchataṃ* ← *veṇūn* ← *veṇu*
 - \[noun\], accusative, plural, masculine
 - “bamboo; flute; veṇu \[word\]; Veṇu; reed; cane.”
-------------------------------------------------------------------------
+
+_________
+
 - *veṇūñchataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śunaḥ* ← *śvan*
 - \[noun\], accusative, plural, masculine
 - “dog; śvan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *carmāṇi* ← *carman*
 - \[noun\], accusative, plural, neuter
 - “leather; hide; shield; skin; carman \[word\]; carman; hide.”
-------------------------------------------------------------------------
+
+_________
+
 - *mlātāni* ← *mlā*
 - \[verb noun\], accusative, plural
 - “shrivel; tan; fade.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *balbajastukā* ← *balbaja*
 - \[noun\], masculine
-------------------------------------------------------------------------
+
+_________
+
 - *balbajastukā* ← *stukāḥ* ← *stukā*
 - \[noun\], accusative, plural, feminine
 - “tuft.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṣīṇāṃ* ← *aruṣīṇām* ← *aruṣa*
 - \[noun\], genitive, plural, feminine
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *catuḥśatam* ← *catur*
 - \[noun\]
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *catuḥśatam* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

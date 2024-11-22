@@ -102,77 +102,115 @@ rejante ← √rej- (root)
 -   *mimyakṣa* ← *myakṣ*
 - \[verb\], singular, Perfect indicative
 - “be situated; attach.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣu* ← *yad*
 - \[noun\], locative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī*
 - \[noun\], nominative, singular, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *devī*
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣakti* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhyardhayajvā* ← *abhyardha*
 - \[noun\], masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhyardhayajvā* ← *yajvā* ← *yajvan*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śrutvā* ← *śru*
 - \[verb noun\]
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yātha* ← *yā*
 - \[verb\], plural, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmā* ← *bhūmāḥ* ← *bhūma*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rejante* ← *rej*
 - \[verb\], plural, Present indikative
 - “tremor; flicker.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvani* ← *adhvan*
 - \[noun\], locative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravikte* ← *pravij* ← *√vij*
 - \[verb noun\], locative, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

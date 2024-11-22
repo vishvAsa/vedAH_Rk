@@ -70,41 +70,59 @@ tr̥mpatu ← √tr̥p- (root)
 -   *marutvantaṃ* ← *marutvantam* ← *marutvat*
 - \[noun\], accusative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *havāmaha* ← *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *somapītaye* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapītaye* ← *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajūr* ← *sajūs*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇena* ← *gaṇa*
 - \[noun\], instrumental, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛmpatu* ← *tṛp*
 - \[verb\], singular, Present imperative
 - “satiate; enjoy; delight.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

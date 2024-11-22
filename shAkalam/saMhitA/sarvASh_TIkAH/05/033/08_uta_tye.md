@@ -99,70 +99,104 @@ saśce ← √sac- 1 (root)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *paurukutsyasya* ← *paurukutsya*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sūres* ← *sūreḥ* ← *sūri*
 - \[noun\], genitive, singular, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *trasadasyor* ← *trasadasyoḥ* ← *trasadasyu*
 - \[noun\], genitive, singular, masculine
 - “Trasadasyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇino* ← *hiraṇinaḥ* ← *hiraṇin*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rarāṇāḥ* ← *rā*
 - \[verb noun\], nominative, plural
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śyetāso* ← *śyetāsaḥ* ← *śyeta*
 - \[noun\], nominative, plural, masculine
 - “whitish; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *gairikṣitasya* ← *gairikṣita*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kratubhir* ← *kratubhiḥ* ← *kratu*
 - \[noun\], instrumental, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *saśce* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -78,51 +78,73 @@ yáthā ← yáthā (invariable)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśastibhir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśastibhir* ← *śastibhiḥ* ← *śasti*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *juhvāna* ← *juhvānaḥ* ← *hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānuṣak*
 - \[adverb\]
 - “correctly; in sequence; punctually.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūto* ← *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *babhūtha* ← *bhū*
 - \[verb\], singular, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyavāhanaḥ* ← *havyavāhana*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

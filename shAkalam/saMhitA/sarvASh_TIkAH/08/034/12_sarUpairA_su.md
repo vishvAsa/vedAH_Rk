@@ -87,68 +87,98 @@ yayá ← √yā- 1 (root)
 -   *sarūpair* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarūpair* ← *rūpaiḥ* ← *rūpa*
 - \[noun\], instrumental, plural, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sambhṛtaiḥ* ← *sambhṛta*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sambhṛtāśvaḥ* ← *sambhṛta*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *sambhṛtāśvaḥ* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *amuṣya* ← *adas*
 - \[noun\], genitive, singular, masculine
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śāsato* ← *śāsataḥ* ← *śās*
 - \[verb noun\], nominative, plural
 - “teach; govern; command; order; control; tell; recommend; chastize;
     instruct.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaṃ* ← *divam* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaya* ← *yā*
 - \[verb\], plural, Perfect indicative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *divāvaso* ← *divāvasu*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

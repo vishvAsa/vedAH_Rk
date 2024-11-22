@@ -108,78 +108,114 @@ subándhum ← subándhu- (nominal stem)
 -   *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāgāt* ← *pragā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 - *suman* ← *sumat*
 - \[adverb\]
 - “together.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dhāyi* ← *adhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *manma* ← *manman*
 - \[noun\], nominative, singular, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśā* ← *āśāḥ* ← *āśā*
 - \[noun\], accusative, plural, feminine
 - “quarter; region; geographical area; sky; space.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *vītapṛṣṭhaḥ* ← *vīta* ← *vī*
 - \[verb noun\]
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *vītapṛṣṭhaḥ* ← *pṛṣṭhaḥ* ← *pṛṣṭha*
 - \[noun\], nominative, singular, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *enaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “eloquent; stimulated; divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣayo* ← *ṛṣayaḥ* ← *ṛṣi*
 - \[noun\], nominative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *madanti* ← *mad*
 - \[verb\], plural, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣṭe* ← *puṣṭa*
 - \[noun\], locative, singular, neuter
 - “prosperity; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṛmā* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -190,15 +226,21 @@ subándhum ← subándhu- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *subandhum* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *subandhum* ← *bandhum* ← *bandhu*
 - \[noun\], accusative, singular, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

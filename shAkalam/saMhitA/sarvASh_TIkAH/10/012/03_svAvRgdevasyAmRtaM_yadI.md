@@ -113,103 +113,147 @@ yát ← yá- (pronoun)
 
 -   *svāvṛg* ← *svāvṛj*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *devasyāmṛtaṃ* ← *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devasyāmṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], nominative, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *gor* ← *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ato* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātāso* ← *jātāsaḥ* ← *jan*
 - \[verb noun\], nominative, plural
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārayanta* ← *dhārayante* ← *dhāray* ← *√dhṛ*
 - \[verb\], plural, Present indikative
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *urvī*
 - \[noun\], accusative, dual, feminine
 - “Earth; floor; land; heaven and earth; urvī; pṛthivī; kingdom.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajur* ← *yajuḥ* ← *yajus*
 - \[noun\], accusative, singular, neuter
 - “Yajur-Veda; Yajus; prayer.”
-------------------------------------------------------------------------
+
+_________
+
 - *gur* ← *guḥ* ← *gā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhe* ← *duh*
 - \[verb\], singular, Present indikative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *enī*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *divyaṃ* ← *divyam* ← *divya*
 - \[noun\], accusative, singular, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtaṃ* ← *ghṛtam* ← *ghṛta*
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāḥ* ← *vār*
 - \[noun\], accusative, singular, neuter
 - “water; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

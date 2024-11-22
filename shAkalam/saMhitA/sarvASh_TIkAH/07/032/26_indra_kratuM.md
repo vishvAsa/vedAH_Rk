@@ -97,71 +97,103 @@ jyótiḥ ← jyótis- (nominal stem)
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratuṃ* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *putrebhyo* ← *putrebhyaḥ* ← *putra*
 - \[noun\], dative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣā* ← *śikṣa* ← *śikṣ*
 - \[verb\], singular, Present imperative
 - “help; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṇo* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmin* ← *idam*
 - \[noun\], locative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruhūta*
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmani* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvā* ← *jīvāḥ* ← *jīva*
 - \[noun\], nominative, plural, masculine
 - “live; alive(p); amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśīmahi* ← *aś*
 - \[verb\], plural, Aorist optative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

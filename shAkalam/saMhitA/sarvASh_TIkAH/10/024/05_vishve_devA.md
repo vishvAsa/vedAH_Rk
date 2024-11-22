@@ -85,55 +85,79 @@ vahatāt ← √vah- (root)
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛpanta* ← *kṛp*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *samīcyor* ← *samīcyoḥ* ← *samyañc*
 - \[noun\], locative, dual, feminine
 - “conjugate; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣpatantyoḥ* ← *niṣpat* ← *√pat*
 - \[verb noun\], genitive, dual
 - “depart; fall out; fly.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyāv* ← *nāsatyau* ← *nāsatya*
 - \[noun\], accusative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abruvan* ← *brū*
 - \[verb\], plural, Imperfect
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vahatād* ← *vahatāt* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

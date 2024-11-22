@@ -108,83 +108,123 @@ sā́nau ← sā́nu- ~ snú- (nominal stem)
 -   *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *smā* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *avatā* ← *av*
 - \[verb\], plural, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣaso* ← *sajoṣasaḥ* ← *sajoṣas*
 - \[noun\], nominative, plural, masculine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājayum* ← *vājayu*
 - \[noun\], accusative, singular, masculine
 - “competing(a); competitive.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśavaḥ* ← *āśu*
 - \[noun\], nominative, plural, masculine
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *padyābhis* ← *padyābhiḥ* ← *padyā*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *titrato* ← *titrataḥ* ← *tṛ*
 - \[verb noun\], nominative, plural
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajaḥ* ← *rajas*
 - \[noun\], accusative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *sānau* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṅghananta* ← *jaṅghan* ← *√han*
 - \[verb\], plural, Imperfect
 - “murder; kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāṇibhiḥ* ← *pāṇi*
 - \[noun\], instrumental, plural, masculine
 - “hand; hoof; pāṇi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

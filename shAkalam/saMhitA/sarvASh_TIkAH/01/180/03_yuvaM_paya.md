@@ -105,81 +105,119 @@ yájate ← √yaj- (root)
 -   *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *paya* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *usriyāyām* ← *usriyā*
 - \[noun\], locative, singular, feminine
 - “cow; dairy product.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhattam* ← *dhā*
 - \[verb\], dual, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *pakvam* ← *pakva*
 - \[noun\], accusative, singular, neuter
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
-------------------------------------------------------------------------
+
+_________
+
 - *āmāyām* ← *āma*
 - \[noun\], locative, singular, feminine
 - “uncooked; unfestering; unburnt; green; undigested; fusty; raw.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyaṃ* ← *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, neuter
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vanino* ← *vaninaḥ* ← *vanin*
 - \[noun\], genitive, singular, masculine
 - “tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtapsū* ← *ṛtapsu*
 - \[noun\], vocative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hvāro* ← *hvāraḥ* ← *hvāra*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajate* ← *yaj*
 - \[verb\], singular, Present indikative
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣmān* ← *haviṣmat*
 - \[noun\], nominative, singular, masculine
 - “sacrificing.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

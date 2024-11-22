@@ -105,85 +105,123 @@ yūyám ← tvám (pronoun)
 -   *yāḥ* ← *yad*
 - \[noun\], accusative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśmibhir* ← *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātatāna* ← *ātan* ← *√tan*
 - \[verb\], singular, Perfect indicative
 - “expand; prolong; chant; inflate.”
-------------------------------------------------------------------------
+
+_________
+
 - *yābhya* ← *yābhyaḥ* ← *yad*
 - \[noun\], dative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *aradad* ← *aradat* ← *rad*
 - \[verb\], singular, Imperfect
 - “dig.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātum* ← *gā*
 - \[verb noun\]
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmim* ← *ūrmi*
 - \[noun\], accusative, singular, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], vocative, plural, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *varivo* ← *varivaḥ* ← *varivas*
 - \[noun\], accusative, singular, neuter
 - “room; varivas \[word\]; space; escape.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhātanā* ← *dhātana* ← *dhā*
 - \[verb\], plural, Perfect imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

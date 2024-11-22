@@ -90,63 +90,91 @@ vyàlkaśā ← vyàlkaśā- (nominal stem)
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *samadahas* ← *samadahaḥ* ← *saṃdah* ← *√dah*
 - \[verb\], singular, Imperfect
 - “burn; heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāpayā* ← *vāpay* ← *√vap*
 - \[verb\], singular, Present imperative
 - “nirvāpay; mix; āvāpay; grind; submerge; sow; strew.”
-------------------------------------------------------------------------
+
+_________
+
 - *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *kiyāmbv* ← *kiyāmbū* ← *kiyāmbu*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *rohatu* ← *ruh*
 - \[verb\], singular, Present imperative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *pākadūrvā*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vyalkaśā*
 - \[noun\], nominative, singular, feminine
 - “vyalkaśā.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

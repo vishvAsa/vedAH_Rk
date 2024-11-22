@@ -109,92 +109,134 @@ sakhīyán ← √sakhīy- (root)
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *savitāram* ← *savitṛ*
 - \[noun\], accusative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣe* ← *iṣ*
 - \[verb\], singular, Present indikative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhagaṃ* ← *bhagam* ← *bhaga*
 - \[noun\], accusative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratnaṃ* ← *ratnam* ← *ratna*
 - \[noun\], accusative, singular, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhajantam* ← *vibhaj* ← *√bhaj*
 - \[verb noun\], accusative, singular
 - “divide; give away; distribute; choose; allocate; separate; spread;
     consider; assign; distinguish; proportion.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyoḥ* ← *āyu*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *purubhujā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purubhujā* ← *bhujā* ← *bhuj*
 - \[noun\], vocative, dual, masculine
 - “eating; consuming.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavṛtyāṃ* ← *vavṛtyām* ← *vṛt*
 - \[verb\], singular, Perfect optative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhīyan* ← *sakhīy*
 - \[verb noun\], nominative, singular
 - “befriend.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

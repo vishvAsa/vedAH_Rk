@@ -97,78 +97,114 @@ suśáṁsaḥ ← suśáṁsa- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *nediṣṭham* ← *nediṣṭha*
 - \[noun\], accusative, singular, neuter
 - “following.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasāgamiṣṭhaḥ* ← *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasāgamiṣṭhaḥ* ← *āgamiṣṭhaḥ* ← *āgamiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “arriving(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvatī*
 - \[noun\], nominative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhubhiḥ* ← *sindhu*
 - \[noun\], instrumental, plural, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pinvamānā* ← *pinv*
 - \[verb noun\], nominative, singular
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *parjanyo* ← *parjanyaḥ* ← *parjanya*
 - \[noun\], nominative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhībhir* ← *oṣadhībhiḥ* ← *oṣadhī*
 - \[noun\], instrumental, plural, feminine
 - “herb; plant; drug; herb.”
-------------------------------------------------------------------------
+
+_________
+
 - *mayobhur* ← *mayobhuḥ* ← *mayobhu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśaṃsaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśaṃsaḥ* ← *śaṃsaḥ* ← *śaṃsa*
 - \[noun\], nominative, singular, masculine
 - “praise; śaṃs; recitation.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhavaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhavaḥ* ← *havaḥ* ← *hava*
 - \[noun\], nominative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *piteva* ← *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *piteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

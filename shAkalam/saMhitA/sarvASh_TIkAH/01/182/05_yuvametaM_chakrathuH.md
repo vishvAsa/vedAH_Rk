@@ -99,11 +99,15 @@ supaptaní ← supaptaní- (nominal stem)
 -   *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *etaṃ* ← *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cakrathuḥ* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -114,63 +118,93 @@ supaptaní ← supaptaní- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhuṣu* ← *sindhu*
 - \[noun\], locative, plural, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *plavam* ← *plava*
 - \[noun\], accusative, singular, masculine
 - “raft; frog; ship; Plava.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātmanvantam* ← *ātmanvat*
 - \[noun\], accusative, singular, masculine
 - “live.”
-------------------------------------------------------------------------
+
+_________
+
 - *pakṣiṇaṃ* ← *pakṣiṇam* ← *pakṣin*
 - \[noun\], accusative, singular, masculine
 - “winged.”
-------------------------------------------------------------------------
+
+_________
+
 - *taugryāya* ← *taugrya*
 - \[noun\], dative, singular, masculine
 - “Bhujyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devatrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *nirūhathuḥ* ← *nirvah* ← *√vah*
 - \[verb\], dual, Perfect indicative
 - “nirvivah.”
-------------------------------------------------------------------------
+
+_________
+
 - *supaptanī* ← *supaptani*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *petathuḥ* ← *pat*
 - \[verb\], dual, Perfect indicative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣodaso* ← *kṣodasaḥ* ← *kṣodas*
 - \[noun\], ablative, singular, neuter
 - “swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahaḥ* ← *mah*
 - \[noun\], ablative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

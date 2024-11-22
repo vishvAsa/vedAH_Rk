@@ -99,75 +99,109 @@ punántā ← √pū- (root)
 -   *pīvānam* ← *pīvas*
 - \[noun\], accusative, singular, masculine
 - “fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *meṣam* ← *meṣa*
 - \[noun\], accusative, singular, masculine
 - “sheep; ram; Naigameṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *apacanta* ← *pac*
 - \[verb\], plural, Imperfect
 - “heat; cook; digest; boil; ripen; fester; burn; boil; cauterize;
     fry; cook; suppurate; inflame.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrā* ← *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *nyuptā* ← *nyuptāḥ* ← *nivap* ← *√vap*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *akṣā* ← *akṣāḥ* ← *akṣa*
 - \[noun\], nominative, plural, masculine
 - “belleric myrobalan; dice; gambling; karṣa; akṣa; akṣa \[word\];
     berry.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīva* ← *dīve* ← *dīv*
 - \[noun\], dative, singular, feminine
 - “gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsan* ← *as*
 - \[verb\], plural, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvā* ← *dvi*
 - \[noun\], nominative, dual, masculine
 - “two; dvi \[word\]; second.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanum* ← *dhanū*
 - \[noun\], accusative, singular, feminine
 - “sandbank.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatīm* ← *bṛhat*
 - \[noun\], accusative, singular, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavitravantā* ← *pavitravat*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *carataḥ* ← *car*
 - \[verb\], dual, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *punantā* ← *pū*
 - \[verb noun\], nominative, dual
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

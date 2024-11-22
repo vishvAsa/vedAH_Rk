@@ -87,54 +87,80 @@ vr̥hāmi ← √vr̥h- (root)
 -   *āntrebhyas* ← *āntrebhyaḥ* ← *āntra*
 - \[noun\], ablative, plural, neuter
 - “intestine; abdomen.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *gudābhyo* ← *gudābhyaḥ* ← *gudā*
 - \[noun\], ablative, plural, feminine
 - “intestine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaniṣṭhor* ← *vaniṣṭhoḥ* ← *vaniṣṭhu*
 - \[noun\], ablative, singular, masculine
 - “viscera.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdayād* ← *hṛdayāt* ← *hṛdaya*
 - \[noun\], ablative, singular, neuter
 - “heart; heart; mind; hṛdaya \[word\]; science; thorax;
     Aṣṭāṅgahṛdayasaṃhitā; soul.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣmam* ← *yakṣma*
 - \[noun\], accusative, singular, masculine
 - “tuberculosis; disease; pulmonary tuberculosis.”
-------------------------------------------------------------------------
+
+_________
+
 - *matasnābhyāṃ* ← *matasnābhyām* ← *matasna*
 - \[noun\], ablative, dual, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *yaknaḥ* ← *yakṛt*
 - \[noun\], ablative, singular
 - “liver.”
-------------------------------------------------------------------------
+
+_________
+
 - *plāśibhyo* ← *plāśibhyaḥ* ← *plāśi*
 - \[noun\], ablative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛhāmi* ← *vṛh*
 - \[verb\], singular, Present indikative
 - “extract.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

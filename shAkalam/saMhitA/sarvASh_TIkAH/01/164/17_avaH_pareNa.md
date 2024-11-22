@@ -120,102 +120,148 @@ yūthé ← yūthá- (nominal stem)
 -   *avaḥ* ← *avas*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *pareṇa* ← *para*
 - \[noun\], instrumental, singular, neuter
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
-------------------------------------------------------------------------
+
+_________
+
 - *para* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *enāvareṇa* ← *enā* ← *idam*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *enāvareṇa* ← *avareṇa* ← *avara*
 - \[noun\], instrumental, singular, neuter
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *padā* ← *pad*
 - \[noun\], instrumental, singular, masculine
 - “foot; pad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibhratī* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaur* ← *gauḥ* ← *go*
 - \[noun\], nominative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *asthāt* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *kadrīcī* ← *kadryañc*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *kaṃ* ← *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svid*
 - \[adverb\]
 - “svid \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ardham* ← *ardha*
 - \[noun\], accusative, singular, masculine
 - “one-half; ardha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *parāgāt* ← *parāgā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 - *kva*
 - \[adverb\]
 - “wherein; how; kva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svit* ← *svid*
 - \[adverb\]
 - “svid \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūte* ← *sū*
 - \[verb\], singular, Present indikative
 - “give birth; urge; bestow; cause.”
-------------------------------------------------------------------------
+
+_________
+
 - *nahi*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *yūthe* ← *yūtha*
 - \[noun\], locative, singular, masculine
 - “herd; troop; battalion.”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

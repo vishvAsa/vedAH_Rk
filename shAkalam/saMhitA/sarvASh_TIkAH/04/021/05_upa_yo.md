@@ -99,66 +99,96 @@ sádaneṣu ← sádana- (nominal stem)
 -   *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *namo* ← *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasi* ← *namas*
 - \[noun\], locative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *stabhāyann* ← *stabhāyan* ← *stabhāy* ← *√stambh*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācaṃ* ← *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *janayan* ← *janay* ← *√jan*
 - \[verb noun\], nominative, singular
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajadhyai* ← *yaj*
 - \[verb noun\]
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛñjasānaḥ* ← *ṛj*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *puruvāra* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruvāra* ← *vāraḥ* ← *vāra*
 - \[noun\], nominative, singular, masculine
 - “treasure; choice.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthair* ← *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *endraṃ* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *endraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvīta* ← *kṛ*
 - \[verb\], singular, Present optative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -169,16 +199,22 @@ sádaneṣu ← sádana- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadaneṣu* ← *sadana*
 - \[noun\], locative, plural, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

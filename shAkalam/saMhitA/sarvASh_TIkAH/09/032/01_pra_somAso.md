@@ -73,39 +73,57 @@ vidáthe ← vidátha- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *somāso* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *madacyutaḥ* ← *madacyut*
 - \[noun\], nominative, plural, masculine
 - “proud.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravase* ← *śravas*
 - \[noun\], dative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghonaḥ* ← *maghavan*
 - \[noun\], genitive, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutā* ← *sutāḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *akramuḥ* ← *kram*
 - \[verb\], plural, Root aorist (Ind.)
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

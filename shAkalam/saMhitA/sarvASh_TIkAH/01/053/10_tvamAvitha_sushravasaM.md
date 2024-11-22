@@ -102,73 +102,109 @@ yū́ne ← yúvan- (nominal stem)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvitha* ← *av*
 - \[verb\], singular, Perfect indicative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśravasaṃ* ← *suśravasam* ← *suśravas*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tavotibhis* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavotibhis* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *trāmabhir* ← *trāmabhiḥ* ← *trāman*
 - \[noun\], instrumental, plural, neuter
 - “protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tūrvayāṇam* ← *tūrvayāṇa*
 - \[noun\], accusative, singular, masculine
 - “Tūrvayāṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *kutsam* ← *kutsa*
 - \[noun\], accusative, singular, masculine
 - “Kutsa; kutsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *atithigvam* ← *atithigva*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āyum* ← *āyu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājñe* ← *rājan*
 - \[noun\], dative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūne* ← *yuvan*
 - \[noun\], dative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
-------------------------------------------------------------------------
+
+_________
+
 - *arandhanāyaḥ* ← *randhanāy* ← *√radh*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

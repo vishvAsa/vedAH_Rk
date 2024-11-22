@@ -93,74 +93,110 @@ vakṣáṇāḥ ← vakṣáṇā- (nominal stem)
 -   *hotādhvaryur* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotādhvaryur* ← *adhvaryuḥ* ← *adhvaryu*
 - \[noun\], nominative, singular, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvayā* ← *āvayāḥ* ← *āvayas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *agnimindho* ← *agnimindhaḥ* ← *agnimindha*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *grāvagrābha* ← *grāvagrābhaḥ* ← *grāvagrābha*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃstā* ← *śaṃstṛ*
 - \[noun\], nominative, singular, masculine
 - “śaṃstṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suvipraḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvipraḥ* ← *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “eloquent; stimulated; divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tena* ← *tad*
 - \[noun\], instrumental, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñena* ← *yajña*
 - \[noun\], instrumental, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaraṃkṛtena* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaraṃkṛtena* ← *araṃkṛtena* ← *alaṃkṛ* ← *√kṛ*
 - \[verb noun\], instrumental, singular
 - “decorate; prepare.”
-------------------------------------------------------------------------
+
+_________
+
 - *sviṣṭena* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sviṣṭena* ← *iṣṭena* ← *yaj*
 - \[verb noun\], instrumental, singular
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣaṇā* ← *vakṣaṇāḥ* ← *vakṣaṇā*
 - \[noun\], accusative, plural, feminine
 - “abdomen; udder; inside.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇadhvam* ← *pṛṇ*
 - \[verb\], plural, Present imperative
 - “satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

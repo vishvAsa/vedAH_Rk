@@ -96,70 +96,102 @@ vā́jam ← vā́ja- (nominal stem)
 -   *uditā* ← *uditi*
 - \[noun\], locative, singular, feminine
 - “rise.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *niditā* ← *nido* ← *√do*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *veditā* ← *vid*
 - \[verb\], singular, periphrast. future
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasv* ← *vasū* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyo* ← *yajñiyaḥ* ← *yajñiya*
 - \[noun\], nominative, singular, masculine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavartati* ← *vṛt*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *duṣṭarā* ← *duṣṭarāḥ* ← *duṣṭara*
 - \[noun\], nominative, plural, feminine
 - “incomparable; irresistible; unbearable; unconquerable.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pravaṇe* ← *pravaṇa*
 - \[noun\], locative, singular, masculine
 - “torrent.”
-------------------------------------------------------------------------
+
+_________
+
 - *normayo* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *normayo* ← *ūrmayaḥ* ← *ūrmi*
 - \[noun\], nominative, plural, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣāsataḥ* ← *siṣās* ← *√san*
 - \[verb noun\], genitive, singular
 - “win; gain.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

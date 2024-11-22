@@ -99,81 +99,117 @@ uraú ← urú- (nominal stem)
 -   *devī*
 - \[noun\], nominative, dual, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhitarā* ← *duhitṛ*
 - \[noun\], nominative, dual, feminine
 - “daughter; duhitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suśilpe* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśilpe* ← *śilpe* ← *śilpa*
 - \[noun\], nominative, dual, feminine
 - “art; art.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣāsānaktā*
 - \[noun\], nominative, singular, feminine
 - “dawn; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadatāṃ* ← *sadatām* ← *sad*
 - \[verb\], dual, Aorist imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *yonau* ← *yoni*
 - \[noun\], locative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāsa* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśatī* ← *vaś*
 - \[verb noun\], vocative, dual
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśanta* ← *uśantaḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *urau* ← *uru*
 - \[noun\], locative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīdantu* ← *sad*
 - \[verb\], plural, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhage* ← *subhaga*
 - \[noun\], locative, singular, neuter
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
-------------------------------------------------------------------------
+
+_________
+
 - *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

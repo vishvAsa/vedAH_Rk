@@ -81,71 +81,101 @@ daśāṅgulám ← daśāṅgulá- (nominal stem)
 -   *sahasraśīrṣā* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasraśīrṣā* ← *śīrṣā* ← *śīrṣan*
 - \[noun\], nominative, singular, masculine
 - “head; śīrṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣaḥ* ← *puruṣa*
 - \[noun\], nominative, singular, masculine
 - “man; man; Puruṣa; puṃvajra; puruṣa; servant; puruṣa \[word\];
     assistant; soldier; soul; commoner; generation; people; doll.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrākṣaḥ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrākṣaḥ* ← *akṣaḥ* ← *akṣa*
 - \[noun\], nominative, singular, masculine
 - “eye; akṣa \[word\]; hole.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrapāt* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrapāt* ← *pād*
 - \[noun\], nominative, singular, masculine
 - “pād \[word\]; foot.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmiṃ* ← *bhūmim* ← *bhūmi*
 - \[noun\], accusative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvato* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtvāty* ← *vṛtvā* ← *vṛ*
 - \[verb noun\]
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtvāty* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *atiṣṭhad* ← *atiṣṭhat* ← *sthā*
 - \[verb\], singular, Imperfect
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśāṅgulam* ← *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśāṅgulam* ← *aṅgulam* ← *aṅgula*
 - \[noun\], accusative, singular, neuter
 - “finger; finger.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

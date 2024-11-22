@@ -102,82 +102,118 @@ ichántaḥ ← √iṣ- 2 (root)
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhanto* ← *vidhantaḥ* ← *vidh*
 - \[verb noun\], nominative, plural
 - “worship; offer.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśuṃ* ← *paśum* ← *paśu*
 - \[noun\], accusative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naṣṭam* ← *naś*
 - \[verb noun\], accusative, singular
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
-------------------------------------------------------------------------
+
+_________
+
 - *padair* ← *padaiḥ* ← *pada*
 - \[noun\], instrumental, plural, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *gman* ← *gam*
 - \[verb\], plural, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhā*
 - \[adverb\]
 - “secretly.”
-------------------------------------------------------------------------
+
+_________
+
 - *catantam* ← *cat*
 - \[verb noun\], accusative, singular
 - “flee.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśijo* ← *uśijaḥ* ← *uśij*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchanto* ← *icchantaḥ* ← *iṣ*
 - \[verb noun\], nominative, plural
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīrā* ← *dhīrāḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhṛgavo* ← *bhṛgavaḥ* ← *bhṛgu*
 - \[noun\], nominative, plural, masculine
 - “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *'vindan* ← *avindan* ← *vid*
 - \[verb\], plural, Imperfect
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

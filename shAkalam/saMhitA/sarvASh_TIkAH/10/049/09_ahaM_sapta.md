@@ -105,87 +105,127 @@ yudhā́ ← yúdh- (nominal stem)
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], accusative, plural, masculine
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *sravato* ← *sravataḥ* ← *sravat*
 - \[noun\], accusative, plural, feminine
 - “river.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārayaṃ* ← *dhārayam* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Present injunctive
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *dravitnvaḥ* ← *dravitnu*
 - \[noun\], accusative, plural, feminine
 - “fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyāṃ* ← *pṛthivyām* ← *pṛthivī*
 - \[noun\], locative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīrā* ← *sīrāḥ* ← *sīrā*
 - \[noun\], accusative, plural, feminine
 - “stream.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṇāṃsi* ← *arṇas*
 - \[noun\], accusative, plural, neuter
 - “body of water; water.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *tirāmi* ← *tṛ*
 - \[verb\], singular, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratur* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratur* ← *kratuḥ* ← *kratu*
 - \[noun\], nominative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhā* ← *yudh*
 - \[noun\], instrumental, singular, feminine
 - “battle; fight; war; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidam* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *manave* ← *manu*
 - \[noun\], dative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, feminine
 - “seeking.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

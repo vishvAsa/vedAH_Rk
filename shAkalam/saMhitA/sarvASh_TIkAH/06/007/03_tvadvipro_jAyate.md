@@ -93,66 +93,96 @@ vásūni ← vásu- (nominal stem)
 -   *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipro* ← *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyate* ← *jan*
 - \[verb\], singular, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājy* ← *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrāso* ← *vīrāsaḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhimātiṣāhaḥ* ← *abhimātiṣāh*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vaiśvānara*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmāsu* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛhayāyyāṇi* ← *spṛhayāyya*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

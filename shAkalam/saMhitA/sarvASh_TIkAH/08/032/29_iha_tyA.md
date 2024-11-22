@@ -73,45 +73,65 @@ voḷhā́m ← √vah- (root)
 -   *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyā* ← *tya*
 - \[noun\], nominative, dual, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhamādyā* ← *sadhamādya*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyakeśyā* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyakeśyā* ← *keśyā* ← *keśya*
 - \[noun\], nominative, dual, masculine
 - “good for the hair.”
-------------------------------------------------------------------------
+
+_________
+
 - *voﾱhām* ← *voḍhām* ← *vah*
 - \[verb\], dual, Aorist imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayo* ← *prayaḥ* ← *prayas*
 - \[noun\], accusative, singular, neuter
 - “food; dainty; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *hitam* ← *dhā*
 - \[verb noun\], accusative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

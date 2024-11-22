@@ -103,76 +103,110 @@ rátnāni ← rátna- (nominal stem)
 
 -   *namovāke* ← *namovāka*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *prasthite* ← *prasthā* ← *√sthā*
 - \[verb noun\], locative, singular
 - “depart; give; depart; go; stay; proceed.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivakṣaṇasya* ← *vivakṣaṇa*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasyur* ← *avasyuḥ* ← *avasyu*
 - \[noun\], nominative, singular, masculine
 - “seeking protection; helpless.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhattaṃ* ← *dhattam* ← *dhā*
 - \[verb\], dual, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratnāni* ← *ratna*
 - \[noun\], accusative, plural, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,80 +99,116 @@ kṣā́m ← kṣám- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *janāya* ← *jana*
 - \[noun\], dative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *druhvaṇe* ← *druhvan*
 - \[noun\], dative, singular, masculine
 - “deceitful; evil.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārthivāni* ← *pārthiva*
 - \[noun\], accusative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
-------------------------------------------------------------------------
+
+_________
+
 - *divyāni* ← *divya*
 - \[noun\], accusative, plural, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīpayo* ← *dīpayaḥ* ← *dīpay* ← *√dīp*
 - \[verb\], singular, Present injunctive
 - “dīpay; ignite; explain; stimulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ntarikṣā* ← *antarikṣā* ← *antarikṣa*
 - \[noun\], accusative, plural, neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapā* ← *tapa* ← *tap*
 - \[verb\], singular, Present imperative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣan*
 - \[noun\], vocative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *tān* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmadviṣe* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmadviṣe* ← *dviṣe* ← *dviṣ*
 - \[noun\], dative, singular, masculine
 - “hostile; hating.”
-------------------------------------------------------------------------
+
+_________
+
 - *śocaya* ← *śocay* ← *√śuc*
 - \[verb\], singular, Present imperative
 - “distress; afflict; burn.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaś* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

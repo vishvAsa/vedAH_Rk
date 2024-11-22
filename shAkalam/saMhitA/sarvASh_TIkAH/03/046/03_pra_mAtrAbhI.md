@@ -102,78 +102,114 @@ uróḥ ← urú- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātrābhī* ← *mātrābhiḥ* ← *mātrā*
 - \[noun\], instrumental, plural, feminine
 - “measure; weight; quantity; syllable; mātrā; property; part;
     particle; mātrā \[word\]; household effects; morsel; mirror;
     substance.”
-------------------------------------------------------------------------
+
+_________
+
 - *ririce* ← *ric*
 - \[verb\], singular, Perfect indicative
 - “empty; liberate; concede; surrender; purge.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocamānaḥ* ← *ruc*
 - \[verb noun\], nominative, singular
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhir* ← *devebhiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvato* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *apratītaḥ* ← *apratīta*
 - \[noun\], nominative, singular, masculine
 - “irresistible.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *majmanā* ← *majman*
 - \[noun\], instrumental, singular, masculine
 - “size.”
-------------------------------------------------------------------------
+
+_________
+
 - *diva* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], ablative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *proror* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *proror* ← *uroḥ* ← *uru*
 - \[noun\], ablative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], ablative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣād* ← *antarikṣāt* ← *antarikṣa*
 - \[noun\], ablative, singular, neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjīṣī* ← *ṛjīṣin*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

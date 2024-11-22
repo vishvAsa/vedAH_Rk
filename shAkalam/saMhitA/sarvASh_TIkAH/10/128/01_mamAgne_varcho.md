@@ -102,81 +102,117 @@ tváyā ← tvám (pronoun)
 -   *mamāgne* ← *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mamāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *varco* ← *varcaḥ* ← *varcas*
 - \[noun\], nominative, singular, neuter
 - “shininess; vigor; fecal matter; glare; magnificence; energy;
     prestige; energy; glory; luster; light; varcas \[word\]; glory; body
     waste; droppings; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *vihaveṣv* ← *vihaveṣu* ← *vihava*
 - \[noun\], locative, plural, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvendhānās* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvendhānās* ← *indhānāḥ* ← *indh*
 - \[verb noun\], nominative, plural
 - “kindle; ignite; set ablaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvam* ← *tanū*
 - \[noun\], accusative, singular
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣema* ← *puṣ*
 - \[verb\], plural, Aorist optative
 - “boom; grow; promote; foster.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahyaṃ* ← *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *namantām* ← *nam*
 - \[verb\], plural, Present imperative
 - “bow; bend; condescend; worship; bend; lower.”
-------------------------------------------------------------------------
+
+_________
+
 - *pradiśaś* ← *pradiśaḥ* ← *pradiś*
 - \[noun\], nominative, plural, feminine
 - “quarter; direction; command; region; indication.”
-------------------------------------------------------------------------
+
+_________
+
 - *catasras* ← *catasraḥ* ← *catur*
 - \[noun\], nominative, plural, feminine
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvayādhyakṣeṇa* ← *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvayādhyakṣeṇa* ← *adhyakṣeṇa* ← *adhyakṣa*
 - \[noun\], instrumental, singular, masculine
 - “overseer; adhyakṣa \[word\]; mayor; head.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanā* ← *pṛtanāḥ* ← *pṛtanā*
 - \[noun\], accusative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayema* ← *ji*
 - \[verb\], plural, Present optative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -76,43 +76,63 @@ vidā́ḥ ← √vid- 1 (root)
 -   *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣāpatasthuṣo* ← *śikṣā* ← *śikṣ*
 - \[verb\], singular, Present imperative
 - “help; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣāpatasthuṣo* ← *apatasthuṣaḥ* ← *apasthā* ← *√sthā*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *bhiyasam* ← *bhiyas*
 - \[noun\], accusative, singular, masculine
 - “fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatruṣu* ← *śatru*
 - \[noun\], locative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamāna*
 - \[noun\], vocative, singular, masculine
 - “wind.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidā* ← *vidāḥ* ← *vid*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

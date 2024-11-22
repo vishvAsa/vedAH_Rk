@@ -81,50 +81,72 @@ revát ← revánt- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *idhāno* ← *idhānaḥ* ← *indh*
 - \[verb noun\], nominative, singular
 - “kindle; ignite; set ablaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasuṣ* ← *vasu*
 - \[noun\], nominative, singular, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍenyo* ← *īḍenyaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *revad* ← *revat*
 - \[noun\], accusative, singular, neuter
 - “abundant; rich; affluent; brilliant; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *purvaṇīka*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dīdihi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

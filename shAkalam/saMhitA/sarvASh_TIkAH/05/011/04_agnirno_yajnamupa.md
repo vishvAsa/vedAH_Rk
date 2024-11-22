@@ -107,98 +107,140 @@ vr̥ṇate ← √vr̥- ~ vr̥̄- (root)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *vetu* ← *vī*
 - \[verb\], singular, Present imperative
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhuyāgniṃ* ← *sādhuyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sādhuyāgniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharante* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūto* ← *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abhavaddhavyavāhano* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhavaddhavyavāhano* ← *havyavāhanaḥ* ← *havyavāhana*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇānā* ← *vṛṇānāḥ* ← *vṛ*
 - \[verb noun\], nominative, plural
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇate* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavikratum* ← *kavi*
 - \[noun\], masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavikratum* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

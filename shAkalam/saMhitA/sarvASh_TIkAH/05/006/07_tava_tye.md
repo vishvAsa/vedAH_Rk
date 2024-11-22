@@ -101,74 +101,108 @@ stotŕ̥bhyaḥ ← stotár- (nominal stem)
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcayo* ← *arcayaḥ* ← *arci*
 - \[noun\], nominative, plural, masculine
 - “flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrādhanta* ← *vrādh*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *vājinaḥ* ← *vājin*
 - \[noun\], nominative, plural, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *patvabhiḥ* ← *patvan*
 - \[noun\], instrumental, plural, neuter
 - “flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaphānāṃ* ← *śaphānām* ← *śapha*
 - \[noun\], genitive, plural, masculine
 - “one-eighth; śapha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vrajā* ← *vrajāḥ* ← *vraja*
 - \[noun\], accusative, plural, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuranta* ← *bhur*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *gonām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotṛbhya* ← *stotṛbhyaḥ* ← *stotṛ*
 - \[noun\], dative, plural, masculine
 - “laudatory; worshiping.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

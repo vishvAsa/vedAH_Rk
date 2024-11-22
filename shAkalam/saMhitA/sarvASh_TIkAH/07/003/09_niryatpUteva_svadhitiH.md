@@ -105,88 +105,128 @@ sukrátuḥ ← sukrátu- (nominal stem)
 -   *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūteva* ← *pūtā* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhitiḥ* ← *svadhiti*
 - \[noun\], nominative, singular, feminine
 - “ax; knife.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, feminine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāt* ← *gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayā* ← *sva*
 - \[noun\], instrumental, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛpā* ← *kṛp*
 - \[noun\], instrumental, singular, feminine
 - “kṛp.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocamānaḥ* ← *ruc*
 - \[verb noun\], nominative, singular
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mātror* ← *mātroḥ* ← *mātṛ*
 - \[noun\], genitive, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśenyo* ← *uśenyaḥ* ← *uśenya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *janiṣṭa* ← *jan*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayajyāya* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayajyāya* ← *yajyāya* ← *yajya*
 - \[noun\], dative, singular, neuter
 - “sacrifice; yajña.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratuḥ* ← *sukratu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakaḥ* ← *pāvaka*
 - \[noun\], nominative, singular, masculine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

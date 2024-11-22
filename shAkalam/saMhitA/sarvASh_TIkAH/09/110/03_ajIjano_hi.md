@@ -78,47 +78,69 @@ ráṁhamāṇaḥ ← √raṁh- (root)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhāre* ← *vidhāra*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śakmanā* ← *śakman*
 - \[noun\], instrumental, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *gojīrayā* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *gojīrayā* ← *jīrayā* ← *jīra*
 - \[noun\], instrumental, singular, feminine
 - “agile; quick; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṃhamāṇaḥ* ← *raṃh*
 - \[verb noun\], nominative, singular
 - “rush.”
-------------------------------------------------------------------------
+
+_________
+
 - *purandhyā* ← *puraṃdhi*
 - \[noun\], instrumental, singular, feminine
 - “liberality; Puraṃdhi; munificence.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

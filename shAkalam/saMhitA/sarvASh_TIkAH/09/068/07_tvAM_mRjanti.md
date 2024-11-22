@@ -108,87 +108,129 @@ yatáḥ ← √yam- (root)
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], nominative, plural, feminine
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣaṇaḥ* ← *yoṣan*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sutaṃ* ← *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣibhir* ← *ṛṣibhiḥ* ← *ṛṣi*
 - \[noun\], instrumental, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *matibhir* ← *matibhiḥ* ← *mati*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītibhir* ← *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *hitam* ← *hi*
 - \[verb noun\], accusative, singular
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyo* ← *avyaḥ* ← *avya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vārebhir* ← *vārebhiḥ* ← *vāra*
 - \[noun\], instrumental, plural, masculine
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *devahūtibhir* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devahūtibhir* ← *hūtibhiḥ* ← *hūti*
 - \[noun\], instrumental, plural, feminine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yato* ← *yataḥ* ← *yam*
 - \[verb noun\], nominative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *darṣi* ← *dṛ*
 - \[verb\], singular, Present indikative
 - “burst; burst.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

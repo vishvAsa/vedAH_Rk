@@ -90,62 +90,90 @@ párvatasya ← párvata- (nominal stem)
 -   *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatībhyo* ← *bṛhatībhyaḥ* ← *bṛhat*
 - \[noun\], ablative, plural, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanubhyo* ← *dhanubhyaḥ* ← *dhanū*
 - \[noun\], ablative, plural, feminine
 - “sandbank.”
-------------------------------------------------------------------------
+
+_________
+
 - *asphuraḥ* ← *sphur*
 - \[verb\], singular, Imperfect
 - “glitter; bounce; quiver; pulsate.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *arbudasya* ← *arbuda*
 - \[noun\], genitive, singular, masculine
 - “Arbuda; Arbuda; Arbuda.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛgayasya* ← *mṛgaya*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *māyino* ← *māyinaḥ* ← *māyin*
 - \[noun\], genitive, singular, masculine
 - “artful; charming; crafty; deceptive.”
-------------------------------------------------------------------------
+
+_________
+
 - *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatasya* ← *parvata*
 - \[noun\], genitive, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājaḥ* ← *aj*
 - \[verb\], singular, Imperfect
 - “drive; expel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

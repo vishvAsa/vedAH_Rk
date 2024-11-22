@@ -109,91 +109,133 @@ tanvàḥ ← tanū́- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāhā*
 - \[adverb\]
 - “hail.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibatu* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgatyā* ← *āgam* ← *√gam*
 - \[verb noun\]
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
-------------------------------------------------------------------------
+
+_________
+
 - *tumro* ← *tumraḥ* ← *tumra*
 - \[noun\], nominative, singular, masculine
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutvān* ← *marutvat*
 - \[noun\], nominative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *oruvyacāḥ* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *oruvyacāḥ* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *oruvyacāḥ* ← *vyacāḥ* ← *vyacas*
 - \[noun\], nominative, singular, masculine
 - “area; capacity.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇatām* ← *pṛ*
 - \[verb\], plural, Present imperative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *ebhir* ← *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *annair* ← *annaiḥ* ← *anna*
 - \[noun\], instrumental, plural, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsya* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *havis* ← *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaḥ* ← *tanū*
 - \[noun\], genitive, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmam* ← *kāma*
 - \[noun\], accusative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛdhyāḥ* ← *ṛdh*
 - \[verb\], singular, Aorist optative
 - “boom; stick to.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

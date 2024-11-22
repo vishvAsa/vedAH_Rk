@@ -109,97 +109,141 @@ vā́je ← vā́ja- (nominal stem)
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhitvam* ← *sakhi*
 - \[noun\], masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhitvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojyam* ← *bhojya*
 - \[noun\], accusative, singular, neuter
 - “food; bhojya \[word\]; comestible.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrinn* ← *vajrin*
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
-------------------------------------------------------------------------
+
+_________
+
 - *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *samasminn* ← *samasmin* ← *sama*
 - \[noun\], locative, singular, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);
     accurate; identical; fair; equal; synonymous; changeless; whole;
     exact; calm; straight; even; wide.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśīhi* ← *śā*
 - \[verb\], singular, Present imperative
 - “sharpen; whet; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāje* ← *vāja*
 - \[noun\], locative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśipra* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśipra* ← *śipra* ← *śiprā*
 - \[noun\], vocative, singular, masculine
 - “lip; śiprā.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomati* ← *gomat*
 - \[noun\], locative, singular, masculine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

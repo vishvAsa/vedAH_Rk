@@ -102,72 +102,106 @@ yujā́ ← yúj- (nominal stem)
 -   *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhubhir* ← *ṛbhubhiḥ* ← *ṛbhu*
 - \[noun\], instrumental, plural, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhvo* ← *vibhvaḥ* ← *vibhū*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vibhubhiḥ* ← *vibhu*
 - \[noun\], instrumental, plural, masculine
 - “Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavāṃsi* ← *śavas*
 - \[noun\], accusative, plural, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājo* ← *vājaḥ* ← *vāja*
 - \[noun\], nominative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmāṃ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *avatu* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasātāv* ← *vājasātau* ← *vājasāti*
 - \[noun\], locative, singular, feminine
 - “victory; battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
-------------------------------------------------------------------------
+
+_________
+
 - *taruṣema* ← *taruṣ* ← *√tṛ*
 - \[verb\], plural, Present optative
 - “overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

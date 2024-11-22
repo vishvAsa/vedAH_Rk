@@ -115,114 +115,162 @@ vaha ← √vah- (root)
 - \[noun\], nominative, singular, masculine
 - “goat; Vishnu; Brahma; Shiva; Aja; aja \[word\]; Aja; aj; Ocimum
     gratissimum; Puruṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāgas* ← *bhāgaḥ* ← *bhāga*
 - \[noun\], nominative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapasā* ← *tapas*
 - \[noun\], instrumental, singular, neuter
 - “penance; heat; Tapoloka; tapas \[word\]; ardor; austerity; summer;
     heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapasva* ← *tap*
 - \[verb\], singular, Present imperative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śocis* ← *śociḥ* ← *śocis*
 - \[noun\], nominative, singular, neuter
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapatu* ← *tap*
 - \[verb\], singular, Present imperative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *arciḥ* ← *arcis*
 - \[noun\], nominative, singular, neuter
 - “fire; flare; light; beam; gleam; shininess.”
-------------------------------------------------------------------------
+
+_________
+
 - *yās* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śivās* ← *śivāḥ* ← *śiva*
 - \[noun\], nominative, plural, feminine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvo* ← *tanvaḥ* ← *tanu*
 - \[noun\], nominative, plural, feminine
 - “body; embodiment; life; life; root; body; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedas* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahainaṃ* ← *vahā* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahainaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtām* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtām* ← *kṛtām* ← *kṛt*
 - \[noun\], genitive, plural, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

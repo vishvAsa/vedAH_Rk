@@ -96,75 +96,109 @@ vyūrṇuté ← √vr̥- (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *trāyamāṇo* ← *trāyamāṇaḥ* ← *trā*
 - \[verb noun\], nominative, singular
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyapāṇir* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyapāṇir* ← *pāṇiḥ* ← *pāṇi*
 - \[noun\], nominative, singular, masculine
 - “hand; hoof; pāṇi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajato* ← *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagamyāt* ← *gam*
 - \[verb\], singular, Perfect optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *datravāṃ* ← *datravat*
 - \[noun\], nominative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratīkaṃ* ← *pratīkam* ← *pratīka*
 - \[noun\], nominative, singular, neuter
 - “face; surface.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyūrṇute* ← *vivṛ* ← *√vṛ*
 - \[verb\], singular, Present indikative
 - “open; comment; uncover; disclose.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāryāṇi* ← *vārya*
 - \[noun\], accusative, plural, neuter
 - “wealth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

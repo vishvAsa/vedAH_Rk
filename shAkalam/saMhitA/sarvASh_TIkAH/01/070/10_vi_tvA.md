@@ -76,49 +76,71 @@ ví ← ví (invariable)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *purutrā*
 - \[adverb\]
 - “distributively.”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyan* ← *sapary*
 - \[verb\], plural, Imperfect
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitur* ← *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jivrer* ← *jivreḥ* ← *jivri*
 - \[noun\], genitive, singular, masculine
 - “old.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedo* ← *vedaḥ* ← *vedas*
 - \[noun\], accusative, singular, neuter
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharanta* ← *bhṛ*
 - \[verb\], plural, Present injunctive
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,84 +102,124 @@ yát ← yá- (pronoun)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptahotā* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptahotā* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanakād* ← *sanakāt* ← *sanaka*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *arocata* ← *ruc*
 - \[verb\], singular, Imperfect
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātur* ← *mātuḥ* ← *mātṛ*
 - \[noun\], genitive, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśocad* ← *aśocat* ← *śuc*
 - \[verb\], singular, Imperfect
 - “mourn; grieve; flame; glow; burn; repent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūdhani* ← *ūdhas*
 - \[noun\], locative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *miṣati* ← *miṣ*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *suraṇo* ← *suraṇaḥ* ← *suraṇa*
 - \[noun\], nominative, singular, masculine
 - “joyful.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *asurasya* ← *asura*
 - \[noun\], genitive, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṭharād* ← *jaṭharāt* ← *jaṭhara*
 - \[noun\], ablative, singular, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāyata* ← *jan*
 - \[verb\], singular, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

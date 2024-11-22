@@ -67,31 +67,45 @@ havāmahe ← √hū- (root)
 -   *marutvantam* ← *marutvat*
 - \[noun\], accusative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjīṣiṇam* ← *ṛjīṣin*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ojasvantaṃ* ← *ojasvantam* ← *ojasvat*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *virapśinam* ← *virapśin*
 - \[noun\], accusative, singular, masculine
 - “exuberant; copious; ample.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

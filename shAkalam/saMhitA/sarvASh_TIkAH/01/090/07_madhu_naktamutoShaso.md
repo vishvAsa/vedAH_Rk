@@ -82,54 +82,78 @@ pitā́ ← pitár- (nominal stem)
 -   *madhu*
 - \[noun\], nominative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *utoṣaso* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *utoṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumat*
 - \[noun\], nominative, singular, neuter
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārthivaṃ* ← *pārthivam* ← *pārthiva*
 - \[noun\], nominative, singular, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajaḥ* ← *rajas*
 - \[noun\], nominative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], nominative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -112,50 +112,72 @@ tvā ← tvám (pronoun)
 - \[noun\], dative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
-------------------------------------------------------------------------
+
+_________
+
 - *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapāvann* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapāvann* ← *pāvan*
 - \[noun\], vocative, singular, masculine
 - “drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *'rvāñcā* ← *arvāñcā* ← *arvāñc*
 - \[noun\], accusative, dual, masculine
 - “approaching; facing; less.”
-------------------------------------------------------------------------
+
+_________
+
 - *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandanaśrud* ← *vandana*
 - \[noun\], neuter
 - “worship; skin disease.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandanaśrud* ← *śrut*
 - \[noun\], vocative, singular, masculine
 - “listening.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -166,50 +188,74 @@ tvā ← tvám (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamiṣṭhāsaḥ* ← *yamiṣṭha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sārathayo* ← *sārathayaḥ* ← *sārathi*
 - \[noun\], nominative, plural, masculine
 - “charioteer; sārathi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketā* ← *ketāḥ* ← *keta*
 - \[noun\], nominative, plural, masculine
 - “wish; will; purpose; expectation; house.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dabhnuvanti* ← *dabh*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *bhūrṇayaḥ* ← *bhūrṇi*
 - \[noun\], nominative, plural, masculine
 - “impatient; restless.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -108,63 +108,91 @@ yúdhyai ← √yudh- (root)
 -   *nāham* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ato* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayā* ← *i*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *durgahaitat* ← *durgahā* ← *durgaha*
 - \[noun\], nominative, plural, neuter
 - “danger; abyss; wilderness.”
-------------------------------------------------------------------------
+
+_________
+
 - *durgahaitat* ← *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tiraścatā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *pārśvān* ← *pārśvāt* ← *pārśva*
 - \[noun\], ablative, singular, neuter
 - “side; flank; side; flank; margin; side; proximity; knife.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *gamāṇi* ← *gamāni* ← *gam*
 - \[verb\], singular, Aorist conj./subj.
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *bahūni* ← *bahu*
 - \[noun\], nominative, plural, neuter
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛtā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛtā* ← *kṛtā* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -175,7 +203,9 @@ yúdhyai ← √yudh- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kartvāni* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -186,27 +216,39 @@ yúdhyai ← √yudh- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhyai* ← *yudh*
 - \[verb\], singular, Present imperative
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvena* ← *tva*
 - \[noun\], instrumental, singular, masculine
 - “many a(a); one.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvena* ← *tva*
 - \[noun\], instrumental, singular, masculine
 - “many a(a); one.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛcchai* ← *pracch*
 - \[verb\], singular, Present imperative
 - “ask; ask; ask; consult; interrogate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -77,29 +77,41 @@ yā́ ← yá- (pronoun)
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāny* ← *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *adbhutā* ← *adbhuta*
 - \[noun\], accusative, plural, neuter
 - “extraordinary; amazing; supernatural.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikitvāṃ* ← *cit*
 - \[verb noun\], nominative, singular
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśyati* ← *paś*
 - \[verb\], singular, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtāni* ← *kṛ*
 - \[verb noun\], accusative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -110,15 +122,21 @@ yā́ ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *kartvā* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -129,7 +147,9 @@ yā́ ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

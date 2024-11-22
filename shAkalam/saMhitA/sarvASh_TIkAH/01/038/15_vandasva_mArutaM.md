@@ -76,46 +76,66 @@ vr̥ddhā́ḥ ← √vr̥dh- (root)
 -   *vandasva* ← *vand*
 - \[verb\], singular, Present imperative
 - “worship; laud.”
-------------------------------------------------------------------------
+
+_________
+
 - *mārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], accusative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇaṃ* ← *gaṇam* ← *gaṇa*
 - \[noun\], accusative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *panasyum* ← *panasyu*
 - \[noun\], accusative, singular, masculine
 - “brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkiṇam* ← *arkin*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛddhā* ← *vṛddhāḥ* ← *vṛdh*
 - \[verb noun\], nominative, plural
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *asann* ← *asan* ← *as*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

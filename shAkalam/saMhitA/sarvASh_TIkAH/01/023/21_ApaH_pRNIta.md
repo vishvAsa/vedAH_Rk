@@ -76,47 +76,67 @@ sū́ryam ← sū́rya- (nominal stem)
 -   *āpaḥ* ← *ap*
 - \[noun\], vocative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇīta* ← *pṛ*
 - \[verb\], plural, Present imperative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *bheṣajaṃ* ← *bheṣajam* ← *bheṣaja*
 - \[noun\], accusative, singular, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
-------------------------------------------------------------------------
+
+_________
+
 - *varūthaṃ* ← *varūtham* ← *varūtha*
 - \[noun\], accusative, singular, neuter
 - “defense; protective covering.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanve* ← *tanū*
 - \[noun\], dative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyok*
 - \[adverb\]
 - “long.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛśe* ← *dṛś*
 - \[verb noun\]
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

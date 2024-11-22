@@ -76,52 +76,76 @@ ihá ← ihá (invariable)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvābadhiraṃ* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvābadhiraṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvābadhiraṃ* ← *badhiram* ← *badhira*
 - \[noun\], accusative, singular, masculine
 - “deaf.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutkarṇaṃ* ← *śrut*
 - \[noun\]
 - “listening.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutkarṇaṃ* ← *karṇam* ← *karṇa*
 - \[noun\], accusative, singular, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
-------------------------------------------------------------------------
+
+_________
+
 - *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dūrād* ← *dūrāt*
 - \[adverb\]
 - “far.”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

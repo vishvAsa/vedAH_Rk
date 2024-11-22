@@ -111,91 +111,133 @@ vayám ← ahám (pronoun)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvaryur* ← *adhvaryuḥ* ← *adhvaryu*
 - \[noun\], nominative, singular, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotāsi* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyaḥ* ← *pūrvya*
 - \[noun\], nominative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *praśāstā* ← *praśāstṛ*
 - \[noun\], nominative, singular, masculine
 - “praśāstṛ \[word\]; king.”
-------------------------------------------------------------------------
+
+_________
+
 - *potā* ← *potṛ*
 - \[noun\], nominative, singular, masculine
 - “Potṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *januṣā* ← *janus*
 - \[noun\], instrumental, singular, neuter
 - “birth.”
-------------------------------------------------------------------------
+
+_________
+
 - *purohitaḥ* ← *purohita*
 - \[noun\], nominative, singular, masculine
 - “Purohita; purohita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvāṃ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārtvijyā* ← *ārtvijya*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *dhīra*
 - \[noun\], vocative, singular, masculine
 - “expert; wise; intelligent; versed; adept.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣyasy* ← *puṣyasi* ← *puṣ*
 - \[verb\], singular, Present indikative
 - “boom; grow; promote; foster.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhye* ← *sakhi*
 - \[noun\], dative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *riṣāmā* ← *riṣ*
 - \[verb\], plural, Aorist conj./subj.
 - “suffer; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

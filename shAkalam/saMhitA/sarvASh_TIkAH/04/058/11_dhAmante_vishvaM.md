@@ -112,90 +112,132 @@ te ← tvám (pronoun)
 - \[noun\], locative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvam* ← *viśva*
 - \[noun\], nominative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanam* ← *bhuvana*
 - \[noun\], nominative, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *śritam* ← *śri*
 - \[verb noun\], nominative, singular
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdy* ← *hṛdi* ← *hṛd*
 - \[noun\], locative, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyuṣi* ← *āyus*
 - \[noun\], locative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 - *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *anīke* ← *anīka*
 - \[noun\], locative, singular, neuter
 - “army; face; battalion; battlefront; point; appearance.”
-------------------------------------------------------------------------
+
+_________
+
 - *samithe* ← *samitha*
 - \[noun\], locative, singular, neuter
 - “battle; conflict.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhṛtas* ← *ābhṛtaḥ* ← *ābhṛ* ← *√bhṛ*
 - \[verb noun\], nominative, singular
 - “bring.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśyāma* ← *aś*
 - \[verb\], plural, Aorist optative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumantaṃ* ← *madhumantam* ← *madhumat*
 - \[noun\], accusative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmim* ← *ūrmi*
 - \[noun\], accusative, singular, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

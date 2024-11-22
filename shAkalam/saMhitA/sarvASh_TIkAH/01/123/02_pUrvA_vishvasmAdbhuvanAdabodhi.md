@@ -104,88 +104,126 @@ uṣā́ḥ ← uṣás- (nominal stem)
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanād* ← *bhuvanāt* ← *bhuvana*
 - \[noun\], ablative, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abodhi* ← *budh*
 - \[verb\], singular, Aorist passive
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayantī* ← *ji*
 - \[verb noun\], nominative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatī* ← *bṛhat*
 - \[noun\], nominative, singular, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanutrī* ← *sanutṛ*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *uccā*
 - \[adverb\]
 - “above.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *akhyad* ← *akhyat* ← *khyā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “name; describe; call; enumerate; watch; know.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvatiḥ* ← *yuvati*
 - \[noun\], nominative, singular, feminine
 - “girl; woman.”
-------------------------------------------------------------------------
+
+_________
+
 - *punarbhūr* ← *punarbhūḥ* ← *punarbhū*
 - \[noun\], nominative, singular, feminine
 - “punarbhū; punarnavā.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *agan* ← *gam*
 - \[verb\], singular, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamā* ← *prathama*
 - \[noun\], nominative, singular, feminine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvahūtau* ← *pūrva*
 - \[noun\]
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvahūtau* ← *hūtau* ← *hūti*
 - \[noun\], locative, singular, feminine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

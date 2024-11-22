@@ -79,51 +79,73 @@ vājínaḥ ← vājín- (nominal stem)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *madyam* ← *mad*
 - \[verb noun\], accusative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *madam* ← *mada*
 - \[noun\], accusative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *indav* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣara* ← *kṣar*
 - \[verb\], singular, Present imperative
 - “run; melt.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], accusative, plural, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvataḥ* ← *arvant*
 - \[noun\], accusative, plural, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

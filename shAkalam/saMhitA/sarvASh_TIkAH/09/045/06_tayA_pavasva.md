@@ -75,45 +75,65 @@ suvī́ryam ← suvī́rya- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pīto* ← *pītaḥ* ← *pā*
 - \[verb noun\], nominative, singular
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicakṣase* ← *vicakṣ* ← *√cakṣ*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotre* ← *stotṛ*
 - \[noun\], dative, singular, masculine
 - “laudatory; worshiping.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīryam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīryam* ← *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -111,97 +111,137 @@ ukthyàm ← ukthyà- (nominal stem)
 -   *ṛtur* ← *ṛtuḥ* ← *ṛtu*
 - \[noun\], nominative, singular, masculine
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitrī*
 - \[noun\], nominative, singular, feminine
 - “mother.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasyā* ← *tasyāḥ* ← *tad*
 - \[noun\], ablative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *apas* ← *ap*
 - \[noun\], accusative, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *makṣū*
 - \[adverb\]
 - “promptly; soon; quickly.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāta* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *āviśad* ← *āviśat* ← *āviś* ← *√viś*
 - \[verb\], singular, Imperfect
 - “enter; overwhelm; possess; approach; afflict; enter (a state);
     reach; wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāsu* ← *yad*
 - \[noun\], locative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhate* ← *vṛdh*
 - \[verb\], singular, Present indikative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhanā* ← *āhanāḥ* ← *āhanas*
 - \[noun\], nominative, singular, feminine
 - “aroused; intoxicant.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *pipyuṣī* ← *pyā*
 - \[verb noun\], nominative, singular
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *payo* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ṃśoḥ* ← *aṃśoḥ* ← *aṃśu*
 - \[noun\], genitive, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
-------------------------------------------------------------------------
+
+_________
+
 - *pīyūṣam* ← *pīyūṣa*
 - \[noun\], nominative, singular, neuter
 - “amṛta; pīyūṣa; ambrosia.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamaṃ* ← *prathamam* ← *prathama*
 - \[noun\], nominative, singular, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthyam* ← *ukthya*
 - \[noun\], nominative, singular, neuter
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

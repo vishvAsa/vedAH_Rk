@@ -96,69 +96,101 @@ vājayántā ← √vājay- 2 (root)
 -   *śnathad* ← *śnathat* ← *śnath*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “pierce; kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanoti* ← *san*
 - \[verb\], singular, Present indikative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrā* ← *indra*
 - \[noun\], accusative, dual, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agnī* ← *agni*
 - \[noun\], accusative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahurī* ← *sahuri*
 - \[noun\], accusative, dual, masculine
 - “victorious; mighty; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyāt* ← *sapary*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *irajyantā* ← *irajy* ← *√rañj*
 - \[verb noun\], accusative, dual
 - “direct.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasavyasya* ← *vasavya*
 - \[noun\], genitive, singular, neuter
 - “wealth; wealth.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūreḥ* ← *bhūri*
 - \[noun\], genitive, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahastamā* ← *sahastama*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājayantā* ← *vājay* ← *√vaj*
 - \[verb noun\], accusative, dual
 - “incite.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

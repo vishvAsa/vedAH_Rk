@@ -97,71 +97,105 @@ yájamānasya ← √yaj- (root)
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśravasyā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśravasyā* ← *śravasyā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *prakhādaḥ* ← *prakhāda*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pṛkṣo* ← *pṛkṣaḥ* ← *pṛkṣa*
 - \[noun\], nominative, singular, masculine
 - “strong; full of life.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitriṇo* ← *mitriṇaḥ* ← *mitrin*
 - \[noun\], accusative, plural, masculine
 - “friendly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *samarya* ← *samarye* ← *samarya*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *iṣa* ← *iṣaḥ* ← *iṣ*
 - \[noun\], genitive, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *stavate* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivāci* ← *vivāc*
 - \[noun\], locative, singular, feminine
 - “contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *satrākaro* ← *satrākaraḥ* ← *satrākara*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yajamānasya* ← *yaj*
 - \[verb noun\], genitive, singular
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsaḥ* ← *śaṃsa*
 - \[noun\], nominative, singular, masculine
 - “praise; śaṃs; recitation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

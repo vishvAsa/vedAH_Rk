@@ -79,47 +79,69 @@ soma ← sóma- (nominal stem)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣaṇo* ← *yoṣaṇaḥ* ← *yoṣan*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], nominative, plural, feminine
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jāraṃ* ← *jāram* ← *jāra*
 - \[noun\], accusative, singular, masculine
 - “fancy man.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kanyānūṣata* ← *kanyā*
 - \[noun\], nominative, singular, feminine
 - “girl; daughter; kanyā; virgin; Aloe perfoliata; Aloe Indica; female
     child; kanyā \[word\]; burn plant.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanyānūṣata* ← *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛjyase* ← *mṛj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

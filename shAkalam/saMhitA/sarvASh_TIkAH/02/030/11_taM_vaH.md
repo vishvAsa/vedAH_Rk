@@ -104,86 +104,126 @@ divé-dive ← dyú- ~ div- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardham* ← *śardha*
 - \[noun\], accusative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *mārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], accusative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnayur* ← *sumnayuḥ* ← *sumnayu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *giropa* ← *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *giropa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *bruve* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivyaṃ* ← *daivyam* ← *daivya*
 - \[noun\], accusative, singular, masculine
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 - *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvavīraṃ* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvavīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *naśāmahā* ← *naśāmahai* ← *naś*
 - \[verb\], plural, Present imperative
 - “reach; achieve; enter (a state); reach.”
-------------------------------------------------------------------------
+
+_________
+
 - *apatyasācaṃ* ← *apatyasācam* ← *apatyasāc*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śrutyaṃ* ← *śrutyam* ← *śrutya*
 - \[noun\], accusative, singular, masculine
 - “celebrated; glorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

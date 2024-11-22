@@ -79,46 +79,66 @@ vitantasā́yyaḥ ← vitantasā́yya- (nominal stem)
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīra*
 - \[noun\], vocative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *girvaṇo* ← *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhane* ← *dhana*
 - \[noun\], locative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *hite* ← *dhā*
 - \[verb noun\], locative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhare* ← *bhara*
 - \[noun\], locative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
-------------------------------------------------------------------------
+
+_________
+
 - *vitantasāyyaḥ* ← *vitantasāyya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

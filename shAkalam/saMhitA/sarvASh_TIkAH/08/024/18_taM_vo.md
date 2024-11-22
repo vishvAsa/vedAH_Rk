@@ -75,38 +75,56 @@ yajñébhiḥ ← yajñá- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājānām* ← *vāja*
 - \[noun\], genitive, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahūmahi* ← *hvā*
 - \[verb\], plural, Root aorist (Ind.)
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravasyavaḥ* ← *śravasyu*
 - \[noun\], nominative, plural, masculine
 - “celebrated.”
-------------------------------------------------------------------------
+
+_________
+
 - *aprāyubhir* ← *aprāyubhiḥ* ← *aprāyu*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yajñebhir* ← *yajñebhiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhenyam* ← *vāvṛdhenya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,72 +96,106 @@ vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)
 -   *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *kośaḥ* ← *kośa*
 - \[noun\], nominative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhva* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmir* ← *ūrmiḥ* ← *ūrmi*
 - \[noun\], nominative, singular, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhānnāya* ← *vṛṣabha*
 - \[noun\], masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhānnāya* ← *annāya* ← *anna*
 - \[noun\], dative, singular, masculine
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhāya* ← *vṛṣabha*
 - \[noun\], dative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *pātave* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇādhvaryū* ← *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], nominative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇādhvaryū* ← *adhvaryū* ← *adhvaryu*
 - \[noun\], nominative, dual, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhāso* ← *vṛṣabhāsaḥ* ← *vṛṣabha*
 - \[noun\], nominative, plural, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrayo* ← *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇaṃ* ← *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhāya* ← *vṛṣabha*
 - \[noun\], dative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣvati* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -76,52 +76,72 @@ tásmai ← sá- ~ tá- (pronoun)
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaritā* ← *jaritṛ*
 - \[noun\], nominative, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtu* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *santya*
 - \[noun\], vocative, singular, masculine
 - “honest.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvaka*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛﾱaya* ← *mṛḍaya* ← *mṛḍay* ← *√mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

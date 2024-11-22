@@ -64,27 +64,39 @@ vā́jebhiḥ ← vā́ja- (nominal stem)
 -   *purūtamam* ← *purutama*
 - \[noun\], nominative, singular, neuter
 - “most(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *purūṇāṃ* ← *purūṇām* ← *puru*
 - \[noun\], genitive, plural, masculine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotṝṇāṃ* ← *stotṝṇām* ← *stotṛ*
 - \[noun\], genitive, plural, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivāci* ← *vivāc*
 - \[noun\], locative, singular, feminine
 - “contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājebhir* ← *vājebhiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājayatām* ← *vājay* ← *√vaj*
 - \[verb noun\], genitive, plural
 - “incite.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

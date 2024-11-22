@@ -99,24 +99,34 @@ yā́nān ← yā́na- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaghantha* ← *han*
 - \[verb\], singular, Perfect indicative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *namucim* ← *namuci*
 - \[noun\], accusative, singular, masculine
 - “Namuci; namuci \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *makhasyuṃ* ← *makhasyum* ← *makhasyu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dāsaṃ* ← *dāsam* ← *dāsa*
 - \[noun\], accusative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvāna* ← *kṛṇvānaḥ* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -127,18 +137,26 @@ yā́nān ← yā́na- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣaye* ← *ṛṣi*
 - \[noun\], dative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vimāyam* ← *vimāya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakartha* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -149,36 +167,52 @@ yā́nān ← yā́na- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *manave* ← *manu*
 - \[noun\], dative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
-------------------------------------------------------------------------
+
+_________
+
 - *syonān* ← *syona*
 - \[noun\], accusative, plural, masculine
 - “benevolent; agreeable; pleasant; agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *patho* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatrāñjaseva* ← *devatrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *devatrāñjaseva* ← *añjasā*
 - \[adverb\]
 - “quickly; immediately; rightly; correctly; promptly.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatrāñjaseva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *yānān* ← *yā*
 - \[verb noun\], accusative, plural
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

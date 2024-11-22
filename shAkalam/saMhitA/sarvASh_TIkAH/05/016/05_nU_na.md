@@ -116,94 +116,136 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 -   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāryam* ← *vārya*
 - \[noun\], accusative, singular, neuter
 - “wealth.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇāna* ← *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrayaḥ* ← *sūri*
 - \[noun\], nominative, plural, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasti*
 - \[noun\], accusative, singular, neuter
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāmahe* ← *dhā*
 - \[verb\], plural, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacotaidhi* ← *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacotaidhi* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacotaidhi* ← *edhi* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdhe* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

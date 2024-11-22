@@ -70,42 +70,62 @@ cā́rupratīkaḥ ← cā́rupratīka- (nominal stem)
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sunītho* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunītho* ← *nīthaḥ* ← *nītha*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dadāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *'juryo* ← *ajuryaḥ* ← *ajurya*
 - \[noun\], nominative, singular, masculine
 - “ageless; amaranthine.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarayann* ← *jarayan* ← *jaray* ← *√jṛ*
 - \[verb noun\], nominative, singular
 - “jāray; digest; consume.”
-------------------------------------------------------------------------
+
+_________
+
 - *arim* ← *ari*
 - \[noun\], accusative, singular, masculine
 - “enemy; ari; arivarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *cārupratīka* ← *cāru*
 - \[noun\]
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cārupratīka* ← *pratīkaḥ* ← *pratīka*
 - \[noun\], nominative, singular, masculine
 - “face; surface.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhutaḥ* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

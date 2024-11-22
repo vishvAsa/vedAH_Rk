@@ -85,54 +85,80 @@ prātár ← prātár (invariable)
 -   *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *joṣam* ← *joṣa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomataḥ* ← *gomat*
 - \[noun\], genitive, singular, masculine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *prātar*
 - \[adverb\]
 - “at dawn; early.”
-------------------------------------------------------------------------
+
+_________
+
 - *hoteva* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hoteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *matsati* ← *mad*
 - \[verb\], singular, Aorist conj./subj.
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

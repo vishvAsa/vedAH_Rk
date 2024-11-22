@@ -104,39 +104,55 @@ máma ← ahám (pronoun)
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruśatpaśur* ← *ruśat*
 - \[noun\]
 - “white; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruśatpaśur* ← *paśuḥ* ← *paśu*
 - \[noun\], nominative, singular, feminine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgnir* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āgnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhāyy* ← *adhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtviyaḥ* ← *ṛtviya*
 - \[noun\], nominative, singular, masculine
 - “regular; punctual; timely.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayoji* ← *yuj*
 - \[verb\], singular, Aorist passive
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -144,43 +160,63 @@ máma ← ahám (pronoun)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇvasū* ← *vṛṣaṇvasu*
 - \[noun\], vocative, dual, masculine
 - “affluent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasrāv* ← *dasrau* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartyo* ← *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādhvī*
 - \[noun\], vocative, dual, masculine
 - “sweet; sweet.”
-------------------------------------------------------------------------
+
+_________
+
 - *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb\], dual, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

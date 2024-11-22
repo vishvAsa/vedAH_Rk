@@ -76,47 +76,67 @@ tā́n ← sá- ~ tá- (pronoun)
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *somāsa* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutāso* ← *sutāsaḥ* ← *suta*
 - \[noun\], nominative, plural, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahase* ← *sahas*
 - \[noun\], dative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

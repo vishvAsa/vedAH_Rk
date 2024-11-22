@@ -80,47 +80,69 @@ suvr̥ktím ← suvr̥ktí- (nominal stem)
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *dā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *śreṣṭho* ← *śreṣṭhaḥ* ← *śreṣṭha*
 - \[noun\], nominative, singular, masculine
 - “best; better; chief(a); beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dya* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanvan* ← *van*
 - \[verb noun\], nominative, singular
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *surekṇāḥ* ← *surekṇas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *marta* ← *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānāśa* ← *aś*
 - \[verb\], singular, Perfect indicative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *suvṛktim* ← *suvṛkti*
 - \[noun\], accusative, singular, feminine
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

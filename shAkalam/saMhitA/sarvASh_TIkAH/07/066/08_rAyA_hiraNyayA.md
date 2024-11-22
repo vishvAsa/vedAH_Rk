@@ -73,43 +73,63 @@ víprā ← vípra- (nominal stem)
 -   *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *matir* ← *matiḥ* ← *mati*
 - \[noun\], nominative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛkāya* ← *avṛka*
 - \[noun\], dative, singular, neuter
 - “protective; safe.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavase* ← *śavas*
 - \[noun\], dative, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprā* ← *vipra*
 - \[noun\], nominative, singular, feminine
 - “eloquent; stimulated; divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhasātaye* ← *medha*
 - \[noun\], masculine
 - “yajña; juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhasātaye* ← *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

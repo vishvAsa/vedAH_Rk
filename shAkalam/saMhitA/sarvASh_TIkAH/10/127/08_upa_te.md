@@ -85,20 +85,28 @@ stómam ← stóma- (nominal stem)
 -   *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivākaraṃ* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivākaraṃ* ← *akaram* ← *kṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -109,36 +117,52 @@ stómam ← stóma- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇīṣva* ← *vṛ*
 - \[verb\], singular, Present imperative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhitar* ← *duhitṛ*
 - \[noun\], vocative, singular, feminine
 - “daughter; duhitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *divaḥ* ← *div*
 - \[noun\], ablative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātri*
 - \[noun\], vocative, singular, feminine
 - “night; night; rātri \[word\]; turmeric; Rātri; day; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jigyuṣe* ← *ji*
 - \[verb noun\], dative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

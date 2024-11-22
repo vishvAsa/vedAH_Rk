@@ -105,86 +105,126 @@ stómam ← stóma- (nominal stem)
 -   *īﾱe* ← *īḍ*
 - \[verb\], singular, Present indikative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *svavasaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svavasaṃ* ← *avasam* ← *avas*
 - \[noun\], accusative, singular, masculine
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasatto* ← *prasattaḥ* ← *prasad* ← *√sad*
 - \[verb noun\], nominative, singular
 - “calm; clear up; forgive; feel for.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *cayat* ← *ci*
 - \[verb\], singular, Aorist inj. (proh.)
 - “cover; accumulate; pile up; pick; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtaṃ* ← *kṛtam* ← *kṛta*
 - \[noun\], accusative, singular, neuter
 - “Kṛta; action; throw; work; production; work; kindness; four; kṛta
     \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathair* ← *rathaiḥ* ← *ratha*
 - \[noun\], instrumental, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhare* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājayadbhiḥ* ← *vājay* ← *√vaj*
 - \[verb noun\], instrumental, plural
 - “incite.”
-------------------------------------------------------------------------
+
+_________
+
 - *pradakṣiṇin* ← *pradakṣiṇit*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *marutāṃ* ← *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛdhyām* ← *ṛdh*
 - \[verb\], singular, Aorist optative
 - “boom; stick to.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

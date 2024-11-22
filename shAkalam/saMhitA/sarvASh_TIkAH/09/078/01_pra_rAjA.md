@@ -108,47 +108,67 @@ yāti ← √yā- 1 (root)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācaṃ* ← *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *janayann* ← *janayan* ← *janay* ← *√jan*
 - \[verb noun\], nominative, singular
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *asiṣyadad* ← *asiṣyadat* ← *syand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasāno* ← *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyakṣati* ← *iyakṣ* ← *√yaj*
 - \[verb\], singular, Present indikative
 - “endeavor.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛbhṇāti* ← *grah*
 - \[verb\], singular, Present indikative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -156,44 +176,64 @@ yāti ← √yā- 1 (root)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *ripram* ← *ripra*
 - \[noun\], accusative, singular, neuter
 - “impurity.”
-------------------------------------------------------------------------
+
+_________
+
 - *avir* ← *aviḥ* ← *avi*
 - \[noun\], nominative, singular, masculine
 - “sheep; avi \[word\]; menstruating woman; ewe.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *tānvā* ← *tānva*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *śuddho* ← *śuddhaḥ* ← *śudh*
 - \[verb noun\], nominative, singular
 - “become pure; purify; wash; expiate; clean; cleanse.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣkṛtam* ← *niṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “place; rendezvous.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

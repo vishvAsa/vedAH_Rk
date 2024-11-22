@@ -80,51 +80,73 @@ yajñéṣu ← yajñá- (nominal stem)
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vedho* ← *vedhaḥ* ← *vedhas*
 - \[noun\], vocative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvanaḥ* ← *adhvan*
 - \[noun\], accusative, plural, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathaś* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāñjasā* ← *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāñjasā* ← *añjasā*
 - \[adverb\]
 - “quickly; immediately; rightly; correctly; promptly.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñeṣu* ← *yajña*
 - \[noun\], locative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukrato* ← *sukratu*
 - \[noun\], vocative, singular, masculine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

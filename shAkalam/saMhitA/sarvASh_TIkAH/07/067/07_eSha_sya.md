@@ -108,85 +108,125 @@ vikṣú ← víś- (nominal stem)
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvagatveva* ← *pūrvagatvā* ← *pūrvagatvan*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvagatveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhye* ← *sakhi*
 - \[noun\], dative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nidhir* ← *nidhiḥ* ← *nidhi*
 - \[noun\], nominative, singular, masculine
 - “hoard; receptacle; treasure; ocean; instrument.”
-------------------------------------------------------------------------
+
+_________
+
 - *hito* ← *hitaḥ* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādhvī*
 - \[noun\], vocative, dual, masculine
 - “sweet; sweet.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāto* ← *rātaḥ* ← *rā*
 - \[verb noun\], nominative, singular
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *aheﾱatā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *aheﾱatā* ← *heḍatā* ← *hīḍ*
 - \[verb noun\], instrumental, singular
 - “anger; stew.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvāg* ← *arvāk*
 - \[adverb\]
 - “here.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnantā* ← *aś*
 - \[verb noun\], nominative, dual
 - “eat; consume; chew; feed.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣīṣu* ← *mānuṣa*
 - \[noun\], locative, plural, feminine
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 - *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

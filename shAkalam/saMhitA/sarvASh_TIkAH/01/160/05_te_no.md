@@ -110,84 +110,124 @@ sám ← sám (invariable)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇāne* ← *gṛ*
 - \[verb noun\], nominative, dual
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahinī* ← *mahin*
 - \[noun\], nominative, dual, feminine
 - “mighty; great.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatraṃ* ← *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvāpṛthivī*
 - \[noun\], vocative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāsatho* ← *dhāsathaḥ* ← *dhā*
 - \[verb\], dual, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *yenābhi* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yenābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭīs* ← *kṛṣṭīḥ* ← *kṛṣṭi*
 - \[noun\], accusative, plural, feminine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatanāma* ← *tan*
 - \[verb\], plural, Perfect conjunctive (subj.)
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvahā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *panāyyam* ← *panāyya*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *invatam* ← *inv*
 - \[verb\], dual, Present imperative
 - “bring; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

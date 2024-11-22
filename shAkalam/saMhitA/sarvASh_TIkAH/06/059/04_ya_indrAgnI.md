@@ -90,71 +90,103 @@ ná ← ná (invariable)
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgnī* ← *agnī* ← *agni*
 - \[noun\], vocative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *suteṣu* ← *suta*
 - \[noun\], locative, plural, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *stavat* ← *stu*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *teṣv* ← *teṣu* ← *tad*
 - \[noun\], locative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvṛdhā* ← *ṛtāvṛdh*
 - \[noun\], accusative, dual, masculine
 - “sincere.”
-------------------------------------------------------------------------
+
+_________
+
 - *joṣavākaṃ* ← *joṣa*
 - \[noun\], masculine
-------------------------------------------------------------------------
+
+_________
+
 - *joṣavākaṃ* ← *vākam* ← *vāka*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vadataḥ* ← *vad*
 - \[verb noun\], genitive, singular
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *pajrahoṣiṇā* ← *pajrahoṣin*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *deva*
 - \[noun\], vocative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhasathaś* ← *bhasathaḥ* ← *bhas*
 - \[verb\], dual, Present indikative
 - “chew; snatch.”
-------------------------------------------------------------------------
+
+_________
+
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

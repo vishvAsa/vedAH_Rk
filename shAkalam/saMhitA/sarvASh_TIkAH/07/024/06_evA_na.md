@@ -106,85 +106,125 @@ yūyám ← tvám (pronoun)
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāryasya* ← *vārya*
 - \[noun\], genitive, singular, neuter
 - “wealth.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrdhi* ← *pṛ*
 - \[verb\], singular, Aorist imperative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahīṃ* ← *mahīm* ← *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumatiṃ* ← *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
-------------------------------------------------------------------------
+
+_________
+
 - *vevidāma* ← *vevid* ← *√vid*
 - \[verb\], plural, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 - *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *pinva* ← *pinv*
 - \[verb\], singular, Present imperative
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavadbhyaḥ* ← *maghavan*
 - \[noun\], dative, plural, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīrāṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīrāṃ* ← *vīrām* ← *vīra*
 - \[noun\], accusative, singular, feminine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

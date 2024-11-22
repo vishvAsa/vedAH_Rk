@@ -108,30 +108,44 @@ yát ← yá- (pronoun)
 -   *rathīva* ← *rathī* ← *rathin*
 - \[noun\], nominative, singular, masculine
 - “driver; charioteer; Kshatriya; owner of a car.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaśayāśvāṃ* ← *kaśayā* ← *kaśā*
 - \[noun\], instrumental, singular, feminine
 - “whip.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaśayāśvāṃ* ← *aśvāṃ* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhikṣipann* ← *abhikṣipan* ← *abhikṣip* ← *√kṣip*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūtān* ← *dūta*
 - \[noun\], accusative, plural, masculine
 - “messenger; emissary; dūta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -142,42 +156,62 @@ yát ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *varṣyāṃ* ← *varṣya*
 - \[noun\], accusative, plural, masculine
 - “rain; rainy.”
-------------------------------------------------------------------------
+
+_________
+
 - *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūrāt*
 - \[adverb\]
 - “far.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṃhasya* ← *siṃha*
 - \[noun\], genitive, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *stanathā* ← *stanathāḥ* ← *stanatha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *parjanyaḥ* ← *parjanya*
 - \[noun\], nominative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -188,15 +222,21 @@ yát ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *varṣyaṃ* ← *varṣyam* ← *varṣya*
 - \[noun\], accusative, singular, neuter
 - “rain; rainy.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhaḥ* ← *nabhas*
 - \[noun\], accusative, singular, neuter
 - “sky; cloud; ākāśa; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

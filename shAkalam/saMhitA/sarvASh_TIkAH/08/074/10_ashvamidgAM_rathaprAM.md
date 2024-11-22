@@ -90,72 +90,106 @@ pányam-panyam ← pánya- (nominal stem)
 -   *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāṃ* ← *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaprāṃ* ← *ratha*
 - \[noun\], masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaprāṃ* ← *prām* ← *prā*
 - \[noun\], accusative, singular, masculine
 - “appreciated.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *satpatim* ← *sat*
 - \[noun\]
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
-------------------------------------------------------------------------
+
+_________
+
 - *satpatim* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śravāṃsi* ← *śravas*
 - \[noun\], accusative, plural, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *tūrvatha* ← *tūrv*
 - \[verb\], plural, Present indikative
 - “overpower.”
-------------------------------------------------------------------------
+
+_________
+
 - *panyaṃ* ← *panyam* ← *panya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *panyaṃ* ← *panyam* ← *panya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

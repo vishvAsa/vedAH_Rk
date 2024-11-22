@@ -129,115 +129,167 @@ kím ← ká- (pronoun)
 -   *nāsad* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsad* ← *asat*
 - \[noun\], nominative, singular, neuter
 - “nonexistent; bad; wrong; wrong; asat \[prefix\]; dissident; fake.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsīn* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *sad* ← *sat* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *tadānīṃ* ← *tadānīm*
 - \[adverb\]
 - “at that time; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsīd* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajo* ← *rajaḥ* ← *rajas*
 - \[noun\], nominative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyomā* ← *vyoman*
 - \[noun\], nominative, singular, masculine
 - “abhra; sky; ākāśa; Svarga; Vyoman.”
-------------------------------------------------------------------------
+
+_________
+
 - *paro* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āvarīvaḥ* ← *āvarīvar* ← *āvarvṛt* ← *√vṛt*
 - \[verb\], singular, Imperfect
 - “eddy; move back and forth.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuha*
 - \[adverb\]
 - “wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śarmann* ← *śarman*
 - \[noun\], locative, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *ambhaḥ* ← *ambhas*
 - \[noun\], nominative, singular, neuter
 - “water; juice; body of water; ambhas \[word\]; urine; perspiration.”
-------------------------------------------------------------------------
+
+_________
+
 - *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *gahanaṃ* ← *gahanam* ← *gahana*
 - \[noun\], nominative, singular, neuter
 - “impenetrable; profound; dense; abounding in(p); inexplicable;
     deep.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhīram* ← *gabhīra*
 - \[noun\], nominative, singular, neuter
 - “deep; profound; immeasurable; unfathomable; unfathomable;
     mysterious; deep; countless.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

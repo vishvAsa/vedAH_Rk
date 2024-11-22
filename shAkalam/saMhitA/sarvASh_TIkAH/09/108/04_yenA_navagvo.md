@@ -90,61 +90,89 @@ yéna ← yá- (pronoun)
 -   *yenā* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *navagvo* ← *navagvaḥ* ← *navagva*
 - \[noun\], nominative, singular, masculine
 - “Navagva.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhyaṅṅ* ← *dadhyaṅ* ← *dadhyac*
 - \[noun\], nominative, singular, masculine
 - “Dadhyac.”
-------------------------------------------------------------------------
+
+_________
+
 - *aporṇute* ← *apavṛ* ← *√vṛ*
 - \[verb\], singular, Present indikative
 - “open.”
-------------------------------------------------------------------------
+
+_________
+
 - *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viprāsa* ← *viprāsaḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpire* ← *āp*
 - \[verb\], plural, Perfect indicative
 - “enter (a state); get; reach; obtain; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumne* ← *sumna*
 - \[noun\], locative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāruṇo* ← *cāruṇaḥ* ← *cāru*
 - \[noun\], genitive, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śravāṃsy* ← *śravāṃsi* ← *śravas*
 - \[noun\], accusative, plural, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaśuḥ* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,86 +96,126 @@ mayobhúḥ ← mayobhú- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *śantamā* ← *śaṃtama*
 - \[noun\], nominative, singular, feminine
 - “beneficent.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇaṃ* ← *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdhitī* ← *dīdhiti*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *gīr* ← *gīḥ* ← *gir*
 - \[noun\], nominative, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhagam* ← *bhaga*
 - \[noun\], accusative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *aditiṃ* ← *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśyāḥ* ← *aś*
 - \[verb\], singular, Aorist optative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣadyoniḥ* ← *pṛṣat*
 - \[noun\]
 - “motley; patched.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣadyoniḥ* ← *yoniḥ* ← *yoni*
 - \[noun\], nominative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *pañcahotā* ← *pañca* ← *pañcan*
 - \[noun\]
 - “five; fifth; pañcan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pañcahotā* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇotv* ← *śṛṇotu* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *atūrtapanthā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *atūrtapanthā* ← *tūrta* ← *tṛ*
 - \[verb noun\]
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *atūrtapanthā* ← *panthāḥ* ← *pathin*
 - \[noun\], nominative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *asuro* ← *asuraḥ* ← *asura*
 - \[noun\], nominative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
-------------------------------------------------------------------------
+
+_________
+
 - *mayobhuḥ* ← *mayobhu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

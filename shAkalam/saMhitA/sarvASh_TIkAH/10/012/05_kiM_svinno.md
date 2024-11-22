@@ -123,19 +123,27 @@ yātā́m ← √yā- 1 (root)
 -   *kiṃ* ← *kim*
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *svin* ← *svid*
 - \[adverb\]
 - “svid \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagṛhe* ← *grah*
 - \[verb\], singular, Perfect indicative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -143,24 +151,34 @@ yātā́m ← √yā- 1 (root)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asyāti* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyāti* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrataṃ* ← *vratam* ← *vrata*
 - \[noun\], accusative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṛmā* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -171,70 +189,102 @@ yātā́m ← √yā- 1 (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitraś* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣmā* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *juhurāṇo* ← *juhurāṇaḥ* ← *hvṛ*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *devāñchloko* ← *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāñchloko* ← *ślokaḥ* ← *śloka*
 - \[noun\], nominative, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yātām* ← *yā*
 - \[verb noun\], genitive, plural
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājo* ← *vājaḥ* ← *vāja*
 - \[noun\], nominative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

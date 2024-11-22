@@ -84,51 +84,75 @@ purogaváḥ ← purogavá- (nominal stem)
 -   *stomā* ← *stomāḥ* ← *stoma*
 - \[noun\], nominative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsan* ← *as*
 - \[verb\], plural, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratidhayaḥ* ← *pratidhi*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kurīraṃ* ← *kurīram* ← *kurīra*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *chanda* ← *chandaḥ* ← *chandas*
 - \[noun\], nominative, singular, neuter
 - “Veda; meter; chandas \[word\]; hymn; meter; meter.”
-------------------------------------------------------------------------
+
+_________
+
 - *opaśaḥ* ← *opaśa*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sūryāyā* ← *sūryāyāḥ* ← *sūryā*
 - \[noun\], genitive, singular, feminine
 - “Citrullus colocynthis Schrad..”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *varāgnir* ← *varā* ← *vara*
 - \[noun\], nominative, dual, masculine
 - “suitor; groom; husband; Vara; lover.”
-------------------------------------------------------------------------
+
+_________
+
 - *varāgnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *purogavaḥ* ← *purogava*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,87 +102,125 @@ vármaṇaḥ ← várman- (nominal stem)
 -   *jīmūtasyeva* ← *jīmūtasya* ← *jīmūta*
 - \[noun\], genitive, singular, masculine
 - “cloud; nimbus; Jīmūta; Jīmūta; Jīmūta; Vishnu; mountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīmūtasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratīkaṃ* ← *pratīkam* ← *pratīka*
 - \[noun\], nominative, singular, neuter
 - “face; surface.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *varmī* ← *varmin*
 - \[noun\], nominative, singular, masculine
 - “armored.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *samadām* ← *samad*
 - \[noun\], genitive, plural, feminine
 - “conflict; strife.”
-------------------------------------------------------------------------
+
+_________
+
 - *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
-------------------------------------------------------------------------
+
+_________
+
 - *anāviddhayā* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *anāviddhayā* ← *āviddhayā* ← *āvyadh* ← *√vyadh*
 - \[verb noun\], instrumental, singular
 - “fling; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaya* ← *ji*
 - \[verb\], singular, Present imperative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *varmaṇo* ← *varmaṇaḥ* ← *varman*
 - \[noun\], genitive, singular, masculine
 - “cuirass; armor; varman \[word\]; protective covering; Varman;
     varman.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahimā* ← *mahiman*
 - \[noun\], nominative, singular, masculine
 - “greatness; power; mahiman.”
-------------------------------------------------------------------------
+
+_________
+
 - *pipartu* ← *pṛ*
 - \[verb\], singular, Present imperative
 - “protect; promote; rescue; help.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

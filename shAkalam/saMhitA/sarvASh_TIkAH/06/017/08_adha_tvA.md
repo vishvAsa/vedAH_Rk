@@ -105,86 +105,124 @@ vr̥ṇate ← √vr̥- ~ vr̥̄- (root)
 -   *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *pura* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekaṃ* ← *ekam* ← *eka*
 - \[noun\], accusative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavasaṃ* ← *tavasam* ← *tavas*
 - \[noun\], accusative, singular, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharāya* ← *bhara*
 - \[noun\], dative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
-------------------------------------------------------------------------
+
+_________
+
 - *adevo* ← *adevaḥ* ← *adeva*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *auhiṣṭa* ← *ūh*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “diagnose.”
-------------------------------------------------------------------------
+
+_________
+
 - *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarṣātā* ← *svarṣāti*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇata* ← *vṛṇate* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

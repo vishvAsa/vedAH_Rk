@@ -106,85 +106,123 @@ viśvájanyāḥ ← viśvájanya- (nominal stem)
 - \[noun\], genitive, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvarāṇām* ← *adhvara*
 - \[noun\], genitive, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *anīkaṃ* ← *anīkam* ← *anīka*
 - \[noun\], accusative, singular, masculine
 - “army; face; battalion; battlefront; point; appearance.”
-------------------------------------------------------------------------
+
+_________
+
 - *citraṃ* ← *citram* ← *citra*
 - \[noun\], accusative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketuṃ* ← *ketum* ← *ketu*
 - \[noun\], accusative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitā* ← *janitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; janitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *jajāna* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajasva* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛvatīr* ← *nṛvatīḥ* ← *nṛvat*
 - \[noun\], accusative, plural, feminine
 - “rich in men.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣā* ← *kṣāḥ* ← *kṣā*
 - \[noun\], accusative, plural, feminine
 - “Earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *spārhā* ← *spārhāḥ* ← *spārha*
 - \[noun\], accusative, plural, feminine
 - “desirable.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣumatīr* ← *kṣumatīḥ* ← *kṣumat*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *viśvajanyāḥ* ← *viśvajanya*
 - \[noun\], accusative, plural, feminine
 - “omnipresent; worldwide.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

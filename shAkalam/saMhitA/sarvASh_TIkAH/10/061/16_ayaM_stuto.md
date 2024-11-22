@@ -108,94 +108,136 @@ raghudrú ← raghudrú- (nominal stem)
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuto* ← *stutaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandi* ← *vand*
 - \[verb\], singular, Aorist passive
 - “worship; laud.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedhā* ← *vedhāḥ* ← *vedhas*
 - \[noun\], nominative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaś* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipras* ← *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarati* ← *tṛ*
 - \[verb\], singular, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasetuḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasetuḥ* ← *setuḥ* ← *setu*
 - \[noun\], nominative, singular, masculine
 - “dam; bridge; causeway; Setu; Om; landmark; shackle.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakṣīvantaṃ* ← *kakṣīvantam* ← *kakṣīvant*
 - \[noun\], accusative, singular, masculine
 - “Kakṣīvant; kakṣīvant \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rejayat* ← *rejay* ← *√rej*
 - \[verb\], singular, Imperfect
 - “shake.”
-------------------------------------------------------------------------
+
+_________
+
 - *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *nemiṃ* ← *nemim* ← *nemi*
 - \[noun\], accusative, singular, masculine
 - “rim; felloe.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cakram* ← *cakra*
 - \[noun\], nominative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvato* ← *arvataḥ* ← *arvant*
 - \[noun\], genitive, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *raghudru*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

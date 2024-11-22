@@ -97,73 +97,107 @@ bhū́ri ← bhū́ri- (nominal stem)
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahato* ← *mahataḥ* ← *mahat*
 - \[noun\], genitive, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvam* ← *mahi*
 - \[noun\]
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartyasya* ← *amartya*
 - \[noun\], genitive, singular, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyāsu* ← *martya*
 - \[noun\], locative, plural, feminine
 - “mortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *vikṣu* ← *viś*
 - \[noun\], locative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *nānā*
 - \[adverb\]
 - “variously; differently; many; individually.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanū* ← *hanu*
 - \[noun\], nominative, dual, feminine
 - “jaw.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhṛte* ← *vibhṛ* ← *√bhṛ*
 - \[verb noun\], nominative, dual
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharete* ← *bhṛ*
 - \[verb\], dual, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *asinvatī* ← *asinvat*
 - \[noun\], nominative, dual, feminine
 - “insatiate.”
-------------------------------------------------------------------------
+
+_________
+
 - *bapsatī* ← *bhas*
 - \[verb noun\], nominative, dual
 - “chew; snatch.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūry* ← *bhūri*
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *attaḥ* ← *ad*
 - \[verb\], dual, Present indikative
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

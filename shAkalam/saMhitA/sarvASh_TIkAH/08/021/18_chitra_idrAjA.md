@@ -99,75 +99,109 @@ sahásram ← sahásra- (nominal stem)
 -   *citra* ← *citraḥ* ← *citra*
 - \[noun\], nominative, singular, masculine
 - “Plumbago zeylanica; castor-oil plant; Citra.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājakā* ← *rājakāḥ* ← *rājaka*
 - \[noun\], nominative, plural, masculine
 - “black mustard.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyake* ← *anyaka*
 - \[noun\], nominative, plural, masculine
 - “other; another(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *yake* ← *yaka*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvatīm* ← *sarasvatī*
 - \[noun\], accusative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *parjanya* ← *parjanyaḥ* ← *parjanya*
 - \[noun\], nominative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatanaddhi* ← *tatanat* ← *tan*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatanaddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṭyā* ← *vṛṣṭi*
 - \[noun\], instrumental, singular, feminine
 - “rain; shower; rainy season.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ayutā* ← *ayuta*
 - \[noun\], accusative, plural, neuter
 - “ayuta.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadat* ← *dā*
 - \[verb noun\], nominative, singular
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

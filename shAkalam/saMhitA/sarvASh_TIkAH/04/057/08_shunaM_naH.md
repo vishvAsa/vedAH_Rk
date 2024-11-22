@@ -105,82 +105,120 @@ dhattam ← √dhā- 1 (root)
 -   *śunaṃ* ← *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
 - “well-being; success.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *phālā* ← *phālāḥ* ← *phāla*
 - \[noun\], nominative, plural, masculine
 - “plowshare.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣantu* ← *kṛṣ*
 - \[verb\], plural, Present imperative
 - “plow; drag; pull; dry; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmiṃ* ← *bhūmim* ← *bhūmi*
 - \[noun\], accusative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
-------------------------------------------------------------------------
+
+_________
+
 - *śunaṃ* ← *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
 - “well-being; success.”
-------------------------------------------------------------------------
+
+_________
+
 - *kīnāśā* ← *kīnāśāḥ* ← *kīnāśa*
 - \[noun\], nominative, plural, masculine
 - “plowman; Yama.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāhaiḥ* ← *vāha*
 - \[noun\], instrumental, plural, masculine
 - “horse; draft horse; carrier.”
-------------------------------------------------------------------------
+
+_________
+
 - *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
 - “well-being; success.”
-------------------------------------------------------------------------
+
+_________
+
 - *parjanyo* ← *parjanyaḥ* ← *parjanya*
 - \[noun\], nominative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhunā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *payobhiḥ* ← *payas*
 - \[noun\], instrumental, plural, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *śunāsīrā* ← *śunāsīra*
 - \[noun\], accusative, dual, masculine
 - “śunāsīra \[word\]; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
 - “well-being; success.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmāsu* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhattam* ← *dhā*
 - \[verb\], dual, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

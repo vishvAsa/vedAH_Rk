@@ -111,101 +111,145 @@ yáḥ ← yá- (pronoun)
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *erire* ← *er* ← *√īr*
 - \[verb\], plural, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *bhṛgavo* ← *bhṛgavaḥ* ← *bhṛgu*
 - \[noun\], nominative, plural, masculine
 - “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedasaṃ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedasaṃ* ← *vedasam* ← *vedas*
 - \[noun\], accusative, singular, masculine
 - “knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *nābhā* ← *nābhi*
 - \[noun\], locative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *majmanā* ← *majman*
 - \[noun\], instrumental, singular, masculine
 - “size.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinuhi* ← *hi*
 - \[verb\], singular, Present imperative
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sva* ← *sve* ← *sva*
 - \[noun\], locative, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eko* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasvo* ← *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rājati* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

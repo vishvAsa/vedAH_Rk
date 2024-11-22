@@ -108,19 +108,27 @@ tú ← tú (invariable)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyū* ← *saparyu*
 - \[noun\], accusative, dual, masculine
 - “deferent.”
-------------------------------------------------------------------------
+
+_________
+
 - *javase* ← *javas*
 - \[noun\], dative, singular, neuter
 - “speed.”
-------------------------------------------------------------------------
+
+_________
+
 - *yunajmi* ← *yuj*
 - \[verb\], singular, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -128,71 +136,105 @@ tú ← tú (invariable)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *yayor* ← *yayoḥ* ← *yad*
 - \[noun\], genitive, dual, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *pradivaḥ* ← *pradiv*
 - \[noun\], ablative, singular, masculine
 - “age-old; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *śruṣṭim* ← *śruṣṭi*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *āvaḥ* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dheyur* ← *dheyuḥ* ← *dhā*
 - \[verb\], plural, Aorist optative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *harayaḥ* ← *hari*
 - \[noun\], nominative, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśipra* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśipra* ← *śipra* ← *śiprā*
 - \[noun\], vocative, singular, masculine
 - “lip; śiprā.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibā* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *tv* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣutasya* ← *suṣuta*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *cāroḥ* ← *cāru*
 - \[noun\], genitive, singular, masculine
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

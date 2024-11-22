@@ -102,80 +102,116 @@ prá ← prá (invariable)
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāgo* ← *bhāgaḥ* ← *bhāga*
 - \[noun\], nominative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
-------------------------------------------------------------------------
+
+_________
+
 - *nihito* ← *nihitaḥ* ← *nidhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 - “put; fill into; stow; insert; ignite; insert; add; put on;
     establish; keep down.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatremā* ← *yajatrā* ← *yajatra*
 - \[noun\], vocative, dual, masculine
 - “adorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatremā* ← *imāḥ* ← *idam*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *giro* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyopa* ← *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibataṃ* ← *pibatam* ← *pā*
 - \[verb\], dual, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumantam* ← *madhumat*
 - \[noun\], accusative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśvāṃsam* ← *dāś*
 - \[verb noun\], accusative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *avataṃ* ← *avatam* ← *av*
 - \[verb\], dual, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

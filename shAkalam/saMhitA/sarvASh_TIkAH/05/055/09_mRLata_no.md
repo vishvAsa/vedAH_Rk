@@ -105,82 +105,120 @@ yātā́m ← √yā- 1 (root)
 -   *mṛﾱata* ← *mṛḍ*
 - \[verb\], plural, Present imperative
 - “pardon.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhiṣṭanāsmabhyaṃ* ← *vadhiṣṭana* ← *vadh*
 - \[verb\], plural, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhiṣṭanāsmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *bahulaṃ* ← *bahulam* ← *bahula*
 - \[noun\], accusative, singular, neuter
 - “frequent; endowed; much(a); many; abounding in(p); abundant; bahula
     \[word\]; accompanied; prevailing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yantana* ← *yam*
 - \[verb\], plural, Aorist imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotrasya* ← *stotra*
 - \[noun\], genitive, singular, neuter
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyasya* ← *sakhya*
 - \[noun\], genitive, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātana* ← *gā*
 - \[verb\], plural, Aorist imperative
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhaṃ* ← *śubham* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātām* ← *yā*
 - \[verb noun\], genitive, plural
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛtsata* ← *vṛdh*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

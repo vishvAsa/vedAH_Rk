@@ -79,47 +79,71 @@ vanakrakṣám ← vanakrakṣá- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sotā* ← *sota* ← *su*
 - \[verb\], plural, Aorist imperative
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣiñcatāśvaṃ* ← *siñcata* ← *sic*
 - \[verb\], plural, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣiñcatāśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *apturaṃ* ← *apturam* ← *aptur*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rajasturam* ← *rajastur*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vanakrakṣam* ← *vanakrakṣa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *udaprutam* ← *uda*
 - \[noun\], neuter
 - “water.”
-------------------------------------------------------------------------
+
+_________
+
 - *udaprutam* ← *prutam* ← *prut*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

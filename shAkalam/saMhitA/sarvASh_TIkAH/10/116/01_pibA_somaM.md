@@ -102,77 +102,111 @@ vr̥ṣasva ← √vr̥ṣ- 1 (root)
 -   *pibā* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahata* ← *mahate* ← *mahat*
 - \[noun\], dative, singular, neuter
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *indriyāya* ← *indriya*
 - \[noun\], dative, singular, neuter
 - “sense organ; Indriya; sense; power; semen; indriya \[word\]; mind;
     penis; manfulness; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibā* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrāya* ← *vṛtra*
 - \[noun\], dative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hantave* ← *han*
 - \[verb noun\]
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaviṣṭha*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāye* ← *rai*
 - \[noun\], dative, singular
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavase* ← *śavas*
 - \[noun\], dative, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *hūyamānaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhvas* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛpad* ← *tṛpat* ← *tṛp*
 - \[verb noun\], nominative, singular
 - “satiate; enjoy; delight.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrā* ← *indrāḥ* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣasva* ← *vṛṣ*
 - \[verb\], singular, Present imperative
 - “shower; rain; effuse; shower; drench.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

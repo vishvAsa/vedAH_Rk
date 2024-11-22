@@ -99,71 +99,103 @@ pāvaka ← pāvaká- (nominal stem)
 - \[noun\], instrumental, plural, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcibhiḥ* ← *arci*
 - \[noun\], instrumental, plural, masculine
 - “flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukreṇa* ← *śukra*
 - \[noun\], instrumental, singular, neuter
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharadvāje* ← *bharadvāja*
 - \[noun\], locative, singular, masculine
 - “Bharadvāja; Droṇa; Bharadvāja; skylark.”
-------------------------------------------------------------------------
+
+_________
+
 - *samidhāno* ← *samidhānaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle; blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaviṣṭhya*
 - \[noun\], vocative, singular, masculine
 - “youngest.”
-------------------------------------------------------------------------
+
+_________
+
 - *revan* ← *revat*
 - \[noun\], accusative, singular, neuter
 - “abundant; rich; affluent; brilliant; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukra*
 - \[noun\], vocative, singular, masculine
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdihi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumat*
 - \[noun\], accusative, singular, neuter
 - “bright; brilliant; brilliant; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvaka*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdihi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

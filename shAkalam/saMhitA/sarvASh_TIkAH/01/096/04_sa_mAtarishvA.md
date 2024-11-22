@@ -95,85 +95,123 @@ draviṇodā́m ← draviṇodā́- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātariśvā* ← *mātariśvan*
 - \[noun\], nominative, singular, masculine
 - “wind; Mātariśvan; Vayu; vāta.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruvārapuṣṭir* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruvārapuṣṭir* ← *vāra*
 - \[noun\], masculine
 - “treasure; choice.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruvārapuṣṭir* ← *puṣṭiḥ* ← *puṣṭi*
 - \[noun\], nominative, singular, masculine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidad* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātuṃ* ← *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanayāya* ← *tanaya*
 - \[noun\], dative, singular, neuter
 - “child; descendants.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarvit* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarvit* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “finding.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśāṃ* ← *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *gopā* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitā* ← *janitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; janitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasyor* ← *rodasyoḥ* ← *rodasī*
 - \[noun\], genitive, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārayan* ← *dhāray* ← *√dhṛ*
 - \[verb\], plural, Imperfect
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇodām* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇodām* ← *dām* ← *dā*
 - \[noun\], accusative, singular, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

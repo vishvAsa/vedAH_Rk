@@ -114,92 +114,136 @@ pastyā̀vān ← pastyā̀vant- (nominal stem)
 -   *granthiṃ* ← *granthim* ← *granthi*
 - \[noun\], accusative, singular, masculine
 - “granthi; knot; knot; swelling; bulb.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣya* ← *sya* ← *sā*
 - \[verb\], singular, Present imperative
 - “tie.”
-------------------------------------------------------------------------
+
+_________
+
 - *grathitam* ← *granth*
 - \[verb noun\], accusative, singular
 - “knot; clot; dress.”
-------------------------------------------------------------------------
+
+_________
+
 - *punāna* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjuṃ* ← *ṛjum* ← *ṛju*
 - \[noun\], accusative, singular, masculine
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātuṃ* ← *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjinaṃ* ← *vṛjinam* ← *vṛjina*
 - \[noun\], accusative, singular, masculine
 - “deceitful; crooked; bent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *krado* ← *kradaḥ* ← *krand*
 - \[verb\], singular, Aorist inj. (proh.)
 - “roar; neigh; cry; howl; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛjāno* ← *sṛjānaḥ* ← *sṛj*
 - \[verb noun\], nominative, singular
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *maryo* ← *maryaḥ* ← *marya*
 - \[noun\], nominative, singular, masculine
 - “young buck; boyfriend.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanva* ← *dhanv*
 - \[verb\], singular, Present imperative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *pastyāvān* ← *pastyāvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

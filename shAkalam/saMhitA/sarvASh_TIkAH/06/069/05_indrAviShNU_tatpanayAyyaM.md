@@ -92,38 +92,54 @@ rájāṁsi ← rájas- (nominal stem)
 
 -   *indrāviṣṇū* ← *indrāviṣṇu*
 - \[noun\], vocative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *panayāyyaṃ* ← *panayāyyam* ← *panayāyya*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *mada* ← *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *uru*
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakramāthe* ← *kram*
 - \[verb\], dual, Perfect indicative
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇutam* ← *kṛ*
 - \[verb\], dual, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -134,32 +150,46 @@ rájāṁsi ← rájas- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣaṃ* ← *antarikṣam* ← *antarikṣa*
 - \[noun\], accusative, singular, neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *varīyo* ← *varīyaḥ* ← *varīyas*
 - \[noun\], accusative, singular, neuter
 - “wide.”
-------------------------------------------------------------------------
+
+_________
+
 - *'prathataṃ* ← *aprathatam* ← *prath*
 - \[verb\], dual, Thematic aorist (Ind.)
 - “be known; expand; expand; boom.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajāṃsi* ← *rajas*
 - \[noun\], accusative, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

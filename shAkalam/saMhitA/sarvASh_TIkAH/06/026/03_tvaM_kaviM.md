@@ -99,67 +99,99 @@ kariṣyán ← √kr̥- (root)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaviṃ* ← *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *codayo* ← *codayaḥ* ← *coday* ← *√cud*
 - \[verb\], singular, Aorist inj. (proh.)
 - “impel; drive; incite; command; drive; arouse; propel.”
-------------------------------------------------------------------------
+
+_________
+
 - *'rkasātau* ← *arka*
 - \[noun\], masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *'rkasātau* ← *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kutsāya* ← *kutsa*
 - \[noun\], dative, singular, masculine
 - “Kutsa; kutsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣṇaṃ* ← *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *vark* ← *vṛj*
 - \[verb\], singular, Aorist inj. (proh.)
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiro* ← *śiraḥ* ← *śiras*
 - \[noun\], accusative, singular, neuter
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
-------------------------------------------------------------------------
+
+_________
+
 - *amarmaṇaḥ* ← *amarman*
 - \[noun\], genitive, singular, masculine
 - “invulnerable.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāhann* ← *parāhan* ← *√han*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *atithigvāya* ← *atithigva*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsyaṃ* ← *śaṃsyam* ← *śaṃs*
 - \[verb noun\], accusative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *kariṣyan* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -170,7 +202,9 @@ kariṣyán ← √kr̥- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -88,60 +88,88 @@ yát ← yá- (pronoun)
 -   *yacchakrāsi* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchakrāsi* ← *śakra*
 - \[noun\], vocative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchakrāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāvati* ← *parāvat*
 - \[noun\], locative, singular, feminine
 - “distance; distance; distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvāvati* ← *arvāvat*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahan*
 - \[noun\], locative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *andhaso* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vited* ← *avitā* ← *avitṛ*
 - \[noun\], nominative, singular, masculine
 - “favorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vited* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

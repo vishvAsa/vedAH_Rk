@@ -87,57 +87,83 @@ vīrā́ḥ ← vīrá- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vanuṣyato* ← *vanuṣyataḥ* ← *vanuṣy*
 - \[verb noun\], ablative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *nipāti* ← *nipā* ← *√pā*
 - \[verb\], singular, Present indikative
 - “guard.”
-------------------------------------------------------------------------
+
+_________
+
 - *sameddhāram* ← *sameddhṛ*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aṃhasa* ← *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruṣyāt* ← *uruṣy*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujātāsaḥ* ← *sujāta*
 - \[noun\], nominative, plural, masculine
 - “noble; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

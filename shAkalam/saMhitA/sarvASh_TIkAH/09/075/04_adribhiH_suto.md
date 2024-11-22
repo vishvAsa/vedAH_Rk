@@ -99,76 +99,112 @@ pínvamānā ← √pinv- (root)
 -   *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *suto* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *matibhiś* ← *matibhiḥ* ← *mati*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *canohitaḥ* ← *canohita*
 - \[noun\], nominative, singular, masculine
 - “popular; favorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *prarocayan* ← *prarocay* ← *√ruc*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātarā* ← *mātṛ*
 - \[noun\], accusative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *romāṇy* ← *romāṇi* ← *roman*
 - \[noun\], accusative, plural, neuter
 - “hair; bristle; mane.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyā* ← *avya*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *samayā*
 - \[adverb\]
 - “near.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāvati* ← *dhāv*
 - \[verb\], singular, Present indikative
 - “run; run; wash.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhor* ← *madhoḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārā*
 - \[noun\], nominative, singular, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *pinvamānā* ← *pinv*
 - \[verb noun\], nominative, singular
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

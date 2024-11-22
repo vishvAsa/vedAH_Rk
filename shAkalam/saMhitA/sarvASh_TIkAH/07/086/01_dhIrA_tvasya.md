@@ -111,89 +111,131 @@ papráthat ← √prathⁱ- (root)
 -   *dhīrā* ← *dhīra*
 - \[noun\], nominative, plural, neuter
 - “calm; composed; brave.”
-------------------------------------------------------------------------
+
+_________
+
 - *tv* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *janūṃṣi* ← *janus*
 - \[noun\], nominative, plural, neuter
 - “birth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tastambha* ← *stambh*
 - \[verb\], singular, Perfect indicative
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *urvī* ← *uru*
 - \[noun\], accusative, dual, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *nākam* ← *nāka*
 - \[noun\], accusative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣvaṃ* ← *ṛṣvam* ← *ṛṣva*
 - \[noun\], accusative, singular, masculine
 - “distinguished; high; noble; enormous.”
-------------------------------------------------------------------------
+
+_________
+
 - *nunude* ← *nud*
 - \[verb\], singular, Perfect indicative
 - “push; propel; expel; push; move.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhantaṃ* ← *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvitā*
 - \[adverb\]
 - “again.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣatram* ← *nakṣatra*
 - \[noun\], accusative, singular, masculine
 - “Nakṣatra; celestial body; nakṣatra \[word\]; pearl.”
-------------------------------------------------------------------------
+
+_________
+
 - *paprathac* ← *paprathat* ← *prath*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “be known; expand; expand; boom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūma* ← *bhūman*
 - \[noun\], accusative, singular, neuter
 - “Earth; floor.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

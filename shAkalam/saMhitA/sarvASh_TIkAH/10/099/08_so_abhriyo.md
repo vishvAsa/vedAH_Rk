@@ -107,82 +107,120 @@ hanti ← √han- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhriyo* ← *abhriyaḥ* ← *abhriya*
 - \[noun\], nominative, singular, masculine
 - “cumulonimbus.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yavasa* ← *yavase* ← *yavasa*
 - \[noun\], locative, singular, masculine
 - “eatage; pasture; fodder.”
-------------------------------------------------------------------------
+
+_________
+
 - *udanyan* ← *udany*
 - \[verb noun\], nominative, singular
 - “pour.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣayāya* ← *kṣaya*
 - \[noun\], dative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātuṃ* ← *gātum* ← *gā*
 - \[verb noun\]
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidan* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīdad* ← *sīdat* ← *sad*
 - \[verb\], singular, Present injunctive
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *induṃ* ← *indum* ← *indu*
 - \[noun\], accusative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarīraiḥ* ← *śarīra*
 - \[noun\], instrumental, plural, neuter
 - “body; human body; body part; body; body; strength.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *'yopāṣṭir* ← *ayopāṣṭiḥ* ← *ayopāṣṭi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyūn* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

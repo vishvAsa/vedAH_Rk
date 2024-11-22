@@ -75,43 +75,63 @@ vājayāmasi ← √vājay- 2 (root)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāyuvepasam* ← *viśvāyu*
 - \[noun\]
 - “lifelong.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāyuvepasam* ← *vepasam* ← *vepas*
 - \[noun\], accusative, singular, masculine
 - “inspiration; shaking.”
-------------------------------------------------------------------------
+
+_________
+
 - *maryaṃ* ← *maryam* ← *marya*
 - \[noun\], accusative, singular, masculine
 - “young buck; boyfriend.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinaṃ* ← *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 - *hitam* ← *hi*
 - \[verb noun\], accusative, singular
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptiṃ* ← *saptim* ← *sapti*
 - \[noun\], accusative, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vājayāmasi* ← *vājay* ← *√vaj*
 - \[verb\], plural, Present indikative
 - “incite.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

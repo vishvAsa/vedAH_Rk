@@ -73,44 +73,64 @@ márutaḥ ← marút- (nominal stem)
 -   *yajñair* ← *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñavāhaso* ← *yajña*
 - \[noun\], masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñavāhaso* ← *vāhasaḥ* ← *vāhas*
 - \[noun\], nominative, plural, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprasya* ← *vipra*
 - \[noun\], genitive, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *matīnām* ← *mati*
 - \[noun\], genitive, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇutā* ← *śru*
 - \[verb\], plural, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

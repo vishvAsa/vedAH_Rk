@@ -116,79 +116,117 @@ sárgam ← sárga- (nominal stem)
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viṃśatiṃ* ← *viṃśatim* ← *viṃśati*
 - \[noun\], accusative, singular, feminine
 - “twenty; twentieth; viṃśati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravasyā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vaikarṇayor* ← *vaikarṇayoḥ* ← *vaikarṇa*
 - \[noun\], genitive, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *janān* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *astaḥ* ← *stṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “spread; kill; lay; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasmo* ← *dasmaḥ* ← *dasma*
 - \[noun\], nominative, singular, masculine
 - “overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sadman*
 - \[noun\], locative, singular, neuter
 - “seat; house; stable; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśāti* ← *śā*
 - \[verb\], singular, Present indikative
 - “sharpen; whet; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *sargam* ← *sarga*
 - \[noun\], accusative, singular, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -199,16 +237,22 @@ sárgam ← sárga- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

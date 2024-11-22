@@ -103,79 +103,117 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumanā* ← *sumanāḥ* ← *sumanas*
 - \[noun\], nominative, singular, masculine
 - “benevolent; cheerful; happy; satisfied.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvahā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvitasyādhy* ← *suvitasya* ← *suvita*
 - \[noun\], genitive, singular, neuter
 - “prosperity; well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvitasyādhy* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitradhitāni* ← *mitradhita*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *saṃdadhur* ← *saṃdadhuḥ* ← *saṃdhā* ← *√dhā*
 - \[verb\], plural, Perfect indicative
 - “connect; refer; aim; grow together; compress; ally; unite; operate
     on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvatātim* ← *sarvatāti*
 - \[noun\], accusative, singular, feminine
 - “completeness; prosperity; sum.”
-------------------------------------------------------------------------
+
+_________
+
 - *aditiṃ* ← *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

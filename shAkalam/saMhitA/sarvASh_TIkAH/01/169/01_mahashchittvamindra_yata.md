@@ -111,90 +111,132 @@ vanuṣva ← √vanⁱ- (root)
 -   *mahaś* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yata* ← *yataḥ* ← *i*
 - \[verb noun\], accusative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *etān* ← *etad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mahaś* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyajaso* ← *tyajasaḥ* ← *tyajas*
 - \[noun\], genitive, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *varūtā* ← *varūtṛ*
 - \[noun\], nominative, singular, masculine
 - “varūtṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedho* ← *vedhaḥ* ← *vedhas*
 - \[noun\], vocative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutāṃ* ← *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikitvān* ← *cit*
 - \[verb noun\], nominative, singular
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnā* ← *sumna*
 - \[noun\], accusative, plural, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanuṣva* ← *van*
 - \[verb\], singular, Present imperative
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *preṣṭhā* ← *preṣṭha*
 - \[noun\], nominative, plural, neuter
 - “dearest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

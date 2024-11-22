@@ -80,47 +80,69 @@ vavákṣitha ← √vakṣ- (root)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhitvanāya* ← *sakhitvana*
 - \[noun\], dative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *māmahe* ← *mah*
 - \[verb\], singular, Perfect indicative
 - “give; accord.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṭim* ← *vṛṣṭi*
 - \[noun\], accusative, singular, feminine
 - “rain; shower; rainy season.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathayan* ← *prathay* ← *√prath*
 - \[verb noun\], nominative, singular
 - “spread; proclaim.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavakṣitha* ← *vakṣ*
 - \[verb\], singular, Perfect indicative
 - “grow; grow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,81 +102,117 @@ sākám ← sākám (invariable)
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agnayo* ← *agnayaḥ* ← *agni*
 - \[noun\], nominative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śośucann* ← *śośucan* ← *śośuc* ← *√śuc*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *idhānā* ← *idhānāḥ* ← *indh*
 - \[verb noun\], nominative, plural
 - “kindle; ignite; set ablaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvir* ← *dvis*
 - \[adverb\]
 - “twice; dvis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhanta* ← *vṛdh*
 - \[verb\], plural, Plusquamperfect
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *areṇavo* ← *areṇavaḥ* ← *areṇu*
 - \[noun\], nominative, plural, masculine
 - “clean.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayāsa* ← *hiraṇyayāsaḥ* ← *hiraṇyaya*
 - \[noun\], nominative, plural, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *sākaṃ* ← *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmṇaiḥ* ← *nṛmṇa*
 - \[noun\], instrumental, plural, neuter
 - “manhood; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *pauṃsyebhiś* ← *pauṃsyebhiḥ* ← *pauṃsya*
 - \[noun\], instrumental, plural, neuter
 - “manfulness; deed; army; strength.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūvan* ← *bhū*
 - \[verb\], plural, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

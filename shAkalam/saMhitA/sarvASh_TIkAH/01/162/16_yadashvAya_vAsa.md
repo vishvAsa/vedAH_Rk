@@ -93,62 +93,92 @@ yāmayanti ← √yam- (root)
 -   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvāya* ← *aśva*
 - \[noun\], dative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāsa* ← *vāsaḥ* ← *vāsas*
 - \[noun\], accusative, singular, neuter
 - “clothing; fabric; garment; feather; dress; envelope.”
-------------------------------------------------------------------------
+
+_________
+
 - *upastṛṇanty* ← *upastṛṇanti* ← *upastṛ* ← *√stṛ*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *adhīvāsaṃ* ← *adhīvāsam* ← *adhīvāsa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], accusative, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyāny* ← *hiraṇyāni* ← *hiraṇya*
 - \[noun\], accusative, plural, neuter
 - “aureate; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃdānam* ← *saṃdāna*
 - \[noun\], nominative, singular, neuter
 - “tying.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvantam* ← *arvant*
 - \[noun\], accusative, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *paḍbīśam* ← *paḍvīśa*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *priyā* ← *priya*
 - \[noun\], nominative, plural, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *deveṣv* ← *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmayanti* ← *yāmay* ← *√yam*
 - \[verb\], plural, Present indikative
 - “unfold.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

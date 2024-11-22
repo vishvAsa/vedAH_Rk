@@ -114,91 +114,135 @@ vásvaḥ ← vásu- (nominal stem)
 -   *yasyāvadhīt* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasyāvadhīt* ← *avadhīt* ← *vadh*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “kill; assail; kick; māray; destroy; beat.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitaraṃ* ← *pitaram* ← *pitṛ*
 - \[noun\], accusative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mātaraṃ* ← *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śakro* ← *śakraḥ* ← *śakra*
 - \[noun\], nominative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrātaraṃ* ← *bhrātaram* ← *bhrātṛ*
 - \[noun\], accusative, singular, masculine
 - “brother; bhrātṛ; relative.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāta* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāta* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṣate* ← *īṣ*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *vetīd* ← *veti* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *vetīd* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *v* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayatā* ← *prayam* ← *√yam*
 - \[verb noun\], accusative, plural
 - “give; emit; send; transmit.”
-------------------------------------------------------------------------
+
+_________
+
 - *yataṅkaro* ← *yataṅkaraḥ* ← *yataṃkara*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kilbiṣād* ← *kilbiṣāt* ← *kilbiṣa*
 - \[noun\], ablative, singular, neuter
 - “sin; fault; misdemeanor.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṣate* ← *īṣ*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *vasva* ← *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *ākaraḥ* ← *ākara*
 - \[noun\], nominative, singular, masculine
 - “mine; group; aṅgārakoṣṭhī; source.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

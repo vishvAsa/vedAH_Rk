@@ -73,45 +73,63 @@ raṇvám ← raṇvá- (nominal stem)
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prasvādaso* ← *prasvādasaḥ* ← *prasvādas*
 - \[noun\], nominative, plural, feminine
 - “pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *gira* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *upamaśravasaḥ* ← *upamaśravas*
 - \[noun\], genitive, singular, masculine
 - “Upamaśravas.”
-------------------------------------------------------------------------
+
+_________
+
 - *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣetraṃ* ← *kṣetram* ← *kṣetra*
 - \[noun\], accusative, singular, neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *raṇvam* ← *raṇva*
 - \[noun\], accusative, singular, masculine
 - “agreeable; happy; delightful; gay.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūcuṣe* ← *vac*
 - \[verb noun\], dative, singular
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

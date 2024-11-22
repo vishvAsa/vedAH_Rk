@@ -78,46 +78,68 @@ tveṣáḥ ← tveṣá- (nominal stem)
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhrāṭ* ← *bhrāj*
 - \[verb\], singular, Root aorist (Ind.)
 - “shine; glitter; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *chveto* ← *chvetaḥ* ← *śveta*
 - \[noun\], nominative, singular, masculine
 - “white; bright; śveta \[word\]; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmī* ← *rukmin*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣaḥ* ← *tveṣa*
 - \[noun\], nominative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *samatsu* ← *samad*
 - \[noun\], locative, plural, feminine
 - “conflict; strife.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

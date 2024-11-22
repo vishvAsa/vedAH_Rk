@@ -87,60 +87,86 @@ sapátnīm ← sapátnī- (nominal stem)
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahamānātha* ← *sahamānā* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahamānātha* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāsahiḥ* ← *sāsahi*
 - \[noun\], nominative, singular, feminine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhe* ← *ubh*
 - \[noun\], nominative, dual, feminine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasvatī* ← *sahasvat*
 - \[noun\], nominative, dual, feminine
 - “mighty; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtvī* ← *bhū*
 - \[verb noun\]
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnīm* ← *sapatnī*
 - \[noun\], accusative, singular, feminine
 - “sapatnī; rival; sapatnī \[word\]; mistress.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahāvahai* ← *sah*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

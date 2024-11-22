@@ -79,52 +79,74 @@ gachati ← √gam- (root)
 -   *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratnam* ← *ratna*
 - \[noun\], accusative, singular, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyo* ← *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *tokam* ← *toka*
 - \[noun\], accusative, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gacchaty* ← *gacchati* ← *gam*
 - \[verb\], singular, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *astṛtaḥ* ← *astṛta*
 - \[noun\], nominative, singular, masculine
 - “durable; invincible.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,78 +99,112 @@ tisráḥ ← trí- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāratī*
 - \[noun\], nominative, singular, feminine
 - “statement; language; voice; bhāratī; Sarasvatī; voice; speech;
     word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāratībhiḥ* ← *bhāratī*
 - \[noun\], instrumental, plural, feminine
 - “statement; language; voice; bhāratī; Sarasvatī; voice; speech;
     word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣā* ← *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, feminine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *iḍā*
 - \[noun\], nominative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *devair* ← *devaiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣyebhir* ← *manuṣyebhiḥ* ← *manuṣya*
 - \[noun\], instrumental, plural, masculine
 - “man; people; man; manuṣya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvatī*
 - \[noun\], nominative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *sārasvatebhir* ← *sārasvatebhiḥ* ← *sārasvata*
 - \[noun\], instrumental, plural, masculine
 - “Sārasvata; Sārasvata; Sārasvata; Sārasvata.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvāk*
 - \[adverb\]
 - “here.”
-------------------------------------------------------------------------
+
+_________
+
 - *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], nominative, plural, feminine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devīr* ← *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *edaṃ* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *edaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadantu* ← *sad*
 - \[verb\], plural, Aorist imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

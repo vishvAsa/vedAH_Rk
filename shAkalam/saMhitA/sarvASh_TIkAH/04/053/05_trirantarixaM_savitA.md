@@ -108,85 +108,125 @@ vrataíḥ ← vratá- (nominal stem)
 -   *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣaṃ* ← *antarikṣam* ← *antarikṣa*
 - \[noun\], accusative, singular, neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvanā* ← *mahitvana*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *trī* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rajāṃsi* ← *rajas*
 - \[noun\], accusative, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *paribhus* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rocanā* ← *rocana*
 - \[noun\], accusative, plural, neuter
 - “light; celestial sphere.”
-------------------------------------------------------------------------
+
+_________
+
 - *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *divaḥ* ← *div*
 - \[noun\], accusative, plural, feminine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīs* ← *pṛthivīḥ* ← *pṛthivī*
 - \[noun\], accusative, plural, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *tisra* ← *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *invati* ← *i*
 - \[verb noun\], nominative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *tribhir* ← *tribhiḥ* ← *tri*
 - \[noun\], instrumental, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vratair* ← *vrataiḥ* ← *vrata*
 - \[noun\], instrumental, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣati* ← *rakṣ*
 - \[verb\], singular, Present indikative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,85 +102,123 @@ vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)
 -   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *gopāv* ← *gopau* ← *gopā*
 - \[noun\], nominative, dual, masculine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhatho* ← *tiṣṭhathaḥ* ← *sthā*
 - \[verb\], dual, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyadharmāṇā* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyadharmāṇā* ← *dharmāṇā* ← *dharman*
 - \[noun\], nominative, dual, masculine
 - “regulation; Dharma; law; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *parame* ← *parama*
 - \[noun\], locative, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyomani* ← *vyoman*
 - \[noun\], locative, singular, neuter
 - “abhra; sky; ākāśa; Svarga; Vyoman.”
-------------------------------------------------------------------------
+
+_________
+
 - *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇāvatho* ← *mitrāvaruṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; Mitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇāvatho* ← *avathaḥ* ← *av*
 - \[verb\], dual, Present indikative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṭir* ← *vṛṣṭiḥ* ← *vṛṣṭi*
 - \[noun\], nominative, singular, feminine
 - “rain; shower; rainy season.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumat*
 - \[noun\], accusative, singular, neuter
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *pinvate* ← *pinv*
 - \[verb\], singular, Present indikative
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

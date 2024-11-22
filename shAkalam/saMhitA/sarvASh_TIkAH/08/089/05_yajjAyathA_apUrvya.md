@@ -84,62 +84,88 @@ utá ← utá (invariable)
 -   *yaj* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyathā* ← *jāyathāḥ* ← *jan*
 - \[verb\], singular, Present injunctive
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *apūrvya*
 - \[noun\], vocative, singular, masculine
 - “incomparable.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahatyāya* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahatyāya* ← *hatyāya* ← *hatya*
 - \[noun\], dative, singular, neuter
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *aprathayas* ← *aprathayaḥ* ← *prathay* ← *√prath*
 - \[verb\], singular, Imperfect
 - “spread; proclaim.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *astabhnā* ← *astabhnāḥ* ← *stambh*
 - \[verb\], singular, Imperfect
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

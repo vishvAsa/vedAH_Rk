@@ -76,46 +76,66 @@ sutárā ← sutára- (nominal stem)
 -   *yāvayā* ← *yāvaya* ← *yāvay* ← *√yu*
 - \[verb\], singular, Present imperative
 - “keep away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkyaṃ* ← *vṛkyam* ← *vṛkī*
 - \[noun\], accusative, singular, feminine
 - “wolf.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkaṃ* ← *vṛkam* ← *vṛka*
 - \[noun\], accusative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
-------------------------------------------------------------------------
+
+_________
+
 - *yavaya* ← *yavay* ← *√yu*
 - \[verb\], singular, Present imperative
 - “keep away; ward off.”
-------------------------------------------------------------------------
+
+_________
+
 - *stenam* ← *stena*
 - \[noun\], accusative, singular, masculine
 - “thief; stena \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmye* ← *ūrmyā*
 - \[noun\], vocative, singular, feminine
 - “night.”
-------------------------------------------------------------------------
+
+_________
+
 - *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutarā* ← *sutara*
 - \[noun\], nominative, singular, feminine
 - “passable.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

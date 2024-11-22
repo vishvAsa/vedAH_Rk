@@ -103,83 +103,121 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadir* ← *dadiḥ* ← *dadi*
 - \[noun\], nominative, singular, masculine
 - “giving; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūthā* ← *yūtha*
 - \[noun\], accusative, plural, neuter
 - “herd; troop; battalion.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjukratuḥ* ← *ṛju*
 - \[noun\]
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjukratuḥ* ← *kratuḥ* ← *kratu*
 - \[noun\], nominative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛbhāya* ← *gṛbhāy* ← *√grah*
 - \[verb\], singular, Present imperative
 - “accept.”
-------------------------------------------------------------------------
+
+_________
+
 - *purū* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatobhayāhastyā* ← *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatobhayāhastyā* ← *ubhayāhastyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśīhi* ← *śā*
 - \[verb\], singular, Present imperative
 - “sharpen; whet; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], accusative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

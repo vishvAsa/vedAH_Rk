@@ -105,89 +105,129 @@ stheyāma ← √sthā- (root)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vābhipitve* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *vābhipitve* ← *abhipitve* ← *abhipitva*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *asurā* ← *asurāḥ* ← *asura*
 - \[noun\], vocative, plural, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “timely; honest.”
-------------------------------------------------------------------------
+
+_________
+
 - *yate* ← *i*
 - \[verb noun\], dative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *chardir* ← *chardiḥ* ← *chardis*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering.”
-------------------------------------------------------------------------
+
+_________
+
 - *yema* ← *yam*
 - \[verb\], plural, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasavo* ← *vasavaḥ* ← *vasu*
 - \[noun\], vocative, plural, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedasa* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedasa* ← *vedasaḥ* ← *vedas*
 - \[noun\], vocative, plural, masculine
 - “knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *stheyāma* ← *sthā*
 - \[verb\], plural, Aorist optative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhya* ← *madhye* ← *madhya*
 - \[noun\], locative, singular, neuter
 - “midst; center; cavity; inside; middle; center; waist; group; pulp;
     torso; time interval; area; series; madhya \[word\]; Madhya; noon;
     middle; middle age; span; belly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

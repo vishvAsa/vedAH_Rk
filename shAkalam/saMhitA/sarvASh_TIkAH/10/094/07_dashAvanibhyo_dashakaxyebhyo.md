@@ -84,62 +84,92 @@ yuktā́ḥ ← √yuj- (root)
 -   *daśāvanibhyo* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśāvanibhyo* ← *avanibhyaḥ* ← *avani*
 - \[noun\], dative, plural, masculine
 - “river; earth; floor; path; bed; course.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśakakṣyebhyo* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśakakṣyebhyo* ← *kakṣyebhyaḥ* ← *kakṣyā*
 - \[noun\], dative, plural, masculine
 - “girdle; rampart; wall; enclosure; cinch.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśayoktrebhyo* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśayoktrebhyo* ← *yoktrebhyaḥ* ← *yoktra*
 - \[noun\], dative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *daśayojanebhyaḥ* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśayojanebhyaḥ* ← *yojanebhyaḥ* ← *yojana*
 - \[noun\], dative, plural, masculine
 - “yojana; use; yojana \[word\]; team.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśābhīśubhyo* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśābhīśubhyo* ← *abhīśubhyaḥ* ← *abhīśu*
 - \[noun\], dative, plural, masculine
 - “beam; rein.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcatājarebhyo* ← *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcatājarebhyo* ← *ajarebhyaḥ* ← *ajara*
 - \[noun\], dative, plural, masculine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], accusative, plural, feminine
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhuro* ← *dhuraḥ* ← *dhur*
 - \[noun\], accusative, plural, feminine
 - “yoke; dhur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], accusative, plural, feminine
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yuktā* ← *yuktāḥ* ← *yuj*
 - \[verb noun\], accusative, plural
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -147,12 +177,16 @@ yuktā́ḥ ← √yuj- (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahadbhyaḥ* ← *vah*
 - \[verb noun\], dative, plural
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -70,48 +70,68 @@ sukrátuḥ ← sukrátu- (nominal stem)
 -   *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣasāda* ← *sad*
 - \[verb\], singular, Perfect indicative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛtavrato* ← *dhṛta* ← *dhṛ*
 - \[verb noun\]
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛtavrato* ← *vrataḥ* ← *vrata*
 - \[noun\], nominative, singular, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *pastyāsv* ← *pastyāsu* ← *pastyā*
 - \[noun\], locative, plural, feminine
 - “river; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sāmrājyāya* ← *sāmrājya*
 - \[noun\], dative, singular, neuter
 - “dominion; kingship.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratuḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratuḥ* ← *kratuḥ* ← *kratu*
 - \[noun\], nominative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

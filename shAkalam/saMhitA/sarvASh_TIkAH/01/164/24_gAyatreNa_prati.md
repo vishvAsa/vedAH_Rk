@@ -96,66 +96,98 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 -   *gāyatreṇa* ← *gāyatra*
 - \[noun\], instrumental, singular, neuter
 - “Gāyatrī; Gāyatra.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimīte* ← *mā*
 - \[verb\], singular, Present indikative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkeṇa* ← *arka*
 - \[noun\], instrumental, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāma* ← *sāman*
 - \[noun\], accusative, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
-------------------------------------------------------------------------
+
+_________
+
 - *traiṣṭubhena* ← *traiṣṭubha*
 - \[noun\], instrumental, singular, neuter
 - “Triṣṭubh.”
-------------------------------------------------------------------------
+
+_________
+
 - *vākam* ← *vāka*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vākena* ← *vāka*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vākaṃ* ← *vākam* ← *vāka*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dvipadā* ← *dvipad*
 - \[noun\], instrumental, singular, masculine
 - “biped.”
-------------------------------------------------------------------------
+
+_________
+
 - *catuṣpadākṣareṇa* ← *catuṣpadā* ← *catuṣpada*
 - \[noun\], instrumental, singular, masculine
 - “quadrupedal.”
-------------------------------------------------------------------------
+
+_________
+
 - *catuṣpadākṣareṇa* ← *akṣareṇa* ← *akṣara*
 - \[noun\], instrumental, singular, neuter
 - “syllable; Om; sound; Brahma; vowel; word; final emancipation.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimate* ← *mā*
 - \[verb\], plural, Present indikative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṇīḥ* ← *vāṇī*
 - \[noun\], accusative, plural, feminine
 - “voice; Sarasvati; words; language.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

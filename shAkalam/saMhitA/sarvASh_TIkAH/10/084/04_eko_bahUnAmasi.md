@@ -101,77 +101,113 @@ vijayā́ya ← vijayá- (nominal stem)
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *bahūnām* ← *bahu*
 - \[noun\], genitive, plural, masculine
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyav* ← *manyo* ← *manyu*
 - \[noun\], vocative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍito* ← *īḍitaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśaṃ* ← *viśam* ← *viś*
 - \[noun\], accusative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśaṃ* ← *viśam* ← *viś*
 - \[noun\], accusative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhaye* ← *yudh*
 - \[verb noun\]
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśādhi* ← *śā*
 - \[verb\], singular, Present imperative
 - “sharpen; whet; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛttaruk* ← *akṛtta*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *akṛttaruk* ← *ruc*
 - \[noun\], nominative, singular, masculine
 - “beam; radiance; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “amalgamated; harnessed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumantaṃ* ← *dyumantam* ← *dyumat*
 - \[noun\], accusative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghoṣaṃ* ← *ghoṣam* ← *ghoṣa*
 - \[noun\], accusative, singular, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
-------------------------------------------------------------------------
+
+_________
+
 - *vijayāya* ← *vijaya*
 - \[noun\], dative, singular, masculine
 - “victory; Arjuna; Vijaya; Vijaya; Vijaya; Vijaya; Vijaya.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇmahe* ← *kṛ*
 - \[verb\], plural, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -182,7 +218,9 @@ vijayā́ya ← vijayá- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

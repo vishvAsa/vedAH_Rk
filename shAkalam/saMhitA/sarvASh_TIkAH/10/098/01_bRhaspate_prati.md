@@ -111,91 +111,133 @@ vr̥ṣāya ← √vr̥ṣāy- 1 (root)
 -   *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatām* ← *devatā*
 - \[noun\], accusative, singular, feminine
 - “Hindu deity; Deva; deity; idol; devatā \[word\]; divinity; temple.”
-------------------------------------------------------------------------
+
+_________
+
 - *ihi* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāsi* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityair* ← *ādityaiḥ* ← *āditya*
 - \[noun\], instrumental, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasubhir* ← *vasubhiḥ* ← *vasu*
 - \[noun\], instrumental, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutvān* ← *marutvat*
 - \[noun\], nominative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *parjanyaṃ* ← *parjanyam* ← *parjanya*
 - \[noun\], accusative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
-------------------------------------------------------------------------
+
+_________
+
 - *śantanave* ← *śaṃtanu*
 - \[noun\], dative, singular, masculine
 - “Śaṃtanu; Śaṃtanu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣāya* ← *vṛṣāy* ← *√vṛṣ*
 - \[verb\], singular, Present imperative
 - “rain.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

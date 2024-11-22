@@ -106,99 +106,143 @@ vratapā́m ← vratapā́- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāṃ* ← *svām* ← *sva*
 - \[noun\], accusative, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhitaram* ← *duhitṛ*
 - \[noun\], accusative, singular, feminine
 - “daughter; duhitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣkan* ← *skan* ← *skand*
 - \[verb\], singular, Aorist inj. (proh.)
 - “clot; ejaculate; spill; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣmayā* ← *kṣmā*
 - \[noun\], instrumental, singular, feminine
 - “Earth; Earth; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *retaḥ* ← *retas*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagmāno* ← *jagmānaḥ* ← *gam*
 - \[verb noun\], nominative, singular
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣiñcat* ← *siñcat* ← *sic*
 - \[verb\], singular, Present injunctive
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādhyo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādhyo* ← *ādhyaḥ* ← *ādhī*
 - \[noun\], nominative, plural, masculine
 - “longing.”
-------------------------------------------------------------------------
+
+_________
+
 - *'janayan* ← *ajanayan* ← *janay* ← *√jan*
 - \[verb\], plural, Imperfect
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāstoṣpatiṃ* ← *vāstoṣpatim* ← *vāstoṣpati*
 - \[noun\], accusative, singular, masculine
 - “Vāstoṣpati; Indra; vāstoṣpati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vratapāṃ* ← *vrata*
 - \[noun\], neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratapāṃ* ← *pām* ← *pā*
 - \[noun\], accusative, singular, masculine
 - “protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *atakṣan* ← *takṣ*
 - \[verb\], plural, Imperfect
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,69 +96,101 @@ yónim ← yóni- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jāmir* ← *jāmiḥ* ← *jāmi*
 - \[noun\], nominative, singular, masculine
 - “related; ancestral; customary; usual.”
-------------------------------------------------------------------------
+
+_________
+
 - *atke* ← *atka*
 - \[noun\], locative, singular, masculine
 - “garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyata* ← *vye*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuje* ← *bhuj*
 - \[verb noun\]
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *putra* ← *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṇyoḥ* ← *oṇi*
 - \[noun\], locative, dual, masculine
 - “arm.”
-------------------------------------------------------------------------
+
+_________
+
 - *saraj* ← *sarat* ← *sṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sṛ; liquefy; run; spread; stretch out.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāro* ← *jāraḥ* ← *jāra*
 - \[noun\], nominative, singular, masculine
 - “fancy man.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣaṇāṃ* ← *yoṣaṇām* ← *yoṣaṇā*
 - \[noun\], accusative, singular, feminine
 - “girl; wife.”
-------------------------------------------------------------------------
+
+_________
+
 - *varo* ← *varaḥ* ← *vara*
 - \[noun\], nominative, singular, masculine
 - “suitor; groom; husband; Vara; lover.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsadam* ← *āsad* ← *√sad*
 - \[verb noun\]
 - “approach; attack; sit down; approach; find; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

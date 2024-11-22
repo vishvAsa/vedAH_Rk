@@ -96,71 +96,103 @@ vájrin ← vajrín- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paprātha* ← *prā*
 - \[verb\], singular, Perfect indicative
 - “fill; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇyā* ← *vṛṣṇya*
 - \[noun\], instrumental, singular, neuter
 - “manfulness; virility.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣan*
 - \[noun\], vocative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaviṣṭha*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmāṃ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gomati* ← *gomat*
 - \[noun\], locative, singular, masculine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vraje* ← *vraja*
 - \[noun\], locative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajriñ* ← *vajrin*
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
-------------------------------------------------------------------------
+
+_________
+
 - *citrābhir* ← *citrābhiḥ* ← *citra*
 - \[noun\], instrumental, plural, feminine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

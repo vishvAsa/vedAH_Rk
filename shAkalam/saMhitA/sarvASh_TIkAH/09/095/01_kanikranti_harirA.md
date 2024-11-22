@@ -99,45 +99,65 @@ svadhā́bhiḥ ← svadhā́- (nominal stem)
 -   *kanikranti* ← *kanikrad* ← *√krand*
 - \[verb\], singular, Present indikative
 - “roar; neigh.”
-------------------------------------------------------------------------
+
+_________
+
 - *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛjyamānaḥ* ← *sṛj*
 - \[verb noun\], nominative, singular
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīdan* ← *sad*
 - \[verb noun\], nominative, singular
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanasya* ← *vana*
 - \[noun\], genitive, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṭhare* ← *jaṭhara*
 - \[noun\], locative, singular, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
-------------------------------------------------------------------------
+
+_________
+
 - *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yataḥ* ← *yam*
 - \[verb noun\], nominative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -148,36 +168,50 @@ svadhā́bhiḥ ← svadhā́- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *nirṇijaṃ* ← *nirṇijam* ← *nirṇij*
 - \[noun\], accusative, singular, feminine
 - “attire; garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ato* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
-------------------------------------------------------------------------
+
+_________
+
 - *matīr* ← *matīḥ* ← *mati*
 - \[noun\], accusative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *janayata* ← *janay* ← *√jan*
 - \[verb\], singular, Present injunctive
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhābhiḥ* ← *svadhā*
 - \[noun\], instrumental, plural, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

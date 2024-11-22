@@ -109,90 +109,132 @@ tvā ← tvám (pronoun)
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavann* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abhūma* ← *bhū*
 - \[verb\], plural, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dātre* ← *dātṛ*
 - \[noun\], dative, singular, masculine
 - “giving; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *harivo* ← *harivas* ← *harivat*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *venaḥ* ← *ven*
 - \[verb\], singular, Present injunctive
 - “circulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakir*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpir* ← *āpiḥ* ← *āpi*
 - \[noun\], nominative, singular, masculine
 - “friend.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadṛśe* ← *dṛś*
 - \[verb\], singular, Perfect indicative
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyatrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *kim*
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅga*
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
-------------------------------------------------------------------------
+
+_________
+
 - *radhracodanaṃ* ← *radhra*
 - \[noun\]
 - “obedient; powerless; weak.”
-------------------------------------------------------------------------
+
+_________
+
 - *radhracodanaṃ* ← *codanam* ← *codana*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tvāhuḥ* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāhuḥ* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,69 +99,103 @@ sákhāyaḥ ← sákhi- (nominal stem)
 -   *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇe* ← *kṛṣṇa*
 - \[noun\], nominative, dual, feminine
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasudhitī* ← *vasudhiti*
 - \[noun\], nominative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *jihāte* ← *hā*
 - \[verb\], plural, Present indikative
 - “move over; yield; give way.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhe* ← *ubh*
 - \[noun\], nominative, dual, feminine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhanā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yajatre* ← *yajatra*
 - \[noun\], nominative, dual, feminine
 - “adorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahimānaṃ* ← *mahimānam* ← *mahiman*
 - \[noun\], accusative, singular, masculine
 - “greatness; power; mahiman.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjadhyai* ← *vṛj*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *sakhāya* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmyā* ← *kāmyāḥ* ← *kāmya*
 - \[noun\], nominative, plural, masculine
 - “desirable; optional; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjipyāḥ* ← *ṛjipya*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,43 +73,61 @@ havāmahe ← √hū- (root)
 -   *vipraṃ* ← *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
 - “eloquent; stimulated; divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprāso* ← *viprāsaḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “eloquent; stimulated; divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vase* ← *avase* ← *avas*
 - \[noun\], dative, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *martāsa* ← *martāsaḥ* ← *marta*
 - \[noun\], nominative, plural, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

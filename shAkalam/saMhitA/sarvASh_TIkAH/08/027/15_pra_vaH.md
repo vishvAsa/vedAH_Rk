@@ -96,71 +96,103 @@ yáḥ ← yá- (pronoun)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsāmy* ← *śaṃsāmi* ← *śaṃs*
 - \[verb\], singular, Present indikative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *adruhaḥ* ← *adruh*
 - \[noun\], accusative, plural, masculine
 - “friendly; benign.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃstha* ← *saṃsthe* ← *saṃstha*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *upastutīnām* ← *upastuti*
 - \[noun\], genitive, plural, feminine
 - “praise; applause.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūrtir* ← *dhūrtiḥ* ← *dhūrti*
 - \[noun\], nominative, singular, feminine
 - “fraud; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitra*
 - \[noun\], vocative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyaṃ* ← *martyam* ← *martya*
 - \[noun\], accusative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāmabhyo* ← *dhāmabhyaḥ* ← *dhāman*
 - \[noun\], dative, plural, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vidhat* ← *avidhat* ← *vidh*
 - \[verb\], singular, Imperfect
 - “worship; offer.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

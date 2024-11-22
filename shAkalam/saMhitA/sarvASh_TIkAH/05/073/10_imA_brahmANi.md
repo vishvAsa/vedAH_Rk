@@ -87,61 +87,87 @@ námaḥ ← námas- (nominal stem)
 -   *imā* ← *idam*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmāṇi* ← *brahman*
 - \[noun\], nominative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhanāśvibhyāṃ* ← *vardhanā* ← *vardhana*
 - \[noun\], nominative, plural, neuter
 - “increasing; fortifying; promotive; prolonging.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhanāśvibhyāṃ* ← *aśvibhyām* ← *aśvin*
 - \[noun\], dative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *śantamā* ← *śaṃtama*
 - \[noun\], nominative, plural, neuter
 - “beneficent.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], accusative, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *takṣāma* ← *takṣ*
 - \[verb\], plural, Present imperative
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathāṃ* ← *ratha*
 - \[noun\], accusative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivāvocāma* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivāvocāma* ← *avocāma* ← *vac*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhan* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

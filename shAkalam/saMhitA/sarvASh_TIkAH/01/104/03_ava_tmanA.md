@@ -102,86 +102,124 @@ té ← sá- ~ tá- (pronoun)
 -   *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharate* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketavedā* ← *keta*
 - \[noun\], masculine
 - “wish; will; purpose; expectation; house.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketavedā* ← *vedāḥ* ← *vedas*
 - \[noun\], nominative, singular, feminine
 - “knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharate* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *phenam* ← *phena*
 - \[noun\], accusative, singular, masculine
 - “foam; cuttlefish bone; phenaprameha; saliva; opium; phena
     \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *udan*
 - \[noun\], locative, singular, neuter
 - “water; body of water.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣīreṇa* ← *kṣīra*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; milk; sap; kṣīra \[word\]; juice; fluid.”
-------------------------------------------------------------------------
+
+_________
+
 - *snātaḥ* ← *snā*
 - \[verb noun\], nominative, singular
 - “bathe.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuyavasya* ← *kuyava*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣe* ← *yoṣā*
 - \[noun\], nominative, dual, feminine
 - “woman; puppet; daughter.”
-------------------------------------------------------------------------
+
+_________
+
 - *hate* ← *han*
 - \[verb noun\], nominative, dual
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, dual, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *syātām* ← *as*
 - \[verb\], dual, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravaṇe* ← *pravaṇa*
 - \[noun\], locative, singular, masculine
 - “torrent.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiphāyāḥ* ← *śiphā*
 - \[noun\], genitive, singular, feminine
 - “fiber; śiphā.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -79,47 +79,69 @@ sahovŕ̥dham ← sahovŕ̥dh- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipanyavo* ← *vipanyavaḥ* ← *vipanyu*
 - \[noun\], nominative, plural, masculine
 - “admiring; laudatory.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāgṛvāṃsaḥ* ← *jāgṛ*
 - \[verb noun\], nominative, plural
 - “wake; watch; awaken; wake up; oversee.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *indhate* ← *indh*
 - \[verb\], singular, Present indikative
 - “kindle; ignite; set ablaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyavāham* ← *havyavāha*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire; sacrificial fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartyaṃ* ← *amartyam* ← *amartya*
 - \[noun\], accusative, singular, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahovṛdham* ← *sahaḥ* ← *sahas*
 - \[noun\], neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahovṛdham* ← *vṛdham* ← *vṛdh*
 - \[noun\], accusative, singular, masculine
 - “increasing.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

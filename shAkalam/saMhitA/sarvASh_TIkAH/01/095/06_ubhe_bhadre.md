@@ -105,91 +105,131 @@ yám ← yá- (pronoun)
 -   *ubhe* ← *ubh*
 - \[noun\], nominative, dual, feminine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadre* ← *bhadra*
 - \[noun\], nominative, dual, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *joṣayete* ← *joṣay* ← *√juṣ*
 - \[verb\], dual, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mene* ← *menā*
 - \[noun\], nominative, dual, feminine
 - “Menā; woman; Menā; Durga.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāśrā* ← *vāśrāḥ* ← *vāśra*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthur* ← *tasthuḥ* ← *sthā*
 - \[verb\], plural, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *evaiḥ* ← *eva*
 - \[noun\], instrumental, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣāṇāṃ* ← *dakṣāṇām* ← *dakṣa*
 - \[noun\], genitive, plural, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣapatir* ← *dakṣa*
 - \[noun\], masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣapatir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *babhūvāñjanti* ← *babhūva* ← *bhū*
 - \[verb\], singular, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *babhūvāñjanti* ← *añjanti* ← *añj*
 - \[verb\], plural, Present indikative
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇato* ← *dakṣiṇatas*
 - \[adverb\]
 - “right; southward.”
-------------------------------------------------------------------------
+
+_________
+
 - *havirbhiḥ* ← *havis*
 - \[noun\], instrumental, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

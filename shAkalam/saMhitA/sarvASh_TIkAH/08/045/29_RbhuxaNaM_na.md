@@ -73,40 +73,58 @@ suté ← √su- (root)
 -   *ṛbhukṣaṇaṃ* ← *ṛbhukṣaṇam* ← *ṛbhukṣan*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vartava* ← *vartave* ← *vṛ*
 - \[verb noun\]
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *uktheṣu* ← *uktha*
 - \[noun\], locative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *tugryāvṛdham* ← *tugryāvṛdh*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *some* ← *soma*
 - \[noun\], locative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sute* ← *su*
 - \[verb noun\], locative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

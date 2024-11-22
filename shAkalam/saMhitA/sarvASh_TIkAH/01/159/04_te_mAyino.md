@@ -101,83 +101,123 @@ sudītáyaḥ ← sudītí- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyino* ← *māyinaḥ* ← *māyin*
 - \[noun\], nominative, plural, masculine
 - “artful; charming; crafty; deceptive.”
-------------------------------------------------------------------------
+
+_________
+
 - *mamire* ← *mā*
 - \[verb\], plural, Perfect indicative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *supracetaso* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supracetaso* ← *pracetasaḥ* ← *pracetas*
 - \[noun\], nominative, plural, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāmī* ← *jāmi*
 - \[noun\], accusative, dual, feminine
 - “sister; woman; daughter-in-law.”
-------------------------------------------------------------------------
+
+_________
+
 - *sayonī* ← *sayoni*
 - \[noun\], accusative, dual, feminine
 - “related.”
-------------------------------------------------------------------------
+
+_________
+
 - *mithunā* ← *mithuna*
 - \[noun\], accusative, plural, neuter
 - “twin; couple; couple; coupling; sexual intercourse; Gemini.”
-------------------------------------------------------------------------
+
+_________
+
 - *samokasā* ← *samokas*
 - \[noun\], accusative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *navyaṃ* ← *navyam* ← *navya*
 - \[noun\], accusative, singular, masculine
 - “new; fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyaṃ* ← *navyam* ← *navya*
 - \[noun\], accusative, singular, masculine
 - “new; fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *tantum* ← *tantu*
 - \[noun\], accusative, singular, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvate* ← *tan*
 - \[verb\], plural, Present indikative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudītayaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudītayaḥ* ← *dītayaḥ* ← *dīti*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

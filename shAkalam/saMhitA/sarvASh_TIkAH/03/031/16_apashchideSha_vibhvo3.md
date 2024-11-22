@@ -99,75 +99,111 @@ hinvanti ← √hi- (root)
 -   *apaś* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhvo* ← *vibhvaḥ* ← *vibhu*
 - \[noun\], accusative, plural, feminine
 - “mighty; abundant; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *damūnāḥ* ← *damūnas*
 - \[noun\], nominative, singular, masculine
 - “master.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhrīcīr* ← *sadhrīcīḥ* ← *sadhryañc*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *asṛjad* ← *asṛjat* ← *sṛj*
 - \[verb\], singular, Imperfect
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaścandrāḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaścandrāḥ* ← *ścandrāḥ* ← *ścandra*
 - \[noun\], accusative, plural, feminine
 - “shining; glistening; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhvaḥ* ← *madhu*
 - \[noun\], accusative, plural, feminine
 - “sweet; deft.”
-------------------------------------------------------------------------
+
+_________
+
 - *punānāḥ* ← *pū*
 - \[verb noun\], accusative, plural
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavibhiḥ* ← *kavi*
 - \[noun\], instrumental, plural, neuter
 - “mental; wise; mental; enlightened.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavitrair* ← *pavitraiḥ* ← *pavitra*
 - \[noun\], instrumental, plural, neuter
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyubhir* ← *dyubhiḥ* ← *div*
 - \[noun\], instrumental, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinvanty* ← *hinvanti* ← *hi*
 - \[verb\], plural, Present indikative
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *aktubhir* ← *aktubhiḥ* ← *aktu*
 - \[noun\], instrumental, plural, masculine
 - “night; dark; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanutrīḥ* ← *dhanutṛ*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

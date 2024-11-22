@@ -99,77 +99,113 @@ viśé-viśe ← víś- (nominal stem)
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamo* ← *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhātṛbhir* ← *dhātṛbhiḥ* ← *dhātṛ*
 - \[noun\], instrumental, plural, masculine
 - “Brahma; Dhātṛ; creator; Dhātṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajiṣṭho* ← *yajiṣṭhaḥ* ← *yajiṣṭha*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *adhvareṣv* ← *adhvareṣu* ← *adhvara*
 - \[noun\], locative, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍyaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *apnavāno* ← *apnavānaḥ* ← *apnavāna*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bhṛgavo* ← *bhṛgavaḥ* ← *bhṛgu*
 - \[noun\], nominative, plural, masculine
 - “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *virurucur* ← *virurucuḥ* ← *viruc* ← *√ruc*
 - \[verb\], plural, Perfect indicative
 - “shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaneṣu* ← *vana*
 - \[noun\], locative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *citraṃ* ← *citram* ← *citra*
 - \[noun\], accusative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhvaṃ* ← *vibhvam* ← *vibhu*
 - \[noun\], accusative, singular, masculine
 - “mighty; abundant; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśe* ← *viś*
 - \[noun\], dative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśe* ← *viś*
 - \[noun\], dative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

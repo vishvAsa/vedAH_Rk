@@ -98,73 +98,107 @@ vásumantam ← vásumant- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *savitur* ← *savituḥ* ← *savitṛ*
 - \[noun\], genitive, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *vareṇyaṃ* ← *vareṇyam* ← *vareṇya*
 - \[noun\], accusative, singular, neuter
 - “excellent; desirable.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasave* ← *prasava*
 - \[noun\], locative, singular, masculine
 - “offspring; delivery; child; birth; flower; causing.”
-------------------------------------------------------------------------
+
+_________
+
 - *manāmahe* ← *man*
 - \[verb\], plural, Aorist conj./subj.
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvāpṛthivī*
 - \[noun\], vocative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sucetunā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sucetunā* ← *cetunā* ← *cetu*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhattaṃ* ← *dhattam* ← *dhā*
 - \[verb\], dual, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasumantaṃ* ← *vasumantam* ← *vasumat*
 - \[noun\], accusative, singular, masculine
 - “deluxe; affluent; rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatagvinam* ← *śatagvin*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -84,54 +84,78 @@ yāhi ← √yā- 1 (root)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyam* ← *martya*
 - \[noun\], accusative, singular, masculine
 - “mortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *amitrayantam* ← *amitray*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *adrivaḥ* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvarathā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasas* ← *śavas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

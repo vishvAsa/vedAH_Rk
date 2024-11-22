@@ -102,81 +102,117 @@ naḥ ← ahám (pronoun)
 -   *yasyājasraṃ* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasyājasraṃ* ← *ajasram* ← *ajasra*
 - \[noun\], nominative, singular, neuter
 - “ceaseless; ageless; incessant.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānam* ← *māna*
 - \[noun\], nominative, singular, neuter
 - “weight; size; intensity; duration; dimension; weighing; volume;
     measure; grāsamāna; weight unit; accord; height; thickness.”
-------------------------------------------------------------------------
+
+_________
+
 - *uktham* ← *uktha*
 - \[noun\], nominative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *paribhujad* ← *paribhujat* ← *paribhuj* ← *√bhuj*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīm*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāriṣat* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratubhir* ← *kratubhiḥ* ← *kratu*
 - \[noun\], instrumental, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandasāno* ← *mandasānaḥ* ← *mand*
 - \[verb noun\], nominative, singular
 - “rejoice; exhilarate.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutvān* ← *marutvant*
 - \[noun\], nominative, singular, masculine
 - “Indra; marutvant \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavatv* ← *bhavatu* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtī* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

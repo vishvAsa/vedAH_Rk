@@ -99,77 +99,113 @@ víśaḥ ← víś- (nominal stem)
 -   *ābhi* ← *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛdho* ← *spṛdhaḥ* ← *spṛdh*
 - \[noun\], accusative, plural, feminine
 - “adversary; enemy; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *mithatīr* ← *mithatīḥ* ← *mith*
 - \[verb noun\], accusative, plural
 - “oppose.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣaṇyann* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣaṇyann* ← *riṣaṇyan* ← *riṣaṇy* ← *√riṣ*
 - \[verb noun\], nominative, singular
 - “riṣaṇy \[verb\].”
-------------------------------------------------------------------------
+
+_________
+
 - *amitrasya* ← *amitra*
 - \[noun\], genitive, singular, masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyathayā* ← *vyathaya* ← *vyathay* ← *√vyath*
 - \[verb\], singular, Present imperative
 - “afflict.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyum* ← *manyu*
 - \[noun\], accusative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhir* ← *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiyujo* ← *abhiyujaḥ* ← *abhiyuj*
 - \[noun\], accusative, plural, feminine
 - “attack; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣūcīr* ← *viṣūcīḥ* ← *viṣvañc*
 - \[noun\], accusative, plural, feminine
 - “dispersed; viṣvañc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āryāya* ← *ārya*
 - \[noun\], dative, singular, masculine
 - “Ārya; Ārya.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *'va* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *tārīr* ← *tārīḥ* ← *tṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsīḥ* ← *dāsa*
 - \[noun\], accusative, plural, feminine
 - “dāsa(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -74,39 +74,57 @@ saniṣyúḥ ← saniṣyú- (nominal stem)
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *vimahīnām* ← *vimahi*
 - \[noun\], genitive, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *medhe* ← *medha*
 - \[noun\], locative, singular, masculine
 - “yajña; juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇīta* ← *vṛ*
 - \[verb\], singular, Present optative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *saniṣyur* ← *saniṣyuḥ* ← *saniṣyu*
 - \[noun\], nominative, singular, masculine
 - “eager; plundering.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,83 +99,119 @@ tanvàḥ ← tanū́- (nominal stem)
 -   *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaradas* ← *śaradaḥ* ← *śarad*
 - \[noun\], accusative, plural, feminine
 - “fall; year; śarad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchuciṃ* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchuciṃ* ← *śucim* ← *śuci*
 - \[noun\], accusative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucayaḥ* ← *śuci*
 - \[noun\], nominative, plural, feminine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyān* ← *sapary*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāmāni* ← *nāman*
 - \[noun\], accusative, plural, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyāny* ← *yajñiyāni* ← *yajñiya*
 - \[noun\], accusative, plural, neuter
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *asūdayanta* ← *sūday* ← *√sūd*
 - \[verb\], plural, Imperfect
 - “kill; promote.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaḥ* ← *tanū*
 - \[noun\], accusative, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujātāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujātāḥ* ← *jātāḥ* ← *jan*
 - \[verb noun\], vocative, plural
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

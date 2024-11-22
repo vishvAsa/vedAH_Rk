@@ -79,54 +79,78 @@ yujā́ ← yúj- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *varmāsi* ← *varmā* ← *varman*
 - \[noun\], nominative, plural, neuter
 - “cuirass; armor; varman \[word\]; protective covering; Varman;
     varman.”
-------------------------------------------------------------------------
+
+_________
+
 - *varmāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *saprathaḥ* ← *saprathas*
 - \[noun\], nominative, singular, neuter
 - “extensive; wide; extended.”
-------------------------------------------------------------------------
+
+_________
+
 - *puroyodhaś* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
-------------------------------------------------------------------------
+
+_________
+
 - *puroyodhaś* ← *yodhaḥ* ← *yodha*
 - \[noun\], nominative, singular, masculine
 - “soldier.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahan*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *bruve* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -115,91 +115,135 @@ vām ← tvám (pronoun)
 - \[noun\], nominative, singular, feminine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītiḥ* ← *dhīti*
 - \[noun\], nominative, singular, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayāmany* ← *prayāmani* ← *prayāman*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *adhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *śasman*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayanta* ← *i*
 - \[verb\], plural, Present injunctive
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *diśaḥ* ← *diś*
 - \[noun\], accusative, plural, feminine
 - “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
     distant region; Diś; four; example; method; space.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadāmi* ← *svad*
 - \[verb\], singular, Present indikative
 - “sweeten.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmam* ← *gharma*
 - \[noun\], accusative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanty* ← *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtaya* ← *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjānī*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvināruhat* ← *aśvin*
 - \[noun\], vocative, singular, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvināruhat* ← *āruhat* ← *āruh* ← *√ruh*
 - \[verb\], singular, Imperfect
 - “board; hop on; climb; ascend; descend; ride; copulate; grow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

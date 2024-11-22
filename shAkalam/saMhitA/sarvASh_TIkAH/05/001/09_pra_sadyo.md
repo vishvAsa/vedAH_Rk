@@ -99,77 +99,111 @@ viśā́m ← víś- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *aty* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣy* ← *eṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyān* ← *anya*
 - \[noun\], accusative, plural, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cārutamo* ← *cārutamaḥ* ← *cārutama*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *babhūtha* ← *bhū*
 - \[verb\], singular, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *īﾱenyo* ← *īḍenyaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapuṣyo* ← *vapuṣyaḥ* ← *vapuṣya*
 - \[noun\], nominative, singular, masculine
 - “fine-looking.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, masculine
 - “illuminating; shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyo* ← *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *atithir* ← *atithiḥ* ← *atithi*
 - \[noun\], nominative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣīṇām* ← *mānuṣa*
 - \[noun\], genitive, plural, feminine
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

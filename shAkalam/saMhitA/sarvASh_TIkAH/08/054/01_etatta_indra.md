@@ -93,68 +93,98 @@ paurā́saḥ ← paurá- (nominal stem)
 -   *etat* ← *etad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīryaṃ* ← *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇanti* ← *gṛ*
 - \[verb\], plural, Present indikative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāravaḥ* ← *kāru*
 - \[noun\], nominative, plural, masculine
 - “poet; singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *stobhanta* ← *stobhantaḥ* ← *stubh*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvan* ← *av*
 - \[verb\], plural, Root aorist (Ind.)
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtaścutam* ← *ghṛtaścut*
 - \[noun\], accusative, singular, feminine
 - “ghee-dripping.”
-------------------------------------------------------------------------
+
+_________
+
 - *paurāso* ← *paurāsaḥ* ← *paura*
 - \[noun\], nominative, plural, masculine
 - “townsman; citizen.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣan* ← *nakṣ*
 - \[verb\], plural, Present injunctive
 - “reach; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

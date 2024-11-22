@@ -94,50 +94,74 @@ yát ← yá- (pronoun)
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣma* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *yasmā* ← *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *atrivat* ← *atri*
 - \[noun\], masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *atrivat* ← *vat*
 - \[adverb\]
 - “equally; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhitīva* ← *svadhitī* ← *svadhiti*
 - \[noun\], instrumental, singular, feminine
 - “ax; knife.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhitīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *rīyate* ← *ri*
 - \[verb\], singular, Present indikative
 - “free; liberate; run; let go of.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣūr* ← *suṣūḥ* ← *suṣū*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *asūta* ← *sū*
 - \[verb\], singular, Imperfect
 - “give birth; urge; bestow; cause.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *krāṇā* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -148,20 +172,28 @@ yát ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaśe* ← *aś*
 - \[verb\], singular, Perfect indicative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *bhagam* ← *bhaga*
 - \[noun\], accusative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

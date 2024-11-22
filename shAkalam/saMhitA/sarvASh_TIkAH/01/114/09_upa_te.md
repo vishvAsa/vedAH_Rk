@@ -117,28 +117,40 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 -   *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomān* ← *stoma*
 - \[noun\], accusative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paśupā* ← *paśu*
 - \[noun\], masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśupā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivākaraṃ* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivākaraṃ* ← *akaram* ← *kṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -149,72 +161,106 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāsvā* ← *rā*
 - \[verb\], singular, Aorist imperative
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitar* ← *pitṛ*
 - \[noun\], vocative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutāṃ* ← *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadra*
 - \[noun\], nominative, singular, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumatir* ← *sumatiḥ* ← *sumati*
 - \[noun\], nominative, singular, feminine
 - “benevolence; favor; Sumati.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛﾱayattamāthā* ← *mṛﾱayattama* ← *mṛḍayattama*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mṛﾱayattamāthā* ← *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava* ← *avaḥ* ← *avas*
 - \[noun\], accusative, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

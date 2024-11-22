@@ -102,77 +102,115 @@ yát ← yá- (pronoun)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *duṣṭutī* ← *duṣṭuti*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *martyo* ← *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vindate* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sredhantaṃ* ← *sredhantam* ← *sridh*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *rayir* ← *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *naśat* ← *naś*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “reach; achieve; enter (a state); reach.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśaktir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśaktir* ← *śaktiḥ* ← *śakti*
 - \[noun\], nominative, singular, feminine
 - “spear; ability; Shakti; potency; power; capacity; śakti \[word\];
     potency; capability; reproduction.”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavan*
 - \[noun\], locative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *māvate* ← *māvat*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *deṣṇaṃ* ← *deṣṇam* ← *deṣṇa*
 - \[noun\], nominative, singular, neuter
 - “gift; giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pārye* ← *pārya*
 - \[noun\], locative, singular, masculine
 - “critical; decisive.”
-------------------------------------------------------------------------
+
+_________
+
 - *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

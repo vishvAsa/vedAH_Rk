@@ -105,82 +105,120 @@ ví ← ví (invariable)
 -   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *budhna* ← *budhne* ← *budhna*
 - \[noun\], locative, singular, masculine
 - “bottom; bottom; base.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasām* ← *uṣas*
 - \[noun\], genitive, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣaṇyan* ← *iṣaṇy*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahī* ← *mah*
 - \[noun\], accusative, dual, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viveśa* ← *viś*
 - \[verb\], singular, Perfect indicative
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyā*
 - \[noun\], nominative, singular, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *candreva* ← *candrā* ← *candra*
 - \[noun\], accusative, plural, neuter
 - “gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *candreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhānuṃ* ← *bhānum* ← *bhānu*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *purutrā*
 - \[adverb\]
 - “distributively.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

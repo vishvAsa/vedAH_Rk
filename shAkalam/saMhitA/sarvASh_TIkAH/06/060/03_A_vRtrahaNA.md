@@ -99,91 +99,129 @@ uttamébhiḥ ← uttamá- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahaṇā* ← *vṛtra*
 - \[noun\], masculine
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahaṇā* ← *haṇā* ← *han*
 - \[noun\], vocative, dual, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahabhiḥ* ← *vṛtra*
 - \[noun\], masculine
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahabhiḥ* ← *habhiḥ* ← *han*
 - \[noun\], instrumental, plural, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmair* ← *śuṣmaiḥ* ← *śuṣma*
 - \[noun\], instrumental, plural, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvāk*
 - \[adverb\]
 - “here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhobhir* ← *rādhobhiḥ* ← *rādhas*
 - \[noun\], instrumental, plural, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *akavebhir* ← *akavebhiḥ* ← *akava*
 - \[noun\], instrumental, plural, neuter
 - “perfect.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgne* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavatam* ← *bhū*
 - \[verb\], dual, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttamebhiḥ* ← *uttama*
 - \[noun\], instrumental, plural, neuter
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
     finest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

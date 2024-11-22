@@ -102,74 +102,110 @@ vr̥ṣabha ← vr̥ṣabhá- (nominal stem)
 -   *kva*
 - \[adverb\]
 - “wherein; how; kva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudra*
 - \[noun\], vocative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛḍayākur* ← *mṛḍayākuḥ* ← *mṛḍayāku*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hasto* ← *hastaḥ* ← *hasta*
 - \[noun\], nominative, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *bheṣajo* ← *bheṣajaḥ* ← *bheṣaja*
 - \[noun\], nominative, singular, masculine
 - “curative.”
-------------------------------------------------------------------------
+
+_________
+
 - *jalāṣaḥ* ← *jalāṣa*
 - \[noun\], nominative, singular, masculine
 - “cooling; curative.”
-------------------------------------------------------------------------
+
+_________
+
 - *apabhartā* ← *apabhṛ* ← *√bhṛ*
 - \[verb\], singular, periphrast. future
-------------------------------------------------------------------------
+
+_________
+
 - *rapaso* ← *rapasaḥ* ← *rapas*
 - \[noun\], genitive, singular, neuter
 - “injury; disease; infirmity; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivyasyābhī* ← *daivyasya* ← *daivya*
 - \[noun\], genitive, singular, neuter
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivyasyābhī* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabha*
 - \[noun\], vocative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣamīthāḥ* ← *kṣam*
 - \[verb\], singular, Perfect optative
 - “forgive; can; endure; permit.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

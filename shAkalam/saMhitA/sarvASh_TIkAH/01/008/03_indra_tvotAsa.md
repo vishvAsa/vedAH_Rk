@@ -80,52 +80,74 @@ yudhí ← yúdh- (nominal stem)
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvotāsa* ← *tvotāsaḥ* ← *tvota*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghanā* ← *ghana*
 - \[noun\], instrumental, singular, masculine
 - “abhra; cloud; hammer; ghana; hammer; rainy season; tin; iron; ghana
     \[word\]; ghana; nutgrass; ball; phlegm.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadīmahi* ← *dā*
 - \[verb\], plural, Present optative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayema* ← *ji*
 - \[verb\], plural, Present optative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhi* ← *yudh*
 - \[noun\], locative, singular, feminine
 - “battle; fight; war; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛdhaḥ* ← *spṛdh*
 - \[noun\], accusative, plural, feminine
 - “adversary; enemy; rival.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,39 +73,57 @@ marmr̥jyánte ← √mr̥j- (root)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmīr* ← *brahmīḥ* ← *brahmī*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *yahvīr* ← *yahvīḥ* ← *yahva*
 - \[noun\], nominative, plural, feminine
 - “youngest; youthful; active.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātaraḥ* ← *mātṛ*
 - \[noun\], nominative, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *marmṛjyante* ← *marmṛj* ← *√mṛj*
 - \[verb\], plural, Present indikative
 - “groom; wash; rub.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

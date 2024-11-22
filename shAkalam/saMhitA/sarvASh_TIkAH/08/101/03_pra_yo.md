@@ -73,44 +73,64 @@ máderaghuḥ ← máderaghu- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇājiro* ← *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇājiro* ← *ajiraḥ* ← *ajira*
 - \[noun\], nominative, singular, masculine
 - “fast; agile; ajira \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dūto* ← *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adravat* ← *dru*
 - \[verb\], singular, Imperfect
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayaḥśīrṣā* ← *ayaḥ* ← *ayas*
 - \[noun\], neuter
 - “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
     weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayaḥśīrṣā* ← *śīrṣā* ← *śīrṣan*
 - \[noun\], nominative, singular, masculine
 - “head; śīrṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maderaghuḥ* ← *maderaghu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

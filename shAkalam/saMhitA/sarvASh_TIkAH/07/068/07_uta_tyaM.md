@@ -91,65 +91,95 @@ yuvā́kuḥ ← yuvā́ku- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhujyum* ← *bhujyu*
 - \[noun\], accusative, singular, masculine
 - “Bhujyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhāyo* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *madhye* ← *madhya*
 - \[noun\], locative, singular, masculine
 - “intermediate; central; average; normal; middle; madhya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jahur* ← *jahuḥ* ← *hā*
 - \[verb\], plural, Perfect indicative
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
-------------------------------------------------------------------------
+
+_________
+
 - *durevāsaḥ* ← *dureva*
 - \[noun\], nominative, plural, masculine
 - “malevolent; bad; crabbed.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *parṣad* ← *parṣat* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *arāvā* ← *arāvan*
 - \[noun\], nominative, singular, masculine
 - “begrudging; hostile; stingy.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvākuḥ* ← *yuvāku*
 - \[noun\], nominative, singular, masculine
 - “your(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

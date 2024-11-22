@@ -87,48 +87,70 @@ u ← u (invariable)
 -   *yamād* ← *yamāt* ← *yama*
 - \[noun\], ablative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaivasvatāt* ← *vaivasvata*
 - \[noun\], ablative, singular, masculine
 - “Yama; Vaivasvata.”
-------------------------------------------------------------------------
+
+_________
+
 - *subandhor* ← *subandhoḥ* ← *subandhu*
 - \[noun\], genitive, singular, masculine
 - “Subandhu.”
-------------------------------------------------------------------------
+
+_________
+
 - *mana* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābharam* ← *ābhṛ* ← *√bhṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “bring.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvātave* ← *jīvātu*
 - \[noun\], dative, singular, feminine
 - “life.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛtyave* ← *mṛtyu*
 - \[noun\], dative, singular, masculine
 - “death; Yama; māraṇa; Mṛtyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *'tho* ← *atho*
 - \[adverb\]
 - “now; but; furthermore.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣṭatātaye* ← *ariṣṭatāti*
 - \[noun\], dative, singular, feminine
 - “safeness.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

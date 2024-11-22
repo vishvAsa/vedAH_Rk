@@ -70,38 +70,54 @@ sahásrabharṇasam ← sahásrabharṇas- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipaścitam* ← *vipaścit*
 - \[noun\], accusative, singular, feminine
 - “wise; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣyasi* ← *iṣ*
 - \[verb\], singular, Present indikative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrabharṇasam* ← *sahasrabharṇas*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

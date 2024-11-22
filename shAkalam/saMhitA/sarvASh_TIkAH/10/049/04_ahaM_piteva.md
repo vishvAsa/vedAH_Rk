@@ -111,90 +111,132 @@ yát ← yá- (pronoun)
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *piteva* ← *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *piteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vetasūṃr* ← *vetasūn* ← *vetasu*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *tugraṃ* ← *tugram* ← *tugra*
 - \[noun\], accusative, singular, masculine
 - “Tugra; tugra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kutsāya* ← *kutsa*
 - \[noun\], dative, singular, masculine
 - “Kutsa; kutsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *smadibhaṃ* ← *smadibham* ← *smadibha*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *randhayam* ← *randhay* ← *√radh*
 - \[verb\], singular, Present injunctive
 - “subjugate; hand over.”
-------------------------------------------------------------------------
+
+_________
+
 - *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvaṃ* ← *bhuvam* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamānasya* ← *yaj*
 - \[verb noun\], genitive, singular
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājani* ← *rājan*
 - \[noun\], locative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhare* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *tujaye* ← *tuji*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *priyādhṛṣe* ← *priyā* ← *priya*
 - \[noun\], nominative, plural, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyādhṛṣe* ← *ādhṛṣe* ← *ādhṛṣ* ← *√dhṛṣ*
 - \[verb noun\]
 - “overcome; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -115,13 +115,17 @@ sú ← sú (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇavan* ← *kṛṇavat* ← *kṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -132,84 +136,120 @@ sú ← sú (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyā* ← *anya*
 - \[noun\], accusative, plural, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *yāni* ← *yad*
 - \[noun\], accusative, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bruvanti* ← *brū*
 - \[verb\], plural, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedhasaḥ* ← *vedhas*
 - \[noun\], nominative, plural, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *suteṣu* ← *suta*
 - \[noun\], locative, plural, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *janīr* ← *janīḥ* ← *jani*
 - \[noun\], accusative, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *samāno* ← *samānaḥ* ← *samāna*
 - \[noun\], nominative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *māmṛje* ← *mṛj*
 - \[verb\], singular, Perfect indicative
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *pura* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvāḥ* ← *sarva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

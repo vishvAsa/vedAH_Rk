@@ -99,86 +99,126 @@ vāmám ← vāmá- (nominal stem)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣya* ← *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *damūnā* ← *damūnāḥ* ← *damūnas*
 - \[noun\], nominative, singular, masculine
 - “master.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyapāṇiḥ* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyapāṇiḥ* ← *pāṇiḥ* ← *pāṇi*
 - \[noun\], nominative, singular, masculine
 - “hand; hoof; pāṇi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratidoṣam*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *asthāt* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayohanur* ← *ayaḥ* ← *ayas*
 - \[noun\], neuter
 - “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
     weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayohanur* ← *hanuḥ* ← *hanu*
 - \[noun\], nominative, singular, masculine
 - “jaw.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajato* ← *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandrajihva* ← *mandra*
 - \[noun\]
 - “pleasant; eloquent; dulcet.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandrajihva* ← *jihvaḥ* ← *jihvā*
 - \[noun\], nominative, singular, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvati* ← *sū*
 - \[verb\], singular, Present indikative
 - “give birth; urge; bestow; cause.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūri*
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāmam* ← *vāma*
 - \[noun\], accusative, singular, neuter
 - “agreeable; vāma \[word\]; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

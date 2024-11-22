@@ -99,80 +99,116 @@ syāma ← √as- 1 (root)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ma* ← *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], nominative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣad* ← *yoṣat* ← *yu*
 - \[verb\], singular, Aorist conj./subj.
 - “keep away; separate; ward off.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇā*
 - \[noun\], nominative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhīta* ← *duh*
 - \[verb\], singular, Present optative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyeṣṭhe* ← *jyeṣṭha*
 - \[noun\], locative, singular, neuter
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *varūthe* ← *varūtha*
 - \[noun\], locative, singular, neuter
 - “defense; protective covering.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhastau* ← *gabhasti*
 - \[noun\], locative, singular, masculine
 - “beam; hand; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāye* ← *prāya*
 - \[noun\], locative, singular, masculine
 - “predomination; seeking death by fasting; majority; strength; fast;
     suicide.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāye* ← *prāya*
 - \[noun\], locative, singular, masculine
 - “predomination; seeking death by fasting; majority; strength; fast;
     suicide.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigīvāṃsaḥ* ← *ji*
 - \[verb noun\], nominative, plural
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

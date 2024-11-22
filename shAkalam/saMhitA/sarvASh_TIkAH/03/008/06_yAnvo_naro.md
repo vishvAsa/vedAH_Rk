@@ -99,75 +99,109 @@ rátnam ← rátna- (nominal stem)
 -   *yān* ← *yad*
 - \[noun\], accusative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayanto* ← *devayantaḥ* ← *devay*
 - \[verb noun\], nominative, plural
 - “solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *nimimyur* ← *nimimyuḥ* ← *nimi* ← *√mi*
 - \[verb\], plural, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *vanaspate* ← *vanaspati*
 - \[noun\], vocative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhitir* ← *svadhitiḥ* ← *svadhiti*
 - \[noun\], nominative, singular, masculine
 - “ax; knife.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatakṣa* ← *takṣ*
 - \[verb\], singular, Perfect indicative
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaravas* ← *svaravaḥ* ← *svaru*
 - \[noun\], nominative, plural, masculine
 - “post.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthivāṃsaḥ* ← *sthā*
 - \[verb noun\], nominative, plural
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajāvad* ← *prajāvat*
 - \[noun\], accusative, singular, neuter
 - “prolific.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *didhiṣantu* ← *didhiṣ* ← *√dhā*
 - \[verb\], plural, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *ratnam* ← *ratna*
 - \[noun\], accusative, singular, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,37 +102,55 @@ práti ← práti (invariable)
 -   *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vitaraṃ* ← *vitaram*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣkabhāyat* ← *skabhāy* ← *√skambh*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvivyānaś* ← *saṃvivyānaḥ* ← *saṃvye* ← *√vye*
 - \[verb noun\], nominative, singular
 - “envelop; disguise; wrap; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhiyase* ← *bhiyas*
 - \[noun\], dative, singular, masculine
 - “fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛgaṃ* ← *mṛgam* ← *mṛga*
 - \[noun\], accusative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -143,40 +161,58 @@ práti ← práti (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigartim* ← *jigarti*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *apajargurāṇaḥ* ← *apajargur* ← *√gṛ*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvasantam* ← *śvas*
 - \[verb noun\], accusative, singular
 - “hiss; pant; sigh; breathe; blow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *dānavaṃ* ← *dānavam* ← *dānava*
 - \[noun\], accusative, singular, masculine
 - “Dānava.”
-------------------------------------------------------------------------
+
+_________
+
 - *han*
 - \[verb\], singular, Present injunctive
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

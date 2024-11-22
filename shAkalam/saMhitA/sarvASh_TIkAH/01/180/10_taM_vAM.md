@@ -104,83 +104,123 @@ vr̥jánam ← vr̥jána- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *huvema* ← *hu*
 - \[verb\], plural, Aorist optative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomair* ← *stomaiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyam* ← *navya*
 - \[noun\], accusative, singular, masculine
 - “new; fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣṭanemim* ← *ariṣṭa*
 - \[noun\]
 - “safe; unharmed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣṭanemim* ← *nemim* ← *nemi*
 - \[noun\], accusative, singular, masculine
 - “rim; felloe.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyānaṃ* ← *iyānam* ← *i*
 - \[verb noun\], accusative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyāmeṣaṃ* ← *vidyāma* ← *vid*
 - \[verb\], plural, Present optative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyāmeṣaṃ* ← *iṣam* ← *iṣa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjanaṃ* ← *vṛjanam* ← *vṛjana*
 - \[noun\], vocative, singular, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīradānum* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīradānum* ← *dānum* ← *dānu*
 - \[noun\], accusative, singular, masculine
 - “Dānu; dew; drop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

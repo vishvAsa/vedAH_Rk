@@ -105,87 +105,125 @@ tát ← sá- ~ tá- (pronoun)
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vajraḥ* ← *vajra*
 - \[noun\], nominative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *purudhā*
 - \[adverb\]
 - “multiply.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivṛtto* ← *vivṛttaḥ* ← *vivṛt* ← *√vṛt*
 - \[verb noun\], nominative, singular
 - “bend; twist.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vaḥ* ← *avas*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhataḥ* ← *bṛhat*
 - \[noun\], genitive, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *purīṣāt* ← *purīṣa*
 - \[noun\], ablative, singular, neuter
 - “fecal matter; droppings; spring; earth; purīṣa \[word\]; Purīṣa;
     rust; affluence; defecation.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrava* ← *śravaḥ* ← *śravas*
 - \[noun\], nominative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *enā*
 - \[adverb\]
 - “thus.”
-------------------------------------------------------------------------
+
+_________
+
 - *paro* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyathī* ← *avyathi*
 - \[noun\], instrumental, singular, feminine
 - “surefooted.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarimāṇas* ← *jarimāṇaḥ* ← *jariman*
 - \[noun\], nominative, plural, masculine
 - “old age.”
-------------------------------------------------------------------------
+
+_________
+
 - *taranti* ← *tṛ*
 - \[verb\], plural, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

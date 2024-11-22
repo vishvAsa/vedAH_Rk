@@ -79,45 +79,67 @@ vándyaḥ ← vándya- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhvo* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agriyo* ← *agriyaḥ* ← *agriya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mahīr* ← *mahīḥ* ← *mahi*
 - \[noun\], accusative, plural, feminine
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāhate* ← *gāh*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *havir* ← *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣṣu* ← *haviḥṣu* ← *havis*
 - \[noun\], locative, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vandyaḥ* ← *vand*
 - \[verb noun\], nominative, singular
 - “worship; laud.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

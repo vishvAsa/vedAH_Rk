@@ -108,86 +108,126 @@ yū́ne ← yúvan- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *satya* ← *satyaḥ* ← *satya*
 - \[noun\], nominative, singular, masculine
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇur* ← *dhṛṣṇuḥ* ← *dhṛṣṇu*
 - \[noun\], nominative, singular, masculine
 - “brave; ferocious; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *etān* ← *etad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhukṣā* ← *ṛbhukṣāḥ* ← *ṛbhukṣan*
 - \[noun\], nominative, singular
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *naryas* ← *naryaḥ* ← *narya*
 - \[noun\], nominative, singular, masculine
 - “manly; heroic; powerful; male; human.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣāṭ* ← *sah*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣṇaṃ* ← *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjane* ← *vṛjana*
 - \[noun\], locative, singular, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛkṣa* ← *pṛkṣe* ← *pṛkṣ*
 - \[noun\], dative, singular, feminine
 - “food; refreshment; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *āṇau* ← *āṇi*
 - \[noun\], locative, singular, masculine
 - “āṇi; pin.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūne* ← *yuvan*
 - \[noun\], dative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
-------------------------------------------------------------------------
+
+_________
+
 - *kutsāya* ← *kutsa*
 - \[noun\], dative, singular, masculine
 - “Kutsa; kutsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumate* ← *dyumat*
 - \[noun\], dative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacāhan* ← *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacāhan* ← *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

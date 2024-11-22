@@ -99,91 +99,131 @@ yūyám ← tvám (pronoun)
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitāraṃ* ← *savitāram* ← *savitṛ*
 - \[noun\], accusative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujihvam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujihvam* ← *jihvam* ← *jihvā*
 - \[noun\], accusative, singular, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrṇagabhastim* ← *pūrṇa* ← *pṛ*
 - \[verb noun\]
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrṇagabhastim* ← *gabhastim* ← *gabhasti*
 - \[noun\], accusative, singular, masculine
 - “beam; hand; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *īﾱate* ← *īḍate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *supāṇim* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supāṇim* ← *pāṇim* ← *pāṇi*
 - \[noun\], accusative, singular, masculine
 - “hand; hoof; pāṇi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *citraṃ* ← *citram* ← *citra*
 - \[noun\], accusative, singular, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayo* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhātu* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

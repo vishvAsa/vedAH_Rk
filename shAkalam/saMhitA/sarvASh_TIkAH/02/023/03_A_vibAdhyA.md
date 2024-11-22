@@ -93,80 +93,118 @@ svarvídam ← svarvíd- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vibādhyā* ← *vibādh* ← *√bādh*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *parirāpas* ← *parirāpaḥ* ← *parirāp*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tamāṃsi* ← *tamas*
 - \[noun\], accusative, plural, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotiṣmantaṃ* ← *jyotiṣmantam* ← *jyotiṣmat*
 - \[noun\], accusative, singular, masculine
 - “shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhasi* ← *sthā*
 - \[verb\], singular, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhīmam* ← *bhīma*
 - \[noun\], accusative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
-------------------------------------------------------------------------
+
+_________
+
 - *amitradambhanaṃ* ← *amitra*
 - \[noun\], masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *amitradambhanaṃ* ← *dambhanam* ← *dambhana*
 - \[noun\], accusative, singular, masculine
 - “damaging.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣohaṇaṃ* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣohaṇaṃ* ← *haṇam* ← *han*
 - \[noun\], accusative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *gotrabhidaṃ* ← *gotra*
 - \[noun\], neuter
 - “Gotra; patronymic; gotra \[word\]; name; family; family; kin;
     Gotra; mountain; herd; cow pen; cowbarn.”
-------------------------------------------------------------------------
+
+_________
+
 - *gotrabhidaṃ* ← *bhidam* ← *bhid*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *svarvidam* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarvidam* ← *vidam* ← *vid*
 - \[noun\], accusative, singular, masculine
 - “finding.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

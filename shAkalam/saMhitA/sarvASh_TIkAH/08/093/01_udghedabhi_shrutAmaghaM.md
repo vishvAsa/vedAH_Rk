@@ -76,46 +76,68 @@ sūrya ← sū́rya- (nominal stem)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghed* ← *gha*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ghed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutāmaghaṃ* ← *śrutāmagham* ← *śrutāmagha*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *naryāpasam* ← *narya*
 - \[noun\]
 - “manly; heroic; powerful; male; human.”
-------------------------------------------------------------------------
+
+_________
+
 - *naryāpasam* ← *apasam* ← *apas*
 - \[noun\], accusative, singular, masculine
 - “work; deed.”
-------------------------------------------------------------------------
+
+_________
+
 - *astāram* ← *astṛ*
 - \[noun\], accusative, singular, masculine
 - “archer; shot.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrya*
 - \[noun\], vocative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

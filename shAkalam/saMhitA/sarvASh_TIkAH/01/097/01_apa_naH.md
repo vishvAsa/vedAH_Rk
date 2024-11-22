@@ -82,53 +82,77 @@ naḥ ← ahám (pronoun)
 -   *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śośucad* ← *śośucat* ← *śośuc* ← *√śuc*
 - \[verb noun\], nominative, singular
 - “blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *agham* ← *agha*
 - \[noun\], accusative, singular, neuter
 - “sin; evil; impurity; agha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuśugdhy* ← *śuśugdhi* ← *śuc*
 - \[verb\], singular, Perfect imperative
 - “mourn; grieve; flame; glow; burn; repent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rayim* ← *rayi*
 - \[noun\], accusative, singular, feminine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śośucad* ← *śośucat* ← *śośuc* ← *√śuc*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *agham* ← *agha*
 - \[noun\], accusative, singular, neuter
 - “sin; evil; impurity; agha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

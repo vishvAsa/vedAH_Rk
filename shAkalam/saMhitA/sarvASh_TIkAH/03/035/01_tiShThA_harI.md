@@ -110,20 +110,28 @@ te ← tvám (pronoun)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratha* ← *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yujyamānā* ← *yuj*
 - \[verb noun\], accusative, dual
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -131,72 +139,104 @@ te ← tvám (pronoun)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyur* ← *vāyuḥ* ← *vāyu*
 - \[noun\], nominative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *niyuto* ← *niyutaḥ* ← *niyut*
 - \[noun\], accusative, plural, feminine
 - “gift; team.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pibāsy* ← *pibāsi* ← *pā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *andho* ← *andhaḥ* ← *andhas*
 - \[noun\], accusative, singular, neuter
 - “Soma; drink; amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhisṛṣṭo* ← *abhisṛṣṭaḥ* ← *abhisṛj* ← *√sṛj*
 - \[verb noun\], nominative, singular
 - “start.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāhā*
 - \[adverb\]
 - “hail.”
-------------------------------------------------------------------------
+
+_________
+
 - *rarimā* ← *rā*
 - \[verb\], plural, Perfect indicative
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

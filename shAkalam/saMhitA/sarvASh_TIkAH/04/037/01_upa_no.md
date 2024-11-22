@@ -102,82 +102,120 @@ sudíneṣu ← sudína- (nominal stem)
 -   *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], nominative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhukṣā* ← *ṛbhukṣan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāta* ← *yā*
 - \[verb\], plural, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathibhir* ← *pathibhiḥ* ← *pathin*
 - \[noun\], instrumental, plural, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayānaiḥ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayānaiḥ* ← *yānaiḥ* ← *yāna*
 - \[noun\], instrumental, plural, masculine
 - “vehicle; journey; campaign; carriage; vessel; cart.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣo* ← *manuṣaḥ* ← *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vikṣv* ← *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsu* ← *idam*
 - \[noun\], locative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhidhve* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṇvāḥ* ← *raṇva*
 - \[noun\], vocative, plural, masculine
 - “agreeable; happy; delightful; gay.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudineṣv* ← *sudineṣu* ← *sudina*
 - \[noun\], locative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ahnām* ← *ahar*
 - \[noun\], genitive, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

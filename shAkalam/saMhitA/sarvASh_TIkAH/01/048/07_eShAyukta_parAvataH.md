@@ -93,7 +93,9 @@ yāti ← √yā- 1 (root)
 -   *eṣāyukta* ← *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣāyukta* ← *ayukta* ← *yuj*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -101,62 +103,90 @@ yāti ← √yā- 1 (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasyodayanād* ← *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasyodayanād* ← *udayanāt* ← *udayana*
 - \[noun\], ablative, singular, neuter
 - “rise; end; end.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rathebhiḥ* ← *ratha*
 - \[noun\], instrumental, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhagoṣā* ← *subhagā* ← *subhaga*
 - \[noun\], nominative, singular, feminine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhagoṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāty* ← *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣān* ← *mānuṣa*
 - \[noun\], accusative, plural, masculine
 - “man; man.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

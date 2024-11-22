@@ -97,70 +97,102 @@ ná ← ná (invariable)
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *droṇe* ← *droṇa*
 - \[noun\], locative, singular, masculine
 - “Droṇa; Droṇa; Droṇa; droṇa \[word\]; raven.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajyase* ← *añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtvyaḥ* ← *kṛtvya*
 - \[noun\], nominative, singular, masculine
 - “confident.”
-------------------------------------------------------------------------
+
+_________
+
 - *parijmeva* ← *parijmā* ← *parijman*
 - \[noun\], nominative, singular, masculine
 - “encompassing(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *parijmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhā*
 - \[noun\], nominative, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
-------------------------------------------------------------------------
+
+_________
+
 - *gayo* ← *gayaḥ* ← *gaya*
 - \[noun\], nominative, singular, masculine
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
-------------------------------------------------------------------------
+
+_________
+
 - *'tyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hvāryaḥ* ← *hvārya*
 - \[noun\], nominative, singular, masculine
 - “bird.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśuḥ* ← *śiśu*
 - \[noun\], nominative, singular, masculine
 - “young; matutinal.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

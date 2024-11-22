@@ -120,103 +120,149 @@ same ← sama- (pronoun)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tridhātūny* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tridhātūny* ← *dhātūni* ← *dhātu*
 - \[noun\], accusative, plural, neuter
 - “mineral; dhātu; saptadhātu; Sanskrit verbal root; etymon; aṣṭaloha;
     mahābhūta; gairika; component; navadhātu; svarṇamākṣika; doṣa;
     inorganic compound.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣeti* ← *kṣi*
 - \[verb\], singular, Present indikative
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidathā* ← *vidatha*
 - \[noun\], accusative, plural, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *trīṃr* ← *trīn* ← *tri*
 - \[noun\], accusative, plural, masculine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ekādaśāṃ* ← *ekādaśa*
 - \[noun\], accusative, plural, masculine
 - “eleventh; elevenfold.”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣac* ← *yakṣat* ← *yaj*
 - \[verb\], singular, Aorist conj./subj.
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *piprayac* ← *piprayat* ← *prī*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “delight; gladden; satisfy; nutrify; comfort.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipro* ← *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “eloquent; stimulated; divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣkṛto* ← *pariṣkṛtaḥ* ← *pariṣkṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhantām* ← *nabh*
 - \[verb\], plural, Present imperative
 - “burst.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyake* ← *anyaka*
 - \[noun\], nominative, plural, masculine
 - “other; another(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *same* ← *sama*
 - \[noun\], nominative, plural, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);
     accurate; identical; fair; equal; synonymous; changeless; whole;
     exact; calm; straight; even; wide.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

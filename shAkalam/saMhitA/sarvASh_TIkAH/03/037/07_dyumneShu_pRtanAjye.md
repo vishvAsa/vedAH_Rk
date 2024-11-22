@@ -70,35 +70,51 @@ sā́kṣva ← √sah- (root)
 -   *dyumneṣu* ← *dyumna*
 - \[noun\], locative, plural, neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanājye* ← *pṛtanājya*
 - \[noun\], locative, singular, neuter
 - “fight; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtsutūrṣu* ← *pṛtsutur*
 - \[noun\], locative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *śravassu* ← *śravas*
 - \[noun\], locative, plural, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sākṣvābhimātiṣu* ← *sākṣva* ← *sah*
 - \[verb\], singular, Aorist imperative
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *sākṣvābhimātiṣu* ← *abhimātiṣu* ← *abhimāti*
 - \[noun\], locative, plural, feminine
 - “aggression; hostility.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

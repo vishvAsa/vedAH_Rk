@@ -96,67 +96,99 @@ yéna ← yá- (pronoun)
 -   *vibhu*
 - \[noun\], nominative, singular, neuter
 - “mighty; abundant; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *prabhu*
 - \[noun\], nominative, singular, neuter
 - “mighty; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamam* ← *prathama*
 - \[noun\], nominative, singular, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *mehanāvato* ← *mehanāvataḥ* ← *mehanāvat*
 - \[noun\], genitive, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspateḥ* ← *bṛhaspati*
 - \[noun\], genitive, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvidatrāṇi* ← *suvidatra*
 - \[noun\], nominative, plural, neuter
 - “beneficent.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhyā* ← *rādhya*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *imā* ← *idam*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātāni* ← *sāta*
 - \[noun\], nominative, plural, neuter
 - “wealth.”
-------------------------------------------------------------------------
+
+_________
+
 - *venyasya* ← *venya*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], genitive, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *janā* ← *janau* ← *jana*
 - \[noun\], nominative, dual, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhaye* ← *ubhaya*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuñjate* ← *bhuj*
 - \[verb\], plural, Present indikative
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

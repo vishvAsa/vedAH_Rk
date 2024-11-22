@@ -88,60 +88,86 @@ vícetasaḥ ← vícetas- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudrasya* ← *rudra*
 - \[noun\], genitive, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *cetati* ← *cit*
 - \[verb\], singular, Present indikative
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *yahvam* ← *yahva*
 - \[noun\], nominative, singular, neuter
 - “youngest; youthful; active.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratneṣu* ← *pratna*
 - \[noun\], locative, plural, neuter
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāmasu* ← *dhāman*
 - \[noun\], locative, plural, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 - *mano* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhur* ← *dadhuḥ* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicetasaḥ* ← *vicetas*
 - \[noun\], nominative, plural, masculine
 - “wise; diligent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

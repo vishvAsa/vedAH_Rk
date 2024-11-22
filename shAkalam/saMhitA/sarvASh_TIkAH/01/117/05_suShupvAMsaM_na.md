@@ -102,77 +102,113 @@ vándanāya ← vándana- 1 (nominal stem)
 -   *suṣupvāṃsaṃ* ← *suṣupvāṃsam* ← *svap*
 - \[verb noun\], accusative, singular
 - “sleep; numb; fall asleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nirṛter* ← *nirṛteḥ* ← *nirṛti*
 - \[noun\], genitive, singular, feminine
 - “destruction; Nirṛti; adversity.”
-------------------------------------------------------------------------
+
+_________
+
 - *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamasi* ← *tamas*
 - \[noun\], locative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣiyantam* ← *kṣi*
 - \[verb noun\], accusative, singular
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhe* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmaṃ* ← *rukmam* ← *rukma*
 - \[noun\], accusative, singular, neuter
 - “gold; svarṇamākṣika.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *darśataṃ* ← *darśatam* ← *darśata*
 - \[noun\], accusative, singular, neuter
 - “beautiful; visible; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *nikhātam* ← *nikhan* ← *√khan*
 - \[verb noun\], accusative, singular
 - “bury; insert.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūpathur* ← *ūpathuḥ* ← *vap*
 - \[verb\], dual, Perfect indicative
 - “sow; bestrew; strew; scatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandanāya* ← *vandana*
 - \[noun\], dative, singular, neuter
 - “worship; skin disease.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

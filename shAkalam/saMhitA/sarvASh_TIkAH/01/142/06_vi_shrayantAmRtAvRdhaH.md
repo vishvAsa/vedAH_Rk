@@ -81,49 +81,71 @@ dvā́raḥ ← dvā́r- (nominal stem)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrayantām* ← *śri*
 - \[verb\], plural, Present imperative
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvṛdhaḥ* ← *ṛtāvṛdh*
 - \[noun\], nominative, plural, feminine
 - “sincere.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayai* ← *prayā* ← *√yā*
 - \[verb noun\]
 - “go; depart; travel; enter (a state); repair to; advance; elapse;
     leave; drive; walk; disappear; die; heal.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahīḥ* ← *mahi*
 - \[noun\], nominative, plural, feminine
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakāsaḥ* ← *pāvaka*
 - \[noun\], nominative, plural, masculine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruspṛho* ← *puruspṛhaḥ* ← *puruspṛh*
 - \[noun\], nominative, plural, masculine
 - “coveted; desirous.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvāro* ← *dvāraḥ* ← *dvār*
 - \[noun\], nominative, plural, feminine
 - “door; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *devīr* ← *devīḥ* ← *deva*
 - \[noun\], nominative, plural, feminine
 - “divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asaścataḥ* ← *asaścat*
 - \[noun\], nominative, plural, feminine
 - “inexhaustible.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

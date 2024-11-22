@@ -93,61 +93,91 @@ punanti ← √pū- (root)
 -   *samudreṇa* ← *samudra*
 - \[noun\], instrumental, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, feminine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yādamānā* ← *yādamānāḥ* ← *yād*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣutam* ← *suṣuta*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bharantaḥ* ← *bhṛ*
 - \[verb noun\], nominative, plural
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃśuṃ* ← *aṃśum* ← *aṃśu*
 - \[noun\], accusative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhanti* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *hastino* ← *hastinaḥ* ← *hastin*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bharitrair* ← *bharitraiḥ* ← *bharitra*
 - \[noun\], instrumental, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *punanti* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavitraiḥ* ← *pavitra*
 - \[noun\], instrumental, plural, neuter
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

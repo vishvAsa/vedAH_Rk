@@ -79,47 +79,69 @@ tastabhuḥ ← √stambhⁱ- (root)
 -   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śvetāsa* ← *śvetāsaḥ* ← *śveta*
 - \[noun\], nominative, plural, masculine
 - “white; bright; śveta \[word\]; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣaṇo* ← *ukṣaṇaḥ* ← *ukṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāro* ← *tāraḥ* ← *tṛ*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rocante* ← *ruc*
 - \[verb\], plural, Present indikative
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaṃ* ← *divam* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tastabhuḥ* ← *stambh*
 - \[verb\], plural, Perfect indicative
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

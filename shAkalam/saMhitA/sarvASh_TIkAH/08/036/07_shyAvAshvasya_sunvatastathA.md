@@ -107,32 +107,46 @@ vardháyan ← √vr̥dh- (root)
 -   *śyāvāśvasya* ← *śyāvāśva*
 - \[noun\], genitive, singular, masculine
 - “Śyāvāśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunvatas* ← *sunvataḥ* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *tathā*
 - \[adverb\]
 - “and; thus; besides; very well; so; then; in that manner; now;
     therefore; however; so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇu* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathāśṛṇor* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathāśṛṇor* ← *aśṛṇoḥ* ← *śru*
 - \[verb\], singular, Imperfect
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *atreḥ* ← *atri*
 - \[noun\], genitive, singular, masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *karmāṇi* ← *karman*
 - \[noun\], accusative, plural, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -140,7 +154,9 @@ vardháyan ← √vr̥dh- (root)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvataḥ* ← *kṛ*
 - \[verb noun\], genitive, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -151,51 +167,73 @@ vardháyan ← √vr̥dh- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *trasadasyum* ← *trasadasyu*
 - \[noun\], accusative, singular, masculine
 - “Trasadasyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvitha* ← *av*
 - \[verb\], singular, Perfect indicative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *eka* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṣāhya* ← *nṛṣāhye* ← *nṛṣāhya*
 - \[noun\], locative, singular, neuter
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhayan* ← *vardhay* ← *√vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; strengthen; promote; rear; add; greet; laud.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

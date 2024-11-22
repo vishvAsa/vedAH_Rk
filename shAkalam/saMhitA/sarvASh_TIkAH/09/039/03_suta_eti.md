@@ -73,37 +73,55 @@ virocáyan ← √ruc- (root)
 -   *suta* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavitra* ← *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tviṣiṃ* ← *tviṣim* ← *tviṣi*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāna* ← *dadhānaḥ* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicakṣāṇo* ← *vicakṣāṇaḥ* ← *vicakṣ* ← *√cakṣ*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *virocayan* ← *virocay* ← *√ruc*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

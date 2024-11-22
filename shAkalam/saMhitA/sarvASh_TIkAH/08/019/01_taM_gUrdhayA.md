@@ -81,43 +81,63 @@ havyám ← havyá- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *gūrdhayā* ← *gūrdhaya* ← *gūrdhay*
 - \[verb\], singular, Present imperative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarṇaraṃ* ← *svarṇaram* ← *svarṇṛ*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *aratiṃ* ← *aratim* ← *arati*
 - \[noun\], accusative, singular, masculine
 - “charioteer.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhanvire* ← *dhanv*
 - \[verb\], plural, Perfect indicative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ohire* ← *āvah* ← *√vah*
 - \[verb\], plural, Perfect indicative
 - “bring; marry; cause; run; perform; exude.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

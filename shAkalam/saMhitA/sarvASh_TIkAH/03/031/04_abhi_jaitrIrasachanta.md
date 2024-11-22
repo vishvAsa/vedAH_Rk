@@ -108,98 +108,138 @@ pátiḥ ← páti- (nominal stem)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaitrīr* ← *jaitrīḥ* ← *jaitra*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *asacanta* ← *sac*
 - \[verb\], plural, Imperfect
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛdhānam* ← *spṛdh*
 - \[verb noun\], accusative, singular
 - “rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotis* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamaso* ← *tamasaḥ* ← *tamas*
 - \[noun\], ablative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajānan* ← *jñā*
 - \[verb\], plural, Imperfect
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *jānatīḥ* ← *jñā*
 - \[verb noun\], nominative, plural
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
-------------------------------------------------------------------------
+
+_________
+
 - *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyann* ← *āyan* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣāsaḥ* ← *uṣa*
 - \[noun\], nominative, plural, masculine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhavad* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *eka* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

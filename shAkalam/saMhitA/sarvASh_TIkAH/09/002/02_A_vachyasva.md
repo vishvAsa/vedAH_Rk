@@ -79,48 +79,70 @@ yónim ← yóni- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vacyasva* ← *vañc*
 - \[verb\], singular, Imperativ Pr￤s. Passiv
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *psaro* ← *psaraḥ* ← *psaras*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣendo* ← *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnavattamaḥ* ← *dyumnavattama*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yoniṃ* ← *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharṇasiḥ* ← *dharṇasi*
 - \[noun\], nominative, singular, masculine
 - “permanent; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadaḥ* ← *sad*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -114,98 +114,142 @@ rájāṁsi ← rájas- (nominal stem)
 -   *aher* ← *aheḥ* ← *ahi*
 - \[noun\], genitive, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātāraṃ* ← *yātāram* ← *yātṛ*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *apaśya* ← *apaśyaḥ* ← *paś*
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdi* ← *hṛd*
 - \[noun\], locative, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaghnuṣo* ← *jaghnuṣaḥ* ← *han*
 - \[verb noun\], genitive, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhīr* ← *bhīḥ* ← *bhī*
 - \[noun\], nominative, singular, feminine
 - “fear; bhī; alarm.”
-------------------------------------------------------------------------
+
+_________
+
 - *agacchat* ← *gam*
 - \[verb\], singular, Imperfect
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *navatiṃ* ← *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sravantīḥ* ← *sravantī*
 - \[noun\], accusative, plural, feminine
 - “river.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhīto* ← *bhītaḥ* ← *bhī*
 - \[verb noun\], nominative, singular
 - “fear; fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ataro* ← *ataraḥ* ← *tṛ*
 - \[verb\], singular, Imperfect
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajāṃsi* ← *rajas*
 - \[noun\], accusative, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

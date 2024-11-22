@@ -96,76 +96,112 @@ bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)
 -   *udapruto* ← *uda* ← *udan*
 - \[noun\], neuter
 - “water; body of water.”
-------------------------------------------------------------------------
+
+_________
+
 - *udapruto* ← *prutaḥ* ← *prut*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣamāṇā* ← *rakṣamāṇāḥ* ← *rakṣ*
 - \[verb noun\], nominative, plural
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvadato* ← *vāvadataḥ* ← *vāvad* ← *√vad*
 - \[verb noun\], nominative, plural
 - “make noise; chatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhriyasyeva* ← *abhriyasya* ← *abhriya*
 - \[noun\], genitive, singular, masculine
 - “cumulonimbus.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhriyasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghoṣāḥ* ← *ghoṣa*
 - \[noun\], nominative, plural, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
-------------------------------------------------------------------------
+
+_________
+
 - *giribhrajo* ← *giri*
 - \[noun\]
 - “mountain(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *giribhrajo* ← *bhrajaḥ* ← *bhraj*
 - \[noun\], nominative, plural, masculine
 - “erection.”
-------------------------------------------------------------------------
+
+_________
+
 - *normayo* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *normayo* ← *ūrmayaḥ* ← *ūrmi*
 - \[noun\], nominative, plural, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *madanto* ← *madantaḥ* ← *mad*
 - \[verb noun\], nominative, plural
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkā* ← *arkāḥ* ← *arka*
 - \[noun\], nominative, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *anāvan* ← *nū*
 - \[verb\], plural, Imperfect
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

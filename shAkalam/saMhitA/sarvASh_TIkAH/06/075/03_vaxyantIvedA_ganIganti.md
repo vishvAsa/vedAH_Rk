@@ -108,79 +108,117 @@ sámane ← sámana- (nominal stem)
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣyantīved* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣyantīved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ganīganti* ← *ganīgam* ← *√gam*
 - \[verb\], singular, Present indikative
 - “return.”
-------------------------------------------------------------------------
+
+_________
+
 - *karṇam* ← *karṇa*
 - \[noun\], accusative, singular, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyaṃ* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣasvajānā* ← *pariṣvaj* ← *√svaj*
 - \[verb noun\], nominative, singular
 - “embrace.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣeva* ← *yoṣā*
 - \[noun\], nominative, singular, feminine
 - “woman; puppet; daughter.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiṅkte* ← *śiñj*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *vitatādhi* ← *vitatā* ← *vitan* ← *√tan*
 - \[verb noun\], nominative, singular
 - “expand; perform; scatter; prolong; increase.”
-------------------------------------------------------------------------
+
+_________
+
 - *vitatādhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvañ* ← *dhanvan*
 - \[noun\], locative, singular, neuter
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyā*
 - \[noun\], nominative, singular, feminine
 - “bowstring.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *samane* ← *samana*
 - \[noun\], locative, singular, neuter
 - “marriage; conflict.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārayantī* ← *pāray* ← *√pṛ*
 - \[verb noun\], nominative, singular
 - “rescue; keep alive; satisfy; save; resist; endure.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

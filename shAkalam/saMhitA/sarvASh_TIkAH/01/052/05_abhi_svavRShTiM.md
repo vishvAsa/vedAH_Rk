@@ -108,94 +108,136 @@ valásya ← valá- (nominal stem)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *svavṛṣṭim* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svavṛṣṭim* ← *vṛṣṭim* ← *vṛṣṭi*
 - \[noun\], accusative, singular, masculine
 - “rain; shower; rainy season.”
-------------------------------------------------------------------------
+
+_________
+
 - *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhyato* ← *yudhyataḥ* ← *yudh*
 - \[verb noun\], genitive, singular
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *raghvīr* ← *raghvīḥ* ← *raghu*
 - \[noun\], nominative, plural, feminine
 - “low; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravaṇe* ← *pravaṇa*
 - \[noun\], locative, singular, masculine
 - “descent.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasrur* ← *sasruḥ* ← *sṛ*
 - \[verb\], plural, Perfect indicative
 - “sṛ; liquefy; run; spread; stretch out.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrī* ← *vajrin*
 - \[noun\], nominative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣamāṇo* ← *dhṛṣamāṇaḥ* ← *dhṛṣ*
 - \[verb noun\], nominative, singular
 - “dare; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *andhasā* ← *andhas*
 - \[noun\], instrumental, singular, neuter
 - “Soma; drink; amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhinad* ← *bhinat* ← *bhid*
 - \[verb\], singular, Present injunctive
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *valasya* ← *vala*
 - \[noun\], genitive, singular, masculine
 - “Vala; vala; cave.”
-------------------------------------------------------------------------
+
+_________
+
 - *paridhīṃr* ← *paridhi*
 - \[noun\], accusative, plural, masculine
 - “covering; circumference; Paridhi; halo; fence.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *tritaḥ* ← *trita*
 - \[noun\], nominative, singular, masculine
 - “Trita.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

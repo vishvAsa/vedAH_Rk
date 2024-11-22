@@ -114,86 +114,126 @@ sū́ryam ← sū́rya- (nominal stem)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *apām* ← *ap*
 - \[noun\], genitive, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *apidhānāvṛṇor* ← *apidhānā* ← *apidhāna*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *apidhānāvṛṇor* ← *avṛṇoḥ* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *apādhārayaḥ* ← *apadhāray* ← *√dhṛ*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *parvate* ← *parvata*
 - \[noun\], locative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *dānumad* ← *dānumat*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasāvadhīr* ← *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasāvadhīr* ← *avadhīḥ* ← *vadh*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “kill; assail; kick; māray; destroy; beat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahim* ← *ahi*
 - \[noun\], accusative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *divy* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārohayo* ← *ārohayaḥ* ← *ārohay* ← *√ruh*
 - \[verb\], singular, Imperfect
 - “raise; hop on; lift.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛśe* ← *dṛś*
 - \[verb noun\]
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

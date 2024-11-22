@@ -105,82 +105,122 @@ yát ← yá- (pronoun)
 -   *vasū* ← *vasu*
 - \[noun\], nominative, dual, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rudrā* ← *rudra*
 - \[noun\], nominative, dual, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *purumantū* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purumantū* ← *mantū* ← *mantu*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdhantā* ← *vṛdh*
 - \[verb noun\], nominative, dual
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśasyataṃ* ← *daśasyatam* ← *daśasy*
 - \[verb\], dual, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇāv* ← *vṛṣaṇau* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭau* ← *abhiṣṭi*
 - \[noun\], locative, singular, feminine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *rekṇa* ← *rekṇaḥ* ← *rekṇas*
 - \[noun\], accusative, singular, neuter
 - “property; wealth; bequest; inheritance.”
-------------------------------------------------------------------------
+
+_________
+
 - *aucathyo* ← *aucathyaḥ* ← *aucathya*
 - \[noun\], nominative, singular, masculine
 - “Dīrghatamas.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasrāthe* ← *sṛ*
 - \[verb\], dual, Perfect indicative
 - “sṛ; liquefy; run; spread; stretch out.”
-------------------------------------------------------------------------
+
+_________
+
 - *akavābhir* ← *akavābhiḥ* ← *akava*
 - \[noun\], instrumental, plural, feminine
 - “perfect.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

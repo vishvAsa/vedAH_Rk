@@ -120,113 +120,163 @@ vakṣyā́mi ← √vac- (root)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *karṇā* ← *karṇa*
 - \[noun\], nominative, dual, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
-------------------------------------------------------------------------
+
+_________
+
 - *patayato* ← *patayataḥ* ← *patay* ← *√pat*
 - \[verb\], dual, Present indikative
 - “fly.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣur* ← *cakṣuḥ* ← *cakṣus*
 - \[noun\], nominative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīdaṃ* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīdaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], nominative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdaya* ← *hṛdaye* ← *hṛdaya*
 - \[noun\], locative, singular, neuter
 - “heart; heart; mind; hṛdaya \[word\]; science; thorax;
     Aṣṭāṅgahṛdayasaṃhitā; soul.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhitaṃ* ← *āhitam* ← *ādhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *manaś* ← *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūraādhīḥ* ← *dūra*
 - \[noun\]
 - “distant; long; dūra \[word\]; deep; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūraādhīḥ* ← *ādhīḥ* ← *ādhī*
 - \[noun\], nominative, singular, neuter
 - “longing.”
-------------------------------------------------------------------------
+
+_________
+
 - *kiṃ* ← *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svid*
 - \[adverb\]
 - “svid \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣyāmi* ← *vac*
 - \[verb\], singular, Future
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *maniṣye* ← *man*
 - \[verb\], singular, Future
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

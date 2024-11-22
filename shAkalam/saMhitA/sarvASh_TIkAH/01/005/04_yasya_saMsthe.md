@@ -76,47 +76,67 @@ tásmai ← sá- ~ tá- (pronoun)
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃsthe* ← *saṃstha*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇvate* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *samatsu* ← *samad*
 - \[noun\], locative, plural
 - “conflict; strife.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatravaḥ* ← *śatru*
 - \[noun\], nominative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

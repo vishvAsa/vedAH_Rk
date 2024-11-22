@@ -107,84 +107,124 @@ ví ← ví (invariable)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇāno* ← *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *adbhir* ← *adbhiḥ* ← *ap*
 - \[noun\], instrumental, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *devavān* ← *devavat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *subandhur* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *subandhur* ← *bandhuḥ* ← *bandhu*
 - \[noun\], nominative, singular, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūktaiḥ* ← *sūkta*
 - \[noun\], instrumental, plural, neuter
 - “Mantra; hymn.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhad* ← *vardhat* ← *vṛdh*
 - \[verb\], singular, Present injunctive
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthair* ← *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *vacobhir* ← *vacobhiḥ* ← *vacas*
 - \[noun\], instrumental, plural, neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvaiti* ← *adhvā* ← *adhvan*
 - \[noun\], nominative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvaiti* ← *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *payasa* ← *payasaḥ* ← *payas*
 - \[noun\], genitive, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *usriyāyāḥ* ← *usriyā*
 - \[noun\], genitive, singular, feminine
 - “cow; dairy product.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

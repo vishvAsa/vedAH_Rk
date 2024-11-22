@@ -105,88 +105,128 @@ r̥cyámānā ← √r̥c- (root)
 -   *dūrāc* ← *dūrāt*
 - \[adverb\]
 - “far.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vasato* ← *vasataḥ* ← *vas*
 - \[verb\], dual, Present indikative
 - “stay; dwell; get stale; be situated; exist; continue; bide.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *karṇā* ← *karṇa*
 - \[noun\], nominative, dual, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghoṣād* ← *ghoṣāt* ← *ghoṣa*
 - \[noun\], ablative, singular, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanyati* ← *tan*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *bruvāṇaḥ* ← *brū*
 - \[verb noun\], nominative, singular
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *eyam* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eyam* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *enaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *devahūtir* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devahūtir* ← *hūtiḥ* ← *hūti*
 - \[noun\], nominative, singular, feminine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavṛtyān* ← *vavṛtyāt* ← *vṛt*
 - \[verb\], singular, Perfect optative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *madryag* ← *madryak* ← *madryañc*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛcyamānā* ← *arc*
 - \[verb noun\], nominative, singular
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

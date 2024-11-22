@@ -106,83 +106,121 @@ tásmin ← sá- ~ tá- (pronoun)
 - \[noun\], vocative, dual, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇā* ← *varuṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *didyum* ← *didyu*
 - \[noun\], accusative, singular, masculine
 - “arrow; projectile.”
-------------------------------------------------------------------------
+
+_________
+
 - *asminn* ← *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojiṣṭham* ← *ojiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugrā* ← *ugra*
 - \[noun\], nominative, dual, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhiṣṭaṃ* ← *vadhiṣṭam* ← *vadh*
 - \[verb\], dual, Aorist imperative
 - “kill; assail; kick; māray; destroy; beat.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *durevo* ← *durevaḥ* ← *dureva*
 - \[noun\], nominative, singular, masculine
 - “malevolent; bad; crabbed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkatir* ← *vṛkatiḥ* ← *vṛkati*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dabhītis* ← *dabhītiḥ* ← *dabhīti*
 - \[noun\], nominative, singular, masculine
 - “Dabhīti.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmin* ← *tad*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimāthām* ← *mā*
 - \[verb\], dual, Present imperative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhibhūty* ← *abhibhūti*
 - \[noun\], accusative, singular, neuter
 - “superior; overpowering.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

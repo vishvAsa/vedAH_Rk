@@ -114,97 +114,141 @@ yádi ← yádi (invariable)
 -   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *visṛṣṭir* ← *visṛṣṭiḥ* ← *visṛṣṭi*
 - \[noun\], nominative, singular, feminine
 - “universe; creation.”
-------------------------------------------------------------------------
+
+_________
+
 - *yata* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābabhūva* ← *ābhū* ← *√bhū*
 - \[verb\], singular, Perfect indicative
 - “originate.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asyādhyakṣaḥ* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyādhyakṣaḥ* ← *adhyakṣaḥ* ← *adhyakṣa*
 - \[noun\], nominative, singular, masculine
 - “overseer; adhyakṣa \[word\]; mayor; head.”
-------------------------------------------------------------------------
+
+_________
+
 - *parame* ← *parama*
 - \[noun\], locative, singular, masculine
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyoman*
 - \[noun\], locative, singular, masculine
 - “abhra; sky; ākāśa; Svarga; Vyoman.”
-------------------------------------------------------------------------
+
+_________
+
 - *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅga*
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
-------------------------------------------------------------------------
+
+_________
+
 - *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,76 +99,110 @@ yajñám ← yajñá- (nominal stem)
 -   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvantha* ← *van*
 - \[verb\], singular, Perfect indicative
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣṭuta*
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cicchūra* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *cicchūra* ← *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṇām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharāmasi* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthaṃ* ← *uktham* ← *uktha*
 - \[noun\], accusative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *turaṃ* ← *turam* ← *tura*
 - \[noun\], accusative, singular, neuter
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *vacaḥ* ← *vacas*
 - \[noun\], accusative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

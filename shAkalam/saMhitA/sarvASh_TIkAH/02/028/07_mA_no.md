@@ -111,37 +111,53 @@ ví ← ví (invariable)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhair* ← *vadhaiḥ* ← *vadha*
 - \[noun\], instrumental, plural, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṭāv* ← *iṣṭau* ← *iṣṭi*
 - \[noun\], locative, singular, feminine
 - “seeking.”
-------------------------------------------------------------------------
+
+_________
+
 - *enaḥ* ← *enas*
 - \[noun\], accusative, singular, neuter
 - “sin; calamity; blame.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvantam* ← *kṛ*
 - \[verb noun\], accusative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -152,56 +168,82 @@ ví ← ví (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *asura*
 - \[noun\], vocative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrīṇanti* ← *bhrī*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotiṣaḥ* ← *jyotis*
 - \[noun\], ablative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravasathāni* ← *pravasatha*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ganma* ← *gam*
 - \[verb\], plural, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣū* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛdhaḥ* ← *mṛdh*
 - \[noun\], accusative, plural, feminine
 - “enemy; adversary.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśratho* ← *śiśrathaḥ* ← *śrath*
 - \[verb\], singular, Aorist inj. (proh.)
-------------------------------------------------------------------------
+
+_________
+
 - *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

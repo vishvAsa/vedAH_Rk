@@ -117,35 +117,51 @@ tāri ← √tr̥̄- 1 (root)
 -   *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasavo* ← *vasavaḥ* ← *vasu*
 - \[noun\], vocative, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *gauryaṃ* ← *gauryam* ← *gaurī*
 - \[noun\], accusative, singular, feminine
 - “Parvati; gorocanā; turmeric; gaurī; gaurīpāṣāṇa; abhra; Gaurī.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *padi* ← *pad*
 - \[noun\], locative, singular, masculine
 - “foot; pad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣitām* ← *sā*
 - \[verb noun\], accusative, singular
 - “tie.”
-------------------------------------------------------------------------
+
+_________
+
 - *amuñcatā* ← *muc*
 - \[verb\], singular, Imperfect
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -153,28 +169,40 @@ tāri ← √tr̥̄- 1 (root)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatrāḥ* ← *yajatra*
 - \[noun\], vocative, plural, masculine
 - “adorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *evo* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *evo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣv* ← *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *asman* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *muñcatā* ← *muc*
 - \[verb\], plural, Present imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -182,41 +210,59 @@ tāri ← √tr̥̄- 1 (root)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃhaḥ* ← *aṃhas*
 - \[noun\], accusative, singular, neuter
 - “trouble; sin.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāry* ← *tāri* ← *tṛ*
 - \[verb\], singular, Aorist passive
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *prataraṃ* ← *prataram*
 - \[adverb\]
 - “farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyuḥ* ← *āyus*
 - \[noun\], nominative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

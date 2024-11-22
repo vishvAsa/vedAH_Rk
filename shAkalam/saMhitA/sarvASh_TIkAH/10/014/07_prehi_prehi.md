@@ -108,82 +108,118 @@ yamám ← yamá- (nominal stem)
 -   *prehi* ← *pre* ← *√i*
 - \[verb\], singular, Present imperative
 - “die; proceed; advance; continue; begin; depart.”
-------------------------------------------------------------------------
+
+_________
+
 - *prehi* ← *pre* ← *√i*
 - \[verb\], singular, Present imperative
 - “die; proceed; advance; continue; begin; depart.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathibhiḥ* ← *pathin*
 - \[noun\], instrumental, plural
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyebhir* ← *pūrvyebhiḥ* ← *pūrvya*
 - \[noun\], instrumental, plural, masculine
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrve* ← *pūrva*
 - \[noun\], nominative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *pareyuḥ* ← *pare* ← *√i*
 - \[verb\], plural, Present optative
 - “travel; depart; go; die.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhā* ← *ubh*
 - \[noun\], accusative, dual, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *rājānā* ← *rājan*
 - \[noun\], accusative, dual, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhayā* ← *svadhā*
 - \[noun\], instrumental, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
-------------------------------------------------------------------------
+
+_________
+
 - *madantā* ← *mad*
 - \[verb noun\], accusative, dual
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamam* ← *yama*
 - \[noun\], accusative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśyāsi* ← *paś*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇaṃ* ← *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

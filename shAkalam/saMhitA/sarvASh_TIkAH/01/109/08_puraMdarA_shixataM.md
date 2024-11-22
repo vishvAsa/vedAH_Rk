@@ -99,86 +99,124 @@ utá ← utá (invariable)
 -   *purandarā* ← *puraṃdara*
 - \[noun\], vocative, dual, masculine
 - “Indra; puraṃdara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣataṃ* ← *śikṣatam* ← *śikṣ*
 - \[verb\], dual, Present imperative
 - “help; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrahastāsmāṃ* ← *vajra*
 - \[noun\], masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrahastāsmāṃ* ← *hastā* ← *hasta*
 - \[noun\], nominative, dual, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrahastāsmāṃ* ← *asmāṃ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgnī* ← *agnī* ← *agni*
 - \[noun\], vocative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *avatam* ← *av*
 - \[verb\], dual, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhareṣu* ← *bhara*
 - \[noun\], locative, plural, masculine
 - “battle; weight; foray; bhṛ; load.”
-------------------------------------------------------------------------
+
+_________
+
 - *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *māmahantām* ← *mah*
 - \[verb\], plural, Perfect imperative
 - “give; accord.”
-------------------------------------------------------------------------
+
+_________
+
 - *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivī*
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

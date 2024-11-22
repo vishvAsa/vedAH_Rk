@@ -96,76 +96,112 @@ vr̥trahátyeṣu ← vr̥trahátya- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇo* ← *dhṛṣṇu*
 - \[noun\], vocative, singular, masculine
 - “brave; ferocious; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣatā* ← *dhṛṣ*
 - \[verb noun\], instrumental, singular
 - “dare; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *vītahavyam* ← *vīta* ← *vī*
 - \[verb noun\]
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *vītahavyam* ← *havyam* ← *havya*
 - \[noun\], accusative, singular, masculine
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prāvo* ← *prāvaḥ* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvābhir* ← *viśvābhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sudāsam* ← *sudās*
 - \[noun\], accusative, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *paurukutsiṃ* ← *paurukutsim* ← *paurukutsi*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *trasadasyum* ← *trasadasyu*
 - \[noun\], accusative, singular, masculine
 - “Trasadasyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvaḥ* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣetrasātā* ← *kṣetra*
 - \[noun\], neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣetrasātā* ← *sātā* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahatyeṣu* ← *vṛtra*
 - \[noun\], neuter
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahatyeṣu* ← *hatyeṣu* ← *hatya*
 - \[noun\], locative, plural, neuter
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrum* ← *pūru*
 - \[noun\], accusative, singular, masculine
 - “Pūru; Pūru.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

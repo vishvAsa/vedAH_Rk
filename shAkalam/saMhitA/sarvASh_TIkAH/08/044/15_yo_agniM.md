@@ -79,52 +79,74 @@ vásu ← vásu- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvo* ← *tanvaḥ* ← *tanū*
 - \[noun\], genitive, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyati* ← *sapary*
 - \[verb\], singular, Present indikative
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdayad* ← *dīdayat* ← *dīdī*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

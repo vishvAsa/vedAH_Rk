@@ -84,59 +84,87 @@ vŕ̥ṣapatnīḥ ← vŕ̥ṣapatnī- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthino* ← *ukthinaḥ* ← *ukthin*
 - \[noun\], nominative, plural, masculine
 - “laudatory.”
-------------------------------------------------------------------------
+
+_________
+
 - *'nu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣṭuvanti* ← *stuvanti* ← *stu*
 - \[verb\], plural, Present indikative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvathā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣapatnīr* ← *vṛṣa* ← *vṛṣan*
 - \[noun\], masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣapatnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], accusative, plural, feminine
 - “wife; mistress; queen.”
-------------------------------------------------------------------------
+
+_________
+
 - *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayā* ← *jaya* ← *ji*
 - \[verb\], singular, Present imperative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

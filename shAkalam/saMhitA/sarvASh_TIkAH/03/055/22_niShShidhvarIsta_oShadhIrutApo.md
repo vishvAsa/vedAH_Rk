@@ -101,91 +101,131 @@ mahát ← mahā́nt- (nominal stem)
 
 -   *niṣṣidhvarīs* ← *niṣṣidhvarīḥ* ← *niṣṣidhvan*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhīr* ← *oṣadhīḥ* ← *oṣadhī*
 - \[noun\], nominative, plural, feminine
 - “herb; plant; drug; herb.”
-------------------------------------------------------------------------
+
+_________
+
 - *utāpo* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *utāpo* ← *apaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivī*
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibharti* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhāyas* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāmabhājaḥ* ← *vāma*
 - \[noun\]
 - “agreeable; vāma \[word\]; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāmabhājaḥ* ← *bhājaḥ* ← *bhāj*
 - \[noun\], nominative, plural, masculine
 - “enjoying; consisting of.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahad* ← *mahat*
 - \[noun\], nominative, singular, neuter
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *asuratvam* ← *asura*
 - \[noun\], masculine
 - “Asura; lord; asura \[word\]; sulfur.”
-------------------------------------------------------------------------
+
+_________
+
 - *asuratvam* ← *tvam* ← *tva*
 - \[noun\], nominative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekam* ← *eka*
 - \[noun\], nominative, singular, neuter
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

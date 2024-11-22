@@ -102,94 +102,134 @@ suvidatríyebhyaḥ ← suvidatríya- (nominal stem)
 -   *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvetaś* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvetaś* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
-------------------------------------------------------------------------
+
+_________
+
 - *cyāvayatu* ← *cyāvay* ← *√cyu*
 - \[verb\], singular, Present imperative
 - “chase away; remove; move.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *anaṣṭapaśur* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *anaṣṭapaśur* ← *naṣṭa* ← *naś*
 - \[verb noun\]
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
-------------------------------------------------------------------------
+
+_________
+
 - *anaṣṭapaśur* ← *paśuḥ* ← *paśu*
 - \[noun\], nominative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaitebhyaḥ* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaitebhyaḥ* ← *etebhyaḥ* ← *etad*
 - \[noun\], dative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadat* ← *dā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitṛbhyo* ← *pitṛbhyaḥ* ← *pitṛ*
 - \[noun\], dative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvidatriyebhyaḥ* ← *suvidatriya*
 - \[noun\], dative, plural, masculine
 - “gracious.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

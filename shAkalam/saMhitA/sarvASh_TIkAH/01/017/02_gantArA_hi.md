@@ -73,38 +73,56 @@ dhartā́rā ← dhartár- (nominal stem)
 -   *gantārā* ← *gantṛ*
 - \[noun\], nominative, dual, masculine
 - “going.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *stho* ← *sthaḥ* ← *as*
 - \[verb\], dual, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vase* ← *avase* ← *avas*
 - \[noun\], dative, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprasya* ← *vipra*
 - \[noun\], genitive, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *māvataḥ* ← *māvat*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dhartārā* ← *dhartṛ*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

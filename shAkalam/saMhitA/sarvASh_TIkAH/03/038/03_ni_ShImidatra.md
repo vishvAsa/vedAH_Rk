@@ -111,91 +111,133 @@ sámr̥te ← √r̥- 1 (root)
 -   *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣīm* ← *sīm*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhyā* ← *guhya*
 - \[noun\], accusative, plural, neuter
 - “secret; genitalia; guhyayantra; vagina.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhānā* ← *dadhānāḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatrāya* ← *kṣatra*
 - \[noun\], dative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjan* ← *añj*
 - \[verb\], plural, Imperfect
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātrābhir* ← *mātrābhiḥ* ← *mātrā*
 - \[noun\], instrumental, plural, feminine
 - “measure; weight; quantity; syllable; mātrā; property; part;
     particle; mātrā \[word\]; household effects; morsel; mirror;
     substance.”
-------------------------------------------------------------------------
+
+_________
+
 - *mamire* ← *mā*
 - \[verb\], plural, Perfect indicative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yemur* ← *yemuḥ* ← *yam*
 - \[verb\], plural, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *urvī*
 - \[noun\], accusative, dual, feminine
 - “Earth; floor; land; heaven and earth; urvī; pṛthivī; kingdom.”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahī*
 - \[noun\], accusative, dual, feminine
 - “Earth; floor; Earth; land; real property; heaven and earth; space;
     Mahī; soil; earth; estate; area.”
-------------------------------------------------------------------------
+
+_________
+
 - *samṛte* ← *samṛch* ← *√ṛch*
 - \[verb noun\], accusative, dual
 - “collapse.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāyase* ← *dhāyas*
 - \[noun\], dative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *dhuḥ* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

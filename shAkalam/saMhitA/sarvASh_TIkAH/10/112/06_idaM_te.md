@@ -102,78 +102,114 @@ yám ← yá- (pronoun)
 -   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pātraṃ* ← *pātram* ← *pātra*
 - \[noun\], nominative, singular, neuter
 - “vessel; pātra \[word\]; authority; receptacle; pātra; vessel; cup;
     bowl; basket.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanavittam* ← *sanavitta*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibā* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *enā* ← *idam*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrṇa* ← *pūrṇaḥ* ← *pṛ*
 - \[verb noun\], nominative, singular
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhāvo* ← *āhāvaḥ* ← *āhāva*
 - \[noun\], nominative, singular, masculine
 - “bucket; āhāva \[word\]; manger.”
-------------------------------------------------------------------------
+
+_________
+
 - *madirasya* ← *madira*
 - \[noun\], genitive, singular, neuter
 - “intoxicant.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhvo* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśva* ← *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiharyanti* ← *abhihary* ← *√hary*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

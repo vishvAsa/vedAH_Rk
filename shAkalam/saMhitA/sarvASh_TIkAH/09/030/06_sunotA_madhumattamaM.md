@@ -70,35 +70,51 @@ matsarám ← matsará- (nominal stem)
 -   *sunotā* ← *sunota* ← *su*
 - \[verb\], plural, Present imperative
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumattamaṃ* ← *madhumattamam* ← *madhumattama*
 - \[noun\], accusative, singular, masculine
 - “sweetest.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajriṇe* ← *vajrin*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *cāruṃ* ← *cārum* ← *cāru*
 - \[noun\], accusative, singular, masculine
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *matsaram* ← *matsara*
 - \[noun\], accusative, singular, masculine
 - “intoxicant; invigorating; hostile.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

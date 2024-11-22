@@ -96,69 +96,101 @@ vā́jam ← vā́ja- (nominal stem)
 -   *astoḍhvaṃ* ← *astoḍhvam* ← *stu*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomyā* ← *stomyāḥ* ← *stomya*
 - \[noun\], vocative, plural, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vīvṛdhadhvam* ← *avīvṛdhadhvam* ← *vṛdh*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśatīr* ← *uśatīḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣāsaḥ* ← *uṣas*
 - \[noun\], vocative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuṣmākaṃ* ← *yuṣmākam* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *devīr* ← *devīḥ* ← *devī*
 - \[noun\], vocative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanema* ← *san*
 - \[verb\], plural, Aorist optative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasriṇaṃ* ← *sahasriṇam* ← *sahasrin*
 - \[noun\], accusative, singular, masculine
 - “thousandfold.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatinaṃ* ← *śatinam* ← *śatin*
 - \[noun\], accusative, singular, masculine
 - “hundredfold.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

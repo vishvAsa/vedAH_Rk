@@ -112,54 +112,78 @@ tr̥ndhi ← √tr̥d- (root)
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnathā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *mandatu* ← *mad*
 - \[verb\], singular, Present imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrudhi* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhasvota* ← *vāvṛdhasva* ← *vṛdh*
 - \[verb\], singular, Perfect imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhasvota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *āviḥ* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -170,42 +194,60 @@ tr̥ndhi ← √tr̥d- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *pīpihīṣo* ← *pīpihi* ← *pyā*
 - \[verb\], singular, Perfect imperative
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *pīpihīṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *jahi* ← *han*
 - \[verb\], singular, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatrūṃr* ← *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛndhi* ← *tṛd*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

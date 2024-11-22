@@ -105,85 +105,125 @@ vrajám ← vrajá- (nominal stem)
 -   *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinīva* ← *vājini* ← *vājin*
 - \[noun\], locative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubha* ← *śubhaḥ* ← *śubh*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *spardhante* ← *spṛdh*
 - \[verb\], plural, Present indikative
 - “rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyaḥ* ← *dhī*
 - \[noun\], nominative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrye* ← *sūrya*
 - \[noun\], locative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇānaḥ* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavīyan* ← *kavīy*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *vrajaṃ* ← *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paśuvardhanāya* ← *paśu*
 - \[noun\], masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśuvardhanāya* ← *vardhanāya* ← *vardhana*
 - \[noun\], dative, singular, neuter
 - “increase; increase.”
-------------------------------------------------------------------------
+
+_________
+
 - *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

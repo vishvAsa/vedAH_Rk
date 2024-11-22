@@ -113,87 +113,127 @@ védat ← √vid- 2 (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *viviḍḍhi* ← *viṣ*
 - \[verb\], singular, Present imperative
 - “labor; act; perform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *jujoṣat* ← *juṣ*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭutiṃ* ← *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivāsa* ← *vivās* ← *√van*
 - \[verb\], singular, Present imperative
 - “invite; endeavor; try for.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūṣa* ← *bhūṣ*
 - \[verb\], singular, Present imperative
 - “endeavor; attend; strive.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaritar* ← *jaritṛ*
 - \[noun\], vocative, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruvaṇyaḥ* ← *ruvaṇy* ← *√ru*
 - \[verb\], singular, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *śrāvayā* ← *śrāvaya* ← *śrāvay* ← *√śru*
 - \[verb\], singular, Present imperative
 - “tell.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācaṃ* ← *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuvid*
 - \[adverb\]
 - “surely; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅga*
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedat* ← *vid*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

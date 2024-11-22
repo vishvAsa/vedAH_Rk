@@ -110,92 +110,132 @@ yásmin ← yá- (pronoun)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣeti* ← *kṣi*
 - \[verb\], singular, Present indikative
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhita* ← *sudhite* ← *sudhita*
 - \[noun\], locative, singular, neuter
 - “sudhita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *okasi* ← *oka*
 - \[noun\], locative, singular, neuter
 - “home; house; oka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sve* ← *sva*
 - \[noun\], locative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *iﾱā* ← *iḍā*
 - \[noun\], nominative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *pinvate* ← *pinv*
 - \[verb\], singular, Present indikative
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadānīm*
 - \[adverb\]
 - “always.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “fecal matter.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayam*
 - \[adverb\]
 - “personally; spontaneously; svayam \[word\]; voluntarily.”
-------------------------------------------------------------------------
+
+_________
+
 - *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *namante* ← *nam*
 - \[verb\], plural, Present indikative
 - “bow; bend; condescend; worship; bend; lower.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmā* ← *brahman*
 - \[noun\], nominative, singular, masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājani* ← *rājan*
 - \[noun\], locative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrva* ← *pūrvaḥ* ← *pūrva*
 - \[noun\], nominative, singular, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -103,81 +103,119 @@ sumnám ← sumná- (nominal stem)
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛtsamadāḥ* ← *gṛtsamada*
 - \[noun\], nominative, plural, masculine
 - “Gṛtsamada.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *manmāvasyavo* ← *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *manmāvasyavo* ← *avasyavaḥ* ← *avasyu*
 - \[noun\], nominative, plural, masculine
 - “seeking protection; helpless.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vayunāni* ← *vayuna*
 - \[noun\], accusative, plural, neuter
 - “convention; custom; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *takṣuḥ* ← *takṣ*
 - \[verb\], plural, Perfect indicative
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaṇyanta* ← *brahmaṇyantaḥ* ← *brahmaṇy*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *navīya* ← *navīyaḥ* ← *navīyas*
 - \[noun\], accusative, singular, neuter
 - “new; fresh; up-to-the-minute.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjaṃ* ← *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṣitiṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṣitiṃ* ← *kṣitim* ← *kṣiti*
 - \[noun\], accusative, singular, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśyuḥ* ← *aś*
 - \[verb\], plural, Aorist optative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,98 +105,142 @@ avātā́ḥ ← avātá- 2 (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇanti* ← *pṛ*
 - \[verb\], plural, Present indikative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadmabarhiṣaḥ* ← *sadma* ← *sadman*
 - \[noun\], neuter
 - “seat; house; stable; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadmabarhiṣaḥ* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], genitive, singular, masculine
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *samudraṃ* ← *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *subhvaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhvaḥ* ← *bhvaḥ* ← *bhū*
 - \[noun\], nominative, plural, feminine
 - “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
     place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
     bhūnāga; sphaṭikā; beginning; birth; estate.”
-------------------------------------------------------------------------
+
+_________
+
 - *svā* ← *svāḥ* ← *sva*
 - \[noun\], nominative, plural, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭayaḥ* ← *abhiṣṭi*
 - \[noun\], nominative, plural, feminine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahatye* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahatye* ← *hatye* ← *hatya*
 - \[noun\], locative, singular, neuter
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthur* ← *tasthuḥ* ← *sthā*
 - \[verb\], plural, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmā* ← *śuṣmāḥ* ← *śuṣma*
 - \[noun\], nominative, plural, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *avātā* ← *avātāḥ* ← *avāta*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ahrutapsavaḥ* ← *ahrutapsu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

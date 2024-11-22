@@ -76,56 +76,82 @@ vā ← vā (invariable)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyadātibhir* ← *havya*
 - \[noun\], neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *havyadātibhir* ← *dātibhiḥ* ← *dāti*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudakṣam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudakṣam* ← *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “deft; right; intelligent; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvivāsati* ← *āvivās* ← *√van*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājiraśociṣam* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājiraśociṣam* ← *ajira*
 - \[noun\]
 - “fast; agile; ajira \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vājiraśociṣam* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

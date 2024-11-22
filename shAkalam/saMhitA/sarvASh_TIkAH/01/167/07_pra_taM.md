@@ -108,87 +108,127 @@ váhate ← √vah- (root)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivakmi* ← *vac*
 - \[verb\], singular, Present indikative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakmyo* ← *vakmyaḥ* ← *vakmya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahimā* ← *mahiman*
 - \[noun\], nominative, singular, masculine
 - “greatness; power; mahiman.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyo* ← *satyaḥ* ← *satya*
 - \[noun\], nominative, singular, masculine
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣamaṇā* ← *vṛṣamaṇāḥ* ← *vṛṣamaṇas*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ahaṃyu*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *sthirā* ← *sthira*
 - \[noun\], nominative, singular, feminine
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
-------------------------------------------------------------------------
+
+_________
+
 - *cij* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *janīr* ← *janīḥ* ← *janī*
 - \[noun\], accusative, plural, feminine
 - “woman.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahate* ← *vah*
 - \[verb\], singular, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhāgāḥ* ← *subhāga*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

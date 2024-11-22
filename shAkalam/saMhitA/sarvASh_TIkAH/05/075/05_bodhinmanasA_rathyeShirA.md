@@ -91,67 +91,99 @@ máma ← ahám (pronoun)
 
 -   *bodhinmanasā* ← *bodhinmanas*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rathyeṣirā* ← *rathyā* ← *rathya*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rathyeṣirā* ← *iṣirā* ← *iṣira*
 - \[noun\], nominative, dual, masculine
 - “vigorous; bracing; quick.”
-------------------------------------------------------------------------
+
+_________
+
 - *havanaśrutā* ← *havana*
 - \[noun\], neuter
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *havanaśrutā* ← *śrutā* ← *śrut*
 - \[noun\], nominative, dual, masculine
 - “listening.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhiś* ← *vibhiḥ* ← *vi*
 - \[noun\], instrumental, plural, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *cyavānam* ← *cyavāna*
 - \[noun\], accusative, singular, masculine
 - “Cyavana.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātho* ← *yāthaḥ* ← *yā*
 - \[verb\], dual, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *advayāvinam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *advayāvinam* ← *dvayāvinam* ← *dvayāvin*
 - \[noun\], accusative, singular, masculine
 - “dishonest.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādhvī*
 - \[noun\], vocative, dual, masculine
 - “sweet; sweet.”
-------------------------------------------------------------------------
+
+_________
+
 - *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb\], dual, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

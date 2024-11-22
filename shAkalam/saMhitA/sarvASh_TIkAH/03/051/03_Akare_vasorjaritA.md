@@ -96,74 +96,110 @@ stuhi ← √stu- (root)
 -   *ākare* ← *ākara*
 - \[noun\], locative, singular, masculine
 - “mine; group; aṅgārakoṣṭhī; source.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasor* ← *vasoḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaritā* ← *jaritṛ*
 - \[noun\], nominative, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *panasyate* ← *panasy*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *'nehasa* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *'nehasa* ← *ehasaḥ* ← *ehas*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *stubha* ← *stubhaḥ* ← *stubh*
 - \[noun\], accusative, plural, feminine
 - “song; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *duvasyati* ← *duvasy*
 - \[verb\], singular, Present indikative
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivasvataḥ* ← *vivasvant*
 - \[noun\], genitive, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadana* ← *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pipriye* ← *prī*
 - \[verb\], singular, Perfect indicative
 - “delight; gladden; satisfy; nutrify; comfort.”
-------------------------------------------------------------------------
+
+_________
+
 - *satrāsāham* ← *satrāsāh*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhimātihanaṃ* ← *abhimāti*
 - \[noun\], feminine
 - “aggression; hostility.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhimātihanaṃ* ← *hanam* ← *han*
 - \[noun\], accusative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,92 +105,132 @@ yajñíyānām ← yajñíya- (nominal stem)
 -   *aheﾱamāna* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *aheﾱamāna* ← *heḍamānaḥ* ← *hīḍ*
 - \[verb noun\], nominative, singular
 - “anger; stew.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavanta* ← *pavante* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutāsaḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrin*
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
-------------------------------------------------------------------------
+
+_________
+
 - *svam* ← *sva*
 - \[noun\], accusative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *oko* ← *okaḥ* ← *oka*
 - \[noun\], accusative, singular, neuter
 - “home; house; oka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *acchendrā* ← *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *acchendrā* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *acchendrā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamo* ← *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyānām* ← *yajñiya*
 - \[noun\], genitive, plural, masculine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

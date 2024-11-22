@@ -99,72 +99,104 @@ syā́ma ← √as- 1 (root)
 -   *atīyāma* ← *atī* ← *√i*
 - \[verb\], plural, Present optative
 - “elapse; overcome; transgress; die; fail; pierce.”
-------------------------------------------------------------------------
+
+_________
+
 - *nidas* ← *nidaḥ* ← *nid*
 - \[noun\], accusative, plural, feminine
 - “derision; scoffer; contempt.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiraḥ* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastibhir* ← *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *hitvāvadyam* ← *hitvā* ← *hā*
 - \[verb noun\]
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
-------------------------------------------------------------------------
+
+_________
+
 - *hitvāvadyam* ← *avadyam* ← *avadya*
 - \[noun\], accusative, singular, neuter
 - “shame; censure; blame.”
-------------------------------------------------------------------------
+
+_________
+
 - *arātīḥ* ← *arāti*
 - \[noun\], accusative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṭvī* ← *vṛṣ*
 - \[verb noun\]
 - “shower; rain; effuse; shower; drench.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃ* ← *śam*
 - \[noun\], nominative, singular, neuter
 - “luck; well-being; fortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *yor* ← *yoḥ* ← *yos*
 - \[noun\], nominative, singular, neuter
 - “fortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpa* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *usri* ← *usṛ*
 - \[noun\], locative, singular, feminine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *bheṣajaṃ* ← *bheṣajam* ← *bheṣaja*
 - \[noun\], nominative, singular, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *saha*
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

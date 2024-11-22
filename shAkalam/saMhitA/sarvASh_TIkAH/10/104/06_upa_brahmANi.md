@@ -99,75 +99,109 @@ praketáḥ ← praketá- (nominal stem)
 -   *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *harivo* ← *harivas* ← *harivat*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *haribhyāṃ* ← *haribhyām* ← *hari*
 - \[noun\], instrumental, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *pītaye* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣamamāṇam* ← *kṣam*
 - \[verb noun\], accusative, singular
 - “forgive; can; endure; permit.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaḍ* ← *ānaṭ* ← *naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “reach; achieve; enter (a state); reach.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśvāṃ* ← *dāś*
 - \[verb noun\], nominative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *asy* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvarasya* ← *adhvara*
 - \[noun\], genitive, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *praketaḥ* ← *praketa*
 - \[noun\], nominative, singular, masculine
 - “sight; knowledge; appearance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

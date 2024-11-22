@@ -108,84 +108,124 @@ mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhavā* ← *bāhu*
 - \[noun\], accusative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *sisṛtaṃ* ← *sisṛtam* ← *sṛ*
 - \[verb\], dual, Present imperative
 - “sṛ; liquefy; run; spread; stretch out.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyūtim* ← *gavyūti*
 - \[noun\], accusative, singular, feminine
 - “pasture.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣataṃ* ← *ukṣatam* ← *ukṣ*
 - \[verb\], dual, Present imperative
 - “sprinkle; wet.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravayataṃ* ← *śravayatam* ← *śravay* ← *√śru*
 - \[verb\], dual, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *yuvānā* ← *yuvan*
 - \[noun\], vocative, dual, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutam* ← *śru*
 - \[verb\], dual, Aorist inj. (proh.)
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *havemā* ← *havā* ← *hava*
 - \[noun\], accusative, plural, neuter
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *havemā* ← *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

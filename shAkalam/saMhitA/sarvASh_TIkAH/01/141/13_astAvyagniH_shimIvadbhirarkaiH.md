@@ -105,84 +105,122 @@ tatanyuḥ ← √tan- (root)
 -   *astāvy* ← *astāvi* ← *stu*
 - \[verb\], singular, Aorist passive
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *śimīvadbhir* ← *śimīvadbhiḥ* ← *śimīvat*
 - \[noun\], instrumental, plural, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāmrājyāya* ← *sāmrājya*
 - \[noun\], dative, singular, neuter
 - “dominion; kingship.”
-------------------------------------------------------------------------
+
+_________
+
 - *prataraṃ* ← *prataram*
 - \[adverb\]
 - “farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhānaḥ* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *amī* ← *adas*
 - \[noun\], nominative, plural, masculine
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavāno* ← *maghavānaḥ* ← *maghavan*
 - \[noun\], nominative, plural, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *mihaṃ* ← *miham* ← *mih*
 - \[noun\], accusative, singular, feminine
 - “fog.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūro* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣ* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṭatanyuḥ* ← *tatanyuḥ* ← *tan*
 - \[verb\], plural, Perfect optative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

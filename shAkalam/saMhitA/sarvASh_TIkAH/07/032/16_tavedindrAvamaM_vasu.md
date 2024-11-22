@@ -96,72 +96,104 @@ vr̥ṇvate ← √vr̥- (root)
 -   *taved* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *taved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāvamaṃ* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāvamaṃ* ← *avamam* ← *avama*
 - \[noun\], nominative, singular, neuter
 - “avama \[word\]; bottom; last.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], nominative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣyasi* ← *puṣ*
 - \[verb\], singular, Present indikative
 - “boom; grow; promote; foster.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhyamam* ← *madhyama*
 - \[noun\], accusative, singular, neuter
 - “intermediate; middle; average; second; average; adult; central;
     moderate; mean; center(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *satrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *paramasya* ← *parama*
 - \[noun\], genitive, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājasi* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakiṣ* ← *nakir*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṭvā* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *goṣu* ← *go*
 - \[noun\], locative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇvate* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

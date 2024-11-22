@@ -96,80 +96,116 @@ sīdatam ← √sad- (root)
 -   *arvāñcā* ← *arvāñc*
 - \[noun\], accusative, dual, masculine
 - “approaching; facing; less.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptayo* ← *saptayaḥ* ← *sapti*
 - \[noun\], nominative, plural, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dhvaraśriyo* ← *adhvara*
 - \[noun\], masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *'dhvaraśriyo* ← *śriyaḥ* ← *śrī*
 - \[noun\], nominative, plural, masculine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *savaned* ← *savanā* ← *savana*
 - \[noun\], accusative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
-------------------------------------------------------------------------
+
+_________
+
 - *savaned* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛñcantā* ← *pṛc*
 - \[verb noun\], nominative, dual
 - “mix; unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛte* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛte* ← *kṛte* ← *kṛt*
 - \[noun\], dative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānava* ← *sudānavaḥ* ← *sudānu*
 - \[noun\], nominative, plural, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sīdataṃ* ← *sīdatam* ← *sad*
 - \[verb\], dual, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

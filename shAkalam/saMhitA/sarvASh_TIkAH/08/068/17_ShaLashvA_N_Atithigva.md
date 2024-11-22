@@ -70,32 +70,48 @@ sanam ← √sanⁱ- (root)
 -   *ṣaﾱ* ← *ṣaṣ*
 - \[noun\], accusative, singular, neuter
 - “six; ṣaṣ; sixth; ṣaṣ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvāṃ* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātithigva* ← *ātithigve* ← *ātithigva*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indrote* ← *indrota*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vadhūmataḥ* ← *vadhūmat*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūtakratau* ← *pūtakratu*
 - \[noun\], locative, singular, masculine
 - “pūtakratu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sanam* ← *san*
 - \[verb\], singular, Aorist inj. (proh.)
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

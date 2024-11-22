@@ -99,89 +99,129 @@ vásu-vasu ← vásu- (nominal stem)
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapaso* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapaso* ← *apasaḥ* ← *apas*
 - \[noun\], nominative, plural, masculine
 - “work; deed.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhūtana* ← *bhū*
 - \[verb\], plural, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunutha* ← *su*
 - \[verb\], plural, Present indikative
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrayaḥ* ← *adri*
 - \[noun\], vocative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāmaṃ* ← *vāmam* ← *vāma*
 - \[noun\], nominative, singular, neuter
 - “agreeable; vāma \[word\]; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāmaṃ* ← *vāmam* ← *vāma*
 - \[noun\], nominative, singular, neuter
 - “agreeable; vāma \[word\]; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *divyāya* ← *divya*
 - \[noun\], dative, singular, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāmne* ← *dhāman*
 - \[noun\], dative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], nominative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], nominative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārthivāya* ← *pārthiva*
 - \[noun\], dative, singular, masculine
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

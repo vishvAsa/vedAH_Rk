@@ -102,84 +102,122 @@ páriṣkr̥tam ← √kr̥- (root)
 -   *bhojāyāśvaṃ* ← *bhojāya* ← *bhoja*
 - \[noun\], dative, singular, masculine
 - “big; hospitable.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojāyāśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛjanty* ← *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśum* ← *āśu*
 - \[noun\], accusative, singular, feminine
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojāyāste* ← *bhojāya* ← *bhoja*
 - \[noun\], dative, singular, masculine
 - “big; hospitable.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojāyāste* ← *āste* ← *ās*
 - \[verb\], singular, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanyā*
 - \[noun\], nominative, singular, feminine
 - “girl; daughter; kanyā; virgin; Aloe perfoliata; Aloe Indica; female
     child; kanyā \[word\]; burn plant.”
-------------------------------------------------------------------------
+
+_________
+
 - *śumbhamānā* ← *śubh*
 - \[verb noun\], nominative, singular
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojasyedam* ← *bhojasya* ← *bhoja*
 - \[noun\], genitive, singular, masculine
 - “big; hospitable.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojasyedam* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣkariṇīva* ← *puṣkariṇī*
 - \[noun\], nominative, singular, feminine
 - “female elephant; cotton rose; pond; pool.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣkariṇīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *veśma* ← *veśman*
 - \[noun\], nominative, singular, neuter
 - “house; palace; mansion; dwelling; palace.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣkṛtaṃ* ← *pariṣkṛtam* ← *pariṣkṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *devamāneva* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devamāneva* ← *mānā* ← *māna*
 - \[noun\], nominative, singular, neuter
 - “weight; size; intensity; duration; dimension; weighing; volume;
     measure; grāsamāna; weight unit; accord; height; thickness.”
-------------------------------------------------------------------------
+
+_________
+
 - *devamāneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *citram* ← *citra*
 - \[noun\], nominative, singular, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

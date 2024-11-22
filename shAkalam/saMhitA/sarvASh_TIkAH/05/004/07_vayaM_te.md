@@ -102,90 +102,130 @@ víśvāni ← víśva- (nominal stem)
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthair* ← *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhema* ← *vidh*
 - \[verb\], plural, Present optative
 - “worship; offer.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyaiḥ* ← *havya*
 - \[noun\], instrumental, plural, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvaka*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadraśoce* ← *bhadra*
 - \[noun\]
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadraśoce* ← *śoce* ← *śoci*
 - \[noun\], vocative, singular, masculine
 - “fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavāraṃ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavāraṃ* ← *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “treasure; choice.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *invāsme* ← *inva* ← *inv*
 - \[verb\], singular, Present imperative
 - “bring; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *invāsme* ← *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇāni* ← *draviṇa*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; money; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

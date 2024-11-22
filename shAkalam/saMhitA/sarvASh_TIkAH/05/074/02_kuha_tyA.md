@@ -96,69 +96,101 @@ vām ← tvám (pronoun)
 -   *kuha*
 - \[adverb\]
 - “wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyā* ← *tya*
 - \[noun\], nominative, dual, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuha*
 - \[adverb\]
 - “wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutā* ← *śru*
 - \[verb noun\], nominative, dual
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *deva*
 - \[noun\], nominative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kasminn* ← *kasmin* ← *ka*
 - \[noun\], locative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yatatho* ← *yatathaḥ* ← *yat*
 - \[verb\], dual, Present indikative
 - “strive; endeavor; join; equal; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadīnāṃ* ← *nadīnām* ← *nadī*
 - \[noun\], genitive, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

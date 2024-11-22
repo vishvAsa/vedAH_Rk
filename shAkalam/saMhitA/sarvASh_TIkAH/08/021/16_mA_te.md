@@ -114,46 +114,66 @@ te ← tvám (pronoun)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *godatra* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *godatra* ← *datra* ← *dattra*
 - \[noun\], vocative, singular, masculine
 - “gift.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *arāma* ← *ṛch*
 - \[verb\], plural, Aorist conj./subj.
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhasa* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], ablative, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhāmahi* ← *grah*
 - \[verb\], plural, Aorist inj. (proh.)
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -161,56 +181,82 @@ te ← tvám (pronoun)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛﾱhā* ← *dṛḍha*
 - \[noun\], accusative, plural, neuter
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛśābhy* ← *mṛśa* ← *mṛś*
 - \[verb\], singular, Present imperative
 - “touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛśābhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāmāna* ← *dāmānaḥ* ← *dāman*
 - \[noun\], nominative, plural, masculine
 - “wreath; dāman; dāman \[word\]; shackle; girdle; fetter.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādabhe* ← *ādabh* ← *√dabh*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -108,101 +108,143 @@ te ← tvám (pronoun)
 -   *asaṃmṛṣṭo* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *asaṃmṛṣṭo* ← *saṃmṛṣṭaḥ* ← *sammṛj* ← *√mṛj*
 - \[verb noun\], nominative, singular
 - “houseclean; cleanse.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyase* ← *jan*
 - \[verb\], singular, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātroḥ* ← *mātṛ*
 - \[noun\], genitive, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandraḥ* ← *mandra*
 - \[noun\], nominative, singular, masculine
 - “pleasant; eloquent; dulcet.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *atiṣṭho* ← *atiṣṭhaḥ* ← *sthā*
 - \[verb\], singular, Imperfect
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivasvataḥ* ← *vivasvant*
 - \[noun\], genitive, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāvardhayann* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāvardhayann* ← *avardhayan* ← *vardhay* ← *√vṛdh*
 - \[verb\], plural, Imperfect
 - “increase; strengthen; promote; rear; add; greet; laud.”
-------------------------------------------------------------------------
+
+_________
+
 - *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhuta* ← *āhu* ← *√hu*
 - \[verb noun\], vocative, singular
 - “sacrifice; sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūmas* ← *dhūmaḥ* ← *dhūma*
 - \[noun\], nominative, singular, masculine
 - “smoke; dhūmavedha; carbon black; dhūmana; mist; vapor;
     vaporization; dhūma \[word\]; incense.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketur* ← *ketuḥ* ← *ketu*
 - \[noun\], nominative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhavad* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *śritaḥ* ← *śri*
 - \[verb noun\], nominative, singular
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

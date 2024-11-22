@@ -98,74 +98,108 @@ huvema ← √hū- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtāya* ← *amṛta*
 - \[noun\], dative, singular, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣṭam* ← *juṣ*
 - \[verb noun\], accusative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāsur* ← *dhāsuḥ* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtāsaḥ* ← *amṛta*
 - \[noun\], nominative, plural, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *purājāḥ* ← *purājā*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śucikrandaṃ* ← *śuci*
 - \[noun\]
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucikrandaṃ* ← *krandam* ← *kranda*
 - \[noun\], accusative, singular, masculine
 - “kranda \[word\]; sound.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatam* ← *yajata*
 - \[noun\], accusative, singular, masculine
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *pastyānām* ← *pastyā*
 - \[noun\], genitive, plural, feminine
 - “river; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *anarvāṇaṃ* ← *anarvāṇam* ← *anarvan*
 - \[noun\], accusative, singular, masculine
 - “unchallenged; unrivaled.”
-------------------------------------------------------------------------
+
+_________
+
 - *huvema* ← *hvā*
 - \[verb\], plural, Present optative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -92,57 +92,81 @@ rātáyaḥ ← rātí- (nominal stem)
 -   *ahitena* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahitena* ← *hitena* ← *hi*
 - \[verb noun\], instrumental, singular
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvatā* ← *arvant*
 - \[noun\], instrumental, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīradānuḥ* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīradānuḥ* ← *dānuḥ* ← *dānu*
 - \[noun\], nominative, singular, masculine
 - “Dānu; dew; drop.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣāsati* ← *siṣās* ← *√san*
 - \[verb\], singular, Present indikative
 - “win; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravācyam* ← *pravac* ← *√vac*
 - \[verb noun\], nominative, singular
 - “describe; name; enumerate; call; explain; teach; state; tell;
     impart; convey; address; proclaim.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīryāṇi* ← *vīrya*
 - \[noun\], accusative, plural, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *kariṣyato* ← *kariṣyataḥ* ← *kṛ*
 - \[verb noun\], genitive, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -153,21 +177,29 @@ rātáyaḥ ← rātí- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadrāḥ* ← *bhadra*
 - \[noun\], nominative, plural, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātayaḥ* ← *rāti*
 - \[noun\], nominative, plural, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

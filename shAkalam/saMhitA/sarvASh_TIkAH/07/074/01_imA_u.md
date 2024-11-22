@@ -93,73 +93,107 @@ víśaṁ-viśam ← víś- (nominal stem)
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *diviṣṭaya* ← *diviṣṭayaḥ* ← *diviṣṭi*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *usrā* ← *usra*
 - \[noun\], accusative, dual, masculine
 - “beam; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *havante* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahve* ← *hvā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vase* ← *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *śacīvasū* ← *śacī*
 - \[noun\], feminine
 - “Śacī; power; dexterity; ability; aid.”
-------------------------------------------------------------------------
+
+_________
+
 - *śacīvasū* ← *vasū* ← *vasu*
 - \[noun\], vocative, dual, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśaṃ* ← *viśam* ← *viś*
 - \[noun\], accusative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśaṃ* ← *viśam* ← *viś*
 - \[noun\], accusative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gacchathaḥ* ← *gam*
 - \[verb\], dual, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

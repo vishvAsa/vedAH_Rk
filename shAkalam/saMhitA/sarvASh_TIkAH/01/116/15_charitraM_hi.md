@@ -102,76 +102,112 @@ sártave ← √sr̥- 1 (root)
 -   *caritraṃ* ← *caritram* ← *caritra*
 - \[noun\], nominative, singular, neuter
 - “foot; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ver* ← *veḥ* ← *vi*
 - \[noun\], genitive, singular, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivācchedi* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivācchedi* ← *acchedi* ← *chid*
 - \[verb\], singular, Aorist passive
 - “cut off; cut; incise; destroy; chop; resolve; divide; hew; open;
     interrupt; strike; fell; cut.”
-------------------------------------------------------------------------
+
+_________
+
 - *parṇam* ← *parṇa*
 - \[noun\], nominative, singular, neuter
 - “leaf; feather; parṇa \[word\]; leaf; wing.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājā* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *khelasya* ← *khela*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *paritakmyāyām* ← *paritakmyā*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṅghām* ← *jaṅghā*
 - \[noun\], accusative, singular, feminine
 - “shank; jaṅghā \[word\]; femur; thigh.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyasīṃ* ← *āyasīm* ← *āyasa*
 - \[noun\], accusative, singular, feminine
 - “iron; metallic.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśpalāyai* ← *viśpalā*
 - \[noun\], dative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *dhane* ← *dhana*
 - \[noun\], locative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *hite* ← *dhā*
 - \[verb noun\], locative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *sartave* ← *sṛ*
 - \[verb noun\]
 - “sṛ; liquefy; run; spread; stretch out.”
-------------------------------------------------------------------------
+
+_________
+
 - *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhattam* ← *dhā*
 - \[verb\], dual, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,71 +99,105 @@ vidyútā ← vidyút- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭuti*
 - \[noun\], nominative, singular, feminine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *stanayantaṃ* ← *stanayantam* ← *stanay* ← *√stan*
 - \[verb noun\], accusative, singular
 - “thunder; thunder.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruvantam* ← *ru*
 - \[verb noun\], accusative, singular
 - “bellow; howl.”
-------------------------------------------------------------------------
+
+_________
+
 - *iﾱas* ← *iḍaḥ* ← *iḍ*
 - \[noun\], genitive, singular, masculine
 - “refreshment; libation.”
-------------------------------------------------------------------------
+
+_________
+
 - *patiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaritar* ← *jaritṛ*
 - \[noun\], vocative, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśyāḥ* ← *aś*
 - \[verb\], singular, Aorist optative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abdimāṃ* ← *abdimat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *udanimāṃ* ← *udanimat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyutā* ← *vidyut*
 - \[noun\], instrumental, singular, feminine
 - “lightning; Vidyut; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣamāṇaḥ* ← *ukṣ*
 - \[verb noun\], nominative, singular
 - “sprinkle; wet.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

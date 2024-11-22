@@ -101,72 +101,106 @@ vaitaséna ← vaitasá- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, singular, neuter
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhatī* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvaśurāya* ← *śvaśura*
 - \[noun\], dative, singular, masculine
 - “father-in-law; śvaśura \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaya* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣo* ← *uṣaḥ* ← *uṣa*
 - \[noun\], nominative, singular, masculine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaṣṭy* ← *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *antigṛhāt* ← *antigṛha*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *astaṃ* ← *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
-------------------------------------------------------------------------
+
+_________
+
 - *nanakṣe* ← *nakṣ*
 - \[verb\], singular, Perfect indicative
 - “reach; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasmiñcākan* ← *yasmin* ← *yad*
 - \[noun\], locative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasmiñcākan* ← *cākan* ← *kan*
 - \[verb\], singular, Plusquamperfect
 - “like; delight; desire.”
-------------------------------------------------------------------------
+
+_________
+
 - *divā*
 - \[adverb\]
 - “by day; divā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naktaṃ* ← *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *śnathitā* ← *śnath*
 - \[verb noun\], nominative, singular
 - “pierce; kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaitasena* ← *vaitasa*
 - \[noun\], instrumental, singular, masculine
 - “penis.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

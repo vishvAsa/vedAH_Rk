@@ -79,51 +79,73 @@ te ← tvám (pronoun)
 -   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *atty* ← *atti* ← *ad*
 - \[verb\], singular, Present indikative
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *upajihvikā*
 - \[noun\], nominative, singular, feminine
 - “upajihvā; termite.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vamro* ← *vamraḥ* ← *vamra*
 - \[noun\], nominative, singular, masculine
 - “ant.”
-------------------------------------------------------------------------
+
+_________
+
 - *atisarpati* ← *atisṛp* ← *√sṛp*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *sarvaṃ* ← *sarvam* ← *sarva*
 - \[noun\], nominative, singular, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtam* ← *ghṛta*
 - \[noun\], nominative, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

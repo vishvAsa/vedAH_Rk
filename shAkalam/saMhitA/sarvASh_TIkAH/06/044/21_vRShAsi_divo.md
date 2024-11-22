@@ -102,64 +102,94 @@ várāya ← vára- 1 (nominal stem)
 -   *vṛṣāsi* ← *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhūnāṃ* ← *sindhūnām* ← *sindhu*
 - \[noun\], genitive, plural, feminine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabha* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *stiyānām* ← *stiyā*
 - \[noun\], genitive, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabha*
 - \[noun\], vocative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *pīpāya* ← *pyā*
 - \[verb\], singular, Perfect indicative
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādū* ← *svāduḥ* ← *svādu*
 - \[noun\], nominative, singular, masculine
 - “Madhura; sweet; sweet; dainty; agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *raso* ← *rasaḥ* ← *rasa*
 - \[noun\], nominative, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
@@ -167,19 +197,27 @@ várāya ← vára- 1 (nominal stem)
     body substance; rasa; formulation; myrrh; rasa \[word\]; amṛta;
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhupeyo* ← *madhu*
 - \[noun\]
 - “sweet; deft.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhupeyo* ← *peyaḥ* ← *pā*
 - \[verb noun\], nominative, singular
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *varāya* ← *vara*
 - \[noun\], dative, singular, masculine
 - “gift; favor; wish; privilege; varac; wages.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

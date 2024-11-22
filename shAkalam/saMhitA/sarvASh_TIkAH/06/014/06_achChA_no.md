@@ -119,114 +119,164 @@ táva ← tvám (pronoun)
 -   *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitramaho* ← *mitra*
 - \[noun\], masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitramaho* ← *mahaḥ* ← *mahas*
 - \[noun\], vocative, singular, masculine
 - “greatness; festival; glory; reward; gladness.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vocaḥ* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumatiṃ* ← *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasyoḥ* ← *rodasī*
 - \[noun\], genitive, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīhi* ← *vī*
 - \[verb\], singular, Present imperative
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastiṃ* ← *svastim* ← *svasti*
 - \[noun\], accusative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṣitiṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṣitiṃ* ← *kṣitim* ← *kṣiti*
 - \[noun\], accusative, singular, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dviṣo* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, masculine
 - “hate; dviṣ; hostility; hostility.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃhāṃsi* ← *aṃhas*
 - \[noun\], accusative, plural, neuter
 - “trouble; sin.”
-------------------------------------------------------------------------
+
+_________
+
 - *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarema* ← *tṛ*
 - \[verb\], plural, Present optative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarema* ← *tṛ*
 - \[verb\], plural, Present optative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavāvasā* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavāvasā* ← *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarema* ← *tṛ*
 - \[verb\], plural, Present optative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

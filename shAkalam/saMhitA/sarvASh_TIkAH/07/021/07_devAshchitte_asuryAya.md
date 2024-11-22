@@ -100,75 +100,109 @@ vā́jasya ← vā́ja- (nominal stem)
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *asuryāya* ← *asurya*
 - \[noun\], dative, singular, neuter
 - “dignity.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrve* ← *pūrva*
 - \[noun\], nominative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *'nu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatrāya* ← *kṣatra*
 - \[noun\], dative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *mamire* ← *mā*
 - \[verb\], plural, Perfect indicative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahāṃsi* ← *sahas*
 - \[noun\], accusative, plural, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghāni* ← *magha*
 - \[noun\], accusative, plural, neuter
 - “gift; wealth; reward; wages; reward.”
-------------------------------------------------------------------------
+
+_________
+
 - *dayate* ← *day*
 - \[verb\], singular, Present indikative
 - “share.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣahyendraṃ* ← *viṣahya* ← *viṣah* ← *√sah*
 - \[verb noun\]
 - “can; overpower; prevail.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣahyendraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasya* ← *vāja*
 - \[noun\], genitive, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *johuvanta* ← *johav* ← *√hvā*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “appeal.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -76,47 +76,69 @@ svāyudhám ← svāyudhá- (nominal stem)
 -   *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], nominative, plural, feminine
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣipo* ← *kṣipaḥ* ← *kṣip*
 - \[noun\], nominative, plural, feminine
 - “finger.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītayaḥ* ← *dhīti*
 - \[noun\], nominative, plural, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāyudham* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāyudham* ← *āyudham* ← *āyudha*
 - \[noun\], accusative, singular, masculine
 - “weapon; āyudha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *madintamam* ← *madintama*
 - \[noun\], accusative, singular, masculine
 - “exhilarating; intoxicant.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

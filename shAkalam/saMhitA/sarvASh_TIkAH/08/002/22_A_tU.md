@@ -76,40 +76,60 @@ yaśástaram ← yaśástara- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tū* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣiñca* ← *siñca* ← *sic*
 - \[verb\], singular, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṇvamantaṃ* ← *kaṇvamantam* ← *kaṇvamat*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ghā* ← *gha*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasānāt* ← *śavasāna*
 - \[noun\], ablative, singular, masculine
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaśastaraṃ* ← *yaśastaram* ← *yaśastara*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śatamūteḥ* ← *śatamūti*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

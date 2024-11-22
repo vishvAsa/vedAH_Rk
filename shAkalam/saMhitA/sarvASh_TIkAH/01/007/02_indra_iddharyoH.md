@@ -77,47 +77,69 @@ vajrī́ ← vajrín- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *iddharyoḥ* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *iddharyoḥ* ← *haryoḥ* ← *hari*
 - \[noun\], locative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sammiśla* ← *sammiślaḥ* ← *sammiśla*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vacoyujā* ← *vacaḥ* ← *vacas*
 - \[noun\], neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *vacoyujā* ← *yujā* ← *yuj*
 - \[noun\], accusative, dual, masculine
 - “amalgamated; harnessed.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrī* ← *vajrin*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayaḥ* ← *hiraṇyaya*
 - \[noun\], nominative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

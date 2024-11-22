@@ -83,51 +83,75 @@ ví ← ví (invariable)
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrudhi* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomataḥ* ← *gomat*
 - \[noun\], genitive, singular, masculine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *pītiṃ* ← *pītim* ← *pīti*
 - \[noun\], accusative, singular, feminine
 - “drinking; haritāla.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛptim* ← *tṛpti*
 - \[noun\], accusative, singular, feminine
 - “repletion; gratification; disgust.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnuhi* ← *aś*
 - \[verb\], singular, Present imperative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

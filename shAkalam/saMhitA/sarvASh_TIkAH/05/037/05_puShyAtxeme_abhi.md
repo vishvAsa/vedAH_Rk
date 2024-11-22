@@ -105,16 +105,22 @@ yáḥ ← yá- (pronoun)
 -   *puṣyāt* ← *puṣ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “boom; grow; promote; foster.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣeme* ← *kṣema*
 - \[noun\], locative, singular, masculine
 - “ease; happiness; peace; tranquillity; kṣema \[word\]; respite;
     rest.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoge* ← *yoga*
 - \[noun\], locative, singular, masculine
 - “method; application; yoga; remedy; mix; treatment; mixture;
@@ -123,83 +129,117 @@ yáḥ ← yá- (pronoun)
     therapy; enterprise; addition; undertaking; performance; marriage;
     yoke; yoga \[word\]; art; combination; assortment; confluence;
     constellation; relationship; connection; agent; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavāty* ← *bhavāti* ← *bhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtau* ← *vṛt*
 - \[noun\], accusative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *saṃyatī* ← *sami* ← *√i*
 - \[verb noun\], accusative, dual
 - “meet.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayāti* ← *ji*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrye* ← *sūrya*
 - \[noun\], locative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyo* ← *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnā* ← *agni*
 - \[noun\], locative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavāti* ← *bhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasomo* ← *suta* ← *su*
 - \[verb noun\]
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasomo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadāśat* ← *dāś*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

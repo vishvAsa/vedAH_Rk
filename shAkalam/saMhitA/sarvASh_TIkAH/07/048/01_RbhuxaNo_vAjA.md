@@ -102,73 +102,107 @@ víbhvā ← víbhvan- (nominal stem)
 -   *ṛbhukṣaṇo* ← *ṛbhukṣaṇaḥ* ← *ṛbhukṣan*
 - \[noun\], vocative, plural, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], vocative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādayadhvam* ← *māday* ← *√mad*
 - \[verb\], plural, Present imperative
 - “delight; enjoy; intoxicate.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], vocative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavānaḥ* ← *maghavan*
 - \[noun\], vocative, plural, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasya* ← *suta*
 - \[noun\], genitive, singular, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *'rvācaḥ* ← *arvācaḥ* ← *arvāñc*
 - \[noun\], accusative, plural, masculine
 - “approaching; facing; less.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratavo* ← *kratavaḥ* ← *kratu*
 - \[noun\], nominative, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yātāṃ* ← *yātām* ← *yā*
 - \[verb noun\], genitive, plural
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhvo* ← *vibhvaḥ* ← *vibhū*
 - \[noun\], vocative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *naryaṃ* ← *naryam* ← *narya*
 - \[noun\], accusative, singular, masculine
 - “manly; heroic; powerful; male; human.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartayantu* ← *vartay* ← *√vṛt*
 - \[verb\], plural, Present imperative
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

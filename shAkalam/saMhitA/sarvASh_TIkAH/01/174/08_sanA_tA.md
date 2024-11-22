@@ -108,82 +108,120 @@ vádhar ← vádhar- (nominal stem)
 -   *sanā* ← *sana*
 - \[noun\], nominative, plural, neuter
 - “age-old; ancient.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyā* ← *navya*
 - \[noun\], nominative, plural, neuter
 - “new; fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *āguḥ* ← *āgā* ← *√gā*
 - \[verb\], plural, Root aorist (Ind.)
 - “come; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *saho* ← *sahaḥ* ← *sah*
 - \[verb\], singular, Present injunctive
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabho* ← *nabhaḥ* ← *nabh*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *'viraṇāya* ← *aviraṇāya* ← *aviraṇa*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhinat* ← *bhid*
 - \[verb\], singular, Present injunctive
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhido* ← *bhidaḥ* ← *bhid*
 - \[noun\], accusative, plural, feminine
 - “removal.”
-------------------------------------------------------------------------
+
+_________
+
 - *adevīr* ← *adevīḥ* ← *adeva*
 - \[noun\], accusative, plural, feminine
 - “godless.”
-------------------------------------------------------------------------
+
+_________
+
 - *nanamo* ← *nanamaḥ* ← *nam*
 - \[verb\], singular, Plusquamperfect
 - “bow; bend; condescend; worship; bend; lower.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhar*
 - \[noun\], accusative, singular, neuter
 - “weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *adevasya* ← *adeva*
 - \[noun\], genitive, singular, masculine
 - “godless.”
-------------------------------------------------------------------------
+
+_________
+
 - *pīyoḥ* ← *pīyu*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

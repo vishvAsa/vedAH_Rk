@@ -85,54 +85,78 @@ svàrṇaram ← svàrṇara- (nominal stem)
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *riśādasam* ← *riśādas*
 - \[noun\], accusative, singular, masculine
 - “superior; superior; proud.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛcā* ← *ṛc*
 - \[noun\], instrumental, singular, feminine
 - “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrajeva* ← *vrajā* ← *vraja*
 - \[noun\], nominative, dual, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrajeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhvor* ← *bāhvoḥ* ← *bāhu*
 - \[noun\], genitive, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaganvāṃsā* ← *gam*
 - \[verb noun\], nominative, dual
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarṇaram* ← *svarṇṛ*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

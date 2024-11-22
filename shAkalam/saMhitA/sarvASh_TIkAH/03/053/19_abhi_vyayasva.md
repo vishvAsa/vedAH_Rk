@@ -102,76 +102,112 @@ yā́māt ← yā́ma- (nominal stem)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyayasva* ← *vye*
 - \[verb\], singular, Present imperative
 - “cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *khadirasya* ← *khadira*
 - \[noun\], genitive, singular, masculine
 - “catechu; khadira \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sāram* ← *sāra*
 - \[noun\], accusative, singular, masculine
 - “essence; sāra; heartwood; quintessence; sāra; iron; possession;
     value; sālasārādi; sap; mineral; kernel; catechu; quintessence.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *spandane* ← *spandana*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śiṃśapāyām* ← *śiṃśapā*
 - \[noun\], locative, singular, feminine
 - “sissoo; śiṃśapā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣa*
 - \[noun\], vocative, singular, masculine
 - “axle.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīﾱo* ← *vīḍu*
 - \[noun\], vocative, singular, masculine
 - “hard; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīﾱita* ← *vīḍita* ← *vīḍay* ← *√vīḍ*
 - \[verb noun\], vocative, singular
 - “solidify; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīﾱayasva* ← *vīḍay* ← *√vīḍ*
 - \[verb\], singular, Present imperative
 - “solidify; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmād* ← *yāmāt* ← *yāma*
 - \[noun\], ablative, singular, masculine
 - “prahara; watch; travel; path.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmād* ← *asmāt* ← *idam*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīhipo* ← *jīhipaḥ* ← *hāpay* ← *√hā*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “miss.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

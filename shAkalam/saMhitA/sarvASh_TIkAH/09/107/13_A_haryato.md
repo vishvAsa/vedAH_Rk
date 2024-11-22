@@ -102,77 +102,113 @@ nadī́ṣu ← nadī́- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *haryato* ← *haryataḥ* ← *haryata*
 - \[noun\], nominative, singular, masculine
 - “desirable; delightful.”
-------------------------------------------------------------------------
+
+_________
+
 - *arjune* ← *arjuna*
 - \[noun\], locative, singular, masculine
 - “white; clean; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *atke* ← *atka*
 - \[noun\], locative, singular, masculine
 - “garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyata* ← *vye*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnur* ← *sūnuḥ* ← *sūnu*
 - \[noun\], nominative, singular, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *marjyaḥ* ← *mṛj*
 - \[verb noun\], nominative, singular
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *hinvanty* ← *hinvanti* ← *hi*
 - \[verb\], plural, Present indikative
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaso* ← *apasaḥ* ← *apas*
 - \[noun\], nominative, plural, masculine
 - “busy; effective; hardworking.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadīṣv* ← *nadīṣu* ← *nadī*
 - \[noun\], locative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

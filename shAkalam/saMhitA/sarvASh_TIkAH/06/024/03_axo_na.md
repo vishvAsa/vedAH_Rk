@@ -108,86 +108,126 @@ ví ← ví (invariable)
 -   *akṣo* ← *akṣaḥ* ← *akṣa*
 - \[noun\], nominative, singular, masculine
 - “axle.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cakryoḥ* ← *cakrī*
 - \[noun\], genitive, dual, feminine
 - “cakrikā.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhan* ← *bṛhat*
 - \[noun\], nominative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *ririce* ← *ric*
 - \[verb\], singular, Perfect indicative
 - “empty; liberate; concede; surrender; purge.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasyoḥ* ← *rodasī*
 - \[noun\], genitive, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkṣasya* ← *vṛkṣa*
 - \[noun\], genitive, singular, masculine
 - “tree; fruit tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruhūta*
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayā* ← *vayāḥ* ← *vayā*
 - \[noun\], nominative, plural, feminine
 - “branch; branchlet.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtayo* ← *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ruruhur* ← *ruruhuḥ* ← *ruh*
 - \[verb\], plural, Perfect indicative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

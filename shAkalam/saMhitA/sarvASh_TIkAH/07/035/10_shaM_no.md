@@ -111,98 +111,140 @@ pátiḥ ← páti- (nominal stem)
 -   *śaṃ* ← *śam*
 - \[noun\], nominative, singular, neuter
 - “luck; well-being; fortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *trāyamāṇaḥ* ← *trā*
 - \[verb noun\], nominative, singular
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃ* ← *śam*
 - \[noun\], nominative, singular, neuter
 - “luck; well-being; fortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavantūṣaso* ← *bhavantu* ← *bhū*
 - \[verb\], plural, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavantūṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhātīḥ* ← *vibhā* ← *√bhā*
 - \[verb noun\], nominative, plural
 - “shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃ* ← *śam*
 - \[noun\], nominative, singular, neuter
 - “luck; well-being; fortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *parjanyo* ← *parjanyaḥ* ← *parjanya*
 - \[noun\], nominative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavatu* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajābhyaḥ* ← *prajā*
 - \[noun\], dative, plural, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃ* ← *śam*
 - \[noun\], nominative, singular, neuter
 - “luck; well-being; fortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣetrasya* ← *kṣetra*
 - \[noun\], genitive, singular, neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
-------------------------------------------------------------------------
+
+_________
+
 - *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *śambhuḥ* ← *śambhu*
 - \[noun\], nominative, singular, masculine
 - “kind; benevolent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

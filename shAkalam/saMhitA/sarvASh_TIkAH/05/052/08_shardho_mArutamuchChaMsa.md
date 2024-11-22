@@ -93,60 +93,88 @@ yujata ← √yuj- (root)
 -   *śardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], accusative, singular, neuter
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *mārutam* ← *māruta*
 - \[noun\], accusative, singular, neuter
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *uc* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *chaṃsa* ← *śaṃsa* ← *śaṃs*
 - \[verb\], singular, Present imperative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyaśavasam* ← *satya*
 - \[noun\], neuter
 - “truth; oath; satya \[word\]; promise.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyaśavasam* ← *śavasam* ← *śavas*
 - \[noun\], accusative, singular, masculine
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhvasam* ← *ṛbhvas*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhe* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *syandrā* ← *syandrāḥ* ← *syandra*
 - \[noun\], accusative, plural, feminine
 - “flowing; fleet.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujata* ← *yuj*
 - \[verb\], plural, Aorist inj. (proh.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -154,11 +182,15 @@ yujata ← √yuj- (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

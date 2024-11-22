@@ -69,46 +69,66 @@ purupriyám ← purupriyá- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *havīmabhiḥ* ← *havīman*
 - \[noun\], instrumental, plural, neuter
 - “call; invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
-------------------------------------------------------------------------
+
+_________
+
 - *havanta* ← *hvā*
 - \[verb\], plural, Present injunctive
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśpatim* ← *viśpati*
 - \[noun\], accusative, singular, masculine
 - “overlord; head.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyavāham* ← *havya*
 - \[noun\], neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *havyavāham* ← *vāham* ← *vāha*
 - \[noun\], accusative, singular, masculine
 - “transporting; flowing; removing.”
-------------------------------------------------------------------------
+
+_________
+
 - *purupriyam* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purupriyam* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

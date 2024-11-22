@@ -76,48 +76,68 @@ támobhiḥ ← támas- (nominal stem)
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ime* ← *idam*
 - \[noun\], accusative, dual, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahī* ← *mahi*
 - \[noun\], accusative, dual, feminine
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *samīcī* ← *samyañc*
 - \[noun\], accusative, dual, feminine
 - “conjugate; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *samajagrabhīt* ← *saṃgrah* ← *√grah*
 - \[verb\], singular, Plusquamperfect
 - “take; pick; collect; sum up; reign; harness; catch; gather;
     extract; curb; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamobhir* ← *tamobhiḥ* ← *tamas*
 - \[noun\], instrumental, plural, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhaḥ* ← *guh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “hide; cover; conceal; shroud; obscure.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

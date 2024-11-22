@@ -85,66 +85,96 @@ pūrvī́bhiḥ ← purú- (nominal stem)
 - \[noun\], neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *manojavasā* ← *javasā* ← *javas*
 - \[noun\], instrumental, singular, masculine
 - “speed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *madacyutā* ← *mada*
 - \[noun\], masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *madacyutā* ← *cyutā* ← *cyut*
 - \[noun\], instrumental, singular, masculine
 - “shaking; dropping.”
-------------------------------------------------------------------------
+
+_________
+
 - *makṣuṃgamābhir* ← *makṣuṃgamābhiḥ* ← *makṣuṃgama*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ārāttāc* ← *ārāttāt*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtam* ← *bhū*
 - \[verb\], dual, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvībhiḥ* ← *puru*
 - \[noun\], instrumental, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purubhojasā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purubhojasā* ← *bhojasā* ← *bhojas*
 - \[noun\], vocative, dual, masculine
 - “advantage; utility; food.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

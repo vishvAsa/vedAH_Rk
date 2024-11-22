@@ -82,54 +82,78 @@ yát ← yá- (pronoun)
 -   *vāśreva* ← *vāśrā*
 - \[noun\], nominative, singular, feminine
 - “cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāśreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyun* ← *vidyut*
 - \[noun\], nominative, singular, feminine
 - “lightning; Vidyut; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimāti* ← *mā*
 - \[verb\], singular, Present indikative
 - “moo; howl.”
-------------------------------------------------------------------------
+
+_________
+
 - *vatsaṃ* ← *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣakti* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṭir* ← *vṛṣṭiḥ* ← *vṛṣṭi*
 - \[noun\], nominative, singular, feminine
 - “rain; shower; rainy season.”
-------------------------------------------------------------------------
+
+_________
+
 - *asarji* ← *sṛj*
 - \[verb\], singular, Aorist passive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -87,53 +87,79 @@ te ← tvám (pronoun)
 -   *yāsāṃ* ← *yāsām* ← *yad*
 - \[noun\], genitive, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pañcāśato* ← *pañcāśataḥ* ← *pañcāśat*
 - \[noun\], accusative, plural, feminine
 - “fifty; pañcāśat \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *'bhivlaṅgair* ← *abhivlaṅgaiḥ* ← *abhivlaṅga*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *apāvapaḥ* ← *apavap* ← *√vap*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *manāyati* ← *manāy* ← *√man*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *takat* ← *taka*
 - \[noun\], accusative, singular, neuter
 - “he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *manāyati* ← *manāy* ← *√man*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

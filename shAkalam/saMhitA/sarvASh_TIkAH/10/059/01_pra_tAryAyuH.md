@@ -102,77 +102,113 @@ sú ← sú (invariable)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāry* ← *tāri* ← *tṛ*
 - \[verb\], singular, Aorist passive
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyuḥ* ← *āyus*
 - \[noun\], nominative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 - *prataraṃ* ← *prataram*
 - \[adverb\]
 - “farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *navīya* ← *navīyas*
 - \[noun\], nominative, singular, neuter
 - “new; fresh; up-to-the-minute.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthātāreva* ← *sthātārā* ← *sthātṛ*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sthātāreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratumatā* ← *kratumat*
 - \[noun\], instrumental, singular, masculine
 - “prudent; resolute.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathasya* ← *ratha*
 - \[noun\], genitive, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *cyavāna* ← *cyavānaḥ* ← *cyavāna*
 - \[noun\], nominative, singular, masculine
 - “Cyavana.”
-------------------------------------------------------------------------
+
+_________
+
 - *ut* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavīty* ← *tavīti* ← *tu*
 - \[verb\], singular, Present indikative
 - “strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *artham* ← *artha*
 - \[noun\], accusative, singular, masculine
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
     topic; property; situation; reason; affair; concern; reason;
     enterprise; reason; cause; five; application; application.”
-------------------------------------------------------------------------
+
+_________
+
 - *parātaraṃ* ← *parātaram*
 - \[adverb\]
 - “farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *nirṛtir* ← *nirṛtiḥ* ← *nirṛti*
 - \[noun\], nominative, singular, feminine
 - “destruction; Nirṛti; adversity.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihītām* ← *hā*
 - \[verb\], singular, Present imperative
 - “move over; yield; give way.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

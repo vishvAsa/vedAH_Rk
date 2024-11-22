@@ -110,82 +110,122 @@ prá ← prá (invariable)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *iddhy* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *iddhy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *savanaṃ* ← *savanam* ← *savana*
 - \[noun\], nominative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
-------------------------------------------------------------------------
+
+_________
+
 - *viver* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *apo* ← *apaḥ* ← *apas*
 - \[noun\], accusative, singular, neuter
 - “work; deed.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *manave* ← *manu*
 - \[noun\], dative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśret* ← *śri*
 - \[verb\], singular, Root aorist (Ind.)
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
-------------------------------------------------------------------------
+
+_________
+
 - *goarṇasi* ← *goarṇas*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tvāṣṭre* ← *tvāṣṭra*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśvanirṇiji* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvanirṇiji* ← *nirṇiji* ← *nirṇij*
 - \[noun\], locative, singular, masculine
 - “attire; garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *prem* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvareṣv* ← *adhvareṣu* ← *adhvara*
 - \[noun\], locative, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvarāṃ* ← *adhvara*
 - \[noun\], accusative, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśiśrayuḥ* ← *śri*
 - \[verb\], plural, Plusquamperfect
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

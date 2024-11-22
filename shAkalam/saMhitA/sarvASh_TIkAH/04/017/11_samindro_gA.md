@@ -114,92 +114,136 @@ vibhaktā́ ← vibhaktár- (nominal stem)
 -   *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajayat* ← *ji*
 - \[verb\], singular, Imperfect
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyā* ← *hiraṇya*
 - \[noun\], accusative, plural, neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśviyā* ← *aśviya*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *ebhir* ← *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛtamo* ← *nṛtamaḥ* ← *nṛtama*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śākai* ← *śākaiḥ* ← *śāka*
 - \[noun\], instrumental, plural, masculine
 - “power.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhaktā* ← *vibhaj* ← *√bhaj*
 - \[verb\], singular, periphrast. future
 - “divide; give away; distribute; choose; allocate; separate; spread;
     consider; assign; distinguish; proportion.”
-------------------------------------------------------------------------
+
+_________
+
 - *sambharaś* ← *sambharaḥ* ← *sambhara*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

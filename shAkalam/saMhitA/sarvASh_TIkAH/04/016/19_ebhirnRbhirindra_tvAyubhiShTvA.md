@@ -108,84 +108,124 @@ pūrvī́ḥ ← purú- (nominal stem)
 -   *ebhir* ← *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāyubhiṣ* ← *tvāyubhiḥ* ← *tvāyu*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṭvā* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavadbhir* ← *maghavadbhiḥ* ← *maghavan*
 - \[noun\], instrumental, plural, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśva* ← *viśvaḥ* ← *viśva*
 - \[noun\], locative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvo* ← *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnair* ← *dyumnaiḥ* ← *dyumna*
 - \[noun\], instrumental, plural, neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *santo* ← *santaḥ* ← *as*
 - \[verb noun\], nominative, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryaḥ* ← *ari*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kṣapo* ← *kṣapaḥ* ← *kṣap*
 - \[noun\], accusative, plural, feminine
 - “night.”
-------------------------------------------------------------------------
+
+_________
+
 - *madema* ← *mad*
 - \[verb\], plural, Present optative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaradaś* ← *śaradaḥ* ← *śarad*
 - \[noun\], accusative, plural, feminine
 - “fall; year; śarad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

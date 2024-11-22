@@ -70,35 +70,51 @@ vŕ̥ṣṇyam ← vŕ̥ṣṇya- (nominal stem)
 -   *grāvāṇa* ← *grāvāṇaḥ* ← *grāvan*
 - \[noun\], nominative, plural, masculine
 - “stone; millstone; grindstone; mountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *upareṣv* ← *upareṣu* ← *upara*
 - \[noun\], locative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mahīyante* ← *mahīy*
 - \[verb\], plural, Present indikative
 - “rejoice; revel.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣasaḥ* ← *sajoṣas*
 - \[noun\], nominative, plural, masculine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhato* ← *dadhataḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇyam* ← *vṛṣṇya*
 - \[noun\], accusative, singular, neuter
 - “manfulness; virility.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

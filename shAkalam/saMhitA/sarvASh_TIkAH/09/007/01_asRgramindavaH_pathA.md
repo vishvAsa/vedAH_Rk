@@ -74,47 +74,67 @@ yójanam ← yójana- (nominal stem)
 - \[verb\], plural, Root aorist (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharmann* ← *dharman*
 - \[noun\], locative, singular, neuter
 - “regulation; Dharma; law; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśriyaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśriyaḥ* ← *śriyaḥ* ← *śrī*
 - \[noun\], nominative, plural, masculine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidānā* ← *vidānāḥ* ← *vid*
 - \[verb noun\], nominative, plural
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yojanam* ← *yojana*
 - \[noun\], accusative, singular, neuter
 - “yojana; use; yojana \[word\]; team.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

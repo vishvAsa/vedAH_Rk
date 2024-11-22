@@ -111,99 +111,143 @@ vaśī́ ← vaśín- (nominal stem)
 -   *sahasva* ← *sah*
 - \[verb\], singular, Present imperative
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyo* ← *manyu*
 - \[noun\], vocative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhimātim* ← *abhimāti*
 - \[noun\], accusative, singular, feminine
 - “aggression; hostility.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rujan* ← *ruj*
 - \[verb noun\], nominative, singular
 - “break; bend.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛṇan* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *pramṛṇan* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *prehi* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prehi* ← *ihi* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugraṃ* ← *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pājo* ← *pājaḥ* ← *pājas*
 - \[noun\], accusative, singular, neuter
 - “luminosity; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *nanv* ← *nanu*
 - \[adverb\]
 - “never; nanu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rurudhre* ← *rudh*
 - \[verb\], plural, Perfect indicative
 - “fill into; close; insert; put; enclose; obstruct; seal; besiege;
     cover; blockade; stop; lock in; plug; withhold; extinguish;
     connect.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaśī* ← *vaśin*
 - \[noun\], nominative, singular, masculine
 - “powerful; controlling; regnant; authoritative.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaśaṃ* ← *vaśam* ← *vaśa*
 - \[noun\], accusative, singular, masculine
 - “control; dominion; influence; power; Vaśa; vaśa \[word\]; will;
     authority; control; wish; supervision.”
-------------------------------------------------------------------------
+
+_________
+
 - *nayasa* ← *nayase* ← *nī*
 - \[verb\], singular, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekaja* ← *eka*
 - \[noun\]
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekaja* ← *ja*
 - \[noun\], vocative, singular, masculine
 - “produced; caused; born; located; growing; descended from;
     consisting of; ja \[word\]; living; written; flourishing.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

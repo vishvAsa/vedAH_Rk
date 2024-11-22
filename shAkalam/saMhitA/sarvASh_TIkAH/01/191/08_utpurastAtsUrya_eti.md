@@ -84,66 +84,94 @@ yātudhānyàḥ ← yātudhānī́- (nominal stem)
 -   *ut* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *purastāt*
 - \[adverb\]
 - “ahead; eastward; earlier; above; above.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrya* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadṛṣṭo* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadṛṣṭo* ← *dṛṣṭaḥ* ← *dṛś*
 - \[verb noun\], nominative, singular
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *adṛṣṭahā* ← *adṛṣṭa*
 - \[noun\]
 - “unobserved; invisible; unseen; unanticipated; unknown.”
-------------------------------------------------------------------------
+
+_________
+
 - *adṛṣṭahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *adṛṣṭān* ← *adṛṣṭa*
 - \[noun\], accusative, plural, masculine
 - “unobserved; invisible; unseen; unanticipated; unknown.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvāñ* ← *sarvān* ← *sarva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *jambhayan* ← *jambhay* ← *√jabh*
 - \[verb noun\], nominative, singular
 - “crunch; strangle.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvāś* ← *sarvāḥ* ← *sarva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātudhānyaḥ* ← *yātudhānī*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

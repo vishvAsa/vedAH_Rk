@@ -111,92 +111,134 @@ viviśuḥ ← √viś- (root)
 -   *mahimna* ← *mahimnaḥ* ← *mahiman*
 - \[noun\], genitive, singular, masculine
 - “greatness; power; mahiman.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitaraś* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *caneśire* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *caneśire* ← *īśire* ← *īś*
 - \[verb\], plural, Perfect indicative
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *deveṣv* ← *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *adadhur* ← *adadhuḥ* ← *dhā*
 - \[verb\], plural, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *avivyacur* ← *avivyacuḥ* ← *vyac*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāny* ← *yāni* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *atviṣur* ← *atviṣuḥ* ← *tviṣ*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *aiṣāṃ* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aiṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūṣu* ← *tanū*
 - \[noun\], locative, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *viviśuḥ* ← *viś*
 - \[verb\], plural, Perfect indicative
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

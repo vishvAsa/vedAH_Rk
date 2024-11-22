@@ -77,41 +77,59 @@ pávamānasya ← √pū- (root)
     body substance; rasa; formulation; myrrh; rasa \[word\]; amṛta;
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibanti* ← *pā*
 - \[verb\], plural, Present indikative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *kave* ← *kavi*
 - \[noun\], vocative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānasya* ← *pū*
 - \[verb noun\], genitive, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

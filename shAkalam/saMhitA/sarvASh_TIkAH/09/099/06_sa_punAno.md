@@ -89,58 +89,84 @@ vacasyate ← √vacasy- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *madintamaḥ* ← *madintama*
 - \[noun\], nominative, singular, masculine
 - “exhilarating; intoxicant.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaś* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *camūṣu* ← *camū*
 - \[noun\], locative, plural, feminine
 - “army; camū; Camū.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīdati* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśau* ← *paśu*
 - \[noun\], locative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *reta* ← *retaḥ* ← *retas*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādadhat* ← *ādhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
-------------------------------------------------------------------------
+
+_________
+
 - *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *vacasyate* ← *vacasy*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyaḥ* ← *dhī*
 - \[noun\], genitive, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

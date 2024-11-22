@@ -69,41 +69,59 @@ bhū́reḥ ← bhū́ri- (nominal stem)
 
 -   *āyantāram* ← *āyantṛ*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthiram* ← *sthira*
 - \[noun\], accusative, singular, neuter
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravojitam* ← *śravaḥ* ← *śravas*
 - \[noun\], neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravojitam* ← *jitam* ← *jit*
 - \[noun\], accusative, singular, masculine
 - “curative; removing; victorious; winning.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūrer* ← *bhūreḥ* ← *bhūri*
 - \[noun\], genitive, singular, masculine
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *īśānam* ← *īś*
 - \[verb noun\], accusative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

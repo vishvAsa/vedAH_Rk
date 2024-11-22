@@ -112,87 +112,129 @@ vibhātī́ ← √bhā- (root)
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *eved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *purutamā* ← *purutama*
 - \[noun\], nominative, singular, feminine
 - “most(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛśe* ← *dṛś*
 - \[verb noun\]
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṃ* ← *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nājāmiṃ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nājāmiṃ* ← *ajāmim* ← *ajāmi*
 - \[noun\], accusative, singular, masculine
 - “unrelated; foreign-born.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇakti* ← *vṛj*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *jāmim* ← *jāmi*
 - \[noun\], accusative, singular, masculine
 - “related; ancestral; customary; usual.”
-------------------------------------------------------------------------
+
+_________
+
 - *arepasā* ← *arepas*
 - \[noun\], instrumental, singular, feminine
 - “immaculate.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *śāśadānā* ← *śad*
 - \[verb noun\], instrumental, singular
 - “prevail.”
-------------------------------------------------------------------------
+
+_________
+
 - *nārbhād* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nārbhād* ← *arbhāt* ← *arbha*
 - \[noun\], ablative, singular, masculine
 - “few; small; unimportant.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṣate* ← *īṣ*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], ablative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhātī* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

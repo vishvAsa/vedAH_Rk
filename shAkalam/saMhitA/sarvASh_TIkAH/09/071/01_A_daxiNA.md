@@ -105,51 +105,75 @@ upastíre ← upastír- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇā*
 - \[noun\], instrumental, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛjyate* ← *sṛj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmy* ← *śuṣmī* ← *śuṣmin*
 - \[noun\], nominative, singular, masculine
 - “strong; hotheaded.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsadaṃ* ← *āsadam* ← *āsad* ← *√sad*
 - \[verb noun\]
 - “approach; attack; sit down; approach; find; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *veti* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *druho* ← *druhaḥ* ← *druh*
 - \[noun\], accusative, plural, masculine
 - “punic; hostile.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣasaḥ* ← *rakṣas*
 - \[noun\], ablative, singular, masculine
 - “Rākṣasa.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāti* ← *pā*
 - \[verb\], singular, Present indikative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāgṛviḥ* ← *jāgṛvi*
 - \[noun\], nominative, singular, masculine
 - “attentive; argus-eyed; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *opaśaṃ* ← *opaśam* ← *opaśa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -160,31 +184,45 @@ upastíre ← upastír- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhas* ← *nabhaḥ* ← *nabhas*
 - \[noun\], accusative, singular, neuter
 - “sky; cloud; ākāśa; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *paya* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *upastire* ← *upastir*
 - \[noun\], dative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *camvor* ← *camvoḥ* ← *camū*
 - \[noun\], locative, dual, feminine
 - “army; camū; Camū.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *nirṇije* ← *nirṇij*
 - \[noun\], dative, singular, feminine
 - “attire; garment.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

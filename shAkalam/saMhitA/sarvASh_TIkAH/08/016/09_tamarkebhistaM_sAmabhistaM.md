@@ -78,51 +78,71 @@ vardhanti ← √vr̥dh- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkebhis* ← *arkebhiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāmabhis* ← *sāmabhiḥ* ← *sāman*
 - \[noun\], instrumental, plural, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyatraiś* ← *gāyatraiḥ* ← *gāyatra*
 - \[noun\], instrumental, plural, neuter
 - “Gāyatrī; Gāyatra.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇayaḥ* ← *carṣaṇi*
 - \[noun\], nominative, plural, feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhanti* ← *vṛdh*
 - \[verb\], plural, Present indikative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣitayaḥ* ← *kṣiti*
 - \[noun\], nominative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

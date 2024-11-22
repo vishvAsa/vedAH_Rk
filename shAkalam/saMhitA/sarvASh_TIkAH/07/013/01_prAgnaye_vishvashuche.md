@@ -96,80 +96,116 @@ yátaye ← yáti- (nominal stem)
 -   *prāgnaye* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāgnaye* ← *agnaye* ← *agni*
 - \[noun\], dative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaśuce* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaśuce* ← *śuce* ← *śuc*
 - \[noun\], dative, singular, masculine
 - “grief; pain; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyandhe* ← *dhiyaṃdhā*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *'suraghne* ← *asura*
 - \[noun\], masculine
 - “Asura; lord; asura \[word\]; sulfur.”
-------------------------------------------------------------------------
+
+_________
+
 - *'suraghne* ← *ghne* ← *han*
 - \[noun\], dative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītim* ← *dhīti*
 - \[noun\], accusative, singular, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharadhvam* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhare* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *havir* ← *haviḥ* ← *havis*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prīṇāno* ← *prīṇānaḥ* ← *prī*
 - \[verb noun\], nominative, singular
 - “delight; gladden; satisfy; nutrify; comfort.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaiśvānarāya* ← *vaiśvānara*
 - \[noun\], dative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *yataye* ← *yati*
 - \[noun\], dative, singular, masculine
 - “ascetic; Yati.”
-------------------------------------------------------------------------
+
+_________
+
 - *matīnām* ← *mati*
 - \[noun\], genitive, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

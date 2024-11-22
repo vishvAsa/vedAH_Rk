@@ -70,46 +70,66 @@ yajñéṣu ← yajñá- (nominal stem)
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādhyo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādhyo* ← *ādhyaḥ* ← *ādhī*
 - \[noun\], nominative, plural, masculine
 - “longing.”
-------------------------------------------------------------------------
+
+_________
+
 - *martāso* ← *martāsaḥ* ← *marta*
 - \[noun\], nominative, plural, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *devavītaye* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devavītaye* ← *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yajñeṣu* ← *yajña*
 - \[noun\], locative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *īﾱate* ← *īḍate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

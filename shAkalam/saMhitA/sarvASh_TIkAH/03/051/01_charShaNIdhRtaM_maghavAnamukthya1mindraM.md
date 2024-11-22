@@ -89,71 +89,103 @@ járamāṇam ← √gr̥- (root)
 
 -   *carṣaṇīdhṛtam* ← *carṣaṇī*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīdhṛtam* ← *dhṛtam* ← *dhṛt*
 - \[noun\], accusative, singular, masculine
 - “maintaining.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavānam* ← *maghavan*
 - \[noun\], accusative, singular
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthyam* ← *ukthya*
 - \[noun\], accusative, singular, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *giro* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatīr* ← *bṛhatīḥ* ← *bṛhatī*
 - \[noun\], nominative, plural, feminine
 - “Indian sunplant; Bṛhatī; bṛhatī; eggplant; Solanum xanthocarpum
     Schrad. et Wendl.; bṛhatī \[word\]; bṛhatī.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhānam* ← *vṛdh*
 - \[verb noun\], accusative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruhūtaṃ* ← *puruhūtam* ← *puruhūta*
 - \[noun\], accusative, singular, masculine
 - “Indra; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvṛktibhir* ← *suvṛktibhiḥ* ← *suvṛkti*
 - \[noun\], instrumental, plural, feminine
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartyaṃ* ← *amartyam* ← *amartya*
 - \[noun\], accusative, singular, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaramāṇaṃ* ← *jaramāṇam* ← *jṛ*
 - \[verb noun\], accusative, singular
 - “sing.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

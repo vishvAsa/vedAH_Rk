@@ -76,46 +76,66 @@ nítyayā ← nítya- (nominal stem)
 -   *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dampatī* ← *dampati*
 - \[noun\], nominative, dual, masculine
 - “couple.”
-------------------------------------------------------------------------
+
+_________
+
 - *samanasā* ← *samanas*
 - \[noun\], nominative, dual, masculine
 - “consentaneous.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunuta* ← *sunutaḥ* ← *su*
 - \[verb\], dual, Present indikative
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāvataḥ* ← *dhāv*
 - \[verb\], dual, Present indikative
 - “run; run; wash.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *nityayāśirā* ← *nityayā* ← *nitya*
 - \[noun\], instrumental, singular, feminine
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
     connatural; necessary; durable; ageless; invariable; biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *nityayāśirā* ← *āśirā* ← *āśir*
 - \[noun\], instrumental, singular, feminine
 - “mixture.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

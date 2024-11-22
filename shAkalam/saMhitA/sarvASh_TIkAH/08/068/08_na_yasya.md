@@ -79,47 +79,69 @@ te ← tvám (pronoun)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasāna*
 - \[noun\], vocative, singular, masculine
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaṃśa* ← *aś*
 - \[verb\], singular, Perfect indicative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakiḥ* ← *nakir*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavāṃsi* ← *śavas*
 - \[noun\], accusative, plural, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *naśat* ← *naś*
 - \[verb\], singular, Present injunctive
 - “reach; achieve; enter (a state); reach.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

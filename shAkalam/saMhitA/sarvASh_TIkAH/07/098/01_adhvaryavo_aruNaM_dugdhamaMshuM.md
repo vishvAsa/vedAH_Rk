@@ -96,74 +96,108 @@ yāti ← √yā- 1 (root)
 -   *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ruṇaṃ* ← *aruṇam* ← *aruṇa*
 - \[noun\], accusative, singular, masculine
 - “red; tawny; dusty; gray.”
-------------------------------------------------------------------------
+
+_________
+
 - *dugdham* ← *duh*
 - \[verb noun\], accusative, singular
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃśuṃ* ← *aṃśum* ← *aṃśu*
 - \[noun\], accusative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhotana* ← *hu*
 - \[verb\], plural, Present imperative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhāya* ← *vṛṣabha*
 - \[noun\], dative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣitīnām* ← *kṣiti*
 - \[noun\], genitive, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaurād* ← *gaurāt* ← *gaura*
 - \[noun\], ablative, singular, masculine
 - “Gaura; Gaura; downy grislee; Gaura.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedīyāṃ* ← *vedīyān* ← *vedīyas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *avapānam* ← *avapāna*
 - \[noun\], accusative, singular, neuter
 - “drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāhed* ← *viśvāhā*
 - \[adverb\]
 - “always.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāhed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasomam* ← *suta* ← *su*
 - \[verb noun\]
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasomam* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchan* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

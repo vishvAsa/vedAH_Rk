@@ -102,35 +102,49 @@ viníkṣe ← √nikṣ- (root)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatā* ← *bṛhant*
 - \[noun\], instrumental, singular, neuter
 - “Bṛhant.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāty* ← *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -141,47 +155,69 @@ viníkṣe ← √nikṣ- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvā* ← *mahitva*
 - \[noun\], accusative, plural, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *prādevīr* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prādevīr* ← *adevīḥ* ← *adeva*
 - \[noun\], accusative, plural, feminine
 - “godless.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyāḥ* ← *māyā*
 - \[noun\], accusative, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahate* ← *sah*
 - \[verb\], singular, Present indikative
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *durevāḥ* ← *dureva*
 - \[noun\], accusative, plural, feminine
 - “malevolent; bad; crabbed.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśīte* ← *śā*
 - \[verb\], singular, Present indikative
 - “sharpen; whet; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṅge* ← *śṛṅga*
 - \[noun\], accusative, dual, neuter
 - “peak; horn; tusk; śṛṅga \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣase* ← *rakṣas*
 - \[noun\], dative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vinikṣe* ← *vinikṣ* ← *√nikṣ*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

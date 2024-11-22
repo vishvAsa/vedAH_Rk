@@ -108,98 +108,142 @@ havyavā́ham ← havyavā́h- (nominal stem)
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *kir* ← *kis*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamasya* ← *yama*
 - \[noun\], genitive, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *apy* ← *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūhe* ← *ūh*
 - \[verb\], singular, Perfect indicative
 - “diagnose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *samañjanti* ← *samañj* ← *√añj*
 - \[verb\], plural, Present indikative
 - “anoint.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahar*
 - \[noun\], accusative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahar*
 - \[noun\], accusative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyate* ← *jan*
 - \[verb\], singular, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *māsi* ← *mās*
 - \[noun\], locative, singular, masculine
 - “month; lunar month.”
-------------------------------------------------------------------------
+
+_________
+
 - *māsy* ← *māsi* ← *mās*
 - \[noun\], locative, singular, masculine
 - “month; lunar month.”
-------------------------------------------------------------------------
+
+_________
+
 - *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyavāham* ← *havyavāha*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire; sacrificial fire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

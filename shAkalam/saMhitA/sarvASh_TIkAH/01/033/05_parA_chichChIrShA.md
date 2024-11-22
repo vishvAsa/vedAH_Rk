@@ -105,78 +105,116 @@ ródasyoḥ ← ródasī- (nominal stem)
 -   *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *cicchīrṣā* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *cicchīrṣā* ← *śīrṣā* ← *śīrṣa*
 - \[noun\], accusative, plural, neuter
 - “head; battlefront; ear; front; śīrṣa \[word\]; tip; skull.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavṛjus* ← *vavṛjuḥ* ← *vṛj*
 - \[verb\], plural, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāyajvāno* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāyajvāno* ← *ayajvānaḥ* ← *ayajvan*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yajvabhi* ← *yajvan*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *spardhamānāḥ* ← *spṛdh*
 - \[verb noun\], nominative, plural
 - “rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *hariva* ← *harivat*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sthātar* ← *sthātṛ*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ugra*
 - \[noun\], vocative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *avratāṃ* ← *avrata*
 - \[noun\], accusative, plural, masculine
 - “disobedient; evil.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhamo* ← *adhamaḥ* ← *dham*
 - \[verb\], singular, Imperfect
 - “heat; blow; fan; blow; ignite; blow; inflate.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasyoḥ* ← *rodasī*
 - \[noun\], locative, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -95,74 +95,106 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 -   *acety* ← *aceti* ← *cit*
 - \[verb\], singular, Aorist passive
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniś* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikitur* ← *cikituḥ* ← *cikitu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *havyavāṭ* ← *havyavah*
 - \[noun\], nominative, singular
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumadrathaḥ* ← *sumat*
 - \[adverb\]
 - “together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumadrathaḥ* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukreṇa* ← *śukra*
 - \[noun\], instrumental, singular, neuter
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūro* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *arocata* ← *ruc*
 - \[verb\], singular, Imperfect
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *arocata* ← *ruc*
 - \[verb\], singular, Imperfect
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

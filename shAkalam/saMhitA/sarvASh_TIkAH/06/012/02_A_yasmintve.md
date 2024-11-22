@@ -108,81 +108,121 @@ yájadhyai ← √yaj- (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sv* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāke* ← *apāka*
 - \[noun\], locative, singular, masculine
 - “unfestering.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatra*
 - \[noun\], vocative, singular, masculine
 - “adorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣad* ← *yakṣat* ← *yaj*
 - \[verb\], singular, Aorist conj./subj.
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvatāteva* ← *sarvatātā* ← *sarvatāti*
 - \[noun\], locative, singular, feminine
 - “completeness; prosperity; sum.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvatāteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *triṣadhasthas* ← *triṣadhasthaḥ* ← *triṣadhastha*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tataruṣo* ← *tataruṣaḥ* ← *tṛ*
 - \[verb noun\], genitive, singular
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṃho* ← *jaṃhaḥ* ← *jaṃhas*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maghāni* ← *magha*
 - \[noun\], accusative, plural, neuter
 - “gift; wealth; reward; wages; reward.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣā* ← *mānuṣa*
 - \[noun\], accusative, plural, neuter
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajadhyai* ← *yaj*
 - \[verb noun\]
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

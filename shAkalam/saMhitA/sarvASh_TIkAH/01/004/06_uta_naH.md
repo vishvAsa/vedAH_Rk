@@ -79,52 +79,74 @@ syā́ma ← √as- 1 (root)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhagāṃ* ← *subhaga*
 - \[noun\], accusative, plural, masculine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
-------------------------------------------------------------------------
+
+_________
+
 - *arir* ← *ariḥ* ← *ari*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *voceyur* ← *voceyuḥ* ← *vac*
 - \[verb\], plural, Aorist optative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasma*
 - \[noun\], vocative, singular, masculine
 - “overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāmed* ← *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāmed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarmaṇi* ← *śarman*
 - \[noun\], locative, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

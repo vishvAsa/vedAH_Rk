@@ -108,93 +108,135 @@ sá ← sá- ~ tá- (pronoun)
 -   *rakṣohaṇaṃ* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣohaṇaṃ* ← *haṇam* ← *han*
 - \[noun\], accusative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jigharmi* ← *ghṛ*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathiṣṭham* ← *prathiṣṭha*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśāno* ← *śiśānaḥ* ← *śā*
 - \[verb noun\], nominative, singular
 - “sharpen; whet; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratubhiḥ* ← *kratu*
 - \[noun\], instrumental, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *samiddhaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle; blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *divā*
 - \[adverb\]
 - “by day; divā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *riṣaḥ* ← *riṣ*
 - \[noun\], accusative, plural, feminine
 - “injury; riṣ; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *pātu* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

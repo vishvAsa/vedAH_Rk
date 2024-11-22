@@ -70,42 +70,60 @@ víśve ← víśva- (nominal stem)
 -   *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahanto* ← *vahantaḥ* ← *vah*
 - \[verb noun\], nominative, plural
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *duro* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural, feminine
 - “door; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇvan* ← *ṛch*
 - \[verb\], plural, Present injunctive
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *navanta* ← *nū*
 - \[verb\], plural, Present injunctive
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛśīke* ← *dṛśīka*
 - \[noun\], locative, singular, neuter
 - “visual perception.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,74 +102,108 @@ víśvasya ← víśva- (nominal stem)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahate* ← *mahat*
 - \[noun\], dative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *dānavāya* ← *dānava*
 - \[noun\], dative, singular, masculine
 - “Dānava.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhar*
 - \[noun\], accusative, singular, neuter
 - “weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamiṣṭa* ← *yam*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *saho* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *apratītam* ← *apratīta*
 - \[noun\], accusative, singular, neuter
 - “irresistible.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vajrasya* ← *vajra*
 - \[noun\], genitive, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *prabhṛtau* ← *prabhṛti*
 - \[noun\], locative, singular, feminine
 - “etc.; beginning; prabhṛti \[word\]; beginning.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadābha* ← *dabh*
 - \[verb\], singular, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *jantor* ← *jantoḥ* ← *jantu*
 - \[noun\], genitive, singular, masculine
 - “man; worm; being; child; Jantu; offspring; insect; vermin; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhamaṃ* ← *adhamam* ← *adhama*
 - \[noun\], accusative, singular, masculine
 - “worst; bottom; despicable; worse; adhama \[word\]; last.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -180,7 +214,9 @@ víśvasya ← víśva- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

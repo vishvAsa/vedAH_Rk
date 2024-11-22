@@ -84,51 +84,75 @@ bráhma ← bráhman- (nominal stem)
 -   *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarāti* ← *svar*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sing.”
-------------------------------------------------------------------------
+
+_________
+
 - *gargaro* ← *gargaraḥ* ← *gargara*
 - \[noun\], nominative, singular, masculine
 - “gulf; churn.”
-------------------------------------------------------------------------
+
+_________
+
 - *godhā*
 - \[noun\], nominative, singular, feminine
 - “monitor; Godhā; godhā \[word\]; chord.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *saniṣvaṇat* ← *saniṣvan* ← *√svan*
 - \[verb\], singular, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 - *piṅgā*
 - \[noun\], nominative, singular, feminine
 - “gorocanā; turmeric.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *caniṣkadad* ← *caniṣkadat* ← *caniṣkad* ← *√skand*
 - \[verb\], singular, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmodyatam* ← *brahma* ← *brahman*
 - \[noun\], nominative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmodyatam* ← *udyatam* ← *udyam* ← *√yam*
 - \[verb noun\], nominative, singular
 - “raise; prepare; begin; endeavor; specialize.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

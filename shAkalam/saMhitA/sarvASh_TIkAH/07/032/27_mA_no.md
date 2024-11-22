@@ -99,72 +99,106 @@ tarāmasi ← √tr̥̄- 1 (root)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajñātā* ← *ajñāta*
 - \[noun\], nominative, plural, neuter
 - “unknown; unexpected.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjanā* ← *vṛjana*
 - \[noun\], nominative, plural, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *durādhyo* ← *durādhyaḥ* ← *durādhī*
 - \[noun\], nominative, plural, masculine
 - “malevolent.”
-------------------------------------------------------------------------
+
+_________
+
 - *māśivāso* ← *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *māśivāso* ← *aśivāsaḥ* ← *aśiva*
 - \[noun\], nominative, plural, masculine
 - “inauspicious; unkind; unfriendly; cruel; dangerous.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *kramuḥ* ← *kram*
 - \[verb\], plural, Aorist inj. (proh.)
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravataḥ* ← *pravat*
 - \[noun\], accusative, plural, feminine
 - “slope; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvatīr* ← *śaśvatīḥ* ← *śaśvat*
 - \[noun\], accusative, plural, feminine
 - “all(a); each(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ti* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarāmasi* ← *tṛ*
 - \[verb\], plural, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

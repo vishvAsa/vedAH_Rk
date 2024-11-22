@@ -99,69 +99,103 @@ turváśe ← turváśa- (nominal stem)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāg* ← *prāk* ← *prāñc*
 - \[noun\], accusative, singular, neuter
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *apāg* ← *apāk* ← *apāñc*
 - \[noun\], accusative, singular, neuter
 - “backward; apāñc \[word\]; western.”
-------------------------------------------------------------------------
+
+_________
+
 - *udaṅ* ← *udak* ← *udañc*
 - \[noun\], accusative, singular, neuter
 - “northern; northbound; udañc \[word\]; northerly.”
-------------------------------------------------------------------------
+
+_________
+
 - *nyag* ← *nyak* ← *nyāñc*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *hūyase* ← *hvā*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *simā* ← *sima*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *purū* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṣūto* ← *nṛṣūtaḥ* ← *nṛṣūta*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *asy* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānave* ← *ānava*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *'si* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *praśardha*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *turvaśe* ← *turvaśa*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

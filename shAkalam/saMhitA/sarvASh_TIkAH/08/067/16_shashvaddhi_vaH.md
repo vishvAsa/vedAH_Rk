@@ -76,43 +76,63 @@ purā́ ← purā́ (invariable)
 -   *śaśvaddhi* ← *śaśvat*
 - \[adverb\]
 - “always; repeatedly; continually; wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvaddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānava* ← *sudānavaḥ* ← *sudānu*
 - \[noun\], vocative, plural, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *bubhujmahe* ← *bhuj*
 - \[verb\], plural, Perfect indicative
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

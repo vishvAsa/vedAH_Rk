@@ -99,68 +99,102 @@ savitā́ ← savitár- (nominal stem)
 -   *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *paścātāt*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *purastāt*
 - \[adverb\]
 - “ahead; eastward; earlier; above; above.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitottarāttāt* ← *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitottarāttāt* ← *uttarāttāt*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *savitādharāttāt* ← *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitādharāttāt* ← *adharāttāt*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvatu* ← *sū*
 - \[verb\], singular, Present imperative
 - “give birth; urge; bestow; cause.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvatātiṃ* ← *sarvatātim* ← *sarvatāti*
 - \[noun\], accusative, singular, feminine
 - “completeness; prosperity; sum.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāsatāṃ* ← *rāsatām* ← *rā*
 - \[verb\], singular, Aorist imperative
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

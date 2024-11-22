@@ -99,44 +99,64 @@ vayám ← ahám (pronoun)
 -   *kutsā* ← *kutsāḥ* ← *kutsa*
 - \[noun\], nominative, plural, masculine
 - “Kutsa; kutsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *haryaśvāya* ← *haryaśva*
 - \[noun\], dative, singular, masculine
 - “Indra; Haryaśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūṣam* ← *śūṣa*
 - \[noun\], accusative, singular, masculine
 - “song; energy.”
-------------------------------------------------------------------------
+
+_________
+
 - *indre* ← *indra*
 - \[noun\], locative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *saho* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *devajūtam* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devajūtam* ← *jūtam* ← *jū*
 - \[verb noun\], accusative, singular
 - “animate; encourage; impel; inspire.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyānāḥ* ← *ī* ← *√i*
 - \[verb noun\], nominative, plural
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *satrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -147,39 +167,57 @@ vayám ← ahám (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhanā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhanā* ← *hanā* ← *hana*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrā* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarutrāḥ* ← *tarutra*
 - \[noun\], nominative, plural, masculine
 - “triumphant; conquering(a); superior.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanuyāma* ← *san*
 - \[verb\], plural, Present optative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

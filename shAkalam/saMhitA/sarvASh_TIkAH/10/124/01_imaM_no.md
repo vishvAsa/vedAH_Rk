@@ -111,92 +111,134 @@ támaḥ ← támas- (nominal stem)
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *pañcayāmaṃ* ← *pañca* ← *pañcan*
 - \[noun\]
 - “five; fifth; pañcan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pañcayāmaṃ* ← *yāmam* ← *yāma*
 - \[noun\], accusative, singular, masculine
 - “prahara; watch; travel; path.”
-------------------------------------------------------------------------
+
+_________
+
 - *trivṛtaṃ* ← *trivṛtam* ← *trivṛt*
 - \[noun\], accusative, singular, masculine
 - “treble.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptatantum* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptatantum* ← *tantum* ← *tantu*
 - \[noun\], accusative, singular, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
-------------------------------------------------------------------------
+
+_________
+
 - *aso* ← *asaḥ* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyavāḍ* ← *havyavāṭ* ← *havyavah*
 - \[noun\], nominative, singular
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *purogā* ← *purogāḥ* ← *purogā*
 - \[noun\], nominative, singular, masculine
 - “leader.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyog* ← *jyok*
 - \[adverb\]
 - “long.”
-------------------------------------------------------------------------
+
+_________
+
 - *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghaṃ* ← *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tama* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśayiṣṭhāḥ* ← *āśī* ← *√śī*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “lie; stay.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -87,55 +87,81 @@ yathā ← yathā (invariable)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *imā* ← *imāḥ* ← *idam*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājayann* ← *vājayan* ← *vājay* ← *√vaj*
 - \[verb noun\], nominative, singular
 - “incite.”
-------------------------------------------------------------------------
+
+_________
+
 - *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhīr* ← *oṣadhīḥ* ← *oṣadhī*
 - \[noun\], accusative, plural, feminine
 - “herb; plant; drug; herb.”
-------------------------------------------------------------------------
+
+_________
+
 - *hasta* ← *haste* ← *hasta*
 - \[noun\], locative, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādadhe* ← *ādhā* ← *√dhā*
 - \[verb\], singular, Present indikative
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātmā* ← *ātman*
 - \[noun\], nominative, singular, masculine
 - “self; nature; Ātman; mind; soul; self; body; character; ātman
     \[word\]; person; life; peculiarity.”
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣmasya* ← *yakṣma*
 - \[noun\], genitive, singular, masculine
 - “tuberculosis; disease; pulmonary tuberculosis.”
-------------------------------------------------------------------------
+
+_________
+
 - *naśyati* ← *naś*
 - \[verb\], singular, Present indikative
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
-------------------------------------------------------------------------
+
+_________
+
 - *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvagṛbho* ← *jīvagṛbhaḥ* ← *jīvagṛbh*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

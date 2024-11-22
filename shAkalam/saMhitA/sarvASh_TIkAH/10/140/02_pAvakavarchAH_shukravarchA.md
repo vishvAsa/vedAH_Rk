@@ -90,80 +90,114 @@ ubhé ← ubhá- (pronoun)
 -   *pāvakavarcāḥ* ← *pāvaka*
 - \[noun\]
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakavarcāḥ* ← *varcāḥ* ← *varcas*
 - \[noun\], nominative, singular, masculine
 - “shininess; vigor; fecal matter; glare; magnificence; energy;
     prestige; energy; glory; luster; light; varcas \[word\]; glory; body
     waste; droppings; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukravarcā* ← *śukra*
 - \[noun\]
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukravarcā* ← *varcāḥ* ← *varcas*
 - \[noun\], nominative, singular, masculine
 - “shininess; vigor; fecal matter; glare; magnificence; energy;
     prestige; energy; glory; luster; light; varcas \[word\]; glory; body
     waste; droppings; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *anūnavarcā* ← *anūna*
 - \[noun\]
 - “perfect; entire.”
-------------------------------------------------------------------------
+
+_________
+
 - *anūnavarcā* ← *varcāḥ* ← *varcas*
 - \[noun\], nominative, singular, masculine
 - “shininess; vigor; fecal matter; glare; magnificence; energy;
     prestige; energy; glory; luster; light; varcas \[word\]; glory; body
     waste; droppings; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyarṣi* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhānunā* ← *bhānu*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *putro* ← *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātarā* ← *mātṛ*
 - \[noun\], accusative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicarann* ← *vicaran* ← *vicar* ← *√car*
 - \[verb noun\], nominative, singular
 - “wander; travel; vraj; be active.”
-------------------------------------------------------------------------
+
+_________
+
 - *upāvasi* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *upāvasi* ← *avasi* ← *av*
 - \[verb\], singular, Present indikative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇakṣi* ← *pṛc*
 - \[verb\], singular, Present indikative
 - “mix; unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

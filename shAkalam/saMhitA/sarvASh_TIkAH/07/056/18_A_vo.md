@@ -105,83 +105,121 @@ vaḥ ← tvám (pronoun)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *johavīti* ← *johav* ← *√hvā*
 - \[verb\], singular, Present indikative
 - “appeal.”
-------------------------------------------------------------------------
+
+_________
+
 - *sattaḥ* ← *sad*
 - \[verb noun\], nominative, singular
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *satrācīṃ* ← *satrācīm* ← *satrāc*
 - \[noun\], accusative, singular, feminine
 - “focused; attentive.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātim* ← *rāti*
 - \[noun\], accusative, singular, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īvato* ← *īvataḥ* ← *īvat*
 - \[noun\], genitive, singular, masculine
 - “such(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇo* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *advayāvī* ← *advayāvin*
 - \[noun\], nominative, singular, masculine
 - “honest.”
-------------------------------------------------------------------------
+
+_________
+
 - *havate* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

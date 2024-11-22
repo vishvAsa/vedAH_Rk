@@ -87,60 +87,86 @@ vartaya ← √vr̥t- (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nivartana*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vartaya* ← *vartay* ← *√vṛt*
 - \[verb\], singular, Present imperative
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *nivartana*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vartaya* ← *vartay* ← *√vṛt*
 - \[verb\], singular, Present imperative
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmyāś* ← *bhūmyāḥ* ← *bhūmi*
 - \[noun\], genitive, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
-------------------------------------------------------------------------
+
+_________
+
 - *catasraḥ* ← *catur*
 - \[noun\], nominative, plural, feminine
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pradiśas* ← *pradiśaḥ* ← *pradiś*
 - \[noun\], nominative, plural, feminine
 - “quarter; direction; command; region; indication.”
-------------------------------------------------------------------------
+
+_________
+
 - *tābhya* ← *tābhyaḥ* ← *tad*
 - \[noun\], ablative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *enā* ← *enāḥ* ← *enad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartaya* ← *vartay* ← *√vṛt*
 - \[verb\], singular, Present imperative
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,19 +105,27 @@ syāt ← √as- 1 (root)
 -   *kṛṣann* ← *kṛṣan* ← *kṛṣ*
 - \[verb noun\], nominative, singular
 - “plow; drag; pull; dry; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *phāla* ← *phālaḥ* ← *phāla*
 - \[noun\], nominative, singular, masculine
 - “plowshare.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśitaṃ* ← *āśitam* ← *āśay* ← *√aś*
 - \[verb noun\], accusative, singular
 - “feed.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -128,75 +136,109 @@ syāt ← √as- 1 (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yann* ← *yan* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvānam* ← *adhvan*
 - \[noun\], accusative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṅkte* ← *vṛj*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *caritraiḥ* ← *caritra*
 - \[noun\], instrumental, plural, neuter
 - “foot; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadan* ← *vad*
 - \[verb noun\], nominative, singular
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmāvadato* ← *brahmā* ← *brahman*
 - \[noun\], nominative, singular, masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmāvadato* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmāvadato* ← *vadataḥ* ← *vad*
 - \[verb noun\], ablative, singular
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanīyān* ← *vanīyas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇann* ← *pṛṇan* ← *pṛ*
 - \[verb noun\], nominative, singular
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpir* ← *āpiḥ* ← *āpi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *apṛṇantam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *apṛṇantam* ← *pṛṇantam* ← *pṛ*
 - \[verb noun\], accusative, singular
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣyāt* ← *syāt* ← *as*
 - \[verb\], singular, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

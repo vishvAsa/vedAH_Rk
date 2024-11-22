@@ -105,21 +105,29 @@ ródasī ← ródasī- (nominal stem)
 -   *avadyam* ← *avadya*
 - \[noun\], accusative, singular, masculine
 - “blameworthy; avadya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyamānā* ← *man*
 - \[verb noun\], nominative, singular
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhākar* ← *guhā*
 - \[adverb\]
 - “secretly.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhākar* ← *akaḥ* ← *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -130,76 +138,108 @@ ródasī ← ródasī- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīryeṇā* ← *vīryeṇa* ← *vīrya*
 - \[noun\], instrumental, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīryeṇā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nyṛṣṭam* ← *nyṛṣ* ← *√ṛṣ*
 - \[verb noun\], accusative, singular
 - “fill; stuff.”
-------------------------------------------------------------------------
+
+_________
+
 - *athod* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *athod* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *asthāt* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayam*
 - \[adverb\]
 - “personally; spontaneously; svayam \[word\]; voluntarily.”
-------------------------------------------------------------------------
+
+_________
+
 - *atkaṃ* ← *atkam* ← *atka*
 - \[noun\], accusative, singular, masculine
 - “garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasāna* ← *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *apṛṇāj* ← *apṛṇāt* ← *pṛ*
 - \[verb\], singular, Imperfect
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyamānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

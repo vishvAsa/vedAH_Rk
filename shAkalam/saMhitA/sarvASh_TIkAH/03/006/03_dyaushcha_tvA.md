@@ -99,70 +99,104 @@ práyasvatīḥ ← práyasvant- (nominal stem)
 -   *dyauś* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivī*
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyāso* ← *yajñiyāsaḥ* ← *yajñiya*
 - \[noun\], nominative, plural, masculine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādayante* ← *sāday* ← *√sad*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *damāya* ← *dama*
 - \[noun\], dative, singular, masculine
 - “dwelling; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣīr* ← *mānuṣīḥ* ← *mānuṣa*
 - \[noun\], nominative, plural, feminine
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayantīḥ* ← *devay*
 - \[verb noun\], nominative, plural
 - “solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayasvatīr* ← *prayasvatīḥ* ← *prayasvat*
 - \[noun\], nominative, plural, feminine
 - “offering.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukram* ← *śukra*
 - \[noun\], accusative, singular, neuter
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *arciḥ* ← *arcis*
 - \[noun\], accusative, singular, neuter
 - “fire; flare; light; beam; gleam; shininess.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

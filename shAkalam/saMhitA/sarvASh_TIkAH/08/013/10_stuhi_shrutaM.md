@@ -77,47 +77,67 @@ namasvínaḥ ← namasvín- (nominal stem)
 -   *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipaścitaṃ* ← *vipaścitam* ← *vipaścit*
 - \[noun\], accusative, singular, masculine
 - “wise; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prasakṣiṇā* ← *prasakṣin*
 - \[noun\], nominative, dual, masculine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *gantārā* ← *gam*
 - \[verb\], dual, periphrast. future
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣo* ← *dāśuṣaḥ* ← *dāś*
 - \[verb noun\], genitive, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhaṃ* ← *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasvinaḥ* ← *namasvin*
 - \[noun\], genitive, singular, masculine
 - “worshiping; reverent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

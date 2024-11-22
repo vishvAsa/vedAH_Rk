@@ -74,41 +74,59 @@ sómasya ← sóma- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāsabhaṃ* ← *rāsabham* ← *rāsabha*
 - \[noun\], accusative, singular, masculine
 - “ass; domestic ass.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīḍvaṅge* ← *vīḍu*
 - \[noun\]
 - “hard; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīḍvaṅge* ← *aṅge* ← *aṅga*
 - \[noun\], locative, singular, masculine
 - “body part; body; part; limb; extremity; Vedāṅga; section; root;
     army unit; aṅga \[word\]; subsection; aṅgamantra; part; body;
     ingredient.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇvasū* ← *vṛṣaṇvasu*
 - \[noun\], vocative, dual, masculine
 - “affluent.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, masculine
 - “sweet; deft.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pītaye* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,12 +99,16 @@ néme ← néma- (nominal stem)
 -   *kratūyanti* ← *kratūy*
 - \[verb\], plural, Present indikative
 - “intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣitayo* ← *kṣitayaḥ* ← *kṣiti*
 - \[noun\], nominative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoga* ← *yoge* ← *yoga*
 - \[noun\], locative, singular, masculine
 - “method; application; yoga; remedy; mix; treatment; mixture;
@@ -113,68 +117,100 @@ néme ← néma- (nominal stem)
     therapy; enterprise; addition; undertaking; performance; marriage;
     yoke; yoga \[word\]; art; combination; assortment; confluence;
     constellation; relationship; connection; agent; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugrāśuṣāṇāso* ← *ugra*
 - \[noun\], vocative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugrāśuṣāṇāso* ← *āśuṣāṇāsaḥ* ← *āśuṣ* ← *√śuṣ*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *mitho* ← *mithas*
 - \[adverb\]
 - “together; mutually; alternately.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṇasātau* ← *arṇa*
 - \[noun\], masculine
 - “wave; flood.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṇasātau* ← *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vavṛtranta* ← *avavṛtranta* ← *vṛt*
 - \[verb\], plural, Plusquamperfect
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhmā* ← *yudhmāḥ* ← *yudhma*
 - \[noun\], nominative, plural, masculine
 - “warrior.”
-------------------------------------------------------------------------
+
+_________
+
 - *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *nema* ← *neme* ← *nema*
 - \[noun\], nominative, plural, masculine
 - “one.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrayante* ← *indray*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

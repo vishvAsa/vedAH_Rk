@@ -81,53 +81,77 @@ virā́jāni ← √rāj- (root)
 -   *asapatnaḥ* ← *asapatna*
 - \[noun\], nominative, singular, masculine
 - “unrivaled.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnahābhirāṣṭro* ← *sapatna*
 - \[noun\], masculine
 - “rival; enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnahābhirāṣṭro* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnahābhirāṣṭro* ← *abhirāṣṭraḥ* ← *abhirāṣṭra*
 - \[noun\], nominative, singular, masculine
 - “royal.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣāsahiḥ* ← *viṣāsahi*
 - \[noun\], nominative, singular, masculine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathāham* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣām* ← *idam*
 - \[noun\], genitive, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtānāṃ* ← *bhūtānām* ← *bhūta*
 - \[noun\], genitive, plural, neuter
 - “being; ghost; mahābhūta; monster; past; Bhūta; world; bhūta
     \[word\]; being; mythical monster; animal; entity.”
-------------------------------------------------------------------------
+
+_________
+
 - *virājāni* ← *virāj* ← *√rāj*
 - \[verb\], singular, Present imperative
 - “shine; excel; govern; dominate; glitter; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *janasya* ← *jana*
 - \[noun\], genitive, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

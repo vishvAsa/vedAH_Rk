@@ -99,77 +99,111 @@ vīryèṇa ← vīryà- (nominal stem)
 -   *guhā*
 - \[adverb\]
 - “secretly.”
-------------------------------------------------------------------------
+
+_________
+
 - *hitaṃ* ← *hitam* ← *dhā*
 - \[verb noun\], accusative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhyaṃ* ← *guhyam* ← *guh*
 - \[verb noun\], accusative, singular
 - “hide; cover; conceal; shroud; obscure.”
-------------------------------------------------------------------------
+
+_________
+
 - *gūḍham* ← *guh*
 - \[verb noun\], accusative, singular
 - “hide; cover; conceal; shroud; obscure.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *apīvṛtam* ← *apivṛ* ← *√vṛ*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *māyinaṃ* ← *māyinam* ← *māyin*
 - \[noun\], accusative, singular, masculine
 - “artful; charming; crafty; deceptive.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣiyantam* ← *kṣi*
 - \[verb noun\], accusative, singular
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāṃ* ← *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *tastabhvāṃsam* ← *stambh*
 - \[verb noun\], accusative, singular
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahann* ← *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahiṃ* ← *ahim* ← *ahi*
 - \[noun\], accusative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīryeṇa* ← *vīrya*
 - \[noun\], instrumental, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -110,53 +110,77 @@ prá ← prá (invariable)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyam* ← *satya*
 - \[noun\], nominative, singular, neuter
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānasyāstu* ← *pavamānasya* ← *pū*
 - \[verb noun\], genitive, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānasyāstu* ← *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāravaḥ* ← *kāru*
 - \[noun\], nominative, plural, masculine
 - “poet; singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃnasanta* ← *saṃnas* ← *√nas*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahne* ← *ahar*
 - \[noun\], dative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -167,29 +191,41 @@ prá ← prá (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāvan* ← *prāvat* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṃ* ← *manum* ← *manu*
 - \[noun\], accusative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyave* ← *dasyu*
 - \[noun\], dative, singular, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *kar* ← *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -200,11 +236,15 @@ prá ← prá (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīkam* ← *abhīka*
 - \[noun\], accusative, singular, neuter
 - “battle; meeting.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

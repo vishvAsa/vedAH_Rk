@@ -76,49 +76,71 @@ gírvaṇasam ← gírvaṇas- (nominal stem)
 -   *eha* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmayujā* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmayujā* ← *yujā* ← *yuj*
 - \[noun\], nominative, dual, masculine
 - “amalgamated; harnessed.”
-------------------------------------------------------------------------
+
+_________
+
 - *śagmā* ← *śagma*
 - \[noun\], nominative, dual, masculine
 - “powerful; reliable; competent.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣataḥ* ← *vah*
 - \[verb\], dual, Aorist conj./subj.
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *girvaṇasam* ← *girvaṇas*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,47 +105,67 @@ vásvī ← vásu- (nominal stem)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *śriya* ← *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocamānā* ← *rocamānāḥ* ← *ruc*
 - \[verb noun\], nominative, plural
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asthur* ← *asthuḥ* ← *sthā*
 - \[verb\], plural, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *normayo* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *normayo* ← *ūrmayaḥ* ← *ūrmi*
 - \[noun\], nominative, plural, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruśantaḥ* ← *ruśat*
 - \[noun\], nominative, plural, masculine
 - “white; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -156,41 +176,59 @@ vásvī ← vásu- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *supathā* ← *supatha*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *sugāny* ← *sugāni* ← *suga*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *abhūd* ← *abhūt* ← *bhū*
 - \[verb\], singular, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasvī* ← *vasu*
 - \[noun\], nominative, singular, feminine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇā*
 - \[noun\], nominative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghonī* ← *maghavan*
 - \[noun\], nominative, singular, feminine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

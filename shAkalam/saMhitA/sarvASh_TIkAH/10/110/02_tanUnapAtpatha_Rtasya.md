@@ -102,63 +102,93 @@ naḥ ← ahám (pronoun)
 -   *tanūnapāt* ← *tanūnapād* ← *tanūnapāt*
 - \[noun\], vocative, singular, masculine
 - “Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *patha* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *yānān* ← *yāna*
 - \[noun\], accusative, plural, masculine
 - “leading; leading to heaven.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhvā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *samañjan* ← *samañj* ← *√añj*
 - \[verb noun\], nominative, singular
 - “anoint.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadayā* ← *svaday* ← *√svad*
 - \[verb\], singular, Present imperative
 - “sweeten.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujihva*
 - \[noun\], vocative, singular, masculine
 - “Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *manmāni* ← *manman*
 - \[noun\], accusative, plural, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhībhir* ← *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛndhan* ← *ṛdh*
 - \[verb noun\], nominative, singular
 - “boom; stick to.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇuhy* ← *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -169,15 +199,21 @@ naḥ ← ahám (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

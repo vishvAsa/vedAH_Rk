@@ -110,91 +110,133 @@ pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)
 
 -   *karhi*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *svit* ← *svid*
 - \[adverb\]
 - “svid \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *cetyāsad* ← *cetyā*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *cetyāsad* ← *asat* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghasya* ← *agha*
 - \[noun\], genitive, singular, masculine
 - “bad; dangerous; ill; iniquitous; bad.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhinado* ← *bhinadaḥ* ← *bhid*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣa* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣat* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrakruvo* ← *mitrakruvaḥ* ← *mitrakrū*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yacchasane* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchasane* ← *śasane* ← *śasana*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvaḥ* ← *go*
 - \[noun\], nominative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpṛg* ← *āpṛk*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *amuyā* ← *adas*
 - \[noun\], instrumental, singular, feminine
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śayante* ← *śī*
 - \[verb\], plural, Present indikative
 - “lie; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

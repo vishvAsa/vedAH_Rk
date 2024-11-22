@@ -113,92 +113,134 @@ vaḥ ← tvám (pronoun)
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajaiṣmādyāsanāma* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ajaiṣmādyāsanāma* ← *asanāma* ← *san*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *cābhūmānāgaso* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cābhūmānāgaso* ← *abhūma* ← *bhū*
 - \[verb\], plural, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *cābhūmānāgaso* ← *anāgasaḥ* ← *anāgas*
 - \[noun\], nominative, plural, masculine
 - “blameless; impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasmād* ← *yasmāt* ← *yad*
 - \[noun\], ablative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *duṣṣvapnyād* ← *duṣṣvapnyāt* ← *duḥṣvapnya*
 - \[noun\], ablative, singular, neuter
 - “nightmare.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhaiṣmāpa* ← *abhaiṣma* ← *bhī*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “fear; fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhaiṣmāpa* ← *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucchatv* ← *ucchatu* ← *vas*
 - \[verb\], singular, Present imperative
 - “dawn; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *anehaso* ← *anehasaḥ* ← *anehas*
 - \[noun\], nominative, plural, feminine
 - “faultless; anehas \[word\]; incomparable.”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suūtayo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suūtayo* ← *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

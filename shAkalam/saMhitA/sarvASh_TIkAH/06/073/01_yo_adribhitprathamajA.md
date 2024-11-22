@@ -93,70 +93,104 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adribhit* ← *adri*
 - \[noun\], masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *adribhit* ← *bhid*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *prathamajā* ← *prathama*
 - \[noun\]
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamajā* ← *jāḥ* ← *jā*
 - \[noun\], nominative, singular, masculine
 - “born.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvā* ← *ṛtāvan*
 - \[noun\], nominative, singular, masculine
 - “law-abiding; faithful; righteous.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *āṅgiraso* ← *āṅgirasaḥ* ← *āṅgirasa*
 - \[noun\], nominative, singular, masculine
 - “Aṅgiras; Brihaspati; Bṛhaspati; Jupiter.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣmān* ← *haviṣmat*
 - \[noun\], nominative, singular, masculine
 - “sacrificing.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvibarhajmā* ← *dvibarhajman*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *prāgharmasat* ← *prāgharmasad*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *roravīti* ← *roro* ← *√ru*
 - \[verb\], singular, Present indikative
 - “bellow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

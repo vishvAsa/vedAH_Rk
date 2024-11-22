@@ -99,56 +99,80 @@ vayodhā́ḥ ← vayodhā́- (nominal stem)
 -   *trātā* ← *trā*
 - \[verb\], singular, periphrast. future
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bodhi* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadṛśāna* ← *dadṛśānaḥ* ← *dṛś*
 - \[verb noun\], nominative, singular
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpir* ← *āpiḥ* ← *āpi*
 - \[noun\], nominative, singular, masculine
 - “friend.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhikhyātā* ← *abhikhyātṛ*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *marḍitā* ← *marḍitṛ*
 - \[noun\], nominative, singular, masculine
 - “sympathizer.”
-------------------------------------------------------------------------
+
+_________
+
 - *somyānām* ← *somya*
 - \[noun\], genitive, plural, masculine
 - “saumya.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitṛtamaḥ* ← *pitṛtama*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pitṝṇāṃ* ← *pitṝṇām* ← *pitṛ*
 - \[noun\], genitive, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *kartem* ← *kartā* ← *kṛ*
 - \[verb\], singular, periphrast. future
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -159,32 +183,46 @@ vayodhā́ḥ ← vayodhā́- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kartem* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśate* ← *vaś*
 - \[verb noun\], dative, singular
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayodhāḥ* ← *vayaḥ* ← *vayas*
 - \[noun\], neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayodhāḥ* ← *dhāḥ* ← *dhā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

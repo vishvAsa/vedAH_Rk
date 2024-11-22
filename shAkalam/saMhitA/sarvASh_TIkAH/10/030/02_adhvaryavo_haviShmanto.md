@@ -108,87 +108,127 @@ tám ← sá- ~ tá- (pronoun)
 -   *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣmanto* ← *haviṣmantaḥ* ← *haviṣmat*
 - \[noun\], nominative, plural, masculine
 - “sacrificing.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtācchāpa* ← *bhūta* ← *bhū*
 - \[verb\], plural, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtācchāpa* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtācchāpa* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *itośatīr* ← *ita* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *itośatīr* ← *uśatīḥ* ← *vaś*
 - \[verb noun\], accusative, plural
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśantaḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāś* ← *yāḥ* ← *yad*
 - \[noun\], accusative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṇaḥ* ← *aruṇa*
 - \[noun\], nominative, singular, masculine
 - “red; tawny; dusty; gray.”
-------------------------------------------------------------------------
+
+_________
+
 - *suparṇas* ← *suparṇaḥ* ← *suparṇa*
 - \[noun\], nominative, singular, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsyadhvam* ← *ās* ← *√as*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmim* ← *ūrmi*
 - \[noun\], accusative, singular, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suhastāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhastāḥ* ← *hastāḥ* ← *hasta*
 - \[noun\], nominative, plural, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

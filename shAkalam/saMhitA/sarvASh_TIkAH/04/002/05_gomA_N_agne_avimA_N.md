@@ -99,77 +99,115 @@ sabhā́vān ← sabhā́vant- (nominal stem)
 -   *gomāṃ* ← *gomat*
 - \[noun\], nominative, singular, masculine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vimāṃ* ← *avimāṃ* ← *avimat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśvī* ← *aśvin*
 - \[noun\], nominative, singular, masculine
 - “rich in horses; horsy.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛvatsakhā* ← *nṛvat*
 - \[noun\]
 - “rich in men.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛvatsakhā* ← *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sadam*
 - \[adverb\]
 - “always.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *apramṛṣyaḥ* ← *apramṛṣya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *iﾱāvāṃ* ← *iḍāvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *eṣo* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asura*
 - \[noun\], vocative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajāvān* ← *prajāvat*
 - \[noun\], nominative, singular, masculine
 - “prolific.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrgho* ← *dīrghaḥ* ← *dīrgha*
 - \[noun\], nominative, singular, masculine
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthubudhnaḥ* ← *pṛthu*
 - \[noun\]
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthubudhnaḥ* ← *budhnaḥ* ← *budhna*
 - \[noun\], nominative, singular, masculine
 - “bottom; bottom; base.”
-------------------------------------------------------------------------
+
+_________
+
 - *sabhāvān* ← *sabhāvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

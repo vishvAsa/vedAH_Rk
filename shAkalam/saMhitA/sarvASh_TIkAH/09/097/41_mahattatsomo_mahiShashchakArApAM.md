@@ -104,21 +104,29 @@ sū́rye ← sū́rya- (nominal stem)
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahiṣaś* ← *mahiṣaḥ* ← *mahiṣa*
 - \[noun\], nominative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakārāpāṃ* ← *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -129,68 +137,96 @@ sū́rye ← sū́rya- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakārāpāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *garbho* ← *garbhaḥ* ← *garbha*
 - \[noun\], nominative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vṛṇīta* ← *avṛṇīta* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *adadhād* ← *adadhāt* ← *dhā*
 - \[verb\], singular, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *indre* ← *indra*
 - \[noun\], locative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamāna* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *'janayat* ← *ajanayat* ← *janay* ← *√jan*
 - \[verb\], singular, Imperfect
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrye* ← *sūrya*
 - \[noun\], locative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

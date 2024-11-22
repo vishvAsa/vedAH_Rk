@@ -70,27 +70,39 @@ rayím ← rayí- ~ rāy- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādhyaḥ* ← *svādhī*
 - \[noun\], nominative, plural, masculine
 - “devout; heedful; prudent.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānāso* ← *pavamānāsaḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *akramuḥ* ← *kram*
 - \[verb\], plural, Root aorist (Ind.)
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvanti* ← *kṛ*
 - \[verb\], plural, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -101,12 +113,16 @@ rayím ← rayí- ~ rāy- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *cetanam* ← *cetana*
 - \[noun\], accusative, singular, masculine
 - “noteworthy; remarkable; memorable; conspicuous; conscious;
     sentient.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -90,70 +90,100 @@ r̥bhúḥ ← r̥bhú- (nominal stem)
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmāsu* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāvya* ← *kāvyaḥ* ← *kāvya*
 - \[noun\], nominative, singular, masculine
 - “Uśanas; poem; Kāvya; wisdom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajro* ← *vajraḥ* ← *vajra*
 - \[noun\], nominative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsvate* ← *dāsvat*
 - \[noun\], dative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibharty* ← *bibharti* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrdhvakṛśanam* ← *ūrdhva*
 - \[noun\]
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrdhvakṛśanam* ← *kṛśanam* ← *kṛśana*
 - \[noun\], accusative, singular, masculine
 - “pearl.”
-------------------------------------------------------------------------
+
+_________
+
 - *madam* ← *mada*
 - \[noun\], accusative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtvyam* ← *kṛtvya*
 - \[noun\], accusative, singular, masculine
 - “confident.”
-------------------------------------------------------------------------
+
+_________
+
 - *madam* ← *mada*
 - \[noun\], accusative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

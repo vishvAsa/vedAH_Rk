@@ -73,41 +73,59 @@ vidyútaḥ ← vidyút- (nominal stem)
 -   *śṛṇve* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṭer* ← *vṛṣṭeḥ* ← *vṛṣṭi*
 - \[noun\], genitive, singular, feminine
 - “rain; shower; rainy season.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *svanaḥ* ← *svana*
 - \[noun\], nominative, singular, masculine
 - “noise; sound; svan.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānasya* ← *pū*
 - \[verb noun\], genitive, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmiṇaḥ* ← *śuṣmin*
 - \[noun\], genitive, singular, masculine
 - “strong; hotheaded.”
-------------------------------------------------------------------------
+
+_________
+
 - *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyuto* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], nominative, plural, feminine
 - “lightning; Vidyut; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

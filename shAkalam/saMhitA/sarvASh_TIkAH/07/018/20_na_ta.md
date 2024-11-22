@@ -108,90 +108,130 @@ tmánā ← tmán- (nominal stem)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumatayo* ← *sumatayaḥ* ← *sumati*
 - \[noun\], nominative, plural, feminine
 - “benevolence; favor; Sumati.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyaḥ* ← *rai*
 - \[noun\], nominative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃcakṣe* ← *saṃcakṣ* ← *√cakṣ*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvā* ← *pūrvāḥ* ← *pūrva*
 - \[noun\], nominative, plural, feminine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nūtnāḥ* ← *nūtna*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *devakaṃ* ← *devakam* ← *devaka*
 - \[noun\], accusative, singular, masculine
 - “Devaka.”
-------------------------------------------------------------------------
+
+_________
+
 - *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānyamānaṃ* ← *mānyamānam* ← *mānay* ← *√man*
 - \[verb noun\], accusative, singular
 - “honor; approve.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaghanthāva* ← *jaghantha* ← *han*
 - \[verb\], singular, Perfect indicative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaghanthāva* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhataḥ* ← *bṛhat*
 - \[noun\], ablative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *śambaram* ← *śambara*
 - \[noun\], accusative, singular, masculine
 - “Śambara; Śambara.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhet* ← *bhid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -103,76 +103,112 @@ vr̥ṣabhéṇa ← vr̥ṣabhá- (nominal stem)
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatāya* ← *yajata*
 - \[noun\], dative, singular, masculine
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇave* ← *dhṛṣṇu*
 - \[noun\], dative, singular, masculine
 - “brave; ferocious; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharanti* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhāya* ← *vṛṣabha*
 - \[noun\], dative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *saścate* ← *saścant*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajasva* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viduṣṭaraḥ* ← *viduṣṭara*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pibendra* ← *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabheṇa* ← *vṛṣabha*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bhānunā* ← *bhānu*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

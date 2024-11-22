@@ -105,88 +105,128 @@ sutásya ← √su- (root)
 -   *parāyatīm* ← *pare* ← *√i*
 - \[verb noun\], accusative, singular
 - “travel; depart; go; die.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *acaṣṭa* ← *cakṣ*
 - \[verb\], singular, Imperfect
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nānu* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāny* ← *gāni* ← *gā*
 - \[verb\], singular, Aorist conj./subj.
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *gamāni* ← *gam*
 - \[verb\], singular, Aorist conj./subj.
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṣṭur* ← *tvaṣṭuḥ* ← *tvaṣṭṛ*
 - \[noun\], genitive, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 - *apibat* ← *pā*
 - \[verb\], singular, Imperfect
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatadhanyaṃ* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatadhanyaṃ* ← *dhanyam* ← *dhanya*
 - \[noun\], accusative, singular, masculine
 - “fortunate; auspicious; affluent.”
-------------------------------------------------------------------------
+
+_________
+
 - *camvoḥ* ← *camū*
 - \[noun\], locative, dual, feminine
 - “army; camū; Camū.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

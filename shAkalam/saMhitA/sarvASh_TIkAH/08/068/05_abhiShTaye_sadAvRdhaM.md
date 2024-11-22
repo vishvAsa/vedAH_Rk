@@ -70,37 +70,55 @@ nā́nā ← nā́nā (invariable)
 -   *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadāvṛdhaṃ* ← *sadāvṛdham* ← *sadāvṛdha*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *svarmīﾱheṣu* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarmīﾱheṣu* ← *mīḍheṣu* ← *mīḍha*
 - \[noun\], locative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nānā*
 - \[adverb\]
 - “variously; differently; many; individually.”
-------------------------------------------------------------------------
+
+_________
+
 - *havanta* ← *havante* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

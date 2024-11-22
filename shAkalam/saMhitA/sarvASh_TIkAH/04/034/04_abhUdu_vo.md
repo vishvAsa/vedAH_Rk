@@ -105,84 +105,122 @@ tr̥tī́yam ← tr̥tī́ya- (nominal stem)
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhate* ← *vidh*
 - \[verb noun\], dative, singular
 - “worship; offer.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratnadheyam* ← *ratna*
 - \[noun\], neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratnadheyam* ← *dheyam* ← *dheya*
 - \[noun\], nominative, singular, neuter
 - “giving; distribution.”
-------------------------------------------------------------------------
+
+_________
+
 - *idā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], vocative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyāya* ← *martya*
 - \[noun\], dative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibata* ← *pā*
 - \[verb\], plural, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], vocative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], vocative, plural, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛtīyaṃ* ← *tṛtīyam* ← *tṛtīya*
 - \[noun\], nominative, singular, neuter
 - “third; neuter; tṛtīya \[word\]; homosexual.”
-------------------------------------------------------------------------
+
+_________
+
 - *savanam* ← *savana*
 - \[noun\], nominative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
-------------------------------------------------------------------------
+
+_________
+
 - *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

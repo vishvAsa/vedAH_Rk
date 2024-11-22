@@ -105,83 +105,121 @@ tvā́vataḥ ← tvā́vant- (nominal stem)
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaya* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *viddhi* ← *vid*
 - \[verb\], singular, Present imperative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṇaḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharāmahe* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājayur* ← *vājayuḥ* ← *vājayu*
 - \[noun\], nominative, singular, masculine
 - “competing(a); competitive.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipanyavo* ← *vipanyavaḥ* ← *vipanyu*
 - \[noun\], nominative, plural, masculine
 - “admiring; laudatory.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdhyato* ← *dīdhyataḥ* ← *dhī*
 - \[verb noun\], nominative, plural
 - “think; desire; chew over.”
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣā*
 - \[noun\], instrumental, singular, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyakṣantas* ← *iyakṣantaḥ* ← *iyakṣ* ← *√yaj*
 - \[verb noun\], nominative, plural
 - “endeavor.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāvato* ← *tvāvataḥ* ← *tvāvat*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

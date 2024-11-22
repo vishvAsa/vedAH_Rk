@@ -96,66 +96,98 @@ sárgaiḥ ← sárga- (nominal stem)
 -   *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghorāṇām* ← *ghora*
 - \[noun\], genitive, plural, masculine
 - “awful; dangerous; terrific; intense; dreadful.”
-------------------------------------------------------------------------
+
+_________
+
 - *etānām* ← *eta*
 - \[noun\], genitive, plural, masculine
 - “eta \[word\]; antelope.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayāsām* ← *ayās*
 - \[noun\], genitive, plural, masculine
 - “undaunted; irrepressible; audacious.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutāṃ* ← *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇva* ← *śṛṇve* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyatām* ← *e* ← *√i*
 - \[verb noun\], genitive, plural
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *upabdiḥ* ← *upabdi*
 - \[noun\], nominative, singular, masculine
 - “trample.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *martyam* ← *martya*
 - \[noun\], accusative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanāyantam* ← *pṛtanāy*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *ūmair* ← *ūmaiḥ* ← *ūma*
 - \[noun\], instrumental, plural, masculine
 - “assistant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇāvānaṃ* ← *ṛṇāvānam* ← *ṛṇāvan*
 - \[noun\], accusative, singular, masculine
 - “indebted(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *patayanta* ← *patay* ← *√pat*
 - \[verb\], plural, Present injunctive
 - “fly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sargaiḥ* ← *sarga*
 - \[noun\], instrumental, plural, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

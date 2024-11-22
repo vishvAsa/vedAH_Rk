@@ -99,72 +99,106 @@ yātumádbhyaḥ ← yātumánt- (nominal stem)
 -   *eta* ← *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *patayanti* ← *patay* ← *√pat*
 - \[verb\], plural, Present indikative
 - “fly.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvayātava* ← *śvayātavaḥ* ← *śvayātu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dipsanti* ← *dips* ← *√dabh*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *dipsavo* ← *dipsavaḥ* ← *dipsu*
 - \[noun\], nominative, plural, masculine
 - “noxious; hurtful; baleful.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dābhyam* ← *adābhyam* ← *adābhya*
 - \[noun\], accusative, singular, masculine
 - “trustworthy; disabused(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśīte* ← *śā*
 - \[verb\], singular, Present indikative
 - “sharpen; whet; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakraḥ* ← *śakra*
 - \[noun\], nominative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *piśunebhyo* ← *piśunebhyaḥ* ← *piśuna*
 - \[noun\], dative, plural, masculine
 - “calumniatory.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhaṃ* ← *vadham* ← *vadha*
 - \[noun\], accusative, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛjad* ← *sṛjat* ← *sṛj*
 - \[verb\], singular, Present injunctive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśaniṃ* ← *aśanim* ← *aśani*
 - \[noun\], accusative, singular, masculine
 - “lightning; Vajra; vajra; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātumadbhyaḥ* ← *yātumat*
 - \[noun\], dative, plural, masculine
 - “charming.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

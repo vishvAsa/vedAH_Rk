@@ -102,86 +102,126 @@ virapśám ← virapśá- (nominal stem)
 -   *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paramā* ← *parama*
 - \[noun\], nominative, singular, feminine
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāvad* ← *parāvat*
 - \[noun\], nominative, singular, feminine
 - “distance; distance; distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *ata* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtaspṛśo* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtaspṛśo* ← *spṛśaḥ* ← *spṛś*
 - \[noun\], nominative, plural, masculine
 - “touching.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣeduḥ* ← *seduḥ* ← *sad*
 - \[verb\], plural, Perfect indicative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *khātā* ← *khātāḥ* ← *khan*
 - \[verb noun\], nominative, plural
 - “dig; dig out; dig; bury.”
-------------------------------------------------------------------------
+
+_________
+
 - *avatā* ← *avatāḥ* ← *avata*
 - \[noun\], nominative, plural, masculine
 - “well.”
-------------------------------------------------------------------------
+
+_________
+
 - *adridugdhā* ← *adri*
 - \[noun\], masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *adridugdhā* ← *dugdhāḥ* ← *duh*
 - \[verb noun\], nominative, plural
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhva* ← *madhoḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ścotanty* ← *ścotanti* ← *ścut*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *abhito* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *virapśam* ← *virapśa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

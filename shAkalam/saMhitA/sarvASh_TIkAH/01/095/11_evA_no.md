@@ -109,94 +109,136 @@ utá ← utá (invariable)
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *evā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *samidhā* ← *samidh*
 - \[noun\], instrumental, singular, feminine
 - “firewood; kindling; fuel; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdhāno* ← *vṛdhānaḥ* ← *vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *revat*
 - \[noun\], accusative, singular, neuter
 - “abundant; rich; affluent; brilliant; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvaka*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravase* ← *śravas*
 - \[noun\], dative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāhi* ← *bhā*
 - \[verb\], singular, Present imperative
 - “look; shine; show; look like; glitter; reflect.”
-------------------------------------------------------------------------
+
+_________
+
 - *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *māmahantām* ← *mah*
 - \[verb\], plural, Perfect imperative
 - “give; accord.”
-------------------------------------------------------------------------
+
+_________
+
 - *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivī*
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

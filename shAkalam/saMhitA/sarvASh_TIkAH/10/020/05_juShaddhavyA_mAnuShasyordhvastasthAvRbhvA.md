@@ -80,48 +80,70 @@ sádma ← sádman- (nominal stem)
 - \[verb\], singular, Aorist inj. (proh.)
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣaddhavyā* ← *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣasyordhvas* ← *mānuṣasya* ← *mānuṣa*
 - \[noun\], genitive, singular, masculine
 - “man; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣasyordhvas* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthāv* ← *tasthau* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhvā* ← *ṛbhvāḥ* ← *ṛbhvas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *minvan* ← *mi*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *sadma* ← *sadman*
 - \[noun\], accusative, singular, neuter
 - “seat; house; stable; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *pura* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

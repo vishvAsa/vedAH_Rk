@@ -90,60 +90,88 @@ yajatám ← yajatá- (nominal stem)
 -   *viśāṃ* ← *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaviṃ* ← *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśpatiṃ* ← *viśpatim* ← *viśpati*
 - \[noun\], accusative, singular, masculine
 - “overlord; head.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvatīnāṃ* ← *śaśvatīnām* ← *śaśvat*
 - \[noun\], genitive, plural, feminine
 - “all(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *nitośanaṃ* ← *nitośanam* ← *nitośana*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 - *pretīṣaṇim* ← *pretīṣaṇi*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *iṣayantam* ← *iṣay* ← *√iṣ*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakaṃ* ← *pāvakam* ← *pāvaka*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājantam* ← *rāj*
 - \[verb noun\], accusative, singular
 - “govern; shine; glitter; direct.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajataṃ* ← *yajatam* ← *yajata*
 - \[noun\], accusative, singular, masculine
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayīṇām* ← *rayi*
 - \[noun\], genitive, plural, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

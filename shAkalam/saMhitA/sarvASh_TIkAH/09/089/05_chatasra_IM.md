@@ -105,86 +105,126 @@ viśvátas ← viśvátas (invariable)
 -   *catasra* ← *catasraḥ* ← *catur*
 - \[noun\], nominative, plural, feminine
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtaduhaḥ* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtaduhaḥ* ← *duhaḥ* ← *duh*
 - \[noun\], nominative, plural, feminine
 - “duh.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacante* ← *sac*
 - \[verb\], plural, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *samāne* ← *samāna*
 - \[noun\], locative, singular, neuter
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharuṇe* ← *dharuṇa*
 - \[noun\], locative, singular, neuter
 - “prop; foundation.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣattāḥ* ← *niṣad* ← *√sad*
 - \[verb noun\], nominative, plural
 - “sit down; sit; put.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *arṣanti* ← *ṛṣ*
 - \[verb\], plural, Present indikative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *punānās* ← *punānāḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣanti* ← *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

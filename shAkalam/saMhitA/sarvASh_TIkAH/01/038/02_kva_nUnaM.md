@@ -88,66 +88,94 @@ vaḥ ← tvám (pronoun)
 -   *kva*
 - \[adverb\]
 - “wherein; how; kva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *kad* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *arthaṃ* ← *artham* ← *artha*
 - \[noun\], nominative, singular, neuter
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
     topic; property; situation; reason; affair; concern; reason;
     enterprise; reason; cause; five; application; application.”
-------------------------------------------------------------------------
+
+_________
+
 - *gantā* ← *ganta* ← *gam*
 - \[verb\], plural, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *kva*
 - \[adverb\]
 - “wherein; how; kva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *raṇyanti* ← *raṇ*
 - \[verb\], plural, Present indikative
 - “rejoice.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

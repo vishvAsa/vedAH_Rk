@@ -76,43 +76,63 @@ vŕ̥thā ← vŕ̥thā (invariable)
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sānu*
 - \[noun\], nominative, singular, neuter
 - “tableland; ridge; peak; back; ridge; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pipyuṣī* ← *pyā*
 - \[verb noun\], nominative, singular
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārā*
 - \[noun\], nominative, singular, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedhasaḥ* ← *vedhas*
 - \[noun\], genitive, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛthā*
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

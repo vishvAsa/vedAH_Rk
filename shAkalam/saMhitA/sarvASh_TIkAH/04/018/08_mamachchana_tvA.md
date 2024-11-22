@@ -110,85 +110,127 @@ sáhasā ← sáhas- (nominal stem)
 
 -   *mamac* ← *mamat*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvatiḥ* ← *yuvati*
 - \[noun\], nominative, singular, feminine
 - “girl; woman.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāsa* ← *parās* ← *√as*
 - \[verb\], singular, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *mamac* ← *mamat*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuṣavā*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *jagāra* ← *gṛ*
 - \[verb\], singular, Perfect indicative
 - “devour; swallow; surround.”
-------------------------------------------------------------------------
+
+_________
+
 - *mamac* ← *mamat*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśave* ← *śiśu*
 - \[noun\], dative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
-------------------------------------------------------------------------
+
+_________
+
 - *mamṛḍyur* ← *mamṛḍyuḥ* ← *mṛḍ*
 - \[verb\], plural, Perfect optative
 - “pardon.”
-------------------------------------------------------------------------
+
+_________
+
 - *mamac* ← *mamat*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasod* ← *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasod* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *atiṣṭhat* ← *sthā*
 - \[verb\], singular, Imperfect
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

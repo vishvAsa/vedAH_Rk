@@ -111,99 +111,143 @@ sumatím ← sumatí- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśamāno* ← *śaśamānaḥ* ← *śam*
 - \[verb noun\], nominative, singular
 - “calm; go out; end; die; pacify; heal; labor; make peace; rest.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśati* ← *dāś*
 - \[verb\], singular, Present indikative
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “mental; wise; mental; enlightened.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajati* ← *yaj*
 - \[verb\], singular, Present indikative
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *manmasādhanaḥ* ← *manma* ← *manman*
 - \[noun\], neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *manmasādhanaḥ* ← *sādhanaḥ* ← *sādhana*
 - \[noun\], nominative, singular, masculine
 - “effective; performing.”
-------------------------------------------------------------------------
+
+_________
+
 - *upāha* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *upāha* ← *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *gacchatho* ← *gacchathaḥ* ← *gam*
 - \[verb\], dual, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *vītho* ← *vīthaḥ* ← *vī* ← *√i*
 - \[verb\], dual, Present indikative
 - “disappear; differ; elapse.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumatiṃ* ← *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
-------------------------------------------------------------------------
+
+_________
+
 - *gantam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmayū* ← *asmayu*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

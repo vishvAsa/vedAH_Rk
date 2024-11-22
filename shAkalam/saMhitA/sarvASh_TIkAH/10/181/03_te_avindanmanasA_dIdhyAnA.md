@@ -104,85 +104,123 @@ sū́ryāt ← sū́rya- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vindan* ← *avindan* ← *vid*
 - \[verb\], plural, Imperfect
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdhyānā* ← *dīdhyānāḥ* ← *dhī*
 - \[verb noun\], nominative, plural
 - “think; desire; chew over.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaju* ← *yajus*
 - \[noun\], accusative, singular, neuter
 - “Yajur-Veda; Yajus; prayer.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣkannam* ← *skand*
 - \[verb noun\], accusative, singular
 - “clot; ejaculate; spill; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamaṃ* ← *prathamam* ← *prathama*
 - \[noun\], accusative, singular, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayānam* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayānam* ← *yānam* ← *yāna*
 - \[noun\], accusative, singular, neuter
 - “vehicle; journey; campaign; carriage; vessel; cart.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhātur* ← *dhātuḥ* ← *dhātṛ*
 - \[noun\], ablative, singular, masculine
 - “Brahma; Dhātṛ; creator; Dhātṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyutānāt* ← *dyutāna*
 - \[noun\], ablative, singular, masculine
 - “shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *savituś* ← *savituḥ* ← *savitṛ*
 - \[noun\], ablative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṇor* ← *viṣṇoḥ* ← *viṣṇu*
 - \[noun\], ablative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryād* ← *sūryāt* ← *sūrya*
 - \[noun\], ablative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *abharan* ← *bhṛ*
 - \[verb\], plural, Imperfect
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmam* ← *gharma*
 - \[noun\], accusative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

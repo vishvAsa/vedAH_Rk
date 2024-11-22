@@ -87,61 +87,87 @@ vīryàm ← vīryà- (nominal stem)
 -   *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *harasā* ← *haras*
 - \[noun\], instrumental, singular, neuter
 - “fire; fury; grip; capture.”
-------------------------------------------------------------------------
+
+_________
+
 - *haraḥ* ← *haras*
 - \[noun\], accusative, singular, neuter
 - “fire; fury; grip; capture.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇīhi* ← *śṛ*
 - \[verb\], singular, Present imperative
 - “fall off; break; disintegrate; crush; break; fracture.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātudhānasya* ← *yātudhāna*
 - \[noun\], genitive, singular, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣaso* ← *rakṣasaḥ* ← *rakṣas*
 - \[noun\], genitive, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *balaṃ* ← *balam* ← *bala*
 - \[noun\], accusative, singular, neuter
 - “strength; army; power; force; potency; vigor; Balarama; bala;
     violence; might; Shiva; bala \[word\]; myrrh; semen; reflex; bronze;
     influence; erection; potency; intensity.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruja* ← *ruj*
 - \[verb\], singular, Present imperative
 - “break; bend.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

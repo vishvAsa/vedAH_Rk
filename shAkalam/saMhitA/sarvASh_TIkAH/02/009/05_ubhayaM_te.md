@@ -96,42 +96,60 @@ svapatyásya ← svapatyá- (nominal stem)
 -   *ubhayaṃ* ← *ubhayam* ← *ubhaya*
 - \[noun\], nominative, singular, neuter
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣīyate* ← *kṣi*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “decrease; emaciate; vanish; kill; wane; destroy; run down; elapse;
     lose; lose; gasify; decline; decay; corrupt.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasavyaṃ* ← *vasavyam* ← *vasavya*
 - \[noun\], nominative, singular, neuter
 - “wealth; wealth.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyamānasya* ← *jan*
 - \[verb noun\], genitive, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasma*
 - \[noun\], vocative, singular, masculine
 - “overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -142,20 +160,28 @@ svapatyásya ← svapatyá- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣumantaṃ* ← *kṣumantam* ← *kṣumat*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *jaritāram* ← *jaritṛ*
 - \[noun\], accusative, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -166,24 +192,34 @@ svapatyásya ← svapatyá- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *patiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapatyasya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapatyasya* ← *apatyasya* ← *apatya*
 - \[noun\], genitive, singular, neuter
 - “child; offspring; patronymic; descendant.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

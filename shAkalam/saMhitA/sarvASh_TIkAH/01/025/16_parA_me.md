@@ -76,49 +76,71 @@ urucákṣasam ← urucákṣas- (nominal stem)
 -   *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītayo* ← *dhītayaḥ* ← *dhīti*
 - \[noun\], nominative, plural, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyūtīr* ← *gavyūtīḥ* ← *gavyūti*
 - \[noun\], accusative, plural, feminine
 - “pasture.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchantīr* ← *icchantīḥ* ← *iṣ*
 - \[verb noun\], nominative, plural
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *urucakṣasam* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *urucakṣasam* ← *cakṣasam* ← *cakṣas*
 - \[noun\], accusative, singular, masculine
 - “eye; look; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -79,67 +79,95 @@ padám ← padá- (nominal stem)
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tridhātv* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tridhātv* ← *dhātu*
 - \[noun\], nominative, singular, neuter
 - “mineral; dhātu; saptadhātu; Sanskrit verbal root; etymon; aṣṭaloha;
     mahābhūta; gairika; component; navadhātu; svarṇamākṣika; doṣa;
     inorganic compound.”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛtam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛtam* ← *vṛtam* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhis* ← *barhiḥ* ← *barhis*
 - \[noun\], nominative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthāv* ← *tasthau* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *asaṃdinam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *asaṃdinam* ← *saṃdinam* ← *saṃdā* ← *√dā*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *āpaś* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhā* ← *dadha* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *padam* ← *pada*
 - \[noun\], accusative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

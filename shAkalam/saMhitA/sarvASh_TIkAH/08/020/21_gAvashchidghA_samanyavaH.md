@@ -77,46 +77,68 @@ rihaté ← √rih- (root)
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghā* ← *gha*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *samanyavaḥ* ← *samanyu*
 - \[noun\], nominative, plural, masculine
 - “consentaneous.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajātyena* ← *sajātya*
 - \[noun\], instrumental, singular, neuter
 - “relatedness.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *sabandhavaḥ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sabandhavaḥ* ← *bandhavaḥ* ← *bandhu*
 - \[noun\], nominative, plural, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
-------------------------------------------------------------------------
+
+_________
+
 - *rihate* ← *rih*
 - \[verb\], plural, Present indikative
 - “lick.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakubho* ← *kakubhaḥ* ← *kakubh*
 - \[noun\], accusative, plural, feminine
 - “Kakubh; peak; bulge.”
-------------------------------------------------------------------------
+
+_________
+
 - *mithaḥ* ← *mithas*
 - \[adverb\]
 - “together; mutually; alternately.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,74 +105,110 @@ svàrṇaram ← svàrṇara- (nominal stem)
 -   *śagdhī* ← *śagdhi* ← *śak*
 - \[verb\], singular, Aorist imperative
 - “can; invigorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pauram* ← *paura*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āvitha* ← *av*
 - \[verb\], singular, Perfect indicative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiya* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣāsataḥ* ← *siṣās* ← *√san*
 - \[verb noun\], genitive, singular
 - “win; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *śagdhi* ← *śak*
 - \[verb\], singular, Aorist imperative
 - “can; invigorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruśamaṃ* ← *ruśamam* ← *ruśama*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śyāvakaṃ* ← *śyāvakam* ← *śyāvaka*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kṛpam* ← *kṛpa*
 - \[noun\], accusative, singular, masculine
 - “Kṛpa; Kṛpa.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāvaḥ* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarṇaram* ← *svarṇṛ*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

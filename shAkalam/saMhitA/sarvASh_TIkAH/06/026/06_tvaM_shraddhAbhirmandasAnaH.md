@@ -99,72 +99,106 @@ sahásrā ← sahásra- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śraddhābhir* ← *śraddhābhiḥ* ← *śraddhā*
 - \[noun\], instrumental, plural, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandasānaḥ* ← *mand*
 - \[verb noun\], nominative, singular
 - “rejoice; exhilarate.”
-------------------------------------------------------------------------
+
+_________
+
 - *somair* ← *somaiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dabhītaye* ← *dabhīti*
 - \[noun\], dative, singular, masculine
 - “Dabhīti.”
-------------------------------------------------------------------------
+
+_________
+
 - *cumurim* ← *cumuri*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣvap* ← *svap*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sleep; numb; fall asleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajim* ← *raji*
 - \[noun\], accusative, singular, masculine
 - “Raji.”
-------------------------------------------------------------------------
+
+_________
+
 - *piṭhīnase* ← *piṭhīnas*
 - \[noun\], dative, singular, masculine
 - “Piṭhīnas.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśasyan* ← *daśasy*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *ṣaṣṭiṃ* ← *ṣaṣṭim* ← *ṣaṣṭi*
 - \[noun\], accusative, singular, feminine
 - “sixty; sixtieth; ṣaṣṭi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śacyā* ← *śacī*
 - \[noun\], instrumental, singular, feminine
 - “Śacī; power; dexterity; ability; aid.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacāhan* ← *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacāhan* ← *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

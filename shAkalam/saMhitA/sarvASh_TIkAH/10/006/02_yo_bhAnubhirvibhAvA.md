@@ -99,75 +99,109 @@ sáptiḥ ← sápti- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhānubhir* ← *bhānubhiḥ* ← *bhānu*
 - \[noun\], instrumental, plural, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, masculine
 - “illuminating; shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāty* ← *vibhāti* ← *vibhā* ← *√bhā*
 - \[verb\], singular, Present indikative
 - “shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhir* ← *devebhiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvājasraḥ* ← *ṛtāvā* ← *ṛtāvan*
 - \[noun\], nominative, singular, masculine
 - “law-abiding; faithful; righteous.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvājasraḥ* ← *ajasraḥ* ← *ajasra*
 - \[noun\], nominative, singular, masculine
 - “ceaseless; ageless; incessant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vivāya* ← *vī*
 - \[verb\], singular, Perfect indicative
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyā* ← *sakhya*
 - \[noun\], instrumental, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhibhyo* ← *sakhibhyaḥ* ← *sakhi*
 - \[noun\], dative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *'parihvṛto* ← *aparihvṛtaḥ* ← *aparihvṛta*
 - \[noun\], nominative, singular, masculine
 - “aparihvṛta \[word\]; unhampered.”
-------------------------------------------------------------------------
+
+_________
+
 - *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saptiḥ* ← *sapti*
 - \[noun\], nominative, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

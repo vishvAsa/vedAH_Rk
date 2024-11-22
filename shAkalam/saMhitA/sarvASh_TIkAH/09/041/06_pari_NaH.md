@@ -76,41 +76,61 @@ viṣṭápam ← viṣṭáp- (nominal stem)
 -   *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṇaḥ* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarmayantyā* ← *śarmay*
 - \[verb noun\], instrumental, singular
-------------------------------------------------------------------------
+
+_________
+
 - *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarā* ← *sara* ← *sṛ*
 - \[verb\], singular, Aorist imperative
 - “sṛ; liquefy; run; spread; stretch out.”
-------------------------------------------------------------------------
+
+_________
+
 - *raseva* ← *rasā*
 - \[noun\], nominative, singular, feminine
 - “Rasā; Earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *raseva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṭapam* ← *viṣṭap*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

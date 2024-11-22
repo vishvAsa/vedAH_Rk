@@ -53,19 +53,27 @@ síṣaktu ← √sac- 1 (root)
 -   *siṣaktu* ← *sac*
 - \[verb\], singular, Present imperative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjavyasya* ← *ūrjavya*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *puṣṭeḥ* ← *puṣṭi*
 - \[noun\], genitive, singular, feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

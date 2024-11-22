@@ -102,78 +102,114 @@ yūyám ← tvám (pronoun)
 -   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭhā* ← *vasiṣṭhāḥ* ← *vasiṣṭha*
 - \[noun\], nominative, plural, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īśānaṃ* ← *īśānam* ← *īś*
 - \[verb noun\], accusative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūno* ← *sūnu*
 - \[noun\], vocative, singular, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahaso* ← *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotṛbhyo* ← *stotṛbhyaḥ* ← *stotṛ*
 - \[noun\], dative, plural, masculine
 - “laudatory; worshiping.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavadbhya* ← *maghavadbhyaḥ* ← *maghavan*
 - \[noun\], dative, plural, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaḍ* ← *ānaṭ* ← *naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “reach; achieve; enter (a state); reach.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

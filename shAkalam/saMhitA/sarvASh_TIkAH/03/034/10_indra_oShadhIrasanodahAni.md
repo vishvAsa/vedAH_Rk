@@ -94,69 +94,99 @@ damitā́ ← damitár- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhīr* ← *oṣadhīḥ* ← *oṣadhi*
 - \[noun\], accusative, plural, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
-------------------------------------------------------------------------
+
+_________
+
 - *asanod* ← *asanot* ← *san*
 - \[verb\], singular, Imperfect
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahāni* ← *ahar*
 - \[noun\], accusative, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanaspatīṃr* ← *vanaspati*
 - \[noun\], accusative, plural, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *asanod* ← *asanot* ← *san*
 - \[verb\], singular, Imperfect
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣam* ← *antarikṣa*
 - \[noun\], accusative, singular, neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibheda* ← *bhid*
 - \[verb\], singular, Perfect indicative
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *valaṃ* ← *valam* ← *vala*
 - \[noun\], accusative, singular, masculine
 - “Vala; vala; cave.”
-------------------------------------------------------------------------
+
+_________
+
 - *nunude* ← *nud*
 - \[verb\], singular, Perfect indicative
 - “push; propel; expel; push; move.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivāco* ← *vivācaḥ* ← *vivāc*
 - \[noun\], accusative, plural, masculine
 - “arguing.”
-------------------------------------------------------------------------
+
+_________
+
 - *'thābhavad* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *'thābhavad* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *damitābhikratūnām* ← *damitā* ← *dam*
 - \[verb\], singular, periphrast. future
 - “calm; mortify; tame.”
-------------------------------------------------------------------------
+
+_________
+
 - *damitābhikratūnām* ← *abhikratūnām* ← *abhikratu*
 - \[noun\], genitive, plural, masculine
 - “rebel(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

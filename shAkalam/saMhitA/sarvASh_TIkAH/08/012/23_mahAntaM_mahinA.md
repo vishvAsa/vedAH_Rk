@@ -82,52 +82,76 @@ sám ← sám (invariable)
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomebhir* ← *stomebhiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *havanaśrutam* ← *havana*
 - \[noun\], neuter
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *havanaśrutam* ← *śrutam* ← *śrut*
 - \[noun\], accusative, singular, masculine
 - “listening.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkair* ← *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṇonumaḥ* ← *nonumaḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Present indikative
 - “bellow.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojase* ← *ojas*
 - \[noun\], dative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

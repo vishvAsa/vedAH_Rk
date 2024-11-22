@@ -76,19 +76,27 @@ yaśástamasya ← yaśástama- (nominal stem)
 -   *vājayann* ← *vājayan* ← *vājay* ← *√vaj*
 - \[verb noun\], nominative, singular
 - “incite.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathān* ← *ratha*
 - \[noun\], accusative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *yogāṃ* ← *yoga*
 - \[noun\], accusative, plural, masculine
 - “method; application; yoga; remedy; mix; treatment; mixture;
@@ -97,28 +105,40 @@ yaśástamasya ← yaśástama- (nominal stem)
     therapy; enterprise; addition; undertaking; performance; marriage;
     yoke; yoga \[word\]; art; combination; assortment; confluence;
     constellation; relationship; connection; agent; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *agner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaśastamasya* ← *yaśastama*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mīḍhuṣaḥ* ← *mīḍhvas*
 - \[noun\], genitive, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

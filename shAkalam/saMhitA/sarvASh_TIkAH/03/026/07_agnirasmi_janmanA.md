@@ -107,92 +107,132 @@ nā́ma ← nā́man- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *janmanā* ← *janman*
 - \[noun\], instrumental, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedā* ← *jātavedāḥ* ← *jātavedas*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtam* ← *ghṛta*
 - \[noun\], nominative, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣur* ← *cakṣuḥ* ← *cakṣus*
 - \[noun\], nominative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtam* ← *amṛta*
 - \[noun\], nominative, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
-------------------------------------------------------------------------
+
+_________
+
 - *ma* ← *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsan*
 - \[noun\], locative, singular, neuter
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkas* ← *arkaḥ* ← *arka*
 - \[noun\], nominative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *tridhātū* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tridhātū* ← *dhātuḥ* ← *dhātu*
 - \[noun\], nominative, singular, masculine
 - “mineral; dhātu; saptadhātu; Sanskrit verbal root; etymon; aṣṭaloha;
     mahābhūta; gairika; component; navadhātu; svarṇamākṣika; doṣa;
     inorganic compound.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajaso* ← *rajasaḥ* ← *rajas*
 - \[noun\], genitive, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *vimāno* ← *vimānaḥ* ← *vimā* ← *√mā*
 - \[verb noun\], nominative, singular
 - “arrange; distribute; barter; measure; fixate.”
-------------------------------------------------------------------------
+
+_________
+
 - *'jasro* ← *ajasraḥ* ← *ajasra*
 - \[noun\], nominative, singular, masculine
 - “ceaseless; ageless; incessant.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmo* ← *gharmaḥ* ← *gharma*
 - \[noun\], nominative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *havir* ← *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāma*
 - \[adverb\]
 - “by name; indeed; however; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

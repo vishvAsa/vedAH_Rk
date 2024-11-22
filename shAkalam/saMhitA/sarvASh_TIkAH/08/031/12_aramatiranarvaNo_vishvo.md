@@ -69,37 +69,53 @@ aneháḥ ← anehás- (nominal stem)
 
 -   *aramatir* ← *aramatiḥ* ← *aramati*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *anarvaṇo* ← *anarvaṇaḥ* ← *anarvaṇa*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *viśvo* ← *viśvaḥ* ← *viśva*
 - \[noun\], nominative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityānām* ← *āditya*
 - \[noun\], genitive, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aneha* ← *anehaḥ* ← *anehas*
 - \[noun\], nominative, singular, neuter
 - “faultless; anehas \[word\]; incomparable.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

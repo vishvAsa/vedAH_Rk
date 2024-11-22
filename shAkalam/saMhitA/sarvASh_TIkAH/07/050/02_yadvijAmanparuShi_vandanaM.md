@@ -114,99 +114,143 @@ vidat ← √vid- 1 (root)
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vijāman*
 - \[noun\], locative, singular, neuter
 - “vijāman.”
-------------------------------------------------------------------------
+
+_________
+
 - *paruṣi* ← *parus*
 - \[noun\], locative, singular, neuter
 - “joint.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandanam* ← *vandana*
 - \[noun\], nominative, singular, neuter
 - “worship; skin disease.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvad* ← *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣṭhīvantau* ← *aṣṭhīvant*
 - \[noun\], accusative, dual, masculine
 - “knee; aṣṭhīvant \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *kulphau* ← *kulpha*
 - \[noun\], accusative, dual, masculine
 - “ankle.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dehat* ← *dih*
 - \[verb\], singular, Present injunctive
 - “smear; anoint; saturate; apply externally; dirty; spread; daub;
     poison.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṣ* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṭacchocann* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṭacchocann* ← *śocan* ← *śuc*
 - \[verb noun\], nominative, singular
 - “mourn; grieve; flame; glow; burn; repent.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *bādhatām* ← *bādh*
 - \[verb\], singular, Present imperative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ito* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *padyena* ← *padya*
 - \[noun\], instrumental, singular, neuter
 - “foot.”
-------------------------------------------------------------------------
+
+_________
+
 - *rapasā* ← *rapas*
 - \[noun\], instrumental, singular, neuter
 - “injury; disease; infirmity; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *tsaruḥ* ← *tsaru*
 - \[noun\], nominative, singular, masculine
 - “hilt; sycophant.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

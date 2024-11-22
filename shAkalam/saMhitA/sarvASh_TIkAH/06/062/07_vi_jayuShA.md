@@ -99,66 +99,100 @@ sumatím ← sumatí- (nominal stem)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayuṣā* ← *jayus*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *rathyā* ← *rathī*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yātam* ← *yā*
 - \[verb\], dual, Aorist inj. (proh.)
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *adriṃ* ← *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb\], dual, Aorist inj. (proh.)
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], nominative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhrimatyāḥ* ← *vadhrimatī*
 - \[noun\], genitive, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *daśasyantā* ← *daśasy*
 - \[verb noun\], nominative, dual
-------------------------------------------------------------------------
+
+_________
+
 - *śayave* ← *śayu*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pipyathur* ← *pipyathuḥ* ← *pyā*
 - \[verb\], dual, Perfect indicative
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cyavānā* ← *cyavāna*
 - \[noun\], vocative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuraṇyū* ← *bhuraṇyu*
 - \[noun\], vocative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

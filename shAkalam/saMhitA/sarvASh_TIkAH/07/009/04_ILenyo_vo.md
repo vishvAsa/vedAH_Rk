@@ -93,74 +93,108 @@ samidhānám ← √idh- 1 (root)
 -   *īﾱenyo* ← *īḍenyaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣo* ← *manuṣaḥ* ← *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *yugeṣu* ← *yuga*
 - \[noun\], locative, plural, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
-------------------------------------------------------------------------
+
+_________
+
 - *samanagā* ← *samana*
 - \[noun\], neuter
 - “marriage; conflict.”
-------------------------------------------------------------------------
+
+_________
+
 - *samanagā* ← *gāḥ* ← *gā*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśucaj* ← *aśucat* ← *śuc*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “mourn; grieve; flame; glow; burn; repent.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedāḥ* ← *jātavedas*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *susaṃdṛśā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *susaṃdṛśā* ← *saṃdṛśā* ← *saṃdṛś*
 - \[noun\], instrumental, singular, masculine
 - “appearance; view; view.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhānunā* ← *bhānu*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāti* ← *vibhā* ← *√bhā*
 - \[verb\], singular, Present indikative
 - “shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *samidhānam* ← *samindh* ← *√indh*
 - \[verb noun\], accusative, singular
 - “kindle; blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *budhanta* ← *budh*
 - \[verb\], plural, Aorist inj. (proh.)
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

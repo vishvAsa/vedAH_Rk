@@ -111,78 +111,114 @@ pū́rvam ← pū́rva- (nominal stem)
 -   *ka* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *stavat* ← *stu*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇāt* ← *pṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajāte* ← *yaj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvahāvet* ← *viśvahā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *viśvahāvet* ← *avet* ← *av*
 - \[verb\], singular, Present optative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *pādāv* ← *pādau* ← *pāda*
 - \[noun\], accusative, dual, masculine
 - “foot; one-fourth; beam; pāda; foot; foundation; pāda \[word\]; leg;
     leg; animal foot; step; foot; footfall; verse.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *praharann* ← *praharan* ← *prahṛ* ← *√hṛ*
 - \[verb noun\], nominative, singular
 - “fight; attack; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *anyaṃ* ← *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -193,22 +229,30 @@ pū́rvam ← pū́rva- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvam* ← *pūrva*
 - \[noun\], accusative, singular, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *aparaṃ* ← *aparam* ← *apara*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); following; western; future; apara \[word\];
     elder; remaining; some(a); later(a); back(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

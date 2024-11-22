@@ -87,67 +87,97 @@ uṣásā ← uṣás- (nominal stem)
 -   *śṛṇvantu* ← *śru*
 - \[verb\], plural, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānavo* ← *sudānavaḥ* ← *sudānu*
 - \[noun\], nominative, plural, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gnijihvā* ← *agni*
 - \[noun\], masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gnijihvā* ← *jihvāḥ* ← *jihvā*
 - \[noun\], nominative, plural, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvṛdhaḥ* ← *ṛtāvṛdh*
 - \[noun\], nominative, plural, masculine
 - “sincere.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibatu* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛtavrato* ← *dhṛta* ← *dhṛ*
 - \[verb noun\]
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛtavrato* ← *vrataḥ* ← *vrata*
 - \[noun\], nominative, singular, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *'śvibhyām* ← *aśvibhyām* ← *aśvin*
 - \[noun\], instrumental, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasā* ← *uṣas*
 - \[noun\], instrumental, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajūḥ* ← *sajūs*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

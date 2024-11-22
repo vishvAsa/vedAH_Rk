@@ -73,43 +73,61 @@ niṣkr̥tám ← niṣkr̥tá- (nominal stem)
 -   *apaghnan* ← *apahan* ← *√han*
 - \[verb noun\], nominative, singular
 - “remove; cure; ward off; repel.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛdho* ← *mṛdhaḥ* ← *mṛdh*
 - \[noun\], accusative, plural, feminine
 - “enemy; adversary.”
-------------------------------------------------------------------------
+
+_________
+
 - *'pa* ← *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *arāvṇaḥ* ← *arāvan*
 - \[noun\], accusative, plural, masculine
 - “begrudging; hostile; stingy.”
-------------------------------------------------------------------------
+
+_________
+
 - *gacchann* ← *gacchan* ← *gam*
 - \[verb noun\], nominative, singular
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣkṛtam* ← *niṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “place; rendezvous.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,41 +73,59 @@ devéṣu ← devá- (nominal stem)
 -   *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prācīnam* ← *prācīna*
 - \[noun\], accusative, singular, neuter
 - “eastern; frontal.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *stṛṇan* ← *stṛ*
 - \[verb noun\], nominative, singular
 - “spread; kill; lay; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *īyate* ← *i*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

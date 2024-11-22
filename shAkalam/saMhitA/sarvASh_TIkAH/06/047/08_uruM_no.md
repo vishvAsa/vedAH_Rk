@@ -105,88 +105,126 @@ stheyāma ← √sthā- (root)
 -   *uruṃ* ← *urum* ← *uru*
 - \[noun\], accusative, singular, masculine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *neṣi* ← *nī*
 - \[verb\], singular, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarvaj* ← *svarvat*
 - \[noun\], accusative, singular, neuter
 - “bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhayaṃ* ← *abhayam* ← *abhaya*
 - \[noun\], accusative, singular, neuter
 - “security; abhayamudrā; Abhaya.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasti*
 - \[noun\], accusative, singular, neuter
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣvā* ← *ṛṣva*
 - \[noun\], nominative, dual, masculine
 - “distinguished; high; noble; enormous.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthavirasya* ← *sthavira*
 - \[noun\], genitive, singular, masculine
 - “old; strong; hardy; firm; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhū* ← *bāhu*
 - \[noun\], nominative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *stheyāma* ← *sthā*
 - \[verb\], plural, Aorist optative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaraṇā* ← *śaraṇa*
 - \[noun\], accusative, dual, masculine
 - “protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhantā* ← *bṛhat*
 - \[noun\], accusative, dual, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

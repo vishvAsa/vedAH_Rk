@@ -99,73 +99,107 @@ vaśmi ← √vaś- (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tv* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
-------------------------------------------------------------------------
+
+_________
+
 - *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhastutiṃ* ← *sadhastutim* ← *sadhastuti*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vāvātuḥ* ← *vāvātṛ*
 - \[noun\], genitive, singular, masculine
 - “follower.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyur* ← *sakhyuḥ* ← *sakhi*
 - \[noun\], genitive, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *upastutir* ← *upastutiḥ* ← *upastuti*
 - \[noun\], nominative, singular, feminine
 - “praise; applause.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghonām* ← *maghavan*
 - \[noun\], genitive, plural, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāvatv* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāvatv* ← *avatu* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaśmi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

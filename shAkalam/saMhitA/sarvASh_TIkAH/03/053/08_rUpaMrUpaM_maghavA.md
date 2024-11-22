@@ -108,26 +108,36 @@ svaíḥ ← svá- (pronoun)
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *rūpam* ← *rūpa*
 - \[noun\], nominative, singular, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bobhavīti* ← *bobhav* ← *√bhū*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *māyāḥ* ← *māyā*
 - \[noun\], accusative, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvānas* ← *kṛṇvānaḥ* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -138,65 +148,95 @@ svaíḥ ← svá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *svām* ← *sva*
 - \[noun\], accusative, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *muhūrtam* ← *muhūrta*
 - \[noun\], accusative, singular, neuter
 - “moment; Muhūrta; moment; Muhūrta.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgāt* ← *āgā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “come; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *svair* ← *svaiḥ* ← *sva*
 - \[noun\], instrumental, plural, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *mantrair* ← *mantraiḥ* ← *mantra*
 - \[noun\], instrumental, plural, masculine
 - “mantra; Mantra; consultation; advice; consultation; mantra
     \[word\]; speech; plan.”
-------------------------------------------------------------------------
+
+_________
+
 - *anṛtupā* ← *anṛtu*
 - \[noun\], masculine
-------------------------------------------------------------------------
+
+_________
+
 - *anṛtupā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvā* ← *ṛtāvan*
 - \[noun\], nominative, singular, masculine
 - “law-abiding; faithful; righteous.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

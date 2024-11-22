@@ -79,49 +79,71 @@ vaha ← √vah- (root)
 -   *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutā* ← *sutāḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *stīrṇam* ← *stṛ*
 - \[verb noun\], nominative, singular
 - “spread; kill; lay; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], nominative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāvaso* ← *vibhāvasu*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sun; Surya.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotṛbhya* ← *stotṛbhyaḥ* ← *stotṛ*
 - \[noun\], dative, plural, masculine
 - “laudatory; worshiping.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaha* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

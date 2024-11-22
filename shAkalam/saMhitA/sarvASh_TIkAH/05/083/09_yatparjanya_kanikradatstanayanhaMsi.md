@@ -93,66 +93,96 @@ yát ← yá- (pronoun)
 -   *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *parjanya*
 - \[noun\], vocative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
-------------------------------------------------------------------------
+
+_________
+
 - *stanayan* ← *stanay* ← *√stan*
 - \[verb noun\], nominative, singular
 - “thunder; thunder.”
-------------------------------------------------------------------------
+
+_________
+
 - *haṃsi* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *duṣkṛtaḥ* ← *duṣkṛt*
 - \[noun\], accusative, plural, masculine
 - “wicked.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratīdaṃ* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratīdaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvam* ← *viśva*
 - \[noun\], nominative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *modate* ← *mud*
 - \[verb\], singular, Present indikative
 - “rejoice; delight; revel.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kiṃ* ← *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyām* ← *pṛthivī*
 - \[noun\], locative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

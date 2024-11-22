@@ -105,87 +105,125 @@ ubhaú ← ubhá- (pronoun)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vā* ← *vai*
 - \[adverb\]
 - “surely; on the other hand; vai \[word\]; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjinaṃ* ← *vṛjinam* ← *vṛjina*
 - \[noun\], accusative, singular, masculine
 - “deceitful; crooked; bent.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinoti* ← *hi*
 - \[verb\], singular, Present indikative
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatriyam* ← *kṣatriya*
 - \[noun\], accusative, singular, masculine
 - “Kshatriya.”
-------------------------------------------------------------------------
+
+_________
+
 - *mithuyā*
 - \[adverb\]
 - “falsely.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārayantam* ← *dhāray* ← *√dhṛ*
 - \[verb noun\], accusative, singular
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣo* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hanty* ← *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsad* ← *asat*
 - \[noun\], accusative, singular, neuter
 - “nonexistent; bad; wrong; wrong; asat \[prefix\]; dissident; fake.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadantam* ← *vad*
 - \[verb noun\], accusative, singular
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhāv* ← *ubhau* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasitau* ← *prasiti*
 - \[noun\], locative, singular, feminine
 - “binding.”
-------------------------------------------------------------------------
+
+_________
+
 - *śayāte* ← *śī*
 - \[verb\], dual, Present indikative
 - “lie; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

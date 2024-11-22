@@ -105,89 +105,129 @@ yūyám ← tvám (pronoun)
 -   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *nas* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmane* ← *tman*
 - \[noun\], dative, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *varivo* ← *varivaḥ* ← *varivas*
 - \[noun\], accusative, singular, neuter
 - “room; varivas \[word\]; space; escape.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhantu* ← *dhā*
 - \[verb\], plural, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugā* ← *suga*
 - \[noun\], nominative, plural, neuter
 - “clear.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *supathāni* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supathāni* ← *pathāni* ← *patha*
 - \[noun\], nominative, plural, neuter
 - “way; method; passage; road; scope; path; patha \[word\]; path;
     region; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

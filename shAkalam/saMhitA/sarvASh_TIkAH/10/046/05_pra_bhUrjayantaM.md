@@ -102,84 +102,122 @@ ná ← ná (invariable)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūr* ← *bhūḥ* ← *bhū*
 - \[noun\], nominative, singular, feminine
 - “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
     place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
     bhūnāga; sphaṭikā; beginning; birth; estate.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayantam* ← *ji*
 - \[verb noun\], accusative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahāṃ* ← *mahām* ← *mah*
 - \[noun\], genitive, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipodhāṃ* ← *vipodhām* ← *vipodhā*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mūrā* ← *mūrāḥ* ← *mūra*
 - \[noun\], nominative, plural, masculine
 - “stupid.”
-------------------------------------------------------------------------
+
+_________
+
 - *amūram* ← *amūra*
 - \[noun\], accusative, singular, masculine
 - “wise; intelligent; apt.”
-------------------------------------------------------------------------
+
+_________
+
 - *purāṃ* ← *purām* ← *pur*
 - \[noun\], genitive, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *darmāṇam* ← *darman*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nayanto* ← *nayantaḥ* ← *nī*
 - \[verb noun\], nominative, plural
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *garbhaṃ* ← *garbham* ← *garbha*
 - \[noun\], accusative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanāṃ* ← *vanām* ← *van*
 - \[noun\], genitive, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyaṃ* ← *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhur* ← *dhuḥ* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiriśmaśruṃ* ← *hiriśmaśrum* ← *hiriśmaśru*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nārvāṇaṃ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nārvāṇaṃ* ← *arvāṇam* ← *arvan*
 - \[noun\], accusative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanarcam* ← *dhana*
 - \[noun\], neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanarcam* ← *ṛcam* ← *ṛc*
 - \[noun\], accusative, singular, masculine
 - “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

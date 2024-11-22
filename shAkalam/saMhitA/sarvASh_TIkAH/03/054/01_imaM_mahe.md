@@ -99,75 +99,109 @@ divyaíḥ ← divyá- (nominal stem)
 -   *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidathyāya* ← *vidathya*
 - \[noun\], dative, singular, masculine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūṣaṃ* ← *śūṣam* ← *śūṣa*
 - \[noun\], accusative, singular, masculine
 - “song; energy.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvat*
 - \[adverb\]
 - “always; repeatedly; continually; wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtva* ← *kṛtvas*
 - \[adverb\]
 - “\*fold; kṛtvas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍyāya* ← *īḍ*
 - \[verb noun\], dative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *jabhruḥ* ← *bhṛ*
 - \[verb\], plural, Perfect indicative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇotu* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *damyebhir* ← *damyebhiḥ* ← *damya*
 - \[noun\], instrumental, plural, masculine
 - “household.”
-------------------------------------------------------------------------
+
+_________
+
 - *anīkaiḥ* ← *anīka*
 - \[noun\], instrumental, plural, masculine
 - “army; face; battalion; battlefront; point; appearance.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇotv* ← *śṛṇotu* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *divyair* ← *divyaiḥ* ← *divya*
 - \[noun\], instrumental, plural, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajasraḥ* ← *ajasra*
 - \[noun\], nominative, singular, masculine
 - “ceaseless; ageless; incessant.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

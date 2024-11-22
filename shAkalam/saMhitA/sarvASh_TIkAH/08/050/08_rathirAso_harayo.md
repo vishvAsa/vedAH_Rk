@@ -95,68 +95,100 @@ yébhiḥ ← yá- (pronoun)
 
 -   *rathirāso* ← *rathirāsaḥ* ← *rathira*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *harayo* ← *harayaḥ* ← *hari*
 - \[noun\], nominative, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *asridha* ← *asridhaḥ* ← *asridh*
 - \[noun\], nominative, plural, masculine
 - “unfailing.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *piprati* ← *pṛ*
 - \[verb\], plural, Present indikative
 - “protect; promote; rescue; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *yebhir* ← *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyum* ← *dasyu*
 - \[noun\], accusative, singular, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣo* ← *manuṣaḥ* ← *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *nighoṣayo* ← *nighoṣayaḥ* ← *nighoṣay* ← *√ghuṣ*
 - \[verb\], singular, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svaḥ* ← *svar*
 - \[noun\], accusative, singular, neuter
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *parīyase* ← *parī* ← *√i*
 - \[verb\], singular, Present indikative
 - “circumambulate; wander; revolve; overwhelm.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

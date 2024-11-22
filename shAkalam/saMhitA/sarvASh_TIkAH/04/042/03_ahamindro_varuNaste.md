@@ -105,90 +105,128 @@ sám ← sám (invariable)
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇas* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], accusative, dual, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvorvī* ← *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvorvī* ← *urvī* ← *uru*
 - \[noun\], accusative, dual, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhīre* ← *gabhīra*
 - \[noun\], accusative, dual, neuter
 - “deep; profound; immeasurable; unfathomable; unfathomable;
     mysterious; deep; countless.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajasī* ← *rajas*
 - \[noun\], accusative, dual, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumeke* ← *sumeka*
 - \[noun\], accusative, dual, neuter
 - “fast; fixed.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṣṭeva* ← *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṣṭeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *airayaṃ* ← *airayam* ← *īray* ← *√īr*
 - \[verb\], singular, Imperfect
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārayaṃ* ← *dhārayam* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Present injunctive
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

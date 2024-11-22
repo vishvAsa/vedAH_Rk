@@ -104,86 +104,124 @@ sáḥ ← sá- ~ tá- (pronoun)
 
 -   *araṃ* ← *aram*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *kāmāya* ← *kāma*
 - \[noun\], dative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 - *harayo* ← *harayaḥ* ← *hari*
 - \[noun\], nominative, plural, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhanvire* ← *dhanv*
 - \[verb\], plural, Perfect indicative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthirāya* ← *sthira*
 - \[noun\], dative, singular, masculine
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinvan* ← *hi*
 - \[verb\], plural, Present injunctive
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *harayo* ← *harayaḥ* ← *hari*
 - \[noun\], nominative, plural, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *turā* ← *tura*
 - \[noun\], accusative, dual, masculine
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvadbhir* ← *arvadbhiḥ* ← *arvant*
 - \[noun\], instrumental, plural, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *haribhir* ← *haribhiḥ* ← *hari*
 - \[noun\], instrumental, plural, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *joṣam*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *īyate* ← *i*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmaṃ* ← *kāmam* ← *kāma*
 - \[noun\], accusative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 - *harivantam* ← *harivat*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ānaśe* ← *aś*
 - \[verb\], singular, Perfect indicative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

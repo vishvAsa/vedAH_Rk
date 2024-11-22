@@ -93,66 +93,96 @@ yujā́ ← yúj- (nominal stem)
 -   *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *drapso* ← *drapsaḥ* ← *drapsa*
 - \[noun\], nominative, singular, masculine
 - “drop; banner.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃśumatyā* ← *aṃśumatyāḥ* ← *aṃśumatī*
 - \[noun\], genitive, singular, feminine
 - “Yamunā.”
-------------------------------------------------------------------------
+
+_________
+
 - *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dhārayat* ← *adhārayat* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Imperfect
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *titviṣāṇaḥ* ← *tviṣ*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *adevīr* ← *adevīḥ* ← *adeva*
 - \[noun\], accusative, plural, feminine
 - “godless.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ācarantīr* ← *ācarantīḥ* ← *ācar* ← *√car*
 - \[verb noun\], accusative, plural
 - “perform; prowl; administer; make; frequent; treat; cause; approach;
     heed; treat; act; produce; behave; put on; do; undertake.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatinā* ← *bṛhaspati*
 - \[noun\], instrumental, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujendraḥ* ← *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujendraḥ* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasāhe* ← *sah*
 - \[verb\], singular, Perfect indicative
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

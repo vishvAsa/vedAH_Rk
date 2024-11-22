@@ -96,74 +96,106 @@ māyā́ḥ ← māyā́- (nominal stem)
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyamāna* ← *jāyamānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
-------------------------------------------------------------------------
+
+_________
+
 - *paṇim* ← *paṇi*
 - \[noun\], accusative, singular, masculine
 - “niggard; paṇ.”
-------------------------------------------------------------------------
+
+_________
+
 - *astabhāyat* ← *stabhāy* ← *√stambh*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasya* ← *sva*
 - \[noun\], genitive, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitur* ← *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyudhānīndur* ← *āyudhāni* ← *āyudha*
 - \[noun\], accusative, plural, neuter
 - “weapon; āyudha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āyudhānīndur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *amuṣṇād* ← *amuṣṇāt* ← *muṣ*
 - \[verb\], singular, Imperfect
 - “rob; remove; steal.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśivasya* ← *aśiva*
 - \[noun\], genitive, singular, masculine
 - “inauspicious; unkind; unfriendly; cruel; dangerous.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyāḥ* ← *māyā*
 - \[noun\], accusative, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

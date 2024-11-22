@@ -81,51 +81,75 @@ prá ← prá (invariable)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahantamaṃ* ← *vṛtra*
 - \[noun\], masculine
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahantamaṃ* ← *hantamam* ← *hantama*
 - \[noun\], accusative, singular, masculine
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyūṃr* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *avadhūnuṣe* ← *avadhū* ← *√dhū*
 - \[verb\], singular, Present indikative
 - “shake.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnair* ← *dyumnaiḥ* ← *dyumna*
 - \[noun\], instrumental, plural, neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṇonumaḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Present indikative
 - “bellow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

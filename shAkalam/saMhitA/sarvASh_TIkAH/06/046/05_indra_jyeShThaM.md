@@ -100,76 +100,112 @@ ubhé ← ubhá- (pronoun)
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyeṣṭhaṃ* ← *jyeṣṭham* ← *jyeṣṭha*
 - \[noun\], accusative, singular, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bharaṃ* ← *bharam* ← *bhara*
 - \[noun\], accusative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojiṣṭham* ← *ojiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *papuri*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeneme* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yeneme* ← *ime* ← *idam*
 - \[noun\], accusative, dual, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *citra*
 - \[noun\], vocative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrahasta*
 - \[noun\], vocative, singular, masculine
 - “Indra; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *obhe* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *obhe* ← *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *suśipra* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśipra* ← *śipra* ← *śiprā*
 - \[noun\], vocative, singular, masculine
 - “lip; śiprā.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāḥ* ← *prā*
 - \[verb\], singular, Aorist conj./subj.
 - “fill; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

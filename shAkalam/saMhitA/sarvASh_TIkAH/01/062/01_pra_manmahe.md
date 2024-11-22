@@ -90,60 +90,88 @@ víśrutāya ← √śru- (root)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *manmahe* ← *man*
 - \[verb\], plural, Present indikative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasānāya* ← *śavasāna*
 - \[noun\], dative, singular, masculine
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūṣam* ← *śūṣa*
 - \[noun\], accusative, singular, masculine
 - “song; energy.”
-------------------------------------------------------------------------
+
+_________
+
 - *āṅgūṣaṃ* ← *āṅgūṣam* ← *āṅgūṣa*
 - \[noun\], accusative, singular, masculine
 - “hymn.”
-------------------------------------------------------------------------
+
+_________
+
 - *girvaṇase* ← *girvaṇas*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgirasvat*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *suvṛktibhi* ← *suvṛkti*
 - \[noun\], instrumental, plural, feminine
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuvata* ← *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛgmiyāyārcāmārkaṃ* ← *ṛgmiyāya* ← *ṛgmiya*
 - \[noun\], dative, singular, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛgmiyāyārcāmārkaṃ* ← *ārcāma* ← *arc*
 - \[verb\], plural, Imperfect
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛgmiyāyārcāmārkaṃ* ← *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *nare* ← *nṛ*
 - \[noun\], dative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśrutāya* ← *viśru* ← *√śru*
 - \[verb noun\], dative, singular
 - “laud; come to know; hear; listen.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

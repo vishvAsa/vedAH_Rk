@@ -105,38 +105,54 @@ víśvā ← víśva- (nominal stem)
 -   *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
 - “Soma; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvaṃ* ← *mahitvam* ← *mahitva*
 - \[noun\], nominative, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahāni* ← *maha*
 - \[noun\], accusative, plural, neuter
 - “great; abundant.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamāni* ← *prathama*
 - \[noun\], accusative, plural, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakrathuḥ* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -147,52 +163,74 @@ víśvā ← víśva- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *vividathur* ← *vividathuḥ* ← *vid*
 - \[verb\], dual, Perfect indicative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamāṃsy* ← *tamāṃsi* ← *tamas*
 - \[noun\], accusative, plural, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahataṃ* ← *ahatam* ← *han*
 - \[verb\], dual, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *nidaś* ← *nidaḥ* ← *nid*
 - \[noun\], accusative, plural, feminine
 - “derision; scoffer; contempt.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

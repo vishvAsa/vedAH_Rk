@@ -79,53 +79,77 @@ viśvā́yuḥ ← viśvā́yu- (nominal stem)
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartya* ← *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *patyate* ← *paty*
 - \[verb\], singular, Present indikative
 - “own; have; master.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣo* ← *dakṣaḥ* ← *dakṣa*
 - \[noun\], nominative, singular, masculine
 - “deft; right; intelligent; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāyur* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāyur* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedhase* ← *vedhas*
 - \[noun\], dative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

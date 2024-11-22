@@ -93,69 +93,99 @@ sānasím ← sānasí- (nominal stem)
 -   *irajyann* ← *irajyan* ← *irajy* ← *√rañj*
 - \[verb noun\], nominative, singular
 - “direct.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathayasva* ← *prathay* ← *√prath*
 - \[verb\], singular, Present imperative
 - “spread; proclaim.”
-------------------------------------------------------------------------
+
+_________
+
 - *jantubhir* ← *jantubhiḥ* ← *jantu*
 - \[noun\], instrumental, plural, masculine
 - “man; worm; being; child; Jantu; offspring; insect; vermin; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], nominative, plural
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartya*
 - \[noun\], vocative, singular, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *darśatasya* ← *darśata*
 - \[noun\], genitive, singular, neuter
 - “beautiful; visible; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapuṣo* ← *vapuṣaḥ* ← *vapus*
 - \[noun\], genitive, singular, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājasi* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇakṣi* ← *pṛc*
 - \[verb\], singular, Present indikative
 - “mix; unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sānasiṃ* ← *sānasim* ← *sānasi*
 - \[noun\], accusative, singular, masculine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

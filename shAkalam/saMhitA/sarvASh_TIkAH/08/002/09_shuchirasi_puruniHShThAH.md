@@ -74,43 +74,63 @@ mándiṣṭhaḥ ← mándiṣṭha- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruniṣṭhāḥ* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruniṣṭhāḥ* ← *niṣṭhāḥ* ← *niṣṭhā*
 - \[noun\], nominative, plural, masculine
 - “niṣṭhā; perfection; death; end; decision; firmness.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣīrair* ← *kṣīraiḥ* ← *kṣīra*
 - \[noun\], instrumental, plural, neuter
 - “milk; milky juice; milk; sap; kṣīra \[word\]; juice; fluid.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhyata* ← *madhyatas*
 - \[adverb\]
 - “in.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśīrtaḥ* ← *āśṛ* ← *√śṛ*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *dadhnā* ← *dadhi*
 - \[noun\], instrumental, singular, neuter
 - “sour milk; curd; dadhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mandiṣṭhaḥ* ← *mandiṣṭha*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śūrasya* ← *śūra*
 - \[noun\], genitive, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

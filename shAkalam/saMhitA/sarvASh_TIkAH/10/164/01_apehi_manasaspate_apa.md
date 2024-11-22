@@ -93,64 +93,92 @@ mánaḥ ← mánas- (nominal stem)
 -   *apehi* ← *ape* ← *√i*
 - \[verb\], singular, Present imperative
 - “disappear; leave; deviate; want; dislodge.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasas* ← *manas*
 - \[noun\], genitive, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *'pa* ← *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *krāma* ← *kram*
 - \[verb\], singular, Present imperative
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *paraś* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *cara* ← *car*
 - \[verb\], singular, Present imperative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *paro* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *nirṛtyā* ← *nirṛtyai* ← *nirṛti*
 - \[noun\], dative, singular, feminine
 - “destruction; Nirṛti; adversity.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣva* ← *cakṣ*
 - \[verb\], singular, Present imperative
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *bahudhā*
 - \[adverb\]
 - “repeatedly; variously; multiply; a lot.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvato* ← *jīvataḥ* ← *jīv*
 - \[verb noun\], genitive, singular
 - “survive; be; exist; live on; dwell.”
-------------------------------------------------------------------------
+
+_________
+
 - *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

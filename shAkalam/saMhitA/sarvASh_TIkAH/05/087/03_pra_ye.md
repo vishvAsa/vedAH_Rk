@@ -113,107 +113,157 @@ syandrā́saḥ ← syandrá- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhataḥ* ← *bṛhat*
 - \[noun\], ablative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇvire* ← *śru*
 - \[verb\], plural, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśukvānaḥ* ← *suśukvan*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *subhva* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhva* ← *bhvaḥ* ← *bhū*
 - \[noun\], nominative, plural, masculine
 - “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
     place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
     bhūnāga; sphaṭikā; beginning; birth; estate.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāmarut* ← *eva*
 - \[noun\]
 - “fast; rapid; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāmarut* ← *yā*
 - \[noun\]
 - “going.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāmarut* ← *marut*
 - \[noun\], nominative, singular, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *irī* ← *irin*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sadhastha* ← *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṣṭa* ← *īṣṭe* ← *īś*
 - \[verb\], singular, Present indikative
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *āṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *agnayo* ← *agnayaḥ* ← *agni*
 - \[noun\], nominative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svavidyutaḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svavidyutaḥ* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *syandrāso* ← *syandrāsaḥ* ← *syandra*
 - \[noun\], nominative, plural, masculine
 - “flowing; fleet.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhunīnām* ← *dhuni*
 - \[noun\], genitive, plural, masculine
 - “deafening; boisterous; noisy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

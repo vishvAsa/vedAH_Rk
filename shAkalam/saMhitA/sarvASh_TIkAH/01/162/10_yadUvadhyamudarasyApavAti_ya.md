@@ -99,45 +99,65 @@ utá ← utá (invariable)
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ūvadhyam* ← *ūvadhya*
 - \[noun\], nominative, singular, neuter
 - “offal.”
-------------------------------------------------------------------------
+
+_________
+
 - *udarasyāpavāti* ← *udarasya* ← *udara*
 - \[noun\], genitive, singular, neuter
 - “udara; cavity; abdomen; inside; stomach; belly; udara \[word\];
     garbha; abdominal disease; intestine; inside; uterus; vessel.”
-------------------------------------------------------------------------
+
+_________
+
 - *udarasyāpavāti* ← *apavāti* ← *apavā* ← *√vā*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āmasya* ← *āma*
 - \[noun\], genitive, singular, neuter
 - “uncooked; unfestering; unburnt; green; undigested; fusty; raw.”
-------------------------------------------------------------------------
+
+_________
+
 - *kraviṣo* ← *kraviṣaḥ* ← *kravis*
 - \[noun\], genitive, singular, neuter
 - “meat.”
-------------------------------------------------------------------------
+
+_________
+
 - *gandho* ← *gandhaḥ* ← *gandha*
 - \[noun\], nominative, singular, masculine
 - “sulfur; smell; perfume; olfactory property; bouquet; myrrh; aroma;
     myrrh; gandha \[word\]; elādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtā* ← *kṛtā* ← *kṛ*
 - \[verb noun\], accusative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -148,17 +168,23 @@ utá ← utá (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *tacchamitāraḥ* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tacchamitāraḥ* ← *śamitāraḥ* ← *śamitṛ*
 - \[noun\], nominative, plural, masculine
 - “śamitṛ \[word\]; butcher.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvantūta* ← *kṛṇvantu* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -169,30 +195,42 @@ utá ← utá (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvantūta* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhaṃ* ← *medham* ← *medha*
 - \[noun\], accusative, singular, masculine
 - “yajña; juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛtapākam* ← *śṛta* ← *śrī*
 - \[verb noun\]
 - “cook; boil; heat; cook; mix.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛtapākam* ← *pākam* ← *pāka*
 - \[noun\], accusative, singular, masculine
 - “vipāka; heating; festering; cooking; digestion; ripeness; thaw;
     inflammation; boiling point; māraṇa; pāka \[word\]; yavakṣāra; fire;
     consequence; cooking utensil; development.”
-------------------------------------------------------------------------
+
+_________
+
 - *pacantu* ← *pac*
 - \[verb\], plural, Present imperative
 - “heat; cook; digest; boil; ripen; fester; burn; boil; cauterize;
     fry; cook; suppurate; inflame.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

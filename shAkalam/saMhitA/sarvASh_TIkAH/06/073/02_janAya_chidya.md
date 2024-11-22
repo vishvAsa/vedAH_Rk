@@ -103,41 +103,59 @@ sā́han ← √sah- (root)
 - \[noun\], dative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īvata* ← *īvate* ← *īvat*
 - \[noun\], dative, singular, masculine
 - “such(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *devahūtau* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devahūtau* ← *hūtau* ← *hūti*
 - \[noun\], locative, singular, feminine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -148,50 +166,72 @@ sā́han ← √sah- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghnan* ← *han*
 - \[verb noun\], nominative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrāṇi* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *dardarīti* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Present indikative
 - “cleave.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayañchatrūṃr* ← *jayan* ← *ji*
 - \[verb noun\], nominative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayañchatrūṃr* ← *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāhan* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

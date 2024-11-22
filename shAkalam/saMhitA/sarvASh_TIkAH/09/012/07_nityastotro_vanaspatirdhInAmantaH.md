@@ -72,40 +72,58 @@ yugā́ ← yugá- (nominal stem)
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
     connatural; necessary; durable; ageless; invariable; biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *nityastotro* ← *stotraḥ* ← *stotra*
 - \[noun\], nominative, singular, masculine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanaspatir* ← *vanaspatiḥ* ← *vanaspati*
 - \[noun\], nominative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīnām* ← *dhī*
 - \[noun\], genitive, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *sabardughaḥ* ← *sabardugha*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hinvāno* ← *hinvānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣā* ← *mānuṣa*
 - \[noun\], accusative, plural, neuter
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 - *yugā* ← *yuga*
 - \[noun\], accusative, plural, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

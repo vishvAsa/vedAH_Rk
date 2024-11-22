@@ -87,63 +87,93 @@ saparyata ← √sapary- (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *juhotā* ← *hu*
 - \[verb\], plural, Present imperative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhvaraṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śīram* ← *śīra*
 - \[noun\], accusative, singular, masculine
 - “sharp; acerb.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakaśociṣam* ← *pāvaka*
 - \[noun\]
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakaśociṣam* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśuṃ* ← *āśum* ← *āśu*
 - \[noun\], accusative, singular, masculine
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūtam* ← *dūta*
 - \[noun\], accusative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ajiram* ← *ajira*
 - \[noun\], accusative, singular, masculine
 - “fast; agile; ajira \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnam* ← *pratna*
 - \[noun\], accusative, singular, masculine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍyaṃ* ← *īḍyam* ← *īḍ*
 - \[verb noun\], accusative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *śruṣṭī* ← *śruṣṭi*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *devaṃ* ← *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyata* ← *sapary*
 - \[verb\], plural, Present imperative
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

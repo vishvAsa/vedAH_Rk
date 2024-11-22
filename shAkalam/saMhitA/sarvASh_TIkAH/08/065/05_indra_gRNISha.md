@@ -83,55 +83,79 @@ sutám ← √su- (root)
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇīṣa* ← *gṛṇīṣe* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuṣe* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugra* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *īśānakṛt* ← *īśāna* ← *īś*
 - \[verb noun\]
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *īśānakṛt* ← *kṛt*
 - \[noun\], nominative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutam* ← *suta*
 - \[noun\], accusative, singular, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

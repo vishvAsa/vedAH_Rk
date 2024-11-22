@@ -101,87 +101,127 @@ vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣṭuhi* ← *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abhibhūtyojā* ← *abhibhūti*
 - \[noun\]
 - “superior; overpowering.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhibhūtyojā* ← *ojāḥ* ← *ojas*
 - \[noun\], nominative, singular, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanvann* ← *vanvan* ← *van*
 - \[verb noun\], nominative, singular
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *avātaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *avātaḥ* ← *vātaḥ* ← *van*
 - \[verb noun\], nominative, singular
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruhūta* ← *puruhūtaḥ* ← *puruhūta*
 - \[noun\], nominative, singular, masculine
 - “Indra; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣāﾱham* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣāﾱham* ← *sāḍham* ← *sah*
 - \[verb noun\], accusative, singular
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugraṃ* ← *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahamānam* ← *sah*
 - \[verb noun\], accusative, singular
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhir* ← *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardha* ← *vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

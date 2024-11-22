@@ -82,7 +82,9 @@ sūríḥ ← sūrí- (nominal stem)
 -   *karṇagṛhyā* ← *karṇa*
 - \[noun\], masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
-------------------------------------------------------------------------
+
+_________
+
 - *karṇagṛhyā* ← *gṛhya* ← *grah*
 - \[verb noun\]
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -90,47 +92,69 @@ sūríḥ ← sūrí- (nominal stem)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *śauradevyo* ← *śauradevyaḥ* ← *śauradevya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vatsaṃ* ← *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
-------------------------------------------------------------------------
+
+_________
+
 - *nas* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tribhya* ← *tribhyaḥ* ← *tri*
 - \[noun\], dative, plural, masculine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ānayat* ← *ānī* ← *√nī*
 - \[verb\], singular, Imperfect
 - “bring; pull; take; collect; give; return; withdraw; extract.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāṃ* ← *ajām* ← *ajā*
 - \[noun\], accusative, singular, feminine
 - “nanny; ajā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrir* ← *sūriḥ* ← *sūri*
 - \[noun\], nominative, singular, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhātave* ← *dhā*
 - \[verb noun\]
 - “breastfeed; suck.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

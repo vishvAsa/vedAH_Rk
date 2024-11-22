@@ -102,91 +102,131 @@ yatate ← √yat- (root)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumedhā* ← *sumedhāḥ* ← *sumedhas*
 - \[noun\], nominative, singular, masculine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātuvid* ← *gātu*
 - \[noun\], masculine
 - “path; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātuvid* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadevaḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadevaḥ* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *sada* ← *sadaḥ* ← *sadas*
 - \[noun\], accusative, singular, neuter
 - “mansion; assembly; seat; seat.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *nityam* ← *nitya*
 - \[noun\], accusative, singular, neuter
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
     connatural; necessary; durable; ageless; invariable; biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvad* ← *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśveṣu* ← *viśva*
 - \[noun\], locative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāvyeṣu* ← *kāvya*
 - \[noun\], locative, plural, masculine
 - “Uśanas; poem; Kāvya; wisdom.”
-------------------------------------------------------------------------
+
+_________
+
 - *rantānu* ← *rantā* ← *rantṛ*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rantānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *janān* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatate* ← *yat*
 - \[verb\], singular, Present indikative
 - “strive; endeavor; join; equal; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *pañca* ← *pañcan*
 - \[noun\], accusative, plural, masculine
 - “five; fifth; pañcan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīraḥ* ← *dhīra*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; intelligent; versed; adept.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

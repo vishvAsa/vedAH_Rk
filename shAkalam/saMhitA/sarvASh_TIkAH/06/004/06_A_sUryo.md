@@ -108,91 +108,131 @@ pátman ← pátman- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhānumadbhir* ← *bhānumadbhiḥ* ← *bhānumat*
 - \[noun\], instrumental, plural, masculine
 - “beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkair* ← *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatantha* ← *tan*
 - \[verb\], singular, Perfect indicative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāsā* ← *bhās*
 - \[noun\], instrumental, singular, feminine
 - “beam; radiance; bhās \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *citro* ← *citraḥ* ← *citra*
 - \[noun\], nominative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *nayat* ← *nī*
 - \[verb\], singular, Imperfect
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamāṃsy* ← *tamāṃsi* ← *tamas*
 - \[noun\], accusative, plural, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *aktaḥ* ← *añj*
 - \[verb noun\], nominative, singular
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *patmann* ← *patman*
 - \[noun\], locative, singular, neuter
 - “flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *auśijo* ← *auśijaḥ* ← *auśija*
 - \[noun\], nominative, singular, masculine
 - “Kakṣīvant.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dīyan* ← *dī*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

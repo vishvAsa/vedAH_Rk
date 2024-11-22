@@ -114,89 +114,131 @@ víśvā ← víśva- (nominal stem)
 -   *avā* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṃ* ← *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jyāyān* ← *jyāyas*
 - \[noun\], nominative, singular, masculine
 - “better; elder; greater; bigger.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñavanaso* ← *yajñavanasaḥ* ← *yajñavanas*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mahīṃ* ← *mahīm* ← *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *omātrāṃ* ← *omātrām* ← *omātrā*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭayo* ← *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *viduḥ* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *aso* ← *asaḥ* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ajaro* ← *ajaraḥ* ← *ajara*
 - \[noun\], nominative, singular, masculine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhāś* ← *vardhāḥ* ← *vṛdh*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśved* ← *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *etā* ← *etad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *savanā* ← *savana*
 - \[noun\], accusative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
-------------------------------------------------------------------------
+
+_________
+
 - *tūtumā* ← *tūtuma*
 - \[noun\], accusative, plural, neuter
 - “powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣe* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -207,7 +249,9 @@ víśvā ← víśva- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

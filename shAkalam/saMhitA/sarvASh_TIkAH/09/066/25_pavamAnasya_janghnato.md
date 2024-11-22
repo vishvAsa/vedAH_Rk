@@ -67,36 +67,52 @@ jīrā́ḥ ← jīrá- (nominal stem)
 -   *pavamānasya* ← *pū*
 - \[verb noun\], genitive, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṅghnato* ← *jaṅghnataḥ* ← *jaṅghan* ← *√han*
 - \[verb noun\], genitive, singular
 - “murder; kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *hareś* ← *hareḥ* ← *hari*
 - \[noun\], genitive, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *candrā* ← *candrāḥ* ← *candra*
 - \[noun\], nominative, plural, masculine
 - “aglitter(p); shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *asṛkṣata* ← *sṛj*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīrā* ← *jīrāḥ* ← *jīra*
 - \[noun\], nominative, plural, masculine
 - “agile; quick; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajiraśociṣaḥ* ← *ajira*
 - \[noun\]
 - “fast; agile; ajira \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ajiraśociṣaḥ* ← *śociṣaḥ* ← *śocis*
 - \[noun\], nominative, plural, masculine
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

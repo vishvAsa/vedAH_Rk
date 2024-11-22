@@ -102,80 +102,116 @@ sámmiślaḥ ← sámmiśla- (nominal stem)
 -   *śūṣebhir* ← *śūṣebhiḥ* ← *śūṣa*
 - \[noun\], instrumental, plural, masculine
 - “song; energy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdho* ← *vṛdhaḥ* ← *vṛdha*
 - \[noun\], nominative, singular, masculine
 - “increasing; promotive.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣāṇo* ← *juṣāṇaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkair* ← *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *raghupatvā* ← *raghupatvan*
 - \[noun\], nominative, singular, feminine
 - “agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigāti* ← *gā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandro* ← *mandraḥ* ← *mandra*
 - \[noun\], nominative, singular, masculine
 - “pleasant; eloquent; dulcet.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhvā* ← *juhū*
 - \[noun\], instrumental, singular, feminine
 - “tongue; fire; ladle.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajiṣṭhaḥ* ← *yajiṣṭha*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sammiślo* ← *sammiślaḥ* ← *sammiśla*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jigharti* ← *ghṛ*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

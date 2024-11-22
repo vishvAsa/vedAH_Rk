@@ -105,86 +105,124 @@ svastáye ← svastí- (nominal stem)
 -   *yebhyo* ← *yebhyaḥ* ← *yad*
 - \[noun\], dative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hotrām* ← *hotrā*
 - \[noun\], accusative, singular, feminine
 - “hotrā \[word\]; Hautra.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamām* ← *prathama*
 - \[noun\], accusative, singular, feminine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yeje* ← *yaj*
 - \[verb\], singular, Perfect indicative
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuḥ* ← *manu*
 - \[noun\], nominative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
-------------------------------------------------------------------------
+
+_________
+
 - *samiddhāgnir* ← *samiddha* ← *samindh* ← *√indh*
 - \[verb noun\]
 - “kindle; blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *samiddhāgnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], instrumental, plural, masculine
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotṛbhiḥ* ← *hotṛ*
 - \[noun\], instrumental, plural, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], nominative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abhayaṃ* ← *abhayam* ← *abhaya*
 - \[noun\], accusative, singular, neuter
 - “security; abhayamudrā; Abhaya.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchata* ← *yam*
 - \[verb\], plural, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugā* ← *gāḥ* ← *ga*
 - \[noun\], accusative, plural, masculine
 - “located; moving; flowing; passable; ga \[word\]; accordant.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *karta* ← *kṛ*
 - \[verb\], plural, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -195,21 +233,29 @@ svastáye ← svastí- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *supathā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supathā* ← *pathā* ← *patha*
 - \[noun\], accusative, plural, masculine
 - “way; method; passage; road; scope; path; patha \[word\]; path;
     region; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -69,37 +69,53 @@ sárasvatī ← sárasvant- (nominal stem)
 
 -   *āpapruṣī* ← *āprā* ← *√prā*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *pārthivāny* ← *pārthivāni* ← *pārthiva*
 - \[noun\], accusative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
-------------------------------------------------------------------------
+
+_________
+
 - *uru*
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajo* ← *rajaḥ* ← *rajas*
 - \[noun\], accusative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣam* ← *antarikṣa*
 - \[noun\], accusative, singular, neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvatī*
 - \[noun\], nominative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *nidas* ← *nidaḥ* ← *nid*
 - \[noun\], ablative, singular, feminine
 - “derision; scoffer; contempt.”
-------------------------------------------------------------------------
+
+_________
+
 - *pātu* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

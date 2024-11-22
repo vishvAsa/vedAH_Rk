@@ -95,77 +95,111 @@ svarā́jyam ← svarā́jya- (nominal stem)
 -   *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sānau* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *jighnate* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *śataparvaṇā* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śataparvaṇā* ← *parvaṇā* ← *parvan*
 - \[noun\], instrumental, singular, masculine
 - “joint; knot; festival; day; articulation; knot.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandāna* ← *mandānaḥ* ← *mad*
 - \[verb noun\], nominative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhibhyo* ← *sakhibhyaḥ* ← *sakhi*
 - \[noun\], dative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchaty* ← *icchati* ← *iṣ*
 - \[verb\], singular, Present indikative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcann* ← *arcan* ← *arc*
 - \[verb\], plural, Present injunctive
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarājyam* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarājyam* ← *rājyam* ← *rājya*
 - \[noun\], accusative, singular, neuter
 - “kingdom; kingship; sovereignty; rājya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

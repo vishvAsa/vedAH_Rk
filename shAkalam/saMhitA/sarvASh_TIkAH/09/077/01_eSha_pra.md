@@ -105,86 +105,126 @@ vāśrā́ḥ ← vāśrá- (nominal stem)
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *kośe* ← *kośa*
 - \[noun\], locative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumāṃ* ← *madhumat*
 - \[noun\], nominative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *acikradad* ← *acikradat* ← *krand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “roar; neigh; cry; howl; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajro* ← *vajraḥ* ← *vajra*
 - \[noun\], nominative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapuṣo* ← *vapuṣaḥ* ← *vapus*
 - \[noun\], ablative, singular, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapuṣṭaraḥ* ← *vapuṣṭara*
 - \[noun\], nominative, singular, masculine
 - “fantastic.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīm* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīm* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudughā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudughā* ← *dughāḥ* ← *dugha*
 - \[noun\], nominative, plural, feminine
 - “yielding.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtaścuto* ← *ghṛtaścutaḥ* ← *ghṛtaścut*
 - \[noun\], nominative, plural, feminine
 - “ghee-dripping.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāśrā* ← *vāśrāḥ* ← *vāśrā*
 - \[noun\], nominative, plural, feminine
 - “cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṣanti* ← *ṛṣ*
 - \[verb\], plural, Present indikative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *payaseva* ← *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *payaseva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

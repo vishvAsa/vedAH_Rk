@@ -86,54 +86,80 @@ nú ← nú (invariable)
 - \[verb noun\], accusative, dual
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *duraḥ* ← *dvār*
 - \[noun\], accusative, plural, feminine
 - “door; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛcched* ← *pṛcchet* ← *pracch*
 - \[verb\], singular, Present optative
 - “ask; ask; ask; consult; interrogate.”
-------------------------------------------------------------------------
+
+_________
+
 - *avidvān* ← *avidvas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *itthāparo* ← *itthā*
 - \[adverb\]
 - “thus; here.”
-------------------------------------------------------------------------
+
+_________
+
 - *itthāparo* ← *aparaḥ* ← *apara*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); following; western; future; apara \[word\];
     elder; remaining; some(a); later(a); back(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *acetāḥ* ← *acetas*
 - \[noun\], nominative, singular, masculine
 - “imprudent; stupid.”
-------------------------------------------------------------------------
+
+_________
+
 - *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *marte* ← *marta*
 - \[noun\], locative, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *akrau* ← *akra*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

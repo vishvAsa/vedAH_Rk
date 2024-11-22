@@ -79,48 +79,70 @@ yáḥ ← yá- (pronoun)
 -   *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchata* ← *iṣ*
 - \[verb\], plural, Present imperative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kathā*
 - \[adverb\]
 - “how.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhāma* ← *rādh*
 - \[verb\], plural, Aorist conj./subj.
 - “thrive; boom; succeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarasya* ← *śara*
 - \[noun\], genitive, singular, masculine
 - “arrow; five; reed; śara \[word\]; munj; Śara; Śara.”
-------------------------------------------------------------------------
+
+_________
+
 - *upastutim* ← *upastuti*
 - \[noun\], accusative, singular, feminine
 - “praise; applause.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojaḥ* ← *bhoja*
 - \[noun\], nominative, singular, masculine
 - “big; hospitable.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrir* ← *sūriḥ* ← *sūri*
 - \[noun\], nominative, singular, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ahrayaḥ* ← *ahraya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

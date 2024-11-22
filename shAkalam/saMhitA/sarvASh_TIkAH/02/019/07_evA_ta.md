@@ -100,75 +100,111 @@ vádhar ← vádhar- (nominal stem)
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrocatham* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrocatham* ← *ucatham* ← *ucatha*
 - \[noun\], accusative, singular, neuter
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahema* ← *hi*
 - \[verb\], plural, Root aorist (Ind.)
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravasyā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājayantaḥ* ← *vājay* ← *√vaj*
 - \[verb noun\], nominative, plural
 - “incite.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśyāma* ← *aś*
 - \[verb\], plural, Aorist optative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāptam* ← *sāpta*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *āśuṣāṇā* ← *āśuṣāṇāḥ* ← *āśuṣ* ← *√śuṣ*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *nanamo* ← *nanamaḥ* ← *nam*
 - \[verb\], singular, Plusquamperfect
 - “bow; bend; condescend; worship; bend; lower.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhar*
 - \[noun\], accusative, singular, neuter
 - “weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *adevasya* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *adevasya* ← *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *pīyoḥ* ← *pīyu*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

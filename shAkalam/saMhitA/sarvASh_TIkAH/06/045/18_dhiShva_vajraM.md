@@ -71,39 +71,57 @@ spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)
 - \[verb\], singular, Aorist imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhastyo* ← *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣohatyāya* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣohatyāya* ← *hatyāya* ← *hatya*
 - \[noun\], dative, singular, neuter
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrivaḥ* ← *vajrivas* ← *vajrivat*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sāsahīṣṭhā* ← *sāsahīṣṭhāḥ* ← *sah*
 - \[verb\], singular, Prekativ
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛdhaḥ* ← *spṛdh*
 - \[noun\], accusative, plural, masculine
 - “rival; enemy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

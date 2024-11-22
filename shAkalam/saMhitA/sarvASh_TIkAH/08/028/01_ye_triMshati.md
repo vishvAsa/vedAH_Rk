@@ -82,48 +82,70 @@ vidán ← √vid- 1 (root)
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *triṃśati*
 - \[noun\], nominative, singular, feminine
 - “thirty.”
-------------------------------------------------------------------------
+
+_________
+
 - *trayas* ← *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paro* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsadan* ← *āsad* ← *√sad*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “approach; attack; sit down; approach; find; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidann* ← *vidan* ← *vid*
 - \[verb\], plural, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvitāsanan* ← *dvitā*
 - \[adverb\]
 - “again.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvitāsanan* ← *asanan* ← *san*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

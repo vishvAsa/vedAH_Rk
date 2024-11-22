@@ -93,75 +93,107 @@ yám ← yá- (pronoun)
 -   *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *manur* ← *manuḥ* ← *manu*
 - \[noun\], nominative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *janāya* ← *jana*
 - \[noun\], dative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvate* ← *śaśvat*
 - \[noun\], dative, singular, masculine
 - “all(a); each(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdetha* ← *dīdī*
 - \[verb\], singular, Perfect indicative
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṇva* ← *kaṇve* ← *kaṇva*
 - \[noun\], locative, singular, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtajāta* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtajāta* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣito* ← *ukṣitaḥ* ← *ukṣ*
 - \[verb noun\], nominative, singular
 - “sprinkle; wet.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *namasyanti* ← *namasy*
 - \[verb\], plural, Present indikative
 - “worship; respect.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

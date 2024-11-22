@@ -76,47 +76,69 @@ vr̥ṣāyate ← √vr̥ṣāy- 2 (root)
 -   *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtyayā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtyayā* ← *kṛtyayā* ← *kṛtyā*
 - \[noun\], instrumental, singular, feminine
 - “magic; spirit; kṛtyā; Kṛtyā; witchcraft; act.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahaś* ← *mahaḥ* ← *maha*
 - \[noun\], nominative, singular, masculine
 - “great; abundant.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *avardhata* ← *vṛdh*
 - \[verb\], singular, Imperfect
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandāna* ← *mandānaḥ* ← *mad*
 - \[verb noun\], nominative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣāyate* ← *vṛṣāy*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

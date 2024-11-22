@@ -105,81 +105,117 @@ síndhūnām ← síndhu- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasāhiṣe* ← *sah*
 - \[verb\], singular, Perfect indicative
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruhūta*
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatrūñ* ← *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyeṣṭhas* ← *jyeṣṭhaḥ* ← *jyeṣṭha*
 - \[noun\], nominative, singular, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣma* ← *śuṣmaḥ* ← *śuṣma*
 - \[noun\], nominative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātir* ← *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrā* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇenā* ← *dakṣiṇa*
 - \[noun\], instrumental, singular, masculine
 - “southern; right; south; southerly; dakṣiṇa \[word\]; sincere;
     clockwise; deft.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhūnām* ← *sindhu*
 - \[noun\], genitive, plural, feminine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *revatīnām* ← *revat*
 - \[noun\], genitive, plural, feminine
 - “abundant; rich; affluent; brilliant; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

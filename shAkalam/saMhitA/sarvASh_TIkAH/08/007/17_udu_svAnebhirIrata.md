@@ -82,57 +82,83 @@ stómaiḥ ← stóma- (nominal stem)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *svānebhir* ← *svānebhiḥ* ← *svāna*
 - \[noun\], instrumental, plural, masculine
 - “sound.”
-------------------------------------------------------------------------
+
+_________
+
 - *īrata* ← *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathair* ← *rathaiḥ* ← *ratha*
 - \[noun\], instrumental, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyubhiḥ* ← *vāyu*
 - \[noun\], instrumental, plural, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *ut* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomaiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśnimātaraḥ* ← *pṛśni*
 - \[noun\], feminine
 - “Pṛśni; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśnimātaraḥ* ← *mātaraḥ* ← *mātṛ*
 - \[noun\], nominative, plural, masculine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -76,49 +76,71 @@ tásmai ← sá- ~ tá- (pronoun)
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśād* ← *dāśāt* ← *dāś*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣāt* ← *śikṣ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “help; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikitvān* ← *cit*
 - \[verb noun\], nominative, singular
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, feminine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *dayasva* ← *day*
 - \[verb\], singular, Present imperative
 - “share.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

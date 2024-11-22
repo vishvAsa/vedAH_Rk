@@ -105,83 +105,121 @@ somíni ← somín- (nominal stem)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ricyate* ← *ric*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “empty; liberate; concede; surrender; purge.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ṃśo* ← *aṃśaḥ* ← *aṃśa*
 - \[noun\], nominative, singular, masculine
 - “part; part; share; part; volume; parcel; part; Aṃśa; aṃśa \[word\];
     fraction.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanaṃ* ← *dhanam* ← *dhana*
 - \[noun\], nominative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jigyuṣaḥ* ← *ji*
 - \[verb noun\], genitive, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *harivān* ← *harivat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dabhanti* ← *dabh*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ripo* ← *ripaḥ* ← *rip*
 - \[noun\], nominative, plural, feminine
 - “deceiver.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣaṃ* ← *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāti* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *somini* ← *somin*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

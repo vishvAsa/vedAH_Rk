@@ -99,71 +99,103 @@ svadhvarā́ ← svadhvará- (nominal stem)
 -   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *keśinā* ← *keśin*
 - \[noun\], accusative, dual, masculine
 - “haired.”
-------------------------------------------------------------------------
+
+_________
+
 - *yogyābhir* ← *yogyābhiḥ* ← *yogyā*
 - \[noun\], instrumental, plural, feminine
 - “exercise; training.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtasnuvā* ← *ghṛtasnu*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rohitā* ← *rohita*
 - \[noun\], accusative, dual, masculine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhuri* ← *dhur*
 - \[noun\], locative, singular, feminine
 - “yoke; dhur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiṣva* ← *dhā*
 - \[verb\], singular, Aorist imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *athā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaha* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhvarā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhvarā* ← *adhvarā* ← *adhvara*
 - \[noun\], accusative, plural, neuter
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -174,11 +206,15 @@ svadhvarā́ ← svadhvará- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

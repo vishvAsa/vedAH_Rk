@@ -104,91 +104,135 @@ yaté ← √i- 1 (root)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājasā* ← *bhrājas*
 - \[noun\], instrumental, singular, neuter
 - “glare.”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmavakṣaso* ← *rukma*
 - \[noun\], neuter
 - “gold; svarṇamākṣika.”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmavakṣaso* ← *vakṣasaḥ* ← *vakṣas*
 - \[noun\], nominative, plural, masculine
 - “breast; breast; bosom; thorax.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātāso* ← *vātāsaḥ* ← *vāta*
 - \[noun\], nominative, plural, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svayujaḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayujaḥ* ← *yujaḥ* ← *yuj*
 - \[noun\], nominative, plural, masculine
 - “amalgamated; harnessed.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadyaūtayaḥ* ← *sadyaūti*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *prajñātāro* ← *prajñātāraḥ* ← *prajñātṛ*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jyeṣṭhāḥ* ← *jyeṣṭha*
 - \[noun\], nominative, plural, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sunītayaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunītayaḥ* ← *nītayaḥ* ← *nīti*
 - \[noun\], nominative, plural, masculine
 - “caution; good behavior; policy; politics.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśarmāṇo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśarmāṇo* ← *śarmāṇaḥ* ← *śarman*
 - \[noun\], nominative, plural, masculine
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *somā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *yate* ← *i*
 - \[verb noun\], dative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -108,85 +108,125 @@ yajatáḥ ← yajatá- (nominal stem)
 -   *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
-------------------------------------------------------------------------
+
+_________
+
 - *payasodhar* ← *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *payasodhar* ← *udhar* ← *udhan*
 - \[noun\], accusative, singular, neuter
 - “udder.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *goḥ* ← *go*
 - \[noun\], genitive, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *somebhir* ← *somebhiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇatā* ← *pṛṇata* ← *pṛṇ*
 - \[verb\], plural, Present imperative
 - “satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojam* ← *bhoja*
 - \[noun\], accusative, singular, masculine
 - “big; hospitable.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedāham* ← *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *nibhṛtam* ← *nibhṛta*
 - \[noun\], nominative, singular, neuter
 - “concealed; secret; lonely(a); passionless; emotionless; modest;
     faithful; separate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ma* ← *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *etad* ← *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ditsantam* ← *dits* ← *√dā*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *bhūyo* ← *bhūyas*
 - \[adverb\]
 - “again; further; further; repeatedly.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajataś* ← *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciketa* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

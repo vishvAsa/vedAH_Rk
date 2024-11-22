@@ -102,83 +102,121 @@ dahantu ← √dah- (root)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *adharād* ← *adharāt*
 - \[adverb\]
 - “below; south.”
-------------------------------------------------------------------------
+
+_________
+
 - *udaktāt*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *paścād* ← *paścāt*
 - \[adverb\]
 - “subsequently; westward; paścāt \[word\]; after; back.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣā* ← *rakṣ*
 - \[verb\], singular, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *purastāt*
 - \[adverb\]
 - “ahead; eastward; earlier; above; above.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajarāsas* ← *ajarāsaḥ* ← *ajara*
 - \[noun\], nominative, plural, masculine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapiṣṭhā* ← *tapiṣṭhāḥ* ← *tapiṣṭha*
 - \[noun\], nominative, plural, masculine
 - “burning; ablaze(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *aghaśaṃsaṃ* ← *agha*
 - \[noun\]
 - “bad; dangerous; ill; iniquitous; bad.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghaśaṃsaṃ* ← *śaṃsam* ← *śaṃsa*
 - \[noun\], accusative, singular, masculine
 - “speaking.”
-------------------------------------------------------------------------
+
+_________
+
 - *śośucato* ← *śośucataḥ* ← *śośuc* ← *√śuc*
 - \[verb noun\], nominative, plural
 - “blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *dahantu* ← *dah*
 - \[verb\], plural, Present imperative
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

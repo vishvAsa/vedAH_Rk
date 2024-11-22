@@ -76,46 +76,66 @@ krándan ← √krand- (root)
 -   *duhānaḥ* ← *duh*
 - \[verb noun\], nominative, singular
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnam* ← *pratna*
 - \[noun\], accusative, singular, neuter
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣicyate* ← *sicyate* ← *sic*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *krandan* ← *krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh; cry; howl; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajījanat* ← *jan*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

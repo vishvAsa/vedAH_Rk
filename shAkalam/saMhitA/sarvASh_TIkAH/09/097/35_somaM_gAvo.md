@@ -99,74 +99,108 @@ triṣṭúbhaḥ ← triṣṭúbh- (nominal stem)
 -   *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenavo* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvaśānāḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *matibhiḥ* ← *mati*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛcchamānāḥ* ← *pracch*
 - \[verb noun\], nominative, plural
 - “ask; ask; ask; consult; interrogate.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūyate* ← *pū*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajyamānaḥ* ← *añj*
 - \[verb noun\], nominative, singular
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *some* ← *soma*
 - \[noun\], locative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkās* ← *arkāḥ* ← *arka*
 - \[noun\], nominative, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *triṣṭubhaḥ* ← *triṣṭubh*
 - \[noun\], nominative, plural, feminine
 - “Triṣṭubh.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *navante* ← *nū*
 - \[verb\], plural, Present indikative
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -74,41 +74,59 @@ yánti ← √i- 1 (root)
 - \[verb\], plural, Present indikative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunvantaṃ* ← *sunvantam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svapnāya* ← *svapna*
 - \[noun\], dative, singular, masculine
 - “dream; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛhayanti* ← *spṛhay* ← *√spṛh*
 - \[verb\], plural, Present indikative
 - “envy; desire.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *pramādam* ← *pramāda*
 - \[noun\], accusative, singular, masculine
 - “carelessness; erroneousness; negligence; insanity; drunkenness;
     unmindfulness.”
-------------------------------------------------------------------------
+
+_________
+
 - *atandrāḥ* ← *atandra*
 - \[noun\], nominative, plural, masculine
 - “untired.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

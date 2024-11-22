@@ -93,25 +93,35 @@ síndhum ← síndhu- (nominal stem)
 -   *samiddhāgnir* ← *samiddha* ← *samindh* ← *√indh*
 - \[verb noun\]
 - “kindle; blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *samiddhāgnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanavat* ← *van*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *stīrṇabarhir* ← *stīrṇa* ← *stṛ*
 - \[verb noun\]
 - “spread; kill; lay; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *stīrṇabarhir* ← *barhiḥ* ← *barhis*
 - \[noun\], nominative, singular, masculine
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yuktagrāvā* ← *yukta* ← *yuj*
 - \[verb noun\]
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -119,60 +129,88 @@ síndhum ← síndhu- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuktagrāvā* ← *grāvā* ← *grāvan*
 - \[noun\], nominative, singular, masculine
 - “stone; millstone; grindstone; mountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasomo* ← *suta* ← *su*
 - \[verb noun\]
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasomo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarāte* ← *jṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sing.”
-------------------------------------------------------------------------
+
+_________
+
 - *grāvāṇo* ← *grāvāṇaḥ* ← *grāvan*
 - \[noun\], nominative, plural, masculine
 - “stone; millstone; grindstone; mountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasyeṣiraṃ* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasyeṣiraṃ* ← *iṣiram* ← *iṣira*
 - \[noun\], accusative, singular, neuter
 - “vigorous; bracing; quick.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadanty* ← *vadanti* ← *vad*
 - \[verb\], plural, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayad* ← *ayat* ← *i*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvaryur* ← *adhvaryuḥ* ← *adhvaryu*
 - \[noun\], nominative, singular, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣāva* ← *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣāva* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhum* ← *sindhu*
 - \[noun\], accusative, singular, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

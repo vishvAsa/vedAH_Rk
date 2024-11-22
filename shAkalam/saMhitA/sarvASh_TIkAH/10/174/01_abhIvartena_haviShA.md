@@ -84,52 +84,74 @@ vartaya ← √vr̥t- (root)
 -   *abhīvartena* ← *abhīvarta*
 - \[noun\], instrumental, singular, neuter
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yenendro* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yenendro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhivāvṛte* ← *abhivṛt* ← *√vṛt*
 - \[verb\], singular, Perfect indicative
 - “attack; approach; overcome; originate; meet; prevail; happen;
     become.”
-------------------------------------------------------------------------
+
+_________
+
 - *tenāsmān* ← *tena* ← *tad*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tenāsmān* ← *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaṇaspate* ← *brahmaṇaspati*
 - \[noun\], vocative, singular, masculine
 - “Brahmaṇaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *'bhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāṣṭrāya* ← *rāṣṭra*
 - \[noun\], dative, singular, neuter
 - “kingdom; kingdom; kingship; rāṣṭra \[word\]; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartaya* ← *vartay* ← *√vṛt*
 - \[verb\], singular, Present imperative
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

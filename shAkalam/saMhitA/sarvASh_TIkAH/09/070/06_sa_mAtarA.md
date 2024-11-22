@@ -107,88 +107,128 @@ sukrátuḥ ← sukrátu- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātarā* ← *mātṛ*
 - \[noun\], accusative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadṛśāna* ← *dadṛśānaḥ* ← *dṛś*
 - \[verb noun\], nominative, singular
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *usriyo* ← *usriyaḥ* ← *usriya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nānadad* ← *nānadat* ← *nānad* ← *√nad*
 - \[verb noun\], nominative, singular
 - “bellow.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *svanaḥ* ← *svana*
 - \[noun\], nominative, singular, masculine
 - “noise; sound; svan.”
-------------------------------------------------------------------------
+
+_________
+
 - *jānann* ← *jānan* ← *jñā*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtam* ← *ṛta*
 - \[noun\], nominative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamaṃ* ← *prathamam* ← *prathama*
 - \[noun\], nominative, singular, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svarṇaram* ← *svarṇṛ*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *praśastaye* ← *praśasti*
 - \[noun\], dative, singular, feminine
 - “announcement; praise; respect.”
-------------------------------------------------------------------------
+
+_________
+
 - *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛṇīta* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratuḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratuḥ* ← *kratuḥ* ← *kratu*
 - \[noun\], nominative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

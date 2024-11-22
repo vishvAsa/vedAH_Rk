@@ -99,80 +99,116 @@ pitáraḥ ← pitár- (nominal stem)
 -   *arūrucad* ← *arūrucat* ← *ruc*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśnir* ← *pṛśniḥ* ← *pṛśni*
 - \[noun\], nominative, singular, masculine
 - “varicolored; dappled.”
-------------------------------------------------------------------------
+
+_________
+
 - *agriya* ← *agriyaḥ* ← *agriya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣā* ← *ukṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bibharti* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vājayuḥ* ← *vājayu*
 - \[noun\], nominative, singular, masculine
 - “competing(a); competitive.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyāvino* ← *māyāvinaḥ* ← *māyāvin*
 - \[noun\], nominative, plural, masculine
 - “illusional.”
-------------------------------------------------------------------------
+
+_________
+
 - *mamire* ← *mā*
 - \[verb\], plural, Perfect indicative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyayā* ← *māyā*
 - \[noun\], instrumental, singular, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛcakṣasaḥ* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛcakṣasaḥ* ← *cakṣasaḥ* ← *cakṣas*
 - \[noun\], nominative, plural, masculine
 - “eye; look; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitaro* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *garbham* ← *garbha*
 - \[noun\], accusative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhuḥ* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

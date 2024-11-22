@@ -93,32 +93,46 @@ púruṣam ← púruṣa- (nominal stem)
 -   *saptāsyāsan* ← *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptāsyāsan* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptāsyāsan* ← *āsan* ← *as*
 - \[verb\], plural, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *paridhayas* ← *paridhayaḥ* ← *paridhi*
 - \[noun\], nominative, plural, masculine
 - “covering; circumference; Paridhi; halo; fence.”
-------------------------------------------------------------------------
+
+_________
+
 - *triḥ* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *samidhaḥ* ← *samidh*
 - \[noun\], nominative, plural, feminine
 - “firewood; kindling; fuel; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtāḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -129,25 +143,35 @@ púruṣam ← púruṣa- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvānā* ← *tanvānāḥ* ← *tan*
 - \[verb noun\], nominative, plural
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *abadhnan* ← *bandh*
 - \[verb\], plural, Imperfect
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
@@ -155,17 +179,23 @@ púruṣam ← púruṣa- (nominal stem)
     restrain; bind; gesticulate; wear; bar; bandh; connect; stud; mix;
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣam* ← *puruṣa*
 - \[noun\], accusative, singular, masculine
 - “man; man; Puruṣa; puṃvajra; puruṣa; servant; puruṣa \[word\];
     assistant; soldier; soul; commoner; generation; people; doll.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśum* ← *paśu*
 - \[noun\], accusative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

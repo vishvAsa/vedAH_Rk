@@ -99,32 +99,46 @@ yachati ← √yam- (root)
 -   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *janaṃ* ← *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *darśatā* ← *darśata*
 - \[noun\], nominative, singular, feminine
 - “beautiful; visible; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *bodhayantī* ← *bodhay* ← *√budh*
 - \[verb noun\], nominative, singular
 - “awaken; ignite; advise; admonish; communicate.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugān* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugān* ← *gān* ← *ga*
 - \[noun\], accusative, plural, masculine
 - “located; moving; flowing; passable; ga \[word\]; accordant.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvatī* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -135,58 +149,82 @@ yachati ← √yam- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāty* ← *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhadrathā* ← *bṛhat*
 - \[noun\]
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhadrathā* ← *rathā* ← *ratha*
 - \[noun\], nominative, singular, feminine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatī* ← *bṛhat*
 - \[noun\], nominative, singular, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaminvoṣā* ← *viśvaminvā* ← *viśvaminva*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaminvoṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchaty* ← *yacchati* ← *yam*
 - \[verb\], singular, Present indikative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahnām* ← *ahar*
 - \[noun\], genitive, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

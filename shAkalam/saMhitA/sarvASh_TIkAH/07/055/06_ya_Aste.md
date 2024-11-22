@@ -102,85 +102,121 @@ yáthā ← yáthā (invariable)
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āste* ← *ās*
 - \[verb\], singular, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśyati* ← *dṛś*
 - \[verb\], singular, Present indikative
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *janaḥ* ← *jana*
 - \[noun\], nominative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *teṣāṃ* ← *teṣām* ← *tad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[noun\], nominative, singular, masculine
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanmo* ← *hanmaḥ* ← *han*
 - \[verb\], plural, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣāṇi* ← *akṣa*
 - \[noun\], accusative, plural, neuter
 - “eye; akṣa \[word\]; hole.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathedaṃ* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathedaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *harmyaṃ* ← *harmyam* ← *harmya*
 - \[noun\], accusative, singular, neuter
 - “mansion; house; palace.”
-------------------------------------------------------------------------
+
+_________
+
 - *tathā*
 - \[adverb\]
 - “and; thus; besides; very well; so; then; in that manner; now;
     therefore; however; so.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

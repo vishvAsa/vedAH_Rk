@@ -99,85 +99,127 @@ svarvídam ← svarvíd- (nominal stem)
 -   *śatakratum* ← *śatakratu*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṇavaṃ* ← *arṇavam* ← *arṇava*
 - \[noun\], accusative, singular, masculine
 - “ocean; sea; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *śākinaṃ* ← *śākinam* ← *śākina*
 - \[noun\], accusative, singular, masculine
 - “mighty; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *naraṃ* ← *naram* ← *nṛ*
 - \[noun\], accusative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *giro* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *ma* ← *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasanim* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasanim* ← *sanim* ← *sani*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pūrbhidaṃ* ← *pūḥ* ← *pur*
 - \[noun\], feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrbhidaṃ* ← *bhidam* ← *bhid*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tūrṇim* ← *tūrṇi*
 - \[noun\], accusative, singular, masculine
 - “agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *apturaṃ* ← *ap*
 - \[noun\]
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *apturaṃ* ← *turam* ← *tura*
 - \[noun\], accusative, singular, masculine
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāmasācam* ← *dhāmasāc*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣācaṃ* ← *abhiṣācam* ← *abhiṣāc*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *svarvidam* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarvidam* ← *vidam* ← *vid*
 - \[noun\], accusative, singular, masculine
 - “finding.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

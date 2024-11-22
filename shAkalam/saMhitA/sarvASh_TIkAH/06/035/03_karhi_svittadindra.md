@@ -104,38 +104,54 @@ kadā́ ← kadā́ (invariable)
 
 -   *karhi*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *svit* ← *svid*
 - \[adverb\]
 - “svid \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaj* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaritre* ← *jaritṛ*
 - \[noun\], dative, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvapsu*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇavaḥ* ← *kṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -146,56 +162,80 @@ kadā́ ← kadā́ (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaviṣṭha*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *kadā*
 - \[adverb\]
 - “when; kadā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *niyuto* ← *niyutaḥ* ← *niyut*
 - \[noun\], accusative, plural, feminine
 - “gift; team.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvāse* ← *yu*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *kadā*
 - \[adverb\]
 - “when; kadā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gomaghā* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomaghā* ← *maghā* ← *magha*
 - \[noun\], accusative, plural, neuter
 - “gift; wealth; reward; wages; reward.”
-------------------------------------------------------------------------
+
+_________
+
 - *havanāni* ← *havana*
 - \[noun\], accusative, plural, neuter
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *gacchāḥ* ← *gam*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

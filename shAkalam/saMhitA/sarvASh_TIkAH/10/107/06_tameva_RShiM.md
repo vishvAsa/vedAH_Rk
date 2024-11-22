@@ -107,94 +107,136 @@ yáḥ ← yá- (pronoun)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣiṃ* ← *ṛṣim* ← *ṛṣi*
 - \[noun\], accusative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmāṇam* ← *brahman*
 - \[noun\], accusative, singular, masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñanyaṃ* ← *yajñanyam* ← *yajñanī*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sāmagām* ← *sāma* ← *sāman*
 - \[noun\], neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāmagām* ← *gām* ← *gā*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ukthaśāsam* ← *uktha*
 - \[noun\], neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthaśāsam* ← *śāsam* ← *śās*
 - \[noun\], accusative, singular, masculine
 - “śās; command; ruler; commander.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukrasya* ← *śukra*
 - \[noun\], genitive, singular, neuter
 - “semen; sperm; śukra; śukraprameha; liquid; ejaculation.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvo* ← *tanvaḥ* ← *tanū*
 - \[noun\], accusative, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamo* ← *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇayā* ← *dakṣiṇā*
 - \[noun\], instrumental, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
-------------------------------------------------------------------------
+
+_________
+
 - *rarādha* ← *rādh*
 - \[verb\], singular, Perfect indicative
 - “thrive; boom; succeed.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

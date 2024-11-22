@@ -100,75 +100,111 @@ vr̥jināyántam ← √vr̥jināy- (root)
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaritaḥ* ← *jaritar* ← *jaritṛ*
 - \[noun\], vocative, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *sābhivego* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sābhivego* ← *abhivegaḥ* ← *abhivega*
 - \[noun\], nominative, singular, masculine
 - “purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamānāya* ← *yajamāna*
 - \[noun\], dative, singular, masculine
 - “Yajamāna.”
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣam* ← *śikṣ*
 - \[verb\], singular, Present injunctive
 - “help; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *anāśīrdām* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *anāśīrdām* ← *āśīrdām* ← *āśīrdā*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *prahantā* ← *prahan* ← *√han*
 - \[verb\], singular, periphrast. future
 - “destroy.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyadhvṛtaṃ* ← *satyadhvṛtam* ← *satyadhvṛt*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjināyantam* ← *vṛjināy*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *ābhum* ← *ābhu*
 - \[noun\], accusative, singular, masculine
 - “stingy; empty.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -113,92 +113,134 @@ samanā́ ← samanā́ (invariable)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indriyam* ← *indriya*
 - \[noun\], nominative, singular, neuter
 - “sense organ; Indriya; sense; power; semen; indriya \[word\]; mind;
     penis; manfulness; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *paramam* ← *parama*
 - \[noun\], nominative, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
+
+_________
+
 - *parācair* ← *parācais*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *adhārayanta* ← *dhāray* ← *√dhṛ*
 - \[verb\], plural, Imperfect
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *puredam* ← *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *puredam* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣamedam* ← *kṣamā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *kṣamedam* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *divy* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ī*
 - \[adverb\]
 - “īkāra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛcyate* ← *pṛc*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “mix; unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *samaneva* ← *samanā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *samaneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketuḥ* ← *ketu*
 - \[noun\], nominative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,87 +105,127 @@ vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)
 -   *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhaga*
 - \[noun\], vocative, singular, masculine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
-------------------------------------------------------------------------
+
+_________
+
 - *saubhagāny* ← *saubhagāni* ← *saubhaga*
 - \[noun\], nominative, plural, neuter
 - “well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanino* ← *vaninaḥ* ← *vanin*
 - \[noun\], genitive, singular, masculine
 - “tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vayāḥ* ← *vayā*
 - \[noun\], nominative, plural, feminine
 - “branch; branchlet.”
-------------------------------------------------------------------------
+
+_________
+
 - *śruṣṭī* ← *śruṣṭiḥ* ← *śruṣṭi*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *rayir* ← *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājo* ← *vājaḥ* ← *vāja*
 - \[noun\], nominative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtratūrye* ← *vṛtratūrya*
 - \[noun\], locative, singular, neuter
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṭir* ← *vṛṣṭiḥ* ← *vṛṣṭi*
 - \[noun\], nominative, singular, feminine
 - “rain; shower; rainy season.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍyo* ← *īḍyā* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍyo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *rītir* ← *rītiḥ* ← *rīti*
 - \[noun\], nominative, singular, feminine
 - “brass; rītikā; method; bell metal; stream; expressive style;
     manner.”
-------------------------------------------------------------------------
+
+_________
+
 - *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

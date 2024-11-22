@@ -76,47 +76,67 @@ ukthám ← ukthá- (nominal stem)
 -   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsye* ← *āsya*
 - \[noun\], locative, singular, neuter
 - “mouth; mouth; aperture; face; mukha; jaw; point.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *priyam* ← *priya*
 - \[noun\], nominative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrābṛhaspatī* ← *indrābṛhaspati*
 - \[noun\], vocative, dual, masculine
 - “Indra; Brihaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *uktham* ← *uktha*
 - \[noun\], nominative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *madaś* ← *madaḥ* ← *mada*
 - \[noun\], nominative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *śasyate* ← *śaṃs*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

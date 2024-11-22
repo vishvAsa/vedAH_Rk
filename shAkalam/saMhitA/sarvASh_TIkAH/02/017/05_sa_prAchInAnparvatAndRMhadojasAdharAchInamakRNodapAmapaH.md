@@ -98,27 +98,39 @@ māyáyā ← māyā́- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *prācīnān* ← *prācīna*
 - \[noun\], accusative, plural, masculine
 - “eastern; frontal.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatān* ← *parvata*
 - \[noun\], accusative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛṃhad* ← *dṛṃhat* ← *dṛh*
 - \[verb\], singular, Imperfect
 - “fixate; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasādharācīnam* ← *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasādharācīnam* ← *adharācīnam* ← *adharācīna*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -129,52 +141,74 @@ māyáyā ← māyā́- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *apām* ← *ap*
 - \[noun\], genitive, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaḥ* ← *apas*
 - \[noun\], accusative, singular, neuter
 - “work; deed.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhārayat* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Imperfect
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīṃ* ← *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadhāyasam* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadhāyasam* ← *dhāyasam* ← *dhāyas*
 - \[noun\], accusative, singular, feminine
 - “alimentary; sustaining.”
-------------------------------------------------------------------------
+
+_________
+
 - *astabhnān* ← *astabhnāt* ← *stambh*
 - \[verb\], singular, Imperfect
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyayā* ← *māyā*
 - \[noun\], instrumental, singular, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasrasaḥ* ← *avasraṃs* ← *√sraṃs*
 - \[verb noun\]
 - “fall down.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,72 +99,106 @@ syāma ← √as- 1 (root)
 -   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], nominative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhadbhir* ← *bṛhadbhiḥ* ← *bṛhat*
 - \[noun\], instrumental, plural, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *varūthaiḥ* ← *varūtha*
 - \[noun\], instrumental, plural, neuter
 - “defense; protective covering.”
-------------------------------------------------------------------------
+
+_________
+
 - *patnīvadbhir* ← *patnīvadbhiḥ* ← *patnīvat*
 - \[noun\], instrumental, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *iṣayantī* ← *iṣay* ← *√iṣ*
 - \[verb noun\], nominative, dual
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, feminine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *urūcī* ← *uruvyañc*
 - \[noun\], nominative, dual, neuter
 - “extensive; wide.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśve* ← *viśva*
 - \[noun\], nominative, dual, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajate* ← *yajata*
 - \[noun\], nominative, dual, neuter
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *pātaṃ* ← *pātam* ← *pā*
 - \[verb\], dual, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathyaḥ* ← *rathī*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sadāsāḥ* ← *sadāsā*
 - \[noun\], nominative, plural, masculine
 - “triumphant.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

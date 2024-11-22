@@ -81,47 +81,69 @@ nirámanthatam ← √manthⁱ- (root)
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakrā* ← *śakra*
 - \[noun\], nominative, dual, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyāvinā* ← *māyāvin*
 - \[noun\], nominative, dual, masculine
 - “illusional.”
-------------------------------------------------------------------------
+
+_________
+
 - *samīcī* ← *samyañc*
 - \[noun\], accusative, dual, feminine
 - “conjugate; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *amanthatam* ← *math*
 - \[verb\], dual, Imperfect
 - “churn; knead; trample; full; stir; crush.”
-------------------------------------------------------------------------
+
+_________
+
 - *vimadena* ← *vimada*
 - \[noun\], instrumental, singular, masculine
 - “Vimada.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍitā* ← *īḍ*
 - \[verb noun\], nominative, dual
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *niramanthatam* ← *nirmath* ← *√math*
 - \[verb\], dual, Imperfect
 - “churn; crush; grind.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

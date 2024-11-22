@@ -96,73 +96,105 @@ tvám ← tvám (pronoun)
 -   *praśaṃsamāno* ← *praśaṃsamānaḥ* ← *praśaṃs* ← *√śaṃs*
 - \[verb noun\], nominative, singular
 - “recommend; approve; praise; laud; favor; proclaim.”
-------------------------------------------------------------------------
+
+_________
+
 - *atithir* ← *atithiḥ* ← *atithi*
 - \[noun\], nominative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mitriyo* ← *mitriyaḥ* ← *mitriya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *'gnī* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vedyaḥ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣemāso* ← *kṣemāsaḥ* ← *kṣema*
 - \[noun\], nominative, plural, masculine
 - “ease; happiness; peace; tranquillity; kṣema \[word\]; respite;
     rest.”
-------------------------------------------------------------------------
+
+_________
+
 - *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhavas* ← *sādhavaḥ* ← *sādhu*
 - \[noun\], nominative, plural, masculine
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayīṇām* ← *rayi*
 - \[noun\], genitive, plural, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

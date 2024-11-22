@@ -102,83 +102,121 @@ yájamānāya ← √yaj- (root)
 -   *arcanti* ← *arc*
 - \[verb\], plural, Present indikative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *nārīr* ← *nārīḥ* ← *nārī*
 - \[noun\], nominative, plural, feminine
 - “woman; wife; female.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaso* ← *apasaḥ* ← *apas*
 - \[noun\], nominative, plural, feminine
 - “busy; effective; hardworking.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṭibhiḥ* ← *viṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “labor.”
-------------------------------------------------------------------------
+
+_________
+
 - *samānena* ← *samāna*
 - \[noun\], instrumental, singular, neuter
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *yojanenā* ← *yojanena* ← *yojana*
 - \[noun\], instrumental, singular, neuter
 - “yojana; use; yojana \[word\]; team.”
-------------------------------------------------------------------------
+
+_________
+
 - *yojanenā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahantīḥ* ← *vah*
 - \[verb noun\], nominative, plural
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛte* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛte* ← *kṛte* ← *kṛt*
 - \[noun\], dative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānave* ← *sudānu*
 - \[noun\], dative, singular, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśved* ← *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *aha* ← *ahar*
 - \[noun\], accusative, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamānāya* ← *yaj*
 - \[verb noun\], dative, singular
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

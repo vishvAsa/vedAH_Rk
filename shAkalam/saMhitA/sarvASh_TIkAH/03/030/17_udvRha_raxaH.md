@@ -102,64 +102,92 @@ tápuṣim ← tápuṣi- (nominal stem)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛha* ← *vṛh*
 - \[verb\], singular, Present imperative
 - “extract.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahamūlam* ← *saha*
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahamūlam* ← *mūlam* ← *mūla*
 - \[noun\], accusative, singular, neuter
 - “root; cause; beginning; bottom; mūla; foundation; mūla \[word\];
     arśas; head; sole; beginning; root; wrist; origin; end; end;
     proximity; capital; bottom.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛścā* ← *vraśc*
 - \[verb\], singular, Present imperative
 - “cleave; fell; cut off; hew.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhyam* ← *madhya*
 - \[noun\], accusative, singular, neuter
 - “midst; center; cavity; inside; middle; center; waist; group; pulp;
     torso; time interval; area; series; madhya \[word\]; Madhya; noon;
     middle; middle age; span; belly.”
-------------------------------------------------------------------------
+
+_________
+
 - *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *agraṃ* ← *agram* ← *agra*
 - \[noun\], accusative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇīhi* ← *śṛ*
 - \[verb\], singular, Present imperative
 - “fall off; break; disintegrate; crush; break; fracture.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kīvataḥ* ← *kīvat*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *salalūkaṃ* ← *salalūkam* ← *salalūka*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *cakartha* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -170,28 +198,40 @@ tápuṣim ← tápuṣi- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmadviṣe* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmadviṣe* ← *dviṣe* ← *dviṣ*
 - \[noun\], dative, singular, masculine
 - “hostile; hating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapuṣiṃ* ← *tapuṣim* ← *tapuṣi*
 - \[noun\], accusative, singular, feminine
 - “ablaze(p); burning.”
-------------------------------------------------------------------------
+
+_________
+
 - *hetim* ← *heti*
 - \[noun\], accusative, singular, feminine
 - “projectile; heti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *as*
 - \[verb\], singular, Present imperative
 - “shoot; remove.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,32 +105,46 @@ ví ← ví (invariable)
 -   *kva*
 - \[adverb\]
 - “wherein; how; kva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svid*
 - \[adverb\]
 - “svid \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsāṃ* ← *āsām* ← *idam*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *katamā* ← *katama*
 - \[noun\], nominative, singular, feminine
 - “katama \[word\]; who.”
-------------------------------------------------------------------------
+
+_________
+
 - *purāṇī* ← *purāṇa*
 - \[noun\], nominative, singular, feminine
 - “age-old; stale; old; old; traditional; aged.”
-------------------------------------------------------------------------
+
+_________
+
 - *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhānā* ← *vidhāna*
 - \[noun\], accusative, plural, neuter
 - “method; treatment; preparation; ritual; rule; formulation; means;
     manner; administration; performance; act.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidadhur* ← *vidadhuḥ* ← *vidhā* ← *√dhā*
 - \[verb\], plural, Perfect indicative
 - “produce; perform; administer; cause; shape; use; make; dig;
@@ -138,57 +152,81 @@ ví ← ví (invariable)
     regulate; add; arrange; create; dress; inject; process; think of;
     order; name; breed; raise; write; produce; grant; appoint; do; put
     on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhūṇām* ← *ṛbhu*
 - \[noun\], genitive, plural, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhaṃ* ← *śubham* ← *śubha*
 - \[noun\], accusative, singular, neuter
 - “good; beautiful; auspicious; good; suitable; pleasant; righteous;
     beautiful; wholesome; beneficial.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchubhrā* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchubhrā* ← *śubhrāḥ* ← *śubhra*
 - \[noun\], nominative, plural, feminine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasaś* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *jñāyante* ← *jñā*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadṛśīr* ← *sadṛśīḥ* ← *sadṛśa*
 - \[noun\], nominative, plural, feminine
 - “like; alike(p); appropriate; sadṛśa \[word\]; comparable;
     resembling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajuryāḥ* ← *ajurya*
 - \[noun\], nominative, plural, feminine
 - “ageless; amaranthine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

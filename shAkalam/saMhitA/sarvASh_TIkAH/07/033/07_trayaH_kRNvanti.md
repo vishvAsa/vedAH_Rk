@@ -102,7 +102,9 @@ viduḥ ← √vid- 2 (root)
 -   *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvanti* ← *kṛ*
 - \[verb\], plural, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -113,85 +115,121 @@ viduḥ ← √vid- 2 (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvaneṣu* ← *bhuvana*
 - \[noun\], locative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *retas* ← *retaḥ* ← *retas*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm.”
-------------------------------------------------------------------------
+
+_________
+
 - *tisraḥ* ← *tri*
 - \[noun\], nominative, plural, feminine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prajā* ← *prajāḥ* ← *prajā*
 - \[noun\], nominative, plural, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *āryā* ← *āryāḥ* ← *ārya*
 - \[noun\], nominative, plural, feminine
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotiragrāḥ* ← *jyotiḥ* ← *jyotis*
 - \[noun\], neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotiragrāḥ* ← *agrāḥ* ← *agra*
 - \[noun\], nominative, plural, feminine
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 - *trayo* ← *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmāsa* ← *gharmāsaḥ* ← *gharma*
 - \[noun\], nominative, plural, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasaṃ* ← *uṣasam* ← *uṣas*
 - \[noun\], accusative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacante* ← *sac*
 - \[verb\], plural, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvāṃ* ← *sarvān* ← *sarva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidur* ← *viduḥ* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭhāḥ* ← *vasiṣṭha*
 - \[noun\], nominative, plural, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

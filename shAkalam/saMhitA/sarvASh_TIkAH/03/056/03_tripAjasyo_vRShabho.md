@@ -90,80 +90,116 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 -   *tripājasyo* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tripājasyo* ← *pājasyaḥ* ← *pājasya*
 - \[noun\], nominative, singular, masculine
 - “abdomen; belly.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvarūpa* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvarūpa* ← *rūpaḥ* ← *rūpa*
 - \[noun\], nominative, singular, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tryudhā* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tryudhā* ← *udhā* ← *udhan*
 - \[noun\], nominative, singular, masculine
 - “udder.”
-------------------------------------------------------------------------
+
+_________
+
 - *purudha* ← *purudhā*
 - \[adverb\]
 - “multiply.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajāvān* ← *prajāvat*
 - \[noun\], nominative, singular, masculine
 - “prolific.”
-------------------------------------------------------------------------
+
+_________
+
 - *tryanīkaḥ* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tryanīkaḥ* ← *anīkaḥ* ← *anīka*
 - \[noun\], nominative, singular, masculine
 - “army; face; battalion; battlefront; point; appearance.”
-------------------------------------------------------------------------
+
+_________
+
 - *patyate* ← *paty*
 - \[verb\], singular, Present indikative
 - “own; have; master.”
-------------------------------------------------------------------------
+
+_________
+
 - *māhināvān* ← *māhināvat*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *retodhā* ← *retodhāḥ* ← *retodhā*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvatīnām* ← *śaśvat*
 - \[noun\], genitive, plural, feminine
 - “all(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

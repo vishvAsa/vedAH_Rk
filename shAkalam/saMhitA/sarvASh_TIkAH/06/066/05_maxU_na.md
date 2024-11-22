@@ -114,98 +114,144 @@ yāsat ← √yā- 2 (root)
 -   *makṣū*
 - \[adverb\]
 - “promptly; soon; quickly.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣu* ← *yad*
 - \[noun\], locative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dohase* ← *duh*
 - \[verb noun\]
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇu*
 - \[noun\], accusative, singular, neuter
 - “brave; ferocious; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *mārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], accusative, singular, neuter
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhānāḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *staunā* ← *staunāḥ* ← *stauna*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ayāso* ← *ayāsaḥ* ← *ayās*
 - \[noun\], nominative, plural, masculine
 - “undaunted; irrepressible; audacious.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānur* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānur* ← *dānuḥ* ← *dānu*
 - \[noun\], nominative, singular, feminine
 - “giving; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāsad* ← *yāsat* ← *yā*
 - \[verb\], singular, Aorist conj./subj.
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugrān* ← *ugra*
 - \[noun\], accusative, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

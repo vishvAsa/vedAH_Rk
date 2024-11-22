@@ -105,96 +105,136 @@ sadhásthe ← sadhástha- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *kravyāt* ← *kravyād*
 - \[noun\], nominative, singular, masculine
 - “carnivore.”
-------------------------------------------------------------------------
+
+_________
+
 - *praviveśa* ← *praviś* ← *√viś*
 - \[verb\], singular, Perfect indicative
 - “enter; throw; insert; fit; marry; repair to; permeate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 - *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśyann* ← *paśyan* ← *paś*
 - \[verb noun\], nominative, singular
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *itaraṃ* ← *itaram* ← *itara*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); itara \[word\]; other than.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedasam* ← *jātavedas*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *harāmi* ← *hṛ*
 - \[verb\], singular, Present indikative
 - “cure; remove; kidnap; rob; take away; get; destroy; take; extract;
     collect; seize; clean; offer; drain; pick; take out; bring; accept;
     sever; produce; conquer; steal; deprive; press out.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitṛyajñāya* ← *pitṛ*
 - \[noun\], masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitṛyajñāya* ← *yajñāya* ← *yajña*
 - \[noun\], dative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *devaṃ* ← *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmam* ← *gharma*
 - \[noun\], accusative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *invāt* ← *inv*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “bring; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *parame* ← *parama*
 - \[noun\], locative, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

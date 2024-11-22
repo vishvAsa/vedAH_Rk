@@ -79,51 +79,75 @@ sukṣatra ← sukṣatrá- (nominal stem)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *emi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasphurann* ← *prasphuran* ← *prasphur* ← *√sphur*
 - \[verb noun\], nominative, singular
 - “tremble.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛtir* ← *dṛtiḥ* ← *dṛti*
 - \[noun\], nominative, singular, masculine
 - “hose; dṛti \[word\]; hide; bladder.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhmāto* ← *dhmātaḥ* ← *dham*
 - \[verb noun\], nominative, singular
 - “heat; blow; fan; blow; ignite; blow; inflate.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrivaḥ* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛﾱā* ← *mṛḍa* ← *mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṣatra* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṣatra* ← *kṣatra*
 - \[noun\], vocative, singular, masculine
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛﾱaya* ← *mṛḍaya* ← *mṛḍay* ← *√mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

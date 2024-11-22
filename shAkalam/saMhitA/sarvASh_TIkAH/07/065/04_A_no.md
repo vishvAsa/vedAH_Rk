@@ -102,83 +102,121 @@ udnáḥ ← udán- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇā* ← *mitrāvaruṇāḥ* ← *mitrāvaruṇa*
 - \[noun\], vocative, plural, masculine
 - “Varuna; Mitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyajuṣṭiṃ* ← *havya*
 - \[noun\], neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *havyajuṣṭiṃ* ← *juṣṭim* ← *juṣṭi*
 - \[noun\], accusative, singular, feminine
 - “satisfaction; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtair* ← *ghṛtaiḥ* ← *ghṛta*
 - \[noun\], instrumental, plural, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyūtim* ← *gavyūti*
 - \[noun\], accusative, singular, feminine
 - “pasture.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣatam* ← *ukṣ*
 - \[verb\], dual, Present imperative
 - “sprinkle; wet.”
-------------------------------------------------------------------------
+
+_________
+
 - *iﾱābhiḥ* ← *iḍā*
 - \[noun\], instrumental, plural, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *varam* ← *vara*
 - \[noun\], accusative, singular, masculine
 - “gift; favor; wish; privilege; varac; wages.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *janāya* ← *jana*
 - \[noun\], dative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇītam* ← *pṛ*
 - \[verb\], dual, Present imperative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *udno* ← *udnaḥ* ← *udan*
 - \[noun\], genitive, singular, neuter
 - “water; body of water.”
-------------------------------------------------------------------------
+
+_________
+
 - *divyasya* ← *divya*
 - \[noun\], genitive, singular, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāroḥ* ← *cāru*
 - \[noun\], genitive, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

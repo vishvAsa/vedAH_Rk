@@ -97,19 +97,27 @@ vóḷhave ← √vah- (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṣī* ← *aruṣa*
 - \[noun\], accusative, dual, feminine
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuṅgdhvaṃ* ← *yuṅgdhvam* ← *yuj*
 - \[verb\], plural, Present imperative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -117,15 +125,21 @@ vóḷhave ← √vah- (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratheṣu* ← *ratha*
 - \[noun\], locative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *rohitaḥ* ← *rohit*
 - \[noun\], accusative, plural, masculine
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuṅgdhvaṃ* ← *yuṅgdhvam* ← *yuj*
 - \[verb\], plural, Present imperative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -133,37 +147,53 @@ vóḷhave ← √vah- (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajirā* ← *ajira*
 - \[noun\], accusative, dual, masculine
 - “fast; agile; ajira \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhuri* ← *dhur*
 - \[noun\], locative, singular, feminine
 - “yoke; dhur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *voﾱhave* ← *vah*
 - \[verb noun\]
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahiṣṭhā* ← *vahiṣṭha*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dhuri* ← *dhur*
 - \[noun\], locative, singular, feminine
 - “yoke; dhur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *voﾱhave* ← *vah*
 - \[verb noun\]
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

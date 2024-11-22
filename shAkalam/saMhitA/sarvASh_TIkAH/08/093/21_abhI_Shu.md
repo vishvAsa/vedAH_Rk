@@ -76,46 +76,66 @@ prayantā́ ← prayantár- (nominal stem)
 -   *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṇas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandasānaḥ* ← *mand*
 - \[verb noun\], nominative, singular
 - “rejoice; exhilarate.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasriṇam* ← *sahasrin*
 - \[noun\], accusative, singular, masculine
 - “thousandfold.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayantā* ← *prayam* ← *√yam*
 - \[verb\], singular, periphrast. future
 - “give; emit; send; transmit.”
-------------------------------------------------------------------------
+
+_________
+
 - *bodhi* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

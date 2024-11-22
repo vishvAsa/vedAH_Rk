@@ -81,51 +81,73 @@ vājínam ← vājín- (nominal stem)
 -   *aryamaṇam* ← *aryaman*
 - \[noun\], accusative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dānāya* ← *dāna*
 - \[noun\], dative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
-------------------------------------------------------------------------
+
+_________
+
 - *codaya* ← *coday* ← *√cud*
 - \[verb\], singular, Present imperative
 - “impel; drive; incite; command; drive; arouse; propel.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātaṃ* ← *vātam* ← *vāta*
 - \[noun\], accusative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṇuṃ* ← *viṣṇum* ← *viṣṇu*
 - \[noun\], accusative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvatīṃ* ← *sarasvatīm* ← *sarasvatī*
 - \[noun\], accusative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitāraṃ* ← *savitāram* ← *savitṛ*
 - \[noun\], accusative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

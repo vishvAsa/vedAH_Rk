@@ -102,30 +102,42 @@ ví ← ví (invariable)
 -   *yata* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhayāmahe* ← *bhī*
 - \[verb\], plural, Present indikative
 - “fear; fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *tato* ← *tatas*
 - \[adverb\]
 - “then; therefore; now; then; from there; subsequently; consequently;
     then; there; from that; for that reason; alternatively;
     consequently; furthermore.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhayaṃ* ← *abhayam* ← *abhaya*
 - \[noun\], accusative, singular, neuter
 - “security; abhayamudrā; Abhaya.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -136,55 +148,79 @@ ví ← ví (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavañchagdhi* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavañchagdhi* ← *śagdhi* ← *śak*
 - \[verb\], singular, Aorist imperative
 - “can; invigorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dviṣo* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, feminine
 - “hate; dviṣ; hostility; hostility.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛdho* ← *mṛdhaḥ* ← *mṛdh*
 - \[noun\], accusative, plural, feminine
 - “enemy; adversary.”
-------------------------------------------------------------------------
+
+_________
+
 - *jahi* ← *han*
 - \[verb\], singular, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

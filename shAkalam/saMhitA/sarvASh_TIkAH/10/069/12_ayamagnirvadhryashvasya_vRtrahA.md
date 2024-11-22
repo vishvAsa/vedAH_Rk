@@ -102,80 +102,118 @@ vādhryaśva ← vā́dhryaśva- (nominal stem)
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhryaśvasya* ← *vadhryaśva*
 - \[noun\], genitive, singular, masculine
 - “Vadhryaśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahā* ← *vṛtra*
 - \[noun\], masculine
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanakāt* ← *sanaka*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *preddho* ← *preddhaḥ* ← *prendh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasopavākyaḥ* ← *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasopavākyaḥ* ← *upavākyaḥ* ← *upavac* ← *√vac*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāmīṃr* ← *ajāmīn* ← *ajāmi*
 - \[noun\], accusative, plural, masculine
 - “unrelated; foreign-born.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *vijāmīn* ← *vijāmi*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭha* ← *sthā*
 - \[verb\], singular, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhato* ← *śardhataḥ* ← *śṛdh*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *vādhryaśva*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

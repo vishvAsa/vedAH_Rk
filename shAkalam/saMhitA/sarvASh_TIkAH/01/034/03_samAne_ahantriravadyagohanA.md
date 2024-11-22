@@ -106,82 +106,122 @@ uṣásaḥ ← uṣás- (nominal stem)
 - \[noun\], locative, singular, neuter
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahan* ← *ahar*
 - \[noun\], locative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *avadyagohanā* ← *avadya*
 - \[noun\]
 - “blameworthy; avadya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *avadyagohanā* ← *gohanā* ← *gohana*
 - \[noun\], vocative, dual, masculine
 - “concealing.”
-------------------------------------------------------------------------
+
+_________
+
 - *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhunā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mimikṣatam* ← *mikṣ*
 - \[verb\], dual, Perfect imperative
 - “season.”
-------------------------------------------------------------------------
+
+_________
+
 - *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vājavatīr* ← *vājavatīḥ* ← *vājavat*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *iṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *doṣā*
 - \[adverb\]
 - “in the evening.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasaś* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *pinvatam* ← *pinv*
 - \[verb\], dual, Present imperative
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

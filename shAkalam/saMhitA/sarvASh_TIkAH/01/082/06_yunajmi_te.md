@@ -115,90 +115,132 @@ vajrin ← vajrín- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *keśinā* ← *keśin*
 - \[noun\], accusative, dual, masculine
 - “haired.”
-------------------------------------------------------------------------
+
+_________
+
 - *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhiṣe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *ut* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutāso* ← *sutāsaḥ* ← *suta*
 - \[noun\], nominative, plural, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *rabhasā* ← *rabhasāḥ* ← *rabhasa*
 - \[noun\], nominative, plural, masculine
 - “fierce; impetuous; powerful; potent; flamboyant.”
-------------------------------------------------------------------------
+
+_________
+
 - *amandiṣuḥ* ← *mad*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣaṇvān* ← *pūṣaṇvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vajrin*
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *patnyāmadaḥ* ← *patnyā* ← *patnī*
 - \[noun\], instrumental, singular, feminine
 - “wife; mistress; queen.”
-------------------------------------------------------------------------
+
+_________
+
 - *patnyāmadaḥ* ← *amadaḥ* ← *mad*
 - \[verb\], singular, Imperfect
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -101,78 +101,114 @@ yéna ← yá- (pronoun)
 
 -   *akṣānaho* ← *akṣānahaḥ* ← *akṣānah*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nahyatanota* ← *nahyatana* ← *nah*
 - \[verb\], plural, Present imperative
 - “tie; envelop; tie.”
-------------------------------------------------------------------------
+
+_________
+
 - *nahyatanota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *somyā* ← *somyāḥ* ← *somya*
 - \[noun\], vocative, plural, masculine
 - “saumya.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣkṛṇudhvaṃ* ← *iṣkṛṇudhvam* ← *iṣkṛ* ← *√kṛ*
 - \[verb\], plural, Present imperative
 - “prepare.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśanā* ← *raśanāḥ* ← *raśanā*
 - \[noun\], accusative, plural, feminine
 - “rein; bridle; girdle; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *ota* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *piṃśata* ← *piś*
 - \[verb\], plural, Present imperative
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣṭāvandhuraṃ* ← *aṣṭāvandhuram* ← *aṣṭāvandhura*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vahatābhito* ← *vahata* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahatābhito* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *anayann* ← *anayan* ← *nī*
 - \[verb\], plural, Imperfect
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -101,77 +101,115 @@ vā́r ← vā́r- 1 (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *yahvyo* ← *yahvyaḥ* ← *yahu*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *'vanīr* ← *avanīḥ* ← *avani*
 - \[noun\], accusative, plural, feminine
 - “river; earth; floor; path; bed; course.”
-------------------------------------------------------------------------
+
+_________
+
 - *goṣv* ← *goṣu* ← *go*
 - \[noun\], locative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhoti* ← *hu*
 - \[verb\], singular, Present indikative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *pradhanyāsu* ← *pradhanya*
 - \[noun\], locative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sasriḥ* ← *sasri*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *apādo* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *apādo* ← *pādaḥ* ← *pād*
 - \[noun\], nominative, plural, masculine
 - “pād \[word\]; foot.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yujyāso* ← *yujyāsaḥ* ← *yujya*
 - \[noun\], nominative, plural, masculine
 - “adequate to(p); appropriate; united; allied.”
-------------------------------------------------------------------------
+
+_________
+
 - *'rathā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *'rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *droṇyaśvāsa* ← *droṇī*
 - \[noun\], feminine
 - “basin; tub; valley; vessel.”
-------------------------------------------------------------------------
+
+_________
+
 - *droṇyaśvāsa* ← *aśvāsaḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtaṃ* ← *ghṛtam* ← *ghṛta*
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāḥ* ← *vār*
 - \[noun\], accusative, singular, neuter
 - “water; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

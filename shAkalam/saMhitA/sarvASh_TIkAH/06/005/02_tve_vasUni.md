@@ -102,71 +102,105 @@ saúbhagāni ← saúbhaga- (nominal stem)
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *purvaṇīka*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hotar* ← *hotṛ*
 - \[noun\], vocative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *doṣā*
 - \[adverb\]
 - “in the evening.”
-------------------------------------------------------------------------
+
+_________
+
 - *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *erire* ← *er* ← *√īr*
 - \[verb\], plural, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyāsaḥ* ← *yajñiya*
 - \[noun\], nominative, plural, masculine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāmeva* ← *kṣāma* ← *kṣāman*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *saubhagāni* ← *saubhaga*
 - \[noun\], accusative, plural, neuter
 - “well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvake* ← *pāvaka*
 - \[noun\], locative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

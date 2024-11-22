@@ -105,86 +105,126 @@ sarsrāte ← √sr̥- 2 (root)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āruḥ* ← *ṛch*
 - \[verb\], plural, Perfect indicative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *śitipṛṣṭhasya* ← *śiti*
 - \[noun\]
 - “white; śiti \[word\]; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *śitipṛṣṭhasya* ← *pṛṣṭhasya* ← *pṛṣṭha*
 - \[noun\], genitive, singular, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāser* ← *dhāseḥ* ← *dhāsi*
 - \[noun\], ablative, singular, feminine
 - “seat; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mātarā* ← *mātṛ*
 - \[noun\], accusative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *viviśuḥ* ← *viś*
 - \[verb\], plural, Perfect indicative
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṇīḥ* ← *vāṇī*
 - \[noun\], nominative, plural, feminine
 - “voice; Sarasvati; words; language.”
-------------------------------------------------------------------------
+
+_________
+
 - *parikṣitā* ← *parikṣi* ← *√kṣi*
 - \[verb noun\], nominative, dual
-------------------------------------------------------------------------
+
+_________
+
 - *pitarā* ← *pitṛ*
 - \[noun\], nominative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *carete* ← *car*
 - \[verb\], dual, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarsrāte* ← *sarsṛ* ← *√sṛ*
 - \[verb\], dual, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayakṣe* ← *prayakṣ* ← *√yakṣ*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

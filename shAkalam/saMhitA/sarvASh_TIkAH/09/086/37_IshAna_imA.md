@@ -108,19 +108,27 @@ vraté ← vratá- (nominal stem)
 -   *īśāna* ← *īśānaḥ* ← *īśāna*
 - \[noun\], nominative, singular, masculine
 - “Shiva; Īśāna; ruler; Vishnu; īśvara; overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vīyase* ← *vī*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujāna* ← *yujānaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -128,68 +136,98 @@ vraté ← vratá- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *haritaḥ* ← *harit*
 - \[noun\], accusative, plural, feminine
 - “pale; green; bay; yellow.”
-------------------------------------------------------------------------
+
+_________
+
 - *suparṇyaḥ* ← *suparṇī*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *tās* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣarantu* ← *kṣar*
 - \[verb\], plural, Present imperative
 - “run; melt.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumad* ← *madhumat*
 - \[noun\], accusative, singular, neuter
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtam* ← *ghṛta*
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *payas* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrate* ← *vrata*
 - \[noun\], locative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhantu* ← *sthā*
 - \[verb\], plural, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

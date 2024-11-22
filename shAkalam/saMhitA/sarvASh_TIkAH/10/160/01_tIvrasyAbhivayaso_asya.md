@@ -105,41 +105,59 @@ túbhyam ← tvám (pronoun)
 -   *tīvrasyābhivayaso* ← *tīvrasya* ← *tīvra*
 - \[noun\], genitive, singular, masculine
 - “intense; severe; pungent; acute; potent; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *tīvrasyābhivayaso* ← *abhivayasaḥ* ← *abhivayas*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvarathā* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvarathā* ← *rathā* ← *ratha*
 - \[noun\], accusative, dual, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *muñca* ← *muc*
 - \[verb\], singular, Present imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -147,49 +165,71 @@ túbhyam ← tvám (pronoun)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamānāso* ← *yajamānāsaḥ* ← *yajamāna*
 - \[noun\], nominative, plural, masculine
 - “Yajamāna.”
-------------------------------------------------------------------------
+
+_________
+
 - *anye* ← *anya*
 - \[noun\], nominative, plural, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *rīraman* ← *ram*
 - \[verb\], plural, Aorist inj. (proh.)
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
-------------------------------------------------------------------------
+
+_________
+
 - *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutāsaḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

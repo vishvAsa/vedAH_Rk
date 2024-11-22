@@ -75,43 +75,63 @@ naḥ ← ahám (pronoun)
 
 -   *naktoṣāsā*
 - \[noun\], accusative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *supeśasāsmin* ← *supeśasā* ← *supeśas*
 - \[noun\], accusative, dual, feminine
 - “beautiful; fine-looking.”
-------------------------------------------------------------------------
+
+_________
+
 - *supeśasāsmin* ← *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajña* ← *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *hvaye* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsade* ← *āsad* ← *√sad*
 - \[verb noun\]
 - “approach; attack; sit down; approach; find; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

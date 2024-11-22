@@ -95,15 +95,21 @@ r̥dūvŕ̥dhā ← r̥dūvŕ̥dh- (nominal stem)
 
 -   *tuvikṣaṃ* ← *tuvikṣam* ← *tuvikṣa*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -114,60 +120,90 @@ r̥dūvŕ̥dhā ← r̥dūvŕ̥dh- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūmayaṃ* ← *sūmayam* ← *sūmaya*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *dhanuḥ* ← *dhanus*
 - \[noun\], nominative, singular, neuter
 - “bow; archery; dhanus \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhur* ← *sādhuḥ* ← *sādhu*
 - \[noun\], nominative, singular, masculine
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”
-------------------------------------------------------------------------
+
+_________
+
 - *bundo* ← *bundaḥ* ← *bunda*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayaḥ* ← *hiraṇyaya*
 - \[noun\], nominative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhū* ← *bāhu*
 - \[noun\], nominative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṇyā* ← *raṇya*
 - \[noun\], nominative, dual, masculine
 - “pleasant; unpacific; warlike.”
-------------------------------------------------------------------------
+
+_________
+
 - *susaṃskṛta* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *susaṃskṛta* ← *saṃskṛte* ← *saṃskṛ* ← *√kṛ*
 - \[verb noun\], nominative, dual
 - “prepare; prepare; consecrate; perfect; marry; perfect; process.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛdūpe* ← *ṛdūpā*
 - \[noun\], nominative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛdūvṛdhā* ← *ṛdūvṛdh*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

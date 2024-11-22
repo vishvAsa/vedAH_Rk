@@ -114,100 +114,146 @@ kā́mam ← kā́ma- (nominal stem)
 -   *ṛdhyāma* ← *ṛdh*
 - \[verb\], plural, Present imperative
 - “boom; stick to.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sanuyāma* ← *san*
 - \[verb\], plural, Present optative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mantraṃ* ← *mantram* ← *mantra*
 - \[noun\], accusative, singular, masculine
 - “mantra; Mantra; consultation; advice; consultation; mantra
     \[word\]; speech; plan.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarathehopa* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarathehopa* ← *rathā* ← *ratha*
 - \[noun\], nominative, dual, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarathehopa* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarathehopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaśo* ← *yaśaḥ* ← *yaśas*
 - \[noun\], accusative, singular, neuter
 - “fame; Yaśas.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pakvam* ← *pakva*
 - \[noun\], accusative, singular, neuter
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *goṣv* ← *goṣu* ← *go*
 - \[noun\], locative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtāṃśo* ← *bhūtāṃśaḥ* ← *bhūtāṃśa*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinoḥ* ← *aśvin*
 - \[noun\], genitive, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmam* ← *kāma*
 - \[noun\], accusative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 - *aprāḥ* ← *prā*
 - \[verb\], singular, Root aorist (Ind.)
 - “fill; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

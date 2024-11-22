@@ -99,87 +99,125 @@ purás ← purás (invariable)
 -   *pūṣemā* ← *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣemā* ← *imāḥ* ← *idam*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśā* ← *āśāḥ* ← *āśā*
 - \[noun\], accusative, plural, feminine
 - “quarter; region; geographical area; sky; space.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvāḥ* ← *sarva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmāṃ* ← *mad*
 - \[noun\], accusative, plural, masculine
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhayatamena* ← *abhayatama*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *neṣat* ← *nī*
 - \[verb\], singular, Aorist conj./subj.
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastidā* ← *svasti*
 - \[noun\], neuter
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastidā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *āghṛṇiḥ* ← *āghṛṇi*
 - \[noun\], nominative, singular, feminine
 - “aglow(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvavīro* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvavīro* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *'prayucchan* ← *aprayucchan* ← *aprayucchat*
 - \[noun\], nominative, singular, masculine
 - “ceaseless; attentive.”
-------------------------------------------------------------------------
+
+_________
+
 - *pura* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
-------------------------------------------------------------------------
+
+_________
+
 - *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajānan* ← *prajñā* ← *√jñā*
 - \[verb noun\], nominative, singular
 - “know; perceive; understand; detect.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -76,7 +76,9 @@ sumnayā́ ← sumnayā́- (nominal stem)
 -   *sīrā* ← *sīra*
 - \[noun\], accusative, plural, neuter
 - “sīra \[word\]; plow.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuñjanti* ← *yuj*
 - \[verb\], plural, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -84,43 +86,61 @@ sumnayā́ ← sumnayā́- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavayo* ← *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *yugā* ← *yuga*
 - \[noun\], accusative, plural, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvate* ← *tan*
 - \[verb\], plural, Present indikative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthak*
 - \[adverb\]
 - “individually; apart; each; by the piece; independently; pṛthak
     \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīrā* ← *dhīrāḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
-------------------------------------------------------------------------
+
+_________
+
 - *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnayā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,40 +73,58 @@ manyáve ← manyú- (nominal stem)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhāya* ← *vadha*
 - \[noun\], dative, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
-------------------------------------------------------------------------
+
+_________
+
 - *hatnave* ← *hatnu*
 - \[noun\], dative, singular, masculine
 - “deadly.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihīḍānasya* ← *hīḍ*
 - \[verb noun\], genitive, singular
 - “anger; stew.”
-------------------------------------------------------------------------
+
+_________
+
 - *rīradhaḥ* ← *radh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “subjugate.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛṇānasya* ← *hṛ*
 - \[verb noun\], genitive, singular
 - “anger.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyave* ← *manyu*
 - \[noun\], dative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

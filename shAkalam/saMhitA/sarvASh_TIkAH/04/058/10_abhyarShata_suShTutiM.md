@@ -102,78 +102,114 @@ pavante ← √pū- (root)
 -   *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṣata* ← *ṛṣ*
 - \[verb\], plural, Present imperative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭutiṃ* ← *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyam* ← *gavya*
 - \[noun\], accusative, singular, masculine
 - “bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājim* ← *āji*
 - \[noun\], accusative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmāsu* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadra*
 - \[noun\], accusative, plural, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇāni* ← *draviṇa*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; money; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhatta* ← *dhā*
 - \[verb\], plural, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *nayata* ← *nī*
 - \[verb\], plural, Present imperative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatā* ← *devatāḥ* ← *devatā*
 - \[noun\], accusative, plural, feminine
 - “Hindu deity; Deva; deity; idol; devatā \[word\]; divinity; temple.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtasya* ← *ghṛta*
 - \[noun\], genitive, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārā* ← *dhārāḥ* ← *dhārā*
 - \[noun\], nominative, plural, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumat*
 - \[noun\], accusative, singular, neuter
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavante* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

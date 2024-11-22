@@ -93,63 +93,93 @@ viśpálām ← viśpálā- (nominal stem)
 -   *sūnor* ← *sūnoḥ* ← *sūnu*
 - \[noun\], genitive, singular, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānenāśvinā* ← *mānena* ← *māna*
 - \[noun\], instrumental, singular, masculine
 - “arrogance; honor; reverence; obedience; notion; conceit.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānenāśvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇānā* ← *gṛ*
 - \[verb noun\], nominative, dual
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprāya* ← *vipra*
 - \[noun\], dative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuraṇā* ← *bhuraṇa*
 - \[noun\], vocative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *radantā* ← *rad*
 - \[verb noun\], nominative, dual
 - “dig.”
-------------------------------------------------------------------------
+
+_________
+
 - *agastye* ← *agastya*
 - \[noun\], locative, singular, masculine
 - “Agastya; Sesbania grandiflora; Polaris; agastya \[word\]; Agastya.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhānā* ← *vṛdh*
 - \[verb noun\], nominative, dual
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśpalāṃ* ← *viśpalām* ← *viśpalā*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyāriṇītam* ← *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyāriṇītam* ← *ariṇītam* ← *ri*
 - \[verb\], dual, Imperfect
 - “free; liberate; run; let go of.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

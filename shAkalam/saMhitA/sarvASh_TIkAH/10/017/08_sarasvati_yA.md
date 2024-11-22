@@ -100,79 +100,115 @@ dhehi ← √dhā- 1 (root)
 - \[noun\], vocative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sarathaṃ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *yayātha* ← *yā*
 - \[verb\], singular, Perfect indicative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhābhir* ← *svadhābhiḥ* ← *svadhā*
 - \[noun\], instrumental, plural, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
-------------------------------------------------------------------------
+
+_________
+
 - *devi* ← *devī*
 - \[noun\], vocative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitṛbhir* ← *pitṛbhiḥ* ← *pitṛ*
 - \[noun\], instrumental, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *madantī* ← *mad*
 - \[verb noun\], nominative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsadyāsmin* ← *āsadya* ← *āsad* ← *√sad*
 - \[verb noun\]
 - “approach; attack; sit down; approach; find; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsadyāsmin* ← *asmin* ← *idam*
 - \[noun\], locative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mādayasvānamīvā* ← *mādayasva* ← *māday* ← *√mad*
 - \[verb\], singular, Present imperative
 - “delight; enjoy; intoxicate.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādayasvānamīvā* ← *anamīvā* ← *anamīva*
 - \[noun\], accusative, plural, feminine
 - “healthy; comfortable; beneficial.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣa* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhehy* ← *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], locative, plural, masculine
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

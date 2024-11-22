@@ -110,60 +110,86 @@ sparat ← √spr̥- (root)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanāmaināṃ* ← *enām* ← *enad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *abravīc* ← *abravīt* ← *brū*
 - \[verb\], singular, Imperfect
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *camasaṃ* ← *camasam* ← *camasa*
 - \[noun\], accusative, singular, masculine
 - “camasa; beaker; cake.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devapānam* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devapānam* ← *pānam* ← *pāna*
 - \[noun\], accusative, singular, neuter
 - “beverage; drinking; alcohol; drink; draft; drinking vessel; pāna
     \[word\]; vagina; well; cup; inhalation.”
-------------------------------------------------------------------------
+
+_________
+
 - *anindiṣuḥ* ← *nind*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “blame; disapprove; condemn; reprehend; reprimand.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyā* ← *anya*
 - \[noun\], accusative, plural, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *nāmāni* ← *nāman*
 - \[noun\], accusative, plural, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvate* ← *kṛ*
 - \[verb\], plural, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -174,36 +200,52 @@ sparat ← √spr̥- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacāṃ* ← *saca*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *anyair* ← *anyaiḥ* ← *anya*
 - \[noun\], instrumental, plural, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *enān* ← *enad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *kanyā*
 - \[noun\], nominative, singular, feminine
 - “girl; daughter; kanyā; virgin; Aloe perfoliata; Aloe Indica; female
     child; kanyā \[word\]; burn plant.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāmabhi* ← *nāmabhiḥ* ← *nāman*
 - \[noun\], instrumental, plural, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *sparat* ← *spṛ*
 - \[verb\], singular, Aorist conj./subj.
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

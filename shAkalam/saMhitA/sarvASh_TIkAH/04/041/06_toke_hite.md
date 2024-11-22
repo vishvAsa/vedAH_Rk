@@ -99,75 +99,109 @@ páritakmyāyām ← páritakmya- (nominal stem)
 -   *toke* ← *toka*
 - \[noun\], locative, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *hite* ← *dhā*
 - \[verb noun\], locative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanaya* ← *tanaye* ← *tanaya*
 - \[noun\], locative, singular, neuter
 - “biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *urvarāsu* ← *urvarā*
 - \[noun\], locative, plural, feminine
 - “field; Urvarā.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūro* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛśīke* ← *dṛśīka*
 - \[noun\], locative, singular, neuter
 - “visual perception.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇaś* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *pauṃsye* ← *pauṃsya*
 - \[noun\], locative, singular, neuter
 - “manfulness; deed; army; strength.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrā* ← *indra*
 - \[noun\], nominative, dual, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇā* ← *varuṇa*
 - \[noun\], nominative, dual, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *syātām* ← *as*
 - \[verb\], dual, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *avobhir* ← *avobhiḥ* ← *avas*
 - \[noun\], instrumental, plural, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasmā* ← *dasma*
 - \[noun\], nominative, dual, masculine
 - “overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *paritakmyāyām* ← *paritakmyā*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

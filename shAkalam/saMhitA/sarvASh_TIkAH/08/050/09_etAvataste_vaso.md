@@ -93,62 +93,90 @@ yáthā ← yáthā (invariable)
 -   *etāvatas* ← *etāvataḥ* ← *etāvat*
 - \[noun\], genitive, singular, neuter
 - “such(a); such(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyāma* ← *vid*
 - \[verb\], plural, Present optative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyasaḥ* ← *navyas*
 - \[noun\], genitive, singular, neuter
 - “new.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāva* ← *prāvaḥ* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
-------------------------------------------------------------------------
+
+_________
+
 - *etaśaṃ* ← *etaśam* ← *etaśa*
 - \[noun\], accusative, singular, masculine
 - “Etaśa; horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtvye* ← *kṛtvya*
 - \[noun\], locative, singular, neuter
 - “confident.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhane* ← *dhana*
 - \[noun\], locative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaśaṃ* ← *vaśam* ← *vaśa*
 - \[noun\], accusative, singular, masculine
 - “control; dominion; influence; power; Vaśa; vaśa \[word\]; will;
     authority; control; wish; supervision.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśavraje* ← *daśavraja*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

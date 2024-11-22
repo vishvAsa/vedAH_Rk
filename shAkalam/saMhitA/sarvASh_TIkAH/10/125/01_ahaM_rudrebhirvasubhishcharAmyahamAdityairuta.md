@@ -99,81 +99,117 @@ ubhā́ ← ubhá- (pronoun)
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudrebhir* ← *rudrebhiḥ* ← *rudra*
 - \[noun\], instrumental, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasubhiś* ← *vasubhiḥ* ← *vasu*
 - \[noun\], instrumental, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *carāmy* ← *carāmi* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityair* ← *ādityaiḥ* ← *āditya*
 - \[noun\], instrumental, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadevaiḥ* ← *viśvadeva*
 - \[noun\], instrumental, plural, masculine
 - “Viśvedevās; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇobhā* ← *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], accusative, dual, masculine
 - “Varuna; Mitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇobhā* ← *ubhā* ← *ubh*
 - \[noun\], accusative, dual, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *bibharmy* ← *bibharmi* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgnī* ← *agnī* ← *agni*
 - \[noun\], accusative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinobhā* ← *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinobhā* ← *ubhā* ← *ubh*
 - \[noun\], accusative, dual, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

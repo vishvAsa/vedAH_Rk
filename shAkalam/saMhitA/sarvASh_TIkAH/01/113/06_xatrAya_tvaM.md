@@ -102,77 +102,113 @@ víśvā ← víśva- (nominal stem)
 -   *kṣatrāya* ← *kṣatra*
 - \[noun\], dative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, masculine
 - “many a(a); one.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravase* ← *śravas*
 - \[noun\], dative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tva*
 - \[noun\], accusative, singular, masculine
 - “many a(a); one.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahīyā* ← *mahīy*
 - \[verb noun\]
 - “rejoice; revel.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, feminine
 - “seeking.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tva*
 - \[noun\], accusative, singular, masculine
 - “many a(a); one.”
-------------------------------------------------------------------------
+
+_________
+
 - *artham* ← *artha*
 - \[noun\], accusative, singular, masculine
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
     topic; property; situation; reason; affair; concern; reason;
     enterprise; reason; cause; five; application; application.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tva*
 - \[noun\], accusative, singular, masculine
 - “many a(a); one.”
-------------------------------------------------------------------------
+
+_________
+
 - *ityai* ← *i*
 - \[verb noun\]
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *visadṛśā* ← *visadṛśa*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *jīvitābhipracakṣa* ← *jīvitā* ← *jīvita*
 - \[noun\], accusative, plural, neuter
 - “life; life; survival; support.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvitābhipracakṣa* ← *abhipracakṣe* ← *abhipracakṣ* ← *√cakṣ*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajīgar* ← *ajīgaḥ* ← *jāgṛ*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “wake; watch; awaken; wake up; oversee.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

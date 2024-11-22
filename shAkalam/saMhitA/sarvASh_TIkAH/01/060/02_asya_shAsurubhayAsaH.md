@@ -105,80 +105,118 @@ viśpátiḥ ← viśpáti- (nominal stem)
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śāsur* ← *śāsuḥ* ← *śāsus*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ubhayāsaḥ* ← *ubhaya*
 - \[noun\], nominative, plural, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *sacante* ← *sac*
 - \[verb\], plural, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣmanta* ← *haviṣmantaḥ* ← *haviṣmat*
 - \[noun\], nominative, plural, masculine
 - “sacrificing.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśijo* ← *uśijaḥ* ← *uśij*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *martāḥ* ← *marta*
 - \[noun\], nominative, plural, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaś* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvo* ← *pūrvaḥ* ← *pūrva*
 - \[noun\], nominative, singular, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *asādi* ← *sad*
 - \[verb\], singular, Aorist passive
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotāpṛcchyo* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotāpṛcchyo* ← *āpṛcchyaḥ* ← *āpṛcchya*
 - \[noun\], nominative, singular, masculine
 - “āpṛcchya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśpatir* ← *viśpatiḥ* ← *viśpati*
 - \[noun\], nominative, singular, masculine
 - “overlord; head.”
-------------------------------------------------------------------------
+
+_________
+
 - *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedhāḥ* ← *vedhas*
 - \[noun\], nominative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

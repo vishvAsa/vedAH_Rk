@@ -71,46 +71,66 @@ dákṣam ← dákṣa- (nominal stem)
 - \[noun\], nominative, dual, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], nominative, dual, masculine
 - “Varuna; Mitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvijātā* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvijātā* ← *jātā* ← *jan*
 - \[verb noun\], nominative, dual
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *urukṣayā* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *urukṣayā* ← *kṣayā* ← *kṣaya*
 - \[noun\], nominative, dual, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣaṃ* ← *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāte* ← *dhā*
 - \[verb\], dual, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *apasam* ← *apas*
 - \[noun\], accusative, singular, masculine
 - “busy; effective; hardworking.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

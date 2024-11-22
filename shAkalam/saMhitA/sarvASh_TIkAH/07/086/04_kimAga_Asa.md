@@ -111,93 +111,135 @@ tvā ← tvám (pronoun)
 -   *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āga* ← *āgaḥ* ← *āgas*
 - \[noun\], nominative, singular, neuter
 - “sin; evildoing; mistake.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsa* ← *as*
 - \[verb\], singular, Perfect indicative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyeṣṭhaṃ* ← *jyeṣṭham* ← *jyeṣṭha*
 - \[noun\], nominative, singular, neuter
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotāraṃ* ← *stotāram* ← *stotṛ*
 - \[noun\], accusative, singular, masculine
 - “laudatory; worshiping.”
-------------------------------------------------------------------------
+
+_________
+
 - *jighāṃsasi* ← *jighāṃs* ← *√han*
 - \[verb\], singular, Present indikative
 - “kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *voco* ← *vocaḥ* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūﾱabha* ← *dūḍabha*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *svadhāvo* ← *svadhāvas* ← *svadhāvat*
 - \[noun\], vocative, singular, masculine
 - “autonomous; independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *'va* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvānenā* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvānenā* ← *anenāḥ* ← *anenas*
 - \[noun\], nominative, singular, masculine
 - “blameless; impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *tura* ← *turaḥ* ← *tura*
 - \[noun\], nominative, singular, masculine
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyām* ← *i*
 - \[verb\], singular, Present optative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -76,42 +76,62 @@ ná ← ná (invariable)
 -   *ukthaṃ* ← *uktham* ← *uktha*
 - \[noun\], accusative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śasyamānam* ← *śaṃs*
 - \[verb noun\], accusative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *agor* ← *agoḥ* ← *agu*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *arir* ← *ariḥ* ← *ari*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ciketa* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyatraṃ* ← *gāyatram* ← *gāyatra*
 - \[noun\], accusative, singular, neuter
 - “Gāyatrī; Gāyatra.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīyamānam* ← *gā*
 - \[verb noun\], accusative, singular
 - “sing; praise; jap; recite; describe.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

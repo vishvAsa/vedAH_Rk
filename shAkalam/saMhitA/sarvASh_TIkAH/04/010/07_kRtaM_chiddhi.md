@@ -91,51 +91,75 @@ yájamānāt ← √yaj- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣmā* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sanemi*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *dveṣo* ← *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *inoṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *martāt* ← *marta*
 - \[noun\], ablative, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *itthā*
 - \[adverb\]
 - “thus; here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamānād* ← *yajamānāt* ← *yaj*
 - \[verb noun\], ablative, singular
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvaḥ* ← *ṛtāvan*
 - \[noun\], vocative, singular, masculine
 - “law-abiding; faithful; righteous.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

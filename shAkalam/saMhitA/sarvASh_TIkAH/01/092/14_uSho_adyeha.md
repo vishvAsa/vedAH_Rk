@@ -79,47 +79,69 @@ ví ← ví (invariable)
 -   *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *adyeha* ← *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adyeha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomaty* ← *gomati* ← *gomat*
 - \[noun\], vocative, singular, feminine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvāvati* ← *aśvāvat*
 - \[noun\], vocative, singular, feminine
 - “rich in horses.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāvari* ← *vibhāvan*
 - \[noun\], vocative, singular, feminine
 - “illuminating; shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *revad* ← *revat*
 - \[noun\], accusative, singular, neuter
 - “abundant; rich; affluent; brilliant; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *uccha* ← *vas*
 - \[verb\], singular, Present imperative
 - “dawn; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛtāvati* ← *sūnṛtāvat*
 - \[noun\], vocative, singular, feminine
 - “happy; big; auspicious.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

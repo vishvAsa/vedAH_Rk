@@ -84,43 +84,61 @@ vajrī́ ← vajrín- (nominal stem)
 -   *purām* ← *pur*
 - \[noun\], genitive, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhindur* ← *bhinduḥ* ← *bhindu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
 - “young; youthful.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *amitaujā* ← *amita*
 - \[noun\]
 - “infinite; illimitable; countless.”
-------------------------------------------------------------------------
+
+_________
+
 - *amitaujā* ← *ojāḥ* ← *ojas*
 - \[noun\], nominative, singular, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāyata* ← *jan*
 - \[verb\], singular, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *karmaṇo* ← *karmaṇaḥ* ← *karman*
 - \[noun\], genitive, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -128,19 +146,27 @@ vajrī́ ← vajrín- (nominal stem)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhartā* ← *dhartṛ*
 - \[noun\], nominative, singular, masculine
 - “supporter.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrī* ← *vajrin*
 - \[noun\], nominative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣṭutaḥ* ← *puruṣṭuta*
 - \[noun\], nominative, singular, masculine
 - “Indra; Vishnu; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,78 +99,114 @@ skámbhanebhiḥ ← skámbhana- (nominal stem)
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *apasām* ← *apas*
 - \[noun\], genitive, plural, masculine
 - “busy; effective; hardworking.”
-------------------------------------------------------------------------
+
+_________
+
 - *apastamo* ← *apastamaḥ* ← *apastama*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jajāna* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaśambhuvā* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaśambhuvā* ← *śambhuvā* ← *śambhu*
 - \[noun\], accusative, dual, feminine
 - “kind; benevolent.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mame* ← *mā*
 - \[verb\], singular, Perfect indicative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajasī* ← *rajas*
 - \[noun\], accusative, dual, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratūyayājarebhi* ← *sukratūyayā* ← *sukratūyā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sukratūyayājarebhi* ← *ajarebhiḥ* ← *ajara*
 - \[noun\], instrumental, plural, neuter
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *skambhanebhiḥ* ← *skambhana*
 - \[noun\], instrumental, plural, neuter
 - “prop.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānṛce* ← *arc*
 - \[verb\], singular, Perfect indicative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

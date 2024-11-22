@@ -70,41 +70,61 @@ yáḥ ← yá- (pronoun)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmādanaḥ* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmādanaḥ* ← *mādanaḥ* ← *mādana*
 - \[noun\], nominative, singular, masculine
 - “exhilarating; intoxicant.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīsahe* ← *carṣaṇī*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīsahe* ← *sahe* ← *sah*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sasnir* ← *sasniḥ* ← *sasni*
 - \[noun\], nominative, singular, masculine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *anumādyaḥ* ← *anumad* ← *√mad*
 - \[verb noun\], nominative, singular
 - “praise; cheer; applaud.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

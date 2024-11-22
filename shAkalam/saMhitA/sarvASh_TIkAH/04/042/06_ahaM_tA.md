@@ -108,18 +108,24 @@ ubhé ← ubhá- (pronoun)
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakaraṃ* ← *cakaram* ← *kṛ*
 - \[verb\], singular, Plusquamperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -130,73 +136,107 @@ ubhé ← ubhá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakir*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivyaṃ* ← *daivyam* ← *daivya*
 - \[noun\], nominative, singular, neuter
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 - *saho* ← *sahaḥ* ← *sahas*
 - \[noun\], nominative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *varate* ← *vṛ*
 - \[verb\], singular, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *apratītam* ← *apratīta*
 - \[noun\], accusative, singular, masculine
 - “irresistible.”
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *somāso* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *mamadan* ← *mad*
 - \[verb\], plural, Perfect conjunctive (subj.)
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthobhe* ← *ukthā* ← *uktha*
 - \[noun\], nominative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthobhe* ← *ubhe* ← *ubh*
 - \[noun\], nominative, dual, neuter
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *bhayete* ← *bhī*
 - \[verb\], dual, Present indikative
 - “fear; fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajasī* ← *rajas*
 - \[noun\], nominative, dual, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāre* ← *apāra*
 - \[noun\], nominative, dual, neuter
 - “boundless.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

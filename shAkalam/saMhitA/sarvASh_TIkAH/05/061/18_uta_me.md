@@ -79,55 +79,79 @@ veti ← √vī- 1 (root)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vocatād* ← *vocatāt* ← *vac*
 - \[verb\], singular, Aorist imperative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasome* ← *suta* ← *su*
 - \[verb noun\]
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasome* ← *some* ← *soma*
 - \[noun\], locative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathavītau* ← *rathavīti*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmo* ← *kāmaḥ* ← *kāma*
 - \[noun\], nominative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *veti* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

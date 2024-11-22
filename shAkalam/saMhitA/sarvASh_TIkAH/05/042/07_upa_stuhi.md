@@ -90,67 +90,97 @@ purūvásuḥ ← purūvásu- (nominal stem)
 -   *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamaṃ* ← *prathamam* ← *prathama*
 - \[noun\], accusative, singular, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratnadheyam* ← *ratna*
 - \[noun\], neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratnadheyam* ← *dheyam* ← *dheya*
 - \[noun\], accusative, singular, neuter
 - “giving; distribution.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatiṃ* ← *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanitāraṃ* ← *sanitāram* ← *sanitṛ*
 - \[noun\], accusative, singular, masculine
 - “bestowing; victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanānām* ← *dhana*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsate* ← *śaṃs*
 - \[verb noun\], dative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *śambhaviṣṭhaḥ* ← *śambhaviṣṭha*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *purūvasur* ← *purūvasuḥ* ← *purūvasu*
 - \[noun\], nominative, singular, masculine
 - “rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgamaj* ← *āgamat* ← *āgam* ← *√gam*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
-------------------------------------------------------------------------
+
+_________
+
 - *johuvānam* ← *johav* ← *√hvā*
 - \[verb noun\], accusative, singular
 - “appeal.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

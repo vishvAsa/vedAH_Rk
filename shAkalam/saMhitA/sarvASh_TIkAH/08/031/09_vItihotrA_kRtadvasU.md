@@ -83,49 +83,71 @@ kr̥ṇutaḥ ← √kr̥- (root)
 
 -   *vītihotrā* ← *vīti*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vītihotrā* ← *hotrā* ← *hotra*
 - \[noun\], nominative, dual, masculine
 - “yajña; sacrifice.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtadvasū* ← *kṛtadvasu*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *daśasyantāmṛtāya* ← *daśasyantā* ← *daśasy*
 - \[verb noun\], nominative, dual
-------------------------------------------------------------------------
+
+_________
+
 - *daśasyantāmṛtāya* ← *amṛtāya* ← *amṛta*
 - \[noun\], dative, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
-------------------------------------------------------------------------
+
+_________
+
 - *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūdho* ← *ūdhaḥ* ← *ūdhas*
 - \[noun\], accusative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *romaśaṃ* ← *romaśam* ← *romaśa*
 - \[noun\], accusative, singular, neuter
 - “hairy; green.”
-------------------------------------------------------------------------
+
+_________
+
 - *hato* ← *hataḥ* ← *han*
 - \[verb\], dual, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇuto* ← *kṛṇutaḥ* ← *kṛ*
 - \[verb\], dual, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -136,11 +158,15 @@ kr̥ṇutaḥ ← √kr̥- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *duvaḥ* ← *duvas*
 - \[noun\], accusative, singular, neuter
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

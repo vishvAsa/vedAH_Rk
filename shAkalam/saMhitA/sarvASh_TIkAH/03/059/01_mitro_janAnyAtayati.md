@@ -102,78 +102,114 @@ mitrā́ya ← mitrá- (nominal stem)
 -   *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *janān* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātayati* ← *yātay* ← *√yat*
 - \[verb\], singular, Present indikative
 - “endeavor; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *bruvāṇo* ← *bruvāṇaḥ* ← *brū*
 - \[verb noun\], nominative, singular
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *dādhāra* ← *dhṛ*
 - \[verb\], singular, Perfect indicative
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭīr* ← *kṛṣṭīḥ* ← *kṛṣṭi*
 - \[noun\], accusative, plural, feminine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *animiṣābhi* ← *animiṣa*
 - \[noun\], nominative, singular, masculine
 - “agaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *animiṣābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāya* ← *mitra*
 - \[noun\], dative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyaṃ* ← *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtavaj* ← *ghṛtavat*
 - \[noun\], accusative, singular, neuter
 - “buttery.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhota* ← *hu*
 - \[verb\], plural, Present imperative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

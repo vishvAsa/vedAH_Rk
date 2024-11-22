@@ -102,79 +102,117 @@ síndhoḥ ← síndhu- (nominal stem)
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāke* ← *nāka*
 - \[noun\], locative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *madhujihvā* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *madhujihvā* ← *jihvāḥ* ← *jihvā*
 - \[noun\], nominative, plural, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *asaścato* ← *asaścataḥ* ← *asaścat*
 - \[noun\], nominative, plural, masculine
 - “inexhaustible.”
-------------------------------------------------------------------------
+
+_________
+
 - *venā* ← *venāḥ* ← *vena*
 - \[noun\], nominative, plural, masculine
 - “Vena.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhanty* ← *duhanti* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣaṇaṃ* ← *ukṣaṇam* ← *ukṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *giriṣṭhām* ← *giriṣṭhā*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *drapsaṃ* ← *drapsam* ← *drapsa*
 - \[noun\], accusative, singular, masculine
 - “drop; banner.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhānaṃ* ← *vāvṛdhānam* ← *vṛdh*
 - \[verb noun\], accusative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudra* ← *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhor* ← *sindhoḥ* ← *sindhu*
 - \[noun\], genitive, singular, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmā* ← *ūrmi*
 - \[noun\], locative, singular, feminine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumantam* ← *madhumat*
 - \[noun\], accusative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavitra* ← *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

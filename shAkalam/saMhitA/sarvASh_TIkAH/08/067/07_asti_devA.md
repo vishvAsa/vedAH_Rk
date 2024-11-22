@@ -74,45 +74,65 @@ rátnam ← rátna- (nominal stem)
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃhor* ← *aṃhoḥ* ← *aṃhu*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *urv* ← *uru*
 - \[noun\], nominative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratnam* ← *ratna*
 - \[noun\], nominative, singular, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
-------------------------------------------------------------------------
+
+_________
+
 - *anāgasaḥ* ← *anāgas*
 - \[noun\], genitive, singular, masculine
 - “blameless; impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adbhutainasaḥ* ← *adbhuta*
 - \[noun\]
 - “extraordinary; amazing; supernatural.”
-------------------------------------------------------------------------
+
+_________
+
 - *adbhutainasaḥ* ← *enasaḥ* ← *enas*
 - \[noun\], genitive, singular, masculine
 - “sin; calamity; blame.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

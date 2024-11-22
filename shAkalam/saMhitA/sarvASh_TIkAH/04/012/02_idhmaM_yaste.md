@@ -108,90 +108,130 @@ sacate ← √sac- 1 (root)
 -   *idhmaṃ* ← *idhmam* ← *idhma*
 - \[noun\], accusative, singular, neuter
 - “fuel.”
-------------------------------------------------------------------------
+
+_________
+
 - *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *jabharac* ← *jabharat* ← *bhṛ*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *chaśramāṇo* ← *śaśramāṇaḥ* ← *śram*
 - \[verb noun\], nominative, singular
 - “tire; exercise; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *anīkam* ← *anīka*
 - \[noun\], accusative, singular, neuter
 - “army; face; battalion; battlefront; point; appearance.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyan* ← *sapary*
 - \[verb noun\], nominative, singular
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *idhānaḥ* ← *indh*
 - \[verb noun\], nominative, singular
 - “kindle; ignite; set ablaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *doṣām* ← *doṣā*
 - \[noun\], accusative, singular, feminine
 - “night.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣāsam* ← *uṣas*
 - \[noun\], accusative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣyan* ← *puṣ*
 - \[verb noun\], nominative, singular
 - “boom; grow; promote; foster.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, feminine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacate* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghnann* ← *ghnan* ← *han*
 - \[verb noun\], nominative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

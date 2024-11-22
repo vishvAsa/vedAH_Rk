@@ -105,86 +105,126 @@ ví ← ví (invariable)
 -   *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyakto* ← *vyaktaḥ* ← *vyañj* ← *√añj*
 - \[verb noun\], nominative, singular
 - “decorate; fan; anoint.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṣo* ← *aruṣaḥ* ← *aruṣa*
 - \[noun\], nominative, singular, masculine
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *tripṛṣṭho* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tripṛṣṭho* ← *pṛṣṭhaḥ* ← *pṛṣṭha*
 - \[noun\], nominative, singular, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *anaviṣṭa* ← *nu*
 - \[verb\], singular, Athematic is aor. (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasraṇītir* ← *sahasraṇītiḥ* ← *sahasraṇīti*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yatiḥ* ← *yati*
 - \[noun\], nominative, singular, masculine
 - “ascetic; Yati.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāyatī* ← *pare* ← *√i*
 - \[verb noun\], nominative, singular
 - “travel; depart; go; die.”
-------------------------------------------------------------------------
+
+_________
+
 - *rebho* ← *rebhaḥ* ← *rebha*
 - \[noun\], nominative, singular, masculine
 - “bard; eulogist.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīr* ← *pūrvīḥ* ← *pūrva*
 - \[noun\], accusative, plural, feminine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājati* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

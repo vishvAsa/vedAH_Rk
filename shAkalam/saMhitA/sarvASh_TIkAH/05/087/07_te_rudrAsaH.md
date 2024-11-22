@@ -109,101 +109,149 @@ yéṣām ← yá- (pronoun)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudrāsaḥ* ← *rudra*
 - \[noun\], nominative, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumakhā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumakhā* ← *makhāḥ* ← *makha*
 - \[noun\], nominative, plural, masculine
 - “yajña; Makha; festival.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnayo* ← *agnayaḥ* ← *agni*
 - \[noun\], nominative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvidyumnā* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvidyumnā* ← *dyumnāḥ* ← *dyumna*
 - \[noun\], nominative, plural, masculine
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *avantv* ← *avantu* ← *av*
 - \[verb\], plural, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāmarut* ← *eva*
 - \[noun\]
 - “fast; rapid; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāmarut* ← *yā*
 - \[noun\]
 - “going.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāmarut* ← *marut*
 - \[noun\], nominative, singular, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrgham* ← *dīrgha*
 - \[noun\], nominative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthu*
 - \[noun\], nominative, singular, neuter
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *paprathe* ← *prath*
 - \[verb\], singular, Perfect indicative
 - “be known; expand; expand; boom.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadma* ← *sadman*
 - \[noun\], nominative, singular, neuter
 - “seat; house; stable; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārthivaṃ* ← *pārthivam* ← *pārthiva*
 - \[noun\], nominative, singular, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ajmeṣv* ← *ajmeṣu* ← *ajma*
 - \[noun\], locative, plural, masculine
 - “march.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhāṃsy* ← *śardhāṃsi* ← *śardhas*
 - \[noun\], nominative, plural, neuter
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *adbhutainasām* ← *adbhuta*
 - \[noun\]
 - “extraordinary; amazing; supernatural.”
-------------------------------------------------------------------------
+
+_________
+
 - *adbhutainasām* ← *enasām* ← *enas*
 - \[noun\], genitive, plural, masculine
 - “sin; calamity; blame.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

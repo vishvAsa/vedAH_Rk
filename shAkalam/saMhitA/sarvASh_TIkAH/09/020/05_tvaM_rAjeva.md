@@ -79,50 +79,72 @@ vahne ← váhni- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājeva* ← *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvrato* ← *suvrataḥ* ← *suvrata*
 - \[noun\], nominative, singular, masculine
 - “virtuous; tractable; severe.”
-------------------------------------------------------------------------
+
+_________
+
 - *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *somā* ← *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viveśitha* ← *viś*
 - \[verb\], singular, Perfect indicative
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahne* ← *vahni*
 - \[noun\], vocative, singular, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
     leader.”
-------------------------------------------------------------------------
+
+_________
+
 - *adbhuta*
 - \[noun\], vocative, singular, masculine
 - “extraordinary; amazing; supernatural.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,93 +105,133 @@ mahát ← mahā́nt- (nominal stem)
 -   *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *veveti* ← *vevīy* ← *√vī*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *palito* ← *palitaḥ* ← *palita*
 - \[noun\], nominative, singular, masculine
 - “Palita; mud.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūta* ← *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsv* ← *āsu* ← *idam*
 - \[noun\], locative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahāṃś* ← *mahān* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocanena* ← *rocana*
 - \[noun\], instrumental, singular, neuter
 - “light; celestial sphere.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapūṃṣi* ← *vapus*
 - \[noun\], accusative, plural, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibhrad* ← *bibhrat* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahad* ← *mahat*
 - \[noun\], nominative, singular, neuter
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *asuratvam* ← *asura*
 - \[noun\], masculine
 - “Asura; lord; asura \[word\]; sulfur.”
-------------------------------------------------------------------------
+
+_________
+
 - *asuratvam* ← *tvam* ← *tva*
 - \[noun\], nominative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekam* ← *eka*
 - \[noun\], nominative, singular, neuter
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

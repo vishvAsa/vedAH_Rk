@@ -92,64 +92,92 @@ tmánā ← tmán- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sthirasya* ← *sthira*
 - \[noun\], genitive, singular, neuter
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasaḥ* ← *śavas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇuyā*
 - \[adverb\]
 - “boldly.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmann* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣadvinas* ← *dhṛṣadvinaḥ* ← *dhṛṣadvin*
 - \[noun\], nominative, plural, masculine
 - “brave.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *pānti* ← *pā*
 - \[verb\], plural, Present indikative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvataḥ* ← *śaśvat*
 - \[noun\], nominative, plural, masculine
 - “all(a); each(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

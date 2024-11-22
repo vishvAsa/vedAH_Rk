@@ -108,88 +108,128 @@ vayám ← ahám (pronoun)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsa* ← *dāsaḥ* ← *dāsa*
 - \[noun\], nominative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
-------------------------------------------------------------------------
+
+_________
+
 - *āryo* ← *āryaḥ* ← *ārya*
 - \[noun\], nominative, singular, masculine
 - “Ārya; Ārya.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣṭutādeva* ← *puruṣṭuta*
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣṭutādeva* ← *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhaye* ← *yudh*
 - \[verb noun\]
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciketati* ← *cit*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmābhiṣ* ← *asmābhiḥ* ← *mad*
 - \[noun\], instrumental, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṭe* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣahāḥ* ← *suṣaha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatravas* ← *śatravaḥ* ← *śatru*
 - \[noun\], nominative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tān* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanuyāma* ← *van*
 - \[verb\], plural, Present optative
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃgame* ← *saṃgama*
 - \[noun\], locative, singular, masculine
 - “confluence; sexual intercourse; contact; meeting; association;
     battle; harmony; rendezvous; coupling; sexual activity.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -108,92 +108,134 @@ tīrthé ← tīrthá- (nominal stem)
 -   *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhīndra* ← *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhīndra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *mīﾱhuṣo* ← *mīḍhuṣaḥ* ← *mih*
 - \[verb noun\], accusative, plural
 - “make; moisten.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārthive* ← *pārthiva*
 - \[noun\], locative, singular, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatasva* ← *yat*
 - \[verb\], singular, Present imperative
 - “strive; endeavor; join; equal; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthubudhnāsa* ← *pṛthu*
 - \[noun\]
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthubudhnāsa* ← *budhnāsaḥ* ← *budhna*
 - \[noun\], nominative, plural, masculine
 - “bottom; bottom; base.”
-------------------------------------------------------------------------
+
+_________
+
 - *etās* ← *etāḥ* ← *eta*
 - \[noun\], nominative, plural, masculine
 - “eta \[word\]; antelope.”
-------------------------------------------------------------------------
+
+_________
+
 - *tīrthe* ← *tīrtha*
 - \[noun\], locative, singular, neuter
 - “Tīrtha; ford; tīrtha \[word\]; guru; administrator; fingertip;
     landing.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāryaḥ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāryaḥ* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pauṃsyāni* ← *pauṃsya*
 - \[noun\], nominative, plural, neuter
 - “manfulness; deed; army; strength.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthuḥ* ← *sthā*
 - \[verb\], plural, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

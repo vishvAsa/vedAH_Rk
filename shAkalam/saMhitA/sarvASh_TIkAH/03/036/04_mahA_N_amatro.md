@@ -107,79 +107,117 @@ yát ← yá- (pronoun)
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *amatro* ← *amatraḥ* ← *amatra*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjane* ← *vṛjana*
 - \[noun\], locative, singular, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *virapśy* ← *virapśī* ← *virapśin*
 - \[noun\], nominative, singular, masculine
 - “exuberant; copious; ample.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugraṃ* ← *ugram* ← *ugra*
 - \[noun\], accusative, singular, neuter
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavaḥ* ← *śavas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *patyate* ← *pat*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇv* ← *dhṛṣṇu*
 - \[noun\], accusative, singular, neuter
 - “brave; ferocious; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāha* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāha* ← *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivyāca* ← *vyac*
 - \[verb\], singular, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivī*
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *canainaṃ* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *canainaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *somāso* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryaśvam* ← *haryaśva*
 - \[noun\], accusative, singular, masculine
 - “Indra; Haryaśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *amandan* ← *mad*
 - \[verb\], plural, Imperfect
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

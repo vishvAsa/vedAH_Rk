@@ -70,43 +70,63 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 -   *śṛṇvantam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣaṇaṃ* ← *pūṣaṇam* ← *pūṣan*
 - \[noun\], accusative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *iryam* ← *irya*
 - \[noun\], accusative, singular, masculine
 - “argus-eyed; active; heedful.”
-------------------------------------------------------------------------
+
+_________
+
 - *anaṣṭavedasam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *anaṣṭavedasam* ← *naṣṭa* ← *naś*
 - \[verb noun\]
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
-------------------------------------------------------------------------
+
+_________
+
 - *anaṣṭavedasam* ← *vedasam* ← *vedas*
 - \[noun\], accusative, singular, masculine
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *īśānaṃ* ← *īśānam* ← *īś*
 - \[verb noun\], accusative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

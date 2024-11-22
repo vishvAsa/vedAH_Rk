@@ -101,89 +101,131 @@ rā́jānam ← rā́jan- (nominal stem)
 -   *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrātaraṃ* ← *bhrātaram* ← *bhrātṛ*
 - \[noun\], accusative, singular, masculine
 - “brother; bhrātṛ; relative.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vavṛtsva* ← *vṛt*
 - \[verb\], singular, Perfect imperative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sumatī* ← *sumati*
 - \[noun\], instrumental, singular, feminine
 - “benevolence; favor; Sumati.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñavanasaṃ* ← *yajña*
 - \[noun\], masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñavanasaṃ* ← *vanasam* ← *vanas*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *jyeṣṭhaṃ* ← *jyeṣṭham* ← *jyeṣṭha*
 - \[noun\], accusative, singular, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñavanasam* ← *yajña*
 - \[noun\], masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñavanasam* ← *vanasam* ← *vanas*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvānam* ← *ṛtāvan*
 - \[noun\], accusative, singular, masculine
 - “law-abiding; faithful; righteous.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityaṃ* ← *ādityam* ← *āditya*
 - \[noun\], accusative, singular, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīdhṛtaṃ* ← *carṣaṇī*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīdhṛtaṃ* ← *dhṛtam* ← *dhṛt*
 - \[noun\], accusative, singular, masculine
 - “maintaining.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājānaṃ* ← *rājānam* ← *rājan*
 - \[noun\], accusative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīdhṛtam* ← *carṣaṇī*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīdhṛtam* ← *dhṛtam* ← *dhṛt*
 - \[noun\], accusative, singular, masculine
 - “maintaining.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

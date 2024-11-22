@@ -82,61 +82,87 @@ vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)
 -   *saptī* ← *sapti*
 - \[noun\], nominative, dual, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghā* ← *gha*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *madacyutā* ← *mada*
 - \[noun\], masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *madacyutā* ← *cyutā* ← *cyu*
 - \[verb noun\], nominative, dual
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”
-------------------------------------------------------------------------
+
+_________
+
 - *mithunā* ← *mithuna*
 - \[noun\], nominative, dual, masculine
 - “mated.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahato* ← *vahataḥ* ← *vah*
 - \[verb\], dual, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *eved* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *eved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūr* ← *dhūḥ* ← *dhū*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇa* ← *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], ablative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttarā* ← *uttara*
 - \[noun\], nominative, singular, feminine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

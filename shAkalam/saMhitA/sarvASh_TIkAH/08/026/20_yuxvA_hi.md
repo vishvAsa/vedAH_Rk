@@ -100,66 +100,96 @@ sávanā ← sávana- 1 (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathāsahā* ← *rathāsah*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yuvasva* ← *yu*
 - \[verb\], singular, Present imperative
 - “unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *poṣyā* ← *puṣ*
 - \[verb noun\], accusative, dual
 - “boom; grow; promote; foster.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ān* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], accusative, plural, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pibāsmākaṃ* ← *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibāsmākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *savanā* ← *savana*
 - \[noun\], accusative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
-------------------------------------------------------------------------
+
+_________
+
 - *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

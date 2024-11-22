@@ -73,42 +73,60 @@ tátra ← tátra (invariable)
 -   *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vettha* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanaspate* ← *vanaspati*
 - \[noun\], vocative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhyā* ← *guhya*
 - \[noun\], accusative, plural, neuter
 - “secret; concealed.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāmāni* ← *nāman*
 - \[noun\], accusative, plural, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatra*
 - \[adverb\]
 - “there; now; then; then; there; in that place; then; locative;
     respectively; there; tatra \[word\]; inside; therefore.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyāni* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gāmaya* ← *gāmay* ← *√gam*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

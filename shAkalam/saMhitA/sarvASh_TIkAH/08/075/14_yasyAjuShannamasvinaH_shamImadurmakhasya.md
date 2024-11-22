@@ -82,55 +82,79 @@ vr̥dhā́ ← vŕ̥dh- (nominal stem)
 -   *yasyājuṣan* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasyājuṣan* ← *ajuṣat* ← *juṣ*
 - \[verb\], singular, Imperfect
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasvinaḥ* ← *namasvin*
 - \[noun\], genitive, singular, masculine
 - “worshiping; reverent.”
-------------------------------------------------------------------------
+
+_________
+
 - *śamīm* ← *śamī*
 - \[noun\], accusative, singular, feminine
 - “Prosopis spicigera Linn.; śamī \[word\]; Acacia sundra; attempt;
     labor.”
-------------------------------------------------------------------------
+
+_________
+
 - *adurmakhasya* ← *adurmakha*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghed* ← *gha*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ghed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdhāvati* ← *vṛdhā* ← *vṛdh*
 - \[noun\], instrumental, singular, masculine
 - “increasing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdhāvati* ← *avati* ← *av*
 - \[verb\], singular, Present indikative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

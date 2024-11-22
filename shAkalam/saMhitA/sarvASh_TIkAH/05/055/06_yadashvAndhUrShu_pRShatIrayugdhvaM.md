@@ -108,18 +108,26 @@ yātā́m ← √yā- 1 (root)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvān* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūrṣu* ← *dhur*
 - \[noun\], locative, plural
 - “yoke; dhur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣatīr* ← *pṛṣatīḥ* ← *pṛṣatī*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ayugdhvaṃ* ← *ayugdhvam* ← *yuj*
 - \[verb\], plural, Root aorist (Ind.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -127,19 +135,27 @@ yātā́m ← √yā- 1 (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayān* ← *hiraṇyaya*
 - \[noun\], accusative, plural, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *atkāṃ* ← *atka*
 - \[noun\], accusative, plural, masculine
 - “garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *amugdhvam* ← *muc*
 - \[verb\], plural, Root aorist (Ind.)
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -147,54 +163,78 @@ yātā́m ← √yā- 1 (root)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛdho* ← *spṛdhaḥ* ← *spṛdh*
 - \[noun\], accusative, plural, masculine
 - “rival; enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyatha* ← *as*
 - \[verb\], plural, Present indikative
 - “shoot; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhaṃ* ← *śubham* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātām* ← *yā*
 - \[verb noun\], genitive, plural
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛtsata* ← *vṛdh*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

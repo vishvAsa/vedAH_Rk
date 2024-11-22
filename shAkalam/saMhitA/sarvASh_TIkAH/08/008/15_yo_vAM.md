@@ -84,61 +84,87 @@ ghr̥taścútam ← ghr̥taścút- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyāv* ← *nāsatyau* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣir* ← *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *vatso* ← *vatsaḥ* ← *vatsa*
 - \[noun\], nominative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
-------------------------------------------------------------------------
+
+_________
+
 - *avīvṛdhat* ← *vṛdh*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasranirṇijam* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasranirṇijam* ← *nirṇijam* ← *nirṇij*
 - \[noun\], accusative, singular, feminine
 - “attire; garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhattaṃ* ← *dhattam* ← *dhā*
 - \[verb\], dual, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtaścutam* ← *ghṛtaścut*
 - \[noun\], accusative, singular, feminine
 - “ghee-dripping.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -72,39 +72,57 @@ sácete ← √sac- 1 (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *samrājā* ← *samrāj*
 - \[noun\], nominative, dual, masculine
 - “sovereign; ruler.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtāsutī* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtāsutī* ← *āsutī* ← *āsuti*
 - \[noun\], nominative, dual, masculine
 - “āsuti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityā* ← *āditya*
 - \[noun\], nominative, dual, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dānunas* ← *dānu*
 - \[noun\], genitive, singular, neuter
 - “Dānu; dew; drop.”
-------------------------------------------------------------------------
+
+_________
+
 - *patī* ← *pati*
 - \[noun\], nominative, dual, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacete* ← *sac*
 - \[verb\], dual, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *anavahvaram* ← *anavahvara*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

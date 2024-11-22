@@ -76,46 +76,66 @@ yáthā ← yáthā (invariable)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekasya* ← *eka*
 - \[noun\], genitive, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahann* ← *vṛtrahan*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *avitā* ← *av*
 - \[verb\], singular, periphrast. future
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvayor* ← *dvayoḥ* ← *dvi*
 - \[noun\], genitive, dual, masculine
 - “two; dvi \[word\]; second.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *utedṛśe* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *utedṛśe* ← *īdṛśe* ← *īdṛś*
 - \[noun\], dative, singular, masculine
 - “such(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

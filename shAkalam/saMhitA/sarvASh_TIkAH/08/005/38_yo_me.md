@@ -87,58 +87,86 @@ jánāḥ ← jána- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyasaṃdṛśo* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyasaṃdṛśo* ← *saṃdṛśaḥ* ← *saṃdṛśa*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rājño* ← *rājñaḥ* ← *rājan*
 - \[noun\], genitive, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *amaṃhata* ← *mah*
 - \[verb\], singular, Imperfect
 - “give; accord.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhaspadā* ← *adhaspadāḥ* ← *adhaspada*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ic* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *caidyasya* ← *caidya*
 - \[noun\], genitive, singular, masculine
 - “Śiśupāla.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭayaś* ← *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *carmamnā* ← *carmamnāḥ* ← *carmamna*
 - \[noun\], nominative, plural, masculine
 - “tanner.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhito* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *janāḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

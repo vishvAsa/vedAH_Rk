@@ -98,82 +98,120 @@ své ← svá- (pronoun)
 
 -   *aptūrye* ← *aptūrya*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *maruta* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpir* ← *āpiḥ* ← *āpi*
 - \[noun\], nominative, singular, masculine
 - “friend.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣo* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *'mandann* ← *amandan* ← *mad*
 - \[verb\], plural, Imperfect
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *dātivārāḥ* ← *dāti*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *dātivārāḥ* ← *vārāḥ* ← *vāra*
 - \[noun\], nominative, plural, masculine
 - “treasure; choice.”
-------------------------------------------------------------------------
+
+_________
+
 - *tebhiḥ* ← *tad*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibatu* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrakhādaḥ* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrakhādaḥ* ← *khādaḥ* ← *khāda*
 - \[noun\], nominative, singular, masculine
 - “eating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutaṃ* ← *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣaḥ* ← *dāś*
 - \[verb noun\], genitive, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *sve* ← *sva*
 - \[noun\], locative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

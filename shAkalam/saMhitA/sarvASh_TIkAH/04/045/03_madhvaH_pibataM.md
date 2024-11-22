@@ -102,36 +102,52 @@ vahethe ← √vah- (root)
 -   *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pibatam* ← *pā*
 - \[verb\], dual, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhupebhir* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *madhupebhir* ← *pebhiḥ* ← *pā*
 - \[noun\], instrumental, plural, neuter
 - “drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsabhir* ← *āsabhiḥ* ← *āsan*
 - \[noun\], instrumental, plural, neuter
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhune* ← *madhu*
 - \[noun\], dative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yuñjāthāṃ* ← *yuñjāthām* ← *yuj*
 - \[verb\], dual, Present imperative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -139,48 +155,70 @@ vahethe ← √vah- (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vartanim* ← *vartani*
 - \[noun\], accusative, singular, feminine
 - “path; East; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhunā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jinvathas* ← *jinvathaḥ* ← *jinv*
 - \[verb\], dual, Present indikative
 - “enliven; animate.”
-------------------------------------------------------------------------
+
+_________
+
 - *patho* ← *pathaḥ* ← *pathin*
 - \[noun\], genitive, singular, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛtiṃ* ← *dṛtim* ← *dṛti*
 - \[noun\], accusative, singular, masculine
 - “hose; dṛti \[word\]; hide; bladder.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahethe* ← *vah*
 - \[verb\], dual, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumantam* ← *madhumat*
 - \[noun\], accusative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

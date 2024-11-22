@@ -109,89 +109,129 @@ satáḥ ← √as- 1 (root)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātūnām* ← *yātu*
 - \[noun\], genitive, plural, masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāśaro* ← *parāśaraḥ* ← *parāśara*
 - \[noun\], nominative, singular, masculine
 - “Parāśara; Parāśara; destroyer.”
-------------------------------------------------------------------------
+
+_________
+
 - *havirmathīnām* ← *havirmathi*
 - \[noun\], genitive, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvivāsatām* ← *āvivās* ← *√van*
 - \[verb noun\], genitive, plural
-------------------------------------------------------------------------
+
+_________
+
 - *abhīd* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīd* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakraḥ* ← *śakra*
 - \[noun\], nominative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *paraśur* ← *paraśuḥ* ← *paraśu*
 - \[noun\], nominative, singular, masculine
 - “ax.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanam* ← *vana*
 - \[noun\], accusative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *pātreva* ← *pātrā* ← *pātra*
 - \[noun\], accusative, plural, neuter
 - “vessel; pātra \[word\]; authority; receptacle; pātra; vessel; cup;
     bowl; basket.”
-------------------------------------------------------------------------
+
+_________
+
 - *pātreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhindan* ← *bhid*
 - \[verb noun\], nominative, singular
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *sata* ← *satas*
 - \[adverb\]
 - “evenly.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣasaḥ* ← *rakṣas*
 - \[noun\], accusative, plural, masculine
 - “Rākṣasa.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -108,95 +108,137 @@ yaśásaḥ ← yaśás- (nominal stem)
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyavāham* ← *havya*
 - \[noun\], neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *havyavāham* ← *vāham* ← *vāha*
 - \[noun\], accusative, singular, masculine
 - “transporting; flowing; removing.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruspṛho* ← *puruspṛhaḥ* ← *puruspṛh*
 - \[noun\], nominative, plural, masculine
 - “coveted; desirous.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣāso* ← *mānuṣāsaḥ* ← *mānuṣa*
 - \[noun\], nominative, plural, masculine
 - “man; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatram* ← *yajatra*
 - \[noun\], accusative, singular, masculine
 - “adorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmann* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayo* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayan* ← *devay*
 - \[verb noun\], nominative, singular
 - “solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaśasaḥ* ← *yaśas*
 - \[noun\], genitive, singular, neuter
 - “fame; Yaśas.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -97,20 +97,28 @@ práti ← práti (invariable)
 - \[noun\], accusative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruśamā* ← *ruśamāḥ* ← *ruśama*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *akran* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -121,42 +129,60 @@ práti ← práti (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavāṃ* ← *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *catvāri* ← *catur*
 - \[noun\], accusative, plural, neuter
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadataḥ* ← *dā*
 - \[verb noun\], nominative, plural
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇañcayasya* ← *ṛṇaṃcaya*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *prayatā* ← *prayam* ← *√yam*
 - \[verb noun\], accusative, plural
 - “give; emit; send; transmit.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghāni* ← *magha*
 - \[noun\], accusative, plural, neuter
 - “gift; wealth; reward; wages; reward.”
-------------------------------------------------------------------------
+
+_________
+
 - *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *agrabhīṣma* ← *grah*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -164,14 +190,20 @@ práti ← práti (invariable)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛtamasya* ← *nṛtama*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṇām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

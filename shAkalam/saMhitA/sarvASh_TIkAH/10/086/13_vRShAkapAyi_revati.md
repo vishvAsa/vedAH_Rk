@@ -97,81 +97,117 @@ víśvasmāt ← víśva- (nominal stem)
 
 -   *vṛṣākapāyi* ← *vṛṣākapāyī*
 - \[noun\], vocative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *revati* ← *revatī*
 - \[noun\], vocative, singular, feminine
 - “Revatī; revatī \[word\]; Revatī.”
-------------------------------------------------------------------------
+
+_________
+
 - *suputra* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suputra* ← *putre* ← *putra*
 - \[noun\], vocative, singular, feminine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *susnuṣe* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *susnuṣe* ← *snuṣe* ← *snuṣā*
 - \[noun\], vocative, singular, feminine
 - “daughter-in-law.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghasat* ← *ghas*
 - \[verb\], singular, Aorist conj./subj.
 - “eat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣaṇaḥ* ← *ukṣan*
 - \[noun\], accusative, plural, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *priyaṃ* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *kācitkaraṃ* ← *kācitkaram* ← *kācitkara*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *havir* ← *haviḥ* ← *havis*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttaraḥ* ← *uttara*
 - \[noun\], nominative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

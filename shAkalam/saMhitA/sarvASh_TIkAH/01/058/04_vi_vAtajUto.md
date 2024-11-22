@@ -102,85 +102,125 @@ te ← tvám (pronoun)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātajūto* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātajūto* ← *jūtaḥ* ← *jū*
 - \[verb noun\], nominative, singular
 - “animate; encourage; impel; inspire.”
-------------------------------------------------------------------------
+
+_________
+
 - *ataseṣu* ← *atasa*
 - \[noun\], locative, plural, neuter
 - “shrub; scrub.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhate* ← *sthā*
 - \[verb\], singular, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛthā*
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhūbhiḥ* ← *juhū*
 - \[noun\], instrumental, plural, feminine
 - “tongue; fire; ladle.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛṇyā* ← *sṛṇi*
 - \[noun\], instrumental, singular, feminine
 - “sickle.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuviṣvaṇiḥ* ← *tuviṣvaṇi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tṛṣu*
 - \[noun\], accusative, singular, neuter
 - “dry.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanino* ← *vaninaḥ* ← *vanin*
 - \[noun\], accusative, plural, masculine
 - “tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣāyase* ← *vṛṣāy*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇaṃ* ← *kṛṣṇam* ← *kṛṣṇa*
 - \[noun\], nominative, singular, neuter
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ema* ← *eman*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ruśadūrme* ← *ruśat*
 - \[noun\]
 - “white; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruśadūrme* ← *ūrme* ← *ūrmi*
 - \[noun\], vocative, singular, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajara*
 - \[noun\], vocative, singular, masculine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -85,59 +85,85 @@ r̥tásya ← r̥tá- (nominal stem)
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *navīyasīṃ* ← *navīyasīm* ← *navīyas*
 - \[noun\], accusative, singular, feminine
 - “new; fresh; up-to-the-minute.”
-------------------------------------------------------------------------
+
+_________
+
 - *giram* ← *gir*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandrām* ← *mandra*
 - \[noun\], accusative, singular, feminine
 - “pleasant; eloquent; dulcet.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajījanat* ← *jan*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikitvinmanasaṃ* ← *cikitvit*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *cikitvinmanasaṃ* ← *manasam* ← *manas*
 - \[noun\], accusative, singular, feminine
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnām* ← *pratna*
 - \[noun\], accusative, singular, feminine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *pipyuṣīm* ← *pyā*
 - \[verb noun\], accusative, singular
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

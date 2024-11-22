@@ -117,92 +117,136 @@ véḥ ← ví- (nominal stem)
 -   *nṛbāhubhyāṃ* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛbāhubhyāṃ* ← *bāhubhyām* ← *bāhu*
 - \[noun\], instrumental, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *codito* ← *coditaḥ* ← *coday* ← *√cud*
 - \[verb noun\], nominative, singular
 - “impel; drive; incite; command; drive; arouse; propel.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *suto* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *'nuṣvadham* ← *anuṣvadham*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *āprāḥ* ← *āprā* ← *√prā*
 - \[verb\], singular, Root aorist (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 - *kratūn* ← *kratu*
 - \[noun\], accusative, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajair* ← *ajaiḥ* ← *ji*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *matīr* ← *matīḥ* ← *mati*
 - \[noun\], accusative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *ver* ← *veḥ* ← *vi*
 - \[noun\], genitive, singular, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *druṣac* ← *druṣad*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *camvor* ← *camvoḥ* ← *camū*
 - \[noun\], locative, dual, feminine
 - “army; camū; Camū.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsadaddhariḥ* ← *āsadat* ← *āsad* ← *√sad*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “approach; attack; sit down; approach; find; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsadaddhariḥ* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

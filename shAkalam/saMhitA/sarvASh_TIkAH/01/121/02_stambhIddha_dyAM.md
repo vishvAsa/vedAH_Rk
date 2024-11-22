@@ -112,97 +112,141 @@ pári ← pári (invariable)
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
-------------------------------------------------------------------------
+
+_________
+
 - *stambhīddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāṃ* ← *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharuṇam* ← *dharuṇa*
 - \[noun\], accusative, singular, neuter
 - “prop; foundation.”
-------------------------------------------------------------------------
+
+_________
+
 - *pruṣāyad* ← *pruṣāyat* ← *pruṣāy* ← *√pruṣ*
 - \[verb\], singular, Present injunctive
 - “sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇaṃ* ← *draviṇam* ← *draviṇa*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nara*
 - \[noun\], nominative, singular, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
-------------------------------------------------------------------------
+
+_________
+
 - *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *svajām* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svajām* ← *jām* ← *jā*
 - \[noun\], accusative, singular, feminine
 - “born.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahiṣaś* ← *mahiṣaḥ* ← *mahiṣa*
 - \[noun\], nominative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣata* ← *cakṣ*
 - \[verb\], singular, Present injunctive
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrām* ← *vrā*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *menām* ← *menā*
 - \[noun\], accusative, singular, feminine
 - “Menā; woman; Menā; Durga.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātaraṃ* ← *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

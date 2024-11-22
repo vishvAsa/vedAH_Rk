@@ -96,82 +96,118 @@ ukthám ← ukthá- (nominal stem)
 -   *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyaṃ* ← *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptaśīrṣṇīm* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptaśīrṣṇīm* ← *śīrṣṇīm* ← *śīrṣan*
 - \[noun\], accusative, singular, feminine
 - “head; śīrṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtaprajātām* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtaprajātām* ← *prajātām* ← *prajan* ← *√jan*
 - \[verb noun\], accusative, singular
 - “become; originate; result; be born; give birth; beget; grow;
     issue.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatīm* ← *bṛhat*
 - \[noun\], accusative, singular, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *avindat* ← *vid*
 - \[verb\], singular, Imperfect
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *turīyaṃ* ← *turīyam* ← *turīya*
 - \[noun\], accusative, singular, masculine
 - “fourth.”
-------------------------------------------------------------------------
+
+_________
+
 - *svij* ← *svid*
 - \[adverb\]
 - “svid \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *janayad* ← *janayat* ← *janay* ← *√jan*
 - \[verb\], singular, Present injunctive
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvajanyo* ← *viśvajanyaḥ* ← *viśvajanya*
 - \[noun\], nominative, singular, masculine
 - “omnipresent; worldwide.”
-------------------------------------------------------------------------
+
+_________
+
 - *'yāsya* ← *ayāsyaḥ* ← *ayāsya*
 - \[noun\], nominative, singular, masculine
 - “Ayāsya.”
-------------------------------------------------------------------------
+
+_________
+
 - *uktham* ← *uktha*
 - \[noun\], accusative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsan* ← *śaṃs*
 - \[verb noun\], nominative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

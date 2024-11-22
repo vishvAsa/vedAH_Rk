@@ -127,34 +127,50 @@ rātáyaḥ ← rātí- (nominal stem)
 -   *svarjeṣe* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarjeṣe* ← *jeṣe* ← *jeṣa*
 - \[noun\], locative, singular, neuter
 - “conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhara* ← *bhare* ← *bhara*
 - \[noun\], locative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
-------------------------------------------------------------------------
+
+_________
+
 - *āprasya* ← *āpra*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vakmany* ← *vakmani* ← *vakman*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *uṣarbudhaḥ* ← *uṣarbudh*
 - \[noun\], genitive, singular, masculine
 - “early rising.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasminn* ← *svasmin* ← *sva*
 - \[noun\], locative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjasi* ← *añjas*
 - \[noun\], locative, singular, neuter
 - “añjas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *krāṇasya* ← *kṛ*
 - \[verb noun\], genitive, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -165,78 +181,114 @@ rātáyaḥ ← rātí- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasminn* ← *svasmin* ← *sva*
 - \[noun\], locative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjasi* ← *añjas*
 - \[noun\], locative, singular, neuter
 - “añjas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ahann* ← *ahan* ← *ahar*
 - \[noun\], locative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *vide* ← *vid*
 - \[verb\], singular, Present indikative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *śīrṣṇā* ← *śīrṣan*
 - \[noun\], instrumental, singular, neuter
 - “head; śīrṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śīrṣṇopavācyaḥ* ← *śīrṣṇā* ← *śīrṣan*
 - \[noun\], instrumental, singular, neuter
 - “head; śīrṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śīrṣṇopavācyaḥ* ← *upavācyaḥ* ← *upavac* ← *√vac*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *asmatrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhryak* ← *sadhryañc*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātayo* ← *rātayaḥ* ← *rāti*
 - \[noun\], nominative, plural, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadrāḥ* ← *bhadra*
 - \[noun\], nominative, plural, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrasya* ← *bhadra*
 - \[noun\], genitive, singular, masculine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātayaḥ* ← *rāti*
 - \[noun\], nominative, plural, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

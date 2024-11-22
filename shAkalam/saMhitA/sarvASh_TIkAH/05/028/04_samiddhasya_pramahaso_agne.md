@@ -84,54 +84,78 @@ sám ← sám (invariable)
 -   *samiddhasya* ← *samindh* ← *√indh*
 - \[verb noun\], genitive, singular
 - “kindle; blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *pramahaso* ← *pramahasaḥ* ← *pramahas*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *'gne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vande* ← *vand*
 - \[verb\], singular, Present indikative
 - “worship; laud.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śriyam* ← *śrī*
 - \[noun\], accusative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnavāṃ* ← *dyumnavat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvareṣv* ← *adhvareṣu* ← *adhvara*
 - \[noun\], locative, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *idhyase* ← *indh*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “kindle; ignite; set ablaze.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

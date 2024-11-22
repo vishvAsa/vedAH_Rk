@@ -111,85 +111,123 @@ tamrā́ḥ ← tamrá- (nominal stem)
 -   *mandamāna* ← *mandamānaḥ* ← *mad*
 - \[verb noun\], nominative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtād* ← *ṛtāt* ← *ṛta*
 - \[noun\], ablative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajāyai* ← *prajā*
 - \[noun\], dative, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhibhir* ← *sakhibhiḥ* ← *sakhī*
 - \[noun\], instrumental, plural, feminine
 - “confidante; sakhī \[word\]; friend.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣirebhir* ← *iṣirebhiḥ* ← *iṣira*
 - \[noun\], instrumental, plural, masculine
 - “vigorous; bracing; quick.”
-------------------------------------------------------------------------
+
+_________
+
 - *artham* ← *artha*
 - \[noun\], accusative, singular, masculine
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
     topic; property; situation; reason; affair; concern; reason;
     enterprise; reason; cause; five; application; application.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhir* ← *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *māyā* ← *māyāḥ* ← *māyā*
 - \[noun\], accusative, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyum* ← *dasyu*
 - \[noun\], accusative, singular, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgān* ← *āgāt* ← *āgā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “come; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *mihaḥ* ← *mih*
 - \[noun\], accusative, plural, feminine
 - “fog.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamrā* ← *tamrāḥ* ← *tamra*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *avapat* ← *vap*
 - \[verb\], singular, Imperfect
 - “sow; bestrew; strew; scatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamāṃsi* ← *tamas*
 - \[noun\], accusative, plural, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

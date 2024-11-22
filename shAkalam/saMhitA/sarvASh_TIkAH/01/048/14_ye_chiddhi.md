@@ -105,83 +105,121 @@ stómān ← stóma- (nominal stem)
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣayaḥ* ← *ṛṣi*
 - \[noun\], nominative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrva* ← *pūrve* ← *pūrva*
 - \[noun\], nominative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *juhūre* ← *hvā*
 - \[verb\], plural, Perfect indicative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vase* ← *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomāṃ* ← *stoma*
 - \[noun\], accusative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇīhi* ← *gṛ*
 - \[verb\], singular, Present imperative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhasoṣaḥ* ← *rādhasā* ← *rādhas*
 - \[noun\], instrumental, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhasoṣaḥ* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukreṇa* ← *śukra*
 - \[noun\], instrumental, singular, neuter
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

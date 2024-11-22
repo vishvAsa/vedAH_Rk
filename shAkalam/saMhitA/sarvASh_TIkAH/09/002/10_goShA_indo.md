@@ -77,62 +77,90 @@ yajñásya ← yajñá- (nominal stem)
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *goṣā* ← *sāḥ* ← *sā*
 - \[noun\], nominative, singular, masculine
 - “winning.”
-------------------------------------------------------------------------
+
+_________
+
 - *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṣā* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṣā* ← *sāḥ* ← *sā*
 - \[noun\], nominative, singular, masculine
 - “winning.”
-------------------------------------------------------------------------
+
+_________
+
 - *asy* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvasā* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvasā* ← *sāḥ* ← *sā*
 - \[noun\], nominative, singular, masculine
 - “winning.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasā* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasā* ← *sāḥ* ← *sā*
 - \[noun\], nominative, singular, masculine
 - “winning.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātmā* ← *ātman*
 - \[noun\], nominative, singular, masculine
 - “self; nature; Ātman; mind; soul; self; body; character; ātman
     \[word\]; person; life; peculiarity.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyaḥ* ← *pūrvya*
 - \[noun\], nominative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

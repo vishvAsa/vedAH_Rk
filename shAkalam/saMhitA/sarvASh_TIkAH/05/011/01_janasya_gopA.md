@@ -97,81 +97,117 @@ ví ← ví (invariable)
 - \[noun\], genitive, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *gopā* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajaniṣṭa* ← *jan*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāgṛvir* ← *jāgṛviḥ* ← *jāgṛvi*
 - \[noun\], nominative, singular, masculine
 - “attentive; argus-eyed; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudakṣaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudakṣaḥ* ← *dakṣaḥ* ← *dakṣa*
 - \[noun\], nominative, singular, masculine
 - “deft; right; intelligent; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyase* ← *navyas*
 - \[noun\], dative, singular, neuter
 - “new.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtapratīko* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtapratīko* ← *pratīkaḥ* ← *pratīka*
 - \[noun\], nominative, singular, masculine
 - “face; surface.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatā* ← *bṛhat*
 - \[noun\], instrumental, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *divispṛśā* ← *divispṛś*
 - \[noun\], instrumental, singular, masculine
 - “heavenward.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumad* ← *dyumat*
 - \[noun\], accusative, singular, neuter
 - “bright; brilliant; brilliant; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharatebhyaḥ* ← *bharata*
 - \[noun\], dative, plural, masculine
 - “Bharata; Bharata; Bhārata; Bharata; Bharata; actor.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

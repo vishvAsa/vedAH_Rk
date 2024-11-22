@@ -102,77 +102,113 @@ naḥ ← ahám (pronoun)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasya*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravidvān* ← *pravid* ← *√vid*
 - \[verb noun\], nominative, singular
 - “anticipate; know; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *marto* ← *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *martam* ← *marta*
 - \[noun\], accusative, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *marcayati* ← *marcay* ← *√mṛc*
 - \[verb\], singular, Present indikative
 - “harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvayena* ← *dvaya*
 - \[noun\], instrumental, singular, neuter
 - “two; pair; couple; falsification; Saṃsarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ataḥ* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *stavamāna* ← *stu*
 - \[verb noun\], vocative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuvantam* ← *stu*
 - \[verb noun\], accusative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *mākir*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *duritāya* ← *durita*
 - \[noun\], dative, singular, neuter
 - “danger; sin; difficulty; difficulty; evil.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāyīḥ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

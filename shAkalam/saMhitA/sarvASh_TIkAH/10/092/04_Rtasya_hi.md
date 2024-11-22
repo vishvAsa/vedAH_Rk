@@ -108,85 +108,125 @@ u ← u (invariable)
 -   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prasitir* ← *prasitiḥ* ← *prasiti*
 - \[noun\], nominative, singular, feminine
 - “binding.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *uru*
 - \[noun\], nominative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyaco* ← *vyacaḥ* ← *vyacas*
 - \[noun\], nominative, singular, neuter
 - “area; capacity.”
-------------------------------------------------------------------------
+
+_________
+
 - *namo* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahy* ← *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *aramatiḥ* ← *aramati*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *panīyasī* ← *panīyas*
 - \[noun\], nominative, dual, neuter
 - “admirable.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikitrire* ← *cit*
 - \[verb\], plural, Perfect indicative
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *'tho* ← *atho*
 - \[adverb\]
 - “now; but; furthermore.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhagaḥ* ← *bhaga*
 - \[noun\], nominative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūtadakṣasaḥ* ← *pūta* ← *pū*
 - \[verb noun\]
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūtadakṣasaḥ* ← *dakṣasaḥ* ← *dakṣas*
 - \[noun\], nominative, plural, masculine
 - “intelligent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -98,12 +98,16 @@ rātáyaḥ ← rātí- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇavāma* ← *kṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -114,63 +118,91 @@ rātáyaḥ ← rātí- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhanā* ← *vardhana*
 - \[noun\], accusative, plural, neuter
 - “increasing; fortifying; promotive; prolonging.”
-------------------------------------------------------------------------
+
+_________
+
 - *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śaviṣṭha*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *cākano* ← *cākanaḥ* ← *kan*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “like; delight; desire.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadram* ← *bhadra*
 - \[noun\], nominative, singular, neuter
 - “happiness; bhadra; deodar; Bhadra; Bhadra; bhadra \[word\]; Bhadra;
     Bhadrāsana; prosperity; good fortune; benefit.”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravasyate* ← *śravasy*
 - \[verb noun\], dative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadrāḥ* ← *bhadra*
 - \[noun\], nominative, plural, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātayaḥ* ← *rāti*
 - \[noun\], nominative, plural, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,87 +99,125 @@ vardhantām ← √vr̥dh- (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daivyāni* ← *daivya*
 - \[noun\], accusative, plural, neuter
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārthivāni* ← *pārthiva*
 - \[noun\], accusative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
-------------------------------------------------------------------------
+
+_________
+
 - *janmāpaś* ← *janmā* ← *janman*
 - \[noun\], accusative, plural, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *janmāpaś* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *cācchā* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cācchā* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sumakhāya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumakhāya* ← *makhāya* ← *makha*
 - \[noun\], dative, singular, masculine
 - “yajña; Makha; festival.”
-------------------------------------------------------------------------
+
+_________
+
 - *vocam* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhantāṃ* ← *vardhantām* ← *vṛdh*
 - \[verb\], plural, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvo* ← *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *giraś* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *candrāgrā* ← *candra*
 - \[noun\]
 - “aglitter(p); shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *candrāgrā* ← *agrāḥ* ← *agra*
 - \[noun\], nominative, plural, feminine
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 - *udā* ← *udan*
 - \[noun\], accusative, plural, neuter
 - “water; body of water.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhantām* ← *vṛdh*
 - \[verb\], plural, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣātā* ← *abhiṣātāḥ* ← *abhiṣan* ← *√san*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *arṇāḥ* ← *arṇa*
 - \[noun\], nominative, plural, masculine
 - “wave; flood.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

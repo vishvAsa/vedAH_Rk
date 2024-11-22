@@ -104,81 +104,119 @@ yónā ← yóni- (nominal stem)
 
 -   *avye* ← *avya*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *punānam* ← *pū*
 - \[verb noun\], accusative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāra* ← *vāre* ← *vāra*
 - \[noun\], locative, singular, masculine
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmiṇā* ← *ūrmi*
 - \[noun\], instrumental, singular, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *hariṃ* ← *harim* ← *hari*
 - \[noun\], accusative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *navante* ← *nū*
 - \[verb\], plural, Present indikative
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhy* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyavaḥ* ← *āyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *yonā* ← *yoni*
 - \[noun\], locative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahiṣā* ← *mahiṣāḥ* ← *mahiṣa*
 - \[noun\], nominative, plural, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *aheṣata* ← *hi*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -93,84 +93,124 @@ rāsate ← √rā- 1 (root)
 -   *draviṇodā* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇodā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇasas* ← *draviṇasaḥ* ← *draviṇas*
 - \[noun\], genitive, singular, neuter
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *turasya* ← *tura*
 - \[noun\], genitive, singular, neuter
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇodāḥ* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇodāḥ* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanarasya* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanarasya* ← *narasya* ← *nara*
 - \[noun\], genitive, singular, neuter
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃsat* ← *yam*
 - \[verb\], singular, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇodā* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇodā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīravatīm* ← *vīravat*
 - \[noun\], accusative, singular, feminine
 - “rich in men.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇodā* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇodā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāsate* ← *rā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

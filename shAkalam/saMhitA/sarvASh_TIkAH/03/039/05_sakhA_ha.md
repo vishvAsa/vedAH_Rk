@@ -105,83 +105,121 @@ viveda ← √vid- 1 (root)
 -   *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhibhir* ← *sakhibhiḥ* ← *sakhi*
 - \[noun\], instrumental, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *navagvair* ← *navagvaiḥ* ← *navagva*
 - \[noun\], instrumental, plural, masculine
 - “Navagva.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhijñv* ← *abhijñu*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *satvabhir* ← *satvabhiḥ* ← *satvan*
 - \[noun\], instrumental, plural, masculine
 - “warrior.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *anugman* ← *anugam* ← *√gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “follow; enter; approach; affect; imitate; blend; observe.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyaṃ* ← *satyam* ← *satya*
 - \[noun\], nominative, singular, neuter
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśabhir* ← *daśabhiḥ* ← *daśan*
 - \[noun\], instrumental, plural, masculine
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśagvaiḥ* ← *daśagva*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *viveda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamasi* ← *tamas*
 - \[noun\], locative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣiyantam* ← *kṣi*
 - \[verb noun\], accusative, singular
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

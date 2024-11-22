@@ -93,70 +93,102 @@ yákṣi ← √yaj- (root)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhapatis* ← *gṛhapatiḥ* ← *gṛhapati*
 - \[noun\], nominative, singular, masculine
 - “gṛhapati \[word\]; Gṛhastha.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *potā* ← *potṛ*
 - \[noun\], nominative, singular, masculine
 - “Potṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavāra* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavāra* ← *vāra*
 - \[noun\], vocative, singular, masculine
 - “treasure; choice.”
-------------------------------------------------------------------------
+
+_________
+
 - *pracetā* ← *pracetāḥ* ← *pracetas*
 - \[noun\], nominative, singular, masculine
 - “Pracetas; Pracetas; Varuna; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣi* ← *yaj*
 - \[verb\], singular, Present indikative
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *veṣi* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāryam* ← *vārya*
 - \[noun\], accusative, singular, neuter
 - “wealth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

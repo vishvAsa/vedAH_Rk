@@ -111,92 +111,132 @@ tásyāḥ ← sá- ~ tá- (pronoun)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyā* ← *sakhya*
 - \[noun\], accusative, plural, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitryāṇi* ← *pitrya*
 - \[noun\], accusative, plural, neuter
 - “ancestral; paternal.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *marṣiṣṭhā* ← *marṣiṣṭhāḥ* ← *mṛṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “forgive; endure; heed; pardon; neglect; forget.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *viduṣ* ← *vidu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *san* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabho* ← *nabhaḥ* ← *nabhas*
 - \[noun\], nominative, singular, neuter
 - “sky; cloud; ākāśa; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rūpaṃ* ← *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarimā* ← *jariman*
 - \[noun\], nominative, singular, masculine
 - “old age.”
-------------------------------------------------------------------------
+
+_________
+
 - *mināti* ← *mī*
 - \[verb\], singular, Present indikative
 - “transgress; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tasyā* ← *tasyāḥ* ← *tad*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiśaster* ← *abhiśasteḥ* ← *abhiśasti*
 - \[noun\], genitive, singular, feminine
 - “hex; accusation; defamation; blame; aspersion.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhīhi* ← *adhī* ← *√i*
 - \[verb\], singular, Present imperative
 - “learn; learn; recite; read; understand.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

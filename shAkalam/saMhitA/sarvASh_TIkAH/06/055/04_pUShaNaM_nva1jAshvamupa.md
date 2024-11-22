@@ -76,46 +76,66 @@ yáḥ ← yá- (pronoun)
 -   *pūṣaṇaṃ* ← *pūṣaṇam* ← *pūṣaṇa*
 - \[noun\], accusative, singular, masculine
 - “Pushan; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāśvam* ← *ajāśva*
 - \[noun\], accusative, singular, masculine
 - “Pushan.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *stoṣāma* ← *stu*
 - \[verb\], plural, Aorist conj./subj.
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasur* ← *svasuḥ* ← *svasṛ*
 - \[noun\], genitive, singular, feminine
 - “sister; svasṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jāra* ← *jāraḥ* ← *jāra*
 - \[noun\], nominative, singular, masculine
 - “fancy man.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucyate* ← *vac*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

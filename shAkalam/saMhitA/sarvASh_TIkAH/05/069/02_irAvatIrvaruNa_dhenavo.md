@@ -99,73 +99,107 @@ ví ← ví (invariable)
 -   *irāvatīr* ← *irāvatīḥ* ← *irāvat*
 - \[noun\], nominative, plural, feminine
 - “enjoyable.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenavo* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumad* ← *madhumat*
 - \[noun\], accusative, singular, neuter
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mitra*
 - \[noun\], vocative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhre* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *trayas* ← *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthur* ← *tasthuḥ* ← *sthā*
 - \[verb\], plural, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhāsas* ← *vṛṣabhāsaḥ* ← *vṛṣabha*
 - \[noun\], nominative, plural, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *tisṛṇāṃ* ← *tisṛṇām* ← *tri*
 - \[noun\], genitive, plural, feminine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiṣaṇānāṃ* ← *dhiṣaṇānām* ← *dhiṣaṇā*
 - \[noun\], genitive, plural, feminine
 - “heaven and earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *retodhā* ← *retodhāḥ* ← *retodhā*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumantaḥ* ← *dyumat*
 - \[noun\], nominative, plural, masculine
 - “bright; brilliant; brilliant; loud.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -111,90 +111,132 @@ tokéṣu ← toká- (nominal stem)
 -   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *didyud* ← *didyut*
 - \[noun\], nominative, singular, feminine
 - “arrow; Didyut.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasṛṣṭā* ← *avasṛj* ← *√sṛj*
 - \[verb noun\], nominative, singular
 - “free; shoot; ejaculate.”
-------------------------------------------------------------------------
+
+_________
+
 - *divas* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣmayā* ← *kṣmā*
 - \[noun\], instrumental, singular, feminine
 - “Earth; Earth; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇaktu* ← *vṛj*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasraṃ* ← *sahasram* ← *sahasra*
 - \[noun\], nominative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapivāta*
 - \[noun\], vocative, singular, masculine
 - “sympathetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *bheṣajā* ← *bheṣaja*
 - \[noun\], nominative, plural, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tokeṣu* ← *toka*
 - \[noun\], locative, plural, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanayeṣu* ← *tanaya*
 - \[noun\], locative, plural, neuter
 - “biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *rīriṣaḥ* ← *riṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “suffer; harm.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

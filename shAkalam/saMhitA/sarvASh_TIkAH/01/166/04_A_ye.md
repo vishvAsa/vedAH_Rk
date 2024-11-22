@@ -105,88 +105,128 @@ yā́maḥ ← yā́ma- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], accusative, dual, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rajāṃsi* ← *rajas*
 - \[noun\], accusative, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣībhir* ← *taviṣībhiḥ* ← *taviṣī*
 - \[noun\], instrumental, plural, feminine
 - “strength; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyata* ← *vye*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *evāsaḥ* ← *eva*
 - \[noun\], nominative, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayatāso* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayatāso* ← *yatāsaḥ* ← *yam*
 - \[verb noun\], nominative, plural
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhrajan* ← *dhraj*
 - \[verb\], plural, Imperfect
 - “rush.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhayante* ← *bhī*
 - \[verb\], plural, Present indikative
 - “fear; fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanāni* ← *bhuvana*
 - \[noun\], nominative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *harmyā* ← *harmya*
 - \[noun\], nominative, plural, neuter
 - “mansion; house; palace.”
-------------------------------------------------------------------------
+
+_________
+
 - *citro* ← *citraḥ* ← *citra*
 - \[noun\], nominative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmaḥ* ← *yāma*
 - \[noun\], nominative, singular, masculine
 - “prahara; watch; travel; path.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayatāsv* ← *prayatāsu* ← *prayam* ← *√yam*
 - \[verb noun\], locative, plural
 - “give; emit; send; transmit.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣṭiṣu* ← *ṛṣṭi*
 - \[noun\], locative, plural, feminine
 - “spear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

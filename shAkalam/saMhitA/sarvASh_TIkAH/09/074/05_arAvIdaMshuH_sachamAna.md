@@ -105,82 +105,120 @@ yéna ← yá- (pronoun)
 -   *arāvīd* ← *arāvīt* ← *ru*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “bellow; howl.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃśuḥ* ← *aṃśu*
 - \[noun\], nominative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacamāna* ← *sacamānaḥ* ← *sac*
 - \[verb noun\], nominative, singular
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmiṇā* ← *ūrmi*
 - \[noun\], instrumental, singular, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāvyam* ← *devāvī*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣe* ← *manus*
 - \[noun\], dative, singular, masculine
 - “Manu; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *pinvati* ← *pinv*
 - \[verb\], singular, Present indikative
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvacam* ← *tvac*
 - \[noun\], accusative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāti* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *garbham* ← *garbha*
 - \[noun\], accusative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *aditer* ← *aditeḥ* ← *aditi*
 - \[noun\], genitive, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *upastha* ← *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tokaṃ* ← *tokam* ← *toka*
 - \[noun\], accusative, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanayaṃ* ← *tanayam* ← *tanaya*
 - \[noun\], accusative, singular, masculine
 - “son.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāmahe* ← *dhā*
 - \[verb\], plural, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

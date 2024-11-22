@@ -99,15 +99,21 @@ vívasvataḥ ← vívasvant- (nominal stem)
 -   *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhitre* ← *duhitṛ*
 - \[noun\], dative, singular, feminine
 - “daughter; duhitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vahatuṃ* ← *vahatum* ← *vahatu*
 - \[noun\], accusative, singular, masculine
 - “marriage.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇotītīdaṃ* ← *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -118,61 +124,89 @@ vívasvataḥ ← vívasvant- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇotītīdaṃ* ← *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇotītīdaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvam* ← *viśva*
 - \[noun\], nominative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanaṃ* ← *bhuvanam* ← *bhuvana*
 - \[noun\], nominative, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamasya* ← *yama*
 - \[noun\], genitive, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *paryuhyamānā* ← *parivah* ← *√vah*
 - \[verb noun\], nominative, singular
 - “transport; marry.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyā*
 - \[noun\], nominative, singular, feminine
 - “wife; jāyā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vivasvato* ← *vivasvataḥ* ← *vivasvant*
 - \[noun\], genitive, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
-------------------------------------------------------------------------
+
+_________
+
 - *nanāśa* ← *naś*
 - \[verb\], singular, Perfect indicative
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

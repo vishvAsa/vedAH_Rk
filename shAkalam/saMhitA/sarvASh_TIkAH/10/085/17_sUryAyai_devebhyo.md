@@ -84,50 +84,70 @@ tébhyaḥ ← sá- ~ tá- (pronoun)
 -   *sūryāyai* ← *sūryā*
 - \[noun\], dative, singular, feminine
 - “Citrullus colocynthis Schrad..”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāya* ← *mitra*
 - \[noun\], dative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇāya* ← *varuṇa*
 - \[noun\], dative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtasya* ← *bhū*
 - \[verb noun\], genitive, singular
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *pracetasa* ← *pracetasaḥ* ← *pracetas*
 - \[noun\], nominative, plural, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
-------------------------------------------------------------------------
+
+_________
+
 - *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *tebhyo* ← *tebhyaḥ* ← *tad*
 - \[noun\], dative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *'karaṃ* ← *akaram* ← *kṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -138,11 +158,15 @@ tébhyaḥ ← sá- ~ tá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

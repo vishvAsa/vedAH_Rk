@@ -82,48 +82,72 @@ sóbharī ← sóbharī- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sugmyāya* ← *sugmya*
 - \[noun\], dative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *sugmyam* ← *sugmya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *prātā* ← *prātar*
 - \[adverb\]
 - “at dawn; early.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathenāśvinā* ← *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathenāśvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakṣaṇī* ← *sakṣaṇi*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *piteva* ← *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *piteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sobharī* ← *sobhari*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

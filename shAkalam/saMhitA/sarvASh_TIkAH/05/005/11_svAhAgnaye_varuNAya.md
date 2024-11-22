@@ -73,44 +73,62 @@ svā́hā ← svā́hā (invariable)
 -   *svāhāgnaye* ← *svāhā*
 - \[adverb\]
 - “hail.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāhāgnaye* ← *agnaye* ← *agni*
 - \[noun\], dative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇāya* ← *varuṇa*
 - \[noun\], dative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāhendrāya* ← *svāhā*
 - \[adverb\]
 - “hail.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāhendrāya* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *marudbhyaḥ* ← *marut*
 - \[noun\], dative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāhā*
 - \[adverb\]
 - “hail.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviḥ* ← *havis*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

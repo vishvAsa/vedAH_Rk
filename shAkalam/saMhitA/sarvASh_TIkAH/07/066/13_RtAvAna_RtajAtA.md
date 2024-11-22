@@ -90,75 +90,109 @@ yé ← yá- (pronoun)
 -   *ṛtāvāna* ← *ṛtāvānaḥ* ← *ṛtāvan*
 - \[noun\], nominative, plural, masculine
 - “law-abiding; faithful; righteous.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtajātā* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtajātā* ← *jātāḥ* ← *jan*
 - \[verb noun\], nominative, plural
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvṛdho* ← *ṛtāvṛdhaḥ* ← *ṛtāvṛdh*
 - \[noun\], nominative, plural, masculine
 - “sincere.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghorāso* ← *ghorāsaḥ* ← *ghora*
 - \[noun\], nominative, plural, masculine
 - “awful; dangerous; terrific; intense; dreadful.”
-------------------------------------------------------------------------
+
+_________
+
 - *anṛtadviṣaḥ* ← *anṛta*
 - \[noun\], neuter
 - “falsehood; lying; lie; cheat.”
-------------------------------------------------------------------------
+
+_________
+
 - *anṛtadviṣaḥ* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], nominative, plural, masculine
 - “hostile; hating.”
-------------------------------------------------------------------------
+
+_________
+
 - *teṣāṃ* ← *teṣām* ← *tad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumne* ← *sumna*
 - \[noun\], locative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *succhardiṣṭame* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *succhardiṣṭame* ← *chardiṣṭame* ← *chardiṣṭama*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], vocative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrayaḥ* ← *sūri*
 - \[noun\], nominative, plural, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

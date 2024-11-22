@@ -76,47 +76,69 @@ sárvam ← sárva- (nominal stem)
 -   *piśaṅgabhṛṣṭim* ← *piśaṅga*
 - \[noun\]
 - “tawny; red; brown.”
-------------------------------------------------------------------------
+
+_________
+
 - *piśaṅgabhṛṣṭim* ← *bhṛṣṭim* ← *bhṛṣṭi*
 - \[noun\], accusative, singular, masculine
 - “spike.”
-------------------------------------------------------------------------
+
+_________
+
 - *ambhṛṇam* ← *ambhṛṇa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *piśācim* ← *piśāci*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛṇa* ← *mṛṇ*
 - \[verb\], singular, Present imperative
 - “kill; crush.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvaṃ* ← *sarvam* ← *sarva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣo* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhaya* ← *barhay* ← *√bṛṃh*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

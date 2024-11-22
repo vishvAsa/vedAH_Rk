@@ -71,47 +71,67 @@ samānávarcasā ← samānávarcas- (nominal stem)
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛkṣase* ← *dṛś*
 - \[verb\], singular, Aorist conj./subj.
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃjagmāno* ← *saṃjagmānaḥ* ← *saṃgam* ← *√gam*
 - \[verb noun\], nominative, singular
 - “meet; unite; love; connect; exist; land; justify.”
-------------------------------------------------------------------------
+
+_________
+
 - *abibhyuṣā* ← ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *abibhyuṣā* ← *bibhyuṣā* ← *bhī*
 - \[verb noun\], instrumental, singular
 - “fear; fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandū* ← *mandu*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *samānavarcasā* ← *samāna*
 - \[noun\]
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *samānavarcasā* ← *varcasā* ← *varcas*
 - \[noun\], nominative, dual, masculine
 - “shininess; vigor; fecal matter; glare; magnificence; energy;
     prestige; energy; glory; luster; light; varcas \[word\]; glory; body
     waste; droppings; color.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

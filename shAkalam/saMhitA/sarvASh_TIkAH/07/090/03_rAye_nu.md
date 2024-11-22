@@ -108,91 +108,133 @@ vásudhitim ← vásudhiti- (nominal stem)
 -   *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jajñatū* ← *jajñatuḥ* ← *jan*
 - \[verb\], dual, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasīme* ← *rodasī*
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasīme* ← *ime* ← *idam*
 - \[noun\], nominative, dual, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *devī*
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiṣaṇā*
 - \[noun\], nominative, singular, feminine
 - “heaven and earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāti* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyuṃ* ← *vāyum* ← *vāyu*
 - \[noun\], accusative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *niyutaḥ* ← *niyut*
 - \[noun\], nominative, plural, feminine
 - “gift; team.”
-------------------------------------------------------------------------
+
+_________
+
 - *saścata* ← *sac*
 - \[verb\], plural, Present injunctive
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *svā* ← *svāḥ* ← *sva*
 - \[noun\], nominative, plural, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvetaṃ* ← *śvetam* ← *śveta*
 - \[noun\], accusative, singular, masculine
 - “white; bright; śveta \[word\]; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasudhitiṃ* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasudhitiṃ* ← *dhitim* ← *dhiti*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nireke* ← *nireka*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

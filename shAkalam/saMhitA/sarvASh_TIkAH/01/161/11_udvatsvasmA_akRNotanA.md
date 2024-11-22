@@ -105,11 +105,15 @@ tát ← sá- ~ tá- (pronoun)
 -   *udvatsv* ← *udvatsu* ← *udvat*
 - \[noun\], locative, plural, feminine
 - “altitude.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇotanā* ← *akṛṇotana* ← *kṛ*
 - \[verb\], plural, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -120,74 +124,108 @@ tát ← sá- ~ tá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛṇaṃ* ← *tṛṇam* ← *tṛṇa*
 - \[noun\], accusative, singular, neuter
 - “grass; tṛṇa \[word\]; herb.”
-------------------------------------------------------------------------
+
+_________
+
 - *nivatsv* ← *nivatsu* ← *nivat*
 - \[noun\], locative, plural, feminine
 - “depth.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapasyayā* ← *svapasyā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agohyasya* ← *agohya*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *asastanā* ← *asastana* ← *sas*
 - \[verb\], plural, Imperfect
 - “sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *adyedam* ← *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adyedam* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], vocative, plural, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *nānu* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *gacchatha* ← *gam*
 - \[verb\], plural, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

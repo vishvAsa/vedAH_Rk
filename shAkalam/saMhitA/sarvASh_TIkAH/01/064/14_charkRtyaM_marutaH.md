@@ -96,72 +96,106 @@ tokám ← toká- (nominal stem)
 -   *carkṛtyam* ← *carkar* ← *√kṛ*
 - \[verb noun\], accusative, singular
 - “praise; commemorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *duṣṭaraṃ* ← *duṣṭaram* ← *duṣṭara*
 - \[noun\], accusative, singular, masculine
 - “incomparable; irresistible; unbearable; unconquerable.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumantaṃ* ← *dyumantam* ← *dyumat*
 - \[noun\], accusative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavatsu* ← *maghavan*
 - \[noun\], locative, plural, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhattana* ← *dhā*
 - \[verb\], plural, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanaspṛtam* ← *dhana*
 - \[noun\], neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanaspṛtam* ← *spṛtam* ← *spṛt*
 - \[noun\], accusative, singular, masculine
 - “victorious; protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthyaṃ* ← *ukthyam* ← *ukthya*
 - \[noun\], accusative, singular, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvacarṣaṇiṃ* ← *viśvacarṣaṇim* ← *viśvacarṣaṇi*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tokam* ← *toka*
 - \[noun\], accusative, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣyema* ← *puṣ*
 - \[verb\], plural, Present optative
 - “boom; grow; promote; foster.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanayaṃ* ← *tanayam* ← *tanaya*
 - \[noun\], accusative, singular, neuter
 - “biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *himāḥ* ← *himā*
 - \[noun\], accusative, plural, feminine
 - “winter; year.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

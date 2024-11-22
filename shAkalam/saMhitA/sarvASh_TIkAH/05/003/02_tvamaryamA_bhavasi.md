@@ -102,75 +102,109 @@ yát ← yá- (pronoun)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavasi* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanīnāṃ* ← *kanīnām* ← *kanī*
 - \[noun\], genitive, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *nāma*
 - \[adverb\]
 - “by name; indeed; however; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhāvan* ← *svadhāvat*
 - \[noun\], vocative, singular, masculine
 - “autonomous; independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhyam* ← *guhya*
 - \[noun\], accusative, singular, neuter
 - “secret; concealed.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibharṣi* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjanti* ← *añj*
 - \[verb\], plural, Present indikative
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhitaṃ* ← *sudhitam* ← *sudhita*
 - \[noun\], accusative, singular, masculine
 - “sudhita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *dampatī* ← *dampati*
 - \[noun\], accusative, dual, masculine
 - “couple.”
-------------------------------------------------------------------------
+
+_________
+
 - *samanasā* ← *samanas*
 - \[noun\], accusative, dual, masculine
 - “consentaneous.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇoṣi* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -181,7 +215,9 @@ yát ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

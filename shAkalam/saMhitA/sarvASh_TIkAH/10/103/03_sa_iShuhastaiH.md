@@ -96,86 +96,126 @@ ugrádhanvā ← ugrádhanvan- (nominal stem)
 -   *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣuhastaiḥ* ← *iṣu*
 - \[noun\], masculine
 - “arrow; iṣu \[word\]; iṣ; five; munj.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣuhastaiḥ* ← *hastaiḥ* ← *hasta*
 - \[noun\], instrumental, plural, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣaṅgibhir* ← *niṣaṅgibhiḥ* ← *niṣaṅgin*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vaśī* ← *vaśin*
 - \[noun\], nominative, singular, masculine
 - “powerful; controlling; regnant; authoritative.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃsraṣṭā* ← *saṃsraṣṭṛ*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudha* ← *yudhaḥ* ← *yudh*
 - \[noun\], genitive, singular, feminine
 - “battle; fight; war; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇena* ← *gaṇa*
 - \[noun\], instrumental, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃsṛṣṭajit* ← *saṃsṛṣṭa* ← *saṃsṛj* ← *√sṛj*
 - \[verb noun\]
 - “mix; saṃsṛj; combine; accompany; blend; afflict; endow; consociate;
     love; alloy.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃsṛṣṭajit* ← *jit*
 - \[noun\], nominative, singular, masculine
 - “curative; removing; victorious; winning.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapā* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhuśardhy* ← *bāhuśardhī* ← *bāhuśardhin*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ugradhanvā* ← *ugra*
 - \[noun\]
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugradhanvā* ← *dhanvā* ← *dhanvan*
 - \[noun\], nominative, singular, masculine
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratihitābhir* ← *pratihitābhiḥ* ← *pratihitā*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *astā* ← *as*
 - \[verb\], singular, periphrast. future
 - “shoot; remove.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

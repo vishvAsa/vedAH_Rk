@@ -76,42 +76,62 @@ rā́dhasā ← rā́dhas- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *stoṣad* ← *stoṣat* ← *stu*
 - \[verb\], singular, Aorist conj./subj.
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāsiṣac* ← *gāsiṣat* ← *gā*
 - \[verb\], singular, Aorist conj./subj.
 - “sing; praise; jap; recite; describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *chravat* ← *śravat* ← *śru*
 - \[verb\], singular, Aorist conj./subj.
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāma* ← *sāman*
 - \[noun\], accusative, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīyamānam* ← *gā*
 - \[verb noun\], accusative, singular
 - “sing; praise; jap; recite; describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhasā* ← *rādhas*
 - \[noun\], instrumental, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *jugurat* ← *gur*
 - \[verb\], singular, Perfect conjunctive (subj.)
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

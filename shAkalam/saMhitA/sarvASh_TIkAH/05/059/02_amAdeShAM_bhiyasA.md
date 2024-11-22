@@ -108,82 +108,122 @@ yetire ← √yat- (root)
 -   *amād* ← *amāt* ← *ama*
 - \[noun\], ablative, singular, masculine
 - “am; panic; power; ferocity.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhiyasā* ← *bhiyas*
 - \[noun\], instrumental, singular, masculine
 - “fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmir* ← *bhūmiḥ* ← *bhūmi*
 - \[noun\], nominative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
-------------------------------------------------------------------------
+
+_________
+
 - *ejati* ← *ej*
 - \[verb\], singular, Present indikative
 - “move; stir; tremble; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *naur* ← *nauḥ* ← *nau*
 - \[noun\], nominative, singular, feminine
 - “ship; boat; nau \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrṇā* ← *pṛ*
 - \[verb noun\], nominative, singular
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣarati* ← *kṣar*
 - \[verb\], singular, Present indikative
 - “run; melt.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyathir* ← *vyathiḥ* ← *vyathis*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *yatī* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūredṛśo* ← *dūredṛśaḥ* ← *dūredṛś*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *citayanta* ← *citayante* ← *citay* ← *√cit*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *emabhir* ← *emabhiḥ* ← *eman*
 - \[noun\], instrumental, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahe* ← *maha*
 - \[noun\], locative, singular, neuter
 - “great; abundant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *yetire* ← *yat*
 - \[verb\], plural, Perfect indicative
 - “strive; endeavor; join; equal; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

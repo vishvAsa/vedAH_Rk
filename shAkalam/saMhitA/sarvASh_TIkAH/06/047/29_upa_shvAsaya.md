@@ -108,86 +108,126 @@ sedha ← √sidh- (root)
 -   *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvāsaya* ← *śvāsay* ← *√śvas*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *purutrā*
 - \[adverb\]
 - “distributively.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *manutāṃ* ← *manutām* ← *man*
 - \[verb\], singular, Present imperative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṭhitaṃ* ← *viṣṭhitam* ← *viṣṭhā* ← *√sthā*
 - \[verb noun\], nominative, singular
 - “stand; stay; resist.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagat* ← *jagant*
 - \[noun\], nominative, singular, neuter
 - “universe; Earth; world; people; Jagatī; Loka; animal; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *dundubhe* ← *dundubhi*
 - \[noun\], vocative, singular, masculine
 - “dundubhi; war drum; Dundubhi; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajūr* ← *sajūs*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *devair* ← *devaiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūrād* ← *dūrāt*
 - \[adverb\]
 - “far.”
-------------------------------------------------------------------------
+
+_________
+
 - *davīyo* ← *davīyaḥ* ← *davīyas*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *sedha* ← *sidh*
 - \[verb\], singular, Present imperative
 - “chase away; repel.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

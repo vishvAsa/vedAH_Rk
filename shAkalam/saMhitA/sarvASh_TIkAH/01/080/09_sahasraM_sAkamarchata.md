@@ -98,73 +98,107 @@ svarā́jyam ← svarā́jya- (nominal stem)
 -   *sahasraṃ* ← *sahasram* ← *sahasra*
 - \[noun\], nominative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣṭobhata* ← *stubh*
 - \[verb\], plural, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *viṃśatiḥ* ← *viṃśati*
 - \[noun\], nominative, singular, feminine
 - “twenty; twentieth; viṃśati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatainam* ← *śatā* ← *śata*
 - \[noun\], nominative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatainam* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *anonavur* ← *anonavuḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Imperfect
 - “bellow.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmodyatam* ← *brahma* ← *brahman*
 - \[noun\], nominative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmodyatam* ← *udyatam* ← *udyam* ← *√yam*
 - \[verb noun\], nominative, singular
 - “raise; prepare; begin; endeavor; specialize.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcann* ← *arcan* ← *arc*
 - \[verb\], plural, Present injunctive
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarājyam* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarājyam* ← *rājyam* ← *rājya*
 - \[noun\], accusative, singular, neuter
 - “kingdom; kingship; sovereignty; rājya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

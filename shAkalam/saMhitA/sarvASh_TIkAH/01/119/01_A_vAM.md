@@ -96,89 +96,131 @@ varivodhā́m ← varivodhā́- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *purumāyam* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purumāyam* ← *māyam* ← *māyā*
 - \[noun\], accusative, singular, masculine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *manojuvaṃ* ← *manaḥ* ← *manas*
 - \[noun\], neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *manojuvaṃ* ← *juvam* ← *jū*
 - \[noun\], accusative, singular, masculine
 - “fleet.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīrāśvaṃ* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīrāśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyaṃ* ← *yajñiyam* ← *yajñiya*
 - \[noun\], accusative, singular, masculine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
-------------------------------------------------------------------------
+
+_________
+
 - *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasraketuṃ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasraketuṃ* ← *ketum* ← *ketu*
 - \[noun\], accusative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaninaṃ* ← *vaninam* ← *vanin*
 - \[noun\], accusative, singular, masculine
 - “triumphant; victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatadvasuṃ* ← *śatadvasum* ← *śatadvasu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śruṣṭīvānaṃ* ← *śruṣṭīvānam* ← *śruṣṭīvan*
 - \[noun\], accusative, singular, masculine
 - “obedient; heedful; attentive.”
-------------------------------------------------------------------------
+
+_________
+
 - *varivodhām* ← *varivaḥ* ← *varivas*
 - \[noun\], neuter
 - “room; varivas \[word\]; space; escape.”
-------------------------------------------------------------------------
+
+_________
+
 - *varivodhām* ← *dhām* ← *dhā*
 - \[noun\], accusative, singular, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayaḥ* ← *prayas*
 - \[noun\], accusative, singular, neuter
 - “food; dainty; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

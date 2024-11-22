@@ -110,96 +110,140 @@ maháḥ ← máh- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśagvāḥ* ← *daśagva*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *prathamā* ← *prathamāḥ* ← *prathama*
 - \[noun\], nominative, plural, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūhire* ← *vah*
 - \[verb\], plural, Perfect indicative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinvantūṣaso* ← *hinvantu* ← *hi*
 - \[verb\], plural, Present imperative
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinvantūṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyuṣṭiṣu* ← *vyuṣṭi*
 - \[noun\], locative, plural, feminine
 - “dawn; happiness; consequence.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rāmīr* ← *rāmīḥ* ← *rāmī*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *aruṇair* ← *aruṇaiḥ* ← *aruṇa*
 - \[noun\], instrumental, plural, neuter
 - “Aruṇa; dawn; copper; aruṇa; sindūra; gold; sun; raktavarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *aporṇute* ← *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *aporṇute* ← *ūrṇute* ← *vṛ*
 - \[verb\], singular, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahā* ← *mah*
 - \[noun\], instrumental, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucatā* ← *śuc*
 - \[verb noun\], instrumental, singular
 - “mourn; grieve; flame; glow; burn; repent.”
-------------------------------------------------------------------------
+
+_________
+
 - *goarṇasā* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *goarṇasā* ← *arṇasā* ← *arṇas*
 - \[noun\], instrumental, singular, neuter
 - “body of water; water.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

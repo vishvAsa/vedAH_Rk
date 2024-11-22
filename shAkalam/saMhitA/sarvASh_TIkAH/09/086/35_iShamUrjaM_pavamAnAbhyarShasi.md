@@ -105,82 +105,120 @@ viṣṭambháḥ ← viṣṭambhá- (nominal stem)
 -   *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānābhy* ← *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānābhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṣasi* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaṃsu* ← *van*
 - \[noun\], locative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kalaśeṣu* ← *kalaśa*
 - \[noun\], locative, plural, masculine
 - “jar.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīdasi* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *madvā* ← *madvan*
 - \[noun\], nominative, singular, masculine
 - “intoxicated.”
-------------------------------------------------------------------------
+
+_________
+
 - *madyo* ← *madyaḥ* ← *mad*
 - \[verb noun\], nominative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *madaḥ* ← *mada*
 - \[noun\], nominative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *suto* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṭambha* ← *viṣṭambhaḥ* ← *viṣṭambha*
 - \[noun\], nominative, singular, masculine
 - “constipation.”
-------------------------------------------------------------------------
+
+_________
+
 - *upamo* ← *upamaḥ* ← *upama*
 - \[noun\], nominative, singular, masculine
 - “like; alike(p); colored; similar; like; comparable; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicakṣaṇaḥ* ← *vicakṣaṇa*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

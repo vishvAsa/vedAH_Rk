@@ -101,77 +101,113 @@ muṣāyán ← √muṣⁱ- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudrebhir* ← *rudrebhiḥ* ← *rudra*
 - \[noun\], instrumental, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśastavāra* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśastavāra* ← *śasta* ← *śaṃs*
 - \[verb noun\]
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśastavāra* ← *vāraḥ* ← *vāra*
 - \[noun\], nominative, singular, masculine
 - “treasure; choice.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhvā* ← *ṛbhvan*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hitvī* ← *hā*
 - \[verb noun\]
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
-------------------------------------------------------------------------
+
+_________
+
 - *gayam* ← *gaya*
 - \[noun\], accusative, singular, masculine
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
-------------------------------------------------------------------------
+
+_________
+
 - *āreavadya* ← *āreavadyaḥ* ← *āreavadya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āgāt* ← *āgā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “come; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *vamrasya* ← *vamra*
 - \[noun\], genitive, singular, masculine
 - “ant.”
-------------------------------------------------------------------------
+
+_________
+
 - *manye* ← *man*
 - \[verb\], singular, Present indikative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *mithunā* ← *mithuna*
 - \[noun\], accusative, dual, masculine
 - “twin; couple; couple; coupling; sexual intercourse; Gemini.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivavrī* ← *vivavri*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *annam* ← *anna*
 - \[noun\], accusative, singular, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhītyārodayan* ← *abhītya* ← *abhī* ← *√i*
 - \[verb noun\]
 - “approach; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhītyārodayan* ← *arodayat* ← *roday* ← *√rud*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *muṣāyan* ← *muṣāy* ← *√muṣ*
 - \[verb noun\], nominative, singular
 - “steal; rob.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

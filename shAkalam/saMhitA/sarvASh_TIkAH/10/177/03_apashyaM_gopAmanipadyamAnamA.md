@@ -103,82 +103,120 @@ varīvarti ← √vr̥t- (root)
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *gopām* ← *gopā*
 - \[noun\], accusative, singular, masculine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *anipadyamānam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *anipadyamānam* ← *nipadyamānam* ← *nipad* ← *√pad*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathibhiś* ← *pathibhiḥ* ← *pathin*
 - \[noun\], instrumental, plural
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *carantam* ← *car*
 - \[verb noun\], accusative, singular
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhrīcīḥ* ← *sadhryañc*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣūcīr* ← *viṣūcīḥ* ← *viṣvañc*
 - \[noun\], accusative, plural, feminine
 - “dispersed; viṣvañc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vasāna* ← *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *varīvarti* ← *varvṛt* ← *√vṛt*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvaneṣv* ← *bhuvaneṣu* ← *bhuvana*
 - \[noun\], locative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

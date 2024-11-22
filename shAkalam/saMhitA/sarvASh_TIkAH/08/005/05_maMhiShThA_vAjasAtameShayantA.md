@@ -70,37 +70,55 @@ gr̥hám ← gr̥há- (nominal stem)
 -   *maṃhiṣṭhā* ← *maṃhiṣṭha*
 - \[noun\], accusative, dual, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasātameṣayantā* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasātameṣayantā* ← *sātamā* ← *sātama*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vājasātameṣayantā* ← *iṣayantā* ← *iṣay* ← *√iṣ*
 - \[verb noun\], accusative, dual
-------------------------------------------------------------------------
+
+_________
+
 - *śubhas* ← *śubhaḥ* ← *śubh*
 - \[noun\], genitive, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *patī* ← *pati*
 - \[noun\], accusative, dual, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *gantārā* ← *gantṛ*
 - \[noun\], accusative, dual, masculine
 - “going.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣo* ← *dāśuṣaḥ* ← *dāś*
 - \[verb noun\], genitive, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

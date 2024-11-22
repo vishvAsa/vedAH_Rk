@@ -73,44 +73,62 @@ tát ← sá- ~ tá- (pronoun)
 -   *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇoditā* ← *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇoditā* ← *uditā* ← *uditi*
 - \[noun\], locative, singular, feminine
 - “rise.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūra* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *āturasya* ← *ātura*
 - \[noun\], genitive, singular, masculine
 - “ill; miserable; suffering; brainsick; unhappy; desirous.”
-------------------------------------------------------------------------
+
+_________
+
 - *bheṣajam* ← *bheṣaja*
 - \[noun\], nominative, singular, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

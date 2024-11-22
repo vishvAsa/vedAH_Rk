@@ -114,81 +114,119 @@ yújam ← yúj- (nominal stem)
 -   *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣodaḥ* ← *kṣodas*
 - \[noun\], nominative, singular, neuter
 - “swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *śimīvāṃ* ← *śimīvat*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛghāyato* ← *ṛghāyataḥ* ← *ṛghāy*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣeva* ← *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhrīṃr* ← *vadhri*
 - \[noun\], accusative, plural, masculine
 - “castrated.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaṣṭy* ← *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *agner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasitir* ← *prasitiḥ* ← *prasiti*
 - \[noun\], nominative, singular, feminine
 - “attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāha* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *vartave* ← *vṛ*
 - \[verb noun\]
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yujaṃ* ← *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “ally; friend; pair; two; companion.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -199,11 +237,15 @@ yújam ← yúj- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaṇaspatiḥ* ← *brahmaṇaspati*
 - \[noun\], nominative, singular, masculine
 - “Brahmaṇaspati.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

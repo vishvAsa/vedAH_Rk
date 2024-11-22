@@ -95,77 +95,109 @@ diváḥ ← dyú- ~ div- (nominal stem)
 
 -   *ṛjīpī* ← *ṛjīpin*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadamāno* ← *dadamānaḥ* ← *dā*
 - \[verb noun\], nominative, singular
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃśum* ← *aṃśu*
 - \[noun\], accusative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakuno* ← *śakunaḥ* ← *śakuna*
 - \[noun\], nominative, singular, masculine
 - “bird; large bird.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandram* ← *mandra*
 - \[noun\], accusative, singular, masculine
 - “pleasant; eloquent; dulcet.”
-------------------------------------------------------------------------
+
+_________
+
 - *madam* ← *mada*
 - \[noun\], accusative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharad* ← *bharat* ← *bhṛ*
 - \[verb\], singular, Present injunctive
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *dādṛhāṇo* ← *dādṛhāṇaḥ* ← *dṛh*
 - \[verb noun\], nominative, singular
 - “fixate; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāvān* ← *devāvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *amuṣmād* ← *amuṣmāt* ← *adas*
 - \[noun\], ablative, singular, masculine
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttarād* ← *uttarāt* ← *uttara*
 - \[noun\], ablative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *ādāya* ← *ādā* ← *√dā*
 - \[verb noun\]
 - “take; take away; take out; pick; extract; drink; grasp; put;
     collect; accept; get; choose; remove; steal; bring; press out;
     impound; keep; eat; use; distill.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

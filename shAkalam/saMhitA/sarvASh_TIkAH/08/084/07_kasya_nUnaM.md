@@ -76,44 +76,64 @@ yásya ← yá- (pronoun)
 -   *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *parīṇaso* ← *parīṇasaḥ* ← *parīṇas*
 - \[noun\], genitive, singular, masculine
 - “plenty.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *jinvasi* ← *jinv*
 - \[verb\], singular, Present indikative
 - “enliven; animate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dampate* ← *dampati*
 - \[noun\], vocative, singular, masculine
 - “couple.”
-------------------------------------------------------------------------
+
+_________
+
 - *goṣātā* ← *goṣāti*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

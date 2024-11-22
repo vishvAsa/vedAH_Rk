@@ -108,81 +108,119 @@ pitā́ ← pitár- (nominal stem)
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṭim* ← *vṛṣṭi*
 - \[noun\], accusative, singular, feminine
 - “rain; shower; rainy season.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *rarīdhvam* ← *rā*
 - \[verb\], plural, Present imperative
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *pinvata* ← *pinv*
 - \[verb\], plural, Present imperative
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇo* ← *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārāḥ* ← *dhārā*
 - \[noun\], accusative, plural, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
 - “approaching; facing; less.”
-------------------------------------------------------------------------
+
+_________
+
 - *etena* ← *etad*
 - \[noun\], instrumental, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *stanayitnunehy* ← *stanayitnunā* ← *stanayitnu*
 - \[noun\], instrumental, singular, masculine
 - “thunder; cloud; lightning.”
-------------------------------------------------------------------------
+
+_________
+
 - *stanayitnunehy* ← *ihi* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣiñcann* ← *niṣiñcan* ← *niṣic* ← *√sic*
 - \[verb noun\], nominative, singular
 - “submerge; sprinkle; pour; immerse; water.”
-------------------------------------------------------------------------
+
+_________
+
 - *asuraḥ* ← *asura*
 - \[noun\], nominative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

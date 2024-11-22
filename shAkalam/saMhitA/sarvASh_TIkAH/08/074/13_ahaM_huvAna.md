@@ -81,44 +81,66 @@ mr̥kṣā́ ← √mr̥j- (root)
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *huvāna* ← *huvānaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārkṣe* ← *ārkṣa*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śrutarvaṇi* ← *śrutarvan*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *madacyuti* ← *madacyut*
 - \[noun\], locative, singular, masculine
 - “proud.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhāṃsīva* ← *śardhāṃsi* ← *śardhas*
 - \[noun\], accusative, plural, neuter
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhāṃsīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *stukāvinām* ← *stukāvin*
 - \[noun\], genitive, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mṛkṣā* ← *mṛj*
 - \[verb\], singular, Aorist conj./subj.
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *śīrṣā* ← *śīrṣa*
 - \[noun\], accusative, plural, neuter
 - “head; battlefront; ear; front; śīrṣa \[word\]; tip; skull.”
-------------------------------------------------------------------------
+
+_________
+
 - *caturṇām* ← *catur*
 - \[noun\], genitive, plural, masculine
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

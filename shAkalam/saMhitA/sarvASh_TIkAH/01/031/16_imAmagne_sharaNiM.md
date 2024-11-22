@@ -102,84 +102,122 @@ r̥ṣikŕ̥t ← r̥ṣikŕ̥t- (nominal stem)
 -   *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaraṇim* ← *śaraṇi*
 - \[noun\], accusative, singular, feminine
 - “disobedience.”
-------------------------------------------------------------------------
+
+_________
+
 - *mīmṛṣo* ← *mīmṛṣaḥ* ← *mṛṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “forgive; endure; heed; pardon; neglect; forget.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvānaṃ* ← *adhvānam* ← *adhvan*
 - \[noun\], accusative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agāma* ← *gā*
 - \[verb\], plural, Root aorist (Ind.)
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūrāt*
 - \[adverb\]
 - “far.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpiḥ* ← *āpi*
 - \[noun\], nominative, singular, masculine
 - “friend.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *pramatiḥ* ← *pramati*
 - \[noun\], nominative, singular, feminine
 - “care; solicitude; caution; providence.”
-------------------------------------------------------------------------
+
+_________
+
 - *somyānām* ← *somya*
 - \[noun\], genitive, plural, masculine
 - “saumya.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhṛmir* ← *bhṛmiḥ* ← *bhṛmi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *asy* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣikṛn* ← *ṛṣi*
 - \[noun\], masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣikṛn* ← *kṛt*
 - \[noun\], nominative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyānām* ← *martya*
 - \[noun\], genitive, plural, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

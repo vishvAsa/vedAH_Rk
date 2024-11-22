@@ -111,99 +111,143 @@ tám ← sá- ~ tá- (pronoun)
 -   *kuvin* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucathasya* ← *ucatha*
 - \[noun\], genitive, singular, neuter
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīr* ← *vīḥ* ← *vī*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *asad* ← *asat* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasuṣ* ← *vasuḥ* ← *vasu*
 - \[noun\], nominative, singular, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kuvid*
 - \[adverb\]
 - “surely; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasubhiḥ* ← *vasu*
 - \[noun\], instrumental, plural, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmam* ← *kāma*
 - \[noun\], accusative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvarat* ← *āvṛ* ← *√vṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “prefer; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *codaḥ* ← *coda*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *tutujyāt* ← *tuj*
 - \[verb\], singular, Perfect optative
 - “draw.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucipratīkaṃ* ← *śuci*
 - \[noun\]
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucipratīkaṃ* ← *pratīkam* ← *pratīka*
 - \[noun\], accusative, singular, masculine
 - “face; surface.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇe* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

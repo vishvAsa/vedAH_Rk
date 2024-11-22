@@ -70,37 +70,53 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 -   *adabdhasya* ← *adabdha*
 - \[noun\], genitive, singular, masculine
 - “unfailing; unimpaired.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhāvato* ← *svadhāvataḥ* ← *svadhāvat*
 - \[noun\], genitive, singular, masculine
 - “autonomous; independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūtasya* ← *dūta*
 - \[noun\], genitive, singular, masculine
 - “messenger; emissary; dūta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rebhataḥ* ← *ribh*
 - \[verb noun\], genitive, singular
 - “moo; murmur; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
-------------------------------------------------------------------------
+
+_________
+
 - *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

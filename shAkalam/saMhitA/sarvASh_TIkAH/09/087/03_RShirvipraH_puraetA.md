@@ -102,81 +102,117 @@ nā́ma ← nā́man- (nominal stem)
 -   *ṛṣir* ← *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “eloquent; stimulated; divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *puraetā* ← *puraetṛ*
 - \[noun\], nominative, singular, masculine
 - “guide; leader; harbinger.”
-------------------------------------------------------------------------
+
+_________
+
 - *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīra* ← *dhīraḥ* ← *dhīra*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; intelligent; versed; adept.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśanā* ← *uśanas*
 - \[noun\], nominative, singular
 - “Uśanas; Uśanas; uśanas \[word\]; Uśanas; Venus.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāvyena* ← *kāvya*
 - \[noun\], instrumental, singular, masculine
 - “Uśanas; poem; Kāvya; wisdom.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *viveda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *nihitaṃ* ← *nihitam* ← *nidhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 - “put; fill into; stow; insert; ignite; insert; add; put on;
     establish; keep down.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsām* ← *idam*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *apīcyaṃ* ← *apīcyam* ← *apīcya*
 - \[noun\], nominative, singular, neuter
 - “secret; hidden; cryptic.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhyaṃ* ← *guhyam* ← *guh*
 - \[verb noun\], nominative, singular
 - “hide; cover; conceal; shroud; obscure.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāma* ← *nāman*
 - \[noun\], nominative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *gonām* ← *go*
 - \[noun\], genitive, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

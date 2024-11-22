@@ -96,69 +96,101 @@ vr̥jánam ← vr̥jána- (nominal stem)
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *nivacanāny* ← *nivacanāni* ← *nivacana*
 - \[noun\], accusative, plural, neuter
 - “expression.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānasya* ← *māna*
 - \[noun\], genitive, singular, masculine
 - “arrogance; honor; reverence; obedience; notion; conceit.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnuḥ* ← *sūnu*
 - \[noun\], nominative, singular, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasāne* ← *sah*
 - \[verb noun\], locative, singular
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnau* ← *agni*
 - \[noun\], locative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣibhiḥ* ← *ṛṣi*
 - \[noun\], instrumental, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanema* ← *san*
 - \[verb\], plural, Aorist optative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyāmeṣaṃ* ← *vidyāma* ← *vid*
 - \[verb\], plural, Present optative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyāmeṣaṃ* ← *iṣam* ← *iṣa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjanaṃ* ← *vṛjanam* ← *vṛjana*
 - \[noun\], accusative, singular, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīradānum* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīradānum* ← *dānum* ← *dānu*
 - \[noun\], accusative, singular, masculine
 - “Dānu; dew; drop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -101,76 +101,110 @@ srava ← √sru- (root)
 -   *aśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *voﾱhā* ← *voḍhā* ← *voḍhṛ*
 - \[noun\], nominative, singular, masculine
 - “charioteer.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukhaṃ* ← *sukham* ← *sukha*
 - \[noun\], accusative, singular, masculine
 - “pleasant; easy; lukewarm; comfortable; sukha \[word\]; successful;
     easy; content(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *hasanām* ← *hasanā*
 - \[noun\], accusative, singular, feminine
 - “laughter.”
-------------------------------------------------------------------------
+
+_________
+
 - *upamantriṇaḥ* ← *upamantrin*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śepo* ← *śepaḥ* ← *śepa*
 - \[noun\], nominative, singular, masculine
 - “penis.”
-------------------------------------------------------------------------
+
+_________
+
 - *romaṇvantau* ← *romaṇvat*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bhedau* ← *bheda*
 - \[noun\], accusative, dual, masculine
 - “type; kind; differentiation; distinction; rupture; distinction;
     discord; bheda; breakage; dualism; Bheda; diarrhea; betrayal;
     change; change; difference; pain; opening.”
-------------------------------------------------------------------------
+
+_________
+
 - *vār* ← *vāḥ* ← *vār*
 - \[noun\], accusative, singular, neuter
 - “water; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṇḍūka* ← *maṇḍūkaḥ* ← *maṇḍūka*
 - \[noun\], nominative, singular, masculine
 - “frog; maṇḍūkamūṣā; maṇḍūka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *icchatīndrāyendo* ← *icchati* ← *iṣ*
 - \[verb\], singular, Present indikative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchatīndrāyendo* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchatīndrāyendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

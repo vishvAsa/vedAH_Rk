@@ -64,34 +64,50 @@ vā́tasvanasaḥ ← vā́tasvanas- (nominal stem)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapūbhir* ← *svapūbhiḥ* ← *svapū*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *mitho* ← *mithas*
 - \[adverb\]
 - “together; mutually; alternately.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapanta* ← *vap*
 - \[verb\], plural, Present injunctive
 - “sow; bestrew; strew; scatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātasvanasaḥ* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātasvanasaḥ* ← *svanasaḥ* ← *svanas*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śyenā* ← *śyenāḥ* ← *śyena*
 - \[noun\], nominative, plural, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *aspṛdhran* ← *spṛdh*
 - \[verb\], plural, Root aorist (Ind.)
 - “rival.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

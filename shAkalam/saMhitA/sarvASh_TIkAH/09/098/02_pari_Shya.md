@@ -93,66 +93,96 @@ hiyānáḥ ← √hi- (root)
 -   *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣya* ← *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvāno* ← *suvānaḥ* ← *sū*
 - \[verb noun\], nominative, singular
 - “give birth; urge; bestow; cause.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyayaṃ* ← *avyayam* ← *avyaya*
 - \[noun\], accusative, singular, neuter
 - “sheep.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *varmāvyata* ← *varma* ← *varman*
 - \[noun\], accusative, singular, neuter
 - “cuirass; armor; varman \[word\]; protective covering; Varman;
     varman.”
-------------------------------------------------------------------------
+
+_________
+
 - *varmāvyata* ← *avyata* ← *vye*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *druṇā* ← *dru*
 - \[noun\], instrumental, singular, masculine
 - “wood; tree; dru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hito* ← *hitaḥ* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiyāno* ← *hiyānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārābhir* ← *dhārābhiḥ* ← *dhārā*
 - \[noun\], instrumental, plural, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣāḥ* ← *akṣār* ← *kṣar*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “run; melt.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

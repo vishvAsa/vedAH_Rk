@@ -76,48 +76,70 @@ sumr̥ḷīkā́m ← sumr̥ḷīká- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *adite* ← *aditi*
 - \[noun\], vocative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mahy* ← *mahī* ← *mah*
 - \[noun\], vocative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *devy* ← *devi* ← *devī*
 - \[noun\], vocative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *bruve* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumṛﾱīkām* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumṛﾱīkām* ← *mṛﾱīkām* ← *mṛḍīka*
 - \[noun\], accusative, singular, feminine
 - “compassion; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

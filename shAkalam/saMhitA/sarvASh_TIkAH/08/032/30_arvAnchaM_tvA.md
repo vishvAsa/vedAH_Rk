@@ -67,40 +67,58 @@ vakṣataḥ ← √vah- (root)
 -   *arvāñcaṃ* ← *arvāñcam* ← *arvāñc*
 - \[noun\], accusative, singular, masculine
 - “approaching; facing; less.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣṭuta*
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyamedhastutā* ← *priyamedha*
 - \[noun\], masculine
-------------------------------------------------------------------------
+
+_________
+
 - *priyamedhastutā* ← *stutā* ← *stu*
 - \[verb noun\], nominative, dual
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapeyāya* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapeyāya* ← *peyāya* ← *peya*
 - \[noun\], dative, singular, neuter
 - “beverage.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣataḥ* ← *vah*
 - \[verb\], dual, Aorist conj./subj.
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

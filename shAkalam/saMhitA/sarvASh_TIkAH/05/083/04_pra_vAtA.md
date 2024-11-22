@@ -105,83 +105,121 @@ yát ← yá- (pronoun)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātā* ← *vātāḥ* ← *vāta*
 - \[noun\], nominative, plural, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vānti* ← *vā*
 - \[verb\], plural, Present indikative
 - “blow; blow; emit.”
-------------------------------------------------------------------------
+
+_________
+
 - *patayanti* ← *patay* ← *√pat*
 - \[verb\], plural, Present indikative
 - “fly.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyuta* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], nominative, plural, feminine
 - “lightning; Vidyut; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhīr* ← *oṣadhīḥ* ← *oṣadhī*
 - \[noun\], nominative, plural, feminine
 - “herb; plant; drug; herb.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihate* ← *hā*
 - \[verb\], plural, Present indikative
 - “move over; yield; give way.”
-------------------------------------------------------------------------
+
+_________
+
 - *pinvate* ← *pinv*
 - \[verb\], singular, Present indikative
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *irā*
 - \[noun\], nominative, singular, feminine
 - “Irā; drink; beverage.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasmai* ← *viśva*
 - \[noun\], dative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanāya* ← *bhuvana*
 - \[noun\], dative, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyate* ← *jan*
 - \[verb\], singular, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *parjanyaḥ* ← *parjanya*
 - \[noun\], nominative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīṃ* ← *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *retasāvati* ← *retasā* ← *retas*
 - \[noun\], instrumental, singular, neuter
 - “semen; sperm.”
-------------------------------------------------------------------------
+
+_________
+
 - *retasāvati* ← *avati* ← *av*
 - \[verb\], singular, Present indikative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

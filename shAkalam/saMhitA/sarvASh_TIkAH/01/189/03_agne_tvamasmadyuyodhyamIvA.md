@@ -101,83 +101,121 @@ yajatra ← yájatra- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyodhy* ← *yuyodhi* ← *yu*
 - \[verb\], singular, Present imperative
 - “keep away; separate; ward off.”
-------------------------------------------------------------------------
+
+_________
+
 - *amīvā* ← *amīvāḥ* ← *amīvā*
 - \[noun\], accusative, plural, feminine
 - “disease; affliction.”
-------------------------------------------------------------------------
+
+_________
+
 - *anagnitrā* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *anagnitrā* ← *agni*
 - \[noun\], masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *anagnitrā* ← *trāḥ* ← *trā*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *amanta* ← *am*
 - \[verb\], plural, Present injunctive
 - “hurt.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭīḥ* ← *kṛṣṭi*
 - \[noun\], accusative, plural, feminine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāṃ* ← *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvebhir* ← *viśvebhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtebhir* ← *amṛtebhiḥ* ← *amṛta*
 - \[noun\], instrumental, plural, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatra*
 - \[noun\], vocative, singular, masculine
 - “adorable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,53 +99,77 @@ sárvāḥ ← sárva- (nominal stem)
 -   *dhanvanā* ← *dhanvan*
 - \[noun\], instrumental, singular, neuter
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvanājiṃ* ← *dhanvanā* ← *dhanvan*
 - \[noun\], instrumental, singular, neuter
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvanājiṃ* ← *ājim* ← *āji*
 - \[noun\], accusative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayema* ← *ji*
 - \[verb\], plural, Present optative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvanā* ← *dhanvan*
 - \[noun\], instrumental, singular, neuter
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 - *tīvrāḥ* ← *tīvra*
 - \[noun\], accusative, plural, feminine
 - “intense; severe; pungent; acute; potent; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *samado* ← *samadaḥ* ← *samad*
 - \[noun\], accusative, plural, feminine
 - “conflict; strife.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayema* ← *ji*
 - \[verb\], plural, Present optative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanuḥ* ← *dhanus*
 - \[noun\], nominative, singular, neuter
 - “bow; archery; dhanus \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatror* ← *śatroḥ* ← *śatru*
 - \[noun\], genitive, singular, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *apakāmaṃ* ← *apakāmam* ← *apakāma*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -156,26 +180,36 @@ sárvāḥ ← sárva- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvanā* ← *dhanvan*
 - \[noun\], instrumental, singular, neuter
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvāḥ* ← *sarva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *pradiśo* ← *pradiśaḥ* ← *pradiś*
 - \[noun\], accusative, plural, feminine
 - “quarter; direction; command; region; indication.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayema* ← *ji*
 - \[verb\], plural, Present optative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

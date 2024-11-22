@@ -79,47 +79,69 @@ nūnám ← nūnám (invariable)
 -   *dadī* ← *dadiḥ* ← *dadi*
 - \[noun\], nominative, singular, masculine
 - “giving; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *rekṇas* ← *rekṇaḥ* ← *rekṇas*
 - \[noun\], accusative, singular, neuter
 - “property; wealth; bequest; inheritance.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanve* ← *tanū*
 - \[noun\], dative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadir* ← *dadiḥ* ← *dadi*
 - \[noun\], nominative, singular, masculine
 - “giving; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadir* ← *dadiḥ* ← *dadi*
 - \[noun\], nominative, singular, masculine
 - “giving; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruhūta*
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

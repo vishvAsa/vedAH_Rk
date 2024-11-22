@@ -108,84 +108,124 @@ kám ← kám (invariable)
 -   *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svid*
 - \[adverb\]
 - “svid \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkṣo* ← *vṛkṣaḥ* ← *vṛkṣa*
 - \[noun\], nominative, singular, masculine
 - “tree; fruit tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣṭhito* ← *niṣṭhitaḥ* ← *niṣṭhā* ← *√sthā*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *madhye* ← *madhya*
 - \[noun\], locative, singular, neuter
 - “midst; center; cavity; inside; middle; center; waist; group; pulp;
     torso; time interval; area; series; madhya \[word\]; Madhya; noon;
     middle; middle age; span; belly.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṇaso* ← *arṇasaḥ* ← *arṇas*
 - \[noun\], genitive, singular, neuter
 - “body of water; water.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *taugryo* ← *taugryaḥ* ← *taugrya*
 - \[noun\], nominative, singular, masculine
 - “Bhujyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *nādhitaḥ* ← *nādh*
 - \[verb noun\], nominative, singular
 - “suffer.”
-------------------------------------------------------------------------
+
+_________
+
 - *paryaṣasvajat* ← *pariṣvaj* ← *√svaj*
 - \[verb\], singular, Plusquamperfect
 - “embrace.”
-------------------------------------------------------------------------
+
+_________
+
 - *parṇā* ← *parṇa*
 - \[noun\], accusative, plural, neuter
 - “leaf; feather; parṇa \[word\]; leaf; wing.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛgasya* ← *mṛga*
 - \[noun\], genitive, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *pataror* ← *pataroḥ* ← *pataru*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ivārabha* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivārabha* ← *ārabhe* ← *ārabh* ← *√rabh*
 - \[verb noun\]
 - “begin; begin; undertake; do; take.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvinau* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūhathuḥ* ← *vah*
 - \[verb\], dual, Perfect indicative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *śromatāya* ← *śromata*
 - \[noun\], dative, singular, neuter
 - “fame.”
-------------------------------------------------------------------------
+
+_________
+
 - *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

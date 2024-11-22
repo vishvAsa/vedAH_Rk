@@ -70,40 +70,58 @@ náktoṣā́sā ← náktoṣā́s- (nominal stem)
 -   *suśilpe* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśilpe* ← *śilpe* ← *śilpa*
 - \[noun\], accusative, dual, feminine
 - “art; art.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatī*
 - \[noun\], accusative, dual, feminine
 - “Indian sunplant; Bṛhatī; bṛhatī; eggplant; Solanum xanthocarpum
     Schrad. et Wendl.; bṛhatī \[word\]; bṛhatī.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahī*
 - \[noun\], accusative, dual, feminine
 - “Earth; floor; Earth; land; real property; heaven and earth; space;
     Mahī; soil; earth; estate; area.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇyati* ← *vṛṣaṇy*
 - \[verb\], singular, Present indikative
 - “vṛṣaṇy \[verb\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naktoṣāsā* ← *naktoṣāsāḥ* ← *naktoṣāsā*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *darśate* ← *darśata*
 - \[noun\], accusative, dual, feminine
 - “beautiful; visible; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

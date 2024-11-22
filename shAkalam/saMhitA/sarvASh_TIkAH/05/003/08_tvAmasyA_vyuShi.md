@@ -102,30 +102,42 @@ vásubhiḥ ← vásu- (nominal stem)
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyuṣi* ← *vyuṣ*
 - \[noun\], locative, singular, feminine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrve* ← *pūrva*
 - \[noun\], locative, singular, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūtaṃ* ← *dūtam* ← *dūta*
 - \[noun\], accusative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvānā* ← *kṛṇvānāḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -136,54 +148,78 @@ vásubhiḥ ← vásu- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayajanta* ← *yaj*
 - \[verb\], plural, Imperfect
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyaiḥ* ← *havya*
 - \[noun\], instrumental, plural, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃsthe* ← *saṃstha*
 - \[noun\], locative, singular, neuter
 - “located; ending in; formed.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *īyase* ← *ī* ← *√i*
 - \[verb\], singular, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayīṇāṃ* ← *rayīṇām* ← *rayi*
 - \[noun\], genitive, plural, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *martair* ← *martaiḥ* ← *marta*
 - \[noun\], instrumental, plural, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasubhir* ← *vasubhiḥ* ← *vasu*
 - \[noun\], instrumental, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *idhyamānaḥ* ← *indh*
 - \[verb noun\], nominative, singular
 - “kindle; ignite; set ablaze.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

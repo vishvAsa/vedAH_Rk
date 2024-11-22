@@ -96,73 +96,105 @@ medhira ← médhira- (nominal stem)
 -   *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ścotanty* ← *ścotanti* ← *ścut*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *adhrigo* ← *adhrigu*
 - \[noun\], vocative, singular, masculine
 - “rich; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *śacīva* ← *śacīvat*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *stokāso* ← *stokāsaḥ* ← *stoka*
 - \[noun\], nominative, plural, masculine
 - “drop; myrrh; morsel.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *medaso* ← *medasaḥ* ← *medas*
 - \[noun\], genitive, singular, neuter
 - “medas; fat; corpulence.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtasya* ← *ghṛta*
 - \[noun\], genitive, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaviśasto* ← *kavi*
 - \[noun\], masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaviśasto* ← *śastaḥ* ← *śaṃs*
 - \[verb noun\], nominative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatā* ← *bṛhat*
 - \[noun\], instrumental, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhānunāgā* ← *bhānunā* ← *bhānu*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhānunāgā* ← *agāḥ* ← *gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhira*
 - \[noun\], vocative, singular, masculine
 - “wise; intelligent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -94,68 +94,98 @@ somyáḥ ← somyá- (nominal stem)
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuddho* ← *śuddhaḥ* ← *śudh*
 - \[verb noun\], nominative, singular
 - “become pure; purify; wash; expiate; clean; cleanse.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuddhaḥ* ← *śudh*
 - \[verb noun\], nominative, singular
 - “become pure; purify; wash; expiate; clean; cleanse.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuddhābhir* ← *śuddhābhiḥ* ← *śudh*
 - \[verb noun\], instrumental, plural
 - “become pure; purify; wash; expiate; clean; cleanse.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śuddho* ← *śuddhaḥ* ← *śudh*
 - \[verb noun\], nominative, singular
 - “become pure; purify; wash; expiate; clean; cleanse.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāraya* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Present imperative
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuddho* ← *śuddhaḥ* ← *śudh*
 - \[verb noun\], nominative, singular
 - “become pure; purify; wash; expiate; clean; cleanse.”
-------------------------------------------------------------------------
+
+_________
+
 - *mamaddhi* ← *mad*
 - \[verb\], singular, Perfect imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *somyaḥ* ← *somya*
 - \[noun\], nominative, singular, masculine
 - “saumya.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

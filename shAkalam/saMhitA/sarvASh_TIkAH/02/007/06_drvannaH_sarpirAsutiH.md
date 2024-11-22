@@ -70,43 +70,63 @@ sáhasaḥ ← sáhas- (nominal stem)
 -   *drvannaḥ* ← *dru*
 - \[noun\], masculine
 - “wood; tree; dru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *drvannaḥ* ← *annaḥ* ← *anna*
 - \[noun\], nominative, singular, masculine
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarpirāsutiḥ* ← *sarpiḥ* ← *sarpis*
 - \[noun\], neuter
 - “ghee; clarified butter; sarpiḥprameha.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarpirāsutiḥ* ← *āsutiḥ* ← *āsuti*
 - \[noun\], nominative, singular, masculine
 - “āsuti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratno* ← *pratnaḥ* ← *pratna*
 - \[noun\], nominative, singular, masculine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *vareṇyaḥ* ← *vareṇya*
 - \[noun\], nominative, singular, masculine
 - “excellent; desirable.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasas* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *putro* ← *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *adbhutaḥ* ← *adbhuta*
 - \[noun\], nominative, singular, masculine
 - “extraordinary; amazing; supernatural.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

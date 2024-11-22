@@ -75,48 +75,70 @@ varivovídam ← varivovíd- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *voḍham* ← *vah*
 - \[verb\], dual, Aorist imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *piśaṅgasaṃdṛśam* ← *piśaṅga*
 - \[noun\]
 - “tawny; red; brown.”
-------------------------------------------------------------------------
+
+_________
+
 - *piśaṅgasaṃdṛśam* ← *saṃdṛśam* ← *saṃdṛś*
 - \[noun\], accusative, singular, masculine
 - “appearance; view; view.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiṣṇyā* ← *dhiṣṇya*
 - \[noun\], vocative, dual, masculine
 - “wise; beneficent.”
-------------------------------------------------------------------------
+
+_________
+
 - *varivovidam* ← *varivaḥ* ← *varivas*
 - \[noun\], neuter
 - “room; varivas \[word\]; space; escape.”
-------------------------------------------------------------------------
+
+_________
+
 - *varivovidam* ← *vidam* ← *vid*
 - \[noun\], accusative, singular, masculine
 - “finding.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

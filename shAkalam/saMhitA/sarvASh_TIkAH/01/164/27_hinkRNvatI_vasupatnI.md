@@ -101,83 +101,119 @@ vardhatām ← √vr̥dh- (root)
 
 -   *hiṃkṛṇvatī* ← *hiṃkṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *vasupatnī* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasupatnī* ← *patnī*
 - \[noun\], nominative, singular, feminine
 - “wife; mistress; queen.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūnāṃ* ← *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchantī* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasābhy* ← *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasābhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgāt* ← *āgā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “come; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhām* ← *duh*
 - \[verb\], singular, Present imperative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvibhyām* ← *aśvin*
 - \[noun\], dative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *payo* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghnyeyaṃ* ← *aghnyā*
 - \[noun\], nominative, singular, feminine
 - “cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghnyeyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhatām* ← *vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahate* ← *mahat*
 - \[noun\], dative, singular, neuter
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *saubhagāya* ← *saubhaga*
 - \[noun\], dative, singular, neuter
 - “well-being.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

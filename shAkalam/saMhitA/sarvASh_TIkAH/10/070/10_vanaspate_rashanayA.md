@@ -96,47 +96,67 @@ me ← ahám (pronoun)
 -   *vanaspate* ← *vanaspati*
 - \[noun\], vocative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśanayā* ← *raśanā*
 - \[noun\], instrumental, singular, feminine
 - “rein; bridle; girdle; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *niyūyā* ← *niyūya* ← *niyu* ← *√yu*
 - \[verb noun\]
 - “harness.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *pātha* ← *pāthaḥ* ← *pāthas*
 - \[noun\], accusative, singular, neuter
 - “pāthas \[word\]; water; place.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣi* ← *vah*
 - \[verb\], singular, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadāti* ← *svad*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sweeten.”
-------------------------------------------------------------------------
+
+_________
+
 - *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇavaddhavīṃṣy* ← *kṛṇavat* ← *kṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -147,27 +167,39 @@ me ← ahám (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇavaddhavīṃṣy* ← *havīṃṣi* ← *havis*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *avatāṃ* ← *avatām* ← *av*
 - \[verb\], dual, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvāpṛthivī*
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

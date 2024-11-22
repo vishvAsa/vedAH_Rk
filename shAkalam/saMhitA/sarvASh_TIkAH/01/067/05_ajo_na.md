@@ -70,42 +70,60 @@ tastámbha ← √stambhⁱ- (root)
 -   *ajo* ← *ajaḥ* ← *aja*
 - \[noun\], nominative, singular, masculine
 - “unborn.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāṃ* ← *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *dādhāra* ← *dhṛ*
 - \[verb\], singular, Perfect indicative
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīṃ* ← *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *tastambha* ← *stambh*
 - \[verb\], singular, Perfect indicative
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *mantrebhiḥ* ← *mantra*
 - \[noun\], instrumental, plural, masculine
 - “mantra; Mantra; consultation; advice; consultation; mantra
     \[word\]; speech; plan.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyaiḥ* ← *satya*
 - \[noun\], instrumental, plural, masculine
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

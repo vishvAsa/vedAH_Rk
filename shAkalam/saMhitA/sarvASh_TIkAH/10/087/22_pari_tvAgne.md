@@ -84,61 +84,89 @@ hantā́ram ← hantár- (nominal stem)
 -   *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāgne* ← *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *puraṃ* ← *puram* ← *pur*
 - \[noun\], accusative, singular, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipraṃ* ← *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasya*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīmahi* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣadvarṇaṃ* ← *dhṛṣat*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣadvarṇaṃ* ← *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *hantāram* ← *hantṛ*
 - \[noun\], accusative, singular, masculine
 - “killer; curative; killing; removing; destroyer.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhaṅgurāvatām* ← *bhaṅgurāvat*
 - \[noun\], genitive, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

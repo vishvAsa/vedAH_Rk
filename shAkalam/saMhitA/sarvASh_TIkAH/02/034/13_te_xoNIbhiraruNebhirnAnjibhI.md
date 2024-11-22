@@ -98,78 +98,114 @@ várṇam ← várṇa- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣoṇībhir* ← *kṣoṇībhiḥ* ← *kṣoṇī*
 - \[noun\], instrumental, plural, feminine
 - “Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṇebhir* ← *aruṇebhiḥ* ← *aruṇa*
 - \[noun\], instrumental, plural, masculine
 - “red; tawny; dusty; gray.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāñjibhī* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāñjibhī* ← *añjibhiḥ* ← *añji*
 - \[noun\], instrumental, plural, masculine
 - “color; ointment; adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudrā* ← *rudrāḥ* ← *rudra*
 - \[noun\], nominative, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadaneṣu* ← *sadana*
 - \[noun\], locative, plural, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhuḥ* ← *vṛdh*
 - \[verb\], plural, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *nimeghamānā* ← *nimeghamānāḥ* ← *nimih* ← *√mih*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *atyena* ← *atya*
 - \[noun\], instrumental, singular, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *pājasā* ← *pājas*
 - \[noun\], instrumental, singular, neuter
 - “luminosity; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *suścandraṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suścandraṃ* ← *ścandram* ← *ścandra*
 - \[noun\], accusative, singular, masculine
 - “shining; glistening; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *varṇaṃ* ← *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *supeśasam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supeśasam* ← *peśasam* ← *peśas*
 - \[noun\], accusative, singular, masculine
 - “decoration; shape.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

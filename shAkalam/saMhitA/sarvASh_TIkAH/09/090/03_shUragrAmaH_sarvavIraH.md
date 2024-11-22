@@ -91,83 +91,121 @@ sāhvā́n ← √sah- (root)
 - \[noun\], masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūragrāmaḥ* ← *grāmaḥ* ← *grāma*
 - \[noun\], nominative, singular, masculine
 - “village; grāma \[word\]; group; battalion; club; Hindu gamut;
     troop; multitude; crowd; kin; collection; people.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvavīraḥ* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvavīraḥ* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahāvāñ* ← *sahāvān* ← *sahāvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *jetā* ← *ji*
 - \[verb\], singular, periphrast. future
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanitā* ← *san*
 - \[verb\], singular, periphrast. future
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanāni* ← *dhana*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmāyudhaḥ* ← *tigma*
 - \[noun\]
 - “sharp; pointed; fiery.”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmāyudhaḥ* ← *āyudhaḥ* ← *āyudha*
 - \[noun\], nominative, singular, masculine
 - “weapon; āyudha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣipradhanvā* ← *kṣipra*
 - \[noun\]
 - “quick; kṣipra \[word\]; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣipradhanvā* ← *dhanvā* ← *dhanvan*
 - \[noun\], nominative, singular, masculine
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 - *samatsv* ← *samatsu* ← *samad*
 - \[noun\], locative, plural, masculine
 - “conflict; strife.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣāﾱhaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣāﾱhaḥ* ← *sāḍhaḥ* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāhvān* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

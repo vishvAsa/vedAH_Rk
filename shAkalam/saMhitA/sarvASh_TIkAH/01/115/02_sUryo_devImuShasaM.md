@@ -103,78 +103,114 @@ vitanvaté ← √tan- (root)
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *devīm* ← *devī*
 - \[noun\], accusative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasaṃ* ← *uṣasam* ← *uṣas*
 - \[noun\], accusative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocamānām* ← *ruc*
 - \[verb noun\], accusative, singular
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *maryo* ← *maryaḥ* ← *marya*
 - \[noun\], nominative, singular, masculine
 - “young buck; boyfriend.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣām* ← *yoṣā*
 - \[noun\], accusative, singular, feminine
 - “woman; puppet; daughter.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *paścāt*
 - \[adverb\]
 - “subsequently; westward; paścāt \[word\]; after; back.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayanto* ← *devayantaḥ* ← *devay*
 - \[verb noun\], nominative, plural
 - “solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *yugāni* ← *yuga*
 - \[noun\], accusative, plural, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
-------------------------------------------------------------------------
+
+_________
+
 - *vitanvate* ← *vitan* ← *√tan*
 - \[verb\], plural, Present indikative
 - “expand; perform; scatter; prolong; increase.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrāya* ← *bhadra*
 - \[noun\], dative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

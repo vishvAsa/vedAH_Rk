@@ -90,79 +90,113 @@ ví ← ví (invariable)
 -   *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamaṃ* ← *prathamam* ← *prathama*
 - \[noun\], accusative, singular, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyamāno* ← *jāyamānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotiṣaḥ* ← *jyotis*
 - \[noun\], genitive, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *parame* ← *parama*
 - \[noun\], locative, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyoman*
 - \[noun\], locative, singular, neuter
 - “abhra; sky; ākāśa; Svarga; Vyoman.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptāsyas* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptāsyas* ← *āsyaḥ* ← *āsya*
 - \[noun\], nominative, singular, masculine
 - “mouth; mouth; aperture; face; mukha; jaw; point.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvijāto* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvijāto* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *raveṇa* ← *rava*
 - \[noun\], instrumental, singular, masculine
 - “sound; howl; thunder; cry; talk; cry.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptaraśmir* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptaraśmir* ← *raśmiḥ* ← *raśmi*
 - \[noun\], nominative, singular, masculine
 - “beam; rein; sunbeam; shininess; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhamat* ← *dham*
 - \[verb\], singular, Imperfect
 - “heat; blow; fan; blow; ignite; blow; inflate.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamāṃsi* ← *tamas*
 - \[noun\], accusative, plural, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

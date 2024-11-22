@@ -111,90 +111,132 @@ nr̥pátī ← nr̥páti- (nominal stem)
 -   *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
 - “Soma; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtu* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvata* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *matiḥ* ← *mati*
 - \[noun\], nominative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakṣyāśveva* ← *kakṣyā*
 - \[noun\], nominative, singular, feminine
 - “girdle; rampart; wall; enclosure; cinch.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakṣyāśveva* ← *aśvā* ← *aśva*
 - \[noun\], accusative, dual, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakṣyāśveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinā* ← *vājin*
 - \[noun\], accusative, dual, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāṃ* ← *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotrām* ← *hotrā*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *parihinomi* ← *parihi* ← *√hi*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *medhayemā* ← *medhayā* ← *medhā*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; medhā \[word\]; Medhā.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhayemā* ← *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛpatīva* ← *nṛpatī* ← *nṛpati*
 - \[noun\], nominative, dual, masculine
 - “king.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛpatīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *jinvatam* ← *jinv*
 - \[verb\], dual, Present imperative
 - “enliven; animate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

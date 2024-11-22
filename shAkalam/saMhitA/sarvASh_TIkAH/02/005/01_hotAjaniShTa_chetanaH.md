@@ -84,55 +84,79 @@ yámam ← yáma- (nominal stem)
 -   *hotājaniṣṭa* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotājaniṣṭa* ← *ajaniṣṭa* ← *jan*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *cetanaḥ* ← *cetana*
 - \[noun\], nominative, singular, masculine
 - “noteworthy; remarkable; memorable; conspicuous; conscious;
     sentient.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitṛbhya* ← *pitṛbhyaḥ* ← *pitṛ*
 - \[noun\], dative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prayakṣañ* ← *prayakṣan* ← *prayakṣ* ← *√yakṣ*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *jenyaṃ* ← *jenyam* ← *jenya*
 - \[noun\], accusative, singular, neuter
 - “noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakema* ← *śak*
 - \[verb\], plural, Present optative
 - “can; invigorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], accusative, plural, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamam* ← *yam*
 - \[verb noun\]
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -93,73 +93,105 @@ carṣaṇīdhŕ̥tā ← carṣaṇīdhŕ̥t- (nominal stem)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaśā* ← *yaśāḥ* ← *yaśas*
 - \[noun\], nominative, singular, masculine
 - “esteemed; celebrated; glorious; honorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *asy* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjīṣī* ← *ṛjīṣin*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śavasas* ← *śavasaḥ* ← *śavas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrāṇi* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *haṃsy* ← *haṃsi* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *apratīny* ← *apratīni* ← *aprati*
 - \[noun\], accusative, plural, neuter
 - “irresistible.”
-------------------------------------------------------------------------
+
+_________
+
 - *eka* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *anuttā* ← *anutta*
 - \[noun\], accusative, plural, neuter
 - “anutta \[word\]; insuperable.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīdhṛtā* ← *carṣaṇī* ← *carṣaṇi*
 - \[noun\], feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīdhṛtā* ← *dhṛtā* ← *dhṛt*
 - \[noun\], instrumental, singular, masculine
 - “maintaining.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

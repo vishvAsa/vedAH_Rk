@@ -96,81 +96,115 @@ vraté ← vratá- (nominal stem)
 -   *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rājānā* ← *rājan*
 - \[noun\], nominative, dual, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *purūṇi* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūṣathaḥ* ← *bhūṣ*
 - \[verb\], dual, Present indikative
 - “endeavor; attend; strive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadāṃsi* ← *sadas*
 - \[noun\], accusative, plural, neuter
 - “mansion; assembly; seat; seat.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaśyam* ← *paś*
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaganvān* ← *gam*
 - \[verb noun\], nominative, singular
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrate* ← *vrata*
 - \[noun\], locative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *gandharvāṃ* ← *gandharva*
 - \[noun\], accusative, plural, masculine
 - “Gandharva; castor-oil plant; horse; Gandharva; Indian cuckoo.”
-------------------------------------------------------------------------
+
+_________
+
 - *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyukeśān* ← *vāyu*
 - \[noun\], masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyukeśān* ← *keśān* ← *keśa*
 - \[noun\], accusative, plural, masculine
 - “mane; hair; keśa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

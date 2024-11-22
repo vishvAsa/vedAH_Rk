@@ -102,84 +102,122 @@ viśvárūpāḥ ← viśvárūpa- (nominal stem)
 -   *aśvāso* ← *aśvāsaḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jyeṣṭhāsa* ← *jyeṣṭhāsaḥ* ← *jyeṣṭha*
 - \[noun\], nominative, plural, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āśavo* ← *āśavaḥ* ← *āśu*
 - \[noun\], nominative, plural, masculine
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *didhiṣavo* ← *didhiṣavaḥ* ← *didhiṣu*
 - \[noun\], nominative, plural, masculine
 - “husband.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rathyaḥ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānavaḥ* ← *sudānu*
 - \[noun\], nominative, plural, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nimnair* ← *nimnaiḥ* ← *nimna*
 - \[noun\], instrumental, plural, neuter
 - “deep; depressed; lower.”
-------------------------------------------------------------------------
+
+_________
+
 - *udabhir* ← *udabhiḥ* ← *udan*
 - \[noun\], instrumental, plural, neuter
 - “water; body of water.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigatnavo* ← *jigatnavaḥ* ← *jigatnu*
 - \[noun\], nominative, plural, masculine
 - “moving.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvarūpā* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvarūpā* ← *rūpāḥ* ← *rūpa*
 - \[noun\], nominative, plural, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgiraso* ← *aṅgirasaḥ* ← *aṅgiras*
 - \[noun\], genitive, singular, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sāmabhiḥ* ← *sāman*
 - \[noun\], instrumental, plural, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -113,74 +113,110 @@ ví ← ví (invariable)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *śāsā* ← *śās*
 - \[noun\], instrumental, singular, feminine
 - “śās; command; ruler; commander.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāṃ* ← *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *arya* ← *aryaḥ* ← *ari*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *uparatāti*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vanvan* ← *van*
 - \[verb\], plural, Present injunctive
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhvāṃ* ← *vibhvā* ← *vibhvan*
 - \[noun\], nominative, singular, masculine
 - “Vibhvan.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhukṣā* ← *ṛbhukṣāḥ* ← *ṛbhukṣan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājo* ← *vājaḥ* ← *vāja*
 - \[noun\], nominative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śatror* ← *śatroḥ* ← *śatru*
 - \[noun\], genitive, singular, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *mithatyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇavan* ← *kṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -191,15 +227,21 @@ ví ← ví (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmṇam* ← *nṛmṇa*
 - \[noun\], accusative, singular, neuter
 - “manhood; power.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

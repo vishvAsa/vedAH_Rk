@@ -73,42 +73,62 @@ pávasva ← √pū- (root)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *somāsi* ← *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārayur* ← *dhārayuḥ* ← *dhārayu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mandra* ← *mandraḥ* ← *mandra*
 - \[noun\], nominative, singular, masculine
 - “pleasant; eloquent; dulcet.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojiṣṭho* ← *ojiṣṭhaḥ* ← *ojiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhayadrayiḥ* ← *maṃhayat* ← *maṃhay* ← *√mah*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhayadrayiḥ* ← *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

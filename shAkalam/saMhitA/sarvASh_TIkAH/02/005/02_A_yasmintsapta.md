@@ -90,62 +90,90 @@ víśvam ← víśva- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśmayas* ← *raśmayaḥ* ← *raśmi*
 - \[noun\], nominative, plural, feminine
 - “beam; rein; sunbeam; shininess; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatā* ← *tatāḥ* ← *tan*
 - \[verb noun\], nominative, plural
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *netari* ← *netṛ*
 - \[noun\], locative, singular, masculine
 - “leader; Vitex negundo.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣvad* ← *manuṣvat*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *daivyam* ← *daivya*
 - \[noun\], accusative, singular, masculine
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣṭamam* ← *aṣṭama*
 - \[noun\], accusative, singular, masculine
 - “eighth; aṣṭama \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *potā* ← *potṛ*
 - \[noun\], nominative, singular, masculine
 - “Potṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *invati* ← *inv*
 - \[verb\], singular, Present indikative
 - “bring; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

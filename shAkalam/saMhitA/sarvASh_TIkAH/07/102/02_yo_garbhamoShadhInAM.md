@@ -70,22 +70,30 @@ puruṣī́ṇām ← puruṣī́- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *garbham* ← *garbha*
 - \[noun\], accusative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhīnāṃ* ← *oṣadhīnām* ← *oṣadhi*
 - \[noun\], genitive, plural, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavāṃ* ← *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇoty* ← *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -96,19 +104,27 @@ puruṣī́ṇām ← puruṣī́- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvatām* ← *arvant*
 - \[noun\], genitive, plural, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *parjanyaḥ* ← *parjanya*
 - \[noun\], nominative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣīṇām* ← *puruṣī*
 - \[noun\], genitive, plural, feminine
 - “woman.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

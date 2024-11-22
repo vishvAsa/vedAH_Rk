@@ -93,66 +93,98 @@ ruruhuḥ ← √ruh- (root)
 -   *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *veṣaṇe* ← *veṣaṇa*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *svedam* ← *sveda*
 - \[noun\], accusative, singular, masculine
 - “svedana; perspiration; svedana; perspiring; fomentation; sweat.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathiṣu* ← *pathin*
 - \[noun\], locative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhvati* ← *hu*
 - \[verb\], plural, Present indikative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīm* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīm* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *svajenyam* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svajenyam* ← *jenyam* ← *jenya*
 - \[noun\], accusative, singular, masculine
 - “noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmā* ← *bhūman*
 - \[noun\], accusative, plural, neuter
 - “Earth; floor.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭheva* ← *pṛṣṭhā* ← *pṛṣṭha*
 - \[noun\], accusative, plural, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruruhuḥ* ← *ruh*
 - \[verb\], plural, Perfect indicative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

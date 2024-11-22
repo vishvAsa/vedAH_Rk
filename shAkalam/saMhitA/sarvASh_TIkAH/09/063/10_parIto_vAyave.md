@@ -76,45 +76,65 @@ vā́reṣu ← vā́ra- 1 (nominal stem)
 -   *parīto* ← *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *parīto* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyave* ← *vāyu*
 - \[noun\], dative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutaṃ* ← *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *gira* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *matsaram* ← *matsara*
 - \[noun\], accusative, singular, masculine
 - “intoxicant; invigorating; hostile.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyo* ← *avyaḥ* ← *avya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vāreṣu* ← *vāra*
 - \[noun\], locative, plural, masculine
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *siñcata* ← *sic*
 - \[verb\], plural, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

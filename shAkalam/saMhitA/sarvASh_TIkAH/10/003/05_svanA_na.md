@@ -96,71 +96,105 @@ várṣiṣṭhebhiḥ ← várṣiṣṭha- (nominal stem)
 -   *svanā* ← *svanāḥ* ← *svana*
 - \[noun\], nominative, plural, masculine
 - “noise; sound; svan.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāmāsaḥ* ← *bhāma*
 - \[noun\], nominative, plural, masculine
 - “beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavante* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocamānasya* ← *ruc*
 - \[verb noun\], genitive, singular
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhataḥ* ← *bṛhat*
 - \[noun\], genitive, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudivaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudivaḥ* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyeṣṭhebhir* ← *jyeṣṭhebhiḥ* ← *jyeṣṭha*
 - \[noun\], instrumental, plural, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tejiṣṭhaiḥ* ← *tejiṣṭha*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *krīḍumadbhir* ← *krīḍumadbhiḥ* ← *krīḍumat*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *varṣiṣṭhebhir* ← *varṣiṣṭhebhiḥ* ← *varṣiṣṭha*
 - \[noun\], instrumental, plural, masculine
 - “highest.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhānubhir* ← *bhānubhiḥ* ← *bhānu*
 - \[noun\], instrumental, plural, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣati* ← *nakṣ*
 - \[verb\], singular, Present indikative
 - “reach; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

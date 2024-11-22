@@ -105,86 +105,124 @@ vásyaḥ ← vásyaṁs- (nominal stem)
 -   *sthūrasya* ← *sthūra*
 - \[noun\], genitive, singular, masculine
 - “large; portly; fleshy.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhato* ← *bṛhataḥ* ← *bṛhat*
 - \[noun\], genitive, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īśe* ← *īś*
 - \[verb\], singular, Perfect indicative
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣṭavāma* ← *stavāma* ← *stu*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidatheṣv* ← *vidatheṣu* ← *vidatha*
 - \[noun\], locative, plural, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyunā* ← *vāyu*
 - \[noun\], instrumental, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayati* ← *ji*
 - \[verb\], singular, Present indikative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomatīṣu* ← *gomatī*
 - \[noun\], locative, plural, feminine
 - “Gomatī; Gomatī; Gomatī; gorocanā; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇuyā*
 - \[adverb\]
 - “boldly.”
-------------------------------------------------------------------------
+
+_________
+
 - *nayati* ← *nī*
 - \[verb\], singular, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasyo* ← *vasyaḥ* ← *vasyas*
 - \[noun\], accusative, singular, neuter
 - “good fortune; well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

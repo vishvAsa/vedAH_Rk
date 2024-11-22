@@ -104,78 +104,116 @@ vácasaḥ ← vácas- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajasva* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajīyāñchruṣṭī* ← *yajīyān* ← *yajīyas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yajīyāñchruṣṭī* ← *śruṣṭī* ← *śruṣṭi*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *deṣṇam* ← *deṣṇa*
 - \[noun\], accusative, singular, neuter
 - “gift; giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇīhi* ← *gṛ*
 - \[verb\], singular, Present imperative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayipatī* ← *rayi*
 - \[noun\], masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayipatī* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayīṇāṃ* ← *rayīṇām* ← *rayi*
 - \[noun\], genitive, plural, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukrasya* ← *śukra*
 - \[noun\], genitive, singular, neuter
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *vacaso* ← *vacasaḥ* ← *vacas*
 - \[noun\], genitive, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *manotā* ← *manotṛ*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,79 +99,115 @@ rákṣatam ← √rakṣⁱ- (root)
 -   *urvī*
 - \[noun\], accusative, dual, feminine
 - “Earth; floor; land; heaven and earth; urvī; pṛthivī; kingdom.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadmanī* ← *sadman*
 - \[noun\], accusative, dual, neuter
 - “seat; house; stable; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatī* ← *bṛhat*
 - \[noun\], accusative, dual, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitrī*
 - \[noun\], accusative, dual, feminine
 - “mother.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāte* ← *dhā*
 - \[verb\], dual, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, dual, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
-------------------------------------------------------------------------
+
+_________
+
 - *supratīke* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supratīke* ← *pratīke* ← *pratīka*
 - \[noun\], nominative, dual, feminine
 - “face; surface.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvā* ← *div*
 - \[noun\], vocative, dual, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣatam* ← *rakṣ*
 - \[verb\], dual, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivī*
 - \[noun\], vocative, dual, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhvāt* ← *abhva*
 - \[noun\], ablative, singular, neuter
 - “monstrosity; nothingness; void; force.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

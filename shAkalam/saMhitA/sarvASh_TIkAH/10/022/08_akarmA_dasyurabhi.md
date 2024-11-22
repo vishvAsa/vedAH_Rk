@@ -87,71 +87,103 @@ vádhar ← vádhar- (nominal stem)
 -   *akarmā* ← *akarman*
 - \[noun\], nominative, singular, masculine
 - “evil.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyur* ← *dasyuḥ* ← *dasyu*
 - \[noun\], nominative, singular, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *amantur* ← *amantuḥ* ← *amantu*
 - \[noun\], nominative, singular, masculine
 - “ignorant.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyavrato* ← *anya*
 - \[noun\]
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *anyavrato* ← *vrataḥ* ← *vrata*
 - \[noun\], nominative, singular, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *amānuṣaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *amānuṣaḥ* ← *mānuṣaḥ* ← *mānuṣa*
 - \[noun\], nominative, singular, masculine
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasyāmitrahan* ← *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasyāmitrahan* ← *amitra*
 - \[noun\], masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasyāmitrahan* ← *han*
 - \[noun\], vocative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhar*
 - \[noun\], accusative, singular, neuter
 - “weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsasya* ← *dāsa*
 - \[noun\], genitive, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dambhaya* ← *dambhay* ← *√dabh*
 - \[verb\], singular, Present imperative
 - “subjugate; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

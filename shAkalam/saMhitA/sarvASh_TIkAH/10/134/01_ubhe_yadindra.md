@@ -106,82 +106,118 @@ jánitrī ← jánitrī- (nominal stem)
 -   *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpaprāthoṣā* ← *āpaprātha* ← *āprā* ← *√prā*
 - \[verb\], singular, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *āpaprāthoṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahāntaṃ* ← *mahāntam* ← *mahat*
 - \[noun\], accusative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahīnāṃ* ← *mahīnām* ← *mahi*
 - \[noun\], genitive, plural, feminine
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *samrājaṃ* ← *samrājam* ← *samrāj*
 - \[noun\], accusative, singular, masculine
 - “sovereign; ruler.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīnāṃ* ← *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 - *devī*
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitry* ← *janitrī*
 - \[noun\], nominative, singular, feminine
 - “mother.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajījanad* ← *ajījanat* ← *jan*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadra*
 - \[noun\], nominative, singular, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitry* ← *janitrī*
 - \[noun\], nominative, singular, feminine
 - “mother.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajījanat* ← *jan*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

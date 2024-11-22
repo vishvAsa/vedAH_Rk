@@ -105,64 +105,92 @@ sácetāḥ ← sácetas- (nominal stem)
 -   *asyed* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣantaṃ* ← *śuṣantam* ← *śuṣ*
 - \[verb noun\], accusative, singular
 - “dry; shrivel; dry; languish.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛścad* ← *vṛścat* ← *vraśc*
 - \[verb\], singular, Present injunctive
 - “cleave; fell; cut off; hew.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vrāṇā* ← *vrāṇāḥ* ← *vṛ*
 - \[verb noun\], accusative, plural
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *avanīr* ← *avanīḥ* ← *avani*
 - \[noun\], accusative, plural, feminine
 - “river; earth; floor; path; bed; course.”
-------------------------------------------------------------------------
+
+_________
+
 - *amuñcad* ← *amuñcat* ← *muc*
 - \[verb\], singular, Imperfect
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -170,26 +198,36 @@ sácetāḥ ← sácetas- (nominal stem)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacetāḥ* ← *sacetas*
 - \[noun\], nominative, singular, masculine
 - “consentaneous.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

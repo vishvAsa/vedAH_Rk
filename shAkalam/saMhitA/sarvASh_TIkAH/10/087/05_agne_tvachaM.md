@@ -104,78 +104,114 @@ vr̥kṇám ← √vr̥śc- (root)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvacaṃ* ← *tvacam* ← *tvac*
 - \[noun\], accusative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātudhānasya* ← *yātudhāna*
 - \[noun\], genitive, singular, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhinddhi* ← *bhid*
 - \[verb\], singular, Present imperative
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiṃsrāśanir* ← *hiṃsra*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *hiṃsrāśanir* ← *aśaniḥ* ← *aśani*
 - \[noun\], nominative, singular, masculine
 - “lightning; Vajra; vajra; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *harasā* ← *haras*
 - \[noun\], instrumental, singular, neuter
 - “fire; fury; grip; capture.”
-------------------------------------------------------------------------
+
+_________
+
 - *hantv* ← *hantu* ← *han*
 - \[verb\], singular, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvāṇi* ← *parvan*
 - \[noun\], accusative, plural, neuter
 - “joint; knot; festival; day; articulation; knot.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇīhi* ← *śṛ*
 - \[verb\], singular, Present imperative
 - “fall off; break; disintegrate; crush; break; fracture.”
-------------------------------------------------------------------------
+
+_________
+
 - *kravyāt* ← *kravyād*
 - \[noun\], nominative, singular, masculine
 - “carnivore.”
-------------------------------------------------------------------------
+
+_________
+
 - *kraviṣṇur* ← *kraviṣṇuḥ* ← *kraviṣṇu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *cinotu* ← *ci*
 - \[verb\], singular, Present imperative
 - “cover; accumulate; pile up; pick; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkṇam* ← *vraśc*
 - \[verb noun\], accusative, singular
 - “cleave; fell; cut off; hew.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

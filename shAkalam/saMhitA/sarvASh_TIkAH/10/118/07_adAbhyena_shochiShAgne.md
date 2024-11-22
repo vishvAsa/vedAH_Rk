@@ -73,42 +73,60 @@ r̥tásya ← r̥tá- (nominal stem)
 -   *adābhyena* ← *adābhya*
 - \[noun\], instrumental, singular, neuter
 - “trustworthy; disabused(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *śociṣāgne* ← *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *śociṣāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣas* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *daha* ← *dah*
 - \[verb\], singular, Present imperative
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 - *gopā* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdihi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

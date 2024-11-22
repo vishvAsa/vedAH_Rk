@@ -111,93 +111,135 @@ vavákṣa ← √vakṣ- (root)
 -   *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitṛbhyām* ← *pitṛ*
 - \[noun\], dative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravidānu* ← *pravidā* ← *pravid*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *pravidānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghoṣam* ← *ghoṣa*
 - \[noun\], accusative, singular, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mahas*
 - \[noun\], accusative, singular, neuter
 - “greatness; festival; glory; reward; gladness.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahadbhyām* ← *mahat*
 - \[noun\], dative, dual, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *anayanta* ← *nī*
 - \[verb\], plural, Imperfect
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūṣam* ← *śūṣa*
 - \[noun\], accusative, singular, masculine
 - “song; energy.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣā* ← *ukṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhānam* ← *dhāna*
 - \[noun\], accusative, singular, neuter
 - “pile; receptacle; case.”
-------------------------------------------------------------------------
+
+_________
+
 - *aktor* ← *aktoḥ* ← *aktu*
 - \[noun\], genitive, singular, masculine
 - “night; dark; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaṃ* ← *svam* ← *sva*
 - \[noun\], accusative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaritur* ← *jarituḥ* ← *jaritṛ*
 - \[noun\], genitive, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavakṣa* ← *vakṣ*
 - \[verb\], singular, Perfect indicative
 - “grow; grow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

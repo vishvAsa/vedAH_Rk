@@ -112,89 +112,131 @@ sū́raḥ ← sū́ra- (nominal stem)
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vidathāny* ← *vidathāni* ← *vidatha*
 - \[noun\], accusative, plural, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *janma* ← *janman*
 - \[noun\], accusative, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanutar*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛju*
 - \[noun\], accusative, singular, neuter
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
-------------------------------------------------------------------------
+
+_________
+
 - *marteṣu* ← *marta*
 - \[noun\], locative, plural, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjinā* ← *vṛjina*
 - \[noun\], accusative, plural, neuter
 - “sin.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśyann* ← *paśyan* ← *paś*
 - \[verb noun\], nominative, singular
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūro* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *arya* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *evān* ← *eva*
 - \[noun\], accusative, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

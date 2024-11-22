@@ -71,43 +71,61 @@ sākám ← sākám (invariable)
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgnī* ← *agnī* ← *agni*
 - \[noun\], vocative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsapatnīr* ← *dāsa*
 - \[noun\], masculine
 - “slave; Dāsa; servant; savage; Shudra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsapatnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], accusative, plural, feminine
 - “wife; mistress; queen.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhūnutam* ← *dhū*
 - \[verb\], dual, Imperfect
 - “shake; remove; chase away.”
-------------------------------------------------------------------------
+
+_________
+
 - *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekena* ← *eka*
 - \[noun\], instrumental, singular, neuter
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *karmaṇā* ← *karman*
 - \[noun\], instrumental, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -115,7 +133,9 @@ sākám ← sākám (invariable)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

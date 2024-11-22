@@ -106,57 +106,83 @@ prātár ← prātár (invariable)
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtā* ← *amṛtāḥ* ← *amṛta*
 - \[noun\], vocative, plural, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *amandīd* ← *amandīt* ← *mand*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “rejoice; exhilarate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekadyūr* ← *ekadyūḥ* ← *ekadyū*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāś* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇuta* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -167,30 +193,42 @@ prātár ← prātár (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *praśastam* ← *praśaṃs* ← *√śaṃs*
 - \[verb noun\], accusative, singular
 - “recommend; approve; praise; laud; favor; proclaim.”
-------------------------------------------------------------------------
+
+_________
+
 - *prātar*
 - \[adverb\]
 - “at dawn; early.”
-------------------------------------------------------------------------
+
+_________
+
 - *makṣū*
 - \[adverb\]
 - “promptly; soon; quickly.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyāvasur* ← *dhiyāvasuḥ* ← *dhiyāvasu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagamyāt* ← *gam*
 - \[verb\], singular, Perfect optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

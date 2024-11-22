@@ -98,41 +98,59 @@ srava ← √sru- (root)
 -   *satyamugrasya* ← *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyamugrasya* ← *ugrasya* ← *ugra*
 - \[noun\], genitive, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhataḥ* ← *bṛhat*
 - \[noun\], genitive, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *sravanti* ← *sru*
 - \[verb\], plural, Present indikative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃsravāḥ* ← *saṃsrava*
 - \[noun\], nominative, plural, masculine
 - “remainder; remains.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *rasino* ← *rasinaḥ* ← *rasin*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rasāḥ* ← *rasa*
 - \[noun\], nominative, plural, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
@@ -140,39 +158,55 @@ srava ← √sru- (root)
     body substance; rasa; formulation; myrrh; rasa \[word\]; amṛta;
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
-------------------------------------------------------------------------
+
+_________
+
 - *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *hara* ← *hare* ← *hari*
 - \[noun\], vocative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāyendo* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāyendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

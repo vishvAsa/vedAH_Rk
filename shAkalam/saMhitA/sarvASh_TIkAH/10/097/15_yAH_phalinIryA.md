@@ -87,52 +87,76 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 -   *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *phalinīr* ← *phalinīḥ* ← *phalin*
 - \[noun\], nominative, plural, feminine
 - “fruiting.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aphalā* ← *aphalāḥ* ← *aphala*
 - \[noun\], nominative, plural, feminine
 - “impotent; bootless.”
-------------------------------------------------------------------------
+
+_________
+
 - *apuṣpā* ← *apuṣpāḥ* ← *apuṣpa*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yāś* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣpiṇīḥ* ← *puṣpin*
 - \[noun\], nominative, plural, feminine
 - “flowering.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatiprasūtās* ← *bṛhaspati*
 - \[noun\], masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatiprasūtās* ← *prasūtāḥ* ← *prasū* ← *√sū*
 - \[verb noun\], nominative, plural
 - “give birth; be born; originate; impel; propel; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *muñcantv* ← *muñcantu* ← *muc*
 - \[verb\], plural, Present imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -140,11 +164,15 @@ tā́ḥ ← sá- ~ tá- (pronoun)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

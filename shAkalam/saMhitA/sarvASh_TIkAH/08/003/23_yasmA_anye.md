@@ -79,50 +79,72 @@ váyaḥ ← ví- (nominal stem)
 -   *yasmā* ← *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *anye* ← *anya*
 - \[noun\], nominative, plural, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhuraṃ* ← *dhuram* ← *dhur*
 - \[noun\], accusative, singular, feminine
 - “yoke; dhur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahnayaḥ* ← *vahni*
 - \[noun\], nominative, plural, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
     leader.”
-------------------------------------------------------------------------
+
+_________
+
 - *astaṃ* ← *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tugryam* ← *tugrya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

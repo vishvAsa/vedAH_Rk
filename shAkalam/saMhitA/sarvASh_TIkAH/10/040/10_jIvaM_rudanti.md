@@ -105,83 +105,123 @@ pátibhyaḥ ← páti- (nominal stem)
 -   *jīvaṃ* ← *jīvam* ← *jīva*
 - \[noun\], accusative, singular, masculine
 - “live; alive(p); amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudanti* ← *rud*
 - \[verb\], plural, Present indikative
 - “cry; howl; lament; howl.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *mayante* ← *may*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghām* ← *dīrgha*
 - \[noun\], accusative, singular, feminine
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasitiṃ* ← *prasitim* ← *prasiti*
 - \[noun\], accusative, singular, feminine
 - “binding.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdhiyur* ← *dīdhiyuḥ* ← *dhī*
 - \[verb\], plural, Perfect indicative
 - “think; desire; chew over.”
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāmam* ← *vāma*
 - \[noun\], nominative, singular, neuter
 - “agreeable; vāma \[word\]; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitṛbhyo* ← *pitṛbhyaḥ* ← *pitṛ*
 - \[noun\], dative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *erire* ← *er* ← *√īr*
 - \[verb\], plural, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *mayaḥ* ← *mayas*
 - \[noun\], nominative, singular, neuter
 - “pleasure; refreshment.”
-------------------------------------------------------------------------
+
+_________
+
 - *patibhyo* ← *patibhyaḥ* ← *pati*
 - \[noun\], dative, plural, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *janayaḥ* ← *jani*
 - \[noun\], nominative, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣvaje* ← *pariṣvaj* ← *√svaj*
 - \[verb noun\]
 - “embrace.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

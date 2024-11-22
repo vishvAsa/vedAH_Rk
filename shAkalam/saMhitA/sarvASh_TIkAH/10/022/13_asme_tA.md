@@ -90,66 +90,96 @@ vajrivaḥ ← vajrivant- (nominal stem)
 -   *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyāhiṃsantīr* ← *satyā* ← *satya*
 - \[noun\], nominative, plural, neuter
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyāhiṃsantīr* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyāhiṃsantīr* ← *hiṃsantīḥ* ← *hiṃs*
 - \[verb noun\], nominative, plural
 - “injure; kill; remove; harm; cure; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *upaspṛśaḥ* ← *upaspṛś*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vidyāma* ← *vid*
 - \[verb\], plural, Present optative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāsām* ← *yad*
 - \[noun\], genitive, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhujo* ← *bhujaḥ* ← *bhuj*
 - \[noun\], accusative, plural, feminine
 - “use; advantage; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenūnāṃ* ← *dhenūnām* ← *dhenu*
 - \[noun\], genitive, plural, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrivaḥ* ← *vajrivas* ← *vajrivat*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

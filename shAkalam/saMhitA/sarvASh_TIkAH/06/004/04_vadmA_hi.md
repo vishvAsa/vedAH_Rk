@@ -114,26 +114,38 @@ rā́jā ← rā́jan- (nominal stem)
 -   *vadmā* ← *vadman*
 - \[noun\], nominative, singular, masculine
 - “expansive.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūno* ← *sūnu*
 - \[noun\], vocative, singular, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *asy* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *admasadvā* ← *adma* ← *adman*
 - \[noun\], neuter
-------------------------------------------------------------------------
+
+_________
+
 - *admasadvā* ← *sadvā* ← *sadvan*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -144,80 +156,116 @@ rā́jā ← rā́jan- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *januṣājmānnam* ← *januṣā* ← *janus*
 - \[noun\], instrumental, singular, neuter
 - “birth.”
-------------------------------------------------------------------------
+
+_________
+
 - *januṣājmānnam* ← *ajma* ← *ajman*
 - \[noun\], accusative, singular, neuter
 - “drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *januṣājmānnam* ← *annam* ← *anna*
 - \[noun\], accusative, singular, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjasana* ← *ūrja*
 - \[noun\], masculine
 - “Kartik; nutriment.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjasana* ← *sane* ← *sani*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjaṃ* ← *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhā* ← *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājeva* ← *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *jer* ← *jeḥ* ← *ji*
 - \[verb\], singular, Aorist inj. (proh.)
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛke* ← *avṛka*
 - \[noun\], locative, singular, masculine
 - “protective; safe.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣeṣy* ← *kṣeṣi* ← *kṣi*
 - \[verb\], singular, Present indikative
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

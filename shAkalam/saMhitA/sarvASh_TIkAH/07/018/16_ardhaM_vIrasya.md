@@ -99,74 +99,110 @@ vartaním ← vartaní- (nominal stem)
 -   *ardhaṃ* ← *ardham* ← *ardha*
 - \[noun\], accusative, singular, neuter
 - “one-half; ardha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrasya* ← *vīra*
 - \[noun\], genitive, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛtapām* ← *śṛta*
 - \[noun\], neuter
 - “kvātha.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛtapām* ← *pām* ← *pā*
 - \[noun\], accusative, singular, masculine
 - “drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *anindram* ← *anindra*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhantaṃ* ← *śardhantam* ← *śṛdh*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *nunude* ← *nud*
 - \[verb\], singular, Perfect indicative
 - “push; propel; expel; push; move.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyum* ← *manyu*
 - \[noun\], accusative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyumyo* ← *manyumyaḥ* ← *manyumī*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mimāya* ← *mī*
 - \[verb\], singular, Perfect indicative
 - “transgress; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *bheje* ← *bhaj*
 - \[verb\], singular, Perfect indicative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
-------------------------------------------------------------------------
+
+_________
+
 - *patho* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartanim* ← *vartani*
 - \[noun\], accusative, singular, feminine
 - “path; East; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *patyamānaḥ* ← *paty*
 - \[verb noun\], nominative, singular
 - “own; have; master.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

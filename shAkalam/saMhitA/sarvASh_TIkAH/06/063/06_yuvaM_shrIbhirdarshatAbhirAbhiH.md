@@ -105,84 +105,122 @@ vā́ṇī ← vā́ṇī- (nominal stem)
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrībhir* ← *śrībhiḥ* ← *śrī*
 - \[noun\], instrumental, plural, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *darśatābhir* ← *darśatābhiḥ* ← *darśata*
 - \[noun\], instrumental, plural, feminine
 - “beautiful; visible; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhe* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣṭim* ← *puṣṭi*
 - \[noun\], accusative, singular, feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūhathuḥ* ← *vah*
 - \[verb\], dual, Perfect indicative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryāyāḥ* ← *sūryā*
 - \[noun\], genitive, singular, feminine
 - “Citrullus colocynthis Schrad..”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapuṣe* ← *vapus*
 - \[noun\], dative, singular, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
-------------------------------------------------------------------------
+
+_________
+
 - *'nu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *paptan* ← *pat*
 - \[verb\], plural, Aorist inj. (proh.)
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣad* ← *nakṣat* ← *nakṣ*
 - \[verb\], singular, Present injunctive
 - “reach; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṇī*
 - \[noun\], nominative, singular, feminine
 - “voice; Sarasvati; words; language.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭutā* ← *suṣṭuta*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dhiṣṇyā* ← *dhiṣṇya*
 - \[noun\], vocative, dual, masculine
 - “wise; beneficent.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

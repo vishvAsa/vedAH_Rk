@@ -82,20 +82,28 @@ pátiḥ ← páti- (nominal stem)
 -   *turīyaṃ* ← *turīyam* ← *turīya*
 - \[noun\], accusative, singular, neuter
 - “fourth.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyaṃ* ← *yajñiyam* ← *yajñiya*
 - \[noun\], accusative, singular, neuter
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadā*
 - \[adverb\]
 - “once \[when\]; if.”
-------------------------------------------------------------------------
+
+_________
+
 - *karas* ← *karaḥ* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -106,38 +114,54 @@ pátiḥ ← páti- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśmasi* ← *vaś*
 - \[verb\], plural, Present indikative
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ohase* ← *ūh*
 - \[verb\], singular, Present indikative
 - “diagnose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

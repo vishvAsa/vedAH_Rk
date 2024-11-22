@@ -136,116 +136,170 @@ r̥ṣūṇā́m ← r̥ṣú- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasvata* ← *sahasvate* ← *sahasvat*
 - \[noun\], dative, singular, masculine
 - “mighty; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣarbudhe* ← *uṣarbudh*
 - \[noun\], dative, singular, masculine
 - “early rising.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśuṣe* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *nāgnaye* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāgnaye* ← *agnaye* ← *agni*
 - \[noun\], dative, singular, feminine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomo* ← *stomaḥ* ← *stoma*
 - \[noun\], nominative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *babhūtv* ← *babhūtu* ← *bhū*
 - \[verb\], singular, Perfect imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnaye* ← *agni*
 - \[noun\], dative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣmān* ← *haviṣmat*
 - \[noun\], nominative, singular, masculine
 - “sacrificing.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāsu* ← *viśva*
 - \[noun\], locative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāsu* ← *kṣā*
 - \[noun\], locative, plural, feminine
 - “Earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *joguve* ← *joguv* ← *√gu*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 - *rebho* ← *rebhaḥ* ← *rebha*
 - \[noun\], nominative, singular, masculine
 - “bard; eulogist.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jarata* ← *jarate* ← *jṛ*
 - \[verb\], singular, Present indikative
 - “sing.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣūṇāṃ* ← *ṛṣūṇām* ← *ṛṣu*
 - \[noun\], genitive, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *jūrṇir* ← *jūrṇiḥ* ← *jūrṇi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hota* ← *hotar* ← *hotṛ*
 - \[noun\], vocative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣūṇām* ← *ṛṣu*
 - \[noun\], genitive, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

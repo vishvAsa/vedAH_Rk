@@ -75,46 +75,66 @@ r̥tā́varī ← ŕ̥tāvan- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedasāsuryāya* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedasāsuryāya* ← *vedasā* ← *vedas*
 - \[noun\], accusative, dual, masculine
 - “knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedasāsuryāya* ← *asuryāya* ← *asurya*
 - \[noun\], dative, singular, neuter
 - “dignity.”
-------------------------------------------------------------------------
+
+_________
+
 - *pramahasā* ← *pramahas*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *jajānāditir* ← *jajāna* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *jajānāditir* ← *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvarī* ← *ṛtāvan*
 - \[noun\], nominative, singular, feminine
 - “law-abiding; faithful; righteous.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

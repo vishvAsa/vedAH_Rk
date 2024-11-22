@@ -114,100 +114,146 @@ vrajé ← vrajá- (nominal stem)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pañcabhir* ← *pañcabhiḥ* ← *pañcan*
 - \[noun\], instrumental, plural, masculine
 - “five; fifth; pañcan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśabhir* ← *daśabhiḥ* ← *daśan*
 - \[noun\], instrumental, plural, masculine
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaṣṭy* ← *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārabhaṃ* ← *ārabham* ← *ārabh* ← *√rabh*
 - \[verb noun\]
 - “begin; begin; undertake; do; take.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsunvatā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsunvatā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsunvatā* ← *sunvatā* ← *su*
 - \[verb noun\], instrumental, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacate* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣyatā* ← *puṣ*
 - \[verb noun\], instrumental, singular
 - “boom; grow; promote; foster.”
-------------------------------------------------------------------------
+
+_________
+
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jināti* ← *ji*
 - \[verb\], singular, Present indikative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *ved* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *ved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *amuyā* ← *adas*
 - \[noun\], instrumental, singular, feminine
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhunir* ← *dhuniḥ* ← *dhuni*
 - \[noun\], nominative, singular, masculine
 - “deafening; boisterous; noisy.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devayum* ← *devayu*
 - \[noun\], accusative, singular, masculine
 - “devout; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhajati* ← *bhaj*
 - \[verb\], singular, Present indikative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomati* ← *gomat*
 - \[noun\], locative, singular, masculine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vraje* ← *vraja*
 - \[noun\], locative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

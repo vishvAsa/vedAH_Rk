@@ -110,100 +110,144 @@ sárvāḥ ← sárva- (nominal stem)
 -   *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pravato* ← *pravataḥ* ← *pravat*
 - \[noun\], nominative, plural, feminine
 - “slope; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *nivata* ← *nivataḥ* ← *nivat*
 - \[noun\], nominative, plural, feminine
 - “depth.”
-------------------------------------------------------------------------
+
+_________
+
 - *udvata* ← *udvataḥ* ← *udvat*
 - \[noun\], nominative, plural, feminine
 - “altitude.”
-------------------------------------------------------------------------
+
+_________
+
 - *udanvatīr* ← *udanvatīḥ* ← *udanvat*
 - \[noun\], nominative, plural, feminine
 - “watery.”
-------------------------------------------------------------------------
+
+_________
+
 - *anudakāś* ← *anudakāḥ* ← *anudaka*
 - \[noun\], nominative, plural, feminine
 - “arid.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *pinvamānāḥ* ← *pinv*
 - \[verb noun\], nominative, plural
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *śivā* ← *śivāḥ* ← *śiva*
 - \[noun\], nominative, plural, feminine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
-------------------------------------------------------------------------
+
+_________
+
 - *devīr* ← *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśipadā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśipadā* ← *śipadāḥ* ← *śipada*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *bhavantu* ← *bhū*
 - \[verb\], plural, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvā* ← *sarvāḥ* ← *sarva*
 - \[noun\], nominative, plural, feminine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], nominative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *aśimidā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśimidā* ← *śimidāḥ* ← *śimidā*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *bhavantu* ← *bhū*
 - \[verb\], plural, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

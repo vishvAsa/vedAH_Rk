@@ -79,52 +79,74 @@ yát ← yá- (pronoun)
 -   *apām* ← *ap*
 - \[noun\], genitive, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *phenena* ← *phena*
 - \[noun\], instrumental, singular, masculine
 - “foam; cuttlefish bone; phenaprameha; saliva; opium; phena
     \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *namuceḥ* ← *namuci*
 - \[noun\], genitive, singular, masculine
 - “Namuci; namuci \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śira* ← *śiraḥ* ← *śiras*
 - \[noun\], accusative, singular, neuter
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrod* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrod* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *avartayaḥ* ← *vartay* ← *√vṛt*
 - \[verb\], singular, Imperfect
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajaya* ← *ajayaḥ* ← *ji*
 - \[verb\], singular, Imperfect
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛdhaḥ* ← *spṛdh*
 - \[noun\], accusative, plural, feminine
 - “adversary; enemy; rival.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

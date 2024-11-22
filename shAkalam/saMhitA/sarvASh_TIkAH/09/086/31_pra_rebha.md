@@ -105,79 +105,117 @@ rihanti ← √rih- (root)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *rebha* ← *rebhaḥ* ← *rebha*
 - \[noun\], nominative, singular, masculine
 - “bard; eulogist.”
-------------------------------------------------------------------------
+
+_________
+
 - *ety* ← *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyayaṃ* ← *avyayam* ← *avyaya*
 - \[noun\], accusative, singular, masculine
 - “sheep.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaneṣv* ← *vaneṣu* ← *vana*
 - \[noun\], locative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakradaddhariḥ* ← *cakradat* ← *krand*
 - \[verb\], singular, Plusquamperfect
 - “roar; neigh; cry; howl; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakradaddhariḥ* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītayo* ← *dhītayaḥ* ← *dhīti*
 - \[noun\], nominative, plural, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvaśānā* ← *vāvaśānāḥ* ← *vāś*
 - \[verb noun\], nominative, plural
 - “bellow; howl; sing; moo; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśuṃ* ← *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
-------------------------------------------------------------------------
+
+_________
+
 - *rihanti* ← *rih*
 - \[verb\], plural, Present indikative
 - “lick.”
-------------------------------------------------------------------------
+
+_________
+
 - *matayaḥ* ← *mati*
 - \[noun\], nominative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *panipnatam* ← *panipn* ← *√pan*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

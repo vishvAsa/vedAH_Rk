@@ -108,90 +108,132 @@ vájram ← vájra- (nominal stem)
 -   *hradaṃ* ← *hradam* ← *hrada*
 - \[noun\], accusative, singular, neuter
 - “lake; pool; hrada \[word\]; body of water; pool.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *nyṛṣanty* ← *nyṛṣanti* ← *nyṛṣ* ← *√ṛṣ*
 - \[verb\], plural, Present indikative
 - “fill; stuff.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmayo* ← *ūrmayaḥ* ← *ūrmi*
 - \[noun\], nominative, plural, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmāṇīndra* ← *brahmāṇi* ← *brahman*
 - \[noun\], nominative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmāṇīndra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāni* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhanā* ← *vardhana*
 - \[noun\], nominative, plural, neuter
 - “increasing; fortifying; promotive; prolonging.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujyaṃ* ← *yujyam* ← *yujya*
 - \[noun\], accusative, singular, neuter
 - “adequate to(p); appropriate; united; allied.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhe* ← *vṛdh*
 - \[verb\], singular, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavas* ← *śavaḥ* ← *śavas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatakṣa* ← *takṣ*
 - \[verb\], singular, Perfect indicative
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhibhūtyojasam* ← *abhibhūti*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *abhibhūtyojasam* ← *ojasam* ← *ojas*
 - \[noun\], accusative, singular, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

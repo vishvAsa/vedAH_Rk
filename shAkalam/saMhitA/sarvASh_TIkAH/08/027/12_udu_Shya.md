@@ -93,70 +93,102 @@ patayiṣṇávaḥ ← patayiṣṇú- (nominal stem)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣya* ← *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *supraṇītayo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supraṇītayo* ← *praṇītayaḥ* ← *praṇīti*
 - \[noun\], vocative, plural, masculine
 - “guidance; guidance.”
-------------------------------------------------------------------------
+
+_________
+
 - *'sthād* ← *asthāt* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrdhvo* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *vareṇyaḥ* ← *vareṇya*
 - \[noun\], nominative, singular, masculine
 - “excellent; desirable.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvipādaś* ← *dvipādaḥ* ← *dvipād*
 - \[noun\], nominative, plural, masculine
 - “biped; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *catuṣpādo* ← *catuṣpādaḥ* ← *catuṣpād*
 - \[noun\], nominative, plural, masculine
 - “quadruped.”
-------------------------------------------------------------------------
+
+_________
+
 - *arthino* ← *arthinaḥ* ← *arthin*
 - \[noun\], nominative, plural, masculine
 - “desirous; active; suppliant; busy.”
-------------------------------------------------------------------------
+
+_________
+
 - *'viśran* ← *aviśran* ← *viś*
 - \[verb\], plural, Root aorist (Ind.)
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *patayiṣṇavaḥ* ← *patayiṣṇu*
 - \[noun\], nominative, plural, masculine
 - “flying.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

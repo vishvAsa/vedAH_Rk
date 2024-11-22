@@ -89,65 +89,95 @@ viśvágūrtaḥ ← viśvágūrta- (nominal stem)
 
 -   *śevāre* ← *śevāra*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vāryā* ← *vārya*
 - \[noun\], accusative, plural, neuter
 - “wealth.”
-------------------------------------------------------------------------
+
+_________
+
 - *puru*
 - \[noun\], accusative, singular, neuter
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *martāya* ← *marta*
 - \[noun\], dative, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāsate* ← *rā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvagūrto* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvagūrto* ← *gūrtaḥ* ← *gur*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣṭutaḥ* ← *ariṣṭuta*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

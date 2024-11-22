@@ -103,84 +103,122 @@ yátra ← yátra (invariable)
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyan* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *paraśūṃr* ← *paraśūn* ← *paraśu*
 - \[noun\], accusative, plural, masculine
 - “ax.”
-------------------------------------------------------------------------
+
+_________
+
 - *abibhran* ← *bhṛ*
 - \[verb\], plural, Imperfect
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanā* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛścanto* ← *vṛścantaḥ* ← *vraśc*
 - \[verb noun\], nominative, plural
 - “cleave; fell; cut off; hew.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *viḍbhir* ← *viḍbhiḥ* ← *viś*
 - \[noun\], instrumental, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyan* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudrvaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudrvaṃ* ← *drvam* ← *dru*
 - \[noun\], accusative, singular, masculine
 - “wood; tree; dru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhato* ← *dadhataḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣaṇāsu* ← *vakṣaṇā*
 - \[noun\], locative, plural, feminine
 - “abdomen; udder; inside.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛpīṭam* ← *kṛpīṭa*
 - \[noun\], nominative, singular, neuter
 - “forest; forest.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *dahanti* ← *dah*
 - \[verb\], plural, Present indikative
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

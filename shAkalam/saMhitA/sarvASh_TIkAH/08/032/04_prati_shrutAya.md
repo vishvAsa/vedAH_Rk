@@ -79,50 +79,74 @@ suśiprám ← suśiprá- (nominal stem)
 -   *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutāya* ← *śru*
 - \[verb noun\], dative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣat* ← *dhṛṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “dare; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *tūrṇāśaṃ* ← *tūrṇāśam* ← *tūrṇāśa*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *girer* ← *gireḥ* ← *giri*
 - \[noun\], ablative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśipram* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśipram* ← *śipram* ← *śiprā*
 - \[noun\], accusative, singular, masculine
 - “lip; śiprā.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

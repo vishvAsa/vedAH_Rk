@@ -73,46 +73,66 @@ mātúḥ ← mātár- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrātṛtvaṃ* ← *bhrātṛ*
 - \[noun\], masculine
 - “brother; bhrātṛ; relative.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrātṛtvaṃ* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānavo* ← *sudānavaḥ* ← *sudānu*
 - \[noun\], vocative, plural, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dha* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvitā*
 - \[adverb\]
 - “again.”
-------------------------------------------------------------------------
+
+_________
+
 - *samānyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *mātur* ← *mātuḥ* ← *mātṛ*
 - \[noun\], genitive, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *garbhe* ← *garbha*
 - \[noun\], locative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharāmahe* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

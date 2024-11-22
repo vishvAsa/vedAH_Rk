@@ -104,98 +104,142 @@ tám ← sá- ~ tá- (pronoun)
 
 -   *duro* ← *duraḥ* ← *dura*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *dura* ← *duraḥ* ← *dura*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *gor* ← *goḥ* ← *go*
 - \[noun\], genitive, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *duro* ← *duraḥ* ← *dura*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yavasya* ← *yava*
 - \[noun\], genitive, singular, masculine
 - “barley; yava; barleycorn; yava \[word\]; yava; yavakṣāra; grain.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasuna* ← *vasunaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *inas* ← *ina*
 - \[noun\], nominative, singular, masculine
 - “mighty; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣānaraḥ* ← *śikṣā*
 - \[noun\], feminine
 - “teaching; study; lesson; phonetics; learning; Śikṣā; art.”
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣānaraḥ* ← *naraḥ* ← *nara*
 - \[noun\], nominative, singular, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
-------------------------------------------------------------------------
+
+_________
+
 - *pradivo* ← *pradivaḥ* ← *pradiv*
 - \[noun\], ablative, singular, masculine
 - “age-old; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *akāmakarśanaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *akāmakarśanaḥ* ← *kāma*
 - \[noun\], masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 - *akāmakarśanaḥ* ← *karśanaḥ* ← *karśana*
 - \[noun\], nominative, singular, masculine
 - “distressing; disappointing.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhibhyas* ← *sakhibhyaḥ* ← *sakhi*
 - \[noun\], dative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇīmasi* ← *gṛ*
 - \[verb\], plural, Present optative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

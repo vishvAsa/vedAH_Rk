@@ -114,86 +114,128 @@ míthu ← míthu (invariable)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapat* ← *tap*
 - \[verb\], singular, Present injunctive
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
-------------------------------------------------------------------------
+
+_________
+
 - *priya* ← *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātmāpiyantam* ← *ātmā* ← *ātman*
 - \[noun\], nominative, singular, masculine
 - “self; nature; Ātman; mind; soul; self; body; character; ātman
     \[word\]; person; life; peculiarity.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātmāpiyantam* ← *apiyantam* ← *apī* ← *√i*
 - \[verb noun\], accusative, singular
 - “repair to; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhitis* ← *svadhitiḥ* ← *svadhiti*
 - \[noun\], nominative, singular, feminine
 - “ax; knife.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanva* ← *tanve* ← *tanū*
 - \[noun\], dative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhipat* ← *sthāpay* ← *√sthā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “put; fill into; soak; stow; fixate; install; explain; set;
     construct; tie.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛdhnur* ← *gṛdhnuḥ* ← *gṛdhnu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aviśastātihāya* ← *aviśastā* ← *aviśastṛ*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aviśastātihāya* ← *atihāya* ← *atihā* ← *√hā*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *chidrā* ← *chidra*
 - \[noun\], accusative, plural, neuter
 - “pierced.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātrāṇy* ← *gātrāṇi* ← *gātra*
 - \[noun\], accusative, plural, neuter
 - “body part; body; limb; part; largeness.”
-------------------------------------------------------------------------
+
+_________
+
 - *asinā* ← *asi*
 - \[noun\], instrumental, singular, masculine
 - “sword; knife; knife.”
-------------------------------------------------------------------------
+
+_________
+
 - *mithū*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -204,7 +246,9 @@ míthu ← míthu (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

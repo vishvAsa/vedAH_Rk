@@ -102,77 +102,113 @@ yāhi ← √yā- 1 (root)
 -   *purūṇi* ← *puru*
 - \[noun\], nominative, plural, neuter
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *savanā* ← *savana*
 - \[noun\], nominative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
-------------------------------------------------------------------------
+
+_________
+
 - *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmāṇi* ← *brahman*
 - \[noun\], nominative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandan* ← *mad*
 - \[verb\], plural, Present injunctive
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇatām* ← *gṛ*
 - \[verb noun\], genitive, plural
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣīṇām* ← *ṛṣi*
 - \[noun\], genitive, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *āghoṣann* ← *āghoṣan* ← *āghuṣ* ← *√ghuṣ*
 - \[verb\], plural, Present injunctive
 - “listen.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahūtiṃ* ← *sahūtim* ← *sahūti*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *tiro* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāṃ* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “Viśvakarman; Viśvedevās; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcato* ← *arcataḥ* ← *arc*
 - \[verb noun\], accusative, plural
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhy* ← *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
 - “approaching; facing; less.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

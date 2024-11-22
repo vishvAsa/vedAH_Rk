@@ -78,47 +78,69 @@ yā́mahūtiṣu ← yā́mahūti- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvābhir* ← *viśvābhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *priyamedhā* ← *priyamedhāḥ* ← *priyamedha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ahūṣata* ← *hvā*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājantāv* ← *rājantau* ← *rāj*
 - \[verb noun\], accusative, dual
 - “govern; shine; glitter; direct.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvarāṇām* ← *adhvara*
 - \[noun\], genitive, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmahūtiṣu* ← *yāma*
 - \[noun\], masculine
 - “prahara; watch; travel; path.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmahūtiṣu* ← *hūtiṣu* ← *hūti*
 - \[noun\], locative, plural, feminine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

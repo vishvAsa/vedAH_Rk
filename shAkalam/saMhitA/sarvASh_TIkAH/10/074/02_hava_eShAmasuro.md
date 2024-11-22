@@ -102,68 +102,100 @@ vā́rebhiḥ ← vā́ra- 2 (nominal stem)
 -   *hava* ← *have* ← *hava*
 - \[noun\], locative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asuro* ← *asuraḥ* ← *asura*
 - \[noun\], nominative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣata* ← *nakṣ*
 - \[verb\], singular, Present injunctive
 - “reach; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāṃ* ← *dyām* ← *div*
 - \[noun\], accusative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravasyatā* ← *śravasy*
 - \[verb noun\], instrumental, singular
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṃsata* ← *niṃs*
 - \[verb\], singular, Imperfect
 - “kiss.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣāṇā* ← *cakṣāṇāḥ* ← *cakṣ*
 - \[verb noun\], nominative, plural
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vārebhiḥ* ← *vāra*
 - \[noun\], instrumental, plural, masculine
 - “time; day of the week; turn.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇavanta* ← *kṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -174,12 +206,16 @@ vā́rebhiḥ ← vā́ra- 2 (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaiḥ* ← *sva*
 - \[noun\], instrumental, plural, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -69,35 +69,51 @@ visárjane ← visárjana- (nominal stem)
 
 -   *abhyāram*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrayo* ← *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣiktam* ← *niṣic* ← *√sic*
 - \[verb noun\], nominative, singular
 - “submerge; sprinkle; pour; immerse; water.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣkare* ← *puṣkara*
 - \[noun\], locative, singular, neuter
 - “lotus; Puṣkara; sky; puṣkara; pericarp; puṣkara \[word\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], nominative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *avatasya* ← *avata*
 - \[noun\], genitive, singular, masculine
 - “well.”
-------------------------------------------------------------------------
+
+_________
+
 - *visarjane* ← *visarjana*
 - \[noun\], locative, singular, neuter
 - “gift.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

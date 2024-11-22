@@ -96,75 +96,109 @@ vartayanti ← √vr̥t- (root)
 -   *ṣaṭtriṃśāṃś* ← *ṣaṭtriṃśān* ← *ṣaṭtriṃśa*
 - \[noun\], accusative, plural, masculine
 - “thirty-sixth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *caturaḥ* ← *catur*
 - \[noun\], accusative, plural, masculine
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kalpayantaś* ← *kalpayantaḥ* ← *kalpay* ← *√kﾱp*
 - \[verb noun\], nominative, plural
 - “prepare; assign; create; produce; fix; restore; order; prepare;
     imitate; restore; make; treat.”
-------------------------------------------------------------------------
+
+_________
+
 - *chandāṃsi* ← *chandas*
 - \[noun\], accusative, plural, neuter
 - “Veda; meter; chandas \[word\]; hymn; meter; meter.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhata* ← *dadhataḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādvādaśam*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vimāya* ← *vimā* ← *√mā*
 - \[verb noun\]
 - “arrange; distribute; barter; measure; fixate.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavayo* ← *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣarksāmābhyām* ← *manīṣā*
 - \[noun\], instrumental, singular, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣarksāmābhyām* ← *ṛc*
 - \[noun\], feminine
 - “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣarksāmābhyām* ← *sāmābhyām* ← *sāman*
 - \[noun\], instrumental, dual, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartayanti* ← *vartay* ← *√vṛt*
 - \[verb\], plural, Present indikative
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

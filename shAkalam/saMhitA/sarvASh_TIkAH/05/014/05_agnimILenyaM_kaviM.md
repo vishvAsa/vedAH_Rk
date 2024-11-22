@@ -75,45 +75,65 @@ vétu ← √vī- 1 (root)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *īﾱenyaṃ* ← *īḍenyam* ← *īḍ*
 - \[verb noun\], accusative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaviṃ* ← *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtapṛṣṭhaṃ* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtapṛṣṭhaṃ* ← *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], accusative, singular, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyata* ← *sapary*
 - \[verb\], plural, Present imperative
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *vetu* ← *vī*
 - \[verb\], singular, Present imperative
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇavaddhavam* ← *śṛṇavat* ← *śru*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇavaddhavam* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

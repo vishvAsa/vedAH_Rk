@@ -79,51 +79,75 @@ ví ← ví (invariable)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomatīr* ← *gomatīḥ* ← *gomat*
 - \[noun\], accusative, plural, feminine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣa* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātīr* ← *sātīḥ* ← *sāti*
 - \[noun\], accusative, plural, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *aharvidā* ← *ahar*
 - \[noun\], neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *aharvidā* ← *vidā* ← *vid*
 - \[noun\], vocative, dual, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *sitam* ← *si*
 - \[verb\], dual, Aorist imperative
 - “tie.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

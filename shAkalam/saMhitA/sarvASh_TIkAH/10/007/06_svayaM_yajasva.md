@@ -105,37 +105,53 @@ yajasva ← √yaj- (root)
 -   *svayaṃ* ← *svayam*
 - \[adverb\]
 - “personally; spontaneously; svayam \[word\]; voluntarily.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajasva* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *kiṃ* ← *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pākaḥ* ← *pāka*
 - \[noun\], nominative, singular, masculine
 - “Pāka; young.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇavad* ← *kṛṇavat* ← *kṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -146,56 +162,80 @@ yajasva ← √yaj- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *apracetāḥ* ← *apracetas*
 - \[noun\], nominative, singular, masculine
 - “anserine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathāyaja* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathāyaja* ← *ayajaḥ* ← *yaj*
 - \[verb\], singular, Imperfect
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtubhir* ← *ṛtubhiḥ* ← *ṛtu*
 - \[noun\], instrumental, plural, masculine
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajasva* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujāta* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujāta* ← *jāta* ← *jan*
 - \[verb noun\], vocative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

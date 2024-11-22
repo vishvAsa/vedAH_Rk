@@ -108,84 +108,124 @@ váruṇaḥ ← váruṇa- (nominal stem)
 -   *ebhir* ← *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāhabhir* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāhabhir* ← *ahabhiḥ* ← *aha*
 - \[noun\], instrumental, plural, neuter
 - “day; aha \[word\]; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśasya* ← *daśasy*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *durmitrāso* ← *durmitrāsaḥ* ← *durmitra*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣitayaḥ* ← *kṣiti*
 - \[noun\], nominative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavante* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *yac* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *anṛtam* ← *anṛta*
 - \[noun\], accusative, singular, neuter
 - “falsehood; lying; lie; cheat.”
-------------------------------------------------------------------------
+
+_________
+
 - *anenā* ← *anenāḥ* ← *anenas*
 - \[noun\], nominative, singular, masculine
 - “blameless; impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvitā*
 - \[adverb\]
 - “again.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyī* ← *māyin*
 - \[noun\], nominative, singular, masculine
 - “artful; charming; crafty; deceptive.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāt* ← *sā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “tie.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

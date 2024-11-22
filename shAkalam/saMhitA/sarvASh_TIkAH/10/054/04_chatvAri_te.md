@@ -96,61 +96,87 @@ yébhiḥ ← yá- (pronoun)
 -   *catvāri* ← *catur*
 - \[noun\], nominative, plural, neuter
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *asuryāṇi* ← *asurya*
 - \[noun\], nominative, plural, neuter
 - “āsura.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāmādābhyāni* ← *nāmā* ← *nāman*
 - \[noun\], nominative, plural, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāmādābhyāni* ← *adābhyāni* ← *adābhya*
 - \[noun\], nominative, plural, neuter
 - “trustworthy; disabused(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *mahiṣasya* ← *mahiṣa*
 - \[noun\], genitive, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅga*
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāni* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *vitse* ← *vid*
 - \[verb\], singular, Present indikative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *karmāṇi* ← *karman*
 - \[noun\], accusative, plural, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -158,11 +184,15 @@ yébhiḥ ← yá- (pronoun)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavañ* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cakartha* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -173,7 +203,9 @@ yébhiḥ ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,84 +105,122 @@ viśanti ← √viś- (root)
 -   *atyam* ← *atya*
 - \[noun\], accusative, singular, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *kalaśe* ← *kalaśa*
 - \[noun\], locative, singular, masculine
 - “jar.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], nominative, plural, feminine
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣipaḥ* ← *kṣip*
 - \[noun\], nominative, plural, feminine
 - “finger.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprāṇām* ← *vipra*
 - \[noun\], genitive, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *matayo* ← *matayaḥ* ← *mati*
 - \[noun\], nominative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāca* ← *vācaḥ* ← *vāc*
 - \[noun\], nominative, plural, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānā* ← *pavamānāḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṣanti* ← *ṛṣ*
 - \[verb\], plural, Present indikative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *endraṃ* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *endraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśanti* ← *viś*
 - \[verb\], plural, Present indikative
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *madirāsa* ← *madirāsaḥ* ← *madira*
 - \[noun\], nominative, plural, masculine
 - “intoxicant.”
-------------------------------------------------------------------------
+
+_________
+
 - *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

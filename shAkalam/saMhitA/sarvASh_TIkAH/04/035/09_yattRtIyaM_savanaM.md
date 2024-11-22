@@ -96,24 +96,34 @@ sám ← sám (invariable)
 -   *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛtīyaṃ* ← *tṛtīyam* ← *tṛtīya*
 - \[noun\], accusative, singular, neuter
 - “third; neuter; tṛtīya \[word\]; homosexual.”
-------------------------------------------------------------------------
+
+_________
+
 - *savanaṃ* ← *savanam* ← *savana*
 - \[noun\], accusative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratnadheyam* ← *ratna*
 - \[noun\], neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratnadheyam* ← *dheyam* ← *dheya*
 - \[noun\], accusative, singular, neuter
 - “giving; distribution.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇudhvaṃ* ← *akṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -124,63 +134,91 @@ sám ← sám (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapasyā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapasyā* ← *apasyā*
 - \[noun\], instrumental, singular, feminine
 - “activity.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhastāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhastāḥ* ← *hastāḥ* ← *hasta*
 - \[noun\], vocative, plural, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], vocative, plural, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣiktaṃ* ← *pariṣiktam* ← *pariṣic* ← *√sic*
 - \[verb noun\], nominative, singular
 - “sprinkle; effuse; rub.”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *madebhir* ← *madebhiḥ* ← *mada*
 - \[noun\], instrumental, plural, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *indriyebhiḥ* ← *indriya*
 - \[noun\], instrumental, plural, masculine
 - “aindra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibadhvam* ← *pā*
 - \[verb\], plural, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

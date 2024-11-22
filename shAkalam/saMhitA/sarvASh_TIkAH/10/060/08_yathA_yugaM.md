@@ -98,67 +98,97 @@ u ← u (invariable)
 -   *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yugaṃ* ← *yugam* ← *yuga*
 - \[noun\], accusative, singular, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
-------------------------------------------------------------------------
+
+_________
+
 - *varatrayā* ← *varatrā*
 - \[noun\], instrumental, singular, feminine
 - “cord; strap.”
-------------------------------------------------------------------------
+
+_________
+
 - *nahyanti* ← *nah*
 - \[verb\], plural, Present indikative
 - “tie; envelop; tie.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharuṇāya* ← *dharuṇa*
 - \[noun\], dative, singular, neuter
 - “prop; foundation.”
-------------------------------------------------------------------------
+
+_________
+
 - *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *dādhāra* ← *dhṛ*
 - \[verb\], singular, Perfect indicative
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mano* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvātave* ← *jīvātu*
 - \[noun\], dative, singular, feminine
 - “life.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛtyave* ← *mṛtyu*
 - \[noun\], dative, singular, masculine
 - “death; Yama; māraṇa; Mṛtyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *'tho* ← *atho*
 - \[adverb\]
 - “now; but; furthermore.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣṭatātaye* ← *ariṣṭatāti*
 - \[noun\], dative, singular, feminine
 - “safeness.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,79 +102,115 @@ yahváḥ ← yahvá- (nominal stem)
 -   *akro* ← *akraḥ* ← *akra*
 - \[noun\], nominative, singular, masculine
 - “banner.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *babhriḥ* ← *babhri*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *samithe* ← *samitha*
 - \[noun\], locative, singular, neuter
 - “battle; conflict.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahīnāṃ* ← *mahīnām* ← *mahī*
 - \[noun\], genitive, plural, feminine
 - “Earth; floor; Earth; land; real property; heaven and earth; space;
     Mahī; soil; earth; estate; area.”
-------------------------------------------------------------------------
+
+_________
+
 - *didṛkṣeyaḥ* ← *didṛkṣeya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sūnave* ← *sūnu*
 - \[noun\], dative, singular, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāṛjīkaḥ* ← *bhāṛjīka*
 - \[noun\], nominative, singular, masculine
 - “shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *usriyā* ← *usriyāḥ* ← *usriyā*
 - \[noun\], accusative, plural, feminine
 - “cow; dairy product.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitā* ← *janitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; janitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jajānāpāṃ* ← *jajāna* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *jajānāpāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *garbho* ← *garbhaḥ* ← *garbha*
 - \[noun\], nominative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛtamo* ← *nṛtamaḥ* ← *nṛtama*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yahvo* ← *yahvaḥ* ← *yahva*
 - \[noun\], nominative, singular, masculine
 - “youngest; youthful; active.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -107,86 +107,126 @@ sūnŕ̥tāḥ ← sūnŕ̥ta- (nominal stem)
 
 -   *sadhrīcīḥ* ← *sadhryañc*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sindhum* ← *sindhu*
 - \[noun\], accusative, singular, feminine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *uśatīr* ← *uśatīḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivāyan* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivāyan* ← *āyan* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanāj* ← *sanāt*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *jāra* ← *jāraḥ* ← *jāra*
 - \[noun\], nominative, singular, masculine
 - “fancy man.”
-------------------------------------------------------------------------
+
+_________
+
 - *āritaḥ* ← *ār*
 - \[verb noun\], nominative, singular
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrbhid*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsām* ← *idam*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārthivā* ← *pārthiva*
 - \[noun\], nominative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūny* ← *vasūni* ← *vasu*
 - \[noun\], nominative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagmuḥ* ← *gam*
 - \[verb\], plural, Perfect indicative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛtā* ← *sūnṛtāḥ* ← *sūnṛtā*
 - \[noun\], nominative, plural, feminine
 - “liberality.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,94 +102,136 @@ prathamā́ḥ ← prathamá- (nominal stem)
 -   *etac* ← *etat* ← *etad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvo* ← *tvaḥ* ← *tva*
 - \[noun\], nominative, singular, masculine
 - “many a(a); one.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciketad* ← *ciketat* ← *cit*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyo* ← *satyaḥ* ← *satya*
 - \[noun\], nominative, singular, masculine
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *mantraḥ* ← *mantra*
 - \[noun\], nominative, singular, masculine
 - “mantra; Mantra; consultation; advice; consultation; mantra
     \[word\]; speech; plan.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaviśasta* ← *kavi*
 - \[noun\], masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaviśasta* ← *śastaḥ* ← *śaṃs*
 - \[verb noun\], nominative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛghāvān* ← *ṛghāvat*
 - \[noun\], nominative, singular, masculine
 - “baleful.”
-------------------------------------------------------------------------
+
+_________
+
 - *triraśriṃ* ← *triraśrim* ← *triraśri*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *caturaśrir* ← *catur*
 - \[noun\]
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *caturaśrir* ← *aśriḥ* ← *asra*
 - \[noun\], nominative, singular, masculine
 - “blood; corner; tear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *devanido* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devanido* ← *nidaḥ* ← *nid*
 - \[noun\], nominative, plural, masculine
 - “derision; scoffer; contempt.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamā* ← *prathamāḥ* ← *prathama*
 - \[noun\], nominative, plural, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajūryan* ← *jṛ*
 - \[verb\], plural, Imperfect
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

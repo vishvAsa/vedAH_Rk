@@ -102,76 +102,112 @@ váyaḥ ← váyas- 2 (nominal stem)
 -   *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śriyam* ← *śrī*
 - \[noun\], accusative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣāvṛṇīta* ← *yoṣā*
 - \[noun\], nominative, singular, feminine
 - “woman; puppet; daughter.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣāvṛṇīta* ← *vṛṇīta* ← *vṛ*
 - \[verb\], singular, Present optative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūro* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paritakmyāyām* ← *paritakmyā*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayantam* ← *devay*
 - \[verb noun\], accusative, singular
 - “solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *avathaḥ* ← *av*
 - \[verb\], dual, Present indikative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghraṃsam* ← *ghraṃsa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *omanā* ← *oman*
 - \[noun\], instrumental, singular, masculine
 - “relief; aid.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayo* ← *vayaḥ* ← *vayas*
 - \[noun\], nominative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāt* ← *gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

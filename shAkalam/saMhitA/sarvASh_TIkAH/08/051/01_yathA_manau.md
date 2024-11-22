@@ -87,54 +87,80 @@ sácā ← sácā (invariable)
 -   *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *manau* ← *manu*
 - \[noun\], locative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāṃvaraṇau* ← *sāṃvaraṇi*
 - \[noun\], locative, singular, masculine
 - “Manu.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāpibaḥ* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāpibaḥ* ← *apibaḥ* ← *pā*
 - \[verb\], singular, Imperfect
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *nīpātithau* ← *nīpātithi*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *medhyātithau* ← *medhyātithi*
 - \[noun\], locative, singular, masculine
 - “Kaṇva.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣṭigau* ← *puṣṭigu*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śruṣṭigau* ← *śruṣṭigu*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

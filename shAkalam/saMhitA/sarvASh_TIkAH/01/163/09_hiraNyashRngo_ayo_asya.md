@@ -99,90 +99,130 @@ yáḥ ← yá- (pronoun)
 -   *hiraṇyaśṛṅgo* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyaśṛṅgo* ← *śṛṅgaḥ* ← *śṛṅga*
 - \[noun\], nominative, singular, masculine
 - “peak; horn; tusk; śṛṅga \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *'yo* ← *ayaḥ* ← *ayas*
 - \[noun\], nominative, singular, neuter
 - “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
     weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *pādā* ← *pāda*
 - \[noun\], nominative, dual, masculine
 - “foot; one-fourth; beam; pāda; foot; foundation; pāda \[word\]; leg;
     leg; animal foot; step; foot; footfall; verse.”
-------------------------------------------------------------------------
+
+_________
+
 - *manojavā* ← *manaḥ* ← *manas*
 - \[noun\], neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *manojavā* ← *javāḥ* ← *javas*
 - \[noun\], nominative, singular, masculine
 - “speed.”
-------------------------------------------------------------------------
+
+_________
+
 - *avara* ← *avaraḥ* ← *avara*
 - \[noun\], nominative, singular, masculine
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviradyam* ← *haviḥ* ← *havis*
 - \[noun\], neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *haviradyam* ← *adyam* ← *adya*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *āyan* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *arvantam* ← *arvant*
 - \[noun\], accusative, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamo* ← *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhyatiṣṭhat* ← *adhiṣṭhā* ← *√sthā*
 - \[verb\], singular, Imperfect
 - “reach; board; repose on; govern; sit down; stand; prevail.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

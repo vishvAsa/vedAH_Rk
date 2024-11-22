@@ -87,69 +87,99 @@ ghr̥tébhiḥ ← ghr̥tá- (nominal stem)
 -   *tigmajambhāya* ← *tigma*
 - \[noun\]
 - “sharp; pointed; fiery.”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmajambhāya* ← *jambhāya* ← *jambha*
 - \[noun\], dative, singular, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
-------------------------------------------------------------------------
+
+_________
+
 - *taruṇāya* ← *taruṇa*
 - \[noun\], dative, singular, masculine
 - “matutinal; young; green; immature; tender; recent; fresh; tender.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājate* ← *rāj*
 - \[verb noun\], dative, singular
 - “govern; shine; glitter; direct.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayo* ← *prayaḥ* ← *prayas*
 - \[noun\], accusative, singular, neuter
 - “food; dainty; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyasy* ← *gāyasi* ← *gā*
 - \[verb\], singular, Present indikative
 - “sing; praise; jap; recite; describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnaye* ← *agni*
 - \[noun\], dative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *piṃśate* ← *piś*
 - \[verb\], singular, Present indikative
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛtābhiḥ* ← *sūnṛtā*
 - \[noun\], instrumental, plural, feminine
 - “liberality.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīryam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīryam* ← *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtebhir* ← *ghṛtebhiḥ* ← *ghṛta*
 - \[noun\], instrumental, plural, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhutaḥ* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

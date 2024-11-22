@@ -105,72 +105,104 @@ sū́ryasya ← sū́rya- (nominal stem)
 -   *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *druho* ← *druhaḥ* ← *druh*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāyu* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāyu* ← *āyu*
 - \[noun\], nominative, singular, neuter
 - “life; life; age.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrasya* ← *vajra*
 - \[noun\], genitive, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *patane* ← *patana*
 - \[noun\], locative, singular, neuter
 - “fall; drop; spill; decline; ruin; flight; pātana; cut; spontaneous
     abortion; shooting; jump.”
-------------------------------------------------------------------------
+
+_________
+
 - *pādi* ← *pad*
 - \[verb\], singular, Aorist passive
 - “fall.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣṇaḥ* ← *śuṣṇa*
 - \[noun\], nominative, singular, masculine
 - “Śuṣṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *uru*
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣa* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarathaṃ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *sārathaye* ← *sārathi*
 - \[noun\], dative, singular, masculine
 - “charioteer; sārathi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kar* ← *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -181,25 +213,35 @@ sū́ryasya ← sū́rya- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *kutsāya* ← *kutsa*
 - \[noun\], dative, singular, masculine
 - “Kutsa; kutsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

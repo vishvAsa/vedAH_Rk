@@ -90,74 +90,108 @@ turāsaḥ ← turá- 1 (nominal stem)
 -   *vidyudrathā* ← *vidyut*
 - \[noun\], feminine
 - “lightning; Vidyut; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyudrathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruta* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣṭimanto* ← *ṛṣṭimantaḥ* ← *ṛṣṭimat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *maryā* ← *maryāḥ* ← *marya*
 - \[noun\], nominative, plural, masculine
 - “young buck; boyfriend.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtajātā* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtajātā* ← *jātāḥ* ← *jan*
 - \[verb noun\], nominative, plural
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayāsaḥ* ← *ayās*
 - \[noun\], nominative, plural, masculine
 - “undaunted; irrepressible; audacious.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvatī*
 - \[noun\], nominative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇavan* ← *śru*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyāso* ← *yajñiyāsaḥ* ← *yajñiya*
 - \[noun\], nominative, plural, masculine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhātā* ← *dhā*
 - \[verb\], plural, Aorist imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahavīraṃ* ← *saha*
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahavīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *turāsaḥ* ← *tura*
 - \[noun\], vocative, plural, masculine
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -93,69 +93,99 @@ vāvr̥dhé ← √vr̥dh- (root)
 -   *prāgnaye* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāgnaye* ← *agnaye* ← *agni*
 - \[noun\], dative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavase* ← *tavas*
 - \[noun\], dative, singular, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharadhvaṃ* ← *bharadhvam* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *giraṃ* ← *giram* ← *gir*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *arataye* ← *arati*
 - \[noun\], dative, singular, masculine
 - “charioteer.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśveṣām* ← *viśva*
 - \[noun\], genitive, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtānām* ← *amṛta*
 - \[noun\], genitive, plural, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaiśvānaro* ← *vaiśvānaraḥ* ← *vaiśvānara*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhe* ← *vṛdh*
 - \[verb\], singular, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāgṛvadbhiḥ* ← *jāgṛ*
 - \[verb noun\], instrumental, plural
 - “wake; watch; awaken; wake up; oversee.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

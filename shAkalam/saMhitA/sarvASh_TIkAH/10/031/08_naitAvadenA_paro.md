@@ -108,56 +108,80 @@ yát ← yá- (pronoun)
 -   *naitāvad* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naitāvad* ← *etāvat*
 - \[noun\], nominative, singular, neuter
 - “such(a); such(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *enā*
 - \[adverb\]
 - “thus.”
-------------------------------------------------------------------------
+
+_________
+
 - *paro* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *asty* ← *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣā* ← *ukṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvāpṛthivī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bibharti* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvacam* ← *tvac*
 - \[noun\], accusative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavitraṃ* ← *pavitram* ← *pavitra*
 - \[noun\], accusative, singular, neuter
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇuta* ← *kṛ*
 - \[verb\], singular, Present injunctive
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -168,36 +192,52 @@ yát ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhāvān* ← *svadhāvat*
 - \[noun\], nominative, singular, masculine
 - “autonomous; independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *harito* ← *haritaḥ* ← *harit*
 - \[noun\], nominative, plural, masculine
 - “pale; green; bay; yellow.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

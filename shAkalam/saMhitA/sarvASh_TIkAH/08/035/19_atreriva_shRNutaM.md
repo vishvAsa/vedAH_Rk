@@ -87,65 +87,95 @@ tiróahnyam ← tiróahnya- (nominal stem)
 -   *atrer* ← *atreḥ* ← *atri*
 - \[noun\], genitive, singular, masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇutam* ← *śru*
 - \[verb\], dual, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyastutiṃ* ← *pūrvya*
 - \[noun\]
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyastutiṃ* ← *stutim* ← *stuti*
 - \[noun\], accusative, singular, feminine
 - “praise; encomium; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyāvāśvasya* ← *śyāvāśva*
 - \[noun\], genitive, singular, masculine
 - “Śyāvāśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunvato* ← *sunvataḥ* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *madacyutā* ← *mada*
 - \[noun\], masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *madacyutā* ← *cyutā* ← *cyut*
 - \[noun\], vocative, dual, masculine
 - “shaking; dropping.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣasā* ← *sajoṣasau* ← *sajoṣas*
 - \[noun\], nominative, dual, masculine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasā* ← *uṣas*
 - \[noun\], instrumental, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryeṇa* ← *sūrya*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāśvinā* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāśvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiroahnyam* ← *tiroahnya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

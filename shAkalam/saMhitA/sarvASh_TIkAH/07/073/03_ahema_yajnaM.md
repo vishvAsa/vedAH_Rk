@@ -99,73 +99,107 @@ vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)
 -   *ahema* ← *hi*
 - \[verb\], plural, Root aorist (Ind.)
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathām* ← *pathin*
 - \[noun\], genitive, plural, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *urāṇā* ← *urāṇāḥ* ← *vṛ*
 - \[verb noun\], nominative, plural
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvṛktiṃ* ← *suvṛktim* ← *suvṛkti*
 - \[noun\], accusative, singular, feminine
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣethām* ← *juṣ*
 - \[verb\], dual, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *śruṣṭīveva* ← *śruṣṭīvā* ← *śruṣṭīvan*
 - \[noun\], nominative, singular, masculine
 - “obedient; heedful; attentive.”
-------------------------------------------------------------------------
+
+_________
+
 - *śruṣṭīveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *preṣito* ← *preṣitaḥ* ← *preṣ* ← *√iṣ*
 - \[verb noun\], nominative, singular
 - “order; send; impel; propel.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *abodhi* ← *budh*
 - \[verb\], singular, Aorist passive
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomair* ← *stomaiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jaramāṇo* ← *jaramāṇaḥ* ← *jṛ*
 - \[verb noun\], nominative, singular
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭhaḥ* ← *vasiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

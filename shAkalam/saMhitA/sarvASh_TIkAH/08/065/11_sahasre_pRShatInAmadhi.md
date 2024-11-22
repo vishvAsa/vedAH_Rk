@@ -76,46 +76,66 @@ híraṇyam ← híraṇya- (nominal stem)
 -   *sahasre* ← *sahasra*
 - \[noun\], locative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣatīnām* ← *pṛṣatī*
 - \[noun\], genitive, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ścandram* ← *ścandra*
 - \[noun\], accusative, singular, neuter
 - “shining; glistening; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthu*
 - \[noun\], accusative, singular, neuter
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukraṃ* ← *śukram* ← *śukra*
 - \[noun\], accusative, singular, neuter
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyam* ← *hiraṇya*
 - \[noun\], accusative, singular, neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

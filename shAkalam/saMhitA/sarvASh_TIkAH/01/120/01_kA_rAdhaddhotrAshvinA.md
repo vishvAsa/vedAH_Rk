@@ -82,50 +82,74 @@ vidhāti ← √vidh- (root)
 -   *kā* ← *ka*
 - \[noun\], nominative, singular, feminine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhaddhotrāśvinā* ← *rādhat* ← *rādh*
 - \[verb\], singular, Aorist conj./subj.
 - “thrive; boom; succeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhaddhotrāśvinā* ← *hotrā*
 - \[noun\], nominative, singular, feminine
 - “hotrā \[word\]; Hautra.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhaddhotrāśvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *joṣa* ← *joṣaḥ* ← *joṣa*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ubhayoḥ* ← *ubhaya*
 - \[noun\], genitive, dual, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *kathā*
 - \[adverb\]
 - “how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhāty* ← *vidhāti* ← *vidh*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “worship; offer.”
-------------------------------------------------------------------------
+
+_________
+
 - *apracetāḥ* ← *apracetas*
 - \[noun\], nominative, singular, masculine
 - “anserine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

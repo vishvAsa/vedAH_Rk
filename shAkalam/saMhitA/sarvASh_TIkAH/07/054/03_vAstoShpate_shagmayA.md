@@ -105,44 +105,64 @@ yūyám ← tvám (pronoun)
 -   *vāstoṣpate* ← *vāstoṣpati*
 - \[noun\], vocative, singular, masculine
 - “Vāstoṣpati; Indra; vāstoṣpati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śagmayā* ← *śagma*
 - \[noun\], instrumental, singular, feminine
 - “powerful; reliable; competent.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃsadā* ← *saṃsad*
 - \[noun\], instrumental, singular, feminine
 - “assembly; court; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakṣīmahi* ← *sac*
 - \[verb\], plural, Aorist optative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṇvayā* ← *raṇva*
 - \[noun\], instrumental, singular, feminine
 - “agreeable; happy; delightful; gay.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātumatyā* ← *gātumat*
 - \[noun\], instrumental, singular, feminine
 - “promotive.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣema* ← *kṣeme* ← *kṣema*
 - \[noun\], locative, singular, neuter
 - “ease; happiness; peace; tranquillity; kṣema \[word\]; respite;
     rest.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoge* ← *yoga*
 - \[noun\], locative, singular, masculine
 - “method; application; yoga; remedy; mix; treatment; mixture;
@@ -151,36 +171,52 @@ yūyám ← tvám (pronoun)
     therapy; enterprise; addition; undertaking; performance; marriage;
     yoke; yoga \[word\]; art; combination; assortment; confluence;
     constellation; relationship; connection; agent; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *varaṃ* ← *varam* ← *vara*
 - \[noun\], accusative, singular, masculine
 - “gift; favor; wish; privilege; varac; wages.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

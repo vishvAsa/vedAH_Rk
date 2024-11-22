@@ -86,33 +86,47 @@ gopā́ḥ ← gopā́- (nominal stem)
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣṭhā* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānava* ← *sudānavaḥ* ← *sudānu*
 - \[noun\], nominative, plural, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrajyeṣṭhā* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrajyeṣṭhā* ← *jyeṣṭhāḥ* ← *jyeṣṭha*
 - \[noun\], nominative, plural, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abhidyavaḥ* ← *abhidyu*
 - \[noun\], nominative, plural, masculine
 - “celestial; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *kartā* ← *karta* ← *kṛ*
 - \[verb\], plural, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -123,31 +137,45 @@ gopā́ḥ ← gopā́- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvann* ← *adhvan*
 - \[noun\], locative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sugaṃ* ← *sugam* ← *suga*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *gopā* ← *gopāḥ* ← *gopa*
 - \[noun\], nominative, plural, masculine
 - “cowboy; Gopa; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *amā*
 - \[adverb\]
 - “at home.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

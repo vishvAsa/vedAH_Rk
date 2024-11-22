@@ -107,84 +107,122 @@ uṣarbhút ← uṣarbúdh- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, masculine
 - “illuminating; shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣaṇir* ← *cakṣaṇiḥ* ← *cakṣaṇi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandāru*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vedyaś* ← *vedyaḥ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *cano* ← *canaḥ* ← *canas*
 - \[noun\], accusative, singular, neuter
 - “delight.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāt* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāyur* ← *viśvāyuḥ* ← *viśvāyu*
 - \[noun\], nominative, singular, masculine
 - “lifelong.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛto* ← *amṛtaḥ* ← *amṛta*
 - \[noun\], nominative, singular, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyeṣūṣarbhud* ← *martyeṣu* ← *martya*
 - \[noun\], locative, plural, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyeṣūṣarbhud* ← *uṣarbhut* ← *uṣarbudh*
 - \[noun\], nominative, singular, masculine
 - “early rising.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūd* ← *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *atithir* ← *atithiḥ* ← *atithi*
 - \[noun\], nominative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedāḥ* ← *jātavedas*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

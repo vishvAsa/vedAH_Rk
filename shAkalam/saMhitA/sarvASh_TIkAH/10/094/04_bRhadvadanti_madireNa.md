@@ -97,68 +97,100 @@ upabdíbhiḥ ← upabdí- (nominal stem)
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadanti* ← *vad*
 - \[verb\], plural, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *madireṇa* ← *madira*
 - \[noun\], instrumental, singular, masculine
 - “intoxicant.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandinendraṃ* ← *mandinā* ← *mandin*
 - \[noun\], instrumental, singular, masculine
 - “intoxicant; exhilarating.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandinendraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *krośanto* ← *krośantaḥ* ← *kruś*
 - \[verb noun\], nominative, plural
 - “cry; shout; lament.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vidann* ← *avidan* ← *vid*
 - \[verb\], plural, Imperfect
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *anā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃrabhyā* ← *saṃrabh* ← *√rabh*
 - \[verb noun\]
 - “anger; agitate; inflame.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīrāḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasṛbhir* ← *svasṛbhiḥ* ← *svasṛ*
 - \[noun\], instrumental, plural, feminine
 - “sister; svasṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *anartiṣur* ← *anartiṣuḥ* ← *nṛt*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “dance; dance.”
-------------------------------------------------------------------------
+
+_________
+
 - *āghoṣayantaḥ* ← *āghoṣay* ← *√ghuṣ*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *upabdibhiḥ* ← *upabdi*
 - \[noun\], instrumental, plural, masculine
 - “trample.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

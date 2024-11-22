@@ -71,35 +71,51 @@ vajrin ← vajrín- (nominal stem)
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *martyatvanānukāmā* ← *martyatvanā* ← *martyatvana*
 - \[noun\], instrumental, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *martyatvanānukāmā* ← *anukāmā* ← *anukāma*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *aganma* ← *gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrinn* ← *vajrin*
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśasaḥ* ← *āśas*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

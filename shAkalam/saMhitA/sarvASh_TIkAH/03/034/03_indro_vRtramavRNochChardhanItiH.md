@@ -97,64 +97,94 @@ rāmyā́ṇām ← rā́myā- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛṇocchardhanītiḥ* ← *avṛṇot* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛṇocchardhanītiḥ* ← *śardha*
 - \[noun\], masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛṇocchardhanītiḥ* ← *nītiḥ* ← *nīti*
 - \[noun\], nominative, singular, masculine
 - “caution; good behavior; policy; politics.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyinām* ← *māyin*
 - \[noun\], genitive, plural, masculine
 - “artful; charming; crafty; deceptive.”
-------------------------------------------------------------------------
+
+_________
+
 - *aminād* ← *amināt* ← *mī*
 - \[verb\], singular, Imperfect
 - “transgress; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *varpaṇītiḥ* ← *varpaṇīti*
 - \[noun\], nominative, singular, masculine
 - “artful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyaṃsam* ← *vyaṃsa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *uśadhag* ← *uśadhak*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vaneṣv* ← *vaneṣu* ← *vana*
 - \[noun\], locative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenā* ← *dhenāḥ* ← *dhenā*
 - \[noun\], accusative, plural, feminine
 - “river; lip; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -165,11 +195,15 @@ rāmyā́ṇām ← rā́myā- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāmyāṇām* ← *rāmyā*
 - \[noun\], genitive, plural, feminine
 - “night; night.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

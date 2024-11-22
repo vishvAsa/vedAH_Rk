@@ -96,51 +96,73 @@ svéṣu ← svá- (pronoun)
 -   *mumoda* ← *mud*
 - \[verb\], singular, Perfect indicative
 - “rejoice; delight; revel.”
-------------------------------------------------------------------------
+
+_________
+
 - *garbho* ← *garbhaḥ* ← *garbha*
 - \[noun\], nominative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakudmān* ← *kakudmat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *asremā* ← *asreman*
 - \[noun\], nominative, singular, masculine
 - “perfect.”
-------------------------------------------------------------------------
+
+_________
+
 - *vatsaḥ* ← *vatsa*
 - \[noun\], nominative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
-------------------------------------------------------------------------
+
+_________
+
 - *śimīvāṃ* ← *śimīvat*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *arāvīt* ← *ru*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “bellow; howl.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatāty* ← *devatātī* ← *devatāti*
 - \[noun\], instrumental, singular, feminine
 - “deity; Deva.”
-------------------------------------------------------------------------
+
+_________
+
 - *udyatāni* ← *udyam* ← *√yam*
 - \[verb noun\], accusative, plural
 - “raise; prepare; begin; endeavor; specialize.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvan* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -151,25 +173,35 @@ svéṣu ← svá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *sveṣu* ← *sva*
 - \[noun\], locative, plural, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣayeṣu* ← *kṣaya*
 - \[noun\], locative, plural, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamo* ← *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigāti* ← *gā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

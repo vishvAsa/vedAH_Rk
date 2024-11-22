@@ -102,72 +102,102 @@ várīmabhiḥ ← várīman- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *manye* ← *man*
 - \[verb\], singular, Present indikative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitur* ← *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *adruho* ← *adruhaḥ* ← *adruh*
 - \[noun\], genitive, singular, masculine
 - “friendly; benign.”
-------------------------------------------------------------------------
+
+_________
+
 - *mano* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātur* ← *mātuḥ* ← *mātṛ*
 - \[noun\], genitive, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *svatavas* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svatavas* ← *tavaḥ* ← *tavas*
 - \[noun\], accusative, singular, neuter
 - “strong; energetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *taddhavīmabhiḥ* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *taddhavīmabhiḥ* ← *havīmabhiḥ* ← *havīman*
 - \[noun\], instrumental, plural, neuter
 - “call; invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *suretasā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suretasā* ← *retasā* ← *retas*
 - \[noun\], nominative, dual, masculine
 - “semen; sperm.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitarā* ← *pitṛ*
 - \[noun\], nominative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūma* ← *bhūman*
 - \[noun\], accusative, singular, neuter
 - “Earth; floor.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakratur* ← *cakratuḥ* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -178,23 +208,33 @@ várīmabhiḥ ← várīman- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *uru*
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajāyā* ← *prajāyai* ← *prajā*
 - \[noun\], dative, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, neuter
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *varīmabhiḥ* ← *varīman*
 - \[noun\], instrumental, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

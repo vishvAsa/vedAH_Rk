@@ -101,75 +101,111 @@ vaḥ ← tvám (pronoun)
 
 -   *asenyā* ← *asenya*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *paṇayo* ← *paṇayaḥ* ← *paṇi*
 - \[noun\], vocative, plural, masculine
 - “niggard; paṇ.”
-------------------------------------------------------------------------
+
+_________
+
 - *vacāṃsy* ← *vacāṃsi* ← *vacas*
 - \[noun\], nominative, plural, neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *aniṣavyās* ← *aniṣavyāḥ* ← *aniṣavya*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaḥ* ← *tanū*
 - \[noun\], nominative, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāpīḥ* ← *pāpa*
 - \[noun\], nominative, plural, feminine
 - “evil; dangerous; wicked; pāpa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adhṛṣṭo* ← *adhṛṣṭaḥ* ← *adhṛṣṭa*
 - \[noun\], nominative, singular, masculine
 - “modest; invincible.”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *etavā* ← *etavai* ← *i*
 - \[verb noun\]
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *panthā* ← *panthāḥ* ← *pathin*
 - \[noun\], nominative, singular
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhayā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛḍāt* ← *mṛḍ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “pardon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

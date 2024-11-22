@@ -102,77 +102,113 @@ paptima ← √pat- 1 (root)
 -   *utāhaṃ* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *utāhaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *divā*
 - \[adverb\]
 - “by day; divā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *babhra* ← *babhro* ← *babhru*
 - \[noun\], vocative, singular, masculine
 - “tawny; brown.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūdhani* ← *ūdhas*
 - \[noun\], locative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛṇā*
 - \[noun\], instrumental, singular, feminine
 - “compassion; disgust; affection.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapantam* ← *tap*
 - \[verb noun\], accusative, singular
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
-------------------------------------------------------------------------
+
+_________
+
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *paraḥ* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakunā* ← *śakunāḥ* ← *śakuna*
 - \[noun\], nominative, plural, masculine
 - “bird; large bird.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *paptima* ← *pat*
 - \[verb\], plural, Perfect indicative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

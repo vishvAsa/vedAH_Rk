@@ -105,88 +105,128 @@ yónim ← yóni- (nominal stem)
 -   *samudrād* ← *samudrāt* ← *samudra*
 - \[noun\], ablative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmim* ← *ūrmi*
 - \[noun\], accusative, singular, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *veno* ← *venaḥ* ← *vena*
 - \[noun\], nominative, singular, masculine
 - “Vena.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhojāḥ* ← *nabhaḥ* ← *nabhas*
 - \[noun\], neuter
 - “sky; cloud; ākāśa; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhojāḥ* ← *jāḥ* ← *jā*
 - \[noun\], nominative, singular, neuter
 - “born.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭhaṃ* ← *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], nominative, singular, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryatasya* ← *haryata*
 - \[noun\], genitive, singular, masculine
 - “desirable; delightful.”
-------------------------------------------------------------------------
+
+_________
+
 - *darśi* ← *dṛś*
 - \[verb\], singular, Aorist passive
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *sānāv* ← *sānau* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṭapi* ← *viṣṭap*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *bhrāṭ* ← *bhrāj*
 - \[noun\], nominative, singular, feminine
 - “light.”
-------------------------------------------------------------------------
+
+_________
+
 - *samānaṃ* ← *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *yonim* ← *yoni*
 - \[noun\], accusative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrāḥ* ← *vrā*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

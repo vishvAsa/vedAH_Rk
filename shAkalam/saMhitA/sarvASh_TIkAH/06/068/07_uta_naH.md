@@ -99,79 +99,117 @@ tiráte ← √tr̥̄- 1 (root)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutrātro* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutrātro* ← *trātraḥ* ← *trātra*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *devagopāḥ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devagopāḥ* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūribhya* ← *sūribhyaḥ* ← *sūri*
 - \[noun\], dative, plural, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣyāt* ← *syāt* ← *as*
 - \[verb\], singular, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣāṃ* ← *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmaḥ* ← *śuṣma*
 - \[noun\], nominative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāhvān* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnā* ← *dyumna*
 - \[noun\], accusative, plural, neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *tirate* ← *tṛ*
 - \[verb\], singular, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *taturiḥ* ← *taturi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

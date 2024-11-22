@@ -99,74 +99,108 @@ uruṣyatam ← √uruṣy- (root)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃpṛcche* ← *sampracch* ← *√pracch*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *havītave* ← *hvā*
 - \[verb noun\]
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvādāya* ← *saṃvāda*
 - \[noun\], dative, singular, masculine
 - “dialogue; talk; accord; colloquy; colloquy; conversation; news;
     information.”
-------------------------------------------------------------------------
+
+_________
+
 - *ramate* ← *ram*
 - \[verb\], singular, Present indikative
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmān* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *samṛter* ← *samṛteḥ* ← *samṛti*
 - \[noun\], ablative, singular, feminine
 - “battle; contact.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruṣyatam* ← *uruṣy*
 - \[verb\], dual, Present imperative
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhubhyāṃ* ← *bāhubhyām* ← *bāhu*
 - \[noun\], instrumental, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruṣyatam* ← *uruṣy*
 - \[verb\], dual, Present imperative
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -98,76 +98,110 @@ viśvā́hā ← viśvā́hā (invariable)
 
 -   *rathavāhanaṃ* ← *rathavāhanam* ← *rathavāhana*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *havir* ← *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāma* ← *nāman*
 - \[noun\], nominative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatrāyudhaṃ* ← *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yatrāyudhaṃ* ← *āyudham* ← *āyudha*
 - \[noun\], nominative, singular, neuter
 - “weapon; āyudha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nihitam* ← *nidhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 - “put; fill into; stow; insert; ignite; insert; add; put on;
     establish; keep down.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *varma* ← *varman*
 - \[noun\], nominative, singular, neuter
 - “cuirass; armor; varman \[word\]; protective covering; Varman;
     varman.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatrā* ← *tatra*
 - \[adverb\]
 - “there; now; then; then; there; in that place; then; locative;
     respectively; there; tatra \[word\]; inside; therefore.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *śagmaṃ* ← *śagmam* ← *śagma*
 - \[noun\], accusative, singular, masculine
 - “powerful; reliable; competent.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadema* ← *sad*
 - \[verb\], plural, Aorist optative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāhā*
 - \[adverb\]
 - “always.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumanasyamānāḥ* ← *sumanasyamāna*
 - \[noun\], nominative, plural, masculine
 - “favorable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

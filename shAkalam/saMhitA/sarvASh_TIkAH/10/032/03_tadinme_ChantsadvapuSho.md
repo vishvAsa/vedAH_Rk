@@ -113,91 +113,133 @@ vahatúḥ ← vahatú- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *chantsad* ← *chantsat* ← *chand*
 - \[verb\], singular, Aorist conj./subj.
-------------------------------------------------------------------------
+
+_________
+
 - *vapuṣo* ← *vapuṣaḥ* ← *vapus*
 - \[noun\], genitive, singular, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapuṣṭaram* ← *vapuṣṭara*
 - \[noun\], nominative, singular, neuter
 - “fantastic.”
-------------------------------------------------------------------------
+
+_________
+
 - *putro* ← *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaj* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *jānam* ← *jāna*
 - \[noun\], accusative, singular, neuter
 - “birth.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitror* ← *pitroḥ* ← *pitṛ*
 - \[noun\], genitive, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhīyati* ← *adhī* ← *√i*
 - \[verb\], singular, Present indikative
 - “learn; learn; recite; read; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyā*
 - \[noun\], nominative, singular, feminine
 - “wife; jāyā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *patiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahati* ← *vah*
 - \[verb\], singular, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *vagnunā* ← *vagnu*
 - \[noun\], instrumental, singular, masculine
 - “cry.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumat*
 - \[adverb\]
 - “together.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṃsa* ← *puṃsaḥ* ← *puṃs*
 - \[noun\], genitive, singular, masculine
 - “man; masculine; man; puṃvajra; puruṣa; son; puṃs \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadro* ← *bhadraḥ* ← *bhadra*
 - \[noun\], nominative, singular, masculine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahatuḥ* ← *vahatu*
 - \[noun\], nominative, singular, masculine
 - “marriage.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣkṛtaḥ* ← *pariṣkṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

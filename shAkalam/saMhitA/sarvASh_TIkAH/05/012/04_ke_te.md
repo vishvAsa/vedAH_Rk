@@ -105,84 +105,122 @@ vácasaḥ ← vácas- (nominal stem)
 -   *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ripave* ← *ripu*
 - \[noun\], dative, singular, masculine
 - “enemy; arivarga; Ripu; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *bandhanāsaḥ* ← *bandhana*
 - \[noun\], nominative, plural, masculine
 - “bandhana.”
-------------------------------------------------------------------------
+
+_________
+
 - *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pāyavaḥ* ← *pāyu*
 - \[noun\], nominative, plural, masculine
 - “guard; pāyu \[word\]; Pāyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *saniṣanta* ← *san*
 - \[verb\], plural, Aorist conj./subj.
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumantaḥ* ← *dyumat*
 - \[noun\], nominative, plural, masculine
 - “bright; brilliant; brilliant; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāsim* ← *dhāsi*
 - \[noun\], accusative, singular, feminine
 - “seat; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *anṛtasya* ← *anṛta*
 - \[noun\], genitive, singular, neuter
 - “falsehood; lying; lie; cheat.”
-------------------------------------------------------------------------
+
+_________
+
 - *pānti* ← *pā*
 - \[verb\], plural, Present indikative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *ka* ← *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsato* ← *āsataḥ* ← *asat*
 - \[noun\], nominative, plural, masculine
 - “nonexistent; bad; wrong; wrong; asat \[prefix\]; dissident; fake.”
-------------------------------------------------------------------------
+
+_________
+
 - *vacasaḥ* ← *vacas*
 - \[noun\], genitive, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *gopāḥ* ← *gopā*
 - \[noun\], nominative, plural, masculine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,72 +96,106 @@ vyùṣṭau ← vyùṣṭi- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śyenasya* ← *śyena*
 - \[noun\], genitive, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *javasā* ← *javas*
 - \[noun\], instrumental, singular, neuter
 - “speed.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūtanenāsme* ← *nūtanena* ← *nūtana*
 - \[noun\], instrumental, singular, neuter
 - “new; fresh; recent; contemporary; present(a); first.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūtanenāsme* ← *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, masculine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *have* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātahavyaḥ* ← *rāta* ← *rā*
 - \[verb noun\]
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātahavyaḥ* ← *havyaḥ* ← *havya*
 - \[noun\], nominative, singular, masculine
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvattamāyā* ← *śaśvattamāyāḥ* ← *śaśvattama*
 - \[noun\], genitive, singular, feminine
 - “frequent.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyuṣṭau* ← *vyuṣṭi*
 - \[noun\], locative, singular, feminine
 - “dawn; happiness; consequence.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

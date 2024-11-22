@@ -79,47 +79,69 @@ yemiré ← √yam- (root)
 -   *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmāya* ← *yāma*
 - \[noun\], dative, singular, masculine
 - “prahara; watch; travel; path.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *girir* ← *giriḥ* ← *giri*
 - \[noun\], nominative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vidharmaṇe* ← *vidharman*
 - \[noun\], dative, singular, neuter
 - “receptacle; enclosure.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmāya* ← *śuṣma*
 - \[noun\], dative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *yemire* ← *yam*
 - \[verb\], plural, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

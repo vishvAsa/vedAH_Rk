@@ -73,46 +73,66 @@ hóma ← hóman- 2 (nominal stem)
 -   *vasor* ← *vasoḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasupatiṃ* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasupatiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇanta* ← *gṛṇantaḥ* ← *gṛ*
 - \[verb noun\], nominative, plural
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛgmiyam* ← *ṛgmiya*
 - \[noun\], accusative, singular, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 - *homagantāram* ← *homa*
 - \[noun\], masculine
 - “Homa; yajña.”
-------------------------------------------------------------------------
+
+_________
+
 - *homagantāram* ← *gantāram* ← *gantṛ*
 - \[noun\], accusative, singular, masculine
 - “going.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

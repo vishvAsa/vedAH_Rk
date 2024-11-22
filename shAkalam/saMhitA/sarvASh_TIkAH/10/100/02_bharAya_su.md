@@ -102,88 +102,128 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 -   *bharāya* ← *bhara*
 - \[noun\], dative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharata* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāgam* ← *bhāga*
 - \[noun\], accusative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtviyam* ← *ṛtviya*
 - \[noun\], accusative, singular, masculine
 - “regular; punctual; timely.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyave* ← *vāyu*
 - \[noun\], dative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucipe* ← *śuci*
 - \[noun\]
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucipe* ← *pe* ← *pā*
 - \[noun\], dative, singular, masculine
 - “drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *krandadiṣṭaye* ← *krandat* ← *krand*
 - \[verb noun\]
 - “roar; neigh; cry; howl; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *krandadiṣṭaye* ← *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, masculine
 - “seeking.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaurasya* ← *gaura*
 - \[noun\], genitive, singular, neuter
 - “white; light; gaura \[word\]; yellow.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *payasaḥ* ← *payas*
 - \[noun\], genitive, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *pītim* ← *pīti*
 - \[noun\], accusative, singular, feminine
 - “drinking; haritāla.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaśa* ← *ānaśe* ← *aś*
 - \[verb\], singular, Perfect indicative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvatātim* ← *sarvatāti*
 - \[noun\], accusative, singular, feminine
 - “completeness; prosperity; sum.”
-------------------------------------------------------------------------
+
+_________
+
 - *aditiṃ* ← *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

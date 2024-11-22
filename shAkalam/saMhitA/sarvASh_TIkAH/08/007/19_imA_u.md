@@ -79,47 +79,69 @@ várdhān ← √vr̥dh- (root)
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānavo* ← *sudānavaḥ* ← *sudānu*
 - \[noun\], vocative, plural, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtaṃ* ← *ghṛtam* ← *ghṛta*
 - \[noun\], nominative, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pipyuṣīr* ← *pipyuṣīḥ* ← *pyā*
 - \[verb noun\], nominative, plural
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣaḥ* ← *iṣ*
 - \[noun\], nominative, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhān* ← *vṛdh*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāṇvasya* ← *kāṇva*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *manmabhiḥ* ← *manman*
 - \[noun\], instrumental, plural, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

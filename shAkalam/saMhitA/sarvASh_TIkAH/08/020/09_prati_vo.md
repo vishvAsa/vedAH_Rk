@@ -73,49 +73,71 @@ vŕ̥ṣaprayāvṇe ← vŕ̥ṣaprayāvan- (nominal stem)
 -   *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣadañjayo* ← *vṛṣat* ← *vṛṣ*
 - \[verb noun\]
 - “shower; rain; effuse; shower; drench.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣadañjayo* ← *añjayaḥ* ← *añji*
 - \[noun\], nominative, plural, masculine
 - “color; ointment; adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *mārutāya* ← *māruta*
 - \[noun\], dative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *bharadhvam* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaprayāvṇe* ← *vṛṣa* ← *vṛṣan*
 - \[noun\], masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaprayāvṇe* ← *prayāvṇe* ← *prayāvan*
 - \[noun\], dative, singular, masculine
 - “traveling.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

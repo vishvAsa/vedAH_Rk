@@ -88,57 +88,83 @@ yajñíyaḥ ← yajñíya- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvako* ← *pāvakaḥ* ← *pāvaka*
 - \[noun\], nominative, singular, masculine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *adbhuto* ← *adbhutaḥ* ← *adbhuta*
 - \[noun\], nominative, singular, masculine
 - “extraordinary; amazing; supernatural.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhvā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimikṣati* ← *mikṣ*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “season.”
-------------------------------------------------------------------------
+
+_________
+
 - *narāśaṃsas* ← *narāśaṃsaḥ* ← *narāśaṃsa*
 - \[noun\], nominative, singular, masculine
 - “Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyaḥ* ← *yajñiya*
 - \[noun\], nominative, singular, masculine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -95,75 +95,111 @@ víśvāsu ← víśva- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrādhato* ← *vrādhataḥ* ← *vrādh*
 - \[verb noun\], genitive, singular
-------------------------------------------------------------------------
+
+_________
+
 - *nahuṣo* ← *nahuṣaḥ* ← *nahus*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *daṃsujūtaḥ* ← *daṃsu*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *daṃsujūtaḥ* ← *jūtaḥ* ← *jū*
 - \[verb noun\], nominative, singular
 - “animate; encourage; impel; inspire.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhastaro* ← *śardhastaraḥ* ← *śardhastara*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *narāṃ* ← *narām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *gūrtaśravāḥ* ← *gūrta* ← *gur*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *gūrtaśravāḥ* ← *śravāḥ* ← *śravas*
 - \[noun\], nominative, singular, masculine
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *visṛṣṭarātir* ← *visṛṣṭa* ← *visṛj* ← *√sṛj*
 - \[verb noun\]
 - “dismiss; emit; shoot; secrete; hand over; lose; abandon; disperse;
     make; emit; utter; shoot; ejaculate; spill; give; discard; refrain
     from; discontinue; throw.”
-------------------------------------------------------------------------
+
+_________
+
 - *visṛṣṭarātir* ← *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, masculine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāﾱhasṛtvā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāsu* ← *viśva*
 - \[noun\], locative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadam*
 - \[adverb\]
 - “always.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchūraḥ* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchūraḥ* ← *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

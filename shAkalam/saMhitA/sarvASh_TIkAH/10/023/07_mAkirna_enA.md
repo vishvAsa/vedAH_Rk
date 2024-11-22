@@ -116,104 +116,152 @@ te ← tvám (pronoun)
 
 -   *mākir*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *enā* ← *enad*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyā* ← *sakhya*
 - \[noun\], nominative, plural, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yauṣus* ← *yauṣuḥ* ← *yu*
 - \[verb\], plural, Aorist inj. (proh.)
 - “keep away; separate; ward off.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *cendra* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vimadasya* ← *vimada*
 - \[noun\], genitive, singular, masculine
 - “Vimada.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣeḥ* ← *ṛṣi*
 - \[noun\], genitive, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pramatiṃ* ← *pramatim* ← *pramati*
 - \[noun\], accusative, singular, feminine
 - “care; solicitude; caution; providence.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāmivad* ← *jāmi*
 - \[noun\], masculine
 - “relative.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāmivad* ← *vat*
 - \[adverb\]
 - “equally; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyā* ← *sakhya*
 - \[noun\], nominative, plural, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *śivāni* ← *śiva*
 - \[noun\], nominative, plural, neuter
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

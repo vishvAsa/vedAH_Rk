@@ -102,80 +102,118 @@ vā́jāya ← vā́ja- (nominal stem)
 -   *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahy* ← *mahi*
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṇo* ← *arṇaḥ* ← *arṇas*
 - \[noun\], nominative, singular, neuter
 - “body of water; water.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāvasi* ← *dhāv*
 - \[verb\], singular, Present indikative
 - “run; run; wash.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūro* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *citro* ← *citraḥ* ← *citra*
 - \[noun\], nominative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyayāni* ← *avyaya*
 - \[noun\], accusative, plural, neuter
 - “sheep.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavyayā* ← *pavyaya*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *gabhastipūto* ← *gabhasti*
 - \[noun\], masculine
 - “beam; hand; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhastipūto* ← *pūtaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *suto* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanyāya* ← *dhanya*
 - \[noun\], dative, singular, masculine
 - “fortunate; auspicious; affluent.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvasi* ← *dhanv*
 - \[verb\], singular, Present indikative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -93,65 +93,95 @@ srídhaḥ ← srídh- (nominal stem)
 -   *ava* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *sve* ← *sva*
 - \[noun\], locative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *durmatīr* ← *durmatīḥ* ← *durmati*
 - \[noun\], accusative, plural, feminine
 - “hate; envy.”
-------------------------------------------------------------------------
+
+_________
+
 - *īkṣe* ← *īś*
 - \[verb\], singular, Present indikative
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājann* ← *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, feminine
 - “hate; dviṣ; hostility; hostility.”
-------------------------------------------------------------------------
+
+_________
+
 - *sedha* ← *sidh*
 - \[verb\], singular, Present imperative
 - “chase away; repel.”
-------------------------------------------------------------------------
+
+_________
+
 - *mīḍhvo* ← *mīḍhvaḥ* ← *mīḍhvas*
 - \[noun\], vocative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *sridhaḥ* ← *sridh*
 - \[noun\], accusative, plural, feminine
 - “failure; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *sedha* ← *sidh*
 - \[verb\], singular, Present imperative
 - “chase away; repel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

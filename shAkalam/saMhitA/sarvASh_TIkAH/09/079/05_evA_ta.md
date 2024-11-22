@@ -106,30 +106,42 @@ te ← tvám (pronoun)
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhvaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhvaṃ* ← *bhvam* ← *bhū*
 - \[noun\], accusative, singular, masculine
 - “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
     place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
     bhūnāga; sphaṭikā; beginning; birth; estate.”
-------------------------------------------------------------------------
+
+_________
+
 - *supeśasaṃ* ← *supeśasam* ← *supeśas*
 - \[noun\], accusative, singular, masculine
 - “beautiful; fine-looking.”
-------------------------------------------------------------------------
+
+_________
+
 - *rasaṃ* ← *rasam* ← *rasa*
 - \[noun\], accusative, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
@@ -137,69 +149,99 @@ te ← tvám (pronoun)
     body substance; rasa; formulation; myrrh; rasa \[word\]; amṛta;
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuñjanti* ← *tuj*
 - \[verb\], plural, Present indikative
 - “draw.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamā* ← *prathamāḥ* ← *prathama*
 - \[noun\], nominative, plural, feminine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiśriyaḥ* ← *abhiśrī*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *nidaṃ* ← *nidam* ← *nid*
 - \[noun\], accusative, singular, feminine
 - “derision; scoffer; contempt.”
-------------------------------------------------------------------------
+
+_________
+
 - *nidam* ← *nid*
 - \[noun\], accusative, singular, feminine
 - “derision; scoffer; contempt.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāriṣa* ← *tāriṣaḥ* ← *tṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvis*
 - \[adverb\]
 - “openly; obviously.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmo* ← *śuṣmaḥ* ← *śuṣma*
 - \[noun\], nominative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavatu* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyo* ← *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *madaḥ* ← *mada*
 - \[noun\], nominative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

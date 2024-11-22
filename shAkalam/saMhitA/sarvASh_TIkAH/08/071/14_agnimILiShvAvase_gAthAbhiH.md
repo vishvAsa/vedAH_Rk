@@ -89,62 +89,90 @@ sudītáye ← sudītí- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *īﾱiṣvāvase* ← *īḍiṣva* ← *īḍ*
 - \[verb\], singular, Present imperative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *īﾱiṣvāvase* ← *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāthābhiḥ* ← *gāthā*
 - \[noun\], instrumental, plural, feminine
 - “song; gāthā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śīraśociṣam* ← *śīra*
 - \[noun\]
 - “sharp; acerb.”
-------------------------------------------------------------------------
+
+_________
+
 - *śīraśociṣam* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *purumīﾱha* ← *purumīḍha*
 - \[noun\], vocative, singular, masculine
 - “Purumīḍha.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudītaye* ← *sudīti*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *chardiḥ* ← *chardis*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

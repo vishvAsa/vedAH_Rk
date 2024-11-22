@@ -72,44 +72,64 @@ vibhā́vā ← vibhā́van- (nominal stem)
 
 -   *takvā* ← *takvan*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūrṇir* ← *bhūrṇiḥ* ← *bhūrṇi*
 - \[noun\], nominative, singular, masculine
 - “impatient; restless.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanā* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣakti* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *payo* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, feminine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, feminine
 - “illuminating; shining.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

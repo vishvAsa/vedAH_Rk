@@ -102,84 +102,122 @@ tébhyaḥ ← sá- ~ tá- (pronoun)
 -   *pāvakaśoce* ← *pāvaka*
 - \[noun\]
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakaśoce* ← *śoce* ← *śoci*
 - \[noun\], vocative, singular, masculine
 - “fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotar* ← *hotṛ*
 - \[noun\], vocative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñeṣu* ← *yajña*
 - \[noun\], locative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛktabarhiṣo* ← *vṛkta* ← *vṛj*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *vṛktabarhiṣo* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], nominative, plural, masculine
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *duva* ← *duvaḥ* ← *duvas*
 - \[noun\], accusative, singular, neuter
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchamānāsa* ← *icchamānāsaḥ* ← *iṣ*
 - \[verb noun\], nominative, plural
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpyam* ← *āpya*
 - \[noun\], accusative, singular, neuter
 - “friendship.”
-------------------------------------------------------------------------
+
+_________
+
 - *upāsate* ← *upās* ← *√ās*
 - \[verb\], plural, Present indikative
 - “worship; attend; serve; get; approach; obtain; perform; expect.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇaṃ* ← *draviṇam* ← *draviṇa*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *tebhyaḥ* ← *tad*
 - \[noun\], dative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

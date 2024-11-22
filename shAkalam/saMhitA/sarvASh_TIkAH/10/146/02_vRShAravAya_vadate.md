@@ -77,46 +77,68 @@ mahīyate ← √mahīy- (root)
 
 -   *vṛṣāravāya* ← *vṛṣārava*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vadate* ← *vad*
 - \[verb noun\], dative, singular
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *upāvati* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *upāvati* ← *avati* ← *av*
 - \[verb\], singular, Present indikative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciccikaḥ* ← *ciccika*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āghāṭibhir* ← *āghāṭibhiḥ* ← *āghāṭi*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāvayann* ← *dhāvayan* ← *dhāvay*
 - \[verb noun\], nominative, singular
 - “wash.”
-------------------------------------------------------------------------
+
+_________
+
 - *araṇyānir* ← *araṇyāniḥ* ← *araṇyāni*
 - \[noun\], nominative, singular, feminine
 - “forest.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahīyate* ← *mahīy*
 - \[verb\], singular, Present indikative
 - “rejoice; revel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

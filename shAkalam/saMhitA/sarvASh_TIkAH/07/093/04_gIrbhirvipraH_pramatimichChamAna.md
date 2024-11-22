@@ -97,83 +97,121 @@ tiratam ← √tr̥̄- 1 (root)
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “eloquent; stimulated; divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pramatim* ← *pramati*
 - \[noun\], accusative, singular, feminine
 - “care; solicitude; caution; providence.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchamāna* ← *icchamānaḥ* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṭṭe* ← *īḍ*
 - \[verb\], singular, Present indikative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaśasam* ← *yaśas*
 - \[noun\], accusative, singular, masculine
 - “esteemed; celebrated; glorious; honorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvabhājam* ← *pūrvabhāj*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgnī* ← *agnī* ← *agni*
 - \[noun\], vocative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahaṇā* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahaṇā* ← *haṇā* ← *han*
 - \[noun\], vocative, dual, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvajrā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvajrā* ← *vajrā* ← *vajra*
 - \[noun\], vocative, dual, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyebhis* ← *navyebhiḥ* ← *navya*
 - \[noun\], instrumental, plural, neuter
 - “new; fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *tirataṃ* ← *tiratam* ← *tṛ*
 - \[verb\], dual, Present imperative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *deṣṇaiḥ* ← *deṣṇa*
 - \[noun\], instrumental, plural, neuter
 - “gift; giving.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

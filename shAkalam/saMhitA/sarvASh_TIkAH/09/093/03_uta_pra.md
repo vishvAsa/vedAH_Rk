@@ -102,76 +102,112 @@ vásubhiḥ ← vásu- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *pipya* ← *pipye* ← *pyā*
 - \[verb\], singular, Perfect indicative
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūdhar* ← *ūdhas*
 - \[noun\], nominative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghnyāyā* ← *aghnyāyāḥ* ← *aghnyā*
 - \[noun\], genitive, singular, feminine
 - “cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārābhiḥ* ← *dhārā*
 - \[noun\], instrumental, plural, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacate* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumedhāḥ* ← *sumedhas*
 - \[noun\], nominative, singular, masculine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 - *mūrdhānaṃ* ← *mūrdhānam* ← *mūrdhan*
 - \[noun\], accusative, singular, masculine
 - “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *camūṣv* ← *camūṣu* ← *camū*
 - \[noun\], locative, plural, feminine
 - “army; camū; Camū.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrīṇanti* ← *śrī*
 - \[verb\], plural, Present indikative
 - “cook; boil; heat; cook; mix.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasubhir* ← *vasubhiḥ* ← *vasu*
 - \[noun\], instrumental, plural, neuter
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *niktaiḥ* ← *nij*
 - \[verb noun\], instrumental, plural
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

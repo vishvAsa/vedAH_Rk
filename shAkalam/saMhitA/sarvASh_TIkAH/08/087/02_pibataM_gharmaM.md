@@ -99,72 +99,104 @@ védasā ← védas- 2 (nominal stem)
 -   *pibataṃ* ← *pibatam* ← *pā*
 - \[verb\], dual, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmam* ← *gharma*
 - \[noun\], accusative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumantam* ← *madhumat*
 - \[noun\], accusative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sīdataṃ* ← *sīdatam* ← *sad*
 - \[verb\], dual, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandasānā* ← *mand*
 - \[verb noun\], nominative, dual
 - “rejoice; exhilarate.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣo* ← *manuṣaḥ* ← *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *duroṇa* ← *duroṇe* ← *duroṇa*
 - \[noun\], locative, singular, neuter
 - “home; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *pātaṃ* ← *pātam* ← *pā*
 - \[verb\], dual, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedasā* ← *vedas*
 - \[noun\], instrumental, singular, neuter
 - “knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

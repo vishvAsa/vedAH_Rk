@@ -105,88 +105,126 @@ vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)
 -   *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyutānaḥ* ← *dyut*
 - \[verb noun\], nominative, singular
 - “shine; inflame.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitroḥ* ← *pitṛ*
 - \[noun\], locative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacāsāmanuta* ← *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacāsāmanuta* ← *āsā* ← *ās*
 - \[noun\], instrumental, singular, neuter
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacāsāmanuta* ← *amanuta* ← *man*
 - \[verb\], singular, Imperfect
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhyaṃ* ← *guhyam* ← *guh*
 - \[verb noun\], accusative, singular
 - “hide; cover; conceal; shroud; obscure.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāru*
 - \[noun\], accusative, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśneḥ* ← *pṛśni*
 - \[noun\], genitive, singular, feminine
 - “Pṛśni; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātuṣ* ← *mātṛ*
 - \[noun\], genitive, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *pade* ← *pada*
 - \[noun\], locative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
-------------------------------------------------------------------------
+
+_________
+
 - *parame* ← *parama*
 - \[noun\], locative, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
+
+_________
+
 - *anti*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ṣad* ← *ṣat* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *gor* ← *goḥ* ← *go*
 - \[noun\], genitive, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *śociṣaḥ* ← *śocis*
 - \[noun\], genitive, singular, neuter
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayatasya* ← *prayam* ← *√yam*
 - \[verb noun\], genitive, singular
 - “give; emit; send; transmit.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvā*
 - \[noun\], nominative, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

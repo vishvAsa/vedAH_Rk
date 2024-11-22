@@ -108,45 +108,65 @@ svayám ← svayám (invariable)
 -   *praiṣām* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *praiṣām* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajmeṣu* ← *ajma*
 - \[noun\], locative, plural, masculine
 - “march.”
-------------------------------------------------------------------------
+
+_________
+
 - *vithureva* ← *vithurā* ← *vithura*
 - \[noun\], nominative, singular, feminine
 - “weak.”
-------------------------------------------------------------------------
+
+_________
+
 - *vithureva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *rejate* ← *rej*
 - \[verb\], singular, Present indikative
 - “tremor; flicker.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmir* ← *bhūmiḥ* ← *bhūmi*
 - \[noun\], nominative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmeṣu* ← *yāma*
 - \[noun\], locative, plural, masculine
 - “prahara; watch; travel; path.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yuñjate* ← *yuj*
 - \[verb\], plural, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -154,47 +174,69 @@ svayám ← svayám (invariable)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhe* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *krīḍayo* ← *krīḍayaḥ* ← *krīḍi*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dhunayo* ← *dhunayaḥ* ← *dhuni*
 - \[noun\], nominative, plural, masculine
 - “deafening; boisterous; noisy.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājadṛṣṭayaḥ* ← *bhrājat* ← *bhrāj*
 - \[verb noun\]
 - “shine; glitter; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājadṛṣṭayaḥ* ← *ṛṣṭayaḥ* ← *ṛṣṭi*
 - \[noun\], nominative, plural, masculine
 - “spear.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayam*
 - \[adverb\]
 - “personally; spontaneously; svayam \[word\]; voluntarily.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvam* ← *mahitva*
 - \[noun\], accusative, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *panayanta* ← *panay* ← *√pan*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *dhūtayaḥ* ← *dhūti*
 - \[noun\], nominative, plural, masculine
 - “Marut.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

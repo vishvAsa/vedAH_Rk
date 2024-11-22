@@ -105,89 +105,129 @@ uśatī́ ← √vaś- (root)
 -   *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnāya* ← *pratna*
 - \[noun\], dative, singular, masculine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭutiṃ* ← *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *navīyasīṃ* ← *navīyasīm* ← *navīyas*
 - \[noun\], accusative, singular, feminine
 - “new; fresh; up-to-the-minute.”
-------------------------------------------------------------------------
+
+_________
+
 - *voceyam* ← *vac*
 - \[verb\], singular, Aorist optative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśate* ← *vaś*
 - \[verb noun\], dative, singular
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇotu* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūyā* ← *bhūyāḥ* ← *bhū*
 - \[verb\], singular, Prekativ
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarā*
 - \[adverb\]
 - “inside; meanwhile; occasionally.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdy* ← *hṛdi* ← *hṛd*
 - \[noun\], locative, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *nispṛśe* ← *nispṛś* ← *√spṛś*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *jāyeva* ← *jāyā*
 - \[noun\], nominative, singular, feminine
 - “wife; jāyā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *patya* ← *patye* ← *pati*
 - \[noun\], dative, singular
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśatī* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvāsāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvāsāḥ* ← *vāsāḥ* ← *vāsas*
 - \[noun\], nominative, singular, feminine
 - “clothing; fabric; garment; feather; dress; envelope.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

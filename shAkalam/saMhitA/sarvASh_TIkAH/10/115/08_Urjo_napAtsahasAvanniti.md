@@ -99,79 +99,115 @@ pratarám ← pratarám (invariable)
 -   *ūrjo* ← *ūrjaḥ* ← *ūrj*
 - \[noun\], genitive, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
-------------------------------------------------------------------------
+
+_________
+
 - *napāt*
 - \[noun\], vocative, singular, masculine
 - “grandson; nephew; napāt \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasāvann* ← *sahasāvan* ← *sahasāvat*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvopastutasya* ← *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvopastutasya* ← *upastutasya* ← *upastuta*
 - \[noun\], genitive, singular, masculine
 - “Upastuta.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandate* ← *vand*
 - \[verb\], singular, Present indikative
 - “worship; laud.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, feminine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāk* ← *vāc*
 - \[noun\], nominative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *stoṣāma* ← *stu*
 - \[verb\], plural, Aorist conj./subj.
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīrā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīrā* ← *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *drāghīya* ← *drāghīyaḥ* ← *drāghīyas*
 - \[noun\], accusative, singular, neuter
 - “long; longer.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 - *prataraṃ* ← *prataram* ← *pratara*
 - \[noun\], accusative, singular, masculine
 - “pratara.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhānāḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

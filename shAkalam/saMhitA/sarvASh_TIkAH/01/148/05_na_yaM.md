@@ -102,74 +102,110 @@ pretā́raḥ ← pretár- (nominal stem)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ripavo* ← *ripavaḥ* ← *ripu*
 - \[noun\], nominative, plural, masculine
 - “enemy; arivarga; Ripu; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *riṣaṇyavo* ← *riṣaṇyavaḥ* ← *riṣaṇyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *garbhe* ← *garbha*
 - \[noun\], locative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *santaṃ* ← *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *reṣaṇā* ← *reṣaṇāḥ* ← *reṣaṇa*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *reṣayanti* ← *reṣay* ← *√riṣ*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *andhā* ← *andhāḥ* ← *andha*
 - \[noun\], nominative, plural, masculine
 - “blind; andha \[word\]; andha; blind; complete; dark.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaśyā* ← *apaśyāḥ* ← *apaśya*
 - \[noun\], nominative, plural, masculine
 - “blind.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dabhann* ← *dabhan* ← *dabh*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *abhikhyā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *nityāsa* ← *nityāsaḥ* ← *nitya*
 - \[noun\], nominative, plural, masculine
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
     connatural; necessary; durable; ageless; invariable; biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *pretāro* ← *pretāraḥ* ← *pretṛ*
 - \[noun\], nominative, plural, masculine
 - “beneficent.”
-------------------------------------------------------------------------
+
+_________
+
 - *arakṣan* ← *rakṣ*
 - \[verb\], plural, Imperfect
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

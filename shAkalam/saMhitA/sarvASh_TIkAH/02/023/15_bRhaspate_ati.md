@@ -102,85 +102,123 @@ tát ← sá- ~ tá- (pronoun)
 -   *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *arhād* ← *arhāt* ← *arh*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “should; may; rate; can; can; equal; necessitate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumad* ← *dyumat*
 - \[noun\], accusative, singular, neuter
 - “bright; brilliant; brilliant; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāti* ← *vibhā* ← *√bhā*
 - \[verb\], singular, Present indikative
 - “shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratumaj* ← *kratumat*
 - \[noun\], accusative, singular, neuter
 - “prudent; resolute.”
-------------------------------------------------------------------------
+
+_________
+
 - *janeṣu* ← *jana*
 - \[noun\], locative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdayacchavasa* ← *dīdayat* ← *dīdī*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdayacchavasa* ← *śavasaḥ* ← *śavas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtaprajāta* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtaprajāta* ← *prajāta* ← *prajan* ← *√jan*
 - \[verb noun\], vocative, singular
 - “become; originate; result; be born; give birth; beget; grow;
     issue.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmāsu* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇaṃ* ← *draviṇam* ← *draviṇa*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *citram* ← *citra*
 - \[noun\], accusative, singular, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

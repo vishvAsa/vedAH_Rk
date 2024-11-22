@@ -96,69 +96,103 @@ uruṣyáthaḥ ← √uruṣy- (root)
 -   *tveṣam* ← *tveṣa*
 - \[noun\], nominative, singular, neuter
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *itthā*
 - \[adverb\]
 - “thus; here.”
-------------------------------------------------------------------------
+
+_________
+
 - *samaraṇaṃ* ← *samaraṇam* ← *samaraṇa*
 - \[noun\], nominative, singular, neuter
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *śimīvator* ← *śimīvatoḥ* ← *śimīvat*
 - \[noun\], genitive, dual, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāviṣṇū* ← *indrāviṣṇu*
 - \[noun\], vocative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sutapā* ← *suta*
 - \[noun\], masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutapā* ← *pā*
 - \[noun\], accusative, dual, masculine
 - “drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruṣyati* ← *uruṣy*
 - \[verb\], singular, Present indikative
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *martyāya* ← *martya*
 - \[noun\], dative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratidhīyamānam* ← *pratidhā* ← *√dhā*
 - \[verb noun\], accusative, singular
 - “target; insert.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛśānor* ← *kṛśānoḥ* ← *kṛśānu*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; Plumbago zeylanica.”
-------------------------------------------------------------------------
+
+_________
+
 - *astur* ← *astuḥ* ← *astṛ*
 - \[noun\], genitive, singular, masculine
 - “archer; shot.”
-------------------------------------------------------------------------
+
+_________
+
 - *asanām* ← *asanā*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *uruṣyathaḥ* ← *uruṣy*
 - \[verb\], dual, Present indikative
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

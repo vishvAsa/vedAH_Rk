@@ -70,38 +70,56 @@ vr̥ṇīté ← √vr̥- ~ vr̥̄- (root)
 -   *vaneṣu* ← *vana*
 - \[noun\], locative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyur* ← *jāyuḥ* ← *jāyu*
 - \[noun\], nominative, singular, masculine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *marteṣu* ← *marta*
 - \[noun\], locative, plural, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇīte* ← *vṛ*
 - \[verb\], singular, Present indikative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *śruṣṭiṃ* ← *śruṣṭim* ← *śruṣṭi*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *rājevājuryam* ← *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājevājuryam* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājevājuryam* ← *ajuryam* ← *ajurya*
 - \[noun\], accusative, singular, masculine
 - “ageless; amaranthine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

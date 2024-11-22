@@ -87,65 +87,93 @@ gónām ← gáv- ~ gó- (nominal stem)
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāhuta* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāhuta* ← *āhuta* ← *āhu* ← *√hu*
 - \[verb noun\], vocative, singular
 - “sacrifice; sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyāsaḥ* ← *priya*
 - \[noun\], nominative, plural, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrayaḥ* ← *sūri*
 - \[noun\], nominative, plural, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *yantāro* ← *yantāraḥ* ← *yantṛ*
 - \[noun\], nominative, plural, masculine
 - “charioteer; ruler.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavāno* ← *maghavānaḥ* ← *maghavan*
 - \[noun\], nominative, plural, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrvān* ← *ūrva*
 - \[noun\], accusative, plural, masculine
 - “pen; Aurva; ocean.”
-------------------------------------------------------------------------
+
+_________
+
 - *dayanta* ← *day*
 - \[verb\], plural, Present injunctive
 - “share.”
-------------------------------------------------------------------------
+
+_________
+
 - *gonām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

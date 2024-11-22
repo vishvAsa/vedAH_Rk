@@ -105,76 +105,114 @@ pr̥thujráyī ← pr̥thujráya- (nominal stem)
 -   *sātir* ← *sātiḥ* ← *sāti*
 - \[noun\], nominative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *'mavatī* ← *amavatī* ← *amavat*
 - \[noun\], nominative, singular, feminine
 - “impressive; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarvatī* ← *svarvat*
 - \[noun\], nominative, singular, feminine
 - “bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣā* ← *tveṣa*
 - \[noun\], nominative, singular, feminine
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipākā* ← *vipāka*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *pipiṣvatī* ← *pipiṣvat*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadra*
 - \[noun\], nominative, singular, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇato* ← *pṛṇataḥ* ← *pṛṇ*
 - \[verb noun\], genitive, singular
 - “satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇā*
 - \[noun\], nominative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthujrayī* ← *pṛthujraya*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *asuryeva* ← *asuryā* ← *asurya*
 - \[noun\], nominative, singular, feminine
 - “āsura.”
-------------------------------------------------------------------------
+
+_________
+
 - *asuryeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *jañjatī* ← *jañj*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

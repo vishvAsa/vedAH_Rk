@@ -81,47 +81,69 @@ prá ← prá (invariable)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *gotamo* ← *gotamaḥ* ← *gotama*
 - \[noun\], nominative, singular, masculine
 - “Gotama; gotama \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyaskāmo* ← *rāyaskāmaḥ* ← *rāyaskāma*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *duvasyati* ← *duvasy*
 - \[verb\], singular, Present indikative
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnair* ← *dyumnaiḥ* ← *dyumna*
 - \[noun\], instrumental, plural, neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṇonumaḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Present indikative
 - “bellow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

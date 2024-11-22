@@ -93,62 +93,92 @@ práyastā ← √yas- (root)
 -   *paraśuṃ* ← *paraśum* ← *paraśu*
 - \[noun\], accusative, singular, masculine
 - “ax.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapati* ← *tap*
 - \[verb\], singular, Present indikative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
-------------------------------------------------------------------------
+
+_________
+
 - *śimbalaṃ* ← *śimbalam* ← *śimbala*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛścati* ← *vraśc*
 - \[verb\], singular, Present indikative
 - “cleave; fell; cut off; hew.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukhā*
 - \[noun\], nominative, singular, feminine
 - “kettle; ukhā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣantī* ← *yeṣ*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *prayastā* ← *prayasta*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *phenam* ← *phena*
 - \[noun\], accusative, singular, masculine
 - “foam; cuttlefish bone; phenaprameha; saliva; opium; phena
     \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asyati* ← *as*
 - \[verb\], singular, Present indikative
 - “shoot; remove.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

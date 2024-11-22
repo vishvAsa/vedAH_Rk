@@ -82,57 +82,83 @@ víśvāni ← víśva- (nominal stem)
 - \[noun\], nominative, plural, masculine
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūracakṣaso* ← *sūra*
 - \[noun\], masculine
 - “sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūracakṣaso* ← *cakṣasaḥ* ← *cakṣas*
 - \[noun\], nominative, plural, masculine
 - “eye; look; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gnijihvā* ← *agni*
 - \[noun\], masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gnijihvā* ← *jihvāḥ* ← *jihvā*
 - \[noun\], nominative, plural, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvṛdhaḥ* ← *ṛtāvṛdh*
 - \[noun\], nominative, plural, masculine
 - “sincere.”
-------------------------------------------------------------------------
+
+_________
+
 - *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yemur* ← *yemuḥ* ← *yam*
 - \[verb\], plural, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidathāni* ← *vidatha*
 - \[noun\], accusative, plural, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītibhir* ← *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *paribhūtibhiḥ* ← *paribhūti*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

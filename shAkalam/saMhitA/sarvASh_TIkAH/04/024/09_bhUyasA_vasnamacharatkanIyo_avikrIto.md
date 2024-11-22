@@ -105,88 +105,128 @@ ví ← ví (invariable)
 -   *bhūyasā* ← *bhūyas*
 - \[noun\], instrumental, singular, neuter
 - “more(a); more(a); abounding in(p); stronger; bigger.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasnam* ← *vasna*
 - \[noun\], accusative, singular, neuter
 - “vasna \[word\]; price.”
-------------------------------------------------------------------------
+
+_________
+
 - *acarat* ← *car*
 - \[verb\], singular, Imperfect
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanīyo* ← *kanīyaḥ* ← *kanīyas*
 - \[noun\], accusative, singular, neuter
 - “younger; less; smaller; kanīyas \[word\]; inferior; precedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vikrīto* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vikrīto* ← *vikrītaḥ* ← *vikrī* ← *√krī*
 - \[verb noun\], nominative, singular
 - “sell.”
-------------------------------------------------------------------------
+
+_________
+
 - *akāniṣam* ← *kan*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “like; delight; desire.”
-------------------------------------------------------------------------
+
+_________
+
 - *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūyasā* ← *bhūyas*
 - \[noun\], instrumental, singular, neuter
 - “more(a); more(a); abounding in(p); stronger; bigger.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanīyo* ← *kanīyaḥ* ← *kanīyas*
 - \[noun\], accusative, singular, neuter
 - “younger; less; smaller; kanīyas \[word\]; inferior; precedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *nārirecīd* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nārirecīd* ← *arirecīt* ← *ric*
 - \[verb\], singular, Plusquamperfect
 - “empty; liberate; concede; surrender; purge.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīnā* ← *dīnāḥ* ← *dīna*
 - \[noun\], nominative, plural, masculine
 - “sad; miserable; afflicted; blue; shallow.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣā* ← *dakṣāḥ* ← *dakṣa*
 - \[noun\], nominative, plural, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhanti* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṇam* ← *vāṇa*
 - \[noun\], accusative, singular, masculine
 - “music.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

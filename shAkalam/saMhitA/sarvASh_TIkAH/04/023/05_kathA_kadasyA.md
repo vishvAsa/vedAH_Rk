@@ -105,84 +105,124 @@ yé ← yá- (pronoun)
 -   *kathā*
 - \[adverb\]
 - “how.”
-------------------------------------------------------------------------
+
+_________
+
 - *kad*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyuṣṭau* ← *vyuṣṭi*
 - \[noun\], locative, singular, feminine
 - “dawn; happiness; consequence.”
-------------------------------------------------------------------------
+
+_________
+
 - *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *martasya* ← *marta*
 - \[noun\], genitive, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *jujoṣa* ← *juṣ*
 - \[verb\], singular, Perfect indicative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *kathā*
 - \[adverb\]
 - “how.”
-------------------------------------------------------------------------
+
+_________
+
 - *kad*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], nominative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhibhyo* ← *sakhibhyaḥ* ← *sakhi*
 - \[noun\], dative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmaṃ* ← *kāmam* ← *kāma*
 - \[noun\], accusative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 - *suyujaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suyujaṃ* ← *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “amalgamated; harnessed.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatasre* ← *taṃs*
 - \[verb\], plural, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

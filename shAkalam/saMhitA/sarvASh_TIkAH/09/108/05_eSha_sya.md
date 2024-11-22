@@ -82,50 +82,74 @@ krī́ḷan ← √krīḍ- (root)
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *suto* ← *sutaḥ* ← *suta*
 - \[noun\], nominative, singular, masculine
 - “son; child.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vyo* ← *avyaḥ* ← *avya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vārebhiḥ* ← *vāra*
 - \[noun\], instrumental, plural, masculine
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *madintamaḥ* ← *madintama*
 - \[noun\], nominative, singular, masculine
 - “exhilarating; intoxicant.”
-------------------------------------------------------------------------
+
+_________
+
 - *krīﾱann* ← *krīḍan* ← *krīḍ*
 - \[verb noun\], nominative, singular
 - “frolic; love; play; amuse.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmir* ← *ūrmiḥ* ← *ūrmi*
 - \[noun\], nominative, singular, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

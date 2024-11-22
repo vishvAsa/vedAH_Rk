@@ -106,72 +106,106 @@ vimócanam ← vimócana- (nominal stem)
 - \[noun\], accusative, plural, feminine
 - “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
     distant region; Diś; four; example; method; space.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mināti* ← *mī*
 - \[verb\], singular, Present indikative
 - “transgress; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *pradiṣṭā* ← *pradiṣṭāḥ* ← *pradiś* ← *√diś*
 - \[verb noun\], accusative, plural
 - “describe; indicate; name; teach; diagnose.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryaśvaprasūtāḥ* ← *haryaśva*
 - \[noun\], masculine
 - “Indra; Haryaśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryaśvaprasūtāḥ* ← *prasūtāḥ* ← *prasū* ← *√sū*
 - \[verb noun\], accusative, plural
 - “give birth; be born; originate; impel; propel; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaḍ* ← *ānaṭ* ← *naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “reach; achieve; enter (a state); reach.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvana* ← *adhvanaḥ* ← *adhvan*
 - \[noun\], accusative, plural, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvair* ← *aśvaiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *vimocanaṃ* ← *vimocanam* ← *vimocana*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -182,21 +216,29 @@ vimócanam ← vimócana- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tv* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

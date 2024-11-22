@@ -96,68 +96,100 @@ tritā́ya ← tritá- (nominal stem)
 -   *sanema* ← *san*
 - \[verb\], plural, Aorist optative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtibhis* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *taranto* ← *tarantaḥ* ← *tṛ*
 - \[verb noun\], nominative, plural
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛdha* ← *spṛdhaḥ* ← *spṛdh*
 - \[noun\], accusative, plural, feminine
 - “adversary; enemy; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *āryeṇa* ← *ārya*
 - \[noun\], instrumental, singular, masculine
 - “Ārya; Ārya.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyūn* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāṣṭraṃ* ← *tvāṣṭram* ← *tvāṣṭra*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *viśvarūpam* ← *viśvarūpa*
 - \[noun\], accusative, singular, masculine
 - “Viśvarūpa; Vishnu; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *arandhayaḥ* ← *randhay* ← *√radh*
 - \[verb\], singular, Imperfect
 - “subjugate; hand over.”
-------------------------------------------------------------------------
+
+_________
+
 - *sākhyasya* ← *sākhya*
 - \[noun\], genitive, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *tritāya* ← *trita*
 - \[noun\], dative, singular, masculine
 - “Trita.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

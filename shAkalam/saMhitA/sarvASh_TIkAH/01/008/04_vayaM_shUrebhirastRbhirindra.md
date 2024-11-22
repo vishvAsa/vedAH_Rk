@@ -73,40 +73,58 @@ sāsahyā́ma ← √sah- (root)
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūrebhir* ← *śūrebhiḥ* ← *śūra*
 - \[noun\], instrumental, plural, masculine
 - “brave; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *astṛbhir* ← *astṛbhiḥ* ← *astṛ*
 - \[noun\], instrumental, plural, masculine
 - “archer; shot.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāsahyāma* ← *sah*
 - \[verb\], plural, Perfect optative
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanyataḥ* ← *pṛtany*
 - \[verb noun\], accusative, plural
 - “attack.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

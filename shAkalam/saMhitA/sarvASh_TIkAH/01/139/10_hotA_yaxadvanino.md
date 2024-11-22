@@ -124,51 +124,75 @@ sukrátuḥ ← sukrátu- (nominal stem)
 -   *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣad* ← *yakṣat* ← *yaj*
 - \[verb\], singular, Aorist conj./subj.
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanino* ← *vaninaḥ* ← *vanin*
 - \[noun\], genitive, singular, masculine
 - “tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanta* ← *van*
 - \[verb\], singular, Present injunctive
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāryam* ← *vārya*
 - \[noun\], accusative, singular, neuter
 - “precious; valuable.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajati* ← *yaj*
 - \[verb\], singular, Present indikative
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *vena* ← *venaḥ* ← *vena*
 - \[noun\], nominative, singular, masculine
 - “Vena.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣabhiḥ* ← *ukṣan*
 - \[noun\], instrumental, plural, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *puruvārebhir* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruvārebhir* ← *vārebhiḥ* ← *vāra*
 - \[noun\], instrumental, plural, masculine
 - “treasure; choice.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣabhiḥ* ← *ukṣan*
 - \[noun\], instrumental, plural, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jagṛbhmā* ← *grah*
 - \[verb\], plural, Perfect indicative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -176,51 +200,75 @@ sukrátuḥ ← sukrátu- (nominal stem)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūraādiśaṃ* ← *dūraādiśam* ← *dūraādiś*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ślokam* ← *śloka*
 - \[noun\], accusative, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrer* ← *adreḥ* ← *adri*
 - \[noun\], genitive, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanā* ← *tman*
 - \[noun\], accusative, dual, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhārayad* ← *adhārayat* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Imperfect
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *ararindāni* ← *ararinda*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *sukratuḥ* ← *sukratu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 - *purū* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadmāni* ← *sadman*
 - \[noun\], accusative, plural, neuter
 - “seat; house; stable; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratuḥ* ← *sukratu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

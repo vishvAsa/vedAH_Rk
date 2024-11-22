@@ -74,49 +74,69 @@ viśvā́yuḥ ← viśvā́yu- (nominal stem)
 - \[noun\], accusative, plural, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *padāni* ← *pada*
 - \[noun\], accusative, plural, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśvo* ← *paśvaḥ* ← *paśu*
 - \[noun\], genitive, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāyur* ← *viśvāyuḥ* ← *viśvāyu*
 - \[noun\], nominative, singular, masculine
 - “lifelong.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhā*
 - \[adverb\]
 - “secretly.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhaṃ* ← *guham* ← *guha*
 - \[noun\], accusative, singular, masculine
 - “Guha; Skanda; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāḥ* ← *gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

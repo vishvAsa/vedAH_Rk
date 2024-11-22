@@ -87,60 +87,88 @@ vasuvídaḥ ← vasuvíd- (nominal stem)
 -   *suṣvāṇāso* ← *suṣvāṇāsaḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *adribhiś* ← *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *citānā* ← *citānāḥ* ← *cit*
 - \[verb noun\], nominative, plural
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *gor* ← *goḥ* ← *go*
 - \[noun\], genitive, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaci* ← *tvac*
 - \[noun\], locative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhitaḥ* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *asvaran* ← *svar*
 - \[verb\], plural, Imperfect
 - “sing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasuvidaḥ* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasuvidaḥ* ← *vidaḥ* ← *vid*
 - \[noun\], nominative, plural, masculine
 - “finding.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

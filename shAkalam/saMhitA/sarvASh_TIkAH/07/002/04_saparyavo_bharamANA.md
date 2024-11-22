@@ -90,63 +90,93 @@ marjayadhvam ← √mr̥j- (root)
 -   *saparyavo* ← *saparyavaḥ* ← *saparyu*
 - \[noun\], nominative, plural, masculine
 - “deferent.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharamāṇā* ← *bharamāṇāḥ* ← *bhṛ*
 - \[verb noun\], nominative, plural
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhijñu*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛñjate* ← *vṛj*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agnau* ← *agni*
 - \[noun\], locative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājuhvānā* ← *ājuhvānāḥ* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, plural
 - “sacrifice; sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtapṛṣṭham* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtapṛṣṭham* ← *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], accusative, singular, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣadvad* ← *pṛṣadvat*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *marjayadhvam* ← *marjay* ← *√mṛj*
 - \[verb\], plural, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -79,49 +79,71 @@ viśvádhā ← viśvádhā (invariable)
 -   *dūrād* ← *dūrāt*
 - \[adverb\]
 - “far.”
-------------------------------------------------------------------------
+
+_________
+
 - *iheva* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *iheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *saty* ← *satī* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṇapsur* ← *aruṇapsuḥ* ← *aruṇapsu*
 - \[noun\], nominative, singular, feminine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśiśvitat* ← *śvit*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhānuṃ* ← *bhānum* ← *bhānu*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadhātanat* ← *viśvadhā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadhātanat* ← *atanat* ← *tan*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

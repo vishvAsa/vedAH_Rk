@@ -108,68 +108,98 @@ tū́rvatam ← √tūr(v)- ~ tur- (root)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyā* ← *tya*
 - \[noun\], nominative, dual, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jagmyātaṃ* ← *jagmyātam* ← *gam*
 - \[verb\], dual, Perfect optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyā* ← *nāsatyāḥ* ← *nāsatya*
 - \[noun\], vocative, plural, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhībhir* ← *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅga*
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprā* ← *vipra*
 - \[noun\], vocative, dual, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *atriṃ* ← *atrim* ← *atri*
 - \[noun\], accusative, singular, masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mahas* ← *mahaḥ* ← *mah*
 - \[noun\], ablative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamaso* ← *tamasaḥ* ← *tamas*
 - \[noun\], ablative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *'mumuktaṃ* ← *amumuktam* ← *muc*
 - \[verb\], dual, Plusquamperfect
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -177,23 +207,33 @@ tū́rvatam ← √tūr(v)- ~ tur- (root)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *tūrvataṃ* ← *tūrvatam* ← *tūrv*
 - \[verb\], dual, Present imperative
 - “overpower.”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *duritād* ← *duritāt* ← *durita*
 - \[noun\], ablative, singular, neuter
 - “danger; sin; difficulty; difficulty; evil.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

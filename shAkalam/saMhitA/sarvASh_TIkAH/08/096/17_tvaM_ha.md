@@ -108,88 +108,128 @@ tvám ← tvám (pronoun)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *apratimānam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *apratimānam* ← *pratimānam* ← *pratimāna*
 - \[noun\], accusative, singular, neuter
 - “weight.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrin*
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣito* ← *dhṛṣitaḥ* ← *dhṛṣ*
 - \[verb noun\], nominative, singular
 - “dare; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaghantha* ← *han*
 - \[verb\], singular, Perfect indicative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣṇasyāvātiro* ← *śuṣṇasya* ← *śuṣṇa*
 - \[noun\], genitive, singular, masculine
 - “Śuṣṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣṇasyāvātiro* ← *avātiraḥ* ← *avatṛ* ← *√tṛ*
 - \[verb\], singular, Imperfect
 - “descend; be born; incarnate; come out; alight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhatrais* ← *vadhatraiḥ* ← *vadhatra*
 - \[noun\], instrumental, plural, neuter
 - “weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śacyed* ← *śacyā* ← *śacī*
 - \[noun\], instrumental, singular, feminine
 - “Śacī; power; dexterity; ability; aid.”
-------------------------------------------------------------------------
+
+_________
+
 - *śacyed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *avindaḥ* ← *vid*
 - \[verb\], singular, Imperfect
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

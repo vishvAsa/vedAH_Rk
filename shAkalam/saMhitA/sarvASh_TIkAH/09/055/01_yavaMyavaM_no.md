@@ -76,53 +76,77 @@ víśvā ← víśva- (nominal stem)
 -   *yavaṃ* ← *yavam* ← *yava*
 - \[noun\], accusative, singular, masculine
 - “barley; yava; barleycorn; yava \[word\]; yava; yavakṣāra; grain.”
-------------------------------------------------------------------------
+
+_________
+
 - *yavaṃ* ← *yavam* ← *yava*
 - \[noun\], accusative, singular, masculine
 - “barley; yava; barleycorn; yava \[word\]; yava; yavakṣāra; grain.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *andhasā* ← *andhas*
 - \[noun\], instrumental, singular, neuter
 - “Soma; drink; amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣṭaṃ* ← *puṣṭam* ← *puṣṭa*
 - \[noun\], accusative, singular, neuter
 - “prosperity; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣṭaṃ* ← *puṣṭam* ← *puṣṭa*
 - \[noun\], accusative, singular, neuter
 - “prosperity; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *saubhagā* ← *saubhaga*
 - \[noun\], accusative, plural, neuter
 - “well-being.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

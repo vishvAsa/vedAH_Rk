@@ -105,84 +105,122 @@ péravaḥ ← péru- (nominal stem)
 -   *ātmanvan* ← *ātmanvat*
 - \[noun\], nominative, singular, neuter
 - “live.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabho* ← *nabhaḥ* ← *nabhas*
 - \[noun\], nominative, singular, neuter
 - “sky; cloud; ākāśa; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhyate* ← *duh*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtam* ← *ghṛta*
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *paya* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *nābhir* ← *nābhiḥ* ← *nābhi*
 - \[noun\], nominative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], nominative, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyate* ← *jan*
 - \[verb\], singular, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *samīcīnāḥ* ← *samīcīna*
 - \[noun\], nominative, plural, masculine
 - “combined; real.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānavaḥ* ← *sudānu*
 - \[noun\], nominative, plural, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *prīṇanti* ← *prī*
 - \[verb\], plural, Present indikative
 - “delight; gladden; satisfy; nutrify; comfort.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *hitam* ← *hi*
 - \[verb noun\], accusative, singular
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *mehanti* ← *mih*
 - \[verb\], plural, Present indikative
 - “make; moisten.”
-------------------------------------------------------------------------
+
+_________
+
 - *peravaḥ* ← *peru*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

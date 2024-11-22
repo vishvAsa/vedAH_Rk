@@ -99,81 +99,119 @@ yójanāni ← yójana- (nominal stem)
 -   *uṣasāṃ* ← *uṣasām* ← *uṣas*
 - \[noun\], genitive, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ketavo* ← *ketavaḥ* ← *ketu*
 - \[noun\], nominative, plural, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dhvaraśriyaḥ* ← *adhvara*
 - \[noun\], masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *'dhvaraśriyaḥ* ← *śriyaḥ* ← *śrī*
 - \[noun\], nominative, plural, masculine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhaṃyavo* ← *śubhaṃyavaḥ* ← *śubhaṃyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nāñjibhir* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāñjibhir* ← *añjibhiḥ* ← *añji*
 - \[noun\], instrumental, plural, masculine
 - “color; ointment; adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvitan* ← *śvit*
 - \[verb\], plural, Root aorist (Ind.)
 - “shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yayiyo* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājadṛṣṭayaḥ* ← *bhrājat* ← *bhrāj*
 - \[verb noun\]
 - “shine; glitter; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājadṛṣṭayaḥ* ← *ṛṣṭayaḥ* ← *ṛṣṭi*
 - \[noun\], nominative, plural, masculine
 - “spear.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāvato* ← *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yojanāni* ← *yojana*
 - \[noun\], accusative, plural, neuter
 - “yojana; use; yojana \[word\]; team.”
-------------------------------------------------------------------------
+
+_________
+
 - *mamire* ← *mā*
 - \[verb\], plural, Perfect indicative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

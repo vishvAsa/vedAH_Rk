@@ -73,42 +73,60 @@ ukthyàm ← ukthyà- (nominal stem)
 -   *saptim* ← *sapti*
 - \[noun\], accusative, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedhaso* ← *vedhasaḥ* ← *vedhas*
 - \[noun\], nominative, plural, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇantaḥ* ← *gṛ*
 - \[verb noun\], nominative, plural
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāravo* ← *kāravaḥ* ← *kāru*
 - \[noun\], nominative, plural, masculine
 - “poet; singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *girā* ← *giri*
 - \[noun\], locative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *jajñānam* ← *jan*
 - \[verb noun\], accusative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthyam* ← *ukthya*
 - \[noun\], accusative, singular, neuter
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

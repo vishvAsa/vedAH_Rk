@@ -102,88 +102,128 @@ sadhamā́de ← sadhamā́da- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *namovṛdhaṃ* ← *namaḥ* ← *namas*
 - \[noun\], neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *namovṛdhaṃ* ← *vṛdham* ← *vṛdh*
 - \[noun\], accusative, singular, masculine
 - “increasing.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣā* ← *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, masculine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *haribhir* ← *haribhiḥ* ← *hari*
 - \[noun\], instrumental, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *tūyam* ← *tūya*
 - \[noun\], accusative, singular, neuter
 - “quick; fast; potent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *matibhir* ← *matibhiḥ* ← *mati*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *johavīmi* ← *johav* ← *√hvā*
 - \[verb\], singular, Present indikative
 - “appeal.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtaprayāḥ* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtaprayāḥ* ← *prayāḥ* ← *prayas*
 - \[noun\], nominative, singular, masculine
 - “food; dainty; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhamāde* ← *sadhamāda*
 - \[noun\], locative, singular, masculine
 - “banquet; party; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhūnām* ← *madhu*
 - \[noun\], genitive, plural, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

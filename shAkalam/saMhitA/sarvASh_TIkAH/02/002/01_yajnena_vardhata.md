@@ -93,69 +93,101 @@ vr̥jáneṣu ← vr̥jána- (nominal stem)
 -   *yajñena* ← *yajña*
 - \[noun\], instrumental, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhata* ← *vṛdh*
 - \[verb\], plural, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedasam* ← *jātavedas*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajadhvaṃ* ← *yajadhvam* ← *yaj*
 - \[verb\], plural, Present imperative
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tanā* ← *tan*
 - \[noun\], instrumental, singular, feminine
 - “continuity; sequence; longevity.”
-------------------------------------------------------------------------
+
+_________
+
 - *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *samidhānaṃ* ← *samidhānam* ← *samindh* ← *√indh*
 - \[verb noun\], accusative, singular
 - “kindle; blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *suprayasaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suprayasaṃ* ← *prayasam* ← *prayas*
 - \[noun\], accusative, singular, masculine
 - “food; dainty; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarṇaraṃ* ← *svarṇaram* ← *svarṇara*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dyukṣaṃ* ← *dyukṣam* ← *dyukṣa*
 - \[noun\], accusative, singular, masculine
 - “celestial; divine; divine; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjaneṣu* ← *vṛjana*
 - \[noun\], locative, plural, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūrṣadam* ← *dhūrṣad*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

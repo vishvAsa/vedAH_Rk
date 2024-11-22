@@ -79,50 +79,72 @@ yáḥ ← yá- (pronoun)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvayā* ← *jihvā*
 - \[noun\], instrumental, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *bādhasva* ← *bādh*
 - \[verb\], singular, Present imperative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *duṣkṛtam* ← *duṣkṛt*
 - \[noun\], accusative, singular, masculine
 - “wicked.”
-------------------------------------------------------------------------
+
+_________
+
 - *marto* ← *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *jighāṃsati* ← *jighāṃs* ← *√han*
 - \[verb\], singular, Present indikative
 - “kill.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

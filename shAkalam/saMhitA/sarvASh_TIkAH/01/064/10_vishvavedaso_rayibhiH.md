@@ -88,67 +88,99 @@ vŕ̥ṣakhādayaḥ ← vŕ̥ṣakhādi- (nominal stem)
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedaso* ← *vedasaḥ* ← *vedas*
 - \[noun\], nominative, plural, masculine
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayibhiḥ* ← *rayi*
 - \[noun\], instrumental, plural, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *samokasaḥ* ← *samokas*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sammiślāsas* ← *sammiślāsaḥ* ← *sammiśla*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣībhir* ← *taviṣībhiḥ* ← *taviṣī*
 - \[noun\], instrumental, plural, feminine
 - “strength; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *virapśinaḥ* ← *virapśin*
 - \[noun\], nominative, plural, masculine
 - “exuberant; copious; ample.”
-------------------------------------------------------------------------
+
+_________
+
 - *astāra* ← *astāraḥ* ← *astṛ*
 - \[noun\], nominative, plural, masculine
 - “archer; shot.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣuṃ* ← *iṣum* ← *iṣu*
 - \[noun\], accusative, singular, masculine
 - “arrow; iṣu \[word\]; iṣ; five; munj.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhastyor* ← *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *anantaśuṣmā* ← *ananta*
 - \[noun\]
 - “infinite; ananta \[word\]; countless; permanent; boundless.”
-------------------------------------------------------------------------
+
+_________
+
 - *anantaśuṣmā* ← *śuṣmāḥ* ← *śuṣma*
 - \[noun\], nominative, plural, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣakhādayo* ← *vṛṣa* ← *vṛṣan*
 - \[noun\]
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣakhādayo* ← *khādayaḥ* ← *khādi*
 - \[noun\], nominative, plural, masculine
 - “ring.”
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

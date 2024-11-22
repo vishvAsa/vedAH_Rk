@@ -104,84 +104,124 @@ vipā́ ← víp- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsaṃ* ← *dāsam* ← *dāsa*
 - \[noun\], accusative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvīravam* ← *tuvīrava*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *dan*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṣaḍakṣaṃ* ← *ṣaṣ*
 - \[noun\]
 - “six; ṣaṣ; sixth; ṣaṣ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣaḍakṣaṃ* ← *akṣam* ← *akṣa*
 - \[noun\], accusative, singular, masculine
 - “eye; akṣa \[word\]; hole.”
-------------------------------------------------------------------------
+
+_________
+
 - *triśīrṣāṇaṃ* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *triśīrṣāṇaṃ* ← *śīrṣāṇam* ← *śīrṣan*
 - \[noun\], accusative, singular, masculine
 - “head; śīrṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *damanyat* ← *damany* ← *√dam*
 - \[verb\], singular, Imperfect
 - “suppress; tame.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *trito* ← *tritaḥ* ← *trita*
 - \[noun\], nominative, singular, masculine
 - “Trita.”
-------------------------------------------------------------------------
+
+_________
+
 - *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdhāno* ← *vṛdhānaḥ* ← *vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipā* ← *vip*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *varāham* ← *varāha*
 - \[noun\], accusative, singular, masculine
 - “hog; wild boar; boar; Varaha; vārāhapuṭa; varāha \[word\]; Varāha;
     Varāha.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayoagrayā* ← *ayoagra*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *han*
 - \[verb\], singular, Present injunctive
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

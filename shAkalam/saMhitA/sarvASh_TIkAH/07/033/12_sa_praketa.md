@@ -98,80 +98,116 @@ vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *praketa* ← *praketaḥ* ← *praketa*
 - \[noun\], nominative, singular, masculine
 - “sight; knowledge; appearance.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhayasya* ← *ubhaya*
 - \[noun\], genitive, singular, neuter
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *pravidvān* ← *pravid* ← *√vid*
 - \[verb noun\], nominative, singular
 - “anticipate; know; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasradāna* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasradāna* ← *dānaḥ* ← *dāna*
 - \[noun\], nominative, singular, masculine
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadānaḥ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadānaḥ* ← *dānaḥ* ← *dāna*
 - \[noun\], nominative, singular, masculine
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamena* ← *yama*
 - \[noun\], instrumental, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatam* ← *tan*
 - \[verb noun\], accusative, singular
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *paridhiṃ* ← *paridhim* ← *paridhi*
 - \[noun\], accusative, singular, masculine
 - “covering; circumference; Paridhi; halo; fence.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayiṣyann* ← *vayiṣyan* ← *ve*
 - \[verb noun\], nominative, singular
 - “weave.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsarasaḥ* ← *apsaras*
 - \[noun\], ablative, singular, feminine
 - “Apsaras.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *jajñe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭhaḥ* ← *vasiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

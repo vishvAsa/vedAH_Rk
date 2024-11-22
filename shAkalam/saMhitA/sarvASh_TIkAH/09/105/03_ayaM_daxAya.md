@@ -76,44 +76,64 @@ sutáḥ ← √su- (root)
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣāya* ← *dakṣa*
 - \[noun\], dative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhano* ← *sādhanaḥ* ← *sādhana*
 - \[noun\], nominative, singular, masculine
 - “effective; performing.”
-------------------------------------------------------------------------
+
+_________
+
 - *'yaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *vītaye* ← *vī*
 - \[verb noun\]
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumattamaḥ* ← *madhumattama*
 - \[noun\], nominative, singular, masculine
 - “sweetest.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

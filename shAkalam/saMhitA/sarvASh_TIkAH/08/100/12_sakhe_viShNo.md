@@ -102,84 +102,120 @@ yantu ← √i- 1 (root)
 -   *sakhe* ← *sakhi*
 - \[noun\], vocative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṇo* ← *viṣṇu*
 - \[noun\], vocative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vitaraṃ* ← *vitaram*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *kramasva* ← *kram*
 - \[verb\], singular, Present imperative
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], vocative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *dehi* ← *dā*
 - \[verb\], singular, Present imperative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *lokaṃ* ← *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrāya* ← *vajra*
 - \[noun\], dative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣkabhe* ← *viṣkambh* ← *√skambh*
 - \[verb noun\]
 - “stop; prop up; fixate.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanāva* ← *han*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *riṇacāva* ← *ric*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “empty; liberate; concede; surrender; purge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhūn* ← *sindhu*
 - \[noun\], accusative, plural, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasave* ← *prasava*
 - \[noun\], locative, singular, masculine
 - “stimulation.”
-------------------------------------------------------------------------
+
+_________
+
 - *visṛṣṭāḥ* ← *visṛj* ← *√sṛj*
 - \[verb noun\], nominative, plural
 - “dismiss; emit; shoot; secrete; hand over; lose; abandon; disperse;
     make; emit; utter; shoot; ejaculate; spill; give; discard; refrain
     from; discontinue; throw.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

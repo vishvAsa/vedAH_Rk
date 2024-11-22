@@ -129,101 +129,149 @@ madhulā́ ← madhulá- (nominal stem)
 - \[noun\], locative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣam* ← *viṣa*
 - \[noun\], accusative, singular, neuter
 - “poison; poisoning; viṣa; venom; vatsanābha; Aconitum Ferox; viṣa
     \[word\]; Viṣa; myrrh; myrrh.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sajāmi* ← *sañj*
 - \[verb\], singular, Present indikative
 - “adhere; cling; cling; break.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛtiṃ* ← *dṛtim* ← *dṛti*
 - \[noun\], accusative, singular, masculine
 - “hose; dṛti \[word\]; hide; bladder.”
-------------------------------------------------------------------------
+
+_________
+
 - *surāvato* ← *surāvataḥ* ← *surāvat*
 - \[noun\], genitive, singular, masculine
 - “bibulous.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 - *so* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *so* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *marāti* ← *mṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “mṛ; die; disappear; go out.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *marāmāre* ← *marāma* ← *mṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “mṛ; die; disappear; go out.”
-------------------------------------------------------------------------
+
+_________
+
 - *marāmāre* ← *āre*
 - \[adverb\]
 - “far.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yojanaṃ* ← *yojanam* ← *yojana*
 - \[noun\], accusative, singular, neuter
 - “yojana; use; yojana \[word\]; team.”
-------------------------------------------------------------------------
+
+_________
+
 - *hariṣṭhā* ← *hariṣṭhāḥ* ← *hariṣṭhā*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], nominative, singular, neuter
 - “sweet; deft.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhulā* ← *madhula*
 - \[noun\], accusative, plural, neuter
 - “sweet.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -234,7 +282,9 @@ madhulā́ ← madhulá- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

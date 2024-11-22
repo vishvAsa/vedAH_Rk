@@ -94,72 +94,104 @@ yájamāneṣu ← √yaj- (root)
 - \[noun\], accusative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pitaro* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *havante* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇā*
 - \[adverb\]
 - “southward; dakṣiṇā \[word\]; right.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhinakṣamāṇāḥ* ← *abhinakṣ* ← *√nakṣ*
 - \[verb noun\], nominative, plural
 - “approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrārgham* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrārgham* ← *argham* ← *argha*
 - \[noun\], accusative, singular, masculine
 - “cordial reception; argha \[word\]; price.”
-------------------------------------------------------------------------
+
+_________
+
 - *iḍo* ← *iḍaḥ* ← *iḍ*
 - \[noun\], genitive, singular, feminine
 - “refreshment; libation.”
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāgaṃ* ← *bhāgam* ← *bhāga*
 - \[noun\], accusative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyas* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *poṣaṃ* ← *poṣam* ← *poṣa*
 - \[noun\], accusative, singular, masculine
 - “prosperity; poṣa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamāneṣu* ← *yajamāna*
 - \[noun\], locative, plural, masculine
 - “Yajamāna.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

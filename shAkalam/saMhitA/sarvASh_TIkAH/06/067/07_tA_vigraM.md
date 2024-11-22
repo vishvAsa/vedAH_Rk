@@ -107,88 +107,130 @@ yát ← yá- (pronoun)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vigraṃ* ← *vigram* ← *vigra*
 - \[noun\], accusative, singular, neuter
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhaithe* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṭharam* ← *jaṭhara*
 - \[noun\], accusative, singular, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇadhyā* ← *pṛṇadhyai* ← *pṛṇ*
 - \[verb noun\]
 - “satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadma* ← *sadman*
 - \[noun\], accusative, singular, neuter
 - “seat; house; stable; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *sabhṛtayaḥ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sabhṛtayaḥ* ← *bhṛtayaḥ* ← *bhṛti*
 - \[noun\], nominative, plural, masculine
 - “rental; support; wage.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇanti* ← *pṛṇ*
 - \[verb\], plural, Present indikative
 - “satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛṣyante* ← *mṛṣ*
 - \[verb\], plural, Present indikative
 - “forgive; endure; heed; pardon; neglect; forget.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvatayo* ← *yuvatayaḥ* ← *yuvati*
 - \[noun\], nominative, plural, feminine
 - “girl; woman.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vātā* ← *avātāḥ* ← *avāta*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *payo* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvajinvā* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvajinvā* ← *jinvāḥ* ← *jinva*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *bharante* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

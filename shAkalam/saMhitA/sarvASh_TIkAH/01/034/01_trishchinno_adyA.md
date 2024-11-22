@@ -111,92 +111,134 @@ manīṣíbhiḥ ← manīṣín- (nominal stem)
 -   *triś* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavataṃ* ← *bhavatam* ← *bhū*
 - \[verb\], dual, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *navedasā* ← *navedas*
 - \[noun\], nominative, dual, masculine
 - “cognizant; navedas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhur* ← *vibhuḥ* ← *vibhu*
 - \[noun\], nominative, singular, masculine
 - “mighty; abundant; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāma* ← *yāmaḥ* ← *yāma*
 - \[noun\], nominative, singular, masculine
 - “prahara; watch; travel; path.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātir* ← *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yantraṃ* ← *yantram* ← *yantra*
 - \[noun\], nominative, singular, neuter
 - “alchemical apparatus; surgical instrument; machine; implement;
     instrument; tool; tie; mechanism.”
-------------------------------------------------------------------------
+
+_________
+
 - *himyeva* ← *himyā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *himyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāsaso* ← *vāsasaḥ* ← *vāsas*
 - \[noun\], genitive, singular, neuter
 - “clothing; fabric; garment; feather; dress; envelope.”
-------------------------------------------------------------------------
+
+_________
+
 - *'bhyāyaṃsenyā* ← *abhyāyaṃsenyā* ← *abhyāyam* ← *√yam*
 - \[verb noun\], nominative, dual
-------------------------------------------------------------------------
+
+_________
+
 - *bhavatam* ← *bhū*
 - \[verb\], dual, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣibhiḥ* ← *manīṣin*
 - \[noun\], instrumental, plural, masculine
 - “sage; expert; devout.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

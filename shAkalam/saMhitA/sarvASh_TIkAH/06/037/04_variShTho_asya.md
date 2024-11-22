@@ -99,70 +99,104 @@ ví ← ví (invariable)
 -   *variṣṭho* ← *variṣṭhaḥ* ← *variṣṭha*
 - \[noun\], nominative, singular, masculine
 - “best; preferable.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇām* ← *dakṣiṇā*
 - \[noun\], accusative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyartīndro* ← *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyartīndro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghonāṃ* ← *maghonām* ← *maghavan*
 - \[noun\], genitive, plural, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvikūrmitamaḥ* ← *tuvikūrmitama*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrivaḥ* ← *vajrivas* ← *vajrivat*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pariyāsy* ← *pariyāsi* ← *pariyā* ← *√yā*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *aṃho* ← *aṃhaḥ* ← *aṃhas*
 - \[noun\], accusative, singular, neuter
 - “trouble; sin.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghā* ← *magha*
 - \[noun\], accusative, plural, neuter
 - “gift; wealth; reward; wages; reward.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇo* ← *dhṛṣṇu*
 - \[noun\], vocative, singular, masculine
 - “brave; ferocious; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *dayase* ← *day*
 - \[verb\], singular, Present indikative
 - “share.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrīn* ← *sūri*
 - \[noun\], accusative, plural, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -113,90 +113,130 @@ vittám ← √vid- 2 (root)
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadāmi* ← *vad*
 - \[verb\], singular, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *kānicit* ← *kānicid* ← *kaścit*
 - \[noun\], accusative, plural, neuter
 - “any(a); some(a); some(a); some(a); some(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyanty* ← *vyanti* ← *vī*
 - \[verb\], plural, Present indikative
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādhyo* ← *ādhyaḥ* ← *ādhī*
 - \[noun\], nominative, plural, feminine
 - “longing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛko* ← *vṛkaḥ* ← *vṛka*
 - \[noun\], nominative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛṣṇajam* ← *tṛṣṇaj*
 - \[noun\], accusative, singular, masculine
 - “thirsty.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛgaṃ* ← *mṛgam* ← *mṛga*
 - \[noun\], accusative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *vittam* ← *vid*
 - \[verb\], dual, Present imperative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], vocative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

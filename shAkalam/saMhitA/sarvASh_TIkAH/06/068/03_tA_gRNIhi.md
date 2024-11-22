@@ -98,72 +98,104 @@ vr̥jáneṣu ← vr̥jána- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇīhi* ← *gṛ*
 - \[verb\], singular, Present imperative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasyebhiḥ* ← *namasya*
 - \[noun\], instrumental, plural, masculine
 - “honorable; august; respectful; esteemed.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūṣaiḥ* ← *śūṣa*
 - \[noun\], instrumental, plural, masculine
 - “song; energy.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnebhir* ← *sumnebhiḥ* ← *sumna*
 - \[noun\], instrumental, plural, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], accusative, dual, masculine
 - “Varuna; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakānā* ← *kan*
 - \[verb noun\], accusative, dual
 - “like; delight; desire.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajreṇānyaḥ* ← *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajreṇānyaḥ* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣakty* ← *siṣakti* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyo* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjaneṣu* ← *vṛjana*
 - \[noun\], locative, plural, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

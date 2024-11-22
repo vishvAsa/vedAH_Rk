@@ -105,81 +105,119 @@ rā́jānaḥ ← rā́jan- (nominal stem)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhuḥ* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaradam* ← *śarad*
 - \[noun\], accusative, singular, feminine
 - “fall; year; śarad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *māsam* ← *māsa*
 - \[noun\], accusative, singular, masculine
 - “month; lunar month; māsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahar*
 - \[noun\], accusative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *aktuṃ* ← *aktum* ← *aktu*
 - \[noun\], accusative, singular, masculine
 - “night; dark; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *cād* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛcam* ← *ṛc*
 - \[noun\], accusative, singular, feminine
 - “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
-------------------------------------------------------------------------
+
+_________
+
 - *anāpyaṃ* ← *anāpyam* ← *anāpya*
 - \[noun\], accusative, singular, neuter
 - “unachievable.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatraṃ* ← *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājāna* ← *rājānaḥ* ← *rājan*
 - \[noun\], nominative, plural, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśata* ← *aś*
 - \[verb\], plural, Root aorist (Ind.)
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,34 +105,48 @@ tvám ← tvám (pronoun)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍito* ← *īḍitaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedo* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vāḍḍhavyāni* ← *avāṭ* ← *vah*
 - \[verb\], singular, Root aorist (Ind.)
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vāḍḍhavyāni* ← *havyāni* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *surabhīṇi* ← *surabhi*
 - \[noun\], accusative, plural, neuter
 - “fragrant; perfumed; surabhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtvī* ← *kṛ*
 - \[verb noun\]
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -143,53 +157,75 @@ tvám ← tvám (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *prādāḥ* ← *pradā* ← *√dā*
 - \[verb\], singular, Root aorist (Ind.)
 - “give; perform; add; administer; put; fuel; sacrifice; offer; hand
     over; use.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitṛbhyaḥ* ← *pitṛ*
 - \[noun\], dative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhayā* ← *svadhā*
 - \[noun\], instrumental, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣann* ← *akṣan* ← *ghas*
 - \[verb\], plural, Root aorist (Ind.)
 - “eat.”
-------------------------------------------------------------------------
+
+_________
+
 - *addhi* ← *ad*
 - \[verb\], singular, Present imperative
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayatā* ← *prayam* ← *√yam*
 - \[verb noun\], accusative, plural
 - “give; emit; send; transmit.”
-------------------------------------------------------------------------
+
+_________
+
 - *havīṃṣi* ← *havis*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

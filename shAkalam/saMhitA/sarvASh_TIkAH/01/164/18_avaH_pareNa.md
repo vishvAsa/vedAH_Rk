@@ -105,87 +105,125 @@ prájātam ← √janⁱ- (root)
 -   *avaḥ* ← *avas*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *pareṇa* ← *para*
 - \[noun\], instrumental, singular, neuter
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitaraṃ* ← *pitaram* ← *pitṛ*
 - \[noun\], accusative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asyānuveda* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyānuveda* ← *anuveda* ← *anuvid* ← *√vid*
 - \[verb\], singular, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *para* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *enāvareṇa* ← *enā* ← *idam*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *enāvareṇa* ← *avareṇa* ← *avara*
 - \[noun\], instrumental, singular, neuter
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavīyamānaḥ* ← *kavīy*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *ka* ← *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vocad* ← *vocat* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuto* ← *kutas*
 - \[adverb\]
 - “how; whence; why.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajātam* ← *prajan* ← *√jan*
 - \[verb noun\], accusative, singular
 - “become; originate; result; be born; give birth; beget; grow;
     issue.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

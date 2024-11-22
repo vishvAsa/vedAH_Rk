@@ -102,84 +102,122 @@ vanute ← √vanⁱ- (root)
 -   *kiyatī* ← *kiyat*
 - \[noun\], nominative, singular, feminine
 - “some(a); some(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣā*
 - \[noun\], nominative, singular, feminine
 - “woman; puppet; daughter.”
-------------------------------------------------------------------------
+
+_________
+
 - *maryato* ← *maryataḥ* ← *marya*
 - \[noun\], ablative, singular, masculine
 - “young buck; boyfriend.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhūyoḥ* ← *vadhūyu*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pariprītā* ← *pariprī* ← *√prī*
 - \[verb noun\], nominative, dual
-------------------------------------------------------------------------
+
+_________
+
 - *panyasā* ← *panyas*
 - \[noun\], instrumental, singular, neuter
 - “precious.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāryeṇa* ← *vārya*
 - \[noun\], instrumental, singular, neuter
 - “wealth.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadra*
 - \[noun\], nominative, singular, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhūr* ← *vadhūḥ* ← *vadhū*
 - \[noun\], nominative, singular, feminine
 - “wife; woman; bride; female; Trigonella corniculata; female; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *supeśāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supeśāḥ* ← *peśāḥ* ← *peśas*
 - \[noun\], nominative, singular, feminine
 - “decoration; shape.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayaṃ* ← *svayam*
 - \[adverb\]
 - “personally; spontaneously; svayam \[word\]; voluntarily.”
-------------------------------------------------------------------------
+
+_________
+
 - *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanute* ← *van*
 - \[verb\], singular, Present indikative
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -111,87 +111,129 @@ yáḥ ← yá- (pronoun)
 -   *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinvāno* ← *hinvānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭa* ← *vas*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dhukṣan* ← *adhukṣan* ← *duh*
 - \[verb\], plural, sa aorist (Ind.)
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīm*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *avibhir* ← *avibhiḥ* ← *avi*
 - \[noun\], instrumental, plural, masculine
 - “sheep; avi \[word\]; menstruating woman; ewe.”
-------------------------------------------------------------------------
+
+_________
+
 - *adribhir* ← *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibendra* ← *pibā* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāhā*
 - \[adverb\]
 - “hail.”
-------------------------------------------------------------------------
+
+_________
+
 - *prahutaṃ* ← *prahutam* ← *prahu* ← *√hu*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *vaṣaṭkṛtaṃ* ← *vaṣaṭkṛtam* ← *vaṣaṭkṛ* ← *√kṛ*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *hotrād* ← *hotrāt* ← *hotra*
 - \[noun\], ablative, singular, neuter
 - “yajña; sacrifice.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamo* ← *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īśiṣe* ← *īś*
 - \[verb\], singular, Present indikative
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

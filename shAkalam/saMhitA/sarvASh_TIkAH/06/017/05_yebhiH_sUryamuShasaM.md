@@ -105,87 +105,125 @@ svā́t ← svá- (pronoun)
 -   *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasam* ← *uṣas*
 - \[noun\], accusative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandasāno* ← *mandasānaḥ* ← *mand*
 - \[verb noun\], nominative, singular
 - “rejoice; exhilarate.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vāsayo* ← *avāsayaḥ* ← *vāsay* ← *√vas*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *'pa* ← *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛﾱhāni* ← *dṛḍha*
 - \[noun\], accusative, plural, neuter
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
-------------------------------------------------------------------------
+
+_________
+
 - *dardrat* ← *dardar* ← *√dṛ*
 - \[verb noun\], nominative, singular
 - “cleave.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahām* ← *mahat*
 - \[noun\], accusative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *santaṃ* ← *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *nutthā* ← *nutthāḥ* ← *nud*
 - \[verb\], singular, Aorist inj. (proh.)
 - “push; propel; expel; push; move.”
-------------------------------------------------------------------------
+
+_________
+
 - *acyutaṃ* ← *acyutam* ← *acyuta*
 - \[noun\], accusative, singular, masculine
 - “firm; regular; permanent; immovable; unchanging.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadasas* ← *sadasaḥ* ← *sadas*
 - \[noun\], ablative, singular, neuter
 - “mansion; assembly; seat; seat.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāt* ← *sva*
 - \[noun\], ablative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,54 +96,80 @@ yujyā́tām ← √yuj- (root)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmāṇo* ← *brahmāṇaḥ* ← *brahman*
 - \[noun\], nominative, plural, masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgiraso* ← *aṅgirasaḥ* ← *aṅgiras*
 - \[noun\], nominative, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣanta* ← *nakṣ*
 - \[verb\], plural, Present injunctive
 - “reach; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *krandanur* ← *krandanuḥ* ← *krandanu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nabhanyasya* ← *nabhanya*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vetu* ← *vī*
 - \[verb\], singular, Present imperative
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenava* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *udapruto* ← *uda*
 - \[noun\], neuter
 - “water.”
-------------------------------------------------------------------------
+
+_________
+
 - *udapruto* ← *prutaḥ* ← *prut*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *navanta* ← *nū*
 - \[verb\], plural, Present injunctive
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujyātām* ← *yuj*
 - \[verb\], dual, Aorist optative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -151,19 +177,27 @@ yujyā́tām ← √yuj- (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrī* ← *adri*
 - \[noun\], nominative, dual, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvarasya* ← *adhvara*
 - \[noun\], genitive, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *peśaḥ* ← *peśas*
 - \[noun\], accusative, singular, neuter
 - “decoration; shape.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

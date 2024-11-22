@@ -102,63 +102,93 @@ yáthā ← yáthā (invariable)
 -   *nikhātaṃ* ← *nikhātam* ← *nikhan* ← *√khan*
 - \[verb noun\], accusative, singular
 - “bury; insert.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *purusaṃbhṛtaṃ* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purusaṃbhṛtaṃ* ← *saṃbhṛtam* ← *sambhṛ* ← *√bhṛ*
 - \[verb noun\], accusative, singular
 - “gather; collect; fill; mix; fill into; produce.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūd* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūd* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapati* ← *vap*
 - \[verb\], singular, Present indikative
 - “sow; bestrew; strew; scatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrī* ← *vajrin*
 - \[noun\], nominative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśipro* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśipro* ← *śipraḥ* ← *śiprā*
 - \[noun\], nominative, singular, masculine
 - “lip; śiprā.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryaśva* ← *haryaśvaḥ* ← *haryaśva*
 - \[noun\], nominative, singular, masculine
 - “Indra; Haryaśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *karad* ← *karat* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -169,25 +199,35 @@ yáthā ← yáthā (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaśat* ← *vaś*
 - \[verb\], singular, Present injunctive
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

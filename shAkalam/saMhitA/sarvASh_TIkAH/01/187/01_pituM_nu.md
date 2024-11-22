@@ -87,53 +87,79 @@ vr̥trám ← vr̥trá- (nominal stem)
 -   *pituṃ* ← *pitum* ← *pitu*
 - \[noun\], accusative, singular, masculine
 - “food.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *stoṣam* ← *stu*
 - \[verb\], singular, Aorist inj. (proh.)
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharmāṇaṃ* ← *dharmāṇam* ← *dharman*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣīm* ← *taviṣī*
 - \[noun\], accusative, singular, feminine
 - “strength; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *trito* ← *tritaḥ* ← *trita*
 - \[noun\], nominative, singular, masculine
 - “Trita.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viparvam* ← *viparva*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ardayat* ← *arday* ← *√ṛd*
 - \[verb\], singular, Present injunctive
 - “afflict; afflict; affect; distress; torment; impel; grind; suffer.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

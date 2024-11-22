@@ -96,75 +96,107 @@ usríyāsu ← usríya- (nominal stem)
 -   *imau* ← *idam*
 - \[noun\], accusative, dual, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *devau* ← *deva*
 - \[noun\], accusative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyamānau* ← *jan*
 - \[verb noun\], accusative, dual
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣantemau* ← *juṣanta* ← *juṣ*
 - \[verb\], plural, Present injunctive
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣantemau* ← *imau* ← *idam*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamāṃsi* ← *tamas*
 - \[noun\], accusative, plural, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *gūhatām* ← *guh*
 - \[verb\], dual, Imperfect
 - “hide; cover; conceal; shroud; obscure.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajuṣṭā* ← *ajuṣṭa*
 - \[noun\], accusative, plural, neuter
 - “unpleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhyām* ← *idam*
 - \[noun\], instrumental, dual, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pakvam* ← *pakva*
 - \[noun\], accusative, singular, neuter
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
-------------------------------------------------------------------------
+
+_________
+
 - *āmāsv* ← *āmāsu* ← *āma*
 - \[noun\], locative, plural, feminine
 - “uncooked; unfestering; unburnt; green; undigested; fusty; raw.”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *somāpūṣabhyāṃ* ← *somāpūṣabhyām* ← *somāpūṣan*
 - \[noun\], instrumental, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *janad* ← *janat* ← *jan*
 - \[verb\], singular, Present injunctive
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *usriyāsu* ← *usriyā*
 - \[noun\], locative, plural, feminine
 - “cow; dairy product.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

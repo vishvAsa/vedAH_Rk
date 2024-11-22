@@ -73,44 +73,64 @@ sómasya ← sóma- (nominal stem)
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahāmaho* ← *mahā* ← *mahat*
 - \[noun\]
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahāmaho* ← *mahaḥ* ← *maha*
 - \[noun\], nominative, singular, masculine
 - “great; abundant.”
-------------------------------------------------------------------------
+
+_________
+
 - *'bhinabhyam* ← *abhinabhyam*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *udīṣitaḥ* ← *udīṣita*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasyāpām* ← *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasyāpām* ← *apām* ← *pā*
 - \[verb\], singular, Root aorist (Ind.)
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

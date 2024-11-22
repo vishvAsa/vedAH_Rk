@@ -113,89 +113,131 @@ rāmáyat ← √ram- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *turvaṇir* ← *turvaṇiḥ* ← *turvaṇi*
 - \[noun\], nominative, singular, masculine
 - “victorious; overpowering.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *areṇu*
 - \[noun\], accusative, singular, neuter
 - “clean.”
-------------------------------------------------------------------------
+
+_________
+
 - *pauṃsye* ← *pauṃsya*
 - \[noun\], locative, singular, neuter
 - “manfulness; deed; army; strength.”
-------------------------------------------------------------------------
+
+_________
+
 - *girer* ← *gireḥ* ← *giri*
 - \[noun\], genitive, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhṛṣṭir* ← *bhṛṣṭiḥ* ← *bhṛṣṭi*
 - \[noun\], nominative, singular, feminine
 - “spike.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājate* ← *bhrāj*
 - \[verb\], singular, Present indikative
 - “shine; glitter; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *tujā* ← *tuj*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *śavaḥ* ← *śavas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyinam* ← *māyin*
 - \[noun\], accusative, singular, masculine
 - “artful; charming; crafty; deceptive.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyaso* ← *āyasaḥ* ← *āyasa*
 - \[noun\], nominative, singular, masculine
 - “iron; metallic.”
-------------------------------------------------------------------------
+
+_________
+
 - *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *dudhra* ← *dudhraḥ* ← *dudhra*
 - \[noun\], nominative, singular, masculine
 - “obstinate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhūṣu* ← *ābhū*
 - \[noun\], locative, plural, masculine
 - “assistant.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāmayan* ← *rāmay* ← *√ram*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāmani* ← *dāman*
 - \[noun\], locative, singular, masculine
 - “wreath; dāman; dāman \[word\]; shackle; girdle; fetter.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

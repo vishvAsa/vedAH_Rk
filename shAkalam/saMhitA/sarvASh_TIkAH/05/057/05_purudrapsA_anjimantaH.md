@@ -87,73 +87,107 @@ nā́ma ← nā́man- (nominal stem)
 -   *purudrapsā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purudrapsā* ← *drapsāḥ* ← *drapsa*
 - \[noun\], nominative, plural, masculine
 - “drop; banner.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjimantaḥ* ← *añjimat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sudānavas* ← *sudānavaḥ* ← *sudānu*
 - \[noun\], nominative, plural, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣasaṃdṛśo* ← *tveṣa*
 - \[noun\]
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣasaṃdṛśo* ← *saṃdṛśaḥ* ← *saṃdṛś*
 - \[noun\], nominative, plural, masculine
 - “appearance; view; view.”
-------------------------------------------------------------------------
+
+_________
+
 - *anavabhrarādhasaḥ* ← *anavabhra*
 - \[noun\]
 - “permanent.”
-------------------------------------------------------------------------
+
+_________
+
 - *anavabhrarādhasaḥ* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], nominative, plural, masculine
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujātāso* ← *sujātāsaḥ* ← *sujāta*
 - \[noun\], nominative, plural, masculine
 - “noble; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *januṣā* ← *janus*
 - \[noun\], instrumental, singular, masculine
 - “birth.”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmavakṣaso* ← *rukma*
 - \[noun\], neuter
 - “gold; svarṇamākṣika.”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmavakṣaso* ← *vakṣasaḥ* ← *vakṣas*
 - \[noun\], nominative, plural, masculine
 - “breast; breast; bosom; thorax.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkā* ← *arkāḥ* ← *arka*
 - \[noun\], nominative, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, neuter
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhejire* ← *bhaj*
 - \[verb\], plural, Perfect indicative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

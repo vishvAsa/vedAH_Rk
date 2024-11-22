@@ -105,82 +105,120 @@ yádum ← yádu- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhunir* ← *dhuniḥ* ← *dhuni*
 - \[noun\], nominative, singular, masculine
 - “deafening; boisterous; noisy.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhunimatīr* ← *dhunimatīḥ* ← *dhunimat*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇor* ← *ṛṇoḥ* ← *ṛch*
 - \[verb\], singular, Present injunctive
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīrā* ← *sīrāḥ* ← *sīrā*
 - \[noun\], accusative, plural, feminine
 - “stream.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sravantīḥ* ← *sru*
 - \[verb noun\], accusative, plural
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *parṣi* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārayā* ← *pāraya* ← *pāray* ← *√pṛ*
 - \[verb\], singular, Present imperative
 - “rescue; keep alive; satisfy; save; resist; endure.”
-------------------------------------------------------------------------
+
+_________
+
 - *turvaśaṃ* ← *turvaśam* ← *turvaśa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yaduṃ* ← *yadum* ← *yadu*
 - \[noun\], accusative, singular, masculine
 - “Yadu; Yadu.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasti*
 - \[noun\], accusative, singular, neuter
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,94 +105,136 @@ vr̥trā́ ← vr̥trá- (nominal stem)
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ojiṣṭha* ← *ojiṣṭhaḥ* ← *ojiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dā* ← *dāḥ* ← *dā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *mado* ← *madaḥ* ← *mada*
 - \[noun\], nominative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣan*
 - \[noun\], vocative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhiṣṭir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhiṣṭir* ← *abhiṣṭiḥ* ← *abhiṣṭi*
 - \[noun\], nominative, singular, masculine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsvān* ← *dāsvat*
 - \[noun\], nominative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *sauvaśvyaṃ* ← *sauvaśvyam* ← *sauvaśvya*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vanavat* ← *van*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaśvo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrā* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *samatsu* ← *samad*
 - \[noun\], locative, plural, masculine
 - “conflict; strife.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāsahad* ← *sāsahat* ← *sah*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

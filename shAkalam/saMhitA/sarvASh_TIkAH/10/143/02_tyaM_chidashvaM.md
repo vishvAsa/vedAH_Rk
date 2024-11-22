@@ -99,74 +99,108 @@ yáviṣṭham ← yáviṣṭha- (nominal stem)
 -   *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 - *areṇavo* ← *areṇavaḥ* ← *areṇu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *atnata* ← *tan*
 - \[verb\], plural, Root aorist (Ind.)
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛḍhaṃ* ← *dṛḍham* ← *dṛḍha*
 - \[noun\], accusative, singular, masculine
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
-------------------------------------------------------------------------
+
+_________
+
 - *granthiṃ* ← *granthim* ← *granthi*
 - \[noun\], accusative, singular, masculine
 - “granthi; knot; knot; swelling; bulb.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣyatam* ← *syatam* ← *sā*
 - \[verb\], dual, Present imperative
 - “tie.”
-------------------------------------------------------------------------
+
+_________
+
 - *atriṃ* ← *atrim* ← *atri*
 - \[noun\], accusative, singular, masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yaviṣṭham* ← *yaviṣṭha*
 - \[noun\], accusative, singular, masculine
 - “youngest.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rajaḥ* ← *rajas*
 - \[noun\], accusative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

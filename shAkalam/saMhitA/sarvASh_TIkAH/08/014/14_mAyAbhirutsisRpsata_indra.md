@@ -71,34 +71,50 @@ dásyūn ← dásyu- (nominal stem)
 - \[noun\], instrumental, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *utsisṛpsata* ← *utsisṛpsataḥ* ← *utsisṛps* ← *√sṛp*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārurukṣataḥ* ← *ārurukṣ* ← *√ruh*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyūṃr* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhūnuthāḥ* ← *dhū*
 - \[verb\], singular, Imperfect
 - “shake; remove; chase away.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

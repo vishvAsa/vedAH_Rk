@@ -81,47 +81,69 @@ váṁsu ← ván- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *marmṛjāna* ← *marmṛjānaḥ* ← *marmṛj* ← *√mṛj*
 - \[verb noun\], nominative, singular
 - “groom; wash; rub.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyubhir* ← *āyubhiḥ* ← *āyu*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ibho* ← *ibhaḥ* ← *ibha*
 - \[noun\], nominative, singular, masculine
 - “elephant.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājeva* ← *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvrataḥ* ← *suvrata*
 - \[noun\], nominative, singular, masculine
 - “virtuous; tractable; severe.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaṃsu* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣīdati* ← *sīdati* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

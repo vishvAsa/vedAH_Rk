@@ -105,88 +105,130 @@ nídhruvi ← nídhruvi- (nominal stem)
 -   *martaś* ← *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛtavo* ← *nṛtavaḥ* ← *nṛtu*
 - \[noun\], vocative, plural, masculine
 - “dancing.”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmavakṣasa* ← *rukma*
 - \[noun\], neuter
 - “gold; svarṇamākṣika.”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmavakṣasa* ← *vakṣasaḥ* ← *vakṣas*
 - \[noun\], vocative, plural, masculine
 - “breast; breast; bosom; thorax.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrātṛtvam* ← *bhrātṛ*
 - \[noun\], masculine
 - “brother; bhrātṛ; relative.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrātṛtvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyati* ← *e* ← *√i*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāta* ← *gā*
 - \[verb\], plural, Aorist imperative
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpitvam* ← *āpi*
 - \[noun\], masculine
 - “friend.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpitvam* ← *tvam* ← *tva*
 - \[noun\], nominative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *nidhruvi*
 - \[noun\], nominative, singular, neuter
 - “sedentary.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

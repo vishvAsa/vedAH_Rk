@@ -67,34 +67,50 @@ stómaiḥ ← stóma- (nominal stem)
 -   *yāvayaddveṣasaṃ* ← *yāvayat* ← *yāvay* ← *√yu*
 - \[verb noun\]
 - “keep away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāvayaddveṣasaṃ* ← *dveṣasam* ← *dveṣas*
 - \[noun\], accusative, singular, feminine
 - “hostility; enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikitvit*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛtāvari* ← *sūnṛtāvarī*
 - \[noun\], vocative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomair* ← *stomaiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abhutsmahi* ← *budh*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

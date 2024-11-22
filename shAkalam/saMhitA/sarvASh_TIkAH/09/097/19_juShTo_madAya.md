@@ -97,72 +97,106 @@ vā́jasātau ← vā́jasāti- (nominal stem)
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatāta* ← *devatāte* ← *devatāt*
 - \[noun\], dative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣṇunā* ← *snunā* ← *snu*
 - \[noun\], instrumental, singular, masculine
 - “back.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanva* ← *dhanv*
 - \[verb\], singular, Present imperative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāno* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *avye* ← *avya*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sahasradhāraḥ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasradhāraḥ* ← *dhāraḥ* ← *dhārā*
 - \[noun\], nominative, singular, masculine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *surabhir* ← *surabhiḥ* ← *surabhi*
 - \[noun\], nominative, singular, masculine
 - “fragrant; perfumed; surabhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adabdhaḥ* ← *adabdha*
 - \[noun\], nominative, singular, masculine
 - “unfailing; unimpaired.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasātau* ← *vājasāti*
 - \[noun\], locative, singular, feminine
 - “victory; battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṣahye* ← *nṛṣahya*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

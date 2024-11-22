@@ -102,57 +102,81 @@ uttānā́m ← uttāná- (nominal stem)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇasya* ← *gaṇa*
 - \[noun\], genitive, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśanām* ← *raśanā*
 - \[noun\], accusative, singular, feminine
 - “rein; bridle; girdle; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajīgaḥ* ← *jāgṛ*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “wake; watch; awaken; wake up; oversee.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅkte* ← *añj*
 - \[verb\], singular, Present indikative
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucibhir* ← *śucibhiḥ* ← *śuci*
 - \[noun\], instrumental, plural, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇā*
 - \[noun\], nominative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujyate* ← *yuj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -160,28 +184,40 @@ uttānā́m ← uttāná- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājayanty* ← *vājayantī* ← *vājay* ← *√vaj*
 - \[verb noun\], nominative, singular
 - “incite.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttānām* ← *uttāna*
 - \[noun\], accusative, singular, feminine
 - “supine; upward; upright; skin-deep; raised; shallow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrdhvo* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhayaj* ← *adhayat* ← *dhā*
 - \[verb\], singular, Imperfect
 - “breastfeed; suck.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhūbhiḥ* ← *juhū*
 - \[noun\], instrumental, plural, feminine
 - “tongue; fire; ladle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -70,41 +70,59 @@ ukthyàḥ ← ukthyà- (nominal stem)
 -   *sahasrākṣo* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrākṣo* ← *akṣaḥ* ← *akṣa*
 - \[noun\], nominative, singular, masculine
 - “eye; akṣa \[word\]; hole.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicarṣaṇir* ← *vicarṣaṇiḥ* ← *vicarṣaṇi*
 - \[noun\], nominative, singular, masculine
 - “excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnī* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣāṃsi* ← *rakṣas*
 - \[noun\], accusative, plural, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sedhati* ← *sidh*
 - \[verb\], singular, Present indikative
 - “chase away; repel.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇīta* ← *gṛṇīte* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthyaḥ* ← *ukthya*
 - \[noun\], nominative, singular, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

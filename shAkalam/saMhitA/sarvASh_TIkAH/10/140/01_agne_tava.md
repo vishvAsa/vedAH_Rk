@@ -95,66 +95,96 @@ kave ← kaví- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], nominative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayo* ← *vayaḥ* ← *vayas*
 - \[noun\], nominative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājante* ← *bhrāj*
 - \[verb\], plural, Present indikative
 - “shine; glitter; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcayo* ← *arcayaḥ* ← *arci*
 - \[noun\], nominative, plural, masculine
 - “flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāvaso* ← *vibhāvasu*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sun; Surya.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhadbhāno* ← *bṛhadbhānu*
 - \[noun\], vocative, singular, masculine
 - “Agni; Bṛhadbhānu; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthyaṃ* ← *ukthyam* ← *ukthya*
 - \[noun\], accusative, singular, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāsi* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *kave* ← *kavi*
 - \[noun\], vocative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -98,72 +98,104 @@ vaḥ ← tvám (pronoun)
 
 -   *abhibhūr* ← *abhibhūḥ* ← *abhibhū*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgamaṃ* ← *āgamam* ← *āgam* ← *√gam*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvakarmeṇa* ← *viśvakarma*
 - \[noun\], instrumental, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *dhāmnā* ← *dhāman*
 - \[noun\], instrumental, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaś* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *cittam* ← *citta*
 - \[noun\], accusative, singular, neuter
 - “mind; attention; idea; thinking; fondness; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratam* ← *vrata*
 - \[noun\], accusative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *'haṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *samitiṃ* ← *samitim* ← *samiti*
 - \[noun\], accusative, singular, feminine
 - “battle; council; assembly; meeting.”
-------------------------------------------------------------------------
+
+_________
+
 - *dade* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

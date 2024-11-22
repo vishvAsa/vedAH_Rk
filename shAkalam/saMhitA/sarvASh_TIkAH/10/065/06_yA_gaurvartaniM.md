@@ -99,74 +99,108 @@ vivásvate ← vivásvant- (nominal stem)
 -   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gaur* ← *gauḥ* ← *go*
 - \[noun\], nominative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartanim* ← *vartani*
 - \[noun\], accusative, singular, feminine
 - “path; East; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *paryeti* ← *parī* ← *√i*
 - \[verb\], singular, Present indikative
 - “circumambulate; wander; revolve; overwhelm.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣkṛtam* ← *niṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “place; rendezvous.”
-------------------------------------------------------------------------
+
+_________
+
 - *payo* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhānā* ← *duh*
 - \[verb noun\], nominative, singular
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratanīr* ← *vratanīḥ* ← *vratanī*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *avārataḥ* ← *avāratas*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *prabruvāṇā* ← *prabrū* ← *√brū*
 - \[verb noun\], nominative, singular
 - “state; name; disclose.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇāya* ← *varuṇa*
 - \[noun\], dative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśaddhaviṣā* ← *dāśat* ← *dāś*
 - \[verb\], singular, Present injunctive
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśaddhaviṣā* ← *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vivasvate* ← *vivasvant*
 - \[noun\], dative, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

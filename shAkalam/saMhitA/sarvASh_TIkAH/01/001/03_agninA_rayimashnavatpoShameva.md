@@ -72,39 +72,57 @@ yaśásam ← yaśás- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayim* ← *rayi*
 - \[noun\], accusative, singular, feminine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnavat* ← *aś*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *poṣam* ← *poṣa*
 - \[noun\], accusative, singular, masculine
 - “prosperity; poṣa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaśasaṃ* ← *yaśasam* ← *yaśas*
 - \[noun\], accusative, singular, masculine
 - “esteemed; celebrated; glorious; honorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīravattamam* ← *vīravattama*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

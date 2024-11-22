@@ -102,77 +102,113 @@ vindāmi ← √vid- 1 (root)
 -   *dveṣṭi* ← *dviṣ*
 - \[verb\], singular, Present indikative
 - “hate; dislike.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvaśrūr* ← *śvaśrūḥ* ← *śvaśrū*
 - \[noun\], nominative, singular, feminine
 - “mother-in-law; śvaśrū.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyā*
 - \[noun\], nominative, singular, feminine
 - “wife; jāyā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ruṇaddhi* ← *rudh*
 - \[verb\], singular, Present indikative
 - “fill into; close; insert; put; enclose; obstruct; seal; besiege;
     cover; blockade; stop; lock in; plug; withhold; extinguish;
     connect.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāthito* ← *nāthitaḥ* ← *nāth*
 - \[verb noun\], nominative, singular
 - “distress.”
-------------------------------------------------------------------------
+
+_________
+
 - *vindate* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *marḍitāram* ← *marḍitṛ*
 - \[noun\], accusative, singular, masculine
 - “sympathizer.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvasyeva* ← *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarato* ← *jarataḥ* ← *jṛ*
 - \[verb noun\], genitive, singular
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasnyasya* ← *vasnya*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nāhaṃ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāhaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vindāmi* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *kitavasya* ← *kitava*
 - \[noun\], genitive, singular, masculine
 - “gambler; deceiver; thorn apple; kitava \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhogam* ← *bhoga*
 - \[noun\], accusative, singular, masculine
 - “enjoyment; use; bhoga \[word\]; property; sexual intercourse;
     possession.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

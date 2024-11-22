@@ -99,87 +99,127 @@ práśastibhiḥ ← práśasti- (nominal stem)
 -   *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhitam* ← *sudhita*
 - \[noun\], accusative, singular, masculine
 - “sudhita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhṛgavo* ← *bhṛgavaḥ* ← *bhṛgu*
 - \[noun\], nominative, plural, masculine
 - “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhur* ← *dadhuḥ* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanaspatāv* ← *vanaspatau* ← *vanaspati*
 - \[noun\], locative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍyam* ← *īḍ*
 - \[verb noun\], accusative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrdhvaśociṣam* ← *ūrdhva*
 - \[noun\]
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrdhvaśociṣam* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *suprīto* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suprīto* ← *prītaḥ* ← *prī*
 - \[verb noun\], nominative, singular
 - “delight; gladden; satisfy; nutrify; comfort.”
-------------------------------------------------------------------------
+
+_________
+
 - *vītahavye* ← *vītahavya*
 - \[noun\], locative, singular, masculine
 - “Vaitahavya.”
-------------------------------------------------------------------------
+
+_________
+
 - *adbhuta*
 - \[noun\], vocative, singular, masculine
 - “extraordinary; amazing; supernatural.”
-------------------------------------------------------------------------
+
+_________
+
 - *praśastibhir* ← *praśastibhiḥ* ← *praśasti*
 - \[noun\], instrumental, plural, feminine
 - “announcement; praise; respect.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahayase* ← *mahay* ← *√mah*
 - \[verb\], singular, Present indikative
 - “glorify.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

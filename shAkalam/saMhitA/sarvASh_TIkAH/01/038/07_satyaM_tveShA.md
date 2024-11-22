@@ -76,35 +76,51 @@ míham ← míh- (nominal stem)
 -   *satyaṃ* ← *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣā* ← *tveṣāḥ* ← *tveṣa*
 - \[noun\], nominative, plural, masculine
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *amavanto* ← *amavantaḥ* ← *amavat*
 - \[noun\], nominative, plural, masculine
 - “impressive; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvañ* ← *dhanvan*
 - \[noun\], accusative, singular, neuter
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rudriyāsaḥ* ← *rudriya*
 - \[noun\], nominative, plural, masculine
 - “Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *mihaṃ* ← *miham* ← *mih*
 - \[noun\], accusative, singular, feminine
 - “fog.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvanty* ← *kṛṇvanti* ← *kṛ*
 - \[verb\], plural, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -115,10 +131,14 @@ míham ← míh- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *avātām* ← *avāta*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

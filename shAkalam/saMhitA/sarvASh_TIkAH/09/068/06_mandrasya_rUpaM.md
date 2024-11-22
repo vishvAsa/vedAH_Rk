@@ -102,78 +102,114 @@ uśántam ← √vaś- (root)
 -   *mandrasya* ← *mandra*
 - \[noun\], genitive, singular, masculine
 - “pleasant; eloquent; dulcet.”
-------------------------------------------------------------------------
+
+_________
+
 - *rūpaṃ* ← *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *vividur* ← *vividuḥ* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣiṇaḥ* ← *manīṣin*
 - \[noun\], nominative, plural, masculine
 - “sage; expert; devout.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *andho* ← *andhaḥ* ← *andhas*
 - \[noun\], accusative, singular, neuter
 - “Soma; drink; amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *abharat* ← *bhṛ*
 - \[verb\], singular, Imperfect
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *marjayanta* ← *marjay* ← *√mṛj*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *suvṛdhaṃ* ← *suvṛdham* ← *suvṛdh*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nadīṣv* ← *nadīṣu* ← *nadī*
 - \[noun\], locative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *uśantam* ← *vaś*
 - \[verb noun\], accusative, singular
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃśum* ← *aṃśu*
 - \[noun\], accusative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariyantam* ← *parī* ← *√i*
 - \[verb noun\], accusative, singular
 - “circumambulate; wander; revolve; overwhelm.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛgmiyam* ← *ṛgmiya*
 - \[noun\], accusative, singular, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

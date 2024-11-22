@@ -110,91 +110,133 @@ sthuḥ ← √sthā- (root)
 
 -   *nahī* ← *nahi*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *anty* ← *anti*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārāttāc* ← *ārāttāt*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *cicchavaso* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *cicchavaso* ← *śavasaḥ* ← *śavas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *antam* ← *anta*
 - \[noun\], accusative, singular, masculine
 - “end; last syllable; end; end; boundary; inside; border; death; anta
     \[word\]; edge; end; shore; limit; region; outskirt; destruction;
     boundary; limit; anta; termination; corner; conclusion; hem; end;
     ant; edge.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpuḥ* ← *āp*
 - \[verb\], plural, Perfect indicative
 - “enter (a state); get; reach; obtain; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇunā* ← *dhṛṣṇu*
 - \[noun\], instrumental, singular, neuter
 - “brave; ferocious; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūśuvāṃso* ← *śūśuvāṃsaḥ* ← *śvi*
 - \[verb noun\], nominative, plural
 - “swell; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *'rṇo* ← *arṇaḥ* ← *arṇas*
 - \[noun\], accusative, singular, neuter
 - “body of water; water.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dveṣo* ← *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣatā* ← *dhṛṣat*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣṭhuḥ* ← *sthuḥ* ← *sthā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -103,79 +103,115 @@ yanti ← √i- 1 (root)
 - \[noun\], nominative, plural, feminine
 - “like; alike(p); appropriate; sadṛśa \[word\]; comparable;
     resembling.”
-------------------------------------------------------------------------
+
+_________
+
 - *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sadṛśīr* ← *sadṛśīḥ* ← *sadṛśa*
 - \[noun\], nominative, plural, feminine
 - “like; alike(p); appropriate; sadṛśa \[word\]; comparable;
     resembling.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvo* ← *śvas*
 - \[adverb\]
 - “tomorrow.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghaṃ* ← *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sacante* ← *sac*
 - \[verb\], plural, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 - *anavadyās* ← *anavadyāḥ* ← *anavadya*
 - \[noun\], nominative, plural, feminine
 - “blameless; faultless.”
-------------------------------------------------------------------------
+
+_________
+
 - *triṃśataṃ* ← *triṃśatam* ← *triṃśat*
 - \[noun\], accusative, singular, feminine
 - “thirty; triṃśat \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yojanāny* ← *yojanāni* ← *yojana*
 - \[noun\], accusative, plural, neuter
 - “yojana; use; yojana \[word\]; team.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekaikā* ← *ekaika*
 - \[noun\], nominative, singular, feminine
 - “each(a); one; single(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadyaḥ* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

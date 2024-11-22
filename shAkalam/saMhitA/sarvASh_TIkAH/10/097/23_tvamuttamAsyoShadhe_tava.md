@@ -90,63 +90,91 @@ yáḥ ← yá- (pronoun)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttamāsy* ← *uttamā* ← *uttama*
 - \[noun\], nominative, singular, feminine
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
     finest.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttamāsy* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhe* ← *oṣadhi*
 - \[noun\], vocative, singular, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkṣā* ← *vṛkṣāḥ* ← *vṛkṣa*
 - \[noun\], nominative, plural, masculine
 - “tree; fruit tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *upastayaḥ* ← *upasti*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *upastir* ← *upastiḥ* ← *upasti*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *'smākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asmāṃ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhidāsati* ← *abhidās* ← *√dās*
 - \[verb\], singular, Present indikative
 - “threaten; endanger.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -83,39 +83,55 @@ yáthā ← yáthā (invariable)
 - \[adverb\]
 - “and; thus; besides; very well; so; then; in that manner; now;
     therefore; however; so.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapāḥ* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapāḥ* ← *pāḥ* ← *pā*
 - \[noun\], vocative, singular, masculine
 - “drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhe* ← *sakhi*
 - \[noun\], vocative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrin*
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
-------------------------------------------------------------------------
+
+_________
+
 - *tathā*
 - \[adverb\]
 - “and; thus; besides; very well; so; then; in that manner; now;
     therefore; however; so.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇu* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -126,23 +142,33 @@ yáthā ← yáthā (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśmasīṣṭaye* ← *uśmasi* ← *vaś*
 - \[verb\], plural, Present indikative
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśmasīṣṭaye* ← *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, feminine
 - “seeking.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

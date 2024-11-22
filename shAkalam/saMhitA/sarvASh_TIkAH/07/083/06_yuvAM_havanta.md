@@ -105,80 +105,118 @@ tŕ̥tsubhiḥ ← tŕ̥tsu- (nominal stem)
 -   *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *havanta* ← *havante* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhayāsa* ← *ubhayāsaḥ* ← *ubhaya*
 - \[noun\], nominative, plural, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *ājiṣv* ← *ājiṣu* ← *āji*
 - \[noun\], locative, plural, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasvo* ← *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇaṃ* ← *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rājabhir* ← *rājabhiḥ* ← *rājan*
 - \[noun\], instrumental, plural, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśabhir* ← *daśabhiḥ* ← *daśan*
 - \[noun\], instrumental, plural, masculine
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nibādhitam* ← *nibādh* ← *√bādh*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudāsam* ← *sudās*
 - \[noun\], accusative, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvataṃ* ← *āvatam* ← *av*
 - \[verb\], dual, Imperfect
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛtsubhiḥ* ← *tṛtsu*
 - \[noun\], instrumental, plural, masculine
 - “Tṛtsu.”
-------------------------------------------------------------------------
+
+_________
+
 - *saha*
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

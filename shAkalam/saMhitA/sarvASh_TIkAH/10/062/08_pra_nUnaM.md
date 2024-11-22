@@ -90,67 +90,97 @@ sadyás ← sadyás (invariable)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyatām* ← *jan*
 - \[verb\], singular, Present imperative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *manus* ← *manuḥ* ← *manu*
 - \[noun\], nominative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
-------------------------------------------------------------------------
+
+_________
+
 - *tokmeva* ← *tokmā* ← *tokman*
 - \[noun\], nominative, singular, masculine
 - “sprout; blade.”
-------------------------------------------------------------------------
+
+_________
+
 - *tokmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *rohatu* ← *ruh*
 - \[verb\], singular, Present imperative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasraṃ* ← *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatāśvaṃ* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatāśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, neuter
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dānāya* ← *dāna*
 - \[noun\], dative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhate* ← *mah*
 - \[verb\], singular, Present indikative
 - “give; accord.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,68 +96,100 @@ pr̥tanā́jaḥ ← pr̥tanā́j- (nominal stem)
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *somā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyā* ← *gavya*
 - \[noun\], accusative, plural, neuter
 - “bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājāyāmṛtāya* ← *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājāyāmṛtāya* ← *amṛtāya* ← *amṛta*
 - \[noun\], dative, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravāṃsi* ← *śravas*
 - \[noun\], accusative, plural, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavitrebhiḥ* ← *pavitra*
 - \[noun\], instrumental, plural, neuter
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānā* ← *pavamānāḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *asṛgrañchravasyavo* ← *asṛgran* ← *sṛj*
 - \[verb\], plural, Root aorist (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *asṛgrañchravasyavo* ← *śravasyavaḥ* ← *śravasyu*
 - \[noun\], nominative, plural, masculine
 - “celebrated.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanājo* ← *pṛtanājaḥ* ← *pṛtanāj*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *atyāḥ* ← *atya*
 - \[noun\], nominative, plural, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

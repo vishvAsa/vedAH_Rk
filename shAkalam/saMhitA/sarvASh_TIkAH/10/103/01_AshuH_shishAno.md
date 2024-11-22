@@ -96,73 +96,107 @@ sénāḥ ← sénā- (nominal stem)
 -   *āśuḥ* ← *āśu*
 - \[noun\], nominative, singular, masculine
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśāno* ← *śiśānaḥ* ← *śā*
 - \[verb noun\], nominative, singular
 - “sharpen; whet; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhīmo* ← *bhīmaḥ* ← *bhīma*
 - \[noun\], nominative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghanāghanaḥ* ← *ghanāghana*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kṣobhaṇaś* ← *kṣobhaṇaḥ* ← *kṣobhaṇa*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃkrandano* ← *saṃkrandanaḥ* ← *saṃkrandana*
 - \[noun\], nominative, singular, masculine
 - “crying; blatant.”
-------------------------------------------------------------------------
+
+_________
+
 - *'nimiṣa* ← *animiṣaḥ* ← *animiṣa*
 - \[noun\], nominative, singular, masculine
 - “agaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekavīraḥ* ← *eka*
 - \[noun\]
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekavīraḥ* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *senā* ← *senāḥ* ← *senā*
 - \[noun\], accusative, plural, feminine
 - “army; senā \[word\]; armament.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajayat* ← *ji*
 - \[verb\], singular, Imperfect
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

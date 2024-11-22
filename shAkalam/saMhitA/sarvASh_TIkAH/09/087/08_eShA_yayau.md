@@ -111,89 +111,129 @@ te ← tvám (pronoun)
 -   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yayau* ← *yā*
 - \[verb\], singular, Perfect indicative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *paramād* ← *paramāt* ← *parama*
 - \[noun\], ablative, singular, masculine
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *adreḥ* ← *adri*
 - \[noun\], ablative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *kūcit* ← *kūcid*
 - \[adverb\]
 - “somewhere.”
-------------------------------------------------------------------------
+
+_________
+
 - *satīr* ← *satīḥ* ← *as*
 - \[verb noun\], accusative, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrve* ← *ūrva*
 - \[noun\], locative, singular, masculine
 - “pen; Aurva; ocean.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *viveda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyut*
 - \[noun\], nominative, singular, feminine
 - “lightning; Vidyut; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *stanayanty* ← *stanayantī* ← *stanay* ← *√stan*
 - \[verb noun\], nominative, singular
 - “thunder; thunder.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhraiḥ* ← *abhra*
 - \[noun\], instrumental, plural, neuter
 - “abhra; cloud; sky; abhra \[word\]; cumulonimbus; mica; air;
     cloudiness.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavata* ← *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārā*
 - \[noun\], nominative, singular, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

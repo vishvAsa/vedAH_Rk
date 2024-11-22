@@ -103,78 +103,116 @@ vardháyantīḥ ← √vr̥dh- (root)
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanayann* ← *dhanayan* ← *dhanay* ← *√dhan*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītim* ← *dhīti*
 - \[noun\], accusative, singular, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *didhiṣvo* ← *didhiṣvaḥ* ← *didhiṣū*
 - \[noun\], nominative, plural, feminine
 - “didhiṣū \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhṛtrāḥ* ← *vibhṛtra*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *atṛṣyantīr* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *atṛṣyantīr* ← *tṛṣyantīḥ* ← *tṛṣ*
 - \[verb noun\], nominative, plural
 - “thirst.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaso* ← *apasaḥ* ← *apas*
 - \[noun\], nominative, plural, feminine
 - “busy; effective; hardworking.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanty* ← *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devāñ* ← *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *janma* ← *janman*
 - \[noun\], accusative, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayasā* ← *prayas*
 - \[noun\], instrumental, singular, neuter
 - “food; dainty; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhayantīḥ* ← *vardhay* ← *√vṛdh*
 - \[verb noun\], nominative, plural
 - “increase; strengthen; promote; rear; add; greet; laud.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

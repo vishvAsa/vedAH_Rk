@@ -105,44 +105,64 @@ stómavāhāḥ ← stómavāhas- (nominal stem)
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *ganteyānti* ← *iyānti* ← *iyat*
 - \[noun\], accusative, plural, neuter
 - “such(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *savanā* ← *savana*
 - \[noun\], accusative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
-------------------------------------------------------------------------
+
+_________
+
 - *haribhyām* ← *hari*
 - \[noun\], instrumental, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *babhrir* ← *babhriḥ* ← *babhri*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *papiḥ* ← *papi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadir* ← *dadiḥ* ← *dadi*
 - \[noun\], nominative, singular, masculine
 - “giving; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *kartā* ← *kṛ*
 - \[verb\], singular, periphrast. future
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -153,44 +173,64 @@ stómavāhāḥ ← stómavāhas- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *naryaṃ* ← *naryam* ← *narya*
 - \[noun\], accusative, singular, masculine
 - “manly; heroic; powerful; male; human.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvavīraṃ* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvavīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrotā* ← *śru*
 - \[verb\], singular, periphrast. future
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇata* ← *gṛṇataḥ* ← *gṛ*
 - \[verb noun\], genitive, singular
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomavāhāḥ* ← *stoma*
 - \[noun\], masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *stomavāhāḥ* ← *vāhāḥ* ← *vāhas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

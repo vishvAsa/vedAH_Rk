@@ -75,50 +75,72 @@ táva ← tvám (pronoun)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛṣvaya* ← *ghṛṣvayaḥ* ← *ghṛṣvi*
 - \[noun\], nominative, plural, masculine
 - “anticipated; electrifying.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *lokakṛtnum* ← *loka*
 - \[noun\], masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
-------------------------------------------------------------------------
+
+_________
+
 - *lokakṛtnum* ← *kṛtnum* ← *kṛtnu*
 - \[noun\], accusative, singular, masculine
 - “adept; adroit.”
-------------------------------------------------------------------------
+
+_________
+
 - *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *praśastayo* ← *praśastayaḥ* ← *praśasti*
 - \[noun\], nominative, plural, feminine
 - “announcement; praise; respect.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahīḥ* ← *mahi*
 - \[noun\], nominative, plural, feminine
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

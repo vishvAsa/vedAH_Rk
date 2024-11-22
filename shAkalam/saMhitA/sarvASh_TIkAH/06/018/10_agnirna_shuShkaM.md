@@ -110,84 +110,124 @@ duritā́ ← duritá- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣkaṃ* ← *śuṣkam* ← *śuṣka*
 - \[noun\], accusative, singular, neuter
 - “dried; dry; dried-up; śuṣka \[word\]; baseless; arid.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanam* ← *vana*
 - \[noun\], accusative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *hetī* ← *heti*
 - \[noun\], instrumental, singular, feminine
 - “projectile; heti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣo* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhakṣy* ← *dhakṣi* ← *dah*
 - \[verb\], singular, Present indikative
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśanir* ← *aśaniḥ* ← *aśani*
 - \[noun\], nominative, singular, feminine
 - “lightning; Vajra; vajra; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhīmā* ← *bhīma*
 - \[noun\], nominative, singular, feminine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
-------------------------------------------------------------------------
+
+_________
+
 - *gambhīraya* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣvayā* ← *ṛṣva*
 - \[noun\], instrumental, singular, feminine
 - “distinguished; high; noble; enormous.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rurojādhvānayad* ← *ruroja* ← *ruj*
 - \[verb\], singular, Perfect indicative
 - “break; bend.”
-------------------------------------------------------------------------
+
+_________
+
 - *rurojādhvānayad* ← *adhvānayat* ← *dhvānay* ← *√dhvan*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
-------------------------------------------------------------------------
+
+_________
+
 - *dambhayacca* ← *dambhayat* ← *dambhay* ← *√dabh*
 - \[verb\], singular, Present injunctive
 - “subjugate; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 - *dambhayacca* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

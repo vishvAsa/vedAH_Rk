@@ -108,84 +108,122 @@ viveśa ← √viś- (root)
 -   *vīﾱau* ← *vīḍu*
 - \[noun\], locative, singular, neuter
 - “hard; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *satīr* ← *satīḥ* ← *as*
 - \[verb noun\], accusative, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīrā* ← *dhīrāḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
-------------------------------------------------------------------------
+
+_________
+
 - *atṛndan* ← *tṛd*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *prācāhinvan* ← *prācā* ← *prāñc*
 - \[noun\], instrumental, singular, neuter
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prācāhinvan* ← *ahinvan* ← *hi*
 - \[verb\], plural, Imperfect
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvām* ← *viśva*
 - \[noun\], accusative, singular, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *avindan* ← *vid*
 - \[verb\], plural, Imperfect
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathyām* ← *pathyā*
 - \[noun\], accusative, singular, feminine
 - “Terminalia chebula Retz.; path; Pathyā; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajānann* ← *prajānan* ← *prajñā* ← *√jñā*
 - \[verb noun\], nominative, singular
 - “know; perceive; understand; detect.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tāḥ* ← *tad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *viveśa* ← *viś*
 - \[verb\], singular, Perfect indicative
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -90,62 +90,90 @@ vadhīḥ ← √vadhⁱ- (root)
 -   *kiṃ* ← *kim*
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *jighāṃsasi* ← *jighāṃs* ← *√han*
 - \[verb\], singular, Present indikative
 - “kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrātaro* ← *bhrātaraḥ* ← *bhrātṛ*
 - \[noun\], nominative, plural, masculine
 - “brother; bhrātṛ; relative.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutas* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tebhiḥ* ← *tad*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *kalpasva* ← *kﾱp*
 - \[verb\], singular, Present imperative
 - “succeed; prepare; harmonize; arrange; cut; suit; befit;
     contribute.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhuyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *samaraṇe* ← *samaraṇa*
 - \[noun\], locative, singular, neuter
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhīḥ* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

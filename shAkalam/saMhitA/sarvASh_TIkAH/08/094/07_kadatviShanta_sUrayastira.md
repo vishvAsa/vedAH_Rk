@@ -73,42 +73,62 @@ pūtádakṣasaḥ ← pūtádakṣas- (nominal stem)
 -   *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *atviṣanta* ← *tviṣ*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *sūrayas* ← *sūrayaḥ* ← *sūri*
 - \[noun\], nominative, plural, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *tira* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpa* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sridhaḥ* ← *sridh*
 - \[noun\], accusative, plural, feminine
 - “failure; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṣanti* ← *ṛṣ*
 - \[verb\], plural, Present indikative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūtadakṣasaḥ* ← *pūta* ← *pū*
 - \[verb noun\]
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūtadakṣasaḥ* ← *dakṣasaḥ* ← *dakṣas*
 - \[noun\], nominative, plural, masculine
 - “intelligent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

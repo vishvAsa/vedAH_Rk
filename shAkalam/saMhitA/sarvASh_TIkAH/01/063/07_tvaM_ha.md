@@ -111,83 +111,123 @@ várivaḥ ← várivas- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhyan* ← *yudh*
 - \[verb noun\], nominative, singular
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrin*
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
-------------------------------------------------------------------------
+
+_________
+
 - *purukutsāya* ← *purukutsa*
 - \[noun\], dative, singular, masculine
 - “Purukutsa.”
-------------------------------------------------------------------------
+
+_________
+
 - *dardaḥ* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Present injunctive
 - “cleave.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudāse* ← *sudās*
 - \[noun\], dative, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛthā*
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
-------------------------------------------------------------------------
+
+_________
+
 - *varg* ← *vark* ← *vṛj*
 - \[verb\], singular, Aorist inj. (proh.)
-------------------------------------------------------------------------
+
+_________
+
 - *aṃho* ← *aṃhaḥ* ← *aṃhas*
 - \[noun\], accusative, singular, neuter
 - “trouble; sin.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *varivaḥ* ← *varivas*
 - \[noun\], accusative, singular, neuter
 - “room; varivas \[word\]; space; escape.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrave* ← *pūru*
 - \[noun\], dative, singular, masculine
 - “Pūru; Pūru.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -198,7 +238,9 @@ várivaḥ ← várivas- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

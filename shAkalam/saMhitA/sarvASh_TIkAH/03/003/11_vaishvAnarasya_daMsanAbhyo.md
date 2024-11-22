@@ -90,76 +90,108 @@ dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)
 -   *vaiśvānarasya* ← *vaiśvānara*
 - \[noun\], genitive, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *daṃsanābhyo* ← *daṃsanābhyaḥ* ← *daṃsanā*
 - \[noun\], ablative, plural, feminine
 - “wonder; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṇād* ← *ariṇāt* ← *ri*
 - \[verb\], singular, Imperfect
 - “free; liberate; run; let go of.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapasyayā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapasyayā* ← *apasyayā* ← *apasyā*
 - \[noun\], instrumental, singular, feminine
 - “activity.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhā* ← *ubh*
 - \[noun\], accusative, dual, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *pitarā* ← *pitṛ*
 - \[noun\], accusative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahayann* ← *mahayan* ← *mahay* ← *√mah*
 - \[verb noun\], nominative, singular
 - “glorify.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāyatāgnir* ← *ajāyata* ← *jan*
 - \[verb\], singular, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāyatāgnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvāpṛthivī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūriretasā* ← *bhūri*
 - \[noun\]
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūriretasā* ← *retasā* ← *retas*
 - \[noun\], accusative, dual, feminine
 - “semen; sperm.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

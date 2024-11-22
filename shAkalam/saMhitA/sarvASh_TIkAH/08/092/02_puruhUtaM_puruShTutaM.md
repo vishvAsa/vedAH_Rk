@@ -67,36 +67,52 @@ bravītana ← √brū- (root)
 -   *puruhūtam* ← *puruhūta*
 - \[noun\], accusative, singular, masculine
 - “Indra; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣṭutaṃ* ← *puruṣṭutam* ← *puruṣṭuta*
 - \[noun\], accusative, singular, masculine
 - “Indra; Vishnu; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāthānyaṃ* ← *gāthānyam* ← *gāthānī*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sanaśrutam* ← *sana*
 - \[noun\]
 - “age-old; ancient.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanaśrutam* ← *śrutam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bravītana* ← *brū*
 - \[verb\], plural, Present imperative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

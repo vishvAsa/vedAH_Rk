@@ -111,14 +111,20 @@ yáḥ ← yá- (pronoun)
 -   *mahi*
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *psaraḥ* ← *psaras*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -129,79 +135,117 @@ yáḥ ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *somyam* ← *somya*
 - \[noun\], nominative, singular, neuter
 - “saumya.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhūrvī* ← *madhu*
 - \[noun\], nominative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *madhūrvī* ← *urvī* ← *uru*
 - \[noun\], nominative, singular, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyūtir* ← *gavyūtiḥ* ← *gavyūti*
 - \[noun\], nominative, singular, feminine
 - “pasture.”
-------------------------------------------------------------------------
+
+_________
+
 - *aditer* ← *aditeḥ* ← *aditi*
 - \[noun\], genitive, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *yate* ← *i*
 - \[verb noun\], dative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *īśe* ← *īś*
 - \[verb\], singular, Present indikative
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṭer* ← *vṛṣṭeḥ* ← *vṛṣṭi*
 - \[noun\], genitive, singular, feminine
 - “rain; shower; rainy season.”
-------------------------------------------------------------------------
+
+_________
+
 - *ita* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
-------------------------------------------------------------------------
+
+_________
+
 - *usriyo* ← *usriyaḥ* ← *usriya*
 - \[noun\], nominative, singular, masculine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣāpāṃ* ← *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣāpāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *netā* ← *netṛ*
 - \[noun\], nominative, singular, masculine
 - “leader; Vitex negundo.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *itaūtir* ← *itaūtiḥ* ← *itaūti*
 - \[noun\], nominative, singular, masculine
 - “helpful; abiding.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛgmiyaḥ* ← *ṛgmiya*
 - \[noun\], nominative, singular, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

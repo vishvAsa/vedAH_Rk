@@ -96,81 +96,119 @@ vahantu ← √vah- (root)
 -   *endravāho* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *endravāho* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *endravāho* ← *vāhaḥ* ← *vāh*
 - \[noun\], nominative, plural, masculine
 - “vah.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛpatiṃ* ← *nṛpatim* ← *nṛpati*
 - \[noun\], accusative, singular, masculine
 - “king.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrabāhum* ← *vajra*
 - \[noun\], masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrabāhum* ← *bāhum* ← *bāhu*
 - \[noun\], accusative, singular, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugrāsas* ← *ugrāsaḥ* ← *ugra*
 - \[noun\], nominative, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣāsa* ← *taviṣāsaḥ* ← *taviṣa*
 - \[noun\], nominative, plural, masculine
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *pratvakṣasaṃ* ← *pratvakṣasam* ← *pratvakṣas*
 - \[noun\], accusative, singular, masculine
 - “strong; vigorous.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyaśuṣmam* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyaśuṣmam* ← *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *em* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *em* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *asmatrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sadhamādo* ← *sadhamādaḥ* ← *sadhamād*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

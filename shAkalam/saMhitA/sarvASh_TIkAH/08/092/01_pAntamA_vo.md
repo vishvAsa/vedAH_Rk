@@ -84,51 +84,75 @@ máṁhiṣṭham ← máṁhiṣṭha- (nominal stem)
 -   *pāntam* ← *pānta*
 - \[noun\], accusative, singular, masculine
 - “drink; beverage.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *andhasa* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāsāhaṃ* ← *viśvāsāham* ← *viśvāsah*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śatakratum* ← *śatakratu*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhiṣṭhaṃ* ← *maṃhiṣṭham* ← *maṃhiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

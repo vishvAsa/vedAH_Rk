@@ -88,60 +88,88 @@ dábhaḥ ← dábha- (nominal stem)
 - \[noun\], nominative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *dugdhaṃ* ← *dugdham* ← *dugdha*
 - \[noun\], nominative, singular, neuter
 - “milk; milky juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmyam* ← *kāmya*
 - \[noun\], nominative, singular, neuter
 - “desirable; optional; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāmi*
 - \[noun\], nominative, singular, neuter
 - “unrelated; foreign-born.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāmyoḥ* ← *jāmi*
 - \[noun\], genitive, dual, masculine
 - “related; ancestral; customary; usual.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmo* ← *gharmaḥ* ← *gharma*
 - \[noun\], nominative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vājajaṭharo* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājajaṭharo* ← *jaṭharaḥ* ← *jaṭhara*
 - \[noun\], nominative, singular, masculine
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dabdhaḥ* ← *adabdhaḥ* ← *adabdha*
 - \[noun\], nominative, singular, masculine
 - “unfailing; unimpaired.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvato* ← *śaśvataḥ* ← *śaśvat*
 - \[noun\], accusative, plural, masculine
 - “all(a); each(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *dabhaḥ* ← *dabha*
 - \[noun\], nominative, singular, masculine
 - “damaging.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

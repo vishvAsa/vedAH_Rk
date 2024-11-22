@@ -96,11 +96,15 @@ pátnī ← pátnī- (nominal stem)
 -   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *syā* ← *tya*
 - \[noun\], nominative, singular, feminine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujānā* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -108,60 +112,88 @@ pátnī ← pátnī- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *parākāt* ← *parāka*
 - \[noun\], ablative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *pañca* ← *pañcan*
 - \[noun\], accusative, plural, feminine
 - “five; fifth; pañcan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣitīḥ* ← *kṣiti*
 - \[noun\], accusative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jigāti* ← *gā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhipaśyantī* ← *abhipaś* ← *√paś*
 - \[verb noun\], nominative, singular
 - “examine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayunā* ← *vayuna*
 - \[noun\], accusative, plural, neuter
 - “convention; custom; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *janānāṃ* ← *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *patnī*
 - \[noun\], nominative, singular, feminine
 - “wife; mistress; queen.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

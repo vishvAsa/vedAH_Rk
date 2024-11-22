@@ -96,80 +96,116 @@ vr̥jánam ← vr̥jána- (nominal stem)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānebhya* ← *mānebhyaḥ* ← *māna*
 - \[noun\], dative, plural, masculine
 - “arrogance; honor; reverence; obedience; notion; conceit.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvajanyā* ← *viśvajanyāḥ* ← *viśvajanya*
 - \[noun\], accusative, plural, feminine
 - “omnipresent; worldwide.”
-------------------------------------------------------------------------
+
+_________
+
 - *radā* ← *rada* ← *rad*
 - \[verb\], singular, Present imperative
 - “dig.”
-------------------------------------------------------------------------
+
+_________
+
 - *marudbhiḥ* ← *marut*
 - \[noun\], instrumental, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *śurudho* ← *śurudhaḥ* ← *śurudh*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *goagrāḥ* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *goagrāḥ* ← *agrāḥ* ← *agra*
 - \[noun\], accusative, plural, feminine
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 - *stavānebhi* ← *stavānebhiḥ* ← *stu*
 - \[verb noun\], instrumental, plural
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *stavase* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devair* ← *devaiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyāmeṣaṃ* ← *vidyāma* ← *vid*
 - \[verb\], plural, Present optative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyāmeṣaṃ* ← *iṣam* ← *iṣa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjanaṃ* ← *vṛjanam* ← *vṛjana*
 - \[noun\], accusative, singular, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīradānum* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīradānum* ← *dānum* ← *dānu*
 - \[noun\], accusative, singular, masculine
 - “Dānu; dew; drop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

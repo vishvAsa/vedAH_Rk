@@ -86,15 +86,21 @@ vŕ̥thā ← vŕ̥thā (invariable)
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣāṃ* ← *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyā* ← *rai*
 - \[noun\], instrumental, singular
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuktaiṣāṃ* ← *yuktā* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -102,45 +108,65 @@ vŕ̥thā ← vŕ̥thā (invariable)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuktaiṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayī* ← *hiraṇyaya*
 - \[noun\], nominative, singular, feminine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nemadhitā* ← *nemadhiti*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pauṃsyā* ← *pauṃsya*
 - \[noun\], nominative, plural, neuter
 - “manfulness; deed; army; strength.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtheva* ← *vṛthā*
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṭāntā* ← *viṣṭa* ← *viś*
 - \[verb noun\]
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṭāntā* ← *antā* ← *anta*
 - \[noun\], nominative, singular, feminine
 - “end; last syllable; end; end; boundary; inside; border; death; anta
     \[word\]; edge; end; shore; limit; region; outskirt; destruction;
     boundary; limit; anta; termination; corner; conclusion; hem; end;
     ant; edge.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,38 +73,56 @@ páyaḥ ← páyas- (nominal stem)
 -   *vṛṣāṇaṃ* ← *vṛṣāṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhir* ← *vṛṣabhiḥ* ← *vṛṣan*
 - \[noun\], instrumental, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *yataṃ* ← *yatam* ← *yam*
 - \[verb noun\], accusative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunvanti* ← *su*
 - \[verb\], plural, Present indikative
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhanti* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakmanā* ← *śakman*
 - \[noun\], instrumental, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

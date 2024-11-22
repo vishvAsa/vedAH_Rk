@@ -82,48 +82,70 @@ vayā́ḥ ← vayā́- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “eloquent; stimulated; divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasyavaḥ* ← *avasyu*
 - \[noun\], nominative, plural, masculine
 - “seeking protection; helpless.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravatvatībhir* ← *pravatvatībhiḥ* ← *pravatvat*
 - \[noun\], instrumental, plural, feminine
 - “cragged.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣoṇīr* ← *kṣoṇīḥ* ← *kṣoṇī*
 - \[noun\], accusative, plural, feminine
 - “Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *avardhayan* ← *vardhay* ← *√vṛdh*
 - \[verb\], plural, Imperfect
 - “increase; strengthen; promote; rear; add; greet; laud.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayā* ← *vayāḥ* ← *vayā*
 - \[noun\], nominative, plural, feminine
 - “branch; branchlet.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

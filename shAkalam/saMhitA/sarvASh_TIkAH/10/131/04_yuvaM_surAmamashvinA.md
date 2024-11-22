@@ -84,43 +84,63 @@ kármasu ← kárman- (nominal stem)
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *surāmam* ← *surāma*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *namucāv* ← *namucau* ← *namuci*
 - \[noun\], locative, singular, masculine
 - “Namuci; namuci \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsure* ← *āsura*
 - \[noun\], locative, singular, masculine
 - “āsura; demoniac.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipipānā* ← *vipā* ← *√pā*
 - \[verb noun\], nominative, dual
 - “drink; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhas* ← *śubhaḥ* ← *śubh*
 - \[noun\], genitive, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *patī* ← *pati*
 - \[noun\], nominative, dual, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *karmasv* ← *karmasu* ← *karman*
 - \[noun\], locative, plural, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -128,11 +148,15 @@ kármasu ← kárman- (nominal stem)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvatam* ← *av*
 - \[verb\], dual, Imperfect
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

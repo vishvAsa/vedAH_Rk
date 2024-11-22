@@ -75,43 +75,63 @@ vājínam ← vājín- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhartāram* ← *dhartṛ*
 - \[noun\], accusative, singular, masculine
 - “supporter.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṇyoḥ* ← *oṇi*
 - \[noun\], genitive, dual, masculine
 - “arm.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *svardṛśam* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *svardṛśam* ← *dṛśam* ← *dṛś*
 - \[noun\], accusative, singular, masculine
 - “eye; dṛś; dṛś \[word\]; sight; evil eye.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinve* ← *hi*
 - \[verb\], singular, Present indikative
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

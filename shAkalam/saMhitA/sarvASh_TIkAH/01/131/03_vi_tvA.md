@@ -133,110 +133,162 @@ vájram ← vájra- (nominal stem)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatasre* ← *taṃs*
 - \[verb\], plural, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *mithunā* ← *mithunāḥ* ← *mithuna*
 - \[noun\], nominative, plural, masculine
 - “twin; couple; couple; coupling; sexual intercourse; Gemini.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasyavo* ← *avasyavaḥ* ← *avasyu*
 - \[noun\], nominative, plural, masculine
 - “seeking protection; helpless.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrajasya* ← *vraja*
 - \[noun\], genitive, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātā* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyasya* ← *gavya*
 - \[noun\], genitive, singular, masculine
 - “bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *niḥsṛjaḥ* ← *niḥsṛj* ← *√sṛj*
 - \[verb noun\]
 - “remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakṣanta* ← *sakṣantaḥ* ← *sah*
 - \[verb noun\], nominative, plural
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *niḥsṛjaḥ* ← *niḥsṛj* ← *√sṛj*
 - \[verb noun\]
 - “remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyantā* ← *gavyat*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dvā* ← *dvi*
 - \[noun\], accusative, dual, masculine
 - “two; dvi \[word\]; second.”
-------------------------------------------------------------------------
+
+_________
+
 - *janā* ← *jana*
 - \[noun\], accusative, dual, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *yantā* ← *i*
 - \[verb noun\], accusative, dual
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *samūhasi* ← *samūh* ← *√ūh*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *āviṣ* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
-------------------------------------------------------------------------
+
+_________
+
 - *karikrad* ← *karikrat* ← *karikṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
 - “produce.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇaṃ* ← *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacābhuvaṃ* ← *sacābhuvam* ← *sacābhū*
 - \[noun\], accusative, singular, masculine
 - “ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacābhuvam* ← *sacābhū*
 - \[noun\], accusative, singular, masculine
 - “ally.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

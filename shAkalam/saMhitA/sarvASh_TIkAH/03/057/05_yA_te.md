@@ -105,86 +105,124 @@ sādaya ← √sad- (root)
 -   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvā*
 - \[noun\], nominative, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumatī* ← *madhumat*
 - \[noun\], nominative, singular, feminine
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumedhā* ← *sumedhāḥ* ← *sumedhas*
 - \[noun\], nominative, singular, feminine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *deveṣūcyata* ← *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *deveṣūcyata* ← *ucyate* ← *vac*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *urūcī* ← *uruvyañc*
 - \[noun\], nominative, singular, feminine
 - “extensive; wide.”
-------------------------------------------------------------------------
+
+_________
+
 - *tayeha* ← *tayā* ← *tad*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tayeha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāṃ* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “Viśvakarman; Viśvedevās; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *avase* ← *avas*
 - \[noun\], dative, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatrān* ← *yajatra*
 - \[noun\], accusative, plural, masculine
 - “adorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sādaya* ← *sāday* ← *√sad*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *pāyayā* ← *pāyay* ← *√pā*
 - \[verb\], singular, Present imperative
 - “make to drink; temper; suckle.”
-------------------------------------------------------------------------
+
+_________
+
 - *cā* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhūni* ← *madhu*
 - \[noun\], accusative, plural, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

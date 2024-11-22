@@ -102,82 +102,120 @@ sutā́saḥ ← √su- (root)
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *somā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *vārāṇy* ← *vārāṇi* ← *vāra*
 - \[noun\], accusative, plural, neuter
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyā* ← *avya*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *divyā* ← *divyāḥ* ← *divya*
 - \[noun\], nominative, plural, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kośāso* ← *kośāsaḥ* ← *kośa*
 - \[noun\], nominative, plural, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhravarṣāḥ* ← *abhra*
 - \[noun\], neuter
 - “abhra; cloud; sky; abhra \[word\]; cumulonimbus; mica; air;
     cloudiness.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhravarṣāḥ* ← *varṣāḥ* ← *varṣa*
 - \[noun\], nominative, plural, masculine
 - “year; rain; year; shower; varṣa; monsoon; varṣa \[word\]; age;
     cloud; India.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛthā*
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudraṃ* ← *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nīcīḥ* ← *nyāñc*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sutāso* ← *sutāsaḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *kalaśāṃ* ← *kalaśa*
 - \[noun\], accusative, plural, masculine
 - “jar.”
-------------------------------------------------------------------------
+
+_________
+
 - *asṛgran* ← *sṛj*
 - \[verb\], plural, Root aorist (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

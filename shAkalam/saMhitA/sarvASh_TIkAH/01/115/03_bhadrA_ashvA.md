@@ -97,73 +97,105 @@ yanti ← √i- 1 (root)
 - \[noun\], nominative, plural, masculine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *haritaḥ* ← *harit*
 - \[noun\], nominative, plural, masculine
 - “pale; green; bay; yellow.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *citrā* ← *citrāḥ* ← *citra*
 - \[noun\], nominative, plural, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *etagvā* ← *etagvāḥ* ← *etagva*
 - \[noun\], nominative, plural, masculine
 - “shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *anumādyāsaḥ* ← *anumad* ← *√mad*
 - \[verb noun\], nominative, plural
 - “praise; cheer; applaud.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasyanto* ← *namasyantaḥ* ← *namasy*
 - \[verb noun\], nominative, plural
 - “worship; respect.”
-------------------------------------------------------------------------
+
+_________
+
 - *diva* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], accusative, singular, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *asthuḥ* ← *sthā*
 - \[verb\], plural, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvāpṛthivī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadyaḥ* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

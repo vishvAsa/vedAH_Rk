@@ -105,31 +105,45 @@ vājayate ← √vājay- 2 (root)
 -   *tṛṣu*
 - \[noun\], accusative, singular, neuter
 - “dry.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *annā* ← *anna*
 - \[noun\], accusative, plural, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛṣuṇā* ← *tṛṣu*
 - \[noun\], instrumental, singular, masculine
 - “dry.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavakṣa* ← *vakṣ*
 - \[verb\], singular, Perfect indicative
 - “grow; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛṣuṃ* ← *tṛṣum* ← *tṛṣu*
 - \[noun\], accusative, singular, masculine
 - “dry.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūtaṃ* ← *dūtam* ← *dūta*
 - \[noun\], accusative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -140,53 +154,77 @@ vājayate ← √vājay- 2 (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yahvo* ← *yahvaḥ* ← *yahva*
 - \[noun\], nominative, singular, masculine
 - “youngest; youthful; active.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *meﾱiṃ* ← *meﾱim* ← *meḍi*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sacate* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *nijūrvann* ← *nijūrvan* ← *nijūrv* ← *√jūrv*
 - \[verb noun\], nominative, singular
 - “burn.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśuṃ* ← *āśum* ← *āśu*
 - \[noun\], accusative, singular, masculine
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vājayate* ← *vājay* ← *√vaj*
 - \[verb\], singular, Present indikative
 - “incite.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinve* ← *hi*
 - \[verb\], singular, Present indikative
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

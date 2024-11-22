@@ -73,43 +73,63 @@ yát ← yá- (pronoun)
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahantama* ← *vṛtra*
 - \[noun\], masculine
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahantama* ← *hantama*
 - \[noun\], vocative, singular, masculine
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutāvanto* ← *sutāvantaḥ* ← *sutāvat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛﾱayāsi* ← *mṛḍayāsi* ← *mṛḍay* ← *√mṛḍ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “pardon.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

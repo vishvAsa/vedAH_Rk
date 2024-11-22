@@ -77,45 +77,67 @@ yā́tā ← yā́tar- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛdhnur* ← *gṛdhnuḥ* ← *gṛdhnu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *asteva* ← *astā* ← *astṛ*
 - \[noun\], nominative, singular, masculine
 - “archer; shot.”
-------------------------------------------------------------------------
+
+_________
+
 - *asteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūro* ← *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “brave; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāteva* ← *yātā* ← *yātṛ*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yāteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhīmas* ← *bhīmaḥ* ← *bhīma*
 - \[noun\], nominative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣaḥ* ← *tveṣa*
 - \[noun\], nominative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *samatsu* ← *samad*
 - \[noun\], locative, plural, masculine
 - “conflict; strife.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

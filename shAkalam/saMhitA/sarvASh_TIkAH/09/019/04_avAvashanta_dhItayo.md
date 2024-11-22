@@ -70,37 +70,53 @@ vatsásya ← vatsá- (nominal stem)
 -   *avāvaśanta* ← *vāś*
 - \[verb\], plural, Plusquamperfect
 - “bellow; howl; sing; moo; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītayo* ← *dhītayaḥ* ← *dhīti*
 - \[noun\], nominative, plural, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhasyādhi* ← *vṛṣabhasya* ← *vṛṣabha*
 - \[noun\], genitive, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhasyādhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *retasi* ← *retas*
 - \[noun\], locative, singular, neuter
 - “semen; sperm.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnor* ← *sūnoḥ* ← *sūnu*
 - \[noun\], genitive, singular, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *vatsasya* ← *vatsa*
 - \[noun\], genitive, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātaraḥ* ← *mātṛ*
 - \[noun\], nominative, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

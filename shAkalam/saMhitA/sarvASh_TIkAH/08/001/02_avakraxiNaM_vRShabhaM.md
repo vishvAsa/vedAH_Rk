@@ -83,47 +83,71 @@ ubhayāvínam ← ubhayāvín- (nominal stem)
 
 -   *avakrakṣiṇaṃ* ← *avakrakṣiṇam* ← *avakrakṣin*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathājuraṃ* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathājuraṃ* ← *ajuram* ← *ajur*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *gāṃ* ← *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīsaham* ← *carṣaṇīsah*
 - \[noun\], accusative, singular, masculine
 - “regnant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidveṣaṇaṃ* ← *vidveṣaṇam* ← *vidveṣaṇa*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvananobhayaṅkaram* ← *saṃvananā* ← *saṃvanana*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvananobhayaṅkaram* ← *ubhayaṅkaram* ← *ubhayaṃkara*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhiṣṭham* ← *maṃhiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhayāvinam* ← *ubhayāvin*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

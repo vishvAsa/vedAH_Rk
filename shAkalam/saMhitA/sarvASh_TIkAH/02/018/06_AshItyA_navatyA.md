@@ -102,79 +102,115 @@ tvāyā́ ← tvám (pronoun)
 -   *āśītyā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āśītyā* ← *aśītyā* ← *aśīti*
 - \[noun\], instrumental, singular, feminine
 - “eighty; eightieth; aśīti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *navatyā* ← *navati*
 - \[noun\], instrumental, singular, feminine
 - “ninety; navati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhy* ← *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
 - “approaching; facing; less.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatena* ← *śata*
 - \[noun\], instrumental, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *haribhir* ← *haribhiḥ* ← *hari*
 - \[noun\], instrumental, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *uhyamānaḥ* ← *vah*
 - \[verb noun\], nominative, singular
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śunahotreṣu* ← *śunahotra*
 - \[noun\], locative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣikto* ← *pariṣiktaḥ* ← *pariṣic* ← *√sic*
 - \[verb noun\], nominative, singular
 - “sprinkle; effuse; rub.”
-------------------------------------------------------------------------
+
+_________
+
 - *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

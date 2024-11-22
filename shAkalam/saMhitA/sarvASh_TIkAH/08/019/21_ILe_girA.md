@@ -76,48 +76,70 @@ yájiṣṭham ← yájiṣṭha- (nominal stem)
 -   *īﾱe* ← *īḍe* ← *īḍ*
 - \[verb\], singular, Present indikative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *manurhitaṃ* ← *manuḥ* ← *manus*
 - \[noun\], masculine
 - “Manu; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *manurhitaṃ* ← *hitam* ← *dhā*
 - \[verb noun\], accusative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūtam* ← *dūta*
 - \[noun\], accusative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aratiṃ* ← *aratim* ← *arati*
 - \[noun\], accusative, singular, masculine
 - “charioteer.”
-------------------------------------------------------------------------
+
+_________
+
 - *nyerire* ← *nyer* ← *√īr*
 - \[verb\], plural, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *yajiṣṭhaṃ* ← *yajiṣṭham* ← *yajiṣṭha*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *havyavāhanam* ← *havyavāhana*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

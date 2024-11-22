@@ -93,74 +93,108 @@ sakhyā́ya ← sakhyá- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandine* ← *mandin*
 - \[noun\], dative, singular, masculine
 - “intoxicant; exhilarating.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitumad* ← *pitumat*
 - \[noun\], accusative, singular, neuter
 - “alimentary.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcatā* ← *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaco* ← *vacaḥ* ← *vacas*
 - \[noun\], accusative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇagarbhā* ← *kṛṣṇa*
 - \[noun\]
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇagarbhā* ← *garbhāḥ* ← *garbha*
 - \[noun\], accusative, plural, feminine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *nirahann* ← *nirahan* ← *nirhan* ← *√han*
 - \[verb\], singular, Root aorist (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjiśvanā* ← *ṛjiśvan*
 - \[noun\], instrumental, singular, masculine
 - “Ṛjiśvan.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasyavo* ← *avasyavaḥ* ← *avasyu*
 - \[noun\], nominative, plural, masculine
 - “seeking protection; helpless.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇaṃ* ← *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajradakṣiṇam* ← *vajra*
 - \[noun\], masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajradakṣiṇam* ← *dakṣiṇam* ← *dakṣiṇa*
 - \[noun\], accusative, singular, masculine
 - “southern; right; south; southerly; dakṣiṇa \[word\]; sincere;
     clockwise; deft.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutvantaṃ* ← *marutvantam* ← *marutvant*
 - \[noun\], accusative, singular, masculine
 - “Indra; marutvant \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

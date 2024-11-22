@@ -87,15 +87,21 @@ saṁgámāmahai ← √gam- (root)
 -   *kuvicchakat* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuvicchakat* ← *śakat* ← *śak*
 - \[verb\], singular, Aorist conj./subj.
 - “can; invigorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *karat* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -106,19 +112,27 @@ saṁgámāmahai ← √gam- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuvin* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasyasas* ← *vasyasaḥ* ← *vasyas*
 - \[noun\], accusative, plural, masculine
 - “better; rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *karat* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -129,33 +143,47 @@ saṁgámāmahai ← √gam- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *patidviṣo* ← *pati*
 - \[noun\], masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *patidviṣo* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], nominative, plural, feminine
 - “hostile; hating.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatīr* ← *yatīḥ* ← *i*
 - \[verb noun\], nominative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃgamāmahai* ← *saṃgam* ← *√gam*
 - \[verb\], plural, Present imperative
 - “meet; unite; love; connect; exist; land; justify.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

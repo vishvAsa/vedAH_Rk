@@ -76,44 +76,64 @@ vāyúm ← vāyú- (nominal stem)
 -   *tvaṣṭur* ← *tvaṣṭuḥ* ← *tvaṣṭṛ*
 - \[noun\], genitive, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāmātaraṃ* ← *jāmātaram* ← *jāmātṛ*
 - \[noun\], accusative, singular, masculine
 - “brother-in-law; husband.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *īśānaṃ* ← *īśānam* ← *īś*
 - \[verb noun\], accusative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutāvanto* ← *sutāvantaḥ* ← *sutāvat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vāyuṃ* ← *vāyum* ← *vāyu*
 - \[noun\], accusative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnā* ← *dyumna*
 - \[noun\], accusative, plural, neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *janāsaḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

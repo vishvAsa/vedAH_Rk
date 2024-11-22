@@ -99,76 +99,112 @@ yā́man ← yā́man- (nominal stem)
 -   *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūra* ← *sūre* ← *sūra*
 - \[noun\], locative, singular, masculine
 - “sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *udite* ← *udi* ← *√i*
 - \[verb noun\], locative, singular
 - “rise; originate; rise; increase.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūktair* ← *sūktaiḥ* ← *sūkta*
 - \[noun\], instrumental, plural, neuter
 - “Mantra; hymn.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūtadakṣam* ← *pūta* ← *pū*
 - \[verb noun\]
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūtadakṣam* ← *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *yayor* ← *yayoḥ* ← *yad*
 - \[noun\], genitive, dual, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asuryam* ← *asurya*
 - \[noun\], nominative, singular, neuter
 - “dignity.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣitaṃ* ← *akṣitam* ← *akṣita*
 - \[noun\], nominative, singular, neuter
 - “undecaying; uninjured.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyeṣṭhaṃ* ← *jyeṣṭham* ← *jyeṣṭha*
 - \[noun\], nominative, singular, neuter
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmann* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *ācitā* ← *ācit*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *jigatnu*
 - \[noun\], nominative, singular, neuter
 - “moving.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

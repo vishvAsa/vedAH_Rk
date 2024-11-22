@@ -103,78 +103,114 @@ háste ← hásta- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃbhṛtam* ← *sambhṛ* ← *√bhṛ*
 - \[verb noun\], accusative, singular
 - “gather; collect; fill; mix; fill into; produce.”
-------------------------------------------------------------------------
+
+_________
+
 - *usriyāyām* ← *usriyā*
 - \[noun\], locative, singular, feminine
 - “cow; dairy product.”
-------------------------------------------------------------------------
+
+_________
+
 - *padvad* ← *padvat*
 - \[noun\], accusative, singular, neuter
 - “footed.”
-------------------------------------------------------------------------
+
+_________
+
 - *viveda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaphavan* ← *śaphavat*
 - \[noun\], accusative, singular, neuter
 - “ungulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *name* ← *nama*
 - \[noun\], locative, singular, masculine
 - “nam.”
-------------------------------------------------------------------------
+
+_________
+
 - *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhā*
 - \[adverb\]
 - “secretly.”
-------------------------------------------------------------------------
+
+_________
+
 - *hitaṃ* ← *hitam* ← *dhā*
 - \[verb noun\], accusative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhyaṃ* ← *guhyam* ← *guh*
 - \[verb noun\], accusative, singular
 - “hide; cover; conceal; shroud; obscure.”
-------------------------------------------------------------------------
+
+_________
+
 - *gūḍham* ← *guh*
 - \[verb noun\], accusative, singular
 - “hide; cover; conceal; shroud; obscure.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsu* ← *ap*
 - \[noun\], locative, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *haste* ← *hasta*
 - \[noun\], locative, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇe* ← *dakṣiṇa*
 - \[noun\], locative, singular, masculine
 - “southern; right; south; southerly; dakṣiṇa \[word\]; sincere;
     clockwise; deft.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇāvān* ← *dakṣiṇāvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

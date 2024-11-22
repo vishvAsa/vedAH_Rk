@@ -87,53 +87,79 @@ tigmám ← tigmá- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣmā* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vanuṣo* ← *vanuṣaḥ* ← *vanus*
 - \[noun\], genitive, singular, masculine
 - “unfriendly; competing(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'bhimātiṃ* ← *abhimātim* ← *abhimāti*
 - \[noun\], accusative, singular, feminine
 - “aggression; hostility.”
-------------------------------------------------------------------------
+
+_________
+
 - *kayasya* ← *kaya*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmaṃ* ← *tigmam* ← *tigma*
 - \[noun\], accusative, singular, neuter
 - “sharp; pointed; fiery.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣodaḥ* ← *kṣodas*
 - \[noun\], accusative, singular, neuter
 - “swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratighnanti* ← *pratihan* ← *√han*
 - \[verb\], plural, Present indikative
 - “suppress; cure; obstruct; obstruct; ward off; jam; neutralize.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūrṇayaḥ* ← *bhūrṇi*
 - \[noun\], nominative, plural, masculine
 - “impatient; restless.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

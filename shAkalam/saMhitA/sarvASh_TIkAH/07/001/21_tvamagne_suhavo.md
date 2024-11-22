@@ -111,100 +111,148 @@ vīráḥ ← vīrá- (nominal stem)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhavo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhavo* ← *havaḥ* ← *hava*
 - \[noun\], nominative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṇvasaṃdṛk* ← *raṇva*
 - \[noun\]
 - “agreeable; happy; delightful; gay.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṇvasaṃdṛk* ← *saṃdṛś*
 - \[noun\], nominative, singular, masculine
 - “appearance; view; view.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudītī* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudītī* ← *dītī* ← *dīti*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sūno* ← *sūnu*
 - \[noun\], vocative, singular, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahaso* ← *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *didīhi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanaye* ← *tanaya*
 - \[noun\], locative, singular, masculine
 - “son.”
-------------------------------------------------------------------------
+
+_________
+
 - *nitya* ← *nitye* ← *nitya*
 - \[noun\], locative, singular, masculine
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
     connatural; necessary; durable; ageless; invariable; biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhaṅ* ← *dhak* ← *dagh*
 - \[verb\], singular, Aorist inj. (proh.)
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīro* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *asman* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *naryo* ← *naryaḥ* ← *narya*
 - \[noun\], nominative, singular, masculine
 - “manly; heroic; powerful; male; human.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsīt* ← *das*
 - \[verb\], singular, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

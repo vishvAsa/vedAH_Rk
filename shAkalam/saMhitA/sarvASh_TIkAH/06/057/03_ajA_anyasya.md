@@ -74,47 +74,65 @@ vr̥trā́ṇi ← vr̥trá- (nominal stem)
 - \[noun\], nominative, plural, masculine
 - “goat; Vishnu; Brahma; Shiva; Aja; aja \[word\]; Aja; aj; Ocimum
     gratissimum; Puruṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyasya* ← *anya*
 - \[noun\], genitive, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *vahnayo* ← *vahnayaḥ* ← *vahni*
 - \[noun\], nominative, plural, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
     leader.”
-------------------------------------------------------------------------
+
+_________
+
 - *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyasya* ← *anya*
 - \[noun\], genitive, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *sambhṛtā* ← *sambhṛta*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tābhyāṃ* ← *tābhyām* ← *tad*
 - \[noun\], instrumental, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrāṇi* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *jighnate* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

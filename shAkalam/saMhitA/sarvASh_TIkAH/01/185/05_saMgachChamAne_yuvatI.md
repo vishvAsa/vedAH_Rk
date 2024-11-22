@@ -93,65 +93,95 @@ rákṣatam ← √rakṣⁱ- (root)
 -   *saṃgacchamāne* ← *saṃgam* ← *√gam*
 - \[verb noun\], nominative, dual
 - “meet; unite; love; connect; exist; land; justify.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvatī*
 - \[noun\], nominative, dual, feminine
 - “girl.”
-------------------------------------------------------------------------
+
+_________
+
 - *samante* ← *samanta*
 - \[noun\], nominative, dual, feminine
 - “contiguous; whole.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasārā* ← *svasṛ*
 - \[noun\], nominative, dual, feminine
 - “sister; svasṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jāmī* ← *jāmi*
 - \[noun\], nominative, dual, feminine
 - “sister; woman; daughter-in-law.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitror* ← *pitroḥ* ← *pitṛ*
 - \[noun\], genitive, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhijighrantī* ← *abhighrā* ← *√ghrā*
 - \[verb noun\], nominative, dual
 - “snuff.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nābhiṃ* ← *nābhim* ← *nābhi*
 - \[noun\], accusative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvā* ← *div*
 - \[noun\], vocative, dual, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣatam* ← *rakṣ*
 - \[verb\], dual, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivī*
 - \[noun\], vocative, dual, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhvāt* ← *abhva*
 - \[noun\], ablative, singular, neuter
 - “monstrosity; nothingness; void; force.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

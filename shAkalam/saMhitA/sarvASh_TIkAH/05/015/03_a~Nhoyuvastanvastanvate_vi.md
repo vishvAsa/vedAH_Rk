@@ -101,89 +101,127 @@ sthuḥ ← √sthā- (root)
 
 -   *aṃhoyuvas* ← *aṃhoyuvaḥ* ← *aṃhoyu*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *tanvas* ← *tanvaḥ* ← *tanū*
 - \[noun\], nominative, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvate* ← *tan*
 - \[verb\], plural, Present indikative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayo* ← *vayaḥ* ← *vayas*
 - \[noun\], nominative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahad* ← *mahat*
 - \[noun\], nominative, singular, neuter
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *duṣṭaram* ← *duṣṭara*
 - \[noun\], nominative, singular, neuter
 - “incomparable; irresistible; unbearable; unconquerable.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyāya* ← *pūrvya*
 - \[noun\], dative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvato* ← *saṃvataḥ* ← *saṃvat*
 - \[noun\], accusative, plural, feminine
 - “tract.”
-------------------------------------------------------------------------
+
+_________
+
 - *navajātas* ← *nava*
 - \[noun\]
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *navajātas* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuturyāt* ← *tur*
 - \[verb\], singular, Perfect conjunctive (subj.)
-------------------------------------------------------------------------
+
+_________
+
 - *siṃhaṃ* ← *siṃham* ← *siṃha*
 - \[noun\], accusative, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kruddham* ← *krudh*
 - \[verb noun\], accusative, singular
 - “anger; kup.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhitaḥ* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣṭhuḥ* ← *sthā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

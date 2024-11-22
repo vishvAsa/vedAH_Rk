@@ -87,59 +87,87 @@ yajñám ← yajñá- (nominal stem)
 -   *ādityānām* ← *āditya*
 - \[noun\], genitive, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūtanena* ← *nūtana*
 - \[noun\], instrumental, singular, neuter
 - “new; fresh; recent; contemporary; present(a); first.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakṣīmahi* ← *sac*
 - \[verb\], plural, Aorist optative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarmaṇā* ← *śarman*
 - \[noun\], instrumental, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *śantamena* ← *śaṃtama*
 - \[noun\], instrumental, singular, neuter
 - “beneficent.”
-------------------------------------------------------------------------
+
+_________
+
 - *anāgāstve* ← *anāgāstva*
 - \[noun\], locative, singular, neuter
 - “blamelessness; purity.”
-------------------------------------------------------------------------
+
+_________
+
 - *adititve* ← *aditi*
 - \[noun\]
 - “impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *adititve* ← *tve* ← *tva*
 - \[noun\], locative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *turāsa* ← *turāsaḥ* ← *tura*
 - \[noun\], nominative, plural, masculine
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhatu* ← *dhā*
 - \[verb\], plural, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *śroṣamāṇāḥ* ← *śruṣ*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -64,35 +64,51 @@ gr̥ṇānā́ḥ ← √gr̥̄- 1 (root)
 -   *pavante* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasātaye* ← *vājasāti*
 - \[noun\], dative, singular, feminine
 - “victory; battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrapājasaḥ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrapājasaḥ* ← *pājasaḥ* ← *pājas*
 - \[noun\], nominative, plural, masculine
 - “luminosity; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇānā* ← *gṛṇānāḥ* ← *gṛ*
 - \[verb noun\], nominative, plural
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *devavītaye* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devavītaye* ← *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

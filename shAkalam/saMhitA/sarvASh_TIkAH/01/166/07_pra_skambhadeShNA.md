@@ -90,68 +90,100 @@ vīrásya ← vīrá- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *skambhadeṣṇā* ← *skambha*
 - \[noun\], masculine
 - “prop.”
-------------------------------------------------------------------------
+
+_________
+
 - *skambhadeṣṇā* ← *deṣṇāḥ* ← *deṣṇa*
 - \[noun\], nominative, plural, masculine
 - “gift; giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *anavabhrarādhaso* ← *anavabhra*
 - \[noun\]
 - “permanent.”
-------------------------------------------------------------------------
+
+_________
+
 - *anavabhrarādhaso* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], nominative, plural, masculine
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *'lātṛṇāso* ← *alātṛṇāsaḥ* ← *alātṛṇa*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vidatheṣu* ← *vidatha*
 - \[noun\], locative, plural, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭutāḥ* ← *suṣṭuta*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *arcanty* ← *arcanti* ← *arc*
 - \[verb\], plural, Present indikative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *madirasya* ← *madira*
 - \[noun\], genitive, singular, masculine
 - “intoxicant.”
-------------------------------------------------------------------------
+
+_________
+
 - *pītaye* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidur* ← *viduḥ* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrasya* ← *vīra*
 - \[noun\], genitive, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamāni* ← *prathama*
 - \[noun\], accusative, plural, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *pauṃsyā* ← *pauṃsya*
 - \[noun\], accusative, plural, neuter
 - “manfulness; deed; army; strength.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

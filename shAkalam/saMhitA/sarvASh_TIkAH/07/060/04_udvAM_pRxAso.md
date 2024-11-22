@@ -102,80 +102,116 @@ váruṇaḥ ← váruṇa- (nominal stem)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛkṣāso* ← *pṛkṣāsaḥ* ← *pṛkṣa*
 - \[noun\], nominative, plural, masculine
 - “strong; full of life.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumanto* ← *madhumantaḥ* ← *madhumat*
 - \[noun\], nominative, plural, masculine
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *asthur* ← *asthuḥ* ← *sthā*
 - \[verb\], plural, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruhacchukram* ← *aruhat* ← *ruh*
 - \[verb\], singular, Imperfect
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruhacchukram* ← *śukram* ← *śukra*
 - \[noun\], accusative, singular, neuter
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṇaḥ* ← *arṇas*
 - \[noun\], accusative, singular, neuter
 - “body of water; water.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasmā* ← *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], nominative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvano* ← *adhvanaḥ* ← *adhvan*
 - \[noun\], accusative, plural, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *radanti* ← *rad*
 - \[verb\], plural, Present indikative
 - “dig.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, masculine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

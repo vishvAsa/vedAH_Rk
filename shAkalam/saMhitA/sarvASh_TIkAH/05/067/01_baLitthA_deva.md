@@ -86,58 +86,84 @@ várṣiṣṭham ← várṣiṣṭha- (nominal stem)
 
 -   *baﾱ* ← *baṭ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *itthā*
 - \[adverb\]
 - “thus; here.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣkṛtam* ← *niṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “place; rendezvous.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityā* ← *āditya*
 - \[noun\], vocative, dual, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatam* ← *yajata*
 - \[noun\], accusative, singular, neuter
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāryaman* ← *mitra*
 - \[noun\], vocative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāryaman* ← *aryaman*
 - \[noun\], vocative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *varṣiṣṭhaṃ* ← *varṣiṣṭham* ← *varṣiṣṭha*
 - \[noun\], accusative, singular, neuter
 - “highest.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśāthe* ← *aś*
 - \[verb\], dual, Perfect indicative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

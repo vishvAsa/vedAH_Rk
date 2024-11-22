@@ -87,61 +87,87 @@ rikha ← √rikh- (root)
 -   *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣan*
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmacodanīm* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmacodanīm* ← *codanīm* ← *codana*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ārām* ← *ārā*
 - \[noun\], accusative, singular, feminine
 - “ārā.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibharṣy* ← *bibharṣi* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *āghṛṇe* ← *āghṛṇi*
 - \[noun\], vocative, singular, masculine
 - “aglow(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *tayā* ← *tad*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *samasya* ← *sama*
 - \[noun\], genitive, singular, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);
     accurate; identical; fair; equal; synonymous; changeless; whole;
     exact; calm; straight; even; wide.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdayam* ← *hṛdaya*
 - \[noun\], accusative, singular, neuter
 - “heart; heart; mind; hṛdaya \[word\]; science; thorax;
     Aṣṭāṅgahṛdayasaṃhitā; soul.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rikha* ← *likh*
 - \[verb\], singular, Present imperative
 - “write; trace; describe; scarify; paint.”
-------------------------------------------------------------------------
+
+_________
+
 - *kikirā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇu* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -152,7 +178,9 @@ rikha ← √rikh- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

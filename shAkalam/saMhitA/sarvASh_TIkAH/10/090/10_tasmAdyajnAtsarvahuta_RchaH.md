@@ -92,79 +92,111 @@ tásmāt ← sá- ~ tá- (pronoun)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāyanta* ← *jan*
 - \[verb\], plural, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cobhayādataḥ* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cobhayādataḥ* ← *ubhaya*
 - \[noun\]
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *cobhayādataḥ* ← *adataḥ* ← *ad*
 - \[verb noun\], nominative, plural
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jajñire* ← *jan*
 - \[verb\], plural, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmāj* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātā* ← *jātāḥ* ← *jan*
 - \[verb noun\], nominative, plural
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāvayaḥ* ← *aja*
 - \[noun\], masculine
 - “goat; Vishnu; Brahma; Shiva; Aja; aja \[word\]; Aja; aj; Ocimum
     gratissimum; Puruṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāvayaḥ* ← *avayaḥ* ← *avi*
 - \[noun\], nominative, plural, masculine
 - “sheep; avi \[word\]; menstruating woman; ewe.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

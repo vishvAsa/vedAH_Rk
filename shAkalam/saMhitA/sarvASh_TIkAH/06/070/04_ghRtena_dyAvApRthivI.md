@@ -96,80 +96,118 @@ víprāḥ ← vípra- (nominal stem)
 -   *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvāpṛthivī*
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīvṛte* ← *abhivṛ* ← *√vṛ*
 - \[verb noun\], nominative, dual
 - “cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtaśriyā* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtaśriyā* ← *śriyāḥ* ← *śrī*
 - \[noun\], nominative, dual, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtapṛcā* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtapṛcā* ← *pṛcā* ← *pṛc*
 - \[noun\], nominative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtāvṛdhā* ← *ghṛtāvṛdh*
 - \[noun\], nominative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *urvī* ← *uru*
 - \[noun\], nominative, dual, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthvī* ← *pṛthu*
 - \[noun\], nominative, dual, feminine
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotṛvūrye* ← *hotṛ*
 - \[noun\], masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotṛvūrye* ← *vūrye* ← *vūrya*
 - \[noun\], locative, singular, neuter
 - “election.”
-------------------------------------------------------------------------
+
+_________
+
 - *purohite* ← *purodhā* ← *√dhā*
 - \[verb noun\], nominative, dual
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], accusative, dual, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *īﾱate* ← *īḍate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, feminine
 - “seeking.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

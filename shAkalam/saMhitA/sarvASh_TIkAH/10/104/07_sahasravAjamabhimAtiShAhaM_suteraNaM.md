@@ -87,57 +87,85 @@ pananta ← √panⁱ- (root)
 -   *sahasravājam* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasravājam* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhimātiṣāhaṃ* ← *abhimātiṣāham* ← *abhimātiṣāh*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *suteraṇam* ← *suteraṇa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *maghavānaṃ* ← *maghavānam* ← *maghavan*
 - \[noun\], accusative, singular
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suvṛktim* ← *suvṛkti*
 - \[noun\], accusative, singular, masculine
 - “glorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūṣanti* ← *bhūṣ*
 - \[verb\], plural, Present indikative
 - “endeavor; attend; strive.”
-------------------------------------------------------------------------
+
+_________
+
 - *giro* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *apratītam* ← *apratīta*
 - \[noun\], accusative, singular, masculine
 - “irresistible.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasyā* ← *namasyāḥ* ← *namasyā*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *jarituḥ* ← *jaritṛ*
 - \[noun\], genitive, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *pananta* ← *pan*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,85 +99,123 @@ stutā́ḥ ← √stu- (root)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'hir* ← *ahiḥ* ← *ahi*
 - \[noun\], nominative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 - *budhnyaḥ* ← *budhnya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇotv* ← *śṛṇotu* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *aja* ← *ajaḥ* ← *aja*
 - \[noun\], nominative, singular, masculine
 - “unborn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekapāt* ← *eka*
 - \[noun\]
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekapāt* ← *pād*
 - \[noun\], nominative, singular, masculine
 - “pād \[word\]; foot.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivī*
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudraḥ* ← *samudra*
 - \[noun\], nominative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvṛdho* ← *ṛtāvṛdhaḥ* ← *ṛtāvṛdh*
 - \[noun\], nominative, plural, masculine
 - “sincere.”
-------------------------------------------------------------------------
+
+_________
+
 - *huvānā* ← *huvānāḥ* ← *hvā*
 - \[verb noun\], nominative, plural
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *stutā* ← *stutāḥ* ← *stu*
 - \[verb noun\], nominative, plural
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *mantrāḥ* ← *mantra*
 - \[noun\], nominative, plural, masculine
 - “mantra; Mantra; consultation; advice; consultation; mantra
     \[word\]; speech; plan.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaviśastā* ← *kavi*
 - \[noun\], masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaviśastā* ← *śastāḥ* ← *śaṃs*
 - \[verb noun\], nominative, plural
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *avantu* ← *av*
 - \[verb\], plural, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

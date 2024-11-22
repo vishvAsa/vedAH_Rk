@@ -90,67 +90,97 @@ sárve ← sárva- (nominal stem)
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnahendra* ← *sapatna*
 - \[noun\], masculine
 - “rival; enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnahendra* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnahendra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivāriṣṭo* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivāriṣṭo* ← *ariṣṭaḥ* ← *ariṣṭa*
 - \[noun\], nominative, singular, masculine
 - “safe; unharmed.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣataḥ* ← *akṣata*
 - \[noun\], nominative, singular, masculine
 - “uninjured.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhaḥ* ← *adhas*
 - \[adverb\]
 - “below; down; adhas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnā* ← *sapatnāḥ* ← *sapatna*
 - \[noun\], nominative, plural, masculine
 - “rival; enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pador* ← *padoḥ* ← *pad*
 - \[noun\], locative, dual, masculine
 - “foot; pad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarve* ← *sarva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭhitāḥ* ← *abhiṣṭhā* ← *√sthā*
 - \[verb noun\], nominative, plural
 - “step on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

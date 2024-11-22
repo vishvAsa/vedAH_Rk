@@ -96,77 +96,113 @@ yújyāya ← yújya- (nominal stem)
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruvīrasya* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruvīrasya* ← *vīrasya* ← *vīra*
 - \[noun\], genitive, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarmann* ← *śarman*
 - \[noun\], locative, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruśaṃsasya* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruśaṃsasya* ← *śaṃsasya* ← *śaṃsa*
 - \[noun\], genitive, singular, masculine
 - “praise; śaṃs; recitation.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *praṇetaḥ* ← *praṇetar* ← *praṇetṛ*
 - \[noun\], vocative, singular, masculine
 - “leader.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *putrā* ← *putrāḥ* ← *putra*
 - \[noun\], vocative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *aditer* ← *aditeḥ* ← *aditi*
 - \[noun\], genitive, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adabdhā* ← *adabdhāḥ* ← *adabdha*
 - \[noun\], nominative, plural, masculine
 - “unfailing; unimpaired.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣamadhvaṃ* ← *kṣamadhvam* ← *kṣam*
 - \[verb\], plural, Present imperative
 - “forgive; can; endure; permit.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujyāya* ← *yujya*
 - \[noun\], dative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

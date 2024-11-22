@@ -76,48 +76,72 @@ suhā́rdam ← suhā́rda- (nominal stem)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śukro* ← *śukraḥ* ← *śukra*
 - \[noun\], nominative, singular, masculine
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *durāśīr* ← *durāśir*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛprā* ← *tṛprāḥ* ← *tṛpra*
 - \[noun\], nominative, plural, masculine
 - “tṛpra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *uruvyacasam* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruvyacasam* ← *vyacasam* ← *vyacas*
 - \[noun\], accusative, singular, masculine
 - “area; capacity.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaspṛṇvate* ← *apaspṛ* ← *√spṛ*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *suhārdam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhārdam* ← *hārdam* ← *hārda*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

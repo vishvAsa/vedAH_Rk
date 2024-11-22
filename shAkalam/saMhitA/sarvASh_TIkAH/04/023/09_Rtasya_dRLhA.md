@@ -99,76 +99,110 @@ viveśuḥ ← √viś- (root)
 -   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛﾱhā* ← *dṛḍha*
 - \[noun\], nominative, plural, neuter
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharuṇāni* ← *dharuṇa*
 - \[noun\], nominative, plural, neuter
 - “prop; foundation.”
-------------------------------------------------------------------------
+
+_________
+
 - *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *purūṇi* ← *puru*
 - \[noun\], nominative, plural, neuter
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *candrā* ← *candra*
 - \[noun\], nominative, plural, neuter
 - “aglitter(p); shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapuṣe* ← *vapus*
 - \[noun\], dative, singular, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapūṃṣi* ← *vapus*
 - \[noun\], nominative, plural, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣaṇanta* ← *iṣaṇ*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *pṛkṣa* ← *pṛkṣaḥ* ← *pṛkṣ*
 - \[noun\], nominative, plural, feminine
 - “food; refreshment; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāva* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viveśuḥ* ← *viś*
 - \[verb\], plural, Perfect indicative
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,77 +96,111 @@ vr̥jáneṣu ← vr̥jána- (nominal stem)
 -   *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣā*
 - \[noun\], nominative, singular, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatī* ← *bṛhat*
 - \[noun\], nominative, singular, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhantorukramā* ← *bṛhantā* ← *bṛhat*
 - \[noun\], accusative, dual, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhantorukramā* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhantorukramā* ← *kramā* ← *krama*
 - \[noun\], accusative, dual, masculine
 - “sequence; ordering; method; series; arrangement; treatment;
     arrangement; course; kram; krama \[word\]; saṃskāra; footstep; foot;
     step; measure.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavasā* ← *tavas*
 - \[noun\], accusative, dual, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhayantī* ← *vardhay* ← *√vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; strengthen; promote; rear; add; greet; laud.”
-------------------------------------------------------------------------
+
+_________
+
 - *rare* ← *rā*
 - \[verb\], singular, Perfect indicative
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vidatheṣu* ← *vidatha*
 - \[noun\], locative, plural, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṇo* ← *viṣṇu*
 - \[noun\], vocative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *pinvatam* ← *pinv*
 - \[verb\], dual, Present imperative
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjaneṣv* ← *vṛjaneṣu* ← *vṛjana*
 - \[noun\], locative, plural, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

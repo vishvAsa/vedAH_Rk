@@ -93,72 +93,106 @@ tā́rkṣyam ← tā́rkṣya- (nominal stem)
 -   *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinaṃ* ← *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *devajūtaṃ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devajūtaṃ* ← *jūtam* ← *jū*
 - \[verb noun\], accusative, singular
 - “animate; encourage; impel; inspire.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahāvānaṃ* ← *sahāvānam* ← *sahāvan*
 - \[noun\], accusative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarutāraṃ* ← *tarutāram* ← *tarutṛ*
 - \[noun\], accusative, singular, masculine
 - “tarutṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rathānām* ← *ratha*
 - \[noun\], genitive, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣṭanemim* ← *ariṣṭa*
 - \[noun\]
 - “safe; unharmed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣṭanemim* ← *nemim* ← *nemi*
 - \[noun\], accusative, singular, masculine
 - “rim; felloe.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanājam* ← *pṛtanāj*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āśuṃ* ← *āśum* ← *āśu*
 - \[noun\], accusative, singular, masculine
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *tārkṣyam* ← *tārkṣya*
 - \[noun\], accusative, singular, masculine
 - “emerald; Garuda; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *ihā* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *huvema* ← *hvā*
 - \[verb\], plural, Present optative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

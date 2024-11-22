@@ -70,40 +70,58 @@ mádhuhastyaḥ ← mádhuhastya- (nominal stem)
 -   *narāśaṃsaḥ* ← *narāśaṃsa*
 - \[noun\], nominative, singular, masculine
 - “Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣūdatīmaṃ* ← *suṣūdati* ← *sūd*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “sweeten; prepare.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣūdatīmaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *adābhyaḥ* ← *adābhya*
 - \[noun\], nominative, singular, masculine
 - “trustworthy; disabused(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *madhuhastyaḥ* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *madhuhastyaḥ* ← *hastyaḥ* ← *hastya*
 - \[noun\], nominative, singular, masculine
 - “hand(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

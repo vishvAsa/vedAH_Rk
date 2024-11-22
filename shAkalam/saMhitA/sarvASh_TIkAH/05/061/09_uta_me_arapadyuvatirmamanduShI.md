@@ -90,63 +90,93 @@ víprāya ← vípra- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'rapad* ← *arapat* ← *rap*
 - \[verb\], singular, Imperfect
 - “whisper.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvatir* ← *yuvatiḥ* ← *yuvati*
 - \[noun\], nominative, singular, feminine
 - “girl; woman.”
-------------------------------------------------------------------------
+
+_________
+
 - *mamanduṣī* ← *mand*
 - \[verb noun\], nominative, singular
 - “rejoice; exhilarate.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyāvāya* ← *śyāva*
 - \[noun\], dative, singular, masculine
 - “śyāva; Śyāva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartanim* ← *vartani*
 - \[noun\], accusative, singular, feminine
 - “path; East; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *rohitā* ← *rohita*
 - \[noun\], nominative, dual, masculine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 - *purumīﾱhāya* ← *purumīḍha*
 - \[noun\], dative, singular, masculine
 - “Purumīḍha.”
-------------------------------------------------------------------------
+
+_________
+
 - *yematur* ← *yematuḥ* ← *yam*
 - \[verb\], dual, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprāya* ← *vipra*
 - \[noun\], dative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghayaśase* ← *dīrgha*
 - \[noun\]
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghayaśase* ← *yaśase* ← *yaśas*
 - \[noun\], dative, singular, masculine
 - “fame; Yaśas.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

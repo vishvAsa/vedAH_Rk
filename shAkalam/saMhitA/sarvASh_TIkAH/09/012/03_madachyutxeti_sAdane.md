@@ -76,43 +76,63 @@ sómaḥ ← sóma- (nominal stem)
 -   *madacyut*
 - \[noun\], nominative, singular, feminine
 - “proud.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣeti* ← *kṣi*
 - \[verb\], singular, Present indikative
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādane* ← *sādana*
 - \[noun\], locative, singular, neuter
 - “home; dwelling; seat.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhor* ← *sindhoḥ* ← *sindhu*
 - \[noun\], genitive, singular, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmā* ← *ūrmi*
 - \[noun\], locative, singular, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipaścit*
 - \[noun\], nominative, singular, masculine
 - “wise; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaurī* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *śritaḥ* ← *śri*
 - \[verb noun\], nominative, singular
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

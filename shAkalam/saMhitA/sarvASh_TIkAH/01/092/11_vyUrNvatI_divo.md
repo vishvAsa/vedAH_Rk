@@ -96,72 +96,104 @@ yóṣā ← yóṣā- (nominal stem)
 -   *vyūrṇvatī* ← *vivṛ* ← *√vṛ*
 - \[verb noun\], nominative, singular
 - “open; comment; uncover; disclose.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *antāṃ* ← *anta*
 - \[noun\], accusative, plural, masculine
 - “end; last syllable; end; end; boundary; inside; border; death; anta
     \[word\]; edge; end; shore; limit; region; outskirt; destruction;
     boundary; limit; anta; termination; corner; conclusion; hem; end;
     ant; edge.”
-------------------------------------------------------------------------
+
+_________
+
 - *abodhy* ← *abodhi* ← *budh*
 - \[verb\], singular, Aorist passive
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasāraṃ* ← *svasāram* ← *svasṛ*
 - \[noun\], accusative, singular, feminine
 - “sister; svasṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sanutar*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyoti* ← *yu*
 - \[verb\], singular, Present indikative
 - “keep away; separate; ward off.”
-------------------------------------------------------------------------
+
+_________
+
 - *praminatī* ← *pramī* ← *√mī*
 - \[verb noun\], nominative, singular
 - “destroy.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣyā* ← *manuṣya*
 - \[noun\], accusative, plural, neuter
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 - *yugāni* ← *yuga*
 - \[noun\], accusative, plural, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣā*
 - \[noun\], nominative, singular, feminine
 - “woman; puppet; daughter.”
-------------------------------------------------------------------------
+
+_________
+
 - *jārasya* ← *jāra*
 - \[noun\], genitive, singular, masculine
 - “fancy man.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣasā* ← *cakṣas*
 - \[noun\], instrumental, singular, neuter
 - “eye; look; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

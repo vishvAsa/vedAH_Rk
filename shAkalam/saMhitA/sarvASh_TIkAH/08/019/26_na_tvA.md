@@ -102,80 +102,118 @@ syā́t ← √as- 1 (root)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāsīyābhiśastaye* ← *rāsīya* ← *rā*
 - \[verb\], singular, Aorist optative
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāsīyābhiśastaye* ← *abhiśastaye* ← *abhiśasti*
 - \[noun\], dative, singular, feminine
 - “hex; accusation; defamation; blame; aspersion.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pāpatvāya* ← *pāpa*
 - \[noun\]
 - “evil; dangerous; wicked; pāpa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pāpatvāya* ← *tvāya* ← *tva*
 - \[noun\], dative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *santya*
 - \[noun\], vocative, singular, masculine
 - “honest.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotāmatīvā* ← *stotā* ← *stotṛ*
 - \[noun\], nominative, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotāmatīvā* ← *amatīvā* ← *amatīvan*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *durhitaḥ* ← *durhita*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *syād* ← *syāt* ← *as*
 - \[verb\], singular, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pāpayā* ← *pāpa*
 - \[noun\], instrumental, singular, feminine
 - “evil; dangerous; wicked; pāpa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

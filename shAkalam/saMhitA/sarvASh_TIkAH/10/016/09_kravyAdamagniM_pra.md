@@ -99,87 +99,125 @@ vahatu ← √vah- (root)
 -   *kravyādam* ← *kravyād*
 - \[noun\], accusative, singular, masculine
 - “carnivore.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiṇomi* ← *hi*
 - \[verb\], singular, Present indikative
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūraṃ* ← *dūram*
 - \[adverb\]
 - “far.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamarājño* ← *yama*
 - \[noun\], masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamarājño* ← *rājñaḥ* ← *rājan*
 - \[noun\], accusative, plural, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *gacchatu* ← *gam*
 - \[verb\], singular, Present imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *ripravāhaḥ* ← *ripra*
 - \[noun\], neuter
 - “impurity.”
-------------------------------------------------------------------------
+
+_________
+
 - *ripravāhaḥ* ← *vāhaḥ* ← *vāha*
 - \[noun\], nominative, singular, masculine
 - “transporting; flowing; removing.”
-------------------------------------------------------------------------
+
+_________
+
 - *ihaivāyam* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *ihaivāyam* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ihaivāyam* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *itaro* ← *itaraḥ* ← *itara*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); itara \[word\]; other than.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedā* ← *jātavedāḥ* ← *jātavedas*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyaṃ* ← *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vahatu* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajānan* ← *prajñā* ← *√jñā*
 - \[verb noun\], nominative, singular
 - “know; perceive; understand; detect.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

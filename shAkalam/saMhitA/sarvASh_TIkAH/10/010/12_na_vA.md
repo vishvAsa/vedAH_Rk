@@ -117,98 +117,144 @@ vaṣṭi ← √vaś- (root)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vā* ← *vai*
 - \[adverb\]
 - “surely; on the other hand; vai \[word\]; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvā* ← *tanu*
 - \[noun\], instrumental, singular, feminine
 - “body; embodiment; life; life; root; body; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *papṛcyām* ← *pṛc*
 - \[verb\], singular, Perfect optative
 - “mix; unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāpam* ← *pāpa*
 - \[noun\], accusative, singular, masculine
 - “evil; dangerous; wicked; pāpa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svasāraṃ* ← *svasāram* ← *svasṛ*
 - \[noun\], accusative, singular
 - “sister; svasṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nigacchāt* ← *nigam* ← *√gam*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “love.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyena* ← *anya*
 - \[noun\], instrumental, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *mat* ← *mad*
 - \[noun\], ablative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pramudaḥ* ← *pramud*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *kalpayasva* ← *kalpay* ← *√kﾱp*
 - \[verb\], singular, Present imperative
 - “prepare; assign; create; produce; fix; restore; order; prepare;
     imitate; restore; make; treat.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrātā* ← *bhrātṛ*
 - \[noun\], nominative, singular, masculine
 - “brother; bhrātṛ; relative.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhage* ← *subhaga*
 - \[noun\], vocative, singular, feminine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaṣṭy* ← *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *etat* ← *etad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,44 +73,64 @@ tigmájambhasya ← tigmájambha- (nominal stem)
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghā* ← *gha*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vīra* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *īvato* ← *īvataḥ* ← *īvat*
 - \[noun\], genitive, singular, masculine
 - “such(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *'gner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *īśīta* ← *īś*
 - \[verb\], singular, Present optative
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “mortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmajambhasya* ← *tigma*
 - \[noun\]
 - “sharp; pointed; fiery.”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmajambhasya* ← *jambhasya* ← *jambha*
 - \[noun\], genitive, singular, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
-------------------------------------------------------------------------
+
+_________
+
 - *mīﾱhuṣaḥ* ← *mīḍhuṣaḥ* ← *mīḍhvas*
 - \[noun\], genitive, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

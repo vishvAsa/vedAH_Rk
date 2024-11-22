@@ -99,74 +99,108 @@ vidhema ← √vidh- (root)
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *krandasī* ← *krandas*
 - \[noun\], nominative, dual, neuter
 - “army; war cry.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *tastabhāne* ← *stambh*
 - \[verb noun\], nominative, dual
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *aikṣetām* ← *īkṣ*
 - \[verb\], dual, Imperfect
 - “view; see; detect; watch; consider; think; see; think; diagnose.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *rejamāne* ← *rej*
 - \[verb noun\], nominative, dual
 - “tremor; flicker.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatrādhi* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yatrādhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūra* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *udito* ← *uditaḥ* ← *udi* ← *√i*
 - \[verb noun\], nominative, singular
 - “rise; originate; rise; increase.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāti* ← *vibhā* ← *√bhā*
 - \[verb\], singular, Present indikative
 - “shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *kasmai* ← *ka*
 - \[noun\], dative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devāya* ← *deva*
 - \[noun\], dative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhema* ← *vidh*
 - \[verb\], plural, Present optative
 - “worship; offer.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

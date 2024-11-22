@@ -102,81 +102,119 @@ vanate ← √vanⁱ- (root)
 -   *apād* ← *apāt* ← *pā*
 - \[verb\], singular, Root aorist (Ind.)
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *ita* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *naś* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *citratamo* ← *citratamaḥ* ← *citratama*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mahīm* ← *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharṣad* ← *bharṣat* ← *bhṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumatīm* ← *dyumat*
 - \[noun\], accusative, singular, feminine
 - “bright; brilliant; brilliant; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrahūtim* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrahūtim* ← *hūtim* ← *hūti*
 - \[noun\], accusative, singular, feminine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *panyasīṃ* ← *panyasīm* ← *panyas*
 - \[noun\], accusative, singular, feminine
 - “precious.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītiṃ* ← *dhītim* ← *dhīti*
 - \[noun\], accusative, singular, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivyasya* ← *daivya*
 - \[noun\], genitive, singular, masculine
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmañ* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *janasya* ← *jana*
 - \[noun\], genitive, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātiṃ* ← *rātim* ← *rāti*
 - \[noun\], accusative, singular, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanate* ← *van*
 - \[verb\], singular, Present indikative
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānuḥ* ← *sudānu*
 - \[noun\], nominative, singular, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

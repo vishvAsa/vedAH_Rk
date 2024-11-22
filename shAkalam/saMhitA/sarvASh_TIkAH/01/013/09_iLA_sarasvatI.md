@@ -73,41 +73,59 @@ sīdantu ← √sad- (root)
 -   *iḍā*
 - \[noun\], nominative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvatī*
 - \[noun\], nominative, dual, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahī*
 - \[noun\], nominative, singular, feminine
 - “Earth; floor; Earth; land; real property; heaven and earth; space;
     Mahī; soil; earth; estate; area.”
-------------------------------------------------------------------------
+
+_________
+
 - *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], nominative, plural, feminine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devīr* ← *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *mayobhuvaḥ* ← *mayobhu*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sīdantv* ← *sīdantu* ← *sad*
 - \[verb\], plural, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *asridhaḥ* ← *asridh*
 - \[noun\], nominative, plural, feminine
 - “unfailing.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -76,43 +76,63 @@ suvā́ti ← √sū- 1 (root)
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātāny* ← *jātāni* ← *jāta*
 - \[noun\], accusative, plural, neuter
 - “kind; object; descendant; kin; being; reincarnation.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśrāvayati* ← *āśrāvay* ← *√śru*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *ślokena* ← *śloka*
 - \[noun\], instrumental, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvāti* ← *sū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “give birth; urge; bestow; cause.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

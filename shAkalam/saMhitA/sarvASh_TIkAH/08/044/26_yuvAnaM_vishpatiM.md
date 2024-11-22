@@ -70,47 +70,67 @@ mánmabhiḥ ← mánman- (nominal stem)
 -   *yuvānaṃ* ← *yuvānam* ← *yuvan*
 - \[noun\], accusative, singular, masculine
 - “young; youthful.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśpatiṃ* ← *viśpatim* ← *viśpati*
 - \[noun\], accusative, singular, masculine
 - “overlord; head.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaviṃ* ← *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvādam* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvādam* ← *adam* ← *ad*
 - \[noun\], accusative, singular, masculine
 - “eating.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruvepasam* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruvepasam* ← *vepasam* ← *vepas*
 - \[noun\], accusative, singular, masculine
 - “inspiration; shaking.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *śumbhāmi* ← *śubh*
 - \[verb\], singular, Present indikative
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *manmabhiḥ* ← *manman*
 - \[noun\], instrumental, plural, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

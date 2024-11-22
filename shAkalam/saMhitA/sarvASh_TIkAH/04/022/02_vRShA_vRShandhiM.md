@@ -97,72 +97,106 @@ yásyāḥ ← yá- (pronoun)
 - \[noun\], nominative, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣandhiṃ* ← *vṛṣandhim* ← *vṛṣaṃdhi*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *caturaśrim* ← *catur*
 - \[noun\]
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *caturaśrim* ← *aśrim* ← *asra*
 - \[noun\], accusative, singular, masculine
 - “blood; corner; tear.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyann* ← *asyan* ← *as*
 - \[verb noun\], nominative, singular
 - “shoot; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhubhyāṃ* ← *bāhubhyām* ← *bāhu*
 - \[noun\], instrumental, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛtamaḥ* ← *nṛtama*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śacīvān* ← *śacīvat*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *paruṣṇīm* ← *paruṣṇī*
 - \[noun\], accusative, singular, feminine
 - “Paruṣṇī.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣamāṇa* ← *uṣamāṇaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrṇāṃ* ← *ūrṇām* ← *ūrṇā*
 - \[noun\], accusative, singular, feminine
 - “wool; ūrṇā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasyāḥ* ← *yad*
 - \[noun\], genitive, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *parvāṇi* ← *parvan*
 - \[noun\], accusative, plural, neuter
 - “joint; knot; festival; day; articulation; knot.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivye* ← *vī*
 - \[verb\], singular, Perfect indicative
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

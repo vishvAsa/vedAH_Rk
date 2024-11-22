@@ -105,88 +105,128 @@ vāvr̥dhānám ← √vr̥dh- (root)
 -   *rakṣā* ← *rakṣ*
 - \[verb\], singular, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṇo* ← *ṇaḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣaṇebhī* ← *rakṣaṇebhiḥ* ← *rakṣaṇa*
 - \[noun\], instrumental, plural, neuter
 - “protection; care; iron; prevention; preservation.”
-------------------------------------------------------------------------
+
+_________
+
 - *rārakṣāṇaḥ* ← *rakṣ*
 - \[verb noun\], nominative, singular
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumakha* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumakha* ← *makha*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *prīṇānaḥ* ← *prī*
 - \[verb noun\], nominative, singular
 - “delight; gladden; satisfy; nutrify; comfort.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣphura* ← *sphur*
 - \[verb\], singular, Present imperative
 - “glitter; bounce; quiver; pulsate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruja* ← *ruj*
 - \[verb\], singular, Present imperative
 - “break; bend.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīḍv* ← *vīḍu*
 - \[noun\], accusative, singular, neuter
 - “hard; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃho* ← *aṃhaḥ* ← *aṃhas*
 - \[noun\], accusative, singular, neuter
 - “trouble; sin.”
-------------------------------------------------------------------------
+
+_________
+
 - *jahi* ← *hā*
 - \[verb\], singular, Present imperative
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣo* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhānam* ← *vṛdh*
 - \[verb noun\], accusative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

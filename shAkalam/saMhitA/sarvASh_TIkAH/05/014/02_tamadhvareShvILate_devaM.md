@@ -75,40 +75,58 @@ yájiṣṭham ← yájiṣṭha- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvareṣv* ← *adhvareṣu* ← *adhvara*
 - \[noun\], locative, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īﾱate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *martā* ← *martāḥ* ← *marta*
 - \[noun\], nominative, plural, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartyam* ← *amartya*
 - \[noun\], accusative, singular, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajiṣṭham* ← *yajiṣṭha*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣe* ← *mānuṣa*
 - \[noun\], locative, singular, masculine
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 - *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

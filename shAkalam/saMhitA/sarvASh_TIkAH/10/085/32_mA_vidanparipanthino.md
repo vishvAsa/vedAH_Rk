@@ -87,51 +87,75 @@ drāntu ← √drā- 1 (root)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidan* ← *vid*
 - \[verb\], plural, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *paripanthino* ← *paripanthinaḥ* ← *paripanthin*
 - \[noun\], nominative, plural, masculine
 - “unfriendly; clogging; paripanthin \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsīdanti* ← *āsad* ← *√sad*
 - \[verb\], plural, Present indikative
 - “approach; attack; sit down; approach; find; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *dampatī* ← *dampati*
 - \[noun\], accusative, dual, masculine
 - “couple.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugebhir* ← *sugebhiḥ* ← *suga*
 - \[noun\], instrumental, plural, masculine
 - “clear.”
-------------------------------------------------------------------------
+
+_________
+
 - *durgam* ← *durga*
 - \[noun\], accusative, singular, neuter
 - “fortress; stronghold; difficulty; danger; passage.”
-------------------------------------------------------------------------
+
+_________
+
 - *atītām* ← *atī* ← *√i*
 - \[verb\], dual, Present imperative
 - “elapse; overcome; transgress; die; fail; pierce.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *drāntv* ← *drāntu* ← *drā*
 - \[verb\], plural, Present imperative
 - “run; run.”
-------------------------------------------------------------------------
+
+_________
+
 - *arātayaḥ* ← *arāti*
 - \[noun\], nominative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

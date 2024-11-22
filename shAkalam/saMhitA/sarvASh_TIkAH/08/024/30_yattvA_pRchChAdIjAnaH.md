@@ -84,55 +84,81 @@ tiṣṭhati ← √sthā- (root)
 -   *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛcchād* ← *pṛcchāt* ← *pracch*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “ask; ask; ask; consult; interrogate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ījānaḥ* ← *yaj*
 - \[verb noun\], nominative, singular
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuhayā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *kuhayākṛte* ← *kuhayākṛti*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *eṣo* ← *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaśrito* ← *apaśritaḥ* ← *apaśri* ← *√śri*
 - \[verb noun\], nominative, singular
 - “withdraw.”
-------------------------------------------------------------------------
+
+_________
+
 - *valo* ← *valaḥ* ← *vala*
 - \[noun\], nominative, singular, masculine
 - “Vala; vala; cave.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomatīm* ← *gomatī*
 - \[noun\], accusative, singular, feminine
 - “Gomatī; Gomatī; Gomatī; gorocanā; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhati* ← *sthā*
 - \[verb\], singular, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

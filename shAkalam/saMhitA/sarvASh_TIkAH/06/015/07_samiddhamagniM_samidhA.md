@@ -102,85 +102,123 @@ sumnaíḥ ← sumná- (nominal stem)
 -   *samiddham* ← *samindh* ← *√indh*
 - \[verb noun\], accusative, singular
 - “kindle; blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *samidhā* ← *samidh*
 - \[noun\], instrumental, singular, feminine
 - “firewood; kindling; fuel; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇe* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucim* ← *śuci*
 - \[noun\], accusative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakam* ← *pāvaka*
 - \[noun\], accusative, singular, masculine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *puro* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhruvam* ← *dhruva*
 - \[noun\], accusative, singular, masculine
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipraṃ* ← *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
 - “eloquent; stimulated; divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruvāram* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruvāram* ← *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “treasure; choice.”
-------------------------------------------------------------------------
+
+_________
+
 - *adruhaṃ* ← *adruham* ← *adruh*
 - \[noun\], accusative, singular, masculine
 - “friendly; benign.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaviṃ* ← *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnair* ← *sumnaiḥ* ← *sumna*
 - \[noun\], instrumental, plural, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedasam* ← *jātavedas*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

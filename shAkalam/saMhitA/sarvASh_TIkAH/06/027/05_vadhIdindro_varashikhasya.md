@@ -96,70 +96,102 @@ pū́rve ← pū́rva- (nominal stem)
 -   *vadhīd* ← *vadhīt* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *varaśikhasya* ← *varaśikha*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śeṣo* ← *śeṣaḥ* ← *śeṣas*
 - \[noun\], accusative, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *'bhyāvartine* ← *abhyāvartine* ← *abhyāvartin*
 - \[noun\], dative, singular, masculine
 - “Abhyāvartin.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāyamānāya* ← *cāyamāna*
 - \[noun\], dative, singular, masculine
 - “Abhyāvartin.”
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣan* ← *śikṣ*
 - \[verb noun\], nominative, singular
 - “help; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛcīvato* ← *vṛcīvataḥ* ← *vṛcīvant*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yaddhariyūpīyāyāṃ* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaddhariyūpīyāyāṃ* ← *hariyūpīyāyām* ← *hariyūpīyā*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *han*
 - \[verb\], singular, Present injunctive
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrve* ← *pūrva*
 - \[noun\], locative, singular, neuter
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *ardhe* ← *ardha*
 - \[noun\], locative, singular, neuter
 - “one-half; ardha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhiyasāparo* ← *bhiyasā* ← *bhiyas*
 - \[noun\], instrumental, singular, masculine
 - “fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhiyasāparo* ← *aparaḥ* ← *apara*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); following; western; future; apara \[word\];
     elder; remaining; some(a); later(a); back(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *dart* ← *dṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “burst; burst.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -104,75 +104,111 @@ vándanāya ← vándana- 1 (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsyaṃ* ← *śaṃsyam* ← *śaṃs*
 - \[verb noun\], nominative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhyaṃ* ← *rādhyam* ← *rādh*
 - \[verb noun\], nominative, singular
 - “thrive; boom; succeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *cābhiṣṭiman* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cābhiṣṭiman* ← *abhiṣṭiman* ← *abhiṣṭimat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyā* ← *nāsatyāḥ* ← *nāsatya*
 - \[noun\], vocative, plural, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *varūtham* ← *varūtha*
 - \[noun\], nominative, singular, neuter
 - “defense; protective covering.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvāṃsā* ← *vid*
 - \[verb noun\], nominative, dual
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *nidhim* ← *nidhi*
 - \[noun\], accusative, singular, masculine
 - “hoard; receptacle; treasure; ocean; instrument.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivāpagūﾱham* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivāpagūﾱham* ← *apagūḍham* ← *apaguh* ← *√guh*
 - \[verb noun\], accusative, singular
 - “hide.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *darśatād* ← *darśatāt* ← *darśata*
 - \[noun\], ablative, singular, neuter
 - “beautiful; visible; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūpathur* ← *ūpathuḥ* ← *vap*
 - \[verb\], dual, Perfect indicative
 - “sow; bestrew; strew; scatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandanāya* ← *vandana*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

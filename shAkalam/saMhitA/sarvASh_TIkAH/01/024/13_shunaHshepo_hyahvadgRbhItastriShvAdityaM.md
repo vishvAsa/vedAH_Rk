@@ -102,15 +102,21 @@ vidvā́n ← √vid- 2 (root)
 -   *śunaḥśepo* ← *śunaḥśepaḥ* ← *śunaḥśepa*
 - \[noun\], nominative, singular, masculine
 - “Śunaḥśepa.”
-------------------------------------------------------------------------
+
+_________
+
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ahvad* ← *ahvat* ← *hvā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛbhītas* ← *gṛbhītaḥ* ← *grah*
 - \[verb noun\], nominative, singular
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -118,26 +124,36 @@ vidvā́n ← √vid- 2 (root)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *triṣv* ← *triṣu* ← *tri*
 - \[noun\], locative, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityaṃ* ← *ādityam* ← *āditya*
 - \[noun\], accusative, singular, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *drupadeṣu* ← *dru*
 - \[noun\], neuter
 - “wood; tree; dru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *drupadeṣu* ← *padeṣu* ← *pada*
 - \[noun\], locative, plural, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
-------------------------------------------------------------------------
+
+_________
+
 - *baddhaḥ* ← *bandh*
 - \[verb noun\], nominative, singular
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
@@ -145,42 +161,60 @@ vidvā́n ← √vid- 2 (root)
     restrain; bind; gesticulate; wear; bar; bandh; connect; stud; mix;
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
-------------------------------------------------------------------------
+
+_________
+
 - *avainaṃ* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *avainaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasṛjyād* ← *sasṛjyāt* ← *sṛj*
 - \[verb\], singular, Perfect optative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvāṃ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *adabdho* ← *adabdhaḥ* ← *adabdha*
 - \[noun\], nominative, singular, masculine
 - “unfailing; unimpaired.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *mumoktu* ← *muc*
 - \[verb\], singular, Perfect imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -188,11 +222,15 @@ vidvā́n ← √vid- 2 (root)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāśān* ← *pāśa*
 - \[noun\], accusative, plural, masculine
 - “noose; shackle; eye; pāśa \[word\]; fetter.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -78,45 +78,65 @@ mahī́ḥ ← máh- (nominal stem)
 -   *purīṣyāso* ← *purīṣyāsaḥ* ← *purīṣya*
 - \[noun\], nominative, plural, masculine
 - “purīṣya \[word\]; fecal.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnayaḥ* ← *agni*
 - \[noun\], nominative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāvaṇebhiḥ* ← *prāvaṇa*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣasaḥ* ← *sajoṣas*
 - \[noun\], nominative, plural, masculine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣantāṃ* ← *juṣantām* ← *juṣ*
 - \[verb\], plural, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *adruho* ← *adruhaḥ* ← *adruh*
 - \[noun\], nominative, plural, masculine
 - “friendly; benign.”
-------------------------------------------------------------------------
+
+_________
+
 - *'namīvā* ← *anamīvāḥ* ← *anamīva*
 - \[noun\], accusative, plural, feminine
 - “healthy; comfortable; beneficial.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahīḥ* ← *mahi*
 - \[noun\], accusative, plural, feminine
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

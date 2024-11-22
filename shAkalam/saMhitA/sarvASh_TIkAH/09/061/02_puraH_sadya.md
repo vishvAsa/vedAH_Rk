@@ -73,38 +73,56 @@ yádum ← yádu- (nominal stem)
 -   *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadya* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *itthādhiye* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *divodāsāya* ← *divodāsa*
 - \[noun\], dative, singular, masculine
 - “Divodāsa.”
-------------------------------------------------------------------------
+
+_________
+
 - *śambaram* ← *śambara*
 - \[noun\], accusative, singular, masculine
 - “Śambara; Śambara.”
-------------------------------------------------------------------------
+
+_________
+
 - *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *turvaśaṃ* ← *turvaśam* ← *turvaśa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yadum* ← *yadu*
 - \[noun\], accusative, singular, masculine
 - “Yadu; Yadu.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

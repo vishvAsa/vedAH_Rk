@@ -96,88 +96,126 @@ sāśanānaśané ← sāśanānaśaná- (nominal stem)
 -   *tripād* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tripād* ← *pād*
 - \[noun\], nominative, singular, masculine
 - “pād \[word\]; foot.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrdhva* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *ait* ← *i*
 - \[verb\], singular, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣaḥ* ← *puruṣa*
 - \[noun\], nominative, singular, masculine
 - “man; man; Puruṣa; puṃvajra; puruṣa; servant; puruṣa \[word\];
     assistant; soldier; soul; commoner; generation; people; doll.”
-------------------------------------------------------------------------
+
+_________
+
 - *pādo* ← *pādaḥ* ← *pāda*
 - \[noun\], nominative, singular, masculine
 - “foot; one-fourth; beam; pāda; foot; foundation; pāda \[word\]; leg;
     leg; animal foot; step; foot; footfall; verse.”
-------------------------------------------------------------------------
+
+_________
+
 - *'syehābhavat* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *'syehābhavat* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *'syehābhavat* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *tato* ← *tatas*
 - \[adverb\]
 - “then; therefore; now; then; from there; subsequently; consequently;
     then; there; from that; for that reason; alternatively;
     consequently; furthermore.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣvaṅ* ← *viṣvañc*
 - \[noun\], nominative, singular, masculine
 - “dispersed; viṣvañc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *akrāmat* ← *kram*
 - \[verb\], singular, Imperfect
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāśanānaśane* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāśanānaśane* ← *aśana*
 - \[noun\], neuter
 - “eating; food; diet; foodstuff.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāśanānaśane* ← *anaśane* ← *anaśana*
 - \[noun\], accusative, dual, neuter
 - “fast; seeking death by fasting.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

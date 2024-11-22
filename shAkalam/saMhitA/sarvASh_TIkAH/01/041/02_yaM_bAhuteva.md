@@ -76,44 +76,64 @@ sárvaḥ ← sárva- (nominal stem)
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhuteva* ← *bāhutā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *bāhuteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *piprati* ← *pṛ*
 - \[verb\], plural, Present indikative
 - “protect; promote; rescue; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *pānti* ← *pā*
 - \[verb\], plural, Present indikative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyaṃ* ← *martyam* ← *martya*
 - \[noun\], accusative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *riṣaḥ* ← *riṣ*
 - \[noun\], ablative, singular, feminine
 - “injury; riṣ; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣṭaḥ* ← *ariṣṭa*
 - \[noun\], nominative, singular, masculine
 - “safe; unharmed.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarva* ← *sarvaḥ* ← *sarva*
 - \[noun\], nominative, singular, masculine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *edhate* ← *edh*
 - \[verb\], singular, Present indikative
 - “boom; get; thrive; increase; increase.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

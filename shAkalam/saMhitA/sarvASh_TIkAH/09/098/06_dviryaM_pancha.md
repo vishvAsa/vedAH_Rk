@@ -81,58 +81,84 @@ prasnāpáyanti ← √snā- (root)
 -   *dvir* ← *dvis*
 - \[adverb\]
 - “twice; dvis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pañca* ← *pañcan*
 - \[noun\], nominative, plural, feminine
 - “five; fifth; pañcan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svayaśasaṃ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayaśasaṃ* ← *yaśasam* ← *yaśas*
 - \[noun\], accusative, singular, masculine
 - “fame; Yaśas.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasāro* ← *svasāraḥ* ← *svasṛ*
 - \[noun\], nominative, plural, feminine
 - “sister; svasṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adrisaṃhatam* ← *adri*
 - \[noun\], masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrisaṃhatam* ← *saṃhatam* ← *saṃhan* ← *√han*
 - \[verb noun\], accusative, singular
 - “compress; consolidate; join; compose; kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmyam* ← *kāmya*
 - \[noun\], accusative, singular, masculine
 - “desirable; optional; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasnāpayanty* ← *prasnāpayanti* ← *prasnāpay* ← *√snā*
 - \[verb\], plural, Present indikative
 - “bathe.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmiṇam* ← *ūrmin*
 - \[noun\], accusative, singular, masculine
 - “wavy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

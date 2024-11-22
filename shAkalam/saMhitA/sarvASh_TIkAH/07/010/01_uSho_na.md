@@ -105,81 +105,119 @@ uśatī́ḥ ← √vaś- (root)
 -   *uṣo* ← *uṣaḥ* ← *uṣ*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jāraḥ* ← *jāra*
 - \[noun\], nominative, singular, masculine
 - “fancy man.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthu*
 - \[noun\], accusative, singular, neuter
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *pājo* ← *pājaḥ* ← *pājas*
 - \[noun\], accusative, singular, neuter
 - “luminosity; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśred* ← *aśret* ← *śri*
 - \[verb\], singular, Root aorist (Ind.)
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
-------------------------------------------------------------------------
+
+_________
+
 - *davidyutad* ← *davidyutat* ← *davidyut* ← *√dyut*
 - \[verb noun\], nominative, singular
 - “flash.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdyacchośucānaḥ* ← *dīdyat* ← *dīdī*
 - \[verb noun\], nominative, singular
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdyacchośucānaḥ* ← *śośucānaḥ* ← *śośuc* ← *√śuc*
 - \[verb noun\], nominative, singular
 - “blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāsā* ← *bhās*
 - \[noun\], instrumental, singular, feminine
 - “beam; radiance; bhās \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinvāna* ← *hinvānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśatīr* ← *uśatīḥ* ← *vaś*
 - \[verb noun\], accusative, plural
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajīgaḥ* ← *jāgṛ*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “wake; watch; awaken; wake up; oversee.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

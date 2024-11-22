@@ -105,82 +105,118 @@ sukr̥tásya ← sukr̥tá- (nominal stem)
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tityāja* ← *tyaj*
 - \[verb\], singular, Perfect indicative
 - “avoid; abandon; get rid of; remove; leave; lose; banish;
     discontinue; want; emit; take off; discard; refrain from; neglect;
     exclude; abandon; spare; fill; extinguish; spit; foreswear.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacividaṃ* ← *sacividam* ← *sacivid*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sakhāyaṃ* ← *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācy* ← *vāci* ← *vāc*
 - \[noun\], locative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāgo* ← *bhāgaḥ* ← *bhāga*
 - \[noun\], nominative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
-------------------------------------------------------------------------
+
+_________
+
 - *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇoty* ← *śṛṇoti* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *alakaṃ* ← *alakam*
 - \[adverb\]
 - “vainly.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇoti* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *nahi*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *praveda* ← *pravid* ← *√vid*
 - \[verb\], singular, Perfect indicative
 - “anticipate; know; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtasya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtasya* ← *kṛtasya* ← *kṛ*
 - \[verb noun\], genitive, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -191,11 +227,15 @@ sukr̥tásya ← sukr̥tá- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *panthām* ← *pathin*
 - \[noun\], accusative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

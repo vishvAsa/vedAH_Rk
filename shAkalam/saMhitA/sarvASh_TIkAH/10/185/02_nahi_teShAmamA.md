@@ -75,50 +75,72 @@ ripúḥ ← ripú- (nominal stem)
 
 -   *nahi*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *teṣām* ← *tad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *amā*
 - \[adverb\]
 - “at home.”
-------------------------------------------------------------------------
+
+_________
+
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nādhvasu* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nādhvasu* ← *adhvasu* ← *adhvan*
 - \[noun\], locative, plural, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāraṇeṣu* ← *vāraṇa*
 - \[noun\], locative, plural, masculine
 - “removing; desert.”
-------------------------------------------------------------------------
+
+_________
+
 - *īśe* ← *īś*
 - \[verb\], singular, Perfect indicative
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *ripur* ← *ripuḥ* ← *ripu*
 - \[noun\], nominative, singular, masculine
 - “enemy; arivarga; Ripu; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghaśaṃsaḥ* ← *agha*
 - \[noun\], neuter
 - “sin; evil; impurity; agha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aghaśaṃsaḥ* ← *śaṃsaḥ* ← *śaṃsa*
 - \[noun\], nominative, singular, masculine
 - “speaking.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

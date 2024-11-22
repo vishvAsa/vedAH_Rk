@@ -108,16 +108,22 @@ suté ← √su- (root)
 -   *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibharmi* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb noun\], accusative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -128,77 +134,113 @@ suté ← √su- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅkuśaṃ* ← *aṅkuśam* ← *aṅkuśa*
 - \[noun\], accusative, singular, masculine
 - “elephant-drivers hook; hook.”
-------------------------------------------------------------------------
+
+_________
+
 - *yenārujāsi* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yenārujāsi* ← *ārujāsi* ← *āruj* ← *√ruj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “demolish; break up.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavañchaphārujaḥ* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavañchaphārujaḥ* ← *śaphārujaḥ* ← *śaphāruj*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *asmin* ← *idam*
 - \[noun\], locative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *savane* ← *savana*
 - \[noun\], locative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
-------------------------------------------------------------------------
+
+_________
+
 - *astv* ← *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *okyaṃ* ← *okyam* ← *okya*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *suta* ← *sute* ← *su*
 - \[verb noun\], locative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṭau* ← *iṣṭi*
 - \[noun\], locative, singular, feminine
 - “seeking.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bodhy* ← *bodhi* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhagaḥ* ← *ābhaga*
 - \[noun\], nominative, singular, masculine
 - “partaker.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

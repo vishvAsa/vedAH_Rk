@@ -73,45 +73,65 @@ vighnán ← √han- (root)
 -   *atyūrmir* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *atyūrmir* ← *ūrmiḥ* ← *ūrmi*
 - \[noun\], nominative, singular, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *matsaro* ← *matsaraḥ* ← *matsara*
 - \[noun\], nominative, singular, masculine
 - “envy; hostility.”
-------------------------------------------------------------------------
+
+_________
+
 - *madaḥ* ← *mada*
 - \[noun\], nominative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *vighnan* ← *vihan* ← *√han*
 - \[verb noun\], nominative, singular
 - “obstruct; cancel out; restrict.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣāṃsi* ← *rakṣas*
 - \[noun\], accusative, plural, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devayuḥ* ← *devayu*
 - \[noun\], nominative, singular, masculine
 - “devout; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

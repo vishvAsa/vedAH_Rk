@@ -105,75 +105,107 @@ víśvasmai ← víśva- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvataṃ* ← *parvatam* ← *parvata*
 - \[noun\], accusative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojase* ← *bhuj*
 - \[verb noun\]
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmṇasya* ← *nṛmṇa*
 - \[noun\], genitive, singular, neuter
 - “manhood; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharmaṇām* ← *dharman*
 - \[noun\], genitive, plural, neuter
 - “regulation; Dharma; law; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *irajyasi* ← *irajy* ← *√rañj*
 - \[verb\], singular, Present indikative
 - “direct.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīryeṇa* ← *vīrya*
 - \[noun\], instrumental, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatāti*
 - \[noun\], instrumental, singular, feminine
 - “deity; Deva.”
-------------------------------------------------------------------------
+
+_________
+
 - *cekite* ← *cekit* ← *√cit*
 - \[verb\], singular, Present indikative
 - “chew over.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasmā* ← *viśvasmai* ← *viśva*
 - \[noun\], dative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *karmaṇe* ← *karman*
 - \[noun\], dative, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -181,10 +213,14 @@ víśvasmai ← víśva- (nominal stem)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 - *purohitaḥ* ← *purodhā* ← *√dhā*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

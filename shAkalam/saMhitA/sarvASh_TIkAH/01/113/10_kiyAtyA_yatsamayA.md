@@ -105,82 +105,120 @@ pradī́dhyānā ← √dhī- (root)
 -   *kiyāty* ← *kiyāti* ← *kiyat*
 - \[noun\], locative, singular, masculine
 - “some(a); some(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *samayā*
 - \[adverb\]
 - “near.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavāti* ← *bhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vyūṣur* ← *vyūṣuḥ* ← *vivas* ← *√vas*
 - \[verb\], plural, Perfect indicative
 - “spend; dwell.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāś* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyucchān* ← *vivas* ← *√vas*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvāḥ* ← *pūrva*
 - \[noun\], accusative, plural, feminine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛpate* ← *kṛp*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *vāvaśānā* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *pradīdhyānā* ← *pradhī* ← *√dhī*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *joṣam* ← *joṣa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *anyābhir* ← *anyābhiḥ* ← *anya*
 - \[noun\], instrumental, plural, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

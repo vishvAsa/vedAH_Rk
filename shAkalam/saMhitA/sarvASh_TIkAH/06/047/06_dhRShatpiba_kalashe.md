@@ -98,61 +98,89 @@ rayisthā́naḥ ← rayisthā́na- (nominal stem)
 
 -   *dhṛṣat*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *kalaśe* ← *kalaśa*
 - \[noun\], locative, singular, masculine
 - “jar.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *samare* ← *samara*
 - \[noun\], locative, singular, neuter
 - “battle; fight; Samara; war; Samara.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādhyandine* ← *mādhyaṃdina*
 - \[noun\], locative, singular, neuter
 - “midday.”
-------------------------------------------------------------------------
+
+_________
+
 - *savana* ← *savane* ← *savana*
 - \[noun\], locative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣasva* ← *vṛṣ*
 - \[verb\], singular, Present imperative
 - “shower; rain; effuse; shower; drench.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayisthāno* ← *rayi*
 - \[noun\], masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayisthāno* ← *sthānaḥ* ← *sthāna*
 - \[noun\], nominative, singular, masculine
 - “location; body part; social station; temple; seat; standing; sthāna
@@ -160,20 +188,28 @@ rayisthā́naḥ ← rayisthā́na- (nominal stem)
     site; book; goal; dignity; stead; state; position; treatise; note;
     branch; home; post; topographic point; floor; situation; situation;
     circumstance; occurrence; duration; āśaya; sthaṇḍila; agency.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmāsu* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -82,52 +82,76 @@ vadhasno ← vadhasnu- (nominal stem)
 -   *carur* ← *caruḥ* ← *caru*
 - \[noun\], nominative, singular, masculine
 - “caru; pot; Caru.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṅkhayendo* ← *īṅkhaya* ← *īṅkhay* ← *√īṅkh*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *īṅkhayendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dānam* ← *dāna*
 - \[noun\], accusative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṅkhaya* ← *īṅkhay* ← *√īṅkh*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *vadhair* ← *vadhaiḥ* ← *vadha*
 - \[noun\], instrumental, plural, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhasnav* ← *vadhasno* ← *vadhasnu*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *īṅkhaya* ← *īṅkhay* ← *√īṅkh*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

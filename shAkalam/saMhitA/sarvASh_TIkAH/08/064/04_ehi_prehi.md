@@ -82,44 +82,64 @@ ubhé ← ubhá- (pronoun)
 -   *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *prehi* ← *pre* ← *√i*
 - \[verb\], singular, Present imperative
 - “die; proceed; advance; continue; begin; depart.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣayo* ← *kṣayaḥ* ← *kṣaya*
 - \[noun\], nominative, singular, masculine
 - “dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *divy* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *āghoṣañcarṣaṇīnām* ← *āghoṣan* ← *āghuṣ* ← *√ghuṣ*
 - \[verb noun\], nominative, singular
 - “listen.”
-------------------------------------------------------------------------
+
+_________
+
 - *āghoṣañcarṣaṇīnām* ← *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 - *obhe* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *obhe* ← *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇāsi* ← *pṛ*
 - \[verb\], singular, Present indikative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

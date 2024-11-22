@@ -76,45 +76,65 @@ víśvasya ← víśva- (nominal stem)
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣkarād* ← *puṣkarāt* ← *puṣkara*
 - \[noun\], ablative, singular, neuter
 - “lotus; Puṣkara; sky; puṣkara; pericarp; puṣkara \[word\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhy* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *atharvā* ← *atharvan*
 - \[noun\], nominative, singular, masculine
 - “Atharvan; Atharvavedin.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *amanthata* ← *math*
 - \[verb\], singular, Imperfect
 - “churn; knead; trample; full; stir; crush.”
-------------------------------------------------------------------------
+
+_________
+
 - *mūrdhno* ← *mūrdhnaḥ* ← *mūrdhan*
 - \[noun\], ablative, singular, masculine
 - “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāghataḥ* ← *vāghant*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

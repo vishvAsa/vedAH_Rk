@@ -102,79 +102,113 @@ páreṣu ← pára- (nominal stem)
 -   *nāvā* ← *nau*
 - \[noun\], instrumental, singular, feminine
 - “ship; boat; nau \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣodaḥ* ← *kṣodas*
 - \[noun\], accusative, singular, neuter
 - “swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *pradiśaḥ* ← *pradiś*
 - \[noun\], accusative, plural, feminine
 - “quarter; direction; command; region; indication.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastibhir* ← *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, neuter
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *durgāṇi* ← *durga*
 - \[noun\], accusative, plural, neuter
 - “fortress; stronghold; difficulty; danger; passage.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *svām* ← *sva*
 - \[noun\], accusative, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajām* ← *prajā*
 - \[noun\], accusative, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaduktho* ← *bṛhadukthaḥ* ← *bṛhaduktha*
 - \[noun\], nominative, singular, masculine
 - “Bṛhaduktha.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvāvareṣv* ← *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvāvareṣv* ← *avareṣu* ← *avara*
 - \[noun\], locative, plural, masculine
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *adadhād* ← *adadhāt* ← *dhā*
 - \[verb\], singular, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pareṣu* ← *para*
 - \[noun\], locative, plural, masculine
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

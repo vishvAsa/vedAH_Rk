@@ -87,56 +87,84 @@ stotā́raḥ ← stotár- (nominal stem)
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *gha*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutāvanta* ← *sutāvantaḥ* ← *sutāvat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛktabarhiṣaḥ* ← *vṛkta* ← *vṛj*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *vṛktabarhiṣaḥ* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], nominative, plural, masculine
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pavitrasya* ← *pavitra*
 - \[noun\], genitive, singular, neuter
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasravaṇeṣu* ← *prasravaṇa*
 - \[noun\], locative, plural, neuter
 - “waterfall; spring; discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahan*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotāra* ← *stotāraḥ* ← *stotṛ*
 - \[noun\], nominative, plural, masculine
 - “laudatory; worshiping.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsate* ← *ās*
 - \[verb\], plural, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

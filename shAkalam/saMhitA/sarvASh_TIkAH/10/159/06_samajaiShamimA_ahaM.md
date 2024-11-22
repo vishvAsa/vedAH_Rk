@@ -87,56 +87,82 @@ virā́jāni ← √rāj- (root)
 -   *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajaiṣam* ← *ji*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *imā* ← *imāḥ* ← *idam*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnīr* ← *sapatnīḥ* ← *sapatnī*
 - \[noun\], accusative, plural, feminine
 - “sapatnī; rival; sapatnī \[word\]; mistress.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhibhūvarī* ← *abhibhūvan*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yathāham* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrasya* ← *vīra*
 - \[noun\], genitive, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *virājāni* ← *virāj* ← *√rāj*
 - \[verb\], singular, Present imperative
 - “shine; excel; govern; dominate; glitter; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *janasya* ← *jana*
 - \[noun\], genitive, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

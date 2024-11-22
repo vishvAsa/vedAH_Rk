@@ -120,103 +120,151 @@ mánasā ← mánas- (nominal stem)
 -   *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchyeno* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *asvanīd* ← *asvanīt* ← *svan*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “sound; sound.”
-------------------------------------------------------------------------
+
+_________
+
 - *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyor* ← *dyoḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāta* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāta* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūhuḥ* ← *vah*
 - \[verb\], plural, Perfect indicative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *purandhim* ← *purandhi*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sṛjad* ← *sṛjat* ← *sṛj*
 - \[verb\], singular, Imperfect
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣipaj* ← *kṣipat* ← *kṣip*
 - \[verb\], singular, Present injunctive
 - “fill into; add; put; throw; insert; submerge; pour; mix; ignite;
     shoot; hurl; vilify; reject; join; put on; stow; stack; throw.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyāṃ* ← *jyām* ← *jyā*
 - \[noun\], accusative, singular, feminine
 - “bowstring.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛśānur* ← *kṛśānuḥ* ← *kṛśānu*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; Plumbago zeylanica.”
-------------------------------------------------------------------------
+
+_________
+
 - *astā* ← *as*
 - \[verb\], singular, periphrast. future
 - “shoot; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuraṇyan* ← *bhuraṇy*
 - \[verb noun\], nominative, singular
 - “be active.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

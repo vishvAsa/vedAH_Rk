@@ -102,89 +102,129 @@ yaviṣṭha ← yáviṣṭha- (nominal stem)
 -   *prācīno* ← *prācīnaḥ* ← *prācīna*
 - \[noun\], nominative, singular, masculine
 - “eastern; frontal.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhitaṃ* ← *sudhitam* ← *sudhita*
 - \[noun\], nominative, singular, neuter
 - “sudhita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *barhiḥ* ← *barhis*
 - \[noun\], nominative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prīṇīte* ← *prī*
 - \[verb\], singular, Present indikative
 - “delight; gladden; satisfy; nutrify; comfort.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *īﾱito* ← *īḍitaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mātarā* ← *mātṛ*
 - \[noun\], accusative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavāre* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavāre* ← *vāre* ← *vāra*
 - \[noun\], accusative, dual, feminine
 - “treasure; choice.”
-------------------------------------------------------------------------
+
+_________
+
 - *huvāno* ← *huvānaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *yato* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaviṣṭha*
 - \[noun\], vocative, singular, masculine
 - “youngest.”
-------------------------------------------------------------------------
+
+_________
+
 - *jajñiṣe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśevaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśevaḥ* ← *śevaḥ* ← *śeva*
 - \[noun\], nominative, singular, masculine
 - “friendly; favorable; dear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

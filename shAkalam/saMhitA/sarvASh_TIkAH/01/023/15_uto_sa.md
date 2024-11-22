@@ -82,30 +82,42 @@ yávam ← yáva- (nominal stem)
 -   *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indubhiḥ* ← *indu*
 - \[noun\], instrumental, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣaḍ* ← *ṣaṭ* ← *ṣaṣ*
 - \[noun\], accusative, plural, masculine
 - “six; ṣaṣ; sixth; ṣaṣ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yuktāṃ* ← *yuj*
 - \[verb noun\], accusative, plural
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -113,26 +125,38 @@ yávam ← yáva- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *anuseṣidhat* ← *anuseṣidh* ← *√sidh*
 - \[verb\], singular, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 - *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *yavaṃ* ← *yavam* ← *yava*
 - \[noun\], accusative, singular, masculine
 - “barley; yava; barleycorn; yava \[word\]; yava; yavakṣāra; grain.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *carkṛṣat* ← *carkṛṣ* ← *√kṛṣ*
 - \[verb\], singular, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

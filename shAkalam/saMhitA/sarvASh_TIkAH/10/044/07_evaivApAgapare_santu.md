@@ -109,44 +109,64 @@ yátra ← yátra (invariable)
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *evaivāpāg* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *evaivāpāg* ← *apāk*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *apare* ← *apara*
 - \[noun\], nominative, plural, masculine
 - “other; another(a); following; western; future; apara \[word\];
     elder; remaining; some(a); later(a); back(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūḍhyo* ← *dūḍhyaḥ* ← *dūḍhī*
 - \[noun\], nominative, plural, masculine
 - “malevolent.”
-------------------------------------------------------------------------
+
+_________
+
 - *'śvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣāṃ* ← *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *duryuja* ← *duryujaḥ* ← *duryuj*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyujre* ← *yuj*
 - \[verb\], plural, Perfect indicative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -154,51 +174,73 @@ yátra ← yátra (invariable)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *itthā*
 - \[adverb\]
 - “thus; here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prāg* ← *prāk*
 - \[adverb\]
 - “earlier; first.”
-------------------------------------------------------------------------
+
+_________
+
 - *upare* ← *upara*
 - \[noun\], nominative, plural, masculine
 - “later(a); future(a); nether.”
-------------------------------------------------------------------------
+
+_________
+
 - *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *purūṇi* ← *puru*
 - \[noun\], nominative, plural, neuter
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vayunāni* ← *vayuna*
 - \[noun\], nominative, plural, neuter
 - “convention; custom; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojanā* ← *bhojana*
 - \[noun\], nominative, plural, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

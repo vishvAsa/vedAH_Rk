@@ -74,39 +74,57 @@ sugevŕ̥dhaḥ ← sugevŕ̥dh- (nominal stem)
 -   *anarvāṇo* ← *anarvāṇaḥ* ← *anarvan*
 - \[noun\], nominative, plural, masculine
 - “unchallenged; unrivaled.”
-------------------------------------------------------------------------
+
+_________
+
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *panthā* ← *panthāḥ* ← *pathin*
 - \[noun\], nominative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityānām* ← *āditya*
 - \[noun\], genitive, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adabdhāḥ* ← *adabdha*
 - \[noun\], nominative, plural, masculine
 - “unfailing; unimpaired.”
-------------------------------------------------------------------------
+
+_________
+
 - *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāyavaḥ* ← *pāyu*
 - \[noun\], nominative, plural, masculine
 - “guard; pāyu \[word\]; Pāyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugevṛdhaḥ* ← *sugevṛdh*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

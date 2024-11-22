@@ -94,12 +94,16 @@ vanéma ← √vanⁱ- (root)
 - \[noun\], accusative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇuṣva* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -110,57 +114,83 @@ vanéma ← √vanⁱ- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtratūrye* ← *vṛtratūrya*
 - \[noun\], locative, singular, neuter
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *yenā* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *samatsu* ← *samad*
 - \[noun\], locative, plural, masculine
 - “conflict; strife.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāsahaḥ* ← *sah*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthirā* ← *sthira*
 - \[noun\], accusative, plural, neuter
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanuhi* ← *tan*
 - \[verb\], singular, Present imperative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūri*
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhatāṃ* ← *śardhatām* ← *śṛdh*
 - \[verb noun\], genitive, plural
-------------------------------------------------------------------------
+
+_________
+
 - *vanemā* ← *vanema* ← *van*
 - \[verb\], plural, Present optative
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭibhiḥ* ← *abhiṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -111,96 +111,138 @@ yavīyút ← yavīyúdh- (nominal stem)
 -   *makṣū*
 - \[adverb\]
 - “promptly; soon; quickly.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vahniḥ* ← *vahni*
 - \[noun\], nominative, singular, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
     leader.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajāyā* ← *prajāyāḥ* ← *prajā*
 - \[noun\], genitive, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *upabdir* ← *upabdiḥ* ← *upabdi*
 - \[noun\], nominative, singular, masculine
 - “trample.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nagna* ← *nagnaḥ* ← *nagna*
 - \[noun\], nominative, singular, masculine
 - “bare; nagna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīdad* ← *sīdat* ← *sad*
 - \[verb\], singular, Present injunctive
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūdhaḥ* ← *ūdhas*
 - \[noun\], accusative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanitedhmaṃ* ← *sanitā* ← *san*
 - \[verb\], singular, periphrast. future
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanitedhmaṃ* ← *idhmam* ← *idhma*
 - \[noun\], accusative, singular, masculine
 - “fuel.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanitota* ← *sanitā* ← *san*
 - \[verb\], singular, periphrast. future
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanitota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhartā* ← *dhartṛ*
 - \[noun\], nominative, singular, masculine
 - “supporter.”
-------------------------------------------------------------------------
+
+_________
+
 - *jajñe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *yavīyut* ← *yavīyudh*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

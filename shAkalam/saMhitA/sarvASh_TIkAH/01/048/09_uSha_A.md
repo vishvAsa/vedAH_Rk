@@ -87,55 +87,81 @@ vyuchántī ← √vas- 1 (root)
 -   *uṣa* ← *uṣe* ← *uṣā*
 - \[noun\], vocative, singular, feminine
 - “Uṣā; dawn; burn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāhi* ← *bhā*
 - \[verb\], singular, Present imperative
 - “look; shine; show; look like; glitter; reflect.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhānunā* ← *bhānu*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *candreṇa* ← *candra*
 - \[noun\], instrumental, singular, masculine
 - “aglitter(p); shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhitar* ← *duhitṛ*
 - \[noun\], vocative, singular, feminine
 - “daughter; duhitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvahantī* ← *āvah* ← *√vah*
 - \[verb noun\], nominative, singular
 - “bring; marry; cause; run; perform; exude.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūry* ← *bhūri*
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *saubhagaṃ* ← *saubhagam* ← *saubhaga*
 - \[noun\], accusative, singular, neuter
 - “well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyucchantī* ← *vivas* ← *√vas*
 - \[verb noun\], nominative, singular
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *diviṣṭiṣu* ← *diviṣṭi*
 - \[noun\], locative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

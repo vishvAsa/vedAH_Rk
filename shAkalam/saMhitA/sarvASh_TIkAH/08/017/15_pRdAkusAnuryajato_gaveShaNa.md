@@ -95,70 +95,102 @@ sómasya ← sóma- (nominal stem)
 
 -   *pṛdākusānur* ← *pṛdākusānuḥ* ← *pṛdākusānu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yajato* ← *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaveṣaṇa* ← *gaveṣaṇaḥ* ← *gaveṣaṇa*
 - \[noun\], nominative, singular, masculine
 - “marauding.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *sann* ← *san* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūyasaḥ* ← *bhūyas*
 - \[noun\], accusative, plural, masculine
 - “more(a); more(a); abounding in(p); stronger; bigger.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūrṇim* ← *bhūrṇi*
 - \[noun\], accusative, singular, masculine
 - “impatient; restless.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *nayat* ← *nī*
 - \[verb\], singular, Present injunctive
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *tujā* ← *tuj*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *puro* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛbhendraṃ* ← *gṛbhā* ← *gṛbh*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *gṛbhendraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

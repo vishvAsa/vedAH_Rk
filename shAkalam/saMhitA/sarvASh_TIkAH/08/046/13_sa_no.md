@@ -72,45 +72,65 @@ vr̥trahā́ ← vr̥trahán- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājeṣv* ← *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *avitā* ← *avitṛ*
 - \[noun\], nominative, singular, masculine
 - “favorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *purūvasuḥ* ← *purūvasu*
 - \[noun\], nominative, singular, masculine
 - “rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *purasthātā* ← *pura*
 - \[noun\], neuter
 - “town; pura \[word\]; stronghold.”
-------------------------------------------------------------------------
+
+_________
+
 - *purasthātā* ← *sthātā* ← *sthātṛ*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -108,35 +108,51 @@ yát ← yá- (pronoun)
 -   *starīr* ← *starīḥ* ← *starī*
 - \[noun\], nominative, singular, feminine
 - “barren cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūta* ← *sū*
 - \[verb\], singular, Present injunctive
 - “give birth; urge; bestow; cause.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ajyamānā* ← *añj*
 - \[verb noun\], nominative, singular
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyathir* ← *vyathiḥ* ← *vyathi*
 - \[noun\], nominative, singular, feminine
 - “faltering.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyathīḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyathīḥ* ← *vyathīḥ* ← *vyathi*
 - \[noun\], accusative, plural, feminine
 - “faltering.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇuta* ← *kṛ*
 - \[verb\], singular, Present injunctive
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -147,66 +163,94 @@ yát ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *svagopā* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svagopā* ← *gopā*
 - \[noun\], nominative, singular, feminine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *putro* ← *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvaḥ* ← *pūrva*
 - \[noun\], nominative, singular, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitror* ← *pitroḥ* ← *pitṛ*
 - \[noun\], genitive, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *janiṣṭa* ← *jan*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *śamyāṃ* ← *śamyām* ← *śamyā*
 - \[noun\], accusative, singular, feminine
 - “stick; peg.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaur* ← *gauḥ* ← *go*
 - \[noun\], nominative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagāra* ← *gṛ*
 - \[verb\], singular, Perfect indicative
 - “devour; swallow; surround.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛcchān* ← *pracch*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “ask; ask; ask; consult; interrogate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

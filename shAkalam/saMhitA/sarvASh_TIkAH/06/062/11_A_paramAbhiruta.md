@@ -99,84 +99,120 @@ vartam ← √vr̥- (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paramābhir* ← *paramābhiḥ* ← *parama*
 - \[noun\], instrumental, plural, feminine
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhyamābhir* ← *madhyamābhiḥ* ← *madhyama*
 - \[noun\], instrumental, plural, feminine
 - “intermediate; middle; average; second; average; adult; central;
     moderate; mean; center(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *niyudbhir* ← *niyudbhiḥ* ← *niyut*
 - \[noun\], instrumental, plural
 - “gift; team.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *avamābhir* ← *avamābhiḥ* ← *avama*
 - \[noun\], instrumental, plural, feminine
 - “avama \[word\]; bottom; last.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvāk*
 - \[adverb\]
 - “here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛﾱhasya* ← *dṛḍha*
 - \[noun\], genitive, singular, masculine
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomato* ← *gomataḥ* ← *gomat*
 - \[noun\], genitive, singular, masculine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrajasya* ← *vraja*
 - \[noun\], genitive, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *duro* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural, feminine
 - “door; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartaṃ* ← *vartam* ← *vṛ*
 - \[verb\], dual, Aorist imperative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇate* ← *gṛ*
 - \[verb noun\], dative, singular
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *citrarātī* ← *citra*
 - \[noun\]
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *citrarātī* ← *rātī* ← *rāti*
 - \[noun\], vocative, dual, masculine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

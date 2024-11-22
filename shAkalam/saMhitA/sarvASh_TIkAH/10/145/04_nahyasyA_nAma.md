@@ -89,16 +89,22 @@ sapátnīm ← sapátnī- (nominal stem)
 
 -   *nahy* ← *nahi*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛbhṇāmi* ← *grah*
 - \[verb\], singular, Present indikative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -106,51 +112,73 @@ sapátnīm ← sapátnī- (nominal stem)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ramate* ← *ram*
 - \[verb\], singular, Present indikative
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
-------------------------------------------------------------------------
+
+_________
+
 - *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *parām* ← *para*
 - \[noun\], accusative, singular, feminine
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
-------------------------------------------------------------------------
+
+_________
+
 - *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāvataṃ* ← *parāvatam* ← *parāvat*
 - \[noun\], accusative, singular, feminine
 - “distance; distance; distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnīṃ* ← *sapatnīm* ← *sapatnī*
 - \[noun\], accusative, singular, feminine
 - “sapatnī; rival; sapatnī \[word\]; mistress.”
-------------------------------------------------------------------------
+
+_________
+
 - *gamayāmasi* ← *gamay* ← *√gam*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “bring; spend.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

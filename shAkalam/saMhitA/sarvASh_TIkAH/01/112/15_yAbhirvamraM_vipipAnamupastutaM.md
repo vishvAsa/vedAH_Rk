@@ -108,86 +108,126 @@ u ← u (invariable)
 -   *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vamraṃ* ← *vamram* ← *vamra*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vipipānam* ← *vipā* ← *√pā*
 - \[verb noun\], accusative, singular
 - “drink; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *upastutaṃ* ← *upastutam* ← *upastuta*
 - \[noun\], accusative, singular, masculine
 - “Upastuta.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaliṃ* ← *kalim* ← *kali*
 - \[noun\], accusative, singular, masculine
 - “Kali; kali; discord; kali \[word\]; belleric myrobalan; trouble;
     quarrel.”
-------------------------------------------------------------------------
+
+_________
+
 - *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vittajāniṃ* ← *vitta* ← *vid*
 - \[verb noun\]
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *vittajāniṃ* ← *jānim* ← *jānī*
 - \[noun\], accusative, singular, feminine
 - “wife.”
-------------------------------------------------------------------------
+
+_________
+
 - *duvasyathaḥ* ← *duvasy*
 - \[verb\], dual, Present indikative
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vyaśvam* ← *vyaśva*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthim* ← *pṛthi*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āvataṃ* ← *āvatam* ← *av*
 - \[verb\], dual, Imperfect
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,18 +96,24 @@ pūrváhūtau ← pūrváhūti- (nominal stem)
 -   *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vīryāṇi* ← *vīrya*
 - \[noun\], nominative, plural, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamāni* ← *prathama*
 - \[noun\], nominative, plural, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *kartvā* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -118,69 +124,99 @@ pūrváhūtau ← pūrváhūti- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvebhir* ← *mahi*
 - \[noun\]
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvebhir* ← *tvebhiḥ* ← *tva*
 - \[noun\], instrumental, plural, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatamānau* ← *yat*
 - \[verb noun\], nominative, dual
 - “strive; endeavor; join; equal; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *samīyatuḥ* ← *sami* ← *√i*
 - \[verb\], dual, Perfect indicative
 - “meet.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhvāntaṃ* ← *dhvāntam* ← *dhvānta*
 - \[noun\], nominative, singular, neuter
 - “dark.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamo* ← *tamaḥ* ← *tamas*
 - \[noun\], nominative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *'va* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhvase* ← *dhvaṃs*
 - \[verb\], singular, Perfect indicative
 - “cover; crumble; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 - *hata* ← *hate* ← *han*
 - \[verb noun\], locative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvahūtāv* ← *pūrva*
 - \[noun\]
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvahūtāv* ← *hūtau* ← *hūti*
 - \[noun\], locative, singular, feminine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *apatyata* ← *paty*
 - \[verb\], singular, Imperfect
 - “own; have; master.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

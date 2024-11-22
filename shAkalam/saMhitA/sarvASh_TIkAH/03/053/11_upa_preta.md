@@ -111,31 +111,45 @@ yajāte ← √yaj- (root)
 -   *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *preta* ← *pre* ← *√i*
 - \[verb\], plural, Present imperative
 - “die; proceed; advance; continue; begin; depart.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuśikāś* ← *kuśikāḥ* ← *kuśika*
 - \[noun\], vocative, plural, masculine
 - “Kuśika; Vatica robusta.”
-------------------------------------------------------------------------
+
+_________
+
 - *cetayadhvam* ← *cetay* ← *√cit*
 - \[verb\], plural, Present imperative
 - “blaze; notice.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *muñcatā* ← *muc*
 - \[verb\], plural, Present imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -143,56 +157,82 @@ yajāte ← √yaj- (root)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudāsaḥ* ← *sudās*
 - \[noun\], genitive, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, neuter
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṅghanat* ← *jaṅghan* ← *√han*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “murder; kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāg* ← *prāk* ← *prāñc*
 - \[noun\], accusative, singular, neuter
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *apāg* ← *apāk* ← *apāñc*
 - \[noun\], accusative, singular, neuter
 - “backward; apāñc \[word\]; western.”
-------------------------------------------------------------------------
+
+_________
+
 - *udag* ← *udak* ← *udañc*
 - \[noun\], accusative, singular, neuter
 - “northern; northbound; udañc \[word\]; northerly.”
-------------------------------------------------------------------------
+
+_________
+
 - *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajāte* ← *yaj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *vara* ← *vare* ← *vara*
 - \[noun\], locative, singular, masculine
 - “best; excellent; better; choice; optimum; maximal.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

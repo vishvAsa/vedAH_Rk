@@ -64,32 +64,46 @@ samudríyaḥ ← samudríya- (nominal stem)
 -   *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yemāno* ← *yemānaḥ* ← *yam*
 - \[verb noun\], nominative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryato* ← *haryataḥ* ← *haryata*
 - \[noun\], nominative, singular, masculine
 - “desirable; delightful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicakṣaṇo* ← *vicakṣaṇaḥ* ← *vicakṣaṇa*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudriyaḥ* ← *samudriya*
 - \[noun\], nominative, singular, masculine
 - “oceanic; oceanic.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

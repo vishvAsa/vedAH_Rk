@@ -70,41 +70,59 @@ vr̥ṇīdhvám ← √vr̥- ~ vr̥̄- (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *juhotā* ← *juhota* ← *hu*
 - \[verb\], plural, Present imperative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhotā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *duvasyatāgnim* ← *duvasyata* ← *duvasy*
 - \[verb\], plural, Present imperative
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *duvasyatāgnim* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayaty* ← *prayati* ← *pre* ← *√i*
 - \[verb noun\], locative, singular
 - “die; proceed; advance; continue; begin; depart.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇīdhvaṃ* ← *vṛṇīdhvam* ← *vṛ*
 - \[verb\], plural, Present optative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyavāhanam* ← *havyavāhana*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

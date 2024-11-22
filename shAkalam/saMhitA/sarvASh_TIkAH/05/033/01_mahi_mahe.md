@@ -99,76 +99,112 @@ stutáḥ ← √stu- (root)
 -   *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavase* ← *tavas*
 - \[noun\], dative, singular, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdhye* ← *dhī*
 - \[verb\], singular, Present indikative
 - “think; desire; chew over.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāyetthā* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāyetthā* ← *itthā*
 - \[adverb\]
 - “thus; here.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavase* ← *tavas*
 - \[noun\], dative, singular, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *atavyān* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *atavyān* ← *tavyān* ← *tavyas*
 - \[noun\], nominative, singular, masculine
 - “stronger; rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumatiṃ* ← *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasātau* ← *vājasāti*
 - \[noun\], locative, singular, feminine
 - “victory; battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuto* ← *stutaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *samaryaś* ← *samaryaḥ* ← *samarya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ciketa* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

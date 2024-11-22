@@ -93,74 +93,108 @@ yamásya ← yamá- (nominal stem)
 -   *vīﾱupatmabhir* ← *vīﾱu* ← *vīḍu*
 - \[noun\]
 - “hard; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīﾱupatmabhir* ← *patmabhiḥ* ← *patman*
 - \[noun\], instrumental, plural, masculine
 - “flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśuhemabhir* ← *āśu*
 - \[noun\]
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśuhemabhir* ← *hemabhiḥ* ← *heman*
 - \[noun\], instrumental, plural, masculine
 - “momentum.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *jūtibhiḥ* ← *jūti*
 - \[noun\], instrumental, plural, feminine
 - “jūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śāśadānā* ← *śad*
 - \[verb noun\], nominative, dual
 - “prevail.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāsabho* ← *rāsabhaḥ* ← *rāsabha*
 - \[noun\], nominative, singular, masculine
 - “ass; domestic ass.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ājā* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamasya* ← *yama*
 - \[noun\], genitive, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *pradhane* ← *pradhana*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *jigāya* ← *ji*
 - \[verb\], singular, Perfect indicative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

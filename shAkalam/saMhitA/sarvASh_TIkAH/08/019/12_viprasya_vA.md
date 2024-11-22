@@ -87,37 +87,55 @@ vividúṣaḥ ← √vid- 1 (root)
 -   *viprasya* ← *vipra*
 - \[noun\], genitive, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuvataḥ* ← *stu*
 - \[verb noun\], genitive, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahaso* ← *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaho* ← *yahu*
 - \[noun\], vocative, singular, masculine
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *makṣūtamasya* ← *makṣūtama*
 - \[noun\], genitive, singular, masculine
 - “following.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātiṣu* ← *rāti*
 - \[noun\], locative, plural, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *avodevam* ← *avodeva*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *uparimartyaṃ* ← *uparimartyam* ← *uparimartya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -128,19 +146,27 @@ vividúṣaḥ ← √vid- 1 (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vividuṣo* ← *vividuṣaḥ* ← *vid*
 - \[verb noun\], genitive, singular
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *vacaḥ* ← *vacas*
 - \[noun\], accusative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -80,53 +80,75 @@ vām ← tvám (pronoun)
 - \[verb\], dual, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātapo* ← *ātapaḥ* ← *ātap* ← *√tap*
 - \[verb noun\]
 - “heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadate* ← *vad*
 - \[verb noun\], dative, singular
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *valgv* ← *valgū* ← *valgu*
 - \[noun\], accusative, plural, neuter
 - “lovely; beautiful; agreeable; fine-looking.”
-------------------------------------------------------------------------
+
+_________
+
 - *atraye* ← *atri*
 - \[noun\], dative, singular, masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *anti*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ṣad* ← *sat* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtu* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *avaḥ* ← *avas*
 - \[noun\], nominative, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

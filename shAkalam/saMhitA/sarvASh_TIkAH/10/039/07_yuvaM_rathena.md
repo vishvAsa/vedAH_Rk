@@ -96,61 +96,89 @@ yuvám ← tvám (pronoun)
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *vimadāya* ← *vimada*
 - \[noun\], dative, singular, masculine
 - “Vimada.”
-------------------------------------------------------------------------
+
+_________
+
 - *śundhyuvaṃ* ← *śundhyuvam* ← *śundhyu*
 - \[noun\], accusative, singular, masculine
 - “fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūhathuḥ* ← *vah*
 - \[verb\], dual, Perfect indicative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *purumitrasya* ← *purumitra*
 - \[noun\], genitive, singular, masculine
 - “Purumitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣaṇām* ← *yoṣaṇā*
 - \[noun\], accusative, singular, feminine
 - “girl; wife.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhrimatyā* ← *vadhrimatyāḥ* ← *vadhrimatī*
 - \[noun\], genitive, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *agacchataṃ* ← *agacchatam* ← *gam*
 - \[verb\], dual, Imperfect
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣutiṃ* ← *suṣutim* ← *suṣuti*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *cakrathuḥ* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -161,11 +189,15 @@ yuvám ← tvám (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *purandhaye* ← *puraṃdhi*
 - \[noun\], dative, singular, feminine
 - “liberality; Puraṃdhi; munificence.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

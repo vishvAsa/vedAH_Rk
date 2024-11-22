@@ -99,73 +99,107 @@ naraḥ ← nár- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvānaḥ* ← *yuvan*
 - \[noun\], vocative, plural, masculine
 - “young; youthful.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavayo* ← *kavayaḥ* ← *kavi*
 - \[noun\], vocative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyāso* ← *yajñiyāsaḥ* ← *yajñiya*
 - \[noun\], vocative, plural, masculine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ganta* ← *gam*
 - \[verb\], plural, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇato* ← *gṛṇataḥ* ← *gṛ*
 - \[verb noun\], genitive, singular
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *varasyām* ← *varasyā*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *acitraṃ* ← *acitram* ← *acitra*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jinvathā* ← *jinvatha* ← *jinv*
 - \[verb\], plural, Present indikative
 - “enliven; animate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdhanta* ← *vṛdhantaḥ* ← *vṛdh*
 - \[verb noun\], nominative, plural
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *itthā*
 - \[adverb\]
 - “thus; here.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣanto* ← *nakṣantaḥ* ← *nakṣ*
 - \[verb noun\], nominative, plural
 - “reach; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], vocative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgirasvat*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

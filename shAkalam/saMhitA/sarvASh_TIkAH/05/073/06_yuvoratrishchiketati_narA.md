@@ -87,56 +87,82 @@ nā́satyā ← nā́satya- (nominal stem)
 -   *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *atriś* ← *atriḥ* ← *atri*
 - \[noun\], nominative, singular, masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ciketati* ← *cit*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nara*
 - \[noun\], vocative, dual, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnena* ← *sumna*
 - \[noun\], instrumental, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *cetasā* ← *cetas*
 - \[noun\], instrumental, singular, neuter
 - “mind; heart; consciousness; intelligence; purpose; cetas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmaṃ* ← *gharmam* ← *gharma*
 - \[noun\], accusative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *arepasaṃ* ← *arepasam* ← *arepas*
 - \[noun\], accusative, singular, masculine
 - “immaculate.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyāsnā* ← *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyāsnā* ← *āsnā* ← *āsan*
 - \[noun\], instrumental, singular, neuter
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuraṇyati* ← *bhuraṇy*
 - \[verb\], singular, Present indikative
 - “be active.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -98,95 +98,137 @@ vakmarā́jasatyāḥ ← vakmarā́jasatya- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śreṣṭhavarcasas* ← *śreṣṭha*
 - \[noun\]
 - “best; better; chief(a); beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *śreṣṭhavarcasas* ← *varcasaḥ* ← *varcas*
 - \[noun\], nominative, plural, masculine
 - “shininess; vigor; fecal matter; glare; magnificence; energy;
     prestige; energy; glory; luster; light; varcas \[word\]; glory; body
     waste; droppings; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiro* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
-------------------------------------------------------------------------
+
+_________
+
 - *nayanti* ← *nī*
 - \[verb\], plural, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṣatrāso* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṣatrāso* ← *kṣatrāsaḥ* ← *kṣatra*
 - \[noun\], nominative, plural, masculine
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtadhītayo* ← *ṛta*
 - \[noun\]
 - “timely; honest.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtadhītayo* ← *dhītayaḥ* ← *dhīti*
 - \[noun\], nominative, plural, masculine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakmarājasatyāḥ* ← *vakma* ← *vakman*
 - \[noun\], neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vakmarājasatyāḥ* ← *rāja* ← *rājan*
 - \[noun\], masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakmarājasatyāḥ* ← *satyāḥ* ← *satya*
 - \[noun\], nominative, plural, masculine
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

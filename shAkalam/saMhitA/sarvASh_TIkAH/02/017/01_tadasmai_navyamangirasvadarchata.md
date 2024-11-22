@@ -107,81 +107,119 @@ sómasya ← sóma- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyam* ← *navya*
 - \[noun\], accusative, singular, neuter
 - “new; fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgirasvad* ← *aṅgirasvat*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmā* ← *śuṣmāḥ* ← *śuṣma*
 - \[noun\], nominative, plural, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnathodīrate* ← *pratnathā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *pratnathodīrate* ← *udīrate* ← *udīr* ← *√īr*
 - \[verb\], plural, Present indikative
 - “originate.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *gotrā* ← *gotra*
 - \[noun\], accusative, plural, neuter
 - “Gotra; patronymic; gotra \[word\]; name; family; family; kin;
     Gotra; mountain; herd; cow pen; cowbarn.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *parīvṛtā* ← *parīvṛ* ← *√vṛ*
 - \[verb noun\], accusative, plural
 - “enclose.”
-------------------------------------------------------------------------
+
+_________
+
 - *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛṃhitāny* ← *dṛṃhitāni* ← *dṛṃhay* ← *√dṛh*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *airayat* ← *īray* ← *√īr*
 - \[verb\], singular, Imperfect
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

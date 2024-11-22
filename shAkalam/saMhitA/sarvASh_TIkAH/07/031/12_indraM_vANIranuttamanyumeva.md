@@ -83,55 +83,81 @@ sám ← sám (invariable)
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṇīr* ← *vāṇīḥ* ← *vāṇī*
 - \[noun\], nominative, plural, feminine
 - “voice; Sarasvati; words; language.”
-------------------------------------------------------------------------
+
+_________
+
 - *anuttamanyum* ← *anutta*
 - \[noun\]
 - “anutta \[word\]; insuperable.”
-------------------------------------------------------------------------
+
+_________
+
 - *anuttamanyum* ← *manyum* ← *manyu*
 - \[noun\], accusative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *satrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *rājānaṃ* ← *rājānam* ← *rājan*
 - \[noun\], accusative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahadhyai* ← *sah*
 - \[verb noun\]
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryaśvāya* ← *haryaśva*
 - \[noun\], dative, singular, masculine
 - “Indra; Haryaśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhayā* ← *barhay* ← *√bṛṃh*
 - \[verb\], singular, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpīn* ← *āpi*
 - \[noun\], accusative, plural, masculine
 - “friend.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

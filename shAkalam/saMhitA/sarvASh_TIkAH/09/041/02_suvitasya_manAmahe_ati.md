@@ -70,36 +70,52 @@ sāhvā́ṁsaḥ ← √sah- (root)
 -   *suvitasya* ← *suvita*
 - \[noun\], genitive, singular, neuter
 - “prosperity; well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *manāmahe* ← *man*
 - \[verb\], plural, Aorist conj./subj.
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ti* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *setuṃ* ← *setum* ← *setu*
 - \[noun\], accusative, singular, masculine
 - “dam; bridge; causeway; Setu; Om; landmark; shackle.”
-------------------------------------------------------------------------
+
+_________
+
 - *durāvyam* ← *durāvya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sāhvāṃso* ← *sāhvāṃsaḥ* ← *sah*
 - \[verb noun\], nominative, plural
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyum* ← *dasyu*
 - \[noun\], accusative, singular, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *avratam* ← *avrata*
 - \[noun\], accusative, singular, masculine
 - “disobedient; evil.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

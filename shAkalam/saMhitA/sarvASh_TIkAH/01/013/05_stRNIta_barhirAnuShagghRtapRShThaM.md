@@ -70,40 +70,58 @@ yátra ← yátra (invariable)
 -   *stṛṇīta* ← *stṛ*
 - \[verb\], plural, Present imperative
 - “spread; kill; lay; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ānuṣag* ← *ānuṣak*
 - \[adverb\]
 - “correctly; in sequence; punctually.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtapṛṣṭham* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtapṛṣṭham* ← *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], accusative, singular, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣiṇaḥ* ← *manīṣin*
 - \[noun\], vocative, plural, masculine
 - “sage; expert; devout.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatrāmṛtasya* ← *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yatrāmṛtasya* ← *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, masculine
 - “mercury; Phaseolus trilobus Ait.; Vishnu; Shiva; deity.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣaṇam* ← *cakṣaṇa*
 - \[noun\], nominative, singular, neuter
 - “appearance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

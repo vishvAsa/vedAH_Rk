@@ -99,72 +99,106 @@ yūyám ← tvám (pronoun)
 -   *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvādya* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvādya* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sumanaso* ← *sumanasaḥ* ← *sumanas*
 - \[noun\], nominative, plural, masculine
 - “benevolent; cheerful; happy; satisfied.”
-------------------------------------------------------------------------
+
+_________
+
 - *budhantāsmākāso* ← *budhanta* ← *budh*
 - \[verb\], plural, Aorist inj. (proh.)
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
-------------------------------------------------------------------------
+
+_________
+
 - *budhantāsmākāso* ← *asmākāsaḥ* ← *asmāka*
 - \[noun\], nominative, plural, masculine
 - “our; asmāka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavāno* ← *maghavānaḥ* ← *maghavan*
 - \[noun\], nominative, plural, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tilvilāyadhvam* ← *tilvilāy*
 - \[verb\], plural, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], vocative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhātīr* ← *vibhātīḥ* ← *vibhā* ← *√bhā*
 - \[verb noun\], nominative, plural
 - “shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

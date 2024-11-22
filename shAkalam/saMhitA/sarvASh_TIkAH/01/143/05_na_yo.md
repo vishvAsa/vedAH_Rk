@@ -120,102 +120,150 @@ yodháḥ ← yodhá- (nominal stem)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *varāya* ← *vara*
 - \[noun\], dative, singular, masculine
 - “vara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *svanaḥ* ← *svana*
 - \[noun\], nominative, singular, masculine
 - “noise; sound; svan.”
-------------------------------------------------------------------------
+
+_________
+
 - *seneva* ← *senā*
 - \[noun\], nominative, singular, feminine
 - “army; senā \[word\]; armament.”
-------------------------------------------------------------------------
+
+_________
+
 - *seneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛṣṭā* ← *sṛj*
 - \[verb noun\], nominative, singular
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *divyā* ← *divya*
 - \[noun\], nominative, singular, feminine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathāśaniḥ* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathāśaniḥ* ← *aśaniḥ* ← *aśani*
 - \[noun\], nominative, singular, feminine
 - “lightning; Vajra; vajra; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *jambhais* ← *jambhaiḥ* ← *jambha*
 - \[noun\], instrumental, plural, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
-------------------------------------------------------------------------
+
+_________
+
 - *tigitair* ← *tigitaiḥ* ← *tigita*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *atti* ← *ad*
 - \[verb\], singular, Present indikative
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharvati* ← *bharv*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *yodho* ← *yodhaḥ* ← *yodha*
 - \[noun\], nominative, singular, masculine
 - “soldier.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanā* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛñjate* ← *ṛj*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

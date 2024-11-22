@@ -98,72 +98,106 @@ sauśravasā́ni ← sauśravasá- (nominal stem)
 
 -   *somārudrā* ← *somārudra*
 - \[noun\], vocative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛhataṃ* ← *vṛhatam* ← *vṛh*
 - \[verb\], dual, Present imperative
 - “extract.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣūcīm* ← *viṣvañc*
 - \[noun\], accusative, singular, feminine
 - “dispersed; viṣvañc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *amīvā*
 - \[noun\], nominative, singular, feminine
 - “disease; affliction.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *gayam* ← *gaya*
 - \[noun\], accusative, singular, masculine
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
-------------------------------------------------------------------------
+
+_________
+
 - *āviveśa* ← *āviś* ← *√viś*
 - \[verb\], singular, Perfect indicative
 - “enter; overwhelm; possess; approach; afflict; enter (a state);
     reach; wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *āre*
 - \[adverb\]
 - “far.”
-------------------------------------------------------------------------
+
+_________
+
 - *bādhethāṃ* ← *bādhethām* ← *bādh*
 - \[verb\], dual, Present imperative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *nirṛtim* ← *nirṛti*
 - \[noun\], accusative, singular, feminine
 - “destruction; Nirṛti; adversity.”
-------------------------------------------------------------------------
+
+_________
+
 - *parācair* ← *parācais*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadra*
 - \[noun\], nominative, plural, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *sauśravasāni* ← *sauśravasa*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

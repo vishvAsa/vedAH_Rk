@@ -93,68 +93,100 @@ marútaḥ ← marút- (nominal stem)
 -   *tviṣīmanto* ← *tviṣīmantaḥ* ← *tviṣīmat*
 - \[noun\], nominative, plural, masculine
 - “glistening; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvarasyeva* ← *adhvarasya* ← *adhvara*
 - \[noun\], genitive, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvarasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *didyut*
 - \[noun\], nominative, singular, feminine
 - “arrow; Didyut.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛṣucyavaso* ← *tṛṣucyavasaḥ* ← *tṛṣucyavas*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *juhvo* ← *juhvaḥ* ← *juhū*
 - \[noun\], nominative, plural, feminine
 - “tongue; fire; ladle.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāgneḥ* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāgneḥ* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcatrayo* ← *arcatrayaḥ* ← *arcatri*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *dhunayo* ← *dhunayaḥ* ← *dhuni*
 - \[noun\], nominative, plural, masculine
 - “deafening; boisterous; noisy.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrā* ← *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājajjanmāno* ← *bhrājat* ← *bhrāj*
 - \[verb noun\]
 - “shine; glitter; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājajjanmāno* ← *janmānaḥ* ← *janman*
 - \[noun\], nominative, plural, masculine
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhṛṣṭāḥ* ← *adhṛṣṭa*
 - \[noun\], nominative, plural, masculine
 - “modest; invincible.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

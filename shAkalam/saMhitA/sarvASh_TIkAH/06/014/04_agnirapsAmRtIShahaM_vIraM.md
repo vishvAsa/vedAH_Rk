@@ -86,61 +86,89 @@ saṁcákṣi ← √cakṣ- (root)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsām* ← *ap*
 - \[noun\]
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsām* ← *sām* ← *sā*
 - \[noun\], accusative, singular, masculine
 - “winning.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtīṣahaṃ* ← *ṛtīṣaham* ← *ṛtīṣah*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadāti* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *satpatim* ← *sat*
 - \[noun\]
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
-------------------------------------------------------------------------
+
+_________
+
 - *satpatim* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *trasanti* ← *tras*
 - \[verb\], plural, Present indikative
 - “fear; tremble.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasaḥ* ← *śavas*
 - \[noun\], ablative, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃcakṣi* ← *saṃcakṣ* ← *√cakṣ*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *śatravo* ← *śatravaḥ* ← *śatru*
 - \[noun\], nominative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhiyā* ← *bhī*
 - \[noun\], instrumental, singular, feminine
 - “fear; bhī; alarm.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

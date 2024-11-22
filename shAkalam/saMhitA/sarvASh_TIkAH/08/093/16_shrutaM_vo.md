@@ -76,47 +76,69 @@ rā́dhase ← rā́dhas- (nominal stem)
 -   *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahantamam* ← *vṛtra*
 - \[noun\], masculine
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahantamam* ← *hantamam* ← *hantama*
 - \[noun\], accusative, singular, masculine
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhaṃ* ← *śardham* ← *śardha*
 - \[noun\], accusative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣe* ← *śvas*
 - \[verb\], singular, Present indikative
 - “hiss; pant; sigh; breathe; blow.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhase* ← *rādhas*
 - \[noun\], dative, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahe* ← *mah*
 - \[noun\], dative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

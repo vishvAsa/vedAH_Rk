@@ -76,22 +76,32 @@ víhāyasam ← víhāyas- (nominal stem)
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghā* ← *gha*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vīro* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūtaṃ* ← *dūtam* ← *dūta*
 - \[noun\], accusative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvīta* ← *kṛ*
 - \[verb\], singular, Present optative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -102,28 +112,40 @@ víhāyasam ← víhāyas- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “mortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakaṃ* ← *pāvakam* ← *pāvaka*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇavartaniṃ* ← *kṛṣṇa*
 - \[noun\]
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇavartaniṃ* ← *vartanim* ← *vartani*
 - \[noun\], accusative, singular, masculine
 - “path; East; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *vihāyasam* ← *vihāyas*
 - \[noun\], accusative, singular, masculine
 - “vigorous.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

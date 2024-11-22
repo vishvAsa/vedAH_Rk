@@ -79,48 +79,70 @@ vindate ← √vid- 1 (root)
 -   *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ābādha* ← *ābādhaḥ* ← *ābādha*
 - \[noun\], nominative, singular, masculine
 - “trouble; ābādha \[word\]; pain; disease; damage; pain; press.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛgmiya* ← *ṛgmiyaḥ* ← *ṛgmiya*
 - \[noun\], nominative, singular, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛkṣaś* ← *pṛkṣaḥ* ← *pṛkṣ*
 - \[noun\], accusative, plural, feminine
 - “food; refreshment; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *nigrabhe* ← *nigrah* ← *√grah*
 - \[verb noun\]
 - “suppress; get; control; get; enclose; punish; curb; tame; relieve.”
-------------------------------------------------------------------------
+
+_________
+
 - *upavidā* ← *upavid*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vahnir* ← *vahniḥ* ← *vahni*
 - \[noun\], nominative, singular, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
     leader.”
-------------------------------------------------------------------------
+
+_________
+
 - *vindate* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

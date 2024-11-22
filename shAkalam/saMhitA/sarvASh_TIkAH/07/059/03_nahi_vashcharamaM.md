@@ -89,59 +89,87 @@ víśve ← víśva- (nominal stem)
 
 -   *nahi*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vaś* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *caramaṃ* ← *caramam* ← *carama*
 - \[noun\], accusative, singular, masculine
 - “last; ultimate.”
-------------------------------------------------------------------------
+
+_________
+
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭhaḥ* ← *vasiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *parimaṃsate* ← *pariman* ← *√man*
 - \[verb\], singular, Aorist conj./subj.
-------------------------------------------------------------------------
+
+_________
+
 - *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibata* ← *pā*
 - \[verb\], plural, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāminaḥ* ← *kāmin*
 - \[noun\], nominative, plural, masculine
 - “desirous; aroused; loving.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

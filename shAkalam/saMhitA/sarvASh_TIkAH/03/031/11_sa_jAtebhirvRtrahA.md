@@ -113,96 +113,138 @@ svā́dma ← svā́dman- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātebhir* ← *jātebhiḥ* ← *jan*
 - \[verb noun\], instrumental, plural
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sed* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyair* ← *havyaiḥ* ← *havya*
 - \[noun\], instrumental, plural, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *usriyā* ← *usriyāḥ* ← *usriyā*
 - \[noun\], accusative, plural, feminine
 - “cow; dairy product.”
-------------------------------------------------------------------------
+
+_________
+
 - *asṛjad* ← *asṛjat* ← *sṛj*
 - \[verb\], singular, Imperfect
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *urūcy* ← *urūcī* ← *uruvyañc*
 - \[noun\], nominative, singular, feminine
 - “extensive; wide.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtavad* ← *ghṛtavat*
 - \[noun\], accusative, singular, neuter
 - “buttery.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharantī* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svādma* ← *svādman*
 - \[noun\], accusative, singular, neuter
 - “preference; sweetness.”
-------------------------------------------------------------------------
+
+_________
+
 - *duduhe* ← *duh*
 - \[verb\], singular, Perfect indicative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *jenyā* ← *jenya*
 - \[noun\], nominative, singular, feminine
 - “noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *gauḥ* ← *go*
 - \[noun\], nominative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,76 +105,112 @@ sánat ← √sanⁱ- (root)
 -   *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyāvāḥ* ← *śyāva*
 - \[noun\], nominative, plural, masculine
 - “brown; dark; śyāva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svanayena* ← *svanaya*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dattā* ← *dattāḥ* ← *dā*
 - \[verb noun\], nominative, plural
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhūmanto* ← *vadhūmantaḥ* ← *vadhūmat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rathāso* ← *rathāsaḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *asthuḥ* ← *sthā*
 - \[verb\], plural, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣaṣṭiḥ* ← *ṣaṣṭi*
 - \[noun\], nominative, singular, feminine
 - “sixty; sixtieth; ṣaṣṭi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasram* ← *sahasra*
 - \[noun\], nominative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyam* ← *gavya*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *āgāt* ← *āgā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “come; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanat* ← *san*
 - \[verb\], singular, Aorist inj. (proh.)
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakṣīvāṃ* ← *kakṣīvān* ← *kakṣīvant*
 - \[noun\], nominative, singular, masculine
 - “Kakṣīvant; kakṣīvant \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abhipitve* ← *abhipitva*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ahnām* ← *ahar*
 - \[noun\], genitive, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

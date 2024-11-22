@@ -69,55 +69,79 @@ sumitráḥ ← sumitrá- (nominal stem)
 
 -   *gayasphāno* ← *gayasphānaḥ* ← *gayasphāna*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *amīvahā* ← *amīva*
 - \[noun\], neuter
 - “disease.”
-------------------------------------------------------------------------
+
+_________
+
 - *amīvahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasuvit* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasuvit* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “finding.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣṭivardhanaḥ* ← *puṣṭi*
 - \[noun\], feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣṭivardhanaḥ* ← *vardhanaḥ* ← *vardhana*
 - \[noun\], nominative, singular, masculine
 - “increasing; fortifying; promotive; prolonging.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumitraḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumitraḥ* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

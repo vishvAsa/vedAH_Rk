@@ -105,83 +105,123 @@ tā́bhiḥ ← sá- ~ tá- (pronoun)
 -   *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvatsam*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *gām* ← *go*
 - \[noun\], accusative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *arakṣan* ← *rakṣ*
 - \[verb\], plural, Imperfect
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvatsam*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *māḥ* ← *mās*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *apiṃśan* ← *piś*
 - \[verb\], plural, Imperfect
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvatsam*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *abharan* ← *bhṛ*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāso* ← *bhāsaḥ* ← *bhāsas*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *asyās* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *śamībhir* ← *śamībhiḥ* ← *śamī*
 - \[noun\], instrumental, plural, feminine
 - “Prosopis spicigera Linn.; śamī \[word\]; Acacia sundra; attempt;
     labor.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtatvam* ← *amṛta*
 - \[noun\]
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtatvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśuḥ* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

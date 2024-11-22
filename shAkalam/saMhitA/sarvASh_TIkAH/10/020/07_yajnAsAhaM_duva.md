@@ -75,47 +75,67 @@ sūnúm ← sūnú- (nominal stem)
 
 -   *yajñāsāhaṃ* ← *yajñāsāham* ← *yajñāsāha*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *duva* ← *duvaḥ* ← *duvas*
 - \[noun\], accusative, singular, neuter
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣe* ← *iṣ*
 - \[verb\], singular, Present indikative
 - “send.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gnim* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvasya* ← *pūrva*
 - \[noun\], genitive, singular, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *śevasya* ← *śeva*
 - \[noun\], genitive, singular, masculine
 - “friendly; favorable; dear.”
-------------------------------------------------------------------------
+
+_________
+
 - *adreḥ* ← *adri*
 - \[noun\], genitive, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnum* ← *sūnu*
 - \[noun\], accusative, singular, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyum* ← *āyu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

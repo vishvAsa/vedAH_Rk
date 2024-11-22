@@ -108,85 +108,125 @@ vákvāḥ ← vákva- (nominal stem)
 -   *śrudhī* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthyā* ← *pṛthi*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *stavase* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *venyasyārkaiḥ* ← *venyasya* ← *venya*
 - \[noun\], genitive, singular, masculine
 - “Venya.”
-------------------------------------------------------------------------
+
+_________
+
 - *venyasyārkaiḥ* ← *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoniṃ* ← *yonim* ← *yoni*
 - \[noun\], accusative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtavantam* ← *ghṛtavat*
 - \[noun\], accusative, singular, masculine
 - “buttery.”
-------------------------------------------------------------------------
+
+_________
+
 - *asvār* ← *svar*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “sing.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmir* ← *ūrmiḥ* ← *ūrmi*
 - \[noun\], nominative, singular, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nimnair* ← *nimnaiḥ* ← *nimna*
 - \[noun\], instrumental, plural, neuter
 - “depression; depth.”
-------------------------------------------------------------------------
+
+_________
+
 - *dravayanta* ← *dravay* ← *√dru*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *vakvāḥ* ← *vakva*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

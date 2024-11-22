@@ -99,57 +99,83 @@ mahī́ḥ ← máh- (nominal stem)
 -   *radat* ← *rad*
 - \[verb\], singular, Present injunctive
 - “dig.”
-------------------------------------------------------------------------
+
+_________
+
 - *patho* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryāya* ← *sūrya*
 - \[noun\], dative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *prārṇāṃsi* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prārṇāṃsi* ← *arṇāṃsi* ← *arṇas*
 - \[noun\], accusative, plural, neuter
 - “body of water; water.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudriyā* ← *samudriya*
 - \[noun\], accusative, plural, neuter
 - “oceanic; oceanic.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadīnām* ← *nadī*
 - \[noun\], genitive, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *sargo* ← *sargaḥ* ← *sarga*
 - \[noun\], nominative, singular, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛṣṭo* ← *sṛṣṭaḥ* ← *sṛj*
 - \[verb noun\], nominative, singular
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvatīr* ← *arvatīḥ* ← *arvat*
 - \[noun\], accusative, plural, feminine
 - “running.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāyañ* ← *ṛtāyan* ← *ṛtāy*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -160,19 +186,27 @@ mahī́ḥ ← máh- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahīr* ← *mahīḥ* ← *mahi*
 - \[noun\], accusative, plural, feminine
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *avanīr* ← *avanīḥ* ← *avani*
 - \[noun\], accusative, plural, feminine
 - “river; earth; floor; path; bed; course.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahabhyaḥ* ← *ahar*
 - \[noun\], dative, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

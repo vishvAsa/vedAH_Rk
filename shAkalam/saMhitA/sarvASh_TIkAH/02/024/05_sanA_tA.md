@@ -108,77 +108,111 @@ yā́ ← yá- (pronoun)
 -   *sanā* ← *sana*
 - \[noun\], nominative, plural, neuter
 - “age-old; ancient.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *kācid* ← *kaścit*
 - \[noun\], nominative, singular, feminine
 - “any(a); some(a); some(a); some(a); some(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanā* ← *bhuvana*
 - \[noun\], nominative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavītvā* ← *bhavītva*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *mādbhiḥ* ← *mās*
 - \[noun\], instrumental, plural, masculine
 - “month; lunar month.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaradbhir* ← *śaradbhiḥ* ← *śarad*
 - \[noun\], instrumental, plural, feminine
 - “fall; year; śarad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *duro* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural, feminine
 - “door; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *varanta* ← *vṛ*
 - \[verb\], plural, Imperfect
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayatantā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayatantā* ← *yatantā* ← *yat*
 - \[verb noun\], nominative, dual
 - “strive; endeavor; join; equal; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *carato* ← *carataḥ* ← *car*
 - \[verb\], dual, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyad* ← *anyat* ← *anya*
 - \[noun\], accusative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *anyad* ← *anyat* ← *anya*
 - \[noun\], accusative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], accusative, dual, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -189,14 +223,20 @@ yā́ ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayunā* ← *vayuna*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaṇaspatiḥ* ← *brahmaṇaspati*
 - \[noun\], nominative, singular, masculine
 - “Brahmaṇaspati.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,84 +105,122 @@ yájamānasya ← √yaj- (root)
 -   *addhīd* ← *addhi* ← *ad*
 - \[verb\], singular, Present imperative
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *addhīd* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasthitemā* ← *prasthitā* ← *prasthā* ← *√sthā*
 - \[verb noun\], accusative, plural
 - “depart; give; depart; go; stay; proceed.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasthitemā* ← *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *havīṃṣi* ← *havis*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cano* ← *canaḥ* ← *canas*
 - \[noun\], accusative, singular, neuter
 - “delight.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhiṣva* ← *dhā*
 - \[verb\], singular, Perfect imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *pacatota* ← *pacatā* ← *pacata*
 - \[noun\], accusative, plural, neuter
 - “cooked.”
-------------------------------------------------------------------------
+
+_________
+
 - *pacatota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayasvantaḥ* ← *prayasvat*
 - \[noun\], nominative, plural, masculine
 - “offering.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryāmasi* ← *hary*
 - \[verb\], plural, Present indikative
 - “delight.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyāḥ* ← *satya*
 - \[noun\], nominative, plural, masculine
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamānasya* ← *yaj*
 - \[verb noun\], genitive, singular
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmāḥ* ← *kāma*
 - \[noun\], nominative, plural, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

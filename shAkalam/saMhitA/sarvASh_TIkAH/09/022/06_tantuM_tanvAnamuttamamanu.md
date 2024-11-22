@@ -73,41 +73,59 @@ uttamā́yyam ← uttamā́yya- (nominal stem)
 -   *tantuṃ* ← *tantum* ← *tantu*
 - \[noun\], accusative, singular, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvānam* ← *tan*
 - \[verb noun\], accusative, singular
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttamam* ← *uttama*
 - \[noun\], accusative, singular, masculine
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
     finest.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravata* ← *pravataḥ* ← *pravat*
 - \[noun\], accusative, plural, feminine
 - “slope; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśata* ← *aś*
 - \[verb\], plural, Root aorist (Ind.)
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *utedam* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *utedam* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttamāyyam* ← *uttamāyya*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

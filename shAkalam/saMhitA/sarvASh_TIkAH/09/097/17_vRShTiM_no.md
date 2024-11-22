@@ -102,80 +102,118 @@ vāyū́n ← vāyú- (nominal stem)
 -   *vṛṣṭiṃ* ← *vṛṣṭim* ← *vṛṣṭi*
 - \[noun\], accusative, singular, feminine
 - “rain; shower; rainy season.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṣa* ← *ṛṣ*
 - \[verb\], singular, Present imperative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *divyāṃ* ← *divyām* ← *divya*
 - \[noun\], accusative, singular, feminine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigatnum* ← *jigatnu*
 - \[noun\], accusative, singular, feminine
 - “moving.”
-------------------------------------------------------------------------
+
+_________
+
 - *iﾱāvatīṃ* ← *iﾱāvatīm* ← *iḍāvat*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *śaṅgayīṃ* ← *śaṅgayīm* ← *śaṃgaya*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *jīradānum* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīradānum* ← *dānum* ← *dānu*
 - \[noun\], accusative, singular, feminine
 - “Dānu; dew; drop.”
-------------------------------------------------------------------------
+
+_________
+
 - *stukeva* ← *stukā*
 - \[noun\], nominative, singular, feminine
 - “tuft.”
-------------------------------------------------------------------------
+
+_________
+
 - *stukeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vītā* ← *vīta*
 - \[noun\], nominative, singular, feminine
 - “straight; smooth.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvā* ← *dhanva* ← *dhanv*
 - \[verb\], singular, Present imperative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicinvan* ← *vici* ← *√ci*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *bandhūṃr* ← *bandhu*
 - \[noun\], accusative, plural, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
-------------------------------------------------------------------------
+
+_________
+
 - *imāṃ* ← *imān* ← *idam*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *avarāṃ* ← *avara*
 - \[noun\], accusative, plural, masculine
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyūn* ← *vāyu*
 - \[noun\], accusative, plural, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

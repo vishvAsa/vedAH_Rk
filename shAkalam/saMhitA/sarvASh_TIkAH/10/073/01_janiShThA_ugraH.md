@@ -101,79 +101,115 @@ yát ← yá- (pronoun)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahase* ← *sahas*
 - \[noun\], dative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *turāya* ← *tura*
 - \[noun\], dative, singular, neuter
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandra* ← *mandraḥ* ← *mandra*
 - \[noun\], nominative, singular, masculine
 - “pleasant; eloquent; dulcet.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojiṣṭho* ← *ojiṣṭhaḥ* ← *ojiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *bahulābhimānaḥ* ← *bahula*
 - \[noun\]
 - “frequent; endowed; much(a); many; abounding in(p); abundant; bahula
     \[word\]; accompanied; prevailing.”
-------------------------------------------------------------------------
+
+_________
+
 - *bahulābhimānaḥ* ← *abhimānaḥ* ← *abhimāna*
 - \[noun\], nominative, singular, masculine
 - “pride; Ahaṃkāra; sexual desire; self-consciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *avardhann* ← *avardhan* ← *vṛdh*
 - \[verb\], plural, Imperfect
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaś* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhanad* ← *dadhanat* ← *dhan*
 - \[verb\], singular, Perfect conjunctive (subj.)
-------------------------------------------------------------------------
+
+_________
+
 - *dhaniṣṭhā* ← *dhaniṣṭha*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

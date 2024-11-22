@@ -108,92 +108,132 @@ tā́m ← sá- ~ tá- (pronoun)
 -   *yajñena* ← *yajña*
 - \[noun\], instrumental, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācaḥ* ← *vāc*
 - \[noun\], genitive, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *padavīyam* ← *padavīya*
 - \[noun\], accusative, singular, neuter
 - “path.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyan* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *tām* ← *tad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *avindann* ← *avindan* ← *vid*
 - \[verb\], plural, Imperfect
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣiṣu* ← *ṛṣi*
 - \[noun\], locative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *praviṣṭām* ← *praviś* ← *√viś*
 - \[verb noun\], accusative, singular
 - “enter; throw; insert; fit; marry; repair to; permeate.”
-------------------------------------------------------------------------
+
+_________
+
 - *tām* ← *tad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhṛtyā* ← *ābhṛtya* ← *ābhṛ* ← *√bhṛ*
 - \[verb noun\]
 - “bring.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *adadhuḥ* ← *dhā*
 - \[verb\], plural, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *purutrā*
 - \[adverb\]
 - “distributively.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāṃ* ← *tām* ← *tad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *rebhā* ← *rebhāḥ* ← *rebha*
 - \[noun\], nominative, plural, masculine
 - “bard; eulogist.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *navante* ← *nū*
 - \[verb\], plural, Present indikative
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

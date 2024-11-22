@@ -111,88 +111,132 @@ svayám ← svayám (invariable)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *garan* ← *gṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “devour; swallow; surround.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], nominative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *mātṛtamā* ← *mātṛtamāḥ* ← *mātṛtama*
 - \[noun\], nominative, plural, feminine
 - “motherly.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsā* ← *dāsāḥ* ← *dāsa*
 - \[noun\], nominative, plural, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *susamubdham* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *susamubdham* ← *samubdham* ← *samubh* ← *√ubh*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *avādhuḥ* ← *avadhā* ← *√dhā*
 - \[verb\], plural, Root aorist (Ind.)
 - “concentrate; immerse; set down.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiro* ← *śiraḥ* ← *śiras*
 - \[noun\], accusative, singular, neuter
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *traitano* ← *traitanaḥ* ← *traitana*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vitakṣat* ← *vitakṣ* ← *√takṣ*
 - \[verb\], singular, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *svayaṃ* ← *svayam*
 - \[adverb\]
 - “personally; spontaneously; svayam \[word\]; voluntarily.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsa* ← *dāsaḥ* ← *dāsa*
 - \[noun\], nominative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
-------------------------------------------------------------------------
+
+_________
+
 - *uro* ← *uraḥ* ← *uras*
 - \[noun\], accusative, singular, neuter
 - “breast; thorax; uras \[word\]; bosom; center.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃsāv* ← *aṃsau* ← *aṃsa*
 - \[noun\], accusative, dual, masculine
 - “shoulder; aṃsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *gdha* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

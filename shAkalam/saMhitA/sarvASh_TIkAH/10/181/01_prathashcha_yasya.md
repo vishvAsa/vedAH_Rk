@@ -105,84 +105,124 @@ vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)
 -   *prathaś* ← *prathaḥ* ← *prathas*
 - \[noun\], nominative, singular, neuter
 - “width.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saprathaś* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *saprathaś* ← *prathaḥ* ← *prathas*
 - \[noun\], nominative, singular, neuter
 - “width.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāmānuṣṭubhasya* ← *nāma* ← *nāman*
 - \[noun\], nominative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāmānuṣṭubhasya* ← *ānuṣṭubhasya* ← *ānuṣṭubha*
 - \[noun\], genitive, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣo* ← *haviṣaḥ* ← *havis*
 - \[noun\], genitive, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *havir* ← *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhātur* ← *dhātuḥ* ← *dhātṛ*
 - \[noun\], ablative, singular, masculine
 - “Brahma; Dhātṛ; creator; Dhātṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyutānāt* ← *dyutāna*
 - \[noun\], ablative, singular, masculine
 - “shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *savituś* ← *savituḥ* ← *savitṛ*
 - \[noun\], ablative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṇo* ← *viṣṇoḥ* ← *viṣṇu*
 - \[noun\], ablative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathantaram* ← *rathaṃtara*
 - \[noun\], accusative, singular, neuter
 - “Rathaṃtara.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jabhārā* ← *bhṛ*
 - \[verb\], singular, Perfect indicative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭhaḥ* ← *vasiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

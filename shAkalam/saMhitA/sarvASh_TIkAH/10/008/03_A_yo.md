@@ -102,84 +102,122 @@ yónau ← yóni- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mūrdhānam* ← *mūrdhan*
 - \[noun\], accusative, singular, masculine
 - “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitror* ← *pitroḥ* ← *pitṛ*
 - \[noun\], genitive, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *arabdha* ← *rabh*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “clasp.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūro* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṇaḥ* ← *arṇa*
 - \[noun\], nominative, singular, masculine
 - “wave; flood.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *patmann* ← *patman*
 - \[noun\], locative, singular, neuter
 - “flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṣīr* ← *aruṣīḥ* ← *aruṣī*
 - \[noun\], nominative, plural, feminine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvabudhnā* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvabudhnā* ← *budhnāḥ* ← *budhna*
 - \[noun\], nominative, plural, feminine
 - “bottom; bottom; base.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *yonau* ← *yoni*
 - \[noun\], locative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvo* ← *tanvaḥ* ← *tanū*
 - \[noun\], accusative, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣanta* ← *juṣ*
 - \[verb\], plural, Present injunctive
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -93,76 +93,110 @@ yugā́ ← yugá- (nominal stem)
 -   *ṛtāvānam* ← *ṛtāvan*
 - \[noun\], accusative, singular, masculine
 - “law-abiding; faithful; righteous.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahiṣaṃ* ← *mahiṣam* ← *mahiṣa*
 - \[noun\], accusative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadarśatam* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadarśatam* ← *darśatam* ← *darśata*
 - \[noun\], accusative, singular, masculine
 - “beautiful; visible; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnāya* ← *sumna*
 - \[noun\], dative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *puro* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
-------------------------------------------------------------------------
+
+_________
+
 - *janāḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutkarṇaṃ* ← *śrut*
 - \[noun\]
 - “listening.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutkarṇaṃ* ← *karṇam* ← *karṇa*
 - \[noun\], accusative, singular, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
-------------------------------------------------------------------------
+
+_________
+
 - *saprathastamaṃ* ← *saprathastamam* ← *saprathastama*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *girā* ← *giri*
 - \[noun\], locative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivyam* ← *daivya*
 - \[noun\], accusative, singular, masculine
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣā* ← *mānuṣāḥ* ← *mānuṣa*
 - \[noun\], nominative, plural, masculine
 - “man; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *yugā* ← *yuga*
 - \[noun\], instrumental, singular, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

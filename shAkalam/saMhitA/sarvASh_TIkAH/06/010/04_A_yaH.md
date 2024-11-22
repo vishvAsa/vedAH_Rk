@@ -99,82 +99,118 @@ tirás ← tirás (invariable)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paprau* ← *prā*
 - \[verb\], singular, Perfect indicative
 - “fill; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyamāna* ← *jāyamānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *urvī*
 - \[noun\], accusative, dual, feminine
 - “Earth; floor; land; heaven and earth; urvī; pṛthivī; kingdom.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūredṛśā* ← *dūredṛś*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *bhāsā* ← *bhās*
 - \[noun\], instrumental, singular, feminine
 - “beam; radiance; bhās \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇādhvā* ← *kṛṣṇa*
 - \[noun\]
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇādhvā* ← *adhvā* ← *adhvan*
 - \[noun\], nominative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *bahu*
 - \[noun\], accusative, singular, neuter
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *tama* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmyāyās* ← *ūrmyāyāḥ* ← *ūrmyā*
 - \[noun\], genitive, singular, feminine
 - “night.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiraḥ* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
-------------------------------------------------------------------------
+
+_________
+
 - *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadṛśe* ← *dṛś*
 - \[verb\], singular, Perfect indicative
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakaḥ* ← *pāvaka*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

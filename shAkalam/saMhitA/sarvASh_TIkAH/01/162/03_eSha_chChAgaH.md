@@ -102,82 +102,120 @@ tváṣṭā ← tváṣṭar- (nominal stem)
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cchāgaḥ* ← *chāgaḥ* ← *chāga*
 - \[noun\], nominative, singular, masculine
 - “goat; billy.”
-------------------------------------------------------------------------
+
+_________
+
 - *puro* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvena* ← *aśva*
 - \[noun\], instrumental, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinā* ← *vājin*
 - \[noun\], instrumental, singular, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣṇo* ← *pūṣṇaḥ* ← *pūṣan*
 - \[noun\], genitive, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāgo* ← *bhāgaḥ* ← *bhāga*
 - \[noun\], nominative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
-------------------------------------------------------------------------
+
+_________
+
 - *nīyate* ← *nī*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadevyaḥ* ← *viśvadevya*
 - \[noun\], nominative, singular, masculine
 - “viśvadevya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abhipriyaṃ* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhipriyaṃ* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *puroﾱāśam* ← *puroḍāś*
 - \[noun\], accusative, singular, masculine
 - “puroḍāśa.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvatā* ← *arvant*
 - \[noun\], instrumental, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṣṭed* ← *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṣṭed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *enaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *sauśravasāya* ← *sauśravasa*
 - \[noun\], dative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *jinvati* ← *jinv*
 - \[verb\], singular, Present indikative
 - “enliven; animate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -88,65 +88,95 @@ ná ← ná (invariable)
 -   *abhyabhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhyabhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śravasā* ← *śravas*
 - \[noun\], instrumental, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatardithotsaṃ* ← *tatarditha* ← *tṛd*
 - \[verb\], singular, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *tatardithotsaṃ* ← *utsam* ← *utsa*
 - \[noun\], accusative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṃcij* ← *kaṃcid* ← *kaścit*
 - \[noun\], accusative, singular, masculine
 - “any(a); some(a); some(a); some(a); some(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *janapānam* ← *jana*
 - \[noun\], masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *janapānam* ← *pānam* ← *pāna*
 - \[noun\], accusative, singular, neuter
 - “beverage; drinking; alcohol; drink; draft; drinking vessel; pāna
     \[word\]; vagina; well; cup; inhalation.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣitam* ← *akṣita*
 - \[noun\], accusative, singular, neuter
 - “undecaying; uninjured.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaryābhir* ← *śaryābhiḥ* ← *śaryā*
 - \[noun\], instrumental, plural, feminine
 - “arrow.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bharamāṇo* ← *bharamāṇaḥ* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

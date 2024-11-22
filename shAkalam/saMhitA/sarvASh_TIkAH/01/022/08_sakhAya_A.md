@@ -79,48 +79,70 @@ rā́dhāṁsi ← rā́dhas- (nominal stem)
 -   *sakhāya* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣīdata* ← *sad*
 - \[verb\], plural, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomyo* ← *stomyaḥ* ← *stomya*
 - \[noun\], nominative, singular, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dātā* ← *dātṛ*
 - \[noun\], nominative, singular, masculine
 - “giving; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhāṃsi* ← *rādhas*
 - \[noun\], accusative, plural, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *śumbhati* ← *śubh*
 - \[verb\], singular, Present indikative
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

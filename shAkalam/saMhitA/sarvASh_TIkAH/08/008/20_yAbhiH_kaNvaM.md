@@ -87,56 +87,82 @@ tā́bhiḥ ← sá- ~ tá- (pronoun)
 -   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṇvam* ← *kaṇva*
 - \[noun\], accusative, singular, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *medhātithiṃ* ← *medhātithim* ← *medhātithi*
 - \[noun\], accusative, singular, masculine
 - “Medhātithi; Medhātithi.”
-------------------------------------------------------------------------
+
+_________
+
 - *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaśaṃ* ← *vaśam* ← *vaśa*
 - \[noun\], accusative, singular, masculine
 - “control; dominion; influence; power; Vaśa; vaśa \[word\]; will;
     authority; control; wish; supervision.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśavrajam* ← *daśavraja*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gośaryam* ← *gośarya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āvataṃ* ← *āvatam* ← *av*
 - \[verb\], dual, Imperfect
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vataṃ* ← *avatam* ← *av*
 - \[verb\], dual, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

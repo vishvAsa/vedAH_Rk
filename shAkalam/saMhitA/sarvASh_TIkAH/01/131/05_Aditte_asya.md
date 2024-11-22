@@ -130,62 +130,90 @@ saniṣṇata ← √sanⁱ- (root)
 -   *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīryasya* ← *vīrya*
 - \[noun\], genitive, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *carkiran* ← *carkar* ← *√kṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “praise; commemorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *madeṣu* ← *mada*
 - \[noun\], locative, plural, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣann* ← *vṛṣan*
 - \[noun\], vocative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśijo* ← *uśijaḥ* ← *uśij*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvitha* ← *av*
 - \[verb\], singular, Perfect indicative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhīyato* ← *sakhīyataḥ* ← *sakhīy*
 - \[verb noun\], accusative, plural
 - “befriend.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvitha* ← *av*
 - \[verb\], singular, Perfect indicative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakartha* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -196,51 +224,75 @@ saniṣṇata ← √sanⁱ- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāram* ← *kāra*
 - \[noun\], accusative, singular, masculine
 - “kāra \[word\]; writer; builder.”
-------------------------------------------------------------------------
+
+_________
+
 - *ebhyaḥ* ← *idam*
 - \[noun\], dative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravantave* ← *pravan* ← *√van*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyām* ← *anya*
 - \[noun\], accusative, singular, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *anyāṃ* ← *anyām* ← *anya*
 - \[noun\], accusative, singular, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *nadyaṃ* ← *nadyam* ← *nadī*
 - \[noun\], accusative, singular, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *saniṣṇata* ← *saniṣṇ* ← *√san*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *śravasyantaḥ* ← *śravasy*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *saniṣṇata* ← *saniṣṇ* ← *√san*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

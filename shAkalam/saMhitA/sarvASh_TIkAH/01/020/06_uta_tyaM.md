@@ -76,33 +76,47 @@ púnar ← púnar (invariable)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *camasaṃ* ← *camasam* ← *camasa*
 - \[noun\], accusative, singular, masculine
 - “camasa; beaker; cake.”
-------------------------------------------------------------------------
+
+_________
+
 - *navaṃ* ← *navam* ← *nava*
 - \[noun\], accusative, singular, masculine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṣṭur* ← *tvaṣṭuḥ* ← *tvaṣṭṛ*
 - \[noun\], genitive, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣkṛtam* ← *niṣkṛ* ← *√kṛ*
 - \[verb noun\], accusative, singular
 - “produce; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *akarta* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -113,16 +127,22 @@ púnar ← púnar (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *caturaḥ* ← *catur*
 - \[noun\], accusative, plural, masculine
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -82,55 +82,79 @@ vyácaḥ ← vyácas- (nominal stem)
 -   *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmiṇa* ← *śuṣmiṇaḥ* ← *śuṣmin*
 - \[noun\], nominative, plural, masculine
 - “strong; hotheaded.”
-------------------------------------------------------------------------
+
+_________
+
 - *enā*
 - \[adverb\]
 - “thus.”
-------------------------------------------------------------------------
+
+_________
+
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asyodare* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyodare* ← *udare* ← *udara*
 - \[noun\], locative, singular, neuter
 - “udara; cavity; abdomen; inside; stomach; belly; udara \[word\];
     garbha; abdominal disease; intestine; inside; uterus; vessel.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudro* ← *samudraḥ* ← *samudra*
 - \[noun\], nominative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vyaco* ← *vyacaḥ* ← *vyacas*
 - \[noun\], accusative, singular, neuter
 - “area; capacity.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

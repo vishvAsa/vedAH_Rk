@@ -105,77 +105,115 @@ sómam ← sóma- (nominal stem)
 -   *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *sammiślāḥ* ← *sammiśla*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣatībhir* ← *pṛṣatībhiḥ* ← *pṛṣatī*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣṭibhir* ← *ṛṣṭibhiḥ* ← *ṛṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “spear.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmañchubhrāso* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmañchubhrāso* ← *śubhrāsaḥ* ← *śubhra*
 - \[noun\], nominative, plural, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjiṣu* ← *añji*
 - \[noun\], locative, plural, masculine
 - “color; ointment; adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyā* ← *priyāḥ* ← *priya*
 - \[noun\], nominative, plural, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsadyā* ← *āsad* ← *√sad*
 - \[verb noun\]
 - “approach; attack; sit down; approach; find; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bharatasya* ← *bharata*
 - \[noun\], genitive, singular, masculine
 - “Bharata; Bharata; Bhārata; Bharata; Bharata; actor.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnavaḥ* ← *sūnu*
 - \[noun\], vocative, plural, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *potrād* ← *potrāt* ← *potra*
 - \[noun\], ablative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibatā* ← *pā*
 - \[verb\], plural, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], vocative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

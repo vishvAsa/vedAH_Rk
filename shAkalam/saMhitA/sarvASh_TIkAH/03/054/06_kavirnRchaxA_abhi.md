@@ -100,47 +100,69 @@ saṁvidāné ← √vid- 2 (root)
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛcakṣā* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛcakṣā* ← *cakṣāḥ* ← *cakṣas*
 - \[noun\], nominative, singular, masculine
 - “eye; look; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣīm* ← *sīm*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *acaṣṭa* ← *cakṣ*
 - \[verb\], singular, Imperfect
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *yonā* ← *yoni*
 - \[noun\], locative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vighṛte* ← *vighṛta*
 - \[noun\], accusative, dual, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *madantī* ← *mad*
 - \[verb noun\], accusative, dual
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *nānā*
 - \[adverb\]
 - “variously; differently; many; individually.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakrāte* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -151,33 +173,47 @@ saṁvidāné ← √vid- 2 (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadanaṃ* ← *sadanam* ← *sadana*
 - \[noun\], accusative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *veḥ* ← *vi*
 - \[noun\], genitive, singular, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *samānena* ← *samāna*
 - \[noun\], instrumental, singular, masculine
 - “samāna.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratunā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvidāne* ← *saṃvid* ← *√vid*
 - \[verb noun\], nominative, dual
 - “agree; know; match; recognize.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

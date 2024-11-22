@@ -67,40 +67,58 @@ yajñéṣu ← yajñá- (nominal stem)
 -   *draviṇodā* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇodā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇaso* ← *draviṇasaḥ* ← *draviṇas*
 - \[noun\], genitive, singular, neuter
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *grāvahastāso* ← *grāva* ← *grāvan*
 - \[noun\], masculine
 - “stone; millstone; grindstone; mountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *grāvahastāso* ← *hastāsaḥ* ← *hasta*
 - \[noun\], nominative, plural, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñeṣu* ← *yajña*
 - \[noun\], locative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

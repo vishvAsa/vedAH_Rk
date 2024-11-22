@@ -74,56 +74,80 @@ sómapītaye ← sómapīti- (nominal stem)
 - \[noun\], instrumental, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *stho* ← *sthaḥ* ← *as*
 - \[verb\], dual, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhruvakṣemā* ← *dhruva*
 - \[noun\]
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhruvakṣemā* ← *kṣemā* ← *kṣema*
 - \[noun\], nominative, dual, masculine
 - “ease; happiness; peace; tranquillity; kṣema \[word\]; respite;
     rest.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharmaṇā* ← *dharman*
 - \[noun\], instrumental, singular, neuter
 - “regulation; Dharma; law; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātayajjanā* ← *yātayat* ← *yātay* ← *√yat*
 - \[verb noun\]
 - “endeavor; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātayajjanā* ← *janā* ← *jana*
 - \[noun\], nominative, dual, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sadataṃ* ← *sadatam* ← *sad*
 - \[verb\], dual, Aorist imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapītaye* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapītaye* ← *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -87,58 +87,84 @@ rūpā́ṇi ← rūpá- (nominal stem)
 -   *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ohate* ← *ūh*
 - \[verb\], plural, Present indikative
 - “diagnose.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dhā* ← *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *niyuta* ← *niyutaḥ* ← *niyut*
 - \[noun\], nominative, plural, feminine
 - “gift; team.”
-------------------------------------------------------------------------
+
+_________
+
 - *ohate* ← *ūh*
 - \[verb\], plural, Present indikative
 - “diagnose.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārāvatā* ← *pārāvatāḥ* ← *pārāvata*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *citrā* ← *citra*
 - \[noun\], nominative, plural, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *rūpāṇi* ← *rūpa*
 - \[noun\], nominative, plural, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *darśyā* ← *darśya*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

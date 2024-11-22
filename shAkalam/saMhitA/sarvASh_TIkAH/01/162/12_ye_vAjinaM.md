@@ -114,98 +114,144 @@ utá ← utá (invariable)
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *paripaśyanti* ← *paripaś* ← *√paś*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *pakvaṃ* ← *pakvam* ← *pakva*
 - \[noun\], accusative, singular, masculine
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
-------------------------------------------------------------------------
+
+_________
+
 - *surabhir* ← *surabhiḥ* ← *surabhi*
 - \[noun\], nominative, singular, masculine
 - “fragrant; perfumed; surabhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *hareti* ← *hara* ← *hṛ*
 - \[verb\], singular, Present imperative
 - “cure; remove; kidnap; rob; take away; get; destroy; take; extract;
     collect; seize; clean; offer; drain; pick; take out; bring; accept;
     sever; produce; conquer; steal; deprive; press out.”
-------------------------------------------------------------------------
+
+_________
+
 - *hareti* ← *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, dual, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cārvato* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cārvato* ← *arvataḥ* ← *arvant*
 - \[noun\], genitive, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *māṃsabhikṣām* ← *māṃsa*
 - \[noun\], neuter
 - “meat; flesh; pulp; māṃsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *māṃsabhikṣām* ← *bhikṣām* ← *bhikṣā*
 - \[noun\], accusative, singular, feminine
 - “alms; bhikṣā \[word\]; beggary; food.”
-------------------------------------------------------------------------
+
+_________
+
 - *upāsata* ← *upāsate* ← *upās* ← *√ās*
 - \[verb\], singular, Present indikative
 - “worship; attend; serve; get; approach; obtain; perform; expect.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *teṣām* ← *tad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhigūrtir* ← *abhigūrtiḥ* ← *abhigūrti*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *invatu* ← *inv*
 - \[verb\], singular, Present imperative
 - “bring; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

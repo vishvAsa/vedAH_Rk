@@ -93,60 +93,90 @@ sthā́m ← sthā́- (nominal stem)
 -   *nāke* ← *nāka*
 - \[noun\], locative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suparṇam* ← *suparṇa*
 - \[noun\], accusative, singular, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
-------------------------------------------------------------------------
+
+_________
+
 - *upapaptivāṃsaṃ* ← *upapaptivāṃsam* ← *upapat* ← *√pat*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *giro* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *venānām* ← *vena*
 - \[noun\], genitive, plural, masculine
 - “Vena.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛpanta* ← *kṛp*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśuṃ* ← *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
-------------------------------------------------------------------------
+
+_________
+
 - *rihanti* ← *rih*
 - \[verb\], plural, Present indikative
 - “lick.”
-------------------------------------------------------------------------
+
+_________
+
 - *matayaḥ* ← *mati*
 - \[noun\], nominative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *panipnataṃ* ← *panipnatam* ← *panipn* ← *√pan*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayaṃ* ← *hiraṇyayam* ← *hiraṇyaya*
 - \[noun\], accusative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śakunaṃ* ← *śakunam* ← *śakuna*
 - \[noun\], accusative, singular, masculine
 - “bird; large bird.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāmaṇi* ← *kṣāman*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *sthām* ← *sthā*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

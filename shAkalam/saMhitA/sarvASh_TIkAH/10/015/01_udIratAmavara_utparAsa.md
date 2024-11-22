@@ -105,91 +105,131 @@ té ← sá- ~ tá- (pronoun)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *īratām* ← *īr*
 - \[verb\], plural, Present imperative
 - “go.”
-------------------------------------------------------------------------
+
+_________
+
 - *avara* ← *avare* ← *avara*
 - \[noun\], nominative, plural, masculine
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ut* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāsa* ← *parāsaḥ* ← *para*
 - \[noun\], nominative, plural, masculine
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
-------------------------------------------------------------------------
+
+_________
+
 - *un* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhyamāḥ* ← *madhyama*
 - \[noun\], nominative, plural, masculine
 - “intermediate; middle; average; second; average; adult; central;
     moderate; mean; center(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *somyāsaḥ* ← *somya*
 - \[noun\], nominative, plural, masculine
 - “saumya.”
-------------------------------------------------------------------------
+
+_________
+
 - *asuṃ* ← *asum* ← *asu*
 - \[noun\], accusative, singular, masculine
 - “life.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īyur* ← *īyuḥ* ← *i*
 - \[verb\], plural, Perfect indicative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛkā* ← *avṛkāḥ* ← *avṛka*
 - \[noun\], nominative, plural, masculine
 - “protective; safe.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtajñās* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtajñās* ← *jñāḥ* ← *jña*
 - \[noun\], nominative, plural, masculine
 - “conversant(p); aware(p); wise.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vantu* ← *avantu* ← *av*
 - \[verb\], plural, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitaro* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *haveṣu* ← *hava*
 - \[noun\], locative, plural, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

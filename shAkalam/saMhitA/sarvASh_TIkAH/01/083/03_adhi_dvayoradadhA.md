@@ -102,86 +102,126 @@ yájamānāya ← √yaj- (root)
 -   *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvayor* ← *dvayoḥ* ← *dvi*
 - \[noun\], locative, dual, masculine
 - “two; dvi \[word\]; second.”
-------------------------------------------------------------------------
+
+_________
+
 - *adadhā* ← *adadhāḥ* ← *dhā*
 - \[verb\], singular, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthyaṃ* ← *ukthyam* ← *ukthya*
 - \[noun\], accusative, singular, neuter
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaco* ← *vacaḥ* ← *vacas*
 - \[noun\], accusative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatasrucā* ← *yata* ← *yam*
 - \[verb noun\]
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatasrucā* ← *srucā* ← *sruc*
 - \[noun\], nominative, dual, masculine
 - “Sruc.”
-------------------------------------------------------------------------
+
+_________
+
 - *mithunā* ← *mithuna*
 - \[noun\], nominative, dual, masculine
 - “twin; couple; couple; coupling; sexual intercourse; Gemini.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyataḥ* ← *sapary*
 - \[verb\], dual, Present indikative
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *asaṃyatto* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *asaṃyatto* ← *saṃyattaḥ* ← *saṃyat* ← *√yat*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *vrate* ← *vrata*
 - \[noun\], locative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣeti* ← *kṣi*
 - \[verb\], singular, Present indikative
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣyati* ← *puṣ*
 - \[verb\], singular, Present indikative
 - “boom; grow; promote; foster.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadra*
 - \[noun\], nominative, singular, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaktir* ← *śaktiḥ* ← *śakti*
 - \[noun\], nominative, singular, feminine
 - “spear; ability; Shakti; potency; power; capacity; śakti \[word\];
     potency; capability; reproduction.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamānāya* ← *yaj*
 - \[verb noun\], dative, singular
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

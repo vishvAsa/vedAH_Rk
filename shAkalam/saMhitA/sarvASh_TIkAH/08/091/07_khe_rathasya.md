@@ -88,51 +88,73 @@ sū́ryatvacam ← sū́ryatvac- (nominal stem)
 - \[noun\], locative, singular, neuter
 - “sky; abhra; orifice; ākāśa; hub; aperture; air; hollow; cavity;
     air.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathasya* ← *ratha*
 - \[noun\], genitive, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *khe* ← *kha*
 - \[noun\], locative, singular, neuter
 - “sky; abhra; orifice; ākāśa; hub; aperture; air; hollow; cavity;
     air.”
-------------------------------------------------------------------------
+
+_________
+
 - *'nasaḥ* ← *anasaḥ* ← *anas*
 - \[noun\], genitive, singular, neuter
 - “cart; anas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *khe* ← *kha*
 - \[noun\], locative, singular, neuter
 - “sky; abhra; orifice; ākāśa; hub; aperture; air; hollow; cavity;
     air.”
-------------------------------------------------------------------------
+
+_________
+
 - *yugasya* ← *yuga*
 - \[noun\], genitive, singular, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *apālām* ← *apālā*
 - \[noun\], accusative, singular, feminine
 - “Apālā.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *triṣ* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūtvy* ← *pūtvī* ← *pū*
 - \[verb noun\]
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇoḥ* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -143,16 +165,22 @@ sū́ryatvacam ← sū́ryatvac- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryatvacam* ← *sūrya*
 - \[noun\], masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryatvacam* ← *tvacam* ← *tvac*
 - \[noun\], accusative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

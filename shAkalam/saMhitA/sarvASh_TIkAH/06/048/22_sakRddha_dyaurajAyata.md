@@ -96,78 +96,110 @@ tát ← sá- ~ tá- (pronoun)
 -   *sakṛddha* ← *sakṛt*
 - \[adverb\]
 - “once; immediately; sakṛt \[word\]; abruptly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakṛddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāyata* ← *jan*
 - \[verb\], singular, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakṛd* ← *sakṛt*
 - \[adverb\]
 - “once; immediately; sakṛt \[word\]; abruptly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmir* ← *bhūmiḥ* ← *bhūmi*
 - \[noun\], nominative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāyata* ← *jan*
 - \[verb\], singular, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśnyā* ← *pṛśnyāḥ* ← *pṛśni*
 - \[noun\], genitive, singular, feminine
 - “Pṛśni; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *dugdhaṃ* ← *dugdham* ← *duh*
 - \[verb noun\], nominative, singular
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakṛt*
 - \[adverb\]
 - “once; immediately; sakṛt \[word\]; abruptly.”
-------------------------------------------------------------------------
+
+_________
+
 - *payas* ← *payaḥ* ← *payas*
 - \[noun\], nominative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyo* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *nānu* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyate* ← *jan*
 - \[verb\], singular, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

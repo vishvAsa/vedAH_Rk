@@ -90,17 +90,25 @@ yáḥ ← yá- (pronoun)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vyatīṃr* ← *vyati*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aphāṇayat* ← *phāṇay* ← *√phaṇ*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *suyuktāṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suyuktāṃ* ← *yuktāṃ* ← *yuj*
 - \[verb noun\], accusative, plural
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -108,44 +116,64 @@ yáḥ ← yá- (pronoun)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *takvo* ← *takvaḥ* ← *takva*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *netā* ← *netṛ*
 - \[noun\], nominative, singular, masculine
 - “leader; Vitex negundo.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapur* ← *vapuḥ* ← *vapus*
 - \[noun\], nominative, singular, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
-------------------------------------------------------------------------
+
+_________
+
 - *upamā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *amucyata* ← *muc*
 - \[verb\], singular, Imperfect
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -153,7 +181,9 @@ yáḥ ← yá- (pronoun)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

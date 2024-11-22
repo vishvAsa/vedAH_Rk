@@ -76,48 +76,68 @@ bhava ← √bhū- (root)
 -   *svādo* ← *svādu*
 - \[noun\], vocative, singular, masculine
 - “Madhura; sweet; sweet; dainty; agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *pito* ← *pitaḥ* ← *pitṛ*
 - \[noun\], vocative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *madho* ← *madhu*
 - \[noun\], vocative, singular, masculine
 - “sweet; deft.”
-------------------------------------------------------------------------
+
+_________
+
 - *pito* ← *pitaḥ* ← *pitṛ*
 - \[noun\], vocative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavṛmahe* ← *vṛ*
 - \[verb\], plural, Perfect indicative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *avitā* ← *av*
 - \[verb\], singular, periphrast. future
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

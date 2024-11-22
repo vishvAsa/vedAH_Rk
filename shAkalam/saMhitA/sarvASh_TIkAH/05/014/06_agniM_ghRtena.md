@@ -69,35 +69,51 @@ vacasyúbhiḥ ← vacasyú- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhu* ← *vṛdh*
 - \[verb\], plural, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomebhir* ← *stomebhiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvacarṣaṇim* ← *viśvacarṣaṇi*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *svādhībhir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādhībhir* ← *ādhībhiḥ* ← *ādhī*
 - \[noun\], instrumental, plural, feminine
 - “longing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vacasyubhiḥ* ← *vacasyu*
 - \[noun\], instrumental, plural, feminine
 - “eloquent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

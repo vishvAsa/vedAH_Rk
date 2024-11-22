@@ -102,74 +102,110 @@ páyasā ← páyas- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], nominative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandrayuvo* ← *mandrayuvaḥ* ← *mandrayu*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vipanyuvaḥ* ← *vipanyu*
 - \[noun\], nominative, plural, feminine
 - “admiring; laudatory.”
-------------------------------------------------------------------------
+
+_________
+
 - *panasyuvaḥ* ← *panasyu*
 - \[noun\], nominative, plural, feminine
 - “brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvasaneṣv* ← *saṃvasaneṣu* ← *saṃvasana*
 - \[noun\], locative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *akramuḥ* ← *kram*
 - \[verb\], plural, Root aorist (Ind.)
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣā* ← *manīṣāḥ* ← *manīṣā*
 - \[noun\], nominative, plural, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *stubho* ← *stubhaḥ* ← *stubh*
 - \[noun\], nominative, plural, feminine
 - “song; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *'bhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *payasem* ← *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *payasem* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *aśiśrayuḥ* ← *śri*
 - \[verb\], plural, Plusquamperfect
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

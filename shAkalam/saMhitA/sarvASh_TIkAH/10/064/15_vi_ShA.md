@@ -99,77 +99,111 @@ matíbhiḥ ← matí- (nominal stem)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣā* ← *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotrā*
 - \[noun\], nominative, singular, feminine
 - “hotrā \[word\]; Hautra.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnoti* ← *aś*
 - \[verb\], singular, Present indikative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *vāryam* ← *vārya*
 - \[noun\], accusative, singular, neuter
 - “precious; valuable.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *aramatiḥ* ← *aramati*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *panīyasī* ← *panīyas*
 - \[noun\], nominative, singular, feminine
 - “admirable.”
-------------------------------------------------------------------------
+
+_________
+
 - *grāvā* ← *grāvan*
 - \[noun\], nominative, singular, masculine
 - “stone; millstone; grindstone; mountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *madhuṣud* ← *madhuṣut*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ucyate* ← *vac*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *avīvaśanta* ← *vāś*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “bellow; howl; sing; moo; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *matibhir* ← *matibhiḥ* ← *mati*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣiṇaḥ* ← *manīṣin*
 - \[noun\], nominative, plural, masculine
 - “sage; expert; devout.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,37 +73,55 @@ múhur ← múhur (invariable)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyam* ← *martya*
 - \[noun\], accusative, singular, masculine
 - “mortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *āstrabudhnāya* ← *āstrabudhna*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *venyam* ← *venya*
 - \[noun\], accusative, singular, masculine
 - “Venya.”
-------------------------------------------------------------------------
+
+_________
+
 - *muhuḥ* ← *muhur*
 - \[adverb\]
 - “again; repeatedly; continually.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrathnā* ← *śrathnāḥ* ← *śrath*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *manasyave* ← *manasyu*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

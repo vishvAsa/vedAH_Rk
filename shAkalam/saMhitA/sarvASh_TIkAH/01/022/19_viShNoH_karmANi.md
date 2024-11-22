@@ -73,7 +73,9 @@ yújyaḥ ← yújya- (nominal stem)
 -   *viṣṇoḥ* ← *viṣṇu*
 - \[noun\], genitive, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *karmāṇi* ← *karman*
 - \[noun\], accusative, plural, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -81,39 +83,55 @@ yújyaḥ ← yújya- (nominal stem)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśyata* ← *paś*
 - \[verb\], plural, Present imperative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *yato* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratāni* ← *vrata*
 - \[noun\], accusative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *paspaśe* ← *paś*
 - \[verb\], singular, Perfect indicative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujyaḥ* ← *yujya*
 - \[noun\], nominative, singular, masculine
 - “adequate to(p); appropriate; united; allied.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhā* ← *sakhi*
 - \[noun\], nominative, singular
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

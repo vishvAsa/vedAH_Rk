@@ -82,49 +82,73 @@ yát ← yá- (pronoun)
 -   *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *agruvo* ← *agruvaḥ* ← *agrū*
 - \[noun\], nominative, plural, feminine
 - “unmarried woman; spinster; virgin.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vye* ← *avye* ← *avya*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *jīrāv* ← *jīrau* ← *jīri*
 - \[noun\], locative, singular, masculine
 - “river.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣvaṇi* ← *svani* ← *svan*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rebho* ← *rebhaḥ* ← *rebha*
 - \[noun\], nominative, singular, masculine
 - “bard; eulogist.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajyase* ← *añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *vane* ← *vana*
 - \[noun\], locative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

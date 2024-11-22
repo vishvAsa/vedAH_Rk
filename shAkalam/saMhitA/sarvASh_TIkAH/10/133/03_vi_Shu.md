@@ -132,106 +132,156 @@ jyākā́ḥ ← jyāká- (nominal stem)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], nominative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *arātayo* ← *arātayaḥ* ← *arāti*
 - \[noun\], nominative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *naśanta* ← *naś*
 - \[verb\], plural, Present injunctive
 - “reach; achieve; enter (a state); reach.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyaḥ* ← *dhī*
 - \[noun\], nominative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *astāsi* ← *as*
 - \[verb\], singular, periphrast. future
 - “shoot; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatrave* ← *śatru*
 - \[noun\], dative, singular, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhaṃ* ← *vadham* ← *vadha*
 - \[noun\], accusative, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *jighāṃsati* ← *jighāṃs* ← *√han*
 - \[verb\], singular, Present indikative
 - “kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātir* ← *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadir* ← *dadiḥ* ← *dadi*
 - \[noun\], nominative, singular, feminine
 - “giving; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhantām* ← *nabh*
 - \[verb\], plural, Present imperative
 - “burst.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyakeṣāṃ* ← *anyakeṣām* ← *anyaka*
 - \[noun\], genitive, plural, masculine
 - “other; another(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *jyākā* ← *jyākāḥ* ← *jyākā*
 - \[noun\], nominative, plural, feminine
 - “bowstring.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvasu* ← *dhanvan*
 - \[noun\], locative, plural, neuter
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

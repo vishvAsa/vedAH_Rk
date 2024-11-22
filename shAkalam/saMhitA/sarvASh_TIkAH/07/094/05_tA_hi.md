@@ -75,39 +75,57 @@ vā́jasātaye ← vā́jasāti- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvanta* ← *śaśvantaḥ* ← *śaśvat*
 - \[noun\], nominative, plural, masculine
 - “all(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *īﾱata* ← *īḍata* ← *īḍ*
 - \[verb\], plural, Present injunctive
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *itthā*
 - \[adverb\]
 - “thus; here.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprāsa* ← *viprāsaḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sabādho* ← *sabādhaḥ* ← *sabādh*
 - \[noun\], nominative, plural, masculine
 - “pressing; clamant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasātaye* ← *vājasāti*
 - \[noun\], dative, singular, feminine
 - “victory; battle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

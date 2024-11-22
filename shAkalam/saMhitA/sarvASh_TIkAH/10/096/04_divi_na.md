@@ -105,86 +105,126 @@ sahásraśokāḥ ← sahásraśoka- (nominal stem)
 -   *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ketur* ← *ketuḥ* ← *ketu*
 - \[noun\], nominative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryato* ← *haryataḥ* ← *haryata*
 - \[noun\], nominative, singular, masculine
 - “desirable; delightful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivyacad* ← *vivyacat* ← *vyac*
 - \[verb\], singular, Plusquamperfect
-------------------------------------------------------------------------
+
+_________
+
 - *vajro* ← *vajraḥ* ← *vajra*
 - \[noun\], nominative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *harito* ← *haritaḥ* ← *harita*
 - \[noun\], nominative, singular, masculine
 - “green; yellow; fresh; harita \[word\]; green.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *raṃhyā* ← *raṃhi*
 - \[noun\], instrumental, singular, feminine
 - “speed.”
-------------------------------------------------------------------------
+
+_________
+
 - *tudad* ← *tudat* ← *tud*
 - \[verb\], singular, Present injunctive
 - “push; ache.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahiṃ* ← *ahim* ← *ahi*
 - \[noun\], accusative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 - *hariśipro* ← *hari*
 - \[noun\]
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *hariśipro* ← *śipraḥ* ← *śiprā*
 - \[noun\], nominative, singular, masculine
 - “lip; śiprā.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āyasaḥ* ← *āyasa*
 - \[noun\], nominative, singular, masculine
 - “iron; metallic.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasraśokā* ← *sahasraśokāḥ* ← *sahasraśokas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhavaddharimbharaḥ* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhavaddharimbharaḥ* ← *harimbharaḥ* ← *harimbhara*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

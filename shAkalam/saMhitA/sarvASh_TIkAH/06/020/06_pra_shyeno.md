@@ -111,83 +111,123 @@ svastí ← svastí- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *madiram* ← *madira*
 - \[noun\], accusative, singular, masculine
 - “intoxicant.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃśum* ← *aṃśu*
 - \[noun\], accusative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiro* ← *śiraḥ* ← *śiras*
 - \[noun\], accusative, singular, neuter
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsasya* ← *dāsa*
 - \[noun\], genitive, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
-------------------------------------------------------------------------
+
+_________
+
 - *namucer* ← *namuceḥ* ← *namuci*
 - \[noun\], genitive, singular, masculine
 - “Namuci; namuci \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mathāyan* ← *mathāy* ← *√math*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *prāvan* ← *prāvat* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
-------------------------------------------------------------------------
+
+_________
+
 - *namīṃ* ← *namīm* ← *nami*
 - \[noun\], accusative, singular, masculine
 - “Nami.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāpyaṃ* ← *sāpyam* ← *sāpya*
 - \[noun\], accusative, singular, masculine
 - “Nami.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasantam* ← *sas*
 - \[verb noun\], accusative, singular
 - “sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇag* ← *pṛṇak* ← *pṛc*
 - \[verb\], singular, Present injunctive
 - “mix; unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣā* ← *iṣ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasti*
 - \[noun\], accusative, singular, neuter
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

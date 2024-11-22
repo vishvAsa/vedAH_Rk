@@ -70,36 +70,52 @@ pr̥ñcatī́ḥ ← √pr̥c- (root)
 -   *ambayo* ← *ambayaḥ* ← *ambi*
 - \[noun\], nominative, plural, feminine
 - “mother.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanty* ← *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvabhir* ← *adhvabhiḥ* ← *adhvan*
 - \[noun\], instrumental, plural, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāmayo* ← *jāmayaḥ* ← *jāmi*
 - \[noun\], nominative, plural, feminine
 - “sister; woman; daughter-in-law.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvarīyatām* ← *adhvarīy*
 - \[verb noun\], genitive, plural
 - “sacrifice.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛñcatīr* ← *pṛñcatīḥ* ← *pṛc*
 - \[verb noun\], nominative, plural
 - “mix; unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhunā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

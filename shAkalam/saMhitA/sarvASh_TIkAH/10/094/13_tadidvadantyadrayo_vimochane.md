@@ -110,81 +110,121 @@ sómam ← sóma- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadanty* ← *vadanti* ← *vad*
 - \[verb\], plural, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrayo* ← *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *vimocane* ← *vimocana*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *yāmann* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjaspā* ← *añjaspāḥ* ← *añjaspā*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghed* ← *gha*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ghed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *upabdibhiḥ* ← *upabdi*
 - \[noun\], instrumental, plural, masculine
 - “trample.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapanto* ← *vapantaḥ* ← *vap*
 - \[verb noun\], nominative, plural
 - “sow; bestrew; strew; scatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *bījam* ← *bīja*
 - \[noun\], accusative, singular, neuter
 - “bīja; seed; semen; bīja; beginning; menorrhea; bīja \[word\];
     footing; cause; origin; method; bead.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhānyākṛtaḥ* ← *dhānyākṛt*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pṛñcanti* ← *pṛc*
 - \[verb\], plural, Present indikative
 - “mix; unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *minanti* ← *mī*
 - \[verb\], plural, Present indikative
 - “transgress; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *bapsataḥ* ← *bhas*
 - \[verb noun\], nominative, plural
 - “chew; snatch.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

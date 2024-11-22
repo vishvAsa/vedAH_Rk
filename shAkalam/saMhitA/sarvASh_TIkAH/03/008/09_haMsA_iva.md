@@ -102,74 +102,108 @@ yanti ← √i- 1 (root)
 -   *haṃsā* ← *haṃsāḥ* ← *haṃsa*
 - \[noun\], nominative, plural, masculine
 - “goose; Vishnu; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śreṇiśo* ← *śreṇiśas*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *yatānāḥ* ← *yat*
 - \[verb noun\], nominative, plural
 - “strive; endeavor; join; equal; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukrā* ← *śukra*
 - \[noun\], accusative, plural, neuter
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasānāḥ* ← *vas*
 - \[verb noun\], nominative, plural
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaravo* ← *svaravaḥ* ← *svaru*
 - \[noun\], nominative, plural, masculine
 - “post.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *āguḥ* ← *āgā* ← *√gā*
 - \[verb\], plural, Root aorist (Ind.)
 - “come; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *unnīyamānāḥ* ← *unnī* ← *√nī*
 - \[verb noun\], nominative, plural
 - “detect; describe; deduce.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavibhiḥ* ← *kavi*
 - \[noun\], instrumental, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *purastād* ← *purastāt*
 - \[adverb\]
 - “ahead; eastward; earlier; above; above.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāthaḥ* ← *pāthas*
 - \[noun\], accusative, singular, neuter
 - “pāthas \[word\]; water; place.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

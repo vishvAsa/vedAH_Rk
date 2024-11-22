@@ -102,81 +102,117 @@ víśvāḥ ← víśva- (nominal stem)
 -   *apām* ← *ap*
 - \[noun\], genitive, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *atiṣṭhad* ← *atiṣṭhat* ← *sthā*
 - \[verb\], singular, Imperfect
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharuṇahvaraṃ* ← *dharuṇahvaram* ← *dharuṇahvara*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *tamo* ← *tamaḥ* ← *tamas*
 - \[noun\], nominative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ntar* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrasya* ← *vṛtra*
 - \[noun\], genitive, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṭhareṣu* ← *jaṭhara*
 - \[noun\], locative, plural, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvataḥ* ← *parvata*
 - \[noun\], nominative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīm* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīm* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], accusative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *vavriṇā* ← *vavri*
 - \[noun\], instrumental, singular, masculine
 - “covering; lurking place.”
-------------------------------------------------------------------------
+
+_________
+
 - *hitā* ← *hitāḥ* ← *dhā*
 - \[verb noun\], accusative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *anuṣṭhāḥ* ← *anuṣṭhā*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *pravaṇeṣu* ← *pravaṇa*
 - \[noun\], locative, plural, masculine
 - “torrent.”
-------------------------------------------------------------------------
+
+_________
+
 - *jighnate* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

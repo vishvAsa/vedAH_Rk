@@ -108,56 +108,84 @@ vrā́dhataḥ ← √vrādh- (root)
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptahā* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *nahuṣo* ← *nahuṣaḥ* ← *nahus*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nahuṣṭaraḥ* ← *nahuṣṭara*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *prāśrāvayaṃ* ← *prāśrāvayam* ← *praśrāvay* ← *√śru*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *turvaśaṃ* ← *turvaśam* ← *turvaśa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yadum* ← *yadu*
 - \[noun\], accusative, singular, masculine
 - “Yadu; Yadu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyaṃ* ← *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahas* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *karaṃ* ← *karam* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -168,26 +196,38 @@ vrā́dhataḥ ← √vrādh- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrādhato* ← *vrādhataḥ* ← *vrādh*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *navatiṃ* ← *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣayam* ← *vakṣay* ← *√vakṣ*
 - \[verb\], singular, Present injunctive
 - “strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

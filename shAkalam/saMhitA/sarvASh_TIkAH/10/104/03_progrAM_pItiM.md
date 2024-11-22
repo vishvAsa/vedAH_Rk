@@ -102,81 +102,117 @@ víśvābhiḥ ← víśva- (nominal stem)
 -   *progrām* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *progrām* ← *ugrām* ← *ugra*
 - \[noun\], accusative, singular, feminine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *pītiṃ* ← *pītim* ← *pīti*
 - \[noun\], accusative, singular, feminine
 - “drinking; haritāla.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇa* ← *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyarmi* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyām* ← *satya*
 - \[noun\], accusative, singular, feminine
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayai* ← *prayā* ← *√yā*
 - \[verb noun\]
 - “go; depart; travel; enter (a state); repair to; advance; elapse;
     leave; drive; walk; disappear; die; heal.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasya* ← *suta*
 - \[noun\], genitive, singular, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryaśva*
 - \[noun\], vocative, singular, masculine
 - “Indra; Haryaśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenābhir* ← *dhenābhiḥ* ← *dhenā*
 - \[noun\], instrumental, plural, feminine
 - “river; lip; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādayasva* ← *māday* ← *√mad*
 - \[verb\], singular, Present imperative
 - “delight; enjoy; intoxicate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhībhir* ← *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvābhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *śacyā* ← *śacī*
 - \[noun\], instrumental, singular, feminine
 - “Śacī; power; dexterity; ability; aid.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

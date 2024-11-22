@@ -102,78 +102,116 @@ sahásraiḥ ← sahásra- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *smāsya* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *smāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *panayanti* ← *panay* ← *√pan*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *janā* ← *janāḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *jūtiṃ* ← *jūtim* ← *jūti*
 - \[noun\], accusative, singular, feminine
 - “jūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭipro* ← *kṛṣṭi*
 - \[noun\], feminine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭipro* ← *praḥ* ← *prā*
 - \[noun\], genitive, singular, masculine
 - “appreciated.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhibhūtim* ← *abhibhūti*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *āśoḥ* ← *āśu*
 - \[noun\], genitive, singular, masculine
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *utainam* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *utainam* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
-------------------------------------------------------------------------
+
+_________
+
 - *samithe* ← *samitha*
 - \[noun\], locative, singular, neuter
 - “battle; conflict.”
-------------------------------------------------------------------------
+
+_________
+
 - *viyantaḥ* ← *vī* ← *√i*
 - \[verb noun\], nominative, plural
 - “disappear; differ; elapse.”
-------------------------------------------------------------------------
+
+_________
+
 - *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhikrā* ← *dadhikrāḥ* ← *dadhikrā*
 - \[noun\], nominative, singular, masculine
 - “Dadhikrā.”
-------------------------------------------------------------------------
+
+_________
+
 - *asarat* ← *sṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “sṛ; liquefy; run; spread; stretch out.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasraiḥ* ← *sahasra*
 - \[noun\], instrumental, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -94,69 +94,101 @@ spárase ← √spr̥- (root)
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṇo* ← *vāṇaḥ* ← *vāṇa*
 - \[noun\], nominative, singular, masculine
 - “music.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajyate* ← *añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *sobharīṇāṃ* ← *sobharīṇām* ← *sobhari*
 - \[noun\], genitive, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *kośe* ← *kośa*
 - \[noun\], locative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyaye* ← *hiraṇyaya*
 - \[noun\], locative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gobandhavaḥ* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *gobandhavaḥ* ← *bandhavaḥ* ← *bandhu*
 - \[noun\], nominative, plural, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujātāsa* ← *sujātāsaḥ* ← *sujāta*
 - \[noun\], nominative, plural, masculine
 - “noble; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣe* ← *iṣ*
 - \[noun\], dative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuje* ← *bhuj*
 - \[verb noun\]
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahānto* ← *mahāntaḥ* ← *mahat*
 - \[noun\], nominative, plural, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sparase* ← *spṛ*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

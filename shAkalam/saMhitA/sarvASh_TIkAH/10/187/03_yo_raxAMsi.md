@@ -79,50 +79,72 @@ sá ← sá- ~ tá- (pronoun)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣāṃsi* ← *rakṣas*
 - \[noun\], accusative, plural, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nijūrvati* ← *nijūrv* ← *√jūrv*
 - \[verb\], singular, Present indikative
 - “burn.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣa*
 - \[noun\], vocative, dual, masculine
 - “bull; vṛṣa \[word\]; vṛṣ; Justicia gendarussa Burm.F.; bull;
     Taurus; bull.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukreṇa* ← *śukra*
 - \[noun\], instrumental, singular, neuter
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *parṣad* ← *parṣat* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, masculine
 - “hostile; hating.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

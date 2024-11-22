@@ -75,42 +75,60 @@ vípreṇa ← vípra- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnena* ← *pratna*
 - \[noun\], instrumental, singular, neuter
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *manmanā* ← *manman*
 - \[noun\], instrumental, singular, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *śumbhānas* ← *śumbhānaḥ* ← *śubh*
 - \[verb noun\], nominative, singular
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *svām* ← *sva*
 - \[noun\], accusative, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipreṇa* ← *vipra*
 - \[noun\], instrumental, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhe* ← *vṛdh*
 - \[verb\], singular, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -133,113 +133,167 @@ ráthe ← rátha- (nominal stem)
 -   *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomebhir* ← *stomebhiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devayanto* ← *devayantaḥ* ← *devay*
 - \[verb noun\], nominative, plural
 - “solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvināśrāvayanta* ← *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvināśrāvayanta* ← *aśrāvayanta* ← *śrāvay* ← *√śru*
 - \[verb\], plural, Imperfect
 - “tell.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ślokam* ← *śloka*
 - \[noun\], accusative, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyavo* ← *āyavaḥ* ← *āyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyābhy* ← *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *havyābhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyavaḥ* ← *āyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], nominative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *śriyaḥ* ← *śrī*
 - \[noun\], nominative, plural, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛkṣaś* ← *pṛkṣaḥ* ← *pṛkṣ*
 - \[noun\], nominative, plural, feminine
 - “food; refreshment; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedasā* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedasā* ← *vedasā* ← *vedas*
 - \[noun\], vocative, dual, masculine
 - “knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *pruṣāyante* ← *pruṣāy* ← *√pruṣ*
 - \[verb\], plural, Present indikative
 - “sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavayo* ← *pavayaḥ* ← *pavi*
 - \[noun\], nominative, plural, masculine
 - “vajra; tire; rim.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyaye* ← *hiraṇyaya*
 - \[noun\], locative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyaye* ← *hiraṇyaya*
 - \[noun\], locative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

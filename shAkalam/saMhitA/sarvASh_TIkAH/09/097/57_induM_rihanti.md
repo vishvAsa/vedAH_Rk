@@ -103,77 +103,111 @@ sám ← sám (invariable)
 - \[noun\], accusative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *rihanti* ← *rih*
 - \[verb\], plural, Present indikative
 - “lick.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahiṣā* ← *mahiṣāḥ* ← *mahiṣa*
 - \[noun\], nominative, plural, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *adabdhāḥ* ← *adabdha*
 - \[noun\], nominative, plural, masculine
 - “unfailing; unimpaired.”
-------------------------------------------------------------------------
+
+_________
+
 - *pade* ← *pada*
 - \[noun\], locative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
-------------------------------------------------------------------------
+
+_________
+
 - *rebhanti* ← *ribh*
 - \[verb\], plural, Present indikative
 - “moo; murmur; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavayo* ← *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛdhrāḥ* ← *gṛdhra*
 - \[noun\], nominative, plural, masculine
 - “vulture.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinvanti* ← *hi*
 - \[verb\], plural, Present indikative
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīrā* ← *dhīrāḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśabhiḥ* ← *daśan*
 - \[noun\], instrumental, plural, feminine
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣipābhiḥ* ← *kṣipā*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjate* ← *añj*
 - \[verb\], plural, Present indikative
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *rasena* ← *rasa*
 - \[noun\], instrumental, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
@@ -181,7 +215,9 @@ sám ← sám (invariable)
     body substance; rasa; formulation; myrrh; rasa \[word\]; amṛta;
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

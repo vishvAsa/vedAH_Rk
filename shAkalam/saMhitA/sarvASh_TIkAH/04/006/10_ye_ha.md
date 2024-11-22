@@ -102,80 +102,116 @@ tuviṣvaṇásaḥ ← tuviṣvaṇás- (nominal stem)
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahamānā* ← *sahamānāḥ* ← *sah*
 - \[verb noun\], nominative, plural
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayāsas* ← *ayāsaḥ* ← *ayās*
 - \[noun\], nominative, plural, masculine
 - “undaunted; irrepressible; audacious.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣāso* ← *tveṣāsaḥ* ← *tveṣa*
 - \[noun\], nominative, plural, masculine
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcayaś* ← *arcayaḥ* ← *arci*
 - \[noun\], nominative, plural, masculine
 - “flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyenāso* ← *śyenāsaḥ* ← *śyena*
 - \[noun\], nominative, plural, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *duvasanāso* ← *duvasanāsaḥ* ← *duvasana*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *arthaṃ* ← *artham* ← *artha*
 - \[noun\], accusative, singular, masculine
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
     topic; property; situation; reason; affair; concern; reason;
     enterprise; reason; cause; five; application; application.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuviṣvaṇaso* ← *tuviṣvaṇasaḥ* ← *tuviṣvaṇas*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], nominative, singular, neuter
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhaḥ* ← *śardhas*
 - \[noun\], nominative, singular, neuter
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

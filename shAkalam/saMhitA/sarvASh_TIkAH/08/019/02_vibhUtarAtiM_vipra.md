@@ -89,68 +89,100 @@ pū́rvyam ← pū́rvya- (nominal stem)
 
 -   *vibhūtarātiṃ* ← *vibhūta*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *vibhūtarātiṃ* ← *rātim* ← *rāti*
 - \[noun\], accusative, singular, masculine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipra*
 - \[noun\], vocative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *citraśociṣam* ← *citra*
 - \[noun\]
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *citraśociṣam* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *īﾱiṣva* ← *īḍiṣva* ← *īḍ*
 - \[verb\], singular, Present imperative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanturam* ← *yantur*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhasya* ← *medha*
 - \[noun\], genitive, singular, masculine
 - “yajña; juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *somyasya* ← *somya*
 - \[noun\], genitive, singular, masculine
 - “saumya.”
-------------------------------------------------------------------------
+
+_________
+
 - *sobhare* ← *sobhari*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *prem* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prem* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *adhvarāya* ← *adhvara*
 - \[noun\], dative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

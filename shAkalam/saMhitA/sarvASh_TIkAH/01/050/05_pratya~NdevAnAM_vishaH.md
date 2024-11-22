@@ -79,51 +79,73 @@ víśvam ← víśva- (nominal stem)
 -   *pratyaṅ* ← *pratyañc*
 - \[noun\], nominative, singular, masculine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratyaṅṅ* ← *pratyaṅ* ← *pratyañc*
 - \[noun\], nominative, singular, masculine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣān* ← *mānuṣa*
 - \[noun\], accusative, plural, masculine
 - “man; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratyaṅ* ← *pratyañc*
 - \[noun\], nominative, singular, masculine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛśe* ← *dṛś*
 - \[verb noun\]
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

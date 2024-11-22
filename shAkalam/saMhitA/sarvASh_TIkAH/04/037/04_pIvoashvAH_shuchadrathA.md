@@ -96,89 +96,129 @@ vaḥ ← tvám (pronoun)
 -   *pīvoaśvāḥ* ← *pīvaḥ* ← *pīvas*
 - \[noun\]
 - “fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *pīvoaśvāḥ* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucadrathā* ← *śucat* ← *śuc*
 - \[verb noun\]
 - “mourn; grieve; flame; glow; burn; repent.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucadrathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtāyaḥśiprā* ← *bhūta* ← *bhū*
 - \[verb\], plural, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtāyaḥśiprā* ← *ayaḥ* ← *ayas*
 - \[noun\], neuter
 - “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
     weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtāyaḥśiprā* ← *śiprāḥ* ← *śiprā*
 - \[noun\], nominative, plural, masculine
 - “lip; śiprā.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinaḥ* ← *vājin*
 - \[noun\], nominative, plural, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 - *suniṣkāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suniṣkāḥ* ← *niṣkāḥ* ← *niṣka*
 - \[noun\], nominative, plural, masculine
 - “niṣka; gold; Niṣka; niṣka \[word\]; Niṣka.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūno* ← *sūnu*
 - \[noun\], vocative, singular, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavaso* ← *śavasaḥ* ← *śavas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *napāto* ← *napātaḥ* ← *napāt*
 - \[noun\], vocative, plural, masculine
 - “grandson; nephew; napāt \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *'nu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaś* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *cety* ← *ceti* ← *cit*
 - \[verb\], singular, Aorist passive
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *agriyam* ← *agriya*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

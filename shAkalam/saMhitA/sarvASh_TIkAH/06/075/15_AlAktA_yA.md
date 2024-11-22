@@ -89,68 +89,98 @@ námaḥ ← námas- (nominal stem)
 
 -   *ālāktā* ← *ālākta*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ruruśīrṣṇy* ← *ruru*
 - \[noun\], masculine
 - “Ruru; dog; Ruru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruruśīrṣṇy* ← *śīrṣṇī* ← *śīrṣan*
 - \[noun\], nominative, singular, feminine
 - “head; śīrṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *atho*
 - \[adverb\]
 - “now; but; furthermore.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasyā* ← *yasyāḥ* ← *yad*
 - \[noun\], genitive, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ayo* ← *ayaḥ* ← *ayas*
 - \[noun\], nominative, singular, neuter
 - “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
     weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *mukham* ← *mukha*
 - \[noun\], nominative, singular, neuter
 - “mouth; mouth; mukha; face; aperture; tip; beginning; etc.; mukha;
     battlefront; teaching; head; orifice; mukha \[word\]; beginning;
     mouth; expression; direction; information; surface; best; head;
     quarter; first; end.”
-------------------------------------------------------------------------
+
+_________
+
 - *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *parjanyaretasa* ← *parjanya*
 - \[noun\], masculine
 - “cloud; Parjanya; Indra; nimbus.”
-------------------------------------------------------------------------
+
+_________
+
 - *parjanyaretasa* ← *retase* ← *retas*
 - \[noun\], dative, singular, feminine
 - “semen; sperm.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣvai* ← *iṣu*
 - \[noun\], dative, singular, feminine
 - “arrow; iṣu \[word\]; iṣ; five; munj.”
-------------------------------------------------------------------------
+
+_________
+
 - *devyai* ← *deva*
 - \[noun\], dative, singular, feminine
 - “divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhan* ← *bṛhat*
 - \[noun\], nominative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -104,81 +104,117 @@ yuyotu ← √yu- 2 (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumatau* ← *sumati*
 - \[noun\], locative, singular, feminine
 - “benevolence; favor; Sumati.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyasyāpi* ← *yajñiyasya* ← *yajñiya*
 - \[noun\], genitive, singular, masculine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyasyāpi* ← *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadre* ← *bhadra*
 - \[noun\], locative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *saumanase* ← *saumanasa*
 - \[noun\], locative, singular, neuter
 - “favor; satisfaction.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutrāmā* ← *sutrāman*
 - \[noun\], nominative, singular, masculine
 - “Indra; Sutrāman.”
-------------------------------------------------------------------------
+
+_________
+
 - *svavāṃ* ← *svavat*
 - \[noun\], nominative, singular, masculine
 - “helpful.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārāc* ← *ārāt*
 - \[adverb\]
 - “far; ārāt \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanutar*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyotu* ← *yu*
 - \[verb\], singular, Present imperative
 - “keep away; separate; ward off.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

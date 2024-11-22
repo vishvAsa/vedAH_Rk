@@ -80,11 +80,15 @@ rájaḥ ← rájas- (nominal stem)
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -95,50 +99,74 @@ rájaḥ ← rájas- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhanāya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhanāya* ← *hanāya* ← *hana*
 - \[noun\], dative, singular, masculine
 - “han.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyave* ← *dasyu*
 - \[noun\], dative, singular, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *hirīmaśo* ← *hirīmaśaḥ* ← *hirīmaśa*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hirīmān* ← *hirīmat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *arutahanur* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *arutahanur* ← *ruta* ← *ru*
 - \[verb noun\]
 - “break; hurt.”
-------------------------------------------------------------------------
+
+_________
+
 - *arutahanur* ← *hanuḥ* ← *hanu*
 - \[noun\], nominative, singular, masculine
 - “jaw.”
-------------------------------------------------------------------------
+
+_________
+
 - *adbhutaṃ* ← *adbhutam* ← *adbhuta*
 - \[noun\], nominative, singular, neuter
 - “extraordinary; amazing; supernatural.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rajaḥ* ← *rajas*
 - \[noun\], nominative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -76,44 +76,64 @@ vánanvatī ← vánanvant- (nominal stem)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṇvā* ← *kaṇvāḥ* ← *kaṇva*
 - \[noun\], nominative, plural, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *anūṣatāpo* ← *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *anūṣatāpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pravatā* ← *pravat*
 - \[noun\], instrumental, singular, feminine
 - “slope; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatīḥ* ← *i*
 - \[verb noun\], nominative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vananvatī* ← *vananvat*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *matiḥ* ← *mati*
 - \[noun\], nominative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

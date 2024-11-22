@@ -72,43 +72,61 @@ varūthyàḥ ← varūthyà- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *no*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *antama* ← *antamaḥ* ← *antama*
 - \[noun\], nominative, singular, masculine
 - “intimate; bosom(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *trātā* ← *trātṛ*
 - \[noun\], nominative, singular, masculine
 - “defender; savior.”
-------------------------------------------------------------------------
+
+_________
+
 - *śivo* ← *śivaḥ* ← *śiva*
 - \[noun\], nominative, singular, masculine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavā* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *varūthyaḥ* ← *varūthya*
 - \[noun\], nominative, singular, masculine
 - “protecting.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

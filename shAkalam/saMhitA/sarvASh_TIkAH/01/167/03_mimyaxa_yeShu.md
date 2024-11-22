@@ -102,81 +102,119 @@ vidathyā̀ ← vidathyà- (nominal stem)
 -   *mimyakṣa* ← *myakṣ*
 - \[verb\], singular, Perfect indicative
 - “be situated; attach.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣu* ← *yad*
 - \[noun\], locative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhitā* ← *sudhita*
 - \[noun\], nominative, singular, feminine
 - “sudhita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtācī* ← *ghṛtāñc*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyanirṇig* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyanirṇig* ← *nirṇij*
 - \[noun\], nominative, singular, feminine
 - “attire; garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *uparā* ← *upara*
 - \[noun\], nominative, singular, feminine
 - “later(a); future(a); nether.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣṭiḥ* ← *ṛṣṭi*
 - \[noun\], nominative, singular, feminine
 - “spear.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhā*
 - \[adverb\]
 - “secretly.”
-------------------------------------------------------------------------
+
+_________
+
 - *carantī* ← *car*
 - \[verb noun\], nominative, singular
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣo* ← *manuṣaḥ* ← *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣā*
 - \[noun\], nominative, singular, feminine
 - “woman; puppet; daughter.”
-------------------------------------------------------------------------
+
+_________
+
 - *sabhāvatī* ← *sabhāvat*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vidathyeva* ← *vidathyā* ← *vidathya*
 - \[noun\], nominative, singular, feminine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāk* ← *vāc*
 - \[noun\], nominative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

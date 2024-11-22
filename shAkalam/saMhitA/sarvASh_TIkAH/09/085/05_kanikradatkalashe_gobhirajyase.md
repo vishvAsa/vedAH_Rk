@@ -102,77 +102,113 @@ soma ← sóma- (nominal stem)
 -   *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
-------------------------------------------------------------------------
+
+_________
+
 - *kalaśe* ← *kalaśa*
 - \[noun\], locative, singular, masculine
 - “jar.”
-------------------------------------------------------------------------
+
+_________
+
 - *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajyase* ← *añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyayaṃ* ← *avyayam* ← *avyaya*
 - \[noun\], accusative, singular, masculine
 - “sheep.”
-------------------------------------------------------------------------
+
+_________
+
 - *samayā*
 - \[adverb\]
 - “near.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṣasi* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *marmṛjyamāno* ← *marmṛjyamānaḥ* ← *marmṛj* ← *√mṛj*
 - \[verb noun\], nominative, singular
 - “groom; wash; rub.”
-------------------------------------------------------------------------
+
+_________
+
 - *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sānasir* ← *sānasiḥ* ← *sānasi*
 - \[noun\], nominative, singular, masculine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṭhare* ← *jaṭhara*
 - \[noun\], locative, singular, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣaraḥ* ← *kṣar*
 - \[verb\], singular, Imperfect
 - “run; melt.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

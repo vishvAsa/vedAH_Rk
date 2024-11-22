@@ -82,51 +82,75 @@ ghr̥tā́ni ← ghr̥tá- (nominal stem)
 -   *virāṭ* ← *virāj*
 - \[noun\], nominative, singular, feminine
 - “Virāj; eminence.”
-------------------------------------------------------------------------
+
+_________
+
 - *samrāḍ* ← *samrāj*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vibhvīḥ* ← *vibhu*
 - \[noun\], nominative, plural, feminine
 - “mighty; abundant; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *prabhvīr* ← *prabhvīḥ* ← *prabhu*
 - \[noun\], nominative, plural, feminine
 - “mighty; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *bahvīś* ← *bahvīḥ* ← *bahu*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūyasīś* ← *bhūyasīḥ* ← *bhūyas*
 - \[noun\], nominative, plural, feminine
 - “more(a); more(a); abounding in(p); stronger; bigger.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *duro* ← *duraḥ* ← *dvār*
 - \[noun\], nominative, plural, feminine
 - “door; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtāny* ← *ghṛtāni* ← *ghṛta*
 - \[noun\], accusative, plural, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣaran* ← *kṣar*
 - \[verb\], plural, Imperfect
 - “run; melt.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

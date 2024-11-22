@@ -73,33 +73,49 @@ sutám ← √su- (root)
 -   *atīhi* ← *atī* ← *√i*
 - \[verb\], singular, Present imperative
 - “elapse; overcome; transgress; die; fail; pierce.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyuṣāviṇaṃ* ← *manyuṣāviṇam* ← *manyuṣāvin*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *suṣuvāṃsam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *upāraṇe* ← *upāraṇa*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātaṃ* ← *rātam* ← *rā*
 - \[verb noun\], accusative, singular
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

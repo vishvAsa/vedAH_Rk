@@ -111,94 +111,138 @@ yātháḥ ← √yā- 1 (root)
 -   *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pavayo* ← *pavayaḥ* ← *pavi*
 - \[noun\], nominative, plural, masculine
 - “vajra; tire; rim.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhuvāhane* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *madhuvāhane* ← *vāhane* ← *vāhana*
 - \[noun\], locative, singular, masculine
 - “bringing; carrying.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *venām* ← *venā*
 - \[noun\], accusative, singular, feminine
 - “spoor.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśva* ← *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *viduḥ* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *traya* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *skambhāsa* ← *skambha*
 - \[noun\], nominative, plural, masculine
 - “prop.”
-------------------------------------------------------------------------
+
+_________
+
 - *skabhitāsa* ← *skabhitāsaḥ* ← *skambh*
 - \[verb noun\], nominative, plural
 - “fixate; establish.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārabhe* ← *ārabh* ← *√rabh*
 - \[verb noun\]
 - “begin; begin; undertake; do; take.”
-------------------------------------------------------------------------
+
+_________
+
 - *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naktaṃ* ← *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāthas* ← *yāthaḥ* ← *yā*
 - \[verb\], dual, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *v* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *divā* ← *div*
 - \[noun\], instrumental, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

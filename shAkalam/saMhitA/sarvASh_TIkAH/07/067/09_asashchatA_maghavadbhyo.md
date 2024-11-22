@@ -99,78 +99,114 @@ pr̥ñcántaḥ ← √pr̥c- (root)
 -   *asaścatā* ← *asaścat*
 - \[noun\], nominative, dual, masculine
 - “inexhaustible.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavadbhyo* ← *maghavadbhyaḥ* ← *maghavan*
 - \[noun\], dative, plural, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtaṃ* ← *bhūtam* ← *bhū*
 - \[verb\], dual, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghadeyaṃ* ← *magha*
 - \[noun\], masculine
 - “gift; wealth; reward; wages; reward.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghadeyaṃ* ← *deyam* ← *deya*
 - \[noun\], accusative, singular, neuter
 - “giving; gift.”
-------------------------------------------------------------------------
+
+_________
+
 - *junanti* ← *jū*
 - \[verb\], plural, Present indikative
 - “animate; encourage; impel; inspire.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bandhuṃ* ← *bandhum* ← *bandhu*
 - \[noun\], accusative, singular, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛtābhis* ← *sūnṛtābhiḥ* ← *sūnṛtā*
 - \[noun\], instrumental, plural, feminine
 - “liberality.”
-------------------------------------------------------------------------
+
+_________
+
 - *tirante* ← *tṛ*
 - \[verb\], plural, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyā* ← *gavya*
 - \[noun\], accusative, plural, neuter
 - “bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛñcanto* ← *pṛñcantaḥ* ← *pṛc*
 - \[verb noun\], nominative, plural
 - “mix; unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvyā* ← *aśvya*
 - \[noun\], accusative, plural, neuter
 - “equine.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghāni* ← *magha*
 - \[noun\], accusative, plural, neuter
 - “gift; wealth; reward; wages; reward.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

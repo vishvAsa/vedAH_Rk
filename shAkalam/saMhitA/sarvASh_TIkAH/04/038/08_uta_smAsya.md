@@ -105,76 +105,114 @@ sma ← sma (invariable)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *smāsya* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *smāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanyator* ← *tanyatoḥ* ← *tanyatu*
 - \[noun\], ablative, singular, masculine
 - “thunder.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyor* ← *dyoḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛghāyato* ← *ṛghāyataḥ* ← *ṛghāy*
 - \[verb noun\], genitive, singular
-------------------------------------------------------------------------
+
+_________
+
 - *abhiyujo* ← *abhiyujaḥ* ← *abhiyuj*
 - \[noun\], ablative, singular, feminine
 - “attack; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhayante* ← *bhī*
 - \[verb\], plural, Present indikative
 - “fear; fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadā*
 - \[adverb\]
 - “once \[when\]; if.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasram* ← *sahasra*
 - \[noun\], nominative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣīm* ← *sīm*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ayodhīd* ← *ayodhīt* ← *yudh*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *durvartuḥ* ← *durvartu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *smā* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhīma* ← *bhīmaḥ* ← *bhīma*
 - \[noun\], nominative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛñjan* ← *ṛj*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

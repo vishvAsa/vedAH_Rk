@@ -75,47 +75,67 @@ yujā́ ← yúj- (nominal stem)
 
 -   *baﾱ* ← *baṭ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtviyāya* ← *ṛtviya*
 - \[noun\], dative, singular, neuter
 - “regular; punctual; timely.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāmna* ← *dhāmnaḥ* ← *dhāman*
 - \[noun\], genitive, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛkvabhiḥ* ← *ṛkvan*
 - \[noun\], instrumental, plural, masculine
 - “singing.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *nonumaḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Present indikative
 - “bellow.”
-------------------------------------------------------------------------
+
+_________
+
 - *jeṣāmendra* ← *jeṣāma* ← *ji*
 - \[verb\], plural, Aorist conj./subj.
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *jeṣāmendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

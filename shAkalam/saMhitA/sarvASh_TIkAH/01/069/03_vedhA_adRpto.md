@@ -70,46 +70,66 @@ svā́dma ← svā́dman- (nominal stem)
 -   *vedhā* ← *vedhāḥ* ← *vedhas*
 - \[noun\], nominative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *adṛpto* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *adṛpto* ← *dṛptaḥ* ← *dṛp*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vijānann* ← *vijānan* ← *vijñā* ← *√jñā*
 - \[verb noun\], nominative, singular
 - “know; diagnose; detect; find; identify; call; understand; observe;
     name; deem; recognize; explain; know.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūdhar* ← *ūdhas*
 - \[noun\], nominative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gonāṃ* ← *gonām* ← *go*
 - \[noun\], genitive, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādmā* ← *svādman*
 - \[noun\], nominative, singular, masculine
 - “preference; sweetness.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitūnām* ← *pitu*
 - \[noun\], genitive, plural, masculine
 - “food.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

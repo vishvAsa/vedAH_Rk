@@ -107,15 +107,21 @@ vāvr̥dhuḥ ← √vr̥dh- (root)
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *maryāso* ← *maryāsaḥ* ← *marya*
 - \[noun\], nominative, plural, masculine
 - “young buck; boyfriend.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjīṃr* ← *añji*
 - \[noun\], accusative, plural, masculine
 - “color; ointment; adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇvata* ← *kṛ*
 - \[verb\], plural, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -126,76 +132,110 @@ vāvr̥dhuḥ ← √vr̥dh- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumārutaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], accusative, singular, masculine
 - “wind; vāta; Vayu; Marut; prāṇa (coll.); breath; air; fart; air.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīr* ← *pūrvīḥ* ← *pūrva*
 - \[noun\], accusative, plural, feminine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣapaḥ* ← *kṣap*
 - \[noun\], accusative, plural, feminine
 - “night.”
-------------------------------------------------------------------------
+
+_________
+
 - *divas* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *putrāsa* ← *putrāsaḥ* ← *putra*
 - \[noun\], nominative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *etā* ← *etāḥ* ← *eta*
 - \[noun\], nominative, plural, masculine
 - “eta \[word\]; antelope.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yetira* ← *yetire* ← *yat*
 - \[verb\], plural, Perfect indicative
 - “strive; endeavor; join; equal; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityāsas* ← *ādityāsaḥ* ← *āditya*
 - \[noun\], nominative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *akrā* ← *akrāḥ* ← *akra*
 - \[noun\], nominative, plural, masculine
 - “banner.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhuḥ* ← *vṛdh*
 - \[verb\], plural, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

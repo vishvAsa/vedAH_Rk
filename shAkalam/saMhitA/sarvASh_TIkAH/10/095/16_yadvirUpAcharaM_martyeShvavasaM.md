@@ -102,80 +102,116 @@ tātr̥pāṇā́ ← √tr̥p- (root)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *virūpācaram* ← *virūpā* ← *virūpa*
 - \[noun\], nominative, singular, feminine
 - “ugly; maimed; grotesque.”
-------------------------------------------------------------------------
+
+_________
+
 - *virūpācaram* ← *acaram* ← *car*
 - \[verb\], singular, Imperfect
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyeṣv* ← *martyeṣu* ← *martya*
 - \[noun\], locative, plural, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasaṃ* ← *avasam* ← *vas*
 - \[verb\], singular, Imperfect
 - “stay; dwell; get stale; be situated; exist; continue; bide.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātrīḥ* ← *rātri*
 - \[noun\], accusative, plural, feminine
 - “night; night; rātri \[word\]; turmeric; Rātri; day; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaradaś* ← *śaradaḥ* ← *śarad*
 - \[noun\], accusative, plural, feminine
 - “fall; year; śarad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *catasraḥ* ← *catur*
 - \[noun\], accusative, plural, feminine
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtasya* ← *ghṛta*
 - \[noun\], genitive, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *stokaṃ* ← *stokam* ← *stoka*
 - \[noun\], accusative, singular, masculine
 - “drop; myrrh; morsel.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakṛd* ← *sakṛt*
 - \[adverb\]
 - “once; immediately; sakṛt \[word\]; abruptly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahna* ← *ahnaḥ* ← *ahar*
 - \[noun\], genitive, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśnāṃ* ← *āśnām* ← *aś*
 - \[verb\], singular, Imperfect
 - “eat; consume; chew; feed.”
-------------------------------------------------------------------------
+
+_________
+
 - *tād* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *evedaṃ* ← *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *evedaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *tātṛpāṇā* ← *tṛp*
 - \[verb noun\], nominative, singular
 - “satiate; enjoy; delight.”
-------------------------------------------------------------------------
+
+_________
+
 - *carāmi* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

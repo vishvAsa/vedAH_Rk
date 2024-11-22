@@ -106,85 +106,125 @@ tvácam ← tvác- (nominal stem)
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātur* ← *mātuḥ* ← *mātṛ*
 - \[noun\], genitive, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhy* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *samasvarann* ← *samasvaran* ← *saṃsvar* ← *√svar*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *ṛcā* ← *ṛc*
 - \[noun\], instrumental, singular, feminine
 - “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
-------------------------------------------------------------------------
+
+_________
+
 - *śocantaḥ* ← *śuc*
 - \[verb noun\], nominative, plural
 - “mourn; grieve; flame; glow; burn; repent.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃdahanto* ← *saṃdahantaḥ* ← *saṃdah* ← *√dah*
 - \[verb noun\], nominative, plural
 - “burn; heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *avratān* ← *avrata*
 - \[noun\], accusative, plural, masculine
 - “disobedient; evil.”
-------------------------------------------------------------------------
+
+_________
+
 - *indradviṣṭām* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indradviṣṭām* ← *dviṣṭām* ← *dviṣ*
 - \[verb noun\], accusative, singular
 - “hate; dislike.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhamanti* ← *dham*
 - \[verb\], plural, Present indikative
 - “heat; blow; fan; blow; ignite; blow; inflate.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyayā* ← *māyā*
 - \[noun\], instrumental, singular, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvacam* ← *tvac*
 - \[noun\], accusative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
-------------------------------------------------------------------------
+
+_________
+
 - *asiknīm* ← *asiknī*
 - \[noun\], accusative, singular, feminine
 - “Asiknī; Vairiṇī; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmano* ← *bhūmanaḥ* ← *bhūman*
 - \[noun\], ablative, singular, masculine
 - “abundance; wealth; success; Krishna; plural.”
-------------------------------------------------------------------------
+
+_________
+
 - *divas* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -87,61 +87,89 @@ makṣú ← makṣú- (nominal stem)
 -   *kaṇvebhir* ← *kaṇvebhiḥ* ← *kaṇva*
 - \[noun\], instrumental, plural, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇav* ← *dhṛṣṇo* ← *dhṛṣṇu*
 - \[noun\], vocative, singular, masculine
 - “brave; ferocious; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣad* ← *dhṛṣat*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *darṣi* ← *dṛ*
 - \[verb\], singular, Present indikative
 - “burst; burst.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasriṇam* ← *sahasrin*
 - \[noun\], accusative, singular, masculine
 - “thousandfold.”
-------------------------------------------------------------------------
+
+_________
+
 - *piśaṅgarūpam* ← *piśaṅga*
 - \[noun\]
 - “tawny; red; brown.”
-------------------------------------------------------------------------
+
+_________
+
 - *piśaṅgarūpam* ← *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vicarṣaṇe* ← *vicarṣaṇi*
 - \[noun\], vocative, singular, masculine
 - “excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *makṣū*
 - \[adverb\]
 - “promptly; soon; quickly.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomantam* ← *gomat*
 - \[noun\], accusative, singular, masculine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -76,15 +76,21 @@ vípraḥ ← vípra- (nominal stem)
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtnur* ← *kṛtnuḥ* ← *kṛtnu*
 - \[noun\], nominative, singular, masculine
 - “adept; adroit.”
-------------------------------------------------------------------------
+
+_________
+
 - *agṛbhīto* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *agṛbhīto* ← *gṛbhītaḥ* ← *grah*
 - \[verb noun\], nominative, singular
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -92,39 +98,57 @@ vípraḥ ← vípra- (nominal stem)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvajid* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvajid* ← *jit*
 - \[noun\], nominative, singular, masculine
 - “curative; removing; victorious; winning.”
-------------------------------------------------------------------------
+
+_________
+
 - *udbhid*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣir* ← *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “eloquent; stimulated; divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāvyena* ← *kāvya*
 - \[noun\], instrumental, singular, neuter
 - “Uśanas; poem; Kāvya; wisdom.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

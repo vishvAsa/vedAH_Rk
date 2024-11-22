@@ -112,88 +112,130 @@ vagnúḥ ← vagnú- (nominal stem)
 - \[noun\], nominative, plural, feminine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *āyan* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛtiṃ* ← *dṛtim* ← *dṛti*
 - \[noun\], accusative, singular, masculine
 - “hose; dṛti \[word\]; hide; bladder.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣkaṃ* ← *śuṣkam* ← *śuṣka*
 - \[noun\], accusative, singular, masculine
 - “dried; dry; dried-up; śuṣka \[word\]; baseless; arid.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasī* ← *sarasi* ← *saras*
 - \[noun\], locative, singular, neuter
 - “lake; saras \[word\]; pond.”
-------------------------------------------------------------------------
+
+_________
+
 - *śayānam* ← *śī*
 - \[verb noun\], accusative, singular
 - “lie; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *māyur* ← *māyuḥ* ← *māyu*
 - \[noun\], nominative, singular, masculine
 - “moo; boom.”
-------------------------------------------------------------------------
+
+_________
+
 - *vatsinīnām* ← *vatsin*
 - \[noun\], genitive, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *maṇḍūkānāṃ* ← *maṇḍūkānām* ← *maṇḍūka*
 - \[noun\], genitive, plural, masculine
 - “frog; maṇḍūkamūṣā; maṇḍūka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vagnur* ← *vagnuḥ* ← *vagnu*
 - \[noun\], nominative, singular, masculine
 - “cry.”
-------------------------------------------------------------------------
+
+_________
+
 - *atrā* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

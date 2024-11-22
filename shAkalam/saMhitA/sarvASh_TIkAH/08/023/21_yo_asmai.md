@@ -82,57 +82,83 @@ yáśaḥ ← yáśas- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyadātibhir* ← *havya*
 - \[noun\], neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *havyadātibhir* ← *dātibhiḥ* ← *dāti*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *āhutim* ← *āhuti*
 - \[noun\], accusative, singular, feminine
 - “āhuti; offering.”
-------------------------------------------------------------------------
+
+_________
+
 - *marto* ← *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vidhat* ← *avidhat* ← *vidh*
 - \[verb\], singular, Imperfect
 - “worship; offer.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūri*
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *poṣaṃ* ← *poṣam* ← *poṣa*
 - \[noun\], accusative, singular, masculine
 - “prosperity; poṣa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhatte* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīravad* ← *vīravat*
 - \[noun\], accusative, singular, neuter
 - “rich in men.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaśaḥ* ← *yaśas*
 - \[noun\], accusative, singular, neuter
 - “fame; Yaśas.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

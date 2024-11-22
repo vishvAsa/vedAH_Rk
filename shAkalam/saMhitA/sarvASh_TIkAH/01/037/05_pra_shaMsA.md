@@ -79,40 +79,58 @@ vāvr̥dhe ← √vr̥dh- (root)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsā* ← *śaṃs*
 - \[verb\], singular, Present imperative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *goṣv* ← *goṣu* ← *go*
 - \[noun\], locative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghnyaṃ* ← *aghnyam* ← *aghnya*
 - \[noun\], accusative, singular, masculine
 - “bull.”
-------------------------------------------------------------------------
+
+_________
+
 - *krīḍaṃ* ← *krīḍam* ← *krīḍa*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *yacchardho* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], nominative, singular, neuter
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *mārutam* ← *māruta*
 - \[noun\], nominative, singular, neuter
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *jambhe* ← *jambha*
 - \[noun\], locative, singular, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
-------------------------------------------------------------------------
+
+_________
+
 - *rasasya* ← *rasa*
 - \[noun\], genitive, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
@@ -120,12 +138,16 @@ vāvr̥dhe ← √vr̥dh- (root)
     body substance; rasa; formulation; myrrh; rasa \[word\]; amṛta;
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhe* ← *vṛdh*
 - \[verb\], singular, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

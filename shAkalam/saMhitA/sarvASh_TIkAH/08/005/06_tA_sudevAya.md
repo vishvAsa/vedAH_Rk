@@ -72,47 +72,69 @@ ukṣatam ← √ukṣ- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudevāya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudevāya* ← *devāya* ← *deva*
 - \[noun\], dative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumedhām* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumedhām* ← *medhām* ← *medhā*
 - \[noun\], accusative, singular, feminine
 - “intelligence; medhā \[word\]; Medhā.”
-------------------------------------------------------------------------
+
+_________
+
 - *avitāriṇīm* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *avitāriṇīm* ← *vitāriṇīm* ← *vitārin*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtair* ← *ghṛtaiḥ* ← *ghṛta*
 - \[noun\], instrumental, plural, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyūtim* ← *gavyūti*
 - \[noun\], accusative, singular, feminine
 - “pasture.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣatam* ← *ukṣ*
 - \[verb\], dual, Present imperative
 - “sprinkle; wet.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -70,40 +70,58 @@ práśastibhiḥ ← práśasti- (nominal stem)
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *janāso* ← *janāsaḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣmanto* ← *haviṣmantaḥ* ← *haviṣmat*
 - \[noun\], nominative, plural, masculine
 - “sacrificing.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sarpirāsutim* ← *sarpiḥ* ← *sarpis*
 - \[noun\], neuter
 - “ghee; clarified butter; sarpiḥprameha.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarpirāsutim* ← *āsutim* ← *āsuti*
 - \[noun\], accusative, singular, masculine
 - “āsuti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *praśaṃsanti* ← *praśaṃs* ← *√śaṃs*
 - \[verb\], plural, Present indikative
 - “recommend; approve; praise; laud; favor; proclaim.”
-------------------------------------------------------------------------
+
+_________
+
 - *praśastibhiḥ* ← *praśasti*
 - \[noun\], instrumental, plural, feminine
 - “announcement; praise; respect.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

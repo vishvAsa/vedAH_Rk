@@ -113,94 +113,138 @@ vipra ← vípra- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjanam* ← *vṛjana*
 - \[noun\], accusative, singular, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyathā*
 - \[adverb\]
 - “otherwise; differently; vice versa; anyathā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cicchūro* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *cicchūro* ← *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchakra* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchakra* ← *śakra*
 - \[noun\], vocative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *duro* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural, feminine
 - “door; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇīṣe* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *araṃ* ← *aram* ← *ṛch*
 - \[verb\], singular, Aorist inj. (proh.)
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukradughasya* ← *śukra*
 - \[noun\], neuter
 - “semen; sperm; śukra; śukraprameha; liquid; ejaculation.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukradughasya* ← *dughasya* ← *dugha*
 - \[noun\], genitive, singular, masculine
 - “yielding.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenor* ← *dhenoḥ* ← *dhenu*
 - \[noun\], ablative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *āṅgirasān* ← *āṅgirasa*
 - \[noun\], accusative, plural, masculine
 - “Aṅgiras; Brihaspati; Bṛhaspati; Jupiter.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipra*
 - \[noun\], vocative, singular, masculine
 - “eloquent; stimulated; divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *jinva* ← *jinv*
 - \[verb\], singular, Present imperative
 - “enliven; animate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

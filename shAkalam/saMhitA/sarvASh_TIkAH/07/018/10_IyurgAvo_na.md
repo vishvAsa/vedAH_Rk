@@ -96,57 +96,85 @@ rántayaḥ ← ránti- (nominal stem)
 -   *īyur* ← *īyuḥ* ← *i*
 - \[verb\], plural, Perfect indicative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yavasād* ← *yavasāt* ← *yavasa*
 - \[noun\], ablative, singular, masculine
 - “eatage; pasture; fodder.”
-------------------------------------------------------------------------
+
+_________
+
 - *agopā* ← *agopāḥ* ← *agopa*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yathākṛtam* ← *yathākṛta*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *citāsaḥ* ← *ci*
 - \[verb noun\], nominative, plural
 - “cover; accumulate; pile up; pick; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśnigāvaḥ* ← *pṛśni*
 - \[noun\]
 - “varicolored; dappled.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśnigāvaḥ* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśninipreṣitāsaḥ* ← *pṛśni*
 - \[noun\], feminine
 - “Pṛśni; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśninipreṣitāsaḥ* ← *nipreṣitāsaḥ* ← *nipreṣ* ← *√iṣ*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *śruṣṭiṃ* ← *śruṣṭim* ← *śruṣṭi*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *cakrur* ← *cakruḥ* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -157,18 +185,26 @@ rántayaḥ ← ránti- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *niyuto* ← *niyutaḥ* ← *niyut*
 - \[noun\], nominative, plural, feminine
 - “gift; team.”
-------------------------------------------------------------------------
+
+_________
+
 - *rantayaś* ← *rantayaḥ* ← *ranti*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

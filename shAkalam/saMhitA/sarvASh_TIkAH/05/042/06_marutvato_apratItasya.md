@@ -105,90 +105,130 @@ vīryàm ← vīryà- (nominal stem)
 -   *marutvato* ← *marutvataḥ* ← *marutvat*
 - \[noun\], genitive, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *apratītasya* ← *apratīta*
 - \[noun\], genitive, singular, masculine
 - “irresistible.”
-------------------------------------------------------------------------
+
+_________
+
 - *jiṣṇor* ← *jiṣṇoḥ* ← *jiṣṇu*
 - \[noun\], genitive, singular, masculine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajūryataḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajūryataḥ* ← *jūryataḥ* ← *jṛ*
 - \[verb noun\], genitive, singular
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *bravāmā* ← *bravāma* ← *brū*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtāni* ← *kṛta*
 - \[noun\], accusative, plural, neuter
 - “Kṛta; action; throw; work; production; work; kindness; four; kṛta
     \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrve* ← *pūrva*
 - \[noun\], nominative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāparāso* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāparāso* ← *aparāsaḥ* ← *apara*
 - \[noun\], nominative, plural, masculine
 - “other; another(a); following; western; future; apara \[word\];
     elder; remaining; some(a); later(a); back(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vīryaṃ* ← *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūtanaḥ* ← *nūtana*
 - \[noun\], nominative, singular, masculine
 - “new; fresh; recent; contemporary; present(a); first.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaś* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *canāpa* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *canāpa* ← *āpa* ← *āp*
 - \[verb\], singular, Perfect indicative
 - “enter (a state); get; reach; obtain; equal.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

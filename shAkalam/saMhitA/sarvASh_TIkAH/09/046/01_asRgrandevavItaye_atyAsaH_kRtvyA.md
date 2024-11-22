@@ -68,34 +68,50 @@ parvatāvŕ̥dhaḥ ← parvatāvŕ̥dh- (nominal stem)
 - \[verb\], plural, Root aorist (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *devavītaye* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devavītaye* ← *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *'tyāsaḥ* ← *atyāsaḥ* ← *atya*
 - \[noun\], nominative, plural, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtvyā* ← *kṛtvyāḥ* ← *kṛtvya*
 - \[noun\], nominative, plural, masculine
 - “confident.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣarantaḥ* ← *kṣar*
 - \[verb noun\], nominative, plural
 - “run; melt.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatāvṛdhaḥ* ← *parvatāvṛdh*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

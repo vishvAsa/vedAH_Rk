@@ -73,38 +73,56 @@ srutéḥ ← srutí- (nominal stem)
 -   *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *paripanthinam* ← *paripanthin*
 - \[noun\], accusative, singular, masculine
 - “unfriendly; clogging; paripanthin \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *muṣīvāṇaṃ* ← *muṣīvāṇam* ← *muṣīvan*
 - \[noun\], accusative, singular, masculine
 - “mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *huraścitam* ← *huraścit*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dūram*
 - \[adverb\]
 - “far.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sruter* ← *sruteḥ* ← *sruti*
 - \[noun\], ablative, singular, feminine
 - “discharge; path; road; stream.”
-------------------------------------------------------------------------
+
+_________
+
 - *aja* ← *aj*
 - \[verb\], singular, Present imperative
 - “drive; expel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

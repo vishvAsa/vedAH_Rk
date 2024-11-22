@@ -99,65 +99,97 @@ vr̥cī́vataḥ ← vr̥cī́vant- (nominal stem)
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvāv* ← *gāvau* ← *go*
 - \[noun\], nominative, dual, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṣā* ← *aruṣa*
 - \[noun\], nominative, dual, masculine
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūyavasyū* ← *sūyavasyu*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *carato* ← *carataḥ* ← *car*
 - \[verb\], dual, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *rerihāṇā* ← *rerih* ← *√rih*
 - \[verb noun\], nominative, dual
 - “lick.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛñjayāya* ← *sṛñjaya*
 - \[noun\], dative, singular, masculine
 - “Sṛñjaya.”
-------------------------------------------------------------------------
+
+_________
+
 - *turvaśam* ← *turvaśa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *parādād* ← *parādāt* ← *parādā* ← *√dā*
 - \[verb\], singular, Root aorist (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 - *vṛcīvato* ← *vṛcīvataḥ* ← *vṛcīvant*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *daivavātāya* ← *daivavāta*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣan* ← *śikṣ*
 - \[verb noun\], nominative, singular
 - “help; give.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -74,42 +74,60 @@ prámahasā ← prámahas- (nominal stem)
 -   *yā* ← *yad*
 - \[noun\], accusative, dual, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārayanta* ← *dhāray* ← *√dhṛ*
 - \[verb\], plural, Present injunctive
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudakṣā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudakṣā* ← *dakṣā* ← *dakṣa*
 - \[noun\], accusative, dual, masculine
 - “deft; right; intelligent; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣapitarā* ← *dakṣa*
 - \[noun\], masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣapitarā* ← *pitarā* ← *pitṛ*
 - \[noun\], accusative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *asuryāya* ← *asurya*
 - \[noun\], dative, singular, neuter
 - “dignity.”
-------------------------------------------------------------------------
+
+_________
+
 - *pramahasā* ← *pramahas*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

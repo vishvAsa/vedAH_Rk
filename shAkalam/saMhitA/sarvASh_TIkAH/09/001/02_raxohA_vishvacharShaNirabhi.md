@@ -73,47 +73,67 @@ sadhástham ← sadhástha- (nominal stem)
 -   *rakṣohā* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣohā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvacarṣaṇir* ← *viśvacarṣaṇiḥ* ← *viśvacarṣaṇi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *yonim* ← *yoni*
 - \[noun\], accusative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayohatam* ← *ayaḥ* ← *ayas*
 - \[noun\], neuter
 - “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
     weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayohatam* ← *hatam* ← *han*
 - \[verb noun\], accusative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *druṇā* ← *dru*
 - \[noun\], instrumental, singular, masculine
 - “wood; tree; dru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhastham* ← *sadhastha*
 - \[noun\], accusative, singular, neuter
 - “dwelling; location; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsadat* ← *āsad* ← *√sad*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “approach; attack; sit down; approach; find; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

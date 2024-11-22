@@ -99,73 +99,107 @@ kavínā ← kaví- (nominal stem)
 -   *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pitaraṃ* ← *pitaram* ← *pitṛ*
 - \[noun\], accusative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhī* ← *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudraṃ* ← *rudram* ← *rudra*
 - \[noun\], accusative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *divā*
 - \[adverb\]
 - “by day; divā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhayā* ← *vardhaya* ← *vardhay* ← *√vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; strengthen; promote; rear; add; greet; laud.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudram* ← *rudra*
 - \[noun\], accusative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *aktau* ← *aktu*
 - \[noun\], locative, singular, masculine
 - “night; dark; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣvam* ← *ṛṣva*
 - \[noun\], accusative, singular, masculine
 - “distinguished; high; noble; enormous.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajaraṃ* ← *ajaram* ← *ajara*
 - \[noun\], accusative, singular, masculine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣumnam* ← *suṣumna*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛdhagghuvema* ← *ṛdhak*
 - \[adverb\]
 - “away; apart.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛdhagghuvema* ← *huvema* ← *hu*
 - \[verb\], plural, Aorist optative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavineṣitāsaḥ* ← *kavinā* ← *kavi*
 - \[noun\], instrumental, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavineṣitāsaḥ* ← *iṣitāsaḥ* ← *iṣay* ← *√iṣ*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -93,27 +93,39 @@ vadhvàḥ ← vadhū́- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *cyavānāj* ← *cyavānāt* ← *cyavāna*
 - \[noun\], ablative, singular, masculine
 - “Cyavana.”
-------------------------------------------------------------------------
+
+_________
+
 - *jujuruṣo* ← *jujuruṣaḥ* ← *jṛ*
 - \[verb noun\], ablative, singular
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavrim* ← *vavri*
 - \[noun\], accusative, singular, masculine
 - “covering; lurking place.”
-------------------------------------------------------------------------
+
+_________
+
 - *atkaṃ* ← *atkam* ← *atka*
 - \[noun\], accusative, singular, masculine
 - “garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *muñcathaḥ* ← *muc*
 - \[verb\], dual, Present indikative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -121,15 +133,21 @@ vadhvàḥ ← vadhū́- (nominal stem)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
 - “young; youthful.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛthaḥ* ← *kṛ*
 - \[verb\], dual, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -140,31 +158,43 @@ vadhvàḥ ← vadhū́- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmam* ← *kāma*
 - \[noun\], accusative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇve* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhvaḥ* ← *vadhū*
 - \[noun\], genitive, singular, feminine
 - “wife; woman; bride; female; Trigonella corniculata; female; cow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,85 +102,125 @@ kratuvídā ← kratuvíd- (nominal stem)
 -   *prātaryāvāṇā* ← *prātar*
 - \[adverb\]
 - “at dawn; early.”
-------------------------------------------------------------------------
+
+_________
+
 - *prātaryāvāṇā* ← *yāvāṇā* ← *yāvan*
 - \[noun\], nominative, dual, masculine
 - “traveler.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathyeva* ← *rathyā* ← *rathya*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrājeva* ← *vīrā* ← *vīra*
 - \[noun\], nominative, dual, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrājeva* ← *ajā* ← *aja*
 - \[noun\], nominative, dual, masculine
 - “goat; Vishnu; Brahma; Shiva; Aja; aja \[word\]; Aja; aj; Ocimum
     gratissimum; Puruṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrājeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamā* ← *yamāḥ* ← *yama*
 - \[noun\], nominative, plural, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *varam* ← *vara*
 - \[noun\], accusative, singular, masculine
 - “gift; favor; wish; privilege; varac; wages.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sacethe* ← *sac*
 - \[verb\], dual, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *mene* ← *menā*
 - \[noun\], nominative, dual, feminine
 - “Menā; woman; Menā; Durga.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *śumbhamāne* ← *śubh*
 - \[verb noun\], nominative, dual
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *dampatīva* ← *dampatī* ← *dampati*
 - \[noun\], nominative, dual, masculine
 - “couple.”
-------------------------------------------------------------------------
+
+_________
+
 - *dampatīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratuvidā* ← *kratu*
 - \[noun\], masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratuvidā* ← *vidā* ← *vid*
 - \[noun\], nominative, dual, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *janeṣu* ← *jana*
 - \[noun\], locative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

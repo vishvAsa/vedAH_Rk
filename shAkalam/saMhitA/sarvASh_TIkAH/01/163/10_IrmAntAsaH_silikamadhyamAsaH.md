@@ -92,61 +92,91 @@ yát ← yá- (pronoun)
 
 -   *īrmāntāsaḥ* ← *īrmānta*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *silikamadhyamāsaḥ* ← *silikamadhyama*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūraṇāso* ← *śūraṇāsaḥ* ← *śūraṇa*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *divyāso* ← *divyāsaḥ* ← *divya*
 - \[noun\], nominative, plural, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *atyāḥ* ← *atya*
 - \[noun\], nominative, plural, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *haṃsā* ← *haṃsāḥ* ← *haṃsa*
 - \[noun\], nominative, plural, masculine
 - “goose; Vishnu; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śreṇiśo* ← *śreṇiśas*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *yatante* ← *yat*
 - \[verb\], plural, Present indikative
 - “strive; endeavor; join; equal; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ākṣiṣur* ← *ākṣiṣuḥ* ← *akṣ*
 - \[verb\], plural, Athematic is aor. (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 - *divyam* ← *divya*
 - \[noun\], accusative, singular, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajmam* ← *ajma*
 - \[noun\], accusative, singular, masculine
 - “march.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

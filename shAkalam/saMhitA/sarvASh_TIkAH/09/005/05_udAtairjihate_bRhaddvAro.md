@@ -73,39 +73,57 @@ súṣṭutāḥ ← súṣṭuta- (nominal stem)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātair* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *jihate* ← *hā*
 - \[verb\], plural, Present indikative
 - “move over; yield; give way.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvāro* ← *dvāraḥ* ← *dvār*
 - \[noun\], nominative, plural, feminine
 - “door; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *devīr* ← *devīḥ* ← *deva*
 - \[noun\], nominative, plural, feminine
 - “divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayīḥ* ← *hiraṇyaya*
 - \[noun\], nominative, plural, feminine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānena* ← *pū*
 - \[verb noun\], instrumental, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭutāḥ* ← *suṣṭuta*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

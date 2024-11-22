@@ -96,66 +96,98 @@ yát ← yá- (pronoun)
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandasāno* ← *mandasānaḥ* ← *mand*
 - \[verb noun\], nominative, singular
 - “rejoice; exhilarate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *airaṃ* ← *airam* ← *īr*
 - \[verb\], singular, Imperfect
 - “go.”
-------------------------------------------------------------------------
+
+_________
+
 - *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sākaṃ* ← *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
-------------------------------------------------------------------------
+
+_________
+
 - *navatīḥ* ← *navati*
 - \[noun\], accusative, plural, feminine
 - “ninety; navati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śambarasya* ← *śambara*
 - \[noun\], genitive, singular, masculine
 - “Śambara; Śambara.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatatamaṃ* ← *śatatamam* ← *śatatama*
 - \[noun\], accusative, singular, neuter
 - “hundredth.”
-------------------------------------------------------------------------
+
+_________
+
 - *veśyaṃ* ← *veśyam* ← *veśya*
 - \[noun\], accusative, singular, neuter
 - “whorehouse.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvatātā* ← *sarvatāti*
 - \[noun\], locative, singular, feminine
 - “completeness; prosperity; sum.”
-------------------------------------------------------------------------
+
+_________
+
 - *divodāsam* ← *divodāsa*
 - \[noun\], accusative, singular, masculine
 - “Divodāsa.”
-------------------------------------------------------------------------
+
+_________
+
 - *atithigvaṃ* ← *atithigvam* ← *atithigva*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvam* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

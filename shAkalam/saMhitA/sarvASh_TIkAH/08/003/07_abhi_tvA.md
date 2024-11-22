@@ -87,61 +87,89 @@ rudrā́ḥ ← rudrá- (nominal stem)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvapītaya* ← *pūrva*
 - \[noun\]
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvapītaya* ← *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomebhir* ← *stomebhiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āyavaḥ* ← *āyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *samīcīnāsa* ← *samīcīnāsaḥ* ← *samīcīna*
 - \[noun\], nominative, plural, masculine
 - “combined; real.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *asvaran* ← *svar*
 - \[verb\], plural, Imperfect
 - “sing.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudrā* ← *rudrāḥ* ← *rudra*
 - \[noun\], nominative, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇanta* ← *gṛ*
 - \[verb\], plural, Present injunctive
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

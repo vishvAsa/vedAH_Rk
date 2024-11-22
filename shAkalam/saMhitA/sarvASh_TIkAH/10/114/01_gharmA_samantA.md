@@ -100,77 +100,111 @@ vidúḥ ← √vid- 2 (root)
 - \[noun\], nominative, dual, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *samantā* ← *samanta*
 - \[noun\], nominative, dual, masculine
 - “contiguous; whole.”
-------------------------------------------------------------------------
+
+_________
+
 - *trivṛtaṃ* ← *trivṛtam* ← *trivṛt*
 - \[noun\], accusative, singular, masculine
 - “treble.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpatus* ← *āpatuḥ* ← *āp*
 - \[verb\], dual, Perfect indicative
 - “enter (a state); get; reach; obtain; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *tayor* ← *tayoḥ* ← *tad*
 - \[noun\], genitive, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣṭim* ← *juṣṭi*
 - \[noun\], accusative, singular, feminine
 - “satisfaction; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātariśvā* ← *mātariśvan*
 - \[noun\], nominative, singular, masculine
 - “wind; Mātariśvan; Vayu; vāta.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagāma* ← *gam*
 - \[verb\], singular, Perfect indicative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *divas* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *payo* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *didhiṣāṇā* ← *didhiṣāṇāḥ* ← *didhiṣ* ← *√dhā*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *aveṣan* ← *viṣ*
 - \[verb\], plural, Imperfect
 - “labor; act; perform.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidur* ← *viduḥ* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasāmānam* ← *sahasāman*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

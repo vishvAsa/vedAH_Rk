@@ -76,46 +76,66 @@ yáḥ ← yá- (pronoun)
 -   *āsmin* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsmin* ← *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *piśaṅgam* ← *piśaṅga*
 - \[noun\], accusative, singular, masculine
 - “tawny; red; brown.”
-------------------------------------------------------------------------
+
+_________
+
 - *indavo* ← *indavaḥ* ← *indu*
 - \[noun\], vocative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhātā* ← *dadhāta* ← *dhā*
 - \[verb\], plural, Aorist imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *venam* ← *vena*
 - \[noun\], accusative, singular, masculine
 - “Vena.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādiśe* ← *ādiś* ← *√diś*
 - \[verb noun\]
 - “diagnose; order; call; deem; prescribe; enumerate; name; threaten;
     give; produce; designate; indicate; predict.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *arāvā* ← *arāvan*
 - \[noun\], nominative, singular, masculine
 - “begrudging; hostile; stingy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

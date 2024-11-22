@@ -99,81 +99,119 @@ sádam ← sádam (invariable)
 -   *mandraṃ* ← *mandram* ← *mandra*
 - \[noun\], accusative, singular, masculine
 - “pleasant; eloquent; dulcet.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucim* ← *śuci*
 - \[noun\], accusative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *advayāvinaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *advayāvinaṃ* ← *dvayāvinam* ← *dvayāvin*
 - \[noun\], accusative, singular, masculine
 - “dishonest.”
-------------------------------------------------------------------------
+
+_________
+
 - *damūnasam* ← *damūnas*
 - \[noun\], accusative, singular, masculine
 - “master.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthyaṃ* ← *ukthyam* ← *ukthya*
 - \[noun\], accusative, singular, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvacarṣaṇim* ← *viśvacarṣaṇi*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *citraṃ* ← *citram* ← *citra*
 - \[noun\], accusative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapuṣāya* ← *vapuṣa*
 - \[noun\], dative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *darśatam* ← *darśata*
 - \[noun\], accusative, singular, masculine
 - “beautiful; visible; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *manurhitaṃ* ← *manuḥ* ← *manus*
 - \[noun\], masculine
 - “Manu; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *manurhitaṃ* ← *hitam* ← *hita*
 - \[noun\], accusative, singular, masculine
 - “beneficial; wholesome; good; suitable; good; appropriate; pleasant;
     Aṣṭādhyāyī 5.1.5; friendly; agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadam*
 - \[adverb\]
 - “always.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāya* ← *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -82,64 +82,92 @@ vaíradeye ← vaíradeya- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghā* ← *gha*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *nemo* ← *nemaḥ* ← *nema*
 - \[noun\], nominative, singular, masculine
 - “one.”
-------------------------------------------------------------------------
+
+_________
+
 - *astutaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *astutaḥ* ← *stutaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *pumāṃ* ← *pumān* ← *puṃs*
 - \[noun\], nominative, singular, masculine
 - “man; masculine; man; puṃvajra; puruṣa; son; puṃs \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bruve* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *paṇiḥ* ← *paṇi*
 - \[noun\], nominative, singular, masculine
 - “niggard; paṇ.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vairadeya* ← *vaira*
 - \[noun\], neuter
 - “hostility; vaira \[word\]; hostility; hostility; hostility.”
-------------------------------------------------------------------------
+
+_________
+
 - *vairadeya* ← *deye* ← *deya*
 - \[noun\], locative, singular, neuter
 - “giving; gift.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *samaḥ* ← *sama*
 - \[noun\], nominative, singular, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);
     accurate; identical; fair; equal; synonymous; changeless; whole;
     exact; calm; straight; even; wide.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

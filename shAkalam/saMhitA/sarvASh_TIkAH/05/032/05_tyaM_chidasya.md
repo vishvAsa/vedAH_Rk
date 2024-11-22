@@ -105,86 +105,126 @@ yúyutsantam ← √yudh- (root)
 -   *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratubhir* ← *kratubhiḥ* ← *kratu*
 - \[noun\], instrumental, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣattam* ← *niṣad* ← *√sad*
 - \[verb noun\], accusative, singular
 - “sit down; sit; put.”
-------------------------------------------------------------------------
+
+_________
+
 - *amarmaṇo* ← *amarmaṇaḥ* ← *amarman*
 - \[noun\], genitive, singular, masculine
 - “invulnerable.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidad* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *marma* ← *marman*
 - \[noun\], accusative, singular, neuter
 - “marman; secret; secret; mystery; vulnerability.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sukṣatra* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṣatra* ← *kṣatra*
 - \[noun\], vocative, singular, masculine
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *prabhṛtā* ← *prabhṛti*
 - \[noun\], locative, singular, feminine
 - “etc.; beginning; prabhṛti \[word\]; beginning.”
-------------------------------------------------------------------------
+
+_________
+
 - *madasya* ← *mada*
 - \[noun\], genitive, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyutsantaṃ* ← *yuyutsantam* ← *yuyuts* ← *√yudh*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *tamasi* ← *tamas*
 - \[noun\], locative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *harmye* ← *harmya*
 - \[noun\], locative, singular, neuter
 - “mansion; house; palace.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

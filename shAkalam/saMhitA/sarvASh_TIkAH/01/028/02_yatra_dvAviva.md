@@ -84,22 +84,32 @@ u ← u (invariable)
 -   *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dvāv* ← *dvau* ← *dvi*
 - \[noun\], nominative, dual, masculine
 - “two; dvi \[word\]; second.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaghanādhiṣavaṇyā* ← *jaghanā* ← *jaghana*
 - \[noun\], nominative, dual, masculine
 - “hip; buttock; buttocks; vulva; vagina.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaghanādhiṣavaṇyā* ← *adhiṣavaṇyā* ← *adhiṣavaṇya*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtā* ← *kṛ*
 - \[verb noun\], nominative, dual
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -110,36 +120,52 @@ u ← u (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *ulūkhalasutānām* ← *ulūkhala*
 - \[noun\], masculine
 - “mortar; ulūkhala.”
-------------------------------------------------------------------------
+
+_________
+
 - *ulūkhalasutānām* ← *sutānām* ← *su*
 - \[verb noun\], genitive, plural
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *aved* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *aved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *v* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *jalgulaḥ* ← *jargur* ← *√gṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “swallow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

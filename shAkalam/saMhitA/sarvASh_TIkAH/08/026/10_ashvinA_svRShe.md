@@ -82,50 +82,74 @@ utá ← utá (invariable)
 -   *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *sv* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣe* ← *ṛṣi*
 - \[noun\], vocative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravato* ← *śravataḥ* ← *śru*
 - \[verb\], dual, Aorist conj./subj.
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *nedīyasaḥ* ← *nedīyas*
 - \[noun\], accusative, plural, masculine
 - “nearer; nedīyas \[word\]; near.”
-------------------------------------------------------------------------
+
+_________
+
 - *kūﾱayātaḥ* ← *kūḍayātaḥ* ← *kūḍay* ← *√kūḍ*
 - \[verb\], dual, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 - *paṇīṃr* ← *paṇi*
 - \[noun\], accusative, plural, masculine
 - “niggard; paṇ.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

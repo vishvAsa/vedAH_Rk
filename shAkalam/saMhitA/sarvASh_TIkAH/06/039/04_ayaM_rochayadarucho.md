@@ -96,72 +96,108 @@ svarvídā ← svarvíd- (nominal stem)
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocayad* ← *rocayat* ← *rocay* ← *√ruc*
 - \[verb\], singular, Present injunctive
 - “like; approve; like; simulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruco* ← *arucaḥ* ← *aruc*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rucāno* ← *rucānaḥ* ← *ruc*
 - \[verb noun\], nominative, singular
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'yaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāsayad* ← *vāsayat* ← *vāsay* ← *√vas*
 - \[verb\], singular, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *īyata* ← *īyate* ← *i*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtayugbhir* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtayugbhir* ← *yugbhiḥ* ← *yuj*
 - \[noun\], instrumental, plural, masculine
 - “ally; friend; pair; two; companion.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvaiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarvidā* ← *svarvid*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nābhinā* ← *nābhi*
 - \[noun\], instrumental, singular, masculine
 - “Nābhi; musk.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇiprāḥ* ← *carṣaṇi*
 - \[noun\], feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇiprāḥ* ← *prāḥ* ← *prā*
 - \[noun\], nominative, plural, masculine
 - “appreciated.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -77,43 +77,63 @@ sutám ← √su- (root)
 - \[verb noun\], nominative, singular
 - “originate; get up; arise; rise; utthā; rise; be active; come forth;
     cause; happen; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *saha*
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
-------------------------------------------------------------------------
+
+_________
+
 - *pītvī* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *śipre* ← *śiprā*
 - \[noun\], accusative, dual, feminine
 - “lip; śiprā.”
-------------------------------------------------------------------------
+
+_________
+
 - *avepayaḥ* ← *vepay* ← *√vip*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *camū*
 - \[noun\], locative, singular, feminine
 - “army; camū; Camū.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

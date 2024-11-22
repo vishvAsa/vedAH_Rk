@@ -99,72 +99,104 @@ mándasva ← √mand- (root)
 -   *adrogham* ← *adrogha*
 - \[noun\], accusative, singular, masculine
 - “sincere; truthful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vahośato* ← *vahā* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahośato* ← *uśataḥ* ← *vaś*
 - \[verb noun\], accusative, plural
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaviṣṭhya*
 - \[noun\], vocative, singular, masculine
 - “youngest.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajasra*
 - \[noun\], vocative, singular, masculine
 - “ceaseless; ageless; incessant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vītaye* ← *vī*
 - \[verb noun\]
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayāṃsi* ← *prayas*
 - \[noun\], accusative, plural, neuter
 - “food; dainty; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhitā* ← *sudhita*
 - \[noun\], accusative, plural, neuter
 - “sudhita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandasva* ← *mand*
 - \[verb\], singular, Present imperative
 - “rejoice; exhilarate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītibhir* ← *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *hitaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

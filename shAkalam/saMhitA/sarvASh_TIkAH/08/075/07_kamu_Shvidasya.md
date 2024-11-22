@@ -76,50 +76,72 @@ starāmahe ← √str̥- (root)
 -   *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣvid* ← *svid*
 - \[adverb\]
 - “svid \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *senayāgner* ← *senayā* ← *senā*
 - \[noun\], instrumental, singular, feminine
 - “army; senā \[word\]; armament.”
-------------------------------------------------------------------------
+
+_________
+
 - *senayāgner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *apākacakṣasaḥ* ← *apāka*
 - \[noun\]
 - “distant; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *apākacakṣasaḥ* ← *cakṣasaḥ* ← *cakṣas*
 - \[noun\], genitive, singular, masculine
 - “eye; look; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *paṇiṃ* ← *paṇim* ← *paṇi*
 - \[noun\], accusative, singular, masculine
 - “niggard; paṇ.”
-------------------------------------------------------------------------
+
+_________
+
 - *goṣu* ← *go*
 - \[noun\], locative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *starāmahe* ← *stṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “spread; kill; lay; cover.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

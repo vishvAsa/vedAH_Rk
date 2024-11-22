@@ -105,90 +105,130 @@ vratapā́ḥ ← vratapā́- (nominal stem)
 -   *daivyā* ← *daivya*
 - \[noun\], accusative, dual, masculine
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotārā* ← *hotṛ*
 - \[noun\], accusative, dual, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamā* ← *prathama*
 - \[noun\], accusative, dual, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛñje* ← *ṛj*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛkṣāsaḥ* ← *pṛkṣa*
 - \[noun\], nominative, plural, masculine
 - “strong; full of life.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhayā* ← *svadhā*
 - \[noun\], instrumental, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
-------------------------------------------------------------------------
+
+_________
+
 - *madanti* ← *mad*
 - \[verb\], plural, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsanta* ← *śaṃsantaḥ* ← *śaṃs*
 - \[verb noun\], nominative, plural
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “timely; honest.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrataṃ* ← *vratam* ← *vrata*
 - \[noun\], accusative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratapā* ← *vrata*
 - \[noun\], neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratapā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, plural, masculine
 - “protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdhyānāḥ* ← *dhī*
 - \[verb noun\], nominative, plural
 - “think; desire; chew over.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

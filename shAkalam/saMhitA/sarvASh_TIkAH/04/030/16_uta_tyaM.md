@@ -76,39 +76,57 @@ ukthéṣu ← ukthá- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *putram* ← *putra*
 - \[noun\], accusative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *agruvaḥ* ← *agrū*
 - \[noun\], genitive, singular, feminine
 - “unmarried woman; spinster; virgin.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāvṛktaṃ* ← *parāvṛktam* ← *parāvṛj* ← *√vṛj*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *śatakratuḥ* ← *śatakratu*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *uktheṣv* ← *uktheṣu* ← *uktha*
 - \[noun\], locative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhajat* ← *ābhaj* ← *√bhaj*
 - \[verb\], singular, Imperfect
 - “partake; share.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

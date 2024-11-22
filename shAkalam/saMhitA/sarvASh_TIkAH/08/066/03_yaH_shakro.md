@@ -93,63 +93,93 @@ vr̥trahā́ ← vr̥trahán- (nominal stem)
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śakro* ← *śakraḥ* ← *śakra*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛkṣo* ← *mṛkṣaḥ* ← *mṛkṣa*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśvyo* ← *aśvyaḥ* ← *aśvya*
 - \[noun\], nominative, singular, masculine
 - “equine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *kījo* ← *kījaḥ* ← *kīja*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayaḥ* ← *hiraṇyaya*
 - \[noun\], nominative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrvasya* ← *ūrva*
 - \[noun\], genitive, singular, masculine
 - “pen; Aurva; ocean.”
-------------------------------------------------------------------------
+
+_________
+
 - *rejayaty* ← *rejayati* ← *rejay* ← *√rej*
 - \[verb\], singular, Present indikative
 - “shake.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāvṛtim* ← *apāvṛti*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyasya* ← *gavya*
 - \[noun\], genitive, singular, masculine
 - “bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

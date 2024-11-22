@@ -76,61 +76,87 @@ tápurjambhasya ← tápurjambha- (nominal stem)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śocir* ← *śociḥ* ← *śocis*
 - \[noun\], nominative, singular, neuter
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *asthād* ← *asthāt* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdiyuṣo* ← *dīdiyuṣaḥ* ← *dīdī*
 - \[verb noun\], genitive, singular
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajaram* ← *ajara*
 - \[noun\], nominative, singular, neuter
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapurjambhasya* ← *tapuḥ* ← *tapus*
 - \[noun\], neuter
 - “heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapurjambhasya* ← *jambhasya* ← *jambha*
 - \[noun\], genitive, singular, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudyuto* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudyuto* ← *dyutaḥ* ← *dyut*
 - \[noun\], genitive, singular, masculine
 - “beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇaśriyaḥ* ← *gaṇa*
 - \[noun\], masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇaśriyaḥ* ← *śriyaḥ* ← *śrī*
 - \[noun\], genitive, singular, masculine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

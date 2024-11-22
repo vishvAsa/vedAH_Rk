@@ -119,78 +119,112 @@ yán ← √i- 1 (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *karaṇaṃ* ← *karaṇam* ← *karaṇa*
 - \[noun\], nominative, singular, neuter
 - “instrument; production; sense organ; cause; performance; karaṇa;
     creation; tool; action; position; means; causing; transformation;
     sensing; procedure; instrumental; elimination; applicability;
     devising.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasma*
 - \[noun\], vocative, singular, masculine
 - “overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprāhiṃ* ← *vipra*
 - \[noun\], vocative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprāhiṃ* ← *ahim* ← *ahi*
 - \[noun\], accusative, singular, feminine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghnann* ← *ghnan* ← *han*
 - \[verb noun\], nominative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *atrāmimīthāḥ* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *atrāmimīthāḥ* ← *mimīthāḥ* ← *mā*
 - \[verb\], singular, Present optative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣṇasya* ← *śuṣṇa*
 - \[noun\], genitive, singular, masculine
 - “Śuṣṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyā* ← *māyāḥ* ← *māyā*
 - \[noun\], accusative, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *agṛbhṇāḥ* ← *grah*
 - \[verb\], singular, Imperfect
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -198,27 +232,39 @@ yán ← √i- 1 (root)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *prapitvaṃ* ← *prapitvam* ← *prapitva*
 - \[noun\], accusative, singular, neuter
 - “beginning.”
-------------------------------------------------------------------------
+
+_________
+
 - *yann* ← *yan* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyūṃr* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *asedhaḥ* ← *sidh*
 - \[verb\], singular, Imperfect
 - “chase away; repel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

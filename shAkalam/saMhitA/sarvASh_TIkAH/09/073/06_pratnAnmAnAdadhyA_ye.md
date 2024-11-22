@@ -102,73 +102,109 @@ taranti ← √tr̥̄- 1 (root)
 -   *pratnān* ← *pratnāt* ← *pratna*
 - \[noun\], ablative, singular, neuter
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mānād* ← *mānāt* ← *māna*
 - \[noun\], ablative, singular, neuter
 - “weight; size; intensity; duration; dimension; weighing; volume;
     measure; grāsamāna; weight unit; accord; height; thickness.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhy* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *samasvarañchlokayantrāso* ← *samasvaran* ← *saṃsvar* ← *√svar*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *samasvarañchlokayantrāso* ← *ślokayantrāsaḥ* ← *ślokayantra*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rabhasasya* ← *rabhasa*
 - \[noun\], genitive, singular, masculine
 - “fierce; impetuous; powerful; potent; flamboyant.”
-------------------------------------------------------------------------
+
+_________
+
 - *mantavaḥ* ← *mantu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *apānakṣāso* ← *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *apānakṣāso* ← *anakṣāsaḥ* ← *anakṣa*
 - \[noun\], nominative, plural, masculine
 - “eyeless; blind.”
-------------------------------------------------------------------------
+
+_________
+
 - *badhirā* ← *badhirāḥ* ← *badhira*
 - \[noun\], nominative, plural, masculine
 - “deaf.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahāsata* ← *hā*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “move over; yield; give way.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *panthāṃ* ← *panthām* ← *pathin*
 - \[noun\], accusative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *taranti* ← *tṛ*
 - \[verb\], plural, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *duṣkṛtaḥ* ← *duṣkṛt*
 - \[noun\], nominative, plural, masculine
 - “wicked.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

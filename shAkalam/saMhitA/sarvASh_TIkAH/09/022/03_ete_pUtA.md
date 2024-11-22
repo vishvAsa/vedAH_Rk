@@ -73,43 +73,63 @@ vipā́ ← víp- (nominal stem)
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūtā* ← *pūtāḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipaścitaḥ* ← *vipaścit*
 - \[noun\], nominative, plural, masculine
 - “wise; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *somāso* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhyāśiraḥ* ← *dadhi*
 - \[noun\], neuter
 - “sour milk; curd; dadhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhyāśiraḥ* ← *āśiraḥ* ← *āśir*
 - \[noun\], nominative, plural, masculine
 - “mixture.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipā* ← *vip*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaśur* ← *ānaśuḥ* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

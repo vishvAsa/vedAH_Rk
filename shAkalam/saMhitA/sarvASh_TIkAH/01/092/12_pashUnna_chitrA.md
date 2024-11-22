@@ -103,86 +103,124 @@ sū́ryasya ← sū́rya- (nominal stem)
 - \[noun\], accusative, plural, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *citrā* ← *citra*
 - \[noun\], nominative, singular, feminine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhagā* ← *subhaga*
 - \[noun\], nominative, singular, feminine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathānā* ← *prath*
 - \[verb noun\], nominative, singular
 - “be known; expand; expand; boom.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣoda* ← *kṣodaḥ* ← *kṣodas*
 - \[noun\], nominative, singular, neuter
 - “swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *urviyā*
 - \[adverb\]
 - “wide; widely.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvait* ← *śvit*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *aminatī* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *aminatī* ← *minatī* ← *mī*
 - \[verb noun\], nominative, singular
 - “transgress; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivyāni* ← *daivya*
 - \[noun\], accusative, plural, neuter
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratāni* ← *vrata*
 - \[noun\], accusative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *ceti* ← *cit*
 - \[verb\], singular, Aorist passive
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśmibhir* ← *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛśānā* ← *dṛś*
 - \[verb noun\], nominative, singular
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -93,68 +93,98 @@ sástu ← √sas- (root)
 -   *sastu* ← *sas*
 - \[verb\], singular, Present imperative
 - “sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *sastu* ← *sas*
 - \[verb\], singular, Present imperative
 - “sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *sastu* ← *sas*
 - \[verb\], singular, Present imperative
 - “sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvā* ← *śvan*
 - \[noun\], nominative, singular, masculine
 - “dog; śvan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sastu* ← *sas*
 - \[verb\], singular, Present imperative
 - “sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśpatiḥ* ← *viśpati*
 - \[noun\], nominative, singular, masculine
 - “overlord; head.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasantu* ← *sas*
 - \[verb\], plural, Present imperative
 - “sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarve* ← *sarva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *jñātayaḥ* ← *jñāti*
 - \[noun\], nominative, plural, masculine
 - “relative; jñāti \[word\]; kinsman.”
-------------------------------------------------------------------------
+
+_________
+
 - *sastv* ← *sastu* ← *sas*
 - \[verb\], singular, Present imperative
 - “sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhito* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *janaḥ* ← *jana*
 - \[noun\], nominative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

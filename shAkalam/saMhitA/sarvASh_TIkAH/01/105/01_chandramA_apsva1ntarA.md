@@ -101,82 +101,120 @@ vittám ← √vid- 2 (root)
 -   *candramā* ← *candramāḥ* ← *candramas*
 - \[noun\], nominative, singular, masculine
 - “moon; Candra; candramas.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suparṇo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suparṇo* ← *parṇaḥ* ← *parṇa*
 - \[noun\], nominative, singular, masculine
 - “leaf; feather; parṇa \[word\]; leaf; wing.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāvate* ← *dhāv*
 - \[verb\], singular, Present indikative
 - “run; run; wash.”
-------------------------------------------------------------------------
+
+_________
+
 - *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyanemayaḥ* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyanemayaḥ* ← *nemayaḥ* ← *nemi*
 - \[noun\], vocative, plural, masculine
 - “rim; felloe.”
-------------------------------------------------------------------------
+
+_________
+
 - *padaṃ* ← *padam* ← *pada*
 - \[noun\], accusative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
-------------------------------------------------------------------------
+
+_________
+
 - *vindanti* ← *vid*
 - \[verb\], plural, Present indikative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyuto* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vittam* ← *vid*
 - \[verb\], dual, Present imperative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], vocative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

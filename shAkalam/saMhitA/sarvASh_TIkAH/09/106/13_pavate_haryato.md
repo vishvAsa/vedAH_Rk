@@ -76,42 +76,62 @@ yáśaḥ ← yáśas- (nominal stem)
 -   *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryato* ← *haryataḥ* ← *haryata*
 - \[noun\], nominative, singular, masculine
 - “desirable; delightful.”
-------------------------------------------------------------------------
+
+_________
+
 - *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *hvarāṃsi* ← *hvaras*
 - \[noun\], accusative, plural, neuter
 - “intrigue.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṃhyā* ← *raṃhi*
 - \[noun\], instrumental, singular, feminine
 - “speed.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhyarṣan* ← *abhyṛṣ* ← *√ṛṣ*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *stotṛbhyo* ← *stotṛbhyaḥ* ← *stotṛ*
 - \[noun\], dative, plural, masculine
 - “laudatory; worshiping.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīravad* ← *vīravat*
 - \[noun\], accusative, singular, neuter
 - “rich in men.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaśaḥ* ← *yaśas*
 - \[noun\], accusative, singular, neuter
 - “fame; Yaśas.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

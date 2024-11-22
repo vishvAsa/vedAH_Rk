@@ -117,20 +117,28 @@ sá ← sá- ~ tá- (pronoun)
 -   *yenemā* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yenemā* ← *imā* ← *idam*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *cyavanā* ← *cyavana*
 - \[noun\], nominative, plural, neuter
 - “movement; removal.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtāni* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -141,28 +149,40 @@ sá ← sá- ~ tá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsaṃ* ← *dāsam* ← *dāsa*
 - \[noun\], accusative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
-------------------------------------------------------------------------
+
+_________
+
 - *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
-------------------------------------------------------------------------
+
+_________
+
 - *adharaṃ* ← *adharam* ← *adhara*
 - \[noun\], accusative, singular, masculine
 - “lower; adhara \[word\]; worse.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhākaḥ* ← *guhā*
 - \[adverb\]
 - “secretly.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhākaḥ* ← *akaḥ* ← *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -173,57 +193,81 @@ sá ← sá- ~ tá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvaghnīva* ← *śvaghnī* ← *śvaghnin*
 - \[noun\], nominative, singular, masculine
 - “gambler.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvaghnīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jigīvāṃl* ← *jigīvān* ← *ji*
 - \[verb noun\], nominative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *lakṣam* ← *lakṣa*
 - \[noun\], accusative, singular, neuter
 - “hundred thousand; guise.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādad* ← *ādat* ← *ādā* ← *√dā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “take; take away; take out; pick; extract; drink; grasp; put;
     collect; accept; get; choose; remove; steal; bring; press out;
     impound; keep; eat; use; distill.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *puṣṭāni* ← *puṣṭa*
 - \[noun\], accusative, plural, neuter
 - “prosperity; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *janāsa* ← *janāsaḥ* ← *jana*
 - \[noun\], vocative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

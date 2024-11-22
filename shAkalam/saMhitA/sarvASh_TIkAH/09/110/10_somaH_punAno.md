@@ -82,60 +82,88 @@ sahásradhāraḥ ← sahásradhāra- (nominal stem)
 -   *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyaye* ← *avyaya*
 - \[noun\], locative, singular, masculine
 - “sheep.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāre* ← *vāra*
 - \[noun\], locative, singular, masculine
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśur* ← *śiśuḥ* ← *śiśu*
 - \[noun\], nominative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *krīﾱan* ← *krīḍan* ← *krīḍ*
 - \[verb noun\], nominative, singular
 - “frolic; love; play; amuse.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣāḥ* ← *akṣār* ← *kṣar*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “run; melt.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasradhāraḥ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasradhāraḥ* ← *dhāraḥ* ← *dhārā*
 - \[noun\], nominative, singular, masculine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatavāja* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatavāja* ← *vājaḥ* ← *vāja*
 - \[noun\], nominative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

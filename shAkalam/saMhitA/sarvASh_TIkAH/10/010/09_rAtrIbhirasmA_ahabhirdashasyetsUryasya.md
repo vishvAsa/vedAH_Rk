@@ -99,72 +99,106 @@ yamī́ḥ ← yamī́- (nominal stem)
 -   *rātrībhir* ← *rātrībhiḥ* ← *rātri*
 - \[noun\], instrumental, plural, feminine
 - “night; night; rātri \[word\]; turmeric; Rātri; day; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahabhir* ← *ahabhiḥ* ← *aha*
 - \[noun\], instrumental, plural, neuter
 - “day; aha \[word\]; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśasyet* ← *daśasy*
 - \[verb\], singular, Present optative
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣur* ← *cakṣuḥ* ← *cakṣus*
 - \[noun\], accusative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
-------------------------------------------------------------------------
+
+_________
+
 - *muhur*
 - \[adverb\]
 - “again; repeatedly; continually.”
-------------------------------------------------------------------------
+
+_________
+
 - *un* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimīyāt* ← *mī*
 - \[verb\], singular, Present optative
 - “transgress; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *divā* ← *div*
 - \[noun\], instrumental, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyā* ← *pṛthivī*
 - \[noun\], instrumental, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *mithunā* ← *mithuna*
 - \[noun\], nominative, dual, masculine
 - “twin; couple; couple; coupling; sexual intercourse; Gemini.”
-------------------------------------------------------------------------
+
+_________
+
 - *sabandhū* ← *sabandhu*
 - \[noun\], nominative, dual, masculine
 - “related.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamīr* ← *yamīḥ* ← *yamī*
 - \[noun\], nominative, singular, feminine
 - “Yamī.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamasya* ← *yama*
 - \[noun\], genitive, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibhṛyād* ← *bibhṛyāt* ← *bhṛ*
 - \[verb\], singular, Present optative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāmi*
 - \[noun\], accusative, singular, neuter
 - “incest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

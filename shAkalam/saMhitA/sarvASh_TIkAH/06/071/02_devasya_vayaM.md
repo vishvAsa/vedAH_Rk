@@ -106,85 +106,123 @@ prasavé ← prasavá- (nominal stem)
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *savituḥ* ← *savitṛ*
 - \[noun\], genitive, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *savīmani* ← *savīman*
 - \[noun\], locative, singular, neuter
 - “impulse.”
-------------------------------------------------------------------------
+
+_________
+
 - *śreṣṭhe* ← *śreṣṭha*
 - \[noun\], locative, singular, neuter
 - “best; better; chief(a); beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasunaś* ← *vasunaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvipado* ← *dvipadaḥ* ← *dvipad*
 - \[noun\], genitive, singular, masculine
 - “biped.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *catuṣpado* ← *catuṣpadaḥ* ← *catuṣpada*
 - \[noun\], genitive, singular, masculine
 - “quadrupedal.”
-------------------------------------------------------------------------
+
+_________
+
 - *niveśane* ← *niveśana*
 - \[noun\], locative, singular, neuter
 - “mansion; house; camp; city planning.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasave* ← *prasava*
 - \[noun\], locative, singular, masculine
 - “offspring; delivery; child; birth; flower; causing.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāsi* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmanaḥ* ← *bhūman*
 - \[noun\], genitive, singular, neuter
 - “Earth; floor.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -93,66 +93,96 @@ yathāvaśám ← yathāvaśám (invariable)
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agnidagdhā* ← *agnidagdhāḥ* ← *agnidagdha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *anagnidagdhā* ← *anagnidagdhāḥ* ← *anagnidagdha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *madhye* ← *madhya*
 - \[noun\], locative, singular, neuter
 - “midst; center; cavity; inside; middle; center; waist; group; pulp;
     torso; time interval; area; series; madhya \[word\]; Madhya; noon;
     middle; middle age; span; belly.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhayā* ← *svadhā*
 - \[noun\], instrumental, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādayante* ← *māday* ← *√mad*
 - \[verb\], plural, Present indikative
 - “delight; enjoy; intoxicate.”
-------------------------------------------------------------------------
+
+_________
+
 - *tebhiḥ* ← *tad*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarāḍ* ← *svarāj*
 - \[noun\], nominative, singular, masculine
 - “svarāj; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *asunītim* ← *asunīti*
 - \[noun\], accusative, singular, feminine
 - “afterworld.”
-------------------------------------------------------------------------
+
+_________
+
 - *etāṃ* ← *etām* ← *etad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yathāvaśaṃ* ← *yathāvaśam*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *kalpayasva* ← *kalpay* ← *√kﾱp*
 - \[verb\], singular, Present imperative
 - “prepare; assign; create; produce; fix; restore; order; prepare;
     imitate; restore; make; treat.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -75,42 +75,62 @@ váruṇaśeṣasaḥ ← váruṇaśeṣas- (nominal stem)
 -   *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrasyāvasi* ← *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrasyāvasi* ← *avasi* ← *avas*
 - \[noun\], locative, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *saprathastame* ← *saprathastama*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *anehasas* ← *anehasaḥ* ← *anehas*
 - \[noun\], nominative, plural, masculine
 - “faultless; anehas \[word\]; incomparable.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvotayaḥ* ← *tvoti*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *satrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇaśeṣasaḥ* ← *varuṇa*
 - \[noun\], masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇaśeṣasaḥ* ← *śeṣasaḥ* ← *śeṣas*
 - \[noun\], genitive, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

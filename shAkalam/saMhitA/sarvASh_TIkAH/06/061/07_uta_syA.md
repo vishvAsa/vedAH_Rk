@@ -73,48 +73,70 @@ vr̥traghnī́ ← vr̥trahán- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *syā* ← *tya*
 - \[noun\], nominative, singular, feminine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvatī*
 - \[noun\], nominative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghorā* ← *ghora*
 - \[noun\], nominative, singular, feminine
 - “awful; dangerous; terrific; intense; dreadful.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyavartaniḥ* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyavartaniḥ* ← *vartaniḥ* ← *vartani*
 - \[noun\], nominative, singular, feminine
 - “path; East; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraghnī* ← *vṛtra*
 - \[noun\], masculine
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraghnī* ← *ghnī* ← *ghna*
 - \[noun\], nominative, singular, feminine
 - “curative; removing; killing; destroying; māraka; multiplied.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

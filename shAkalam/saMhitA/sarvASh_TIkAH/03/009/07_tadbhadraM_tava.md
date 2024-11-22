@@ -92,62 +92,90 @@ sámiddham ← √idh- 1 (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadraṃ* ← *bhadram* ← *bhadra*
 - \[noun\], nominative, singular, neuter
 - “happiness; bhadra; deodar; Bhadra; Bhadra; bhadra \[word\]; Bhadra;
     Bhadrāsana; prosperity; good fortune; benefit.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *daṃsanā*
 - \[noun\], nominative, singular, feminine
 - “wonder; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *pākāya* ← *pāka*
 - \[noun\], dative, singular, masculine
 - “ignorant; childlike; honest.”
-------------------------------------------------------------------------
+
+_________
+
 - *cic* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *chadayati* ← *chaday* ← *√chand*
 - \[verb\], singular, Present indikative
 - “look.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśavaḥ* ← *paśu*
 - \[noun\], nominative, plural, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *samāsate* ← *samās* ← *√ās*
 - \[verb\], plural, Present indikative
 - “sit.”
-------------------------------------------------------------------------
+
+_________
+
 - *samiddham* ← *samindh* ← *√indh*
 - \[verb noun\], accusative, singular
 - “kindle; blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *apiśarvare* ← *apiśarvara*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

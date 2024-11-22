@@ -70,39 +70,57 @@ puruspŕ̥ham ← puruspŕ̥h- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasriṇaṃ* ← *sahasriṇam* ← *sahasrin*
 - \[noun\], accusative, singular, masculine
 - “thousandfold.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomantam* ← *gomat*
 - \[noun\], accusative, singular, masculine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinam* ← *aśvin*
 - \[noun\], accusative, singular, masculine
 - “rich in horses; horsy.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruścandram* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruścandram* ← *ścandram* ← *ścandra*
 - \[noun\], accusative, singular, masculine
 - “shining; glistening; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruspṛham* ← *puruspṛh*
 - \[noun\], accusative, singular, masculine
 - “coveted; desirous.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

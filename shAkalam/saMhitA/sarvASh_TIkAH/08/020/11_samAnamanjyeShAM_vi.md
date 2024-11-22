@@ -77,43 +77,63 @@ r̥ṣṭáyaḥ ← r̥ṣṭí- (nominal stem)
 - \[noun\], nominative, singular, neuter
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjy* ← *añji*
 - \[noun\], nominative, singular, neuter
 - “color; ointment; adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājante* ← *bhrāj*
 - \[verb\], plural, Present indikative
 - “shine; glitter; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmāso* ← *rukmāsaḥ* ← *rukma*
 - \[noun\], nominative, plural, masculine
 - “adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhuṣu* ← *bāhu*
 - \[noun\], locative, plural, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *davidyutaty* ← *davidyutati* ← *davidyut* ← *√dyut*
 - \[verb\], plural, Present indikative
 - “flash.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣṭayaḥ* ← *ṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “spear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

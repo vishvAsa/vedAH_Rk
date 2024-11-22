@@ -67,31 +67,45 @@ pávasva ← √pū- (root)
 -   *pavasvādbhyo* ← *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavasvādbhyo* ← *adbhyaḥ* ← *ap*
 - \[noun\], dative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *adābhyaḥ* ← *adābhya*
 - \[noun\], nominative, singular, masculine
 - “trustworthy; disabused(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *pavasvauṣadhībhyaḥ* ← *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavasvauṣadhībhyaḥ* ← *oṣadhībhyaḥ* ← *oṣadhī*
 - \[noun\], dative, plural, feminine
 - “herb; plant; drug; herb.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiṣaṇābhyaḥ* ← *dhiṣaṇā*
 - \[noun\], dative, plural, feminine
 - “heaven and earth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

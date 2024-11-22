@@ -73,30 +73,44 @@ tánā ← tán- (nominal stem)
 -   *vighnanto* ← *vighnantaḥ* ← *vihan* ← *√han*
 - \[verb noun\], nominative, plural
 - “obstruct; cancel out; restrict.”
-------------------------------------------------------------------------
+
+_________
+
 - *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
-------------------------------------------------------------------------
+
+_________
+
 - *puru*
 - \[noun\], accusative, singular, neuter
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugā* ← *suga*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinaḥ* ← *vājin*
 - \[noun\], nominative, plural, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanā* ← *tan*
 - \[noun\], instrumental, singular, feminine
 - “continuity; sequence; longevity.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvanto* ← *kṛṇvantaḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -107,11 +121,15 @@ tánā ← tán- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvate* ← *arvant*
 - \[noun\], dative, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

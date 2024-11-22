@@ -71,36 +71,54 @@ tuvimātrám ← tuvimātrá- (nominal stem)
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvikūrmiṃ* ← *tuvikūrmim* ← *tuvikūrmi*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tuvideṣṇaṃ* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvideṣṇaṃ* ← *deṣṇam* ← *deṣṇa*
 - \[noun\], accusative, singular, masculine
 - “gift; giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvīmagham* ← *tuvīmagha*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tuvimātram* ← *tuvimātra*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *avobhiḥ* ← *avas*
 - \[noun\], instrumental, plural, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

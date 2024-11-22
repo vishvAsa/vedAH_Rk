@@ -73,54 +73,78 @@ svayāvan ← svayāvan- (nominal stem)
 -   *aghnate* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghnate* ← *ghnate* ← *han*
 - \[verb noun\], dative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṇave* ← *viṣṇu*
 - \[noun\], dative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣyantaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣyantaḥ* ← *riṣyantaḥ* ← *riṣ*
 - \[verb noun\], nominative, plural
 - “suffer; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānave* ← *sudānu*
 - \[noun\], dative, singular, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrudhi* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayāvan* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayāvan* ← *yāvan*
 - \[noun\], vocative, singular, masculine
 - “traveler.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindho* ← *sindhu*
 - \[noun\], vocative, singular, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvacittaye* ← *pūrvacitti*
 - \[noun\], dative, singular, feminine
 - “Pūrvacitti.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

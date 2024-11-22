@@ -108,97 +108,141 @@ ví ← ví (invariable)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *revatā* ← *revat*
 - \[noun\], instrumental, singular, masculine
 - “abundant; rich; affluent; brilliant; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *paṇinā* ← *paṇi*
 - \[noun\], instrumental, singular, masculine
 - “niggard; paṇ.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyam* ← *sakhī*
 - \[noun\], accusative, singular, feminine
 - “confidante; sakhī \[word\]; friend.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *'sunvatā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *'sunvatā* ← *sunvatā* ← *su*
 - \[verb noun\], instrumental, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutapāḥ* ← *suta*
 - \[noun\], masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutapāḥ* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[noun\], nominative, singular, masculine
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇīte* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsya* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedaḥ* ← *vedas*
 - \[noun\], accusative, singular, neuter
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *khidati* ← *khid*
 - \[verb\], singular, Present indikative
 - “tire; depress; press down.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *nagnaṃ* ← *nagnam* ← *nagna*
 - \[noun\], accusative, singular, masculine
 - “bare; nagna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣvaye* ← *suṣvi*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *paktaye* ← *pakti*
 - \[noun\], dative, singular, feminine
 - “digestion; food.”
-------------------------------------------------------------------------
+
+_________
+
 - *kevalo* ← *kevalaḥ* ← *kevala*
 - \[noun\], nominative, singular, masculine
 - “pure; alone(p); whole; all(a); pure; entire; kevala \[word\];
     alone(p); single(a); white; absolute.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

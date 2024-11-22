@@ -79,51 +79,75 @@ híraṇyavat ← híraṇyavant- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvāvad* ← *aśvāvat*
 - \[noun\], accusative, singular, neuter
 - “rich in horses.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartir* ← *vartiḥ* ← *vartis*
 - \[noun\], accusative, singular, neuter
 - “tour.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāsiṣṭam* ← *yā*
 - \[verb\], dual, Aorist inj. (proh.)
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhupātamā* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *madhupātamā* ← *pātamā* ← *pātama*
 - \[noun\], vocative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomad* ← *gomat*
 - \[noun\], accusative, singular, neuter
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyavat*
 - \[noun\], accusative, singular, neuter
 - “possessing gold.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -98,67 +98,99 @@ máma ← ahám (pronoun)
 -   *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *adābhyā* ← *adābhya*
 - \[noun\], nominative, dual, masculine
 - “trustworthy; disabused(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *jaritāraṃ* ← *jaritāram* ← *jaritṛ*
 - \[noun\], accusative, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhas* ← *śubhaḥ* ← *śubh*
 - \[noun\], genitive, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *patī* ← *pati*
 - \[noun\], nominative, dual, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasyum* ← *avasyu*
 - \[noun\], accusative, singular, masculine
 - “seeking protection; helpless.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇantam* ← *gṛ*
 - \[verb noun\], accusative, singular
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūṣatho* ← *bhūṣathaḥ* ← *bhūṣ*
 - \[verb\], dual, Present indikative
 - “endeavor; attend; strive.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādhvī*
 - \[noun\], vocative, dual, masculine
 - “sweet; sweet.”
-------------------------------------------------------------------------
+
+_________
+
 - *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb\], dual, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

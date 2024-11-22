@@ -89,69 +89,101 @@ yātam ← √yā- 1 (root)
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *chardiṣpā* ← *chardiṣpau* ← *chardiṣpā*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *paraspā*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtaṃ* ← *bhūtam* ← *bhū*
 - \[verb\], dual, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagatpā* ← *jagat* ← *jagant*
 - \[noun\], neuter
 - “universe; Earth; world; people; Jagatī; Loka; animal; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagatpā* ← *pau* ← *pā*
 - \[noun\], nominative, dual, masculine
 - “protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *nas* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūpā* ← *tanū*
 - \[noun\], feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūpā* ← *pā*
 - \[noun\], nominative, dual, masculine
 - “protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartis* ← *vartiḥ* ← *vartis*
 - \[noun\], accusative, singular, neuter
 - “tour.”
-------------------------------------------------------------------------
+
+_________
+
 - *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanayāya* ← *tanaya*
 - \[noun\], dative, singular, neuter
 - “biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -98,95 +98,137 @@ tamohánam ← tamohán- (nominal stem)
 
 -   *vediṣade* ← *vediṣad*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *priyadhāmāya* ← *priya*
 - \[noun\]
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyadhāmāya* ← *dhāmāya* ← *dhāma*
 - \[noun\], dative, singular, masculine
 - “Dhāma; blowing.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudyute* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudyute* ← *dyute* ← *dyut*
 - \[noun\], dative, singular, masculine
 - “beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāsim* ← *dhāsi*
 - \[noun\], accusative, singular, feminine
 - “seat; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharā* ← *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnaye* ← *agni*
 - \[noun\], dative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vastreṇeva* ← *vastreṇa* ← *vastra*
 - \[noun\], instrumental, singular, neuter
 - “fabric; clothing; dress; vastra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vastreṇeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāsayā* ← *vāsaya* ← *vāsay*
 - \[verb\], singular, Present imperative
 - “soak; perfume.”
-------------------------------------------------------------------------
+
+_________
+
 - *manmanā* ← *manman*
 - \[noun\], instrumental, singular, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuciṃ* ← *śucim* ← *śuci*
 - \[noun\], accusative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotīrathaṃ* ← *jyotīratham* ← *jyotīratha*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śukravarṇaṃ* ← *śukra*
 - \[noun\]
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukravarṇaṃ* ← *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamohanam* ← *tamaḥ* ← *tamas*
 - \[noun\], neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamohanam* ← *hanam* ← *han*
 - \[noun\], accusative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

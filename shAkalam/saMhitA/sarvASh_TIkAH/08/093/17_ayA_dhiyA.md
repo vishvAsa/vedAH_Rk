@@ -76,43 +76,63 @@ yát ← yá- (pronoun)
 -   *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyayā* ← *gavyā*
 - \[noun\], instrumental, singular, feminine
 - “gorocanā.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṇāman*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣṭuta*
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *some* ← *soma*
 - \[noun\], locative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma* ← *some* ← *soma*
 - \[noun\], locative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhavaḥ* ← *ābhū* ← *√bhū*
 - \[verb\], singular, Imperfect
 - “originate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

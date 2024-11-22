@@ -102,44 +102,62 @@ ní ← ní (invariable)
 -   *prānyac* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prānyac* ← *anyat* ← *anya*
 - \[noun\], accusative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *cakram* ← *cakra*
 - \[noun\], accusative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛhaḥ* ← *vṛh*
 - \[verb\], singular, Imperfect
 - “extract.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *kutsāyānyad* ← *kutsāya* ← *kutsa*
 - \[noun\], dative, singular, masculine
 - “Kutsa; kutsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kutsāyānyad* ← *anyat* ← *anya*
 - \[noun\], accusative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *varivo* ← *varivaḥ* ← *varivas*
 - \[noun\], accusative, singular, neuter
 - “room; varivas \[word\]; space; escape.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātave* ← *yā*
 - \[verb noun\]
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *'kaḥ* ← *akaḥ* ← *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -150,48 +168,70 @@ ní ← ní (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *anāso* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *anāso* ← *āsaḥ* ← *ās*
 - \[noun\], accusative, plural, masculine
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyūṃr* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛṇo* ← *amṛṇaḥ* ← *mṛṇ*
 - \[verb\], singular, Imperfect
 - “kill; crush.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhena* ← *vadha*
 - \[noun\], instrumental, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *duryoṇa* ← *duryoṇe* ← *duryoṇa*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *āvṛṇaṅ* ← *āvṛṇak* ← *āvṛj* ← *√vṛj*
 - \[verb\], singular, Imperfect
 - “appropriate; accord.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛdhravācaḥ* ← *mṛdhra*
 - \[noun\], neuter
-------------------------------------------------------------------------
+
+_________
+
 - *mṛdhravācaḥ* ← *vācaḥ* ← *vāc*
 - \[noun\], accusative, plural, masculine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

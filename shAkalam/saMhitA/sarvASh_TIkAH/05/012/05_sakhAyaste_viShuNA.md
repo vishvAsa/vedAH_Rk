@@ -96,73 +96,105 @@ vr̥jinā́ni ← vr̥jiná- (nominal stem)
 -   *sakhāyas* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣuṇā* ← *viṣuṇāḥ* ← *viṣuṇa*
 - \[noun\], nominative, plural, masculine
 - “different; assorted; antipathetic; changing.”
-------------------------------------------------------------------------
+
+_________
+
 - *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śivāsaḥ* ← *śiva*
 - \[noun\], nominative, plural, masculine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
-------------------------------------------------------------------------
+
+_________
+
 - *santo* ← *santaḥ* ← *as*
 - \[verb noun\], nominative, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśivā* ← *aśivāḥ* ← *aśiva*
 - \[noun\], nominative, plural, masculine
 - “inauspicious; unkind; unfriendly; cruel; dangerous.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhūvan* ← *bhū*
 - \[verb\], plural, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhūrṣata* ← *dhvṛ*
 - \[verb\], plural, Athematic s aor. (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 - *svayam*
 - \[adverb\]
 - “personally; spontaneously; svayam \[word\]; voluntarily.”
-------------------------------------------------------------------------
+
+_________
+
 - *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vacobhir* ← *vacobhiḥ* ← *vacas*
 - \[noun\], instrumental, plural, neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjūyate* ← *ṛjūy*
 - \[verb noun\], dative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjināni* ← *vṛjina*
 - \[noun\], accusative, plural, neuter
 - “sin.”
-------------------------------------------------------------------------
+
+_________
+
 - *bruvantaḥ* ← *brū*
 - \[verb noun\], nominative, plural
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

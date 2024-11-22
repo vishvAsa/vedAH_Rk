@@ -103,11 +103,15 @@ vayám ← ahám (pronoun)
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharāmedhmaṃ* ← *idhmam* ← *idhma*
 - \[noun\], accusative, singular, neuter
 - “fuel.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇavāmā* ← *kṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -118,74 +122,108 @@ vayám ← ahám (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *havīṃṣi* ← *havis*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *citayantaḥ* ← *citay* ← *√cit*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *parvaṇā* ← *parvan*
 - \[noun\], instrumental, singular, neuter
 - “joint; knot; festival; day; articulation; knot.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvaṇā* ← *parvan*
 - \[noun\], instrumental, singular, neuter
 - “joint; knot; festival; day; articulation; knot.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvātave* ← *jīvātu*
 - \[noun\], dative, singular, feminine
 - “life.”
-------------------------------------------------------------------------
+
+_________
+
 - *prataraṃ* ← *prataram*
 - \[adverb\]
 - “farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhayā* ← *sādhay* ← *√sādh*
 - \[verb\], singular, Present imperative
 - “prepare; cure; prepare; perform; produce; compound; treat; treat;
     overpower; achieve; use; cover; prove; prove; process.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhye* ← *sakhya*
 - \[noun\], locative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *riṣāmā* ← *riṣ*
 - \[verb\], plural, Aorist conj./subj.
 - “suffer; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

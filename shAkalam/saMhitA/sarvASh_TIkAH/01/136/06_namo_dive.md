@@ -127,113 +127,163 @@ sómasya ← sóma- (nominal stem)
 -   *namo* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *div*
 - \[noun\], dative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhate* ← *bṛhat*
 - \[noun\], dative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasībhyām* ← *rodasī*
 - \[noun\], dative, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāya* ← *mitra*
 - \[noun\], dative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *vocaṃ* ← *vocam* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇāya* ← *varuṇa*
 - \[noun\], dative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *mīﾱhuṣe* ← *mīḍhuṣe* ← *mīḍhvas*
 - \[noun\], dative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumṛﾱīkāya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumṛﾱīkāya* ← *mṛﾱīkāya* ← *mṛḍīka*
 - \[noun\], dative, singular, masculine
 - “compassion; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *mīﾱhuṣe* ← *mīḍhuṣe* ← *mīḍhvas*
 - \[noun\], dative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyukṣam* ← *dyukṣa*
 - \[noun\], accusative, singular, masculine
 - “celestial; divine; divine; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryamaṇam* ← *aryaman*
 - \[noun\], accusative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhagam* ← *bhaga*
 - \[noun\], accusative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyog* ← *jyok*
 - \[adverb\]
 - “long.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvantaḥ* ← *jīv*
 - \[verb noun\], nominative, plural
 - “survive; be; exist; live on; dwell.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajayā* ← *prajā*
 - \[noun\], instrumental, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacemahi* ← *sac*
 - \[verb\], plural, Present optative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasyotī* ← *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasyotī* ← *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sacemahi* ← *sac*
 - \[verb\], plural, Present optative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,76 +102,112 @@ rájāṁsi ← rájas- (nominal stem)
 -   *yasmā* ← *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ūmāso* ← *ūmāsaḥ* ← *ūma*
 - \[noun\], nominative, plural, masculine
 - “assistant.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtā* ← *amṛtāḥ* ← *amṛta*
 - \[noun\], nominative, plural, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *arāsata* ← *rā*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyas* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *poṣaṃ* ← *poṣam* ← *poṣa*
 - \[noun\], accusative, singular, masculine
 - “prosperity; poṣa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣanty* ← *ukṣanti* ← *ukṣ*
 - \[verb\], plural, Present indikative
 - “sprinkle; wet.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *hitā* ← *hitāḥ* ← *hita*
 - \[noun\], nominative, plural, masculine
 - “beneficial; wholesome; good; suitable; good; appropriate; pleasant;
     Aṣṭādhyāyī 5.1.5; friendly; agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *purū* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajāṃsi* ← *rajas*
 - \[noun\], accusative, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *mayobhuvaḥ* ← *mayobhu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

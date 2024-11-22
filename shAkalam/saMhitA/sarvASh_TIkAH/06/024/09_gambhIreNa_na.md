@@ -103,84 +103,124 @@ vyùṣṭau ← vyùṣṭi- (nominal stem)
 - \[noun\], instrumental, singular, neuter
 - “deep; bass; complex; profound; complicated; intense; gambhīra
     \[word\]; hidden.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruṇāmatrin* ← *uruṇā* ← *uru*
 - \[noun\], instrumental, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruṇāmatrin* ← *amatrin*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *preṣo* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *preṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *yandhi* ← *yam*
 - \[verb\], singular, Aorist imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutapāvan* ← *suta*
 - \[noun\], masculine
 - “son; child.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutapāvan* ← *pāvan*
 - \[noun\], vocative, singular, masculine
 - “drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājān* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthā* ← *sthāḥ* ← *sthā*
 - \[verb\], singular, Aorist conj./subj.
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrdhva* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtī* ← *ūti*
 - \[noun\], accusative, dual, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣaṇyann* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣaṇyann* ← *riṣaṇyan* ← *riṣaṇy* ← *√riṣ*
 - \[verb noun\], nominative, singular
 - “riṣaṇy \[verb\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aktor* ← *aktoḥ* ← *aktu*
 - \[noun\], genitive, singular, masculine
 - “night; dark; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyuṣṭau* ← *vyuṣṭi*
 - \[noun\], locative, singular, feminine
 - “dawn; happiness; consequence.”
-------------------------------------------------------------------------
+
+_________
+
 - *paritakmyāyām* ← *paritakmyā*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -72,39 +72,57 @@ saparyéma ← √sapary- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *girvaṇasaṃ* ← *girvaṇasam* ← *girvaṇas*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇasyuṃ* ← *draviṇasyum* ← *draviṇasyu*
 - \[noun\], accusative, singular, masculine
 - “draviṇasyu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇodaḥ* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇodaḥ* ← *daḥ* ← *dā*
 - \[noun\], vocative, singular, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyema* ← *sapary*
 - \[verb\], plural, Present optative
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyavaḥ* ← *saparyu*
 - \[noun\], nominative, plural, masculine
 - “deferent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

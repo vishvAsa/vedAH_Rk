@@ -108,36 +108,52 @@ vatsám ← vatsá- (nominal stem)
 -   *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *drugdhāni* ← *drugdha*
 - \[noun\], accusative, plural, neuter
 - “malice; misbehavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitryā* ← *pitrya*
 - \[noun\], accusative, plural, neuter
 - “ancestral; paternal.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛjā* ← *sṛja* ← *sṛj*
 - \[verb\], singular, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'va* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], accusative, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṛmā* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -148,52 +164,76 @@ vatsám ← vatsá- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūbhiḥ* ← *tanū*
 - \[noun\], instrumental, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśutṛpaṃ* ← *paśutṛpam* ← *paśutṛp*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tāyuṃ* ← *tāyum* ← *tāyu*
 - \[noun\], accusative, singular, masculine
 - “thief.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛjā* ← *sṛja* ← *sṛj*
 - \[verb\], singular, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *vatsaṃ* ← *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dāmno* ← *dāmnaḥ* ← *dāman*
 - \[noun\], ablative, singular, masculine
 - “wreath; dāman; dāman \[word\]; shackle; girdle; fetter.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭham* ← *vasiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

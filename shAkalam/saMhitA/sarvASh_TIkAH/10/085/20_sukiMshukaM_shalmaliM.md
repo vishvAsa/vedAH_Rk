@@ -93,83 +93,119 @@ vahatúm ← vahatú- (nominal stem)
 -   *sukiṃśukaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukiṃśukaṃ* ← *kiṃśukam* ← *kiṃśuka*
 - \[noun\], accusative, singular, masculine
 - “dhak.”
-------------------------------------------------------------------------
+
+_________
+
 - *śalmaliṃ* ← *śalmalim* ← *śalmali*
 - \[noun\], accusative, singular, masculine
 - “red silk-cotton tree, Bombax ceiba Linn..”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvarūpaṃ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvarūpaṃ* ← *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyavarṇaṃ* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyavarṇaṃ* ← *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvṛtaṃ* ← *suvṛtam* ← *suvṛt*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sucakram* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sucakram* ← *cakram* ← *cakra*
 - \[noun\], accusative, singular, masculine
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *roha* ← *ruh*
 - \[verb\], singular, Present imperative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrye* ← *sūryā*
 - \[noun\], vocative, singular, feminine
 - “Citrullus colocynthis Schrad..”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
-------------------------------------------------------------------------
+
+_________
+
 - *lokaṃ* ← *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
-------------------------------------------------------------------------
+
+_________
+
 - *syonam* ← *syona*
 - \[noun\], accusative, singular, masculine
 - “benevolent; agreeable; pleasant; agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *patye* ← *pati*
 - \[noun\], dative, singular
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahatuṃ* ← *vahatum* ← *vahatu*
 - \[noun\], accusative, singular, masculine
 - “marriage.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇuṣva* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -180,7 +216,9 @@ vahatúm ← vahatú- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,79 +105,117 @@ vr̥ṣasva ← √vr̥ṣ- 1 (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dvibarhā* ← *dvibarhāḥ* ← *dvibarhas*
 - \[noun\], nominative, singular, masculine
 - “double.”
-------------------------------------------------------------------------
+
+_________
+
 - *amino* ← *aminaḥ* ← *amina*
 - \[noun\], nominative, singular, masculine
 - “undiminished.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātv* ← *yātu* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *haribhyām* ← *hari*
 - \[noun\], instrumental, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣiktam* ← *pariṣic* ← *√sic*
 - \[verb noun\], accusative, singular
 - “sprinkle; effuse; rub.”
-------------------------------------------------------------------------
+
+_________
+
 - *andhaḥ* ← *andhas*
 - \[noun\], accusative, singular, neuter
 - “Soma; drink; amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavy* ← *gavi* ← *go*
 - \[noun\], locative, singular
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *prabhṛtasya* ← *prabhṛ* ← *√bhṛ*
 - \[verb noun\], genitive, singular
-------------------------------------------------------------------------
+
+_________
+
 - *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *satrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *khedām* ← *khedā*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *aruśahā* ← *aruśa*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *aruśahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣasva* ← *vṛṣ*
 - \[verb\], singular, Present imperative
 - “shower; rain; effuse; shower; drench.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

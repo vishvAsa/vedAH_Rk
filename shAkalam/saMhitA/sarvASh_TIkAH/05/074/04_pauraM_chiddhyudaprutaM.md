@@ -89,61 +89,91 @@ siṁhám ← siṁhá- (nominal stem)
 
 -   *pauraṃ* ← *pauram* ← *paura*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhy* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciddhy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *udaprutam* ← *uda*
 - \[noun\], neuter
 - “water.”
-------------------------------------------------------------------------
+
+_________
+
 - *udaprutam* ← *prutam* ← *prut*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *paura*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *paurāya* ← *paura*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *jinvathaḥ* ← *jinv*
 - \[verb\], dual, Present indikative
 - “enliven; animate.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *gṛbhītatātaye* ← *gṛbhītatāti*
 - \[noun\], dative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *siṃham* ← *siṃha*
 - \[noun\], accusative, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *druhas* ← *druhaḥ* ← *druh*
 - \[noun\], genitive, singular, feminine
 - “deception; druh; misrepresentation; fraudulence; offense; injury.”
-------------------------------------------------------------------------
+
+_________
+
 - *pade* ← *pada*
 - \[noun\], locative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

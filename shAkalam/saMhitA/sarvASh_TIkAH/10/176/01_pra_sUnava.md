@@ -87,61 +87,89 @@ ná ← ná (invariable)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnava* ← *sūnavaḥ* ← *sūnu*
 - \[noun\], nominative, plural, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhūṇām* ← *ṛbhu*
 - \[noun\], genitive, plural, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhan* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *navanta* ← *nū*
 - \[verb\], plural, Present injunctive
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjanā* ← *vṛjana*
 - \[noun\], instrumental, singular, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāmā* ← *kṣāman*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadhāyaso* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadhāyaso* ← *dhāyasaḥ* ← *dhāyas*
 - \[noun\], nominative, plural, masculine
 - “alimentary; sustaining.”
-------------------------------------------------------------------------
+
+_________
+
 - *'śnan* ← *aśnan* ← *aś*
 - \[verb\], plural, Imperfect
 - “eat; consume; chew; feed.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenuṃ* ← *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -67,36 +67,52 @@ sahásracakṣasam ← sahásracakṣas- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyatreṇa* ← *gāyatra*
 - \[noun\], instrumental, singular, neuter
 - “Gāyatrī; Gāyatra.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānaṃ* ← *pavamānam* ← *pū*
 - \[verb noun\], accusative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicarṣaṇim* ← *vicarṣaṇi*
 - \[noun\], accusative, singular, masculine
 - “excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *induṃ* ← *indum* ← *indu*
 - \[noun\], accusative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasracakṣasam* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasracakṣasam* ← *cakṣasam* ← *cakṣas*
 - \[noun\], accusative, singular, masculine
 - “eye; look; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

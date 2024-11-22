@@ -99,79 +99,113 @@ udakám ← udaká- (nominal stem)
 -   *sūyavasād* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūyavasād* ← *yavasāt* ← *yavasa*
 - \[noun\], ablative, singular, masculine
 - “eatage; pasture; fodder.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhagavatī* ← *bhagavat*
 - \[noun\], nominative, singular, feminine
 - “honorable; divine; fortunate; holy; adorable; happy; august;
     favored.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūyā* ← *bhūyāḥ* ← *bhū*
 - \[verb\], singular, Prekativ
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *atho*
 - \[adverb\]
 - “now; but; furthermore.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhagavantaḥ* ← *bhagavat*
 - \[noun\], nominative, plural, masculine
 - “honorable; divine; fortunate; holy; adorable; happy; august;
     favored.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *addhi* ← *ad*
 - \[verb\], singular, Present imperative
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛṇam* ← *tṛṇa*
 - \[noun\], accusative, singular, neuter
 - “grass; tṛṇa \[word\]; herb.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghnye* ← *aghnyā*
 - \[noun\], vocative, singular, feminine
 - “cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadānīm*
 - \[adverb\]
 - “always.”
-------------------------------------------------------------------------
+
+_________
+
 - *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuddham* ← *śudh*
 - \[verb noun\], accusative, singular
 - “become pure; purify; wash; expiate; clean; cleanse.”
-------------------------------------------------------------------------
+
+_________
+
 - *udakam* ← *udaka*
 - \[noun\], accusative, singular, neuter
 - “water; Udaka; juice; body of water; solution; udaka \[word\];
     decoction; udakaprameha; washing water; kaṣāya; tear; ablution.”
-------------------------------------------------------------------------
+
+_________
+
 - *ācarantī* ← *ācar* ← *√car*
 - \[verb noun\], nominative, singular
 - “perform; prowl; administer; make; frequent; treat; cause; approach;
     heed; treat; act; produce; behave; put on; do; undertake.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

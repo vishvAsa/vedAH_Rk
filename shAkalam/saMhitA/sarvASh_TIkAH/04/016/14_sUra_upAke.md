@@ -108,84 +108,124 @@ siṁháḥ ← siṁhá- (nominal stem)
 -   *sūra* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *upāke* ← *upāka*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāno* ← *dadhānaḥ* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *cety* ← *ceti* ← *cit*
 - \[verb\], singular, Aorist passive
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *varpaḥ* ← *varpas*
 - \[noun\], nominative, singular, neuter
 - “form; look; disguise.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛgo* ← *mṛgaḥ* ← *mṛga*
 - \[noun\], nominative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hastī* ← *hastin*
 - \[noun\], nominative, singular, masculine
 - “elephant; hastin \[word\]; Hastin; hastimeha.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣīm* ← *taviṣī*
 - \[noun\], accusative, singular, feminine
 - “strength; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣāṇaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṃho* ← *siṃhaḥ* ← *siṃha*
 - \[noun\], nominative, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhīma* ← *bhīmaḥ* ← *bhīma*
 - \[noun\], nominative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyudhāni* ← *āyudha*
 - \[noun\], accusative, plural, neuter
 - “weapon; āyudha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bibhrat* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,84 +99,122 @@ vr̥trā́ṇām ← vr̥trá- (nominal stem)
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyām* ← *idam*
 - \[noun\], locative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnahūtau* ← *dyumna*
 - \[noun\], neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnahūtau* ← *hūtau* ← *hūti*
 - \[noun\], locative, singular, feminine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahina*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *preṣṭhāḥ* ← *preṣṭha*
 - \[noun\], nominative, plural, masculine
 - “dearest.”
-------------------------------------------------------------------------
+
+_________
+
 - *prātardaniḥ* ← *prātardani*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatraśrīr* ← *kṣatra*
 - \[noun\], neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatraśrīr* ← *śrīḥ* ← *śrī*
 - \[noun\], nominative, singular, masculine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *śreṣṭho* ← *śreṣṭhaḥ* ← *śreṣṭha*
 - \[noun\], nominative, singular, masculine
 - “best; better; chief(a); beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghane* ← *ghana*
 - \[noun\], locative, singular, neuter
 - “abhra; cloud; hammer; ghana; hammer; rainy season; tin; iron; ghana
     \[word\]; ghana; nutgrass; ball; phlegm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrāṇāṃ* ← *vṛtrāṇām* ← *vṛtra*
 - \[noun\], genitive, plural, neuter
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanaye* ← *sani*
 - \[noun\], dative, singular, feminine
 - “gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanānām* ← *dhana*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

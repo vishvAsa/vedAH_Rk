@@ -92,60 +92,88 @@ vā́jāya ← vā́ja- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojiṣṭham* ← *ojiṣṭha*
 - \[noun\], accusative, singular, neuter
 - “powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnam* ← *dyumna*
 - \[noun\], accusative, singular, neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhrigo* ← *adhrigu*
 - \[noun\], vocative, singular, masculine
 - “rich; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *parīṇasā* ← *parīṇas*
 - \[noun\], instrumental, singular, masculine
 - “plenty.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratsi* ← *rad*
 - \[verb\], singular, Aorist conj./subj.
 - “dig.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *panthām* ← *pathin*
 - \[noun\], accusative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

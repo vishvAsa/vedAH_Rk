@@ -76,46 +76,66 @@ párvataḥ ← párvata- (nominal stem)
 -   *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmāya* ← *yāma*
 - \[noun\], dative, singular, masculine
 - “prahara; watch; travel; path.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣo* ← *mānuṣaḥ* ← *mānuṣa*
 - \[noun\], nominative, singular, masculine
 - “man; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhra* ← *dadhre* ← *dhṛ*
 - \[verb\], singular, Perfect indicative
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugrāya* ← *ugra*
 - \[noun\], dative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyave* ← *manyu*
 - \[noun\], dative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihīta* ← *hā*
 - \[verb\], singular, Present injunctive
 - “move over; yield; give way.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvato* ← *parvataḥ* ← *parvata*
 - \[noun\], nominative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *giriḥ* ← *giri*
 - \[noun\], nominative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

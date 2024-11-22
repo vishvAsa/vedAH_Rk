@@ -102,83 +102,121 @@ sudā́sam ← sudā́s- (nominal stem)
 -   *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśyamānāsa* ← *paśyamānāsaḥ* ← *paś*
 - \[verb noun\], nominative, plural
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpyam* ← *āpya*
 - \[noun\], accusative, singular, neuter
 - “friendship.”
-------------------------------------------------------------------------
+
+_________
+
 - *prācā* ← *prāñc*
 - \[noun\], instrumental, singular, masculine
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyantaḥ* ← *gavyat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthuparśavo* ← *pṛthu*
 - \[noun\]
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthuparśavo* ← *parśavaḥ* ← *parśu*
 - \[noun\], nominative, plural, masculine
 - “rib; parśu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yayuḥ* ← *yā*
 - \[verb\], plural, Perfect indicative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsā* ← *dāsa*
 - \[noun\], accusative, plural, neuter
 - “dāsa(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrā* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *hatam* ← *han*
 - \[verb\], dual, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *āryāṇi* ← *ārya*
 - \[noun\], accusative, plural, neuter
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudāsam* ← *sudās*
 - \[noun\], accusative, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāvaruṇāvasāvatam* ← *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāvaruṇāvasāvatam* ← *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāvaruṇāvasāvatam* ← *avatam* ← *av*
 - \[verb\], dual, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

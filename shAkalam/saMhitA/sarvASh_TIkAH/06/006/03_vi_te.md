@@ -96,82 +96,118 @@ vananti ← √vanⁱ- (root)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣvag* ← *viṣvak* ← *viṣvañc*
 - \[noun\], accusative, singular, neuter
 - “dispersed; viṣvañc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vātajūtāso* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātajūtāso* ← *jūtāsaḥ* ← *jū*
 - \[verb noun\], nominative, plural
 - “animate; encourage; impel; inspire.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāmāsaḥ* ← *bhāma*
 - \[noun\], nominative, plural, masculine
 - “beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuce* ← *śuci*
 - \[noun\], vocative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucayaś* ← *śucayaḥ* ← *śuci*
 - \[noun\], nominative, plural, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvimrakṣāso* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvimrakṣāso* ← *mrakṣāsaḥ* ← *mrakṣa*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *divyā* ← *divyāḥ* ← *divya*
 - \[noun\], nominative, plural, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *navagvā* ← *navagvāḥ* ← *navagva*
 - \[noun\], nominative, plural, masculine
 - “Navagva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanā* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *vananti* ← *van*
 - \[verb\], plural, Present indikative
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣatā* ← *dhṛṣ*
 - \[verb noun\], instrumental, singular
 - “dare; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *rujantaḥ* ← *ruj*
 - \[verb noun\], nominative, plural
 - “break; bend.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

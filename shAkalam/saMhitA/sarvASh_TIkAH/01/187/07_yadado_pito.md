@@ -90,65 +90,93 @@ gamyāḥ ← √gam- (root)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ado* ← *adaḥ* ← *adas*
 - \[noun\], accusative, singular, neuter
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *pito* ← *pitu*
 - \[noun\], vocative, singular, masculine
 - “food.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajagan* ← *gam*
 - \[verb\], singular, Plusquamperfect
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivasva* ← *vivasvan*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *parvatānām* ← *parvata*
 - \[noun\], genitive, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *atrā* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *madho* ← *madhu*
 - \[noun\], vocative, singular, masculine
 - “sweet; deft.”
-------------------------------------------------------------------------
+
+_________
+
 - *pito* ← *pitu*
 - \[noun\], vocative, singular, masculine
 - “food.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ram* ← *aram*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *bhakṣāya* ← *bhakṣa*
 - \[noun\], dative, singular, masculine
 - “food; eating; drink; beverage.”
-------------------------------------------------------------------------
+
+_________
+
 - *gamyāḥ* ← *gam*
 - \[verb\], singular, Prekativ
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

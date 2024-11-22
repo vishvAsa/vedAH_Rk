@@ -108,86 +108,126 @@ vindaḥ ← √vid- 1 (root)
 -   *saptāpo* ← *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptāpo* ← *apaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *suraṇā* ← *suraṇāḥ* ← *suraṇa*
 - \[noun\], nominative, plural, feminine
 - “joyful.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛktā* ← *amṛktāḥ* ← *amṛkta*
 - \[noun\], nominative, plural, feminine
 - “new; undamaged; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhum* ← *sindhu*
 - \[noun\], accusative, singular, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *atara* ← *ataraḥ* ← *tṛ*
 - \[verb\], singular, Imperfect
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrbhit* ← *pūrbhid*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *navatiṃ* ← *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *srotyā* ← *srotyāḥ* ← *srotyā*
 - \[noun\], accusative, plural, feminine
 - “river.”
-------------------------------------------------------------------------
+
+_________
+
 - *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sravantīr* ← *sravantīḥ* ← *sru*
 - \[verb noun\], accusative, plural
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣe* ← *manus*
 - \[noun\], dative, singular, masculine
 - “Manu; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vindaḥ* ← *vid*
 - \[verb\], singular, Present injunctive
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

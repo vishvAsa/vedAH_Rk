@@ -87,56 +87,82 @@ yā́tave ← √yā- 1 (root)
 -   *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣapā* ← *kṣap*
 - \[noun\], instrumental, singular, feminine
 - “night.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣkṛto* ← *pariṣkṛtaḥ* ← *pariṣkṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājāṃ* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāhate* ← *gāh*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivasvato* ← *vivasvataḥ* ← *vivasvant*
 - \[noun\], genitive, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], nominative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *hariṃ* ← *harim* ← *hari*
 - \[noun\], accusative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinvanti* ← *hi*
 - \[verb\], plural, Present indikative
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātave* ← *yā*
 - \[verb noun\]
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

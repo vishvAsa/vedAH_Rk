@@ -111,89 +111,129 @@ u ← u (invariable)
 -   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛśānum* ← *kṛśānu*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; Plumbago zeylanica.”
-------------------------------------------------------------------------
+
+_________
+
 - *asane* ← *asana*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *duvasyatho* ← *duvasyathaḥ* ← *duvasy*
 - \[verb\], dual, Present indikative
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *jave* ← *java*
 - \[noun\], locative, singular, masculine
 - “speed; Java; speed.”
-------------------------------------------------------------------------
+
+_________
+
 - *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yūno* ← *yūnaḥ* ← *yuvan*
 - \[noun\], genitive, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvantam* ← *arvant*
 - \[noun\], accusative, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvatam* ← *av*
 - \[verb\], dual, Imperfect
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharatho* ← *bharathaḥ* ← *bhṛ*
 - \[verb\], dual, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *saraḍbhyas* ← *saraḍbhyaḥ* ← *saraḍ*
 - \[noun\], dative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

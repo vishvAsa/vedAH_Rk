@@ -73,41 +73,61 @@ avadhīḥ ← √vadhⁱ- (root)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyā* ← *tya*
 - \[noun\], accusative, dual, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadya* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āryā* ← *ārya*
 - \[noun\], accusative, dual, masculine
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarayor* ← *sarayoḥ* ← *sarayu*
 - \[noun\], genitive, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārataḥ* ← *pāratas*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *arṇācitrarathāvadhīḥ* ← *arṇā*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *arṇācitrarathāvadhīḥ* ← *citrarathā* ← *citraratha*
 - \[noun\], accusative, dual, masculine
 - “Citraratha.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṇācitrarathāvadhīḥ* ← *vadhīḥ* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

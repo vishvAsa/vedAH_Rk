@@ -111,92 +111,134 @@ vīryā̀ya ← vīryà- (nominal stem)
 -   *asyed* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhiyā* ← *bhī*
 - \[noun\], instrumental, singular, feminine
 - “fear; bhī; alarm.”
-------------------------------------------------------------------------
+
+_________
+
 - *girayaś* ← *girayaḥ* ← *giri*
 - \[noun\], nominative, plural, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛḍhā* ← *dṛḍhāḥ* ← *dṛh*
 - \[verb noun\], nominative, plural
 - “fixate; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvā* ← *div*
 - \[noun\], nominative, dual, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmā* ← *bhūmi*
 - \[noun\], nominative, dual, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
-------------------------------------------------------------------------
+
+_________
+
 - *januṣas* ← *januṣaḥ* ← *janus*
 - \[noun\], ablative, singular, neuter
 - “birth.”
-------------------------------------------------------------------------
+
+_________
+
 - *tujete* ← *tuj*
 - \[verb\], dual, Present indikative
 - “draw.”
-------------------------------------------------------------------------
+
+_________
+
 - *upo* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *upo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *venasya* ← *vena*
 - \[noun\], genitive, singular, masculine
 - “Vena.”
-------------------------------------------------------------------------
+
+_________
+
 - *joguvāna* ← *joguvānaḥ* ← *joguv* ← *√gu*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *oṇiṃ* ← *oṇim* ← *oṇi*
 - \[noun\], accusative, singular, feminine
 - “arm.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvad* ← *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist conj./subj.
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīryāya* ← *vīrya*
 - \[noun\], dative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *nodhāḥ* ← *nodhas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

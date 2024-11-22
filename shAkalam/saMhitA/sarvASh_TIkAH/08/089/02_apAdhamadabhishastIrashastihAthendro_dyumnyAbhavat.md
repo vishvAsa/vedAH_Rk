@@ -95,78 +95,112 @@ márudgaṇa ← marúdgaṇa- (nominal stem)
 
 -   *apādhamad* ← *apādhamat* ← *apadham* ← *√dham*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *abhiśastīr* ← *abhiśastīḥ* ← *abhiśasti*
 - \[noun\], accusative, plural, feminine
 - “hex; accusation; defamation; blame; aspersion.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśastihāthendro* ← *aśasti*
 - \[noun\], feminine
 - “hex.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśastihāthendro* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśastihāthendro* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśastihāthendro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumny* ← *dyumnī* ← *dyumnin*
 - \[noun\], nominative, singular, masculine
 - “powerful; imperial.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhavat* ← *ābhū* ← *√bhū*
 - \[verb\], singular, Imperfect
 - “originate.”
-------------------------------------------------------------------------
+
+_________
+
 - *devās* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *yemire* ← *yam*
 - \[verb\], plural, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhadbhāno* ← *bṛhat*
 - \[noun\]
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhadbhāno* ← *bhāno* ← *bhānu*
 - \[noun\], vocative, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *marudgaṇa* ← *marut*
 - \[noun\], masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *marudgaṇa* ← *gaṇa*
 - \[noun\], vocative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

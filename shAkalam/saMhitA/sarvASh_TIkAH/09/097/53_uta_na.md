@@ -102,75 +102,111 @@ vr̥kṣám ← vr̥kṣá- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *enā* ← *enad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *pavayā* ← *pavā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *pavasvādhi* ← *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavasvādhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrute* ← *śru*
 - \[verb noun\], locative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravāyyasya* ← *śravāyya*
 - \[noun\], genitive, singular, masculine
 - “celebrated.”
-------------------------------------------------------------------------
+
+_________
+
 - *tīrthe* ← *tīrtha*
 - \[noun\], locative, singular, neuter
 - “Tīrtha; ford; tīrtha \[word\]; guru; administrator; fingertip;
     landing.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣaṣṭiṃ* ← *ṣaṣṭim* ← *ṣaṣṭi*
 - \[noun\], accusative, singular, feminine
 - “sixty; sixtieth; ṣaṣṭi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naiguto* ← *naigutaḥ* ← *naiguta*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkṣaṃ* ← *vṛkṣam* ← *vṛkṣa*
 - \[noun\], accusative, singular, masculine
 - “tree; fruit tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pakvaṃ* ← *pakvam* ← *pakva*
 - \[noun\], accusative, singular, masculine
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūnavad* ← *dhūnavat* ← *dhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “shake; remove; chase away.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṇāya* ← *raṇa*
 - \[noun\], dative, singular, masculine
 - “battle; fight; pleasure; joy; war; combat.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

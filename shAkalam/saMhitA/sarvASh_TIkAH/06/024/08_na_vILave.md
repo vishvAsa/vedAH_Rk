@@ -105,86 +105,126 @@ gambhīré ← gambhīrá- (nominal stem)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vīﾱave* ← *vīḍu*
 - \[noun\], dative, singular, masculine
 - “hard; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *namate* ← *nam*
 - \[verb\], singular, Present indikative
 - “bow; bend; condescend; worship; bend; lower.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sthirāya* ← *sthira*
 - \[noun\], dative, singular, masculine
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhate* ← *śṛdh*
 - \[verb noun\], dative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *dasyujūtāya* ← *dasyu*
 - \[noun\], masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyujūtāya* ← *jūtāya* ← *jū*
 - \[verb noun\], dative, singular
 - “animate; encourage; impel; inspire.”
-------------------------------------------------------------------------
+
+_________
+
 - *stavān* ← *stavat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ajrā* ← *ajrāḥ* ← *ajra*
 - \[noun\], nominative, plural, masculine
 - “plain.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *girayaś* ← *girayaḥ* ← *giri*
 - \[noun\], nominative, plural, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣvā* ← *ṛṣvāḥ* ← *ṛṣva*
 - \[noun\], nominative, plural, masculine
 - “distinguished; high; noble; enormous.”
-------------------------------------------------------------------------
+
+_________
+
 - *gambhīre* ← *gambhīra*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[noun\], nominative, singular, feminine
 - “supreme spirit; cit \[word\]; soul.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *gādham* ← *gādha*
 - \[noun\], nominative, singular, neuter
 - “ford.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

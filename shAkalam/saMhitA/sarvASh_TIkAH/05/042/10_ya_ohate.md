@@ -102,75 +102,109 @@ tuchyā́n ← tuchyá- (nominal stem)
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ohate* ← *ūh*
 - \[verb\], singular, Present indikative
 - “diagnose.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣaso* ← *rakṣasaḥ* ← *rakṣas*
 - \[noun\], accusative, plural, masculine
 - “Rākṣasa.”
-------------------------------------------------------------------------
+
+_________
+
 - *devavītāv* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devavītāv* ← *vītau* ← *vīti*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *acakrebhis* ← *acakrebhiḥ* ← *acakra*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāta* ← *yā*
 - \[verb\], plural, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śamīṃ* ← *śamīm* ← *śamī*
 - \[noun\], accusative, singular, feminine
 - “Prosopis spicigera Linn.; śamī \[word\]; Acacia sundra; attempt;
     labor.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśamānasya* ← *śam*
 - \[verb noun\], genitive, singular
 - “calm; go out; end; die; pacify; heal; labor; make peace; rest.”
-------------------------------------------------------------------------
+
+_________
+
 - *nindāt* ← *nind*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “blame; disapprove; condemn; reprehend; reprimand.”
-------------------------------------------------------------------------
+
+_________
+
 - *tucchyān* ← *tucchya*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kāmān* ← *kāma*
 - \[noun\], accusative, plural, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 - *karate* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -181,11 +215,15 @@ tuchyā́n ← tuchyá- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣvidānaḥ* ← *svid*
 - \[verb noun\], nominative, singular
 - “sveday; svid; sweat; heat; macerate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

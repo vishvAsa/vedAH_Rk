@@ -94,61 +94,89 @@ háribhiḥ ← hári- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryantam* ← *hary*
 - \[verb noun\], accusative, singular
 - “delight.”
-------------------------------------------------------------------------
+
+_________
+
 - *arjunaṃ* ← *arjunam* ← *arjuna*
 - \[noun\], accusative, singular, masculine
 - “white; clean; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukrair* ← *śukraiḥ* ← *śukra*
 - \[noun\], instrumental, plural, masculine
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīvṛtam* ← *abhivṛ* ← *√vṛ*
 - \[verb noun\], accusative, singular
 - “cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāvṛṇoddharibhir* ← *apāvṛṇot* ← *apāvṛ* ← *√vṛ*
 - \[verb\], singular, Imperfect
 - “open; gape.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāvṛṇoddharibhir* ← *haribhiḥ* ← *hari*
 - \[noun\], instrumental, plural, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *haribhir* ← *haribhiḥ* ← *hari*
 - \[noun\], instrumental, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājata* ← *āj* ← *√aj*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

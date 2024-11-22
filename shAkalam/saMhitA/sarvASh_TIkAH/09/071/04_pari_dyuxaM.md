@@ -99,71 +99,107 @@ várīmabhiḥ ← várīman- (nominal stem)
 -   *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyukṣaṃ* ← *dyukṣam* ← *dyukṣa*
 - \[noun\], accusative, singular, masculine
 - “celestial; divine; divine; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatāvṛdham* ← *parvatāvṛdh*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *madhvaḥ* ← *madhu*
 - \[noun\], nominative, plural, feminine
 - “sweet; deft.”
-------------------------------------------------------------------------
+
+_________
+
 - *siñcanti* ← *sic*
 - \[verb\], plural, Present indikative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *harmyasya* ← *harmya*
 - \[noun\], genitive, singular, neuter
 - “mansion; house; palace.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakṣaṇim* ← *sakṣaṇi*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhutāda* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhutāda* ← *hutāde* ← *hutād*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ūdhani* ← *ūdhas*
 - \[noun\], locative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *mūrdhañchrīṇanty* ← *mūrdhan*
 - \[noun\], locative, singular, masculine
 - “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
-------------------------------------------------------------------------
+
+_________
+
 - *mūrdhañchrīṇanty* ← *śrīṇanti* ← *śrī*
 - \[verb\], plural, Present indikative
 - “cook; boil; heat; cook; mix.”
-------------------------------------------------------------------------
+
+_________
+
 - *agriyaṃ* ← *agriyam* ← *agriya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *varīmabhiḥ* ← *varīman*
 - \[noun\], instrumental, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

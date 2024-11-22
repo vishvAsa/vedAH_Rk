@@ -77,48 +77,70 @@ nivátā ← nivát- (nominal stem)
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *evāre* ← *are*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhā* ← *vṛṣabha*
 - \[noun\], vocative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *sute* ← *su*
 - \[verb noun\], locative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *'sinvan* ← *asinvan* ← *asinvat*
 - \[noun\], nominative, singular, masculine
 - “insatiate.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūry* ← *bhūri*
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvayaḥ* ← *āvay*
 - \[verb\], singular, Imperfect
 - “eat.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvaghnīva* ← *śvaghnī* ← *śvaghnin*
 - \[noun\], nominative, singular, masculine
 - “gambler.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvaghnīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *nivatā* ← *nivat*
 - \[noun\], instrumental, singular, feminine
 - “depth.”
-------------------------------------------------------------------------
+
+_________
+
 - *caran* ← *car*
 - \[verb noun\], nominative, singular
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -110,93 +110,135 @@ yát ← yá- (pronoun)
 
 -   *aram*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *gantaṃ* ← *gantam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *havanāyāsmai* ← *havanāya* ← *havana*
 - \[noun\], dative, singular, neuter
 - “yajña.”
-------------------------------------------------------------------------
+
+_________
+
 - *havanāyāsmai* ← *asmai* ← *idam*
 - \[noun\], dative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇānā* ← *gṛ*
 - \[verb noun\], nominative, dual
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibātho* ← *pibāthaḥ* ← *pā*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *andhaḥ* ← *andhas*
 - \[noun\], accusative, singular, neuter
 - “Soma; drink; amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartir* ← *vartiḥ* ← *vartis*
 - \[noun\], accusative, singular, neuter
 - “tour.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātho* ← *yāthaḥ* ← *yā*
 - \[verb\], dual, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *riṣo* ← *riṣaḥ* ← *riṣ*
 - \[noun\], ablative, singular, feminine
 - “injury; riṣ; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paro* ← *paraḥ* ← *para*
 - \[noun\], nominative, singular, masculine
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāntaras* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāntaras* ← *antaraḥ* ← *antara*
 - \[noun\], nominative, singular, masculine
 - “another(a); other; interior; different; near; intermediate;
     following.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuturyāt* ← *tur*
 - \[verb\], singular, Perfect conjunctive (subj.)
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

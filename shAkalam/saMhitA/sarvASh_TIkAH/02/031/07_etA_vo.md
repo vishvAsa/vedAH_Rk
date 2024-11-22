@@ -102,73 +102,109 @@ sáptiḥ ← sápti- (nominal stem)
 -   *etā* ← *etad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaśmy* ← *vaśmi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *udyatā* ← *udyam* ← *√yam*
 - \[verb noun\], accusative, plural
 - “raise; prepare; begin; endeavor; specialize.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatrā* ← *yajatrāḥ* ← *yajatra*
 - \[noun\], vocative, plural, masculine
 - “adorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *atakṣann* ← *atakṣan* ← *takṣ*
 - \[verb\], plural, Imperfect
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyavo* ← *āyavaḥ* ← *āyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *navyase* ← *navyas*
 - \[noun\], dative, singular, neuter
 - “new.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravasyavo* ← *śravasyavaḥ* ← *śravasyu*
 - \[noun\], nominative, plural, masculine
 - “celebrated.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakānāḥ* ← *kan*
 - \[verb noun\], nominative, plural
 - “like; delight; desire.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptir* ← *saptiḥ* ← *sapti*
 - \[noun\], nominative, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rathyo* ← *rathyaḥ* ← *rathya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītim* ← *dhīti*
 - \[noun\], accusative, singular, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśyāḥ* ← *aś*
 - \[verb\], singular, Aorist optative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -87,70 +87,102 @@ uruśáṁsāḥ ← uruśáṁsa- (nominal stem)
 -   *trī* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rocanā* ← *rocana*
 - \[noun\], accusative, plural, neuter
 - “citron; pomegranate.”
-------------------------------------------------------------------------
+
+_________
+
 - *divyā* ← *divya*
 - \[noun\], accusative, plural, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārayanta* ← *dhāray* ← *√dhṛ*
 - \[verb\], plural, Imperfect
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayāḥ* ← *hiraṇyaya*
 - \[noun\], nominative, plural, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śucayo* ← *śucayaḥ* ← *śuci*
 - \[noun\], nominative, plural, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārapūtāḥ* ← *dhāra*
 - \[noun\], masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dhārapūtāḥ* ← *pūtāḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *asvapnajo* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *asvapnajo* ← *svapnajaḥ* ← *svapnaj*
 - \[noun\], nominative, plural, masculine
 - “sleepy; asleep(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *animiṣā* ← *animiṣāḥ* ← *animiṣa*
 - \[noun\], nominative, plural, masculine
 - “agaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *adabdhā* ← *adabdhāḥ* ← *adabdha*
 - \[noun\], nominative, plural, masculine
 - “unfailing; unimpaired.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruśaṃsā* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruśaṃsā* ← *śaṃsāḥ* ← *śaṃsa*
 - \[noun\], nominative, plural, masculine
 - “praise; śaṃs; recitation.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjave* ← *ṛju*
 - \[noun\], dative, singular, masculine
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyāya* ← *martya*
 - \[noun\], dative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

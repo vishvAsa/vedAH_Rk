@@ -100,77 +100,113 @@ prá ← prá (invariable)
 - \[noun\], nominative, plural, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudrā* ← *rudrāḥ* ← *rudra*
 - \[noun\], nominative, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajarā* ← *ajarāḥ* ← *ajara*
 - \[noun\], nominative, plural, masculine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhogghano* ← *abhoj*
 - \[noun\]
 - “stingy.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhogghano* ← *hanaḥ* ← *han*
 - \[noun\], nominative, plural, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavakṣur* ← *vavakṣuḥ* ← *vakṣ*
 - \[verb\], plural, Perfect indicative
 - “grow; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhrigāvaḥ* ← *adhrigu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *parvatā* ← *parvatāḥ* ← *parvata*
 - \[noun\], nominative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛḍhā* ← *dṛh*
 - \[verb noun\], accusative, plural
 - “fixate; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pārthivā* ← *pārthiva*
 - \[noun\], accusative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *cyāvayanti* ← *cyāvay* ← *√cyu*
 - \[verb\], plural, Present indikative
 - “chase away; remove; move.”
-------------------------------------------------------------------------
+
+_________
+
 - *divyāni* ← *divya*
 - \[noun\], accusative, plural, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *majmanā* ← *majman*
 - \[noun\], instrumental, singular, masculine
 - “size.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

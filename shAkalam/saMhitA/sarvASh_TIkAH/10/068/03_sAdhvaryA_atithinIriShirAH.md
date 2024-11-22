@@ -92,76 +92,110 @@ yávam ← yáva- (nominal stem)
 
 -   *sādhvaryā* ← *sādhvaryāḥ* ← *sādhvarya*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *atithinīr* ← *atithinīḥ* ← *atithin*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *iṣirā* ← *iṣira*
 - \[noun\], accusative, plural, feminine
 - “vigorous; bracing; quick.”
-------------------------------------------------------------------------
+
+_________
+
 - *spārhāḥ* ← *spārha*
 - \[noun\], accusative, plural, feminine
 - “desirable.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvarṇā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvarṇā* ← *varṇāḥ* ← *varṇa*
 - \[noun\], accusative, plural, feminine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
-------------------------------------------------------------------------
+
+_________
+
 - *anavadyarūpāḥ* ← *anavadya*
 - \[noun\]
 - “blameless; faultless.”
-------------------------------------------------------------------------
+
+_________
+
 - *anavadyarūpāḥ* ← *rūpāḥ* ← *rūpa*
 - \[noun\], accusative, plural, feminine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatebhyo* ← *parvatebhyaḥ* ← *parvata*
 - \[noun\], ablative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *vitūryā* ← *vitūrya* ← *vitṛ* ← *√tṛ*
 - \[verb noun\]
 - “give; administer; distribute; spend; accord; give away; bandage.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūpe* ← *vap*
 - \[verb\], singular, Perfect indicative
 - “sow; bestrew; strew; scatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *yavam* ← *yava*
 - \[noun\], accusative, singular, masculine
 - “barley; yava; barleycorn; yava \[word\]; yava; yavakṣāra; grain.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthivibhyaḥ* ← *sthivi*
 - \[noun\], ablative, plural, masculine
 - “sack.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

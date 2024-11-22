@@ -111,85 +111,125 @@ véṣantīḥ ← √viṣ- 1 (root)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaradvān* ← *śaradvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣṣāṭ* ← *niṣṣāh*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣaś* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhva* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṇan* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “send.”
-------------------------------------------------------------------------
+
+_________
+
 - *evair* ← *evaiḥ* ← *eva*
 - \[noun\], instrumental, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyasya* ← *anya*
 - \[noun\], genitive, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *pīpayanta* ← *pyā*
 - \[verb\], plural, Perfect conjunctive (subj.)
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājair* ← *vājaiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *veṣantīr* ← *veṣantīḥ* ← *viṣ*
 - \[verb noun\], nominative, plural
 - “labor; act; perform.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrdhvā* ← *ūrdhvāḥ* ← *ūrdhva*
 - \[noun\], nominative, plural, feminine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], nominative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *āguḥ* ← *āgā* ← *√gā*
 - \[verb\], plural, Root aorist (Ind.)
 - “come; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

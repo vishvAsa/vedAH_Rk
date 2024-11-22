@@ -105,80 +105,118 @@ sómasya ← sóma- (nominal stem)
 -   *hiraṇyastūpaḥ* ← *hiraṇyastūpa*
 - \[noun\], nominative, singular, masculine
 - “Hiraṇyastūpa.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitar* ← *savitṛ*
 - \[noun\], vocative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāṅgiraso* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāṅgiraso* ← *āṅgirasaḥ* ← *āṅgirasa*
 - \[noun\], nominative, singular, masculine
 - “Aṅgiras; Brihaspati; Bṛhaspati; Jupiter.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhve* ← *hvā*
 - \[verb\], singular, Perfect indicative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāje* ← *vāja*
 - \[noun\], locative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvārcann* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvārcann* ← *arcan* ← *arc*
 - \[verb noun\], nominative, singular
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandamānaḥ* ← *vand*
 - \[verb noun\], nominative, singular
 - “worship; laud.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasyevāṃśum* ← *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasyevāṃśum* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasyevāṃśum* ← *aṃśum* ← *aṃśu*
 - \[noun\], accusative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāgarāham* ← *jāgara* ← *jāgṛ*
 - \[verb\], singular, Perfect indicative
 - “wake; watch; awaken; wake up; oversee.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāgarāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

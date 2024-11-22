@@ -78,39 +78,57 @@ saṁyátam ← saṁyát- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsye* ← *āsya*
 - \[noun\], locative, singular, neuter
 - “mouth; mouth; aperture; face; mukha; jaw; point.”
-------------------------------------------------------------------------
+
+_________
+
 - *havir* ← *haviḥ* ← *havis*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *juhotā* ← *juhota* ← *hu*
 - \[verb\], plural, Present imperative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumattamam* ← *madhumattama*
 - \[noun\], accusative, singular, neuter
 - “sweetest.”
-------------------------------------------------------------------------
+
+_________
+
 - *iﾱāṃ* ← *iﾱām* ← *iḍā*
 - \[noun\], accusative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃyataṃ* ← *saṃyatam* ← *saṃyat*
 - \[noun\], accusative, singular, feminine
 - “continuous.”
-------------------------------------------------------------------------
+
+_________
+
 - *karat* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -121,7 +139,9 @@ saṁyátam ← saṁyát- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

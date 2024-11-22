@@ -128,122 +128,178 @@ viśvátas ← viśvátas (invariable)
 -   *udgāteva* ← *udgātā* ← *udgātṛ*
 - \[noun\], nominative, singular, masculine
 - “Udgātṛ; udgātṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *udgāteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakune* ← *śakuni*
 - \[noun\], vocative, singular, masculine
 - “Śakuni; bird; large bird; Śakuni.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāma* ← *sāman*
 - \[noun\], accusative, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyasi* ← *gā*
 - \[verb\], singular, Present indikative
 - “sing; praise; jap; recite; describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaputra* ← *brahma* ← *brahman*
 - \[noun\], masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaputra* ← *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *savaneṣu* ← *savana*
 - \[noun\], locative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsasi* ← *śaṃs*
 - \[verb\], singular, Present indikative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣeva* ← *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśumatīr* ← *śiśumatīḥ* ← *śiśumat*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *apītyā* ← *apītya* ← *apī* ← *√i*
 - \[verb noun\]
 - “repair to; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *apītyā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvato* ← *sarvatas*
 - \[adverb\]
 - “about; everywhere; from all sides; always; in every direction;
     thoroughly; anywhere.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakune* ← *śakuni*
 - \[noun\], vocative, singular, masculine
 - “Śakuni; bird; large bird; Śakuni.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vada* ← *vad*
 - \[verb\], singular, Present imperative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvato* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakune* ← *śakuni*
 - \[noun\], vocative, singular, masculine
 - “Śakuni; bird; large bird; Śakuni.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṇyam* ← *puṇya*
 - \[noun\], accusative, singular, neuter
 - “auspicious; holy; pleasant; good; right; puṇya \[word\]; good;
     consecrated; correct.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vada* ← *vad*
 - \[verb\], singular, Present imperative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

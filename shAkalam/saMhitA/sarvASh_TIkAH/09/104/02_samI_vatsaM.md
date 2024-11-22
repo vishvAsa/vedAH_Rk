@@ -79,59 +79,85 @@ mádam ← máda- (nominal stem)
 -   *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ī*
 - \[adverb\]
 - “īkāra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vatsaṃ* ← *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mātṛbhiḥ* ← *mātṛ*
 - \[noun\], instrumental, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛjatā* ← *sṛjata* ← *sṛj*
 - \[verb\], plural, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *gayasādhanam* ← *gaya*
 - \[noun\], masculine
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
-------------------------------------------------------------------------
+
+_________
+
 - *gayasādhanam* ← *sādhanam* ← *sādhana*
 - \[noun\], accusative, singular, masculine
 - “effective; performing.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāvyam* ← *devāvī*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *madam* ← *mada*
 - \[noun\], accusative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *dviśavasam* ← *dvi*
 - \[noun\]
 - “two; dvi \[word\]; second.”
-------------------------------------------------------------------------
+
+_________
+
 - *dviśavasam* ← *śavasam* ← *śavas*
 - \[noun\], accusative, singular, masculine
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

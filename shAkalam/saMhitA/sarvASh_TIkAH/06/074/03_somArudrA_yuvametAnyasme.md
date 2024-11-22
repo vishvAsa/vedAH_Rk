@@ -104,45 +104,65 @@ tanū́ṣu ← tanū́- (nominal stem)
 
 -   *somārudrā* ← *somārudra*
 - \[noun\], vocative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *etāny* ← *etāni* ← *etad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūṣu* ← *tanū*
 - \[noun\], locative, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *bheṣajāni* ← *bheṣaja*
 - \[noun\], accusative, plural, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhattam* ← *dhā*
 - \[verb\], dual, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *syatam* ← *sā*
 - \[verb\], dual, Present imperative
 - “tie.”
-------------------------------------------------------------------------
+
+_________
+
 - *muñcataṃ* ← *muñcatam* ← *muc*
 - \[verb\], dual, Present imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -150,24 +170,34 @@ tanū́ṣu ← tanū́- (nominal stem)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūṣu* ← *tanū*
 - \[noun\], locative, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *baddhaṃ* ← *baddham* ← *bandh*
 - \[verb noun\], nominative, singular
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
@@ -175,7 +205,9 @@ tanū́ṣu ← tanū́- (nominal stem)
     restrain; bind; gesticulate; wear; bar; bandh; connect; stud; mix;
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtam* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -186,15 +218,21 @@ tanū́ṣu ← tanū́- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *eno* ← *enaḥ* ← *enas*
 - \[noun\], nominative, singular, neuter
 - “sin; calamity; blame.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

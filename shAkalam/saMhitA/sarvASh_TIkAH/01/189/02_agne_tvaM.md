@@ -110,89 +110,129 @@ yós ← yós (invariable)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārayā* ← *pāraya* ← *pāray* ← *√pṛ*
 - \[verb\], singular, Present imperative
 - “rescue; keep alive; satisfy; save; resist; endure.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyo* ← *navyaḥ* ← *navyas*
 - \[noun\], accusative, singular, neuter
 - “new.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastibhir* ← *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *durgāṇi* ← *durga*
 - \[noun\], accusative, plural, neuter
 - “fortress; stronghold; difficulty; danger; passage.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūś* ← *pūḥ* ← *pur*
 - \[noun\], nominative, singular, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthvī* ← *pṛthu*
 - \[noun\], nominative, singular, feminine
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *bahulā* ← *bahula*
 - \[noun\], nominative, singular, feminine
 - “frequent; endowed; much(a); many; abounding in(p); abundant; bahula
     \[word\]; accompanied; prevailing.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *urvī* ← *uru*
 - \[noun\], nominative, singular, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavā* ← *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanayāya* ← *tanaya*
 - \[noun\], dative, singular, neuter
 - “biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yoḥ* ← *yos*
 - \[noun\], nominative, singular, neuter
 - “fortune.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

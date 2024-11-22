@@ -103,82 +103,118 @@ trī́ṇi ← trí- (nominal stem)
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamo* ← *yamaḥ* ← *yama*
 - \[noun\], nominative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *asy* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityo* ← *ādityaḥ* ← *āditya*
 - \[noun\], nominative, singular, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *arvann* ← *arvan* ← *arvant*
 - \[noun\], nominative, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *trito* ← *tritaḥ* ← *trita*
 - \[noun\], nominative, singular, masculine
 - “Trita.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhyena* ← *guhya*
 - \[noun\], instrumental, singular, neuter
 - “secret; concealed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratena* ← *vrata*
 - \[noun\], instrumental, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *somena* ← *soma*
 - \[noun\], instrumental, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *samayā*
 - \[adverb\]
 - “near.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipṛkta* ← *vipṛktaḥ* ← *vipṛc* ← *√pṛc*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *āhus* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *bandhanāni* ← *bandhana*
 - \[noun\], accusative, plural, neuter
 - “bandhana; dressing; saṃdhilepa; attachment; fetter; paralysis;
     enclosure; imprisonment; cord; spell; fastening; tying; shutting;
     joining; tendon; binding; stalk; hardening; bondage; captivity;
     constipation; kapha; bandhana; ligament.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

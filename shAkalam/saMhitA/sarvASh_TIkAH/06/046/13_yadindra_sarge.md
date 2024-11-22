@@ -87,62 +87,90 @@ iva ← iva (invariable)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarge* ← *sarga*
 - \[noun\], locative, singular, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvataś* ← *arvataḥ* ← *arvant*
 - \[noun\], accusative, plural, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *codayāse* ← *coday* ← *√cud*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “impel; drive; incite; command; drive; arouse; propel.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahādhane* ← *mahā* ← *mahat*
 - \[noun\]
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahādhane* ← *dhane* ← *dhana*
 - \[noun\], locative, singular, masculine
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *asamane* ← *asamana*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *adhvani* ← *adhvan*
 - \[noun\], locative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjine* ← *vṛjina*
 - \[noun\], locative, singular, masculine
 - “deceitful; crooked; bent.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathi* ← *pathin*
 - \[noun\], locative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyenāṃ* ← *śyena*
 - \[noun\], accusative, plural, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravasyataḥ* ← *śravasy*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

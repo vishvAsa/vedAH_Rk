@@ -102,81 +102,119 @@ vayodhā́ḥ ← vayodhā́- (nominal stem)
 -   *sahāvā* ← *sahāvan*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *taraṇir* ← *taraṇiḥ* ← *taraṇi*
 - \[noun\], nominative, singular, masculine
 - “energetic; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *nārvā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nārvā* ← *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyānaśī* ← *vyānaśin*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *mehanāvān* ← *mehanāvat*
 - \[noun\], nominative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhago* ← *bhagaḥ* ← *bhaga*
 - \[noun\], nominative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kāre* ← *kāra*
 - \[noun\], locative, singular, masculine
 - “kāra \[word\]; writer; builder.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyo* ← *havyaḥ* ← *hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *matīnām* ← *mati*
 - \[noun\], genitive, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *piteva* ← *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *piteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāruḥ* ← *cāru*
 - \[noun\], nominative, singular, masculine
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suhavo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhavo* ← *havaḥ* ← *hava*
 - \[noun\], nominative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayodhāḥ* ← *vayodhas*
 - \[noun\], nominative, singular, masculine
 - “fortifying.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

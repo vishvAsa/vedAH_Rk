@@ -108,83 +108,121 @@ ví ← ví (invariable)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahaḥ* ← *sahas*
 - \[noun\], nominative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasa* ← *sahasaḥ* ← *sahas*
 - \[noun\], ablative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājaniṣṭa* ← *ājan* ← *√jan*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “be born.”
-------------------------------------------------------------------------
+
+_________
+
 - *dediṣṭa* ← *dediś* ← *√diś*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indriyāṇi* ← *indriya*
 - \[noun\], accusative, plural, neuter
 - “sense organ; Indriya; sense; power; semen; indriya \[word\]; mind;
     penis; manfulness; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *prācodayat* ← *pracoday* ← *√cud*
 - \[verb\], singular, Imperfect
 - “push; drive; command; excite; proclaim; demand; request; request.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudughā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudughā* ← *dughāḥ* ← *dugha*
 - \[noun\], accusative, plural, feminine
 - “yielding.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavre* ← *vavra*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvavṛtvat* ← *saṃvṛt* ← *√vṛt*
 - \[verb noun\], accusative, singular
 - “become.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamo* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vaḥ* ← *avaḥ* ← *vṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

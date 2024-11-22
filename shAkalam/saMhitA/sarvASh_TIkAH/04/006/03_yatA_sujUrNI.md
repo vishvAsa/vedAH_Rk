@@ -99,77 +99,115 @@ sumékaḥ ← suméka- (nominal stem)
 -   *yatā* ← *yam*
 - \[verb noun\], nominative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujūrṇī* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujūrṇī* ← *jūrṇiḥ* ← *jūrṇi*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *rātinī* ← *rātin*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtācī* ← *ghṛtāñc*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *pradakṣiṇid* ← *pradakṣiṇit*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *devatātim* ← *devatāti*
 - \[noun\], accusative, singular, feminine
 - “deity; Deva.”
-------------------------------------------------------------------------
+
+_________
+
 - *urāṇaḥ* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarur* ← *svaruḥ* ← *svaru*
 - \[noun\], nominative, singular, masculine
 - “post.”
-------------------------------------------------------------------------
+
+_________
+
 - *navajā* ← *nava*
 - \[noun\]
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *navajā* ← *jāḥ* ← *jā*
 - \[noun\], nominative, singular, masculine
 - “born.”
-------------------------------------------------------------------------
+
+_________
+
 - *nākraḥ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nākraḥ* ← *akraḥ* ← *akra*
 - \[noun\], nominative, singular, masculine
 - “banner.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśvo* ← *paśvaḥ* ← *paśu*
 - \[noun\], accusative, plural, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *anakti* ← *añj*
 - \[verb\], singular, Present indikative
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhitaḥ* ← *sudhita*
 - \[noun\], nominative, singular, masculine
 - “sudhita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sumekaḥ* ← *sumeka*
 - \[noun\], nominative, singular, masculine
 - “fast; fixed.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

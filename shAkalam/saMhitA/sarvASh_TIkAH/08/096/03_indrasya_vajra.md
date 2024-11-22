@@ -100,68 +100,100 @@ upāké ← upāká- (nominal stem)
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajra* ← *vajraḥ* ← *vajra*
 - \[noun\], nominative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyaso* ← *āyasaḥ* ← *āyasa*
 - \[noun\], nominative, singular, masculine
 - “iron; metallic.”
-------------------------------------------------------------------------
+
+_________
+
 - *nimiśla* ← *nimiślaḥ* ← *nimiśla*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhvor* ← *bāhvoḥ* ← *bāhu*
 - \[noun\], locative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūyiṣṭham* ← *bhūyiṣṭha*
 - \[noun\], nominative, singular, neuter
 - “prevailing; most(a); chief(a); devoted(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *ojaḥ* ← *ojas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *śīrṣann* ← *śīrṣan*
 - \[noun\], locative, singular, neuter
 - “head; śīrṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratavo* ← *kratavaḥ* ← *kratu*
 - \[noun\], nominative, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *nireka* ← *nireke* ← *nireka*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āsann* ← *āsan*
 - \[noun\], locative, singular, neuter
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣanta* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutyā* ← *śrutyai* ← *śruti*
 - \[noun\], dative, singular, feminine
 - “Veda; rule; ear; proverb; legend; hearing; news; sacred text.”
-------------------------------------------------------------------------
+
+_________
+
 - *upāke* ← *upāka*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

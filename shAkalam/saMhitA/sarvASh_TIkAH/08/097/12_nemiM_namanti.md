@@ -91,62 +91,92 @@ sám ← sám (invariable)
 -   *nemiṃ* ← *nemim* ← *nemi*
 - \[noun\], accusative, singular, masculine
 - “rim; felloe.”
-------------------------------------------------------------------------
+
+_________
+
 - *namanti* ← *nam*
 - \[verb\], plural, Present indikative
 - “bow; bend; condescend; worship; bend; lower.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣasā* ← *cakṣas*
 - \[noun\], instrumental, singular, neuter
 - “eye; look; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *meṣaṃ* ← *meṣam* ← *meṣa*
 - \[noun\], accusative, singular, masculine
 - “sheep; ram; Naigameṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “eloquent; stimulated; divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhisvarā* ← *abhisvara*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sudītayo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudītayo* ← *dītayaḥ* ← *dīti*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *adruho* ← *adruhaḥ* ← *adruh*
 - \[noun\], nominative, plural, masculine
 - “friendly; benign.”
-------------------------------------------------------------------------
+
+_________
+
 - *'pi* ← *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *karṇe* ← *karṇa*
 - \[noun\], locative, singular, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarasvinaḥ* ← *tarasvin*
 - \[noun\], nominative, plural, masculine
 - “strong; energetic; fast; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛkvabhiḥ* ← *ṛkvan*
 - \[noun\], instrumental, plural, masculine
 - “singing.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

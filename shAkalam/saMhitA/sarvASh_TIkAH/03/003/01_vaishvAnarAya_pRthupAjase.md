@@ -99,78 +99,114 @@ sanátā ← sanátā (invariable)
 -   *vaiśvānarāya* ← *vaiśvānara*
 - \[noun\], dative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthupājase* ← *pṛthu*
 - \[noun\]
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthupājase* ← *pājase* ← *pājas*
 - \[noun\], dative, singular, masculine
 - “luminosity; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipo* ← *vipaḥ* ← *vip*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ratnā* ← *ratna*
 - \[noun\], accusative, plural, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhanta* ← *vidh*
 - \[verb\], plural, Imperfect
 - “worship; offer.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharuṇeṣu* ← *dharuṇa*
 - \[noun\], locative, plural, neuter
 - “prop; foundation.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātave* ← *gā*
 - \[verb noun\]
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛto* ← *amṛtaḥ* ← *amṛta*
 - \[noun\], nominative, singular, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *duvasyaty* ← *duvasyati* ← *duvasy*
 - \[verb\], singular, Present indikative
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharmāṇi* ← *dharma*
 - \[noun\], accusative, plural, neuter
 - “Dharma; custom; dharma \[word\]; regulation; duty; Dharma; Dharma;
     Dharma; Dharma; law; law; peculiarity; justice.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanatā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dūduṣat* ← *duṣ*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “corrupt; sin; damage; corrupt; spoil; injure.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,68 +99,102 @@ vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)
 -   *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhā* ← *śubh*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *savayasaḥ* ← *savayas*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sanīﾱāḥ* ← *sanīḍa*
 - \[noun\], nominative, plural, masculine
 - “kindred; equal; sanīḍa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *samānyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimikṣuḥ* ← *mikṣ*
 - \[verb\], plural, Perfect indicative
 - “season.”
-------------------------------------------------------------------------
+
+_________
+
 - *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *matī* ← *mati*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuta* ← *kutas*
 - \[adverb\]
 - “how; whence; why.”
-------------------------------------------------------------------------
+
+_________
+
 - *etāsa* ← *etāsaḥ* ← *e* ← *√i*
 - \[verb noun\], nominative, plural
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *'rcanti* ← *arcanti* ← *arc*
 - \[verb\], plural, Present indikative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmaṃ* ← *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇo* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūyā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

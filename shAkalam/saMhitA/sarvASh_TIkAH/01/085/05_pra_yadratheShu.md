@@ -108,18 +108,26 @@ ví ← ví (invariable)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratheṣu* ← *ratha*
 - \[noun\], locative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣatīr* ← *pṛṣatīḥ* ← *pṛṣatī*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ayugdhvaṃ* ← *ayugdhvam* ← *yuj*
 - \[verb\], plural, Root aorist (Ind.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -127,66 +135,98 @@ ví ← ví (invariable)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāje* ← *vāja*
 - \[noun\], locative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṃhayantaḥ* ← *raṃhay* ← *√raṃh*
 - \[verb noun\], nominative, plural
 - “rush; rush.”
-------------------------------------------------------------------------
+
+_________
+
 - *utāruṣasya* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *utāruṣasya* ← *aruṣasya* ← *aruṣa*
 - \[noun\], genitive, singular, masculine
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣyanti* ← *sā*
 - \[verb\], plural, Present indikative
 - “tie.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārāś* ← *dhārāḥ* ← *dhārā*
 - \[noun\], accusative, plural, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *carmevodabhir* ← *carmā* ← *carman*
 - \[noun\], nominative, plural, neuter
 - “leather; hide; shield; skin; carman \[word\]; carman; hide.”
-------------------------------------------------------------------------
+
+_________
+
 - *carmevodabhir* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *carmevodabhir* ← *udabhiḥ* ← *udan*
 - \[noun\], instrumental, plural, neuter
 - “water; body of water.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *undanti* ← *und*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *bhūma* ← *bhūman*
 - \[noun\], accusative, singular, neuter
 - “Earth; floor.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

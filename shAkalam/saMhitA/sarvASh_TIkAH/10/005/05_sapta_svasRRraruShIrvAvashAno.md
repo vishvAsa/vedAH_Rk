@@ -102,79 +102,115 @@ vavrím ← vavrí- (nominal stem)
 -   *sapta* ← *saptan*
 - \[noun\], accusative, plural, feminine
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasṝr* ← *svasṝḥ* ← *svasṛ*
 - \[noun\], accusative, plural, feminine
 - “sister; svasṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṣīr* ← *aruṣīḥ* ← *aruṣa*
 - \[noun\], accusative, plural, feminine
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvaśāno* ← *vāvaśānaḥ* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhva* ← *madhvaḥ* ← *madhu*
 - \[noun\], ablative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *uj* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *jabhārā* ← *bhṛ*
 - \[verb\], singular, Perfect indicative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛśe* ← *dṛś*
 - \[verb noun\]
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeme* ← *yam*
 - \[verb\], singular, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣe* ← *antarikṣa*
 - \[noun\], locative, singular, neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *purājā* ← *purājāḥ* ← *purājā*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *icchan* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavrim* ← *vavri*
 - \[noun\], accusative, singular, masculine
 - “covering; lurking place.”
-------------------------------------------------------------------------
+
+_________
+
 - *avidat* ← *vid*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣaṇasya* ← *pūṣaṇa*
 - \[noun\], genitive, singular, masculine
 - “Pushan; sun.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

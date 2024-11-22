@@ -76,49 +76,71 @@ yát ← yá- (pronoun)
 -   *ut* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhasi* ← *sthā*
 - \[verb\], singular, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāhuto* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāhuto* ← *āhutaḥ* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtāni* ← *ghṛta*
 - \[noun\], accusative, plural, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *modase* ← *mud*
 - \[verb\], singular, Present indikative
 - “rejoice; delight; revel.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *srucaḥ* ← *sruc*
 - \[noun\], nominative, plural, feminine
 - “Sruc.”
-------------------------------------------------------------------------
+
+_________
+
 - *samasthiran* ← *saṃsthā* ← *√sthā*
 - \[verb\], plural, Root aorist (Ind.)
 - “situate; stay; stand; die; get stale; inhere; dwell; end; happen.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

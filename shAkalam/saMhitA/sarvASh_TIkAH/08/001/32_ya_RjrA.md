@@ -90,65 +90,95 @@ svanádrathaḥ ← svanádratha- (nominal stem)
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjrā* ← *ṛjra*
 - \[noun\], accusative, dual, masculine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *māmahe* ← *mah*
 - \[verb\], singular, Perfect indicative
 - “give; accord.”
-------------------------------------------------------------------------
+
+_________
+
 - *saha*
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvacā* ← *tvac*
 - \[noun\], instrumental, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayā* ← *hiraṇya*
 - \[noun\], instrumental, singular, feminine
 - “aureate; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāny* ← *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *saubhagāsaṅgasya* ← *saubhagā* ← *saubhaga*
 - \[noun\], accusative, plural, neuter
 - “well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *saubhagāsaṅgasya* ← *asaṅgasya* ← *asaṅga*
 - \[noun\], genitive, singular, masculine
 - “non-attachment; Asaṅga.”
-------------------------------------------------------------------------
+
+_________
+
 - *svanadrathaḥ* ← *svanat* ← *svan*
 - \[verb noun\]
 - “sound; sound.”
-------------------------------------------------------------------------
+
+_________
+
 - *svanadrathaḥ* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

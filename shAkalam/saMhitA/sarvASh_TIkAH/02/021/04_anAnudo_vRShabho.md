@@ -96,86 +96,126 @@ uṣásaḥ ← uṣás- (nominal stem)
 -   *anānudo* ← *anānudaḥ* ← *anānuda*
 - \[noun\], nominative, singular, masculine
 - “firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *dodhato* ← *dodhataḥ* ← *dudh*
 - \[verb noun\], genitive, singular
 - “ramp.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadho* ← *vadhaḥ* ← *vadha*
 - \[noun\], nominative, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
-------------------------------------------------------------------------
+
+_________
+
 - *gambhīra* ← *gambhīraḥ* ← *gambhīra*
 - \[noun\], nominative, singular, masculine
 - “deep; bass; complex; profound; complicated; intense; gambhīra
     \[word\]; hidden.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣvo* ← *ṛṣvaḥ* ← *ṛṣva*
 - \[noun\], nominative, singular, masculine
 - “distinguished; high; noble; enormous.”
-------------------------------------------------------------------------
+
+_________
+
 - *asamaṣṭakāvyaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *asamaṣṭakāvyaḥ* ← *samaṣṭa* ← *samaś* ← *√aś*
 - \[verb noun\]
 - “enter (a state); achieve; obtain.”
-------------------------------------------------------------------------
+
+_________
+
 - *asamaṣṭakāvyaḥ* ← *kāvyaḥ* ← *kāvya*
 - \[noun\], nominative, singular, masculine
 - “Uśanas; poem; Kāvya; wisdom.”
-------------------------------------------------------------------------
+
+_________
+
 - *radhracodaḥ* ← *radhra*
 - \[noun\]
 - “obedient; powerless; weak.”
-------------------------------------------------------------------------
+
+_________
+
 - *radhracodaḥ* ← *codaḥ* ← *coda*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śnathano* ← *śnathanaḥ* ← *śnathana*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vīḍitas* ← *vīḍay* ← *√vīḍ*
 - \[verb noun\], nominative, singular
 - “solidify; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthur* ← *pṛthuḥ* ← *pṛthu*
 - \[noun\], nominative, singular, masculine
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *suyajña* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suyajña* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *janat* ← *jan*
 - \[verb\], singular, Present injunctive
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

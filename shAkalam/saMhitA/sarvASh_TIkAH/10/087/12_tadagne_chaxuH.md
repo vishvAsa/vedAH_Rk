@@ -104,81 +104,119 @@ satyám ← satyá- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣuḥ* ← *cakṣus*
 - \[noun\], accusative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *rebhe* ← *rebha*
 - \[noun\], locative, singular, masculine
 - “bard; eulogist.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaphārujaṃ* ← *śaphārujam* ← *śaphāruj*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paśyasi* ← *paś*
 - \[verb\], singular, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātudhānam* ← *yātudhāna*
 - \[noun\], accusative, singular, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
-------------------------------------------------------------------------
+
+_________
+
 - *atharvavaj* ← *atharva* ← *atharvan*
 - \[noun\], masculine
 - “Atharvan; Atharvavedin.”
-------------------------------------------------------------------------
+
+_________
+
 - *atharvavaj* ← *vat*
 - \[adverb\]
 - “equally; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivyena* ← *daivya*
 - \[noun\], instrumental, singular, neuter
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyaṃ* ← *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
 - “truth; oath; satya \[word\]; promise.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūrvantam* ← *dhūrvat*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *acitaṃ* ← *acitam* ← *acit*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣa* ← *uṣ*
 - \[verb\], singular, Present imperative
 - “burn; punish.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

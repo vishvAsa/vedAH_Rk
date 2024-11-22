@@ -93,64 +93,94 @@ samudré ← samudrá- (nominal stem)
 -   *uvāsoṣā* ← *uvāsa* ← *vas*
 - \[verb\], singular, Perfect indicative
 - “dawn; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *uvāsoṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucchāc* ← *ucchāt* ← *vas*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “dawn; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *devī*
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīrā* ← *jīra*
 - \[noun\], nominative, singular, feminine
 - “agile; quick; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathānām* ← *ratha*
 - \[noun\], genitive, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ācaraṇeṣu* ← *ācaraṇa*
 - \[noun\], locative, plural, neuter
 - “action; practice; behavior; performance.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhrire* ← *dhṛ*
 - \[verb\], plural, Perfect indicative
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śravasyavaḥ* ← *śravasyu*
 - \[noun\], nominative, plural, masculine
 - “celebrated.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -79,50 +79,72 @@ yātaya ← √yat- (root)
 -   *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pepiśat* ← *pepiś* ← *√piś*
 - \[verb noun\], nominative, singular
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamaḥ* ← *tamas*
 - \[noun\], nominative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇaṃ* ← *kṛṣṇam* ← *kṛṣṇa*
 - \[noun\], nominative, singular, neuter
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyaktam* ← *vyañj* ← *√añj*
 - \[verb noun\], nominative, singular
 - “decorate; fan; anoint.”
-------------------------------------------------------------------------
+
+_________
+
 - *asthita* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣa* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇeva* ← *ṛṇā* ← *ṛṇa*
 - \[noun\], accusative, plural, neuter
 - “debt; debt; ṛṇa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātaya* ← *yātay* ← *√yat*
 - \[verb\], singular, Present imperative
 - “endeavor; settle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

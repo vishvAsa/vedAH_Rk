@@ -87,59 +87,85 @@ ní ← ní (invariable)
 -   *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *goṣṭhe* ← *goṣṭha*
 - \[noun\], locative, singular, masculine
 - “cowbarn; dwelling; pen; forum.”
-------------------------------------------------------------------------
+
+_________
+
 - *asadan* ← *sad*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛgāso* ← *mṛgāsaḥ* ← *mṛga*
 - \[noun\], nominative, plural, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *avikṣata* ← *viś*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketavo* ← *ketavaḥ* ← *ketu*
 - \[noun\], nominative, plural, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *janānāṃ* ← *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *adṛṣṭā* ← *adṛṣṭāḥ* ← *adṛṣṭa*
 - \[noun\], nominative, plural, masculine
 - “unobserved; invisible; unseen; unanticipated; unknown.”
-------------------------------------------------------------------------
+
+_________
+
 - *alipsata* ← *lip*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “smear; tarnish; dirty; anoint; poultice.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

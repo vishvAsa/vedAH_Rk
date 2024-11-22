@@ -72,41 +72,59 @@ tvám ← tvám (pronoun)
 
 -   *ghṛtāhavana*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dīdivaḥ* ← *dīdivas* ← *dīdī*
 - \[verb noun\], vocative, singular
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣma* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *riṣato* ← *riṣataḥ* ← *riṣ*
 - \[verb noun\], accusative, plural
 - “suffer; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *daha* ← *dah*
 - \[verb\], singular, Present imperative
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣasvinaḥ* ← *rakṣasvin*
 - \[noun\], accusative, plural, masculine
 - “malevolent; demoniac; obsessed.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

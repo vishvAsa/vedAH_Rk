@@ -102,80 +102,118 @@ súdhitā ← súdhita- (nominal stem)
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugrā* ← *ugrāḥ* ← *ugra*
 - \[noun\], vocative, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *sucetunāriṣṭagrāmāḥ* ← *sucetunā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sucetunāriṣṭagrāmāḥ* ← *ariṣṭa*
 - \[noun\]
 - “safe; unharmed.”
-------------------------------------------------------------------------
+
+_________
+
 - *sucetunāriṣṭagrāmāḥ* ← *grāmāḥ* ← *grāma*
 - \[noun\], vocative, plural, masculine
 - “village; grāma \[word\]; group; battalion; club; Hindu gamut;
     troop; multitude; crowd; kin; collection; people.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
-------------------------------------------------------------------------
+
+_________
+
 - *pipartana* ← *pṛ*
 - \[verb\], plural, Present imperative
 - “protect; promote; rescue; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *didyud* ← *didyut*
 - \[noun\], nominative, singular, feminine
 - “arrow; Didyut.”
-------------------------------------------------------------------------
+
+_________
+
 - *radati* ← *rad*
 - \[verb\], singular, Present indikative
 - “dig.”
-------------------------------------------------------------------------
+
+_________
+
 - *krivirdatī* ← *krivirdat*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *riṇāti* ← *ri*
 - \[verb\], singular, Present indikative
 - “free; liberate; run; let go of.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśvaḥ* ← *paśu*
 - \[noun\], accusative, plural, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhiteva* ← *sudhitā* ← *sudhita*
 - \[noun\], nominative, singular, feminine
 - “sudhita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhiteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhaṇā*
 - \[noun\], nominative, singular, feminine
 - “power; might.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -75,47 +75,67 @@ juhvā̀syaḥ ← juhvā̀sya- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnināgniḥ* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *idhyate* ← *indh*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “kindle; ignite; set ablaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhapatir* ← *gṛhapatiḥ* ← *gṛhapati*
 - \[noun\], nominative, singular, masculine
 - “gṛhapati \[word\]; Gṛhastha.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyavāḍ* ← *havyavāṭ* ← *havyavah*
 - \[noun\], nominative, singular
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhvāsyaḥ* ← *juhū*
 - \[noun\], feminine
 - “tongue; fire; ladle.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhvāsyaḥ* ← *āsyaḥ* ← *āsya*
 - \[noun\], nominative, singular, masculine
 - “mouth; mouth; aperture; face; mukha; jaw; point.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

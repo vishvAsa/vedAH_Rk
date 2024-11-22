@@ -100,77 +100,111 @@ návedasaḥ ← návedas- (nominal stem)
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītir* ← *dhītiḥ* ← *dhīti*
 - \[noun\], nominative, singular, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *asasṛgram* ← *sṛj*
 - \[verb\], plural, Plusquamperfect
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃśās* ← *aṃśāḥ* ← *aṃśa*
 - \[noun\], nominative, plural, masculine
 - “part; part; share; part; volume; parcel; part; Aṃśa; aṃśa \[word\];
     fraction.”
-------------------------------------------------------------------------
+
+_________
+
 - *tīrthe* ← *tīrtha*
 - \[noun\], locative, singular, neuter
 - “Tīrtha; ford; tīrtha \[word\]; guru; administrator; fingertip;
     landing.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dasmam* ← *dasma*
 - \[noun\], accusative, singular, masculine
 - “overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanty* ← *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūmāḥ* ← *ūma*
 - \[noun\], nominative, plural, masculine
 - “assistant.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaśma* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *suvitasya* ← *suvita*
 - \[noun\], genitive, singular, neuter
 - “prosperity; well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūṣaṃ* ← *śūṣam* ← *śūṣa*
 - \[noun\], accusative, singular, masculine
 - “song; energy.”
-------------------------------------------------------------------------
+
+_________
+
 - *navedaso* ← *navedasaḥ* ← *navedas*
 - \[noun\], nominative, plural, masculine
 - “cognizant; navedas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtānām* ← *amṛta*
 - \[noun\], genitive, plural, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhūma* ← *bhū*
 - \[verb\], plural, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

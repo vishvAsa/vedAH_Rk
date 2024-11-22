@@ -92,61 +92,89 @@ vr̥traghné ← vr̥trahán- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *amavacchavas* ← *amavat*
 - \[noun\], nominative, singular, neuter
 - “impressive; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *amavacchavas* ← *śavaḥ* ← *śavas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmā* ← *tigma*
 - \[noun\], nominative, singular, feminine
 - “sharp; pointed; fiery.”
-------------------------------------------------------------------------
+
+_________
+
 - *didyun* ← *didyut*
 - \[noun\], nominative, singular, feminine
 - “arrow; Didyut.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghonoḥ* ← *maghavan*
 - \[noun\], genitive, dual, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *druṇā* ← *dru*
 - \[noun\], instrumental, singular, masculine
 - “wood; tree; dru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhastyor* ← *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavāṃ* ← *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraghna* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraghna* ← *ghne* ← *han*
 - \[noun\], dative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣate* ← *iṣ*
 - \[verb\], singular, Present indikative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

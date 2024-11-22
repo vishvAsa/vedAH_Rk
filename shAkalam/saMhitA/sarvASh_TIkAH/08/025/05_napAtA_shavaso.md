@@ -79,56 +79,82 @@ vā́stu ← vā́stu- (nominal stem)
 -   *napātā* ← *napāt*
 - \[noun\], nominative, dual, masculine
 - “grandson; nephew; napāt \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śavaso* ← *śavasaḥ* ← *śavas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnū* ← *sūnu*
 - \[noun\], nominative, dual, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣasya* ← *dakṣa*
 - \[noun\], genitive, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratū* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratū* ← *kratū* ← *kratu*
 - \[noun\], nominative, dual, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛpradānū* ← *sṛpra*
 - \[noun\]
 - “glossy; greasy.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛpradānū* ← *dānū* ← *dānu*
 - \[noun\], nominative, dual, masculine
 - “Dānu; dew; drop.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], genitive, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāstv* ← *vāstū* ← *vāstu*
 - \[noun\], accusative, plural, neuter
 - “vacant lot; site; space; extension; house; architecture.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣitaḥ* ← *kṣi*
 - \[verb\], dual, Present indikative
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

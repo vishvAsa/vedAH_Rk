@@ -96,82 +96,118 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidac* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *citradṛśīkam* ← *citra*
 - \[noun\]
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *citradṛśīkam* ← *dṛśīkam* ← *dṛśīka*
 - \[noun\], accusative, singular, neuter
 - “visual perception.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṇaḥ* ← *arṇas*
 - \[noun\], accusative, singular, neuter
 - “body of water; water.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukrasadmanām* ← *śukra*
 - \[noun\]
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukrasadmanām* ← *sadmanām* ← *sadman*
 - \[noun\], genitive, plural, feminine
 - “seat; house; stable; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasām* ← *uṣas*
 - \[noun\], genitive, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *anīke* ← *anīka*
 - \[noun\], locative, singular, neuter
 - “army; face; battalion; battlefront; point; appearance.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahān* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahatā* ← *mahat*
 - \[noun\], instrumental, singular, neuter
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *skambhanenod* ← *skambhanena* ← *skambhana*
 - \[noun\], instrumental, singular, neuter
 - “prop.”
-------------------------------------------------------------------------
+
+_________
+
 - *skambhanenod* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *astabhnād* ← *astabhnāt* ← *stambh*
 - \[verb\], singular, Imperfect
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutvān* ← *marutvat*
 - \[noun\], nominative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

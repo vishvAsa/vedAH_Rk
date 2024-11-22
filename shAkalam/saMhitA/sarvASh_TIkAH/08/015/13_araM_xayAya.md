@@ -78,53 +78,75 @@ jaítrāya ← jaítra- (nominal stem)
 
 -   *araṃ* ← *aram*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *kṣayāya* ← *kṣaya*
 - \[noun\], dative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *rūpāṇy* ← *rūpāṇi* ← *rūpa*
 - \[noun\], accusative, plural, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *āviśan* ← *āviś* ← *√viś*
 - \[verb noun\], nominative, singular
 - “enter; overwhelm; possess; approach; afflict; enter (a state);
     reach; wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaitrāya* ← *jaitra*
 - \[noun\], dative, singular, neuter
 - “superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *harṣayā* ← *harṣaya* ← *harṣay* ← *√hṛṣ*
 - \[verb\], singular, Present imperative
 - “gladden; stimulate; rejoice.”
-------------------------------------------------------------------------
+
+_________
+
 - *śacīpatim* ← *śacīpati*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,40 +73,58 @@ vā́reṇa ← vā́ra- 1 (nominal stem)
 -   *punāti* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *parisrutaṃ* ← *parisrutam* ← *parisru* ← *√sru*
 - \[verb noun\], accusative, singular
 - “filter; run; soak; dissolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāreṇa* ← *vāra*
 - \[noun\], instrumental, singular, masculine
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvatā* ← *śaśvat*
 - \[noun\], instrumental, singular, feminine
 - “all(a); each(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *tanā* ← *tan*
 - \[noun\], instrumental, singular, feminine
 - “continuity; sequence; longevity.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

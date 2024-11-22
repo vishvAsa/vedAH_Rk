@@ -102,82 +102,118 @@ yát ← yá- (pronoun)
 -   *brāhmaṇāso* ← *brāhmaṇāsaḥ* ← *brāhmaṇa*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; Brahmin; brāhmaṇa \[word\]; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *atirātre* ← *atirātra*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *some* ← *soma*
 - \[noun\], locative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *saro* ← *saraḥ* ← *saras*
 - \[noun\], accusative, singular, neuter
 - “lake; saras \[word\]; pond.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrṇam* ← *pṛ*
 - \[verb noun\], accusative, singular
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhito* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadantaḥ* ← *vad*
 - \[verb noun\], nominative, plural
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvatsarasya* ← *saṃvatsara*
 - \[noun\], genitive, singular, masculine
 - “year; year; saṃvatsara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaḥ* ← *ahar*
 - \[noun\], accusative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣṭha* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maṇḍūkāḥ* ← *maṇḍūka*
 - \[noun\], vocative, plural, masculine
 - “frog; maṇḍūkamūṣā; maṇḍūka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prāvṛṣīṇam* ← *prāvṛṣīṇa*
 - \[noun\], nominative, singular, neuter
 - “monsoon.”
-------------------------------------------------------------------------
+
+_________
+
 - *babhūva* ← *bhū*
 - \[verb\], singular, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

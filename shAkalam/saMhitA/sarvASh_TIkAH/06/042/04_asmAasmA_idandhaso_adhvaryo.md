@@ -87,61 +87,89 @@ avaspárat ← √spr̥- (root)
 -   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *andhaso* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dhvaryo* ← *adhvaryo* ← *adhvaryu*
 - \[noun\], vocative, singular, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharā* ← *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutam* ← *suta*
 - \[noun\], accusative, singular, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *samasya* ← *sama*
 - \[noun\], genitive, singular, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);
     accurate; identical; fair; equal; synonymous; changeless; whole;
     exact; calm; straight; even; wide.”
-------------------------------------------------------------------------
+
+_________
+
 - *jenyasya* ← *jenya*
 - \[noun\], genitive, singular, masculine
 - “noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhato* ← *śardhataḥ* ← *śṛdh*
 - \[verb noun\], genitive, singular
-------------------------------------------------------------------------
+
+_________
+
 - *'bhiśaster* ← *abhiśasteḥ* ← *abhiśasti*
 - \[noun\], ablative, singular, feminine
 - “hex; accusation; defamation; blame; aspersion.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasparat* ← *avaspṛ* ← *√spṛ*
 - \[verb\], singular, Aorist conj./subj.
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

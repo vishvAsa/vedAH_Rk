@@ -102,85 +102,125 @@ sūríḥ ← sūrí- (nominal stem)
 -   *preṣṭhaṃ* ← *preṣṭham* ← *preṣṭha*
 - \[noun\], accusative, singular, masculine
 - “dearest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *atithiṃ* ← *atithim* ← *atithi*
 - \[noun\], accusative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇīṣe* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *śastibhis* ← *śastibhiḥ* ← *śasti*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *turvaṇiḥ* ← *turvaṇi*
 - \[noun\], nominative, singular, masculine
 - “victorious; overpowering.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, masculine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *asad* ← *asat* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukīrtir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukīrtir* ← *kīrtiḥ* ← *kīrti*
 - \[noun\], nominative, singular, masculine
 - “fame; fame; glory; kīrti \[word\]; mention.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣaś* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *parṣad* ← *parṣat* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *arigūrtaḥ* ← *ari*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *arigūrtaḥ* ← *gūrtaḥ* ← *gur*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *sūriḥ* ← *sūri*
 - \[noun\], nominative, singular, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

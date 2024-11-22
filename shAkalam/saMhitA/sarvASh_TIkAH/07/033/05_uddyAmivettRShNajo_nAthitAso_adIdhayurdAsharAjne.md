@@ -99,64 +99,94 @@ urúm ← urú- (nominal stem)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivet* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivet* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛṣṇajo* ← *tṛṣṇajaḥ* ← *tṛṣṇaj*
 - \[noun\], nominative, plural, masculine
 - “thirsty.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāthitāso* ← *nāthitāsaḥ* ← *nāth*
 - \[verb noun\], nominative, plural
 - “distress.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dīdhayur* ← *adīdhayuḥ* ← *dhī*
 - \[verb\], plural, Imperfect
 - “think; desire; chew over.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśarājñe* ← *dāśarājña*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtāsaḥ* ← *vṛ*
 - \[verb noun\], nominative, plural
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭhasya* ← *vasiṣṭha*
 - \[noun\], genitive, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *stuvata* ← *stuvataḥ* ← *stu*
 - \[verb noun\], genitive, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśrod* ← *aśrot* ← *śru*
 - \[verb\], singular, Root aorist (Ind.)
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruṃ* ← *urum* ← *uru*
 - \[noun\], accusative, singular, masculine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛtsubhyo* ← *tṛtsubhyaḥ* ← *tṛtsu*
 - \[noun\], dative, plural, masculine
 - “Tṛtsu.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -167,16 +197,22 @@ urúm ← urú- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

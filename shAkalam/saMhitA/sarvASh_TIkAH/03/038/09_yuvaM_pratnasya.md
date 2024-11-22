@@ -99,82 +99,118 @@ víśve ← víśva- (nominal stem)
 -   *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnasya* ← *pratna*
 - \[noun\], genitive, singular, masculine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhatho* ← *sādhathaḥ* ← *sādh*
 - \[verb\], dual, Present indikative
 - “promote; succeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daivī* ← *daiva*
 - \[noun\], nominative, singular, feminine
 - “divine; religious.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastiḥ* ← *svasti*
 - \[noun\], nominative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṇaḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *syātam* ← *as*
 - \[verb\], dual, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *gopājihvasya* ← *gopā*
 - \[noun\], masculine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *gopājihvasya* ← *jihvasya* ← *jihvā*
 - \[noun\], genitive, singular, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthuṣo* ← *tasthuṣaḥ* ← *sthā*
 - \[verb noun\], genitive, singular
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *virūpā* ← *virūpa*
 - \[noun\], nominative, dual, masculine
 - “ugly; maimed; grotesque.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśyanti* ← *paś*
 - \[verb\], plural, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyinaḥ* ← *māyin*
 - \[noun\], genitive, singular, masculine
 - “artful; charming; crafty; deceptive.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtāni* ← *kṛta*
 - \[noun\], accusative, plural, neuter
 - “Kṛta; action; throw; work; production; work; kindness; four; kṛta
     \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

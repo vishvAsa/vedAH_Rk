@@ -102,76 +102,112 @@ vrájantīḥ ← √vraj- (root)
 -   *abhīka* ← *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsām* ← *idam*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *padavīr* ← *padavīḥ* ← *padavī*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abodhy* ← *abodhi* ← *budh*
 - \[verb\], singular, Aorist passive
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityānām* ← *āditya*
 - \[noun\], genitive, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ahve* ← *hvā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāru*
 - \[noun\], accusative, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpaś* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *aramanta* ← *ram*
 - \[verb\], plural, Imperfect
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
-------------------------------------------------------------------------
+
+_________
+
 - *devīḥ* ← *deva*
 - \[noun\], nominative, plural, feminine
 - “divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthag* ← *pṛthak*
 - \[adverb\]
 - “individually; apart; each; by the piece; independently; pṛthak
     \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vrajantīḥ* ← *vraj*
 - \[verb noun\], nominative, plural
 - “enter (a state); travel; go; leave; love; proceed; practice; reach;
     reach; run; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣīm* ← *sīm*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *avṛñjan* ← *vṛj*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

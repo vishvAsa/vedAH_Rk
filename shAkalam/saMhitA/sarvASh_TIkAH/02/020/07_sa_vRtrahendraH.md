@@ -101,80 +101,116 @@ yájamānasya ← √yaj- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahendraḥ* ← *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahendraḥ* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇayonīḥ* ← *kṛṣṇa*
 - \[noun\]
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇayonīḥ* ← *yonīḥ* ← *yoni*
 - \[noun\], accusative, plural, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *purandaro* ← *purandaraḥ* ← *puraṃdara*
 - \[noun\], nominative, singular, masculine
 - “Indra; puraṃdara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsīr* ← *dāsīḥ* ← *dāsa*
 - \[noun\], accusative, plural, feminine
 - “dāsa(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *airayad* ← *airayat* ← *īray* ← *√īr*
 - \[verb\], singular, Imperfect
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajanayan* ← *ajanayat* ← *janay* ← *√jan*
 - \[verb\], singular, Imperfect
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *manave* ← *manu*
 - \[noun\], dative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaś* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *satrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsaṃ* ← *śaṃsam* ← *śaṃsa*
 - \[noun\], accusative, singular, masculine
 - “praise; śaṃs; recitation.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamānasya* ← *yajamāna*
 - \[noun\], genitive, singular, masculine
 - “Yajamāna.”
-------------------------------------------------------------------------
+
+_________
+
 - *tūtot* ← *tu*
 - \[verb\], singular, Plusquamperfect
 - “strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

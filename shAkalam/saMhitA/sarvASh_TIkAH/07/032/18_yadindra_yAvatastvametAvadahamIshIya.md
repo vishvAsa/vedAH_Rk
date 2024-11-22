@@ -90,58 +90,86 @@ rāsīya ← √rā- 1 (root)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāvatas* ← *yāvataḥ* ← *yāvat*
 - \[noun\], genitive, singular, neuter
 - “yāvat \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *etāvad* ← *etāvat*
 - \[noun\], accusative, singular, neuter
 - “such(a); such(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *īśīya* ← *īś*
 - \[verb\], singular, Present optative
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotāram* ← *stotṛ*
 - \[noun\], accusative, singular, masculine
 - “laudatory; worshiping.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *didhiṣeya* ← *didhiṣ* ← *√dhā*
 - \[verb\], singular, Present optative
-------------------------------------------------------------------------
+
+_________
+
 - *radāvaso* ← *radāvasu*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pāpatvāya* ← *pāpatva*
 - \[noun\], dative, singular, neuter
 - “poverty; misery.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāsīya* ← *rā*
 - \[verb\], singular, Aorist optative
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

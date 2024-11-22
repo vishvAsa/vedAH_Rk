@@ -105,83 +105,121 @@ yáthā ← yáthā (invariable)
 -   *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāca* ← *prācaḥ* ← *prāñc*
 - \[noun\], accusative, plural, masculine
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāṃ* ← *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāpāco* ← *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāpāco* ← *apācaḥ* ← *apāñc*
 - \[noun\], accusative, plural, masculine
 - “backward; apāñc \[word\]; western.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhibhūte* ← *abhibhūti*
 - \[noun\], vocative, singular, masculine
 - “superior; overpowering.”
-------------------------------------------------------------------------
+
+_________
+
 - *nudasva* ← *nud*
 - \[verb\], singular, Present imperative
 - “push; propel; expel; push; move.”
-------------------------------------------------------------------------
+
+_________
+
 - *apodīco* ← *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *apodīco* ← *udīcaḥ* ← *udañc*
 - \[noun\], accusative, plural, masculine
 - “northern; northbound; udañc \[word\]; northerly.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūrādharāca* ← *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūrādharāca* ← *adharācaḥ* ← *adharāñc*
 - \[noun\], accusative, plural, masculine
 - “downward(ip); south.”
-------------------------------------------------------------------------
+
+_________
+
 - *urau* ← *uru*
 - \[noun\], locative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarman*
 - \[noun\], locative, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *madema* ← *mad*
 - \[verb\], plural, Present optative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

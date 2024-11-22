@@ -70,35 +70,51 @@ tákṣan ← √takṣ- (root)
 -   *takṣan* ← *takṣ*
 - \[verb\], plural, Present injunctive
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyābhyām* ← *nāsatya*
 - \[noun\], dative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *parijmānaṃ* ← *parijmānam* ← *parijman*
 - \[noun\], accusative, singular, masculine
 - “encompassing(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *sukhaṃ* ← *sukham* ← *sukha*
 - \[noun\], accusative, singular, masculine
 - “pleasant; easy; lukewarm; comfortable; sukha \[word\]; successful;
     easy; content(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *takṣan* ← *takṣ*
 - \[verb\], plural, Present injunctive
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenuṃ* ← *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *sabardughām* ← *sabardugha*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

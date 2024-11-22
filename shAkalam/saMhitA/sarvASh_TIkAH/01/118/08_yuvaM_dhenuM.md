@@ -93,30 +93,44 @@ viśpálāyai ← viśpálā- (nominal stem)
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenuṃ* ← *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *śayave* ← *śayu*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nādhitāyāpinvatam* ← *nādhitāya* ← *nādh*
 - \[verb noun\], dative, singular
 - “suffer.”
-------------------------------------------------------------------------
+
+_________
+
 - *nādhitāyāpinvatam* ← *apinvatam* ← *pinv*
 - \[verb\], dual, Imperfect
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyāya* ← *pūrvya*
 - \[noun\], dative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *amuñcataṃ* ← *amuñcatam* ← *muc*
 - \[verb\], dual, Imperfect
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -124,35 +138,51 @@ viśpálāyai ← viśpálā- (nominal stem)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartikām* ← *vartikā*
 - \[noun\], accusative, singular, feminine
 - “wick; paintbrush.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃhaso* ← *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
-------------------------------------------------------------------------
+
+_________
+
 - *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṅghāṃ* ← *jaṅghām* ← *jaṅghā*
 - \[noun\], accusative, singular, feminine
 - “shank; jaṅghā \[word\]; femur; thigh.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśpalāyā* ← *viśpalāyai* ← *viśpalā*
 - \[noun\], dative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *adhattam* ← *dhā*
 - \[verb\], dual, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

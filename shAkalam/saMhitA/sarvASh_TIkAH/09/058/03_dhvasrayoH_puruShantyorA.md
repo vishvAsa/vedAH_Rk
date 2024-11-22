@@ -72,44 +72,62 @@ tárat ← √tr̥̄- 1 (root)
 
 -   *dhvasrayoḥ* ← *dhvasra*
 - \[noun\], genitive, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣantyor* ← *puruṣantyoḥ* ← *puruṣanti*
 - \[noun\], genitive, dual, masculine
 - “Puruṣanti.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrāṇi* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadmahe* ← *dā*
 - \[verb\], plural, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarat* ← *tṛ*
 - \[verb\], singular, Present injunctive
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandī* ← *mandin*
 - \[noun\], nominative, singular, masculine
 - “intoxicant; exhilarating.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāvati* ← *dhāv*
 - \[verb\], singular, Present indikative
 - “run; run; wash.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

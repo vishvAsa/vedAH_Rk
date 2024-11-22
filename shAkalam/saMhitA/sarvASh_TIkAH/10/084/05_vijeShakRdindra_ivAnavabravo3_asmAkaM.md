@@ -105,93 +105,133 @@ yátas ← yátas (invariable)
 -   *vijeṣakṛd* ← *vijeṣa*
 - \[noun\], masculine
 - “victory.”
-------------------------------------------------------------------------
+
+_________
+
 - *vijeṣakṛd* ← *kṛt*
 - \[noun\], nominative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivānavabravo* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivānavabravo* ← *anavabravaḥ* ← *anavabrava*
 - \[noun\], nominative, singular, masculine
 - “blameless.”
-------------------------------------------------------------------------
+
+_________
+
 - *'smākam* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyo* ← *manyu*
 - \[noun\], vocative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhipā* ← *adhipāḥ* ← *adhipā*
 - \[noun\], nominative, singular, masculine
 - “overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhaveha* ← *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhaveha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyaṃ* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahure* ← *sahuri*
 - \[noun\], vocative, singular, masculine
 - “victorious; mighty; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇīmasi* ← *gṛ*
 - \[verb\], plural, Present optative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *utsaṃ* ← *utsam* ← *utsa*
 - \[noun\], accusative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
-------------------------------------------------------------------------
+
+_________
+
 - *yata* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābabhūtha* ← *ābhū* ← *√bhū*
 - \[verb\], singular, Perfect indicative
 - “originate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

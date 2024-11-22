@@ -102,78 +102,114 @@ náryāya ← nárya- (nominal stem)
 -   *nakṣaddhavam* ← *nakṣat* ← *nakṣ*
 - \[verb\], singular, Present injunctive
 - “reach; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣaddhavam* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṇīḥ* ← *aruṇī*
 - \[noun\], nominative, singular, feminine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyaṃ* ← *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, neuter
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *rāṭ* ← *rāj*
 - \[noun\], nominative, singular, masculine
 - “king; best; rāj; rāj \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *turo* ← *turaḥ* ← *tura*
 - \[noun\], nominative, singular, masculine
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgirasām* ← *aṅgiras*
 - \[noun\], genitive, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *takṣad* ← *takṣat* ← *takṣ*
 - \[verb\], singular, Present injunctive
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *niyutaṃ* ← *niyutam* ← *niyu* ← *√yu*
 - \[verb noun\], accusative, singular
 - “harness.”
-------------------------------------------------------------------------
+
+_________
+
 - *tastambhad* ← *tastambhat* ← *stambh*
 - \[verb\], singular, Plusquamperfect
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāṃ* ← *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *catuṣpade* ← *catuṣpada*
 - \[noun\], dative, singular, masculine
 - “quadrupedal.”
-------------------------------------------------------------------------
+
+_________
+
 - *naryāya* ← *narya*
 - \[noun\], dative, singular, masculine
 - “manly; heroic; powerful; male; human.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvipāde* ← *dvipād*
 - \[noun\], dative, singular, masculine
 - “biped; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

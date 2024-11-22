@@ -99,72 +99,106 @@ sutébhiḥ ← √su- (root)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇā* ← *vṛṣaṇa*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vītapṛṣṭhā* ← *vīta*
 - \[noun\]
 - “straight; smooth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vītapṛṣṭhā* ← *pṛṣṭhā* ← *pṛṣṭha*
 - \[noun\], accusative, dual, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *rīraman* ← *ram*
 - \[verb\], plural, Aorist inj. (proh.)
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamānāso* ← *yajamānāsaḥ* ← *yaj*
 - \[verb noun\], nominative, plural
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *anye* ← *anya*
 - \[noun\], nominative, plural, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *atyāyāhi* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *atyāyāhi* ← *āyāhi* ← *āyā* ← *√yā*
 - \[verb\], singular, Present imperative
 - “enter (a state); come; transform; approach; arrive; reach; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvato* ← *śaśvataḥ* ← *śaśvat*
 - \[noun\], accusative, plural, masculine
 - “all(a); each(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *'raṃ* ← *aram*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sutebhiḥ* ← *su*
 - \[verb noun\], instrumental, plural
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇavāma* ← *kṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -175,11 +209,15 @@ sutébhiḥ ← √su- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

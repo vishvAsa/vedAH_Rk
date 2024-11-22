@@ -105,82 +105,120 @@ yáḥ ← yá- (pronoun)
 -   *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *smarethāṃ* ← *smarethām* ← *smṛ*
 - \[verb\], dual, Present imperative
 - “think of; name; call; remember; enumerate; describe; teach;
     recommend; define; hand down; long; study; deem.”
-------------------------------------------------------------------------
+
+_________
+
 - *tujayadbhir* ← *tujayadbhiḥ* ← *tujay* ← *√tuj*
 - \[verb noun\], instrumental, plural
-------------------------------------------------------------------------
+
+_________
+
 - *evair* ← *evaiḥ* ← *eva*
 - \[noun\], instrumental, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *hataṃ* ← *hatam* ← *han*
 - \[verb\], dual, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *druho* ← *druhaḥ* ← *druh*
 - \[noun\], accusative, plural, masculine
 - “punic; hostile.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣaso* ← *rakṣasaḥ* ← *rakṣas*
 - \[noun\], accusative, plural, masculine
 - “Rākṣasa.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhaṅgurāvataḥ* ← *bhaṅgurāvat*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
 - “Soma; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *duṣkṛte* ← *duṣkṛt*
 - \[noun\], dative, singular, masculine
 - “wicked.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugam* ← *suga*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *bhūd* ← *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *kadā*
 - \[adverb\]
 - “when; kadā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhidāsati* ← *abhidās* ← *√dās*
 - \[verb\], singular, Present indikative
 - “threaten; endanger.”
-------------------------------------------------------------------------
+
+_________
+
 - *druhā* ← *druh*
 - \[noun\], instrumental, singular, feminine
 - “deception; druh; misrepresentation; fraudulence; offense; injury.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

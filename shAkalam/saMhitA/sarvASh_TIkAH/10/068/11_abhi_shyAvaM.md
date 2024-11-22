@@ -105,87 +105,125 @@ vidát ← √vid- 1 (root)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyāvaṃ* ← *śyāvam* ← *śyāva*
 - \[noun\], accusative, singular, masculine
 - “brown; dark; śyāva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛśanebhir* ← *kṛśanebhiḥ* ← *kṛśana*
 - \[noun\], instrumental, plural, masculine
 - “pearl.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣatrebhiḥ* ← *nakṣatra*
 - \[noun\], instrumental, plural, masculine
 - “Nakṣatra; celestial body; nakṣatra \[word\]; pearl.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitaro* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *apiṃśan* ← *piś*
 - \[verb\], plural, Imperfect
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātryāṃ* ← *rātryām* ← *rātri*
 - \[noun\], locative, singular, feminine
 - “night; night; rātri \[word\]; turmeric; Rātri; day; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamo* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *adadhur* ← *adadhuḥ* ← *dhā*
 - \[verb\], plural, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahan* ← *ahar*
 - \[noun\], locative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhinad* ← *bhinat* ← *bhid*
 - \[verb\], singular, Present injunctive
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *adriṃ* ← *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidad* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

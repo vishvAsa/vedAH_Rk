@@ -76,44 +76,64 @@ ná ← ná (invariable)
 -   *mahīr* ← *mahīḥ* ← *mahi*
 - \[noun\], nominative, plural, feminine
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *praṇītayaḥ* ← *praṇīti*
 - \[noun\], nominative, plural, feminine
 - “guidance; guidance.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *praśastayaḥ* ← *praśasti*
 - \[noun\], nominative, plural, feminine
 - “announcement; praise; respect.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsya* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣīyanta* ← *kṣīyante* ← *kṣi*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
 - “decrease; emaciate; vanish; kill; wane; destroy; run down; elapse;
     lose; lose; gasify; decline; decay; corrupt.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

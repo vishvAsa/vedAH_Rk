@@ -98,77 +98,113 @@ vidáthe ← vidátha- (nominal stem)
 
 -   *taturir* ← *taturiḥ* ← *taturi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vīro* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *naryo* ← *naryaḥ* ← *narya*
 - \[noun\], nominative, singular, masculine
 - “manly; heroic; powerful; male; human.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicetāḥ* ← *vicetas*
 - \[noun\], nominative, singular, masculine
 - “wise; diligent.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrotā* ← *śru*
 - \[verb\], singular, periphrast. future
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇata* ← *gṛṇataḥ* ← *gṛ*
 - \[verb noun\], genitive, singular
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *urvyūtiḥ* ← *urvyūti*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vasuḥ* ← *vasu*
 - \[noun\], nominative, singular, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃso* ← *śaṃsaḥ* ← *śaṃsa*
 - \[noun\], nominative, singular, masculine
 - “praise; śaṃs; recitation.”
-------------------------------------------------------------------------
+
+_________
+
 - *narāṃ* ← *narām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *kārudhāyā* ← *kāru*
 - \[noun\], masculine
 - “poet; singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *kārudhāyā* ← *dhāyāḥ* ← *dhāyas*
 - \[noun\], nominative, singular, masculine
 - “alimentary; sustaining.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuto* ← *stutaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidathe* ← *vidatha*
 - \[noun\], accusative, dual, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāti* ← *dā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

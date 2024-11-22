@@ -95,68 +95,100 @@ trā́sīthām ← √trā- (root)
 
 -   *upāyātaṃ* ← *upāyātam* ← *upāyā* ← *√yā*
 - \[verb\], dual, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyāya* ← *martya*
 - \[noun\], dative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāmam* ← *vāma*
 - \[noun\], accusative, singular, neuter
 - “agreeable; vāma \[word\]; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahantā* ← *vah*
 - \[verb noun\], nominative, dual
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyutam* ← *yu*
 - \[verb\], dual, Present imperative
 - “keep away; separate; ward off.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *anirām* ← *anirā*
 - \[noun\], accusative, singular, feminine
 - “languor.”
-------------------------------------------------------------------------
+
+_________
+
 - *amīvāṃ* ← *amīvām* ← *amīvā*
 - \[noun\], accusative, singular, feminine
 - “disease; affliction.”
-------------------------------------------------------------------------
+
+_________
+
 - *divā*
 - \[adverb\]
 - “by day; divā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādhvī*
 - \[noun\], vocative, dual, masculine
 - “sweet; sweet.”
-------------------------------------------------------------------------
+
+_________
+
 - *trāsīthāṃ* ← *trāsīthām* ← *trā*
 - \[verb\], dual, Aorist optative
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

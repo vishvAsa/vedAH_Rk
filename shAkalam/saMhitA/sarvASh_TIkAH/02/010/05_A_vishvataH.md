@@ -93,78 +93,112 @@ tanvā̀ ← tanū́- (nominal stem)
 -   *ā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratyañcaṃ* ← *pratyañcam* ← *pratyañc*
 - \[noun\], accusative, singular, masculine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigharmy* ← *jigharmi* ← *ghṛ*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *arakṣasā* ← *arakṣas*
 - \[noun\], instrumental, singular, neuter
 - “harmless.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *taj* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣeta* ← *juṣ*
 - \[verb\], singular, Present optative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *maryaśrī* ← *marya*
 - \[noun\], masculine
 - “young buck; boyfriend.”
-------------------------------------------------------------------------
+
+_________
+
 - *maryaśrī* ← *śrī*
 - \[noun\], nominative, singular, masculine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛhayadvarṇo* ← *spṛhayat* ← *spṛhay* ← *√spṛh*
 - \[verb noun\]
 - “envy; desire.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛhayadvarṇo* ← *varṇaḥ* ← *varṇa*
 - \[noun\], nominative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *nābhimṛśe* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nābhimṛśe* ← *abhimṛśe* ← *abhimṛś* ← *√mṛś*
 - \[verb noun\]
 - “rub.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvā* ← *tanu*
 - \[noun\], instrumental, singular, feminine
 - “body; embodiment; life; life; root; body; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarbhurāṇaḥ* ← *jarbhur* ← *√bhur*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

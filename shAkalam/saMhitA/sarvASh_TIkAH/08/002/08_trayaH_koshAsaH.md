@@ -73,44 +73,64 @@ samāné ← samāná- (nominal stem)
 -   *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kośāsa* ← *kośāsaḥ* ← *kośa*
 - \[noun\], nominative, plural, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
-------------------------------------------------------------------------
+
+_________
+
 - *ścotanti* ← *ścut*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *tisraś* ← *tisraḥ* ← *tri*
 - \[noun\], nominative, plural, feminine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *camvaḥ* ← *camū*
 - \[noun\], nominative, plural, feminine
 - “army; camū; Camū.”
-------------------------------------------------------------------------
+
+_________
+
 - *supūrṇāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supūrṇāḥ* ← *pūrṇāḥ* ← *pṛ*
 - \[verb noun\], nominative, plural
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *samāne* ← *samāna*
 - \[noun\], locative, singular, neuter
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhārman*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

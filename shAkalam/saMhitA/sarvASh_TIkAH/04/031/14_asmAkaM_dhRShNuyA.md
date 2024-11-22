@@ -73,42 +73,62 @@ gavyúḥ ← gavyú- (nominal stem)
 -   *asmākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇuyā*
 - \[adverb\]
 - “boldly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumāṃ* ← *dyumat*
 - \[noun\], nominative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrānapacyutaḥ* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrānapacyutaḥ* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrānapacyutaḥ* ← *apacyutaḥ* ← *apacyu* ← *√cyu*
 - \[verb noun\], nominative, singular
 - “abscond.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyur* ← *gavyuḥ* ← *gavyu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśvayur* ← *aśvayuḥ* ← *aśvayu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *īyate* ← *i*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

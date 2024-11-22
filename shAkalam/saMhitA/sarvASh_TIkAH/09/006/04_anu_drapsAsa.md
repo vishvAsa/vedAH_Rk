@@ -76,45 +76,65 @@ punānā́ḥ ← √pū- (root)
 -   *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *drapsāsa* ← *drapsāsaḥ* ← *drapsa*
 - \[noun\], nominative, plural, masculine
 - “drop; banner.”
-------------------------------------------------------------------------
+
+_________
+
 - *indava* ← *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pravatāsaran* ← *pravatā* ← *pravat*
 - \[noun\], instrumental, singular, feminine
 - “slope; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravatāsaran* ← *asaran* ← *sṛ*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “sṛ; liquefy; run; spread; stretch out.”
-------------------------------------------------------------------------
+
+_________
+
 - *punānā* ← *punānāḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśata* ← *aś*
 - \[verb\], plural, Root aorist (Ind.)
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

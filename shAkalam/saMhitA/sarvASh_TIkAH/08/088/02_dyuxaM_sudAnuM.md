@@ -90,63 +90,93 @@ makṣú ← makṣú- (nominal stem)
 -   *dyukṣaṃ* ← *dyukṣam* ← *dyukṣa*
 - \[noun\], accusative, singular, masculine
 - “celestial; divine; divine; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānuṃ* ← *sudānum* ← *sudānu*
 - \[noun\], accusative, singular, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣībhir* ← *taviṣībhiḥ* ← *taviṣī*
 - \[noun\], instrumental, plural, feminine
 - “strength; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvṛtaṃ* ← *āvṛtam* ← *āvṛ* ← *√vṛ*
 - \[verb noun\], accusative, singular
 - “envelop; accompany; surround; obstruct; cover; close; surround;
     endow; overwhelm; mix; coat.”
-------------------------------------------------------------------------
+
+_________
+
 - *giriṃ* ← *girim* ← *giri*
 - \[noun\], accusative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *purubhojasam* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purubhojasam* ← *bhojasam* ← *bhojas*
 - \[noun\], accusative, singular, masculine
 - “advantage; utility; food.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣumantaṃ* ← *kṣumantam* ← *kṣumat*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatinaṃ* ← *śatinam* ← *śatin*
 - \[noun\], accusative, singular, masculine
 - “hundredfold.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasriṇam* ← *sahasrin*
 - \[noun\], accusative, singular, masculine
 - “thousandfold.”
-------------------------------------------------------------------------
+
+_________
+
 - *makṣū*
 - \[adverb\]
 - “promptly; soon; quickly.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomantam* ← *gomat*
 - \[noun\], accusative, singular, masculine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

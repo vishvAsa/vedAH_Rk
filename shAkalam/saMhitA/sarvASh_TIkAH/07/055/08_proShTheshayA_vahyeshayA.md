@@ -80,61 +80,87 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 
 -   *proṣṭheśayā* ← *proṣṭheśayāḥ* ← *proṣṭheśaya*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vahyeśayā* ← *vahyeśayāḥ* ← *vahyeśaya*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *nārīr* ← *nārīḥ* ← *nārī*
 - \[noun\], nominative, plural, feminine
 - “woman; wife; female.”
-------------------------------------------------------------------------
+
+_________
+
 - *yās* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *talpaśīvarīḥ* ← *talpa*
 - \[noun\], masculine
 - “bed; adultery.”
-------------------------------------------------------------------------
+
+_________
+
 - *talpaśīvarīḥ* ← *śīvarīḥ* ← *śīvan*
 - \[noun\], nominative, plural, feminine
 - “lying.”
-------------------------------------------------------------------------
+
+_________
+
 - *striyo* ← *striyaḥ* ← *strī*
 - \[noun\], nominative, plural, feminine
 - “woman; wife; feminine; strīvajra; sexual activity; strī \[word\];
     daughter; female.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *puṇyagandhās* ← *puṇya*
 - \[noun\]
 - “auspicious; holy; pleasant; good; right; puṇya \[word\]; good;
     consecrated; correct.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṇyagandhās* ← *gandhāḥ* ← *gandha*
 - \[noun\], nominative, plural, feminine
 - “sulfur; smell; perfume; olfactory property; bouquet; myrrh; aroma;
     myrrh; gandha \[word\]; elādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāḥ* ← *tad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvāḥ* ← *sarva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāpayāmasi* ← *svāpay* ← *√svap*
 - \[verb\], plural, Present indikative
 - “put to sleep.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

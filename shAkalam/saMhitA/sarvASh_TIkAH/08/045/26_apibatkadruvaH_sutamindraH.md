@@ -70,40 +70,58 @@ paúṁsyam ← paúṁsya- (nominal stem)
 -   *apibat* ← *pā*
 - \[verb\], singular, Imperfect
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *kadruvaḥ* ← *kadru*
 - \[noun\], genitive, singular, feminine
 - “Kadru; kadrū \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrabāhve* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrabāhve* ← *bāhve* ← *bāhu*
 - \[noun\], dative, singular, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *atrādediṣṭa* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *atrādediṣṭa* ← *adediṣṭa* ← *dediś* ← *√diś*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *pauṃsyam* ← *pauṃsya*
 - \[noun\], accusative, singular, neuter
 - “manfulness; deed; army; strength.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

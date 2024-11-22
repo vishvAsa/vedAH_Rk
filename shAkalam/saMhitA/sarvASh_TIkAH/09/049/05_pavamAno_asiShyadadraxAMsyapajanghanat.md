@@ -67,34 +67,50 @@ rúcaḥ ← rúc- (nominal stem)
 -   *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *asiṣyadad* ← *asiṣyadat* ← *syand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣāṃsy* ← *rakṣāṃsi* ← *rakṣas*
 - \[noun\], accusative, plural, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *apajaṅghanat* ← *apajaṅghan* ← *√han*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *pratnavad* ← *pratna*
 - \[noun\]
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnavad* ← *vat*
 - \[adverb\]
 - “equally; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocayan* ← *rocay* ← *√ruc*
 - \[verb noun\], nominative, singular
 - “like; approve; like; simulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *rucaḥ* ← *ruc*
 - \[noun\], accusative, plural, feminine
 - “beam; radiance; color.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

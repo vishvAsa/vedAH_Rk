@@ -92,59 +92,87 @@ vr̥ṣṭáyaḥ ← vr̥ṣṭí- (nominal stem)
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vanaspatīn* ← *vanaspati*
 - \[noun\], accusative, plural, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣmayā* ← *kṣmā*
 - \[noun\], instrumental, singular, feminine
 - “Earth; Earth; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *dardharṣy* ← *dardharṣi* ← *dhardhṛ* ← *√dhṛ*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhrasya* ← *abhra*
 - \[noun\], genitive, singular, neuter
 - “abhra; cloud; sky; abhra \[word\]; cumulonimbus; mica; air;
     cloudiness.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyuto* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], nominative, plural, feminine
 - “lightning; Vidyut; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *varṣanti* ← *vṛṣ*
 - \[verb\], plural, Present indikative
 - “shower; rain; effuse; shower; drench.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṭayaḥ* ← *vṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “rain; shower; rainy season.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

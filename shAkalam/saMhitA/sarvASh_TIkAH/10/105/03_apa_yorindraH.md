@@ -85,48 +85,70 @@ yuyujé ← √yuj- (root)
 -   *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yor* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāpaja* ← *pāpajaḥ* ← *pāpaja*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *marto* ← *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśramāṇo* ← *śaśramāṇaḥ* ← *śram*
 - \[verb noun\], nominative, singular
 - “tire; exercise; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibhīvān* ← *bhī*
 - \[verb noun\], nominative, singular
 - “fear; fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhe* ← *śubha*
 - \[noun\], accusative, dual, neuter
 - “good; beautiful; auspicious; good; suitable; pleasant; righteous;
     beautiful; wholesome; beneficial.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyuje* ← *yuj*
 - \[verb\], singular, Perfect indicative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -134,11 +156,15 @@ yuyujé ← √yuj- (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣīvān* ← *taviṣīvat*
 - \[noun\], nominative, singular, masculine
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

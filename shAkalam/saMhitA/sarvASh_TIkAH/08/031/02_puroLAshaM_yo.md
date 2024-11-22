@@ -79,49 +79,71 @@ tám ← sá- ~ tá- (pronoun)
 -   *puroﾱāśaṃ* ← *puroﾱāśam* ← *puroḍāśa*
 - \[noun\], accusative, singular, masculine
 - “puroḍāśa; puroḍāśa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *rarata* ← *rarate* ← *rā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśiram* ← *āśir*
 - \[noun\], accusative, singular, feminine
 - “mixture.”
-------------------------------------------------------------------------
+
+_________
+
 - *pād* ← *pāt* ← *pā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakro* ← *śakraḥ* ← *śakra*
 - \[noun\], nominative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

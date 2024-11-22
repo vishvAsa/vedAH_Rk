@@ -112,94 +112,138 @@ ní ← ní (invariable)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajvane* ← *yajvan*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇate* ← *pṛṇ*
 - \[verb noun\], dative, singular
 - “satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣaty* ← *śikṣati* ← *śikṣ*
 - \[verb\], singular, Present indikative
 - “help; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *uped* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *uped* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadāti* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svam* ← *sva*
 - \[noun\], accusative, singular, neuter
 - “property; wealth.”
-------------------------------------------------------------------------
+
+_________
+
 - *muṣāyati* ← *muṣāy* ← *√muṣ*
 - \[verb\], singular, Present indikative
 - “steal; rob.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūyo* ← *bhūyas*
 - \[adverb\]
 - “again; further; further; repeatedly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūyo* ← *bhūyas*
 - \[adverb\]
 - “again; further; further; repeatedly.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayim* ← *rayi*
 - \[noun\], accusative, singular, feminine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhayann* ← *vardhayan* ← *vardhay* ← *√vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; strengthen; promote; rear; add; greet; laud.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhinne* ← *abhinna*
 - \[noun\], locative, singular, masculine
 - “uncut; unfestering; identical; unbroken.”
-------------------------------------------------------------------------
+
+_________
+
 - *khilye* ← *khilya*
 - \[noun\], locative, singular, masculine
 - “barren.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāti* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayum* ← *devayu*
 - \[noun\], accusative, singular, masculine
 - “devout; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

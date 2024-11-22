@@ -92,60 +92,90 @@ vibhī́dakaḥ ← vibhī́daka- (nominal stem)
 
 -   *prāvepā* ← *prāvepāḥ* ← *prāvepa*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhato* ← *bṛhataḥ* ← *bṛhat*
 - \[noun\], genitive, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādayanti* ← *māday* ← *√mad*
 - \[verb\], plural, Present indikative
 - “delight; enjoy; intoxicate.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravātejā* ← *pravātejāḥ* ← *pravātejā*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *iriṇe* ← *iriṇa*
 - \[noun\], locative, singular, neuter
 - “hole; rivulet.”
-------------------------------------------------------------------------
+
+_________
+
 - *varvṛtānāḥ* ← *varvṛt* ← *√vṛt*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *somasyeva* ← *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *maujavatasya* ← *maujavata*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bhakṣo* ← *bhakṣaḥ* ← *bhakṣa*
 - \[noun\], nominative, singular, masculine
 - “food; eating; drink; beverage.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhīdako* ← *vibhīdakaḥ* ← *vibhīdaka*
 - \[noun\], nominative, singular, masculine
 - “dice.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāgṛvir* ← *jāgṛviḥ* ← *jāgṛvi*
 - \[noun\], nominative, singular, masculine
 - “attentive; argus-eyed; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *acchān* ← *chand*
 - \[verb\], singular, Athematic s aor. (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

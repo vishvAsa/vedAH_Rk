@@ -93,76 +93,112 @@ saṁvatsaré ← saṁvatsará- (nominal stem)
 -   *viṣṭvī* ← *viṣ*
 - \[verb noun\]
 - “labor; act; perform.”
-------------------------------------------------------------------------
+
+_________
+
 - *śamī*
 - \[noun\], instrumental, singular, feminine
 - “Prosopis spicigera Linn.; śamī \[word\]; Acacia sundra; attempt;
     labor.”
-------------------------------------------------------------------------
+
+_________
+
 - *taraṇitvena* ← *taraṇi*
 - \[noun\]
 - “energetic; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *taraṇitvena* ← *tvena* ← *tva*
 - \[noun\], instrumental, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāghato* ← *vāghataḥ* ← *vāghant*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *martāsaḥ* ← *marta*
 - \[noun\], nominative, plural, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *santo* ← *santaḥ* ← *as*
 - \[verb noun\], nominative, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtatvam* ← *amṛta*
 - \[noun\]
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtatvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaśuḥ* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *saudhanvanā* ← *saudhanvanāḥ* ← *saudhanvana*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūracakṣasaḥ* ← *sūra*
 - \[noun\], masculine
 - “sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūracakṣasaḥ* ← *cakṣasaḥ* ← *cakṣas*
 - \[noun\], nominative, plural, masculine
 - “eye; look; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvatsare* ← *saṃvatsara*
 - \[noun\], locative, singular, masculine
 - “year; year; saṃvatsara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *apṛcyanta* ← *pṛc*
 - \[verb\], plural, Imperfekt Passiv
 - “mix; unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

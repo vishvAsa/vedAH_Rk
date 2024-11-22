@@ -87,68 +87,100 @@ sū́ryasya ← sū́rya- (nominal stem)
 -   *varṣiṣṭhakṣatrā* ← *varṣiṣṭha*
 - \[noun\]
 - “highest.”
-------------------------------------------------------------------------
+
+_________
+
 - *varṣiṣṭhakṣatrā* ← *kṣatrau* ← *kṣatra*
 - \[noun\], nominative, dual, masculine
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *urucakṣasā* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *urucakṣasā* ← *cakṣasā* ← *cakṣas*
 - \[noun\], nominative, dual, masculine
 - “eye; look; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājānā* ← *rājan*
 - \[noun\], nominative, dual, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghaśruttamā* ← *dīrgha*
 - \[noun\]
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghaśruttamā* ← *śruttamā* ← *śruttama*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhutā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daṃsanā*
 - \[noun\], instrumental, singular, feminine
 - “wonder; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratharyataḥ* ← *rathary*
 - \[verb\], dual, Present indikative
 - “drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sākaṃ* ← *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

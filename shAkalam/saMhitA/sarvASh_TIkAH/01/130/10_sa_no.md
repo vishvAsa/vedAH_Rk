@@ -101,19 +101,27 @@ vāvr̥dhīthā́ḥ ← √vr̥dh- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyebhir* ← *navyebhiḥ* ← *navya*
 - \[noun\], instrumental, plural, neuter
 - “new; fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣakarmann* ← *vṛṣa* ← *vṛṣan*
 - \[noun\], masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣakarmann* ← *karman*
 - \[noun\], vocative, singular, masculine
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -121,60 +129,88 @@ vāvr̥dhīthā́ḥ ← √vr̥dh- (root)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *purāṃ* ← *purām* ← *pur*
 - \[noun\], genitive, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *dartaḥ* ← *dartar* ← *dartṛ*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pāyubhiḥ* ← *pāyu*
 - \[noun\], instrumental, plural, masculine
 - “guard; pāyu \[word\]; Pāyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *śagmaiḥ* ← *śagma*
 - \[noun\], instrumental, plural, masculine
 - “powerful; reliable; competent.”
-------------------------------------------------------------------------
+
+_________
+
 - *divodāsebhir* ← *divodāsebhiḥ* ← *divodāsa*
 - \[noun\], instrumental, plural, masculine
 - “Divodāsa.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *stavāno* ← *stavānaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhīthā* ← *vāvṛdhīthāḥ* ← *vṛdh*
 - \[verb\], singular, Perfect optative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahobhir* ← *ahobhiḥ* ← *ahar*
 - \[noun\], instrumental, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

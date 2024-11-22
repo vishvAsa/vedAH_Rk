@@ -90,66 +90,96 @@ bhrājante ← √bhrāj- (root)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitramahaḥ* ← *mitra*
 - \[noun\], masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitramahaḥ* ← *mahaḥ* ← *mahas*
 - \[noun\], vocative, singular, masculine
 - “greatness; festival; glory; reward; gladness.”
-------------------------------------------------------------------------
+
+_________
+
 - *purohito* ← *purohitaḥ* ← *purohita*
 - \[noun\], nominative, singular, masculine
 - “Purohita; purohita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *'ntaro* ← *antaraḥ* ← *antara*
 - \[noun\], nominative, singular, masculine
 - “another(a); other; interior; different; near; intermediate;
     following.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāsi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūtyam* ← *dūtya*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *sindhor* ← *sindhoḥ* ← *sindhu*
 - \[noun\], genitive, singular, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasvanitāsa* ← *prasvanitāsaḥ* ← *prasvan* ← *√svan*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmayo* ← *ūrmayaḥ* ← *ūrmi*
 - \[noun\], nominative, plural, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājante* ← *bhrāj*
 - \[verb\], plural, Present indikative
 - “shine; glitter; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcayaḥ* ← *arci*
 - \[noun\], nominative, plural, masculine
 - “flare.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

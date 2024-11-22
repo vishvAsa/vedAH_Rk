@@ -79,39 +79,57 @@ saparyántā ← √sapary- (root)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñebhir* ← *yajñebhiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvṛto* ← *āvṛtaḥ* ← *āvṛ* ← *√vṛ*
 - \[verb noun\], nominative, singular
 - “envelop; accompany; surround; obstruct; cover; close; surround;
     endow; overwhelm; mix; coat.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dhivastrā* ← *adhivastrā* ← *adhivastra*
 - \[noun\], nominative, singular, feminine
 - “clothed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhūr* ← *vadhūḥ* ← *vadhū*
 - \[noun\], nominative, singular, feminine
 - “wife; woman; bride; female; Trigonella corniculata; female; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyantā* ← *sapary*
 - \[verb noun\], nominative, dual
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhe* ← *śubh*
 - \[noun\], dative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *cakrāte* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -122,11 +140,15 @@ saparyántā ← √sapary- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

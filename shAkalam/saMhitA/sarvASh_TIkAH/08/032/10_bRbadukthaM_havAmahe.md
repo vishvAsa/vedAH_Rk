@@ -66,28 +66,40 @@ sā́dhu ← sā́dhu- (nominal stem)
 
 -   *bṛbadukthaṃ* ← *bṛbaduktham* ← *bṛbaduktha*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛprakarasnam* ← *sṛpra*
 - \[noun\]
 - “glossy; greasy.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛprakarasnam* ← *karasnam* ← *karasna*
 - \[noun\], accusative, singular, masculine
 - “forearm.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhu*
 - \[noun\], accusative, singular, neuter
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvantam* ← *kṛ*
 - \[verb noun\], accusative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -98,11 +110,15 @@ sā́dhu ← sā́dhu- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

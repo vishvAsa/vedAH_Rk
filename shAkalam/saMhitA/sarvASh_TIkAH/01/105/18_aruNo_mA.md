@@ -104,80 +104,118 @@ vittám ← √vid- 2 (root)
 -   *aruṇo* ← *aruṇaḥ* ← *aruṇa*
 - \[noun\], nominative, singular, masculine
 - “Aruṇa; dawn; copper; aruṇa; sindūra; gold; sun; raktavarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakṛd* ← *sakṛt*
 - \[adverb\]
 - “once; immediately; sakṛt \[word\]; abruptly.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkaḥ* ← *vṛka*
 - \[noun\], nominative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *yantaṃ* ← *yantam* ← *i*
 - \[verb noun\], accusative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadarśa* ← *dṛś*
 - \[verb\], singular, Perfect indicative
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *uj* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihīte* ← *hā*
 - \[verb\], singular, Present indikative
 - “move over; yield; give way.”
-------------------------------------------------------------------------
+
+_________
+
 - *nicāyyā* ← *nicāy* ← *√cāy*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *taṣṭeva* ← *taṣṭā* ← *taṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “carpenter.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṣṭeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭyāmayī* ← *pṛṣṭi*
 - \[noun\], feminine
 - “rib.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭyāmayī* ← *āmayī* ← *āmayin*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vittam* ← *vid*
 - \[verb\], dual, Present imperative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], vocative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,75 +102,111 @@ staryàm ← starī́- (nominal stem)
 -   *vṛkāya* ← *vṛka*
 - \[noun\], dative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
-------------------------------------------------------------------------
+
+_________
+
 - *cij* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *jasamānāya* ← *jas*
 - \[verb noun\], dative, singular
 - “starve.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaktam* ← *śak*
 - \[verb\], dual, Aorist imperative
 - “can; invigorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb\], dual, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *śayave* ← *śayu*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hūyamānā* ← *hvā*
 - \[verb noun\], nominative, dual
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāv* ← *yau* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aghnyām* ← *aghnyā*
 - \[noun\], accusative, singular, feminine
 - “cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *apinvatam* ← *pinv*
 - \[verb\], dual, Imperfect
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *staryaṃ* ← *staryam* ← *starī*
 - \[noun\], accusative, singular, feminine
 - “barren cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *cicchakty* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *cicchakty* ← *śaktī* ← *śakti*
 - \[noun\], instrumental, singular, feminine
 - “spear; ability; Shakti; potency; power; capacity; śakti \[word\];
     potency; capability; reproduction.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

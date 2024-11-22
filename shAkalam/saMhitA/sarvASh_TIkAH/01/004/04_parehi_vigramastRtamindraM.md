@@ -82,48 +82,70 @@ yáḥ ← yá- (pronoun)
 -   *parehi* ← *pare* ← *√i*
 - \[verb\], singular, Present imperative
 - “travel; depart; go; die.”
-------------------------------------------------------------------------
+
+_________
+
 - *vigram* ← *vigra*
 - \[noun\], accusative, singular, masculine
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *astṛtam* ← *astṛta*
 - \[noun\], accusative, singular, masculine
 - “durable; invincible.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛcchā* ← *pracch*
 - \[verb\], singular, Present imperative
 - “ask; ask; ask; consult; interrogate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipaścitam* ← *vipaścit*
 - \[noun\], accusative, singular, masculine
 - “wise; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhibhya* ← *sakhibhyaḥ* ← *sakhi*
 - \[noun\], ablative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *varam* ← *vara*
 - \[noun\], nominative, singular, neuter
 - “best; excellent; better; choice; optimum; maximal.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

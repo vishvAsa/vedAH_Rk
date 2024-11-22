@@ -106,76 +106,112 @@ vóḷhā ← vóḷhar- (nominal stem)
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīm*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *aruṇāso* ← *aruṇāsaḥ* ← *aruṇa*
 - \[noun\], nominative, plural, masculine
 - “red; tawny; dusty; gray.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruśanto* ← *ruśantaḥ* ← *ruśat*
 - \[noun\], nominative, plural, masculine
 - “white; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhagām* ← *subhaga*
 - \[noun\], accusative, singular, feminine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
-------------------------------------------------------------------------
+
+_________
+
 - *urviyā*
 - \[adverb\]
 - “wide; widely.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathānām* ← *prath*
 - \[verb noun\], accusative, singular
 - “be known; expand; expand; boom.”
-------------------------------------------------------------------------
+
+_________
+
 - *apejate* ← *apej* ← *√īj*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *śūro* ← *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “brave; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *asteva* ← *astā* ← *astṛ*
 - \[noun\], nominative, singular, masculine
 - “archer; shot.”
-------------------------------------------------------------------------
+
+_________
+
 - *asteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *bādhate* ← *bādh*
 - \[verb\], singular, Present indikative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamo* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajiro* ← *ajiraḥ* ← *ajira*
 - \[noun\], nominative, singular, masculine
 - “fast; agile; ajira \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *voﾱhā* ← *voḍhā* ← *voḍhṛ*
 - \[noun\], nominative, singular, masculine
 - “charioteer.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,83 +102,117 @@ vratám ← vratá- (nominal stem)
 -   *samāvavarti* ← *samāvṛt* ← *√vṛt*
 - \[verb\], singular, Present indikative
 - “return; stir; turn; melt.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṭhito* ← *viṣṭhitaḥ* ← *viṣṭhā* ← *√sthā*
 - \[verb noun\], nominative, singular
 - “stand; stay; resist.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigīṣur* ← *jigīṣuḥ* ← *jigīṣu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *viśveṣāṃ* ← *viśveṣām* ← *viśva*
 - \[noun\], genitive, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmaś* ← *kāmaḥ* ← *kāma*
 - \[noun\], nominative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 - *caratām* ← *car*
 - \[verb noun\], genitive, plural
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *amābhūt* ← *amā*
 - \[adverb\]
 - “at home.”
-------------------------------------------------------------------------
+
+_________
+
 - *amābhūt* ← *abhūt* ← *bhū*
 - \[verb\], singular, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvāṃ* ← *śaśvat*
 - \[noun\], nominative, singular, masculine
 - “all(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *apo* ← *apaḥ* ← *apas*
 - \[noun\], accusative, singular, neuter
 - “work; deed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vikṛtaṃ* ← *vikṛtam* ← *vikṛ* ← *√kṛ*
 - \[verb noun\], accusative, singular
 - “deform; change; transform; corrupt; cripple; roll; decorate; bend;
     transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *hitvy* ← *hitvī* ← *hā*
 - \[verb noun\]
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgād* ← *āgāt* ← *āgā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “come; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrataṃ* ← *vratam* ← *vrata*
 - \[noun\], accusative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitur* ← *savituḥ* ← *savitṛ*
 - \[noun\], genitive, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivyasya* ← *daivya*
 - \[noun\], genitive, singular, masculine
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

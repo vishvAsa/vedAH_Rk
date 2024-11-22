@@ -99,73 +99,107 @@ rātátamā ← rātátama- (nominal stem)
 -   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavase* ← *tavas*
 - \[noun\], dative, singular, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *turāya* ← *tura*
 - \[noun\], dative, singular, masculine
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayo* ← *prayaḥ* ← *prayas*
 - \[noun\], accusative, singular, neuter
 - “food; dainty; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *harmi* ← *hṛ*
 - \[verb\], singular, Present indikative
 - “cure; remove; kidnap; rob; take away; get; destroy; take; extract;
     collect; seize; clean; offer; drain; pick; take out; bring; accept;
     sever; produce; conquer; steal; deprive; press out.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *māhināya* ← *māhina*
 - \[noun\], dative, singular, masculine
 - “mighty; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛcīṣamāyādhrigava* ← *ṛcīṣamāya* ← *ṛcīṣama*
 - \[noun\], dative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛcīṣamāyādhrigava* ← *adhrigave* ← *adhrigu*
 - \[noun\], dative, singular, masculine
 - “rich; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *oham* ← *oha*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātatamā* ← *rātatama*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

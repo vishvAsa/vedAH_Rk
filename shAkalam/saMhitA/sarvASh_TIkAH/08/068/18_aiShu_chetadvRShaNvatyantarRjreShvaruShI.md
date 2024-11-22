@@ -73,41 +73,61 @@ svabhīśúḥ ← svabhīśú- (nominal stem)
 -   *aiṣu* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aiṣu* ← *eṣu* ← *idam*
 - \[noun\], locative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *cetad* ← *cetat* ← *cit*
 - \[verb\], singular, Present injunctive
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇvaty* ← *vṛṣaṇvatī* ← *vṛṣaṇvat*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjreṣv* ← *ṛjreṣu* ← *ṛjra*
 - \[noun\], locative, plural, masculine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṣī* ← *aruṣa*
 - \[noun\], nominative, singular, feminine
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhīśuḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhīśuḥ* ← *abhīśuḥ* ← *abhīśu*
 - \[noun\], nominative, singular, feminine
 - “beam; rein.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaśāvatī* ← *kaśāvat*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

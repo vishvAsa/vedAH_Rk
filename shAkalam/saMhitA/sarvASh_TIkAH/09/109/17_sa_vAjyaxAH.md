@@ -69,40 +69,58 @@ mr̥jānáḥ ← √mr̥j- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājy* ← *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣāḥ* ← *akṣār* ← *kṣar*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “run; melt.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasraretā* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasraretā* ← *retāḥ* ← *retas*
 - \[noun\], nominative, singular, masculine
 - “semen; sperm.”
-------------------------------------------------------------------------
+
+_________
+
 - *adbhir* ← *adbhiḥ* ← *ap*
 - \[noun\], instrumental, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛjāno* ← *mṛjānaḥ* ← *mṛj*
 - \[verb noun\], nominative, singular
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrīṇānaḥ* ← *śrī*
 - \[verb noun\], nominative, singular
 - “cook; boil; heat; cook; mix.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

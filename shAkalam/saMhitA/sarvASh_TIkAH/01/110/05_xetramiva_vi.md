@@ -94,66 +94,96 @@ ichámānāḥ ← √iṣ- 2 (root)
 - \[noun\], accusative, singular, neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *mamus* ← *mamuḥ* ← *mā*
 - \[verb\], plural, Perfect indicative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *tejanenaṃ* ← *tejana*
 - \[noun\], instrumental, singular, neuter
 - “shaft; sharpening; bamboo; tip.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekam* ← *eka*
 - \[noun\], accusative, singular, neuter
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *pātram* ← *pātra*
 - \[noun\], accusative, singular, neuter
 - “vessel; pātra \[word\]; authority; receptacle; pātra; vessel; cup;
     bowl; basket.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *jehamānam* ← *jeh*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *upastutā* ← *upastutāḥ* ← *upastu* ← *√stu*
 - \[verb noun\], nominative, plural
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *upamaṃ* ← *upamam* ← *upama*
 - \[noun\], accusative, singular, neuter
 - “best; topmost.”
-------------------------------------------------------------------------
+
+_________
+
 - *nādhamānā* ← *nādhamānāḥ* ← *nādh*
 - \[verb noun\], nominative, plural
 - “suffer.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartyeṣu* ← *amartya*
 - \[noun\], locative, plural, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrava* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchamānāḥ* ← *iṣ*
 - \[verb noun\], nominative, plural
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

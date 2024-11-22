@@ -73,48 +73,70 @@ vaiyaśva ← vaiyaśvá- (nominal stem)
 -   *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *arca* ← *arc*
 - \[verb\], singular, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *vihāyase* ← *vihāyas*
 - \[noun\], dative, singular, masculine
 - “vigorous.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomebhi* ← *stomebhiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sthūrayūpavat* ← *sthūra*
 - \[noun\]
 - “large; portly; fleshy.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthūrayūpavat* ← *yūpa*
 - \[noun\], masculine
 - “column; stake.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthūrayūpavat* ← *vat*
 - \[adverb\]
 - “equally; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣe* ← *ṛṣi*
 - \[noun\], vocative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaiyaśva*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *damyāyāgnaye* ← *damyāya* ← *damya*
 - \[noun\], dative, singular, masculine
 - “household.”
-------------------------------------------------------------------------
+
+_________
+
 - *damyāyāgnaye* ← *agnaye* ← *agni*
 - \[noun\], dative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

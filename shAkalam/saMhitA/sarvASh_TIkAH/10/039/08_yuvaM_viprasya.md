@@ -105,30 +105,42 @@ yuvám ← tvám (pronoun)
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprasya* ← *vipra*
 - \[noun\], genitive, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaraṇām* ← *jaraṇā*
 - \[noun\], accusative, singular, feminine
 - “old age.”
-------------------------------------------------------------------------
+
+_________
+
 - *upeyuṣaḥ* ← *upe* ← *√i*
 - \[verb noun\], genitive, singular
 - “mix; endow; enter (a state); approach; love; supply; travel; come
     out; reach; arrive; decorate; process.”
-------------------------------------------------------------------------
+
+_________
+
 - *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaler* ← *kaleḥ* ← *kali*
 - \[noun\], genitive, singular, masculine
 - “Kali; kali; discord; kali \[word\]; belleric myrobalan; trouble;
     quarrel.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇutaṃ* ← *akṛṇutam* ← *kṛ*
 - \[verb\], dual, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -139,49 +151,73 @@ yuvám ← tvám (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvad* ← *yuvat*
 - \[noun\], accusative, singular, neuter
 - “young; youthful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandanam* ← *vandana*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛśyadād* ← *ṛśyadāt* ← *ṛśyada*
 - \[noun\], ablative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūpathur* ← *ūpathuḥ* ← *vap*
 - \[verb\], dual, Perfect indicative
 - “sow; bestrew; strew; scatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśpalām* ← *viśpalā*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *etave* ← *i*
 - \[verb noun\]
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛthaḥ* ← *kṛ*
 - \[verb\], dual, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -192,7 +228,9 @@ yuvám ← tvám (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,77 +102,113 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 -   *viśpatiṃ* ← *viśpatim* ← *viśpati*
 - \[noun\], accusative, singular, masculine
 - “overlord; head.”
-------------------------------------------------------------------------
+
+_________
+
 - *yahvam* ← *yahva*
 - \[noun\], accusative, singular, masculine
 - “youngest; youthful; active.”
-------------------------------------------------------------------------
+
+_________
+
 - *atithiṃ* ← *atithim* ← *atithi*
 - \[noun\], accusative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
-------------------------------------------------------------------------
+
+_________
+
 - *yantāraṃ* ← *yantāram* ← *yantṛ*
 - \[noun\], accusative, singular, masculine
 - “charioteer; ruler.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīnām* ← *dhī*
 - \[noun\], genitive, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśijaṃ* ← *uśijam* ← *uśij*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāghatām* ← *vāghant*
 - \[noun\], genitive, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *adhvarāṇāṃ* ← *adhvarāṇām* ← *adhvara*
 - \[noun\], genitive, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cetanaṃ* ← *cetanam* ← *cetana*
 - \[noun\], accusative, singular, masculine
 - “noteworthy; remarkable; memorable; conspicuous; conscious;
     sentient.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedasam* ← *jātavedas*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsanti* ← *śaṃs*
 - \[verb\], plural, Present indikative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *jūtibhir* ← *jūtibhiḥ* ← *jūti*
 - \[noun\], instrumental, plural, feminine
 - “jūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdhe* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

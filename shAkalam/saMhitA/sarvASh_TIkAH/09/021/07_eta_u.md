@@ -79,27 +79,39 @@ satáḥ ← √as- 1 (root)
 -   *eta* ← *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *avīvaśan* ← *vāś*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “bellow; howl; sing; moo; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāṣṭhāṃ* ← *kāṣṭhām* ← *kāṣṭhā*
 - \[noun\], accusative, singular, feminine
 - “kāṣṭhā; quarter; body of water.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], nominative, plural, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *akrata* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -110,20 +122,28 @@ satáḥ ← √as- 1 (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *sataḥ* ← *satas*
 - \[adverb\]
 - “evenly.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāsāviṣur* ← *prāsāviṣuḥ* ← *prasū* ← *√sū*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “give birth; be born; originate; impel; propel; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *matim* ← *mati*
 - \[noun\], accusative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

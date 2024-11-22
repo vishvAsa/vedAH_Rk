@@ -102,84 +102,124 @@ sáhyoḥ ← sáhyu- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvidyumnasya* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvidyumnasya* ← *dyumnasya* ← *dyumna*
 - \[noun\], genitive, singular, masculine
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthavirasya* ← *sthavira*
 - \[noun\], genitive, singular, masculine
 - “old; strong; hardy; firm; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛṣver* ← *ghṛṣveḥ* ← *ghṛṣvi*
 - \[noun\], genitive, singular, masculine
 - “anticipated; electrifying.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *rarapśe* ← *rapś*
 - \[verb\], singular, Perfect indicative
 - “abound in.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahimā* ← *mahiman*
 - \[noun\], nominative, singular, masculine
 - “greatness; power; mahiman.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], ablative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsya* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatrur* ← *śatruḥ* ← *śatru*
 - \[noun\], nominative, singular, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratimānam* ← *pratimāna*
 - \[noun\], nominative, singular, neuter
 - “weight.”
-------------------------------------------------------------------------
+
+_________
+
 - *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratiṣṭhiḥ* ← *pratiṣṭhi*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *purumāyasya* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purumāyasya* ← *māyasya* ← *māyā*
 - \[noun\], genitive, singular, masculine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahyoḥ* ← *sahyu*
 - \[noun\], genitive, singular, masculine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

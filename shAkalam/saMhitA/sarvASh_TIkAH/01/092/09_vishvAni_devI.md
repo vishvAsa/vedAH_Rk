@@ -100,76 +100,110 @@ víśvasya ← víśva- (nominal stem)
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *devī*
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanābhicakṣyā* ← *bhuvanā* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanābhicakṣyā* ← *abhicakṣya* ← *abhicakṣ* ← *√cakṣ*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *pratīcī* ← *pratyañc*
 - \[noun\], nominative, singular, feminine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣur* ← *cakṣuḥ* ← *cakṣus*
 - \[noun\], accusative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
-------------------------------------------------------------------------
+
+_________
+
 - *urviyā*
 - \[adverb\]
 - “wide; widely.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvaṃ* ← *jīvam* ← *jīva*
 - \[noun\], accusative, singular, neuter
 - “live; alive(p); amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *carase* ← *car*
 - \[verb noun\]
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *bodhayantī* ← *bodhay* ← *√budh*
 - \[verb noun\], nominative, singular
 - “awaken; ignite; advise; admonish; communicate.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *avidan* ← *avidat* ← *vid*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *manāyoḥ* ← *manāyu*
 - \[noun\], genitive, singular, masculine
 - “poetic; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

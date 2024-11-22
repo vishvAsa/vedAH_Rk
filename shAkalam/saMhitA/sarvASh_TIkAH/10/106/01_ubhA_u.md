@@ -114,97 +114,143 @@ taṁsayethe ← √taṁs- (root)
 -   *ubhā* ← *ubhau* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *arthayethe* ← *arthay* ← *√arth*
 - \[verb\], dual, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvāthe* ← *tan*
 - \[verb\], dual, Present indikative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vastrāpaseva* ← *vastrā* ← *vastra*
 - \[noun\], accusative, plural, neuter
 - “fabric; clothing; dress; vastra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vastrāpaseva* ← *apasā* ← *apas*
 - \[noun\], instrumental, singular, neuter
 - “work; deed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vastrāpaseva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhrīcīnā* ← *sadhrīcīna*
 - \[noun\], accusative, dual, masculine
 - “concentrated; joint.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātave* ← *yā*
 - \[verb noun\]
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *prem* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prem* ← *im* ← *iṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ajīgaḥ* ← *jāgṛ*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “wake; watch; awaken; wake up; oversee.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudineva* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudineva* ← *dinā* ← *dina*
 - \[noun\], accusative, plural, neuter
 - “day; day; day of the week; one.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudineva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛkṣa* ← *pṛkṣaḥ* ← *pṛkṣ*
 - \[noun\], accusative, plural, feminine
 - “food; refreshment; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃsayethe* ← *taṃsay* ← *√taṃs*
 - \[verb\], dual, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

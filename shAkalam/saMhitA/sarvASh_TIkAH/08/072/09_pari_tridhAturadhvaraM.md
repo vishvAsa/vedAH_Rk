@@ -73,44 +73,64 @@ mádhvā ← mádhu- (nominal stem)
 -   *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *tridhātur* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tridhātur* ← *dhātuḥ* ← *dhātu*
 - \[noun\], nominative, singular, feminine
 - “mineral; dhātu; saptadhātu; Sanskrit verbal root; etymon; aṣṭaloha;
     mahābhūta; gairika; component; navadhātu; svarṇamākṣika; doṣa;
     inorganic compound.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jūrṇir* ← *jūrṇiḥ* ← *jūrṇi*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *navīyasī* ← *navīyas*
 - \[noun\], nominative, singular, feminine
 - “new; fresh; up-to-the-minute.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhvā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hotāro* ← *hotāraḥ* ← *hotṛ*
 - \[noun\], nominative, plural, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjate* ← *añj*
 - \[verb\], plural, Present indikative
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

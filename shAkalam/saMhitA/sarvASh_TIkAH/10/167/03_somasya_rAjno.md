@@ -99,72 +99,106 @@ vídhātar ← vidhātár- (nominal stem)
 -   *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājño* ← *rājñaḥ* ← *rājan*
 - \[noun\], genitive, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharmaṇi* ← *dharman*
 - \[noun\], locative, singular, neuter
 - “regulation; Dharma; law; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspater* ← *bṛhaspateḥ* ← *bṛhaspati*
 - \[noun\], genitive, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *anumatyā* ← *anumatyāḥ* ← *anumati*
 - \[noun\], genitive, singular, feminine
 - “Anumati; approbation.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarmaṇi* ← *śarman*
 - \[noun\], locative, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavāham* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavann* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *upastutau* ← *upastuti*
 - \[noun\], locative, singular, feminine
 - “praise; applause.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhātar* ← *dhātṛ*
 - \[noun\], vocative, singular, masculine
 - “Brahma; Dhātṛ; creator; Dhātṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhātaḥ* ← *vidhātar* ← *vidhātṛ*
 - \[noun\], vocative, singular, masculine
 - “Brahma; organizer; creator.”
-------------------------------------------------------------------------
+
+_________
+
 - *kalaśāṃ* ← *kalaśa*
 - \[noun\], accusative, plural, masculine
 - “jar.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhakṣayam* ← *bhakṣay* ← *√bhakṣ*
 - \[verb\], singular, Imperfect
 - “eat; feed; administer; partake; feed; drink.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

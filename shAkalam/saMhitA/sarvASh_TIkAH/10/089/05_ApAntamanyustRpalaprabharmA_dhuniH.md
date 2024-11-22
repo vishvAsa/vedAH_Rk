@@ -92,64 +92,96 @@ pratimā́nāni ← pratimā́na- (nominal stem)
 
 -   *āpāntamanyus* ← *āpāntamanyuḥ* ← *āpāntamanyu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tṛpalaprabharmā* ← *tṛpala*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *tṛpalaprabharmā* ← *prabharmā* ← *prabharman*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dhuniḥ* ← *dhuni*
 - \[noun\], nominative, singular, masculine
 - “deafening; boisterous; noisy.”
-------------------------------------------------------------------------
+
+_________
+
 - *śimīvāñcharumāṃ* ← *śimīvān* ← *śimīvat*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *śimīvāñcharumāṃ* ← *śarumāṃ* ← *śarumat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjīṣī* ← *ṛjīṣin*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāny* ← *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *atasā* ← *atasa*
 - \[noun\], accusative, plural, neuter
 - “shrub; scrub.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanāni* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *nārvāg* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nārvāg* ← *arvāk*
 - \[adverb\]
 - “here.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratimānāni* ← *pratimāna*
 - \[noun\], nominative, plural, neuter
 - “weight.”
-------------------------------------------------------------------------
+
+_________
+
 - *debhuḥ* ← *dabh*
 - \[verb\], plural, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

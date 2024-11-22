@@ -73,49 +73,71 @@ váśaiḥ ← váśa- (nominal stem)
 -   *sadyojuvas* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sadyojuvas* ← *juvaḥ* ← *jū*
 - \[noun\], nominative, plural, masculine
 - “fleet.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], nominative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaścandrāḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaścandrāḥ* ← *ścandrāḥ* ← *ścandra*
 - \[noun\], nominative, plural, masculine
 - “shining; glistening; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaśaiś* ← *vaśaiḥ* ← *vaśa*
 - \[noun\], instrumental, plural, masculine
 - “control; dominion; influence; power; Vaśa; vaśa \[word\]; will;
     authority; control; wish; supervision.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *makṣū*
 - \[adverb\]
 - “promptly; soon; quickly.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarante* ← *jṛ*
 - \[verb\], plural, Present indikative
 - “sing.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

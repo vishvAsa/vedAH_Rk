@@ -89,58 +89,86 @@ pravádbhiḥ ← pravát- (nominal stem)
 
 -   *ayuyutsann* ← *ayuyutsan* ← *yuyuts* ← *√yudh*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *anavadyasya* ← *anavadya*
 - \[noun\], genitive, singular, masculine
 - “blameless; faultless.”
-------------------------------------------------------------------------
+
+_________
+
 - *senām* ← *senā*
 - \[noun\], accusative, singular, feminine
 - “army; senā \[word\]; armament.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayātayanta* ← *yātay* ← *√yat*
 - \[verb\], plural, Imperfect
 - “endeavor; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣitayo* ← *kṣitayaḥ* ← *kṣiti*
 - \[noun\], nominative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
-------------------------------------------------------------------------
+
+_________
+
 - *navagvāḥ* ← *navagva*
 - \[noun\], nominative, plural, masculine
 - “Navagva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣāyudho* ← *vṛṣāyudhaḥ* ← *vṛṣāyudh*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhrayo* ← *vadhrayaḥ* ← *vadhri*
 - \[noun\], nominative, plural, masculine
 - “castrated.”
-------------------------------------------------------------------------
+
+_________
+
 - *niraṣṭāḥ* ← *niraṣṭa*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pravadbhir* ← *pravadbhiḥ* ← *pravat*
 - \[noun\], instrumental, plural, feminine
 - “slope; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāc* ← *indrāt* ← *indra*
 - \[noun\], ablative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *citayanta* ← *citayantaḥ* ← *citay* ← *√cit*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *āyan* ← *e* ← *√i*
 - \[verb\], plural, Imperfect
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

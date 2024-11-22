@@ -105,79 +105,117 @@ varāhám ← varāhá- (nominal stem)
 -   *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaritar* ← *jaritṛ*
 - \[noun\], vocative, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cikiddhi* ← *cit*
 - \[verb\], singular, Perfect imperative
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratīpaṃ* ← *pratīpam* ← *pratīpa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śāpaṃ* ← *śāpam* ← *śāpa*
 - \[noun\], accusative, singular, masculine
 - “float.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], nominative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *lopāśaḥ* ← *lopāśa*
 - \[noun\], nominative, singular, masculine
 - “fox.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṃham* ← *siṃha*
 - \[noun\], accusative, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratyañcam* ← *pratyañc*
 - \[noun\], accusative, singular, masculine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
-------------------------------------------------------------------------
+
+_________
+
 - *atsāḥ* ← *tsar*
 - \[verb\], singular, Athematic s aor. (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 - *kroṣṭā* ← *kroṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “jackal.”
-------------------------------------------------------------------------
+
+_________
+
 - *varāhaṃ* ← *varāham* ← *varāha*
 - \[noun\], accusative, singular, masculine
 - “hog; wild boar; boar; Varaha; vārāhapuṭa; varāha \[word\]; Varāha;
     Varāha.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *atakta* ← *tak*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *kakṣāt* ← *kakṣa*
 - \[noun\], ablative, singular, masculine
 - “grass; weed; lurking place; hiding place; underbrush; brush;
     recess.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

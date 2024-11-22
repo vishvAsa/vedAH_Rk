@@ -73,45 +73,65 @@ yā́bhyām ← yá- (pronoun)
 -   *āhaṃ* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āhaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvatīvator* ← *sarasvatīvatoḥ* ← *sarasvatīvat*
 - \[noun\], genitive, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgnyor* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgnyor* ← *agnyoḥ* ← *agni*
 - \[noun\], genitive, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *avo* ← *avaḥ* ← *avas*
 - \[noun\], accusative, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇe* ← *vṛ*
 - \[verb\], singular, Present indikative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *yābhyāṃ* ← *yābhyām* ← *yad*
 - \[noun\], dative, dual, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyatram* ← *gāyatra*
 - \[noun\], nominative, singular, neuter
 - “Gāyatrī; Gāyatra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛcyate* ← *arc*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

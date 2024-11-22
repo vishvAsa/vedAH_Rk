@@ -101,78 +101,116 @@ ví ← ví (invariable)
 
 -   *niyutvanto* ← *niyutvantaḥ* ← *niyutvat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *grāmajito* ← *grāma*
 - \[noun\], masculine
 - “village; grāma \[word\]; group; battalion; club; Hindu gamut;
     troop; multitude; crowd; kin; collection; people.”
-------------------------------------------------------------------------
+
+_________
+
 - *grāmajito* ← *jitaḥ* ← *jit*
 - \[noun\], nominative, plural, masculine
 - “curative; removing; victorious; winning.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ryamaṇo* ← *aryamaṇaḥ* ← *aryaman*
 - \[noun\], nominative, plural, masculine
 - “Aryaman; aryaman \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *kabandhinaḥ* ← *kabandhin*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pinvanty* ← *pinvanti* ← *pinv*
 - \[verb\], plural, Present indikative
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *utsaṃ* ← *utsam* ← *utsa*
 - \[noun\], accusative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ināso* ← *ināsaḥ* ← *ina*
 - \[noun\], nominative, plural, masculine
 - “mighty; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *asvaran* ← *svar*
 - \[verb\], plural, Imperfect
 - “sing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *undanti* ← *und*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhvo* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *andhasā* ← *andhas*
 - \[noun\], instrumental, singular, neuter
 - “Soma; drink; amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

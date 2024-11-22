@@ -102,73 +102,109 @@ ví ← ví (invariable)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *piprum* ← *pipru*
 - \[noun\], accusative, singular, masculine
 - “Pipru.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛgayaṃ* ← *mṛgayam* ← *mṛgaya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śūśuvāṃsam* ← *śvi*
 - \[verb noun\], accusative, singular
 - “swell; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjiśvane* ← *ṛjiśvan*
 - \[noun\], dative, singular, masculine
 - “Ṛjiśvan.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaidathināya* ← *vaidathina*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *randhīḥ* ← *radh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “subjugate.”
-------------------------------------------------------------------------
+
+_________
+
 - *pañcāśat*
 - \[noun\], accusative, singular, feminine
 - “fifty; pañcāśat \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇā* ← *kṛṣṇāḥ* ← *kṛṣṇa*
 - \[noun\], accusative, plural, feminine
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapaḥ* ← *vap*
 - \[verb\], singular, Present injunctive
 - “sow; bestrew; strew; scatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrātkaṃ* ← *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrātkaṃ* ← *atkam* ← *atka*
 - \[noun\], accusative, singular, masculine
 - “garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarimā* ← *jariman*
 - \[noun\], nominative, singular, masculine
 - “old age.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dardaḥ* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Present injunctive
 - “cleave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

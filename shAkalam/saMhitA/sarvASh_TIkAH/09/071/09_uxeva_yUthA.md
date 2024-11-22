@@ -105,83 +105,121 @@ sómaḥ ← sóma- (nominal stem)
 -   *ukṣeva* ← *ukṣā* ← *ukṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūthā* ← *yūtha*
 - \[noun\], accusative, plural, neuter
 - “herd; troop; battalion.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariyann* ← *pariyan* ← *parī* ← *√i*
 - \[verb noun\], nominative, singular
 - “circumambulate; wander; revolve; overwhelm.”
-------------------------------------------------------------------------
+
+_________
+
 - *arāvīd* ← *arāvīt* ← *ru*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “bellow; howl.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *tviṣīr* ← *tviṣīḥ* ← *tviṣi*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *adhita* ← *dhā*
 - \[verb\], singular, Root aorist (Ind.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *divyaḥ* ← *divya*
 - \[noun\], nominative, singular, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *suparṇo* ← *suparṇaḥ* ← *suparṇa*
 - \[noun\], nominative, singular, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
-------------------------------------------------------------------------
+
+_________
+
 - *'va* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣata* ← *cakṣ*
 - \[verb\], singular, Present injunctive
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāṃ* ← *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratunā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśyate* ← *paś*
 - \[verb\], singular, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāḥ* ← *jā*
 - \[noun\], accusative, plural, feminine
 - “child; jā; being.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

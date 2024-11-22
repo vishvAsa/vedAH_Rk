@@ -98,66 +98,98 @@ svapa ← √svap- (root)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *arjuna*
 - \[noun\], vocative, singular, masculine
 - “white; clean; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *sārameya*
 - \[noun\], vocative, singular, masculine
 - “dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *dataḥ* ← *dat*
 - \[noun\], accusative, plural, masculine
 - “tooth; dat \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *piśaṅga*
 - \[noun\], vocative, singular, masculine
 - “tawny; red; brown.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchase* ← *yam*
 - \[verb\], singular, Present indikative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīva* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājanta* ← *bhrājante* ← *bhrāj*
 - \[verb\], plural, Present indikative
 - “shine; glitter; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣṭaya* ← *ṛṣṭayaḥ* ← *ṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “spear.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *srakveṣu* ← *srakva*
 - \[noun\], locative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bapsato* ← *bapsataḥ* ← *bhas*
 - \[verb noun\], genitive, singular
 - “chew; snatch.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapa* ← *svap*
 - \[verb\], singular, Present imperative
 - “sleep; numb; fall asleep.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

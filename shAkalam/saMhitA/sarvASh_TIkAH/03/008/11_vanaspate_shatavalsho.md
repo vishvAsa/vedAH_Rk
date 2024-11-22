@@ -96,77 +96,113 @@ saúbhagāya ← saúbhaga- (nominal stem)
 -   *vanaspate* ← *vanaspati*
 - \[noun\], vocative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatavalśo* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatavalśo* ← *valśaḥ* ← *valśa*
 - \[noun\], nominative, singular, masculine
 - “branch.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *roha* ← *ruh*
 - \[verb\], singular, Present imperative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasravalśā* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasravalśā* ← *valśāḥ* ← *valśa*
 - \[noun\], nominative, plural, masculine
 - “branch.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruhema* ← *ruh*
 - \[verb\], plural, Present optative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhitis* ← *svadhitiḥ* ← *svadhiti*
 - \[noun\], nominative, singular, masculine
 - “ax; knife.”
-------------------------------------------------------------------------
+
+_________
+
 - *tejamānaḥ* ← *tij*
 - \[verb noun\], nominative, singular
 - “sharpen.”
-------------------------------------------------------------------------
+
+_________
+
 - *praṇināya* ← *praṇī* ← *√nī*
 - \[verb\], singular, Perfect indicative
 - “enforce; lead; produce.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahate* ← *mahat*
 - \[noun\], dative, singular, neuter
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *saubhagāya* ← *saubhaga*
 - \[noun\], dative, singular, neuter
 - “well-being.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

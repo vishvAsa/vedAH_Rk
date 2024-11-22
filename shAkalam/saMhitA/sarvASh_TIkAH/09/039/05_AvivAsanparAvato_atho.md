@@ -72,35 +72,51 @@ sicyate ← √sic- (root)
 
 -   *āvivāsan* ← *āvivās* ← *√van*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *parāvato* ← *parāvataḥ* ← *parāvat*
 - \[noun\], accusative, plural, feminine
 - “distance; distance; distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *atho*
 - \[adverb\]
 - “now; but; furthermore.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvāvataḥ* ← *arvāvat*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sicyate* ← *sic*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], nominative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

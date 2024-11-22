@@ -108,80 +108,120 @@ ná ← ná (invariable)
 -   *tigmaṃ* ← *tigmam* ← *tigma*
 - \[noun\], nominative, singular, neuter
 - “sharp; pointed; fiery.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ema* ← *eman*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *varpo* ← *varpaḥ* ← *varpas*
 - \[noun\], nominative, singular, neuter
 - “form; look; disguise.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhasad* ← *bhasat* ← *bhas*
 - \[verb\], singular, Present injunctive
 - “chew; snatch.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yamasāna* ← *yamasānaḥ* ← *yamasāna*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āsā* ← *ās*
 - \[noun\], instrumental, singular, neuter
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vijehamānaḥ* ← *vijeh* ← *√jeh*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *paraśur* ← *paraśuḥ* ← *paraśu*
 - \[noun\], nominative, singular, masculine
 - “ax.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvāṃ* ← *jihvām* ← *jihvā*
 - \[noun\], accusative, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *dravir* ← *draviḥ* ← *dravi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *drāvayati* ← *drāvay* ← *√dru*
 - \[verb\], singular, Present indikative
 - “melt; liquefy; chase away; dissolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāru*
 - \[noun\], accusative, singular, neuter
 - “wood; log; lumber.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhakṣat* ← *dah*
 - \[verb noun\], nominative, singular
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

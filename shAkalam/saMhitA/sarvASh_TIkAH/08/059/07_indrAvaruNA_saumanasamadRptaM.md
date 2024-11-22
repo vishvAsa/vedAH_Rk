@@ -99,87 +99,127 @@ tiratam ← √tr̥̄- 1 (root)
 -   *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *saumanasam* ← *saumanasa*
 - \[noun\], accusative, singular, neuter
 - “favor; satisfaction.”
-------------------------------------------------------------------------
+
+_________
+
 - *adṛptaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *adṛptaṃ* ← *dṛptam* ← *dṛp*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *rāyas* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *poṣaṃ* ← *poṣam* ← *poṣa*
 - \[noun\], accusative, singular, masculine
 - “prosperity; poṣa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamāneṣu* ← *yaj*
 - \[verb noun\], locative, plural
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhattam* ← *dhā*
 - \[verb\], dual, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajām* ← *prajā*
 - \[noun\], accusative, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣṭim* ← *puṣṭi*
 - \[noun\], accusative, singular, feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtim* ← *bhūti*
 - \[noun\], accusative, singular, feminine
 - “auspiciousness; benefit; ash; well-being; bhasman; wealth;
     Andropogon schoenanthus; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmāsu* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhattaṃ* ← *dhattam* ← *dhā*
 - \[verb\], dual, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghāyutvāya* ← *dīrgha*
 - \[noun\]
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghāyutvāya* ← *āyu*
 - \[noun\], masculine
 - “life; life; age.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghāyutvāya* ← *tvāya* ← *tva*
 - \[noun\], dative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *tirataṃ* ← *tiratam* ← *tṛ*
 - \[verb\], dual, Present imperative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

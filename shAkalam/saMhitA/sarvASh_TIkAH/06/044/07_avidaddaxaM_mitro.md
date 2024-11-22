@@ -93,64 +93,94 @@ uruṣyā́ ← uruṣyā́- (nominal stem)
 -   *avidad* ← *avidat* ← *vid*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *navīyān* ← *navīyas*
 - \[noun\], nominative, singular, masculine
 - “new; fresh; up-to-the-minute.”
-------------------------------------------------------------------------
+
+_________
+
 - *papāno* ← *papānaḥ* ← *pā*
 - \[verb noun\], nominative, singular
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasyo* ← *vasyaḥ* ← *vasyas*
 - \[noun\], accusative, singular, neuter
 - “good fortune; well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *acait* ← *cit*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasavān* ← *san*
 - \[verb noun\], nominative, singular
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *staulābhir* ← *staulābhiḥ* ← *staulā*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *dhautarībhir* ← *dhautarībhiḥ* ← *dhautarī*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *uruṣyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *pāyur* ← *pāyuḥ* ← *pāyu*
 - \[noun\], nominative, singular, masculine
 - “guard; pāyu \[word\]; Pāyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhibhyaḥ* ← *sakhi*
 - \[noun\], dative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,16 +96,22 @@ sáḥ ← sá- ~ tá- (pronoun)
 -   *prātā* ← *prātar*
 - \[adverb\]
 - “at dawn; early.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *navo* ← *navaḥ* ← *nava*
 - \[noun\], nominative, singular, masculine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoji* ← *yuj*
 - \[verb\], singular, Aorist passive
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -113,77 +119,111 @@ sáḥ ← sá- ~ tá- (pronoun)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasniś* ← *sasniḥ* ← *sasni*
 - \[noun\], nominative, singular, masculine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *caturyugas* ← *catur*
 - \[noun\]
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *caturyugas* ← *yugaḥ* ← *yuga*
 - \[noun\], nominative, singular, masculine
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
-------------------------------------------------------------------------
+
+_________
+
 - *trikaśaḥ* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *trikaśaḥ* ← *kaśaḥ* ← *kaśā*
 - \[noun\], nominative, singular, masculine
 - “whip.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptaraśmiḥ* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptaraśmiḥ* ← *raśmiḥ* ← *raśmi*
 - \[noun\], nominative, singular, masculine
 - “beam; rein; sunbeam; shininess; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśāritro* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśāritro* ← *aritraḥ* ← *aritra*
 - \[noun\], nominative, singular, masculine
 - “oar.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣyaḥ* ← *manuṣya*
 - \[noun\], nominative, singular, masculine
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarṣāḥ* ← *svarṣā*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṭibhir* ← *iṣṭibhiḥ* ← *iṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “yajña; offering; brick.”
-------------------------------------------------------------------------
+
+_________
+
 - *matibhī* ← *matibhiḥ* ← *mati*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṃhyo* ← *raṃhyaḥ* ← *raṃh*
 - \[verb noun\], nominative, singular
 - “rush.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

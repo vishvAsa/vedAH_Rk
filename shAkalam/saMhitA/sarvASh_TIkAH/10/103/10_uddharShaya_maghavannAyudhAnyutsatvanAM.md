@@ -99,74 +99,108 @@ yantu ← √i- 1 (root)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharṣaya* ← *dharṣay* ← *√dhṛṣ*
 - \[verb\], singular, Present imperative
 - “rape; attack; molest; overwhelm.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavann* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āyudhāny* ← *āyudhāni* ← *āyudha*
 - \[noun\], accusative, plural, neuter
 - “weapon; āyudha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ut* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *satvanām* ← *satvan*
 - \[noun\], genitive, plural, masculine
 - “warrior.”
-------------------------------------------------------------------------
+
+_________
+
 - *māmakānām* ← *māmaka*
 - \[noun\], genitive, plural, masculine
 - “mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *manāṃsi* ← *manas*
 - \[noun\], accusative, plural, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahan*
 - \[noun\], locative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājināṃ* ← *vājinām* ← *vājin*
 - \[noun\], genitive, plural, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājināny* ← *vājināni* ← *vājina*
 - \[noun\], accusative, plural, neuter
 - “race; emulation.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathānāṃ* ← *rathānām* ← *ratha*
 - \[noun\], genitive, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayatāṃ* ← *jayatām* ← *ji*
 - \[verb noun\], genitive, plural
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghoṣāḥ* ← *ghoṣa*
 - \[noun\], nominative, plural, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

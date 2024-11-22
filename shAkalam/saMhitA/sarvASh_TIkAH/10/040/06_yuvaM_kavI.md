@@ -114,94 +114,138 @@ yóṣaṇā ← yóṣaṇā- (nominal stem)
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavī* ← *kavi*
 - \[noun\], nominative, dual, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣṭhaḥ* ← *sthaḥ* ← *as*
 - \[verb\], dual, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kutso* ← *kutsaḥ* ← *kutsa*
 - \[noun\], nominative, singular, masculine
 - “Kutsa; kutsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jaritur* ← *jarituḥ* ← *jaritṛ*
 - \[noun\], genitive, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *naśāyathaḥ* ← *naśāy*
 - \[verb\], dual, Present indikative
 - “arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *makṣā*
 - \[noun\], nominative, singular, feminine
 - “bee.”
-------------------------------------------------------------------------
+
+_________
+
 - *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhv* ← *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsā* ← *ās*
 - \[noun\], instrumental, singular, neuter
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharata* ← *bhṛ*
 - \[verb\], plural, Present injunctive
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣkṛtaṃ* ← *niṣkṛtam* ← *niṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “place; rendezvous.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣaṇā*
 - \[noun\], nominative, singular, feminine
 - “girl; wife.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

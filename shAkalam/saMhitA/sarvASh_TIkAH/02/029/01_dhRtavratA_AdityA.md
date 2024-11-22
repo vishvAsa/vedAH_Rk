@@ -106,28 +106,40 @@ vidvā́n ← √vid- 2 (root)
 - \[verb noun\]
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛtavratā* ← *vratāḥ* ← *vrata*
 - \[noun\], vocative, plural, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣirā* ← *iṣirāḥ* ← *iṣira*
 - \[noun\], vocative, plural, masculine
 - “vigorous; bracing; quick.”
-------------------------------------------------------------------------
+
+_________
+
 - *āre*
 - \[adverb\]
 - “far.”
-------------------------------------------------------------------------
+
+_________
+
 - *mat* ← *mad*
 - \[noun\], ablative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *karta* ← *kṛ*
 - \[verb\], plural, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -138,66 +150,96 @@ vidvā́n ← √vid- 2 (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *rahasūr* ← *raha*
 - \[noun\], masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rahasūr* ← *sūḥ* ← *sū*
 - \[noun\], nominative, singular, feminine
 - “sū; mother.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivāgaḥ* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivāgaḥ* ← *āgaḥ* ← *āgas*
 - \[noun\], accusative, singular, neuter
 - “sin; evildoing; mistake.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇvato* ← *śṛṇvataḥ* ← *śru*
 - \[verb noun\], accusative, plural
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitra*
 - \[noun\], vocative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrasya* ← *bhadra*
 - \[noun\], genitive, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvāṃ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *huve* ← *hvā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

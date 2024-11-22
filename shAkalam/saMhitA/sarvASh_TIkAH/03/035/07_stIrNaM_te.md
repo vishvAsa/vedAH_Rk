@@ -102,28 +102,40 @@ túbhyam ← tvám (pronoun)
 -   *stīrṇaṃ* ← *stīrṇam* ← *stṛ*
 - \[verb noun\], nominative, singular
 - “spread; kill; lay; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhiḥ* ← *barhis*
 - \[noun\], nominative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suta* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtā* ← *kṛtāḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -134,62 +146,90 @@ túbhyam ← tvám (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhānā* ← *dhānāḥ* ← *dhānā*
 - \[noun\], nominative, plural, feminine
 - “Dhānā; Coriander; corn; grain.”
-------------------------------------------------------------------------
+
+_________
+
 - *attave* ← *ad*
 - \[verb noun\]
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *haribhyām* ← *hari*
 - \[noun\], dative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *tadokase* ← *tad*
 - \[noun\]
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tadokase* ← *okase* ← *oka*
 - \[noun\], dative, singular, masculine
 - “home; house; oka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *puruśākāya* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruśākāya* ← *śākāya* ← *śāka*
 - \[noun\], dative, singular, masculine
 - “power.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutvate* ← *marutvant*
 - \[noun\], dative, singular, masculine
 - “Indra; marutvant \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātā* ← *rā*
 - \[verb noun\], nominative, plural
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *havīṃṣi* ← *havis*
 - \[noun\], nominative, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

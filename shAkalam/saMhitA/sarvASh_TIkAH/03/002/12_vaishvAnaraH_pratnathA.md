@@ -105,81 +105,119 @@ samānám ← samāná- (nominal stem)
 -   *vaiśvānaraḥ* ← *vaiśvānara*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnathā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *nākam* ← *nāka*
 - \[noun\], accusative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āruhad* ← *āruhat* ← *āruh* ← *√ruh*
 - \[verb\], singular, Imperfect
 - “board; hop on; climb; ascend; descend; ride; copulate; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *divas* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], accusative, singular, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhandamānaḥ* ← *bhand*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *sumanmabhiḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumanmabhiḥ* ← *manmabhiḥ* ← *manman*
 - \[noun\], instrumental, plural, masculine
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvavaj* ← *pūrvavat*
 - \[adverb\]
 - “as before.”
-------------------------------------------------------------------------
+
+_________
+
 - *janayañ* ← *janayan* ← *janay* ← *√jan*
 - \[verb noun\], nominative, singular
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *jantave* ← *jantu*
 - \[noun\], dative, singular, masculine
 - “man; worm; being; child; Jantu; offspring; insect; vermin; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanaṃ* ← *dhanam* ← *dhana*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajmam* ← *ajma*
 - \[noun\], accusative, singular, masculine
 - “march.”
-------------------------------------------------------------------------
+
+_________
+
 - *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāgṛviḥ* ← *jāgṛvi*
 - \[noun\], nominative, singular, masculine
 - “attentive; argus-eyed; light.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

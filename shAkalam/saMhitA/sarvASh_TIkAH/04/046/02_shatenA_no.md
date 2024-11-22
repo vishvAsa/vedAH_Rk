@@ -70,44 +70,64 @@ vā́yo ← vāyú- (nominal stem)
 -   *śatenā* ← *śatena* ← *śata*
 - \[noun\], instrumental, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatenā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭibhir* ← *abhiṣṭibhiḥ* ← *abhiṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *niyutvāṃ* ← *niyutvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indrasārathiḥ* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasārathiḥ* ← *sārathiḥ* ← *sārathi*
 - \[noun\], nominative, singular, masculine
 - “charioteer; sārathi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasya* ← *suta*
 - \[noun\], genitive, singular, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛmpatam* ← *tṛp*
 - \[verb\], dual, Present imperative
 - “satiate; enjoy; delight.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

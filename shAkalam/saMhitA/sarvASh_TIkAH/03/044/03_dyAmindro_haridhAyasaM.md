@@ -87,69 +87,99 @@ yáyoḥ ← yá- (pronoun)
 -   *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *haridhāyasam* ← *hari*
 - \[noun\]
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *haridhāyasam* ← *dhāyasam* ← *dhāyas*
 - \[noun\], accusative, singular, masculine
 - “alimentary; sustaining.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīṃ* ← *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *harivarpasam* ← *hari*
 - \[noun\]
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *harivarpasam* ← *varpasam* ← *varpas*
 - \[noun\], accusative, singular, feminine
 - “form; look; disguise.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhārayaddharitor* ← *adhārayat* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Imperfect
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhārayaddharitor* ← *haritoḥ* ← *harit*
 - \[noun\], genitive, dual, masculine
 - “pale; green; bay; yellow.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūri*
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojanaṃ* ← *bhojanam* ← *bhojana*
 - \[noun\], accusative, singular, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *yayor* ← *yayoḥ* ← *yad*
 - \[noun\], genitive, dual, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *hariś* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *carat* ← *car*
 - \[verb\], singular, Present injunctive
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

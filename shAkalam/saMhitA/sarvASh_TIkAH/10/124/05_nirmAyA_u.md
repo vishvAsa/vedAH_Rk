@@ -104,79 +104,115 @@ rāṣṭrásya ← rāṣṭrá- (nominal stem)
 
 -   *nirmāyā* ← *nirmāyāḥ* ← *nirmāya*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *asurā* ← *asurāḥ* ← *asura*
 - \[noun\], nominative, plural, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhūvan* ← *bhū*
 - \[verb\], plural, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmayāse* ← *kāmay* ← *√kam*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “desire; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājann* ← *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *anṛtaṃ* ← *anṛtam* ← *anṛta*
 - \[noun\], accusative, singular, neuter
 - “falsehood; lying; lie; cheat.”
-------------------------------------------------------------------------
+
+_________
+
 - *viviñcan* ← *vivic* ← *√vic*
 - \[verb noun\], nominative, singular
 - “distinguish; distinguish; discriminate; observe.”
-------------------------------------------------------------------------
+
+_________
+
 - *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāṣṭrasyādhipatyam* ← *rāṣṭrasya* ← *rāṣṭra*
 - \[noun\], genitive, singular, neuter
 - “kingdom; kingdom; kingship; rāṣṭra \[word\]; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāṣṭrasyādhipatyam* ← *ādhipatyam* ← *ādhipatya*
 - \[noun\], accusative, singular, neuter
 - “reign; command.”
-------------------------------------------------------------------------
+
+_________
+
 - *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

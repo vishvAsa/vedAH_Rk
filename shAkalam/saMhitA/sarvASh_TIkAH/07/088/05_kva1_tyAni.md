@@ -102,88 +102,126 @@ te ← tvám (pronoun)
 -   *kva*
 - \[adverb\]
 - “wherein; how; kva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tyāni* ← *tya*
 - \[noun\], nominative, plural, neuter
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *nau* ← *mad*
 - \[noun\], genitive, dual
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyā* ← *sakhya*
 - \[noun\], nominative, plural, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *babhūvuḥ* ← *bhū*
 - \[verb\], plural, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacāvahe* ← *sac*
 - \[verb\], dual, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛkam* ← *avṛka*
 - \[noun\], accusative, singular, neuter
 - “protective; safe.”
-------------------------------------------------------------------------
+
+_________
+
 - *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānaṃ* ← *mānam* ← *māna*
 - \[noun\], accusative, singular, masculine
 - “house.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhāvaḥ* ← *svadhāvas* ← *svadhāvat*
 - \[noun\], vocative, singular, masculine
 - “autonomous; independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasradvāraṃ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasradvāraṃ* ← *dvāram* ← *dvāra*
 - \[noun\], accusative, singular, masculine
 - “aperture; gate; door; mouth; vagina; orifice; dvāra \[word\]; pass;
     opening; means; entrance.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagamā* ← *jagama* ← *gam*
 - \[verb\], singular, Perfect indicative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhaṃ* ← *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

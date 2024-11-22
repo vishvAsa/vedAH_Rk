@@ -84,54 +84,78 @@ vartatām ← √vr̥t- (root)
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *udānaḍ* ← *udānaṭ* ← *unnaś* ← *√naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “obtain.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyayanaṃ* ← *vyayanam* ← *vyayana*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *udānaṭ* ← *unnaś* ← *√naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “obtain.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāyaṇam* ← *parāyaṇa*
 - \[noun\], accusative, singular, neuter
 - “devotion; aim; engagement; commitment; departure; refuge;
     fondness.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvartanaṃ* ← *āvartanam* ← *āvartana*
 - \[noun\], accusative, singular, neuter
 - “rotation.”
-------------------------------------------------------------------------
+
+_________
+
 - *nivartanam* ← *nivartana*
 - \[noun\], accusative, singular, neuter
 - “return; deactivation.”
-------------------------------------------------------------------------
+
+_________
+
 - *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *gopā* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartatām* ← *vṛt*
 - \[verb\], singular, Present imperative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

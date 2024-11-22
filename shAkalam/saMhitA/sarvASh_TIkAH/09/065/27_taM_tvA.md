@@ -78,45 +78,65 @@ sá ← sá- ~ tá- (pronoun)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *suteṣv* ← *suteṣu* ← *su*
 - \[verb noun\], locative, plural
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhuvo* ← *ābhuvaḥ* ← *ābhū*
 - \[noun\], nominative, plural, masculine
 - “assistant.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinvire* ← *hi*
 - \[verb\], plural, Present indikative
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatātaye* ← *devatāti*
 - \[noun\], dative, singular, feminine
 - “deity; Deva.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavasvānayā* ← *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavasvānayā* ← *anayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *rucā* ← *ruc*
 - \[noun\], instrumental, singular, feminine
 - “beam; radiance; color.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

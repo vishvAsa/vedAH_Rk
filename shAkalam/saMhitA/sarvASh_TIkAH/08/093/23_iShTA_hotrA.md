@@ -73,41 +73,59 @@ avabhr̥thám ← avabhr̥thá- (nominal stem)
 -   *iṣṭā* ← *iṣṭāḥ* ← *yaj*
 - \[verb noun\], nominative, plural
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotrā* ← *hotrāḥ* ← *hotrā*
 - \[noun\], nominative, plural, feminine
 - “hotrā \[word\]; Hautra.”
-------------------------------------------------------------------------
+
+_________
+
 - *asṛkṣatendraṃ* ← *asṛkṣata* ← *sṛj*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *asṛkṣatendraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdhāso* ← *vṛdhāsaḥ* ← *vṛdha*
 - \[noun\], nominative, plural, masculine
 - “increasing; promotive.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *acchāvabhṛtham* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *acchāvabhṛtham* ← *avabhṛtham* ← *avabhṛtha*
 - \[noun\], accusative, singular, masculine
 - “Avabhṛtha; yajña.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

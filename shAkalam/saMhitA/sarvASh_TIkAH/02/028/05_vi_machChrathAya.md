@@ -117,98 +117,144 @@ r̥tóḥ ← r̥tú- (nominal stem)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *macchrathāya* ← *mat* ← *mad*
 - \[noun\], ablative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *macchrathāya* ← *śrathāya* ← *śrathāy* ← *√śrath*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *raśanām* ← *raśanā*
 - \[noun\], accusative, singular, feminine
 - “rein; bridle; girdle; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivāga* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivāga* ← *āgaḥ* ← *āgas*
 - \[noun\], accusative, singular, neuter
 - “sin; evildoing; mistake.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛdhyāma* ← *ṛdh*
 - \[verb\], plural, Aorist optative
 - “boom; stick to.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *khām* ← *khā*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *tantuś* ← *tantuḥ* ← *tantu*
 - \[noun\], nominative, singular, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
-------------------------------------------------------------------------
+
+_________
+
 - *chedi* ← *chid*
 - \[verb\], singular, Aorist passive
 - “cut off; cut; incise; destroy; chop; resolve; divide; hew; open;
     interrupt; strike; fell; cut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayato* ← *vayataḥ* ← *ve*
 - \[verb noun\], genitive, singular
 - “weave.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātrā*
 - \[noun\], nominative, singular, feminine
 - “measure; weight; quantity; syllable; mātrā; property; part;
     particle; mātrā \[word\]; household effects; morsel; mirror;
     substance.”
-------------------------------------------------------------------------
+
+_________
+
 - *śāry* ← *śāri* ← *śṛ*
 - \[verb\], singular, Aorist passive
 - “fall off; break; disintegrate; crush; break; fracture.”
-------------------------------------------------------------------------
+
+_________
+
 - *apasaḥ* ← *apas*
 - \[noun\], genitive, singular, masculine
 - “busy; effective; hardworking.”
-------------------------------------------------------------------------
+
+_________
+
 - *pura* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtoḥ* ← *ṛtu*
 - \[noun\], ablative, singular, masculine
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -108,74 +108,110 @@ vāyúḥ ← vāyú- (nominal stem)
 -   *pajreva* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *carcaraṃ* ← *carcaram* ← *carcara*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *jāram* ← *jāra*
 - \[noun\], accusative, singular, masculine
 - “fancy man.”
-------------------------------------------------------------------------
+
+_________
+
 - *marāyu*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *kṣadmevārtheṣu* ← *kṣadma* ← *kṣadman*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *kṣadmevārtheṣu* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣadmevārtheṣu* ← *artheṣu* ← *artha*
 - \[noun\], locative, plural, masculine
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
     topic; property; situation; reason; affair; concern; reason;
     enterprise; reason; cause; five; application; application.”
-------------------------------------------------------------------------
+
+_________
+
 - *tartarītha* ← *tartar* ← *√tṛ*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *ugrā* ← *ugra*
 - \[noun\], nominative, dual, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhū* ← *ṛbhu*
 - \[noun\], nominative, dual, masculine
 - “adept.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāpat* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *kharamajrā* ← *kharamajra*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kharajrur* ← *kharajruḥ* ← *kharajru*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vāyur* ← *vāyuḥ* ← *vāyu*
 - \[noun\], nominative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *parpharat* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣayad* ← *kṣayat* ← *kṣi*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayīṇām* ← *rayi*
 - \[noun\], genitive, plural, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

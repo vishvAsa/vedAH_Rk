@@ -111,77 +111,115 @@ ví ← ví (invariable)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nantvāny* ← *nantvāni* ← *nantva*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *anaman* ← *anamat* ← *nam*
 - \[verb\], singular, Imperfect
 - “bow; bend; condescend; worship; bend; lower.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasotādardar* ← *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasotādardar* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasotādardar* ← *adardar* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Imperfect
 - “cleave.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyunā* ← *manyu*
 - \[noun\], instrumental, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *śambarāṇi* ← *śambara*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *prācyāvayad* ← *prācyāvayat* ← *praccyāvay* ← *√cyu*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *acyutā* ← *acyuta*
 - \[noun\], accusative, plural, neuter
 - “firm; regular; permanent; immovable; unchanging.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaṇaspatir* ← *brahmaṇaspatiḥ* ← *brahmaṇaspati*
 - \[noun\], nominative, singular, masculine
 - “Brahmaṇaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cāviśad* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāviśad* ← *aviśat* ← *viś*
 - \[verb\], singular, Imperfect
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasumantaṃ* ← *vasumantam* ← *vasumat*
 - \[noun\], accusative, singular, masculine
 - “deluxe; affluent; rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatam* ← *parvata*
 - \[noun\], accusative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

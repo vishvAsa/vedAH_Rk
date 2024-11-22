@@ -105,83 +105,121 @@ r̥jrā́śvaḥ ← r̥jrā́śva- (nominal stem)
 -   *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
 - “well-being; success.”
-------------------------------------------------------------------------
+
+_________
+
 - *andhāya* ← *andha*
 - \[noun\], dative, singular, masculine
 - “blind; andha \[word\]; andha; blind; complete; dark.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharam* ← *bhara*
 - \[noun\], accusative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahvayat* ← *hvā*
 - \[verb\], singular, Imperfect
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkīr* ← *vṛkīḥ* ← *vṛkī*
 - \[noun\], nominative, singular, feminine
 - “wolf.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *nareti* ← *narā* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nareti* ← *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jāraḥ* ← *jāra*
 - \[noun\], nominative, singular, masculine
 - “fancy man.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanīna* ← *kanīnaḥ* ← *kanīna*
 - \[noun\], nominative, singular, masculine
 - “young; kanīna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣadāna* ← *cakṣadānaḥ* ← *kṣad*
 - \[verb noun\], nominative, singular
 - “butcher; carve.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjrāśvaḥ* ← *ṛjrāśva*
 - \[noun\], nominative, singular, masculine
 - “Ṛjrāśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ekaṃ* ← *ekam* ← *eka*
 - \[noun\], accusative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *meṣān* ← *meṣa*
 - \[noun\], accusative, plural, masculine
 - “sheep; ram; Naigameṣa.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

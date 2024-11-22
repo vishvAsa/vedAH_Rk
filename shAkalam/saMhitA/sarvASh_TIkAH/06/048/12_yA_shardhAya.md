@@ -90,64 +90,94 @@ yā́ ← yá- (pronoun)
 -   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *mārutāya* ← *māruta*
 - \[noun\], dative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhānave* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhānave* ← *bhānave* ← *bhānu*
 - \[noun\], dative, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *'mṛtyu* ← *amṛtyu*
 - \[noun\], accusative, singular, neuter
 - “ageless; immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhukṣata* ← *duh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛﾱīke* ← *mṛḍīka*
 - \[noun\], locative, singular, neuter
 - “compassion; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutāṃ* ← *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *turāṇāṃ* ← *turāṇām* ← *tura*
 - \[noun\], genitive, plural, masculine
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnair* ← *sumnaiḥ* ← *sumna*
 - \[noun\], instrumental, plural, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāvarī* ← *evayāvan*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

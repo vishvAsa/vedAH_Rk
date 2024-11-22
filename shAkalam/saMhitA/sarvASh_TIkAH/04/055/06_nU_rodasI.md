@@ -96,73 +96,107 @@ vran ← √vr̥- (root)
 -   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], vocative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahinā* ← *ahi*
 - \[noun\], instrumental, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 - *budhnyena* ← *budhnya*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *stuvīta* ← *stu*
 - \[verb\], singular, Present optative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *devī*
 - \[noun\], vocative, dual, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *apyebhir* ← *apyebhiḥ* ← *apya*
 - \[noun\], instrumental, plural, masculine
 - “aquatic; aquatic.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṭaiḥ* ← *iṣ*
 - \[verb noun\], instrumental, plural
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudraṃ* ← *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃcaraṇe* ← *saṃcaraṇa*
 - \[noun\], locative, singular, neuter
 - “movement; motion.”
-------------------------------------------------------------------------
+
+_________
+
 - *saniṣyavo* ← *saniṣyavaḥ* ← *saniṣyu*
 - \[noun\], nominative, plural, masculine
 - “eager; plundering.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmasvaraso* ← *gharma*
 - \[noun\], masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmasvaraso* ← *svarasaḥ* ← *svaras*
 - \[noun\], accusative, plural, feminine
 - “sound.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], accusative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vran* ← *vṛ*
 - \[verb\], plural, Aorist inj. (proh.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

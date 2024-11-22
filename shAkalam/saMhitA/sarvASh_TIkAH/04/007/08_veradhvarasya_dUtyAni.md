@@ -93,60 +93,90 @@ vidúṣṭaraḥ ← vidúṣṭara- (nominal stem)
 -   *ver* ← *veḥ* ← *vī*
 - \[verb\], singular, Present injunctive
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvarasya* ← *adhvara*
 - \[noun\], genitive, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dūtyāni* ← *dūtya*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *antā* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃcikitvān* ← *saṃcit* ← *√cit*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *dūta* ← *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īyase* ← *ī* ← *√i*
 - \[verb\], singular, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *pradiva* ← *pradivaḥ* ← *pradiv*
 - \[noun\], ablative, singular, masculine
 - “age-old; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *urāṇo* ← *urāṇaḥ* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *viduṣṭaro* ← *viduṣṭaraḥ* ← *viduṣṭara*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *diva* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārodhanāni* ← *ārodhana*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

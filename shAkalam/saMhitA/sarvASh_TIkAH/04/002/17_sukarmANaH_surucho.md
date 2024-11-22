@@ -96,7 +96,9 @@ pariṣádantaḥ ← √sad- (root)
 -   *sukarmāṇaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukarmāṇaḥ* ← *karmāṇaḥ* ← *karman*
 - \[noun\], nominative, plural, masculine
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -104,79 +106,113 @@ pariṣádantaḥ ← √sad- (root)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 - *suruco* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suruco* ← *rucaḥ* ← *ruc*
 - \[noun\], nominative, plural, masculine
 - “beam; radiance; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayanto* ← *devayantaḥ* ← *devay*
 - \[verb noun\], nominative, plural
 - “solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *'yo* ← *ayaḥ* ← *ayas*
 - \[noun\], accusative, singular, neuter
 - “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
     weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *janimā* ← *janiman*
 - \[noun\], accusative, plural, neuter
 - “birth; offspring; origin; kind; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhamantaḥ* ← *dham*
 - \[verb noun\], nominative, plural
 - “heat; blow; fan; blow; ignite; blow; inflate.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucanto* ← *śucantaḥ* ← *śuc*
 - \[verb noun\], nominative, plural
 - “mourn; grieve; flame; glow; burn; repent.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavṛdhanta* ← *vavṛdhantaḥ* ← *vṛdh*
 - \[verb noun\], nominative, plural
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrvaṃ* ← *ūrvam* ← *ūrva*
 - \[noun\], accusative, singular, masculine
 - “pen; Aurva; ocean.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyam* ← *gavya*
 - \[noun\], accusative, singular, masculine
 - “bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣadanto* ← *pariṣadantaḥ* ← *pariṣad* ← *√sad*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *agman* ← *gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

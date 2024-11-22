@@ -89,64 +89,92 @@ yātam ← √yā- 1 (root)
 
 -   *mitrāvaruṇavantā* ← *mitrāvaruṇavantau* ← *mitrāvaruṇavat*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharmavantā* ← *dharmavat*
 - \[noun\], nominative, dual, masculine
 - “virtuous.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutvantā* ← *marutvat*
 - \[noun\], nominative, dual, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *jaritur* ← *jarituḥ* ← *jaritṛ*
 - \[noun\], genitive, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *gacchatho* ← *gacchathaḥ* ← *gam*
 - \[verb\], dual, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣasā* ← *sajoṣasau* ← *sajoṣas*
 - \[noun\], nominative, dual, masculine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasā* ← *uṣas*
 - \[noun\], instrumental, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryeṇa* ← *sūrya*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *cādityair* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cādityair* ← *ādityaiḥ* ← *āditya*
 - \[noun\], instrumental, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

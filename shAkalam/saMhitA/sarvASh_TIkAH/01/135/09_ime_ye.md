@@ -136,119 +136,177 @@ hástayoḥ ← hásta- (nominal stem)
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhvojaso* ← *bāhu*
 - \[noun\], masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhvojaso* ← *ojasaḥ* ← *ojas*
 - \[noun\], nominative, plural, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ntar* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadī*
 - \[noun\], locative, singular, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *patayanty* ← *patayanti* ← *patay* ← *√pat*
 - \[verb\], plural, Present indikative
 - “fly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣaṇo* ← *ukṣaṇaḥ* ← *ukṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrādhanta* ← *vrādh*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣaṇaḥ* ← *ukṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvañ* ← *dhanvan*
 - \[noun\], locative, singular, neuter
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *anāśavo* ← *anāśavaḥ* ← *anāśu*
 - \[noun\], nominative, plural, masculine
 - “slow.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīrāś* ← *jīrāḥ* ← *jīra*
 - \[noun\], nominative, plural, masculine
 - “agile; quick; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *agiraukasaḥ* ← *agira*
 - \[noun\], masculine
-------------------------------------------------------------------------
+
+_________
+
 - *agiraukasaḥ* ← *okasaḥ* ← *oka*
 - \[noun\], nominative, plural, masculine
 - “home; house; oka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasyeva* ← *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśmayo* ← *raśmayaḥ* ← *raśmi*
 - \[noun\], nominative, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *durniyantavo* ← *durniyantavaḥ* ← *durniyantu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hastayor* ← *hastayoḥ* ← *hasta*
 - \[noun\], locative, dual, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *durniyantavaḥ* ← *durniyantu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

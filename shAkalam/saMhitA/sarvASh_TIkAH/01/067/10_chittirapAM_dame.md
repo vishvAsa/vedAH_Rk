@@ -70,35 +70,51 @@ sammā́ya ← √mā- 1 (root)
 -   *cittir* ← *cittiḥ* ← *citti*
 - \[noun\], nominative, singular, feminine
 - “purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāyuḥ* ← *viśvāyu*
 - \[noun\], nominative, singular, masculine
 - “lifelong.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadmeva* ← *sadma* ← *sadman*
 - \[noun\], accusative, singular, neuter
 - “seat; house; stable; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīrāḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃmāya* ← *saṃmā* ← *√mā*
 - \[verb noun\]
 - “total; weigh; measure; create; last; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakruḥ* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -109,7 +125,9 @@ sammā́ya ← √mā- 1 (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

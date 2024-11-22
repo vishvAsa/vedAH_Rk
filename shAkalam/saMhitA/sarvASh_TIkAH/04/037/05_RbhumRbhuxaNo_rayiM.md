@@ -78,44 +78,66 @@ sadāsā́tamam ← sadāsā́tama- (nominal stem)
 -   *ṛbhum* ← *ṛbhu*
 - \[noun\], accusative, singular, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhukṣaṇo* ← *ṛbhukṣaṇaḥ* ← *ṛbhukṣan*
 - \[noun\], vocative, plural, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāje* ← *vāja*
 - \[noun\], locative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājintamaṃ* ← *vājintamam* ← *vājintama*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “amalgamated; harnessed.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasvantaṃ* ← *indrasvantam* ← *indrasvat*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadāsātamam* ← *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadāsātamam* ← *sātamam* ← *sātama*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinam* ← *aśvin*
 - \[noun\], accusative, singular, masculine
 - “rich in horses; horsy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

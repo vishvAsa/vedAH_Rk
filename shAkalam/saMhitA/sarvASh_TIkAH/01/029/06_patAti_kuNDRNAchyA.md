@@ -99,67 +99,99 @@ tuvīmagha ← tuvī́magha- (nominal stem)
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuṇḍṛṇācyā* ← *kuṇḍṛṇācī*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *dūraṃ* ← *dūram*
 - \[adverb\]
 - “far.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāto* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanād* ← *vanāt* ← *vana*
 - \[noun\], ablative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tū* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsaya* ← *śaṃsay* ← *√śaṃs*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *goṣv* ← *goṣu* ← *go*
 - \[noun\], locative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśveṣu* ← *aśva*
 - \[noun\], locative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhriṣu* ← *śubhri*
 - \[noun\], locative, plural, masculine
 - “beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasreṣu* ← *sahasra*
 - \[noun\], locative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvīmagha*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,77 +102,113 @@ vanuṣyán ← √vanuṣ(y)- (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhānunā* ← *bhānu*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārthivāni* ← *pārthiva*
 - \[noun\], accusative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
-------------------------------------------------------------------------
+
+_________
+
 - *jrayāṃsi* ← *jrayas*
 - \[noun\], accusative, plural, neuter
 - “expanse; area.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahas* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *todasya* ← *toda*
 - \[noun\], genitive, singular, masculine
 - “toda; ache; prickling.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣatā* ← *dhṛṣ*
 - \[verb noun\], instrumental, singular
 - “dare; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatantha* ← *tan*
 - \[verb\], singular, Perfect indicative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *bādhasvāpa* ← *bādhasva* ← *bādh*
 - \[verb\], singular, Present imperative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *bādhasvāpa* ← *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhayā* ← *bhaya*
 - \[noun\], accusative, plural, neuter
 - “fear; danger; danger; bhaya \[word\]; distress; apprehension;
     alarm; apprehension.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahobhi* ← *sahas*
 - \[noun\], instrumental, plural, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛdho* ← *spṛdhaḥ* ← *spṛdh*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vanuṣyan* ← *vanuṣy*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *vanuṣo* ← *vanuṣaḥ* ← *vanus*
 - \[noun\], accusative, plural, masculine
 - “unfriendly; competing(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *jūrva* ← *jūrv*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

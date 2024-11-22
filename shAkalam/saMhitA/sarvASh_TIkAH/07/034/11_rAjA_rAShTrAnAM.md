@@ -67,35 +67,51 @@ viśvā́yu ← viśvā́yu- (nominal stem)
 -   *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāṣṭrānām* ← *rāṣṭra*
 - \[noun\], genitive, plural, neuter
 - “kingdom; kingdom; kingship; rāṣṭra \[word\]; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *peśo* ← *peśaḥ* ← *peśas*
 - \[noun\], nominative, singular, neuter
 - “decoration; shape.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadīnām* ← *nadī*
 - \[noun\], genitive, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *anuttam* ← *anutta*
 - \[noun\], nominative, singular, neuter
 - “anutta \[word\]; insuperable.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatraṃ* ← *kṣatram* ← *kṣatra*
 - \[noun\], nominative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāyu*
 - \[noun\], nominative, singular, neuter
 - “lifelong.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

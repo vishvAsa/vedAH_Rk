@@ -94,88 +94,130 @@ urávaḥ ← urú- (nominal stem)
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātatviṣo* ← *tviṣaḥ* ← *tviṣ*
 - \[noun\], nominative, plural, masculine
 - “beam; color; beauty.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *varṣanirṇijo* ← *varṣa*
 - \[noun\], masculine
 - “year; rain; year; shower; varṣa; monsoon; varṣa \[word\]; age;
     cloud; India.”
-------------------------------------------------------------------------
+
+_________
+
 - *varṣanirṇijo* ← *nirṇijaḥ* ← *nirṇij*
 - \[noun\], nominative, plural, masculine
 - “attire; garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamā* ← *yamāḥ* ← *yama*
 - \[noun\], nominative, plural, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *susadṛśaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *susadṛśaḥ* ← *sadṛśaḥ* ← *sadṛś*
 - \[noun\], nominative, plural, masculine
 - “like; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *supeśasaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supeśasaḥ* ← *peśasaḥ* ← *peśas*
 - \[noun\], nominative, plural, masculine
 - “decoration; shape.”
-------------------------------------------------------------------------
+
+_________
+
 - *piśaṅgāśvā* ← *piśaṅga*
 - \[noun\]
 - “tawny; red; brown.”
-------------------------------------------------------------------------
+
+_________
+
 - *piśaṅgāśvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṇāśvā* ← *aruṇa*
 - \[noun\]
 - “red; tawny; dusty; gray.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṇāśvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *arepasaḥ* ← *arepas*
 - \[noun\], nominative, plural, masculine
 - “immaculate.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratvakṣaso* ← *pratvakṣasaḥ* ← *pratvakṣas*
 - \[noun\], nominative, plural, masculine
 - “strong; vigorous.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivoravaḥ* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivoravaḥ* ← *uravaḥ* ← *uru*
 - \[noun\], nominative, plural, masculine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

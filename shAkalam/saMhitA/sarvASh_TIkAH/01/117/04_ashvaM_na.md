@@ -108,84 +108,124 @@ vām ← tvám (pronoun)
 -   *aśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gūﾱham* ← *gūḍham* ← *guh*
 - \[verb noun\], accusative, singular
 - “hide; cover; conceal; shroud; obscure.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *durevair* ← *durevaiḥ* ← *dureva*
 - \[noun\], instrumental, plural, masculine
 - “malevolent; bad; crabbed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣiṃ* ← *ṛṣim* ← *ṛṣi*
 - \[noun\], accusative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *rebham* ← *rebha*
 - \[noun\], accusative, singular, masculine
 - “bard; eulogist.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *riṇītho* ← *riṇīthaḥ* ← *ri*
 - \[verb\], dual, Present indikative
 - “free; liberate; run; let go of.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprutaṃ* ← *viprutam* ← *vipru* ← *√pru*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *daṃsobhir* ← *daṃsobhiḥ* ← *daṃsas*
 - \[noun\], instrumental, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *jūryanti* ← *jṛ*
 - \[verb\], plural, Present indikative
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyā* ← *pūrvya*
 - \[noun\], nominative, plural, neuter
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtāni* ← *kṛta*
 - \[noun\], nominative, plural, neuter
 - “Kṛta; action; throw; work; production; work; kindness; four; kṛta
     \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

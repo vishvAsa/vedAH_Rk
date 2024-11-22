@@ -114,80 +114,118 @@ sidhrám ← sidhrá- (nominal stem)
 -   *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣmendraṃ* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ṣmendraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaścid* ← *kaścit*
 - \[noun\], nominative, singular, masculine
 - “any(a); some(a); some(a); some(a); some(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛndhañ* ← *ṛndhan* ← *ṛdh*
 - \[verb noun\], nominative, singular
 - “boom; stick to.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhurāṇaś* ← *juhurāṇaḥ* ← *hvṛ*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariyan* ← *parī* ← *√i*
 - \[verb noun\], nominative, singular
 - “circumambulate; wander; revolve; overwhelm.”
-------------------------------------------------------------------------
+
+_________
+
 - *tīrthe* ← *tīrtha*
 - \[noun\], locative, singular, neuter
 - “Tīrtha; ford; tīrtha \[word\]; guru; administrator; fingertip;
     landing.”
-------------------------------------------------------------------------
+
+_________
+
 - *nācchā* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nācchā* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tātṛṣāṇam* ← *tṛṣ*
 - \[verb noun\], accusative, singular
 - “thirst.”
-------------------------------------------------------------------------
+
+_________
+
 - *oko* ← *okaḥ* ← *oka*
 - \[noun\], accusative, singular, neuter
 - “home; house; oka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrgho* ← *dīrghaḥ* ← *dīrgha*
 - \[noun\], nominative, singular, masculine
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sidhram* ← *sidhra*
 - \[noun\], accusative, singular, masculine
 - “successful; perfect.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇoty* ← *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -198,12 +236,16 @@ sidhrám ← sidhrá- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvā* ← *adhvan*
 - \[noun\], nominative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -87,53 +87,77 @@ sákhā ← sákhi- (nominal stem)
 -   *vāstoṣpate* ← *vāstoṣpati*
 - \[noun\], vocative, singular, masculine
 - “Vāstoṣpati; Indra; vāstoṣpati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhruvā* ← *dhruva*
 - \[noun\], nominative, singular, feminine
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthūṇāṃsatraṃ* ← *sthūṇā*
 - \[noun\], nominative, singular, feminine
 - “column; post.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthūṇāṃsatraṃ* ← *aṃsatram* ← *aṃsatra*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *somyānām* ← *somya*
 - \[noun\], genitive, plural, masculine
 - “saumya.”
-------------------------------------------------------------------------
+
+_________
+
 - *drapso* ← *drapsaḥ* ← *drapsa*
 - \[noun\], nominative, singular, masculine
 - “drop; banner.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhettā* ← *bhettṛ*
 - \[noun\], nominative, singular, masculine
 - “breaking.”
-------------------------------------------------------------------------
+
+_________
+
 - *purāṃ* ← *purām* ← *pur*
 - \[noun\], genitive, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvatīnām* ← *śaśvat*
 - \[noun\], genitive, plural, feminine
 - “all(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *munīnāṃ* ← *munīnām* ← *muni*
 - \[noun\], genitive, plural, masculine
 - “ascetic; seven; Sesbania grandiflora; Brahmin; muni; saint; Buddha;
     Ṛṣi.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

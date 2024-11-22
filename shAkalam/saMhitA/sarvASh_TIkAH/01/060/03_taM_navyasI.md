@@ -98,76 +98,112 @@ práyasvantaḥ ← práyasvant- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyasī* ← *navīyas*
 - \[noun\], nominative, singular, feminine
 - “new; fresh; up-to-the-minute.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛda* ← *hṛdaḥ* ← *hṛd*
 - \[noun\], ablative, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyamānam* ← *jan*
 - \[verb noun\], accusative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukīrtir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukīrtir* ← *kīrtiḥ* ← *kīrti*
 - \[noun\], nominative, singular, feminine
 - “fame; fame; glory; kīrti \[word\]; mention.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhujihvam* ← *madhu*
 - \[noun\]
 - “sweet; deft.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhujihvam* ← *jihvam* ← *jihvā*
 - \[noun\], accusative, singular, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśyāḥ* ← *aś*
 - \[verb\], singular, Aorist optative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtvijo* ← *ṛtvijaḥ* ← *ṛtvij*
 - \[noun\], nominative, plural, masculine
 - “ṛtvij; ṛtvij \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjane* ← *vṛjana*
 - \[noun\], locative, singular, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣāsaḥ* ← *mānuṣa*
 - \[noun\], nominative, plural, masculine
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayasvanta* ← *prayasvantaḥ* ← *prayasvat*
 - \[noun\], nominative, plural, masculine
 - “offering.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyavo* ← *āyavaḥ* ← *āyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *jījananta* ← *hā*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “move over; yield; give way.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

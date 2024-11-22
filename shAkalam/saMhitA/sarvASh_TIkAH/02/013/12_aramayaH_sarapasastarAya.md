@@ -111,87 +111,129 @@ ukthyàḥ ← ukthyà- (nominal stem)
 -   *aramayaḥ* ← *ramay* ← *√ram*
 - \[verb\], singular, Imperfect
 - “love; please; gladden; dam.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarapasas* ← *sarapasaḥ* ← *sarapas*
 - \[noun\], genitive, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *tarāya* ← *tara*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kaṃ* ← *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *turvītaye* ← *turvīti*
 - \[noun\], dative, singular, masculine
 - “Turvīti.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayyāya* ← *vayya*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *srutim* ← *sruti*
 - \[noun\], accusative, singular, feminine
 - “discharge; path; road; stream.”
-------------------------------------------------------------------------
+
+_________
+
 - *nīcā*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *anayaḥ* ← *nī*
 - \[verb\], singular, Imperfect
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāvṛjam* ← *parāvṛj*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *prāndhaṃ* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāndhaṃ* ← *andham* ← *andha*
 - \[noun\], accusative, singular, masculine
 - “blind; andha \[word\]; andha; blind; complete; dark.”
-------------------------------------------------------------------------
+
+_________
+
 - *śroṇaṃ* ← *śroṇam* ← *śroṇa*
 - \[noun\], accusative, singular, masculine
 - “crippled.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravayan* ← *śravay* ← *√śru*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *sāsy* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāsy* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthyaḥ* ← *ukthya*
 - \[noun\], nominative, singular, masculine
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

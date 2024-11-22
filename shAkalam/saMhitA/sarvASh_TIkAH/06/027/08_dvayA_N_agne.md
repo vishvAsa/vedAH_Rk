@@ -96,70 +96,102 @@ pārthavā́nām ← pārthavá- (nominal stem)
 -   *dvayāṃ* ← *dvaya*
 - \[noun\], accusative, plural, masculine
 - “two; double.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathino* ← *rathinaḥ* ← *rathin*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *viṃśatiṃ* ← *viṃśatim* ← *viṃśati*
 - \[noun\], accusative, singular, feminine
 - “twenty; twentieth; viṃśati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhūmato* ← *vadhūmataḥ* ← *vadhūmat*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahyaṃ* ← *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *samrāṭ* ← *samrāj*
 - \[noun\], nominative, singular, masculine
 - “sovereign; ruler.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhyāvartī* ← *abhyāvartin*
 - \[noun\], nominative, singular, masculine
 - “Abhyāvartin.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāyamāno* ← *cāyamānaḥ* ← *cāyamāna*
 - \[noun\], nominative, singular, masculine
 - “Abhyāvartin.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadāti* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūṇāśeyaṃ* ← *dūṇāśā* ← *dūṇāśa*
 - \[noun\], nominative, singular, feminine
 - “rare.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūṇāśeyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇā*
 - \[noun\], nominative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārthavānām* ← *pārthava*
 - \[noun\], genitive, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

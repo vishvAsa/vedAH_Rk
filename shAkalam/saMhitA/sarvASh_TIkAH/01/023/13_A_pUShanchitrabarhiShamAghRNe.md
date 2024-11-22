@@ -79,49 +79,71 @@ yáthā ← yáthā (invariable)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣañcitrabarhiṣam* ← *pūṣan*
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣañcitrabarhiṣam* ← *citra*
 - \[noun\]
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣañcitrabarhiṣam* ← *barhiṣam* ← *barhis*
 - \[noun\], accusative, singular, masculine
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āghṛṇe* ← *āghṛṇi*
 - \[noun\], vocative, singular, masculine
 - “aglow(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *dharuṇaṃ* ← *dharuṇam* ← *dharuṇa*
 - \[noun\], accusative, singular, masculine
 - “holding; supportive.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājā* ← *āj* ← *√aj*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *naṣṭaṃ* ← *naṣṭam* ← *naś*
 - \[verb noun\], accusative, singular
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśum* ← *paśu*
 - \[noun\], accusative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

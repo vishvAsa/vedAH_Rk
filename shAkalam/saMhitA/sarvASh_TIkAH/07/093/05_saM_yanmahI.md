@@ -93,66 +93,98 @@ somasútā ← somasút- (nominal stem)
 -   *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahī* ← *mahi*
 - \[noun\], nominative, dual, feminine
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *mithatī* ← *mith*
 - \[verb noun\], nominative, dual
 - “oppose.”
-------------------------------------------------------------------------
+
+_________
+
 - *spardhamāne* ← *spṛdh*
 - \[verb noun\], nominative, dual
 - “rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūrucā* ← *tanūruc*
 - \[noun\], nominative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *śūrasātā* ← *śūrasāti*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yataite* ← *yat*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “strive; endeavor; join; equal; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *adevayuṃ* ← *adevayum* ← *adevayu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayubhiḥ* ← *devayu*
 - \[noun\], instrumental, plural, masculine
 - “devout; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *satrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *hataṃ* ← *hatam* ← *han*
 - \[verb\], dual, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasutā* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasutā* ← *sutā* ← *sut*
 - \[noun\], instrumental, singular, masculine
 - “pressing.”
-------------------------------------------------------------------------
+
+_________
+
 - *janena* ← *jana*
 - \[noun\], instrumental, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

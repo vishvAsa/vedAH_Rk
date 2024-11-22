@@ -67,30 +67,44 @@ rā́rajat ← √rāj- (root)
 -   *tanūnapāt* ← *tanūnapād* ← *tanūnapāt*
 - \[noun\], nominative, singular, masculine
 - “Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṅge* ← *śṛṅga*
 - \[noun\], accusative, dual, neuter
 - “peak; horn; tusk; śṛṅga \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśāno* ← *śiśānaḥ* ← *śā*
 - \[verb noun\], nominative, singular
 - “sharpen; whet; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣeṇa* ← *antarikṣa*
 - \[noun\], instrumental, singular, neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *rārajat* ← *rāraj*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

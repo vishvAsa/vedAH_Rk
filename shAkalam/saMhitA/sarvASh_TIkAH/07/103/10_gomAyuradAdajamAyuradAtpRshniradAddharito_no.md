@@ -100,92 +100,130 @@ tirante ← √tr̥̄- 1 (root)
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomāyur* ← *māyuḥ* ← *māyu*
 - \[noun\], nominative, singular, masculine
 - “moo; boom.”
-------------------------------------------------------------------------
+
+_________
+
 - *adād* ← *adāt* ← *dā*
 - \[verb\], singular, Root aorist (Ind.)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajamāyur* ← *aja*
 - \[noun\], masculine
 - “goat; Vishnu; Brahma; Shiva; Aja; aja \[word\]; Aja; aj; Ocimum
     gratissimum; Puruṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajamāyur* ← *māyuḥ* ← *māyu*
 - \[noun\], nominative, singular, masculine
 - “moo; boom.”
-------------------------------------------------------------------------
+
+_________
+
 - *adāt* ← *dā*
 - \[verb\], singular, Root aorist (Ind.)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśnir* ← *pṛśniḥ* ← *pṛśni*
 - \[noun\], nominative, singular, masculine
 - “varicolored; dappled.”
-------------------------------------------------------------------------
+
+_________
+
 - *adāddharito* ← *adāt* ← *dā*
 - \[verb\], singular, Root aorist (Ind.)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *adāddharito* ← *haritaḥ* ← *harita*
 - \[noun\], nominative, singular, masculine
 - “green; yellow; fresh; harita \[word\]; green.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṇḍūkā* ← *maṇḍūkāḥ* ← *maṇḍūka*
 - \[noun\], nominative, plural, masculine
 - “frog; maṇḍūkamūṣā; maṇḍūka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadataḥ* ← *dā*
 - \[verb noun\], nominative, plural
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatāni* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrasāve* ← *sahasrasāva*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiranta* ← *tirante* ← *tṛ*
 - \[verb\], plural, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

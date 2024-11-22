@@ -76,50 +76,72 @@ uṣā́sau ← uṣás- (nominal stem)
 -   *surukme* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *surukme* ← *rukme* ← *rukma*
 - \[noun\], nominative, dual, feminine
 - “adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *supeśasādhi* ← *supeśasā* ← *supeśas*
 - \[noun\], nominative, dual, feminine
 - “beautiful; fine-looking.”
-------------------------------------------------------------------------
+
+_________
+
 - *supeśasādhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *śriyā* ← *śrī*
 - \[noun\], instrumental, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *virājataḥ* ← *virāj* ← *√rāj*
 - \[verb\], dual, Present indikative
 - “shine; excel; govern; dominate; glitter; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣāsāv* ← *uṣāsau* ← *uṣas*
 - \[noun\], vocative, dual, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *eha* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīdatām* ← *sad*
 - \[verb\], singular, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

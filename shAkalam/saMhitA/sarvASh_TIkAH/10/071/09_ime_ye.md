@@ -108,93 +108,135 @@ tanvate ← √tan- (root)
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nārvāṅ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nārvāṅ* ← *arvāk*
 - \[adverb\]
 - “here.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paraś* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *brāhmaṇāso* ← *brāhmaṇāsaḥ* ← *brāhmaṇa*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; Brahmin; brāhmaṇa \[word\]; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sutekarāsaḥ* ← *sutekara*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhipadya* ← *abhipad* ← *√pad*
 - \[verb noun\]
 - “overpower; endow; get.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāpayā* ← *pāpa*
 - \[noun\], instrumental, singular, feminine
 - “evil; dangerous; wicked; pāpa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sirīs* ← *sirīḥ* ← *sirī*
 - \[noun\], accusative, plural, feminine
 - “shuttle.”
-------------------------------------------------------------------------
+
+_________
+
 - *tantraṃ* ← *tantram* ← *tantra*
 - \[noun\], accusative, singular, neuter
 - “Tantra; treatise; doctrine; system; Tantra; tantra \[word\]; rule;
     discipline; method; warp.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvate* ← *tan*
 - \[verb\], plural, Present indikative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *aprajajñayaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *aprajajñayaḥ* ← *prajajñayaḥ* ← *prajajñi*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

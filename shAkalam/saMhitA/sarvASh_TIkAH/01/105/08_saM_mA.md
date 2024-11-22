@@ -113,87 +113,129 @@ vittám ← √vid- 2 (root)
 -   *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapanty* ← *tapanti* ← *tap*
 - \[verb\], plural, Present indikative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhitaḥ* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnīr* ← *sapatnīḥ* ← *sapatnī*
 - \[noun\], nominative, plural, feminine
 - “sapatnī; rival; sapatnī \[word\]; mistress.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *parśavaḥ* ← *parśu*
 - \[noun\], nominative, plural, masculine
 - “rib; parśu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mūṣo* ← *mūṣaḥ* ← *mūṣ*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśnā* ← *śiśna*
 - \[noun\], accusative, plural, neuter
 - “penis; tail.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *adanti* ← *ad*
 - \[verb\], plural, Present indikative
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādhya* ← *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādhya* ← *ādhya* ← *ādhī*
 - \[noun\], nominative, plural, feminine
 - “longing.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotāraṃ* ← *stotāram* ← *stotṛ*
 - \[noun\], accusative, singular, masculine
 - “laudatory; worshiping.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vittam* ← *vid*
 - \[verb\], dual, Present imperative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], vocative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

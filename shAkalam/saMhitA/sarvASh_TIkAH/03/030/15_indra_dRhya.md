@@ -91,67 +91,97 @@ ripávaḥ ← ripú- (nominal stem)
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛhya* ← *dṛh*
 - \[verb\], singular, Present imperative
 - “fixate; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmakośā* ← *yāma*
 - \[noun\], masculine
 - “prahara; watch; travel; path.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmakośā* ← *kośāḥ* ← *kośa*
 - \[noun\], nominative, plural, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhūvan* ← *bhū*
 - \[verb\], plural, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñāya* ← *yajña*
 - \[noun\], dative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣa* ← *śikṣ*
 - \[verb\], singular, Present imperative
 - “help; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇate* ← *gṛ*
 - \[verb noun\], dative, singular
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhibhyaḥ* ← *sakhi*
 - \[noun\], dative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *durmāyavo* ← *durmāyavaḥ* ← *durmāyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *durevā* ← *durevāḥ* ← *dureva*
 - \[noun\], nominative, plural, masculine
 - “malevolent; bad; crabbed.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyāso* ← *martyāsaḥ* ← *martya*
 - \[noun\], nominative, plural, masculine
 - “mortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣaṅgiṇo* ← *niṣaṅgiṇaḥ* ← *niṣaṅgin*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ripavo* ← *ripavaḥ* ← *ripu*
 - \[noun\], nominative, plural, masculine
 - “enemy; arivarga; Ripu; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *hantvāsaḥ* ← *han*
 - \[verb noun\], nominative, plural
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

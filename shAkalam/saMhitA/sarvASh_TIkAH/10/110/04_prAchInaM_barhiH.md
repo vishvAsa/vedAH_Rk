@@ -99,72 +99,106 @@ syonám ← syoná- (nominal stem)
 -   *prācīnam* ← *prācīna*
 - \[noun\], nominative, singular, neuter
 - “eastern; frontal.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhiḥ* ← *barhis*
 - \[noun\], nominative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pradiśā* ← *pradiś*
 - \[noun\], instrumental, singular, feminine
 - “quarter; direction; command; region; indication.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjyate* ← *vṛj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
-------------------------------------------------------------------------
+
+_________
+
 - *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahnām* ← *ahar*
 - \[noun\], genitive, plural
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathate* ← *prath*
 - \[verb\], singular, Present indikative
 - “be known; expand; expand; boom.”
-------------------------------------------------------------------------
+
+_________
+
 - *vitaraṃ* ← *vitaram*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *varīyo* ← *varīyaḥ* ← *varīyas*
 - \[noun\], nominative, singular, neuter
 - “broad; further.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *aditaye* ← *aditi*
 - \[noun\], dative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *syonam* ← *syona*
 - \[noun\], nominative, singular, neuter
 - “benevolent; agreeable; pleasant; agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

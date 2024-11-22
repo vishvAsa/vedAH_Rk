@@ -107,86 +107,126 @@ yát ← yá- (pronoun)
 
 -   *ācyā* ← *āñc* ← *√añc*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *jānu*
 - \[noun\], accusative, singular, neuter
 - “knee; jānu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇato* ← *dakṣiṇatas*
 - \[adverb\]
 - “right; southward.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣadyemaṃ* ← *niṣadya* ← *niṣad* ← *√sad*
 - \[verb noun\]
 - “sit down; sit; put.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣadyemaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇīta* ← *gṛ*
 - \[verb\], plural, Present imperative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiṃsiṣṭa* ← *hiṃs*
 - \[verb\], plural, Aorist inj. (proh.)
 - “injure; kill; remove; harm; cure; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitaraḥ* ← *pitṛ*
 - \[noun\], vocative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *kena* ← *ka*
 - \[noun\], instrumental, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgaḥ* ← *āgas*
 - \[noun\], accusative, singular, neuter
 - “sin; evildoing; mistake.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣatā* ← *puruṣa*
 - \[noun\], masculine
 - “man; man; Puruṣa; puṃvajra; puruṣa; servant; puruṣa \[word\];
     assistant; soldier; soul; commoner; generation; people; doll.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣatā* ← *tā*
 - \[noun\], instrumental, singular, feminine
 - “state; Lakshmi.”
-------------------------------------------------------------------------
+
+_________
+
 - *karāma* ← *kṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -197,7 +237,9 @@ yát ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -95,69 +95,101 @@ tviṣé ← tvíṣ- (nominal stem)
 
 -   *chandastubhaḥ* ← *chanda*
 - \[noun\], masculine
-------------------------------------------------------------------------
+
+_________
+
 - *chandastubhaḥ* ← *stubhaḥ* ← *stubh*
 - \[noun\], nominative, plural, masculine
 - “song; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *kubhanyava* ← *kubhanyavaḥ* ← *kubhanyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *utsam* ← *utsa*
 - \[noun\], accusative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kīriṇo* ← *kīriṇaḥ* ← *kīrin*
 - \[noun\], nominative, plural, masculine
 - “singing.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛtuḥ* ← *nṛt*
 - \[verb\], plural, Aorist inj. (proh.)
 - “dance; dance.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *kecin* ← *kecid* ← *kaścit*
 - \[noun\], nominative, plural, masculine
 - “any(a); some(a); some(a); some(a); some(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tāyava* ← *tāyavaḥ* ← *tāyu*
 - \[noun\], nominative, plural, masculine
 - “thief.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūmā* ← *ūmāḥ* ← *ūma*
 - \[noun\], nominative, plural, masculine
 - “assistant.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsan* ← *as*
 - \[verb\], plural, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛśi* ← *dṛś*
 - \[noun\], locative, singular, feminine
 - “eye; dṛś; dṛś \[word\]; sight; evil eye.”
-------------------------------------------------------------------------
+
+_________
+
 - *tviṣe* ← *tviṣ*
 - \[noun\], dative, singular, feminine
 - “beam; color; beauty.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

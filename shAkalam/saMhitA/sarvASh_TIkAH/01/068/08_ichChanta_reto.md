@@ -71,42 +71,60 @@ svaíḥ ← svá- (pronoun)
 - \[verb\], plural, Imperfect
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *reto* ← *retaḥ* ← *retas*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm.”
-------------------------------------------------------------------------
+
+_________
+
 - *mithas*
 - \[adverb\]
 - “together; mutually; alternately.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūṣu* ← *tanū*
 - \[noun\], locative, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *jānata* ← *jñā*
 - \[verb\], plural, Present injunctive
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
-------------------------------------------------------------------------
+
+_________
+
 - *svair* ← *svaiḥ* ← *sva*
 - \[noun\], instrumental, plural, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣair* ← *dakṣaiḥ* ← *dakṣa*
 - \[noun\], instrumental, plural, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *amūrāḥ* ← *amūra*
 - \[noun\], nominative, plural, masculine
 - “wise; intelligent; apt.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

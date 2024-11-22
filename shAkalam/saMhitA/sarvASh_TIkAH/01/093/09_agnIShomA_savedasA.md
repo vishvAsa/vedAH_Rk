@@ -70,46 +70,66 @@ sám ← sám (invariable)
 -   *agnīṣomā* ← *agnīṣoma*
 - \[noun\], vocative, dual, masculine
 - “Soma; Agni; agnīṣoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *savedasā* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *savedasā* ← *vedasā* ← *vedas*
 - \[noun\], nominative, dual, masculine
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahūtī* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahūtī* ← *hūtī* ← *hūti*
 - \[noun\], nominative, dual, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanataṃ* ← *vanatam* ← *van*
 - \[verb\], dual, Present imperative
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *babhūvathuḥ* ← *bhū*
 - \[verb\], dual, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

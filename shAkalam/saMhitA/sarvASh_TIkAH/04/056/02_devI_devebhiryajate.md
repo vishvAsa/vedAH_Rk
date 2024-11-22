@@ -90,72 +90,104 @@ yajñásya ← yajñá- (nominal stem)
 -   *devī*
 - \[noun\], nominative, dual, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhir* ← *devebhiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajate* ← *yajata*
 - \[noun\], nominative, dual, feminine
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatrair* ← *yajatraiḥ* ← *yajatra*
 - \[noun\], instrumental, plural, masculine
 - “adorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *aminatī* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *aminatī* ← *minatī* ← *mī*
 - \[verb noun\], nominative, dual
 - “transgress; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthatur* ← *tasthatuḥ* ← *sthā*
 - \[verb\], dual, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣamāṇe* ← *vakṣ*
 - \[verb noun\], nominative, dual
 - “grow; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvarī* ← *ṛtāvan*
 - \[noun\], nominative, dual, feminine
 - “law-abiding; faithful; righteous.”
-------------------------------------------------------------------------
+
+_________
+
 - *adruhā* ← *adruh*
 - \[noun\], nominative, dual, feminine
 - “friendly; benign.”
-------------------------------------------------------------------------
+
+_________
+
 - *devaputre* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devaputre* ← *putre* ← *putra*
 - \[noun\], nominative, dual, feminine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *netrī*
 - \[noun\], nominative, dual, feminine
 - “leader; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucayadbhir* ← *śucayadbhiḥ* ← *śocay* ← *√śuc*
 - \[verb noun\], instrumental, plural
 - “distress; afflict; burn.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

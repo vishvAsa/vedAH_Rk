@@ -111,97 +111,141 @@ tanvàm ← tanū́- (nominal stem)
 -   *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrātāsad* ← *bhrātā* ← *bhrātṛ*
 - \[noun\], nominative, singular, masculine
 - “brother; bhrātṛ; relative.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrātāsad* ← *asat* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *anātham* ← *anātha*
 - \[noun\], nominative, singular, neuter
 - “helpless; lordless; widowed.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavāti* ← *bhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasā* ← *svasṛ*
 - \[noun\], nominative, singular, feminine
 - “sister; svasṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *nirṛtir* ← *nirṛtiḥ* ← *nirṛti*
 - \[noun\], nominative, singular, feminine
 - “destruction; Nirṛti; adversity.”
-------------------------------------------------------------------------
+
+_________
+
 - *nigacchāt* ← *nigam* ← *√gam*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “love.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmamūtā* ← *kāma*
 - \[noun\], masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmamūtā* ← *mūtā* ← *mūta*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *bahv* ← *bahu*
 - \[noun\], accusative, singular, neuter
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
-------------------------------------------------------------------------
+
+_________
+
 - *etad* ← *etat* ← *etad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rapāmi* ← *rap*
 - \[verb\], singular, Present indikative
 - “whisper.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvā* ← *tanu*
 - \[noun\], instrumental, singular, feminine
 - “body; embodiment; life; life; root; body; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *pipṛgdhi* ← *pṛc*
 - \[verb\], singular, Present imperative
 - “mix; unite.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

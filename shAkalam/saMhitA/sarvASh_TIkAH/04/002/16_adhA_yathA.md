@@ -105,92 +105,132 @@ vran ← √vr̥- (root)
 -   *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāsaḥ* ← *para*
 - \[noun\], nominative, plural, masculine
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnāso* ← *pratnāsaḥ* ← *pratna*
 - \[noun\], nominative, plural, masculine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśuṣāṇāḥ* ← *āśuṣ* ← *√śuṣ*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *śucīd* ← *śuci*
 - \[noun\], accusative, singular, neuter
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucīd* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayan* ← *i*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdhitim* ← *dīdhiti*
 - \[noun\], accusative, singular, feminine
 - “beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthaśāsaḥ* ← *uktha*
 - \[noun\], neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthaśāsaḥ* ← *śāsaḥ* ← *śās*
 - \[noun\], nominative, plural, masculine
 - “śās; command; ruler; commander.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāmā* ← *kṣam*
 - \[noun\], accusative, dual, feminine
 - “Earth; heaven and earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhindanto* ← *bhindantaḥ* ← *bhid*
 - \[verb noun\], nominative, plural
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṇīr* ← *aruṇīḥ* ← *aruṇī*
 - \[noun\], accusative, plural, feminine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vran* ← *vṛ*
 - \[verb\], plural, Aorist inj. (proh.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -84,56 +84,82 @@ sakhyéṣu ← sakhyá- (nominal stem)
 -   *uktham* ← *uktha*
 - \[noun\], nominative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsyaṃ* ← *śaṃsyam* ← *śaṃs*
 - \[verb noun\], nominative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhanam* ← *vardhana*
 - \[noun\], nominative, singular, neuter
 - “increasing; fortifying; promotive; prolonging.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruniṣṣidhe* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruniṣṣidhe* ← *niṣṣidhe* ← *niṣṣidh*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śakro* ← *śakraḥ* ← *śakra*
 - \[noun\], nominative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *suteṣu* ← *suta*
 - \[noun\], locative, plural, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṇo* ← *ṇaḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāraṇat* ← *ran*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “rejoice.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyeṣu* ← *sakhya*
 - \[noun\], locative, plural, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

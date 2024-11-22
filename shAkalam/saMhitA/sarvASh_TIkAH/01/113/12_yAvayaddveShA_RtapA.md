@@ -93,79 +93,117 @@ ví ← ví (invariable)
 -   *yāvayaddveṣā* ← *yāvayat* ← *yāvay* ← *√yu*
 - \[verb noun\]
 - “keep away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāvayaddveṣā* ← *dveṣāḥ* ← *dveṣas*
 - \[noun\], nominative, singular, feminine
 - “hostility; enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtapā* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtapā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, feminine
 - “protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtejāḥ* ← *ṛtejā*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sumnāvarī*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛtā* ← *sūnṛta*
 - \[noun\], nominative, singular, feminine
 - “big; friendly.”
-------------------------------------------------------------------------
+
+_________
+
 - *īrayantī* ← *īray* ← *√īr*
 - \[verb noun\], nominative, singular
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumaṅgalīr* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumaṅgalīr* ← *maṅgalīḥ* ← *maṅgala*
 - \[noun\], nominative, singular, feminine
 - “auspicious.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibhratī* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *devavītim* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devavītim* ← *vītim* ← *vīti*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ihādyoṣaḥ* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *ihādyoṣaḥ* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ihādyoṣaḥ* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *śreṣṭhatamā* ← *śreṣṭhatama*
 - \[noun\], nominative, singular, feminine
 - “best; chief(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *uccha* ← *vas*
 - \[verb\], singular, Present imperative
 - “dawn; shine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

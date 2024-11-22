@@ -107,94 +107,138 @@ te ← tvám (pronoun)
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudṛśīr* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudṛśīr* ← *dṛśīḥ* ← *dṛśi*
 - \[noun\], nominative, plural, feminine
 - “dṛś.”
-------------------------------------------------------------------------
+
+_________
+
 - *uparasya* ← *upara*
 - \[noun\], genitive, singular, masculine
 - “later(a); future(a); nether.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *virocamānaḥ* ← *viruc* ← *√ruc*
 - \[verb noun\], nominative, singular
 - “shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakubhāṃ* ← *kakubha*
 - \[noun\], accusative, plural, masculine
 - “Terminalia arjuna (Roxb.) Wight et Arn..”
-------------------------------------------------------------------------
+
+_________
+
 - *acodate* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *acodate* ← *codate* ← *cud*
 - \[verb noun\], dative, singular
 - “urge; rush.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugopā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugopā* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dabhāya* ← *dabh*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *sukrato* ← *sukratu*
 - \[noun\], vocative, singular, masculine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 - *paro* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyābhir* ← *māyābhiḥ* ← *māyā*
 - \[noun\], instrumental, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛta* ← *ṛte* ← *ṛta*
 - \[noun\], locative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsa* ← *as*
 - \[verb\], singular, Perfect indicative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāma* ← *nāman*
 - \[noun\], nominative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

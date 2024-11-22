@@ -86,23 +86,33 @@ udakám ← udaká- (nominal stem)
 
 -   *pāvamānīr* ← *pāvamānīḥ* ← *pāvamāna*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adhyety* ← *adhyeti* ← *adhī* ← *√i*
 - \[verb\], singular, Present indikative
 - “learn; learn; recite; read; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣibhiḥ* ← *ṛṣi*
 - \[noun\], instrumental, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃbhṛtaṃ* ← *saṃbhṛtam* ← *sambhṛ* ← *√bhṛ*
 - \[verb noun\], accusative, singular
 - “gather; collect; fill; mix; fill into; produce.”
-------------------------------------------------------------------------
+
+_________
+
 - *rasam* ← *rasa*
 - \[noun\], accusative, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
@@ -110,39 +120,55 @@ udakám ← udaká- (nominal stem)
     body substance; rasa; formulation; myrrh; rasa \[word\]; amṛta;
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvatī*
 - \[noun\], nominative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhe* ← *duh*
 - \[verb\], singular, Present indikative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣīraṃ* ← *kṣīram* ← *kṣīra*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; milk; sap; kṣīra \[word\]; juice; fluid.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarpir* ← *sarpiḥ* ← *sarpis*
 - \[noun\], accusative, singular, neuter
 - “ghee; clarified butter; sarpiḥprameha.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhūdakam* ← *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *madhūdakam* ← *udakam* ← *udaka*
 - \[noun\], accusative, singular, neuter
 - “water; Udaka; juice; body of water; solution; udaka \[word\];
     decoction; udakaprameha; washing water; kaṣāya; tear; ablution.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

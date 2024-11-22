@@ -99,71 +99,105 @@ yáchamānāḥ ← √yam- (root)
 -   *aṃseṣv* ← *aṃseṣu* ← *aṃsa*
 - \[noun\], locative, plural, masculine
 - “shoulder; aṃsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *khādayo* ← *khādayaḥ* ← *khādi*
 - \[noun\], nominative, plural, masculine
 - “ring.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣassu* ← *vakṣas*
 - \[noun\], locative, plural, neuter
 - “breast; breast; bosom; thorax.”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmā* ← *rukmāḥ* ← *rukma*
 - \[noun\], nominative, plural, masculine
 - “adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *upaśiśriyāṇāḥ* ← *upaśri* ← *√śri*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyuto* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], nominative, plural, feminine
 - “lightning; Vidyut; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṭibhī* ← *vṛṣṭibhiḥ* ← *vṛṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “rain; shower; rainy season.”
-------------------------------------------------------------------------
+
+_________
+
 - *rucānā* ← *rucānāḥ* ← *ruc*
 - \[verb noun\], nominative, plural
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhām* ← *svadhā*
 - \[noun\], accusative, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyudhair* ← *āyudhaiḥ* ← *āyudha*
 - \[noun\], instrumental, plural, neuter
 - “weapon; āyudha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchamānāḥ* ← *yam*
 - \[verb noun\], nominative, plural
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

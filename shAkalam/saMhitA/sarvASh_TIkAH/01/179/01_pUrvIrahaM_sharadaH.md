@@ -102,81 +102,117 @@ vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)
 -   *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaradaḥ* ← *śarad*
 - \[noun\], accusative, plural, feminine
 - “fall; year; śarad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśramāṇā* ← *śram*
 - \[verb noun\], nominative, singular
 - “tire; exercise; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *doṣā*
 - \[adverb\]
 - “in the evening.”
-------------------------------------------------------------------------
+
+_________
+
 - *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarayantīḥ* ← *jaray* ← *√jṛ*
 - \[verb noun\], accusative, plural
 - “jāray; digest; consume.”
-------------------------------------------------------------------------
+
+_________
+
 - *mināti* ← *mī*
 - \[verb\], singular, Present indikative
 - “transgress; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *śriyaṃ* ← *śriyam* ← *śrī*
 - \[noun\], accusative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarimā* ← *jariman*
 - \[noun\], nominative, singular, masculine
 - “old age.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūnām* ← *tanū*
 - \[noun\], genitive, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *apy* ← *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *patnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], accusative, plural, feminine
 - “wife; mistress; queen.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇo* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagamyuḥ* ← *gam*
 - \[verb\], plural, Perfect optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

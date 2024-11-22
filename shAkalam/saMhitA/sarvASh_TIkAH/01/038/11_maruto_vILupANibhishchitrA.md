@@ -70,43 +70,63 @@ yātá ← √yā- 1 (root)
 -   *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīḍupāṇibhiś* ← *vīḍu*
 - \[noun\]
 - “hard; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīḍupāṇibhiś* ← *pāṇibhiḥ* ← *pāṇi*
 - \[noun\], instrumental, plural, masculine
 - “hand; hoof; pāṇi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *citrā* ← *citrāḥ* ← *citra*
 - \[noun\], accusative, plural, feminine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodhasvatīr* ← *rodhasvatīḥ* ← *rodhasvatī*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātem* ← *yāta* ← *yā*
 - \[verb\], plural, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātem* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *akhidrayāmabhiḥ* ← *akhidra*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *akhidrayāmabhiḥ* ← *yāmabhiḥ* ← *yāman*
 - \[noun\], instrumental, plural, masculine
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

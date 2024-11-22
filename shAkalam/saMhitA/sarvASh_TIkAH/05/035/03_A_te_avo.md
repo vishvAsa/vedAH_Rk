@@ -84,58 +84,84 @@ turváṇiḥ ← turváṇi- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vo* ← *avaḥ* ← *avas*
 - \[noun\], accusative, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *vareṇyaṃ* ← *vareṇyam* ← *vareṇya*
 - \[noun\], accusative, singular, neuter
 - “excellent; desirable.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣantamasya* ← *vṛṣantama*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hūmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣajūtir* ← *vṛṣa*
 - \[noun\], masculine
 - “bull; vṛṣa \[word\]; vṛṣ; Justicia gendarussa Burm.F.; bull;
     Taurus; bull.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣajūtir* ← *jūtiḥ* ← *jūti*
 - \[noun\], nominative, singular, masculine
 - “jūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jajñiṣa* ← *jajñiṣe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhūbhir* ← *ābhūbhiḥ* ← *ābhū*
 - \[noun\], instrumental, plural, masculine
 - “assistant.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *turvaṇiḥ* ← *turvaṇi*
 - \[noun\], nominative, singular, masculine
 - “victorious; overpowering.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

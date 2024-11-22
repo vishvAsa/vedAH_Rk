@@ -96,72 +96,106 @@ voḷhā́ ← voḷhár- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *badbadhāno* ← *badbadhānaḥ* ← *badbadh* ← *√bādh*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayo* ← *hiraṇyayaḥ* ← *hiraṇyaya*
 - \[noun\], nominative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhir* ← *vṛṣabhiḥ* ← *vṛṣan*
 - \[noun\], instrumental, plural, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātv* ← *yātu* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvaiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtavartaniḥ* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtavartaniḥ* ← *vartaniḥ* ← *vartani*
 - \[noun\], nominative, singular, masculine
 - “path; East; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavibhī* ← *pavibhiḥ* ← *pavi*
 - \[noun\], instrumental, plural, masculine
 - “vajra; tire; rim.”
-------------------------------------------------------------------------
+
+_________
+
 - *rucāna* ← *rucānaḥ* ← *ruc*
 - \[verb noun\], nominative, singular
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣāṃ* ← *iṣām* ← *iṣ*
 - \[noun\], genitive, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *voﾱhā* ← *voḍhā* ← *voḍhṛ*
 - \[noun\], nominative, singular, masculine
 - “charioteer.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛpatir* ← *nṛpatiḥ* ← *nṛpati*
 - \[noun\], nominative, singular, masculine
 - “king.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinīvān* ← *vājinīvat*
 - \[noun\], nominative, singular, masculine
 - “rich; rich in horses.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

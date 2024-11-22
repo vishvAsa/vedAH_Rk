@@ -76,46 +76,66 @@ sácā ← sácā (invariable)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyañjanaṃ* ← *vyañjanam* ← *vyañjana*
 - \[noun\], accusative, singular, neuter
 - “condiment; disguise; sign; quality; symptom; consonant; secondary
     sex characteristic; genitalia.”
-------------------------------------------------------------------------
+
+_________
+
 - *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhyañjanam* ← *abhyañjana*
 - \[noun\], accusative, singular, neuter
 - “abhyaṅga; ointment.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *manā*
 - \[noun\], instrumental, singular, feminine
 - “jewelry.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayā* ← *hiraṇya*
 - \[noun\], instrumental, singular, feminine
 - “aureate; gold.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

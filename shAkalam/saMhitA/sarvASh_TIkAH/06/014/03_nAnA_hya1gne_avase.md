@@ -87,56 +87,82 @@ vrataíḥ ← vratá- (nominal stem)
 -   *nānā*
 - \[adverb\]
 - “variously; differently; many; individually.”
-------------------------------------------------------------------------
+
+_________
+
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vase* ← *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *spardhante* ← *spṛdh*
 - \[verb\], plural, Present indikative
 - “rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], nominative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tūrvanto* ← *tūrvantaḥ* ← *tūrv*
 - \[verb noun\], nominative, plural
 - “overpower.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyum* ← *dasyu*
 - \[noun\], accusative, singular, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyavo* ← *āyavaḥ* ← *āyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vrataiḥ* ← *vrata*
 - \[noun\], instrumental, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīkṣanto* ← *sīkṣantaḥ* ← *sīkṣ* ← *√sah*
 - \[verb noun\], nominative, plural
 - “beat.”
-------------------------------------------------------------------------
+
+_________
+
 - *avratam* ← *avrata*
 - \[noun\], accusative, singular, masculine
 - “disobedient; evil.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

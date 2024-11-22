@@ -96,49 +96,71 @@ vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *śundhyuvaṃ* ← *śundhyuvam* ← *śundhyu*
 - \[noun\], accusative, singular, masculine
 - “fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇāya* ← *varuṇa*
 - \[noun\], dative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *preṣṭhām* ← *preṣṭha*
 - \[noun\], accusative, singular, feminine
 - “dearest.”
-------------------------------------------------------------------------
+
+_________
+
 - *matiṃ* ← *matim* ← *mati*
 - \[noun\], accusative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭha*
 - \[noun\], vocative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mīﾱhuṣe* ← *mīḍhuṣe* ← *mīḍhvas*
 - \[noun\], dative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharasva* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *arvāñcaṃ* ← *arvāñcam* ← *arvāñc*
 - \[noun\], accusative, singular, masculine
 - “approaching; facing; less.”
-------------------------------------------------------------------------
+
+_________
+
 - *karate* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -149,23 +171,33 @@ vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatraṃ* ← *yajatram* ← *yajatra*
 - \[noun\], accusative, singular, masculine
 - “adorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrāmaghaṃ* ← *sahasrāmagham* ← *sahasrāmagha*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

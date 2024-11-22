@@ -93,28 +93,40 @@ yát ← yá- (pronoun)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvīpāni* ← *dvīpa*
 - \[noun\], nominative, plural, neuter
 - “Dvīpa; island; dvīpa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pāpatan* ← *pāpat* ← *√pat*
 - \[verb\], plural, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhad* ← *tiṣṭhat* ← *sthā*
 - \[verb\], singular, Present injunctive
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *ducchunobhe* ← *ducchunā*
 - \[noun\], nominative, singular, feminine
 - “calamity; misfortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *ducchunobhe* ← *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *yujanta* ← *yuj*
 - \[verb\], plural, Aorist inj. (proh.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -122,49 +134,71 @@ yát ← yá- (pronoun)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvāny* ← *dhanvāni* ← *dhanvan*
 - \[noun\], nominative, plural, neuter
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 - *airata* ← *īr*
 - \[verb\], plural, Imperfect
 - “go.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhrakhādayo* ← *śubhra*
 - \[noun\]
 - “white; beautiful; attractive; śubhra \[word\]; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhrakhādayo* ← *khādayaḥ* ← *khādi*
 - \[noun\], nominative, plural, masculine
 - “ring.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ejatha* ← *ej*
 - \[verb\], plural, Present indikative
 - “move; stir; tremble; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhānavaḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhānavaḥ* ← *bhānavaḥ* ← *bhānu*
 - \[noun\], nominative, plural, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -76,46 +76,68 @@ sahasrasā́m ← sahasrasā́- (nominal stem)
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnām* ← *pratna*
 - \[noun\], accusative, singular, feminine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyutaṃ* ← *dyutam* ← *dyut*
 - \[noun\], accusative, singular, feminine
 - “beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukraṃ* ← *śukram* ← *śukra*
 - \[noun\], accusative, singular, neuter
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *duduhre* ← *duh*
 - \[verb\], plural, Perfect indicative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahrayaḥ* ← *ahraya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrasām* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrasām* ← *sām* ← *sā*
 - \[noun\], accusative, singular, masculine
 - “winning.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣim* ← *ṛṣi*
 - \[noun\], accusative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

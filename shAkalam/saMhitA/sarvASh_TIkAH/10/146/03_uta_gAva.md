@@ -93,65 +93,95 @@ sarjati ← √sarj- (root)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāva* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivādanty* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivādanty* ← *adanti* ← *ad*
 - \[verb\], plural, Present indikative
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *veśmeva* ← *veśma* ← *veśman*
 - \[noun\], nominative, singular, neuter
 - “house; palace; mansion; dwelling; palace.”
-------------------------------------------------------------------------
+
+_________
+
 - *veśmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛśyate* ← *dṛś*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *araṇyāniḥ* ← *araṇyāni*
 - \[noun\], nominative, singular, feminine
 - “forest.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāyaṃ* ← *sāyam*
 - \[adverb\]
 - “in the evening; sāyam \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śakaṭīr* ← *śakaṭīḥ* ← *śakaṭī*
 - \[noun\], nominative, singular, feminine
 - “cart.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarjati* ← *sarj*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

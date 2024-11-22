@@ -79,47 +79,69 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 -   *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *kośam* ← *kośa*
 - \[noun\], accusative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhuścutam* ← *madhuścut*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *avyaye* ← *avyaya*
 - \[noun\], locative, singular, masculine
 - “sheep.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāre* ← *vāra*
 - \[noun\], locative, singular, masculine
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṇīr* ← *vāṇīḥ* ← *vāṇī*
 - \[noun\], nominative, plural, feminine
 - “voice; Sarasvati; words; language.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣīṇāṃ* ← *ṛṣīṇām* ← *ṛṣi*
 - \[noun\], genitive, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūṣata* ← *nū*
 - \[verb\], plural, Aorist inj. (proh.)
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

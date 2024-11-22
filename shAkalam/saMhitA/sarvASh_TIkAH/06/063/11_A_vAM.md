@@ -59,28 +59,40 @@ váriman ← váriman- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumne* ← *sumna*
 - \[noun\], locative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *variman*
 - \[noun\], locative, singular, masculine
 - “width; size.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūribhiḥ* ← *sūri*
 - \[noun\], instrumental, plural, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣyām* ← *syām* ← *as*
 - \[verb\], singular, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

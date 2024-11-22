@@ -70,51 +70,73 @@ tát ← sá- ~ tá- (pronoun)
 -   *gāthapatim* ← *gātha*
 - \[noun\], masculine
 - “song.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāthapatim* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhapatiṃ* ← *medha*
 - \[noun\], masculine
 - “yajña; juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhapatiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudraṃ* ← *rudram* ← *rudra*
 - \[noun\], accusative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *jalāṣabheṣajam* ← *jalāṣa*
 - \[noun\]
 - “cooling; curative.”
-------------------------------------------------------------------------
+
+_________
+
 - *jalāṣabheṣajam* ← *bheṣajam* ← *bheṣaja*
 - \[noun\], accusative, singular, masculine
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
-------------------------------------------------------------------------
+
+_________
+
 - *tacchaṃyoḥ* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tacchaṃyoḥ* ← *śaṃyoḥ* ← *śaṃyu*
 - \[noun\], genitive, singular, masculine
 - “beneficent.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

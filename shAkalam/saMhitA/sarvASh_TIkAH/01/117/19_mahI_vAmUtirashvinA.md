@@ -108,85 +108,125 @@ vr̥ṣaṇau ← vŕ̥ṣan- (nominal stem)
 -   *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtir* ← *ūtiḥ* ← *ūti*
 - \[noun\], nominative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *mayobhūr* ← *mayaḥ* ← *mayas*
 - \[noun\], neuter
 - “pleasure; refreshment.”
-------------------------------------------------------------------------
+
+_________
+
 - *mayobhūr* ← *bhūḥ* ← *bhū*
 - \[noun\], nominative, singular, feminine
 - “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
     place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
     bhūnāga; sphaṭikā; beginning; birth; estate.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *srāmaṃ* ← *srāmam* ← *srāma*
 - \[noun\], nominative, singular, neuter
 - “crippled.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiṣṇyā* ← *dhiṣṇya*
 - \[noun\], nominative, dual, masculine
 - “wise; beneficent.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *riṇīthaḥ* ← *ri*
 - \[verb\], dual, Present indikative
 - “free; liberate; run; let go of.”
-------------------------------------------------------------------------
+
+_________
+
 - *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahvayat* ← *hvā*
 - \[verb\], singular, Imperfect
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *purandhir* ← *purandhiḥ* ← *puraṃdhi*
 - \[noun\], nominative, singular, feminine
 - “liberality; Puraṃdhi; munificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgacchataṃ* ← *āgacchatam* ← *āgam* ← *√gam*
 - \[verb\], dual, Imperfect
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīṃ* ← *sīm*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇāv* ← *vṛṣaṇau* ← *vṛṣan*
 - \[noun\], nominative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *avobhiḥ* ← *avas*
 - \[noun\], instrumental, plural, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

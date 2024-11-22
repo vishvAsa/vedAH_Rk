@@ -120,95 +120,137 @@ jyākā́ḥ ← jyāká- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhūṃ* ← *sindhu*
 - \[noun\], accusative, plural, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *avāsṛjo* ← *avāsṛjaḥ* ← *avasṛj* ← *√sṛj*
 - \[verb\], singular, Imperfect
 - “free; shoot; ejaculate.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dharāco* ← *adharācaḥ* ← *adharāñc*
 - \[noun\], accusative, plural, masculine
 - “downward(ip); south.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahann* ← *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahim* ← *ahi*
 - \[noun\], accusative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśatrur* ← *aśatruḥ* ← *aśatru*
 - \[noun\], nominative, singular, feminine
 - “unopposed.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *jajñiṣe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣyasi* ← *puṣ*
 - \[verb\], singular, Present indikative
 - “boom; grow; promote; foster.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāryaṃ* ← *vāryam* ← *vārya*
 - \[noun\], accusative, singular, neuter
 - “precious; valuable.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣvajāmahe* ← *svajāmahe* ← *svaj*
 - \[verb\], plural, Present indikative
 - “embrace.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhantām* ← *nabh*
 - \[verb\], plural, Present imperative
 - “burst.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyakeṣāṃ* ← *anyakeṣām* ← *anyaka*
 - \[noun\], genitive, plural, masculine
 - “other; another(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *jyākā* ← *jyākāḥ* ← *jyākā*
 - \[noun\], nominative, plural, feminine
 - “bowstring.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvasu* ← *dhanvan*
 - \[noun\], locative, plural, neuter
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

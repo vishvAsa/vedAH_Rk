@@ -70,42 +70,60 @@ yajñā́nām ← yajñá- (nominal stem)
 -   *vipraṃ* ← *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
 - “eloquent; stimulated; divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *adruhaṃ* ← *adruham* ← *adruh*
 - \[noun\], accusative, singular, masculine
 - “friendly; benign.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūmaketuṃ* ← *dhūma*
 - \[noun\], masculine
 - “smoke; dhūmavedha; carbon black; dhūmana; mist; vapor;
     vaporization; dhūma \[word\]; incense.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūmaketuṃ* ← *ketum* ← *ketu*
 - \[noun\], accusative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāvasum* ← *vibhāvasu*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sun; Surya.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñānāṃ* ← *yajñānām* ← *yajña*
 - \[noun\], genitive, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketum* ← *ketu*
 - \[noun\], accusative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

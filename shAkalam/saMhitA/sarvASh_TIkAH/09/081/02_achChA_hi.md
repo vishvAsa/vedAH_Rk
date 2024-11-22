@@ -108,90 +108,132 @@ yát ← yá- (pronoun)
 -   *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *kalaśāṃ* ← *kalaśa*
 - \[noun\], accusative, plural, masculine
 - “jar.”
-------------------------------------------------------------------------
+
+_________
+
 - *asiṣyadad* ← *asiṣyadat* ← *syand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *voﾱhā* ← *voḍhā* ← *voḍhṛ*
 - \[noun\], nominative, singular, masculine
 - “charioteer.”
-------------------------------------------------------------------------
+
+_________
+
 - *raghuvartanir* ← *raghu*
 - \[noun\]
 - “low; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *raghuvartanir* ← *vartaniḥ* ← *vartani*
 - \[noun\], nominative, singular, masculine
 - “path; East; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhayasya* ← *ubhaya*
 - \[noun\], genitive, singular, neuter
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *janmano* ← *janmanaḥ* ← *janman*
 - \[noun\], genitive, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvāṃ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnoty* ← *aśnoti* ← *aś*
 - \[verb\], singular, Present indikative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *amuta* ← *amutas*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *itaś* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

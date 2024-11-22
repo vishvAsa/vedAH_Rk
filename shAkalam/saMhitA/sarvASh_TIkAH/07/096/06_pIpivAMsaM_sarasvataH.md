@@ -70,41 +70,59 @@ prajā́m ← prajā́- (nominal stem)
 -   *pīpivāṃsaṃ* ← *pīpivāṃsam* ← *pyā*
 - \[verb noun\], accusative, singular
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvata* ← *sarasvataḥ* ← *sarasvant*
 - \[noun\], genitive, singular, masculine
 - “Sarasvant.”
-------------------------------------------------------------------------
+
+_________
+
 - *stanaṃ* ← *stanam* ← *stana*
 - \[noun\], accusative, singular, masculine
 - “breast; udder; stana \[word\]; sprout; nipple.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadarśataḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadarśataḥ* ← *darśataḥ* ← *darśata*
 - \[noun\], nominative, singular, masculine
 - “beautiful; visible; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhakṣīmahi* ← *bhakṣ*
 - \[verb\], plural, Aorist optative
 - “eat; feed.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajām* ← *prajā*
 - \[noun\], accusative, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

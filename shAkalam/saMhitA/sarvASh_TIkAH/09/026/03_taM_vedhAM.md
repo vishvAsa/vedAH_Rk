@@ -75,43 +75,63 @@ dharṇasím ← dharṇasí- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedhām* ← *vedhas*
 - \[noun\], accusative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhayāhyan* ← *medhayā* ← *medhā*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; medhā \[word\]; Medhā.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhayāhyan* ← *ahyan* ← *hi*
 - \[verb\], plural, Root aorist (Ind.)
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānam* ← *pū*
 - \[verb noun\], accusative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyavi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharṇasim* ← *dharṇasi*
 - \[noun\], accusative, singular, masculine
 - “permanent; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūridhāyasam* ← *bhūri*
 - \[noun\]
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūridhāyasam* ← *dhāyasam* ← *dhāyas*
 - \[noun\], accusative, singular, masculine
 - “alimentary; sustaining.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

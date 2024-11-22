@@ -96,89 +96,131 @@ sudúghā ← sudúgha- (nominal stem)
 -   *ajyeṣṭhāso* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajyeṣṭhāso* ← *jyeṣṭhāsaḥ* ← *jyeṣṭha*
 - \[noun\], nominative, plural, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *akaniṣṭhāsa* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *akaniṣṭhāsa* ← *kaniṣṭhāsaḥ* ← *kaniṣṭha*
 - \[noun\], nominative, plural, masculine
 - “worst; youngest.”
-------------------------------------------------------------------------
+
+_________
+
 - *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrātaro* ← *bhrātaraḥ* ← *bhrātṛ*
 - \[noun\], nominative, plural, masculine
 - “brother; bhrātṛ; relative.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhuḥ* ← *vṛdh*
 - \[verb\], plural, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *saubhagāya* ← *saubhaga*
 - \[noun\], dative, singular, neuter
 - “well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
 - “young; youthful.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapā* ← *apāḥ* ← *apas*
 - \[noun\], nominative, singular, masculine
 - “work; deed.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudra* ← *rudraḥ* ← *rudra*
 - \[noun\], nominative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudughā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudughā* ← *dughā* ← *dugha*
 - \[noun\], nominative, singular, feminine
 - “yielding.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśniḥ* ← *pṛśni*
 - \[noun\], nominative, singular, feminine
 - “Pṛśni; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudinā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudinā* ← *dinā* ← *dina*
 - \[noun\], accusative, plural, neuter
 - “day; day; day of the week; one.”
-------------------------------------------------------------------------
+
+_________
+
 - *marudbhyaḥ* ← *marut*
 - \[noun\], dative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

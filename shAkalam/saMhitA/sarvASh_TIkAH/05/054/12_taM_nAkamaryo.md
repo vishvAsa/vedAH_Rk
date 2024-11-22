@@ -104,18 +104,26 @@ vítatam ← √tan- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *nākam* ← *nāka*
 - \[noun\], accusative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *agṛbhītaśociṣaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *agṛbhītaśociṣaṃ* ← *gṛbhīta* ← *grah*
 - \[verb noun\]
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -123,65 +131,97 @@ vítatam ← √tan- (root)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *agṛbhītaśociṣaṃ* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruśat*
 - \[noun\], accusative, singular, neuter
 - “white; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *pippalam* ← *pippala*
 - \[noun\], accusative, singular, neuter
 - “berry.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūnutha* ← *dhū*
 - \[verb\], plural, Present indikative
 - “shake; remove; chase away.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *acyanta* ← *añc*
 - \[verb\], plural, Imperfekt Passiv
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjanātitviṣanta* ← *vṛjanā* ← *vṛjana*
 - \[noun\], nominative, plural, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjanātitviṣanta* ← *atitviṣanta* ← *atitviṣ* ← *√tviṣ*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaranti* ← *svar*
 - \[verb\], plural, Present indikative
 - “sing.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghoṣaṃ* ← *ghoṣam* ← *ghoṣa*
 - \[noun\], accusative, singular, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
-------------------------------------------------------------------------
+
+_________
+
 - *vitatam* ← *vitan* ← *√tan*
 - \[verb noun\], accusative, singular
 - “expand; perform; scatter; prolong; increase.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāyavaḥ* ← *ṛtāyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

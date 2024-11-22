@@ -70,38 +70,54 @@ viṣṭī́ ← viṣṭí- (nominal stem)
 -   *yuvānā* ← *yuvan*
 - \[noun\], accusative, dual, masculine
 - “young; youthful.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitarā* ← *pitṛ*
 - \[noun\], accusative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyamantrā* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyamantrā* ← *mantrāḥ* ← *mantra*
 - \[noun\], nominative, plural, masculine
 - “mantra; Mantra; consultation; advice; consultation; mantra
     \[word\]; speech; plan.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjūyavaḥ* ← *ṛjūyu*
 - \[noun\], nominative, plural, masculine
 - “good.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṭy* ← *viṣṭī* ← *viṣṭi*
 - \[noun\], instrumental, singular, feminine
 - “labor.”
-------------------------------------------------------------------------
+
+_________
+
 - *akrata* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -112,7 +128,9 @@ viṣṭī́ ← viṣṭí- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

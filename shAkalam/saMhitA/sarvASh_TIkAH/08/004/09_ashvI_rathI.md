@@ -99,76 +99,112 @@ yāti ← √yā- 1 (root)
 -   *aśvī* ← *aśvin*
 - \[noun\], nominative, singular, masculine
 - “rich in horses; horsy.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathī* ← *rathin*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *surūpa* ← *surūpaḥ* ← *surūpa*
 - \[noun\], nominative, singular, masculine
 - “fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomāṃ* ← *gomat*
 - \[noun\], nominative, singular, masculine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śvātrabhājā* ← *śvātra*
 - \[noun\], neuter
-------------------------------------------------------------------------
+
+_________
+
 - *śvātrabhājā* ← *bhājā* ← *bhāj*
 - \[noun\], instrumental, singular, neuter
 - “enjoying; consisting of.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayasā* ← *vayas*
 - \[noun\], instrumental, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacate* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
-------------------------------------------------------------------------
+
+_________
+
 - *candro* ← *candraḥ* ← *candra*
 - \[noun\], nominative, singular, masculine
 - “aglitter(p); shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *sabhām* ← *sabhā*
 - \[noun\], accusative, singular, feminine
 - “assembly hall; sabhā \[word\]; assembly; audience.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

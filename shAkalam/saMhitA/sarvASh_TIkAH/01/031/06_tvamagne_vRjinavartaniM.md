@@ -99,78 +99,114 @@ sámr̥tā ← sámr̥ti- (nominal stem)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjinavartaniṃ* ← *vṛjina*
 - \[noun\]
 - “deceitful; crooked; bent.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjinavartaniṃ* ← *vartanim* ← *vartani*
 - \[noun\], accusative, singular, masculine
 - “path; East; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *naraṃ* ← *naram* ← *nara*
 - \[noun\], accusative, singular, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakman*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *piparṣi* ← *pṛ*
 - \[verb\], singular, Present indikative
 - “protect; promote; rescue; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicarṣaṇe* ← *vicarṣaṇi*
 - \[noun\], vocative, singular, masculine
 - “excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śūrasātā* ← *śūrasāti*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *paritakmye* ← *paritakmya*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *dhane* ← *dhana*
 - \[noun\], locative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *dabhrebhiś* ← *dabhrebhiḥ* ← *dabhra*
 - \[noun\], instrumental, plural, masculine
 - “few; little(a); deficient.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *samṛtā* ← *samṛti*
 - \[noun\], locative, singular, feminine
 - “battle; contact.”
-------------------------------------------------------------------------
+
+_________
+
 - *haṃsi* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūyasaḥ* ← *bhūyas*
 - \[noun\], accusative, plural, masculine
 - “more(a); more(a); abounding in(p); stronger; bigger.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

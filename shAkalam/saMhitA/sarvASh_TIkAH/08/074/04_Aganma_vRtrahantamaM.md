@@ -85,51 +85,75 @@ yásya ← yá- (pronoun)
 - \[verb\], plural, Root aorist (Ind.)
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahantamaṃ* ← *vṛtra*
 - \[noun\], masculine
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahantamaṃ* ← *hantamam* ← *hantama*
 - \[noun\], accusative, singular, masculine
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyeṣṭham* ← *jyeṣṭha*
 - \[noun\], accusative, singular, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānavam* ← *ānava*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutarvā* ← *śrutarvan*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhann* ← *bṛhan* ← *bṛhat*
 - \[noun\], nominative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārkṣo* ← *ārkṣaḥ* ← *ārkṣa*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *anīka* ← *anīke* ← *anīka*
 - \[noun\], locative, singular, neuter
 - “army; face; battalion; battlefront; point; appearance.”
-------------------------------------------------------------------------
+
+_________
+
 - *edhate* ← *edh*
 - \[verb\], singular, Present indikative
 - “boom; get; thrive; increase; increase.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

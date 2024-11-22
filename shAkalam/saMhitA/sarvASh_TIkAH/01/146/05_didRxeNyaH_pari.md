@@ -98,81 +98,117 @@ viśvádarśataḥ ← viśvádarśata- (nominal stem)
 
 -   *didṛkṣeṇyaḥ* ← *didṛkṣeṇya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāṣṭhāsu* ← *kāṣṭhā*
 - \[noun\], locative, plural, feminine
 - “kāṣṭhā; quarter; body of water.”
-------------------------------------------------------------------------
+
+_________
+
 - *jenya* ← *jenyaḥ* ← *jenya*
 - \[noun\], nominative, singular, masculine
 - “noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *īﾱenyo* ← *īḍenyaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *arbhāya* ← *arbha*
 - \[noun\], dative, singular, masculine
 - “few; small; unimportant.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
-------------------------------------------------------------------------
+
+_________
+
 - *purutrā*
 - \[adverb\]
 - “distributively.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūr* ← *sūḥ* ← *sū*
 - \[noun\], nominative, singular, feminine
 - “sū; mother.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaibhyo* ← *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaibhyo* ← *ebhyaḥ* ← *idam*
 - \[noun\], dative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *garbhebhyo* ← *garbhebhyaḥ* ← *garbha*
 - \[noun\], dative, plural, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadarśataḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadarśataḥ* ← *darśataḥ* ← *darśata*
 - \[noun\], nominative, singular, masculine
 - “beautiful; visible; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -81,47 +81,69 @@ vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajarendhānāso* ← *ajara*
 - \[noun\]
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajarendhānāso* ← *indhānāsaḥ* ← *indh*
 - \[verb noun\], nominative, plural
 - “kindle; ignite; set ablaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāḥ* ← *bhās*
 - \[noun\], accusative, singular, neuter
 - “beam; radiance; bhās \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇas* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣīyavaḥ* ← *taviṣīyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -86,54 +86,78 @@ yajñávāhase ← yajñavāhas- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasva* ← *sah*
 - \[verb\], singular, Present imperative
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanā* ← *pṛtanāḥ* ← *pṛtanā*
 - \[noun\], accusative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhimātīr* ← *abhimātīḥ* ← *abhimāti*
 - \[noun\], accusative, plural, feminine
 - “unfriendly.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāsya* ← *apās* ← *√as*
 - \[verb noun\]
 - “chase away; shed; neglect; exclude.”
-------------------------------------------------------------------------
+
+_________
+
 - *duṣṭaras* ← *duṣṭaraḥ* ← *duṣṭara*
 - \[noun\], nominative, singular, masculine
 - “incomparable; irresistible; unbearable; unconquerable.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarann* ← *taran* ← *tṛ*
 - \[verb noun\], nominative, singular
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *arātīr* ← *arātīḥ* ← *arāti*
 - \[noun\], accusative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
-------------------------------------------------------------------------
+
+_________
+
 - *varco* ← *varcaḥ* ← *varcas*
 - \[noun\], accusative, singular, neuter
 - “shininess; vigor; fecal matter; glare; magnificence; energy;
     prestige; energy; glory; luster; light; varcas \[word\]; glory; body
     waste; droppings; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhā* ← *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñavāhase* ← *yajña*
 - \[noun\], masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñavāhase* ← *vāhase* ← *vāhas*
 - \[noun\], dative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

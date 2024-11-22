@@ -99,85 +99,123 @@ yóṣaṇaḥ ← yóṣan- (nominal stem)
 -   *pṛkṣo* ← *pṛkṣaḥ* ← *pṛkṣa*
 - \[noun\], nominative, singular, masculine
 - “strong; full of life.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapuḥ* ← *vapus*
 - \[noun\], nominative, singular, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitumān* ← *pitumat*
 - \[noun\], nominative, singular, masculine
 - “alimentary.”
-------------------------------------------------------------------------
+
+_________
+
 - *nitya* ← *nityaḥ* ← *nitya*
 - \[noun\], nominative, singular, masculine
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
     connatural; necessary; durable; ageless; invariable; biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śaye* ← *śī*
 - \[verb\], singular, Present indikative
 - “lie; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvitīyam* ← *dvitīya*
 - \[noun\], accusative, singular, neuter
 - “second; another(a); second; other; accompanied; dvitīya \[word\];
     amalgamated.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saptaśivāsu* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptaśivāsu* ← *śivāsu* ← *śiva*
 - \[noun\], locative, plural, feminine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātṛṣu* ← *mātṛ*
 - \[noun\], locative, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛtīyam* ← *tṛtīya*
 - \[noun\], accusative, singular, neuter
 - “third; neuter; tṛtīya \[word\]; homosexual.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhasya* ← *vṛṣabha*
 - \[noun\], genitive, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *dohase* ← *duh*
 - \[verb noun\]
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśapramatiṃ* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśapramatiṃ* ← *pramatim* ← *pramati*
 - \[noun\], accusative, singular, masculine
 - “care; solicitude; caution; providence.”
-------------------------------------------------------------------------
+
+_________
+
 - *janayanta* ← *janay* ← *√jan*
 - \[verb\], plural, Present injunctive
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣaṇaḥ* ← *yoṣan*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

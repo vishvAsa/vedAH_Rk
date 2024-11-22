@@ -67,35 +67,51 @@ sārñjayáḥ ← sārñjayá- (nominal stem)
 -   *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvajanyaṃ* ← *viśvajanyam* ← *viśvajanya*
 - \[noun\], accusative, singular, neuter
 - “omnipresent; worldwide.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhānān* ← *dhā*
 - \[verb noun\], accusative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharadvājān* ← *bharadvāja*
 - \[noun\], accusative, plural, masculine
 - “Bharadvāja; Droṇa; Bharadvāja; skylark.”
-------------------------------------------------------------------------
+
+_________
+
 - *sārñjayo* ← *sārñjayaḥ* ← *sārñjaya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayaṣṭa* ← *yaj*
 - \[verb\], singular, Root aorist (Ind.)
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

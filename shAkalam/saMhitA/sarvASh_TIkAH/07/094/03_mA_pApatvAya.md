@@ -79,59 +79,85 @@ rīradhatam ← √randh- (root)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāpatvāya* ← *pāpa*
 - \[noun\]
 - “evil; dangerous; wicked; pāpa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pāpatvāya* ← *tvāya* ← *tva*
 - \[noun\], dative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *narendrāgnī* ← *narā* ← *nara*
 - \[noun\], vocative, dual, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
-------------------------------------------------------------------------
+
+_________
+
 - *narendrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *narendrāgnī* ← *agnī* ← *agni*
 - \[noun\], vocative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *mābhiśastaye* ← *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *mābhiśastaye* ← *abhiśastaye* ← *abhiśasti*
 - \[noun\], dative, singular, feminine
 - “hex; accusation; defamation; blame; aspersion.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rīradhataṃ* ← *rīradhatam* ← *radh*
 - \[verb\], dual, Aorist inj. (proh.)
 - “subjugate.”
-------------------------------------------------------------------------
+
+_________
+
 - *nide* ← *nid*
 - \[noun\], dative, singular, feminine
 - “derision; scoffer; contempt.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

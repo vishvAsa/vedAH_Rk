@@ -105,84 +105,120 @@ víśvasmāt ← víśva- (nominal stem)
 - \[noun\], accusative, plural, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṣṭāni* ← *takṣ*
 - \[verb noun\], accusative, plural
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *kapir* ← *kapiḥ* ← *kapi*
 - \[noun\], nominative, singular, masculine
 - “monkey; kapi \[word\]; ape; Kapi; resin of Boswellia thurifera;
     elephant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyaktā* ← *vyakta*
 - \[noun\], accusative, plural, neuter
 - “perceptible; obvious; much(a); obvious; apprehensible.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *adūduṣat* ← *duṣ*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “corrupt; sin; damage; corrupt; spoil; injure.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiro* ← *śiraḥ* ← *śiras*
 - \[noun\], accusative, singular, neuter
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
-------------------------------------------------------------------------
+
+_________
+
 - *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāviṣaṃ* ← *rāviṣam* ← *ru*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “break; hurt.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sugaṃ* ← *sugam* ← *suga*
 - \[noun\], nominative, singular, neuter
 - “clear.”
-------------------------------------------------------------------------
+
+_________
+
 - *duṣkṛte* ← *duṣkṛt*
 - \[noun\], dative, singular, masculine
 - “wicked.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvaṃ* ← *bhuvam* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttaraḥ* ← *uttara*
 - \[noun\], nominative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

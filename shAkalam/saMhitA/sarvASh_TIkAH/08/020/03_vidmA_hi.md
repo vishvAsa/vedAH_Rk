@@ -77,44 +77,64 @@ víṣṇoḥ ← víṣṇu- (nominal stem)
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rudriyāṇāṃ* ← *rudriyāṇām* ← *rudriya*
 - \[noun\], genitive, plural, masculine
 - “Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutāṃ* ← *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *śimīvatām* ← *śimīvat*
 - \[noun\], genitive, plural, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṇor* ← *viṣṇoḥ* ← *viṣṇu*
 - \[noun\], genitive, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣasya* ← *eṣa*
 - \[noun\], genitive, singular, masculine
 - “hurrying.”
-------------------------------------------------------------------------
+
+_________
+
 - *mīﾱhuṣām* ← *mīḍhuṣām* ← *mīḍhvas*
 - \[noun\], genitive, plural, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

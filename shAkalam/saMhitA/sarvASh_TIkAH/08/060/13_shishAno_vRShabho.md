@@ -90,64 +90,94 @@ yahúḥ ← yahú- (nominal stem)
 -   *śiśāno* ← *śiśānaḥ* ← *śā*
 - \[verb noun\], nominative, singular
 - “sharpen; whet; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathāgniḥ* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathāgniḥ* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṅge* ← *śṛṅga*
 - \[noun\], accusative, dual, neuter
 - “peak; horn; tusk; śṛṅga \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *davidhvat* ← *dodhu* ← *√dhū*
 - \[verb noun\], nominative, singular
 - “shake.”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmā* ← *tigmāḥ* ← *tigma*
 - \[noun\], nominative, plural, masculine
 - “sharp; pointed; fiery.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanavo* ← *hanavaḥ* ← *hanu*
 - \[noun\], nominative, plural, masculine
 - “jaw.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratidhṛṣe* ← *pratidhṛṣ* ← *√dhṛṣ*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *sujambhaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujambhaḥ* ← *jambhaḥ* ← *jambha*
 - \[noun\], nominative, singular, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahaso* ← *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *yahuḥ* ← *yahu*
 - \[noun\], nominative, singular, masculine
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -64,32 +64,48 @@ supéśasaḥ ← supéśas- (nominal stem)
 -   *surathāṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *surathāṃ* ← *rathāṃ* ← *ratha*
 - \[noun\], accusative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātithigve* ← *ātithigva*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *svabhīśūṃr* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhīśūṃr* ← *abhīśūṃr* ← *abhīśu*
 - \[noun\], accusative, plural, masculine
 - “beam; rein.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārkṣe* ← *ārkṣa*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āśvamedhe* ← *āśvamedha*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *supeśasaḥ* ← *supeśas*
 - \[noun\], accusative, plural, masculine
 - “beautiful; fine-looking.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

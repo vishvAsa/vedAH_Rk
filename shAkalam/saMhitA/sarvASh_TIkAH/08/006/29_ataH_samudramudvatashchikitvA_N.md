@@ -74,40 +74,58 @@ yátas ← yátas (invariable)
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *udvataś* ← *udvataḥ* ← *udvat*
 - \[noun\], ablative, singular, feminine
 - “altitude.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikitvāṃ* ← *cit*
 - \[verb noun\], nominative, singular
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśyati* ← *paś*
 - \[verb\], singular, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *yato* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipāna* ← *vipānaḥ* ← *vip*
 - \[verb noun\], nominative, singular
 - “tremble.”
-------------------------------------------------------------------------
+
+_________
+
 - *ejati* ← *ej*
 - \[verb\], singular, Present indikative
 - “move; stir; tremble; travel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

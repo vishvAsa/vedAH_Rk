@@ -109,85 +109,125 @@ ví ← ví (invariable)
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrā* ← *bhadra*
 - \[noun\], nominative, plural, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratheṣu* ← *ratha*
 - \[noun\], locative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mithaspṛdhyeva* ← *mithaspṛdhyā* ← *mithaspṛdhya*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *mithaspṛdhyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣāṇy* ← *taviṣāṇi* ← *taviṣa*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *āhitā* ← *ādhā* ← *√dhā*
 - \[verb noun\], nominative, plural
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃseṣv* ← *aṃseṣu* ← *aṃsa*
 - \[noun\], locative, plural, masculine
 - “shoulder; aṃsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *prapatheṣu* ← *prapatha*
 - \[noun\], locative, plural, masculine
 - “journey; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *khādayo* ← *khādayaḥ* ← *khādi*
 - \[noun\], nominative, plural, masculine
 - “ring.”
-------------------------------------------------------------------------
+
+_________
+
 - *'kṣo* ← *akṣaḥ* ← *akṣa*
 - \[noun\], nominative, singular, masculine
 - “axle.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaś* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakrā* ← *cakra*
 - \[noun\], accusative, plural, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
-------------------------------------------------------------------------
+
+_________
+
 - *samayā*
 - \[adverb\]
 - “near.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛte* ← *vṛt*
 - \[verb\], singular, Perfect indicative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

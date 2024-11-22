@@ -88,73 +88,107 @@ vr̥tratū́rye ← vr̥tratū́rya- (nominal stem)
 - \[verb noun\]
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛtavratāḥ* ← *vratāḥ* ← *vrata*
 - \[noun\], nominative, plural, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatriyā* ← *kṣatriyāḥ* ← *kṣatriya*
 - \[noun\], nominative, plural, masculine
 - “Kshatriya.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaniṣkṛto* ← *yajña*
 - \[noun\], masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaniṣkṛto* ← *niṣkṛtaḥ* ← *niṣkṛt*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaddivā* ← *bṛhat*
 - \[noun\]
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaddivā* ← *divāḥ* ← *diva*
 - \[noun\], nominative, plural, masculine
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvarāṇām* ← *adhvara*
 - \[noun\], genitive, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiśriyaḥ* ← *abhiśrī*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *agnihotāra* ← *agni*
 - \[noun\], masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnihotāra* ← *hotāraḥ* ← *hotṛ*
 - \[noun\], nominative, plural, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasāpo* ← *ṛtasāpaḥ* ← *ṛtasāp*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *adruho* ← *adruhaḥ* ← *adruh*
 - \[noun\], nominative, plural, masculine
 - “friendly; benign.”
-------------------------------------------------------------------------
+
+_________
+
 - *'po* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *asṛjann* ← *asṛjan* ← *sṛj*
 - \[verb\], plural, Root aorist (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtratūrye* ← *vṛtratūrya*
 - \[noun\], locative, singular, neuter
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

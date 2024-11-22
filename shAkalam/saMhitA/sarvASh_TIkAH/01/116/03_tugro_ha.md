@@ -102,76 +102,112 @@ antarikṣaprúdbhiḥ ← antarikṣaprút- (nominal stem)
 -   *tugro* ← *tugraḥ* ← *tugra*
 - \[noun\], nominative, singular, masculine
 - “Tugra; tugra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhujyum* ← *bhujyu*
 - \[noun\], accusative, singular, masculine
 - “Bhujyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinodameghe* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinodameghe* ← *uda*
 - \[noun\], neuter
 - “water.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinodameghe* ← *meghe* ← *megha*
 - \[noun\], locative, singular, masculine
 - “cloud; abhra; mass; megha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kaścin* ← *kaścid* ← *kaścit*
 - \[noun\], nominative, singular, masculine
 - “any(a); some(a); some(a); some(a); some(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *mamṛvāṃ* ← *mṛ*
 - \[verb noun\], nominative, singular
 - “mṛ; die; disappear; go out.”
-------------------------------------------------------------------------
+
+_________
+
 - *avāhāḥ* ← *avahā* ← *√hā*
 - \[verb\], singular, Athematic s aor. (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūhathur* ← *ūhathuḥ* ← *vah*
 - \[verb\], dual, Perfect indicative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *naubhir* ← *naubhiḥ* ← *nau*
 - \[noun\], instrumental, plural, feminine
 - “ship; boat; nau \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ātmanvatībhir* ← *ātmanvatībhiḥ* ← *ātmanvat*
 - \[noun\], instrumental, plural, feminine
 - “live.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣaprudbhir* ← *antarikṣa*
 - \[noun\], neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣaprudbhir* ← *prudbhiḥ* ← *prut*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *apodakābhiḥ* ← *apodaka*
 - \[noun\], instrumental, plural, feminine
 - “arid; terrestrial.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

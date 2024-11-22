@@ -77,43 +77,61 @@ rócante ← √ruc- (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *bradhnam* ← *bradhna*
 - \[noun\], accusative, singular, masculine
 - “sun; horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṣaṃ* ← *aruṣam* ← *aruṣa*
 - \[noun\], accusative, singular, masculine
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *carantam* ← *car*
 - \[verb noun\], accusative, singular
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthuṣaḥ* ← *sthā*
 - \[verb noun\], accusative, plural
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocante* ← *ruc*
 - \[verb\], plural, Present indikative
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocanā* ← *rocana*
 - \[noun\], nominative, plural, neuter
 - “light; celestial sphere.”
-------------------------------------------------------------------------
+
+_________
+
 - *divi* ← *div*
 - \[noun\], locative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

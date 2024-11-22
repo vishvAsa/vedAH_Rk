@@ -99,73 +99,107 @@ muṣāyáḥ ← √muṣⁱ- (root)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kutsenābhi* ← *kutsena* ← *kutsa*
 - \[noun\], instrumental, singular, masculine
 - “Kutsa; kutsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kutsenābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāśuṣaṃ* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāśuṣaṃ* ← *aśuṣam* ← *aśuṣa*
 - \[noun\], accusative, singular, masculine
 - “edacious.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhya* ← *yudh*
 - \[verb\], singular, Present imperative
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuyavaṃ* ← *kuyavam* ← *kuyava*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *gaviṣṭau* ← *gaviṣṭi*
 - \[noun\], locative, singular, feminine
 - “foray.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prapitve* ← *prapitva*
 - \[noun\], locative, singular, neuter
 - “beginning.”
-------------------------------------------------------------------------
+
+_________
+
 - *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *muṣāyaś* ← *muṣāyaḥ* ← *muṣāy* ← *√muṣ*
 - \[verb\], singular, Present injunctive
 - “steal; rob.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakram* ← *cakra*
 - \[noun\], accusative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
-------------------------------------------------------------------------
+
+_________
+
 - *avive* ← *aviveḥ* ← *vī*
 - \[verb\], singular, Imperfect
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *rapāṃsi* ← *rapas*
 - \[noun\], accusative, plural, neuter
 - “injury; disease; infirmity; damage.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

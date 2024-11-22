@@ -99,68 +99,102 @@ vāṇám ← vāṇá- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *haṃsāsas* ← *haṃsāsaḥ* ← *haṃsa*
 - \[noun\], nominative, plural, masculine
 - “goose; Vishnu; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛpalam* ← *tṛpala*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *manyum* ← *manyu*
 - \[noun\], accusative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *acchāmād* ← *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *acchāmād* ← *amāt*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *astaṃ* ← *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣagaṇā* ← *vṛṣagaṇāḥ* ← *vṛṣagaṇa*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ayāsuḥ* ← *yā*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *āṅgūṣyam* ← *āṅgūṣya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānaṃ* ← *pavamānam* ← *pū*
 - \[verb noun\], accusative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhāyo* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *durmarṣaṃ* ← *durmarṣam* ← *durmarṣa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadanti* ← *vad*
 - \[verb\], plural, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṇam* ← *vāṇa*
 - \[noun\], accusative, singular, masculine
 - “music.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

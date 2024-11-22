@@ -102,82 +102,120 @@ yuyotam ← √yu- 2 (root)
 -   *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasur* ← *svasuḥ* ← *svasṛ*
 - \[noun\], ablative, singular, feminine
 - “sister; svasṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], ablative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *nag* ← *naś*
 - \[noun\], nominative, singular, feminine
 - “night; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihīte* ← *hā*
 - \[verb\], singular, Present indikative
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
-------------------------------------------------------------------------
+
+_________
+
 - *riṇakti* ← *ric*
 - \[verb\], singular, Present indikative
 - “empty; liberate; concede; surrender; purge.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇīr* ← *kṛṣṇīḥ* ← *kṛṣṇī*
 - \[noun\], nominative, singular, feminine
 - “night; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṣāya* ← *aruṣa*
 - \[noun\], dative, singular, masculine
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *panthām* ← *pathin*
 - \[noun\], accusative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvāmaghā* ← *aśvāmagha*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *gomaghā* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomaghā* ← *maghā* ← *magha*
 - \[noun\], accusative, dual, masculine
 - “gift; wealth; reward; wages; reward.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *huvema* ← *hvā*
 - \[verb\], plural, Present optative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *divā*
 - \[adverb\]
 - “by day; divā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naktaṃ* ← *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarum* ← *śaru*
 - \[noun\], accusative, singular, masculine
 - “arrow.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyotam* ← *yu*
 - \[verb\], dual, Present imperative
 - “keep away; separate; ward off.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,70 +102,104 @@ sūnŕ̥tāyai ← sūnŕ̥ta- (nominal stem)
 -   *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyāyāsme* ← *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyāyāsme* ← *asme* ← *mad*
 - \[noun\], dative, plural, masculine
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhāya* ← *śardha*
 - \[noun\], dative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jujuṣe* ← *juṣ*
 - \[verb\], singular, Perfect indicative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasvān* ← *namasvat*
 - \[noun\], nominative, singular, masculine
 - “respectful.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvatra*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *yasminn* ← *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *samīcīḥ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīva* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *gātur* ← *gātuḥ* ← *gātu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dāśat* ← *dāś*
 - \[verb\], singular, Present injunctive
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛtāyai* ← *sūnṛtā*
 - \[noun\], dative, singular, feminine
 - “liberality.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

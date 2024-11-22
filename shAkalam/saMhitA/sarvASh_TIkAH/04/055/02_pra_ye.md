@@ -102,82 +102,120 @@ rurucanta ← √ruc- (root)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāmāni* ← *dhāman*
 - \[noun\], accusative, plural, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyāṇy* ← *pūrvyāṇi* ← *pūrvya*
 - \[noun\], accusative, plural, neuter
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *arcān* ← *arc*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucchān* ← *vas*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “dawn; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *viyotāro* ← *viyotāraḥ* ← *viyotṛ*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *amūrāḥ* ← *amūra*
 - \[noun\], nominative, plural, masculine
 - “wise; intelligent; apt.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhātāro* ← *vidhātāraḥ* ← *vidhātṛ*
 - \[noun\], nominative, plural, masculine
 - “Brahma; organizer; creator.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhur* ← *dadhuḥ* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajasrā* ← *ajasrāḥ* ← *ajasra*
 - \[noun\], nominative, plural, masculine
 - “ceaseless; ageless; incessant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtadhītayo* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtadhītayo* ← *dhītayaḥ* ← *dhīti*
 - \[noun\], nominative, plural, masculine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *rurucanta* ← *ruc*
 - \[verb\], plural, Perfect injunctive
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasmāḥ* ← *dasma*
 - \[noun\], nominative, plural, masculine
 - “overlord.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

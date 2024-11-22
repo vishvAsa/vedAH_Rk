@@ -117,96 +117,142 @@ sákhyuḥ ← sákhi- (nominal stem)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣaṃ* ← *yakṣam* ← *yakṣa*
 - \[noun\], accusative, singular, neuter
 - “apparition; monster; apparition.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadam*
 - \[adverb\]
 - “always.”
-------------------------------------------------------------------------
+
+_________
+
 - *iddhuro* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *iddhuro* ← *huras*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *veśasya* ← *veśa*
 - \[noun\], genitive, singular, masculine
 - “whorehouse; prostitute; neighbor; braid.”
-------------------------------------------------------------------------
+
+_________
+
 - *praminato* ← *praminataḥ* ← *pramī* ← *√mī*
 - \[verb noun\], genitive, singular
 - “destroy.”
-------------------------------------------------------------------------
+
+_________
+
 - *māpeḥ* ← *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *māpeḥ* ← *āpeḥ* ← *āpi*
 - \[noun\], genitive, singular, masculine
 - “friend.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrātur* ← *bhrātuḥ* ← *bhrātṛ*
 - \[noun\], genitive, singular, masculine
 - “brother; bhrātṛ; relative.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *anṛjor* ← *anṛjoḥ* ← *anṛju*
 - \[noun\], genitive, singular, masculine
 - “dishonest; evil.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇaṃ* ← *ṛṇam* ← *ṛṇa*
 - \[noun\], accusative, singular, neuter
 - “debt; debt; ṛṇa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ver* ← *veḥ* ← *vī*
 - \[verb\], singular, Present injunctive
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyur* ← *sakhyuḥ* ← *sakhi*
 - \[noun\], genitive, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣaṃ* ← *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *ripor* ← *ripoḥ* ← *ripu*
 - \[noun\], genitive, singular, masculine
 - “punic; deceitful; unfriendly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhujema* ← *bhuj*
 - \[verb\], plural, Aorist optative
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

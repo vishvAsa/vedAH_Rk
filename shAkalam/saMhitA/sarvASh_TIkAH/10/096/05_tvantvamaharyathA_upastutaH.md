@@ -96,82 +96,120 @@ rā́dhaḥ ← rā́dhas- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *aharyathā* ← *aharyathāḥ* ← *hary*
 - \[verb\], singular, Imperfect
 - “delight.”
-------------------------------------------------------------------------
+
+_________
+
 - *upastutaḥ* ← *upastu* ← *√stu*
 - \[verb noun\], nominative, singular
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvebhir* ← *pūrvebhiḥ* ← *pūrva*
 - \[noun\], instrumental, plural, masculine
 - “Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *harikeśa* ← *hari*
 - \[noun\]
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *harikeśa* ← *keśa*
 - \[noun\], vocative, singular, masculine
 - “mane; hair; keśa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajvabhiḥ* ← *yajvan*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryasi* ← *hary*
 - \[verb\], singular, Present indikative
 - “delight.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvam* ← *viśva*
 - \[noun\], nominative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthyam* ← *ukthya*
 - \[noun\], nominative, singular, neuter
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 - *asāmi*
 - \[noun\], nominative, singular, neuter
 - “perfect; complete; entire.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], nominative, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *harijāta* ← *hari*
 - \[noun\]
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *harijāta* ← *jāta* ← *jan*
 - \[verb noun\], vocative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryatam* ← *haryata*
 - \[noun\], nominative, singular, neuter
 - “desirable; delightful.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

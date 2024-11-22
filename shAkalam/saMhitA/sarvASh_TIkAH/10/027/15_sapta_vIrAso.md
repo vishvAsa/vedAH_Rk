@@ -108,85 +108,125 @@ ví ← ví (invariable)
 -   *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrāso* ← *vīrāsaḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *adharād* ← *adharāt*
 - \[adverb\]
 - “below; south.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyann* ← *āyan* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣṭottarāttāt* ← *aṣṭa* ← *aṣṭan*
 - \[noun\], nominative, plural, masculine
 - “eight; eighth; aṣṭan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣṭottarāttāt* ← *uttarāttāt*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajagmiran* ← *gam*
 - \[verb\], plural, Plusquamperfect
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *nava* ← *navan*
 - \[noun\], nominative, singular, neuter
 - “nine.”
-------------------------------------------------------------------------
+
+_________
+
 - *paścātāt*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sthivimanta* ← *sthivimantaḥ* ← *sthivimat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āyan* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prāk*
 - \[adverb\]
 - “earlier; first.”
-------------------------------------------------------------------------
+
+_________
+
 - *sānu*
 - \[noun\], accusative, plural, neuter
 - “tableland; ridge; peak; back; ridge; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiranty* ← *tiranti* ← *tṛ*
 - \[verb\], plural, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnaḥ* ← *aśan*
 - \[noun\], genitive, singular, masculine
 - “stone; rock.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

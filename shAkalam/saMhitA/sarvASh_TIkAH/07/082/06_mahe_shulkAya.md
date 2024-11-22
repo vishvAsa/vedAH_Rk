@@ -111,87 +111,127 @@ vr̥ṇoti ← √vr̥- (root)
 -   *mahe* ← *mah*
 - \[noun\], dative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *śulkāya* ← *śulka*
 - \[noun\], dative, singular, neuter
 - “dowry; tax; money; customs; price; mucus.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *tviṣa* ← *tviṣe* ← *tviṣ*
 - \[noun\], dative, singular, feminine
 - “beam; color; beauty.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimāte* ← *mā*
 - \[verb\], dual, Present indikative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhruvam* ← *dhruva*
 - \[noun\], nominative, singular, neuter
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svam* ← *sva*
 - \[noun\], nominative, singular, neuter
 - “property; wealth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāmim* ← *ajāmi*
 - \[noun\], accusative, singular, feminine
 - “unrelated; foreign-born.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *śnathayantam* ← *śnathay* ← *√śnath*
 - \[verb noun\], accusative, singular
 - “kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātirad* ← *ātirat* ← *ātṛ* ← *√tṛ*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *dabhrebhir* ← *dabhrebhiḥ* ← *dabhra*
 - \[noun\], instrumental, plural, masculine
 - “few; little(a); deficient.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇoti* ← *vṛ*
 - \[verb\], singular, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūyasaḥ* ← *bhūyas*
 - \[noun\], accusative, plural, masculine
 - “more(a); more(a); abounding in(p); stronger; bigger.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

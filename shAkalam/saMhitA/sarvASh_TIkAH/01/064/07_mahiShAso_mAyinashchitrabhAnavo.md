@@ -96,73 +96,107 @@ yát ← yá- (pronoun)
 -   *mahiṣāso* ← *mahiṣāsaḥ* ← *mahiṣa*
 - \[noun\], nominative, plural, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyinaś* ← *māyinaḥ* ← *māyin*
 - \[noun\], nominative, plural, masculine
 - “artful; charming; crafty; deceptive.”
-------------------------------------------------------------------------
+
+_________
+
 - *citrabhānavo* ← *citra*
 - \[noun\]
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *citrabhānavo* ← *bhānavaḥ* ← *bhānu*
 - \[noun\], nominative, plural, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *girayo* ← *girayaḥ* ← *giri*
 - \[noun\], nominative, plural, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svatavaso* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svatavaso* ← *tavasaḥ* ← *tavas*
 - \[noun\], nominative, plural, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *raghuṣyadaḥ* ← *raghuṣyad*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mṛgā* ← *mṛgāḥ* ← *mṛga*
 - \[noun\], nominative, plural, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *hastinaḥ* ← *hastin*
 - \[noun\], nominative, plural, masculine
 - “elephant; hastin \[word\]; Hastin; hastimeha.”
-------------------------------------------------------------------------
+
+_________
+
 - *khādathā* ← *khād*
 - \[verb\], plural, Present indikative
 - “eat; chew; feed; consume; gnash; gulp; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanā* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *āruṇīṣu* ← *āruṇī*
 - \[noun\], locative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣīr* ← *taviṣīḥ* ← *taviṣī*
 - \[noun\], accusative, plural, feminine
 - “strength; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayugdhvam* ← *yuj*
 - \[verb\], plural, Root aorist (Ind.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -170,7 +204,9 @@ yát ← yá- (pronoun)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

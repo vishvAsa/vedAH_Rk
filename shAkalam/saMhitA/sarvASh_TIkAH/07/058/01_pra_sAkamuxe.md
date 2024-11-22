@@ -96,68 +96,100 @@ nírr̥teḥ ← nírr̥ti- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *sākamukṣe* ← *sākamukṣ*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *arcatā* ← *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇāya* ← *gaṇa*
 - \[noun\], dative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daivyasya* ← *daivya*
 - \[noun\], genitive, singular, neuter
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāmnas* ← *dhāmnaḥ* ← *dhāman*
 - \[noun\], genitive, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuviṣmān* ← *tuviṣmat*
 - \[noun\], nominative, singular, masculine
 - “powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣodanti* ← *kṣud*
 - \[verb\], plural, Present indikative
 - “pound.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣante* ← *nakṣ*
 - \[verb\], plural, Present indikative
 - “reach; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *nākaṃ* ← *nākam* ← *nāka*
 - \[noun\], accusative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nirṛter* ← *nirṛteḥ* ← *nirṛti*
 - \[noun\], ablative, singular, feminine
 - “destruction; Nirṛti; adversity.”
-------------------------------------------------------------------------
+
+_________
+
 - *avaṃśāt* ← *avaṃśa*
 - \[noun\], ablative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

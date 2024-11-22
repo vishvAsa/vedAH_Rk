@@ -96,72 +96,104 @@ tŕ̥tsūnām ← tŕ̥tsu- (nominal stem)
 -   *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhanābhir* ← *vadhanābhiḥ* ← *vadhanā*
 - \[noun\], instrumental, plural, feminine
 - “weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *aprati*
 - \[noun\], accusative, singular, neuter
 - “irresistible.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhedaṃ* ← *bhedam* ← *bheda*
 - \[noun\], accusative, singular, masculine
 - “type; kind; differentiation; distinction; rupture; distinction;
     discord; bheda; breakage; dualism; Bheda; diarrhea; betrayal;
     change; change; difference; pain; opening.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanvantā* ← *van*
 - \[verb noun\], nominative, dual
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudāsam* ← *sudās*
 - \[noun\], accusative, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvatam* ← *av*
 - \[verb\], dual, Imperfect
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmāṇy* ← *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇutaṃ* ← *śṛṇutam* ← *śru*
 - \[verb\], dual, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *havīmani* ← *havīman*
 - \[noun\], locative, singular, masculine
 - “call; invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyā* ← *satya*
 - \[noun\], nominative, singular, feminine
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛtsūnām* ← *tṛtsu*
 - \[noun\], genitive, plural, masculine
 - “Tṛtsu.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *purohitiḥ* ← *purohiti*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

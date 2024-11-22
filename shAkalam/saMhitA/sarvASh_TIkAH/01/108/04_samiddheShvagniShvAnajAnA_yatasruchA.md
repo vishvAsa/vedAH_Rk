@@ -93,77 +93,111 @@ yātam ← √yā- 1 (root)
 -   *samiddheṣv* ← *samiddheṣu* ← *samindh* ← *√indh*
 - \[verb noun\], locative, plural
 - “kindle; blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṣv* ← *agniṣu* ← *agni*
 - \[noun\], locative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānajānā* ← *añj*
 - \[verb noun\], nominative, dual
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatasrucā* ← *yata* ← *yam*
 - \[verb noun\]
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatasrucā* ← *srucā* ← *sruc*
 - \[noun\], nominative, dual, masculine
 - “Sruc.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *tistirāṇā* ← *stṛ*
 - \[verb noun\], nominative, dual
 - “spread; kill; lay; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *tīvraiḥ* ← *tīvra*
 - \[noun\], instrumental, plural, masculine
 - “intense; severe; pungent; acute; potent; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣiktebhir* ← *pariṣiktebhiḥ* ← *pariṣic* ← *√sic*
 - \[verb noun\], instrumental, plural
 - “sprinkle; effuse; rub.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvāg* ← *arvāk*
 - \[adverb\]
 - “here.”
-------------------------------------------------------------------------
+
+_________
+
 - *endrāgnī* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *endrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *endrāgnī* ← *agnī* ← *agni*
 - \[noun\], vocative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *saumanasāya* ← *saumanasa*
 - \[noun\], dative, singular, neuter
 - “favor; satisfaction.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

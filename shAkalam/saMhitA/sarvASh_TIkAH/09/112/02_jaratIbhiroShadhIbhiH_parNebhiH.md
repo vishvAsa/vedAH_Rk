@@ -89,60 +89,86 @@ srava ← √sru- (root)
 -   *jaratībhir* ← *jaratībhiḥ* ← *jṛ*
 - \[verb noun\], instrumental, plural
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhībhiḥ* ← *oṣadhī*
 - \[noun\], instrumental, plural, feminine
 - “herb; plant; drug; herb.”
-------------------------------------------------------------------------
+
+_________
+
 - *parṇebhiḥ* ← *parṇa*
 - \[noun\], instrumental, plural, neuter
 - “leaf; feather; parṇa \[word\]; leaf; wing.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakunānām* ← *śakuna*
 - \[noun\], genitive, plural, masculine
 - “bird; large bird.”
-------------------------------------------------------------------------
+
+_________
+
 - *kārmāro* ← *kārmāraḥ* ← *kārmāra*
 - \[noun\], nominative, singular, masculine
 - “smith.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśmabhir* ← *aśmabhiḥ* ← *aśman*
 - \[noun\], instrumental, plural, masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyubhir* ← *dyubhiḥ* ← *div*
 - \[noun\], instrumental, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyavantam* ← *hiraṇyavat*
 - \[noun\], accusative, singular, masculine
 - “possessing gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchatīndrāyendo* ← *icchati* ← *iṣ*
 - \[verb\], singular, Present indikative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchatīndrāyendo* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchatīndrāyendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

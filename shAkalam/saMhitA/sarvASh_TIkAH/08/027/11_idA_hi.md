@@ -92,69 +92,101 @@ iva ← iva (invariable)
 
 -   *idā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *upastutim* ← *upastuti*
 - \[noun\], accusative, singular, feminine
 - “praise; applause.”
-------------------------------------------------------------------------
+
+_________
+
 - *idā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vāmasya* ← *vāma*
 - \[noun\], genitive, singular, neuter
 - “agreeable; vāma \[word\]; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhaktaye* ← *bhakti*
 - \[noun\], dative, singular, feminine
 - “Bhakti; devotion; bhakti \[word\]; friendliness; attachment;
     devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedaso* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedaso* ← *vedasaḥ* ← *vedas*
 - \[noun\], vocative, plural, masculine
 - “knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasyur* ← *namasyuḥ* ← *namasyu*
 - \[noun\], nominative, singular, masculine
 - “bowed.”
-------------------------------------------------------------------------
+
+_________
+
 - *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *asṛkṣy* ← *asṛkṣi* ← *sṛj*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyām* ← *anya*
 - \[noun\], accusative, singular, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

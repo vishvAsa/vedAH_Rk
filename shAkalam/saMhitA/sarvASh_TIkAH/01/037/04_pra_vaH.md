@@ -73,43 +73,63 @@ gāyata ← √gā(y)- (root)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛṣvaye* ← *ghṛṣvi*
 - \[noun\], dative, singular, masculine
 - “anticipated; electrifying.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣadyumnāya* ← *tveṣa*
 - \[noun\]
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣadyumnāya* ← *dyumnāya* ← *dyumna*
 - \[noun\], dative, singular, masculine
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmiṇe* ← *śuṣmin*
 - \[noun\], dative, singular, masculine
 - “strong; hotheaded.”
-------------------------------------------------------------------------
+
+_________
+
 - *devattam* ← *devatta*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

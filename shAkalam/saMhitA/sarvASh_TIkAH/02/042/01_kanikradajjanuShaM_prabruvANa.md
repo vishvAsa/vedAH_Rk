@@ -105,83 +105,121 @@ víśvyā ← víśvya- (nominal stem)
 -   *kanikradaj* ← *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
-------------------------------------------------------------------------
+
+_________
+
 - *januṣam* ← *janus*
 - \[noun\], accusative, singular, masculine
 - “birth.”
-------------------------------------------------------------------------
+
+_________
+
 - *prabruvāṇa* ← *prabruvāṇaḥ* ← *prabrū* ← *√brū*
 - \[verb noun\], nominative, singular
 - “state; name; disclose.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariteva* ← *aritā* ← *aritṛ*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ariteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāvam* ← *nau*
 - \[noun\], accusative, singular, feminine
 - “ship; boat; nau \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sumaṅgalaś* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumaṅgalaś* ← *maṅgalaḥ* ← *maṅgala*
 - \[noun\], nominative, singular, masculine
 - “auspicious.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakune* ← *śakuni*
 - \[noun\], vocative, singular, masculine
 - “Śakuni; bird; large bird; Śakuni.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavāsi* ← *bhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kācid* ← *kaścit*
 - \[noun\], nominative, singular, feminine
 - “any(a); some(a); some(a); some(a); some(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *abhibhā*
 - \[noun\], nominative, singular, feminine
 - “omen.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

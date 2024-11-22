@@ -109,82 +109,118 @@ náyata ← √nī- (root)
 - \[noun\], nominative, plural, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyām* ← *jāyā*
 - \[noun\], accusative, singular, feminine
 - “wife; jāyā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛśanty* ← *mṛśanti* ← *mṛś*
 - \[verb\], plural, Present indikative
 - “touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasyāgṛdhad* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasyāgṛdhad* ← *agṛdhat* ← *gṛdh*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “desire; covet.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedane* ← *vedana*
 - \[noun\], locative, singular, neuter
 - “property; marriage; obtainment.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājy* ← *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣaḥ* ← *akṣa*
 - \[noun\], nominative, singular, masculine
 - “belleric myrobalan; dice; gambling; karṣa; akṣa; akṣa \[word\];
     berry.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrātara* ← *bhrātaraḥ* ← *bhrātṛ*
 - \[noun\], nominative, plural, masculine
 - “brother; bhrātṛ; relative.”
-------------------------------------------------------------------------
+
+_________
+
 - *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *āhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jānīmo* ← *jānīmaḥ* ← *jñā*
 - \[verb\], plural, Present indikative
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
-------------------------------------------------------------------------
+
+_________
+
 - *nayatā* ← *nayata* ← *nī*
 - \[verb\], plural, Present imperative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *baddham* ← *bandh*
 - \[verb noun\], accusative, singular
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
@@ -192,11 +228,15 @@ náyata ← √nī- (root)
     restrain; bind; gesticulate; wear; bar; bandh; connect; stud; mix;
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
-------------------------------------------------------------------------
+
+_________
+
 - *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

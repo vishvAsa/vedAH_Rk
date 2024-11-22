@@ -93,33 +93,47 @@ pinvanti ← √pinv- (root)
 -   *īśānakṛto* ← *īśāna*
 - \[noun\], masculine
 - “Shiva; Īśāna; ruler; Vishnu; īśvara; overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *īśānakṛto* ← *kṛtaḥ* ← *kṛt*
 - \[noun\], nominative, plural, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhunayo* ← *dhunayaḥ* ← *dhuni*
 - \[noun\], nominative, plural, masculine
 - “deafening; boisterous; noisy.”
-------------------------------------------------------------------------
+
+_________
+
 - *riśādaso* ← *riśādasaḥ* ← *riśādas*
 - \[noun\], nominative, plural, masculine
 - “superior; superior; proud.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātān* ← *vāta*
 - \[noun\], accusative, plural, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyutas* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], accusative, plural, feminine
 - “lightning; Vidyut; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣībhir* ← *taviṣībhiḥ* ← *taviṣī*
 - \[noun\], instrumental, plural, feminine
 - “strength; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *akrata* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -130,42 +144,60 @@ pinvanti ← √pinv- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhanty* ← *duhanti* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūdhar* ← *ūdhas*
 - \[noun\], accusative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *divyāni* ← *divya*
 - \[noun\], accusative, plural, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūtayo* ← *dhūtayaḥ* ← *dhūti*
 - \[noun\], nominative, plural, masculine
 - “Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmim* ← *bhūmi*
 - \[noun\], accusative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
-------------------------------------------------------------------------
+
+_________
+
 - *pinvanti* ← *pinv*
 - \[verb\], plural, Present indikative
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *parijrayaḥ* ← *parijri*
 - \[noun\], nominative, plural, masculine
 - “whirling.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

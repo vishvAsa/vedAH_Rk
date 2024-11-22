@@ -90,67 +90,99 @@ pāyúbhiḥ ← pāyú- (nominal stem)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *martāya* ← *marta*
 - \[noun\], dative, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *ripave* ← *ripu*
 - \[noun\], dative, singular, masculine
 - “punic; deceitful; unfriendly.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣasvine* ← *rakṣasvin*
 - \[noun\], dative, singular, masculine
 - “malevolent; demoniac; obsessed.”
-------------------------------------------------------------------------
+
+_________
+
 - *māghaśaṃsāya* ← *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *māghaśaṃsāya* ← *agha*
 - \[noun\]
 - “bad; dangerous; ill; iniquitous; bad.”
-------------------------------------------------------------------------
+
+_________
+
 - *māghaśaṃsāya* ← *śaṃsāya* ← *śaṃsa*
 - \[noun\], dative, singular, masculine
 - “speaking.”
-------------------------------------------------------------------------
+
+_________
+
 - *rīradhaḥ* ← *radh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “subjugate.”
-------------------------------------------------------------------------
+
+_________
+
 - *asredhadbhis* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *asredhadbhis* ← *sredhadbhiḥ* ← *sridh*
 - \[verb noun\], instrumental, plural
-------------------------------------------------------------------------
+
+_________
+
 - *taraṇibhir* ← *taraṇibhiḥ* ← *taraṇi*
 - \[noun\], instrumental, plural, masculine
 - “energetic; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaviṣṭhya*
 - \[noun\], vocative, singular, masculine
 - “youngest.”
-------------------------------------------------------------------------
+
+_________
+
 - *śivebhiḥ* ← *śiva*
 - \[noun\], instrumental, plural, masculine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāyubhiḥ* ← *pāyu*
 - \[noun\], instrumental, plural, masculine
 - “guard; pāyu \[word\]; Pāyu.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

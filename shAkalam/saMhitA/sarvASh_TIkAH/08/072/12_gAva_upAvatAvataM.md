@@ -77,38 +77,56 @@ ubhā́ ← ubhá- (pronoun)
 - \[noun\], vocative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *upāvatāvatam* ← *upāvata* ← *upāv* ← *√av*
 - \[verb\], plural, Present imperative
 - “help.”
-------------------------------------------------------------------------
+
+_________
+
 - *upāvatāvatam* ← *avatam* ← *avata*
 - \[noun\], accusative, singular, masculine
 - “well.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *rapsudā*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *karṇā* ← *karṇa*
 - \[noun\], nominative, dual, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayā* ← *hiraṇyaya*
 - \[noun\], nominative, dual, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

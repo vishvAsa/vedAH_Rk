@@ -118,25 +118,35 @@ sr̥ṇyàḥ ← sr̥ṇī́- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīrā* ← *sīra*
 - \[noun\], accusative, plural, neuter
 - “sīra \[word\]; plow.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yugā* ← *yuga*
 - \[noun\], accusative, plural, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanudhvaṃ* ← *tanudhvam* ← *tan*
 - \[verb\], plural, Present imperative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛte* ← *kṛ*
 - \[verb noun\], locative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -147,72 +157,104 @@ sr̥ṇyàḥ ← sr̥ṇī́- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yonau* ← *yoni*
 - \[noun\], locative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapateha* ← *vapata* ← *vap*
 - \[verb\], plural, Present imperative
 - “sow; bestrew; strew; scatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapateha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *bījam* ← *bīja*
 - \[noun\], accusative, singular, neuter
 - “bīja; seed; semen; bīja; beginning; menorrhea; bīja \[word\];
     footing; cause; origin; method; bead.”
-------------------------------------------------------------------------
+
+_________
+
 - *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *śruṣṭiḥ* ← *śruṣṭi*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sabharā* ← *sabharāḥ* ← *sabharas*
 - \[noun\], nominative, singular, feminine
 - “commensurate.”
-------------------------------------------------------------------------
+
+_________
+
 - *asan* ← *asat* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nedīya* ← *nedīyaḥ* ← *nedīyas*
 - \[noun\], nominative, singular, neuter
 - “nearer; nedīyas \[word\]; near.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛṇyaḥ* ← *sṛṇi*
 - \[noun\], accusative, plural, feminine
 - “sickle.”
-------------------------------------------------------------------------
+
+_________
+
 - *pakvam* ← *pakva*
 - \[noun\], nominative, singular, neuter
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
-------------------------------------------------------------------------
+
+_________
+
 - *eyāt* ← *e* ← *√i*
 - \[verb\], singular, Present optative
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,68 +99,100 @@ pathyā̀ḥ ← pathyā̀- (nominal stem)
 -   *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvo* ← *āvaḥ* ← *vas*
 - \[verb\], singular, Root aorist (Ind.)
 - “dawn; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *divijā* ← *divijāḥ* ← *divijā*
 - \[noun\], nominative, singular, feminine
 - “celestial.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtenāviṣkṛṇvānā* ← *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtenāviṣkṛṇvānā* ← *āviṣkṛṇvānā* ← *āviṣkṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
 - “show; uncover.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahimānam* ← *mahiman*
 - \[noun\], accusative, singular, masculine
 - “greatness; power; mahiman.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgāt* ← *āgā* ← *√gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “come; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *druhas* ← *druhaḥ* ← *druh*
 - \[noun\], accusative, plural, feminine
 - “deception; druh; misrepresentation; fraudulence; offense; injury.”
-------------------------------------------------------------------------
+
+_________
+
 - *tama* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvar* ← *āvaḥ* ← *vṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajuṣṭam* ← *ajuṣṭa*
 - \[noun\], accusative, singular, neuter
 - “unpleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgirastamā* ← *aṅgirastama*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *pathyā* ← *pathyāḥ* ← *pathyā*
 - \[noun\], accusative, plural, feminine
 - “Terminalia chebula Retz.; path; Pathyā; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajīgaḥ* ← *jāgṛ*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “wake; watch; awaken; wake up; oversee.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

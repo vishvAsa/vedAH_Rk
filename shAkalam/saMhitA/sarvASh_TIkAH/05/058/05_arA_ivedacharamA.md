@@ -104,90 +104,132 @@ sváyā ← svá- (pronoun)
 
 -   *arā* ← *arāḥ* ← *ara*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ived* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ived* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *acaramā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *acaramā* ← *caramāḥ* ← *carama*
 - \[noun\], nominative, plural, masculine
 - “last; ultimate.”
-------------------------------------------------------------------------
+
+_________
+
 - *aheva* ← *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *aheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyante* ← *jan*
 - \[verb\], plural, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *akavā* ← *akavāḥ* ← *akava*
 - \[noun\], nominative, plural, masculine
 - “perfect.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahobhiḥ* ← *mahas*
 - \[noun\], instrumental, plural, neuter
 - “greatness; festival; glory; reward; gladness.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśneḥ* ← *pṛśni*
 - \[noun\], genitive, singular, feminine
 - “Pṛśni; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *putrā* ← *putrāḥ* ← *putra*
 - \[noun\], nominative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *upamāso* ← *upamāsaḥ* ← *upama*
 - \[noun\], nominative, plural, masculine
 - “best; topmost.”
-------------------------------------------------------------------------
+
+_________
+
 - *rabhiṣṭhāḥ* ← *rabhiṣṭha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *svayā* ← *sva*
 - \[noun\], instrumental, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *matyā* ← *mati*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimikṣuḥ* ← *myakṣ*
 - \[verb\], plural, Perfect indicative
 - “be situated; attach.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

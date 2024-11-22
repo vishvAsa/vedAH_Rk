@@ -93,80 +93,118 @@ vipra ← vípra- (nominal stem)
 -   *tveṣaṃ* ← *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇaṃ* ← *gaṇam* ← *gaṇa*
 - \[noun\], accusative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavasaṃ* ← *tavasam* ← *tavas*
 - \[noun\], accusative, singular, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *khādihastaṃ* ← *khādi*
 - \[noun\], masculine
 - “ring.”
-------------------------------------------------------------------------
+
+_________
+
 - *khādihastaṃ* ← *hastam* ← *hasta*
 - \[noun\], accusative, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhunivratam* ← *dhuni*
 - \[noun\]
 - “deafening; boisterous; noisy.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhunivratam* ← *vratam* ← *vrata*
 - \[noun\], accusative, singular, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyinaṃ* ← *māyinam* ← *māyin*
 - \[noun\], accusative, singular, masculine
 - “artful; charming; crafty; deceptive.”
-------------------------------------------------------------------------
+
+_________
+
 - *dātivāram* ← *dāti*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *dātivāram* ← *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “treasure; choice.”
-------------------------------------------------------------------------
+
+_________
+
 - *mayobhuvo* ← *mayobhuvaḥ* ← *mayobhu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *amitā* ← *amitāḥ* ← *amita*
 - \[noun\], nominative, plural, masculine
 - “infinite; illimitable; countless.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandasva* ← *vand*
 - \[verb\], singular, Present imperative
 - “worship; laud.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipra*
 - \[noun\], vocative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvirādhaso* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvirādhaso* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], accusative, plural, masculine
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

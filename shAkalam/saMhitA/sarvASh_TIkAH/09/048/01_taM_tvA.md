@@ -78,48 +78,70 @@ sukr̥tyáyā ← sukr̥tyā́- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmṇāni* ← *nṛmṇa*
 - \[noun\], accusative, plural, neuter
 - “manhood; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibhrataṃ* ← *bibhratam* ← *bhṛ*
 - \[verb noun\], accusative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhastheṣu* ← *sadhastha*
 - \[noun\], locative, plural, neuter
 - “dwelling; location; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāruṃ* ← *cārum* ← *cāru*
 - \[noun\], accusative, singular, masculine
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtyayemahe* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtyayemahe* ← *kṛtyayā* ← *kṛtyā*
 - \[noun\], instrumental, singular, feminine
 - “magic; spirit; kṛtyā; Kṛtyā; witchcraft; act.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtyayemahe* ← *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

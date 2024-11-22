@@ -100,86 +100,122 @@ putrakāma ← putrakāma- (nominal stem)
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *cekitānaṃ* ← *cekitānam* ← *cekit* ← *√cit*
 - \[verb noun\], accusative, singular
 - “chew over.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapaso* ← *tapasaḥ* ← *tapas*
 - \[noun\], ablative, singular, neuter
 - “penance; heat; Tapoloka; tapas \[word\]; ardor; austerity; summer;
     heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātaṃ* ← *jātam* ← *jan*
 - \[verb noun\], accusative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapaso* ← *tapasaḥ* ← *tapas*
 - \[noun\], ablative, singular, neuter
 - “penance; heat; Tapoloka; tapas \[word\]; ardor; austerity; summer;
     heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhūtam* ← *vibhū* ← *√bhū*
 - \[verb noun\], accusative, singular
 - “appear; expand; develop.”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajām* ← *prajā*
 - \[noun\], accusative, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, feminine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *rarāṇaḥ* ← *rā*
 - \[verb noun\], nominative, singular
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyasva* ← *jan*
 - \[verb\], singular, Present imperative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajayā* ← *prajā*
 - \[noun\], instrumental, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *putrakāma* ← *putra*
 - \[noun\], masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *putrakāma* ← *kāma*
 - \[noun\], vocative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

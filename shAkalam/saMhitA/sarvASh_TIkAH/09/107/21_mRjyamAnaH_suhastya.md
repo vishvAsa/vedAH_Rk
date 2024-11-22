@@ -84,58 +84,84 @@ pávamāna ← √pū- (root)
 -   *mṛjyamānaḥ* ← *mṛj*
 - \[verb noun\], nominative, singular
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhastya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhastya* ← *hastya*
 - \[noun\], vocative, singular, masculine
 - “hand(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *invasi* ← *inv*
 - \[verb\], singular, Present indikative
 - “bring; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *piśaṅgam* ← *piśaṅga*
 - \[noun\], accusative, singular, masculine
 - “tawny; red; brown.”
-------------------------------------------------------------------------
+
+_________
+
 - *bahulam* ← *bahula*
 - \[noun\], accusative, singular, masculine
 - “frequent; endowed; much(a); many; abounding in(p); abundant; bahula
     \[word\]; accompanied; prevailing.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruspṛham* ← *puruspṛh*
 - \[noun\], accusative, singular, masculine
 - “coveted; desirous.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānābhy* ← *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānābhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṣasi* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,44 +73,64 @@ viśvácakṣase ← viśvácakṣas- (nominal stem)
 -   *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāyavo* ← *tāyavaḥ* ← *tāyu*
 - \[noun\], nominative, plural, masculine
 - “thief.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣatrā* ← *nakṣatra*
 - \[noun\], nominative, plural, neuter
 - “Nakṣatra; celestial body; nakṣatra \[word\]; pearl.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanty* ← *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *aktubhiḥ* ← *aktu*
 - \[noun\], instrumental, plural, masculine
 - “night; dark; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrāya* ← *sūra*
 - \[noun\], dative, singular, masculine
 - “sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvacakṣase* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvacakṣase* ← *cakṣase* ← *cakṣas*
 - \[noun\], dative, singular, masculine
 - “eye; look; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

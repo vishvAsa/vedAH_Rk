@@ -93,95 +93,137 @@ rákṣaḥ ← rákṣas- (nominal stem)
 -   *ulūkayātuṃ* ← *ulūka*
 - \[noun\], masculine
 - “owl; Ulūka.”
-------------------------------------------------------------------------
+
+_________
+
 - *ulūkayātuṃ* ← *yātum* ← *yātu*
 - \[noun\], accusative, singular, masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuśulūkayātuṃ* ← *śuśulūka*
 - \[noun\], masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śuśulūkayātuṃ* ← *yātum* ← *yātu*
 - \[noun\], accusative, singular, masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
-------------------------------------------------------------------------
+
+_________
+
 - *jahi* ← *han*
 - \[verb\], singular, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvayātum* ← *śva* ← *śvan*
 - \[noun\], masculine
 - “dog; śvan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śvayātum* ← *yātum* ← *yātu*
 - \[noun\], accusative, singular, masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *kokayātum* ← *koka*
 - \[noun\], masculine
 - “wolf; cuckoo.”
-------------------------------------------------------------------------
+
+_________
+
 - *kokayātum* ← *yātum* ← *yātu*
 - \[noun\], accusative, singular, masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
-------------------------------------------------------------------------
+
+_________
+
 - *suparṇayātum* ← *suparṇa*
 - \[noun\], masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
-------------------------------------------------------------------------
+
+_________
+
 - *suparṇayātum* ← *yātum* ← *yātu*
 - \[noun\], accusative, singular, masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛdhrayātuṃ* ← *gṛdhra*
 - \[noun\], masculine
 - “vulture.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛdhrayātuṃ* ← *yātum* ← *yātu*
 - \[noun\], accusative, singular, masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛṣadeva* ← *dṛṣadā* ← *dṛṣad*
 - \[noun\], instrumental, singular, feminine
 - “millstone; rock; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛṣadeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛṇa* ← *mṛṇ*
 - \[verb\], singular, Present imperative
 - “kill; crush.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣa* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

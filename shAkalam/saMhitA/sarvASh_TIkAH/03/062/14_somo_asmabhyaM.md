@@ -73,36 +73,52 @@ karat ← √kr̥- (root)
 -   *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvipade* ← *dvipad*
 - \[noun\], dative, singular, masculine
 - “biped.”
-------------------------------------------------------------------------
+
+_________
+
 - *catuṣpade* ← *catuṣpada*
 - \[noun\], dative, singular, masculine
 - “quadrupedal.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśave* ← *paśu*
 - \[noun\], dative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *anamīvā* ← *anamīvāḥ* ← *anamīva*
 - \[noun\], accusative, plural, feminine
 - “healthy; comfortable; beneficial.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣas* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *karat* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -113,7 +129,9 @@ karat ← √kr̥- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

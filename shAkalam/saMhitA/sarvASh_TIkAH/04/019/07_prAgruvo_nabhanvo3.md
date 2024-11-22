@@ -99,76 +99,114 @@ staryàḥ ← starī́- (nominal stem)
 -   *prāgruvo* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāgruvo* ← *agruvaḥ* ← *agru*
 - \[noun\], accusative, plural, feminine
 - “unmarried.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhanvo* ← *nabhanvaḥ* ← *nabhanu*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vakvā* ← *vakvāḥ* ← *vakva*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *dhvasrā* ← *dhvasrāḥ* ← *dhvasra*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *apinvad* ← *apinvat* ← *pinv*
 - \[verb\], singular, Imperfect
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvatīr* ← *yuvatīḥ* ← *yuvatī*
 - \[noun\], accusative, plural, feminine
 - “girl.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtajñāḥ* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtajñāḥ* ← *jñāḥ* ← *jña*
 - \[noun\], accusative, plural, feminine
 - “conversant(p); aware(p); wise.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvāny* ← *dhanvāni* ← *dhanvan*
 - \[noun\], accusative, plural, neuter
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajrāṃ* ← *ajra*
 - \[noun\], accusative, plural, masculine
 - “plain.”
-------------------------------------------------------------------------
+
+_________
+
 - *apṛṇak* ← *pṛc*
 - \[verb\], singular, Imperfect
 - “mix; unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛṣāṇāṃ* ← *tṛṣ*
 - \[verb noun\], accusative, plural
 - “thirst.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhog* ← *adhok* ← *duh*
 - \[verb\], singular, Imperfect
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *staryo* ← *staryaḥ* ← *starī*
 - \[noun\], accusative, plural, feminine
 - “barren cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *daṃsupatnīḥ* ← *daṃsu*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *daṃsupatnīḥ* ← *patnīḥ* ← *patnī*
 - \[noun\], accusative, plural, feminine
 - “wife; mistress; queen.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

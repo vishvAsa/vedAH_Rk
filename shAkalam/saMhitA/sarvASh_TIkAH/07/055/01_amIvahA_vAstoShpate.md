@@ -76,53 +76,75 @@ suśévaḥ ← suśéva- (nominal stem)
 -   *amīvahā* ← *amīva*
 - \[noun\], neuter
 - “disease.”
-------------------------------------------------------------------------
+
+_________
+
 - *amīvahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāstoṣpate* ← *vāstoṣpati*
 - \[noun\], vocative, singular, masculine
 - “Vāstoṣpati; Indra; vāstoṣpati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *rūpāṇy* ← *rūpāṇi* ← *rūpa*
 - \[noun\], accusative, plural, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *āviśan* ← *āviś* ← *√viś*
 - \[verb noun\], nominative, singular
 - “enter; overwhelm; possess; approach; afflict; enter (a state);
     reach; wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suśeva* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśeva* ← *śevaḥ* ← *śeva*
 - \[noun\], nominative, singular, masculine
 - “friendly; favorable; dear.”
-------------------------------------------------------------------------
+
+_________
+
 - *edhi* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

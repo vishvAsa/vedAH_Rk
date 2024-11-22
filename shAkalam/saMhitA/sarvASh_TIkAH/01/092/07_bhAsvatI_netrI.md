@@ -93,73 +93,107 @@ vā́jān ← vā́ja- (nominal stem)
 -   *bhāsvatī* ← *bhāsvat*
 - \[noun\], nominative, singular, feminine
 - “shining; glorious; glistening; aglow(p); beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *netrī* ← *netṛ*
 - \[noun\], nominative, singular, feminine
 - “leader.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛtānāṃ* ← *sūnṛtānām* ← *sūnṛtā*
 - \[noun\], genitive, plural, feminine
 - “liberality.”
-------------------------------------------------------------------------
+
+_________
+
 - *diva* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *stave* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gotamebhiḥ* ← *gotama*
 - \[noun\], instrumental, plural, masculine
 - “Gotama; gotama \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prajāvato* ← *prajāvataḥ* ← *prajāvat*
 - \[noun\], accusative, plural, masculine
 - “prolific.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛvato* ← *nṛvataḥ* ← *nṛvat*
 - \[noun\], accusative, plural, masculine
 - “rich in men.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvabudhyān* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvabudhyān* ← *budhyān* ← *budhya*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *goagrāṃ* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *goagrāṃ* ← *agrāṃ* ← *agra*
 - \[noun\], accusative, plural, masculine
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *māsi* ← *mā*
 - \[verb\], singular, Present indikative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājān* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

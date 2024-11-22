@@ -89,61 +89,87 @@ dhíyaḥ ← dhī́- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyo* ← *pūrvyaḥ* ← *pūrvya*
 - \[noun\], nominative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *mahānāṃ* ← *mahānām* ← *maha*
 - \[noun\], genitive, plural, masculine
 - “great; abundant.”
-------------------------------------------------------------------------
+
+_________
+
 - *venaḥ* ← *vena*
 - \[noun\], nominative, singular, masculine
 - “Vena.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratubhir* ← *kratubhiḥ* ← *kratu*
 - \[noun\], instrumental, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaje* ← *añj*
 - \[verb\], singular, Perfect indicative
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dvārā* ← *dvāra*
 - \[noun\], accusative, plural, neuter
 - “aperture; gate; door; mouth; vagina; orifice; dvāra \[word\]; pass;
     opening; means; entrance.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣ* ← *manuḥ* ← *manu*
 - \[noun\], nominative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiya* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaje* ← *añj*
 - \[verb\], singular, Perfect indicative
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

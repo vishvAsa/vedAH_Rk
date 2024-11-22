@@ -75,46 +75,68 @@ tanvàm ← tanū́- (nominal stem)
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣṭāpadīm* ← *aṣṭāpada*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *navasraktim* ← *nava* ← *navan*
 - \[noun\]
 - “nine.”
-------------------------------------------------------------------------
+
+_________
+
 - *navasraktim* ← *sraktim* ← *srakti*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtaspṛśam* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtaspṛśam* ← *spṛśam* ← *spṛś*
 - \[noun\], accusative, singular, feminine
 - “touching.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāt* ← *indra*
 - \[noun\], ablative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvam* ← *tanu*
 - \[noun\], accusative, singular, feminine
 - “thin; slender; thin; small; few; arid; fine; delicate; clear.”
-------------------------------------------------------------------------
+
+_________
+
 - *mame* ← *mā*
 - \[verb\], singular, Perfect indicative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

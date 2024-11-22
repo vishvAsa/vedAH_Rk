@@ -90,72 +90,104 @@ vasati ← √vas- 3 (root)
 -   *uttānāyām* ← *uttāna*
 - \[noun\], locative, singular, feminine
 - “supine; upward; upright; skin-deep; raised; shallow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajanayan* ← *janay* ← *√jan*
 - \[verb\], plural, Imperfect
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣūtam* ← *suṣūta*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvad* ← *bhuvat* ← *bhū*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *purupeśāsu* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purupeśāsu* ← *peśāsu* ← *peśa*
 - \[noun\], locative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *garbhaḥ* ← *garbha*
 - \[noun\], nominative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiriṇāyāṃ* ← *śiriṇāyām* ← *śiriṇā*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *aktunā* ← *aktu*
 - \[noun\], instrumental, singular, masculine
 - “night; dark; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahobhir* ← *mahobhiḥ* ← *mahas*
 - \[noun\], instrumental, plural, neuter
 - “greatness; festival; glory; reward; gladness.”
-------------------------------------------------------------------------
+
+_________
+
 - *aparīvṛto* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *aparīvṛto* ← *parīvṛtaḥ* ← *parīvṛ* ← *√vṛ*
 - \[verb noun\], nominative, singular
 - “enclose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasati* ← *vas*
 - \[verb\], singular, Present indikative
 - “stay; dwell; get stale; be situated; exist; continue; bide.”
-------------------------------------------------------------------------
+
+_________
+
 - *pracetāḥ* ← *pracetas*
 - \[noun\], nominative, singular, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

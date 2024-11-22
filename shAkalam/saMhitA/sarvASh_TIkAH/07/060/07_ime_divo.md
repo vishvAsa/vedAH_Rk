@@ -99,72 +99,106 @@ viṣpitásya ← viṣpitá- (nominal stem)
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *animiṣā* ← *animiṣāḥ* ← *animiṣa*
 - \[noun\], nominative, plural, masculine
 - “agaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyāś* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikitvāṃso* ← *cikitvāṃsaḥ* ← *cit*
 - \[verb noun\], nominative, plural
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *acetasaṃ* ← *acetasam* ← *acetas*
 - \[noun\], accusative, singular, masculine
 - “imprudent; stupid.”
-------------------------------------------------------------------------
+
+_________
+
 - *nayanti* ← *nī*
 - \[verb\], plural, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravrāje* ← *pravrāja*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], genitive, singular, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *gādham* ← *gādha*
 - \[noun\], nominative, singular, neuter
 - “ford.”
-------------------------------------------------------------------------
+
+_________
+
 - *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāraṃ* ← *pāram* ← *pāra*
 - \[noun\], accusative, singular, neuter
 - “shore; pāra \[word\]; end; excellence.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣpitasya* ← *viṣpita*
 - \[noun\], genitive, singular, neuter
 - “difficulty.”
-------------------------------------------------------------------------
+
+_________
+
 - *parṣan* ← *pṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “protect; promote; rescue; help.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

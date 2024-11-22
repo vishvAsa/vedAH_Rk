@@ -93,65 +93,97 @@ víbhvā ← víbhvan- (nominal stem)
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmāso* ← *śuṣmāsaḥ* ← *śuṣma*
 - \[noun\], nominative, plural, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadṛśānapaver* ← *dadṛśāna* ← *dṛś*
 - \[verb noun\]
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadṛśānapaver* ← *paveḥ* ← *pavi*
 - \[noun\], genitive, singular, masculine
 - “vajra; tire; rim.”
-------------------------------------------------------------------------
+
+_________
+
 - *jehamānasya* ← *jeh*
 - \[verb noun\], genitive, singular
-------------------------------------------------------------------------
+
+_________
+
 - *svanayan* ← *svanay* ← *√svan*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *niyudbhiḥ* ← *niyut*
 - \[noun\], instrumental, plural
 - “gift; team.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnebhir* ← *pratnebhiḥ* ← *pratna*
 - \[noun\], instrumental, plural, masculine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ruśadbhir* ← *ruśadbhiḥ* ← *ruśat*
 - \[noun\], instrumental, plural, masculine
 - “white; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatamo* ← *devatamaḥ* ← *devatama*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *rebhadbhir* ← *rebhadbhiḥ* ← *ribh*
 - \[verb noun\], instrumental, plural
 - “moo; murmur; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *aratir* ← *aratiḥ* ← *arati*
 - \[noun\], nominative, singular, masculine
 - “charioteer.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhvā* ← *vibhvan*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

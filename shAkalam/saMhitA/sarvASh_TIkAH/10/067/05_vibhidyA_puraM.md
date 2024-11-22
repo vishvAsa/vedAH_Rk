@@ -105,80 +105,118 @@ viveda ← √vid- 1 (root)
 -   *vibhidyā* ← *vibhid* ← *√bhid*
 - \[verb noun\]
 - “cleave; incise.”
-------------------------------------------------------------------------
+
+_________
+
 - *puraṃ* ← *puram* ← *pura*
 - \[noun\], accusative, singular, neuter
 - “town; pura \[word\]; stronghold.”
-------------------------------------------------------------------------
+
+_________
+
 - *śayathem* ← *śayathā* ← *śayatha*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śayathem* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *apācīṃ* ← *apācīm* ← *apāñc*
 - \[noun\], accusative, singular, feminine
 - “backward; apāñc \[word\]; western.”
-------------------------------------------------------------------------
+
+_________
+
 - *nis* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
-------------------------------------------------------------------------
+
+_________
+
 - *udadher* ← *udadheḥ* ← *udadhi*
 - \[noun\], ablative, singular, masculine
 - “ocean.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛntat* ← *kṛt*
 - \[verb\], singular, Imperfect
 - “cut; cut; cut off; fell; cut.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasaṃ* ← *uṣasam* ← *uṣas*
 - \[noun\], accusative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkaṃ* ← *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *viveda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *stanayann* ← *stanayan* ← *stanay* ← *√stan*
 - \[verb noun\], nominative, singular
 - “thunder; thunder.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

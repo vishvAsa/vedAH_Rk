@@ -99,82 +99,118 @@ vádhrivācaḥ ← vádhrivāc- (nominal stem)
 -   *īyur* ← *īyuḥ* ← *i*
 - \[verb\], plural, Perfect indicative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *arthaṃ* ← *artham* ← *artha*
 - \[noun\], accusative, singular, masculine
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
     topic; property; situation; reason; affair; concern; reason;
     enterprise; reason; cause; five; application; application.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nyartham* ← *nyartha*
 - \[noun\], accusative, singular, neuter
 - “failure.”
-------------------------------------------------------------------------
+
+_________
+
 - *paruṣṇīm* ← *paruṣṇī*
 - \[noun\], accusative, singular, feminine
 - “Paruṣṇī.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśuś* ← *āśuḥ* ← *āśu*
 - \[noun\], nominative, singular, masculine
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *caned* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *caned* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhipitvaṃ* ← *abhipitvam* ← *abhipitva*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *jagāma* ← *gam*
 - \[verb\], singular, Perfect indicative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudāsa* ← *sudāse* ← *sudās*
 - \[noun\], dative, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutukāṃ* ← *sutuka*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *arandhayan* ← *arandhayat* ← *randhay* ← *√radh*
 - \[verb\], singular, Imperfect
 - “subjugate; hand over.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣe* ← *mānuṣa*
 - \[noun\], locative, singular, neuter
 - “Mānuṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhrivācaḥ* ← *vadhri*
 - \[noun\]
 - “castrated.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhrivācaḥ* ← *vācaḥ* ← *vāc*
 - \[noun\], accusative, plural, masculine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

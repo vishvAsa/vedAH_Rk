@@ -87,55 +87,81 @@ yám ← yá- (pronoun)
 -   *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *atharvavad* ← *atharva* ← *atharvan*
 - \[noun\], masculine
 - “Atharvan; Atharvavedin.”
-------------------------------------------------------------------------
+
+_________
+
 - *atharvavad* ← *vat*
 - \[adverb\]
 - “equally; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *manthanti* ← *math*
 - \[verb\], plural, Present indikative
 - “churn; knead; trample; full; stir; crush.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedhasaḥ* ← *vedhas*
 - \[noun\], nominative, plural, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅkūyantam* ← *aṅkūy*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *ānayann* ← *ānayan* ← *ānī* ← *√nī*
 - \[verb\], plural, Imperfect
 - “bring; pull; take; collect; give; return; withdraw; extract.”
-------------------------------------------------------------------------
+
+_________
+
 - *amūraṃ* ← *amūram* ← *amūra*
 - \[noun\], accusative, singular, masculine
 - “wise; intelligent; apt.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyāvyābhyaḥ* ← *śyāvyā*
 - \[noun\], ablative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

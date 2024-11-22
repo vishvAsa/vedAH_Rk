@@ -103,75 +103,111 @@ vande ← √vandⁱ- (root)
 - \[verb\], singular, Present imperative
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vacaso* ← *vacasaḥ* ← *vacas*
 - \[noun\], genitive, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaviṣṭha*
 - \[noun\], vocative, singular, masculine
 - “youngest.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhiṣṭhasya* ← *maṃhiṣṭha*
 - \[noun\], genitive, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *prabhṛtasya* ← *prabhṛ* ← *√bhṛ*
 - \[verb noun\], genitive, singular
-------------------------------------------------------------------------
+
+_________
+
 - *svadhāvaḥ* ← *svadhāvas* ← *svadhāvat*
 - \[noun\], vocative, singular, masculine
 - “autonomous; independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *pīyati* ← *pī*
 - \[verb\], singular, Present indikative
 - “tease.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvo* ← *tvaḥ* ← *tva*
 - \[noun\], nominative, singular, masculine
 - “many a(a); one.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvo* ← *tvaḥ* ← *tva*
 - \[noun\], nominative, singular, masculine
 - “many a(a); one.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇāti* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandārus* ← *vandāruḥ* ← *vandāru*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *vande* ← *vand*
 - \[verb\], singular, Present indikative
 - “worship; laud.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

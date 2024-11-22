@@ -99,31 +99,45 @@ vicákṣe ← √cakṣ- (root)
 -   *āsno* ← *āsnaḥ* ← *āsan*
 - \[noun\], genitive, singular, neuter
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkasya* ← *vṛka*
 - \[noun\], genitive, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartikām* ← *vartikā*
 - \[noun\], accusative, singular, feminine
 - “wick; paintbrush.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyāmumuktam* ← *nāsatya*
 - \[noun\], vocative, singular, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyāmumuktam* ← *amumuktam* ← *muc*
 - \[verb\], dual, Plusquamperfect
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -131,39 +145,57 @@ vicákṣe ← √cakṣ- (root)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *purubhujā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purubhujā* ← *bhujā* ← *bhuj*
 - \[noun\], nominative, dual, masculine
 - “eating; consuming.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛpamāṇam* ← *kṛp*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇutaṃ* ← *akṛṇutam* ← *kṛ*
 - \[verb\], dual, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -174,10 +206,14 @@ vicákṣe ← √cakṣ- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicakṣe* ← *vicakṣ* ← *√cakṣ*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

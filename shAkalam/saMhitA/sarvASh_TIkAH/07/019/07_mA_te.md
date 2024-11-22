@@ -99,74 +99,108 @@ táva ← tvám (pronoun)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyāṃ* ← *asyām* ← *idam*
 - \[noun\], locative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasāvan* ← *sahasāvat*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣṭāv* ← *pariṣṭau* ← *pariṣṭi*
 - \[noun\], locative, singular, feminine
 - “trouble; dilemma.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghāya* ← *agha*
 - \[noun\], dative, singular, neuter
 - “sin; evil; impurity; agha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūma* ← *bhū*
 - \[verb\], plural, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *harivaḥ* ← *harivas* ← *harivat*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *parādai* ← *parādā* ← *√dā*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *trāyasva* ← *trā*
 - \[verb\], singular, Present imperative
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vṛkebhir* ← *avṛkebhiḥ* ← *avṛka*
 - \[noun\], instrumental, plural, neuter
 - “protective; safe.”
-------------------------------------------------------------------------
+
+_________
+
 - *varūthais* ← *varūthaiḥ* ← *varūtha*
 - \[noun\], instrumental, plural, neuter
 - “defense; protective covering.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyāsaḥ* ← *priya*
 - \[noun\], nominative, plural, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūriṣu* ← *sūri*
 - \[noun\], locative, plural, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

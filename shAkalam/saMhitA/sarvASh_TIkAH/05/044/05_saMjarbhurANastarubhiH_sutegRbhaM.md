@@ -89,66 +89,98 @@ várdhasva ← √vr̥dh- (root)
 
 -   *saṃjarbhurāṇas* ← *saṃjarbhurāṇaḥ* ← *saṃjarbhur* ← *√bhur*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *tarubhiḥ* ← *taru*
 - \[noun\], instrumental, plural, masculine
 - “tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutegṛbhaṃ* ← *sutegṛbham* ← *sutegṛbh*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vayākinaṃ* ← *vayākinam* ← *vayākin*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *cittagarbhāsu* ← *citta* ← *cit*
 - \[verb noun\]
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *cittagarbhāsu* ← *garbhāsu* ← *garbha*
 - \[noun\], locative, plural, feminine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *susvaruḥ* ← *susvaru*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dhāravākeṣv* ← *dhāravākeṣu* ← *dhāravāka*
 - \[noun\], locative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjugātha* ← *ṛju*
 - \[noun\]
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjugātha* ← *gātha* ← *gāthā*
 - \[noun\], vocative, singular, masculine
 - “song; gāthā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śobhase* ← *śubh*
 - \[verb\], singular, Present indikative
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhasva* ← *vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *patnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], accusative, plural, feminine
 - “wife; mistress; queen.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvo* ← *jīvaḥ* ← *jīva*
 - \[noun\], nominative, singular, masculine
 - “live; alive(p); amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

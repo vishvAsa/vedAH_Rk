@@ -93,68 +93,98 @@ vr̥ṣṭimántam ← vr̥ṣṭimánt- (nominal stem)
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāpiḥ* ← *devāpi*
 - \[noun\], nominative, singular, masculine
 - “Devāpi.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuśucāno* ← *śuśucānaḥ* ← *śuc*
 - \[verb noun\], nominative, singular
 - “mourn; grieve; flame; glow; burn; repent.”
-------------------------------------------------------------------------
+
+_________
+
 - *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārṣṭiṣeṇo* ← *ārṣṭiṣeṇaḥ* ← *ārṣṭiṣeṇa*
 - \[noun\], nominative, singular, masculine
 - “Devāpi.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣyaḥ* ← *manuṣya*
 - \[noun\], nominative, singular, masculine
 - “man; people; man; manuṣya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *samīdhe* ← *samindh* ← *√indh*
 - \[verb\], singular, Perfect indicative
 - “kindle; blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvebhir* ← *viśvebhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *devair* ← *devaiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *anumadyamānaḥ* ← *anumad* ← *√mad*
 - \[verb noun\], nominative, singular
 - “praise; cheer; applaud.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *parjanyam* ← *parjanya*
 - \[noun\], accusative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
-------------------------------------------------------------------------
+
+_________
+
 - *īrayā* ← *īraya* ← *īray* ← *√īr*
 - \[verb\], singular, Present imperative
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṭimantam* ← *vṛṣṭimat*
 - \[noun\], accusative, singular, masculine
 - “rain; raining; rainy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

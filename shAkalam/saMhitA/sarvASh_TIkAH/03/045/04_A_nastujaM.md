@@ -99,75 +99,109 @@ vásu ← vásu- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tujaṃ* ← *tujam* ← *tuj*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharāṃśaṃ* ← *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharāṃśaṃ* ← *aṃśam* ← *aṃśa*
 - \[noun\], accusative, singular, masculine
 - “part; part; share; part; volume; parcel; part; Aṃśa; aṃśa \[word\];
     fraction.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratijānate* ← *pratijñā* ← *√jñā*
 - \[verb noun\], dative, singular
 - “promise; answer; acknowledge; promise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkṣam* ← *vṛkṣa*
 - \[noun\], accusative, singular, masculine
 - “tree; fruit tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *pakvam* ← *pakva*
 - \[noun\], accusative, singular, neuter
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
-------------------------------------------------------------------------
+
+_________
+
 - *phalam* ← *phala*
 - \[noun\], accusative, singular, neuter
 - “fruit; fruit; result; consequence; consequence; benefit;
     recompense; testis; enjoyment; fetus; success; seed; nutmeg; phala
     \[word\]; phalaka; phal; scrotum; blade; reward.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅkīva* ← *aṅkī* ← *aṅkin*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aṅkīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūnuhīndra* ← *dhūnuhi* ← *dhū*
 - \[verb\], singular, Present imperative
 - “shake; remove; chase away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūnuhīndra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sampāraṇaṃ* ← *sampāraṇam* ← *sampāraṇa*
 - \[noun\], accusative, singular, neuter
 - “helpful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

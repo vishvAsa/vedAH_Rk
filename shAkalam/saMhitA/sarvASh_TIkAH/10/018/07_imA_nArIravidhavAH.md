@@ -96,87 +96,127 @@ yónim ← yóni- (nominal stem)
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *nārīr* ← *nārīḥ* ← *nārī*
 - \[noun\], nominative, plural, feminine
 - “woman; wife; female.”
-------------------------------------------------------------------------
+
+_________
+
 - *avidhavāḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *avidhavāḥ* ← *vidhavāḥ* ← *vidhavā*
 - \[noun\], nominative, plural, feminine
 - “widow.”
-------------------------------------------------------------------------
+
+_________
+
 - *supatnīr* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supatnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], nominative, plural, feminine
 - “wife; mistress; queen.”
-------------------------------------------------------------------------
+
+_________
+
 - *āñjanena* ← *āñjana*
 - \[noun\], instrumental, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *sarpiṣā* ← *sarpis*
 - \[noun\], instrumental, singular, neuter
 - “ghee; clarified butter; sarpiḥprameha.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśantu* ← *viś*
 - \[verb\], plural, Present imperative
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *anaśravo* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *anaśravo* ← *aśravaḥ* ← *aśru*
 - \[noun\], nominative, plural, feminine
 - “tear.”
-------------------------------------------------------------------------
+
+_________
+
 - *'namīvāḥ* ← *anamīvāḥ* ← *anamīva*
 - \[noun\], nominative, plural, feminine
 - “healthy; comfortable; beneficial.”
-------------------------------------------------------------------------
+
+_________
+
 - *suratnā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suratnā* ← *ratnāḥ* ← *ratna*
 - \[noun\], nominative, plural, feminine
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rohantu* ← *ruh*
 - \[verb\], plural, Present imperative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *janayo* ← *janayaḥ* ← *jani*
 - \[noun\], nominative, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
-------------------------------------------------------------------------
+
+_________
+
 - *yonim* ← *yoni*
 - \[noun\], accusative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

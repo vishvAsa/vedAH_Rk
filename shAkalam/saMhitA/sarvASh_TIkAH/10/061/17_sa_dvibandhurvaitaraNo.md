@@ -98,69 +98,103 @@ várūthaiḥ ← várūtha- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvibandhur* ← *dvi*
 - \[noun\]
 - “two; dvi \[word\]; second.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvibandhur* ← *bandhuḥ* ← *bandhu*
 - \[noun\], nominative, singular, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaitaraṇo* ← *vaitaraṇaḥ* ← *vaitaraṇa*
 - \[noun\], nominative, singular, masculine
 - “Vaitaraṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṣṭā* ← *yaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “sacrificing.”
-------------------------------------------------------------------------
+
+_________
+
 - *sabardhuṃ* ← *sabardhum* ← *sabardhu*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *asvaṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *duhadhyai* ← *duh*
 - \[verb noun\]
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], accusative, dual, masculine
 - “Varuna; Mitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛñja* ← *vṛñje* ← *vṛj*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *ukthair* ← *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyeṣṭhebhir* ← *jyeṣṭhebhiḥ* ← *jyeṣṭha*
 - \[noun\], instrumental, plural, neuter
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aryamaṇaṃ* ← *aryamaṇam* ← *aryaman*
 - \[noun\], accusative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *varūthaiḥ* ← *varūtha*
 - \[noun\], instrumental, plural, neuter
 - “defense; protective covering.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

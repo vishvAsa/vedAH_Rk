@@ -67,34 +67,50 @@ dyumnám ← dyumná- (nominal stem)
 -   *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīdhṛto* ← *carṣaṇī*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīdhṛto* ← *dhṛtaḥ* ← *dhṛt*
 - \[noun\], genitive, singular, masculine
 - “maintaining.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vo* ← *avaḥ* ← *avas*
 - \[noun\], nominative, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *sānasi*
 - \[noun\], nominative, singular, neuter
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnaṃ* ← *dyumnam* ← *dyumna*
 - \[noun\], nominative, singular, neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *citraśravastamam* ← *citraśravastama*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

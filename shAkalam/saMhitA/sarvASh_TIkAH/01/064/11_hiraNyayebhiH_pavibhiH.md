@@ -93,75 +93,111 @@ marútaḥ ← marút- (nominal stem)
 -   *hiraṇyayebhiḥ* ← *hiraṇyaya*
 - \[noun\], instrumental, plural, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pavibhiḥ* ← *pavi*
 - \[noun\], instrumental, plural, masculine
 - “vajra; tire; rim.”
-------------------------------------------------------------------------
+
+_________
+
 - *payovṛdha* ← *payaḥ* ← *payas*
 - \[noun\], neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *payovṛdha* ← *vṛdhaḥ* ← *vṛdh*
 - \[noun\], nominative, plural, masculine
 - “increasing.”
-------------------------------------------------------------------------
+
+_________
+
 - *ujjighnanta* ← *ujjighnantaḥ* ← *uddhan* ← *√han*
 - \[verb noun\], nominative, plural
 - “agitate; shake; kup; stick out; tousle.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpathyo* ← *āpathyaḥ* ← *āpathi*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatān* ← *parvata*
 - \[noun\], accusative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *makhā* ← *makhāḥ* ← *makha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ayāsaḥ* ← *ayās*
 - \[noun\], nominative, plural, masculine
 - “undaunted; irrepressible; audacious.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasṛto* ← *svasṛtaḥ* ← *svasṛt*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dhruvacyuto* ← *dhruva*
 - \[noun\]
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhruvacyuto* ← *cyutaḥ* ← *cyut*
 - \[noun\], nominative, plural, masculine
 - “shaking; dropping.”
-------------------------------------------------------------------------
+
+_________
+
 - *dudhrakṛto* ← *dudhra*
 - \[noun\]
 - “obstinate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dudhrakṛto* ← *kṛtaḥ* ← *kṛt*
 - \[noun\], nominative, plural, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājadṛṣṭayaḥ* ← *bhrājat* ← *bhrāj*
 - \[verb noun\]
 - “shine; glitter; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājadṛṣṭayaḥ* ← *ṛṣṭayaḥ* ← *ṛṣṭi*
 - \[noun\], nominative, plural, masculine
 - “spear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,47 +73,69 @@ utá ← utá (invariable)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrutsu* ← *vīrudh*
 - \[noun\], locative, plural
 - “plant; shrub.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodhan* ← *rudh*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvota* ← *mahi*
 - \[noun\]
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvota* ← *tvā* ← *tva*
 - \[noun\], instrumental, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajā* ← *prajāḥ* ← *prajā*
 - \[noun\], accusative, plural, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasūṣv* ← *prasūṣu* ← *prasū*
 - \[noun\], locative, plural, feminine
 - “mother; grass.”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,77 +96,111 @@ usríyāṇām ← usríya- (nominal stem)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *somā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *babhrudhūtā* ← *babhru*
 - \[noun\], masculine
 - “Vishnu; babhru \[word\]; Babhru; Babhru; water clover; Shiva;
     ichneumon.”
-------------------------------------------------------------------------
+
+_________
+
 - *babhrudhūtā* ← *dhūtāḥ* ← *dhū*
 - \[verb noun\], nominative, plural
 - “shake; remove; chase away.”
-------------------------------------------------------------------------
+
+_________
+
 - *amandann* ← *amandan* ← *mad*
 - \[verb\], plural, Imperfect
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *aroravīd* ← *aroravīt* ← *roro* ← *√ru*
 - \[verb\], singular, Imperfect
 - “bellow.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādaneṣu* ← *sādana*
 - \[noun\], locative, plural, neuter
 - “home; dwelling; seat.”
-------------------------------------------------------------------------
+
+_________
+
 - *purandaraḥ* ← *puraṃdara*
 - \[noun\], nominative, singular, masculine
 - “Indra; puraṃdara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *papivāṃ* ← *pā*
 - \[verb noun\], nominative, singular
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavām* ← *go*
 - \[noun\], genitive, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *adadād* ← *adadāt* ← *dā*
 - \[verb\], singular, Imperfect
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *usriyāṇām* ← *usriya*
 - \[noun\], genitive, plural, feminine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

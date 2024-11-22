@@ -93,70 +93,100 @@ strī́ ← strī́- (nominal stem)
 -   *adhaḥ* ← *adhas*
 - \[adverb\]
 - “below; down; adhas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paśyasva* ← *paś*
 - \[verb\], singular, Present imperative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *mopari* ← *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *mopari* ← *upari*
 - \[adverb\]
 - “above; up; additionally; upari \[word\]; subsequently.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃtarām* ← *saṃtarā*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *pādakau* ← *pādaka*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hara* ← *hṛ*
 - \[verb\], singular, Present imperative
 - “cure; remove; kidnap; rob; take away; get; destroy; take; extract;
     collect; seize; clean; offer; drain; pick; take out; bring; accept;
     sever; produce; conquer; steal; deprive; press out.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaśaplakau* ← *kaśaplaka*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dṛśan* ← *dṛś*
 - \[verb\], plural, Aorist inj. (proh.)
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *strī*
 - \[noun\], nominative, singular, feminine
 - “woman; wife; feminine; strīvajra; sexual activity; strī \[word\];
     daughter; female.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmā* ← *brahman*
 - \[noun\], nominative, singular, masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *babhūvitha* ← *bhū*
 - \[verb\], singular, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

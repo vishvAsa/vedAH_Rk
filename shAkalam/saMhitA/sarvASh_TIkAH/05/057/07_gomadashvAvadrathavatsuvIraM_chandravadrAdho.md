@@ -99,54 +99,78 @@ vaḥ ← tvám (pronoun)
 -   *gomad* ← *gomat*
 - \[noun\], accusative, singular, neuter
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvāvad* ← *aśvāvat*
 - \[noun\], accusative, singular, neuter
 - “rich in horses.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathavat*
 - \[noun\], accusative, singular, neuter
 - “rich in chariots.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīraṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, neuter
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *candravad* ← *candravat*
 - \[noun\], accusative, singular, neuter
 - “aglitter(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadā* ← *dada* ← *dā*
 - \[verb\], plural, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *praśastiṃ* ← *praśastim* ← *praśasti*
 - \[noun\], accusative, singular, feminine
 - “announcement; praise; respect.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇuta* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -157,27 +181,39 @@ vaḥ ← tvám (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudriyāso* ← *rudriyāsaḥ* ← *rudriya*
 - \[noun\], vocative, plural, masculine
 - “Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhakṣīya* ← *bhakṣ*
 - \[verb\], singular, Aorist optative
 - “eat; feed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vaso* ← *avasaḥ* ← *avas*
 - \[noun\], genitive, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivyasya* ← *daivya*
 - \[noun\], genitive, singular, neuter
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,44 +73,64 @@ tvótāsaḥ ← tvóta- (nominal stem)
 -   *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *muṣṭihatyayā* ← *muṣṭi*
 - \[noun\], masculine
 - “fist; handful; pestle; muṣṭi \[word\]; pala.”
-------------------------------------------------------------------------
+
+_________
+
 - *muṣṭihatyayā* ← *hatyayā* ← *hatyā*
 - \[noun\], instrumental, singular, feminine
 - “murder; blow; fight; killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrā* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruṇadhāmahai* ← *rudh*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “fill into; close; insert; put; enclose; obstruct; seal; besiege;
     cover; blockade; stop; lock in; plug; withhold; extinguish;
     connect.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvotāso* ← *tvotāsaḥ* ← *tvota*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvatā* ← *arvant*
 - \[noun\], instrumental, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

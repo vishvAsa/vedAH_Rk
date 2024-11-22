@@ -76,44 +76,64 @@ nr̥ṣā́ham ← nr̥ṣáh- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *samrājaṃ* ← *samrājam* ← *samrāj*
 - \[noun\], accusative, singular, masculine
 - “sovereign; ruler.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotā* ← *stota* ← *stu*
 - \[verb\], plural, Present imperative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyaṃ* ← *navyam* ← *navya*
 - \[noun\], accusative, singular, neuter
 - “new; fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *naraṃ* ← *naram* ← *nṛ*
 - \[noun\], accusative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṣāham* ← *nṛṣāh*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhiṣṭham* ← *maṃhiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

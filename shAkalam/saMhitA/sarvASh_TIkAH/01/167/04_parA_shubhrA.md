@@ -99,73 +99,107 @@ vŕ̥dham ← vŕ̥dh- (nominal stem)
 -   *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhrā* ← *śubhrāḥ* ← *śubhra*
 - \[noun\], nominative, plural, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayāso* ← *ayāsaḥ* ← *ayās*
 - \[noun\], nominative, plural, masculine
 - “undaunted; irrepressible; audacious.”
-------------------------------------------------------------------------
+
+_________
+
 - *yavyā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sādhāraṇyeva* ← *sādhāraṇyā* ← *sādhāraṇa*
 - \[noun\], instrumental, singular, feminine
 - “general; sādhāraṇa; common; average; general.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhāraṇyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimikṣuḥ* ← *myakṣ*
 - \[verb\], plural, Perfect indicative
 - “be situated; attach.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *nudanta* ← *nud*
 - \[verb\], plural, Present injunctive
 - “push; propel; expel; push; move.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghorā* ← *ghorāḥ* ← *ghora*
 - \[noun\], nominative, plural, masculine
 - “awful; dangerous; terrific; intense; dreadful.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣanta* ← *juṣ*
 - \[verb\], plural, Present injunctive
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdhaṃ* ← *vṛdham* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

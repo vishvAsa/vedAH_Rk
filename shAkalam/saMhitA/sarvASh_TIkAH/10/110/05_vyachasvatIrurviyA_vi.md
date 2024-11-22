@@ -92,72 +92,104 @@ suprāyaṇā́ḥ ← suprāyaṇá- (nominal stem)
 
 -   *vyacasvatīr* ← *vyacasvatīḥ* ← *vyacasvat*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *urviyā*
 - \[adverb\]
 - “wide; widely.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrayantām* ← *śri*
 - \[verb\], plural, Present imperative
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
-------------------------------------------------------------------------
+
+_________
+
 - *patibhyo* ← *patibhyaḥ* ← *pati*
 - \[noun\], dative, plural, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *janayaḥ* ← *jani*
 - \[noun\], nominative, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
-------------------------------------------------------------------------
+
+_________
+
 - *śumbhamānāḥ* ← *śubh*
 - \[verb noun\], nominative, plural
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *devīr* ← *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvāro* ← *dvāraḥ* ← *dvār*
 - \[noun\], nominative, plural, feminine
 - “door; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatīr* ← *bṛhatīḥ* ← *bṛhat*
 - \[noun\], nominative, plural, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaminvā* ← *viśvaminvāḥ* ← *viśvaminva*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavata* ← *bhū*
 - \[verb\], plural, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *suprāyaṇāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suprāyaṇāḥ* ← *prāyaṇāḥ* ← *prāyaṇa*
 - \[noun\], nominative, plural, feminine
 - “beginning; beginning.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

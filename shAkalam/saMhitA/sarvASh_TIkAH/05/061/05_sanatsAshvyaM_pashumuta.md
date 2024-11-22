@@ -84,56 +84,82 @@ vīrā́ya ← vīrá- (nominal stem)
 -   *sanat* ← *san*
 - \[verb\], singular, Aorist inj. (proh.)
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāśvyam* ← *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāśvyam* ← *aśvyam* ← *aśvya*
 - \[noun\], accusative, singular, masculine
 - “equine.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśum* ← *paśu*
 - \[noun\], accusative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyaṃ* ← *gavyam* ← *gavya*
 - \[noun\], accusative, singular, masculine
 - “bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatāvayam* ← *śatāvaya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śyāvāśvastutāya* ← *śyāvāśva*
 - \[noun\], masculine
 - “Śyāvāśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyāvāśvastutāya* ← *stutāya* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dor* ← *doḥ* ← *dos*
 - \[noun\], accusative, singular, neuter
 - “arm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrāyopabarbṛhat* ← *vīrāya* ← *vīra*
 - \[noun\], dative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrāyopabarbṛhat* ← *upabarbṛhat* ← *upabarbṛh* ← *√bṛṃh*
 - \[verb\], singular, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

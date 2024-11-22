@@ -104,92 +104,138 @@ svāyudhā́saḥ ← svāyudhá- (nominal stem)
 -   *svano* ← *svanaḥ* ← *svana*
 - \[noun\], nominative, singular, masculine
 - “noise; sound; svan.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *'mavān* ← *amavān* ← *amavat*
 - \[noun\], nominative, singular, masculine
 - “impressive; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *rejayad* ← *rejayat* ← *rejay* ← *√rej*
 - \[verb\], singular, Imperfect
 - “shake.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣo* ← *tveṣaḥ* ← *tveṣa*
 - \[noun\], nominative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *yayis* ← *yayiḥ* ← *yayi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣa* ← *taviṣaḥ* ← *taviṣa*
 - \[noun\], nominative, singular, masculine
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāmarut* ← *eva*
 - \[noun\]
 - “fast; rapid; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāmarut* ← *yā*
 - \[noun\]
 - “going.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāmarut* ← *marut*
 - \[noun\], nominative, singular, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yenā* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahanta* ← *sahantaḥ* ← *sah*
 - \[verb noun\], nominative, plural
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛñjata* ← *ṛj*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *svarociṣa* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarociṣa* ← *rociṣaḥ* ← *rocis*
 - \[noun\], nominative, plural, masculine
 - “beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthāraśmāno* ← *sthā*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *sthāraśmāno* ← *raśmānaḥ* ← *raśman*
 - \[noun\], nominative, plural, masculine
 - “rein.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayāḥ* ← *hiraṇyaya*
 - \[noun\], nominative, plural, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svāyudhāsa* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāyudhāsa* ← *āyudhāsaḥ* ← *āyudha*
 - \[noun\], nominative, plural, masculine
 - “weapon; āyudha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣmiṇaḥ* ← *iṣmin*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

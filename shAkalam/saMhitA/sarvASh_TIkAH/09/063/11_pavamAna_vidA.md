@@ -73,38 +73,56 @@ yáḥ ← yá- (pronoun)
 -   *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidā* ← *vidāḥ* ← *vid*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *duṣṭaram* ← *duṣṭara*
 - \[noun\], accusative, singular, masculine
 - “incomparable; irresistible; unbearable; unconquerable.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dūṇāśo* ← *dūṇāśaḥ* ← *dūṇāśa*
 - \[noun\], nominative, singular, masculine
 - “rare.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanuṣyatā* ← *vanuṣy*
 - \[verb noun\], instrumental, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

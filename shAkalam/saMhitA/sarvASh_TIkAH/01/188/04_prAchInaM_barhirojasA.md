@@ -70,39 +70,57 @@ yátra ← yátra (invariable)
 -   *prācīnam* ← *prācīna*
 - \[noun\], accusative, singular, neuter
 - “eastern; frontal.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasravīram* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasravīram* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, neuter
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *astṛṇan* ← *stṛ*
 - \[verb\], plural, Imperfect
 - “spread; kill; lay; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatrādityā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yatrādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], nominative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *virājatha* ← *virāj* ← *√rāj*
 - \[verb\], plural, Present indikative
 - “shine; excel; govern; dominate; glitter; light.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

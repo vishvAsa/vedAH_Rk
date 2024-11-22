@@ -98,82 +98,118 @@ yā́m ← yá- (pronoun)
 
 -   *sasarparīr* ← *sasarparīḥ* ← *sasarparī*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *abharat* ← *bhṛ*
 - \[verb\], singular, Imperfect
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *tūyam* ← *tūya*
 - \[noun\], accusative, singular, neuter
 - “quick; fast; potent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ebhyo* ← *ebhyaḥ* ← *idam*
 - \[noun\], dative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāñcajanyāsu* ← *pāñcajanya*
 - \[noun\], locative, plural, feminine
 - “worldwide.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭiṣu* ← *kṛṣṭi*
 - \[noun\], locative, plural, feminine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pakṣyā* ← *pakṣya*
 - \[noun\], nominative, singular, feminine
 - “partial.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyam* ← *navya*
 - \[noun\], accusative, singular, neuter
 - “new; fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyur* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhānā* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *palastijamadagnayo* ← *palasti*
 - \[noun\]
 - “gray.”
-------------------------------------------------------------------------
+
+_________
+
 - *palastijamadagnayo* ← *jamadagnayaḥ* ← *jamadagni*
 - \[noun\], nominative, plural, masculine
 - “Jamadagni.”
-------------------------------------------------------------------------
+
+_________
+
 - *daduḥ* ← *dā*
 - \[verb\], plural, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

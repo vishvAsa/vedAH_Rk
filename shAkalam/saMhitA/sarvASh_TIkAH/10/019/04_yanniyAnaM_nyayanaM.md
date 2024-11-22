@@ -87,57 +87,83 @@ yáḥ ← yá- (pronoun)
 -   *yan* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *niyānaṃ* ← *niyānam* ← *niyāna*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *nyayanaṃ* ← *nyayanam* ← *nyayana*
 - \[noun\], nominative, singular, neuter
 - “entrance.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃjñānaṃ* ← *saṃjñānam* ← *saṃjñāna*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *parāyaṇam* ← *parāyaṇa*
 - \[noun\], nominative, singular, neuter
 - “devotion; aim; engagement; commitment; departure; refuge;
     fondness.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvartanaṃ* ← *āvartanam* ← *āvartana*
 - \[noun\], nominative, singular, neuter
 - “rotation.”
-------------------------------------------------------------------------
+
+_________
+
 - *nivartanaṃ* ← *nivartanam* ← *nivartana*
 - \[noun\], nominative, singular, neuter
 - “return; deactivation.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gopā* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

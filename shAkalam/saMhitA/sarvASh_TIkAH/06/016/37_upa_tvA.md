@@ -70,43 +70,61 @@ sasr̥jmáhe ← √sr̥j- (root)
 -   *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṇvasaṃdṛśam* ← *raṇva*
 - \[noun\]
 - “agreeable; happy; delightful; gay.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṇvasaṃdṛśam* ← *saṃdṛśam* ← *saṃdṛś*
 - \[noun\], accusative, singular, masculine
 - “appearance; view; view.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayasvantaḥ* ← *prayasvat*
 - \[noun\], nominative, plural, masculine
 - “offering.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahaskṛta*
 - \[noun\], vocative, singular, masculine
 - “increased; aroused.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasṛjmahe* ← *sṛj*
 - \[verb\], plural, Perfect indicative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

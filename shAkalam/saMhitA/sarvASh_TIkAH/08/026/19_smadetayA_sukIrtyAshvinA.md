@@ -70,45 +70,65 @@ váhethe ← √vah- (root)
 -   *smad* ← *smat*
 - \[adverb\]
 - “simultaneously; jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *etayā* ← *etad*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sukīrtyāśvinā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukīrtyāśvinā* ← *kīrtyā* ← *kīrti*
 - \[noun\], instrumental, singular, feminine
 - “fame; fame; glory; kīrti \[word\]; mention.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukīrtyāśvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvetayā* ← *śveta*
 - \[noun\], instrumental, singular, feminine
 - “white; bright; śveta \[word\]; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahethe* ← *vah*
 - \[verb\], dual, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhrayāvānā* ← *śubhra*
 - \[noun\]
 - “white; beautiful; attractive; śubhra \[word\]; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhrayāvānā* ← *yāvānā* ← *yāvan*
 - \[noun\], nominative, dual, masculine
 - “traveler.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

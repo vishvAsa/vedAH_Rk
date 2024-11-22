@@ -99,72 +99,106 @@ daśamé ← daśamá- (nominal stem)
 -   *kuha*
 - \[adverb\]
 - “wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāntā* ← *yā*
 - \[verb noun\], nominative, dual
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭutiṃ* ← *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāvyasya* ← *kāvya*
 - \[noun\], genitive, singular, masculine
 - “Uśanas; poem; Kāvya; wisdom.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *napātā* ← *napāt*
 - \[noun\], vocative, dual, masculine
 - “grandson; nephew; napāt \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *śayutrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyasyeva* ← *hiraṇyasya* ← *hiraṇya*
 - \[noun\], genitive, singular, neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *kalaśaṃ* ← *kalaśam* ← *kalaśa*
 - \[noun\], accusative, singular, masculine
 - “jar.”
-------------------------------------------------------------------------
+
+_________
+
 - *nikhātam* ← *nikhan* ← *√khan*
 - \[verb noun\], accusative, singular
 - “bury; insert.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūpathur* ← *ūpathuḥ* ← *vap*
 - \[verb\], dual, Perfect indicative
 - “sow; bestrew; strew; scatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśame* ← *daśama*
 - \[noun\], locative, singular, neuter
 - “tenth.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvināhan* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvināhan* ← *ahan* ← *ahar*
 - \[noun\], locative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

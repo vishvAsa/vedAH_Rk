@@ -102,80 +102,116 @@ vicā́kaśat ← √kāś- (root)
 -   *amī* ← *adas*
 - \[noun\], nominative, plural, masculine
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛkṣā* ← *ṛkṣāḥ* ← *ṛkṣa*
 - \[noun\], nominative, plural, masculine
 - “constellation; star; Nakṣatra; sign of the zodiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *nihitāsa* ← *nihitāsaḥ* ← *nidhā* ← *√dhā*
 - \[verb noun\], nominative, plural
 - “put; fill into; stow; insert; ignite; insert; add; put on;
     establish; keep down.”
-------------------------------------------------------------------------
+
+_________
+
 - *uccā*
 - \[adverb\]
 - “above.”
-------------------------------------------------------------------------
+
+_________
+
 - *naktaṃ* ← *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadṛśre* ← *dṛś*
 - \[verb\], plural, Perfect indicative
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuha*
 - \[adverb\]
 - “wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *diveyuḥ* ← *divā*
 - \[adverb\]
 - “by day; divā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *diveyuḥ* ← *īyuḥ* ← *i*
 - \[verb\], plural, Perfect indicative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *adabdhāni* ← *adabdha*
 - \[noun\], nominative, plural, neuter
 - “unfailing; unimpaired.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *vratāni* ← *vrata*
 - \[noun\], nominative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicākaśac* ← *vicākaśat* ← *vicākaś* ← *√kāś*
 - \[verb noun\], nominative, singular
 - “inspect; visit.”
-------------------------------------------------------------------------
+
+_________
+
 - *candramā* ← *candramāḥ* ← *candramas*
 - \[noun\], nominative, singular, masculine
 - “moon; Candra; candramas.”
-------------------------------------------------------------------------
+
+_________
+
 - *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

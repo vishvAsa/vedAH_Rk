@@ -99,72 +99,106 @@ yádi ← yádi (invariable)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *varāṃsi* ← *varas*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *parvatasya* ← *parvata*
 - \[noun\], genitive, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇve* ← *vṛ*
 - \[verb\], singular, Present indikative
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *payobhir* ← *payobhiḥ* ← *payas*
 - \[noun\], instrumental, plural, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *jinve* ← *jinv*
 - \[verb\], singular, Present indikative
 - “enliven; animate.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *javāṃsi* ← *javas*
 - \[noun\], nominative, plural, neuter
 - “speed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidad* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaurasya* ← *gaura*
 - \[noun\], genitive, singular, masculine
 - “white; light; gaura \[word\]; yellow.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavayasya* ← *gavaya*
 - \[noun\], genitive, singular, masculine
 - “Gavaya; gayal.”
-------------------------------------------------------------------------
+
+_________
+
 - *gohe* ← *goha*
 - \[noun\], locative, singular, masculine
 - “hole.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhyo* ← *sudhyaḥ* ← *sudhī*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

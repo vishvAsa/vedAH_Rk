@@ -83,49 +83,73 @@ yā́śūnām ← yā́śu- (nominal stem)
 
 -   *āgadhitā* ← *āgadh* ← *√gadh*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *parigadhitā* ← *parigadh* ← *√gadh*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kaśīkeva* ← *kaśīkā*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *kaśīkeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṅgahe* ← *jaṅgah* ← *√gāh*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *dadāti* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahyaṃ* ← *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yādurī* ← *yādura*
 - \[noun\], accusative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yāśūnām* ← *yāśu*
 - \[noun\], genitive, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *bhojyā* ← *bhojya*
 - \[noun\], accusative, plural, neuter
 - “food; bhojya \[word\]; comestible.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

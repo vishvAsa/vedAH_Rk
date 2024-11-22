@@ -107,59 +107,85 @@ tā́-tā ← sá- ~ tá- (pronoun)
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṣṭur* ← *tvaṣṭuḥ* ← *tvaṣṭṛ*
 - \[noun\], genitive, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvasyā* ← *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśastā* ← *viśastṛ*
 - \[noun\], nominative, singular, masculine
 - “viśastṛ \[word\]; butcher.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvā* ← *dvi*
 - \[noun\], nominative, dual, masculine
 - “two; dvi \[word\]; second.”
-------------------------------------------------------------------------
+
+_________
+
 - *yantārā* ← *yantṛ*
 - \[noun\], nominative, dual, masculine
 - “charioteer; ruler.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavatas* ← *bhavataḥ* ← *bhū*
 - \[verb\], dual, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatha* ← *tathā*
 - \[adverb\]
 - “and; thus; besides; very well; so; then; in that manner; now;
     therefore; however; so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtuḥ* ← *ṛtu*
 - \[noun\], nominative, singular, masculine
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], accusative, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātrāṇām* ← *gātra*
 - \[noun\], genitive, plural, neuter
 - “body part; body; limb; part; largeness.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtuthā*
 - \[adverb\]
 - “seasonably.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇomi* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -170,38 +196,52 @@ tā́-tā ← sá- ~ tá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *piṇḍānām* ← *piṇḍa*
 - \[noun\], genitive, plural, neuter
 - “ball; body; piṇḍa; Śrāddha; piṇḍatālaka; Sapiṇḍa; ball; hunk;
     tumor; beggary; kalka; myrrh; growth; fragment.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhomy* ← *juhomi* ← *hu*
 - \[verb\], singular, Present indikative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnau* ← *agni*
 - \[noun\], locative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

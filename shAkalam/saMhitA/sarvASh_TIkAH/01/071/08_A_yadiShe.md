@@ -105,85 +105,123 @@ svādhyàm ← svādhī́- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣe* ← *iṣ*
 - \[noun\], dative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛpatiṃ* ← *nṛpatim* ← *nṛpati*
 - \[noun\], accusative, singular, masculine
 - “king.”
-------------------------------------------------------------------------
+
+_________
+
 - *teja* ← *tejaḥ* ← *tejas*
 - \[noun\], nominative, singular, neuter
 - “magnificence; luminosity; glory; fire; semen; fire; heat; light;
     quintessence; brilliance; glare; dignity; beauty; tejas; potency;
     ferocity; power; edge; efficacy; ardor; authority.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaṭ* ← *naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “reach; achieve; enter (a state); reach.”
-------------------------------------------------------------------------
+
+_________
+
 - *chuci* ← *śuci*
 - \[noun\], accusative, singular, neuter
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *reto* ← *retaḥ* ← *retas*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣiktaṃ* ← *niṣiktam* ← *niṣic* ← *√sic*
 - \[verb noun\], accusative, singular
 - “submerge; sprinkle; pour; immerse; water.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardham* ← *śardha*
 - \[noun\], accusative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *anavadyaṃ* ← *anavadyam* ← *anavadya*
 - \[noun\], accusative, singular, masculine
 - “blameless; faultless.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvānaṃ* ← *yuvānam* ← *yuvan*
 - \[noun\], accusative, singular, masculine
 - “young; youthful.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādhyaṃ* ← *svādhyam* ← *svādhī*
 - \[noun\], accusative, singular, masculine
 - “devout; heedful; prudent.”
-------------------------------------------------------------------------
+
+_________
+
 - *janayat* ← *janay* ← *√jan*
 - \[verb\], singular, Present injunctive
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūdayac* ← *sūdayat* ← *sūday* ← *√sūd*
 - \[verb\], singular, Present injunctive
 - “kill; promote.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

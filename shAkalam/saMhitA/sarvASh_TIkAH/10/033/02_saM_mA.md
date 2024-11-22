@@ -96,67 +96,99 @@ vevīyate ← √vī- 2 (root)
 -   *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapanty* ← *tapanti* ← *tap*
 - \[verb\], plural, Present indikative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhitaḥ* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnīr* ← *sapatnīḥ* ← *sapatnī*
 - \[noun\], nominative, plural, feminine
 - “sapatnī; rival; sapatnī \[word\]; mistress.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *parśavaḥ* ← *parśu*
 - \[noun\], nominative, plural, masculine
 - “rib; parśu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *bādhate* ← *bādh*
 - \[verb\], singular, Present indikative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *amatir* ← *amatiḥ* ← *amati*
 - \[noun\], nominative, singular, feminine
 - “indigence.”
-------------------------------------------------------------------------
+
+_________
+
 - *nagnatā*
 - \[noun\], nominative, singular, feminine
 - “nakedness.”
-------------------------------------------------------------------------
+
+_________
+
 - *jasur* ← *jasuḥ* ← *jasu*
 - \[noun\], nominative, singular, feminine
 - “exhaustion; weakness.”
-------------------------------------------------------------------------
+
+_________
+
 - *ver* ← *veḥ* ← *vi*
 - \[noun\], genitive, singular, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vevīyate* ← *vevīy* ← *√vī*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *matiḥ* ← *mati*
 - \[noun\], nominative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

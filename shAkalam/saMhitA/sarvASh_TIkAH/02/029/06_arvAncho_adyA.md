@@ -102,78 +102,114 @@ yajatrāḥ ← yájatra- (nominal stem)
 -   *arvāñco* ← *arvāñcaḥ* ← *arvāñc*
 - \[noun\], nominative, plural, masculine
 - “approaching; facing; less.”
-------------------------------------------------------------------------
+
+_________
+
 - *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavatā* ← *bhavata* ← *bhū*
 - \[verb\], plural, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatrā* ← *yajatrāḥ* ← *yajatra*
 - \[noun\], vocative, plural, masculine
 - “adorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hārdi*
 - \[noun\], accusative, singular, neuter
 - “heart.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhayamāno* ← *bhayamānaḥ* ← *bhī*
 - \[verb noun\], nominative, singular
 - “fear; fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyayeyam* ← *vye*
 - \[verb\], singular, Present optative
 - “cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *trādhvaṃ* ← *trādhvam* ← *trā*
 - \[verb\], plural, Present imperative
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *nijuro* ← *nijuraḥ* ← *nijur*
 - \[noun\], ablative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkasya* ← *vṛka*
 - \[noun\], genitive, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
-------------------------------------------------------------------------
+
+_________
+
 - *trādhvaṃ* ← *trādhvam* ← *trā*
 - \[verb\], plural, Present imperative
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *kartād* ← *kartāt* ← *karta*
 - \[noun\], ablative, singular, masculine
 - “pit.”
-------------------------------------------------------------------------
+
+_________
+
 - *avapado* ← *avapadaḥ* ← *avapad* ← *√pad*
 - \[verb noun\]
 - “fall down.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatrāḥ* ← *yajatra*
 - \[noun\], vocative, plural, masculine
 - “adorable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

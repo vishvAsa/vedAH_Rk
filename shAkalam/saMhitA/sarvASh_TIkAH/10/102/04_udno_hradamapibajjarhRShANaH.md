@@ -99,75 +99,111 @@ síṣāsan ← √sanⁱ- (root)
 -   *udno* ← *udnaḥ* ← *udan*
 - \[noun\], genitive, singular, neuter
 - “water; body of water.”
-------------------------------------------------------------------------
+
+_________
+
 - *hradam* ← *hrada*
 - \[noun\], accusative, singular, masculine
 - “lake; pool; hrada \[word\]; body of water; pool.”
-------------------------------------------------------------------------
+
+_________
+
 - *apibaj* ← *apibat* ← *pā*
 - \[verb\], singular, Imperfect
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarhṛṣāṇaḥ* ← *jarhṛṣ* ← *√hṛṣ*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *kūṭaṃ* ← *kūṭam* ← *kūṭa*
 - \[noun\], nominative, singular, neuter
 - “peak; fraud; trap.”
-------------------------------------------------------------------------
+
+_________
+
 - *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *tṛṃhad* ← *tṛṃhat* ← *tṛh*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *abhimātim* ← *abhimāti*
 - \[noun\], accusative, singular, feminine
 - “aggression; hostility.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *muṣkabhāraḥ* ← *muṣka*
 - \[noun\], masculine
 - “scrotum; testis; Schrebera swietenioides Roxb.; muṣka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *muṣkabhāraḥ* ← *bhāraḥ* ← *bhāra*
 - \[noun\], nominative, singular, masculine
 - “weight; load; difficulty; bhāra \[word\]; bhāra; quantity; trouble;
     specific gravity; cargo; effort; labor.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrava* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchamāno* ← *icchamānaḥ* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *'jiram* ← *ajiram* ← *ajira*
 - \[noun\], accusative, singular, neuter
 - “fast; agile; ajira \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhū* ← *bāhu*
 - \[noun\], accusative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *abharat* ← *bhṛ*
 - \[verb\], singular, Imperfect
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣāsan* ← *siṣās* ← *√san*
 - \[verb noun\], nominative, singular
 - “win; gain.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

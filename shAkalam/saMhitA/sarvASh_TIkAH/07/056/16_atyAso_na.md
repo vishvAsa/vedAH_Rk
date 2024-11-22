@@ -102,82 +102,122 @@ vatsā́saḥ ← vatsá- (nominal stem)
 -   *atyāso* ← *atyāsaḥ* ← *atya*
 - \[noun\], nominative, plural, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *svañco* ← *svañcaḥ* ← *svañc*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣadṛśo* ← *yakṣa*
 - \[noun\], masculine
 - “Yakṣa; Kubera; thirteen; banyan.”
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣadṛśo* ← *dṛśaḥ* ← *dṛś*
 - \[noun\], nominative, plural, masculine
 - “seeing; knowing.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhayanta* ← *śubhay* ← *√śubh*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *maryāḥ* ← *marya*
 - \[noun\], nominative, plural, masculine
 - “young buck; boyfriend.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *harmyeṣṭhāḥ* ← *harmyeṣṭhā*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śiśavo* ← *śiśavaḥ* ← *śiśu*
 - \[noun\], nominative, plural, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhrā* ← *śubhrāḥ* ← *śubhra*
 - \[noun\], nominative, plural, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *vatsāso* ← *vatsāsaḥ* ← *vatsa*
 - \[noun\], nominative, plural, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prakrīﾱinaḥ* ← *prakrīḍinaḥ* ← *prakrīḍin*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *payodhāḥ* ← *payaḥ* ← *payas*
 - \[noun\], neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *payodhāḥ* ← *dhāḥ* ← *dhā*
 - \[noun\], nominative, plural, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

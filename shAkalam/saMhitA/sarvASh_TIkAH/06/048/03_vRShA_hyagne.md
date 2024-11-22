@@ -90,67 +90,97 @@ sudītíbhiḥ ← sudītí- (nominal stem)
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajaro* ← *ajaraḥ* ← *ajara*
 - \[noun\], nominative, singular, masculine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahān* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāsy* ← *vibhāsi* ← *vibhā* ← *√bhā*
 - \[verb\], singular, Present indikative
 - “shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *arciṣā* ← *arcis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; light; beam; gleam; shininess.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajasreṇa* ← *ajasra*
 - \[noun\], instrumental, singular, neuter
 - “ceaseless; ageless; incessant.”
-------------------------------------------------------------------------
+
+_________
+
 - *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *śośucacchuce* ← *śośucat* ← *śośuc* ← *√śuc*
 - \[verb noun\], nominative, singular
 - “blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *śośucacchuce* ← *śuce* ← *śuci*
 - \[noun\], vocative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudītibhiḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudītibhiḥ* ← *dītibhiḥ* ← *dīti*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdihi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

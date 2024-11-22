@@ -73,47 +73,69 @@ sacantām ← √sac- 1 (root)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *devīr* ← *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahaḥ* ← *mah*
 - \[noun\], instrumental, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarmaṇā* ← *śarman*
 - \[noun\], instrumental, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛpatnīḥ* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛpatnīḥ* ← *patnīḥ* ← *patnī*
 - \[noun\], nominative, plural, feminine
 - “wife; mistress; queen.”
-------------------------------------------------------------------------
+
+_________
+
 - *acchinnapatrāḥ* ← *acchinna*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *acchinnapatrāḥ* ← *patrāḥ* ← *pattra*
 - \[noun\], nominative, plural, feminine
 - “leaf; leaf; feather; pattratālaka; draft animal; vehicle; hammer;
     pattra \[word\]; petal; page; wing; plant.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacantām* ← *sac*
 - \[verb\], plural, Present imperative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -78,48 +78,70 @@ haskartā́ram ← haskartár- (nominal stem)
 -   *ṛtāvānaṃ* ← *ṛtāvānam* ← *ṛtāvan*
 - \[noun\], accusative, singular, masculine
 - “law-abiding; faithful; righteous.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicetasam* ← *vicetas*
 - \[noun\], accusative, singular, masculine
 - “wise; diligent.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśyanto* ← *paśyantaḥ* ← *paś*
 - \[verb noun\], nominative, plural
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *stṛbhiḥ* ← *star*
 - \[noun\], instrumental, plural, masculine
 - “star.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśveṣām* ← *viśva*
 - \[noun\], genitive, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvarāṇāṃ* ← *adhvarāṇām* ← *adhvara*
 - \[noun\], genitive, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *haskartāraṃ* ← *haskartāram* ← *haskartṛ*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

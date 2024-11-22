@@ -88,52 +88,74 @@ várṣiṣṭham ← várṣiṣṭha- (nominal stem)
 
 -   *dānāsaḥ* ← *dāna*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthuśravasaḥ* ← *pṛthuśravas*
 - \[noun\], genitive, singular, masculine
 - “Pṛthuśravas; Pṛthuśravas; Pṛthuśravas.”
-------------------------------------------------------------------------
+
+_________
+
 - *kānītasya* ← *kānīta*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *surādhasaḥ* ← *surādhas*
 - \[noun\], genitive, singular, masculine
 - “affluent; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayaṃ* ← *hiraṇyayam* ← *hiraṇyaya*
 - \[noun\], accusative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadan* ← *dā*
 - \[verb noun\], nominative, singular
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhiṣṭhaḥ* ← *maṃhiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrir* ← *sūriḥ* ← *sūri*
 - \[noun\], nominative, singular, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhūd* ← *abhūt* ← *bhū*
 - \[verb\], singular, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *varṣiṣṭham* ← *varṣiṣṭha*
 - \[noun\], accusative, singular, neuter
 - “highest.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛta* ← *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -144,11 +166,15 @@ várṣiṣṭham ← várṣiṣṭha- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

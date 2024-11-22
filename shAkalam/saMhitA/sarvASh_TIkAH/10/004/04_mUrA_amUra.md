@@ -105,92 +105,134 @@ yuvatím ← yuvatí- (nominal stem)
 -   *mūrā* ← *mūrāḥ* ← *mūra*
 - \[noun\], nominative, plural, masculine
 - “stupid.”
-------------------------------------------------------------------------
+
+_________
+
 - *amūra* ← ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *amūra* ← ← *mūra*
 - \[noun\], vocative, singular, masculine
 - “stupid.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikitvo* ← *cikitvaḥ* ← *cikitu*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvam* ← *mahi*
 - \[noun\]
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅga*
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
-------------------------------------------------------------------------
+
+_________
+
 - *vitse* ← *vid*
 - \[verb\], singular, Present indikative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaye* ← *śī*
 - \[verb\], singular, Present indikative
 - “lie; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavriś* ← *vavriḥ* ← *vavri*
 - \[noun\], nominative, singular, masculine
 - “covering; lurking place.”
-------------------------------------------------------------------------
+
+_________
+
 - *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvayādan* ← *jihvayā* ← *jihvā*
 - \[noun\], instrumental, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvayādan* ← *adan* ← *ad*
 - \[verb noun\], nominative, singular
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *rerihyate* ← *rerih* ← *√rih*
 - \[verb\], singular, Present indikative
 - “lick.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvatiṃ* ← *yuvatim* ← *yuvati*
 - \[noun\], accusative, singular, feminine
 - “girl; woman.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśpatiḥ* ← *viśpati*
 - \[noun\], nominative, singular, masculine
 - “overlord; head.”
-------------------------------------------------------------------------
+
+_________
+
 - *san* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

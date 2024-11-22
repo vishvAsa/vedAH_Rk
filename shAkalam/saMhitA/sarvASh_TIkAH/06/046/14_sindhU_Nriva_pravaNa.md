@@ -102,59 +102,89 @@ gr̥bhītā́ḥ ← √gr̥bhⁱ- (root)
 -   *sindhūṃr* ← *sindhūn* ← *sindhu*
 - \[noun\], accusative, plural, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravaṇa* ← *pravaṇe* ← *pravaṇa*
 - \[noun\], locative, singular, masculine
 - “torrent.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśuyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *yato* ← *yataḥ* ← *i*
 - \[verb noun\], accusative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *klośam* ← *klośa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣvaṇi* ← *svani* ← *svan*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *varvṛtaty* ← *varvṛtati* ← *varvṛt* ← *√vṛt*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *āmiṣi* ← *āmis*
 - \[noun\], locative, singular, neuter
 - “meat; cadaver.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛbhītā* ← *gṛbhītāḥ* ← *grah*
 - \[verb noun\], nominative, plural
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -162,16 +192,22 @@ gr̥bhītā́ḥ ← √gr̥bhⁱ- (root)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhvor* ← *bāhvoḥ* ← *bāhu*
 - \[noun\], locative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavi* ← *go*
 - \[noun\], locative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

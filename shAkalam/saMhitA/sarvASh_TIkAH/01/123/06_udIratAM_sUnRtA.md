@@ -99,72 +99,104 @@ vibhātī́ḥ ← √bhā- (root)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *īratāṃ* ← *īratām* ← *īr*
 - \[verb\], plural, Present imperative
 - “go.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛtā* ← *sūnṛtāḥ* ← *sūnṛtā*
 - \[noun\], nominative, plural, feminine
 - “liberality.”
-------------------------------------------------------------------------
+
+_________
+
 - *ut* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *purandhīr* ← *purandhīḥ* ← *puraṃdhi*
 - \[noun\], nominative, plural, feminine
 - “liberality; Puraṃdhi; munificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnayaḥ* ← *agni*
 - \[noun\], nominative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuśucānāso* ← *śuśucānāsaḥ* ← *śuc*
 - \[verb noun\], nominative, plural
 - “mourn; grieve; flame; glow; burn; repent.”
-------------------------------------------------------------------------
+
+_________
+
 - *asthuḥ* ← *sthā*
 - \[verb\], plural, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *spārhā* ← *spārha*
 - \[noun\], accusative, plural, neuter
 - “desirable.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamasāpagūﾱhāviṣkṛṇvanty* ← *tamasā* ← *tamas*
 - \[noun\], instrumental, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamasāpagūﾱhāviṣkṛṇvanty* ← *apagūḍhā* ← *apaguh* ← *√guh*
 - \[verb noun\], accusative, plural
 - “hide.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamasāpagūﾱhāviṣkṛṇvanty* ← *āviṣkṛṇvanti* ← *āviṣkṛ* ← *√kṛ*
 - \[verb\], plural, Present indikative
 - “show; uncover.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhātīḥ* ← *vibhā* ← *√bhā*
 - \[verb noun\], nominative, plural
 - “shine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

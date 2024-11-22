@@ -102,79 +102,115 @@ várpasā ← várpas- (nominal stem)
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomebhir* ← *stomebhiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *auśija* ← *auśijaḥ* ← *auśija*
 - \[noun\], nominative, singular, masculine
 - “Kakṣīvant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjiśvā* ← *ṛjiśvan*
 - \[noun\], nominative, singular, masculine
 - “Ṛjiśvan.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrajaṃ* ← *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *darayad* ← *darayat* ← *daray* ← *√dṛ*
 - \[verb\], singular, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabheṇa* ← *vṛṣabha*
 - \[noun\], instrumental, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *piproḥ* ← *pipru*
 - \[noun\], genitive, singular, masculine
 - “Pipru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutvā* ← *su*
 - \[verb noun\]
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajato* ← *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdayad* ← *dīdayat* ← *dīdī*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīḥ* ← *gir*
 - \[noun\], nominative, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *pura* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyāno* ← *iyānaḥ* ← *ī* ← *√i*
 - \[verb noun\], nominative, singular
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *varpasā* ← *varpas*
 - \[noun\], instrumental, singular, neuter
 - “form; look; disguise.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

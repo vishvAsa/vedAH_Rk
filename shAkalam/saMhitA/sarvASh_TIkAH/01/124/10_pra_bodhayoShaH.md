@@ -96,73 +96,107 @@ sūnr̥te ← sūnŕ̥ta- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *bodhayoṣaḥ* ← *bodhaya* ← *bodhay* ← *√budh*
 - \[verb\], singular, Present imperative
 - “awaken; ignite; advise; admonish; communicate.”
-------------------------------------------------------------------------
+
+_________
+
 - *bodhayoṣaḥ* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇato* ← *pṛṇataḥ* ← *pṛ*
 - \[verb noun\], accusative, plural
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghony* ← *maghoni* ← *maghavan*
 - \[noun\], vocative, singular, feminine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *abudhyamānāḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *abudhyamānāḥ* ← *budhyamānāḥ* ← *budh*
 - \[verb noun\], nominative, plural
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
-------------------------------------------------------------------------
+
+_________
+
 - *paṇayaḥ* ← *paṇi*
 - \[noun\], nominative, plural, masculine
 - “niggard; paṇ.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasantu* ← *sas*
 - \[verb\], plural, Present imperative
 - “sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *revad* ← *revat*
 - \[noun\], accusative, singular, neuter
 - “abundant; rich; affluent; brilliant; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *uccha* ← *vas*
 - \[verb\], singular, Present imperative
 - “dawn; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavadbhyo* ← *maghavadbhyaḥ* ← *maghavan*
 - \[noun\], dative, plural, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghoni* ← *maghavan*
 - \[noun\], vocative, singular, feminine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *revat*
 - \[noun\], accusative, singular, neuter
 - “abundant; rich; affluent; brilliant; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotre* ← *stotṛ*
 - \[noun\], dative, singular, masculine
 - “laudatory; worshiping.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛte* ← *sūnṛta*
 - \[noun\], vocative, singular, feminine
 - “big; friendly.”
-------------------------------------------------------------------------
+
+_________
+
 - *jārayantī* ← *jāray* ← *√jṛ*
 - \[verb noun\], nominative, singular
 - “jāray; digest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

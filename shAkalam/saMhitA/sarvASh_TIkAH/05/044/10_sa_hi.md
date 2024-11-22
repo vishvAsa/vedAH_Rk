@@ -98,63 +98,95 @@ vidúṣā ← √vid- 2 (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatrasya* ← *kṣatra*
 - \[noun\], genitive, singular, masculine
 - “Kshatriya.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasasya* ← *manasa*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *cittibhir* ← *cittibhiḥ* ← *citti*
 - \[noun\], instrumental, plural, feminine
 - “purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *evāvadasya* ← *evāvada*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yajatasya* ← *yajata*
 - \[noun\], genitive, singular, masculine
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhreḥ* ← *sadhri*
 - \[noun\], genitive, singular, masculine
 - “sadhri-.”
-------------------------------------------------------------------------
+
+_________
+
 - *avatsārasya* ← *avatsāra*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *spṛṇavāma* ← *spṛ*
 - \[verb\], plural, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *raṇvabhiḥ* ← *raṇvan*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śaviṣṭhaṃ* ← *śaviṣṭham* ← *śaviṣṭha*
 - \[noun\], accusative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *viduṣā* ← *vid*
 - \[verb noun\], instrumental, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ardhyam* ← *ṛdh*
 - \[verb noun\], accusative, singular
 - “boom; stick to.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

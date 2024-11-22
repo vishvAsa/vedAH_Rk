@@ -93,39 +93,57 @@ vaste ← √vas- 2 (root)
 -   *svaśvā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaśvā* ← *aśvā* ← *aśva*
 - \[noun\], nominative, singular, feminine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, feminine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *surathā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *surathā* ← *rathā* ← *ratha*
 - \[noun\], nominative, singular, feminine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvāsā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvāsā* ← *vāsāḥ* ← *vāsas*
 - \[noun\], nominative, singular, feminine
 - “clothing; fabric; garment; feather; dress; envelope.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayī* ← *hiraṇyaya*
 - \[noun\], nominative, singular, feminine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtā* ← *kṛtā* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -136,41 +154,61 @@ vaste ← √vas- 2 (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinīvatī* ← *vājinīvat*
 - \[noun\], nominative, singular, feminine
 - “rich; rich in horses.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrṇāvatī* ← *ūrṇāvat*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yuvatiḥ* ← *yuvati*
 - \[noun\], nominative, singular, feminine
 - “girl; woman.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīlamāvaty* ← *sīlamāvatī*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *utādhi* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *utādhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaste* ← *vas*
 - \[verb\], singular, Present indikative
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhagā* ← *subhaga*
 - \[noun\], nominative, singular, feminine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhuvṛdham* ← *madhuvṛdh*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

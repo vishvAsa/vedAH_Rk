@@ -76,42 +76,62 @@ sátpatiḥ ← sátpati- (nominal stem)
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *paurukutsyaḥ* ← *paurukutsya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pañcāśataṃ* ← *pañcāśatam* ← *pañcāśat*
 - \[noun\], accusative, singular, feminine
 - “fifty; pañcāśat \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *trasadasyur* ← *trasadasyuḥ* ← *trasadasyu*
 - \[noun\], nominative, singular, masculine
 - “Trasadasyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhūnām* ← *vadhū*
 - \[noun\], genitive, plural, feminine
 - “wife; woman; bride; female; Trigonella corniculata; female; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhiṣṭho* ← *maṃhiṣṭhaḥ* ← *maṃhiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryaḥ* ← *arya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *satpatiḥ* ← *sat*
 - \[noun\]
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
-------------------------------------------------------------------------
+
+_________
+
 - *satpatiḥ* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

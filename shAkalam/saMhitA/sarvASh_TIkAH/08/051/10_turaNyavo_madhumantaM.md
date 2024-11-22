@@ -90,60 +90,88 @@ suvānā́saḥ ← √su- (root)
 -   *turaṇyavo* ← *turaṇyavaḥ* ← *turaṇyu*
 - \[noun\], nominative, plural, masculine
 - “fleet.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumantaṃ* ← *madhumantam* ← *madhumat*
 - \[noun\], accusative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtaścutaṃ* ← *ghṛtaścutam* ← *ghṛtaścut*
 - \[noun\], accusative, singular, masculine
 - “ghee-dripping.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprāso* ← *viprāsaḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānṛcuḥ* ← *arc*
 - \[verb\], plural, Perfect indicative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *paprathe* ← *prath*
 - \[verb\], singular, Perfect indicative
 - “be known; expand; expand; boom.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇyaṃ* ← *vṛṣṇyam* ← *vṛṣṇya*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *śavo* ← *śavaḥ* ← *śavas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *'sme* ← *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvānāsa* ← *suvānāsaḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

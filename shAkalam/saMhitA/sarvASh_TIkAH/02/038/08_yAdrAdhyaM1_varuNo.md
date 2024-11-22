@@ -104,79 +104,115 @@ ví ← ví (invariable)
 
 -   *yādrādhyaṃ* ← *yādrādhyam*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *yonim* ← *yoni*
 - \[noun\], accusative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *apyam* ← *apya*
 - \[noun\], accusative, singular, masculine
 - “aquatic; aquatic.”
-------------------------------------------------------------------------
+
+_________
+
 - *aniśitaṃ* ← *aniśitam* ← *aniśita*
 - \[noun\], accusative, singular, neuter
 - “incessant.”
-------------------------------------------------------------------------
+
+_________
+
 - *nimiṣi* ← *nimiṣ*
 - \[noun\], locative, singular, feminine
 - “blink of an eye.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarbhurāṇaḥ* ← *jarbhur* ← *√bhur*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *viśvo* ← *viśvaḥ* ← *viśva*
 - \[noun\], nominative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *mārtāṇḍo* ← *mārtāṇḍaḥ* ← *mārtāṇḍa*
 - \[noun\], nominative, singular, masculine
 - “Surya; sun; bird.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paśur* ← *paśuḥ* ← *paśu*
 - \[noun\], nominative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāt* ← *gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthaśo* ← *sthaśas*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *janmāni* ← *janman*
 - \[noun\], accusative, plural, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ākaḥ* ← *ākṛ* ← *√kṛ*
 - \[verb\], singular, Root aorist (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

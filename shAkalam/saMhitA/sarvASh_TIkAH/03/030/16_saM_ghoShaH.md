@@ -108,89 +108,129 @@ randháyasva ← √randh- (root)
 -   *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghoṣaḥ* ← *ghoṣa*
 - \[noun\], nominative, singular, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇve* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vamair* ← *avamaiḥ* ← *avama*
 - \[noun\], instrumental, plural, masculine
 - “avama \[word\]; bottom; last.”
-------------------------------------------------------------------------
+
+_________
+
 - *amitrair* ← *amitraiḥ* ← *amitra*
 - \[noun\], instrumental, plural, masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *jahī* ← *hā*
 - \[verb\], singular, Present imperative
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣv* ← *eṣu* ← *idam*
 - \[noun\], locative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśaniṃ* ← *aśanim* ← *aśani*
 - \[noun\], accusative, singular, feminine
 - “lightning; Vajra; vajra; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapiṣṭhām* ← *tapiṣṭha*
 - \[noun\], accusative, singular, feminine
 - “burning; ablaze(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛścem* ← *vṛśca* ← *vraśc*
 - \[verb\], singular, Present imperative
 - “cleave; fell; cut off; hew.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛścem* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *adhastād* ← *adhastāt*
 - \[adverb\]
 - “below.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *rujā* ← *ruj*
 - \[verb\], singular, Present imperative
 - “break; bend.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasva* ← *sah*
 - \[verb\], singular, Present imperative
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *jahi* ← *hā*
 - \[verb\], singular, Present imperative
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣo* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *randhayasva* ← *randhay* ← *√radh*
 - \[verb\], singular, Present imperative
 - “subjugate; hand over.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

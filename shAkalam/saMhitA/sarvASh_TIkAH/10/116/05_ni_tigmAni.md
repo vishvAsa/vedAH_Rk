@@ -99,84 +99,120 @@ vr̥śca ← √vr̥śc- (root)
 -   *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmāni* ← *tigma*
 - \[noun\], accusative, plural, neuter
 - “sharp; pointed; fiery.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrāśayan* ← *bhrāśay* ← *√bhraṃś*
 - \[verb noun\], nominative, singular
 - “blunt.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrāśyāny* ← *bhrāśyāni* ← *bhrāśya*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthirā* ← *sthira*
 - \[noun\], accusative, plural, neuter
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanuhi* ← *tan*
 - \[verb\], singular, Present imperative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātujūnām* ← *yātu*
 - \[noun\], masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātujūnām* ← *jūnām* ← *jū*
 - \[noun\], genitive, plural, masculine
 - “fleet.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugrāya* ← *ugra*
 - \[noun\], dative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *saho* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *balaṃ* ← *balam* ← *bala*
 - \[noun\], accusative, singular, neuter
 - “strength; army; power; force; potency; vigor; Balarama; bala;
     violence; might; Shiva; bala \[word\]; myrrh; semen; reflex; bronze;
     influence; erection; potency; intensity.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadāmi* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratītyā* ← *pratīti*
 - \[noun\], instrumental, singular, feminine
 - “perception; sexual pleasure; belief; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *vigadeṣu* ← *vigada*
 - \[noun\], locative, plural, masculine
 - “yelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛśca* ← *vraśc*
 - \[verb\], singular, Present imperative
 - “cleave; fell; cut off; hew.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

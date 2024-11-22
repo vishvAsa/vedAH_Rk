@@ -96,72 +96,106 @@ upamít ← upamít- (nominal stem)
 -   *vaiśvānarāya* ← *vaiśvānara*
 - \[noun\], dative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *mīﾱhuṣe* ← *mīḍhuṣe* ← *mīḍhvas*
 - \[noun\], dative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣāḥ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣāḥ* ← *joṣāḥ* ← *joṣa*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kathā*
 - \[adverb\]
 - “how.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśemāgnaye* ← *dāśema* ← *dāś*
 - \[verb\], plural, Present optative
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśemāgnaye* ← *agnaye* ← *agni*
 - \[noun\], dative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāḥ* ← *bhās*
 - \[noun\], accusative, singular, neuter
 - “beam; radiance; bhās \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *anūnena* ← *anūna*
 - \[noun\], instrumental, singular, masculine
 - “perfect; entire.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatā* ← *bṛhat*
 - \[noun\], instrumental, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣathenopa* ← *vakṣathena* ← *vakṣatha*
 - \[noun\], instrumental, singular, masculine
 - “increase; growth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣathenopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *stabhāyad* ← *stabhāyat* ← *stabhāy* ← *√stambh*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *upamin* ← *upamit*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rodhaḥ* ← *rodhas*
 - \[noun\], accusative, singular, neuter
 - “shore; bank; slope; wall.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

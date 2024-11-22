@@ -95,63 +95,93 @@ svapa ← √svap- (root)
 -   *stenaṃ* ← *stenam* ← *stena*
 - \[noun\], accusative, singular, masculine
 - “thief; stena \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rāya* ← *rā*
 - \[verb\], singular, Present imperative
 - “bark.”
-------------------------------------------------------------------------
+
+_________
+
 - *sārameya*
 - \[noun\], vocative, singular, masculine
 - “dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *taskaraṃ* ← *taskaram* ← *taskara*
 - \[noun\], accusative, singular, masculine
 - “thief; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *punaḥsara*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *stotṝn* ← *stotṛ*
 - \[noun\], accusative, plural, masculine
 - “laudatory; worshiping.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyasi* ← *rā*
 - \[verb\], singular, Present indikative
 - “bark.”
-------------------------------------------------------------------------
+
+_________
+
 - *kim*
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ducchunāyase* ← *duchunāy*
 - \[verb\], singular, Present indikative
 - “threaten.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapa* ← *svap*
 - \[verb\], singular, Present imperative
 - “sleep; numb; fall asleep.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

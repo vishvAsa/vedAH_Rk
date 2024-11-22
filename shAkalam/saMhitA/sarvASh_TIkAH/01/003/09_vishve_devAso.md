@@ -71,38 +71,54 @@ váhnayaḥ ← váhni- (nominal stem)
 - \[noun\], vocative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *asridha* ← *asridhaḥ* ← *asridh*
 - \[noun\], vocative, plural, masculine
 - “unfailing.”
-------------------------------------------------------------------------
+
+_________
+
 - *ehimāyāso* ← *ehimāyāsaḥ* ← *ehimāya*
 - \[noun\], vocative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *adruhaḥ* ← *adruh*
 - \[noun\], vocative, plural, masculine
 - “friendly; benign.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhaṃ* ← *medham* ← *medha*
 - \[noun\], accusative, singular, masculine
 - “yajña; juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣanta* ← *juṣ*
 - \[verb\], plural, Present injunctive
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahnayaḥ* ← *vahni*
 - \[noun\], nominative, plural, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
     leader.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

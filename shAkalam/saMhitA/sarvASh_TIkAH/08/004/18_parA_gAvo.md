@@ -96,74 +96,106 @@ vā́jasātaye ← vā́jasāti- (nominal stem)
 -   *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *yavasaṃ* ← *yavasam* ← *yavasa*
 - \[noun\], accusative, singular, neuter
 - “eatage; pasture; fodder.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaccid* ← *kaccit* ← *kaścit*
 - \[noun\], accusative, singular, neuter
 - “any(a); some(a); some(a); some(a); some(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *āghṛṇe* ← *āghṛṇi*
 - \[noun\], vocative, singular, masculine
 - “aglow(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *nityaṃ* ← *nityam* ← *nitya*
 - \[noun\], nominative, singular, neuter
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
     connatural; necessary; durable; ageless; invariable; biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *rekṇo* ← *rekṇaḥ* ← *rekṇas*
 - \[noun\], nominative, singular, neuter
 - “property; wealth; bequest; inheritance.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartya*
 - \[noun\], vocative, singular, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣann* ← *pūṣan*
 - \[noun\], locative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *avitā* ← *avitṛ*
 - \[noun\], nominative, singular, masculine
 - “favorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *śivo* ← *śivaḥ* ← *śiva*
 - \[noun\], nominative, singular, masculine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhiṣṭho* ← *maṃhiṣṭhaḥ* ← *maṃhiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasātaye* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājasātaye* ← *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

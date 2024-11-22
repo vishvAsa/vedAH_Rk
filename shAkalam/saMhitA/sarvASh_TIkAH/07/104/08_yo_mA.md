@@ -99,77 +99,111 @@ vaktā́ ← vaktár- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pākena* ← *pāka*
 - \[noun\], instrumental, singular, neuter
 - “ignorant; childlike; honest.”
-------------------------------------------------------------------------
+
+_________
+
 - *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *carantam* ← *car*
 - \[verb noun\], accusative, singular
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhicaṣṭe* ← *abhicakṣ* ← *√cakṣ*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *anṛtebhir* ← *anṛtebhiḥ* ← *anṛta*
 - \[noun\], instrumental, plural, neuter
 - “false; untrue; lying(a); false.”
-------------------------------------------------------------------------
+
+_________
+
 - *vacobhiḥ* ← *vacas*
 - \[noun\], instrumental, plural, neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpa* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāśinā* ← *kāśi*
 - \[noun\], instrumental, singular, masculine
 - “handful; kāśi \[word\]; Kāśi; fist.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃgṛbhītā* ← *saṃgṛbhītāḥ* ← *saṃgrah* ← *√grah*
 - \[verb noun\], nominative, plural
 - “take; pick; collect; sum up; reign; harness; catch; gather;
     extract; curb; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *asann* ← *asan* ← *as*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *astv* ← *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsata* ← *asataḥ* ← *asat*
 - \[noun\], genitive, singular, neuter
 - “nonexistent; bad; wrong; wrong; asat \[prefix\]; dissident; fake.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaktā* ← *vaktṛ*
 - \[noun\], nominative, singular, masculine
 - “telling.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

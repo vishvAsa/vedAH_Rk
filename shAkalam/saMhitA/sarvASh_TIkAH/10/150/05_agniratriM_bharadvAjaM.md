@@ -98,65 +98,95 @@ puróhitaḥ ← puróhita- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *atrim* ← *atri*
 - \[noun\], accusative, singular, masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bharadvājaṃ* ← *bharadvājam* ← *bharadvāja*
 - \[noun\], accusative, singular, masculine
 - “Bharadvāja; Droṇa; Bharadvāja; skylark.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaviṣṭhiram* ← *gaviṣṭhira*
 - \[noun\], accusative, singular, masculine
 - “Gaviṣṭhira.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāvan* ← *prāvat* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṇvaṃ* ← *kaṇvam* ← *kaṇva*
 - \[noun\], accusative, singular, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *trasadasyum* ← *trasadasyu*
 - \[noun\], accusative, singular, masculine
 - “Trasadasyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhave* ← *āhava*
 - \[noun\], locative, singular, masculine
 - “battle; fight; challenge; war.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭho* ← *vasiṣṭhaḥ* ← *vasiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *havate* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *purohito* ← *purohitaḥ* ← *purohita*
 - \[noun\], nominative, singular, masculine
 - “Purohita; purohita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛḍīkāya* ← *mṛḍīka*
 - \[noun\], dative, singular, neuter
 - “compassion; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *purohitaḥ* ← *purohita*
 - \[noun\], nominative, singular, masculine
 - “Purohita; purohita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

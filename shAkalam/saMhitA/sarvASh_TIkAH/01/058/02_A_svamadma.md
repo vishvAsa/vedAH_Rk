@@ -105,82 +105,120 @@ stanáyan ← √stanⁱ- (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svam* ← *sva*
 - \[noun\], accusative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *adma* ← *adman*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *yuvamāno* ← *yuvamānaḥ* ← *yu*
 - \[verb noun\], nominative, singular
 - “unite.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajaras* ← *ajaraḥ* ← *ajara*
 - \[noun\], nominative, singular, masculine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛṣv* ← *tṛṣū* ← *tṛṣu*
 - \[noun\], accusative, plural, neuter
 - “dry.”
-------------------------------------------------------------------------
+
+_________
+
 - *aviṣyann* ← *aviṣyan* ← *av*
 - \[verb noun\], nominative, singular
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *ataseṣu* ← *atasa*
 - \[noun\], locative, plural, neuter
 - “shrub; scrub.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhati* ← *sthā*
 - \[verb\], singular, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], nominative, singular, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *pruṣitasya* ← *pruṣ*
 - \[verb noun\], genitive, singular
 - “sprinkle; wet.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocate* ← *ruc*
 - \[verb\], singular, Present indikative
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sānu*
 - \[noun\], accusative, singular, neuter
 - “tableland; ridge; peak; back; ridge; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *stanayann* ← *stanayan* ← *stanay* ← *√stan*
 - \[verb noun\], nominative, singular
 - “thunder; thunder.”
-------------------------------------------------------------------------
+
+_________
+
 - *acikradat* ← *krand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “roar; neigh; cry; howl; shout.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

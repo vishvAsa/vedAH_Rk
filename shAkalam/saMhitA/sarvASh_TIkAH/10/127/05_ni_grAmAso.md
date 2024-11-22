@@ -79,48 +79,70 @@ ní ← ní (invariable)
 -   *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *grāmāso* ← *grāmāsaḥ* ← *grāma*
 - \[noun\], nominative, plural, masculine
 - “village; grāma \[word\]; group; battalion; club; Hindu gamut;
     troop; multitude; crowd; kin; collection; people.”
-------------------------------------------------------------------------
+
+_________
+
 - *avikṣata* ← *viś*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *padvanto* ← *padvantaḥ* ← *padvat*
 - \[noun\], nominative, plural, masculine
 - “footed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *pakṣiṇaḥ* ← *pakṣin*
 - \[noun\], nominative, plural, masculine
 - “winged.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyenāsaś* ← *śyenāsaḥ* ← *śyena*
 - \[noun\], nominative, plural, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *arthinaḥ* ← *arthin*
 - \[noun\], nominative, plural, masculine
 - “desirous; active; suppliant; busy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

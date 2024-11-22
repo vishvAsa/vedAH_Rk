@@ -84,53 +84,77 @@ vindate ← √vid- 1 (root)
 -   *śraddhāṃ* ← *śraddhām* ← *śraddhā*
 - \[noun\], accusative, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamānā* ← *yajamānāḥ* ← *yaj*
 - \[verb noun\], nominative, plural
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyugopā* ← *vāyu*
 - \[noun\], masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyugopā* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, plural, masculine
 - “herder; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *upāsate* ← *upās* ← *√ās*
 - \[verb\], singular, Present indikative
 - “worship; attend; serve; get; approach; obtain; perform; expect.”
-------------------------------------------------------------------------
+
+_________
+
 - *śraddhāṃ* ← *śraddhām* ← *śraddhā*
 - \[noun\], accusative, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdayyayākūtyā* ← *hṛdayyayā* ← *hṛdayya*
 - \[noun\], instrumental, singular, feminine
 - “coronary; heart-whole.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdayyayākūtyā* ← *ākūtyā* ← *ākūti*
 - \[noun\], instrumental, singular, feminine
 - “purpose; Ākūti.”
-------------------------------------------------------------------------
+
+_________
+
 - *śraddhayā* ← *śraddhā*
 - \[noun\], instrumental, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
-------------------------------------------------------------------------
+
+_________
+
 - *vindate* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

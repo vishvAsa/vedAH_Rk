@@ -101,72 +101,106 @@ tuvīmagha ← tuvī́magha- (nominal stem)
 -   *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *gardabham* ← *gardabha*
 - \[noun\], accusative, singular, masculine
 - “ass.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛṇa* ← *mṛṇ*
 - \[verb\], singular, Present imperative
 - “kill; crush.”
-------------------------------------------------------------------------
+
+_________
+
 - *nuvantam* ← *nū*
 - \[verb noun\], accusative, singular
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāpayāmuyā* ← *pāpayā* ← *pāpa*
 - \[noun\], instrumental, singular, feminine
 - “evil; dangerous; wicked; pāpa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pāpayāmuyā* ← *amuyā* ← *adas*
 - \[noun\], instrumental, singular, feminine
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tū* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsaya* ← *śaṃsay* ← *√śaṃs*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *goṣv* ← *goṣu* ← *go*
 - \[noun\], locative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśveṣu* ← *aśva*
 - \[noun\], locative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhriṣu* ← *śubhri*
 - \[noun\], locative, plural, masculine
 - “beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasreṣu* ← *sahasra*
 - \[noun\], locative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvīmagha*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

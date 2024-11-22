@@ -99,71 +99,105 @@ víbhūtiḥ ← víbhūti- (nominal stem)
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *purutamasya* ← *purutama*
 - \[noun\], genitive, singular, masculine
 - “most(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *kāror* ← *kāroḥ* ← *kāru*
 - \[noun\], genitive, singular, masculine
 - “poet; singer.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyaṃ* ← *havyam* ← *hu*
 - \[verb noun\], accusative, singular
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīra*
 - \[noun\], vocative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyā* ← *havyāḥ* ← *hu*
 - \[verb noun\], nominative, plural
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *havante* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], nominative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratheṣṭhām* ← *ratheṣṭhā*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ajaraṃ* ← *ajaram* ← *ajara*
 - \[noun\], accusative, singular, masculine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *navīyo* ← *navīyaḥ* ← *navīyas*
 - \[noun\], accusative, singular, neuter
 - “new; fresh; up-to-the-minute.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayir* ← *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, feminine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhūtir* ← *vibhūtiḥ* ← *vibhūti*
 - \[noun\], nominative, singular, masculine
 - “plentiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *īyate* ← *i*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *vacasyā*
 - \[noun\], instrumental, singular, feminine
 - “eloquence.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

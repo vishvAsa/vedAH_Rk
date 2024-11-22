@@ -74,47 +74,67 @@ vipaścíte ← vipaścít- (nominal stem)
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāma* ← *sāman*
 - \[noun\], accusative, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprāya* ← *vipra*
 - \[noun\], dative, singular, masculine
 - “eloquent; stimulated; divine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhate* ← *bṛhat*
 - \[noun\], dative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharmakṛte* ← *dharma*
 - \[noun\], masculine
 - “Dharma; custom; dharma \[word\]; regulation; duty; Dharma; Dharma;
     Dharma; Dharma; law; law; peculiarity; justice.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharmakṛte* ← *kṛte* ← *kṛt*
 - \[noun\], dative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipaścite* ← *vipaścit*
 - \[noun\], dative, singular, masculine
 - “wise; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *panasyave* ← *panasyu*
 - \[noun\], dative, singular, masculine
 - “brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

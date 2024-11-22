@@ -94,66 +94,96 @@ vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhum* ← *sindhu*
 - \[noun\], accusative, singular, feminine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āśayānam* ← *āśī* ← *√śī*
 - \[verb noun\], accusative, singular
 - “lie; stay.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyāvinaṃ* ← *māyāvinam* ← *māyāvin*
 - \[noun\], accusative, singular, masculine
 - “illusional.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asphuran* ← *asphurat* ← *sphur*
 - \[verb\], singular, Imperfect
 - “glitter; bounce; quiver; pulsate.”
-------------------------------------------------------------------------
+
+_________
+
 - *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *arejetāṃ* ← *arejetām* ← *rej*
 - \[verb\], dual, Imperfect
 - “tremor; flicker.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], nominative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhiyāne* ← *bhī*
 - \[verb noun\], nominative, dual
 - “fear; fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanikradato* ← *kanikradataḥ* ← *kanikrad* ← *√krand*
 - \[verb noun\], genitive, singular
 - “roar; neigh.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇo* ← *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrāt* ← *vajra*
 - \[noun\], ablative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

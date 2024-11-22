@@ -70,39 +70,57 @@ pāvakáśociṣaḥ ← pāvakáśocis- (nominal stem)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayāṃsi* ← *prayas*
 - \[noun\], accusative, plural, neuter
 - “food; dainty; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāhasā* ← *vāhas*
 - \[noun\], instrumental, singular, neuter
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśvāṃ* ← *dāś*
 - \[verb noun\], nominative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnoti* ← *aś*
 - \[verb\], singular, Present indikative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakaśociṣaḥ* ← *pāvaka*
 - \[noun\]
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakaśociṣaḥ* ← *śociṣaḥ* ← *śocis*
 - \[noun\], genitive, singular, masculine
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

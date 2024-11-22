@@ -105,46 +105,68 @@ pītvā́ ← √pā- 2 (root)
 -   *sruveva* ← *sruvā* ← *sruva*
 - \[noun\], nominative, dual, masculine
 - “Sruva; sruva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sruveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hariṇī* ← *hari*
 - \[noun\], nominative, dual, feminine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipetatuḥ* ← *vipat* ← *√pat*
 - \[verb\], dual, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *śipre* ← *śiprā*
 - \[noun\], nominative, dual, feminine
 - “lip; śiprā.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *hariṇī* ← *hari*
 - \[noun\], accusative, dual, feminine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *davidhvataḥ* ← *dodhu* ← *√dhū*
 - \[verb noun\], genitive, singular
 - “shake.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛte* ← *kṛ*
 - \[verb noun\], locative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -155,38 +177,54 @@ pītvā́ ← √pā- 2 (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *camase* ← *camasa*
 - \[noun\], locative, singular, masculine
 - “camasa; beaker; cake.”
-------------------------------------------------------------------------
+
+_________
+
 - *marmṛjaddharī* ← *marmṛjat* ← *marmṛj* ← *√mṛj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “groom; wash; rub.”
-------------------------------------------------------------------------
+
+_________
+
 - *marmṛjaddharī* ← *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 - *pītvā* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *madasya* ← *mada*
 - \[noun\], genitive, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryatasyāndhasaḥ* ← *haryatasya* ← *haryata*
 - \[noun\], genitive, singular, neuter
 - “desirable; delightful.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryatasyāndhasaḥ* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

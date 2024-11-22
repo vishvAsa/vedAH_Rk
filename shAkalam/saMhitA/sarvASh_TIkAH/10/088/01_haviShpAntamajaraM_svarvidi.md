@@ -96,78 +96,112 @@ svadháyā ← svadhā́- (nominal stem)
 -   *haviṣpāntam* ← *haviḥ* ← *havis*
 - \[noun\], neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣpāntam* ← *pāntam* ← *pānta*
 - \[noun\], nominative, singular, neuter
 - “drink; beverage.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajaraṃ* ← *ajaram* ← *ajara*
 - \[noun\], nominative, singular, neuter
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarvidi* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarvidi* ← *vidi* ← *vid*
 - \[noun\], locative, singular, masculine
 - “finding.”
-------------------------------------------------------------------------
+
+_________
+
 - *divispṛśy* ← *divispṛśi* ← *divispṛś*
 - \[noun\], locative, singular, masculine
 - “heavenward.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhutaṃ* ← *āhutam* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣṭam* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnau* ← *agni*
 - \[noun\], locative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharmaṇe* ← *bharman*
 - \[noun\], dative, singular, neuter
 - “gold; sustenance.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanāya* ← *bhuvana*
 - \[noun\], dative, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharmaṇe* ← *dharman*
 - \[noun\], dative, singular, neuter
 - “regulation; Dharma; law; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṃ* ← *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhayā* ← *svadhā*
 - \[noun\], instrumental, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
-------------------------------------------------------------------------
+
+_________
+
 - *paprathanta* ← *prath*
 - \[verb\], plural, Perfect injunctive
 - “be known; expand; expand; boom.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

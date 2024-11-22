@@ -89,80 +89,118 @@ yāthana ← √yā- 1 (root)
 
 -   *vāśīmanta* ← *vāśīmantaḥ* ← *vāśīmat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣṭimanto* ← *ṛṣṭimantaḥ* ← *ṛṣṭimat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣiṇaḥ* ← *manīṣin*
 - \[noun\], nominative, plural, masculine
 - “sage; expert; devout.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhanvāna* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhanvāna* ← *dhanvānaḥ* ← *dhanvan*
 - \[noun\], nominative, plural, masculine
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣumanto* ← *iṣumantaḥ* ← *iṣumat*
 - \[noun\], nominative, plural, masculine
 - “armed with an arrow.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣaṅgiṇaḥ* ← *niṣaṅgin*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *svaśvā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaśvā* ← *aśvā* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *stha* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *surathāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *surathāḥ* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśnimātaraḥ* ← *pṛśni*
 - \[noun\], feminine
 - “Pṛśni; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśnimātaraḥ* ← *mātaraḥ* ← *mātṛ*
 - \[noun\], nominative, plural, masculine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāyudhā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāyudhā* ← *āyudhāḥ* ← *āyudha*
 - \[noun\], nominative, plural, masculine
 - “weapon; āyudha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāthanā* ← *yāthana* ← *yā*
 - \[verb\], plural, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubham* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

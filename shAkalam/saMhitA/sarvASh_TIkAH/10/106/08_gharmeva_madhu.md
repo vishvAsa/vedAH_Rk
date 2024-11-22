@@ -100,66 +100,100 @@ ná ← ná (invariable)
 - \[noun\], nominative, dual, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṭhare* ← *jaṭhara*
 - \[noun\], locative, singular, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanerū* ← *saneru*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bhagevitā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *turpharī* ← *turphari*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *phārivāram* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *patareva* ← *patarā* ← *patara*
 - \[noun\], nominative, dual, masculine
 - “winged.”
-------------------------------------------------------------------------
+
+_________
+
 - *patareva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *cacarā* ← *cacara*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *candranirṇiṅ* ← *candra*
 - \[noun\], masculine
 - “moon; silver; Candra; camphor; candrikā; Candra; candra \[word\];
     vajra; left nostril; one.”
-------------------------------------------------------------------------
+
+_________
+
 - *candranirṇiṅ* ← *nirṇij*
 - \[noun\], nominative, singular, feminine
 - “attire; garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *manaṛṅgā* ← *manaṛṅga*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mananyā* ← *mananya*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jagmī* ← *jagmi*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

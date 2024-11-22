@@ -102,82 +102,122 @@ sthātúḥ ← sthātár- (nominal stem)
 -   *tapurjambho* ← *tapuḥ* ← *tapus*
 - \[noun\], neuter
 - “heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapurjambho* ← *jambhaḥ* ← *jambha*
 - \[noun\], nominative, singular, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vana* ← *vane* ← *vana*
 - \[noun\], locative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vātacodito* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātacodito* ← *coditaḥ* ← *coday* ← *√cud*
 - \[verb noun\], nominative, singular
 - “impel; drive; incite; command; drive; arouse; propel.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūthe* ← *yūtha*
 - \[noun\], locative, singular, masculine
 - “herd; troop; battalion.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sāhvāṃ* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāti* ← *vā*
 - \[verb\], singular, Present indikative
 - “blow; blow; emit.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaṃsagaḥ* ← *vaṃsaga*
 - \[noun\], nominative, singular, masculine
 - “bull.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhivrajann* ← *abhivrajan* ← *abhivraj* ← *√vraj*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *akṣitam* ← *akṣita*
 - \[noun\], accusative, singular, neuter
 - “undecaying; uninjured.”
-------------------------------------------------------------------------
+
+_________
+
 - *pājasā* ← *pājas*
 - \[noun\], instrumental, singular, neuter
 - “luminosity; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *raja* ← *rajas*
 - \[noun\], accusative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthātuś* ← *sthātuḥ* ← *sthātṛ*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *caratham* ← *caratha*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *bhayate* ← *bhī*
 - \[verb\], singular, Present indikative
 - “fear; fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *patatriṇaḥ* ← *patatrin*
 - \[noun\], nominative, plural, masculine
 - “bird; arrow; horse.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

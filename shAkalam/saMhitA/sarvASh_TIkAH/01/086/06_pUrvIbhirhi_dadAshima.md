@@ -70,35 +70,51 @@ carṣaṇīnā́m ← carṣaṇí- (nominal stem)
 -   *pūrvībhir* ← *pūrvībhiḥ* ← *puru*
 - \[noun\], instrumental, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadāśima* ← *dāś*
 - \[verb\], plural, Perfect indicative
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaradbhir* ← *śaradbhiḥ* ← *śarad*
 - \[noun\], instrumental, plural, feminine
 - “fall; year; śarad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *avobhiś* ← *avobhiḥ* ← *avas*
 - \[noun\], instrumental, plural, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

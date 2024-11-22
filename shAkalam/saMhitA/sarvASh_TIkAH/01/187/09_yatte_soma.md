@@ -76,61 +76,87 @@ vā́tāpe ← vātāpi- (nominal stem)
 -   *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavāśiro* ← *gava* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavāśiro* ← *āśiraḥ* ← *āśir*
 - \[noun\], genitive, singular, feminine
 - “mixture.”
-------------------------------------------------------------------------
+
+_________
+
 - *yavāśiro* ← *yava*
 - \[noun\], masculine
 - “barley; yava; barleycorn; yava \[word\]; yava; yavakṣāra; grain.”
-------------------------------------------------------------------------
+
+_________
+
 - *yavāśiro* ← *āśiraḥ* ← *āśir*
 - \[noun\], genitive, singular, feminine
 - “mixture.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhajāmahe* ← *bhaj*
 - \[verb\], plural, Present indikative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātāpe* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātāpe* ← *āpe* ← *āpi*
 - \[noun\], vocative, singular, masculine
 - “friend.”
-------------------------------------------------------------------------
+
+_________
+
 - *pīva* ← *pīvaḥ* ← *pīvas*
 - \[noun\], nominative, singular, neuter
 - “fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

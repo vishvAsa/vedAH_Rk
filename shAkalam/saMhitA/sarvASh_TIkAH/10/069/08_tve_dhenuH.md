@@ -93,66 +93,98 @@ sumitrébhiḥ ← sumitrá- (nominal stem)
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudughā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudughā* ← *dughā* ← *dugha*
 - \[noun\], nominative, singular, feminine
 - “yielding.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedo* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *'saścateva* ← *asaścatā* ← *asaścat*
 - \[noun\], instrumental, singular, masculine
 - “inexhaustible.”
-------------------------------------------------------------------------
+
+_________
+
 - *'saścateva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *samanā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sabardhuk* ← *sabarduh*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇāvadbhir* ← *dakṣiṇāvadbhiḥ* ← *dakṣiṇāvat*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumitrebhir* ← *sumitrebhiḥ* ← *sumitra*
 - \[noun\], instrumental, plural, masculine
 - “Sumitra; Sumitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *idhyase* ← *indh*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “kindle; ignite; set ablaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayadbhiḥ* ← *devay*
 - \[verb noun\], instrumental, plural
 - “solicit.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

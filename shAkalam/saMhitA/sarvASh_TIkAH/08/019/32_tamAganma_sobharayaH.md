@@ -75,42 +75,62 @@ trā́sadasyavam ← trāsadasyavá- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *āganma* ← *āgam* ← *√gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
-------------------------------------------------------------------------
+
+_________
+
 - *sobharayaḥ* ← *sobhari*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sahasramuṣkaṃ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasramuṣkaṃ* ← *muṣkam* ← *muṣka*
 - \[noun\], accusative, singular, masculine
 - “scrotum; testis; Schrebera swietenioides Roxb.; muṣka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhiṣṭim* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhiṣṭim* ← *abhiṣṭim* ← *abhiṣṭi*
 - \[noun\], accusative, singular, masculine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *samrājaṃ* ← *samrājam* ← *samrāj*
 - \[noun\], accusative, singular, masculine
 - “sovereign; ruler.”
-------------------------------------------------------------------------
+
+_________
+
 - *trāsadasyavam* ← *trāsadasyava*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

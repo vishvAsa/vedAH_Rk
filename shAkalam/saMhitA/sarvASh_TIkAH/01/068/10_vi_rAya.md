@@ -70,39 +70,57 @@ stŕ̥bhiḥ ← stár- ~ tár- (nominal stem)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *aurṇod* ← *aurṇot* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *duraḥ* ← *dvār*
 - \[noun\], accusative, plural, feminine
 - “door; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *purukṣuḥ* ← *purukṣu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pipeśa* ← *piś*
 - \[verb\], singular, Perfect indicative
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *nākaṃ* ← *nākam* ← *nāka*
 - \[noun\], accusative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *stṛbhir* ← *stṛbhiḥ* ← *star*
 - \[noun\], instrumental, plural, masculine
 - “star.”
-------------------------------------------------------------------------
+
+_________
+
 - *damūnāḥ* ← *damūnas*
 - \[noun\], nominative, singular, masculine
 - “master.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

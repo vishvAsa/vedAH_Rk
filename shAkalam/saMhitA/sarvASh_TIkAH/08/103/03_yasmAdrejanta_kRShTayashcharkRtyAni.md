@@ -84,19 +84,27 @@ saparyata ← √sapary- (root)
 -   *yasmād* ← *yasmāt* ← *yad*
 - \[noun\], ablative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rejanta* ← *rej*
 - \[verb\], plural, Present injunctive
 - “tremor; flicker.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭayaś* ← *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *carkṛtyāni* ← *carkar* ← *√kṛ*
 - \[verb noun\], accusative, plural
 - “praise; commemorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvataḥ* ← *kṛ*
 - \[verb noun\], ablative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -107,46 +115,66 @@ saparyata ← √sapary- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrasām* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrasām* ← *sām* ← *sā*
 - \[noun\], accusative, singular, masculine
 - “winning.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhasātāv* ← *medha*
 - \[noun\], masculine
 - “yajña; juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhasātāv* ← *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanāgniṃ* ← *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanāgniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *saparyata* ← *sapary*
 - \[verb\], plural, Present imperative
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

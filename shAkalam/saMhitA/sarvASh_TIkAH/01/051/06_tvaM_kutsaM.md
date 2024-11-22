@@ -99,82 +99,120 @@ sanā́t ← sanā́t (invariable)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kutsaṃ* ← *kutsam* ← *kutsa*
 - \[noun\], accusative, singular, masculine
 - “Kutsa; kutsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣṇahatyeṣv* ← *śuṣṇa*
 - \[noun\], masculine
 - “Śuṣṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣṇahatyeṣv* ← *hatyeṣu* ← *hatya*
 - \[noun\], locative, plural, neuter
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvithārandhayo* ← *āvitha* ← *av*
 - \[verb\], singular, Perfect indicative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvithārandhayo* ← *arandhayaḥ* ← *randhay* ← *√radh*
 - \[verb\], singular, Imperfect
 - “subjugate; hand over.”
-------------------------------------------------------------------------
+
+_________
+
 - *'tithigvāya* ← *atithigvāya* ← *atithigva*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śambaram* ← *śambara*
 - \[noun\], accusative, singular, masculine
 - “Śambara; Śambara.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahāntaṃ* ← *mahāntam* ← *mahat*
 - \[noun\], accusative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *arbudaṃ* ← *arbudam* ← *arbuda*
 - \[noun\], accusative, singular, masculine
 - “Arbuda; Arbuda; Arbuda.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *kramīḥ* ← *kram*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *padā* ← *pad*
 - \[noun\], instrumental, singular, masculine
 - “foot; pad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sanād* ← *sanāt*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyuhatyāya* ← *dasyu*
 - \[noun\], masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyuhatyāya* ← *hatyāya* ← *hatya*
 - \[noun\], dative, singular, neuter
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *jajñiṣe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

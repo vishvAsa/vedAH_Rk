@@ -99,73 +99,107 @@ yatáḥ ← √yam- (root)
 -   *proror* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *proror* ← *uroḥ* ← *uru*
 - \[noun\], ablative, singular, masculine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], ablative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *diva* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣvād* ← *ṛṣvāt* ← *ṛṣva*
 - \[noun\], ablative, singular, masculine
 - “distinguished; high; noble; enormous.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhataḥ* ← *bṛhat*
 - \[noun\], ablative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudānū* ← *sudānu*
 - \[noun\], vocative, dual, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *spaśo* ← *spaśaḥ* ← *spaś*
 - \[noun\], accusative, plural, masculine
 - “lookout; spy; spaś.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāthe* ← *dhā*
 - \[verb\], dual, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhīṣu* ← *oṣadhī*
 - \[noun\], locative, plural, feminine
 - “herb; plant; drug; herb.”
-------------------------------------------------------------------------
+
+_________
+
 - *vikṣv* ← *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛdhag* ← *ṛdhak*
 - \[adverb\]
 - “away; apart.”
-------------------------------------------------------------------------
+
+_________
+
 - *yato* ← *yataḥ* ← *i*
 - \[verb noun\], accusative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *animiṣaṃ* ← *animiṣam* ← *animiṣa*
 - \[noun\], accusative, singular, neuter
 - “agaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣamāṇā* ← *rakṣ*
 - \[verb noun\], nominative, dual
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

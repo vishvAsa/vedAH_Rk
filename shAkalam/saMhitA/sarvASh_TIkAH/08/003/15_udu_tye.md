@@ -87,59 +87,87 @@ vājayántaḥ ← √vājay- 2 (root)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumattamā* ← *madhumattamāḥ* ← *madhumattama*
 - \[noun\], nominative, plural, masculine
 - “sweetest.”
-------------------------------------------------------------------------
+
+_________
+
 - *gira* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomāsa* ← *stomāsaḥ* ← *stoma*
 - \[noun\], nominative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
-------------------------------------------------------------------------
+
+_________
+
 - *satrājito* ← *satrājitaḥ* ← *satrājit*
 - \[noun\], nominative, plural, masculine
 - “Satrājit.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanasā* ← *dhanasāḥ* ← *dhanasā*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *akṣitotayo* ← *akṣita*
 - \[noun\]
 - “undecaying; uninjured.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣitotayo* ← *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, masculine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vājayanto* ← *vājayantaḥ* ← *vājay* ← *√vaj*
 - \[verb noun\], nominative, plural
 - “incite.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

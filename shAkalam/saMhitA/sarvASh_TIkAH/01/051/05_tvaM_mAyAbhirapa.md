@@ -108,83 +108,123 @@ r̥jíśvānam ← r̥jíśvan- (nominal stem)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyābhir* ← *māyābhiḥ* ← *māyā*
 - \[noun\], instrumental, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyino* ← *māyinaḥ* ← *māyin*
 - \[noun\], accusative, plural, masculine
 - “artful; charming; crafty; deceptive.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dhamaḥ* ← *adhamaḥ* ← *dham*
 - \[verb\], singular, Imperfect
 - “heat; blow; fan; blow; ignite; blow; inflate.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhābhir* ← *svadhābhiḥ* ← *svadhā*
 - \[noun\], instrumental, plural, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuptāv* ← *śuptau* ← *śupti*
 - \[noun\], locative, singular, feminine
 - “shoulder.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajuhvata* ← *hu*
 - \[verb\], plural, Imperfect
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pipror* ← *piproḥ* ← *pipru*
 - \[noun\], genitive, singular, masculine
 - “Pipru.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmaṇaḥ* ← *nṛmaṇas*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *prārujaḥ* ← *praruj* ← *√ruj*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjiśvānaṃ* ← *ṛjiśvānam* ← *ṛjiśvan*
 - \[noun\], accusative, singular, masculine
 - “Ṛjiśvan.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyuhatyeṣv* ← *dasyu*
 - \[noun\], masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyuhatyeṣv* ← *hatyeṣu* ← *hatya*
 - \[noun\], locative, plural, neuter
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvitha* ← *av*
 - \[verb\], singular, Perfect indicative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

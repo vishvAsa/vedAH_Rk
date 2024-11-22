@@ -96,63 +96,95 @@ sūnā́ḥ ← sūnā́- (nominal stem)
 -   *yan* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nīkṣaṇam* ← *nīkṣaṇa*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *māṃspacanyā* ← *māṃspacanyāḥ* ← *māṃspacana*
 - \[noun\], genitive, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ukhāyā* ← *ukhāyāḥ* ← *ukhā*
 - \[noun\], genitive, singular, feminine
 - “kettle; ukhā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pātrāṇi* ← *pātra*
 - \[noun\], nominative, plural, neuter
 - “vessel; pātra \[word\]; authority; receptacle; pātra; vessel; cup;
     bowl; basket.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūṣṇa* ← *yūṣṇaḥ* ← *yūṣan*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āsecanāni* ← *āsecana*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ūṣmaṇyāpidhānā* ← *ūṣmaṇyā* ← *ūṣmaṇya*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ūṣmaṇyāpidhānā* ← *apidhānā* ← *apidhāna*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *carūṇām* ← *caru*
 - \[noun\], genitive, plural, masculine
 - “caru; pot; Caru.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅkāḥ* ← *aṅka*
 - \[noun\], nominative, plural, masculine
 - “lap; sign; stigmatization; mark; number; knee; aṅka \[word\]; one;
     hook.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnāḥ* ← *sūnā*
 - \[noun\], nominative, plural, feminine
 - “abattoir; killing; butchery.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūṣanty* ← *bhūṣanti* ← *bhūṣ*
 - \[verb\], plural, Present indikative
 - “endeavor; attend; strive.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

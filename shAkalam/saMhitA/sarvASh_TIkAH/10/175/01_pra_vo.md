@@ -76,36 +76,52 @@ yujyadhvam ← √yuj- (root)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *grāvāṇaḥ* ← *grāvan*
 - \[noun\], vocative, plural, masculine
 - “stone; millstone; grindstone; mountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvatu* ← *sū*
 - \[verb\], singular, Present imperative
 - “give birth; urge; bestow; cause.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharmaṇā* ← *dharman*
 - \[noun\], instrumental, singular, neuter
 - “regulation; Dharma; law; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūrṣu* ← *dhur*
 - \[noun\], locative, plural
 - “yoke; dhur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yujyadhvaṃ* ← *yujyadhvam* ← *yuj*
 - \[verb\], plural, Imperativ Pr￤s. Passiv
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -113,11 +129,15 @@ yujyadhvam ← √yuj- (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunuta* ← *su*
 - \[verb\], plural, Present imperative
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

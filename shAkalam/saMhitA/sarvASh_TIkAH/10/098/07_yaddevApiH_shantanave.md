@@ -93,73 +93,107 @@ vā́cam ← vā́c- (nominal stem)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāpiḥ* ← *devāpi*
 - \[noun\], nominative, singular, masculine
 - “Devāpi.”
-------------------------------------------------------------------------
+
+_________
+
 - *śantanave* ← *śaṃtanu*
 - \[noun\], dative, singular, masculine
 - “Śaṃtanu; Śaṃtanu.”
-------------------------------------------------------------------------
+
+_________
+
 - *purohito* ← *purohitaḥ* ← *purohita*
 - \[noun\], nominative, singular, masculine
 - “Purohita; purohita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hotrāya* ← *hotra*
 - \[noun\], dative, singular, neuter
 - “yajña; sacrifice.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtaḥ* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛpayann* ← *kṛpayan* ← *kṛpay* ← *√kṛp*
 - \[verb noun\], nominative, singular
 - “miss.”
-------------------------------------------------------------------------
+
+_________
+
 - *adīdhet* ← *dhī*
 - \[verb\], singular, Imperfect
 - “think; desire; chew over.”
-------------------------------------------------------------------------
+
+_________
+
 - *devaśrutaṃ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devaśrutaṃ* ← *śrutam* ← *śrut*
 - \[noun\], accusative, singular, feminine
 - “listening.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṭivaniṃ* ← *vṛṣṭi*
 - \[noun\], feminine
 - “rain; shower; rainy season.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṭivaniṃ* ← *vanim* ← *vani*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *rarāṇo* ← *rarāṇaḥ* ← *rā*
 - \[verb noun\], nominative, singular
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayacchat* ← *yam*
 - \[verb\], singular, Imperfect
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

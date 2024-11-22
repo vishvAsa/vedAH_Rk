@@ -76,45 +76,65 @@ duhitā́ ← duhitár- (nominal stem)
 -   *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣyā* ← *syā* ← *tya*
 - \[noun\], nominative, singular, feminine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnarī* ← *sūnara*
 - \[noun\], nominative, singular, feminine
 - “noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *janī*
 - \[noun\], nominative, singular, feminine
 - “woman.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyucchantī* ← *vivas* ← *√vas*
 - \[verb noun\], nominative, singular
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasuḥ* ← *svasṛ*
 - \[noun\], ablative, singular, feminine
 - “sister; svasṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *adarśi* ← *dṛś*
 - \[verb\], singular, Aorist passive
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

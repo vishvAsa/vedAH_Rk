@@ -99,26 +99,38 @@ pathā́m ← pánthā- ~ path- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣipaṇiṃ* ← *kṣipaṇim* ← *kṣipaṇi*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *turaṇyati* ← *turaṇy*
 - \[verb\], singular, Present indikative
 - “rush.”
-------------------------------------------------------------------------
+
+_________
+
 - *grīvāyām* ← *grīvā*
 - \[noun\], locative, singular, feminine
 - “neck; grīvā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *baddho* ← *baddhaḥ* ← *bandh*
 - \[verb noun\], nominative, singular
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
@@ -126,46 +138,68 @@ pathā́m ← pánthā- ~ path- (nominal stem)
     restrain; bind; gesticulate; wear; bar; bandh; connect; stud; mix;
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
-------------------------------------------------------------------------
+
+_________
+
 - *apikakṣa* ← *apikakṣe* ← *apikakṣa*
 - \[noun\], locative, singular, masculine
 - “scapula.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsani* ← *āsan*
 - \[noun\], locative, singular, neuter
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratuṃ* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhikrā* ← *dadhikrāḥ* ← *dadhikrā*
 - \[noun\], nominative, singular, masculine
 - “Dadhikrā.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃtavītvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pathām* ← *pathin*
 - \[noun\], genitive, plural, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅkāṃsy* ← *aṅkāṃsi* ← *aṅkas*
 - \[noun\], accusative, plural, neuter
 - “curve.”
-------------------------------------------------------------------------
+
+_________
+
 - *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpanīphaṇat* ← *āpanīphaṇ* ← *√phaṇ*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

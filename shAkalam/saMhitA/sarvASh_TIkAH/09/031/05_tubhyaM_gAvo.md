@@ -76,44 +76,64 @@ várṣiṣṭhe ← várṣiṣṭha- (nominal stem)
 -   *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtam* ← *ghṛta*
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *payo* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *babhro* ← *babhru*
 - \[noun\], vocative, singular, masculine
 - “tawny; brown.”
-------------------------------------------------------------------------
+
+_________
+
 - *duduhre* ← *duh*
 - \[verb\], plural, Perfect indicative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣitam* ← *akṣita*
 - \[noun\], accusative, singular, neuter
 - “undecaying; uninjured.”
-------------------------------------------------------------------------
+
+_________
+
 - *varṣiṣṭhe* ← *varṣiṣṭha*
 - \[noun\], locative, singular, masculine
 - “highest.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sānavi* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -90,86 +90,126 @@ stanáyadamāḥ ← stanáyadama- (nominal stem)
 -   *vidyunmahaso* ← *vidyut*
 - \[noun\], feminine
 - “lightning; Vidyut; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyunmahaso* ← *mahasaḥ* ← *mahas*
 - \[noun\], nominative, plural, masculine
 - “greatness; festival; glory; reward; gladness.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśmadidyavo* ← *aśma* ← *aśman*
 - \[noun\], masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśmadidyavo* ← *didyavaḥ* ← *didyu*
 - \[noun\], nominative, plural, masculine
 - “arrow; projectile.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātatviṣo* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātatviṣo* ← *tviṣaḥ* ← *tviṣ*
 - \[noun\], nominative, plural, masculine
 - “beam; color; beauty.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatacyutaḥ* ← *parvata*
 - \[noun\], masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatacyutaḥ* ← *cyutaḥ* ← *cyut*
 - \[noun\], nominative, plural, masculine
 - “shaking; dropping.”
-------------------------------------------------------------------------
+
+_________
+
 - *abdayā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *muhur*
 - \[adverb\]
 - “again; repeatedly; continually.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hrādunīvṛta* ← *hrādunī*
 - \[noun\], feminine
 - “hail.”
-------------------------------------------------------------------------
+
+_________
+
 - *hrādunīvṛta* ← *vṛta* ← *vṛ*
 - \[verb noun\], vocative, plural
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *stanayadamā* ← *stanayat* ← *stanay* ← *√stan*
 - \[verb noun\]
 - “thunder; thunder.”
-------------------------------------------------------------------------
+
+_________
+
 - *stanayadamā* ← *amāḥ* ← *ama*
 - \[noun\], nominative, plural, masculine
 - “am; panic; power; ferocity.”
-------------------------------------------------------------------------
+
+_________
+
 - *rabhasā* ← *rabhasāḥ* ← *rabhasa*
 - \[noun\], nominative, plural, masculine
 - “fierce; impetuous; powerful; potent; flamboyant.”
-------------------------------------------------------------------------
+
+_________
+
 - *udojasaḥ* ← *udojas*
 - \[noun\], nominative, plural, masculine
 - “powerful.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

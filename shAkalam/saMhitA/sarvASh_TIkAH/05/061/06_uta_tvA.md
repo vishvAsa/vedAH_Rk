@@ -73,41 +73,59 @@ arādhásaḥ ← arādhás- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tva*
 - \[noun\], nominative, singular, feminine
 - “many a(a); one.”
-------------------------------------------------------------------------
+
+_________
+
 - *strī*
 - \[noun\], nominative, singular, feminine
 - “woman; wife; feminine; strīvajra; sexual activity; strī \[word\];
     daughter; female.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśīyasī* ← *śaśīyas*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *puṃso* ← *puṃsaḥ* ← *puṃs*
 - \[noun\], ablative, singular, masculine
 - “man; masculine; man; puṃvajra; puruṣa; son; puṃs \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasyasī* ← *vasyas*
 - \[noun\], nominative, singular, feminine
 - “better; rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *adevatrād* ← *adevatrāt* ← *adevatra*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *arādhasaḥ* ← *arādhas*
 - \[noun\], ablative, singular, masculine
 - “stingy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

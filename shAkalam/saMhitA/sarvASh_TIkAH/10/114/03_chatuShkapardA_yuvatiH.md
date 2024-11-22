@@ -93,81 +93,117 @@ yátra ← yátra (invariable)
 -   *catuṣkapardā* ← *catur*
 - \[noun\]
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *catuṣkapardā* ← *kapardā* ← *kaparda*
 - \[noun\], nominative, singular, feminine
 - “money cowrie; knotted hair.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvatiḥ* ← *yuvati*
 - \[noun\], nominative, singular, feminine
 - “girl; woman.”
-------------------------------------------------------------------------
+
+_________
+
 - *supeśā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supeśā* ← *peśāḥ* ← *peśas*
 - \[noun\], nominative, singular, feminine
 - “decoration; shape.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtapratīkā* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtapratīkā* ← *pratīkā* ← *pratīka*
 - \[noun\], nominative, singular, feminine
 - “face; surface.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayunāni* ← *vayuna*
 - \[noun\], accusative, plural, neuter
 - “convention; custom; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaste* ← *vas*
 - \[verb\], singular, Present indikative
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasyāṃ* ← *tasyām* ← *tad*
 - \[noun\], locative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *suparṇā* ← *suparṇa*
 - \[noun\], nominative, dual, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], nominative, dual, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣedatur* ← *sedatuḥ* ← *sad*
 - \[verb\], dual, Perfect indicative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāgadheyam* ← *bhāgadheya*
 - \[noun\], accusative, singular, neuter
 - “parcel; bhāgadheya \[word\]; Destiny; destiny.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

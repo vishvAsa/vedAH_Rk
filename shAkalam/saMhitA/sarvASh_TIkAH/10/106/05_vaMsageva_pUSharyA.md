@@ -105,76 +105,114 @@ saparyā̀ ← saparyà- (nominal stem)
 -   *vaṃsageva* ← *vaṃsagā* ← *vaṃsaga*
 - \[noun\], nominative, dual, masculine
 - “bull.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaṃsageva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣaryā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *śimbātā* ← *śimbāta*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mitreva* ← *mitrā* ← *mitra*
 - \[noun\], nominative, dual, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtā* ← *ṛta*
 - \[noun\], nominative, dual, masculine
 - “timely; honest.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatarā*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *śātapantā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *vājevoccā* ← *vājā* ← *vāja*
 - \[noun\], nominative, dual, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājevoccā* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājevoccā* ← *uccā* ← *ucca*
 - \[noun\], nominative, dual, masculine
 - “high; large; eminent.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayasā* ← *vayas*
 - \[noun\], instrumental, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmyeṣṭhā*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *meṣeveṣā* ← *meṣā* ← *meṣa*
 - \[noun\], nominative, dual, masculine
 - “sheep; ram; Naigameṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *meṣeveṣā* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *meṣeveṣā* ← *īṣā*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *saparyā*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *purīṣā* ← *purīṣa*
 - \[noun\], nominative, plural, neuter
 - “fecal matter; droppings; spring; earth; purīṣa \[word\]; Purīṣa;
     rust; affluence; defecation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

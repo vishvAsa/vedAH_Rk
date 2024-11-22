@@ -93,72 +93,106 @@ táṣṭā ← táṣṭar- (nominal stem)
 -   *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tanā* ← *tan*
 - \[noun\], instrumental, singular, feminine
 - “continuity; sequence; longevity.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrye* ← *sūrya*
 - \[noun\], locative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyutadyāmānaṃ* ← *dyutat*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *dyutadyāmānaṃ* ← *yāmānam* ← *yāman*
 - \[noun\], accusative, singular, masculine
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhanta* ← *vṛdh*
 - \[verb\], plural, Plusquamperfect
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṇām* ← *nṛ*
 - \[noun\], genitive, plural
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvananaṃ* ← *saṃvananam* ← *saṃvanana*
 - \[noun\], accusative, singular, masculine
 - “propitiative; conciliating.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāśvyaṃ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāśvyaṃ* ← *aśvyam* ← *aśvya*
 - \[noun\], accusative, singular, masculine
 - “equine.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṣṭevānapacyutam* ← *taṣṭā* ← *taṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “carpenter.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṣṭevānapacyutam* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṣṭevānapacyutam* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṣṭevānapacyutam* ← *apacyutam* ← *apacyu* ← *√cyu*
 - \[verb noun\], accusative, singular
 - “abscond.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

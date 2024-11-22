@@ -104,79 +104,115 @@ sākám ← sākám (invariable)
 
 -   *sanāmānā* ← *sanāman*
 - \[noun\], accusative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhvasayo* ← *dhvasayaḥ* ← *dhvasay* ← *√dhvaṃs*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *avāhann* ← *avāhan* ← *avahan* ← *√han*
 - \[verb\], singular, Imperfect
 - “thrash; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathānaḥ* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathānaḥ* ← *anaḥ* ← *anas*
 - \[noun\], accusative, singular, neuter
 - “cart; anas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣvair* ← *ṛṣvaiḥ* ← *ṛṣva*
 - \[noun\], instrumental, plural, masculine
 - “distinguished; high; noble; enormous.”
-------------------------------------------------------------------------
+
+_________
+
 - *agacchaḥ* ← *gam*
 - \[verb\], singular, Imperfect
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhibhir* ← *sakhibhiḥ* ← *sakhī*
 - \[noun\], instrumental, plural, feminine
 - “confidante; sakhī \[word\]; friend.”
-------------------------------------------------------------------------
+
+_________
+
 - *nikāmaiḥ* ← *nikāma*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratiṣṭhā* ← *pratiṣṭhāḥ* ← *pratiṣṭhā*
 - \[noun\], accusative, plural, feminine
 - “foundation; base; fame; consecration; location.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdyā* ← *hṛdyāḥ* ← *hṛdya*
 - \[noun\], accusative, plural, feminine
 - “good for the heart; dainty; pleasant.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaghantha* ← *han*
 - \[verb\], singular, Perfect indicative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

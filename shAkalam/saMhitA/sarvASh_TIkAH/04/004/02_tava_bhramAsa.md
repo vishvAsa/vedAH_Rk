@@ -99,77 +99,113 @@ víṣvak ← víṣvañc- (nominal stem)
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhramāsa* ← *bhramāsaḥ* ← *bhrama*
 - \[noun\], nominative, plural, masculine
 - “bhrama; dizziness; flare; wandering.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśuyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *patanty* ← *patanti* ← *pat*
 - \[verb\], plural, Present indikative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛśa* ← *spṛś*
 - \[verb\], singular, Present imperative
 - “touch; enter (a state); reach; touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣatā* ← *dhṛṣat*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śośucānaḥ* ← *śośuc* ← *√śuc*
 - \[verb noun\], nominative, singular
 - “blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapūṃṣy* ← *tapūṃṣi* ← *tapus*
 - \[noun\], accusative, plural, neuter
 - “heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhvā* ← *juhū*
 - \[noun\], instrumental, singular, feminine
 - “tongue; fire; ladle.”
-------------------------------------------------------------------------
+
+_________
+
 - *pataṅgān* ← *pataṃga*
 - \[noun\], accusative, plural, masculine
 - “insect; sun; bird; Caesalpinia sappan L.; Pataṃga; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *asaṃdito* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *asaṃdito* ← *saṃditaḥ* ← *saṃdo* ← *√do*
 - \[verb noun\], nominative, singular
 - “yoke; tie.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛja* ← *sṛj*
 - \[verb\], singular, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣvag* ← *viṣvak* ← *viṣvañc*
 - \[noun\], accusative, singular, neuter
 - “dispersed; viṣvañc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ulkāḥ* ← *ulkā*
 - \[noun\], accusative, plural, feminine
 - “meteor; torch; brand.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

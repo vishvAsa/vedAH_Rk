@@ -82,53 +82,77 @@ satyáḥ ← satyá- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujo* ← *yujaḥ* ← *yuj*
 - \[noun\], accusative, plural, feminine
 - “amalgamated; harnessed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāco* ← *vācaḥ* ← *vāc*
 - \[noun\], accusative, plural, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *agriyo* ← *agriyaḥ* ← *agriya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣāva* ← *vṛṣā* ← *vṛṣa*
 - \[noun\], instrumental, singular, masculine
 - “bull; vṛṣa \[word\]; vṛṣ; Justicia gendarussa Burm.F.; bull;
     Taurus; bull.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣāva* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakradad* ← *cakradat* ← *krand*
 - \[verb\], singular, Plusquamperfect
 - “roar; neigh; cry; howl; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *vane* ← *vana*
 - \[noun\], locative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadmābhi* ← *sadma* ← *sadman*
 - \[noun\], accusative, singular, neuter
 - “seat; house; stable; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadmābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyo* ← *satyaḥ* ← *satya*
 - \[noun\], nominative, singular, masculine
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvaraḥ* ← *adhvara*
 - \[noun\], nominative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

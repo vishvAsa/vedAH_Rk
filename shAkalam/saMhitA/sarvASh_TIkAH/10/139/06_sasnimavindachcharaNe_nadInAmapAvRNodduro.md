@@ -102,83 +102,119 @@ pári ← pári (invariable)
 -   *sasnim* ← *sasni*
 - \[noun\], accusative, singular, masculine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *avindac* ← *avindat* ← *vid*
 - \[verb\], singular, Imperfect
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *caraṇe* ← *caraṇa*
 - \[noun\], locative, singular, neuter
 - “foot; Vedic school; caraṇa; one-fourth; wheel; performance.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadīnām* ← *nadī*
 - \[noun\], genitive, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *apāvṛṇod* ← *apāvṛṇot* ← *apāvṛ* ← *√vṛ*
 - \[verb\], singular, Imperfect
 - “open; gape.”
-------------------------------------------------------------------------
+
+_________
+
 - *duro* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural
 - “door; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśmavrajānām* ← *aśma* ← *aśman*
 - \[noun\], masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśmavrajānām* ← *vrajānām* ← *vraja*
 - \[noun\], genitive, plural, feminine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāsāṃ* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāsāṃ* ← *āsām* ← *idam*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *gandharvo* ← *gandharvaḥ* ← *gandharva*
 - \[noun\], nominative, singular, masculine
 - “Gandharva; castor-oil plant; horse; Gandharva; Indian cuckoo.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtāni* ← *amṛta*
 - \[noun\], accusative, plural, neuter
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *vocad* ← *vocat* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *jānād* ← *jānāt* ← *jñā*
 - \[verb\], singular, Imperfect
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahīnām* ← *ahi*
 - \[noun\], genitive, plural, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

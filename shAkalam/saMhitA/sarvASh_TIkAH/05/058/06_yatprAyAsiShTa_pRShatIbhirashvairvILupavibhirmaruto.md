@@ -99,71 +99,105 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 -   *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāyāsiṣṭa* ← *prayā* ← *√yā*
 - \[verb\], plural, Athematic sis aor. (Ind.)
 - “go; depart; travel; enter (a state); repair to; advance; elapse;
     leave; drive; walk; disappear; die; heal.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣatībhir* ← *pṛṣatībhiḥ* ← *pṛṣatī*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *aśvair* ← *aśvaiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīﾱupavibhir* ← *vīﾱu* ← *vīḍu*
 - \[noun\]
 - “hard; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīﾱupavibhir* ← *pavibhiḥ* ← *pavi*
 - \[noun\], instrumental, plural, masculine
 - “vajra; tire; rim.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathebhiḥ* ← *ratha*
 - \[noun\], instrumental, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣodanta* ← *kṣodante* ← *kṣud*
 - \[verb\], plural, Present indikative
 - “pound.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *riṇate* ← *ri*
 - \[verb\], plural, Present indikative
 - “free; liberate; run; let go of.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanāny* ← *vanāni* ← *vana*
 - \[noun\], nominative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *avosriyo* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *avosriyo* ← *usriyaḥ* ← *usriya*
 - \[noun\], nominative, singular, masculine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *krandatu* ← *krand*
 - \[verb\], singular, Present imperative
 - “roar; neigh; cry; howl; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,65 +96,97 @@ r̥jíśvanā ← r̥jíśvan- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *karañjam* ← *karañja*
 - \[noun\], accusative, singular, masculine
 - “Indian beech; Karañja.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *parṇayaṃ* ← *parṇayam* ← *parṇaya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vadhīs* ← *vadhīḥ* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
-------------------------------------------------------------------------
+
+_________
+
 - *tejiṣṭhayātithigvasya* ← *tejiṣṭhayā* ← *tejiṣṭha*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *tejiṣṭhayātithigvasya* ← *atithigvasya* ← *atithigva*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vartanī* ← *vartani*
 - \[noun\], instrumental, singular, feminine
 - “path; East; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaṅgṛdasyābhinat* ← *vaṅgṛdasya* ← *vaṅgṛda*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vaṅgṛdasyābhinat* ← *abhinat* ← *bhid*
 - \[verb\], singular, Imperfect
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *'nānudaḥ* ← *anānudaḥ* ← *anānuda*
 - \[noun\], nominative, singular, masculine
 - “firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣūtā* ← *pariṣūtāḥ* ← *pariṣū* ← *√sū*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjiśvanā* ← *ṛjiśvan*
 - \[noun\], instrumental, singular, masculine
 - “Ṛjiśvan.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

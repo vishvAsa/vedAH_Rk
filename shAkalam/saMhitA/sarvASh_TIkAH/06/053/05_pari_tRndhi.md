@@ -76,43 +76,63 @@ randhaya ← √randh- (root)
 -   *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛndhi* ← *tṛd*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *paṇīnām* ← *paṇi*
 - \[noun\], genitive, plural, masculine
 - “niggard; paṇ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārayā* ← *ārā*
 - \[noun\], instrumental, singular, feminine
 - “ārā.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdayā* ← *hṛdaya*
 - \[noun\], accusative, plural, neuter
 - “heart; heart; mind; hṛdaya \[word\]; science; thorax;
     Aṣṭāṅgahṛdayasaṃhitā; soul.”
-------------------------------------------------------------------------
+
+_________
+
 - *kave* ← *kavi*
 - \[noun\], vocative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *athem* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *athem* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *randhaya* ← *randhay* ← *√radh*
 - \[verb\], singular, Present imperative
 - “subjugate; hand over.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

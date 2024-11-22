@@ -105,83 +105,123 @@ varanta ← √vr̥- ~ vr̥̄- (root)
 -   *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *uktham* ← *uktha*
 - \[noun\], accusative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *ij* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *juguryā* ← *juguryāḥ* ← *gur*
 - \[verb\], singular, Perfect optative
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvākṣāmā* ← *dyāvākṣam*
 - \[noun\], nominative, dual, feminine
 - “heaven and earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhavaś* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *svagūrtāḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svagūrtāḥ* ← *gūrtāḥ* ← *gur*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *gavyaṃ* ← *gavyam* ← *gavya*
 - \[noun\], accusative, singular, neuter
 - “bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yavyaṃ* ← *yavyam* ← *yavya*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *yanto* ← *yantaḥ* ← *i*
 - \[verb noun\], nominative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghāheṣaṃ* ← *dīrghā* ← *dīrgha*
 - \[noun\], accusative, plural, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghāheṣaṃ* ← *ahā* ← *aha*
 - \[noun\], accusative, plural, neuter
 - “day; aha \[word\]; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghāheṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, masculine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *varam* ← *vara*
 - \[noun\], accusative, singular, masculine
 - “gift; favor; wish; privilege; varac; wages.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṇyo* ← *aruṇyaḥ* ← *aruṇī*
 - \[noun\], accusative, plural, feminine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *varanta* ← *vṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

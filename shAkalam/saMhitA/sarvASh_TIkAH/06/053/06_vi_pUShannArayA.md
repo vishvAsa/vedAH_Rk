@@ -82,52 +82,76 @@ randhaya ← √randh- (root)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣann* ← *pūṣan*
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārayā* ← *ārā*
 - \[noun\], instrumental, singular, feminine
 - “ārā.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuda* ← *tud*
 - \[verb\], singular, Present imperative
 - “push; ache.”
-------------------------------------------------------------------------
+
+_________
+
 - *paṇer* ← *paṇeḥ* ← *paṇi*
 - \[noun\], genitive, singular, masculine
 - “niggard; paṇ.”
-------------------------------------------------------------------------
+
+_________
+
 - *iccha* ← *iṣ*
 - \[verb\], singular, Present imperative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdi* ← *hṛd*
 - \[noun\], locative, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *athem* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *athem* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *randhaya* ← *randhay* ← *√radh*
 - \[verb\], singular, Present imperative
 - “subjugate; hand over.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

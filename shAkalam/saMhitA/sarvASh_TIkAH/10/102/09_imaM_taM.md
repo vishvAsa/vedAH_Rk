@@ -96,73 +96,105 @@ pr̥tanā́jyeṣu ← pr̥tanā́jya- (nominal stem)
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśya* ← *paś*
 - \[verb\], singular, Present imperative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhasya* ← *vṛṣabha*
 - \[noun\], genitive, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuñjaṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *kāṣṭhāyā* ← *kāṣṭhāyāḥ* ← *kāṣṭhā*
 - \[noun\], genitive, singular, feminine
 - “kāṣṭhā; quarter; body of water.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhye* ← *madhya*
 - \[noun\], locative, singular, neuter
 - “midst; center; cavity; inside; middle; center; waist; group; pulp;
     torso; time interval; area; series; madhya \[word\]; Madhya; noon;
     middle; middle age; span; belly.”
-------------------------------------------------------------------------
+
+_________
+
 - *drughaṇaṃ* ← *drughaṇam* ← *drughaṇa*
 - \[noun\], accusative, singular, masculine
 - “Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *śayānam* ← *śī*
 - \[verb noun\], accusative, singular
 - “lie; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jigāya* ← *ji*
 - \[verb\], singular, Perfect indicative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatavat*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *sahasraṃ* ← *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gavām* ← *go*
 - \[noun\], genitive, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *mudgalaḥ* ← *mudgala*
 - \[noun\], nominative, singular, masculine
 - “Mudgala; Mudgala.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanājyeṣu* ← *pṛtanājya*
 - \[noun\], locative, plural, neuter
 - “fight; combat.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

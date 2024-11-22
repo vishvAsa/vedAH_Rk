@@ -93,18 +93,26 @@ tŕ̥ṣyate ← √tr̥ṣ- (root)
 -   *parāvataṃ* ← *parāvatam* ← *parāvat*
 - \[noun\], accusative, singular, feminine
 - “distance; distance; distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyānudethām* ← *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyānudethām* ← *anudethām* ← *nud*
 - \[verb\], dual, Imperfect
 - “push; propel; expel; push; move.”
-------------------------------------------------------------------------
+
+_________
+
 - *uccābudhnaṃ* ← *uccābudhnam* ← *uccābudhna*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *cakrathur* ← *cakrathuḥ* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -115,45 +123,67 @@ tŕ̥ṣyate ← √tr̥ṣ- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihmabāram* ← *jihma*
 - \[noun\]
 - “crooked; oblique; crooked.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihmabāram* ← *bāram* ← *bāra*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kṣarann* ← *kṣaran* ← *kṣar*
 - \[verb\], plural, Imperfect
 - “run; melt.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pāyanāya* ← *pāyana*
 - \[noun\], dative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrāya* ← *sahasra*
 - \[noun\], dative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛṣyate* ← *tṛṣ*
 - \[verb noun\], dative, singular
 - “thirst.”
-------------------------------------------------------------------------
+
+_________
+
 - *gotamasya* ← *gotama*
 - \[noun\], genitive, singular, masculine
 - “Gotama; gotama \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

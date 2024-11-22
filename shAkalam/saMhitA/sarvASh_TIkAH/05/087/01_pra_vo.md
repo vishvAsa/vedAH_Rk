@@ -101,95 +101,141 @@ dhúnivratāya ← dhúnivrata- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *matayo* ← *matayaḥ* ← *mati*
 - \[noun\], nominative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṇave* ← *viṣṇu*
 - \[noun\], dative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutvate* ← *marutvat*
 - \[noun\], dative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *girijā* ← *giri*
 - \[noun\], masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 - *girijā* ← *jāḥ* ← *jā*
 - \[noun\], nominative, singular, masculine
 - “born.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāmarut* ← *eva*
 - \[noun\]
 - “fast; rapid; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāmarut* ← *yā*
 - \[noun\]
 - “going.”
-------------------------------------------------------------------------
+
+_________
+
 - *evayāmarut* ← *marut*
 - \[noun\], nominative, singular, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayajyave* ← *prayajyu*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sukhādaye* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukhādaye* ← *khādaye* ← *khādi*
 - \[noun\], dative, singular, masculine
 - “ring.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavase* ← *tavas*
 - \[noun\], dative, singular, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhandadiṣṭaye* ← *bhandat* ← *bhand*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *bhandadiṣṭaye* ← *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, masculine
 - “yajña; offering; brick.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhunivratāya* ← *dhuni*
 - \[noun\]
 - “deafening; boisterous; noisy.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhunivratāya* ← *vratāya* ← *vrata*
 - \[noun\], dative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavase* ← *śavas*
 - \[noun\], dative, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

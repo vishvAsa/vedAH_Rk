@@ -102,88 +102,128 @@ te ← tvám (pronoun)
 -   *aprakṣitaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *aprakṣitaṃ* ← *prakṣitam* ← *prakṣi* ← *√kṣi*
 - \[verb noun\], accusative, singular
 - “run down; emaciate; exhaust.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibharṣi* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *hastayor* ← *hastayoḥ* ← *hasta*
 - \[noun\], locative, dual, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣāḍhaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣāḍhaṃ* ← *ṣāḍham* ← *sah*
 - \[verb noun\], accusative, singular
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahas* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvi* ← *tanū*
 - \[noun\], locative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *śruto* ← *śrutaḥ* ← *śru*
 - \[verb noun\], nominative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvṛtāso* ← *āvṛtāsaḥ* ← *āvṛ* ← *√vṛ*
 - \[verb noun\], nominative, plural
 - “envelop; accompany; surround; obstruct; cover; close; surround;
     endow; overwhelm; mix; coat.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vatāso* ← *avatāsaḥ* ← *avata*
 - \[noun\], nominative, plural, masculine
 - “well.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kartṛbhis* ← *kartṛbhiḥ* ← *kartṛ*
 - \[noun\], instrumental, plural, masculine
 - “causing; making; doing; active.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūṣu* ← *tanū*
 - \[noun\], locative, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratava* ← *kratavaḥ* ← *kratu*
 - \[noun\], nominative, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūrayaḥ* ← *bhūri*
 - \[noun\], nominative, plural, masculine
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

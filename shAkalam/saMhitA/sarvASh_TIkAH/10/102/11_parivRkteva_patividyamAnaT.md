@@ -95,74 +95,110 @@ sumaṅgálam ← sumaṅgála- (nominal stem)
 
 -   *parivṛkteva* ← *parivṛktā* ← *parivṛj* ← *√vṛj*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *parivṛkteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *patividyam* ← *pati*
 - \[noun\], masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *patividyam* ← *vidyam* ← *vidyā*
 - \[noun\], accusative, singular, masculine
 - “knowledge; eruditeness; science; mantra; magic; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaṭ* ← *naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “reach; achieve; enter (a state); reach.”
-------------------------------------------------------------------------
+
+_________
+
 - *pīpyānā* ← *pyā*
 - \[verb noun\], nominative, singular
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *kūcakreṇeva* ← *kūcakreṇa* ← *kūcakra*
 - \[noun\], instrumental, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *kūcakreṇeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *siñcan* ← *sic*
 - \[verb noun\], nominative, singular
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣaiṣyā* ← *eṣaiṣya*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathyā* ← *rathī*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *jayema* ← *ji*
 - \[verb\], plural, Present optative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumaṅgalaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumaṅgalaṃ* ← *maṅgalam* ← *maṅgala*
 - \[noun\], nominative, singular, neuter
 - “auspicious.”
-------------------------------------------------------------------------
+
+_________
+
 - *sinavad* ← *sinavat*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātam* ← *sāta*
 - \[noun\], nominative, singular, neuter
 - “wealth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

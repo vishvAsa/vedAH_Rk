@@ -102,82 +102,118 @@ sám ← sám (invariable)
 -   *vidhuṃ* ← *vidhum* ← *vidhu*
 - \[noun\], accusative, singular, masculine
 - “moon; vidhu \[word\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadrāṇaṃ* ← *dadrāṇam* ← *drā*
 - \[verb noun\], accusative, singular
 - “run; run.”
-------------------------------------------------------------------------
+
+_________
+
 - *samane* ← *samana*
 - \[noun\], locative, singular, neuter
 - “marriage; conflict.”
-------------------------------------------------------------------------
+
+_________
+
 - *bahūnāṃ* ← *bahūnām* ← *bahu*
 - \[noun\], genitive, plural, masculine
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvānaṃ* ← *yuvānam* ← *yuvan*
 - \[noun\], accusative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
-------------------------------------------------------------------------
+
+_________
+
 - *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *palito* ← *palitaḥ* ← *palita*
 - \[noun\], nominative, singular, masculine
 - “gray; pale; palita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jagāra* ← *gṛ*
 - \[verb\], singular, Perfect indicative
 - “devour; swallow; surround.”
-------------------------------------------------------------------------
+
+_________
+
 - *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśya* ← *paś*
 - \[verb\], singular, Present imperative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāvyam* ← *kāvya*
 - \[noun\], accusative, singular, neuter
 - “Uśanas; poem; Kāvya; wisdom.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvādyā* ← *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvādyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mamāra* ← *mṛ*
 - \[verb\], singular, Perfect indicative
 - “mṛ; die; disappear; go out.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *hyaḥ* ← *hyas*
 - \[adverb\]
 - “yesterday; hyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *āna* ← *an*
 - \[verb\], singular, Perfect indicative
 - “breathe.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

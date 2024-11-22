@@ -84,52 +84,76 @@ tujyámānāsaḥ ← √tuj- (root)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *valasya* ← *vala*
 - \[noun\], genitive, singular, masculine
 - “Vala; vala; cave.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomato* ← *gomataḥ* ← *gomat*
 - \[noun\], genitive, singular, masculine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'pāvar* ← *apāvaḥ* ← *apavṛ* ← *√vṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “open.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrivo* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
-------------------------------------------------------------------------
+
+_________
+
 - *bilam* ← *bila*
 - \[noun\], accusative, singular, neuter
 - “cave; hole; bila \[word\]; inside.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *abibhyuṣas* ← ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *abibhyuṣas* ← *bibhyuṣaḥ* ← *bhī*
 - \[verb noun\], ablative, singular
 - “fear; fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *tujyamānāsa* ← *tujyamānāsaḥ* ← *tuj*
 - \[verb noun\], nominative, plural
 - “draw.”
-------------------------------------------------------------------------
+
+_________
+
 - *āviṣuḥ* ← *av*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

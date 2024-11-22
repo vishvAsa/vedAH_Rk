@@ -81,52 +81,76 @@ vánāni ← vána- (nominal stem)
 
 -   *ārokā* ← *ārokāḥ* ← *āroka*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghed* ← *gha*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ghed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmā* ← *tigmāḥ* ← *tigma*
 - \[noun\], nominative, plural, feminine
 - “sharp; pointed; fiery.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tviṣaḥ* ← *tviṣ*
 - \[noun\], nominative, plural, feminine
 - “beam; color; beauty.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadbhir* ← *dadbhiḥ* ← *dat*
 - \[noun\], instrumental, plural, masculine
 - “tooth; dat \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vanāni* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *bapsati* ← *bhas*
 - \[verb\], plural, Present indikative
 - “chew; snatch.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

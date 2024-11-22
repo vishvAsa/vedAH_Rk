@@ -79,54 +79,76 @@ níṁsānam ← √nas- (root)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtād* ← *ghṛtāt* ← *ghṛta*
 - \[noun\], ablative, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcī* ← *arciḥ* ← *arcis*
 - \[noun\], nominative, singular, neuter
 - “fire; flare; light; beam; gleam; shininess.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocata* ← *rocate* ← *ruc*
 - \[verb\], singular, Present indikative
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhutam* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṃsānaṃ* ← *niṃsānam* ← *niṃs*
 - \[verb noun\], nominative, singular
 - “kiss.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhvo* ← *juhvaḥ* ← *juhū*
 - \[noun\], accusative, plural, feminine
 - “tongue; fire; ladle.”
-------------------------------------------------------------------------
+
+_________
+
 - *mukhe* ← *mukha*
 - \[noun\], locative, singular, neuter
 - “mouth; mouth; mukha; face; aperture; tip; beginning; etc.; mukha;
     battlefront; teaching; head; orifice; mukha \[word\]; beginning;
     mouth; expression; direction; information; surface; best; head;
     quarter; first; end.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

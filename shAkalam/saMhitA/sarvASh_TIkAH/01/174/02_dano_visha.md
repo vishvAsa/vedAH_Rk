@@ -101,78 +101,114 @@ yū́ne ← yúvan- (nominal stem)
 
 -   *dano* ← *danaḥ* ← *dan*
 - \[verb\], singular, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *viśa* ← *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛdhravācaḥ* ← *mṛdhravāc*
 - \[noun\], accusative, plural, feminine
 - “abusive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *śāradīr* ← *śāradīḥ* ← *śārada*
 - \[noun\], accusative, plural, feminine
 - “autumnal; śārada \[word\]; autumn(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *dart* ← *dṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “burst; burst.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇor* ← *ṛṇoḥ* ← *ṛch*
 - \[verb\], singular, Present injunctive
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *anavadyārṇā* ← *anavadya*
 - \[noun\]
 - “blameless; faultless.”
-------------------------------------------------------------------------
+
+_________
+
 - *anavadyārṇā* ← *arṇāḥ* ← *arṇa*
 - \[noun\], accusative, plural, feminine
 - “wave; flood.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūne* ← *yuvan*
 - \[noun\], dative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *purukutsāya* ← *purukutsa*
 - \[noun\], dative, singular, masculine
 - “Purukutsa.”
-------------------------------------------------------------------------
+
+_________
+
 - *randhīḥ* ← *radh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “subjugate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

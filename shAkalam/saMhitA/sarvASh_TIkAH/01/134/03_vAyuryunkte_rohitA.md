@@ -140,7 +140,9 @@ vāsaya ← √vas- 1 (root)
 - \[noun\], nominative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuṅkte* ← *yuj*
 - \[verb\], singular, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -148,111 +150,165 @@ vāsaya ← √vas- 1 (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *rohitā* ← *rohita*
 - \[noun\], accusative, dual, masculine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyur* ← *vāyuḥ* ← *vāyu*
 - \[noun\], nominative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṇā* ← *aruṇa*
 - \[noun\], accusative, dual, masculine
 - “red; tawny; dusty; gray.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyū* ← *vāyuḥ* ← *vāyu*
 - \[noun\], nominative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajirā* ← *ajira*
 - \[noun\], accusative, dual, masculine
 - “fast; agile; ajira \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhuri* ← *dhur*
 - \[noun\], locative, singular, feminine
 - “yoke; dhur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *voﾱhave* ← *voḍhave* ← *vah*
 - \[verb noun\]
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahiṣṭhā* ← *vahiṣṭha*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dhuri* ← *dhur*
 - \[noun\], locative, singular, feminine
 - “yoke; dhur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *voﾱhave* ← *voḍhave* ← *vah*
 - \[verb noun\]
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *bodhayā* ← *bodhaya* ← *bodhay* ← *√budh*
 - \[verb\], singular, Present imperative
 - “awaken; ignite; advise; admonish; communicate.”
-------------------------------------------------------------------------
+
+_________
+
 - *purandhiṃ* ← *purandhim* ← *puraṃdhi*
 - \[noun\], accusative, singular, feminine
 - “liberality; Puraṃdhi; munificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāra* ← *jāraḥ* ← *jāra*
 - \[noun\], nominative, singular, masculine
 - “fancy man.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sasatīm* ← *sas*
 - \[verb noun\], accusative, singular
 - “sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣaya* ← *cakṣay* ← *√cakṣ*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāsayoṣasaḥ* ← *vāsaya* ← *vāsay* ← *√vas*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *vāsayoṣasaḥ* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravase* ← *śravas*
 - \[noun\], dative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāsayoṣasaḥ* ← *vāsaya* ← *vāsay* ← *√vas*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *vāsayoṣasaḥ* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

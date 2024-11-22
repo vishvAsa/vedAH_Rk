@@ -105,94 +105,134 @@ yātudhā́nasya ← yātudhā́na- (nominal stem)
 -   *nṛcakṣā* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛcakṣā* ← *cakṣāḥ* ← *cakṣas*
 - \[noun\], nominative, singular, masculine
 - “eye; look; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśya* ← *paś*
 - \[verb\], singular, Present imperative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇīhy* ← *śṛṇīhi* ← *śṛ*
 - \[verb\], singular, Present imperative
 - “fall off; break; disintegrate; crush; break; fracture.”
-------------------------------------------------------------------------
+
+_________
+
 - *agrā* ← *agra*
 - \[noun\], accusative, plural, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasyāgne* ← *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasyāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭīr* ← *pṛṣṭīḥ* ← *pṛṣṭi*
 - \[noun\], accusative, plural, feminine
 - “rib.”
-------------------------------------------------------------------------
+
+_________
+
 - *harasā* ← *haras*
 - \[noun\], instrumental, singular, neuter
 - “fire; fury; grip; capture.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇīhi* ← *śṛ*
 - \[verb\], singular, Present imperative
 - “fall off; break; disintegrate; crush; break; fracture.”
-------------------------------------------------------------------------
+
+_________
+
 - *tredhā*
 - \[adverb\]
 - “threefold.”
-------------------------------------------------------------------------
+
+_________
+
 - *mūlaṃ* ← *mūlam* ← *mūla*
 - \[noun\], accusative, singular, neuter
 - “root; cause; beginning; bottom; mūla; foundation; mūla \[word\];
     arśas; head; sole; beginning; root; wrist; origin; end; end;
     proximity; capital; bottom.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātudhānasya* ← *yātudhāna*
 - \[noun\], genitive, singular, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛśca* ← *vraśc*
 - \[verb\], singular, Present imperative
 - “cleave; fell; cut off; hew.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

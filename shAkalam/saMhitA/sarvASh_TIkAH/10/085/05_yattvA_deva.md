@@ -90,64 +90,92 @@ sámānām ← sámā- (nominal stem)
 -   *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *prapibanti* ← *prapā* ← *√pā*
 - \[verb\], plural, Present indikative
 - “drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *tata* ← *tatas*
 - \[adverb\]
 - “then; therefore; now; then; from there; subsequently; consequently;
     then; there; from that; for that reason; alternatively;
     consequently; furthermore.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pyāyase* ← *pyā*
 - \[verb\], singular, Present indikative
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyuḥ* ← *vāyu*
 - \[noun\], nominative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣitā* ← *rakṣitṛ*
 - \[noun\], nominative, singular, masculine
 - “protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *samānām* ← *samā*
 - \[noun\], genitive, plural, feminine
 - “year; samā \[word\]; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *māsa* ← *māsaḥ* ← *māsa*
 - \[noun\], nominative, singular, masculine
 - “month; lunar month; māsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ākṛtiḥ* ← *ākṛti*
 - \[noun\], nominative, singular, feminine
 - “form; appearance; symptom; shape; kind.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

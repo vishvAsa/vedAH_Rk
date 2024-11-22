@@ -112,79 +112,117 @@ vídhya ← √vyadh- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *pājaḥ* ← *pājas*
 - \[noun\], accusative, singular, neuter
 - “luminosity; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasitiṃ* ← *prasitim* ← *prasiti*
 - \[noun\], accusative, singular, feminine
 - “binding.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthvīṃ* ← *pṛthvīm* ← *pṛthu*
 - \[noun\], accusative, singular, feminine
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājevāmavāṃ* ← *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājevāmavāṃ* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājevāmavāṃ* ← *amavāṃ* ← *amavat*
 - \[noun\], nominative, singular, masculine
 - “impressive; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *ibhena* ← *ibha*
 - \[noun\], instrumental, singular, masculine
 - “elephant.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛṣvīm* ← *tṛṣu*
 - \[noun\], accusative, singular, feminine
 - “dry.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasitiṃ* ← *prasitim* ← *prasiti*
 - \[noun\], accusative, singular, feminine
 - “binding.”
-------------------------------------------------------------------------
+
+_________
+
 - *drūṇāno* ← *drūṇānaḥ* ← *drū*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *'stāsi* ← *astā* ← *as*
 - \[verb\], singular, periphrast. future
 - “shoot; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *'stāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhya* ← *vyadh*
 - \[verb\], singular, Present imperative
 - “pierce; vedhay; pierce; transfix; bleed; pierce; cut off; injure.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣasas* ← *rakṣasaḥ* ← *rakṣas*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tapiṣṭhaiḥ* ← *tapiṣṭha*
 - \[noun\], instrumental, plural, masculine
 - “burning; ablaze(p).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

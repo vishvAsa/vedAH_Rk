@@ -105,86 +105,128 @@ vidhatáḥ ← √vidh- (root)
 -   *rayir* ← *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pitṛvitto* ← *pitṛ*
 - \[noun\], masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitṛvitto* ← *vittaḥ* ← *vid*
 - \[verb noun\], nominative, singular
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayodhāḥ* ← *vayodhas*
 - \[noun\], nominative, singular, masculine
 - “fortifying.”
-------------------------------------------------------------------------
+
+_________
+
 - *supraṇītiś* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supraṇītiś* ← *praṇītiḥ* ← *praṇīti*
 - \[noun\], nominative, singular, masculine
 - “guidance; guidance.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikituṣo* ← *cikituṣaḥ* ← *cit*
 - \[verb noun\], genitive, singular
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śāsuḥ* ← *śāsus*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *syonaśīr* ← *syonaśīḥ* ← *syonaśī*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *atithir* ← *atithiḥ* ← *atithi*
 - \[noun\], nominative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prīṇāno* ← *prīṇānaḥ* ← *prī*
 - \[verb noun\], nominative, singular
 - “delight; gladden; satisfy; nutrify; comfort.”
-------------------------------------------------------------------------
+
+_________
+
 - *hoteva* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hoteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadma* ← *sadman*
 - \[noun\], accusative, singular, neuter
 - “seat; house; stable; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhato* ← *vidhataḥ* ← *vidh*
 - \[verb noun\], genitive, singular
 - “worship; offer.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *tārīt* ← *tṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

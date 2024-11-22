@@ -93,73 +93,107 @@ váreṇyam ← váreṇya- (nominal stem)
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāyavaḥ* ← *ṛtāyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *īdhire* ← *indh*
 - \[verb\], plural, Perfect indicative
 - “kindle; ignite; set ablaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnam* ← *pratna*
 - \[noun\], accusative, singular, masculine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnāsa* ← *pratnāsaḥ* ← *pratna*
 - \[noun\], nominative, plural, masculine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahaskṛta*
 - \[noun\], vocative, singular, masculine
 - “increased; aroused.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruścandraṃ* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruścandraṃ* ← *ścandram* ← *ścandra*
 - \[noun\], accusative, singular, masculine
 - “shining; glistening; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajataṃ* ← *yajatam* ← *yajata*
 - \[noun\], accusative, singular, masculine
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadhāyasaṃ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadhāyasaṃ* ← *dhāyasam* ← *dhāyas*
 - \[noun\], accusative, singular, masculine
 - “alimentary; sustaining.”
-------------------------------------------------------------------------
+
+_________
+
 - *damūnasaṃ* ← *damūnasam* ← *damūnas*
 - \[noun\], accusative, singular, masculine
 - “master.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhapatiṃ* ← *gṛhapatim* ← *gṛhapati*
 - \[noun\], accusative, singular, masculine
 - “gṛhapati \[word\]; Gṛhastha.”
-------------------------------------------------------------------------
+
+_________
+
 - *vareṇyam* ← *vareṇya*
 - \[noun\], accusative, singular, masculine
 - “excellent; desirable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

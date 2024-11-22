@@ -79,48 +79,70 @@ mádhu ← mádhu- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *siñcāmi* ← *sic*
 - \[verb\], singular, Present indikative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *kukṣyor* ← *kukṣyoḥ* ← *kukṣi*
 - \[noun\], locative, dual, masculine
 - “abdomen; uterus; belly; kukṣi \[word\]; Kukṣi; cavity; bay; side;
     fetus.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātrā* ← *gātra*
 - \[noun\], accusative, plural, neuter
 - “body part; body; limb; part; largeness.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāvatu* ← *dhāv*
 - \[verb\], singular, Present imperative
 - “run; run; wash.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛbhāya* ← *gṛbhāy* ← *√grah*
 - \[verb\], singular, Present imperative
 - “accept.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvayā* ← *jihvā*
 - \[noun\], instrumental, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

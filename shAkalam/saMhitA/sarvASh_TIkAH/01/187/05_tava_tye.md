@@ -90,47 +90,67 @@ tuvigrī́vāḥ ← tuvigrī́va- (nominal stem)
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *pito* ← *pitu*
 - \[noun\], vocative, singular, masculine
 - “food.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadatas* ← *dadataḥ* ← *dā*
 - \[verb noun\], genitive, singular
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādiṣṭha*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pito* ← *pitu*
 - \[noun\], vocative, singular, masculine
 - “food.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādmāno* ← *svādmānaḥ* ← *svādman*
 - \[noun\], nominative, plural, masculine
 - “preference; sweetness.”
-------------------------------------------------------------------------
+
+_________
+
 - *rasānāṃ* ← *rasānām* ← *rasa*
 - \[noun\], genitive, plural, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
@@ -138,23 +158,33 @@ tuvigrī́vāḥ ← tuvigrī́va- (nominal stem)
     body substance; rasa; formulation; myrrh; rasa \[word\]; amṛta;
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvigrīvā* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvigrīvā* ← *grīvāḥ* ← *grīvā*
 - \[noun\], nominative, plural, masculine
 - “neck; grīvā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iverate* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *iverate* ← *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

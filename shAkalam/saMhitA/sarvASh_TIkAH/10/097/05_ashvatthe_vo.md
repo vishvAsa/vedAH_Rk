@@ -90,26 +90,38 @@ yát ← yá- (pronoun)
 -   *aśvatthe* ← *aśvattha*
 - \[noun\], locative, singular, masculine
 - “pipal; aśvattha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣadanam* ← *niṣadana*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *parṇe* ← *parṇa*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasatiṣ* ← *vasatiḥ* ← *vasati*
 - \[noun\], nominative, singular, feminine
 - “residency; dwelling; nest; stay; vasati \[word\]; vas; mansion;
     sojourn.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtā* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -120,41 +132,59 @@ yát ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *gobhāja* ← *go*
 - \[noun\]
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *gobhāja* ← *bhājaḥ* ← *bhāj*
 - \[noun\], nominative, plural, feminine
 - “enjoying; consisting of.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *kilāsatha* ← *kila*
 - \[adverb\]
 - “assuredly; indeed; kila \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kilāsatha* ← *asatha* ← *as*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanavatha* ← *san*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūruṣam* ← *pūruṣa*
 - \[noun\], accusative, singular, masculine
 - “man; man; Puruṣa.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -70,43 +70,63 @@ sómāsaḥ ← sóma- (nominal stem)
 -   *sutapāvne* ← *suta*
 - \[noun\], masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutapāvne* ← *pāvne* ← *pāvan*
 - \[noun\], dative, singular, masculine
 - “drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutā* ← *sutāḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucayo* ← *śucayaḥ* ← *śuci*
 - \[noun\], nominative, plural, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *somāso* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhyāśiraḥ* ← *dadhi*
 - \[noun\], neuter
 - “sour milk; curd; dadhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhyāśiraḥ* ← *āśiraḥ* ← *āśir*
 - \[noun\], nominative, plural, feminine
 - “mixture.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

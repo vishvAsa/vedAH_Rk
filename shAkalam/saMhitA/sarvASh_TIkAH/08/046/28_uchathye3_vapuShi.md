@@ -96,93 +96,135 @@ tát ← sá- ~ tá- (pronoun)
 -   *ucathye* ← *ucathya*
 - \[noun\], locative, singular, neuter
 - “applaudable.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapuṣi* ← *vapus*
 - \[noun\], locative, singular, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svarāﾱ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarāﾱ* ← *rāj*
 - \[noun\], nominative, singular, masculine
 - “king; best; rāj; rāj \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtasnāḥ* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtasnāḥ* ← *snāḥ* ← *snā*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśveṣitaṃ* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśveṣitaṃ* ← *iṣitam* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “send.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajeṣitaṃ* ← *raja*
 - \[noun\], masculine
 - “menorrhea; raj \[verb\]; Rajas.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajeṣitaṃ* ← *iṣitam* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “send.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuneṣitam* ← *śunā* ← *śvan*
 - \[noun\], instrumental, singular, masculine
 - “dog; śvan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śuneṣitam* ← *iṣitam* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “send.”
-------------------------------------------------------------------------
+
+_________
+
 - *prājma* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prājma* ← *ajma* ← *ajman*
 - \[noun\], nominative, singular, neuter
 - “drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

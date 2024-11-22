@@ -89,65 +89,93 @@ sadhrīcīnáḥ ← sadhrīcīná- (nominal stem)
 
 -   *haritvatā* ← *haritvat*
 - \[noun\], instrumental, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *varcasā* ← *varcas*
 - \[noun\], instrumental, singular, neuter
 - “shininess; vigor; fecal matter; glare; magnificence; energy;
     prestige; energy; glory; luster; light; varcas \[word\]; glory; body
     waste; droppings; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *śreṣṭhai* ← *śreṣṭhaiḥ* ← *śreṣṭha*
 - \[noun\], instrumental, plural, neuter
 - “best; better; chief(a); beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *rūpais* ← *rūpaiḥ* ← *rūpa*
 - \[noun\], instrumental, plural, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *sparśayasva* ← *sparśay* ← *√spṛś*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *asmābhir* ← *asmābhiḥ* ← *mad*
 - \[noun\], instrumental, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhibhir* ← *sakhibhiḥ* ← *sakhi*
 - \[noun\], instrumental, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *huvānaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhrīcīno* ← *sadhrīcīnaḥ* ← *sadhrīcīna*
 - \[noun\], nominative, singular, masculine
 - “concentrated; joint.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādayasvā* ← *mādayasva* ← *māday* ← *√mad*
 - \[verb\], singular, Present imperative
 - “delight; enjoy; intoxicate.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣadya* ← *niṣad* ← *√sad*
 - \[verb noun\]
 - “sit down; sit; put.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

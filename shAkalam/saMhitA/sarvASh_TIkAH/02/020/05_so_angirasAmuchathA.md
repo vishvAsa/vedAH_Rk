@@ -101,74 +101,108 @@ pūrvyā́ṇi ← pūrvyá- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgirasām* ← *aṅgiras*
 - \[noun\], genitive, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucathā* ← *ucatha*
 - \[noun\], accusative, plural, neuter
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *jujuṣvān* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmā* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *tūtod* ← *tūtot* ← *tu*
 - \[verb\], singular, Plusquamperfect
 - “strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātum* ← *gā*
 - \[verb noun\]
 - “sing; praise; jap; recite; describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṇan* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “send.”
-------------------------------------------------------------------------
+
+_________
+
 - *muṣṇann* ← *muṣṇan* ← *muṣ*
 - \[verb noun\], nominative, singular
 - “rob; remove; steal.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryeṇa* ← *sūrya*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *stavān* ← *stavat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśnasya* ← *aśna*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *cicchiśnathat* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *cicchiśnathat* ← *śiśnathat* ← *śnath*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “pierce; kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyāṇi* ← *pūrvya*
 - \[noun\], accusative, plural, neuter
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

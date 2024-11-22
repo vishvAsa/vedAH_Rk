@@ -99,72 +99,106 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 -   *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣaso* ← *rakṣasaḥ* ← *rakṣas*
 - \[noun\], ablative, singular, masculine
 - “Rākṣasa.”
-------------------------------------------------------------------------
+
+_________
+
 - *arāvṇaḥ* ← *arāvan*
 - \[noun\], accusative, plural, masculine
 - “begrudging; hostile; stingy.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'va* ← *ava* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *iddhi* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *iddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nediṣṭhaṃ* ← *nediṣṭham* ← *nediṣṭha*
 - \[noun\], accusative, singular, masculine
 - “following.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatātaya* ← *devatātaye* ← *devatāti*
 - \[noun\], dative, singular, feminine
 - “deity; Deva.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpiṃ* ← *āpim* ← *āpi*
 - \[noun\], accusative, singular, masculine
 - “friend.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣāmahe* ← *nakṣ*
 - \[verb\], plural, Present indikative
 - “reach; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdhe* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

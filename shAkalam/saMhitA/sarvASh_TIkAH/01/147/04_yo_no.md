@@ -102,85 +102,123 @@ tanvàm ← tanū́- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ararivāṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *ararivāṃ* ← *rarivān* ← *rā*
 - \[verb noun\], nominative, singular
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghāyur* ← *aghāyuḥ* ← *aghāyu*
 - \[noun\], nominative, singular, masculine
 - “malevolent.”
-------------------------------------------------------------------------
+
+_________
+
 - *arātīvā* ← *arātīvan*
 - \[noun\], nominative, singular, masculine
 - “hostile.”
-------------------------------------------------------------------------
+
+_________
+
 - *marcayati* ← *marcay* ← *√mṛc*
 - \[verb\], singular, Present indikative
 - “harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvayena* ← *dvaya*
 - \[noun\], instrumental, singular, neuter
 - “two; pair; couple; falsification; Saṃsarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *mantro* ← *mantraḥ* ← *mantra*
 - \[noun\], nominative, singular, masculine
 - “mantra; Mantra; consultation; advice; consultation; mantra
     \[word\]; speech; plan.”
-------------------------------------------------------------------------
+
+_________
+
 - *guruḥ* ← *guru*
 - \[noun\], nominative, singular, masculine
 - “heavy; guru; heavy; heavy; long; guru \[word\]; difficult;
     vehement; full; impressive; serious.”
-------------------------------------------------------------------------
+
+_________
+
 - *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛkṣīṣṭa* ← *mṛc*
 - \[verb\], singular, Prekativ
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *duruktaiḥ* ← *durukta*
 - \[noun\], instrumental, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

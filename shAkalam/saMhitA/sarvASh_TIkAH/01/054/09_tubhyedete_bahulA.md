@@ -99,84 +99,122 @@ vasudéyāya ← vasudéya- (nominal stem)
 -   *tubhyed* ← *tubhya* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tubhyed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bahulā* ← *bahulāḥ* ← *bahula*
 - \[noun\], nominative, plural, masculine
 - “frequent; endowed; much(a); many; abounding in(p); abundant; bahula
     \[word\]; accompanied; prevailing.”
-------------------------------------------------------------------------
+
+_________
+
 - *adridugdhāś* ← *adri*
 - \[noun\], masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *adridugdhāś* ← *dugdhāḥ* ← *duh*
 - \[verb noun\], nominative, plural
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *camūṣadaś* ← *camūṣadaḥ* ← *camūṣad*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *camasā* ← *camasāḥ* ← *camasa*
 - \[noun\], nominative, plural, masculine
 - “camasa; beaker; cake.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrapānāḥ* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrapānāḥ* ← *pānāḥ* ← *pāna*
 - \[noun\], nominative, plural, masculine
 - “beverage; drinking; alcohol; drink; draft; drinking vessel; pāna
     \[word\]; vagina; well; cup; inhalation.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnuhi* ← *aś*
 - \[verb\], singular, Present imperative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *tarpayā* ← *tarpaya* ← *tarpay* ← *√tṛp*
 - \[verb\], singular, Present imperative
 - “nourish; offer; nutrify; satisfy; gladden; replenish; fill.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmam* ← *kāma*
 - \[noun\], accusative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *mano* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasudeyāya* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasudeyāya* ← *deyāya* ← *deya*
 - \[noun\], dative, singular, neuter
 - “giving; gift.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣva* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -187,7 +225,9 @@ vasudéyāya ← vasudéya- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

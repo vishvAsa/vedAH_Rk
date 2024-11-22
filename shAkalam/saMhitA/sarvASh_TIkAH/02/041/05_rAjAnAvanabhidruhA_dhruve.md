@@ -67,42 +67,60 @@ sahásrasthūṇe ← sahásrasthūṇa- (nominal stem)
 -   *rājānāv* ← *rājānau* ← *rājan*
 - \[noun\], nominative, dual, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *anabhidruhā* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *anabhidruhā* ← *abhidruhā* ← *abhidruh*
 - \[noun\], nominative, dual, masculine
 - “despicable.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhruve* ← *dhruva*
 - \[noun\], locative, singular, neuter
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadasy* ← *sadasi* ← *sadas*
 - \[noun\], locative, singular, neuter
 - “mansion; assembly; seat; seat.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttame* ← *uttama*
 - \[noun\], locative, singular, neuter
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
     finest.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrasthūṇa* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrasthūṇa* ← *sthūṇe* ← *sthūṇa*
 - \[noun\], locative, singular, neuter
 - “Sthūṇakarṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsāte* ← *ās*
 - \[verb\], dual, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

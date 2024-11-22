@@ -89,56 +89,84 @@ yujyante ← √yuj- (root)
 
 -   *mumukṣvo* ← *mumukṣvaḥ* ← *mumukṣu*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *manave* ← *manu*
 - \[noun\], dative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānavasyate* ← *mānavasy*
 - \[verb noun\], dative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *raghudruvaḥ* ← *raghudru*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇasītāsa* ← *kṛṣṇa*
 - \[noun\]
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇasītāsa* ← *sītāsaḥ* ← *sītā*
 - \[noun\], nominative, plural, masculine
 - “Sita; Sītā; furrow; sītā \[word\]; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *juvaḥ* ← *jū*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *asamanā* ← *asamanāḥ* ← *asamana*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ajirāso* ← *ajirāsaḥ* ← *ajira*
 - \[noun\], nominative, plural, masculine
 - “fast; agile; ajira \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *raghuṣyado* ← *raghuṣyadaḥ* ← *raghuṣyad*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vātajūtā* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātajūtā* ← *jūtāḥ* ← *jū*
 - \[verb noun\], nominative, plural
 - “animate; encourage; impel; inspire.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *yujyanta* ← *yujyante* ← *yuj*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -146,11 +174,15 @@ yujyante ← √yuj- (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśavaḥ* ← *āśu*
 - \[noun\], nominative, plural, masculine
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

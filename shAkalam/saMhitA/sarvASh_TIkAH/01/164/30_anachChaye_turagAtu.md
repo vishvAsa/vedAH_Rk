@@ -96,77 +96,111 @@ sáyoniḥ ← sáyoni- (nominal stem)
 -   *anacchaye* ← *anat* ← *an*
 - \[verb noun\], nominative, singular
 - “breathe.”
-------------------------------------------------------------------------
+
+_________
+
 - *anacchaye* ← *śaye* ← *śī*
 - \[verb\], singular, Present indikative
 - “lie; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *turagātu* ← *tura*
 - \[noun\]
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *turagātu* ← *gātu*
 - \[noun\], nominative, singular, neuter
 - “path; way.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvam* ← *jīva*
 - \[noun\], nominative, singular, neuter
 - “being; animal; life; jīva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ejad* ← *ejat* ← *ej*
 - \[verb noun\], nominative, singular
 - “move; stir; tremble; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhruvam* ← *dhruva*
 - \[noun\], nominative, singular, neuter
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhya* ← *madhye* ← *madhya*
 - \[noun\], locative, singular, neuter
 - “midst; center; cavity; inside; middle; center; waist; group; pulp;
     torso; time interval; area; series; madhya \[word\]; Madhya; noon;
     middle; middle age; span; belly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pastyānām* ← *pastyā*
 - \[noun\], genitive, plural, feminine
 - “river; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvo* ← *jīvaḥ* ← *jīva*
 - \[noun\], nominative, singular, masculine
 - “life; Jupiter; Brihaspati; jīv; person.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛtasya* ← *mṛ*
 - \[verb noun\], genitive, singular
 - “mṛ; die; disappear; go out.”
-------------------------------------------------------------------------
+
+_________
+
 - *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhābhir* ← *svadhābhiḥ* ← *svadhā*
 - \[noun\], instrumental, plural, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartyo* ← *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyenā* ← *martyena* ← *martya*
 - \[noun\], instrumental, singular, masculine
 - “mortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *sayoniḥ* ← *sayoni*
 - \[noun\], nominative, singular, masculine
 - “related.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

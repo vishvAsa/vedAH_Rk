@@ -79,48 +79,70 @@ páñca ← páñca- (nominal stem)
 -   *yasyekṣvākur* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasyekṣvākur* ← *ikṣvākuḥ* ← *ikṣvāku*
 - \[noun\], nominative, singular, masculine
 - “Ikṣvāku; Ikṣvāku.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrate* ← *vrata*
 - \[noun\], locative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *revān* ← *revat*
 - \[noun\], nominative, singular, masculine
 - “abundant; rich; affluent; brilliant; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *marāyy* ← *marāyī* ← *marāyin*
 - \[noun\], nominative, singular, masculine
 - “Marāyin.”
-------------------------------------------------------------------------
+
+_________
+
 - *edhate* ← *edh*
 - \[verb\], singular, Present indikative
 - “boom; get; thrive; increase; increase.”
-------------------------------------------------------------------------
+
+_________
+
 - *divīva* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *divīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pañca* ← *pañcan*
 - \[noun\], nominative, plural, feminine
 - “five; fifth; pañcan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

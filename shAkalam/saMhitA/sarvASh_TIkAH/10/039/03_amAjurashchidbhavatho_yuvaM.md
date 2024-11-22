@@ -110,92 +110,134 @@ yuvā́m ← tvám (pronoun)
 
 -   *amājuraś* ← *amājuraḥ* ← *amājur*
 - \[noun\], genitive, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavatho* ← *bhavathaḥ* ← *bhū*
 - \[verb\], dual, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhago* ← *bhagaḥ* ← *bhaga*
 - \[noun\], nominative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *'nāśoś* ← *anāśoḥ* ← *anāśu*
 - \[noun\], genitive, singular, masculine
 - “slow.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *avitārāpamasya* ← *avitārā* ← *avitṛ*
 - \[noun\], nominative, dual, masculine
 - “favorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *avitārāpamasya* ← *apamasya* ← *apama*
 - \[noun\], genitive, singular, masculine
 - “last.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *andhasya* ← *andha*
 - \[noun\], genitive, singular, masculine
 - “blind; andha \[word\]; andha; blind; complete; dark.”
-------------------------------------------------------------------------
+
+_________
+
 - *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛśasya* ← *kṛśa*
 - \[noun\], genitive, singular, masculine
 - “thin; low; bony; kṛśa \[word\]; insignificant; forceless.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvām* ← *tvad*
 - \[noun\], accusative, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhiṣajā* ← *bhiṣaj*
 - \[noun\], accusative, dual, masculine
 - “doctor; alchemist; therapist; medicine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rutasya* ← *ru*
 - \[verb noun\], genitive, singular
 - “break; hurt.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

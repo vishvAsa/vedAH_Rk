@@ -84,52 +84,76 @@ samudrásya ← samudrá- (nominal stem)
 -   *āyane* ← *āyana*
 - \[noun\], locative, singular, neuter
 - “arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *parāyaṇe* ← *parāyaṇa*
 - \[noun\], locative, singular, neuter
 - “devotion; aim; engagement; commitment; departure; refuge;
     fondness.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūrvā* ← *dūrvāḥ* ← *dūrvā*
 - \[noun\], nominative, plural, feminine
 - “Bermuda grass.”
-------------------------------------------------------------------------
+
+_________
+
 - *rohantu* ← *ruh*
 - \[verb\], plural, Present imperative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣpiṇīḥ* ← *puṣpin*
 - \[noun\], nominative, plural, feminine
 - “flowering.”
-------------------------------------------------------------------------
+
+_________
+
 - *hradāś* ← *hradāḥ* ← *hrada*
 - \[noun\], nominative, plural, masculine
 - “lake; pool; hrada \[word\]; body of water; pool.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṇḍarīkāṇi* ← *puṇḍarīka*
 - \[noun\], nominative, plural, neuter
 - “lotus.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudrasya* ← *samudra*
 - \[noun\], genitive, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhā* ← *gṛhāḥ* ← *gṛha*
 - \[noun\], nominative, plural, masculine
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 - *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -94,60 +94,88 @@ pipyúṣīm ← √pī- 1 (root)
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *arya* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āśiṣa* ← *āśiṣaḥ* ← *āśis*
 - \[noun\], nominative, plural, feminine
 - “benediction; prayer; blessing; āśis \[word\]; wish; request.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indre* ← *indra*
 - \[noun\], locative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyur* ← *āyuḥ* ← *āyus*
 - \[noun\], nominative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 - *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣasva* ← *nakṣ*
 - \[verb\], singular, Present imperative
 - “reach; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavann* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *upāvase* ← *upāv* ← *√av*
 - \[verb noun\]
 - “help.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhukṣasva* ← *duh*
 - \[verb\], singular, Aorist imperative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *pipyuṣīm* ← *pyā*
 - \[verb noun\], accusative, singular
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

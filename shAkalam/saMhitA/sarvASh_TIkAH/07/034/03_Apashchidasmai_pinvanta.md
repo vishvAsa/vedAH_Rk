@@ -70,43 +70,61 @@ vr̥tréṣu ← vr̥trá- (nominal stem)
 -   *āpaś* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *pinvanta* ← *pinv*
 - \[verb\], plural, Present injunctive
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthvīr* ← *pṛthvīḥ* ← *pṛthu*
 - \[noun\], nominative, plural, feminine
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtreṣu* ← *vṛtra*
 - \[noun\], locative, plural, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śūrā* ← *śūrāḥ* ← *śūra*
 - \[noun\], nominative, plural, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṃsanta* ← *maṃsante* ← *man*
 - \[verb\], plural, Aorist conj./subj.
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugrāḥ* ← *ugra*
 - \[noun\], nominative, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

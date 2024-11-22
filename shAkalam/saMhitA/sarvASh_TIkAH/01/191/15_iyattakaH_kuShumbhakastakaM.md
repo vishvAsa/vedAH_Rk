@@ -84,59 +84,83 @@ saṁvátaḥ ← saṁvát- (nominal stem)
 -   *iyattakaḥ* ← *iyattaka*
 - \[noun\], nominative, singular, masculine
 - “small.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuṣumbhakas* ← *kuṣumbhakaḥ* ← *kuṣumbhaka*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *takam* ← *taka*
 - \[noun\], accusative, singular, masculine
 - “he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *bhinadmy* ← *bhinadmi* ← *bhid*
 - \[verb\], singular, Present indikative
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśmanā* ← *aśman*
 - \[noun\], instrumental, singular, masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *tato* ← *tatas*
 - \[adverb\]
 - “then; therefore; now; then; from there; subsequently; consequently;
     then; there; from that; for that reason; alternatively;
     consequently; furthermore.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣam* ← *viṣa*
 - \[noun\], nominative, singular, neuter
 - “poison; poisoning; viṣa; venom; vatsanābha; Aconitum Ferox; viṣa
     \[word\]; Viṣa; myrrh; myrrh.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛte* ← *vṛt*
 - \[verb\], singular, Perfect indicative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *parācīr* ← *parācīḥ* ← *parāñc*
 - \[noun\], accusative, plural, feminine
 - “fleeing(a); departing(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvataḥ* ← *saṃvat*
 - \[noun\], accusative, plural, feminine
 - “tract.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

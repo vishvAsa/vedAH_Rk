@@ -86,55 +86,79 @@ udadhím ← udadhí- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *duḥśaṃsam* ← *duḥśaṃsa*
 - \[noun\], accusative, singular, masculine
 - “calumniatory; wicked.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyaṃ* ← *martyam* ← *martya*
 - \[noun\], accusative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *durvidvāṃsaṃ* ← *durvidvāṃsam* ← *durvidvas*
 - \[noun\], accusative, singular, masculine
 - “evil-minded.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣasvinam* ← *rakṣasvin*
 - \[noun\], accusative, singular, masculine
 - “malevolent; demoniac; obsessed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābhogaṃ* ← *ābhogam* ← *ābhoga*
 - \[noun\], accusative, singular, masculine
 - “diameter; attempt; effort.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanmanā* ← *hanman*
 - \[noun\], instrumental, singular, neuter
 - “weapon; blow.”
-------------------------------------------------------------------------
+
+_________
+
 - *hatam* ← *han*
 - \[verb\], dual, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *udadhiṃ* ← *udadhim* ← *udadhi*
 - \[noun\], accusative, singular, masculine
 - “ocean.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanmanā* ← *hanman*
 - \[noun\], instrumental, singular, neuter
 - “weapon; blow.”
-------------------------------------------------------------------------
+
+_________
+
 - *hatam* ← *han*
 - \[verb\], dual, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -90,64 +90,92 @@ téna ← sá- ~ tá- (pronoun)
 -   *ado* ← *adaḥ* ← *adas*
 - \[noun\], nominative, singular, neuter
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dāru*
 - \[noun\], nominative, singular, neuter
 - “wood; log; lumber.”
-------------------------------------------------------------------------
+
+_________
+
 - *plavate* ← *plu*
 - \[verb\], singular, Present indikative
 - “soak; jump; drench; float; blow; liquefy; swim; fly; sprinkle;
     flood; bathe.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhoḥ* ← *sindhu*
 - \[noun\], genitive, singular, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pāre* ← *pāra*
 - \[noun\], locative, singular, masculine
 - “shore; pāra \[word\]; end; excellence.”
-------------------------------------------------------------------------
+
+_________
+
 - *apūruṣam* ← *apūruṣa*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rabhasva* ← *rabh*
 - \[verb\], singular, Present imperative
 - “clasp.”
-------------------------------------------------------------------------
+
+_________
+
 - *durhaṇo* ← *durhaṇu*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tena* ← *tad*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaccha* ← *gam*
 - \[verb\], singular, Present imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *parastaram* ← *parastara*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

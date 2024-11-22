@@ -107,75 +107,113 @@ iva ← iva (invariable)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *marmṛjāna* ← *marmṛjānaḥ* ← *marmṛj* ← *√mṛj*
 - \[verb noun\], nominative, singular
 - “groom; wash; rub.”
-------------------------------------------------------------------------
+
+_________
+
 - *indriyāya* ← *indriya*
 - \[noun\], dative, singular, neuter
 - “aindra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāyasa* ← *dhāyase* ← *dhāyas*
 - \[noun\], dative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *obhe* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *obhe* ← *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *antā* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *harṣate* ← *hṛṣ*
 - \[verb\], singular, Present indikative
 - “rejoice; bristle; thrill.”
-------------------------------------------------------------------------
+
+_________
+
 - *hitaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmeṇa* ← *śuṣma*
 - \[noun\], instrumental, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *bādhate* ← *bādh*
 - \[verb\], singular, Present indikative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *durmatīr* ← *durmatīḥ* ← *durmati*
 - \[noun\], accusative, plural, feminine
 - “stupid.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādediśānaḥ* ← *ādediś* ← *√diś*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *śaryaheva* ← *śaryahā* ← *śaryahan*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śaryaheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śurudhaḥ* ← *śurudh*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

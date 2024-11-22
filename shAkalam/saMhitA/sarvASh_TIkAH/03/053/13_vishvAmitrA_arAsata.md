@@ -73,25 +73,35 @@ surā́dhasaḥ ← surā́dhas- (nominal stem)
 -   *viśvāmitrā* ← *viśvāmitrāḥ* ← *viśvāmitra*
 - \[noun\], nominative, plural, masculine
 - “Viśvāmitra; coconut.”
-------------------------------------------------------------------------
+
+_________
+
 - *arāsata* ← *rā*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmendrāya* ← *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmendrāya* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajriṇe* ← *vajrin*
 - \[noun\], dative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
-------------------------------------------------------------------------
+
+_________
+
 - *karad* ← *karat* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -102,23 +112,33 @@ surā́dhasaḥ ← surā́dhas- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *surādhasaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *surādhasaḥ* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], accusative, plural, masculine
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

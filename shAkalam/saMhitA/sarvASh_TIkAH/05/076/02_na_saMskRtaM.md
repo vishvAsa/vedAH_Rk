@@ -102,70 +102,106 @@ práti ← práti (invariable)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃskṛtam* ← *saṃskṛta*
 - \[noun\], accusative, singular, neuter
 - “Sanskrit.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimīto* ← *mimītaḥ* ← *mī*
 - \[verb\], dual, Present indikative
 - “transgress; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *gamiṣṭhānti* ← *gamiṣṭhā* ← *gamiṣṭha*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *gamiṣṭhānti* ← *anti*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinopastuteha* ← *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinopastuteha* ← *upastutā* ← *upastu* ← *√stu*
 - \[verb noun\], nominative, dual
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinopastuteha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *divābhipitve* ← *divā*
 - \[adverb\]
 - “by day; divā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *divābhipitve* ← *abhipitve* ← *abhipitva*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *'vasāgamiṣṭhā* ← *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vasāgamiṣṭhā* ← *āgamiṣṭhā* ← *āgamiṣṭha*
 - \[noun\], nominative, dual, masculine
 - “arriving(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *avartiṃ* ← *avartim* ← *avarti*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *śambhaviṣṭhā* ← *śambhaviṣṭha*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,79 +102,117 @@ tīvrám ← tīvrá- (nominal stem)
 -   *yadīd* ← *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadīd* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhaye* ← *yudh*
 - \[verb noun\]
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃnayāny* ← *saṃnayāni* ← *saṃnī* ← *√nī*
 - \[verb\], singular, Present imperative
 - “get.”
-------------------------------------------------------------------------
+
+_________
+
 - *adevayūn* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *adevayūn* ← *devayūn* ← *devayu*
 - \[noun\], accusative, plural, masculine
 - “devout; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvā* ← *tanu*
 - \[noun\], instrumental, singular, feminine
 - “body; embodiment; life; life; root; body; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūśujānān* ← *śuj*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *amā*
 - \[adverb\]
 - “at home.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tumraṃ* ← *tumram* ← *tumra*
 - \[noun\], accusative, singular, masculine
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *pacāni* ← *pac*
 - \[verb\], singular, Present imperative
 - “heat; cook; digest; boil; ripen; fester; burn; boil; cauterize;
     fry; cook; suppurate; inflame.”
-------------------------------------------------------------------------
+
+_________
+
 - *tīvraṃ* ← *tīvram* ← *tīvra*
 - \[noun\], accusative, singular, masculine
 - “intense; severe; pungent; acute; potent; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutam* ← *suta*
 - \[noun\], accusative, singular, masculine
 - “Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *pañcadaśaṃ* ← *pañcadaśam* ← *pañcadaśa*
 - \[noun\], accusative, singular, masculine
 - “fifteenth; fifteen.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣiñcam* ← *siñcam* ← *sic*
 - \[verb\], singular, Present injunctive
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

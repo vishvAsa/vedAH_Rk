@@ -101,90 +101,132 @@ sám ← sám (invariable)
 
 -   *ayoddheva* ← *ayoddhā* ← *ayoddhṛ*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ayoddheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *durmada* ← *durmadaḥ* ← *durmada*
 - \[noun\], nominative, singular, masculine
 - “delirious; brainsick; fierce; crazy.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *juhve* ← *hvā*
 - \[verb\], singular, Perfect indicative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahāvīraṃ* ← *mahā* ← *mahat*
 - \[noun\]
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahāvīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvibādham* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvibādham* ← *bādham* ← *bādha*
 - \[noun\], accusative, singular, masculine
 - “danger.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjīṣam* ← *ṛjīṣa*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *nātārīd* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nātārīd* ← *atārīt* ← *tṛ*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *samṛtiṃ* ← *samṛtim* ← *samṛti*
 - \[noun\], accusative, singular, feminine
 - “battle; contact.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhānāṃ* ← *vadhānām* ← *vadha*
 - \[noun\], genitive, plural, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *rujānāḥ* ← *rujānā*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *pipiṣa* ← *pipiṣe* ← *piṣ*
 - \[verb\], singular, Perfect indicative
 - “grind; knead; paste; crush; press out.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraśatruḥ* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraśatruḥ* ← *śatruḥ* ← *śatru*
 - \[noun\], nominative, singular, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

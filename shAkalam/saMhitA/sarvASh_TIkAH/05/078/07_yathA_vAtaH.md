@@ -81,49 +81,71 @@ niraítu ← √i- 1 (root)
 -   *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣkariṇīṃ* ← *puṣkariṇīm* ← *puṣkariṇī*
 - \[noun\], accusative, singular, feminine
 - “female elephant; cotton rose; pond; pool.”
-------------------------------------------------------------------------
+
+_________
+
 - *samiṅgayati* ← *samiṅgay* ← *√iṅg*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *sarvataḥ* ← *sarvatas*
 - \[adverb\]
 - “about; everywhere; from all sides; always; in every direction;
     thoroughly; anywhere.”
-------------------------------------------------------------------------
+
+_________
+
 - *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *garbha* ← *garbhaḥ* ← *garbha*
 - \[noun\], nominative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *ejatu* ← *ej*
 - \[verb\], singular, Present imperative
 - “move; stir; tremble; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *niraitu* ← *nire* ← *√i*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *daśamāsyaḥ* ← *daśamāsya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

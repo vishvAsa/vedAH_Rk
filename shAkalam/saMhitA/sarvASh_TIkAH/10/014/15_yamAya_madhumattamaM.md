@@ -81,48 +81,70 @@ pū́rvebhyaḥ ← pū́rva- (nominal stem)
 -   *yamāya* ← *yama*
 - \[noun\], dative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhumattamaṃ* ← *madhumattamam* ← *madhumattama*
 - \[noun\], accusative, singular, neuter
 - “sweetest.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājñe* ← *rājan*
 - \[noun\], dative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *havyaṃ* ← *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *juhotana* ← *hu*
 - \[verb\], plural, Present imperative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *nama* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣibhyaḥ* ← *ṛṣi*
 - \[noun\], dative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvajebhyaḥ* ← *pūrvaja*
 - \[noun\], dative, plural, masculine
 - “big brother; firstborn; forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvebhyaḥ* ← *pūrva*
 - \[noun\], dative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathikṛdbhyaḥ* ← *pathikṛt*
 - \[noun\], dative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

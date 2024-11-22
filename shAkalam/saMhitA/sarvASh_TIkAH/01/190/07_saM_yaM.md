@@ -108,90 +108,132 @@ táraḥ ← táras- (nominal stem)
 -   *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *stubho* ← *stubhaḥ* ← *stubh*
 - \[noun\], nominative, plural, feminine
 - “song; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vanayo* ← *avanayaḥ* ← *avani*
 - \[noun\], nominative, plural, feminine
 - “river; earth; floor; path; bed; course.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudraṃ* ← *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sravato* ← *sravataḥ* ← *sravat*
 - \[noun\], nominative, plural, feminine
 - “river.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodhacakrāḥ* ← *rodha*
 - \[noun\], masculine
 - “obstruction; sealing; suppression; shutting; dam; rodhana; Rodha;
     reservoir.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodhacakrāḥ* ← *cakrāḥ* ← *cakra*
 - \[noun\], nominative, plural, feminine
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvāṃ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhayaṃ* ← *ubhayam* ← *ubhaya*
 - \[noun\], accusative, singular, neuter
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatis* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *tara* ← *taraḥ* ← *taras*
 - \[noun\], accusative, singular, neuter
 - “speed; Stoma.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpaś* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛdhraḥ* ← *gṛdhra*
 - \[noun\], nominative, singular, masculine
 - “vulture.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

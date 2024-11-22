@@ -91,56 +91,84 @@ narā ← nár- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakuho* ← *kakuhaḥ* ← *kakuha*
 - \[noun\], nominative, singular, masculine
 - “huge; eminent; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *yayiḥ* ← *yayi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇve* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmeṣu* ← *yāma*
 - \[noun\], locative, plural, masculine
 - “prahara; watch; travel; path.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃtaniḥ* ← *saṃtani*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *daṃsobhir* ← *daṃsobhiḥ* ← *daṃsas*
 - \[noun\], instrumental, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinātrir* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinātrir* ← *atriḥ* ← *atri*
 - \[noun\], nominative, singular, masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *narāvavartati* ← *nar* ← *nṛ*
 - \[noun\], vocative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *narāvavartati* ← *āvavartati* ← *āvṛt* ← *√vṛt*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “melt; return; melt; to be reborn; turn; turn; revolve; roll.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

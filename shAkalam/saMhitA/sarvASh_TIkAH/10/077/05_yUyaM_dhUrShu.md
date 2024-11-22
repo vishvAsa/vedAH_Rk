@@ -99,75 +99,111 @@ pravā́saḥ ← pravá- (nominal stem)
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūrṣu* ← *dhur*
 - \[noun\], locative, plural
 - “yoke; dhur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prayujo* ← *prayujaḥ* ← *prayuj*
 - \[noun\], nominative, plural, feminine
 - “team.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *raśmibhir* ← *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotiṣmanto* ← *jyotiṣmantaḥ* ← *jyotiṣmat*
 - \[noun\], nominative, plural, masculine
 - “shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāsā* ← *bhās*
 - \[noun\], instrumental, singular, feminine
 - “beam; radiance; bhās \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyuṣṭiṣu* ← *vyuṣṭi*
 - \[noun\], locative, plural, feminine
 - “dawn; happiness; consequence.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyenāso* ← *śyenāsaḥ* ← *śyena*
 - \[noun\], nominative, plural, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svayaśaso* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayaśaso* ← *yaśasaḥ* ← *yaśas*
 - \[noun\], nominative, plural, masculine
 - “fame; Yaśas.”
-------------------------------------------------------------------------
+
+_________
+
 - *riśādasaḥ* ← *riśādas*
 - \[noun\], nominative, plural, masculine
 - “superior; superior; proud.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravāso* ← *pravāsaḥ* ← *prava*
 - \[noun\], nominative, plural, masculine
 - “floating.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prasitāsaḥ* ← *prasita*
 - \[noun\], nominative, plural, masculine
 - “prasita \[word\]; attentive.”
-------------------------------------------------------------------------
+
+_________
+
 - *paripruṣaḥ* ← *paripruṣ*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

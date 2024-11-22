@@ -70,37 +70,53 @@ dhitā́vānam ← dhitā́van- (nominal stem)
 -   *īḍe* ← *īḍ*
 - \[verb\], singular, Present indikative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipaścitaṃ* ← *vipaścitam* ← *vipaścit*
 - \[noun\], accusative, singular, masculine
 - “wise; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *girā* ← *giri*
 - \[noun\], locative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhanam* ← *sādhana*
 - \[noun\], accusative, singular, masculine
 - “effective; performing.”
-------------------------------------------------------------------------
+
+_________
+
 - *śruṣṭīvānaṃ* ← *śruṣṭīvānam* ← *śruṣṭīvan*
 - \[noun\], accusative, singular, masculine
 - “obedient; heedful; attentive.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhitāvānam* ← *dhitāvan*
 - \[noun\], accusative, singular, masculine
 - “lucrative.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

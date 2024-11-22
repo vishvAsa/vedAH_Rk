@@ -99,81 +99,117 @@ vartasva ← √vr̥t- (root)
 -   *antarikṣaprāṃ* ← *antarikṣa*
 - \[noun\], neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣaprāṃ* ← *prām* ← *prā*
 - \[noun\], accusative, singular, feminine
 - “appreciated.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajaso* ← *rajasaḥ* ← *rajas*
 - \[noun\], genitive, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *vimānīm* ← *vimāna*
 - \[noun\], accusative, singular, feminine
 - “pervading.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣāmy* ← *śikṣāmi* ← *śikṣ*
 - \[verb\], singular, Present indikative
 - “help; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *urvaśīṃ* ← *urvaśīm* ← *urvaśī*
 - \[noun\], accusative, singular, feminine
 - “Urvaśī.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭhaḥ* ← *vasiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “best.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtasya* ← *sukṛta*
 - \[noun\], genitive, singular, neuter
 - “merit; virtue; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhān* ← *tiṣṭhāt* ← *sthā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartasva* ← *vṛt*
 - \[verb\], singular, Present imperative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdayaṃ* ← *hṛdayam* ← *hṛdaya*
 - \[noun\], nominative, singular, neuter
 - “heart; heart; mind; hṛdaya \[word\]; science; thorax;
     Aṣṭāṅgahṛdayasaṃhitā; soul.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapyate* ← *tap*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

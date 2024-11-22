@@ -108,87 +108,129 @@ smáyamānaḥ ← √smi- (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vanā* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *tātṛṣāṇo* ← *tātṛṣāṇaḥ* ← *tṛṣ*
 - \[verb noun\], nominative, singular
 - “thirst.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
-------------------------------------------------------------------------
+
+_________
+
 - *vār*
 - \[noun\], nominative, singular, neuter
 - “water; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṇa* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pathā* ← *pathin*
 - \[noun\], instrumental, singular
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathyeva* ← *rathyā*
 - \[noun\], nominative, singular, feminine
 - “road; way; highway.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *svānīt* ← *svan*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sound; sound.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇādhvā* ← *kṛṣṇa*
 - \[noun\]
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇādhvā* ← *adhvā* ← *adhvan*
 - \[noun\], nominative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapū* ← *tapuḥ* ← *tapu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *raṇvaś* ← *raṇvaḥ* ← *raṇva*
 - \[noun\], nominative, singular, masculine
 - “agreeable; happy; delightful; gay.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciketa* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *smayamāno* ← *smayamānaḥ* ← *smi*
 - \[verb noun\], nominative, singular
 - “smile.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhobhiḥ* ← *nabhas*
 - \[noun\], instrumental, plural, neuter
 - “sky; cloud; ākāśa; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

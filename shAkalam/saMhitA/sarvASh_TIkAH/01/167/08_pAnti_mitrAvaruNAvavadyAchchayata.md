@@ -96,71 +96,105 @@ vāvr̥dhé ← √vr̥dh- (root)
 -   *pānti* ← *pā*
 - \[verb\], plural, Present indikative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇāv* ← *mitrāvaruṇau* ← *mitrāvaruṇa*
 - \[noun\], nominative, dual, masculine
 - “Varuna; Mitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *avadyāc* ← *avadyāt* ← *avadya*
 - \[noun\], ablative, singular, neuter
 - “shame; censure; blame.”
-------------------------------------------------------------------------
+
+_________
+
 - *cayata* ← *cayate* ← *ci*
 - \[verb\], singular, Present indikative
 - “cover; accumulate; pile up; pick; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *aryamo* ← *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryamo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *apraśastān* ← *apraśasta*
 - \[noun\], accusative, plural, masculine
 - “bad.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cyavante* ← *cyu*
 - \[verb\], plural, Present indikative
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”
-------------------------------------------------------------------------
+
+_________
+
 - *acyutā* ← *acyuta*
 - \[noun\], nominative, plural, neuter
 - “firm; regular; permanent; immovable; unchanging.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhruvāṇi* ← *dhruva*
 - \[noun\], nominative, plural, neuter
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdha* ← *vāvṛdhe* ← *vṛdh*
 - \[verb\], singular, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *dātivāraḥ* ← *dāti*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *dātivāraḥ* ← *vāraḥ* ← *vāra*
 - \[noun\], nominative, singular, masculine
 - “treasure; choice.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

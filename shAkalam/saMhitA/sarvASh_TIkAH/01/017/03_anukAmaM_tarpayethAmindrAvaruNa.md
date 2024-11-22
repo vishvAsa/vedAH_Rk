@@ -72,41 +72,59 @@ vām ← tvám (pronoun)
 
 -   *anukāmaṃ* ← *anukāmam* ← *anukāma*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tarpayethām* ← *tarpay* ← *√tṛp*
 - \[verb\], dual, Present imperative
 - “nourish; offer; nutrify; satisfy; gladden; replenish; fill.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāvaruṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *nediṣṭham* ← *nediṣṭha*
 - \[noun\], accusative, singular, masculine
 - “following.”
-------------------------------------------------------------------------
+
+_________
+
 - *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

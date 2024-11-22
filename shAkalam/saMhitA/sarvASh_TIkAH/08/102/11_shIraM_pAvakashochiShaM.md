@@ -70,42 +70,62 @@ dīrghaśrúttamaḥ ← dīrghaśrúttama- (nominal stem)
 -   *śīram* ← *śīra*
 - \[noun\], accusative, singular, masculine
 - “sharp; acerb.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakaśociṣaṃ* ← *pāvaka*
 - \[noun\]
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakaśociṣaṃ* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyeṣṭho* ← *jyeṣṭhaḥ* ← *jyeṣṭha*
 - \[noun\], nominative, singular, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dameṣv* ← *dameṣu* ← *dama*
 - \[noun\], locative, plural, masculine
 - “dwelling; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdāya* ← *dīdī*
 - \[verb\], singular, Perfect indicative
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghaśruttamaḥ* ← *dīrgha*
 - \[noun\]
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghaśruttamaḥ* ← *śruttamaḥ* ← *śruttama*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

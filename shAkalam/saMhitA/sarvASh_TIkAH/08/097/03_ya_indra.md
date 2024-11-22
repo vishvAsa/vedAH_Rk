@@ -96,78 +96,112 @@ tátas ← tátas (invariable)
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasty* ← *sasti* ← *sas*
 - \[verb\], singular, Present indikative
 - “sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *avrato* ← *avrataḥ* ← *avrata*
 - \[noun\], nominative, singular, masculine
 - “disobedient; evil.”
-------------------------------------------------------------------------
+
+_________
+
 - *'nuṣvāpam* ← *anuṣvāpam*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *adevayuḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *adevayuḥ* ← *devayuḥ* ← *devayu*
 - \[noun\], nominative, singular, masculine
 - “devout; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaiḥ* ← *sva*
 - \[noun\], instrumental, plural, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣa* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *evair* ← *evaiḥ* ← *eva*
 - \[noun\], instrumental, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *mumurat* ← *mur*
 - \[verb\], singular, Perfect conjunctive (subj.)
-------------------------------------------------------------------------
+
+_________
+
 - *poṣyaṃ* ← *poṣyam* ← *puṣ*
 - \[verb noun\], accusative, singular
 - “boom; grow; promote; foster.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanutar*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tataḥ* ← *tatas*
 - \[adverb\]
 - “then; therefore; now; then; from there; subsequently; consequently;
     then; there; from that; for that reason; alternatively;
     consequently; furthermore.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,82 +102,118 @@ vr̥śca ← √vr̥śc- (root)
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pauruṣeyeṇa* ← *pauruṣeya*
 - \[noun\], instrumental, singular, neuter
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 - *kraviṣā* ← *kravis*
 - \[noun\], instrumental, singular, neuter
 - “meat.”
-------------------------------------------------------------------------
+
+_________
+
 - *samaṅkte* ← *samañj* ← *√añj*
 - \[verb\], singular, Present indikative
 - “anoint.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvyena* ← *aśvya*
 - \[noun\], instrumental, singular, neuter
 - “equine.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśunā* ← *paśu*
 - \[noun\], instrumental, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātudhānaḥ* ← *yātudhāna*
 - \[noun\], nominative, singular, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aghnyāyā* ← *aghnyāyāḥ* ← *aghnyā*
 - \[noun\], genitive, singular, feminine
 - “cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharati* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣīram* ← *kṣīra*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; milk; sap; kṣīra \[word\]; juice; fluid.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *teṣāṃ* ← *teṣām* ← *tad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *śīrṣāṇi* ← *śīrṣa*
 - \[noun\], accusative, plural, neuter
 - “head; battlefront; ear; front; śīrṣa \[word\]; tip; skull.”
-------------------------------------------------------------------------
+
+_________
+
 - *harasāpi* ← *harasā* ← *haras*
 - \[noun\], instrumental, singular, neuter
 - “fire; fury; grip; capture.”
-------------------------------------------------------------------------
+
+_________
+
 - *harasāpi* ← *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛśca* ← *vraśc*
 - \[verb\], singular, Present imperative
 - “cleave; fell; cut off; hew.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

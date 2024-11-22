@@ -90,64 +90,94 @@ vāyávaḥ ← vāyú- (nominal stem)
 -   *asyājarāso* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyājarāso* ← *ajarāsaḥ* ← *ajara*
 - \[noun\], nominative, plural, masculine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *damām* ← *dam*
 - \[noun\], genitive, plural, neuter
 - “house.”
-------------------------------------------------------------------------
+
+_________
+
 - *aritrā* ← *aritra*
 - \[noun\], nominative, plural, neuter
 - “oar.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcaddhūmāso* ← *arcat* ← *arc*
 - \[verb noun\]
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcaddhūmāso* ← *dhūmāsaḥ* ← *dhūma*
 - \[noun\], nominative, plural, masculine
 - “smoke; dhūmavedha; carbon black; dhūmana; mist; vapor;
     vaporization; dhūma \[word\]; incense.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnayaḥ* ← *agni*
 - \[noun\], nominative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakāḥ* ← *pāvaka*
 - \[noun\], nominative, plural, masculine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvitīcayaḥ* ← *śvitīci*
 - \[noun\], nominative, plural, masculine
 - “bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvātrāso* ← *śvātrāsaḥ* ← *śvātra*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bhuraṇyavo* ← *bhuraṇyavaḥ* ← *bhuraṇyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vanarṣado* ← *vanarṣadaḥ* ← *vanarṣad*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vāyavo* ← *vāyavaḥ* ← *vāyu*
 - \[noun\], nominative, plural, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

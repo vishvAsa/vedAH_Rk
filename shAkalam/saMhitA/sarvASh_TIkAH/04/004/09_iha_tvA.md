@@ -105,86 +105,126 @@ tasthivā́ṁsaḥ ← √sthā- (root)
 -   *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūry* ← *bhūri*
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cared* ← *caret* ← *car*
 - \[verb\], singular, Present optative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *tman*
 - \[noun\], locative, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *doṣāvastar* ← *doṣā*
 - \[noun\], feminine
 - “night.”
-------------------------------------------------------------------------
+
+_________
+
 - *doṣāvastar* ← *vastar* ← *vastṛ*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dīdivāṃsam* ← *dīdī*
 - \[verb noun\], accusative, singular
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *krīﾱantas* ← *krīﾱantaḥ* ← *krīḍ*
 - \[verb noun\], nominative, plural
 - “frolic; love; play; amuse.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumanasaḥ* ← *sumanas*
 - \[noun\], nominative, plural, masculine
 - “benevolent; cheerful; happy; satisfied.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapemābhi* ← *sapema* ← *sap*
 - \[verb\], plural, Present optative
-------------------------------------------------------------------------
+
+_________
+
 - *sapemābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnā* ← *dyumna*
 - \[noun\], accusative, plural, neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthivāṃso* ← *tasthivāṃsaḥ* ← *sthā*
 - \[verb noun\], nominative, plural
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

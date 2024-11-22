@@ -90,88 +90,126 @@ yajñám ← yajñá- (nominal stem)
 -   *vrātaṃ* ← *vrātam* ← *vrāta*
 - \[noun\], accusative, singular, masculine
 - “troop; group; Vrāta; vrāta \[word\]; flock.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrātaṃ* ← *vrātam* ← *vrāta*
 - \[noun\], accusative, singular, masculine
 - “troop; group; Vrāta; vrāta \[word\]; flock.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇaṃ* ← *gaṇam* ← *gaṇa*
 - \[noun\], accusative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇaṃ* ← *gaṇam* ← *gaṇa*
 - \[noun\], accusative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśastibhir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśastibhir* ← *śastibhiḥ* ← *śasti*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *agner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāmam* ← *bhāma*
 - \[noun\], accusative, singular, masculine
 - “beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *oja* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *īmahe* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣadaśvāso* ← *pṛṣat*
 - \[noun\]
 - “motley; patched.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣadaśvāso* ← *aśvāsaḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *anavabhrarādhaso* ← *anavabhra*
 - \[noun\]
 - “permanent.”
-------------------------------------------------------------------------
+
+_________
+
 - *anavabhrarādhaso* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], nominative, plural, masculine
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *gantāro* ← *gantāraḥ* ← *gam*
 - \[verb\], plural, periphrast. future
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidatheṣu* ← *vidatha*
 - \[noun\], locative, plural, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīrāḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

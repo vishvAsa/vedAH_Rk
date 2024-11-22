@@ -99,79 +99,117 @@ vŕ̥ṣavrātāsaḥ ← vŕ̥ṣavrāta- (nominal stem)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājante* ← *bhrāj*
 - \[verb\], plural, Present indikative
 - “shine; glitter; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumakhāsa* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumakhāsa* ← *makhāsaḥ* ← *makha*
 - \[noun\], nominative, plural, masculine
 - “yajña; Makha; festival.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣṭibhiḥ* ← *ṛṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “spear.”
-------------------------------------------------------------------------
+
+_________
+
 - *pracyāvayanto* ← *pracyāvayantaḥ* ← *praccyāvay* ← *√cyu*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *acyutā* ← *acyuta*
 - \[noun\], accusative, plural, neuter
 - “firm; regular; permanent; immovable; unchanging.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *manojuvo* ← *manaḥ* ← *manas*
 - \[noun\], neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *manojuvo* ← *juvaḥ* ← *jū*
 - \[noun\], nominative, plural, masculine
 - “fleet.”
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratheṣv* ← *ratheṣu* ← *ratha*
 - \[noun\], locative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣavrātāsaḥ* ← *vṛṣa* ← *vṛṣan*
 - \[noun\]
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣavrātāsaḥ* ← *vrātāsaḥ* ← *vrāta*
 - \[noun\], nominative, plural, masculine
 - “troop; group; Vrāta; vrāta \[word\]; flock.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣatīr* ← *pṛṣatīḥ* ← *pṛṣatī*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ayugdhvam* ← *yuj*
 - \[verb\], plural, Root aorist (Ind.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -179,7 +217,9 @@ vŕ̥ṣavrātāsaḥ ← vŕ̥ṣavrāta- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

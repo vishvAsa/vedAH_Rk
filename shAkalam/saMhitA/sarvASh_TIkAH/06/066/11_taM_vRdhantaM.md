@@ -104,79 +104,115 @@ ugrā́ḥ ← ugrá- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdhantam* ← *vṛdh*
 - \[verb noun\], accusative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *mārutam* ← *māruta*
 - \[noun\], accusative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājadṛṣṭiṃ* ← *bhrājat* ← *bhrāj*
 - \[verb noun\]
 - “shine; glitter; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājadṛṣṭiṃ* ← *ṛṣṭim* ← *ṛṣṭi*
 - \[noun\], accusative, singular, masculine
 - “spear.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudrasya* ← *rudra*
 - \[noun\], genitive, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnuṃ* ← *sūnum* ← *sūnu*
 - \[noun\], accusative, singular, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *havasā* ← *havas*
 - \[noun\], instrumental, singular, neuter
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivāse* ← *vivās* ← *√van*
 - \[verb\], singular, Present indikative
 - “invite; endeavor; try for.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucayo* ← *śucayaḥ* ← *śuci*
 - \[noun\], nominative, plural, feminine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣā* ← *manīṣāḥ* ← *manīṣā*
 - \[noun\], nominative, plural, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *girayo* ← *girayaḥ* ← *giri*
 - \[noun\], nominative, plural, feminine
 - “mountain(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *nāpa* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāpa* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugrā* ← *ugrāḥ* ← *ugra*
 - \[noun\], nominative, plural, feminine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *aspṛdhran* ← *spṛdh*
 - \[verb\], plural, Root aorist (Ind.)
 - “rival.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

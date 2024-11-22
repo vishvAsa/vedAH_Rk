@@ -76,41 +76,61 @@ vibhāvari ← vibhā́van- (nominal stem)
 -   *kas* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *kadhapriye* ← *kadhapriya*
 - \[noun\], vocative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *bhuje* ← *bhuj*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *marto* ← *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartye* ← *amartya*
 - \[noun\], vocative, singular, feminine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṃ* ← *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣase* ← *nakṣ*
 - \[verb\], singular, Present indikative
 - “reach; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāvari* ← *vibhāvarī*
 - \[noun\], vocative, singular, feminine
 - “night; Vibhāvarī; woman.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

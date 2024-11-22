@@ -109,43 +109,63 @@ tásyāḥ ← sá- ~ tá- (pronoun)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvanāya* ← *jīvana*
 - \[noun\], dative, singular, neuter
 - “animation; life; life; subsistence.”
-------------------------------------------------------------------------
+
+_________
+
 - *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ajñātayakṣmād* ← *ajñāta*
 - \[noun\]
 - “unknown; unexpected.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajñātayakṣmād* ← *yakṣmāt* ← *yakṣma*
 - \[noun\], ablative, singular, masculine
 - “tuberculosis; disease; pulmonary tuberculosis.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājayakṣmāt* ← *rājayakṣman*
 - \[noun\], ablative, singular, masculine
 - “kṣaya.”
-------------------------------------------------------------------------
+
+_________
+
 - *grāhir* ← *grāhiḥ* ← *grāhi*
 - \[noun\], nominative, singular, feminine
 - “seizure.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagrāha* ← *grah*
 - \[verb\], singular, Perfect indicative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -153,44 +173,62 @@ tásyāḥ ← sá- ~ tá- (pronoun)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaitad* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaitad* ← *etat* ← *etad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *enaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *tasyā* ← *tasyāḥ* ← *tad*
 - \[noun\], ablative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāgnī* ← *agnī* ← *agni*
 - \[noun\], vocative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *mumuktam* ← *muc*
 - \[verb\], dual, Perfect imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -198,11 +236,15 @@ tásyāḥ ← sá- ~ tá- (pronoun)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

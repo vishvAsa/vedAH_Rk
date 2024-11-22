@@ -105,87 +105,127 @@ yajñásya ← yajñá- (nominal stem)
 -   *ṛcāṃ* ← *ṛcām* ← *ṛc*
 - \[noun\], genitive, plural, feminine
 - “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaḥ* ← *tva*
 - \[noun\], nominative, singular, masculine
 - “many a(a); one.”
-------------------------------------------------------------------------
+
+_________
+
 - *poṣam*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *āste* ← *ās*
 - \[verb\], singular, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
-------------------------------------------------------------------------
+
+_________
+
 - *pupuṣvān* ← *puṣ*
 - \[verb noun\], nominative, singular
 - “boom; grow; promote; foster.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyatraṃ* ← *gāyatram* ← *gāyatra*
 - \[noun\], accusative, singular, neuter
 - “Gāyatrī; Gāyatra.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvo* ← *tvaḥ* ← *tva*
 - \[noun\], nominative, singular, masculine
 - “many a(a); one.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyati* ← *gā*
 - \[verb\], singular, Present indikative
 - “sing; praise; jap; recite; describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakvarīṣu* ← *śakvarī*
 - \[noun\], locative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *brahmā* ← *brahman*
 - \[noun\], nominative, singular, masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvo* ← *tvaḥ* ← *tva*
 - \[noun\], nominative, singular, masculine
 - “many a(a); one.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadati* ← *vad*
 - \[verb\], singular, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavidyāṃ* ← *jāta* ← *jan*
 - \[verb noun\]
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavidyāṃ* ← *vidyām* ← *vidyā*
 - \[noun\], accusative, singular, feminine
 - “knowledge; eruditeness; science; mantra; magic; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātrāṃ* ← *mātrām* ← *mātrā*
 - \[noun\], accusative, singular, feminine
 - “measure; weight; quantity; syllable; mātrā; property; part;
     particle; mātrā \[word\]; household effects; morsel; mirror;
     substance.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimīta* ← *mimīte* ← *mā*
 - \[verb\], singular, Present indikative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaḥ* ← *tva*
 - \[noun\], nominative, singular, masculine
 - “many a(a); one.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

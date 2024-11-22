@@ -102,79 +102,117 @@ suṣṭutím ← suṣṭutí- (nominal stem)
 -   *ka* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravat* ← *śru*
 - \[verb\], singular, Aorist conj./subj.
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *katamo* ← *katamaḥ* ← *katama*
 - \[noun\], nominative, singular, masculine
 - “katama \[word\]; who.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyānāṃ* ← *yajñiyānām* ← *yajñiya*
 - \[noun\], genitive, plural, masculine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandāru*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *katamo* ← *katamaḥ* ← *katama*
 - \[noun\], nominative, singular, masculine
 - “katama \[word\]; who.”
-------------------------------------------------------------------------
+
+_________
+
 - *juṣāte* ← *juṣ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
-------------------------------------------------------------------------
+
+_________
+
 - *kasyemāṃ* ← *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kasyemāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *devīm* ← *devī*
 - \[noun\], accusative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛteṣu* ← *amṛta*
 - \[noun\], locative, plural, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *preṣṭhāṃ* ← *preṣṭhām* ← *preṣṭha*
 - \[noun\], accusative, singular, feminine
 - “dearest.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdi* ← *hṛd*
 - \[noun\], locative, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śreṣāma* ← *śriṣ*
 - \[verb\], plural, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭutiṃ* ← *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhavyām* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhavyām* ← *havyām* ← *havya*
 - \[noun\], accusative, singular, feminine
 - “Havya; offering; havya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

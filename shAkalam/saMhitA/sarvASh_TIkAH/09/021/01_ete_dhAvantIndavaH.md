@@ -70,41 +70,59 @@ svarvídaḥ ← svarvíd- (nominal stem)
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāvantīndavaḥ* ← *dhāvanti* ← *dhāv*
 - \[verb\], plural, Present indikative
 - “run; run; wash.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāvantīndavaḥ* ← *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *somā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛṣvayaḥ* ← *ghṛṣvi*
 - \[noun\], nominative, plural, masculine
 - “anticipated; electrifying.”
-------------------------------------------------------------------------
+
+_________
+
 - *matsarāsaḥ* ← *matsara*
 - \[noun\], nominative, plural, masculine
 - “intoxicant; invigorating; hostile.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarvidaḥ* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarvidaḥ* ← *vidaḥ* ← *vid*
 - \[noun\], nominative, plural, masculine
 - “finding.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

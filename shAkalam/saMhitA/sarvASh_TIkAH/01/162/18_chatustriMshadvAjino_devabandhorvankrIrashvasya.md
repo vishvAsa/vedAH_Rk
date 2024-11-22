@@ -96,50 +96,74 @@ ví ← ví (invariable)
 -   *catustriṃśad* ← *catustriṃśat*
 - \[noun\], nominative, singular, feminine
 - “thirty-four.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], genitive, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *devabandhor* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devabandhor* ← *bandhoḥ* ← *bandhu*
 - \[noun\], genitive, singular, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaṅkrīr* ← *vaṅkrīḥ* ← *vaṅkri*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhitiḥ* ← *svadhiti*
 - \[noun\], nominative, singular, masculine
 - “ax; knife.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *acchidrā* ← *acchidra*
 - \[noun\], accusative, plural, neuter
 - “uninjured; unbroken.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātrā* ← *gātra*
 - \[noun\], accusative, plural, neuter
 - “body part; body; limb; part; largeness.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayunā* ← *vayuna*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇota* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -150,27 +174,39 @@ ví ← ví (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *paruṣparur* ← *paruḥ* ← *parus*
 - \[noun\], accusative, singular, neuter
 - “joint.”
-------------------------------------------------------------------------
+
+_________
+
 - *paruṣparur* ← *paruḥ* ← *parus*
 - \[noun\], accusative, singular, neuter
 - “joint.”
-------------------------------------------------------------------------
+
+_________
+
 - *anughuṣyā* ← *anughuṣya* ← *anughuṣ* ← *√ghuṣ*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *śasta* ← *śaṃs*
 - \[verb\], plural, Aorist imperative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

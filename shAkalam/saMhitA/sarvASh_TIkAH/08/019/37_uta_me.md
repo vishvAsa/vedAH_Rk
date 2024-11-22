@@ -95,65 +95,95 @@ vásuḥ ← vásu- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayiyor* ← *prayiyoḥ* ← *prayiyu*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vayiyoḥ* ← *vayiyu*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *suvāstvā* ← *suvāstvāḥ* ← *suvāstu*
 - \[noun\], genitive, singular, feminine
 - “suvāstu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *tugvani* ← *tugvan*
 - \[noun\], locative, singular, neuter
 - “ford.”
-------------------------------------------------------------------------
+
+_________
+
 - *tisṝṇāṃ* ← *tisṝṇām* ← *tri*
 - \[noun\], genitive, plural, feminine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saptatīnāṃ* ← *saptatīnām* ← *saptati*
 - \[noun\], genitive, plural, feminine
 - “seventy; saptati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śyāvaḥ* ← *śyāva*
 - \[noun\], nominative, singular, masculine
 - “brown; dark; śyāva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *praṇetā* ← *praṇetṛ*
 - \[noun\], nominative, singular, masculine
 - “leader.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvad* ← *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasur* ← *vasuḥ* ← *vasu*
 - \[noun\], nominative, singular, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *diyānām* ← *diya*
 - \[noun\], genitive, plural, neuter
 - “gift.”
-------------------------------------------------------------------------
+
+_________
+
 - *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

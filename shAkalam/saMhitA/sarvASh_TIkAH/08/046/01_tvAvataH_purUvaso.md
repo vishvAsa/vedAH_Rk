@@ -69,38 +69,54 @@ sthātar ← sthā́tar- (nominal stem)
 
 -   *tvāvataḥ* ← *tvāvat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *purūvaso* ← *purūvasu*
 - \[noun\], vocative, singular, masculine
 - “rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *praṇetaḥ* ← *praṇetar* ← *praṇetṛ*
 - \[noun\], vocative, singular, masculine
 - “leader.”
-------------------------------------------------------------------------
+
+_________
+
 - *smasi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthātar* ← *sthātṛ*
 - \[noun\], vocative, singular, masculine
 - “driver.”
-------------------------------------------------------------------------
+
+_________
+
 - *harīṇām* ← *hari*
 - \[noun\], genitive, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

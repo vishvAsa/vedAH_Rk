@@ -117,98 +117,144 @@ ví ← ví (invariable)
 -   *nāsmai* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsmai* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidyun* ← *vidyut*
 - \[noun\], nominative, singular, feminine
 - “lightning; Vidyut; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tanyatuḥ* ← *tanyatu*
 - \[noun\], nominative, singular, masculine
 - “thunder.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣedha* ← *sidh*
 - \[verb\], singular, Perfect indicative
 - “prepare; prepare; succeed; heal; perfect; be known; compound;
     achieve; prove.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *miham* ← *mih*
 - \[noun\], accusative, singular, feminine
 - “fog.”
-------------------------------------------------------------------------
+
+_________
+
 - *akiraddhrāduniṃ* ← *akirat* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “spread; scatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *akiraddhrāduniṃ* ← *hrādunim* ← *hrāduni*
 - \[noun\], accusative, singular, feminine
 - “hail.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyudhāte* ← *yudh*
 - \[verb\], dual, Perfect indicative
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahiś* ← *ahiḥ* ← *ahi*
 - \[noun\], nominative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 - *cotāparībhyo* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cotāparībhyo* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cotāparībhyo* ← *aparībhyaḥ* ← *aparī*
 - \[noun\], dative, plural, feminine
 - “future.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigye* ← *ji*
 - \[verb\], singular, Perfect indicative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

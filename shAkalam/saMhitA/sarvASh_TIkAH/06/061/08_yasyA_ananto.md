@@ -73,40 +73,58 @@ róruvat ← √rū- (root)
 -   *yasyā* ← *yasyāḥ* ← *yad*
 - \[noun\], genitive, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ananto* ← *anantaḥ* ← *ananta*
 - \[noun\], nominative, singular, masculine
 - “infinite; ananta \[word\]; countless; permanent; boundless.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahrutas* ← *ahrutaḥ* ← *ahruta*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣaś* ← *tveṣaḥ* ← *tveṣa*
 - \[noun\], nominative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *cariṣṇur* ← *cariṣṇuḥ* ← *cariṣṇu*
 - \[noun\], nominative, singular, masculine
 - “mobile; moving.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṇavaḥ* ← *arṇava*
 - \[noun\], nominative, singular, masculine
 - “wavy; flowing.”
-------------------------------------------------------------------------
+
+_________
+
 - *amaś* ← *amaḥ* ← *ama*
 - \[noun\], nominative, singular, masculine
 - “am; panic; power; ferocity.”
-------------------------------------------------------------------------
+
+_________
+
 - *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *roruvat* ← *roro* ← *√ru*
 - \[verb noun\], nominative, singular
 - “bellow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

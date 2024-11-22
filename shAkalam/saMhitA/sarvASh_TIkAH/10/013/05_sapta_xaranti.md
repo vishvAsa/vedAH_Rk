@@ -102,77 +102,113 @@ yatete ← √yat- (root)
 -   *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣaranti* ← *kṣar*
 - \[verb\], plural, Present indikative
 - “run; melt.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśave* ← *śiśu*
 - \[noun\], dative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutvate* ← *marutvat*
 - \[noun\], dative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *pitre* ← *pitṛ*
 - \[noun\], dative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *putrāso* ← *putrāsaḥ* ← *putra*
 - \[noun\], nominative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *apy* ← *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *avīvatann* ← *avīvatan* ← *vat*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “teach.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhe* ← *ubh*
 - \[noun\], nominative, dual, feminine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyobhayasya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyobhayasya* ← *ubhayasya* ← *ubhaya*
 - \[noun\], genitive, singular, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *rājata* ← *rājataḥ* ← *rāj*
 - \[verb\], dual, Present indikative
 - “govern; shine; glitter; direct.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhe* ← *ubh*
 - \[noun\], nominative, dual, feminine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *yatete* ← *yat*
 - \[verb\], dual, Present indikative
 - “strive; endeavor; join; equal; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhayasya* ← *ubhaya*
 - \[noun\], genitive, singular, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣyataḥ* ← *puṣ*
 - \[verb\], dual, Present indikative
 - “boom; grow; promote; foster.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

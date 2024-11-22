@@ -86,59 +86,85 @@ prá ← prá (invariable)
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *'pa* ← *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dahārātīr* ← *daha* ← *dah*
 - \[verb\], singular, Present imperative
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 - *dahārātīr* ← *arātīḥ* ← *arāti*
 - \[noun\], accusative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
-------------------------------------------------------------------------
+
+_________
+
 - *yebhis* ← *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tapobhir* ← *tapobhiḥ* ← *tapas*
 - \[noun\], instrumental, plural, neuter
 - “penance; heat; Tapoloka; tapas \[word\]; ardor; austerity; summer;
     heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *adaho* ← *adahaḥ* ← *dah*
 - \[verb\], singular, Imperfect
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarūtham* ← *jarūtha*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *nisvaraṃ* ← *nisvaram* ← *nisvara*
 - \[noun\], accusative, singular, neuter
 - “silent.”
-------------------------------------------------------------------------
+
+_________
+
 - *cātayasvāmīvām* ← *cātayasva* ← *cātay* ← *√cat*
 - \[verb\], singular, Present imperative
 - “chase away.”
-------------------------------------------------------------------------
+
+_________
+
 - *cātayasvāmīvām* ← *amīvām* ← *amīvā*
 - \[noun\], accusative, singular, feminine
 - “disease; affliction.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

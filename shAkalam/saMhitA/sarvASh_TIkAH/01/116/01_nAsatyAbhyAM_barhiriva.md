@@ -99,74 +99,110 @@ senājúvā ← senājū́- (nominal stem)
 -   *nāsatyābhyām* ← *nāsatya*
 - \[noun\], dative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛñje* ← *vṛj*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *stomāṃ* ← *stoma*
 - \[noun\], accusative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iyarmy* ← *iyarmi* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhriyeva* ← *abhriyā* ← *abhriya*
 - \[noun\], accusative, plural, neuter
 - “cumulonimbus.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhriyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāv* ← *yau* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *arbhagāya* ← *arbhaga*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vimadāya* ← *vimada*
 - \[noun\], dative, singular, masculine
 - “Vimada.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyāṃ* ← *jāyām* ← *jāyā*
 - \[noun\], accusative, singular, feminine
 - “wife; jāyā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *senājuvā* ← *senā*
 - \[noun\], feminine
 - “army; senā \[word\]; armament.”
-------------------------------------------------------------------------
+
+_________
+
 - *senājuvā* ← *juvā* ← *jū*
 - \[noun\], instrumental, singular, masculine
 - “fleet.”
-------------------------------------------------------------------------
+
+_________
+
 - *nyūhatū* ← *nyūhatuḥ* ← *nivah* ← *√vah*
 - \[verb\], dual, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

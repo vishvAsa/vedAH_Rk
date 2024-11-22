@@ -93,84 +93,124 @@ yuṣmát ← tvám (pronoun)
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājānam* ← *rājan*
 - \[noun\], accusative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *iryaṃ* ← *iryam* ← *irya*
 - \[noun\], accusative, singular, masculine
 - “argus-eyed; active; heedful.”
-------------------------------------------------------------------------
+
+_________
+
 - *janāya* ← *jana*
 - \[noun\], dative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhvataṣṭaṃ* ← *vibhva* ← *vibhvan*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *vibhvataṣṭaṃ* ← *taṣṭam* ← *takṣ*
 - \[verb noun\], accusative, singular
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *janayathā* ← *janay* ← *√jan*
 - \[verb\], plural, Present indikative
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatrāḥ* ← *yajatra*
 - \[noun\], vocative, plural, masculine
 - “adorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuṣmad* ← *yuṣmat* ← *tvad*
 - \[noun\], ablative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *muṣṭihā* ← *muṣṭi*
 - \[noun\], masculine
 - “fist; handful; pestle; muṣṭi \[word\]; pala.”
-------------------------------------------------------------------------
+
+_________
+
 - *muṣṭihā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhujūto* ← *bāhu*
 - \[noun\], masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhujūto* ← *jūtaḥ* ← *jū*
 - \[verb noun\], nominative, singular
 - “animate; encourage; impel; inspire.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuṣmat* ← *tvad*
 - \[noun\], ablative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadaśvo* ← *sat*
 - \[noun\]
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadaśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīraḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīraḥ* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

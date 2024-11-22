@@ -101,84 +101,122 @@ tanū́bhiḥ ← tanū́- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *samanā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *samānīr* ← *samānīḥ* ← *samāna*
 - \[noun\], nominative, plural, feminine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *amītavarṇā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *amītavarṇā* ← *mīta* ← *mī*
 - \[verb noun\]
 - “transgress; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *amītavarṇā* ← *varṇāḥ* ← *varṇa*
 - \[noun\], nominative, plural, feminine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasaś* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *gūhantīr* ← *gūhantīḥ* ← *guh*
 - \[verb noun\], nominative, plural
 - “hide; cover; conceal; shroud; obscure.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhvam* ← *abhva*
 - \[noun\], accusative, singular, neuter
 - “monstrosity; nothingness; void; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *asitaṃ* ← *asitam* ← *asita*
 - \[noun\], accusative, singular, neuter
 - “black; dark; dark; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruśadbhiḥ* ← *ruśat*
 - \[noun\], instrumental, plural, feminine
 - “white; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukrās* ← *śukrāḥ* ← *śukra*
 - \[noun\], nominative, plural, feminine
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūbhiḥ* ← *tanū*
 - \[noun\], instrumental, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucayo* ← *śucayaḥ* ← *śuci*
 - \[noun\], nominative, plural, feminine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *rucānāḥ* ← *ruc*
 - \[verb noun\], nominative, plural
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

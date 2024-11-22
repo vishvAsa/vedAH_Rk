@@ -96,75 +96,111 @@ yajñíye ← yajñíya- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣaṇe* ← *yoṣaṇā*
 - \[noun\], nominative, dual, feminine
 - “girl; wife.”
-------------------------------------------------------------------------
+
+_________
+
 - *divye* ← *divya*
 - \[noun\], nominative, dual, feminine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahī* ← *mahi*
 - \[noun\], nominative, dual, feminine
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣāsānaktā*
 - \[noun\], nominative, singular, feminine
 - “dawn; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudugheva* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudugheva* ← *dughā* ← *dugha*
 - \[noun\], nominative, singular, feminine
 - “yielding.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudugheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhiṣadā* ← *barhiṣad*
 - \[noun\], nominative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *puruhūte* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruhūte* ← *hūte* ← *hvā*
 - \[verb noun\], nominative, dual
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghonī* ← *maghavan*
 - \[noun\], nominative, dual, feminine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiye* ← *yajñiya*
 - \[noun\], nominative, dual, feminine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrayetām* ← *śri*
 - \[verb\], dual, Present optative
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

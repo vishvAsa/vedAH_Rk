@@ -110,88 +110,128 @@ svàr ← svàr- (nominal stem)
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pādā* ← *pāda*
 - \[noun\], accusative, dual, masculine
 - “foot; one-fourth; beam; pāda; foot; foundation; pāda \[word\]; leg;
     leg; animal foot; step; foot; footfall; verse.”
-------------------------------------------------------------------------
+
+_________
+
 - *duva* ← *duvaḥ* ← *duvas*
 - \[noun\], nominative, singular, neuter
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mimikṣur* ← *mimikṣuḥ* ← *myakṣ*
 - \[verb\], plural, Perfect indicative
 - “be situated; attach.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇur* ← *dhṛṣṇuḥ* ← *dhṛṣṇu*
 - \[noun\], nominative, singular, masculine
 - “brave; ferocious; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrī* ← *vajrin*
 - \[noun\], nominative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇāvān* ← *dakṣiṇāvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vasāno* ← *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *atkaṃ* ← *atkam* ← *atka*
 - \[noun\], accusative, singular, masculine
 - “garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *surabhiṃ* ← *surabhim* ← *surabhi*
 - \[noun\], accusative, singular, masculine
 - “fragrant; perfumed; surabhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛśe* ← *dṛś*
 - \[verb noun\]
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṃ* ← *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṇa* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛtav* ← *nṛto* ← *nṛtu*
 - \[noun\], vocative, singular, masculine
 - “dancing.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣiro* ← *iṣiraḥ* ← *iṣira*
 - \[noun\], nominative, singular, masculine
 - “vigorous; bracing; quick.”
-------------------------------------------------------------------------
+
+_________
+
 - *babhūtha* ← *bhū*
 - \[verb\], singular, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

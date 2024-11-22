@@ -89,57 +89,85 @@ tŕ̥tsavaḥ ← tŕ̥tsu- (nominal stem)
 
 -   *dāśarājñe* ← *dāśarājña*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *pariyattāya* ← *pariyat* ← *√yat*
 - \[verb noun\], dative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudāsa* ← *sudāse* ← *sudās*
 - \[noun\], dative, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāvaruṇāv* ← *indrāvaruṇau* ← *indrāvaruṇa*
 - \[noun\], nominative, dual, masculine
 - “Varuna; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśikṣatam* ← *śikṣ*
 - \[verb\], dual, Imperfect
 - “help; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvityañco* ← *śvityañcaḥ* ← *śvityañc*
 - \[noun\], nominative, plural, masculine
 - “white.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *kapardino* ← *kapardinaḥ* ← *kapardin*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhīvanto* ← *dhīvantaḥ* ← *dhīvat*
 - \[noun\], nominative, plural, masculine
 - “religious.”
-------------------------------------------------------------------------
+
+_________
+
 - *asapanta* ← *sap*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *tṛtsavaḥ* ← *tṛtsu*
 - \[noun\], nominative, plural, masculine
 - “Tṛtsu.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

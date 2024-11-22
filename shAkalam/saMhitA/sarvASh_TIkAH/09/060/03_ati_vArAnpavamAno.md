@@ -76,45 +76,65 @@ hā́rdi ← hā́rdi ~ hr̥d- (nominal stem)
 -   *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *vārān* ← *vāra*
 - \[noun\], accusative, plural, masculine
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *asiṣyadat* ← *syand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *kalaśāṃ* ← *kalaśa*
 - \[noun\], accusative, plural, masculine
 - “jar.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāvati* ← *dhāv*
 - \[verb\], singular, Present indikative
 - “run; run; wash.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *hārdy* ← *hārdi*
 - \[noun\], accusative, singular, neuter
 - “heart.”
-------------------------------------------------------------------------
+
+_________
+
 - *āviśan* ← *āviś* ← *√viś*
 - \[verb\], plural, Imperfect
 - “enter; overwhelm; possess; approach; afflict; enter (a state);
     reach; wear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -84,56 +84,82 @@ jī́vantyāḥ ← √jīv- (root)
 -   *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *māsāñchaśayānaḥ* ← *māsān* ← *māsa*
 - \[noun\], accusative, plural, masculine
 - “month; lunar month; māsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *māsāñchaśayānaḥ* ← *śaśayānaḥ* ← *śī*
 - \[verb noun\], nominative, singular
 - “lie; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *kumāro* ← *kumāraḥ* ← *kumāra*
 - \[noun\], nominative, singular, masculine
 - “prince; male child; child; Skanda; son; kumārabandha; kumāra
     \[word\]; young person.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātari* ← *mātṛ*
 - \[noun\], locative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *niraitu* ← *nire* ← *√i*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *jīvo* ← *jīvaḥ* ← *jīva*
 - \[noun\], nominative, singular, masculine
 - “live; alive(p); amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣato* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣato* ← *kṣataḥ* ← *kṣan*
 - \[verb noun\], nominative, singular
 - “injure; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvo* ← *jīvaḥ* ← *jīva*
 - \[noun\], nominative, singular, masculine
 - “live; alive(p); amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvantyā* ← *jīvantyāḥ* ← *jīv*
 - \[verb noun\], ablative, singular
 - “survive; be; exist; live on; dwell.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

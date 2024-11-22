@@ -74,50 +74,72 @@ vr̥traghnáḥ ← vr̥trahán- (nominal stem)
 - \[noun\], genitive, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrṇam* ← *pṛ*
 - \[verb noun\], nominative, singular
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *udaraṃ* ← *udaram* ← *udara*
 - \[noun\], nominative, singular, neuter
 - “udara; cavity; abdomen; inside; stomach; belly; udara \[word\];
     garbha; abdominal disease; intestine; inside; uterus; vessel.”
-------------------------------------------------------------------------
+
+_________
+
 - *turasyāsti* ← *turasya* ← *tura*
 - \[noun\], genitive, singular, masculine
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *turasyāsti* ← *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhataḥ* ← *vidh*
 - \[verb noun\], genitive, singular
 - “worship; offer.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraghnaḥ* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraghnaḥ* ← *ghnaḥ* ← *han*
 - \[noun\], genitive, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapāvnaḥ* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapāvnaḥ* ← *pāvnaḥ* ← *pāvan*
 - \[noun\], genitive, singular, masculine
 - “drinking.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

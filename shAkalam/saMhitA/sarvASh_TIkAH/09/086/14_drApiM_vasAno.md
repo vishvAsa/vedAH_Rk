@@ -99,78 +99,114 @@ vivāsati ← √vanⁱ- (root)
 -   *drāpiṃ* ← *drāpim* ← *drāpi*
 - \[noun\], accusative, singular, masculine
 - “garment; cape.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasāno* ← *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajato* ← *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *divispṛśam* ← *divispṛś*
 - \[noun\], accusative, singular, masculine
 - “heavenward.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣaprā* ← *antarikṣa*
 - \[noun\], neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣaprā* ← *prāḥ* ← *prā*
 - \[noun\], nominative, singular, masculine
 - “appreciated.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvaneṣv* ← *bhuvaneṣu* ← *bhuvana*
 - \[noun\], locative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *arpitaḥ* ← *arpay*
 - \[verb noun\], nominative, singular
 - “shoot; give; direct; hide; put; insert.”
-------------------------------------------------------------------------
+
+_________
+
 - *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *jajñāno* ← *jajñānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhasābhy* ← *nabhasā* ← *nabhas*
 - \[noun\], instrumental, singular, neuter
 - “sky; cloud; ākāśa; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhasābhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *akramīt* ← *kram*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnam* ← *pratna*
 - \[noun\], accusative, singular, masculine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitaram* ← *pitṛ*
 - \[noun\], accusative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vivāsati* ← *vivās* ← *√van*
 - \[verb\], singular, Present indikative
 - “invite; endeavor; try for.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

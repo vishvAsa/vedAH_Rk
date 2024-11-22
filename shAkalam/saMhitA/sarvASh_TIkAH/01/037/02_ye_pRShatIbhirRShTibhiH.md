@@ -70,42 +70,60 @@ svábhānavaḥ ← svábhānu- (nominal stem)
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣatībhir* ← *pṛṣatībhiḥ* ← *pṛṣatī*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣṭibhiḥ* ← *ṛṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “spear.”
-------------------------------------------------------------------------
+
+_________
+
 - *sākaṃ* ← *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāśībhir* ← *vāśībhiḥ* ← *vāśī*
 - \[noun\], instrumental, plural, feminine
 - “ax; chisel.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjibhiḥ* ← *añji*
 - \[noun\], instrumental, plural, masculine
 - “color; ointment; adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāyanta* ← *jan*
 - \[verb\], plural, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhānavaḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhānavaḥ* ← *bhānavaḥ* ← *bhānu*
 - \[noun\], nominative, plural, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

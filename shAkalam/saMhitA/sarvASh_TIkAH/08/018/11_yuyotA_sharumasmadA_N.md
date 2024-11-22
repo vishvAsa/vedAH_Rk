@@ -79,38 +79,56 @@ viśvavedasaḥ ← viśvávedas- (nominal stem)
 -   *yuyotā* ← *yuyota* ← *yu*
 - \[verb\], plural, Present imperative
 - “keep away; separate; ward off.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarum* ← *śaru*
 - \[noun\], accusative, singular, masculine
 - “arrow.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ādityāsa* ← *ādityāsaḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *utāmatim* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *utāmatim* ← *amatim* ← *amati*
 - \[noun\], accusative, singular, feminine
 - “effigy; ignorance; light; light; luster; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛdhag* ← *ṛdhak*
 - \[adverb\]
 - “away; apart.”
-------------------------------------------------------------------------
+
+_________
+
 - *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇuta* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -121,16 +139,22 @@ viśvavedasaḥ ← viśvávedas- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedasaḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedasaḥ* ← *vedasaḥ* ← *vedas*
 - \[noun\], vocative, plural, masculine
 - “knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -90,57 +90,85 @@ víhrutam ← √hvr̥- ~ hru- (root)
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛte*
 - \[adverb\]
 - “without; ṛte \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiśriṣaḥ* ← *abhiśriṣ*
 - \[noun\], ablative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jatrubhya* ← *jatrubhyaḥ* ← *jatru*
 - \[noun\], ablative, plural, masculine
 - “clavicle.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātṛdaḥ* ← *ātṛd* ← *√tṛd*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *saṃdhātā* ← *saṃdhātṛ*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *saṃdhim* ← *saṃdhi*
 - \[noun\], accusative, singular, masculine
 - “joint; articulation; peace; connection; Sandhi; transition;
     confluence.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *purūvasur* ← *purūvasuḥ* ← *purūvasu*
 - \[noun\], nominative, singular, masculine
 - “rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣkartā* ← *iṣkartṛ*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vihrutam* ← *vihruta*
 - \[noun\], accusative, singular, neuter
 - “disjointed.”
-------------------------------------------------------------------------
+
+_________
+
 - *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

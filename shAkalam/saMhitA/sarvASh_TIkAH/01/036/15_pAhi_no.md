@@ -90,61 +90,89 @@ yáviṣṭhya ← yáviṣṭhya- (nominal stem)
 -   *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣasaḥ* ← *rakṣas*
 - \[noun\], ablative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūrter* ← *dhūrteḥ* ← *dhūrti*
 - \[noun\], ablative, singular, feminine
 - “fraud; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *arāvṇaḥ* ← *arāvan*
 - \[noun\], genitive, singular, masculine
 - “begrudging; hostile; stingy.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *rīṣata* ← *rīṣataḥ* ← *riṣ*
 - \[verb noun\], ablative, singular
 - “suffer; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *jighāṃsato* ← *jighāṃsataḥ* ← *jighāṃs* ← *√han*
 - \[verb noun\], ablative, singular
 - “kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhadbhāno* ← *bṛhadbhānu*
 - \[noun\], vocative, singular, masculine
 - “Agni; Bṛhadbhānu; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaviṣṭhya*
 - \[noun\], vocative, singular, masculine
 - “youngest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

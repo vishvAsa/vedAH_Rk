@@ -85,54 +85,80 @@ yáḥ ← yá- (pronoun)
 -   *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *agham* ← *agha*
 - \[noun\], nominative, singular, neuter
 - “sin; evil; impurity; agha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnavad* ← *aśnavat* ← *aś*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *duḥśaṃsam* ← *duḥśaṃsa*
 - \[noun\], accusative, singular, masculine
 - “calumniatory; wicked.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyaṃ* ← *martyam* ← *martya*
 - \[noun\], accusative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ripum* ← *ripu*
 - \[noun\], accusative, singular, masculine
 - “punic; deceitful; unfriendly.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asmatrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *durhaṇāvāṃ* ← *durhaṇāvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvayuḥ* ← *dvayu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

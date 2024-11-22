@@ -70,42 +70,60 @@ vidá ← √vid- 2 (root)
 -   *śaśamānasya* ← *śam*
 - \[verb noun\], genitive, singular
 - “calm; go out; end; die; pacify; heal; labor; make peace; rest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], vocative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *svedasya* ← *sveda*
 - \[noun\], genitive, singular, masculine
 - “perspiring; drudging.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyaśavasaḥ* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyaśavasaḥ* ← *śavasaḥ* ← *śavas*
 - \[noun\], genitive, singular, masculine
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidā* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāmasya* ← *kāma*
 - \[noun\], genitive, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
-------------------------------------------------------------------------
+
+_________
+
 - *venataḥ* ← *ven*
 - \[verb noun\], genitive, singular
 - “circulate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

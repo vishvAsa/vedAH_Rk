@@ -87,57 +87,83 @@ yātumádbhyaḥ ← yātumánt- (nominal stem)
 -   *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣva* ← *cakṣ*
 - \[verb\], singular, Present imperative
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣvendraś* ← *cakṣva* ← *cakṣ*
 - \[verb\], singular, Present imperative
 - “watch; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣvendraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāgṛtam* ← *jāgṛ*
 - \[verb\], dual, Present imperative
 - “wake; watch; awaken; wake up; oversee.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣobhyo* ← *rakṣobhyaḥ* ← *rakṣas*
 - \[noun\], dative, plural, masculine
 - “Rākṣasa.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadham* ← *vadha*
 - \[noun\], accusative, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyatam* ← *as*
 - \[verb\], dual, Present imperative
 - “shoot; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśaniṃ* ← *aśanim* ← *aśani*
 - \[noun\], accusative, singular, masculine
 - “lightning; Vajra; vajra; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātumadbhyaḥ* ← *yātumat*
 - \[noun\], dative, plural, masculine
 - “charming.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

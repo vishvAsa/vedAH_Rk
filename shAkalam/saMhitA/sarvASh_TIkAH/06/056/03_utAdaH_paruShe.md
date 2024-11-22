@@ -76,46 +76,66 @@ rathī́tamaḥ ← rathī́tama- (nominal stem)
 -   *utādaḥ* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *utādaḥ* ← *adaḥ* ← *adas*
 - \[noun\], accusative, singular, neuter
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *paruṣe* ← *paruṣa*
 - \[noun\], locative, singular, masculine
 - “rough; harsh; boisterous; unsightly; varicolored; patched; cruel;
     clear.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavi* ← *go*
 - \[noun\], locative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūraś* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakraṃ* ← *cakram* ← *cakra*
 - \[noun\], accusative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayam* ← *hiraṇyaya*
 - \[noun\], accusative, singular, neuter
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *airayad* ← *airayat* ← *īray* ← *√īr*
 - \[verb\], singular, Imperfect
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathītamaḥ* ← *rathītama*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

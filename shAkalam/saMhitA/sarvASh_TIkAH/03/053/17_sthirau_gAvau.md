@@ -113,98 +113,142 @@ sacasva ← √sac- 1 (root)
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvau* ← *go*
 - \[noun\], nominative, dual, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavatāṃ* ← *bhavatām* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīﾱur* ← *vīﾱuḥ* ← *vīḍu*
 - \[noun\], nominative, singular, masculine
 - “hard; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣo* ← *akṣaḥ* ← *akṣa*
 - \[noun\], nominative, singular, masculine
 - “axle.”
-------------------------------------------------------------------------
+
+_________
+
 - *meṣā* ← *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *meṣā* ← *īṣā*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *varhi* ← *vṛh*
 - \[verb\], singular, Aorist passive
 - “extract.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *yugaṃ* ← *yugam* ← *yuga*
 - \[noun\], nominative, singular, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *śāri* ← *śṛ*
 - \[verb\], singular, Aorist passive
 - “fall off; break; disintegrate; crush; break; fracture.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pātalye* ← *pātalya*
 - \[noun\], accusative, dual, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *dadatāṃ* ← *dadatām* ← *dā*
 - \[verb\], singular, Present imperative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarītor* ← *śarītoḥ* ← *śṛ*
 - \[verb noun\]
 - “fall off; break; disintegrate; crush; break; fracture.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣṭaneme* ← *ariṣṭa*
 - \[noun\]
 - “safe; unharmed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣṭaneme* ← *neme* ← *nemi*
 - \[noun\], vocative, singular, masculine
 - “rim; felloe.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacasva* ← *sac*
 - \[verb\], singular, Present imperative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

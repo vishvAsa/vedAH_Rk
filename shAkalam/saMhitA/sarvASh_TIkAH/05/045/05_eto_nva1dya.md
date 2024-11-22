@@ -105,75 +105,109 @@ yájamānam ← √yaj- (root)
 -   *eto* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhyo* ← *sudhyaḥ* ← *sudhī*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavāma* ← *bhū*
 - \[verb\], plural, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *ducchunā* ← *ducchunāḥ* ← *ducchunā*
 - \[noun\], accusative, plural, feminine
 - “calamity; misfortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *minavāmā* ← *minavāma* ← *mi*
 - \[verb\], plural, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *varīyaḥ* ← *varīyas*
 - \[noun\], accusative, singular, neuter
 - “broad; further.”
-------------------------------------------------------------------------
+
+_________
+
 - *āre*
 - \[adverb\]
 - “far.”
-------------------------------------------------------------------------
+
+_________
+
 - *dveṣāṃsi* ← *dveṣas*
 - \[noun\], accusative, plural, neuter
 - “hostility; enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanutar*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāmāyāma* ← *dadhāma* ← *dhā*
 - \[verb\], plural, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāmāyāma* ← *āyāma* ← *āyā* ← *√yā*
 - \[verb\], plural, Imperfect
 - “enter (a state); come; transform; approach; arrive; reach; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāñco* ← *prāñcaḥ* ← *prāñc*
 - \[noun\], nominative, plural, masculine
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamānam* ← *yaj*
 - \[verb noun\], accusative, singular
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

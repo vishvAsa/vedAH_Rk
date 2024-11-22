@@ -81,50 +81,74 @@ vā́sāṁsi ← vā́sas- (nominal stem)
 -   *ādhīṣamāṇāyāḥ* ← *adhīṣ* ← *√iṣ*
 - \[verb noun\], genitive, singular
 - “ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucāyāś* ← *śucāyāḥ* ← *śuca*
 - \[noun\], genitive, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucasya* ← *śuca*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāsovāyo* ← *vāsaḥ* ← *vāsas*
 - \[noun\], neuter
 - “clothing; fabric; garment; feather; dress; envelope.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāsovāyo* ← *vāyaḥ* ← *vāya*
 - \[noun\], nominative, singular, masculine
 - “weaving.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vīnām* ← *avīnām* ← *avi*
 - \[noun\], genitive, plural, masculine
 - “sheep; avi \[word\]; menstruating woman; ewe.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāsāṃsi* ← *vāsas*
 - \[noun\], accusative, plural, neuter
 - “clothing; fabric; garment; feather; dress; envelope.”
-------------------------------------------------------------------------
+
+_________
+
 - *marmṛjat* ← *marmṛj* ← *√mṛj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “groom; wash; rub.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

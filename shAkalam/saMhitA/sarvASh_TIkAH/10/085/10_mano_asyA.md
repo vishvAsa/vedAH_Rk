@@ -94,67 +94,97 @@ yát ← yá- (pronoun)
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ana* ← *anaḥ* ← *anas*
 - \[noun\], nominative, singular, neuter
 - “cart; anas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cchadiḥ* ← *chadiḥ* ← *chadis*
 - \[noun\], nominative, singular, neuter
 - “chadis \[word\]; covering; roof; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukrāv* ← *śukrau* ← *śukra*
 - \[noun\], nominative, dual, masculine
 - “Venus; Uśanas; Jeth; Agni; śukra \[word\]; śukra; Soma.”
-------------------------------------------------------------------------
+
+_________
+
 - *anaḍvāhāv* ← *anaḍvāhau* ← *anaḍuh*
 - \[noun\], nominative, dual
 - “anaḍuh \[word\]; ox.”
-------------------------------------------------------------------------
+
+_________
+
 - *āstāṃ* ← *āstām* ← *as*
 - \[verb\], dual, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayāt* ← *yā*
 - \[verb\], singular, Root aorist (Ind.)
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryā*
 - \[noun\], nominative, singular, feminine
 - “Citrullus colocynthis Schrad..”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

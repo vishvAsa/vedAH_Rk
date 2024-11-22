@@ -96,72 +96,106 @@ marutaḥ ← marút- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rohitau* ← *rohita*
 - \[noun\], accusative, dual, masculine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinau* ← *vājin*
 - \[noun\], accusative, dual, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinīvān* ← *vājinīvat*
 - \[noun\], nominative, singular, masculine
 - “rich; rich in horses.”
-------------------------------------------------------------------------
+
+_________
+
 - *tribhiḥ* ← *tri*
 - \[noun\], instrumental, plural, masculine
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śataiḥ* ← *śata*
 - \[noun\], instrumental, plural, masculine
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sacamānāv* ← *sacamānau* ← *sac*
 - \[verb noun\], accusative, dual
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *adiṣṭa* ← *diś*
 - \[verb\], singular, Root aorist (Ind.)
 - “describe; give; give; teach.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūne* ← *yuvan*
 - \[noun\], dative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣitayo* ← *kṣitayaḥ* ← *kṣiti*
 - \[noun\], nominative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
-------------------------------------------------------------------------
+
+_________
+
 - *namantāṃ* ← *namantām* ← *nam*
 - \[verb\], plural, Present imperative
 - “bow; bend; condescend; worship; bend; lower.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutarathāya* ← *śruta* ← *śru*
 - \[verb noun\]
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutarathāya* ← *rathāya* ← *ratha*
 - \[noun\], dative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *duvoyā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,87 +96,127 @@ yajñám ← yajñá- (nominal stem)
 -   *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhan* ← *duh*
 - \[verb noun\], nominative, singular
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudughāṃ* ← *sudughām* ← *sudughā*
 - \[noun\], accusative, singular, feminine
 - “cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadhāyasaṃ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvadhāyasaṃ* ← *dhāyasam* ← *dhāyas*
 - \[noun\], accusative, singular, feminine
 - “alimentary; sustaining.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñapriye* ← *yajña*
 - \[noun\], masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñapriye* ← *priye* ← *priya*
 - \[noun\], locative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamānāya* ← *yajamāna*
 - \[noun\], dative, singular, masculine
 - “Yajamāna.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukrato* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukrato* ← *krato* ← *kratu*
 - \[noun\], vocative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtasnus* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtasnus* ← *snuḥ* ← *snu*
 - \[noun\], nominative, singular, masculine
 - “back.”
-------------------------------------------------------------------------
+
+_________
+
 - *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāni* ← *ṛta*
 - \[noun\], accusative, plural, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdyad* ← *dīdyat* ← *dīdī*
 - \[verb noun\], nominative, singular
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartir* ← *vartiḥ* ← *vartis*
 - \[noun\], accusative, singular, neuter
 - “tour.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariyan* ← *parī* ← *√i*
 - \[verb noun\], nominative, singular
 - “circumambulate; wander; revolve; overwhelm.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratūyase* ← *sukratūy*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

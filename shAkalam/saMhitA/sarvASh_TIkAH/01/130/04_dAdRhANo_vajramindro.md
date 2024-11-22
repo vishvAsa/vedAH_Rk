@@ -139,120 +139,178 @@ vr̥ścasi ← √vr̥śc- (root)
 -   *dādṛhāṇo* ← *dādṛhāṇaḥ* ← *dṛh*
 - \[verb noun\], nominative, singular
 - “fixate; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣadmeva* ← *kṣadma* ← *kṣadman*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *kṣadmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmam* ← *tigma*
 - \[noun\], accusative, singular, neuter
 - “sharp; pointed; fiery.”
-------------------------------------------------------------------------
+
+_________
+
 - *asanāya* ← *asana*
 - \[noun\], dative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyad* ← *śyat* ← *śā*
 - \[verb\], singular, Present injunctive
 - “sharpen; whet; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahihatyāya* ← *ahi*
 - \[noun\], masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahihatyāya* ← *hatyāya* ← *hatya*
 - \[noun\], dative, singular, neuter
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyat* ← *śā*
 - \[verb\], singular, Present injunctive
 - “sharpen; whet; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvivyāna* ← *saṃvivyānaḥ* ← *saṃvye* ← *√vye*
 - \[verb noun\], nominative, singular
 - “envelop; disguise; wrap; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavobhir* ← *śavobhiḥ* ← *śavas*
 - \[noun\], instrumental, plural, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *majmanā* ← *majman*
 - \[noun\], instrumental, singular, masculine
 - “size.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṣṭeva* ← *taṣṭā* ← *taṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “carpenter.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṣṭeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkṣaṃ* ← *vṛkṣam* ← *vṛkṣa*
 - \[noun\], accusative, singular, masculine
 - “tree; fruit tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanino* ← *vaninaḥ* ← *vanin*
 - \[noun\], accusative, plural, masculine
 - “tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛścasi* ← *vraśc*
 - \[verb\], singular, Present indikative
 - “cleave; fell; cut off; hew.”
-------------------------------------------------------------------------
+
+_________
+
 - *paraśveva* ← *paraśvā* ← *paraśu*
 - \[noun\], instrumental, singular, masculine
 - “ax.”
-------------------------------------------------------------------------
+
+_________
+
 - *paraśveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛścasi* ← *vraśc*
 - \[verb\], singular, Present indikative
 - “cleave; fell; cut off; hew.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

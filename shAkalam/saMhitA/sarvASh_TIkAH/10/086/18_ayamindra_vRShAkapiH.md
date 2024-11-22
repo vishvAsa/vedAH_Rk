@@ -101,75 +101,107 @@ víśvasmāt ← víśva- (nominal stem)
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣākapiḥ* ← *vṛṣākapi*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; vṛṣākapi \[word\]; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *parasvantaṃ* ← *parasvantam* ← *parasvant*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hataṃ* ← *hatam* ← *han*
 - \[verb noun\], accusative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *asiṃ* ← *asim* ← *asi*
 - \[noun\], accusative, singular, masculine
 - “sword; knife; knife.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnāṃ* ← *sūnām* ← *sūnā*
 - \[noun\], accusative, singular, feminine
 - “abattoir; killing; butchery.”
-------------------------------------------------------------------------
+
+_________
+
 - *navaṃ* ← *navam* ← *nava*
 - \[noun\], accusative, singular, masculine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *carum* ← *caru*
 - \[noun\], accusative, singular, masculine
 - “caru; pot; Caru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *edhasyāna* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *ācitaṃ* ← *ācitam* ← *āci* ← *√ci*
 - \[verb noun\], accusative, singular
 - “cover; fill; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttaraḥ* ← *uttara*
 - \[noun\], nominative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

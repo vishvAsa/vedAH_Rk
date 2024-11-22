@@ -99,79 +99,113 @@ tvát ← tvám (pronoun)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāhārṣam* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāhārṣam* ← *ahārṣam* ← *hṛ*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “cure; remove; kidnap; rob; take away; get; destroy; take; extract;
     collect; seize; clean; offer; drain; pick; take out; bring; accept;
     sever; produce; conquer; steal; deprive; press out.”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *edhi* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhruvas* ← *dhruvaḥ* ← *dhruva*
 - \[noun\], nominative, singular, masculine
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhāvicācaliḥ* ← *tiṣṭhā* ← *sthā*
 - \[verb\], singular, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhāvicācaliḥ* ← *avicācaliḥ* ← *avicācali*
 - \[noun\], nominative, singular, masculine
 - “firm; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśas* ← *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvā* ← *sarvāḥ* ← *sarva*
 - \[noun\], nominative, plural, feminine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāñchantu* ← *vāñch*
 - \[verb\], plural, Present imperative
 - “desire; recommend.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāṣṭram* ← *rāṣṭra*
 - \[noun\], nominative, singular, neuter
 - “kingdom; kingdom; kingship; rāṣṭra \[word\]; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhraśat* ← *bhraṃś*
 - \[verb\], singular, Aorist inj. (proh.)
 - “fall; decay; fail; lose; apostatize; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

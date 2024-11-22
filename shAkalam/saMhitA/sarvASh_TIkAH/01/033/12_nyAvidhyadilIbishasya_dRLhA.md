@@ -102,78 +102,114 @@ vájreṇa ← vájra- (nominal stem)
 -   *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvidhyad* ← *āvidhyat* ← *āvyadh* ← *√vyadh*
 - \[verb\], singular, Imperfect
 - “fling; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *ilībiśasya* ← *ilībiśa*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dṛḍhā* ← *dṛḍha*
 - \[noun\], accusative, plural, neuter
 - “vajra; fortress; bark of Feronia elephantum.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṅgiṇam* ← *śṛṅgin*
 - \[noun\], accusative, singular, masculine
 - “horned; peaked.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhinacchuṣṇam* ← *abhinat* ← *bhid*
 - \[verb\], singular, Imperfect
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhinacchuṣṇam* ← *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāvat*
 - \[noun\], nominative, singular, neuter
 - “yāvat \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *taro* ← *taraḥ* ← *taras*
 - \[noun\], nominative, singular, neuter
 - “speed; Stoma.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yāvadojo* ← *yāvat*
 - \[noun\], nominative, singular, neuter
 - “yāvat \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yāvadojo* ← *ojaḥ* ← *ojas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatrum* ← *śatru*
 - \[noun\], accusative, singular, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *avadhīḥ* ← *vadh*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “kill; assail; kick; māray; destroy; beat.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanyum* ← *pṛtanyu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

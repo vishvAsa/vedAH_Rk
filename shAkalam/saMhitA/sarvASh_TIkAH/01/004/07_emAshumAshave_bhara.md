@@ -73,52 +73,76 @@ patayát ← patayát(sakha-) (nominal stem)
 -   *em* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *em* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *āśum* ← *āśu*
 - \[noun\], accusative, singular, masculine
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśave* ← *āśu*
 - \[noun\], dative, singular, masculine
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaśriyaṃ* ← *yajña*
 - \[noun\], masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñaśriyaṃ* ← *śriyam* ← *śrī*
 - \[noun\], accusative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmādanam* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmādanam* ← *mādanam* ← *mādana*
 - \[noun\], accusative, singular, masculine
 - “exhilarating; intoxicant.”
-------------------------------------------------------------------------
+
+_________
+
 - *patayan* ← *patay* ← *√pat*
 - \[verb noun\], nominative, singular
 - “fly.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandayatsakham* ← *mandayat* ← *manday* ← *√mad*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *mandayatsakham* ← *sakham* ← *sakha*
 - \[noun\], accusative, singular, masculine
 - “friend; Kubera.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

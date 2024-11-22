@@ -96,73 +96,107 @@ tanvè ← tanū́- (nominal stem)
 -   *gṛṣṭiḥ* ← *gṛṣṭi*
 - \[noun\], nominative, singular, feminine
 - “gṛṣṭi \[word\]; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasūva* ← *sū*
 - \[verb\], singular, Perfect indicative
 - “give birth; urge; bestow; cause.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthaviraṃ* ← *sthaviram* ← *sthavira*
 - \[noun\], accusative, singular, masculine
 - “old; strong; hardy; firm; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavāgām* ← *tavāgā*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *anādhṛṣyaṃ* ← *anādhṛṣyam* ← *anādhṛṣya*
 - \[noun\], accusative, singular, masculine
 - “invincible.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *tumram* ← *tumra*
 - \[noun\], accusative, singular, masculine
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *arīﾱhaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *arīﾱhaṃ* ← *rīḍham* ← *rih*
 - \[verb noun\], accusative, singular
 - “lick.”
-------------------------------------------------------------------------
+
+_________
+
 - *vatsaṃ* ← *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
-------------------------------------------------------------------------
+
+_________
+
 - *carathāya* ← *caratha*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayaṃ* ← *svayam*
 - \[adverb\]
 - “personally; spontaneously; svayam \[word\]; voluntarily.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātuṃ* ← *gātum* ← *gā*
 - \[verb noun\]
 - “sing; praise; jap; recite; describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanva* ← *tanve* ← *tanū*
 - \[noun\], dative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchamānam* ← *iṣ*
 - \[verb noun\], accusative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

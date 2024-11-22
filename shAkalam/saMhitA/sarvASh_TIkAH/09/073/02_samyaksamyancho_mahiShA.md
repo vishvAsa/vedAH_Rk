@@ -102,80 +102,116 @@ tanvàm ← tanū́- (nominal stem)
 -   *samyak*
 - \[adverb\]
 - “correctly.”
-------------------------------------------------------------------------
+
+_________
+
 - *samyañco* ← *samyañcaḥ* ← *samyañc*
 - \[noun\], nominative, plural, masculine
 - “conjugate; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahiṣā* ← *mahiṣāḥ* ← *mahiṣa*
 - \[noun\], nominative, plural, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *aheṣata* ← *hi*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhor* ← *sindhoḥ* ← *sindhu*
 - \[noun\], genitive, singular, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmāv* ← *ūrmau* ← *ūrmi*
 - \[noun\], locative, singular, feminine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *venā* ← *venāḥ* ← *vena*
 - \[noun\], nominative, plural, masculine
 - “Vena.”
-------------------------------------------------------------------------
+
+_________
+
 - *avīvipan* ← *vip*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “tremble.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhor* ← *madhoḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhārābhir* ← *dhārābhiḥ* ← *dhārā*
 - \[noun\], instrumental, plural, feminine
 - “flush; flow; current; spring; fountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *janayanto* ← *janayantaḥ* ← *janay* ← *√jan*
 - \[verb noun\], nominative, plural
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyām* ← *priya*
 - \[noun\], accusative, singular, feminine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *avīvṛdhan* ← *vṛdh*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

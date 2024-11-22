@@ -87,65 +87,95 @@ kṣáyam ← kṣáya- (nominal stem)
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devayantam* ← *devay*
 - \[verb noun\], accusative, singular
 - “solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnavaj* ← *aśnavat* ← *aś*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *janaṃ* ← *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛktabarhiṣam* ← *vṛkta* ← *vṛj*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *vṛktabarhiṣam* ← *barhiṣam* ← *barhis*
 - \[noun\], accusative, singular, masculine
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśvān* ← *dāś*
 - \[verb noun\], nominative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *pastyābhir* ← *pastyābhiḥ* ← *pastyā*
 - \[noun\], instrumental, plural, feminine
 - “river; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *asthitāntarvāvat* ← *asthita* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *asthitāntarvāvat* ← *antarvāvat*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *kṣayaṃ* ← *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

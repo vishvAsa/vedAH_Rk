@@ -90,70 +90,100 @@ vibhukrátum ← vibhukrátu- (nominal stem)
 -   *arbhako* ← *arbhakaḥ* ← *arbhaka*
 - \[noun\], nominative, singular, masculine
 - “humble; weak.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kumārako* ← *kumārakaḥ* ← *kumāraka*
 - \[noun\], nominative, singular, masculine
 - “kumārabandha; child.”
-------------------------------------------------------------------------
+
+_________
+
 - *'dhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭhan* ← *tiṣṭhat* ← *sthā*
 - \[verb\], singular, Present injunctive
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *navaṃ* ← *navam* ← *nava*
 - \[noun\], accusative, singular, masculine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *pakṣan* ← *pakṣat* ← *pac*
 - \[verb\], singular, Aorist conj./subj.
 - “heat; cook; digest; boil; ripen; fester; burn; boil; cauterize;
     fry; cook; suppurate; inflame.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahiṣam* ← *mahiṣa*
 - \[noun\], accusative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛgam* ← *mṛga*
 - \[noun\], accusative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitre* ← *pitṛ*
 - \[noun\], dative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātre* ← *mātṛ*
 - \[noun\], dative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhukratum* ← *vibhu*
 - \[noun\]
 - “mighty; abundant; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhukratum* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -93,68 +93,100 @@ táva ← tvám (pronoun)
 -   *praṇītibhiṣ* ← *praṇītibhiḥ* ← *praṇīti*
 - \[noun\], instrumental, plural, feminine
 - “guidance; guidance.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṭe* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryaśva*
 - \[noun\], vocative, singular, masculine
 - “Indra; Haryaśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭoḥ* ← *suṣṭu*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *suṣumnasya* ← *suṣumna*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pururuco* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *pururuco* ← *rucaḥ* ← *ruc*
 - \[noun\], genitive, singular, masculine
 - “beam; radiance; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *janāsaḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhiṣṭhām* ← *maṃhiṣṭha*
 - \[noun\], accusative, singular, feminine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtiṃ* ← *ūtim* ← *ūti*
 - \[noun\], accusative, singular, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vitire* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhānā* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotāra* ← *stotāraḥ* ← *stotṛ*
 - \[noun\], nominative, plural, masculine
 - “laudatory; worshiping.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛtābhiḥ* ← *sūnṛtā*
 - \[noun\], instrumental, plural, feminine
 - “liberality.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

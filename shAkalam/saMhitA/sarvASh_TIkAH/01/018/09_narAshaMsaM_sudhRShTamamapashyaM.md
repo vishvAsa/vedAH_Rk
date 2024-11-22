@@ -67,29 +67,43 @@ sádmamakhasam ← sádmamakhas- (nominal stem)
 -   *narāśaṃsaṃ* ← *narāśaṃsam* ← *narāśaṃsa*
 - \[noun\], accusative, singular, masculine
 - “Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhṛṣṭamam* ← *sudhṛṣṭama*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *apaśyaṃ* ← *apaśyam* ← *paś*
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *saprathastamam* ← *saprathastama*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sadmamakhasam* ← *sadmamakhas*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

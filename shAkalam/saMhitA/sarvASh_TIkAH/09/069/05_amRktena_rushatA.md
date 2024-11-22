@@ -96,52 +96,76 @@ upastáraṇam ← upastáraṇa- (nominal stem)
 -   *amṛktena* ← *amṛkta*
 - \[noun\], instrumental, singular, neuter
 - “new; undamaged; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruśatā* ← *ruśat*
 - \[noun\], instrumental, singular, neuter
 - “white; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāsasā* ← *vāsas*
 - \[noun\], instrumental, singular, neuter
 - “clothing; fabric; garment; feather; dress; envelope.”
-------------------------------------------------------------------------
+
+_________
+
 - *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartyo* ← *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *nirṇijānaḥ* ← *nirṇij* ← *√nij*
 - \[verb noun\], nominative, singular
 - “wash; dye.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyata* ← *vye*
 - \[verb\], singular, Aorist inj. (proh.)
 - “cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *divas* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], accusative, singular, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhaṇā*
 - \[noun\], instrumental, singular, feminine
 - “power; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *nirṇije* ← *nirṇij*
 - \[noun\], dative, singular, feminine
 - “attire; garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtopastaraṇaṃ* ← *kṛta* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -152,18 +176,26 @@ upastáraṇam ← upastáraṇa- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtopastaraṇaṃ* ← *upastaraṇam* ← *upastaraṇa*
 - \[noun\], accusative, singular, neuter
 - “sofa.”
-------------------------------------------------------------------------
+
+_________
+
 - *camvor* ← *camvoḥ* ← *camū*
 - \[noun\], genitive, dual, feminine
 - “army; camū; Camū.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhasmayam* ← *nabhasmaya*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,80 +99,116 @@ dudukṣan ← √duh- (root)
 -   *makṣū*
 - \[adverb\]
 - “promptly; soon; quickly.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanāyāḥ* ← *kanā*
 - \[noun\], genitive, singular, feminine
 - “girl.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *navagvā* ← *navagvāḥ* ← *navagva*
 - \[noun\], nominative, plural, masculine
 - “Navagva.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadanta* ← *vadantaḥ* ← *vad*
 - \[verb noun\], nominative, plural
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtayuktim* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtayuktim* ← *yuktim* ← *yukti*
 - \[noun\], accusative, singular, feminine
 - “method; moderation; caution; reason; magic trick; proof; reasoning;
     suitability; application; trick; reason; standard; intelligence;
     consideration; addition.”
-------------------------------------------------------------------------
+
+_________
+
 - *agman* ← *gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvibarhaso* ← *dvibarhasaḥ* ← *dvibarhas*
 - \[noun\], genitive, singular, masculine
 - “double.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *gopam* ← *gopa*
 - \[noun\], accusative, singular, masculine
 - “cowboy; Gopa; defender.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgur* ← *āguḥ* ← *āgā* ← *√gā*
 - \[verb\], plural, Root aorist (Ind.)
 - “come; arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *adakṣiṇāso* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *adakṣiṇāso* ← *dakṣiṇāsaḥ* ← *dakṣiṇā*
 - \[noun\], nominative, plural, masculine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
-------------------------------------------------------------------------
+
+_________
+
 - *acyutā* ← *acyuta*
 - \[noun\], accusative, plural, neuter
 - “firm; regular; permanent; immovable; unchanging.”
-------------------------------------------------------------------------
+
+_________
+
 - *dudukṣan* ← *dudukṣ* ← *√duh*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

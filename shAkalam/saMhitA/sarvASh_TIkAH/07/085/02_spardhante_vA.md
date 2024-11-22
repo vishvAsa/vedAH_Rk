@@ -99,77 +99,111 @@ víṣūcaḥ ← víṣvañc- (nominal stem)
 -   *spardhante* ← *spṛdh*
 - \[verb\], plural, Present indikative
 - “rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā* ← *vai*
 - \[adverb\]
 - “surely; on the other hand; vai \[word\]; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *devahūye* ← *devahūya*
 - \[noun\], locative, singular, neuter
 - “devahūya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣu* ← *yad*
 - \[noun\], locative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhvajeṣu* ← *dhvaja*
 - \[noun\], locative, plural, masculine
 - “flag; flagpole; penis; flag; sign.”
-------------------------------------------------------------------------
+
+_________
+
 - *didyavaḥ* ← *didyu*
 - \[noun\], nominative, plural, masculine
 - “arrow; projectile.”
-------------------------------------------------------------------------
+
+_________
+
 - *patanti* ← *pat*
 - \[verb\], plural, Present indikative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāvaruṇāv* ← *indrāvaruṇau* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *hatam* ← *han*
 - \[verb\], dual, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *parācaḥ* ← *parāñc*
 - \[noun\], accusative, plural, masculine
 - “fleeing(a); departing(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *śarvā* ← *śaru*
 - \[noun\], instrumental, singular, feminine
 - “arrow.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣūcaḥ* ← *viṣvañc*
 - \[noun\], accusative, plural, masculine
 - “dispersed; viṣvañc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

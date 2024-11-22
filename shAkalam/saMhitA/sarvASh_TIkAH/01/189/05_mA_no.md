@@ -108,89 +108,129 @@ sahasāvan ← sahasāvan- (nominal stem)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *'va* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛjo* ← *sṛjaḥ* ← *sṛj*
 - \[verb\], singular, Present injunctive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghāyāviṣyave* ← *aghāya* ← *agha*
 - \[noun\], dative, singular, masculine
 - “bad; dangerous; ill; iniquitous; bad.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghāyāviṣyave* ← *aviṣyave* ← *aviṣyu*
 - \[noun\], dative, singular, masculine
 - “impetuous.”
-------------------------------------------------------------------------
+
+_________
+
 - *ripave* ← *ripu*
 - \[noun\], dative, singular, masculine
 - “enemy; arivarga; Ripu; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *ducchunāyai* ← *ducchunā*
 - \[noun\], dative, singular, feminine
 - “calamity; misfortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *datvate* ← *datvat*
 - \[noun\], dative, singular, masculine
 - “toothed.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśate* ← *daṃś*
 - \[verb noun\], dative, singular
 - “bite; sting.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādate* ← *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādate* ← *adate* ← *ad*
 - \[verb noun\], dative, singular
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *rīṣate* ← *riṣ*
 - \[verb noun\], dative, singular
 - “suffer; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasāvan* ← *sahasāvat*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāḥ* ← *dā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,75 +96,109 @@ uruṣyet ← √uruṣy- (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenavo* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *māmateyam* ← *māmateya*
 - \[noun\], accusative, singular, masculine
 - “Dīrghatamas.”
-------------------------------------------------------------------------
+
+_________
+
 - *avantīr* ← *avantīḥ* ← *av*
 - \[verb noun\], nominative, plural
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmapriyam* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmapriyam* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *pīpayan* ← *pyā*
 - \[verb\], plural, Perfect conjunctive (subj.)
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasminn* ← *sasmin* ← *tad*
 - \[noun\], locative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūdhan* ← *ūdhas*
 - \[noun\], locative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitvo* ← *pitvaḥ* ← *pitu*
 - \[noun\], genitive, singular, masculine
 - “food.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhikṣeta* ← *bhikṣ* ← *√bhaj*
 - \[verb\], singular, Present optative
 - “beg; beg.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayunāni* ← *vayuna*
 - \[noun\], accusative, plural, neuter
 - “convention; custom; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsāvivāsann* ← *āsā* ← *ās*
 - \[noun\], instrumental, singular, neuter
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsāvivāsann* ← *āvivāsan* ← *āvivās* ← *√van*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *uruṣyet* ← *uruṣy*
 - \[verb\], singular, Present optative
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

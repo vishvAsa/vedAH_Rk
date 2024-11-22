@@ -78,46 +78,68 @@ vīrúdhaḥ ← vīrúdh- (nominal stem)
 -   *oṣadhīḥ* ← *oṣadhī*
 - \[noun\], vocative, plural, feminine
 - “herb; plant; drug; herb.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *modadhvam* ← *mud*
 - \[verb\], plural, Present imperative
 - “rejoice; delight; revel.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣpavatīḥ* ← *puṣpavat*
 - \[noun\], nominative, plural, feminine
 - “menstruating; blooming; flowering.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasūvarīḥ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajitvarīr* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sajitvarīr* ← *jitvarīḥ* ← *jitvan*
 - \[noun\], nominative, plural, feminine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrudhaḥ* ← *vīrudh*
 - \[noun\], nominative, plural, feminine
 - “plant; shrub.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārayiṣṇvaḥ* ← *pārayiṣṇu*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

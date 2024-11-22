@@ -95,69 +95,101 @@ vā́jināya ← vā́jina- (nominal stem)
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *nandanti* ← *nand*
 - \[verb\], plural, Present indikative
 - “rejoice; cheer.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaśasāgatena* ← *yaśasā* ← *yaśas*
 - \[noun\], instrumental, singular, masculine
 - “esteemed; celebrated; glorious; honorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaśasāgatena* ← *āgatena* ← *āgam* ← *√gam*
 - \[verb noun\], instrumental, singular
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
-------------------------------------------------------------------------
+
+_________
+
 - *sabhāsāhena* ← *sabhāsāha*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyā* ← *sakhi*
 - \[noun\], instrumental, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kilbiṣaspṛt* ← *kilbiṣa*
 - \[noun\], masculine
 - “sin; fault; misdemeanor.”
-------------------------------------------------------------------------
+
+_________
+
 - *kilbiṣaspṛt* ← *spṛt*
 - \[noun\], nominative, singular, masculine
 - “victorious; protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *pituṣaṇir* ← *pituṣaṇiḥ* ← *pituṣaṇi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *araṃ* ← *aram*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *hito* ← *hitaḥ* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājināya* ← *vājina*
 - \[noun\], dative, singular, neuter
 - “race; emulation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

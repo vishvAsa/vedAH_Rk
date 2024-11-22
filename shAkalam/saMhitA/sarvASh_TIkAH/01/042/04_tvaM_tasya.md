@@ -76,47 +76,67 @@ tiṣṭha ← √sthā- (root)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvayāvino* ← *dvayāvinaḥ* ← *dvayāvin*
 - \[noun\], genitive, singular, masculine
 - “dishonest.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ghaśaṃsasya* ← *agha*
 - \[noun\], neuter
 - “sin; evil; impurity; agha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *'ghaśaṃsasya* ← *śaṃsasya* ← *śaṃsa*
 - \[noun\], genitive, singular, masculine
 - “speaking.”
-------------------------------------------------------------------------
+
+_________
+
 - *kasyacit* ← *kasyacid* ← *kaścit*
 - \[noun\], genitive, singular, masculine
 - “any(a); some(a); some(a); some(a); some(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *padābhi* ← *padā* ← *pad*
 - \[noun\], instrumental, singular, masculine
 - “foot; pad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *padābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *tiṣṭha* ← *sthā*
 - \[verb\], singular, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapuṣim* ← *tapuṣi*
 - \[noun\], accusative, singular, masculine
 - “ablaze(p); burning.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

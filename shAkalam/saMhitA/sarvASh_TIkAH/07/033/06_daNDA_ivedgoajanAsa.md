@@ -101,74 +101,108 @@ víśaḥ ← víś- (nominal stem)
 - “staff; punishment; stick; violence; Daṇḍa; handle; fine; pestle;
     rod; legal power; daṇḍa; daṇḍa \[word\]; daṇḍa; club; daṇḍa; power;
     staff; cane; stalk; pole; bar.”
-------------------------------------------------------------------------
+
+_________
+
 - *ived* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ived* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *goajanāsa* ← *goajanāsaḥ* ← *goajana*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āsan* ← *as*
 - \[verb\], plural, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *paricchinnā* ← *paricchinnāḥ* ← *paricchid* ← *√chid*
 - \[verb noun\], nominative, plural
 - “cut out; determine; cut.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharatā* ← *bharatāḥ* ← *bharata*
 - \[noun\], nominative, plural, masculine
 - “Bharata; Bharata; Bhārata; Bharata; Bharata; actor.”
-------------------------------------------------------------------------
+
+_________
+
 - *arbhakāsaḥ* ← *arbhaka*
 - \[noun\], nominative, plural, masculine
 - “humble; weak.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhavac* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *puraetā* ← *puraetṛ*
 - \[noun\], nominative, singular, masculine
 - “guide; leader; harbinger.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭha* ← *vasiṣṭhaḥ* ← *vasiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛtsūnāṃ* ← *tṛtsūnām* ← *tṛtsu*
 - \[noun\], genitive, plural, masculine
 - “Tṛtsu.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *aprathanta* ← *prath*
 - \[verb\], plural, Imperfect
 - “be known; expand; expand; boom.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

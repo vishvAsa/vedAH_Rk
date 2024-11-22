@@ -79,48 +79,70 @@ yā́tave ← √yā- 1 (root)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnavo* ← *sūnavaḥ* ← *sūnu*
 - \[noun\], nominative, plural, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāṣṭhā* ← *kāṣṭhāḥ* ← *kāṣṭhā*
 - \[noun\], accusative, plural, feminine
 - “kāṣṭhā; quarter; body of water.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajmeṣv* ← *ajmeṣu* ← *ajma*
 - \[noun\], locative, plural, masculine
 - “march.”
-------------------------------------------------------------------------
+
+_________
+
 - *atnata* ← *tan*
 - \[verb\], plural, Root aorist (Ind.)
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāśrā* ← *vāśrāḥ* ← *vāśra*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhijñu*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *yātave* ← *yā*
 - \[verb noun\]
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

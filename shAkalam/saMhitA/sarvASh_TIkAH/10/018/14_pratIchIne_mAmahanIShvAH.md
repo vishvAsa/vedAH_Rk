@@ -90,40 +90,58 @@ yathā ← yathā (invariable)
 -   *pratīcīne* ← *pratīcīna*
 - \[noun\], locative, singular, neuter
 - “facing.”
-------------------------------------------------------------------------
+
+_________
+
 - *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahanīṣvāḥ* ← *ahani* ← *ahar*
 - \[noun\], locative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahanīṣvāḥ* ← *iṣvāḥ* ← *iṣu*
 - \[noun\], genitive, singular, feminine
 - “arrow; iṣu \[word\]; iṣ; five; munj.”
-------------------------------------------------------------------------
+
+_________
+
 - *parṇam* ← *parṇa*
 - \[noun\], accusative, singular, neuter
 - “leaf; feather; parṇa \[word\]; leaf; wing.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivā* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhuḥ* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratīcīṃ* ← *pratīcīm* ← *pratyañc*
 - \[noun\], accusative, singular, feminine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagrabhā* ← *grah*
 - \[verb\], singular, Perfect indicative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -131,25 +149,35 @@ yathā ← yathā (invariable)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśanayā* ← *raśanā*
 - \[noun\], instrumental, singular, feminine
 - “rein; bridle; girdle; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

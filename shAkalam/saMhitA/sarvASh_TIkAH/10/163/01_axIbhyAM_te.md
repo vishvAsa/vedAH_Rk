@@ -87,53 +87,79 @@ vr̥hāmi ← √vr̥h- (root)
 -   *akṣībhyāṃ* ← *akṣībhyām* ← *akṣi*
 - \[noun\], ablative, plural
 - “eye; akṣi \[word\]; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsikābhyāṃ* ← *nāsikābhyām* ← *nāsikā*
 - \[noun\], ablative, dual, feminine
 - “nose; nāsikā \[word\]; nostrils.”
-------------------------------------------------------------------------
+
+_________
+
 - *karṇābhyāṃ* ← *karṇābhyām* ← *karṇa*
 - \[noun\], ablative, dual, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
-------------------------------------------------------------------------
+
+_________
+
 - *chubukād* ← *chubukāt* ← *chubuka*
 - \[noun\], ablative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣmaṃ* ← *yakṣmam* ← *yakṣma*
 - \[noun\], accusative, singular, masculine
 - “tuberculosis; disease; pulmonary tuberculosis.”
-------------------------------------------------------------------------
+
+_________
+
 - *śīrṣaṇyam* ← *śīrṣaṇya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mastiṣkāj* ← *mastiṣkāt* ← *mastiṣka*
 - \[noun\], ablative, singular, neuter
 - “brain; nape.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvāyā* ← *jihvāyāḥ* ← *jihvā*
 - \[noun\], ablative, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛhāmi* ← *vṛh*
 - \[verb\], singular, Present indikative
 - “extract.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

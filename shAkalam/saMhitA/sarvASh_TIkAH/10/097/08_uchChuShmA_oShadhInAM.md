@@ -84,54 +84,78 @@ táva ← tvám (pronoun)
 -   *ucchuṣmā* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucchuṣmā* ← *śuṣmāḥ* ← *śuṣma*
 - \[noun\], nominative, plural, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhīnāṃ* ← *oṣadhīnām* ← *oṣadhī*
 - \[noun\], genitive, plural, feminine
 - “herb; plant; drug; herb.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *goṣṭhād* ← *goṣṭhāt* ← *goṣṭha*
 - \[noun\], ablative, singular, masculine
 - “cowbarn; dwelling; pen; forum.”
-------------------------------------------------------------------------
+
+_________
+
 - *iverate* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *iverate* ← *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanaṃ* ← *dhanam* ← *dhana*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *saniṣyantīnām* ← *san*
 - \[verb noun\], genitive, plural
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātmānaṃ* ← *ātmānam* ← *ātman*
 - \[noun\], accusative, singular, masculine
 - “self; nature; Ātman; mind; soul; self; body; character; ātman
     \[word\]; person; life; peculiarity.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūruṣa*
 - \[noun\], vocative, singular, masculine
 - “man; man; Puruṣa.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

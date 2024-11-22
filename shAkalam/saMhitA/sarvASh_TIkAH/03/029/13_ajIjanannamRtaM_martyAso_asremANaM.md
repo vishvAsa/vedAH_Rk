@@ -95,69 +95,101 @@ sám ← sám (invariable)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyāso* ← *martyāsaḥ* ← *martya*
 - \[noun\], nominative, plural, masculine
 - “mortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *'sremāṇaṃ* ← *asremāṇam* ← *asreman*
 - \[noun\], accusative, singular, masculine
 - “perfect.”
-------------------------------------------------------------------------
+
+_________
+
 - *taraṇiṃ* ← *taraṇim* ← *taraṇi*
 - \[noun\], accusative, singular, masculine
 - “energetic; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīḍujambham* ← *vīḍu*
 - \[noun\]
 - “hard; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīḍujambham* ← *jambham* ← *jambha*
 - \[noun\], accusative, singular, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], nominative, plural, feminine
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svasāro* ← *svasāraḥ* ← *svasṛ*
 - \[noun\], nominative, plural, feminine
 - “sister; svasṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agruvaḥ* ← *agru*
 - \[noun\], nominative, plural, feminine
 - “unmarried.”
-------------------------------------------------------------------------
+
+_________
+
 - *samīcīḥ* ← *samyañc*
 - \[noun\], nominative, plural, feminine
 - “conjugate; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *pumāṃsaṃ* ← *pumāṃsam* ← *puṃs*
 - \[noun\], accusative, singular, masculine
 - “man; masculine; man; puṃvajra; puruṣa; son; puṃs \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jātam* ← *jan*
 - \[verb noun\], accusative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *rabhante* ← *rabh*
 - \[verb\], plural, Present indikative
 - “clasp.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

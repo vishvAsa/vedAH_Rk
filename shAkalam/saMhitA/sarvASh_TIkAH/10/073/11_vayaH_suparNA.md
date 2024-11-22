@@ -102,62 +102,90 @@ nidháyā ← nidhā́- (nominal stem)
 -   *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *suparṇā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suparṇā* ← *parṇāḥ* ← *parṇa*
 - \[noun\], nominative, plural, masculine
 - “leaf; feather; parṇa \[word\]; leaf; wing.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *sedur* ← *seduḥ* ← *sad*
 - \[verb\], plural, Perfect indicative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyamedhā* ← *priyamedhāḥ* ← *priyamedha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣayo* ← *ṛṣayaḥ* ← *ṛṣi*
 - \[noun\], nominative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *nādhamānāḥ* ← *nādh*
 - \[verb noun\], nominative, plural
 - “suffer.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhvāntam* ← *dhvānta*
 - \[noun\], accusative, singular, neuter
 - “dark; dhvānta \[word\]; night; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrṇuhi* ← *vṛ*
 - \[verb\], singular, Present imperative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrdhi* ← *pṛ*
 - \[verb\], singular, Aorist imperative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣur* ← *cakṣuḥ* ← *cakṣus*
 - \[noun\], accusative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
-------------------------------------------------------------------------
+
+_________
+
 - *mumugdhy* ← *mumugdhi* ← *muc*
 - \[verb\], singular, Perfect imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -165,19 +193,27 @@ nidháyā ← nidhā́- (nominal stem)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nidhayeva* ← *nidhayā* ← *nidhā*
 - \[noun\], instrumental, singular, feminine
 - “snare.”
-------------------------------------------------------------------------
+
+_________
+
 - *nidhayeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *baddhān* ← *bandh*
 - \[verb noun\], accusative, plural
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
@@ -185,7 +221,9 @@ nidháyā ← nidhā́- (nominal stem)
     restrain; bind; gesticulate; wear; bar; bandh; connect; stud; mix;
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

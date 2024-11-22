@@ -101,79 +101,115 @@ víśvāni ← víśva- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyasyā* ← *navyas*
 - \[noun\], instrumental, singular, feminine
 - “new.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaviṣṭham* ← *śaviṣṭha*
 - \[noun\], accusative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnam* ← *pratna*
 - \[noun\], accusative, singular, masculine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnavat* ← *pratna*
 - \[noun\]
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnavat* ← *vat*
 - \[adverb\]
 - “equally; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *paritaṃsayadhyai* ← *paritaṃsay* ← *√taṃs*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vakṣad* ← *vakṣat* ← *vah*
 - \[verb\], singular, Aorist conj./subj.
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *animānaḥ* ← *animāna*
 - \[noun\], nominative, singular, masculine
 - “boundless.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvahmendro* ← *suvahmā* ← *suvahman*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *suvahmendro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāny* ← *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *durgahāṇi* ← *durgaha*
 - \[noun\], accusative, plural, neuter
 - “danger; abyss; wilderness.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

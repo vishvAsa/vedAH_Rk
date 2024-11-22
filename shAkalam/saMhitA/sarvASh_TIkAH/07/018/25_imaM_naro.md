@@ -96,67 +96,99 @@ kṣatrám ← kṣatrá- (nominal stem)
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], vocative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *saścatānu* ← *saścata* ← *sac*
 - \[verb\], plural, Present imperative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *saścatānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *divodāsaṃ* ← *divodāsam* ← *divodāsa*
 - \[noun\], accusative, singular, masculine
 - “Divodāsa.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pitaraṃ* ← *pitaram* ← *pitṛ*
 - \[noun\], accusative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudāsaḥ* ← *sudās*
 - \[noun\], genitive, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *aviṣṭanā* ← *aviṣṭana* ← *av*
 - \[verb\], plural, Aorist imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *paijavanasya* ← *paijavana*
 - \[noun\], genitive, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketaṃ* ← *ketam* ← *keta*
 - \[noun\], accusative, singular, masculine
 - “wish; will; purpose; expectation; house.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūṇāśaṃ* ← *dūṇāśam* ← *dūṇāśa*
 - \[noun\], accusative, singular, neuter
 - “rare.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajaraṃ* ← *ajaram* ← *ajara*
 - \[noun\], accusative, singular, neuter
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *duvoyu*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

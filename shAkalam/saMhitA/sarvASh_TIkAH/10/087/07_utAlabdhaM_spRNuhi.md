@@ -99,76 +99,110 @@ tám ← sá- ~ tá- (pronoun)
 -   *utālabdhaṃ* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *utālabdhaṃ* ← *ālabdham* ← *ālabh* ← *√labh*
 - \[verb noun\], accusative, singular
 - “sacrifice; touch; kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛṇuhi* ← *spṛ*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *jātaveda* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *ālebhānād* ← *ālebhānāt* ← *ālabh* ← *√labh*
 - \[verb noun\], ablative, singular
 - “sacrifice; touch; kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣṭibhir* ← *ṛṣṭibhiḥ* ← *ṛṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “spear.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātudhānāt* ← *yātudhāna*
 - \[noun\], ablative, singular, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvo* ← *pūrvaḥ* ← *pūrva*
 - \[noun\], nominative, singular, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *jahi* ← *hā*
 - \[verb\], singular, Present imperative
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
-------------------------------------------------------------------------
+
+_________
+
 - *śośucāna* ← *śośucānaḥ* ← *śośuc* ← *√śuc*
 - \[verb noun\], nominative, singular
 - “blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *āmādaḥ* ← *āmād*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *kṣviṅkās* ← *kṣviṅkāḥ* ← *kṣviṅkā*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *adantv* ← *adantu* ← *ad*
 - \[verb\], plural, Present imperative
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *enīḥ* ← *enī*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

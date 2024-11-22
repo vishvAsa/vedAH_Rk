@@ -108,91 +108,133 @@ vajrin ← vajrín- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāriṣaṇyan* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāriṣaṇyan* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrāriṣaṇyan* ← *riṣaṇyan* ← *riṣaṇy* ← *√riṣ*
 - \[verb noun\], nominative, singular
 - “riṣaṇy \[verb\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛḍhasya* ← *dṛḍha*
 - \[noun\], genitive, singular, masculine
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
-------------------------------------------------------------------------
+
+_________
+
 - *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *martānām* ← *marta*
 - \[noun\], genitive, plural, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajuṣṭau* ← *ajuṣṭi*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kāṣṭhā* ← *kāṣṭhāḥ* ← *kāṣṭhā*
 - \[noun\], accusative, plural, feminine
 - “kāṣṭhā; quarter; body of water.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvate* ← *arvant*
 - \[noun\], dative, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *var* ← *vṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghaneva* ← *ghanā* ← *ghana*
 - \[noun\], instrumental, singular, neuter
 - “abhra; cloud; hammer; ghana; hammer; rainy season; tin; iron; ghana
     \[word\]; ghana; nutgrass; ball; phlegm.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghaneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajriñchnathihy* ← *vajrin*
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajriñchnathihy* ← *śnathihi* ← *śnath*
 - \[verb\], singular, Present imperative
 - “pierce; kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

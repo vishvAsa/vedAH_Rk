@@ -100,77 +100,113 @@ vām ← tvám (pronoun)
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indreṣite* ← *iṣite* ← *iṣay* ← *√iṣ*
 - \[verb noun\], nominative, dual
-------------------------------------------------------------------------
+
+_________
+
 - *prasavam* ← *prasava*
 - \[noun\], accusative, singular, masculine
 - “stimulation.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhikṣamāṇe* ← *bhikṣ* ← *√bhaj*
 - \[verb noun\], nominative, dual
 - “beg; beg.”
-------------------------------------------------------------------------
+
+_________
+
 - *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *samudraṃ* ← *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathyeva* ← *rathyā* ← *rathya*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *rathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāthaḥ* ← *yā*
 - \[verb\], dual, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *samārāṇe* ← *samṛch* ← *√ṛch*
 - \[verb noun\], nominative, dual
 - “collapse.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmibhiḥ* ← *ūrmi*
 - \[noun\], instrumental, plural, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *pinvamāne* ← *pinv*
 - \[verb noun\], nominative, dual
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyā* ← *anya*
 - \[noun\], nominative, singular, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyām* ← *anya*
 - \[noun\], accusative, singular, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *apy* ← *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhre* ← *śubhra*
 - \[noun\], vocative, dual, feminine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -93,71 +93,103 @@ té ← sá- ~ tá- (pronoun)
 -   *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudraviṇo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudraviṇo* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], vocative, singular, masculine
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadāśo* ← *dadāśaḥ* ← *dāś*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *'nāgāstvam* ← *anāgāstvam* ← *anāgāstva*
 - \[noun\], accusative, singular, neuter
 - “blamelessness; purity.”
-------------------------------------------------------------------------
+
+_________
+
 - *adite* ← *aditi*
 - \[noun\], vocative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvatātā* ← *sarvatāti*
 - \[noun\], locative, singular, feminine
 - “completeness; prosperity; sum.”
-------------------------------------------------------------------------
+
+_________
+
 - *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadreṇa* ← *bhadra*
 - \[noun\], instrumental, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *codayāsi* ← *coday* ← *√cud*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “impel; drive; incite; command; drive; arouse; propel.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajāvatā* ← *prajāvat*
 - \[noun\], instrumental, singular, neuter
 - “prolific.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhasā* ← *rādhas*
 - \[noun\], instrumental, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

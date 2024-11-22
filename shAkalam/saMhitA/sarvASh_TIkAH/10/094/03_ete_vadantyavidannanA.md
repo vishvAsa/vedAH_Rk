@@ -108,85 +108,125 @@ vr̥ṣabhā́ḥ ← vr̥ṣabhá- (nominal stem)
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vadanty* ← *vadanti* ← *vad*
 - \[verb\], plural, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *avidann* ← *avidan* ← *vid*
 - \[verb\], plural, Imperfect
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *anā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūṅkhayante* ← *ūṅkhay*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *pakva* ← *pakve* ← *pakva*
 - \[noun\], locative, singular, neuter
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
-------------------------------------------------------------------------
+
+_________
+
 - *āmiṣi* ← *āmis*
 - \[noun\], locative, singular, neuter
 - “meat; cadaver.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkṣasya* ← *vṛkṣa*
 - \[noun\], genitive, singular, masculine
 - “tree; fruit tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *śākhām* ← *śākhā*
 - \[noun\], accusative, singular, feminine
 - “branch; limb; school; extremity; śākhā \[word\]; bough; branchlet;
     finger.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṇasya* ← *aruṇa*
 - \[noun\], genitive, singular, masculine
 - “red; tawny; dusty; gray.”
-------------------------------------------------------------------------
+
+_________
+
 - *bapsatas* ← *bapsataḥ* ← *bhas*
 - \[verb noun\], nominative, plural
 - “chew; snatch.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūbharvā* ← *sūbharvāḥ* ← *sūbharva*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhāḥ* ← *vṛṣabha*
 - \[noun\], nominative, plural, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *prem* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prem* ← *im* ← *iṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *arāviṣuḥ* ← *ru*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “bellow; howl.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

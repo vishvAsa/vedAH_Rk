@@ -76,44 +76,64 @@ suvānaíḥ ← √su- (root)
 -   *adhīva* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *girīṇāṃ* ← *girīṇām* ← *giri*
 - \[noun\], genitive, plural, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmaṃ* ← *yāmam* ← *yāma*
 - \[noun\], accusative, singular, masculine
 - “prahara; watch; travel; path.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhrā* ← *śubhrāḥ* ← *śubhra*
 - \[noun\], nominative, plural, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *acidhvam* ← *ci*
 - \[verb\], plural, Root aorist (Ind.)
 - “observe; detect; notice; heed; mind.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvānair* ← *suvānaiḥ* ← *su*
 - \[verb noun\], instrumental, plural
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandadhva* ← *mandadhve* ← *mand*
 - \[verb\], plural, Present indikative
 - “rejoice; exhilarate.”
-------------------------------------------------------------------------
+
+_________
+
 - *indubhiḥ* ← *indu*
 - \[noun\], instrumental, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

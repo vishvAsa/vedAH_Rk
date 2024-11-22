@@ -105,80 +105,118 @@ vā́tam ← vā́ta- (nominal stem)
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sīm*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravateva* ← *pravatā* ← *pravat*
 - \[noun\], instrumental, singular, feminine
 - “slope; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravateva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dravantaṃ* ← *dravantam* ← *dru*
 - \[verb noun\], accusative, singular
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaḥ* ← *viśva*
 - \[noun\], nominative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrur* ← *pūruḥ* ← *pūru*
 - \[noun\], nominative, singular, masculine
 - “Pūru; Pūru.”
-------------------------------------------------------------------------
+
+_________
+
 - *madati* ← *mad*
 - \[verb\], singular, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *harṣamāṇaḥ* ← *hṛṣ*
 - \[verb noun\], nominative, singular
 - “rejoice; bristle; thrill.”
-------------------------------------------------------------------------
+
+_________
+
 - *paḍbhir* ← *paḍbhiḥ* ← *pad*
 - \[noun\], instrumental, plural
 - “foot; pad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛdhyantam* ← *gṛdh*
 - \[verb noun\], accusative, singular
 - “desire; covet.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhayuṃ* ← *medhayum* ← *medhayu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śūraṃ* ← *śūram* ← *śūra*
 - \[noun\], accusative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaturaṃ* ← *rathaturam* ← *rathatur*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vātam* ← *vāta*
 - \[noun\], accusative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhrajantam* ← *dhraj*
 - \[verb noun\], accusative, singular
 - “rush.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

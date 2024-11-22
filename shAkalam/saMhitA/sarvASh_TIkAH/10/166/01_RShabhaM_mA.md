@@ -82,32 +82,46 @@ virā́jam ← virā́j- (nominal stem)
 - \[noun\], accusative, singular, masculine
 - “best; leader; bull; Ṛṣabha; ṛṣabha; ṛṣabha; Ṛṣabha; ṛṣabha
     \[word\]; hero; bull.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *samānānāṃ* ← *samānānām* ← *samāna*
 - \[noun\], genitive, plural, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnānāṃ* ← *sapatnānām* ← *sapatna*
 - \[noun\], genitive, plural, masculine
 - “rival; enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣāsahim* ← *viṣāsahi*
 - \[noun\], accusative, singular, masculine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *hantāraṃ* ← *hantāram* ← *hantṛ*
 - \[noun\], accusative, singular, masculine
 - “killer; curative; killing; removing; destroyer.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatrūṇāṃ* ← *śatrūṇām* ← *śatru*
 - \[noun\], genitive, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -118,26 +132,36 @@ virā́jam ← virā́j- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *virājaṃ* ← *virājam* ← *virāj*
 - \[noun\], accusative, singular, masculine
 - “regnant; chief(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *gopatiṃ* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *gopatiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -97,75 +97,109 @@ viṣám ← viṣá- (nominal stem)
 - \[noun\], vocative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *devanido* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devanido* ← *nidaḥ* ← *nid*
 - \[noun\], accusative, plural, masculine
 - “derision; scoffer; contempt.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhaya* ← *barhay* ← *√bṛṃh*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *prajāṃ* ← *prajām* ← *prajā*
 - \[noun\], accusative, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛsayasya* ← *bṛsaya*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *māyinaḥ* ← *māyin*
 - \[noun\], genitive, singular, masculine
 - “artful; charming; crafty; deceptive.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣitibhyo* ← *kṣitibhyaḥ* ← *kṣiti*
 - \[noun\], dative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vanīr* ← *avanīḥ* ← *avani*
 - \[noun\], accusative, plural, feminine
 - “river; earth; floor; path; bed; course.”
-------------------------------------------------------------------------
+
+_________
+
 - *avindo* ← *avindaḥ* ← *vid*
 - \[verb\], singular, Imperfect
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣam* ← *viṣa*
 - \[noun\], accusative, singular, neuter
 - “poison; poisoning; viṣa; venom; vatsanābha; Aconitum Ferox; viṣa
     \[word\]; Viṣa; myrrh; myrrh.”
-------------------------------------------------------------------------
+
+_________
+
 - *ebhyo* ← *ebhyaḥ* ← *idam*
 - \[noun\], dative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asravo* ← *asravaḥ* ← *sru*
 - \[verb\], singular, Imperfect
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinīvati* ← *vājinīvat*
 - \[noun\], vocative, singular, feminine
 - “rich; rich in horses.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

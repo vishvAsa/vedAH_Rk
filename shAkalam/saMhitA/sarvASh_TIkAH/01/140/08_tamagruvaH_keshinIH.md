@@ -116,96 +116,138 @@ páram ← pára- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *agruvaḥ* ← *agru*
 - \[noun\], nominative, plural, feminine
 - “unmarried.”
-------------------------------------------------------------------------
+
+_________
+
 - *keśinīḥ* ← *keśin*
 - \[noun\], nominative, plural, feminine
 - “haired.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rebhira* ← *rebhire* ← *rabh*
 - \[verb\], plural, Perfect indicative
 - “clasp.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrdhvās* ← *ūrdhvāḥ* ← *ūrdhva*
 - \[noun\], nominative, plural, feminine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthur* ← *tasthuḥ* ← *sthā*
 - \[verb\], plural, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *mamruṣīḥ* ← *mṛ*
 - \[verb noun\], nominative, plural
 - “mṛ; die; disappear; go out.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāyave* ← *prāyu*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāsāṃ* ← *tāsām* ← *tad*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarām* ← *jarā*
 - \[noun\], accusative, singular, feminine
 - “old age; decrepitude; digestion; Jarā; jarā \[word\]; vṛddhabandha;
     grey hair.”
-------------------------------------------------------------------------
+
+_________
+
 - *pramuñcann* ← *pramuñcan* ← *pramuc* ← *√muc*
 - \[verb noun\], nominative, singular
 - “emit; free; release; uncover; dig; shoot; cure; ejaculate.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *nānadad* ← *nānadat* ← *nānad* ← *√nad*
 - \[verb noun\], nominative, singular
 - “bellow.”
-------------------------------------------------------------------------
+
+_________
+
 - *asum* ← *asu*
 - \[noun\], accusative, singular, masculine
 - “life.”
-------------------------------------------------------------------------
+
+_________
+
 - *paraṃ* ← *param* ← *para*
 - \[noun\], accusative, singular, masculine
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
-------------------------------------------------------------------------
+
+_________
+
 - *janayañ* ← *janayan* ← *janay* ← *√jan*
 - \[verb noun\], nominative, singular
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvam* ← *jīva*
 - \[noun\], accusative, singular, masculine
 - “being; animal; life; jīva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *astṛtam* ← *astṛta*
 - \[noun\], accusative, singular, masculine
 - “durable; invincible.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

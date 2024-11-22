@@ -96,74 +96,108 @@ paprathan ← √prathⁱ- (root)
 -   *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvataḥ* ← *parvata*
 - \[noun\], nominative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādy* ← *sādi* ← *sad*
 - \[verb\], singular, Aorist passive
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *aprayucchan* ← *aprayucchat*
 - \[noun\], nominative, singular, masculine
 - “ceaseless; attentive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātṛbhir* ← *mātṛbhiḥ* ← *mātṛ*
 - \[noun\], instrumental, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvaśāno* ← *vāvaśānaḥ* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *akrān* ← *krand*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “roar; neigh; cry; howl; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūre* ← *dūra*
 - \[noun\], locative, singular, masculine
 - “distant; long; dūra \[word\]; deep; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāre* ← *pāra*
 - \[noun\], locative, singular, masculine
 - “shore; pāra \[word\]; end; excellence.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṇīṃ* ← *vāṇīm* ← *vāṇī*
 - \[noun\], accusative, singular, feminine
 - “voice; Sarasvati; words; language.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhayanta* ← *vardhayantaḥ* ← *vardhay* ← *√vṛdh*
 - \[verb noun\], nominative, plural
 - “increase; strengthen; promote; rear; add; greet; laud.”
-------------------------------------------------------------------------
+
+_________
+
 - *indreṣitāṃ* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indreṣitāṃ* ← *iṣitām* ← *iṣay* ← *√iṣ*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *dhamanim* ← *dhamani*
 - \[noun\], accusative, singular, feminine
 - “dhamanī; vessel; tube; tube.”
-------------------------------------------------------------------------
+
+_________
+
 - *paprathan* ← *paprathat* ← *prath*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “be known; expand; expand; boom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

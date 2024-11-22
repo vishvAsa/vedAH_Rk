@@ -67,34 +67,50 @@ ugrā́ḥ ← ugrá- (nominal stem)
 -   *yāmaṃ* ← *yāmam* ← *yāma*
 - \[noun\], accusative, singular, masculine
 - “prahara; watch; travel; path.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣṭhāḥ* ← *yeṣṭha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śubhā* ← *śubh*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *śobhiṣṭhāḥ* ← *śobhiṣṭha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śriyā* ← *śrī*
 - \[noun\], instrumental, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *sammiślā* ← *sammiślāḥ* ← *sammiśla*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ojobhir* ← *ojobhiḥ* ← *ojas*
 - \[noun\], instrumental, plural, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugrāḥ* ← *ugra*
 - \[noun\], nominative, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

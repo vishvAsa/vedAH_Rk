@@ -70,35 +70,51 @@ kāríṇām ← kārín- (nominal stem)
 -   *hinvānāso* ← *hinvānāsaḥ* ← *hi*
 - \[verb noun\], nominative, plural
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhanvire* ← *dhanv*
 - \[verb\], plural, Perfect indicative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharāsaḥ* ← *bhara*
 - \[noun\], nominative, plural, masculine
 - “battle; weight; foray; bhṛ; load.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāriṇām* ← *kārin*
 - \[noun\], genitive, plural, masculine
 - “causing; making; acting; performing; producing; doing.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

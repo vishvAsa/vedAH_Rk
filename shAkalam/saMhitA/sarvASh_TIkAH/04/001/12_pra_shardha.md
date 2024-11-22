@@ -99,75 +99,109 @@ vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardha* ← *śardhaḥ* ← *śardha*
 - \[noun\], nominative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārta* ← *ṛch*
 - \[verb\], singular, Root aorist (Ind.)
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamaṃ* ← *prathamam*
 - \[adverb\]
 - “first.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipanyāṃ* ← *vipanyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *yonā* ← *yoni*
 - \[noun\], locative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhasya* ← *vṛṣabha*
 - \[noun\], genitive, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *nīﾱe* ← *nīḍa*
 - \[noun\], locative, singular, masculine
 - “nest; seat; seat.”
-------------------------------------------------------------------------
+
+_________
+
 - *spārho* ← *spārhaḥ* ← *spārha*
 - \[noun\], nominative, singular, masculine
 - “desirable.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
 - “young; youthful.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapuṣyo* ← *vapuṣyaḥ* ← *vapuṣya*
 - \[noun\], nominative, singular, masculine
 - “fine-looking.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, masculine
 - “illuminating; shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyāso* ← *priyāsaḥ* ← *priya*
 - \[noun\], nominative, plural, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *'janayanta* ← *ajanayanta* ← *janay* ← *√jan*
 - \[verb\], plural, Imperfect
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

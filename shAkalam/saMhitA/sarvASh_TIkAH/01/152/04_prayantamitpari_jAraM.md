@@ -93,68 +93,100 @@ váruṇasya ← váruṇa- (nominal stem)
 -   *prayantam* ← *pre* ← *√i*
 - \[verb noun\], accusative, singular
 - “die; proceed; advance; continue; begin; depart.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāraṃ* ← *jāram* ← *jāra*
 - \[noun\], accusative, singular, masculine
 - “fancy man.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanīnām* ← *kanī*
 - \[noun\], genitive, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *paśyāmasi* ← *paś*
 - \[verb\], plural, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *nopanipadyamānam* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nopanipadyamānam* ← *upanipadyamānam* ← *upanipad* ← *√pad*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *anavapṛgṇā* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *anavapṛgṇā* ← *avapṛgṇā* ← *avapṛc* ← *√pṛc*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *vitatā* ← *vitan* ← *√tan*
 - \[verb noun\], accusative, plural
 - “expand; perform; scatter; prolong; increase.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasānam* ← *vas*
 - \[verb noun\], accusative, singular
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

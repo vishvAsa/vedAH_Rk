@@ -81,49 +81,73 @@ sutébhiḥ ← √su- (root)
 -   *em* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *em* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *pratyetana* ← *pratye* ← *√i*
 - \[verb\], plural, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *somebhiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapātamam* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapātamam* ← *pātamam* ← *pātama*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *amatrebhir* ← *amatrebhiḥ* ← *amatra*
 - \[noun\], instrumental, plural, neuter
 - “vessel.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjīṣiṇam* ← *ṛjīṣin*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutebhir* ← *sutebhiḥ* ← *su*
 - \[verb noun\], instrumental, plural
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *indubhiḥ* ← *indu*
 - \[noun\], instrumental, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

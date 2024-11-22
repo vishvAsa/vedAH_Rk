@@ -108,91 +108,133 @@ suśrútā ← suśrút- (nominal stem)
 -   *oṣṭhāv* ← *oṣṭhau* ← *oṣṭha*
 - \[noun\], nominative, dual, masculine
 - “lip; oṣṭha; oṣṭha \[word\]; bulge.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhv* ← *madhū* ← *madhu*
 - \[noun\], accusative, plural, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āsne* ← *āsan*
 - \[noun\], dative, singular, neuter
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadantā* ← *vad*
 - \[verb noun\], nominative, dual
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 - *stanāv* ← *stanau* ← *stana*
 - \[noun\], nominative, dual, masculine
 - “breast; udder; stana \[word\]; sprout; nipple.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pipyataṃ* ← *pipyatam* ← *pyā*
 - \[verb\], dual, Perfect imperative
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāseva* ← *nāsā*
 - \[noun\], nominative, singular, feminine
 - “nose; proboscis.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāseva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *nas* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvo* ← *tanvaḥ* ← *tanū*
 - \[noun\], genitive, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣitārā* ← *rakṣitṛ*
 - \[noun\], nominative, dual, masculine
 - “protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *karṇāv* ← *karṇau* ← *karṇa*
 - \[noun\], nominative, dual, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśrutā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśrutā* ← *śrutā* ← *śrut*
 - \[noun\], nominative, dual, masculine
 - “listening.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūtam* ← *bhū*
 - \[verb\], dual, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

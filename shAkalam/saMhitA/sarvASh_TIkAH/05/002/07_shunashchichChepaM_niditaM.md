@@ -111,26 +111,38 @@ tú ← tú (invariable)
 -   *śunaś* ← *śunaḥ* ← *śvan*
 - \[noun\], genitive, singular, masculine
 - “dog; śvan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cicchepaṃ* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *cicchepaṃ* ← *śepam* ← *śepa*
 - \[noun\], nominative, singular, neuter
 - “penis.”
-------------------------------------------------------------------------
+
+_________
+
 - *niditaṃ* ← *niditam* ← *nido* ← *√do*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrād* ← *sahasrāt* ← *sahasra*
 - \[noun\], ablative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yūpād* ← *yūpāt* ← *yūpa*
 - \[noun\], ablative, singular, masculine
 - “column; stake.”
-------------------------------------------------------------------------
+
+_________
+
 - *amuñco* ← *amuñcaḥ* ← *muc*
 - \[verb\], singular, Imperfect
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -138,40 +150,56 @@ tú ← tú (invariable)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśamiṣṭa* ← *śam*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “calm; go out; end; die; pacify; heal; labor; make peace; rest.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣaḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *evāsmad* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *evāsmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *mumugdhi* ← *muc*
 - \[verb\], singular, Perfect imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -179,31 +207,45 @@ tú ← tú (invariable)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāśān* ← *pāśa*
 - \[noun\], accusative, plural, masculine
 - “noose; shackle; eye; pāśa \[word\]; fetter.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotaś* ← *hotar* ← *hotṛ*
 - \[noun\], vocative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikitva* ← *cikitvaḥ* ← *cit*
 - \[verb noun\], vocative, singular
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *tū* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣadya* ← *niṣad* ← *√sad*
 - \[verb noun\]
 - “sit down; sit; put.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

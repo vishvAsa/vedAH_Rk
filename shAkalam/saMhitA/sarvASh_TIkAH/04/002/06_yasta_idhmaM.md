@@ -102,81 +102,117 @@ víśvasmāt ← víśva- (nominal stem)
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *idhmaṃ* ← *idhmam* ← *idhma*
 - \[noun\], accusative, singular, masculine
 - “fuel.”
-------------------------------------------------------------------------
+
+_________
+
 - *jabharat* ← *bhṛ*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣvidāno* ← *siṣvidānaḥ* ← *svid*
 - \[verb noun\], nominative, singular
 - “sveday; svid; sweat; heat; macerate.”
-------------------------------------------------------------------------
+
+_________
+
 - *mūrdhānaṃ* ← *mūrdhānam* ← *mūrdhan*
 - \[noun\], accusative, singular, masculine
 - “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatapate* ← *tap*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvas* ← *bhuvaḥ* ← *bhū*
 - \[verb\], singular, Aorist conj./subj.
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *svatavāṃ* ← *svatavān* ← *svatavas*
 - \[noun\], nominative, singular, masculine
 - “svatavas \[word\]; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāyur* ← *pāyuḥ* ← *pāyu*
 - \[noun\], nominative, singular, masculine
 - “guard; pāyu \[word\]; Pāyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīm*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *aghāyata* ← *aghāyataḥ* ← *aghāy*
 - \[verb noun\], ablative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *uruṣya* ← *uruṣy*
 - \[verb\], singular, Present imperative
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

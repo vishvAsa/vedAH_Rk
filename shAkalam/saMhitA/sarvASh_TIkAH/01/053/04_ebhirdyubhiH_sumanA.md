@@ -99,79 +99,115 @@ yutádveṣasaḥ ← yutádveṣas- (nominal stem)
 -   *ebhir* ← *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyubhiḥ* ← *div*
 - \[noun\], instrumental, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumanā* ← *sumanāḥ* ← *sumanas*
 - \[noun\], nominative, singular, masculine
 - “benevolent; cheerful; happy; satisfied.”
-------------------------------------------------------------------------
+
+_________
+
 - *ebhir* ← *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *indubhir* ← *indubhiḥ* ← *indu*
 - \[noun\], instrumental, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *nirundhāno* ← *nirundhānaḥ* ← *nirudh* ← *√rudh*
 - \[verb noun\], nominative, singular
 - “close; insert; seal; obstruct; fill into; enclose; put; stop;
     suppress; puṭ; banish; impede; envelop; capture.”
-------------------------------------------------------------------------
+
+_________
+
 - *amatiṃ* ← *amatim* ← *amati*
 - \[noun\], accusative, singular, feminine
 - “indigence.”
-------------------------------------------------------------------------
+
+_________
+
 - *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], instrumental, singular, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyuṃ* ← *dasyum* ← *dasyu*
 - \[noun\], accusative, singular, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *darayanta* ← *darayantaḥ* ← *daray* ← *√dṛ*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *indubhir* ← *indubhiḥ* ← *indu*
 - \[noun\], instrumental, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *yutadveṣasaḥ* ← *yuta* ← *yu*
 - \[verb noun\]
 - “keep away; separate; ward off.”
-------------------------------------------------------------------------
+
+_________
+
 - *yutadveṣasaḥ* ← *dveṣasaḥ* ← *dveṣas*
 - \[noun\], nominative, plural, masculine
 - “hostility; enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣā* ← *iṣ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *rabhemahi* ← *rabh*
 - \[verb\], plural, Present optative
 - “clasp.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

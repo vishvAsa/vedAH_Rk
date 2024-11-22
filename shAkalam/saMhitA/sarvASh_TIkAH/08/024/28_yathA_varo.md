@@ -76,38 +76,56 @@ vyàśvebhyaḥ ← vyàśva- (nominal stem)
 -   *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *varo* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣāmṇe* ← *suṣāman*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sanibhya* ← *sanibhyaḥ* ← *sani*
 - \[noun\], dative, plural, masculine
 - “gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvaho* ← *āvahaḥ* ← *āvah* ← *√vah*
 - \[verb\], singular, Imperfect
 - “bring; marry; cause; run; perform; exude.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyaśvebhyaḥ* ← *vyaśva*
 - \[noun\], dative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *subhage* ← *subhaga*
 - \[noun\], vocative, singular, feminine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinīvati* ← *vājinīvat*
 - \[noun\], vocative, singular, feminine
 - “rich; rich in horses.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

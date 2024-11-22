@@ -87,7 +87,9 @@ yuyodhi ← √yu- 2 (root)
 
 -   *sanemi*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *kṛdhy* ← *kṛdhī* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -98,46 +100,68 @@ yuyodhi ← √yu- 2 (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣasaṃ* ← *rakṣasam* ← *rakṣas*
 - \[noun\], accusative, singular, masculine
 - “Rākṣasa.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṃcid* ← *kaścit*
 - \[noun\], accusative, singular, masculine
 - “any(a); some(a); some(a); some(a); some(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *atriṇam* ← *atrin*
 - \[noun\], accusative, singular, masculine
 - “Atrin; eater.”
-------------------------------------------------------------------------
+
+_________
+
 - *apādevaṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *dvayum* ← *dvayu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aṃho* ← *aṃhaḥ* ← *aṃhas*
 - \[noun\], accusative, singular, neuter
 - “trouble; sin.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyodhi* ← *yu*
 - \[verb\], singular, Present imperative
 - “keep away; separate; ward off.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

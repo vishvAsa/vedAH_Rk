@@ -96,72 +96,104 @@ yā́vat ← yā́vant- (nominal stem)
 -   *sahasradhā*
 - \[adverb\]
 - “thousand-fold.”
-------------------------------------------------------------------------
+
+_________
+
 - *pañcadaśāny* ← *pañcadaśāni* ← *pañcadaśan*
 - \[noun\], nominative, plural, neuter
 - “fifteen.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthā* ← *uktha*
 - \[noun\], nominative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāvad* ← *yāvat*
 - \[noun\], nominative, singular, neuter
 - “yāvat \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvāpṛthivī*
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tāvad* ← *tāvat*
 - \[noun\], nominative, singular, neuter
 - “such(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasradhā*
 - \[adverb\]
 - “thousand-fold.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahimānaḥ* ← *mahiman*
 - \[noun\], nominative, plural, masculine
 - “greatness; power; mahiman.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasraṃ* ← *sahasram* ← *sahasra*
 - \[noun\], nominative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yāvad* ← *yāvat*
 - \[noun\], nominative, singular, neuter
 - “yāvat \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *brahma* ← *brahman*
 - \[noun\], nominative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṭhitaṃ* ← *viṣṭhitam* ← *viṣṭhā* ← *√sthā*
 - \[verb noun\], nominative, singular
 - “stand; stay; resist.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāvatī* ← *tāvat*
 - \[noun\], nominative, singular, feminine
 - “such(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *vāk* ← *vāc*
 - \[noun\], nominative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

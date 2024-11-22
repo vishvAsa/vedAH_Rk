@@ -93,11 +93,15 @@ vāvr̥dhānáḥ ← √vr̥dh- (root)
 -   *viṣūco* ← *viṣūcaḥ* ← *viṣvañc*
 - \[noun\], accusative, plural, masculine
 - “dispersed; viṣvañc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvān* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyuje* ← *yuj*
 - \[verb\], singular, Perfect indicative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -105,18 +109,26 @@ vāvr̥dhānáḥ ← √vr̥dh- (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanejā* ← *vanejāḥ* ← *vanejā*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjītibhī* ← *ṛjītibhiḥ* ← *ṛjīti*
 - \[noun\], instrumental, plural, feminine
 - “straight.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśanābhir* ← *raśanābhiḥ* ← *raśanā*
 - \[noun\], instrumental, plural, feminine
 - “rein; bridle; girdle; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛbhītān* ← *grah*
 - \[verb noun\], accusative, plural
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -124,46 +136,66 @@ vāvr̥dhānáḥ ← √vr̥dh- (root)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣade* ← *kṣad*
 - \[verb\], singular, Perfect indicative
 - “butcher; carve.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasubhiḥ* ← *vasu*
 - \[noun\], instrumental, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujātaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sujātaḥ* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānṛdhe* ← *ṛdh*
 - \[verb\], singular, Perfect indicative
 - “boom; stick to.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvabhir* ← *parvabhiḥ* ← *parvan*
 - \[noun\], instrumental, plural, neuter
 - “joint; knot; festival; day; articulation; knot.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhānaḥ* ← *vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -93,64 +93,94 @@ r̥cyámāne ← √r̥c- (root)
 -   *aruṣasya* ← *aruṣa*
 - \[noun\], genitive, singular, masculine
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhitarā* ← *duhitṛ*
 - \[noun\], nominative, dual, feminine
 - “daughter; duhitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *virūpe* ← *virūpa*
 - \[noun\], nominative, dual, feminine
 - “ugly; maimed; grotesque.”
-------------------------------------------------------------------------
+
+_________
+
 - *stṛbhir* ← *stṛbhiḥ* ← *star*
 - \[noun\], instrumental, plural, masculine
 - “star.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyā* ← *anya*
 - \[noun\], nominative, singular, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *pipiśe* ← *piś*
 - \[verb\], singular, Perfect indicative
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūro* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyā* ← *anya*
 - \[noun\], nominative, singular, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *mithasturā* ← *mithastur*
 - \[noun\], nominative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vicarantī* ← *vicar* ← *√car*
 - \[verb noun\], nominative, dual
 - “wander; travel; vraj; be active.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvake* ← *pāvaka*
 - \[noun\], nominative, dual, feminine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣata* ← *nakṣataḥ* ← *nakṣ*
 - \[verb\], dual, Present indikative
 - “reach; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛcyamāne* ← *arc*
 - \[verb noun\], nominative, dual
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

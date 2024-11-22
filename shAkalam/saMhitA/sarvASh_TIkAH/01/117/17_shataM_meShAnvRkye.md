@@ -99,67 +99,97 @@ vicákṣe ← √cakṣ- (root)
 -   *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *meṣān* ← *meṣa*
 - \[noun\], accusative, plural, masculine
 - “sheep; ram; Naigameṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkye* ← *vṛkī*
 - \[noun\], dative, singular, feminine
 - “wolf.”
-------------------------------------------------------------------------
+
+_________
+
 - *māmahānaṃ* ← *māmahānam* ← *mah*
 - \[verb noun\], accusative, singular
 - “give; accord.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *praṇītam* ← *praṇī* ← *√nī*
 - \[verb noun\], accusative, singular
 - “enforce; lead; produce.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśivena* ← *aśiva*
 - \[noun\], instrumental, singular, masculine
 - “inauspicious; unkind; unfriendly; cruel; dangerous.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitrā* ← *pitṛ*
 - \[noun\], instrumental, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *ākṣī* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ākṣī* ← *akṣī* ← *akṣi*
 - \[noun\], accusative, dual, neuter
 - “eye; akṣi \[word\]; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjrāśve* ← *ṛjrāśva*
 - \[noun\], locative, singular, masculine
 - “Ṛjrāśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvināv* ← *aśvinau* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhattaṃ* ← *adhattam* ← *dhā*
 - \[verb\], dual, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *andhāya* ← *andha*
 - \[noun\], dative, singular, masculine
 - “blind; andha \[word\]; andha; blind; complete; dark.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakrathur* ← *cakrathuḥ* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -170,10 +200,14 @@ vicákṣe ← √cakṣ- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicakṣe* ← *vicakṣ* ← *√cakṣ*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

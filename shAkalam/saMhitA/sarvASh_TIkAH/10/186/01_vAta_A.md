@@ -83,50 +83,74 @@ tāriṣat ← √tr̥̄- 1 (root)
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vātu* ← *vā*
 - \[verb\], singular, Present imperative
 - “blow; blow; emit.”
-------------------------------------------------------------------------
+
+_________
+
 - *bheṣajaṃ* ← *bheṣajam* ← *bheṣaja*
 - \[noun\], accusative, singular, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
-------------------------------------------------------------------------
+
+_________
+
 - *śambhu*
 - \[noun\], accusative, singular, neuter
 - “kind; benevolent.”
-------------------------------------------------------------------------
+
+_________
+
 - *mayobhu*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛde* ← *hṛd*
 - \[noun\], dative, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṇa* ← *ṇaḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyūṃṣi* ← *āyus*
 - \[noun\], accusative, plural, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāriṣat* ← *tṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,74 +102,110 @@ usríyāyāḥ ← usríya- (nominal stem)
 -   *makṣū*
 - \[adverb\]
 - “promptly; soon; quickly.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanāyāḥ* ← *kanā*
 - \[noun\], genitive, singular, feminine
 - “girl.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *navīyo* ← *navīyaḥ* ← *navīyas*
 - \[noun\], accusative, singular, neuter
 - “new; fresh; up-to-the-minute.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *reta* ← *retaḥ* ← *retas*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “timely; honest.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *turaṇyan* ← *turaṇy*
 - \[verb\], plural, Present injunctive
 - “rush.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuci*
 - \[noun\], accusative, singular, neuter
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rekṇa* ← *rekṇaḥ* ← *rekṇas*
 - \[noun\], accusative, singular, neuter
 - “property; wealth; bequest; inheritance.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyajanta* ← *āyaj* ← *√yaj*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *sabardughāyāḥ* ← *sabardugha*
 - \[noun\], genitive, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *paya* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *usriyāyāḥ* ← *usriyā*
 - \[noun\], genitive, singular, feminine
 - “cow; dairy product.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

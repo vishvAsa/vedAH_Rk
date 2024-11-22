@@ -73,59 +73,85 @@ krāmema ← √kramⁱ- (root)
 -   *śardhaṃ* ← *śardham* ← *śardha*
 - \[noun\], accusative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhaṃ* ← *śardham* ← *śardha*
 - \[noun\], accusative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrātaṃ* ← *vrātam* ← *vrāta*
 - \[noun\], accusative, singular, masculine
 - “troop; group; Vrāta; vrāta \[word\]; flock.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrātaṃ* ← *vrātam* ← *vrāta*
 - \[noun\], accusative, singular, masculine
 - “troop; group; Vrāta; vrāta \[word\]; flock.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇaṃ* ← *gaṇam* ← *gaṇa*
 - \[noun\], accusative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇaṃ* ← *gaṇam* ← *gaṇa*
 - \[noun\], accusative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśastibhiḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśastibhiḥ* ← *śastibhiḥ* ← *śasti*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *krāmema* ← *kram*
 - \[verb\], plural, Present optative
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

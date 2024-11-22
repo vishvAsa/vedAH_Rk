@@ -99,74 +99,110 @@ váyaḥ ← ví- (nominal stem)
 -   *dve* ← *dvi*
 - \[noun\], accusative, dual, neuter
 - “two; dvi \[word\]; second.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *kramaṇe* ← *kramaṇa*
 - \[noun\], accusative, dual, neuter
 - “kram; behavior; step.”
-------------------------------------------------------------------------
+
+_________
+
 - *svardṛśo* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *svardṛśo* ← *dṛśaḥ* ← *dṛś*
 - \[noun\], genitive, singular, masculine
 - “eye; dṛś; dṛś \[word\]; sight; evil eye.”
-------------------------------------------------------------------------
+
+_________
+
 - *'bhikhyāya* ← *abhikhyāya* ← *abhikhyā* ← *√khyā*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *martyo* ← *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuraṇyati* ← *bhuraṇy*
 - \[verb\], singular, Present indikative
 - “be active.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛtīyam* ← *tṛtīya*
 - \[noun\], accusative, singular, neuter
 - “third; neuter; tṛtīya \[word\]; homosexual.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakir*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadharṣati* ← *dhṛṣ*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “dare; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaś* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *patayantaḥ* ← *patay* ← *√pat*
 - \[verb noun\], nominative, plural
 - “fly.”
-------------------------------------------------------------------------
+
+_________
+
 - *patatriṇaḥ* ← *patatrin*
 - \[noun\], nominative, plural, masculine
 - “flying; winged.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

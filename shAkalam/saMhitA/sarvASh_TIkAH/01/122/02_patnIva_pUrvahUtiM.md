@@ -96,77 +96,111 @@ sū́ryasya ← sū́rya- (nominal stem)
 -   *patnīva* ← *patnī*
 - \[noun\], nominative, dual, feminine
 - “wife; mistress; queen.”
-------------------------------------------------------------------------
+
+_________
+
 - *patnīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvahūtiṃ* ← *pūrva*
 - \[noun\]
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvahūtiṃ* ← *hūtim* ← *hūti*
 - \[noun\], accusative, singular, feminine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhadhyā* ← *vāvṛdhadhyai* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣāsānaktā*
 - \[noun\], nominative, singular, feminine
 - “dawn; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *purudhā*
 - \[adverb\]
 - “multiply.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidāne* ← *vid*
 - \[verb noun\], nominative, dual
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *starīr* ← *starīḥ* ← *starī*
 - \[noun\], nominative, singular, feminine
 - “barren cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *nātkaṃ* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nātkaṃ* ← *atkam* ← *atka*
 - \[noun\], accusative, singular, masculine
 - “garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyutaṃ* ← *vyutam* ← *vyuta*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vasānā* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *śriyā* ← *śrī*
 - \[noun\], instrumental, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudṛśī* ← *sudṛś*
 - \[noun\], nominative, singular, feminine
 - “fine-looking.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyaiḥ* ← *hiraṇya*
 - \[noun\], instrumental, plural, neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

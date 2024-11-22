@@ -98,70 +98,104 @@ yéṣām ← yá- (pronoun)
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇo* ← *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruṣasya* ← *aruṣa*
 - \[noun\], genitive, singular, masculine
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *śevam* ← *śeva*
 - \[noun\], accusative, singular, neuter
 - “friendly; favorable; dear.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *bradhnasya* ← *bradhna*
 - \[noun\], genitive, singular, masculine
 - “sun; horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *śāsane* ← *śāsana*
 - \[noun\], locative, singular, neuter
 - “command; decree; order; doctrine; command; punishment.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṇanti* ← *raṇ*
 - \[verb\], plural, Present indikative
 - “rejoice.”
-------------------------------------------------------------------------
+
+_________
+
 - *divorucaḥ* ← *divoruc*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *suruco* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suruco* ← *rucaḥ* ← *ruc*
 - \[noun\], nominative, plural, masculine
 - “beam; radiance; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocamānā* ← *rocamānāḥ* ← *ruc*
 - \[verb noun\], nominative, plural
 - “please; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *iḍā*
 - \[noun\], nominative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣāṃ* ← *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇyā* ← *gaṇya*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *māhinā* ← *māhina*
 - \[noun\], nominative, singular, feminine
 - “mighty; large.”
-------------------------------------------------------------------------
+
+_________
+
 - *gīḥ* ← *gir*
 - \[noun\], nominative, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

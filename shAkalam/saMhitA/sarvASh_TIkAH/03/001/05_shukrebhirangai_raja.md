@@ -99,78 +99,112 @@ mimīte ← √mā- 1 (root)
 -   *śukrebhir* ← *śukrebhiḥ* ← *śukra*
 - \[noun\], instrumental, plural, neuter
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgai* ← *aṅgaiḥ* ← *aṅga*
 - \[noun\], instrumental, plural, neuter
 - “body part; body; part; limb; extremity; Vedāṅga; section; root;
     army unit; aṅga \[word\]; subsection; aṅgamantra; part; body;
     ingredient.”
-------------------------------------------------------------------------
+
+_________
+
 - *raja* ← *rajaḥ* ← *rajas*
 - \[noun\], accusative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *ātatanvān* ← *ātan* ← *√tan*
 - \[verb noun\], nominative, singular
 - “expand; prolong; chant; inflate.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavibhiḥ* ← *kavi*
 - \[noun\], instrumental, plural, neuter
 - “mental; wise; mental; enlightened.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavitraiḥ* ← *pavitra*
 - \[noun\], instrumental, plural, neuter
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *śocir* ← *śociḥ* ← *śocis*
 - \[noun\], accusative, singular, neuter
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyur* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *śriyo* ← *śriyaḥ* ← *śrī*
 - \[noun\], accusative, plural, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimīte* ← *mā*
 - \[verb\], singular, Present indikative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatīr* ← *bṛhatīḥ* ← *bṛhat*
 - \[noun\], accusative, plural, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *anūnāḥ* ← *anūna*
 - \[noun\], accusative, plural, feminine
 - “perfect; entire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

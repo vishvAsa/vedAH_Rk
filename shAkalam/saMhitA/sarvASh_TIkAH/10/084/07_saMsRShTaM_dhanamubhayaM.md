@@ -100,78 +100,112 @@ párājitāsaḥ ← √ji- 1 (root)
 - \[verb noun\], accusative, singular
 - “mix; saṃsṛj; combine; accompany; blend; afflict; endow; consociate;
     love; alloy.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanam* ← *dhana*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhayaṃ* ← *ubhayam* ← *ubhaya*
 - \[noun\], accusative, singular, neuter
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *samākṛtam* ← *samākṛ* ← *√kṛ*
 - \[verb noun\], accusative, singular
 - “gather; collect.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dattāṃ* ← *dattām* ← *dā*
 - \[verb\], dual, Present imperative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇaś* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyuḥ* ← *manyu*
 - \[noun\], nominative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhiyaṃ* ← *bhiyam* ← *bhī*
 - \[noun\], accusative, singular, feminine
 - “fear; bhī; alarm.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhānā* ← *dadhānāḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdayeṣu* ← *hṛdaya*
 - \[noun\], locative, plural, neuter
 - “heart; heart; mind; hṛdaya \[word\]; science; thorax;
     Aṣṭāṅgahṛdayasaṃhitā; soul.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatravaḥ* ← *śatru*
 - \[noun\], nominative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *parājitāso* ← *parājitāsaḥ* ← *parāji* ← *√ji*
 - \[verb noun\], nominative, plural
 - “overcome; overpower.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *layantām* ← *lī*
 - \[verb\], plural, Present imperative
 - “disappear; repose; lie; adhere.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

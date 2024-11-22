@@ -96,73 +96,105 @@ vájrabāhuḥ ← vájrabāhu- (nominal stem)
 -   *vadhīṃ* ← *vadhīm* ← *vadh*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “kill; assail; kick; māray; destroy; beat.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *maruta* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *indriyeṇa* ← *indriya*
 - \[noun\], instrumental, singular, masculine
 - “aindra.”
-------------------------------------------------------------------------
+
+_________
+
 - *svena* ← *sva*
 - \[noun\], instrumental, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāmena* ← *bhāma*
 - \[noun\], instrumental, singular, masculine
 - “wrath; anger.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣo* ← *taviṣaḥ* ← *taviṣa*
 - \[noun\], nominative, singular, masculine
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *babhūvān* ← *bhū*
 - \[verb noun\], nominative, singular
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *etā* ← *etāḥ* ← *etad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *manave* ← *manu*
 - \[noun\], dative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaścandrāḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaścandrāḥ* ← *ścandrāḥ* ← *ścandra*
 - \[noun\], accusative, plural, feminine
 - “shining; glistening; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugā* ← *gāḥ* ← *ga*
 - \[noun\], accusative, plural, feminine
 - “located; moving; flowing; passable; ga \[word\]; accordant.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaś* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakara* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -173,16 +205,22 @@ vájrabāhuḥ ← vájrabāhu- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrabāhuḥ* ← *vajra*
 - \[noun\], masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrabāhuḥ* ← *bāhuḥ* ← *bāhu*
 - \[noun\], nominative, singular, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

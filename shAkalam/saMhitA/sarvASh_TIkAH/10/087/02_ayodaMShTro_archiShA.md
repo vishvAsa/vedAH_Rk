@@ -97,71 +97,105 @@ vr̥ktvī́ ← √vr̥j- 1 (root)
 - \[noun\], neuter
 - “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
     weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayodaṃṣṭro* ← *daṃṣṭraḥ* ← *daṃṣṭra*
 - \[noun\], nominative, singular, masculine
 - “tusk; fang; tooth; fang; bite.”
-------------------------------------------------------------------------
+
+_________
+
 - *arciṣā* ← *arcis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; light; beam; gleam; shininess.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātudhānān* ← *yātudhāna*
 - \[noun\], accusative, plural, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛśa* ← *spṛś*
 - \[verb\], singular, Present imperative
 - “touch; enter (a state); reach; touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *samiddhaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle; blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvayā* ← *jihvā*
 - \[noun\], instrumental, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *mūradevān* ← *mūradeva*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rabhasva* ← *rabh*
 - \[verb\], singular, Present imperative
 - “clasp.”
-------------------------------------------------------------------------
+
+_________
+
 - *kravyādo* ← *kravyādaḥ* ← *kravyād*
 - \[noun\], accusative, plural, masculine
 - “carnivore.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛktvy* ← *vṛktvī* ← *vṛj*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhatsvāsan* ← *dhatsva* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhatsvāsan* ← *āsan*
 - \[noun\], locative, singular, neuter
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

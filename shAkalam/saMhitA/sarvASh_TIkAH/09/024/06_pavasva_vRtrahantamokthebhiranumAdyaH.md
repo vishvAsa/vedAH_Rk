@@ -67,36 +67,52 @@ pāvakáḥ ← pāvaká- (nominal stem)
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahantamokthebhir* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahantamokthebhir* ← *hantama*
 - \[noun\], vocative, singular, masculine
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahantamokthebhir* ← *ukthebhiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *anumādyaḥ* ← *anumad* ← *√mad*
 - \[verb noun\], nominative, singular
 - “praise; cheer; applaud.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvako* ← *pāvakaḥ* ← *pāvaka*
 - \[noun\], nominative, singular, masculine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *adbhutaḥ* ← *adbhuta*
 - \[noun\], nominative, singular, masculine
 - “extraordinary; amazing; supernatural.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

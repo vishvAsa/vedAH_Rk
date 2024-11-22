@@ -84,14 +84,20 @@ víśvān ← víśva- (nominal stem)
 -   *agastyasya* ← *agastya*
 - \[noun\], genitive, singular, masculine
 - “Agastya; Sesbania grandiflora; Polaris; agastya \[word\]; Agastya.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadbhyaḥ* ← *nadh*
 - \[noun\], dative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *saptī* ← *sapti*
 - \[noun\], accusative, dual, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *yunakṣi* ← *yuj*
 - \[verb\], singular, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -99,40 +105,58 @@ víśvān ← víśva- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *rohitā* ← *rohita*
 - \[noun\], accusative, dual, masculine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 - *paṇīn* ← *paṇi*
 - \[noun\], accusative, plural, masculine
 - “niggard; paṇ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *akramīr* ← *akramīḥ* ← *kram*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājann* ← *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *arādhasaḥ* ← *arādhas*
 - \[noun\], accusative, plural, masculine
 - “stingy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

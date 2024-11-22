@@ -80,42 +80,62 @@ yūthyā̀m ← yūthyà- (nominal stem)
 - \[adverb\]
 - “there; now; then; then; there; in that place; then; locative;
     respectively; there; tatra \[word\]; inside; therefore.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatro* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāṇīyata* ← *praṇī* ← *√nī*
 - \[verb\], singular, Imperfekt Passiv
 - “enforce; lead; produce.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūtakratāyai* ← *pūtakratā*
 - \[noun\], dative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vyaktā* ← *vyañj* ← *√añj*
 - \[verb noun\], nominative, singular
 - “decorate; fan; anoint.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvānām* ← *aśva*
 - \[noun\], genitive, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yūthyām* ← *yūthyā*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

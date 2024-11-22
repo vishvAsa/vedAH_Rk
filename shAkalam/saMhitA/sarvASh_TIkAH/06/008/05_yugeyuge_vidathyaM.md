@@ -106,93 +106,135 @@ vr̥śca ← √vr̥śc- (root)
 - \[noun\], locative, singular, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuge* ← *yuga*
 - \[noun\], locative, singular, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidathyaṃ* ← *vidathyam* ← *vidathya*
 - \[noun\], accusative, singular, masculine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇadbhyo* ← *gṛṇadbhyaḥ* ← *gṛ*
 - \[verb noun\], dative, plural
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, feminine
 - “wealth; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaśasaṃ* ← *yaśasam* ← *yaśas*
 - \[noun\], accusative, singular, feminine
 - “esteemed; celebrated; glorious; honorable.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyasīm* ← *navyas*
 - \[noun\], accusative, singular, feminine
 - “new.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavyeva* ← *pavyā* ← *pavi*
 - \[noun\], instrumental, singular, masculine
 - “vajra; tire; rim.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājann* ← *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghaśaṃsam* ← *agha*
 - \[noun\]
 - “bad; dangerous; ill; iniquitous; bad.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghaśaṃsam* ← *śaṃsam* ← *śaṃsa*
 - \[noun\], accusative, singular, masculine
 - “speaking.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajara*
 - \[noun\], vocative, singular, masculine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *nīcā*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛśca* ← *vraśc*
 - \[verb\], singular, Present imperative
 - “cleave; fell; cut off; hew.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaninaṃ* ← *vaninam* ← *vanin*
 - \[noun\], accusative, singular, masculine
 - “tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tejasā* ← *tejas*
 - \[noun\], instrumental, singular, neuter
 - “magnificence; luminosity; glory; fire; semen; fire; heat; light;
     quintessence; brilliance; glare; dignity; beauty; tejas; potency;
     ferocity; power; edge; efficacy; ardor; authority.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

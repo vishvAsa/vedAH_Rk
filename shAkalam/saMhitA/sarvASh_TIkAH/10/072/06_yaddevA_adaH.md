@@ -90,67 +90,97 @@ tīvráḥ ← tīvrá- (nominal stem)
 -   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *adaḥ* ← *adas*
 - \[noun\], accusative, singular, neuter
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *salile* ← *salila*
 - \[noun\], locative, singular, neuter
 - “water; juice; body of water; Udaka; rain; flood.”
-------------------------------------------------------------------------
+
+_________
+
 - *susaṃrabdhā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *susaṃrabdhā* ← *saṃrabdhāḥ* ← *saṃrabh* ← *√rabh*
 - \[verb noun\], nominative, plural
 - “anger; agitate; inflame.”
-------------------------------------------------------------------------
+
+_________
+
 - *atiṣṭhata* ← *sthā*
 - \[verb\], plural, Imperfect
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *atrā* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛtyatām* ← *nṛt*
 - \[verb noun\], genitive, plural
 - “dance; dance.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *tīvro* ← *tīvraḥ* ← *tīvra*
 - \[noun\], nominative, singular, masculine
 - “intense; severe; pungent; acute; potent; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *reṇur* ← *reṇuḥ* ← *reṇu*
 - \[noun\], nominative, singular, masculine
 - “dust; pollen; powder.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāyata* ← *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāyata* ← *āyata* ← *i*
 - \[verb\], singular, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

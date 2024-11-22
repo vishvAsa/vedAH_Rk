@@ -67,30 +67,44 @@ vā́re ← vā́ra- 1 (nominal stem)
 -   *śumbhamānā* ← *śumbhamānāḥ* ← *śubh*
 - \[verb noun\], nominative, plural
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāyubhir* ← *ṛtāyubhiḥ* ← *ṛtāyu*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mṛjyamānā* ← *mṛjyamānāḥ* ← *mṛj*
 - \[verb noun\], nominative, plural
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavante* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāre* ← *vāra*
 - \[noun\], locative, singular, masculine
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyaye* ← *avyaya*
 - \[noun\], locative, singular, masculine
 - “sheep.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

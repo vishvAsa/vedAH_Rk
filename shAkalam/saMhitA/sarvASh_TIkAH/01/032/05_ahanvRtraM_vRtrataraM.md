@@ -98,68 +98,100 @@ upapŕ̥k ← upapŕ̥c- (nominal stem)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrataraṃ* ← *vṛtrataram* ← *vṛtratara*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vyaṃsam* ← *vyaṃsa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahatā* ← *mahat*
 - \[noun\], instrumental, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhena* ← *vadha*
 - \[noun\], instrumental, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
-------------------------------------------------------------------------
+
+_________
+
 - *skandhāṃsīva* ← *skandhāṃsi* ← *skandhas*
 - \[noun\], nominative, plural, neuter
 - “trunk.”
-------------------------------------------------------------------------
+
+_________
+
 - *skandhāṃsīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuliśenā* ← *kuliśa*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivṛkṇāhiḥ* ← *vivṛkṇā* ← *vivraśc* ← *√vraśc*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *vivṛkṇāhiḥ* ← *ahiḥ* ← *ahi*
 - \[noun\], nominative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 - *śayata* ← *śayate* ← *śī*
 - \[verb\], singular, Present indikative
 - “lie; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *upapṛk* ← *upapṛc*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

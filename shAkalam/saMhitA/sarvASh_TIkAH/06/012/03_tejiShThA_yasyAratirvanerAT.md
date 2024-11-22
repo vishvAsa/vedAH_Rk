@@ -98,70 +98,104 @@ avartráḥ ← avartrá- (nominal stem)
 
 -   *tejiṣṭhā* ← *tejiṣṭha*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yasyāratir* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasyāratir* ← *aratiḥ* ← *arati*
 - \[noun\], nominative, singular, feminine
 - “dissatisfaction; anaphrodisia; languor; coldness.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanerāṭ* ← *vanerāj*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *todo* ← *todaḥ* ← *toda*
 - \[noun\], nominative, singular, masculine
 - “toda; ache; prickling.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhvan*
 - \[noun\], locative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdhasāno* ← *vṛdhasānaḥ* ← *vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *adyaut* ← *dyut*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “shine; inflame.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrogho* ← *adroghaḥ* ← *adrogha*
 - \[noun\], nominative, singular, masculine
 - “sincere; truthful.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dravitā* ← *dravitṛ*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *cetati* ← *cit*
 - \[verb\], singular, Present indikative
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmann* ← *tman*
 - \[noun\], locative, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *amartyo* ← *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vartra* ← *avartraḥ* ← *avartra*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhīṣu* ← *oṣadhī*
 - \[noun\], locative, plural, feminine
 - “herb; plant; drug; herb.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

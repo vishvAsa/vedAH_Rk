@@ -101,76 +101,112 @@ suprapāṇám ← suprapāṇá- (nominal stem)
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
-------------------------------------------------------------------------
+
+_________
+
 - *kośam* ← *kośa*
 - \[noun\], accusative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *acā* ← *aca* ← *añc*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣiñca* ← *siñca* ← *sic*
 - \[verb\], singular, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *syandantāṃ* ← *syandantām* ← *syand*
 - \[verb\], plural, Present imperative
 - “run.”
-------------------------------------------------------------------------
+
+_________
+
 - *kulyā* ← *kulyāḥ* ← *kulyā*
 - \[noun\], nominative, plural, feminine
 - “rivulet; canal.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣitāḥ* ← *viṣā* ← *√sā*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *purastāt*
 - \[adverb\]
 - “ahead; eastward; earlier; above; above.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvāpṛthivī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *undhi* ← *und*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *suprapāṇam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suprapāṇam* ← *prapāṇam* ← *prapāṇa*
 - \[noun\], nominative, singular, neuter
 - “drink; drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavatv* ← *bhavatu* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghnyābhyaḥ* ← *aghnyā*
 - \[noun\], dative, plural, feminine
 - “cow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

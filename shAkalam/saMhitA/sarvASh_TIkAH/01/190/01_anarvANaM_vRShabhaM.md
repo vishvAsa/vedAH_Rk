@@ -90,68 +90,100 @@ návamānasya ← √nu- ~ nū- (root)
 -   *anarvāṇaṃ* ← *anarvāṇam* ← *anarvan*
 - \[noun\], accusative, singular, masculine
 - “unchallenged; unrivaled.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandrajihvam* ← *mandra*
 - \[noun\]
 - “pleasant; eloquent; dulcet.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandrajihvam* ← *jihvam* ← *jihvā*
 - \[noun\], accusative, singular, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatiṃ* ← *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhayā* ← *vardhaya* ← *vardhay* ← *√vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; strengthen; promote; rear; add; greet; laud.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyam* ← *navya*
 - \[noun\], accusative, singular, masculine
 - “new; fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāthānyaḥ* ← *gāthānī*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *suruco* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suruco* ← *rucaḥ* ← *ruc*
 - \[noun\], genitive, singular, masculine
 - “beam; radiance; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśṛṇvanti* ← *āśru* ← *√śru*
 - \[verb\], plural, Present indikative
 - “listen; hear.”
-------------------------------------------------------------------------
+
+_________
+
 - *navamānasya* ← *nū*
 - \[verb noun\], genitive, singular
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *martāḥ* ← *marta*
 - \[noun\], nominative, plural, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,39 +73,57 @@ yáḥ ← yá- (pronoun)
 -   *upasadyāya* ← *upasad* ← *√sad*
 - \[verb noun\], dative, singular
 - “respect.”
-------------------------------------------------------------------------
+
+_________
+
 - *mīﾱhuṣa* ← *mīḍhuṣe* ← *mih*
 - \[verb noun\], dative, singular
 - “make; moisten.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsye* ← *āsya*
 - \[noun\], locative, singular, neuter
 - “mouth; mouth; aperture; face; mukha; jaw; point.”
-------------------------------------------------------------------------
+
+_________
+
 - *juhutā* ← *hu*
 - \[verb\], plural, Present imperative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviḥ* ← *havis*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nediṣṭham* ← *nediṣṭha*
 - \[noun\], nominative, singular, neuter
 - “following.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpyam* ← *āpya*
 - \[noun\], nominative, singular, neuter
 - “friendship.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,76 +99,110 @@ vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)
 -   *śaśaḥ* ← *śaśa*
 - \[noun\], nominative, singular, masculine
 - “hare; rabbit.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣuram* ← *kṣura*
 - \[noun\], accusative, singular, masculine
 - “razor; knife; munj; hoof.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratyañcaṃ* ← *pratyañcam* ← *pratyañc*
 - \[noun\], accusative, singular, masculine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagārādriṃ* ← *jagāra* ← *gṛ*
 - \[verb\], singular, Perfect indicative
 - “devour; swallow; surround.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagārādriṃ* ← *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *logena* ← *loga*
 - \[noun\], instrumental, singular, masculine
 - “ball.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhedam* ← *bhid*
 - \[verb\], singular, Root aorist (Ind.)
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārāt*
 - \[adverb\]
 - “far; ārāt \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhantaṃ* ← *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛhate* ← *ṛhat*
 - \[noun\], dative, singular, masculine
 - “weak.”
-------------------------------------------------------------------------
+
+_________
+
 - *randhayāni* ← *randhay* ← *√radh*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “subjugate; hand over.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayad* ← *vayat* ← *vī*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *vatso* ← *vatsaḥ* ← *vatsa*
 - \[noun\], nominative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūśuvānaḥ* ← *śvi*
 - \[verb noun\], nominative, singular
 - “swell; grow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

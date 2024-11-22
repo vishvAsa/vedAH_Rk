@@ -76,47 +76,69 @@ tokásya ← toká- (nominal stem)
 -   *parṣi* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīne* ← *dīna*
 - \[noun\], locative, singular, masculine
 - “sad; miserable; afflicted; blue; shallow.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhīra* ← *gabhīre* ← *gabhīra*
 - \[noun\], locative, singular, masculine
 - “deep; profound; immeasurable; unfathomable; unfathomable;
     mysterious; deep; countless.”
-------------------------------------------------------------------------
+
+_________
+
 - *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *ugraputre* ← *ugra*
 - \[noun\]
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugraputre* ← *putre* ← *putra*
 - \[noun\], vocative, singular, feminine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *jighāṃsataḥ* ← *jighāṃs* ← *√han*
 - \[verb noun\], ablative, singular
 - “kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *mākis* ← *mākir*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *tokasya* ← *toka*
 - \[noun\], genitive, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *riṣat* ← *riṣ*
 - \[verb\], singular, Present injunctive
 - “suffer; harm.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

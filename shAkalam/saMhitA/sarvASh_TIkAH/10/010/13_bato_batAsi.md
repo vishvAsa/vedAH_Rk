@@ -114,72 +114,104 @@ vr̥kṣám ← vr̥kṣá- (nominal stem)
 -   *bato* ← *bataḥ* ← *bata*
 - \[noun\], nominative, singular, masculine
 - “weakling.”
-------------------------------------------------------------------------
+
+_________
+
 - *batāsi* ← *bata*
 - \[adverb\]
 - “deplorably.”
-------------------------------------------------------------------------
+
+_________
+
 - *batāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yama*
 - \[noun\], vocative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *naiva* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naiva* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mano* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdayaṃ* ← *hṛdayam* ← *hṛdaya*
 - \[noun\], accusative, singular, neuter
 - “heart; heart; mind; hṛdaya \[word\]; science; thorax;
     Aṣṭāṅgahṛdayasaṃhitā; soul.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāvidāma* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāvidāma* ← *avidāma* ← *vid*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyā* ← *anya*
 - \[noun\], nominative, singular, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *kila*
 - \[adverb\]
 - “assuredly; indeed; kila \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakṣyeva* ← *kakṣyā*
 - \[noun\], nominative, singular, feminine
 - “girdle; rampart; wall; enclosure; cinch.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakṣyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuktam* ← *yuj*
 - \[verb noun\], accusative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -187,27 +219,39 @@ vr̥kṣám ← vr̥kṣá- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣvajāte* ← *svajāte* ← *svaj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “embrace.”
-------------------------------------------------------------------------
+
+_________
+
 - *libujeva* ← *libujā*
 - \[noun\], nominative, singular, feminine
 - “creeper.”
-------------------------------------------------------------------------
+
+_________
+
 - *libujeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkṣam* ← *vṛkṣa*
 - \[noun\], accusative, singular, masculine
 - “tree; fruit tree.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

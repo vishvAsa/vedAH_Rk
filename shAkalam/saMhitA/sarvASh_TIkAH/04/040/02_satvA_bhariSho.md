@@ -99,68 +99,102 @@ svàr ← svàr- (nominal stem)
 -   *satvā* ← *satvan*
 - \[noun\], nominative, singular, masculine
 - “warrior.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhariṣo* ← *bhariṣaḥ* ← *bhariṣa*
 - \[noun\], nominative, singular, masculine
 - “plundering.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaviṣo* ← *gaviṣaḥ* ← *gaviṣa*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *duvanyasacchravasyād* ← *duvanyasad*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *duvanyasacchravasyād* ← *śravasyāt* ← *śravasy*
 - \[verb\], singular, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 - *iṣa* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasas* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *turaṇyasat* ← *turaṇyasad*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *satyo* ← *satyaḥ* ← *satya*
 - \[noun\], nominative, singular, masculine
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *dravo* ← *dravaḥ* ← *drava*
 - \[noun\], nominative, singular, masculine
 - “liquid; drenched; flowing.”
-------------------------------------------------------------------------
+
+_________
+
 - *dravaraḥ* ← *dravara*
 - \[noun\], nominative, singular, masculine
 - “fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *pataṅgaro* ← *pataṅgaraḥ* ← *pataṃgara*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dadhikrāveṣam* ← *dadhikrāvā* ← *dadhikrāvan*
 - \[noun\], nominative, singular, masculine
 - “Dadhikrā.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhikrāveṣam* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjaṃ* ← *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
-------------------------------------------------------------------------
+
+_________
+
 - *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *janat* ← *jan*
 - \[verb\], singular, Present injunctive
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

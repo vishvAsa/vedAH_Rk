@@ -103,81 +103,117 @@ yájamānaḥ ← √yaj- (root)
 - \[noun\], accusative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñānāṃ* ← *yajñānām* ← *yajña*
 - \[noun\], genitive, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidathasya* ← *vidatha*
 - \[noun\], genitive, singular, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhanaṃ* ← *sādhanam* ← *sādhana*
 - \[noun\], accusative, singular, masculine
 - “effective; performing.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprāso* ← *viprāsaḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahayanta* ← *mahay* ← *√mah*
 - \[verb\], plural, Imperfect
 - “glorify.”
-------------------------------------------------------------------------
+
+_________
+
 - *cittibhiḥ* ← *citti*
 - \[noun\], instrumental, plural, feminine
 - “purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāṃsi* ← *apas*
 - \[noun\], accusative, plural, neuter
 - “work; deed.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasminn* ← *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃdadhur* ← *saṃdadhuḥ* ← *saṃdhā* ← *√dhā*
 - \[verb\], plural, Perfect indicative
 - “connect; refer; aim; grow together; compress; ally; unite; operate
     on.”
-------------------------------------------------------------------------
+
+_________
+
 - *giras* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmin* ← *tad*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnāni* ← *sumna*
 - \[noun\], accusative, plural, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamāna* ← *yajamānaḥ* ← *yaj*
 - \[verb noun\], nominative, singular
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cake* ← *kan*
 - \[verb\], singular, Perfect indicative
 - “like; delight; desire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

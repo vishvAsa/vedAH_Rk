@@ -105,83 +105,121 @@ yuvóḥ ← tvám (pronoun)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjave* ← *ṛju*
 - \[noun\], dative, singular, neuter
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
-------------------------------------------------------------------------
+
+_________
+
 - *kramaṇāya* ← *kramaṇa*
 - \[noun\], dative, singular, neuter
 - “kram; behavior; step.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī*
 - \[noun\], vocative, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *marto* ← *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadāśa* ← *dāś*
 - \[verb\], singular, Perfect indicative
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiṣaṇe* ← *dhiṣaṇā*
 - \[noun\], vocative, dual, feminine
 - “heaven and earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhati* ← *sādh*
 - \[verb\], singular, Present indikative
 - “promote; succeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajābhir* ← *prajābhiḥ* ← *prajā*
 - \[noun\], instrumental, plural, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāyate* ← *jan*
 - \[verb\], singular, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharmaṇas* ← *dharmaṇaḥ* ← *dharman*
 - \[noun\], ablative, singular, neuter
 - “regulation; Dharma; law; property.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *siktā* ← *sic*
 - \[verb noun\], nominative, plural
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣurūpāṇi* ← *viṣurūpa*
 - \[noun\], nominative, plural, neuter
 - “different; manifold.”
-------------------------------------------------------------------------
+
+_________
+
 - *savratā* ← *savrata*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

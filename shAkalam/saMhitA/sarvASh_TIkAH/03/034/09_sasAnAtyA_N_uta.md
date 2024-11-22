@@ -105,85 +105,123 @@ várṇam ← várṇa- (nominal stem)
 -   *sasānātyāṃ* ← *sasāna* ← *san*
 - \[verb\], singular, Perfect indicative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasānātyāṃ* ← *atyāṃ* ← *atya*
 - \[noun\], accusative, plural, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasānendraḥ* ← *sasāna* ← *san*
 - \[verb\], singular, Perfect indicative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasānendraḥ* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasāna* ← *san*
 - \[verb\], singular, Perfect indicative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *purubhojasaṃ* ← *purubhojasam* ← *purubhojas*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyayam* ← *hiraṇyaya*
 - \[noun\], accusative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhogaṃ* ← *bhogam* ← *bhoga*
 - \[noun\], accusative, singular, masculine
 - “enjoyment; use; bhoga \[word\]; property; sexual intercourse;
     possession.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasāna* ← *san*
 - \[verb\], singular, Perfect indicative
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *hatvī* ← *han*
 - \[verb noun\]
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyūn* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāryaṃ* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāryaṃ* ← *āryam* ← *ārya*
 - \[noun\], accusative, singular, masculine
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvat* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

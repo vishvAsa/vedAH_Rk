@@ -105,83 +105,121 @@ varmī́ ← varmín- (nominal stem)
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *usriyā* ← *usriyāḥ* ← *usriyā*
 - \[noun\], accusative, plural, feminine
 - “cow; dairy product.”
-------------------------------------------------------------------------
+
+_________
+
 - *apyā* ← *apyāḥ* ← *apya*
 - \[noun\], accusative, plural, feminine
 - “aquatic; aquatic.”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśmano* ← *aśmanaḥ* ← *aśman*
 - \[noun\], genitive, singular, masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛntad* ← *akṛntat* ← *kṛt*
 - \[verb\], singular, Imperfect
 - “cut; cut; cut off; fell; cut.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrajaṃ* ← *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatniṣe* ← *tan*
 - \[verb\], singular, Perfect indicative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyam* ← *gavya*
 - \[noun\], accusative, singular, masculine
 - “bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvyaṃ* ← *aśvyam* ← *aśvya*
 - \[noun\], accusative, singular, masculine
 - “equine.”
-------------------------------------------------------------------------
+
+_________
+
 - *varmīva* ← *varmī* ← *varmin*
 - \[noun\], nominative, singular, masculine
 - “armored.”
-------------------------------------------------------------------------
+
+_________
+
 - *varmīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇav* ← *dhṛṣṇo* ← *dhṛṣṇu*
 - \[noun\], vocative, singular, masculine
 - “brave; ferocious; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ruja* ← *ruj*
 - \[verb\], singular, Present imperative
 - “break; bend.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

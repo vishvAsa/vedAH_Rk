@@ -89,66 +89,96 @@ anamīvásya ← anamīvá- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyaḥ* ← *rai*
 - \[noun\], accusative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśīhi* ← *śā*
 - \[verb\], singular, Present imperative
 - “sharpen; whet; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *mīḍhvo* ← *mīḍhvaḥ* ← *mīḍhvas*
 - \[noun\], vocative, singular, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīryasya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvīryasya* ← *vīryasya* ← *vīrya*
 - \[noun\], genitive, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvidyumna* ← *tuvi*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *tuvidyumna* ← *dyumna*
 - \[noun\], vocative, singular, masculine
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *varṣiṣṭhasya* ← *varṣiṣṭha*
 - \[noun\], genitive, singular, neuter
 - “highest.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajāvato* ← *prajāvataḥ* ← *prajāvat*
 - \[noun\], genitive, singular, neuter
 - “prolific.”
-------------------------------------------------------------------------
+
+_________
+
 - *'namīvasya* ← *anamīvasya* ← *anamīva*
 - \[noun\], genitive, singular, neuter
 - “healthy; comfortable; beneficial.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmiṇaḥ* ← *śuṣmin*
 - \[noun\], genitive, singular, neuter
 - “strong; hotheaded.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,42 +73,60 @@ tū́rṇiḥ ← tū́rṇi- (nominal stem)
 -   *adābhyaḥ* ← *adābhya*
 - \[noun\], nominative, singular, masculine
 - “trustworthy; disabused(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *puraetā* ← *puraetṛ*
 - \[noun\], nominative, singular, masculine
 - “guide; leader; harbinger.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣīṇām* ← *mānuṣa*
 - \[noun\], genitive, plural, feminine
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 - *tūrṇī* ← *tūrṇiḥ* ← *tūrṇi*
 - \[noun\], nominative, singular, masculine
 - “agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
-------------------------------------------------------------------------
+
+_________
+
 - *navaḥ* ← *nava*
 - \[noun\], nominative, singular, masculine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

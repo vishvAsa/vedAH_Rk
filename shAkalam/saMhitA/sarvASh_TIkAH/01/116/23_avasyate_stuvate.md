@@ -90,63 +90,91 @@ víśvakāya ← víśvaka- (nominal stem)
 -   *avasyate* ← *avasā* ← *√sā*
 - \[verb noun\], dative, singular
 - “end.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇiyāya* ← *kṛṣṇiya*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjūyate* ← *ṛjūy*
 - \[verb noun\], dative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśuṃ* ← *paśum* ← *paśu*
 - \[noun\], accusative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naṣṭam* ← *naś*
 - \[verb noun\], accusative, singular
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *darśanāya* ← *darśana*
 - \[noun\], dative, singular, neuter
 - “visual perception; look; sight; meeting; perception; doctrine;
     appearance; appearance; display; opinion; observation; sight; eye;
     inspection; examination.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṇāpvaṃ* ← *viṣṇāpvam* ← *viṣṇāpū*
 - \[noun\], accusative, singular, masculine
 - “Viṣṇāpū.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadathur* ← *dadathuḥ* ← *dā*
 - \[verb\], dual, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvakāya* ← *viśvaka*
 - \[noun\], dative, singular, masculine
 - “Viśvaka; Viśvaka.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -104,73 +104,109 @@ yádi ← yádi (invariable)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *patyata* ← *patyate* ← *paty*
 - \[verb\], singular, Present indikative
 - “own; have; master.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhayor* ← *ubhayoḥ* ← *ubhaya*
 - \[noun\], genitive, dual, masculine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmṇam* ← *nṛmṇa*
 - \[noun\], accusative, singular, neuter
 - “manhood; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayor* ← *ayoḥ* ← *idam*
 - \[noun\], genitive, dual, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedhasaḥ* ← *vedhas*
 - \[noun\], nominative, plural, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *samithe* ← *samitha*
 - \[noun\], locative, singular, neuter
 - “battle; conflict.”
-------------------------------------------------------------------------
+
+_________
+
 - *havante* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtre* ← *vṛtra*
 - \[noun\], locative, singular, masculine
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛvati* ← *nṛvat*
 - \[noun\], locative, singular, masculine
 - “rich in men.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣaye* ← *kṣaya*
 - \[noun\], locative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyacasvantā* ← *vyacasvat*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *vitantasaite* ← *vitantas* ← *√taṃs*
 - \[verb\], dual, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

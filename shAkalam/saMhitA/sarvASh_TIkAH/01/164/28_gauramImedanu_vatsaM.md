@@ -103,30 +103,44 @@ páyobhiḥ ← páyas- (nominal stem)
 - \[noun\], nominative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *amīmed* ← *amīmet* ← *mā*
 - \[verb\], singular, Plusquamperfect
 - “moo; howl.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
-------------------------------------------------------------------------
+
+_________
+
 - *miṣantam* ← *miṣ*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *mūrdhānaṃ* ← *mūrdhānam* ← *mūrdhan*
 - \[noun\], accusative, singular, masculine
 - “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiṅṅ* ← *hiṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇon* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -137,47 +151,69 @@ páyobhiḥ ← páyas- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātavā* ← *mātavai* ← *mā*
 - \[verb noun\]
 - “moo; howl.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛkvāṇaṃ* ← *sṛkvāṇam* ← *sṛkvan*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *gharmam* ← *gharma*
 - \[noun\], accusative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvaśānā* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimāti* ← *mā*
 - \[verb\], singular, Present indikative
 - “moo; howl.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyum* ← *māyu*
 - \[noun\], accusative, singular, masculine
 - “moo; boom.”
-------------------------------------------------------------------------
+
+_________
+
 - *payate* ← *pyā*
 - \[verb\], singular, Present indikative
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *payobhiḥ* ← *payas*
 - \[noun\], instrumental, plural, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

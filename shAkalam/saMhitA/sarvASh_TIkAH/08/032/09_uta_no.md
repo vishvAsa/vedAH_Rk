@@ -73,15 +73,21 @@ sám ← sám (invariable)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomatas* ← *gomataḥ* ← *gomat*
 - \[noun\], accusative, plural, masculine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -92,27 +98,39 @@ sám ← sám (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyavato* ← *hiraṇyavataḥ* ← *hiraṇyavat*
 - \[noun\], accusative, plural, masculine
 - “possessing gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinaḥ* ← *aśvin*
 - \[noun\], accusative, plural, masculine
 - “rich in horses; horsy.”
-------------------------------------------------------------------------
+
+_________
+
 - *iﾱābhiḥ* ← *iḍā*
 - \[noun\], instrumental, plural, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *rabhemahi* ← *rabh*
 - \[verb\], plural, Present optative
 - “clasp.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,80 +105,118 @@ vípaḥ ← víp- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrāya* ← *vīra*
 - \[noun\], dative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavase* ← *tavas*
 - \[noun\], dative, singular, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *turāyājā* ← *turāya* ← *tura*
 - \[noun\], dative, singular, masculine
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *turāyājā* ← *ajā* ← *aj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “drive; expel.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūtheva* ← *yūthā* ← *yūtha*
 - \[noun\], accusative, plural, neuter
 - “herd; troop; battalion.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūtheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśurakṣir* ← *paśurakṣiḥ* ← *paśurakṣi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pispṛśati* ← *spṛś*
 - \[verb\], singular, Aorist conj./subj.
 - “touch; enter (a state); reach; touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvi* ← *tanū*
 - \[noun\], locative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrutasya* ← *śru*
 - \[verb noun\], genitive, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *stṛbhir* ← *stṛbhiḥ* ← *star*
 - \[noun\], instrumental, plural, masculine
 - “star.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nākaṃ* ← *nākam* ← *nāka*
 - \[noun\], accusative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vacanasya* ← *vacana*
 - \[noun\], genitive, singular, masculine
 - “expressive(p); eloquent.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipaḥ* ← *vip*
 - \[noun\], genitive, singular, masculine
 - “priest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

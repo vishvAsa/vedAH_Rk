@@ -95,11 +95,15 @@ vr̥trahā́ ← vr̥trahán- (nominal stem)
 
 -   *pūṣaṇvate* ← *pūṣaṇvat*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṛmā* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -110,66 +114,96 @@ vr̥trahā́ ← vr̥trahán- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *karambhaṃ* ← *karambham* ← *karambha*
 - \[noun\], accusative, singular, masculine
 - “gruel.”
-------------------------------------------------------------------------
+
+_________
+
 - *harivate* ← *harivat*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *haryaśvāya* ← *haryaśva*
 - \[noun\], dative, singular, masculine
 - “Indra; Haryaśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhānāḥ* ← *dhānā*
 - \[noun\], accusative, plural, feminine
 - “Dhānā; Coriander; corn; grain.”
-------------------------------------------------------------------------
+
+_________
+
 - *apūpam* ← *apūpa*
 - \[noun\], accusative, singular, masculine
 - “Apūpa; apūpa \[word\]; wheat.”
-------------------------------------------------------------------------
+
+_________
+
 - *addhi* ← *ad*
 - \[verb\], singular, Present imperative
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *sagaṇo* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sagaṇo* ← *gaṇaḥ* ← *gaṇa*
 - \[noun\], nominative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *marudbhiḥ* ← *marut*
 - \[noun\], instrumental, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

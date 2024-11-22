@@ -81,52 +81,76 @@ turváśeṣu ← turváśa- (nominal stem)
 -   *sthūraṃ* ← *sthūram* ← *sthūra*
 - \[noun\], accusative, singular, neuter
 - “large; portly; fleshy.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatāśvaṃ* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatāśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, neuter
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuruṅgasya* ← *kuruṅga*
 - \[noun\], genitive, singular, masculine
 - “antelope.”
-------------------------------------------------------------------------
+
+_________
+
 - *diviṣṭiṣu* ← *diviṣṭi*
 - \[noun\], locative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *rājñas* ← *rājñaḥ* ← *rājan*
 - \[noun\], genitive, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣasya* ← *tveṣa*
 - \[noun\], genitive, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *subhagasya* ← *subhaga*
 - \[noun\], genitive, singular, masculine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātiṣu* ← *rāti*
 - \[noun\], locative, plural, feminine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *turvaśeṣv* ← *turvaśeṣu* ← *turvaśa*
 - \[noun\], locative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *amanmahi* ← *man*
 - \[verb\], plural, Root aorist (Ind.)
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

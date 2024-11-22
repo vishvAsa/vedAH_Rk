@@ -102,71 +102,105 @@ yudhā́ ← yúdh- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pakthāso* ← *pakthāsaḥ* ← *paktha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bhalānaso* ← *bhalānasaḥ* ← *bhalānas*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bhanantālināso* ← *bhananta* ← *bhan*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *bhanantālināso* ← *alināsaḥ* ← *alina*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *viṣāṇinaḥ* ← *viṣāṇin*
 - \[noun\], nominative, plural, masculine
 - “Trapa bispinosa; elephant.”
-------------------------------------------------------------------------
+
+_________
+
 - *śivāsaḥ* ← *śiva*
 - \[noun\], nominative, plural, masculine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *'nayat* ← *anayat* ← *nī*
 - \[verb\], singular, Imperfect
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhamā* ← *sadhamād*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āryasya* ← *ārya*
 - \[noun\], genitive, singular, masculine
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavyā*
 - \[noun\], instrumental, singular, feminine
 - “gorocanā.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛtsubhyo* ← *tṛtsubhyaḥ* ← *tṛtsu*
 - \[noun\], dative, plural, masculine
 - “Tṛtsu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajagan* ← *gam*
 - \[verb\], singular, Plusquamperfect
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhā* ← *yudh*
 - \[noun\], instrumental, singular, feminine
 - “battle; fight; war; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

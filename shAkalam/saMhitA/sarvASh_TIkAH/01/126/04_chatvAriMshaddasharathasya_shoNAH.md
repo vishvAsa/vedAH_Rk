@@ -90,64 +90,94 @@ pajrā́ḥ ← pajrá- (nominal stem)
 -   *catvāriṃśad* ← *catvāriṃśat*
 - \[noun\], nominative, singular, feminine
 - “forty; catvāriṃśat \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśarathasya* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśarathasya* ← *rathasya* ← *ratha*
 - \[noun\], genitive, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *śoṇāḥ* ← *śoṇa*
 - \[noun\], nominative, plural, masculine
 - “red; śoṇa \[word\]; red; purple.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrasyāgre* ← *sahasrasya* ← *sahasra*
 - \[noun\], genitive, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrasyāgre* ← *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 - *śreṇiṃ* ← *śreṇim* ← *śreṇi*
 - \[noun\], accusative, singular, masculine
 - “club; line.”
-------------------------------------------------------------------------
+
+_________
+
 - *nayanti* ← *nī*
 - \[verb\], plural, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *madacyutaḥ* ← *madacyut*
 - \[noun\], accusative, plural, masculine
 - “proud.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛśanāvato* ← *kṛśanāvataḥ* ← *kṛśanāvat*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *atyān* ← *atya*
 - \[noun\], accusative, plural, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakṣīvanta* ← *kakṣīvantaḥ* ← *kakṣīvant*
 - \[noun\], nominative, plural, masculine
 - “Kakṣīvant; kakṣīvant \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛkṣanta* ← *mṛj*
 - \[verb\], plural, sa aorist (Ind.)
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *pajrāḥ* ← *pajra*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

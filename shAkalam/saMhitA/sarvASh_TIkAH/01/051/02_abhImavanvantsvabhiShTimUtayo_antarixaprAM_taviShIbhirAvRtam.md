@@ -99,82 +99,120 @@ sūnŕ̥tā ← sūnŕ̥ta- (nominal stem)
 -   *abhīm* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīm* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *avanvan* ← *van*
 - \[verb\], plural, Imperfect
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhiṣṭim* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhiṣṭim* ← *abhiṣṭim* ← *abhiṣṭi*
 - \[noun\], accusative, singular, masculine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūtayo* ← *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *'ntarikṣaprāṃ* ← *antarikṣa*
 - \[noun\], neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ntarikṣaprāṃ* ← *prām* ← *prā*
 - \[noun\], accusative, singular, masculine
 - “appreciated.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣībhir* ← *taviṣībhiḥ* ← *taviṣī*
 - \[noun\], instrumental, plural, feminine
 - “strength; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvṛtam* ← *āvṛ* ← *√vṛ*
 - \[verb noun\], accusative, singular
 - “envelop; accompany; surround; obstruct; cover; close; surround;
     endow; overwhelm; mix; coat.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣāsa* ← *dakṣāsaḥ* ← *dakṣa*
 - \[noun\], nominative, plural, masculine
 - “deft; right; intelligent; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
-------------------------------------------------------------------------
+
+_________
+
 - *madacyutaṃ* ← *mada*
 - \[noun\], masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *madacyutaṃ* ← *cyutam* ← *cyut*
 - \[noun\], accusative, singular, masculine
 - “shaking; dropping.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatakratuṃ* ← *śatakratum* ← *śatakratu*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *javanī* ← *javana*
 - \[noun\], nominative, singular, feminine
 - “fleet; stimulating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛtāruhat* ← *sūnṛtā*
 - \[noun\], nominative, singular, feminine
 - “liberality.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛtāruhat* ← *āruhat* ← *āruh* ← *√ruh*
 - \[verb\], singular, Imperfect
 - “board; hop on; climb; ascend; descend; ride; copulate; grow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

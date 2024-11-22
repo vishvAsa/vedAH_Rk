@@ -96,78 +96,114 @@ satyaíḥ ← satyá- (nominal stem)
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tātṛṣur* ← *tātṛṣuḥ* ← *tṛṣ*
 - \[verb\], plural, Perfect indicative
 - “thirst.”
-------------------------------------------------------------------------
+
+_________
+
 - *devatrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *jehamānā* ← *jehamānāḥ* ← *jeh*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *hotrāvida* ← *hotrāvidaḥ* ← *hotrāvid*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *stomataṣṭāso* ← *stoma*
 - \[noun\], masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *stomataṣṭāso* ← *taṣṭāsaḥ* ← *takṣ*
 - \[verb noun\], nominative, plural
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgne* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvidatrebhir* ← *suvidatrebhiḥ* ← *suvidatra*
 - \[noun\], instrumental, plural, masculine
 - “beneficent.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
 - “approaching; facing; less.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyaiḥ* ← *satya*
 - \[noun\], instrumental, plural, masculine
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavyaiḥ* ← *kavya*
 - \[noun\], instrumental, plural, masculine
 - “wise.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitṛbhir* ← *pitṛbhiḥ* ← *pitṛ*
 - \[noun\], instrumental, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmasadbhiḥ* ← *gharma*
 - \[noun\], masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmasadbhiḥ* ← *sadbhiḥ* ← *sad*
 - \[noun\], instrumental, plural, masculine
 - “seated.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

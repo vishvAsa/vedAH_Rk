@@ -97,31 +97,45 @@ vádhatraiḥ ← vádhatra- (nominal stem)
 - \[noun\], ablative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīm*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *adhamāṃ* ← *adhama*
 - \[noun\], accusative, plural, masculine
 - “worst; bottom; despicable; worse; adhama \[word\]; last.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyūn* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsīr* ← *dāsīḥ* ← *dāsa*
 - \[noun\], accusative, plural, feminine
 - “dāsa(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇor* ← *akṛṇoḥ* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -132,43 +146,63 @@ vádhatraiḥ ← vádhatra- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *apraśastāḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *apraśastāḥ* ← *praśastāḥ* ← *praśaṃs* ← *√śaṃs*
 - \[verb noun\], accusative, plural
 - “recommend; approve; praise; laud; favor; proclaim.”
-------------------------------------------------------------------------
+
+_________
+
 - *abādhethām* ← *bādh*
 - \[verb\], dual, Imperfect
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛṇataṃ* ← *amṛṇatam* ← *mṛṇ*
 - \[verb\], dual, Imperfect
 - “kill; crush.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *avindethām* ← *vid*
 - \[verb\], dual, Imperfect
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *apacitiṃ* ← *apacitim* ← *apaciti*
 - \[noun\], accusative, singular, feminine
 - “retaliation.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhatraiḥ* ← *vadhatra*
 - \[noun\], instrumental, plural, neuter
 - “weapon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

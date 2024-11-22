@@ -73,42 +73,60 @@ spr̥hayet ← √spr̥h- (root)
 -   *caturaś* ← *caturaḥ* ← *catur*
 - \[noun\], accusative, plural, masculine
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadamānād* ← *dadamānāt* ← *dā*
 - \[verb noun\], ablative, singular
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibhīyād* ← *bibhīyāt* ← *bhī*
 - \[verb\], singular, Present optative
 - “fear; fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nidhātoḥ* ← *nidhā* ← *√dhā*
 - \[verb noun\]
 - “put; fill into; stow; insert; ignite; insert; add; put on;
     establish; keep down.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *duruktāya* ← *durukta*
 - \[noun\], dative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *spṛhayet* ← *spṛhay* ← *√spṛh*
 - \[verb\], singular, Present optative
 - “envy; desire.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

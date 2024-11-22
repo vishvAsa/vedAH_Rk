@@ -84,56 +84,82 @@ u ← u (invariable)
 -   *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *manthāṃ* ← *manthām* ← *manthā*
 - \[noun\], accusative, singular, feminine
 - “churning stick; fenugreek.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibadhnate* ← *vibandh* ← *√bandh*
 - \[verb\], plural, Present indikative
 - “envelop; wrap; constipate.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśmīn* ← *raśmi*
 - \[noun\], accusative, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamitavā* ← *yamitavai* ← *yam*
 - \[verb noun\]
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ulūkhalasutānām* ← *ulūkhala*
 - \[noun\], masculine
 - “mortar; ulūkhala.”
-------------------------------------------------------------------------
+
+_________
+
 - *ulūkhalasutānām* ← *sutānām* ← *su*
 - \[verb noun\], genitive, plural
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *aved* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *aved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *v* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *jalgulaḥ* ← *jargur* ← *√gṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “swallow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

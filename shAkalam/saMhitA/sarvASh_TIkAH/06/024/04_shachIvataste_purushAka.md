@@ -96,80 +96,118 @@ sudāman ← sudāman- (nominal stem)
 -   *śacīvatas* ← *śacīvataḥ* ← *śacīvat*
 - \[noun\], genitive, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruśāka* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruśāka* ← *śāka*
 - \[noun\], vocative, singular, masculine
 - “power.”
-------------------------------------------------------------------------
+
+_________
+
 - *śākā* ← *śākāḥ* ← *śāka*
 - \[noun\], nominative, plural, masculine
 - “power.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *srutayaḥ* ← *sruti*
 - \[noun\], nominative, plural, feminine
 - “discharge; path; road; stream.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃcaraṇīḥ* ← *saṃcaraṇa*
 - \[noun\], nominative, plural, feminine
 - “accessible.”
-------------------------------------------------------------------------
+
+_________
+
 - *vatsānāṃ* ← *vatsānām* ← *vatsa*
 - \[noun\], genitive, plural, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tantayas* ← *tantayaḥ* ← *tanti*
 - \[noun\], nominative, plural, feminine
 - “tanti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāmanvanto* ← *dāmanvantaḥ* ← *dāmanvat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *adāmānaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *adāmānaḥ* ← *dāmānaḥ* ← *dāman*
 - \[noun\], nominative, plural, masculine
 - “wreath; dāman; dāman \[word\]; shackle; girdle; fetter.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudāman* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudāman* ← *dāman*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

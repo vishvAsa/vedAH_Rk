@@ -86,27 +86,39 @@ srídhaḥ ← srídh- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyā* ← *tya*
 - \[noun\], nominative, dual, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivyā* ← *daivya*
 - \[noun\], nominative, dual, masculine
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhiṣajā* ← *bhiṣaj*
 - \[noun\], nominative, dual, masculine
 - “doctor; alchemist; therapist; medicine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃ* ← *śam*
 - \[noun\], accusative, singular, neuter
 - “luck; well-being; fortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *karato* ← *karataḥ* ← *kṛ*
 - \[verb\], dual, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -117,31 +129,45 @@ srídhaḥ ← srídh- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyuyātām* ← *yu*
 - \[verb\], dual, Present optative
 - “keep away; separate; ward off.”
-------------------------------------------------------------------------
+
+_________
+
 - *ito* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
-------------------------------------------------------------------------
+
+_________
+
 - *rapo* ← *rapaḥ* ← *rapas*
 - \[noun\], accusative, singular, neuter
 - “injury; disease; infirmity; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *sridhaḥ* ← *sridh*
 - \[noun\], accusative, plural, feminine
 - “failure; damage.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

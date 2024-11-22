@@ -93,62 +93,92 @@ vivyathuḥ ← √vyā- (root)
 -   *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
 - “Soma; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅga*
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarutram* ← *tarutra*
 - \[noun\], accusative, singular, masculine
 - “triumphant; conquering(a); superior.”
-------------------------------------------------------------------------
+
+_________
+
 - *apatyasācaṃ* ← *apatyasācam* ← *apatyasāc*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śrutyaṃ* ← *śrutyam* ← *śrutya*
 - \[noun\], accusative, singular, masculine
 - “celebrated; glorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *rarāthe* ← *rā*
 - \[verb\], dual, Perfect indicative
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmaṃ* ← *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *naryaṃ* ← *naryam* ← *narya*
 - \[noun\], accusative, singular, masculine
 - “manly; heroic; powerful; male; human.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇibhyaḥ* ← *carṣaṇi*
 - \[noun\], dative, plural, feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivyathuḥ* ← *vye*
 - \[verb\], dual, Perfect indicative
 - “cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanāṣāham* ← *pṛtanāṣāh*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ugrā* ← *ugra*
 - \[noun\], vocative, dual, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

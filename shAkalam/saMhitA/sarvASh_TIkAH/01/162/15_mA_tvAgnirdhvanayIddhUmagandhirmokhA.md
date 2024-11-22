@@ -108,81 +108,119 @@ tám ← sá- ~ tá- (pronoun)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāgnir* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāgnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhvanayīd* ← *dhvanayīt* ← *dhvanay* ← *√dhvan*
 - \[verb\], singular, Aorist inj. (proh.)
-------------------------------------------------------------------------
+
+_________
+
 - *dhūmagandhir* ← *dhūma*
 - \[noun\], masculine
 - “smoke; dhūmavedha; carbon black; dhūmana; mist; vapor;
     vaporization; dhūma \[word\]; incense.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūmagandhir* ← *gandhiḥ* ← *gandhi*
 - \[noun\], nominative, singular, masculine
 - “redolent(p); odoriferous.”
-------------------------------------------------------------------------
+
+_________
+
 - *mokhā* ← *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *mokhā* ← *ukhā*
 - \[noun\], nominative, singular, feminine
 - “kettle; ukhā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājanty* ← *bhrājantī* ← *bhrāj*
 - \[verb noun\], nominative, singular
 - “shine; glitter; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *vikta* ← *vij*
 - \[verb\], singular, Aorist inj. (proh.)
 - “flinch; bounce.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaghriḥ* ← *jaghri*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṭaṃ* ← *iṣṭam* ← *yaj*
 - \[verb noun\], accusative, singular
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *vītam* ← *vī*
 - \[verb noun\], accusative, singular
 - “approach; ask; desire; go; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhigūrtaṃ* ← *abhigūrtam* ← *abhigur* ← *√gur*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *vaṣaṭkṛtaṃ* ← *vaṣaṭkṛtam* ← *vaṣaṭkṛ* ← *√kṛ*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛbhṇanty* ← *gṛbhṇanti* ← *grah*
 - \[verb\], plural, Present indikative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -190,11 +228,15 @@ tám ← sá- ~ tá- (pronoun)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -89,58 +89,86 @@ vŕ̥kaḥ ← vŕ̥ka- (nominal stem)
 
 -   *pārṣadvāṇaḥ* ← *pārṣadvāṇa*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *praskaṇvaṃ* ← *praskaṇvam* ← *praskaṇva*
 - \[noun\], accusative, singular, masculine
 - “Praskaṇva.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *asādayacchayānaṃ* ← *asādayat* ← *sāday* ← *√sad*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *asādayacchayānaṃ* ← *śayānam* ← *śī*
 - \[verb noun\], accusative, singular
 - “lie; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *jivrim* ← *jivri*
 - \[noun\], accusative, singular, masculine
 - “old.”
-------------------------------------------------------------------------
+
+_________
+
 - *uddhitam* ← *uddhā* ← *√dhā*
 - \[verb noun\], accusative, singular
 - “raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrāṇy* ← *sahasrāṇi* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asiṣāsad* ← *asiṣāsat* ← *siṣās* ← *√san*
 - \[verb\], singular, Imperfect
 - “win; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣis* ← *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvoto* ← *tvotaḥ* ← *tvota*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dasyave* ← *dasyu*
 - \[noun\], dative, singular, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkaḥ* ← *vṛka*
 - \[noun\], nominative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

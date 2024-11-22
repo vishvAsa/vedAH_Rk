@@ -102,75 +102,111 @@ víṣvak ← víṣvañc- (nominal stem)
 -   *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtsutau* ← *pṛtsuti*
 - \[noun\], locative, singular, masculine
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaśasvati* ← *yaśasvat*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śimīvati* ← *śimīvat*
 - \[noun\], locative, singular, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *krandasi* ← *krandas*
 - \[noun\], locative, singular, neuter
 - “army; war cry.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāva* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāva* ← *ava* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *goṣātā* ← *goṣāti*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣiteṣu* ← *dhṛṣ*
 - \[verb noun\], locative, plural
 - “dare; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *khādiṣu* ← *khādin*
 - \[noun\], locative, plural, masculine
 - “chewing.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣvak* ← *viṣvañc*
 - \[noun\], accusative, singular, neuter
 - “dispersed; viṣvañc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *patanti* ← *pat*
 - \[verb\], plural, Present indikative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 - *didyavo* ← *didyavaḥ* ← *didyu*
 - \[noun\], nominative, plural, masculine
 - “arrow; projectile.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṣāhye* ← *nṛṣāhya*
 - \[noun\], locative, singular, neuter
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

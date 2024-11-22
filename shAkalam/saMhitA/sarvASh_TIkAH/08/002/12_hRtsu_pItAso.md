@@ -76,43 +76,63 @@ nagnā́ḥ ← nagná- (nominal stem)
 -   *hṛtsu* ← *hṛd*
 - \[noun\], locative, plural
 - “heart; heart; mind; breast; hṛd \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pītāso* ← *pītāsaḥ* ← *pā*
 - \[verb noun\], nominative, plural
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhyante* ← *yudh*
 - \[verb\], plural, Present indikative
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *durmadāso* ← *durmadāsaḥ* ← *durmada*
 - \[noun\], nominative, plural, masculine
 - “delirious; brainsick; fierce; crazy.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *surāyām* ← *surā*
 - \[noun\], locative, singular, feminine
 - “alcohol; surā; surā; surā \[word\]; Devi; wine; tavern.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūdhar* ← *ūdhas*
 - \[noun\], accusative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nagnā* ← *nagnāḥ* ← *nagna*
 - \[noun\], nominative, plural, masculine
 - “bare; nagna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jarante* ← *jṛ*
 - \[verb\], plural, Present indikative
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

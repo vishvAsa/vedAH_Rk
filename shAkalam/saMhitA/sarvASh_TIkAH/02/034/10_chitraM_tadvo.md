@@ -113,90 +113,132 @@ tritám ← tritá- (nominal stem)
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāma* ← *yāman*
 - \[noun\], nominative, singular, neuter
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *cekite* ← *cekit* ← *√cit*
 - \[verb\], singular, Present indikative
 - “chew over.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśnyā* ← *pṛśnyāḥ* ← *pṛśni*
 - \[noun\], genitive, singular, feminine
 - “Pṛśni; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūdhar* ← *ūdhas*
 - \[noun\], accusative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *apy* ← *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpayo* ← *āpayaḥ* ← *āpi*
 - \[noun\], nominative, plural, masculine
 - “friend.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhuḥ* ← *duh*
 - \[verb\], plural, Imperfect
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *nide* ← *nid*
 - \[noun\], dative, singular, feminine
 - “derision; scoffer; contempt.”
-------------------------------------------------------------------------
+
+_________
+
 - *navamānasya* ← *nū*
 - \[verb noun\], genitive, singular
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *rudriyās* ← *rudriyāḥ* ← *rudriya*
 - \[noun\], vocative, plural, masculine
 - “Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *tritaṃ* ← *tritam* ← *trita*
 - \[noun\], accusative, singular, masculine
 - “Trita.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarāya* ← *jara*
 - \[noun\], dative, singular, masculine
 - “jara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *juratām* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *adābhyāḥ* ← *adābhya*
 - \[noun\], nominative, plural, masculine
 - “trustworthy; disabused(p).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

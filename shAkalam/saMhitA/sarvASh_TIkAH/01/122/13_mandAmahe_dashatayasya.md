@@ -99,81 +99,119 @@ táruṣaḥ ← tárus- (nominal stem)
 -   *mandāmahe* ← *mand*
 - \[verb\], plural, Present indikative
 - “rejoice; exhilarate.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśatayasya* ← *daśataya*
 - \[noun\], genitive, singular, masculine
 - “tenfold.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāser* ← *dhāseḥ* ← *dhāsi*
 - \[noun\], genitive, singular, masculine
 - “food.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvir* ← *dvis*
 - \[adverb\]
 - “twice; dvis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *pañca* ← *pañcan*
 - \[noun\], accusative, plural, neuter
 - “five; fifth; pañcan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bibhrato* ← *bibhrataḥ* ← *bhṛ*
 - \[verb noun\], nominative, plural
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanty* ← *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *annā* ← *anna*
 - \[noun\], accusative, plural, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
-------------------------------------------------------------------------
+
+_________
+
 - *kim*
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṭāśva* ← *iṣṭa* ← *iṣ*
 - \[verb noun\]
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṭāśva* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṭaraśmir* ← *iṣṭa* ← *iṣ*
 - \[verb noun\]
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṭaraśmir* ← *raśmiḥ* ← *raśmi*
 - \[noun\], nominative, singular, masculine
 - “beam; rein; sunbeam; shininess; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *eta* ← *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īśānāsas* ← *īśānāsaḥ* ← *īśāna*
 - \[noun\], nominative, plural, masculine
 - “Shiva; Īśāna; ruler; Vishnu; īśvara; overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *taruṣa* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛñjate* ← *ṛj*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

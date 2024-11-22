@@ -93,61 +93,89 @@ pári ← pári (invariable)
 -   *vayaś* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *patatriṇo* ← *patatriṇaḥ* ← *patatrin*
 - \[noun\], nominative, plural, masculine
 - “bird; arrow; horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvipac* ← *dvipad*
 - \[noun\], nominative, singular, masculine
 - “biped.”
-------------------------------------------------------------------------
+
+_________
+
 - *catuṣpad* ← *catuṣpada*
 - \[noun\], nominative, singular, masculine
 - “quadrupedal.”
-------------------------------------------------------------------------
+
+_________
+
 - *arjuni* ← *arjunī*
 - \[noun\], vocative, singular, feminine
 - “cow; Arjunī.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *prārann* ← *prāran* ← *prarch* ← *√ṛch*
 - \[verb\], plural, Thematic aorist (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtūṃr* ← *ṛtu*
 - \[noun\], accusative, plural, masculine
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *antebhyas* ← *antebhyaḥ* ← *anta*
 - \[noun\], ablative, plural, masculine
 - “end; last syllable; end; end; boundary; inside; border; death; anta
     \[word\]; edge; end; shore; limit; region; outskirt; destruction;
     boundary; limit; anta; termination; corner; conclusion; hem; end;
     ant; edge.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

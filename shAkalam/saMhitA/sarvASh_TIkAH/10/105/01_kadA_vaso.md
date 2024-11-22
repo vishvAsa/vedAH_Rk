@@ -82,47 +82,69 @@ vātā́pyāya ← vātā́pya- (nominal stem)
 -   *kadā*
 - \[adverb\]
 - “when; kadā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *stotraṃ* ← *stotram* ← *stotra*
 - \[noun\], accusative, singular, neuter
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *haryata* ← *haryate* ← *hary*
 - \[verb noun\], dative, singular
 - “delight.”
-------------------------------------------------------------------------
+
+_________
+
 - *āva* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *śmaśā*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *rudhad* ← *rudhat* ← *rudh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “fill into; close; insert; put; enclose; obstruct; seal; besiege;
     cover; blockade; stop; lock in; plug; withhold; extinguish;
     connect.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāḥ* ← *vār*
 - \[noun\], accusative, singular
 - “water; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghaṃ* ← *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sutaṃ* ← *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātāpyāya* ← *vātāpya*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

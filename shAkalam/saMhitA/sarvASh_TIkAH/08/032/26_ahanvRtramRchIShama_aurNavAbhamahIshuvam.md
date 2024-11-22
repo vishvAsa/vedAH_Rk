@@ -72,35 +72,51 @@ hiména ← himá- (nominal stem)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛcīṣama* ← *ṛcīṣamaḥ* ← *ṛcīṣama*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *aurṇavābham* ← *aurṇavābha*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ahīśuvam* ← *ahīśuva*
 - \[noun\], accusative, singular, masculine
 - “Ahīśuva.”
-------------------------------------------------------------------------
+
+_________
+
 - *himenāvidhyad* ← *himena* ← *hima*
 - \[noun\], instrumental, singular, neuter
 - “snow; frost; hima \[word\]; winter; tin; silver; pearl;
     sauvīrāñjana; year; ague; Himalayas; coldness.”
-------------------------------------------------------------------------
+
+_________
+
 - *himenāvidhyad* ← *avidhyat* ← *vyadh*
 - \[verb\], singular, Imperfect
 - “pierce; vedhay; pierce; transfix; bleed; pierce; cut off; injure.”
-------------------------------------------------------------------------
+
+_________
+
 - *arbudam* ← *arbuda*
 - \[noun\], accusative, singular, masculine
 - “Arbuda; Arbuda; Arbuda.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

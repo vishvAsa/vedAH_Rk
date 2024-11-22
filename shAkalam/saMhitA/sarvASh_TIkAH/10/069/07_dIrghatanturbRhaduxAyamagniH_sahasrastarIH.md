@@ -90,76 +90,112 @@ sumitréṣu ← sumitrá- (nominal stem)
 -   *dīrghatantur* ← *dīrgha*
 - \[noun\]
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrghatantur* ← *tantuḥ* ← *tantu*
 - \[noun\], nominative, singular, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhadukṣāyam* ← *bṛhat*
 - \[noun\]
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhadukṣāyam* ← *ukṣā* ← *ukṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhadukṣāyam* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrastarīḥ* ← *sahasra*
 - \[noun\], masculine
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrastarīḥ* ← *starīḥ* ← *starī*
 - \[noun\], nominative, singular, masculine
 - “barren cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatanītha* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatanītha* ← *nīthaḥ* ← *nīthā*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhvā* ← *ṛbhvan*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dyumān* ← *dyumat*
 - \[noun\], nominative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumatsu* ← *dyumat*
 - \[noun\], locative, plural, masculine
 - “bright; brilliant; brilliant; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛjyamānaḥ* ← *mṛj*
 - \[verb noun\], nominative, singular
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumitreṣu* ← *sumitra*
 - \[noun\], locative, plural, masculine
 - “Sumitra; Sumitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdayo* ← *dīdayaḥ* ← *dīdī*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayatsu* ← *devay*
 - \[verb noun\], locative, plural
 - “solicit.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

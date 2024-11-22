@@ -101,87 +101,127 @@ vándyāsaḥ ← vándya- (nominal stem)
 
 -   *vavrāso* ← *vavrāsaḥ* ← *vavra*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svajāḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svajāḥ* ← *jāḥ* ← *ja*
 - \[noun\], nominative, plural, masculine
 - “produced; caused; born; located; growing; descended from;
     consisting of; ja \[word\]; living; written; flourishing.”
-------------------------------------------------------------------------
+
+_________
+
 - *svatavasa* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svatavasa* ← *tavasaḥ* ← *tavas*
 - \[noun\], nominative, plural, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhijāyanta* ← *abhijan* ← *√jan*
 - \[verb\], plural, Present injunctive
 - “be born; originate; become.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūtayaḥ* ← *dhūti*
 - \[noun\], nominative, plural, masculine
 - “Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasriyāso* ← *sahasriyāsaḥ* ← *sahasriya*
 - \[noun\], nominative, plural, masculine
 - “thousandfold.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *normaya* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *normaya* ← *ūrmayaḥ* ← *ūrmi*
 - \[noun\], nominative, plural, masculine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsā* ← *ās*
 - \[noun\], instrumental, singular, neuter
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *vandyāso* ← *vandyāsaḥ* ← *vand*
 - \[verb noun\], nominative, plural
 - “worship; laud.”
-------------------------------------------------------------------------
+
+_________
+
 - *nokṣaṇaḥ* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nokṣaṇaḥ* ← *ukṣaṇaḥ* ← *ukṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

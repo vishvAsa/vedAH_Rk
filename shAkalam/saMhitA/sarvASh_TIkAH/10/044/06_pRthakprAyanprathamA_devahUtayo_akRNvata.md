@@ -109,25 +109,35 @@ té ← sá- ~ tá- (pronoun)
 - \[adverb\]
 - “individually; apart; each; by the piece; independently; pṛthak
     \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prāyan* ← *pre* ← *√i*
 - \[verb\], plural, Imperfect
 - “die; proceed; advance; continue; begin; depart.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamā* ← *prathamāḥ* ← *prathama*
 - \[noun\], nominative, plural, feminine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *devahūtayo* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devahūtayo* ← *hūtayaḥ* ← *hūti*
 - \[noun\], nominative, plural, feminine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *'kṛṇvata* ← *akṛṇvata* ← *kṛ*
 - \[verb\], plural, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -138,65 +148,95 @@ té ← sá- ~ tá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravasyāni* ← *śravasya*
 - \[noun\], accusative, plural, neuter
 - “fame; deed.”
-------------------------------------------------------------------------
+
+_________
+
 - *duṣṭarā* ← *duṣṭara*
 - \[noun\], accusative, plural, neuter
 - “incomparable; irresistible; unbearable; unconquerable.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śekur* ← *śekuḥ* ← *śak*
 - \[verb\], plural, Perfect indicative
 - “can; invigorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyāṃ* ← *yajñiyām* ← *yajñiya*
 - \[noun\], accusative, singular, feminine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāvam* ← *nau*
 - \[noun\], accusative, singular, feminine
 - “ship; boat; nau \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āruham* ← *āruh* ← *√ruh*
 - \[verb noun\]
 - “board; hop on; climb; ascend; descend; ride; copulate; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *īrmaiva* ← *īrma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *īrmaiva* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *aviśanta* ← *viś*
 - \[verb\], plural, Imperfect
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *kepayaḥ* ← *kepi*
 - \[noun\], nominative, plural, masculine
 - “quaking.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

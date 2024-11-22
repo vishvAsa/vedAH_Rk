@@ -99,71 +99,105 @@ sámaneṣu ← sámana- (nominal stem)
 -   *svādhyo* ← *svādhyaḥ* ← *svādhī*
 - \[noun\], nominative, plural, masculine
 - “devout; heedful; prudent.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *duro* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural, feminine
 - “door; means.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayanto* ← *devayantaḥ* ← *devay*
 - \[verb noun\], nominative, plural
 - “solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *'śiśrayū* ← *aśiśrayuḥ* ← *śri*
 - \[verb\], plural, Plusquamperfect
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathayur* ← *rathayuḥ* ← *rathayu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *devatātā* ← *devatāti*
 - \[noun\], locative, singular, feminine
 - “deity; Deva.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvī* ← *puru*
 - \[noun\], accusative, dual, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśuṃ* ← *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mātarā* ← *mātṛ*
 - \[noun\], accusative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *rihāṇe* ← *rih*
 - \[verb noun\], accusative, dual
 - “lick.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *agruvo* ← *agruvaḥ* ← *agrū*
 - \[noun\], accusative, plural, feminine
 - “unmarried woman; spinster; virgin.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *samaneṣv* ← *samaneṣu* ← *samana*
 - \[noun\], locative, plural, neuter
 - “marriage; conflict.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjan* ← *añj*
 - \[verb\], plural, Present injunctive
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

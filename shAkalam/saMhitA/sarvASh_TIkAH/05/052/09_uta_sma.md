@@ -87,59 +87,85 @@ bhindanti ← √bhid- (root)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *paruṣṇyām* ← *paruṣṇī*
 - \[noun\], locative, singular, feminine
 - “Paruṣṇī.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrṇā* ← *ūrṇāḥ* ← *ūrṇā*
 - \[noun\], accusative, plural, feminine
 - “wool; ūrṇā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vasata* ← *vas*
 - \[verb\], plural, Present injunctive
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *śundhyavaḥ* ← *śundhyu*
 - \[noun\], nominative, plural, masculine
 - “fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavyā* ← *pavi*
 - \[noun\], instrumental, singular, feminine
 - “vajra; tire; rim.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathānām* ← *ratha*
 - \[noun\], genitive, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhindanty* ← *bhindanti* ← *bhid*
 - \[verb\], plural, Present indikative
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

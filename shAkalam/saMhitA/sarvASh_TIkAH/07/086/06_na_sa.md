@@ -108,87 +108,127 @@ svápnaḥ ← svápna- (nominal stem)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *svo* ← *svaḥ* ← *sva*
 - \[noun\], nominative, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣo* ← *dakṣaḥ* ← *dakṣa*
 - \[noun\], nominative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhrutiḥ* ← *dhruti*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *surā*
 - \[noun\], nominative, singular, feminine
 - “alcohol; surā; surā; surā \[word\]; Devi; wine; tavern.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyur* ← *manyuḥ* ← *manyu*
 - \[noun\], nominative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhīdako* ← *vibhīdakaḥ* ← *vibhīdaka*
 - \[noun\], nominative, singular, masculine
 - “dice.”
-------------------------------------------------------------------------
+
+_________
+
 - *acittiḥ* ← *acitti*
 - \[noun\], nominative, singular, feminine
 - “ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyāyān* ← *jyāyas*
 - \[noun\], nominative, singular, masculine
 - “better; elder; greater; bigger.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanīyasa* ← *kanīyasaḥ* ← *kanīyas*
 - \[noun\], genitive, singular, masculine
 - “younger; less; smaller; kanīyas \[word\]; inferior; precedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *upāre* ← *upāra*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *svapnaś* ← *svapnaḥ* ← *svapna*
 - \[noun\], nominative, singular, masculine
 - “dream; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *caned* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *caned* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *anṛtasya* ← *anṛta*
 - \[noun\], genitive, singular, neuter
 - “falsehood; lying; lie; cheat.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayotā* ← *prayotṛ*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -84,47 +84,69 @@ ní ← ní (invariable)
 -   *śukeṣu* ← *śuka*
 - \[noun\], locative, plural, masculine
 - “Śuka; parrot; Śuka.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *harimāṇaṃ* ← *harimāṇam* ← *hariman*
 - \[noun\], accusative, singular, masculine
 - “jaundice.”
-------------------------------------------------------------------------
+
+_________
+
 - *ropaṇākāsu* ← *ropaṇākā*
 - \[noun\], locative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *dadhmasi* ← *dhā*
 - \[verb\], plural, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *atho*
 - \[adverb\]
 - “now; but; furthermore.”
-------------------------------------------------------------------------
+
+_________
+
 - *hāridraveṣu* ← *hāridrava*
 - \[noun\], locative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *harimāṇaṃ* ← *harimāṇam* ← *hariman*
 - \[noun\], accusative, singular, masculine
 - “jaundice.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhmasi* ← *dhā*
 - \[verb\], plural, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

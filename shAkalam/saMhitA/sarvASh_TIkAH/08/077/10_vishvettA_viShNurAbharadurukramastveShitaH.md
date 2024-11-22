@@ -94,78 +94,112 @@ varāhám ← varāhá- (nominal stem)
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvet* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṇur* ← *viṣṇuḥ* ← *viṣṇu*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *ābharad* ← *ābharat* ← *ābhṛ* ← *√bhṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “bring.”
-------------------------------------------------------------------------
+
+_________
+
 - *urukramas* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *urukramas* ← *kramaḥ* ← *krama*
 - \[noun\], nominative, singular, masculine
 - “sequence; ordering; method; series; arrangement; treatment;
     arrangement; course; kram; krama \[word\]; saṃskāra; footstep; foot;
     step; measure.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣitaḥ* ← *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣitaḥ* ← *iṣitaḥ* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “send.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mahiṣān* ← *mahiṣa*
 - \[noun\], accusative, plural, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣīrapākam* ← *kṣīra*
 - \[noun\], neuter
 - “milk; milky juice; milk; sap; kṣīra \[word\]; juice; fluid.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣīrapākam* ← *pākam* ← *pāka*
 - \[noun\], accusative, singular, masculine
 - “vipāka; heating; festering; cooking; digestion; ripeness; thaw;
     inflammation; boiling point; māraṇa; pāka \[word\]; yavakṣāra; fire;
     consequence; cooking utensil; development.”
-------------------------------------------------------------------------
+
+_________
+
 - *odanaṃ* ← *odanam* ← *odana*
 - \[noun\], accusative, singular, masculine
 - “boiled rice; porridge; odana \[word\]; soft diet.”
-------------------------------------------------------------------------
+
+_________
+
 - *varāham* ← *varāha*
 - \[noun\], accusative, singular, masculine
 - “hog; wild boar; boar; Varaha; vārāhapuṭa; varāha \[word\]; Varāha;
     Varāha.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *emuṣam* ← *emuṣa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

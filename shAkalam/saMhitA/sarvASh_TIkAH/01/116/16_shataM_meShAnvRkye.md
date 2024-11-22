@@ -102,38 +102,54 @@ dasrā ← dasrá- (nominal stem)
 -   *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *meṣān* ← *meṣa*
 - \[noun\], accusative, plural, masculine
 - “sheep; ram; Naigameṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkye* ← *vṛkī*
 - \[noun\], dative, singular, feminine
 - “wolf.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣadānam* ← *kṣad*
 - \[verb noun\], accusative, singular
 - “butcher; carve.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjrāśvaṃ* ← *ṛjrāśvam* ← *ṛjrāśva*
 - \[noun\], accusative, singular, masculine
 - “Ṛjrāśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitāndhaṃ* ← *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitāndhaṃ* ← *andham* ← *andha*
 - \[noun\], accusative, singular, masculine
 - “blind; andha \[word\]; andha; blind; complete; dark.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -144,40 +160,58 @@ dasrā ← dasrá- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣī* ← *akṣi*
 - \[noun\], accusative, dual, neuter
 - “eye; akṣi \[word\]; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāsatyā* ← *nāsatyāḥ* ← *nāsatya*
 - \[noun\], nominative, plural, masculine
 - “Asvins; nāsatya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vicakṣa* ← *vicakṣe* ← *vicakṣ* ← *√cakṣ*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *ādhattaṃ* ← *ādhattam* ← *ādhā* ← *√dhā*
 - \[verb\], dual, Imperfect
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhiṣajāv* ← *bhiṣajau* ← *bhiṣaj*
 - \[noun\], vocative, dual, masculine
 - “doctor; alchemist; therapist; medicine.”
-------------------------------------------------------------------------
+
+_________
+
 - *anarvan*
 - \[noun\], vocative, singular, masculine
 - “unchallenged; unrivaled.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

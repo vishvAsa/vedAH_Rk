@@ -96,67 +96,101 @@ ví ← ví (invariable)
 -   *pratvakṣasaḥ* ← *pratvakṣas*
 - \[noun\], nominative, plural, masculine
 - “strong; vigorous.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratavaso* ← *pratavasaḥ* ← *pratavas*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *virapśino* ← *virapśinaḥ* ← *virapśin*
 - \[noun\], nominative, plural, masculine
 - “exuberant; copious; ample.”
-------------------------------------------------------------------------
+
+_________
+
 - *'nānatā* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *'nānatā* ← *ānatāḥ* ← *ānam* ← *√nam*
 - \[verb noun\], nominative, plural
 - “bend; bow; crouch; bend.”
-------------------------------------------------------------------------
+
+_________
+
 - *avithurā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *avithurā* ← *vithurāḥ* ← *vithura*
 - \[noun\], nominative, plural, masculine
 - “weak.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjīṣiṇaḥ* ← *ṛjīṣin*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *juṣṭatamāso* ← *juṣṭatamāsaḥ* ← *juṣṭatama*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nṛtamāso* ← *nṛtamāsaḥ* ← *nṛtama*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *añjibhir* ← *añjibhiḥ* ← *añji*
 - \[noun\], instrumental, plural, masculine
 - “color; ointment; adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānajre* ← *añj*
 - \[verb\], plural, Perfect indicative
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *kecid* ← *kaścit*
 - \[noun\], nominative, plural, masculine
 - “any(a); some(a); some(a); some(a); some(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *usrā* ← *usrāḥ* ← *usra*
 - \[noun\], nominative, plural, masculine
 - “beam; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *stṛbhiḥ* ← *star*
 - \[noun\], instrumental, plural, masculine
 - “star.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

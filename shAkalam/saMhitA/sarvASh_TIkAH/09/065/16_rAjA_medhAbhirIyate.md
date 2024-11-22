@@ -70,37 +70,53 @@ yā́tave ← √yā- 1 (root)
 -   *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhābhir* ← *medhābhiḥ* ← *medhā*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; medhā \[word\]; Medhā.”
-------------------------------------------------------------------------
+
+_________
+
 - *īyate* ← *ī* ← *√i*
 - \[verb\], singular, Present indikative
 - “beg; solicit.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamāno* ← *pavamānaḥ* ← *pavamāna*
 - \[noun\], nominative, singular, masculine
 - “wind.”
-------------------------------------------------------------------------
+
+_________
+
 - *manāv* ← *manau* ← *manu*
 - \[noun\], locative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣeṇa* ← *antarikṣa*
 - \[noun\], instrumental, singular, neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātave* ← *yā*
 - \[verb noun\]
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

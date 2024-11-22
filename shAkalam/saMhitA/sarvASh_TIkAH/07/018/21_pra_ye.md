@@ -102,72 +102,108 @@ ví ← ví (invariable)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhād* ← *gṛhāt* ← *gṛha*
 - \[noun\], ablative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
+
+_________
+
 - *amamadus* ← *amamaduḥ* ← *mad*
 - \[verb\], plural, Plusquamperfect
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *parāśaraḥ* ← *parāśara*
 - \[noun\], nominative, singular, masculine
 - “Parāśara; Parāśara; destroyer.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatayātur* ← *śatayātuḥ* ← *śatayātu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭhaḥ* ← *vasiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojasya* ← *bhoja*
 - \[noun\], genitive, singular, masculine
 - “big; hospitable.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛṣantādhā* ← *mṛṣanta* ← *mṛṣ*
 - \[verb\], plural, Aorist inj. (proh.)
 - “forgive; endure; heed; pardon; neglect; forget.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛṣantādhā* ← *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūribhyaḥ* ← *sūri*
 - \[noun\], dative, plural, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudinā* ← *sudina*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucchān* ← *vas*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “dawn; shine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

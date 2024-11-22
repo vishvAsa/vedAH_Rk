@@ -93,66 +93,98 @@ vikṣú ← víś- (nominal stem)
 -   *rohicchyāvā* ← *rohit*
 - \[noun\]
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *rohicchyāvā* ← *śyāvā* ← *śyāva*
 - \[noun\], nominative, singular, feminine
 - “brown; dark; śyāva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sumadaṃśur* ← *sumat*
 - \[adverb\]
 - “together.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumadaṃśur* ← *aṃśuḥ* ← *aṃśu*
 - \[noun\], nominative, singular, feminine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
-------------------------------------------------------------------------
+
+_________
+
 - *lalāmīr* ← *lalāmīḥ* ← *lalāma*
 - \[noun\], nominative, singular, feminine
 - “beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyukṣā* ← *dyukṣa*
 - \[noun\], nominative, singular, feminine
 - “celestial; divine; divine; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāya* ← *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjrāśvasya* ← *ṛjrāśva*
 - \[noun\], genitive, singular, masculine
 - “Ṛjrāśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇvantam* ← *vṛṣaṇvat*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bibhratī* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūrṣu* ← *dhur*
 - \[noun\], locative, plural
 - “yoke; dhur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandrā* ← *mandra*
 - \[noun\], nominative, singular, feminine
 - “pleasant; eloquent; dulcet.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciketa* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāhuṣīṣu* ← *nāhuṣa*
 - \[noun\], locative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

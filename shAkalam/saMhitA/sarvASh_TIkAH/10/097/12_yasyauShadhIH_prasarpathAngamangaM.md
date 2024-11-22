@@ -84,64 +84,92 @@ ugráḥ ← ugrá- (nominal stem)
 -   *yasyauṣadhīḥ* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasyauṣadhīḥ* ← *oṣadhīḥ* ← *oṣadhī*
 - \[noun\], nominative, plural, feminine
 - “herb; plant; drug; herb.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasarpathāṅgam* ← *prasarpatha* ← *prasṛp* ← *√sṛp*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *prasarpathāṅgam* ← *aṅgam* ← *aṅga*
 - \[noun\], accusative, singular, neuter
 - “body part; body; part; limb; extremity; Vedāṅga; section; root;
     army unit; aṅga \[word\]; subsection; aṅgamantra; part; body;
     ingredient.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgam* ← *aṅga*
 - \[noun\], accusative, singular, neuter
 - “body part; body; part; limb; extremity; Vedāṅga; section; root;
     army unit; aṅga \[word\]; subsection; aṅgamantra; part; body;
     ingredient.”
-------------------------------------------------------------------------
+
+_________
+
 - *paruṣ* ← *paruḥ* ← *parus*
 - \[noun\], accusative, singular, neuter
 - “joint.”
-------------------------------------------------------------------------
+
+_________
+
 - *paruḥ* ← *parus*
 - \[noun\], accusative, singular, neuter
 - “joint.”
-------------------------------------------------------------------------
+
+_________
+
 - *tato* ← *tatas*
 - \[adverb\]
 - “then; therefore; now; then; from there; subsequently; consequently;
     then; there; from that; for that reason; alternatively;
     consequently; furthermore.”
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣmaṃ* ← *yakṣmam* ← *yakṣma*
 - \[noun\], accusative, singular, masculine
 - “tuberculosis; disease; pulmonary tuberculosis.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *bādhadhva* ← *bādhadhve* ← *bādh*
 - \[verb\], plural, Present indikative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhyamaśīr* ← *madhyamaśīḥ* ← *madhyamaśī*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

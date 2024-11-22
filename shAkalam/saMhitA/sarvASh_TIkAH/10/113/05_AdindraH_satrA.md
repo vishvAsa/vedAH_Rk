@@ -99,68 +99,100 @@ váruṇāya ← váruṇa- (nominal stem)
 -   *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *satrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣīr* ← *taviṣīḥ* ← *taviṣī*
 - \[noun\], accusative, plural, feminine
 - “strength; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *apatyata* ← *paty*
 - \[verb\], singular, Imperfect
 - “own; have; master.”
-------------------------------------------------------------------------
+
+_________
+
 - *varīyo* ← *varīyaḥ* ← *varīyas*
 - \[noun\], accusative, singular, neuter
 - “broad; further.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvāpṛthivī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *abādhata* ← *bādh*
 - \[verb\], singular, Imperfect
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *avābharad* ← *avābharat* ← *avabhṛ* ← *√bhṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣito* ← *dhṛṣitaḥ* ← *dhṛṣ*
 - \[verb noun\], nominative, singular
 - “dare; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajram* ← *vajra*
 - \[noun\], accusative, singular, neuter
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyasaṃ* ← *āyasam* ← *āyasa*
 - \[noun\], accusative, singular, neuter
 - “iron; metallic.”
-------------------------------------------------------------------------
+
+_________
+
 - *śevam* ← *śeva*
 - \[noun\], accusative, singular, neuter
 - “friendly; favorable; dear.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāya* ← *mitra*
 - \[noun\], dative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇāya* ← *varuṇa*
 - \[noun\], dative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

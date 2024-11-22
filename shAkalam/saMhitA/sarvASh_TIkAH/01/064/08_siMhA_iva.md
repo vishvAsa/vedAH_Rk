@@ -99,78 +99,116 @@ sám ← sám (invariable)
 -   *siṃhā* ← *siṃhāḥ* ← *siṃha*
 - \[noun\], nominative, plural, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *nānadati* ← *nānad* ← *√nad*
 - \[verb\], plural, Present indikative
 - “bellow.”
-------------------------------------------------------------------------
+
+_________
+
 - *pracetasaḥ* ← *pracetas*
 - \[noun\], nominative, plural, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
-------------------------------------------------------------------------
+
+_________
+
 - *piśā* ← *piśāḥ* ← *piśa*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *supiśo* ← *supiśaḥ* ← *supiś*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedasaḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvavedasaḥ* ← *vedasaḥ* ← *vedas*
 - \[noun\], nominative, plural, masculine
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣapo* ← *kṣapaḥ* ← *kṣap*
 - \[noun\], accusative, plural, feminine
 - “night.”
-------------------------------------------------------------------------
+
+_________
+
 - *jinvantaḥ* ← *jinv*
 - \[verb noun\], nominative, plural
 - “enliven; animate.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣatībhir* ← *pṛṣatībhiḥ* ← *pṛṣat*
 - \[noun\], instrumental, plural, feminine
 - “motley; patched.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣṭibhiḥ* ← *ṛṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “spear.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *sabādhaḥ* ← *sabādh*
 - \[noun\], nominative, plural, masculine
 - “pressing; clamant.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasāhimanyavaḥ* ← *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasāhimanyavaḥ* ← *ahi*
 - \[noun\], masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasāhimanyavaḥ* ← *manyavaḥ* ← *manyu*
 - \[noun\], nominative, plural, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

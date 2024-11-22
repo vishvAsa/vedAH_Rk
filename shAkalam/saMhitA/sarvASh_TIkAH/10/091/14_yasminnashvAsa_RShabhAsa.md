@@ -96,81 +96,117 @@ matím ← matí- (nominal stem)
 -   *yasminn* ← *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvāsa* ← *aśvāsaḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣabhāsa* ← *ṛṣabhāsaḥ* ← *ṛṣabha*
 - \[noun\], nominative, plural, masculine
 - “best; leader; bull; Ṛṣabha; ṛṣabha; ṛṣabha; Ṛṣabha; ṛṣabha
     \[word\]; hero; bull.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣaṇo* ← *ukṣaṇaḥ* ← *ukṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaśā* ← *vaśāḥ* ← *vaśā*
 - \[noun\], nominative, plural, feminine
 - “cow; female elephant.”
-------------------------------------------------------------------------
+
+_________
+
 - *meṣā* ← *meṣāḥ* ← *meṣa*
 - \[noun\], nominative, plural, masculine
 - “sheep; ram; Naigameṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasṛṣṭāsa* ← *avasṛṣṭāsaḥ* ← *avasṛj* ← *√sṛj*
 - \[verb noun\], nominative, plural
 - “free; shoot; ejaculate.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhutāḥ* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, plural
 - “sacrifice; sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 - *kīlālape* ← *kīlāla*
 - \[noun\], neuter
 - “blood; soft drink; water; juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *kīlālape* ← *pe* ← *pā*
 - \[noun\], dative, singular, masculine
 - “drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapṛṣṭhāya* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapṛṣṭhāya* ← *pṛṣṭhāya* ← *pṛṣṭha*
 - \[noun\], dative, singular, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedhase* ← *vedhas*
 - \[noun\], dative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdā* ← *hṛd*
 - \[noun\], instrumental, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *matiṃ* ← *matim* ← *mati*
 - \[noun\], accusative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *janaye* ← *janay* ← *√jan*
 - \[verb\], singular, Present indikative
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *cārum* ← *cāru*
 - \[noun\], accusative, singular, feminine
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agnaye* ← *agni*
 - \[noun\], dative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

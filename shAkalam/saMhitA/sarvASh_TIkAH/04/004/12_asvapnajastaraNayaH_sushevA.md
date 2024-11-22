@@ -93,71 +93,105 @@ táva ← tvám (pronoun)
 -   *asvapnajas* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *asvapnajas* ← *svapnajaḥ* ← *svapnaj*
 - \[noun\], nominative, plural, masculine
 - “sleepy; asleep(p).”
-------------------------------------------------------------------------
+
+_________
+
 - *taraṇayaḥ* ← *taraṇi*
 - \[noun\], nominative, plural, masculine
 - “energetic; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśevā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśevā* ← *śevāḥ* ← *śeva*
 - \[noun\], nominative, plural, masculine
 - “friendly; favorable; dear.”
-------------------------------------------------------------------------
+
+_________
+
 - *atandrāso* ← *atandrāsaḥ* ← *atandra*
 - \[noun\], nominative, plural, masculine
 - “untired.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vṛkā* ← *avṛkāḥ* ← *avṛka*
 - \[noun\], nominative, plural, masculine
 - “protective; safe.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśramiṣṭhāḥ* ← *aśramiṣṭha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāyavaḥ* ← *pāyu*
 - \[noun\], nominative, plural, masculine
 - “guard; pāyu \[word\]; Pāyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhryañco* ← *sadhryañcaḥ* ← *sadhryañc*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *niṣadyāgne* ← *niṣadya* ← *niṣad* ← *√sad*
 - \[verb noun\]
 - “sit down; sit; put.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣadyāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāntv* ← *pāntu* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *amūra*
 - \[noun\], vocative, singular, masculine
 - “wise; intelligent; apt.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

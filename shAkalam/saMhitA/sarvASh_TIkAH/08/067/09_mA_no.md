@@ -76,43 +76,63 @@ prá ← prá (invariable)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛcā* ← *mṛc*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ripūṇāṃ* ← *ripūṇām* ← *ripu*
 - \[noun\], genitive, plural, masculine
 - “enemy; arivarga; Ripu; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjinānām* ← *vṛjina*
 - \[noun\], genitive, plural, masculine
 - “deceitful; crooked; bent.”
-------------------------------------------------------------------------
+
+_________
+
 - *aviṣyavaḥ* ← *aviṣyu*
 - \[noun\], vocative, plural, masculine
 - “impetuous.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛkṣata* ← *mṛś*
 - \[verb\], plural, Aorist inj. (proh.)
 - “touch.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -105,85 +105,123 @@ visargé ← visargá- (nominal stem)
 -   *sapta* ← *saptan*
 - \[noun\], accusative, plural, feminine
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *maryādāḥ* ← *maryādā*
 - \[noun\], accusative, plural, feminine
 - “boundary; limit; limit; measure; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavayas* ← *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatakṣus* ← *tatakṣuḥ* ← *takṣ*
 - \[verb\], plural, Perfect indicative
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāsām* ← *tad*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekām* ← *eka*
 - \[noun\], accusative, singular, feminine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃhuro* ← *aṃhuraḥ* ← *aṃhura*
 - \[noun\], nominative, singular, masculine
 - “disquieted.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāt* ← *gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyor* ← *āyoḥ* ← *āyu*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *skambha* ← *skambhaḥ* ← *skambha*
 - \[noun\], nominative, singular, masculine
 - “prop.”
-------------------------------------------------------------------------
+
+_________
+
 - *upamasya* ← *upama*
 - \[noun\], genitive, singular, masculine
 - “best; topmost.”
-------------------------------------------------------------------------
+
+_________
+
 - *nīḍe* ← *nīḍa*
 - \[noun\], locative, singular, masculine
 - “nest; seat; seat.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathāṃ* ← *pathām* ← *pathin*
 - \[noun\], genitive, plural, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *visarge* ← *visarga*
 - \[noun\], locative, singular, masculine
 - “ejaculation; visarga; elimination; end; creation.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharuṇeṣu* ← *dharuṇa*
 - \[noun\], locative, plural, neuter
 - “prop; foundation.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthau* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -90,63 +90,91 @@ udakám ← udaká- (nominal stem)
 -   *triḥ* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *mayūryaḥ* ← *mayūrī*
 - \[noun\], nominative, plural, feminine
 - “peahen.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasāro* ← *svasāraḥ* ← *svasṛ*
 - \[noun\], nominative, plural, feminine
 - “sister; svasṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agruvaḥ* ← *agru*
 - \[noun\], nominative, plural, feminine
 - “unmarried.”
-------------------------------------------------------------------------
+
+_________
+
 - *tās* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣaṃ* ← *viṣam* ← *viṣa*
 - \[noun\], accusative, singular, neuter
 - “poison; poisoning; viṣa; venom; vatsanābha; Aconitum Ferox; viṣa
     \[word\]; Viṣa; myrrh; myrrh.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *jabhrira* ← *jabhrire* ← *bhṛ*
 - \[verb\], plural, Perfect indicative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *udakaṃ* ← *udakam* ← *udaka*
 - \[noun\], accusative, singular, neuter
 - “water; Udaka; juice; body of water; solution; udaka \[word\];
     decoction; udakaprameha; washing water; kaṣāya; tear; ablution.”
-------------------------------------------------------------------------
+
+_________
+
 - *kumbhinīr* ← *kumbhinīḥ* ← *kumbhin*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

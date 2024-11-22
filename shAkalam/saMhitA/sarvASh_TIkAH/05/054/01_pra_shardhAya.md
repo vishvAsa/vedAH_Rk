@@ -96,93 +96,135 @@ nr̥mṇám ← nr̥mṇá- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *mārutāya* ← *māruta*
 - \[noun\], dative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhānava* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhānava* ← *bhānave* ← *bhānu*
 - \[noun\], dative, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *anajā* ← *añj*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatacyute* ← *parvata*
 - \[noun\], masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatacyute* ← *cyute* ← *cyut*
 - \[noun\], dative, singular, masculine
 - “shaking; dropping.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmastubhe* ← *gharma*
 - \[noun\], masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmastubhe* ← *stubhe* ← *stubh*
 - \[noun\], dative, singular, masculine
 - “song; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *diva* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭhayajvane* ← *pṛṣṭha*
 - \[noun\], neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭhayajvane* ← *yajvane* ← *yajvan*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnaśravase* ← *dyumna*
 - \[noun\], neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnaśravase* ← *śravase* ← *śravas*
 - \[noun\], dative, singular, masculine
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahi* ← *mah*
 - \[noun\], accusative, plural, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmṇam* ← *nṛmṇa*
 - \[noun\], accusative, singular, neuter
 - “manhood; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

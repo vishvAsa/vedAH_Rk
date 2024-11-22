@@ -70,44 +70,64 @@ vícarṣaṇiḥ ← vícarṣaṇi- (nominal stem)
 -   *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *hinvāna* ← *hinvānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *indriyaṃ* ← *indriyam* ← *indriya*
 - \[noun\], accusative, singular, neuter
 - “aindra.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyāyo* ← *jyāyaḥ* ← *jyāyas*
 - \[noun\], accusative, singular, neuter
 - “better; elder; greater; bigger.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvam* ← *mahi*
 - \[noun\]
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahitvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaśe* ← *aś*
 - \[verb\], singular, Perfect indicative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭikṛd* ← *abhiṣṭi*
 - \[noun\], feminine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭikṛd* ← *kṛt*
 - \[noun\], nominative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *vicarṣaṇiḥ* ← *vicarṣaṇi*
 - \[noun\], nominative, singular, masculine
 - “excellent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

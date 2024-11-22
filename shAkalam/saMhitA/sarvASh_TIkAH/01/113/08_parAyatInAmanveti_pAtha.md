@@ -93,65 +93,95 @@ uṣā́ḥ ← uṣás- (nominal stem)
 -   *parāyatīnām* ← *pare* ← *√i*
 - \[verb noun\], genitive, plural
 - “travel; depart; go; die.”
-------------------------------------------------------------------------
+
+_________
+
 - *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *pātha* ← *pāthaḥ* ← *pāthas*
 - \[noun\], accusative, singular, neuter
 - “pāthas \[word\]; water; place.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyatīnām* ← *e* ← *√i*
 - \[verb noun\], genitive, plural
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamā* ← *prathama*
 - \[noun\], nominative, singular, feminine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvatīnām* ← *śaśvat*
 - \[noun\], genitive, plural, feminine
 - “all(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *vyucchantī* ← *vivas* ← *√vas*
 - \[verb noun\], nominative, singular
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvam* ← *jīva*
 - \[noun\], accusative, singular, masculine
 - “live; alive(p); amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *udīrayanty* ← *udīrayantī* ← *udīray* ← *√īr*
 - \[verb noun\], nominative, singular
 - “state; name; agitate; define; recommend; cause; shoot; describe;
     intensify.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛtaṃ* ← *mṛtam* ← *mṛ*
 - \[verb noun\], accusative, singular
 - “mṛ; die; disappear; go out.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṃ* ← *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bodhayantī* ← *bodhay* ← *√budh*
 - \[verb noun\], nominative, singular
 - “awaken; ignite; advise; admonish; communicate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

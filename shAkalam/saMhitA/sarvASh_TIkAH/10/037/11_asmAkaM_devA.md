@@ -102,80 +102,116 @@ yós ← yós (invariable)
 -   *asmākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhayāya* ← *ubhaya*
 - \[noun\], dative, singular, neuter
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *janmane* ← *janman*
 - \[noun\], dative, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *yacchata* ← *yam*
 - \[verb\], plural, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvipade* ← *dvipad*
 - \[noun\], dative, singular, neuter
 - “biped.”
-------------------------------------------------------------------------
+
+_________
+
 - *catuṣpade* ← *catuṣpada*
 - \[noun\], dative, singular, neuter
 - “quadrupedal.”
-------------------------------------------------------------------------
+
+_________
+
 - *adat* ← *ad*
 - \[verb noun\], nominative, singular
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibad* ← *pibat* ← *pā*
 - \[verb noun\], nominative, singular
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjayamānam* ← *ūrjay*
 - \[verb noun\], nominative, singular
 - “strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśitaṃ* ← *āśitam* ← *āśay* ← *√aś*
 - \[verb noun\], nominative, singular
 - “feed.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *asme* ← *mad*
 - \[noun\], dative, plural, masculine
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃ* ← *śam*
 - \[noun\], accusative, singular, neuter
 - “luck; well-being; fortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *yor* ← *yoḥ* ← *yos*
 - \[noun\], accusative, singular
 - “fortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *arapo* ← *arapaḥ* ← *arapas*
 - \[noun\], accusative, singular, neuter
 - “safe; unharmed; beneficial.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhātana* ← *dhā*
 - \[verb\], plural, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

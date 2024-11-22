@@ -100,74 +100,108 @@ támasā ← támas- (nominal stem)
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasyātra* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣībhyo* ← *taviṣībhyaḥ* ← *taviṣī*
 - \[noun\], ablative, plural, feminine
 - “strength; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *virapśina* ← *virapśinaḥ* ← *virapśin*
 - \[noun\], genitive, singular, masculine
 - “exuberant; copious; ample.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛghāyato* ← *ṛghāyataḥ* ← *ṛghāy*
 - \[verb noun\], genitive, singular
-------------------------------------------------------------------------
+
+_________
+
 - *araṃhayanta* ← *raṃhay* ← *√raṃh*
 - \[verb\], plural, Imperfect
 - “rush; rush.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyave* ← *manyu*
 - \[noun\], dative, singular, feminine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛścad* ← *avṛścat* ← *vraśc*
 - \[verb\], singular, Imperfect
 - “cleave; fell; cut off; hew.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasāpo* ← *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasāpo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibhrataṃ* ← *bibhratam* ← *bhṛ*
 - \[verb noun\], accusative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamasā* ← *tamas*
 - \[noun\], instrumental, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *parīvṛtam* ← *parīvṛ* ← *√vṛ*
 - \[verb noun\], accusative, singular
 - “enclose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

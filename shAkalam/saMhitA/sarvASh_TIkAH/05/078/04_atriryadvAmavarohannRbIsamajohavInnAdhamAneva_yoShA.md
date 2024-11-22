@@ -99,67 +99,99 @@ aśvinā ← aśvín- (nominal stem)
 -   *atrir* ← *atriḥ* ← *atri*
 - \[noun\], nominative, singular, masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *avarohann* ← *avarohan* ← *avaruh* ← *√ruh*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbīsam* ← *ṛbīsa*
 - \[noun\], accusative, singular, neuter
 - “chasm.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajohavīn* ← *ajohavīt* ← *johav* ← *√hvā*
 - \[verb\], singular, Imperfect
 - “appeal.”
-------------------------------------------------------------------------
+
+_________
+
 - *nādhamāneva* ← *nādhamānā* ← *nādh*
 - \[verb noun\], nominative, singular
 - “suffer.”
-------------------------------------------------------------------------
+
+_________
+
 - *nādhamāneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣā*
 - \[noun\], nominative, singular, feminine
 - “woman; puppet; daughter.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyenasya* ← *śyena*
 - \[noun\], genitive, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *cij* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *javasā* ← *javas*
 - \[noun\], instrumental, singular, neuter
 - “speed.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūtanenāgacchatam* ← *nūtanena* ← *nūtana*
 - \[noun\], instrumental, singular, neuter
 - “new; fresh; recent; contemporary; present(a); first.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūtanenāgacchatam* ← *āgacchatam* ← *āgam* ← *√gam*
 - \[verb\], dual, Imperfect
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *śantamena* ← *śaṃtama*
 - \[noun\], instrumental, singular, neuter
 - “beneficent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

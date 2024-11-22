@@ -102,89 +102,129 @@ enam ← ena- (pronoun)
 -   *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣitāyur* ← *kṣita* ← *kṣi*
 - \[verb noun\]
 - “decrease; emaciate; vanish; kill; wane; destroy; run down; elapse;
     lose; lose; gasify; decline; decay; corrupt.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣitāyur* ← *āyuḥ* ← *āyus*
 - \[noun\], nominative, singular, masculine
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *pareto* ← *paretaḥ* ← *pare* ← *√i*
 - \[verb noun\], nominative, singular
 - “travel; depart; go; die.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛtyor* ← *mṛtyoḥ* ← *mṛtyu*
 - \[noun\], genitive, singular, masculine
 - “death; Yama; māraṇa; Mṛtyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *antikaṃ* ← *antikam* ← *antika*
 - \[noun\], accusative, singular, neuter
 - “vicinity; proximity.”
-------------------------------------------------------------------------
+
+_________
+
 - *nīta* ← *nītaḥ* ← *nī*
 - \[verb noun\], nominative, singular
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *harāmi* ← *hṛ*
 - \[verb\], singular, Present indikative
 - “cure; remove; kidnap; rob; take away; get; destroy; take; extract;
     collect; seize; clean; offer; drain; pick; take out; bring; accept;
     sever; produce; conquer; steal; deprive; press out.”
-------------------------------------------------------------------------
+
+_________
+
 - *nirṛter* ← *nirṛteḥ* ← *nirṛti*
 - \[noun\], genitive, singular, feminine
 - “destruction; Nirṛti; adversity.”
-------------------------------------------------------------------------
+
+_________
+
 - *upasthād* ← *upasthāt* ← *upastha*
 - \[noun\], ablative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
-------------------------------------------------------------------------
+
+_________
+
 - *aspārṣam* ← *spṛ*
 - \[verb\], singular, Athematic s aor. (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 - *enaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *śataśāradāya* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śataśāradāya* ← *śāradāya* ← *śārada*
 - \[noun\], dative, singular, masculine
 - “Śārada; Śārada; dita.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

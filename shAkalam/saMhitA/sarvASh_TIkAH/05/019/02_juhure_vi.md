@@ -76,44 +76,64 @@ viviśuḥ ← √viś- (root)
 -   *juhure* ← *hu*
 - \[verb\], plural, Perfect indicative
 - “sacrifice; offer; pour; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *citayanto* ← *citayantaḥ* ← *citay* ← *√cit*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *'nimiṣaṃ* ← *animiṣam* ← *animiṣa*
 - \[noun\], accusative, singular, neuter
 - “agaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmṇam* ← *nṛmṇa*
 - \[noun\], accusative, singular, neuter
 - “manhood; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *pānti* ← *pā*
 - \[verb\], plural, Present indikative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛﾱhām* ← *dṛḍha*
 - \[noun\], accusative, singular, feminine
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
-------------------------------------------------------------------------
+
+_________
+
 - *puraṃ* ← *puram* ← *pur*
 - \[noun\], accusative, singular, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *viviśuḥ* ← *viś*
 - \[verb\], plural, Perfect indicative
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

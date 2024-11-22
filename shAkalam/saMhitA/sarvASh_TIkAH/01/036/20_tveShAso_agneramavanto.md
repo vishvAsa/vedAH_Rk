@@ -93,66 +93,96 @@ víśvam ← víśva- (nominal stem)
 -   *tveṣāso* ← *tveṣāsaḥ* ← *tveṣa*
 - \[noun\], nominative, plural, masculine
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *agner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *amavanto* ← *amavantaḥ* ← *amavat*
 - \[noun\], nominative, plural, masculine
 - “impressive; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcayo* ← *arcayaḥ* ← *arci*
 - \[noun\], nominative, plural, masculine
 - “flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhīmāso* ← *bhīmāsaḥ* ← *bhīma*
 - \[noun\], nominative, plural, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratītaye* ← *pratīti*
 - \[noun\], dative, singular, feminine
 - “perception; sexual pleasure; belief; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣasvinaḥ* ← *rakṣasvin*
 - \[noun\], accusative, plural, masculine
 - “malevolent; demoniac; obsessed.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadam*
 - \[adverb\]
 - “always.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātumāvato* ← *yātumāvataḥ* ← *yātumāvat*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], accusative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *atriṇaṃ* ← *atriṇam* ← *atrin*
 - \[noun\], accusative, singular, masculine
 - “Atrin; eater.”
-------------------------------------------------------------------------
+
+_________
+
 - *daha* ← *dah*
 - \[verb\], singular, Present imperative
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -93,63 +93,93 @@ hvárāṁsi ← hváras- (nominal stem)
 -   *parṣi* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *tokaṃ* ← *tokam* ← *toka*
 - \[noun\], accusative, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanayam* ← *tanaya*
 - \[noun\], accusative, singular, neuter
 - “biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *partṛbhiṣ* ← *partṛbhiḥ* ← *partṛ*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṭvam* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *adabdhair* ← *adabdhaiḥ* ← *adabdha*
 - \[noun\], instrumental, plural, masculine
 - “unfailing; unimpaired.”
-------------------------------------------------------------------------
+
+_________
+
 - *aprayutvabhiḥ* ← *aprayutvan*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *heﾱāṃsi* ← *heḍas*
 - \[noun\], accusative, plural, neuter
 - “wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivyā* ← *daivya*
 - \[noun\], accusative, plural, neuter
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyodhi* ← *yu*
 - \[verb\], singular, Present imperative
 - “keep away; separate; ward off.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'devāni* ← *adevāni* ← *adeva*
 - \[noun\], accusative, plural, neuter
 - “godless.”
-------------------------------------------------------------------------
+
+_________
+
 - *hvarāṃsi* ← *hvaras*
 - \[noun\], accusative, plural, neuter
 - “intrigue.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

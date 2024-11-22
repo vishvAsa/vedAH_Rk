@@ -70,35 +70,51 @@ vanāmahe ← √vanⁱ- (root)
 -   *enā* ← *enad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāny* ← *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *arya* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumnāni* ← *dyumna*
 - \[noun\], accusative, plural, neuter
 - “magnificence.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣāṇām* ← *mānuṣa*
 - \[noun\], genitive, plural, masculine
 - “man; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣāsanto* ← *siṣāsantaḥ* ← *siṣās* ← *√san*
 - \[verb noun\], nominative, plural
 - “win; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanāmahe* ← *van*
 - \[verb\], plural, Present indikative
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -81,56 +81,82 @@ hitáprayasaḥ ← hitáprayas- (nominal stem)
 -   *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnasyaukasaḥ* ← *pratnasya* ← *pratna*
 - \[noun\], genitive, singular, masculine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnasyaukasaḥ* ← *okasaḥ* ← *oka*
 - \[noun\], nominative, plural, masculine
 - “home; house; oka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *priyamedhāsa* ← *priyamedhāsaḥ* ← *priyamedha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvām* ← *pūrva*
 - \[noun\], accusative, singular, feminine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayatiṃ* ← *prayatim* ← *prayati*
 - \[noun\], accusative, singular, feminine
 - “offering.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛktabarhiṣo* ← *vṛkta* ← *vṛj*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *vṛktabarhiṣo* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], nominative, plural, masculine
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hitaprayasa* ← *hita* ← *dhā*
 - \[verb noun\]
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *hitaprayasa* ← *prayasaḥ* ← *prayas*
 - \[noun\], nominative, plural, masculine
 - “food; dainty; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśata* ← *aś*
 - \[verb\], plural, Root aorist (Ind.)
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

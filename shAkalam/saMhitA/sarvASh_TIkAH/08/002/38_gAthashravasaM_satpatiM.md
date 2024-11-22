@@ -67,38 +67,56 @@ vājínam ← vājín- (nominal stem)
 -   *gāthaśravasaṃ* ← *gātha*
 - \[noun\], masculine
 - “song.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāthaśravasaṃ* ← *śravasam* ← *śravas*
 - \[noun\], accusative, singular, masculine
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *satpatiṃ* ← *satpatim* ← *satpati*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravaskāmam* ← *śravaskāma*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *purutmānam* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purutmānam* ← *tmānam* ← *tman*
 - \[noun\], accusative, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṇvāso* ← *kaṇvāsaḥ* ← *kaṇva*
 - \[noun\], vocative, plural, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gāta* ← *gā*
 - \[verb\], plural, Aorist imperative
 - “go; enter (a state); arrive.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -104,74 +104,110 @@ valám ← valá- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭubhā* ← *suṣṭubh*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *stubhā* ← *stubh*
 - \[noun\], instrumental, singular, feminine
 - “song; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipraiḥ* ← *vipra*
 - \[noun\], instrumental, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *svareṇādriṃ* ← *svareṇa* ← *svara*
 - \[noun\], instrumental, singular, masculine
 - “voice; noise; sound; voice; note; tone; accent; seven; vowel;
     Vishnu; cry; accent; cry.”
-------------------------------------------------------------------------
+
+_________
+
 - *svareṇādriṃ* ← *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaryo* ← *svaryaḥ* ← *svarya*
 - \[noun\], nominative, singular, masculine
 - “good for the voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *navagvaiḥ* ← *navagva*
 - \[noun\], instrumental, plural, masculine
 - “Navagva.”
-------------------------------------------------------------------------
+
+_________
+
 - *saraṇyubhiḥ* ← *saraṇyu*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *phaligam* ← *phaliga*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakra*
 - \[noun\], vocative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *valaṃ* ← *valam* ← *vala*
 - \[noun\], accusative, singular, masculine
 - “Vala; vala; cave.”
-------------------------------------------------------------------------
+
+_________
+
 - *raveṇa* ← *rava*
 - \[noun\], instrumental, singular, masculine
 - “sound; howl; thunder; cry; talk; cry.”
-------------------------------------------------------------------------
+
+_________
+
 - *darayo* ← *darayaḥ* ← *daray* ← *√dṛ*
 - \[verb\], singular, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *daśagvaiḥ* ← *daśagva*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

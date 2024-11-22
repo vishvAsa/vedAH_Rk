@@ -83,70 +83,102 @@ vrātasāhā́ḥ ← vrātasāhá- (nominal stem)
 
 -   *svāduṣaṃsadaḥ* ← *svāduṣaṃsad*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pitaro* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayodhāḥ* ← *vayaḥ* ← *vayas*
 - \[noun\], neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayodhāḥ* ← *dhāḥ* ← *dhā*
 - \[noun\], nominative, plural, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛcchreśritaḥ* ← *kṛcchreśrit*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śaktīvanto* ← *śaktīvantaḥ* ← *śaktīvat*
 - \[noun\], nominative, plural, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhīrāḥ* ← *gabhīra*
 - \[noun\], nominative, plural, masculine
 - “deep; profound; immeasurable; unfathomable; unfathomable;
     mysterious; deep; countless.”
-------------------------------------------------------------------------
+
+_________
+
 - *citrasenā* ← *citra*
 - \[noun\]
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *citrasenā* ← *senāḥ* ← *senā*
 - \[noun\], nominative, plural, masculine
 - “army; senā \[word\]; armament.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣubalā* ← *iṣu*
 - \[noun\], masculine
 - “arrow; iṣu \[word\]; iṣ; five; munj.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣubalā* ← *balāḥ* ← *bala*
 - \[noun\], nominative, plural, masculine
 - “strength; army; power; force; potency; vigor; Balarama; bala;
     violence; might; Shiva; bala \[word\]; myrrh; semen; reflex; bronze;
     influence; erection; potency; intensity.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛdhrāḥ* ← *amṛdhra*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *satovīrā* ← *satovīrāḥ* ← *satovīra*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *uravo* ← *uravaḥ* ← *uru*
 - \[noun\], nominative, plural, masculine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrātasāhāḥ* ← *vrāta*
 - \[noun\], masculine
 - “troop; group; Vrāta; vrāta \[word\]; flock.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrātasāhāḥ* ← *sāhāḥ* ← *sāha*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

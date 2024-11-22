@@ -108,91 +108,133 @@ vāraṇáḥ ← vāraṇá- (nominal stem)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvijanmā* ← *dvi*
 - \[noun\]
 - “two; dvi \[word\]; second.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvijanmā* ← *janmā* ← *janman*
 - \[noun\], nominative, singular, masculine
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *trivṛd* ← *trivṛt*
 - \[noun\], accusative, singular, neuter
 - “treble.”
-------------------------------------------------------------------------
+
+_________
+
 - *annam* ← *anna*
 - \[noun\], accusative, singular, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjyate* ← *ṛj*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvatsare* ← *saṃvatsara*
 - \[noun\], locative, singular, masculine
 - “year; year; saṃvatsara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhe* ← *vṛdh*
 - \[verb\], singular, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagdham* ← *jakṣ*
 - \[verb noun\], nominative, singular
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *ī*
 - \[adverb\]
 - “īkāra.”
-------------------------------------------------------------------------
+
+_________
+
 - *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyasyāsā* ← *anyasya* ← *anya*
 - \[noun\], genitive, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *anyasyāsā* ← *āsā* ← *ās*
 - \[noun\], instrumental, singular, neuter
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvayā* ← *jihvā*
 - \[noun\], instrumental, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *jenyo* ← *jenyaḥ* ← *jenya*
 - \[noun\], nominative, singular, masculine
 - “noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyena* ← *anya*
 - \[noun\], instrumental, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *vanino* ← *vaninaḥ* ← *vanin*
 - \[noun\], genitive, singular, masculine
 - “tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛṣṭa* ← *mṛj*
 - \[verb\], singular, Present injunctive
 - “purify; polish; rub; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāraṇaḥ* ← *vāraṇa*
 - \[noun\], nominative, singular, masculine
 - “elephant; elephant hook.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

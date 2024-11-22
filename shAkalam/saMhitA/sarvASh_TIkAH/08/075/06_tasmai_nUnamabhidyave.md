@@ -75,43 +75,61 @@ vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhidyave* ← *abhidyu*
 - \[noun\], dative, singular, masculine
 - “celestial; brilliant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācā* ← *vāc*
 - \[noun\], instrumental, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *virūpa*
 - \[noun\], vocative, singular, masculine
 - “Virūpa.”
-------------------------------------------------------------------------
+
+_________
+
 - *nityayā* ← *nitya*
 - \[noun\], instrumental, singular, feminine
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
     connatural; necessary; durable; ageless; invariable; biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *codasva* ← *cud*
 - \[verb\], singular, Present imperative
 - “urge; rush.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

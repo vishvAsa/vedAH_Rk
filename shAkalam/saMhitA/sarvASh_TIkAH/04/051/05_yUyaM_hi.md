@@ -93,65 +93,97 @@ jīvám ← jīvá- (nominal stem)
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devīr* ← *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtayugbhir* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtayugbhir* ← *yugbhiḥ* ← *yuj*
 - \[noun\], instrumental, plural
 - “ally; friend; pair; two; companion.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvaiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariprayātha* ← *pariprayā* ← *√yā*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sadyaḥ* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prabodhayantīr* ← *prabodhayantīḥ* ← *prabodhay* ← *√budh*
 - \[verb noun\], nominative, plural
 - “awaken; fuel.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasaḥ* ← *uṣas*
 - \[noun\], vocative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasantaṃ* ← *sasantam* ← *sas*
 - \[verb noun\], accusative, singular
 - “sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvipāc* ← *dvipāt* ← *dvipa*
 - \[noun\], ablative, singular, masculine
 - “elephant.”
-------------------------------------------------------------------------
+
+_________
+
 - *catuṣpāc* ← *catuṣpād*
 - \[noun\], nominative, singular, masculine
 - “quadruped.”
-------------------------------------------------------------------------
+
+_________
+
 - *carathāya* ← *caratha*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *jīvam* ← *jīva*
 - \[noun\], accusative, singular, masculine
 - “being; animal; life; jīva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

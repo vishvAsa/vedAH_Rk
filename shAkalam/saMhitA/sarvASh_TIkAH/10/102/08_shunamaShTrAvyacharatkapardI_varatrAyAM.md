@@ -93,35 +93,51 @@ táviṣīḥ ← táviṣī- (nominal stem)
 -   *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
 - “well-being; success.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣṭrāvy* ← *aṣṭrāvi* ← *aṣṭrāvin*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *acarat* ← *car*
 - \[verb\], singular, Imperfect
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *kapardī* ← *kapardin*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *varatrāyāṃ* ← *varatrāyām* ← *varatrā*
 - \[noun\], locative, singular, feminine
 - “cord; strap.”
-------------------------------------------------------------------------
+
+_________
+
 - *dārv* ← *dāru*
 - \[noun\], accusative, singular, neuter
 - “wood; log; lumber.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānahyamānaḥ* ← *ānah* ← *√nah*
 - \[verb noun\], nominative, singular
 - “weave; constipate; tie; inflate.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmṇāni* ← *nṛmṇa*
 - \[noun\], accusative, plural, neuter
 - “manhood; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvan* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -132,36 +148,50 @@ táviṣīḥ ← táviṣī- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *bahave* ← *bahu*
 - \[noun\], dative, singular, masculine
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
-------------------------------------------------------------------------
+
+_________
+
 - *janāya* ← *jana*
 - \[noun\], dative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāḥ* ← *go*
 - \[noun\], accusative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *paspaśānas* ← *paspaśānaḥ* ← *paś*
 - \[verb noun\], nominative, singular
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣīr* ← *taviṣīḥ* ← *taviṣī*
 - \[noun\], accusative, plural, feminine
 - “strength; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhatta* ← *dhā*
 - \[verb\], singular, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

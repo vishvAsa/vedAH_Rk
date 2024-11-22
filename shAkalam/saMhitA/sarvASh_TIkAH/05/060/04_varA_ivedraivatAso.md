@@ -99,65 +99,95 @@ tanū́ṣu ← tanū́- (nominal stem)
 -   *varā* ← *varāḥ* ← *vara*
 - \[noun\], nominative, plural, masculine
 - “suitor; groom; husband; Vara; lover.”
-------------------------------------------------------------------------
+
+_________
+
 - *ived* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ived* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *raivatāso* ← *raivatāsaḥ* ← *raivata*
 - \[noun\], nominative, plural, masculine
 - “rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyair* ← *hiraṇyaiḥ* ← *hiraṇya*
 - \[noun\], instrumental, plural, neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhābhis* ← *svadhābhiḥ* ← *svadhā*
 - \[noun\], instrumental, plural, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaḥ* ← *tanū*
 - \[noun\], accusative, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *pipiśre* ← *piś*
 - \[verb\], plural, Perfect indicative
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *śreyāṃsas* ← *śreyāṃsaḥ* ← *śreyas*
 - \[noun\], nominative, plural, masculine
 - “better; preferable.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavaso* ← *tavasaḥ* ← *tavas*
 - \[noun\], nominative, plural, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratheṣu* ← *ratha*
 - \[noun\], locative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *satrā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *mahāṃsi* ← *mahas*
 - \[noun\], accusative, plural, neuter
 - “greatness; festival; glory; reward; gladness.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakrire* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -168,11 +198,15 @@ tanū́ṣu ← tanū́- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūṣu* ← *tanū*
 - \[noun\], locative, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

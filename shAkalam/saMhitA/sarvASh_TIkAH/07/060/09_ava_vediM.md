@@ -99,71 +99,105 @@ vr̥ṣaṇau ← vŕ̥ṣan- (nominal stem)
 -   *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *vediṃ* ← *vedim* ← *vedi*
 - \[noun\], accusative, singular, feminine
 - “Vedi; pedestal.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotrābhir* ← *hotrābhiḥ* ← *hotrā*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yajeta* ← *yaj*
 - \[verb\], singular, Present optative
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *ripaḥ* ← *rip*
 - \[noun\], accusative, plural, feminine
 - “deceiver.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāścid* ← *kaścit*
 - \[noun\], accusative, plural, feminine
 - “any(a); some(a); some(a); some(a); some(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇadhrutaḥ* ← *varuṇadhrut*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *dveṣobhir* ← *dveṣobhiḥ* ← *dveṣas*
 - \[noun\], instrumental, plural, neuter
 - “hostility; enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇaktūruṃ* ← *vṛṇaktu* ← *vṛj*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṇaktūruṃ* ← *urum* ← *uru*
 - \[noun\], accusative, singular, masculine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudāse* ← *sudās*
 - \[noun\], dative, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇā* ← *vṛṣaṇau* ← *vṛṣan*
 - \[noun\], nominative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

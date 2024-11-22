@@ -83,51 +83,75 @@ páriṣkr̥tam ← √kr̥- (root)
 
 -   *raibhy* ← *raibhī*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *āsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *anudeyī*
 - \[noun\], nominative, singular, feminine
 - “foster mother.”
-------------------------------------------------------------------------
+
+_________
+
 - *nārāśaṃsī*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *nyocanī*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sūryāyā* ← *sūryāyāḥ* ← *sūryā*
 - \[noun\], genitive, singular, feminine
 - “Citrullus colocynthis Schrad..”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadram* ← *bhadra*
 - \[noun\], nominative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāso* ← *vāsaḥ* ← *vāsas*
 - \[noun\], nominative, singular, neuter
 - “clothing; fabric; garment; feather; dress; envelope.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāthayaiti* ← *gāthayā* ← *gāthā*
 - \[noun\], instrumental, singular, feminine
 - “song; gāthā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gāthayaiti* ← *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣkṛtam* ← *pariṣkṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -81,53 +81,77 @@ puráḥprasravaṇāḥ ← puráḥprasravaṇa- (nominal stem)
 -   *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *śayata* ← *śayate* ← *śī*
 - \[verb\], singular, Present indikative
 - “lie; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *udnā* ← *udan*
 - \[noun\], instrumental, singular, neuter
 - “water; body of water.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajro* ← *vajraḥ* ← *vajra*
 - \[noun\], nominative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīvṛtaḥ* ← *abhivṛ* ← *√vṛ*
 - \[verb noun\], nominative, singular
 - “cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharanty* ← *bharanti* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃyataḥ* ← *saṃyat*
 - \[noun\], nominative, plural, masculine
 - “continuous.”
-------------------------------------------------------------------------
+
+_________
+
 - *puraḥprasravaṇā* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
-------------------------------------------------------------------------
+
+_________
+
 - *puraḥprasravaṇā* ← *prasravaṇāḥ* ← *prasravaṇa*
 - \[noun\], nominative, plural, masculine
 - “waterfall; spring; discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *balim* ← *bali*
 - \[noun\], accusative, singular, masculine
 - “sulfur; bali; Bali; tribute; tax; bali \[word\]; Bali.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

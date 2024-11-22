@@ -73,38 +73,56 @@ udríṇam ← udrín- (nominal stem)
 -   *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sarāṃsi* ← *saras*
 - \[noun\], accusative, plural, neuter
 - “lake; saras \[word\]; pond.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśnayo* ← *pṛśnayaḥ* ← *pṛśni*
 - \[noun\], nominative, plural, feminine
 - “Pṛśni; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *duduhre* ← *duh*
 - \[verb\], plural, Perfect indicative
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajriṇe* ← *vajrin*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], accusative, plural, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *utsaṃ* ← *utsam* ← *utsa*
 - \[noun\], accusative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavandham* ← *kabandha*
 - \[noun\], accusative, singular, masculine
 - “torso; kabandha; hose.”
-------------------------------------------------------------------------
+
+_________
+
 - *udriṇam* ← *udrin*
 - \[noun\], accusative, singular, masculine
 - “filled with water.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

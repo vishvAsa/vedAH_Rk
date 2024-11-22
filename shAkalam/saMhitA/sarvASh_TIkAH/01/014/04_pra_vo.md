@@ -73,40 +73,58 @@ mádhvaḥ ← mádhu- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhriyanta* ← *bhriyante* ← *bhṛ*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *indavo* ← *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
-------------------------------------------------------------------------
+
+_________
+
 - *matsarā* ← *matsarāḥ* ← *matsara*
 - \[noun\], nominative, plural, masculine
 - “intoxicant; invigorating; hostile.”
-------------------------------------------------------------------------
+
+_________
+
 - *mādayiṣṇavaḥ* ← *mādayiṣṇu*
 - \[noun\], nominative, plural, masculine
 - “intoxicant.”
-------------------------------------------------------------------------
+
+_________
+
 - *drapsā* ← *drapsāḥ* ← *drapsa*
 - \[noun\], nominative, plural, masculine
 - “drop; banner.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhvaś* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *camūṣadaḥ* ← *camūṣad*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

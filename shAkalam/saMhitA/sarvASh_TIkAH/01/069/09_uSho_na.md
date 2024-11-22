@@ -67,42 +67,60 @@ sáṁjñātarūpaḥ ← sáṁjñātarūpa- (nominal stem)
 -   *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jāro* ← *jāraḥ* ← *jāra*
 - \[noun\], nominative, singular, masculine
 - “fancy man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāvosraḥ* ← *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, masculine
 - “illuminating; shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāvosraḥ* ← *usraḥ* ← *usra*
 - \[noun\], nominative, singular, masculine
 - “beam; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃjñātarūpaś* ← *saṃjñāta* ← *saṃjñā* ← *√jñā*
 - \[verb noun\]
 - “agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃjñātarūpaś* ← *rūpaḥ* ← *rūpa*
 - \[noun\], nominative, singular, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciketad* ← *ciketat* ← *cit*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

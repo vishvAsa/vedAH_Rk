@@ -70,38 +70,54 @@ vocéma ← √vac- (root)
 -   *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rudrāya* ← *rudra*
 - \[noun\], dative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *pracetase* ← *pracetas*
 - \[noun\], dative, singular, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
-------------------------------------------------------------------------
+
+_________
+
 - *mīḍhuṣṭamāya* ← *mīḍhuṣṭama*
 - \[noun\], dative, singular, masculine
 - “Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavyase* ← *tavyas*
 - \[noun\], dative, singular, masculine
 - “stronger; rich.”
-------------------------------------------------------------------------
+
+_________
+
 - *vocema* ← *vac*
 - \[verb\], plural, Aorist optative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *śantamaṃ* ← *śantamam* ← *śaṃtama*
 - \[noun\], accusative, singular, neuter
 - “beneficent.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛde* ← *hṛd*
 - \[noun\], dative, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

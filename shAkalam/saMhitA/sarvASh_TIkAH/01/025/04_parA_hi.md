@@ -76,48 +76,70 @@ váyaḥ ← ví- (nominal stem)
 -   *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vimanyavaḥ* ← *vimanyu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *patanti* ← *pat*
 - \[verb\], plural, Present indikative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasyaiṣṭaye* ← *vasyaḥ* ← *vasyas*
 - \[noun\], neuter
 - “good fortune; well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasyaiṣṭaye* ← *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, feminine
 - “yajña; offering; brick.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vasatīr* ← *vasatīḥ* ← *vasati*
 - \[noun\], accusative, plural, feminine
 - “residency; dwelling; nest; stay; vasati \[word\]; vas; mansion;
     sojourn.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

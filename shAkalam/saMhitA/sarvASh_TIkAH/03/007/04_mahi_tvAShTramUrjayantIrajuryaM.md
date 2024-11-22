@@ -96,71 +96,103 @@ viveśa ← √viś- (root)
 -   *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāṣṭram* ← *tvāṣṭra*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjayantīr* ← *ūrjayantīḥ* ← *ūrjay*
 - \[verb noun\], accusative, plural
 - “strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajuryaṃ* ← *ajuryam* ← *ajurya*
 - \[noun\], accusative, singular, masculine
 - “ageless; amaranthine.”
-------------------------------------------------------------------------
+
+_________
+
 - *stabhūyamānaṃ* ← *stabhūyamānam* ← *stabhūy* ← *√stambh*
 - \[verb noun\], accusative, singular
 - “stand.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahato* ← *vahataḥ* ← *vahat*
 - \[noun\], nominative, plural, feminine
 - “river.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgebhir* ← *aṅgebhiḥ* ← *aṅga*
 - \[noun\], instrumental, plural, neuter
 - “body part; body; part; limb; extremity; Vedāṅga; section; root;
     army unit; aṅga \[word\]; subsection; aṅgamantra; part; body;
     ingredient.”
-------------------------------------------------------------------------
+
+_________
+
 - *didyutānaḥ* ← *dyut*
 - \[verb noun\], nominative, singular
 - “shine; inflame.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhastha* ← *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekām* ← *eka*
 - \[noun\], accusative, singular, feminine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viveśa* ← *viś*
 - \[verb\], singular, Perfect indicative
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

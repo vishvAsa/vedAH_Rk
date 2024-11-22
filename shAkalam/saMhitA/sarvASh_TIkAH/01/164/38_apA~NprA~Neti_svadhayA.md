@@ -105,21 +105,29 @@ ní ← ní (invariable)
 -   *apāṅ* ← *apāñc*
 - \[noun\], nominative, singular, masculine
 - “backward; apāñc \[word\]; western.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāṅ* ← *prāñc*
 - \[noun\], nominative, singular, masculine
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *svadhayā* ← *svadhā*
 - \[noun\], instrumental, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛbhīto* ← *gṛbhītaḥ* ← *grah*
 - \[verb noun\], nominative, singular
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -127,66 +135,96 @@ ní ← ní (invariable)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *'martyo* ← *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *martyenā* ← *martyena* ← *martya*
 - \[noun\], instrumental, singular, masculine
 - “mortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *sayoniḥ* ← *sayoni*
 - \[noun\], nominative, singular, masculine
 - “related.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvantā* ← *śaśvat*
 - \[noun\], nominative, dual, masculine
 - “all(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣūcīnā* ← *viṣūcīna*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *viyantā* ← *vī* ← *√i*
 - \[verb noun\], nominative, dual
 - “disappear; differ; elapse.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyaṃ* ← *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *cikyur* ← *cikyuḥ* ← *ci*
 - \[verb\], plural, Perfect indicative
 - “observe; detect; notice; heed; mind.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *cikyur* ← *cikyuḥ* ← *ci*
 - \[verb\], plural, Perfect indicative
 - “observe; detect; notice; heed; mind.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

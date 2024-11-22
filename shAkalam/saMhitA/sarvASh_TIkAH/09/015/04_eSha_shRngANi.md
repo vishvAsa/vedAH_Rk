@@ -73,39 +73,57 @@ nr̥mṇā́ ← nr̥mṇá- (nominal stem)
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṅgāṇi* ← *śṛṅga*
 - \[noun\], accusative, plural, neuter
 - “peak; horn; tusk; śṛṅga \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dodhuvacchiśīte* ← *dodhuvat* ← *dodhu* ← *√dhū*
 - \[verb noun\], nominative, singular
 - “shake.”
-------------------------------------------------------------------------
+
+_________
+
 - *dodhuvacchiśīte* ← *śiśīte* ← *śā*
 - \[verb\], singular, Present indikative
 - “sharpen; whet; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūthyo* ← *yūthyaḥ* ← *yūthya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛmṇā* ← *nṛmṇa*
 - \[noun\], accusative, plural, neuter
 - “manhood; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāna* ← *dadhānaḥ* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

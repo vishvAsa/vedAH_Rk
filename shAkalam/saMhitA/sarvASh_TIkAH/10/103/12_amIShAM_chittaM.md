@@ -105,14 +105,20 @@ támasā ← támas- (nominal stem)
 -   *amīṣāṃ* ← *amīṣām* ← *adas*
 - \[noun\], genitive, plural, masculine
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *cittam* ← *citta*
 - \[noun\], accusative, singular, neuter
 - “mind; attention; idea; thinking; fondness; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratilobhayantī* ← *pratilobhay* ← *√lubh*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhāṇāṅgāny* ← *gṛhāṇa* ← *grah*
 - \[verb\], singular, Present imperative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -120,63 +126,91 @@ támasā ← támas- (nominal stem)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhāṇāṅgāny* ← *aṅgāni* ← *aṅga*
 - \[noun\], accusative, plural, neuter
 - “body part; body; part; limb; extremity; Vedāṅga; section; root;
     army unit; aṅga \[word\]; subsection; aṅgamantra; part; body;
     ingredient.”
-------------------------------------------------------------------------
+
+_________
+
 - *apve* ← *apvā*
 - \[noun\], vocative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *parehi* ← *pare* ← *√i*
 - \[verb\], singular, Present imperative
 - “travel; depart; go; die.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *prehi* ← *pre* ← *√i*
 - \[verb\], singular, Present imperative
 - “die; proceed; advance; continue; begin; depart.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *daha* ← *dah*
 - \[verb\], singular, Present imperative
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛtsu* ← *hṛd*
 - \[noun\], locative, plural
 - “heart; heart; mind; breast; hṛd \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śokair* ← *śokaiḥ* ← *śoka*
 - \[noun\], instrumental, plural, masculine
 - “sorrow; grief; pain; heat; śoka \[word\]; fire; flare; heat;
     trouble.”
-------------------------------------------------------------------------
+
+_________
+
 - *andhenāmitrās* ← *andhena* ← *andha*
 - \[noun\], instrumental, singular, neuter
 - “blind; andha \[word\]; andha; blind; complete; dark.”
-------------------------------------------------------------------------
+
+_________
+
 - *andhenāmitrās* ← *amitrāḥ* ← *amitra*
 - \[noun\], nominative, plural, masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamasā* ← *tamas*
 - \[noun\], instrumental, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacantām* ← *sac*
 - \[verb\], plural, Present imperative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

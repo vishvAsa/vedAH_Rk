@@ -78,47 +78,69 @@ yát ← yá- (pronoun)
 
 -   *vacyante* ← *vañc*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakuhāso* ← *kakuhāsaḥ* ← *kakuha*
 - \[noun\], nominative, plural, masculine
 - “huge; eminent; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *jūrṇāyām* ← *jṛ*
 - \[verb noun\], locative, singular
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṭapi* ← *viṣṭap*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhiṣ* ← *vi*
 - \[noun\], instrumental, plural, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *patāt* ← *pat*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

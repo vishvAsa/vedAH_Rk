@@ -83,49 +83,71 @@ sugám ← sugá- (nominal stem)
 -   *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjinaṃ* ← *vṛjinam* ← *vṛjina*
 - \[noun\], accusative, singular, masculine
 - “deceitful; crooked; bent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ripuṃ* ← *ripum* ← *ripu*
 - \[noun\], accusative, singular, masculine
 - “enemy; arivarga; Ripu; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *stenam* ← *stena*
 - \[noun\], accusative, singular, masculine
 - “thief; stena \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *durādhyam* ← *durādhī*
 - \[noun\], accusative, singular, masculine
 - “malevolent.”
-------------------------------------------------------------------------
+
+_________
+
 - *daviṣṭham* ← *daviṣṭha*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *as*
 - \[verb\], singular, Present imperative
 - “shoot; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *satpate* ← *sat*
 - \[noun\]
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
-------------------------------------------------------------------------
+
+_________
+
 - *satpate* ← *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛdhī* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -136,10 +158,14 @@ sugám ← sugá- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugam* ← *suga*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

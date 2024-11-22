@@ -99,76 +99,110 @@ téna ← sá- ~ tá- (pronoun)
 -   *virāṇ* ← *virāj*
 - \[noun\], nominative, singular, feminine
 - “Virāj; eminence.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrāvaruṇayor* ← *mitrāvaruṇayoḥ* ← *mitrāvaruṇa*
 - \[noun\], genitive, dual, masculine
 - “Varuna; Mitra.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiśrīr* ← *abhiśrīḥ* ← *abhiśrī*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *triṣṭub* ← *triṣṭubh*
 - \[noun\], nominative, singular, feminine
 - “Triṣṭubh.”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāgo* ← *bhāgaḥ* ← *bhāga*
 - \[noun\], nominative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahnaḥ* ← *ahar*
 - \[noun\], genitive, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāñ* ← *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagaty* ← *jagatī*
 - \[noun\], nominative, singular, feminine
 - “Jagatī; Earth; floor; jagatī \[word\]; site; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viveśa* ← *viś*
 - \[verb\], singular, Perfect indicative
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *tena*
 - \[adverb\]
 - “therefore; thereby; there.”
-------------------------------------------------------------------------
+
+_________
+
 - *cākﾱpra* ← *cākﾱpre* ← *kﾱp*
 - \[verb\], plural, Perfect indicative
 - “succeed; prepare; harmonize; arrange; cut; suit; befit;
     contribute.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣayo* ← *ṛṣayaḥ* ← *ṛṣi*
 - \[noun\], nominative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣyāḥ* ← *manuṣya*
 - \[noun\], nominative, plural, masculine
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

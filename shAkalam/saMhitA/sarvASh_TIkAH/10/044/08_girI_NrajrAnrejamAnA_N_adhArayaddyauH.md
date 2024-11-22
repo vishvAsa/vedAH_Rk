@@ -99,75 +99,109 @@ vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)
 -   *girīṃr* ← *girīn* ← *giri*
 - \[noun\], accusative, plural, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajrān* ← *ajra*
 - \[noun\], accusative, plural, masculine
 - “plain.”
-------------------------------------------------------------------------
+
+_________
+
 - *rejamānāṃ* ← *rej*
 - \[verb noun\], accusative, plural
 - “tremor; flicker.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhārayad* ← *adhārayat* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Imperfect
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *krandad* ← *krandat* ← *krand*
 - \[verb\], singular, Present injunctive
 - “roar; neigh; cry; howl; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣāṇi* ← *antarikṣa*
 - \[noun\], accusative, plural, neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *kopayat* ← *kopay* ← *√kup*
 - \[verb\], singular, Present injunctive
 - “kopay.”
-------------------------------------------------------------------------
+
+_________
+
 - *samīcīne* ← *samīcīna*
 - \[noun\], accusative, dual, feminine
 - “combined; real.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiṣaṇe* ← *dhiṣaṇā*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣkabhāyati* ← *skabhāyati* ← *skabhāy* ← *√skambh*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *pītvā* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *mada* ← *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthāni* ← *uktha*
 - \[noun\], accusative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsati* ← *śaṃs*
 - \[verb\], singular, Present indikative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

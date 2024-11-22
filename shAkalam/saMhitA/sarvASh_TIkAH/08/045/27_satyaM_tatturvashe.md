@@ -76,45 +76,67 @@ ví ← ví (invariable)
 -   *satyaṃ* ← *satyam* ← *satya*
 - \[noun\], nominative, singular, neuter
 - “truth; oath; satya \[word\]; promise.”
-------------------------------------------------------------------------
+
+_________
+
 - *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *turvaśe* ← *turvaśa*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yadau* ← *yadu*
 - \[noun\], locative, singular, masculine
 - “Yadu; Yadu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidāno* ← *vidānaḥ* ← *vid*
 - \[verb noun\], nominative, singular
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahnavāyyam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahnavāyyam* ← *hnavāyyam* ← *hnu*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānaṭ* ← *naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “reach; achieve; enter (a state); reach.”
-------------------------------------------------------------------------
+
+_________
+
 - *turvaṇe* ← *tur*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *śami*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

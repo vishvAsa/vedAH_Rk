@@ -67,29 +67,43 @@ májjanti ← √majj- (root)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *venā* ← *venāḥ* ← *vena*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *anūṣateyakṣanti* ← *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
-------------------------------------------------------------------------
+
+_________
+
 - *anūṣateyakṣanti* ← *iyakṣanti* ← *iyakṣ* ← *√yaj*
 - \[verb\], plural, Present indikative
 - “endeavor.”
-------------------------------------------------------------------------
+
+_________
+
 - *pracetasaḥ* ← *pracetas*
 - \[noun\], nominative, plural, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
-------------------------------------------------------------------------
+
+_________
+
 - *majjanty* ← *majjanti* ← *majj*
 - \[verb\], plural, Present indikative
 - “sink; drown; soak; sink; bathe.”
-------------------------------------------------------------------------
+
+_________
+
 - *avicetasaḥ* ← *avicetas*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

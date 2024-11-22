@@ -70,21 +70,31 @@ yuktám ← √yuj- (root)
 -   *ṛjram* ← *ṛjra*
 - \[noun\], accusative, singular, masculine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣaṇyāyane* ← *ukṣaṇyāyana*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rajataṃ* ← *rajatam* ← *rajata*
 - \[noun\], accusative, singular, masculine
 - “silver.”
-------------------------------------------------------------------------
+
+_________
+
 - *harayāṇe* ← *harayāṇa*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuktam* ← *yuj*
 - \[verb noun\], accusative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -92,14 +102,20 @@ yuktám ← √yuj- (root)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *asanāma* ← *san*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣāmaṇi* ← *suṣāman*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

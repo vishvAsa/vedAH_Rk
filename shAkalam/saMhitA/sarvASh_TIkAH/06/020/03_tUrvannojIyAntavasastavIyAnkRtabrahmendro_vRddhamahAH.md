@@ -96,19 +96,27 @@ yát ← yá- (pronoun)
 -   *tūrvann* ← *tūrvan* ← *tūrv*
 - \[verb noun\], nominative, singular
 - “overpower.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojīyān* ← *ojīyas*
 - \[noun\], nominative, singular, masculine
 - “stronger.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavasas* ← *tavasaḥ* ← *tavas*
 - \[noun\], ablative, singular, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
+
+_________
+
 - *tavīyān* ← *tavīyas*
 - \[noun\], nominative, singular, masculine
 - “stronger.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtabrahmendro* ← *kṛta* ← *kṛ*
 - \[verb noun\]
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -119,65 +127,93 @@ yát ← yá- (pronoun)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtabrahmendro* ← *brahmā* ← *brahman*
 - \[noun\], nominative, singular, masculine
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtabrahmendro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛddhamahāḥ* ← *vṛddha* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛddhamahāḥ* ← *mahāḥ* ← *mahas*
 - \[noun\], nominative, singular, masculine
 - “greatness; festival; glory; reward; gladness.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājābhavan* ← *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājābhavan* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhunaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *somyasya* ← *somya*
 - \[noun\], genitive, singular, neuter
 - “saumya.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāsāṃ* ← *viśvāsām* ← *viśva*
 - \[noun\], genitive, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *purāṃ* ← *purām* ← *pur*
 - \[noun\], genitive, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *dartnum* ← *dartnu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āvat* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

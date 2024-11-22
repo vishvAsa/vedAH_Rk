@@ -99,80 +99,116 @@ vidhya ← √vyadh- (root)
 -   *saṃvatsarīṇam* ← *saṃvatsarīṇa*
 - \[noun\], nominative, singular, neuter
 - “annual.”
-------------------------------------------------------------------------
+
+_________
+
 - *paya* ← *payaḥ* ← *payas*
 - \[noun\], nominative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *usriyāyās* ← *usriyāyāḥ* ← *usriyā*
 - \[noun\], genitive, singular, feminine
 - “cow; dairy product.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasya* ← *tad*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *māśīd* ← *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *māśīd* ← *aśīt* ← *aś*
 - \[verb\], singular, Aorist inj. (proh.)
 - “eat; consume; chew; feed.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātudhāno* ← *yātudhānaḥ* ← *yātudhāna*
 - \[noun\], nominative, singular, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛcakṣaḥ* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛcakṣaḥ* ← *cakṣaḥ* ← *cakṣas*
 - \[noun\], vocative, singular, masculine
 - “eye; look; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *pīyūṣam* ← *pīyūṣa*
 - \[noun\], accusative, singular, neuter
 - “amṛta; pīyūṣa; ambrosia.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatamas* ← *yatamaḥ* ← *yatama*
 - \[noun\], nominative, singular, masculine
 - “who.”
-------------------------------------------------------------------------
+
+_________
+
 - *titṛpsāt* ← *titṛps* ← *√tṛp*
 - \[verb\], singular, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 - *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratyañcam* ← *pratyañc*
 - \[noun\], accusative, singular, masculine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
-------------------------------------------------------------------------
+
+_________
+
 - *arciṣā* ← *arcis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; light; beam; gleam; shininess.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhya* ← *vyadh*
 - \[verb\], singular, Present imperative
 - “pierce; vedhay; pierce; transfix; bleed; pierce; cut off; injure.”
-------------------------------------------------------------------------
+
+_________
+
 - *marman*
 - \[noun\], locative, singular, neuter
 - “marman; secret; secret; mystery; vulnerability.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

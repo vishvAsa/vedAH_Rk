@@ -98,66 +98,98 @@ siñcat ← √sic- (root)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *dānāya* ← *dāna*
 - \[noun\], dative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
-------------------------------------------------------------------------
+
+_________
+
 - *dabhyāya* ← *dabhya*
 - \[noun\], dative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *vanvañcyavānaḥ* ← *vanvan* ← *van*
 - \[verb noun\], nominative, singular
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanvañcyavānaḥ* ← *cyavānaḥ* ← *cyavāna*
 - \[noun\], nominative, singular, masculine
 - “Cyavana.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūdair* ← *sūdaiḥ* ← *sūda*
 - \[noun\], instrumental, plural, masculine
 - “cook; sūda \[word\]; sūd.”
-------------------------------------------------------------------------
+
+_________
+
 - *amimīta* ← *mā*
 - \[verb\], singular, Imperfect
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedim* ← *vedi*
 - \[noun\], accusative, singular, feminine
 - “Vedi; pedestal.”
-------------------------------------------------------------------------
+
+_________
+
 - *tūrvayāṇo* ← *tūrvayāṇaḥ* ← *tūrvayāṇa*
 - \[noun\], nominative, singular, masculine
 - “Tūrvayāṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *gūrtavacastamaḥ* ← *gūrtavacastama*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kṣodo* ← *kṣodaḥ* ← *kṣodas*
 - \[noun\], accusative, singular, neuter
 - “swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *reta* ← *retaḥ* ← *retas*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm.”
-------------------------------------------------------------------------
+
+_________
+
 - *itaūti*
 - \[noun\], accusative, singular, neuter
 - “helpful; abiding.”
-------------------------------------------------------------------------
+
+_________
+
 - *siñcat* ← *sic*
 - \[verb\], singular, Present injunctive
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

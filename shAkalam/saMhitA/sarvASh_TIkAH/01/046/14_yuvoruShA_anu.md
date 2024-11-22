@@ -73,41 +73,59 @@ vanathaḥ ← √vanⁱ- (root)
 -   *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *śriyam* ← *śrī*
 - \[noun\], accusative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
-------------------------------------------------------------------------
+
+_________
+
 - *parijmanor* ← *parijmanoḥ* ← *parijman*
 - \[noun\], genitive, dual, masculine
 - “encompassing(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *upācarat* ← *upacar* ← *√car*
 - \[verb\], singular, Imperfect
 - “treat; serve; dress; treat; treat; undertake.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtā* ← *ṛta*
 - \[noun\], accusative, plural, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanatho* ← *vanathaḥ* ← *van*
 - \[verb\], dual, Present indikative
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *aktubhiḥ* ← *aktu*
 - \[noun\], instrumental, plural, masculine
 - “night; dark; beam.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

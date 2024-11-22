@@ -87,58 +87,86 @@ viśvā́yave ← viśvā́yu- (nominal stem)
 -   *ahastā* ← *ahasta*
 - \[noun\], nominative, singular, feminine
 - “handless.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *apadī* ← *apada*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vardhata* ← *vṛdh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāḥ* ← *kṣā*
 - \[noun\], nominative, singular, feminine
 - “Earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *śacībhir* ← *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedyānām* ← *vedyā*
 - \[noun\], genitive, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *pradakṣiṇid* ← *pradakṣiṇit*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāyave* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvāyave* ← *āyave* ← *āyu*
 - \[noun\], dative, singular, masculine
 - “life; life; age.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśnathaḥ* ← *śnath*
 - \[verb\], singular, Aorist inj. (proh.)
 - “pierce; kill.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

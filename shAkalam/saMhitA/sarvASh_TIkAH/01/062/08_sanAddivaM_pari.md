@@ -98,81 +98,117 @@ vápurbhiḥ ← vápus- (nominal stem)
 
 -   *sanād* ← *sanāt*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *divam* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmā* ← *bhūman*
 - \[noun\], nominative, singular, neuter
 - “Earth; floor.”
-------------------------------------------------------------------------
+
+_________
+
 - *virūpe* ← *virūpa*
 - \[noun\], nominative, dual, feminine
 - “ugly; maimed; grotesque.”
-------------------------------------------------------------------------
+
+_________
+
 - *punarbhuvā* ← *punarbhū*
 - \[noun\], nominative, dual, feminine
 - “punarbhū; punarnavā.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvatī*
 - \[noun\], nominative, dual, feminine
 - “girl.”
-------------------------------------------------------------------------
+
+_________
+
 - *svebhir* ← *svebhiḥ* ← *sva*
 - \[noun\], instrumental, plural, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *evaiḥ* ← *eva*
 - \[noun\], instrumental, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇebhir* ← *kṛṣṇebhiḥ* ← *kṛṣṇa*
 - \[noun\], instrumental, plural, neuter
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *aktoṣā* ← *aktā*
 - \[noun\], nominative, singular, feminine
 - “night.”
-------------------------------------------------------------------------
+
+_________
+
 - *aktoṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruśadbhir* ← *ruśadbhiḥ* ← *ruśat*
 - \[noun\], instrumental, plural, neuter
 - “white; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *vapurbhir* ← *vapurbhiḥ* ← *vapus*
 - \[noun\], instrumental, plural, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *carato* ← *carataḥ* ← *car*
 - \[verb\], dual, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyānyā* ← *anyā* ← *anya*
 - \[noun\], nominative, singular, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *anyānyā* ← *anyā* ← *anya*
 - \[noun\], nominative, singular, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

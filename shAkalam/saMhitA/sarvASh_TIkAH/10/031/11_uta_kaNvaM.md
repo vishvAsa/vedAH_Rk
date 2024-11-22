@@ -111,89 +111,129 @@ r̥tám ← r̥tá- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṇvaṃ* ← *kaṇvam* ← *kaṇva*
 - \[noun\], accusative, singular, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṣadaḥ* ← *nṛṣad*
 - \[noun\], genitive, singular, masculine
 - “Nṛṣad.”
-------------------------------------------------------------------------
+
+_________
+
 - *putram* ← *putra*
 - \[noun\], accusative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyāvo* ← *śyāvaḥ* ← *śyāva*
 - \[noun\], nominative, singular, masculine
 - “brown; dark; śyāva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanam* ← *dhana*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādatta* ← *ādā* ← *√dā*
 - \[verb\], singular, Imperfect
 - “take; take away; take out; pick; extract; drink; grasp; put;
     collect; accept; get; choose; remove; steal; bring; press out;
     impound; keep; eat; use; distill.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇāya* ← *kṛṣṇa*
 - \[noun\], dative, singular, masculine
 - “Krishna; Kṛṣṇa; Vishnu; Arjuna; Kṛṣṇa; Vyāsa; Shiva; Kṛṣṇa; Kṛṣṇa;
     Kṛṣṇa; Kṛṣṇa; Kṛṣṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruśad* ← *ruśat*
 - \[noun\], nominative, singular, neuter
 - “white; bright; bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *apinvatodhar* ← *apinvata* ← *pinv*
 - \[verb\], singular, Imperfect
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *apinvatodhar* ← *ūdhar* ← *ūdhas*
 - \[noun\], nominative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
-------------------------------------------------------------------------
+
+_________
+
 - *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakir*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *apīpet* ← *pyā*
 - \[verb\], singular, Plusquamperfect
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,44 +73,64 @@ rúcaḥ ← rúc- (nominal stem)
 -   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyase* ← *navyas*
 - \[noun\], dative, singular, neuter
 - “new.”
-------------------------------------------------------------------------
+
+_________
+
 - *navīyase* ← *navīyas*
 - \[noun\], dative, singular, neuter
 - “new; fresh; up-to-the-minute.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūktāya* ← *sūkta*
 - \[noun\], dative, singular, neuter
 - “Mantra; hymn.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhayā* ← *sādhaya* ← *sādhay* ← *√sādh*
 - \[verb\], singular, Present imperative
 - “prepare; cure; prepare; perform; produce; compound; treat; treat;
     overpower; achieve; use; cover; prove; prove; process.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnavad* ← *pratna*
 - \[noun\]
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnavad* ← *vat*
 - \[adverb\]
 - “equally; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocayā* ← *rocaya* ← *rocay* ← *√ruc*
 - \[verb\], singular, Present imperative
 - “like; approve; like; simulate.”
-------------------------------------------------------------------------
+
+_________
+
 - *rucaḥ* ← *ruc*
 - \[noun\], accusative, plural, feminine
 - “beam; radiance; color.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

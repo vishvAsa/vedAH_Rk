@@ -104,69 +104,103 @@ yásyām ← yá- (pronoun)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣañchivatamām* ← *pūṣan*
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūṣañchivatamām* ← *śivatamām* ← *śivatama*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *erayasva* ← *eray* ← *√īr*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *yasyām* ← *yad*
 - \[noun\], locative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bījam* ← *bīja*
 - \[noun\], accusative, singular, neuter
 - “bīja; seed; semen; bīja; beginning; menorrhea; bīja \[word\];
     footing; cause; origin; method; bead.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣyā* ← *manuṣyāḥ* ← *manuṣya*
 - \[noun\], nominative, plural, masculine
 - “man; people; man; manuṣya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vapanti* ← *vap*
 - \[verb\], plural, Present indikative
 - “sow; bestrew; strew; scatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrū* ← *ūru*
 - \[noun\], accusative, dual, masculine
 - “thigh; ūru \[word\]; ūru; shank.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśatī* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśrayāte* ← *viśri* ← *√śri*
 - \[verb\], singular, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 - *yasyām* ← *yad*
 - \[noun\], locative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *uśantaḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *praharāma* ← *prahṛ* ← *√hṛ*
 - \[verb\], plural, Present imperative
 - “fight; attack; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *śepam* ← *śepa*
 - \[noun\], accusative, singular, masculine
 - “penis.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

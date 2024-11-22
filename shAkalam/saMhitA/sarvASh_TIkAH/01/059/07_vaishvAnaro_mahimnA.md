@@ -84,56 +84,82 @@ sūnŕ̥tāvān ← sūnŕ̥tāvant- (nominal stem)
 -   *vaiśvānaro* ← *vaiśvānaraḥ* ← *vaiśvānara*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahimnā* ← *mahiman*
 - \[noun\], instrumental, singular, masculine
 - “greatness; power; mahiman.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvakṛṣṭir* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvakṛṣṭir* ← *kṛṣṭiḥ* ← *kṛṣṭi*
 - \[noun\], nominative, singular, masculine
 - “people; citizenry.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharadvājeṣu* ← *bharadvāja*
 - \[noun\], locative, plural, masculine
 - “Bharadvāja; Droṇa; Bharadvāja; skylark.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajato* ← *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, masculine
 - “illuminating; shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *śātavaneye* ← *śātavaneya*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śatinībhir* ← *śatinībhiḥ* ← *śatin*
 - \[noun\], instrumental, plural, feminine
 - “hundredfold.”
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṇīthe* ← *puruṇītha*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *jarate* ← *jṛ*
 - \[verb\], singular, Present indikative
 - “sing.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛtāvān* ← *sūnṛtāvat*
 - \[noun\], nominative, singular, masculine
 - “happy; big; auspicious.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

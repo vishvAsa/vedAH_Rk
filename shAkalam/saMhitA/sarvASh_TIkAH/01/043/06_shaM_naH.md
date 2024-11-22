@@ -76,11 +76,15 @@ nŕ̥bhyaḥ ← nár- (nominal stem)
 -   *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *karaty* ← *karati* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -91,35 +95,51 @@ nŕ̥bhyaḥ ← nár- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvate* ← *arvant*
 - \[noun\], dative, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugam* ← *suga*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *meṣāya* ← *meṣa*
 - \[noun\], dative, singular, masculine
 - “sheep; ram; Naigameṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *meṣye* ← *meṣī*
 - \[noun\], dative, singular, feminine
 - “ewe; Dalbergia oojeinensis.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛbhyo* ← *nṛbhyaḥ* ← *nṛ*
 - \[noun\], dative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāribhyo* ← *nāribhyaḥ* ← *nārī*
 - \[noun\], dative, plural, feminine
 - “woman; wife; female.”
-------------------------------------------------------------------------
+
+_________
+
 - *gave* ← *go*
 - \[noun\], dative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

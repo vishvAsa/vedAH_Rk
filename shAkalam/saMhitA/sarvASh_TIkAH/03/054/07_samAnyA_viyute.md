@@ -95,72 +95,104 @@ u ← u (invariable)
 
 -   *samānyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *viyute* ← *viyu* ← *√yu*
 - \[verb noun\], nominative, dual
 - “spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūreante* ← *dūreanta*
 - \[noun\], nominative, dual, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *dhruve* ← *dhruva*
 - \[noun\], locative, singular, neuter
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
-------------------------------------------------------------------------
+
+_________
+
 - *pade* ← *pada*
 - \[noun\], locative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthatur* ← *tasthatuḥ* ← *sthā*
 - \[verb\], dual, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāgarūke* ← *jāgarūka*
 - \[noun\], nominative, dual, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *svasārā* ← *svasṛ*
 - \[noun\], nominative, dual, feminine
 - “sister; svasṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvatī*
 - \[noun\], nominative, dual, feminine
 - “girl.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavantī*
 - \[noun\], nominative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *bruvāte* ← *brū*
 - \[verb\], dual, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *mithunāni* ← *mithuna*
 - \[noun\], accusative, plural, neuter
 - “mated.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

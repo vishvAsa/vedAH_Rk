@@ -80,49 +80,71 @@ pakvā́ ← pakvá- (nominal stem)
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛtā*
 - \[noun\], nominative, singular, feminine
 - “liberality.”
-------------------------------------------------------------------------
+
+_________
+
 - *virapśī* ← *virapśa*
 - \[noun\], nominative, singular, feminine
 - “ample.”
-------------------------------------------------------------------------
+
+_________
+
 - *gomatī* ← *gomat*
 - \[noun\], nominative, singular, feminine
 - “rich in cattle; bovine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *pakvā* ← *pakva*
 - \[noun\], nominative, singular, feminine
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
-------------------------------------------------------------------------
+
+_________
+
 - *śākhā*
 - \[noun\], nominative, singular, feminine
 - “branch; limb; school; extremity; śākhā \[word\]; bough; branchlet;
     finger.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

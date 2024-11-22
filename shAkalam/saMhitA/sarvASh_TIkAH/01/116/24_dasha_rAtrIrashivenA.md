@@ -102,74 +102,110 @@ sruvéṇa ← sruvá- (nominal stem)
 -   *daśa* ← *daśan*
 - \[noun\], accusative, plural, feminine
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rātrīr* ← *rātrīḥ* ← *rātri*
 - \[noun\], accusative, plural, feminine
 - “night; night; rātri \[word\]; turmeric; Rātri; day; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśivenā* ← *aśivena* ← *aśiva*
 - \[noun\], instrumental, singular, masculine
 - “inauspicious; unkind; unfriendly; cruel; dangerous.”
-------------------------------------------------------------------------
+
+_________
+
 - *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *avanaddhaṃ* ← *avanaddham* ← *avanah* ← *√nah*
 - \[verb noun\], accusative, singular
 - “cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *śnathitam* ← *śnath*
 - \[verb noun\], accusative, singular
 - “pierce; kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprutaṃ* ← *viprutam* ← *vipru* ← *√pru*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *rebham* ← *rebha*
 - \[noun\], accusative, singular, masculine
 - “bard; eulogist.”
-------------------------------------------------------------------------
+
+_________
+
 - *udani* ← *udan*
 - \[noun\], locative, singular, neuter
 - “water; body of water.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravṛktam* ← *pravṛj* ← *√vṛj*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *un* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *ninyathuḥ* ← *nī*
 - \[verb\], dual, Perfect indicative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sruveṇa* ← *sruva*
 - \[noun\], instrumental, singular, masculine
 - “Sruva; sruva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

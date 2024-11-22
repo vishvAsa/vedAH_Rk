@@ -102,78 +102,114 @@ uṣásaḥ ← uṣás- (nominal stem)
 -   *kiṃ* ← *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svid*
 - \[adverb\]
 - “svid \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vanaṃ* ← *vanam* ← *vana*
 - \[noun\], nominative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *ka* ← *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkṣa* ← *vṛkṣaḥ* ← *vṛkṣa*
 - \[noun\], nominative, singular, masculine
 - “tree; fruit tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsa* ← *as*
 - \[verb\], singular, Perfect indicative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *yato* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvāpṛthivī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣṭatakṣuḥ* ← *nistakṣ* ← *√takṣ*
 - \[verb\], plural, Perfect indicative
 - “create; fashion; carve; shape.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃtasthāne* ← *saṃsthā* ← *√sthā*
 - \[verb noun\], accusative, dual
 - “situate; stay; stand; die; get stale; inhere; dwell; end; happen.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajare* ← *ajara*
 - \[noun\], accusative, dual, feminine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *itaūtī* ← *itaūti*
 - \[noun\], accusative, dual, feminine
 - “helpful; abiding.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahāni* ← *ahar*
 - \[noun\], nominative, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaranta* ← *jṛ*
 - \[verb\], plural, Present injunctive
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

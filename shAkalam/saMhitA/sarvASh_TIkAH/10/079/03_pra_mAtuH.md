@@ -105,82 +105,120 @@ upásthe ← upástha- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātuḥ* ← *mātṛ*
 - \[noun\], genitive, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *prataraṃ* ← *prataram*
 - \[adverb\]
 - “farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *guhyam* ← *guhya*
 - \[noun\], accusative, singular, masculine
 - “secret; concealed.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchan* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *kumāro* ← *kumāraḥ* ← *kumāra*
 - \[noun\], nominative, singular, masculine
 - “prince; male child; child; Skanda; son; kumārabandha; kumāra
     \[word\]; young person.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrudhaḥ* ← *vīrudh*
 - \[noun\], accusative, plural, feminine
 - “plant; shrub.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarpad* ← *sarpat* ← *sṛp*
 - \[verb\], singular, Present injunctive
 - “crawl; spread; wander.”
-------------------------------------------------------------------------
+
+_________
+
 - *urvīḥ* ← *uru*
 - \[noun\], accusative, plural, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasaṃ* ← *sasam* ← *sasa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pakvam* ← *pakva*
 - \[noun\], accusative, singular, masculine
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
-------------------------------------------------------------------------
+
+_________
+
 - *avidacchucantaṃ* ← *avidat* ← *vid*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *avidacchucantaṃ* ← *śucantam* ← *śuc*
 - \[verb noun\], accusative, singular
 - “mourn; grieve; flame; glow; burn; repent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ririhvāṃsaṃ* ← *ririhvāṃsam* ← *rih*
 - \[verb noun\], accusative, singular
 - “lick.”
-------------------------------------------------------------------------
+
+_________
+
 - *ripa* ← *ripaḥ* ← *rip*
 - \[noun\], genitive, singular, feminine
 - “deceiver.”
-------------------------------------------------------------------------
+
+_________
+
 - *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

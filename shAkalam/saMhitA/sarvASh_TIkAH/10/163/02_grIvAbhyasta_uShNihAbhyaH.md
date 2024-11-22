@@ -84,50 +84,74 @@ vr̥hāmi ← √vr̥h- (root)
 -   *grīvābhyas* ← *grīvābhyaḥ* ← *grīvā*
 - \[noun\], ablative, plural, feminine
 - “neck; grīvā \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣṇihābhyaḥ* ← *uṣṇihā*
 - \[noun\], ablative, plural, feminine
 - “Uṣṇih; nape.”
-------------------------------------------------------------------------
+
+_________
+
 - *kīkasābhyo* ← *kīkasābhyaḥ* ← *kīkasā*
 - \[noun\], ablative, plural, feminine
 - “vertebra.”
-------------------------------------------------------------------------
+
+_________
+
 - *anūkyāt* ← *anūkya*
 - \[noun\], ablative, singular, neuter
 - “spinal column.”
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣmaṃ* ← *yakṣmam* ← *yakṣma*
 - \[noun\], accusative, singular, masculine
 - “tuberculosis; disease; pulmonary tuberculosis.”
-------------------------------------------------------------------------
+
+_________
+
 - *doṣaṇyam* ← *doṣaṇya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aṃsābhyām* ← *aṃsa*
 - \[noun\], ablative, dual, masculine
 - “shoulder; aṃsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhubhyāṃ* ← *bāhubhyām* ← *bāhu*
 - \[noun\], ablative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛhāmi* ← *vṛh*
 - \[verb\], singular, Present indikative
 - “extract.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

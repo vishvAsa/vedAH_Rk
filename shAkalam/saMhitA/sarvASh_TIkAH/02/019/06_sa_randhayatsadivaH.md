@@ -101,70 +101,104 @@ ví ← ví (invariable)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *randhayat* ← *randhay* ← *√radh*
 - \[verb\], singular, Present injunctive
 - “subjugate; hand over.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadivaḥ* ← *sadivas*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sārathaye* ← *sārathi*
 - \[noun\], dative, singular, masculine
 - “charioteer; sārathi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśuṣaṃ* ← *aśuṣam* ← *aśuṣa*
 - \[noun\], accusative, singular, masculine
 - “edacious.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuyavaṃ* ← *kuyavam* ← *kuyava*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kutsāya* ← *kutsa*
 - \[noun\], dative, singular, masculine
 - “Kutsa; kutsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *divodāsāya* ← *divodāsa*
 - \[noun\], dative, singular, masculine
 - “Divodāsa.”
-------------------------------------------------------------------------
+
+_________
+
 - *navatiṃ* ← *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *navendraḥ* ← *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
-------------------------------------------------------------------------
+
+_________
+
 - *navendraḥ* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *airacchambarasya* ← *airat* ← *īr*
 - \[verb\], singular, Imperfect
 - “go.”
-------------------------------------------------------------------------
+
+_________
+
 - *airacchambarasya* ← *śambarasya* ← *śambara*
 - \[noun\], genitive, singular, masculine
 - “Śambara; Śambara.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

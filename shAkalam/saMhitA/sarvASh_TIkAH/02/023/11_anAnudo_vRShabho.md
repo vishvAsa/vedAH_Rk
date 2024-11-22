@@ -99,69 +99,103 @@ vīḷuharṣíṇaḥ ← vīḷuharṣín- (nominal stem)
 -   *anānudo* ← *anānudaḥ* ← *anānuda*
 - \[noun\], nominative, singular, masculine
 - “firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagmir* ← *jagmiḥ* ← *jagmi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āhavaṃ* ← *āhavam* ← *āhava*
 - \[noun\], accusative, singular, masculine
 - “battle; fight; challenge; war.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣṭaptā* ← *niṣṭap* ← *√tap*
 - \[verb\], singular, periphrast. future
-------------------------------------------------------------------------
+
+_________
+
 - *śatrum* ← *śatru*
 - \[noun\], accusative, singular, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāsahiḥ* ← *sāsahi*
 - \[noun\], nominative, singular, masculine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *satya*
 - \[noun\], vocative, singular, masculine
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇayā* ← *ṛṇayāḥ* ← *ṛṇayā*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaṇaspata* ← *brahmaṇaspate* ← *brahmaṇaspati*
 - \[noun\], vocative, singular, masculine
 - “Brahmaṇaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugrasya* ← *ugra*
 - \[noun\], genitive, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *damitā* ← *dam*
 - \[verb\], singular, periphrast. future
 - “calm; mortify; tame.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīḍuharṣiṇaḥ* ← *vīḍu*
 - \[noun\]
 - “hard; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīḍuharṣiṇaḥ* ← *harṣiṇaḥ* ← *harṣin*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

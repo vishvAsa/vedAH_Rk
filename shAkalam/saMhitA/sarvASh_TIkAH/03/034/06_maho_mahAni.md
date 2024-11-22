@@ -93,23 +93,33 @@ māyā́bhiḥ ← māyā́- (nominal stem)
 -   *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahāni* ← *maha*
 - \[noun\], accusative, plural, neuter
 - “great; abundant.”
-------------------------------------------------------------------------
+
+_________
+
 - *panayanty* ← *panayanti* ← *panay* ← *√pan*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *asyendrasya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyendrasya* ← *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *karma* ← *karman*
 - \[noun\], nominative, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -117,11 +127,15 @@ māyā́bhiḥ ← māyā́- (nominal stem)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukṛtā* ← *kṛtā* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -132,44 +146,64 @@ māyā́bhiḥ ← māyā́- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *purūṇi* ← *puru*
 - \[noun\], nominative, plural, neuter
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjanena* ← *vṛjana*
 - \[noun\], instrumental, singular, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjinān* ← *vṛjina*
 - \[noun\], accusative, plural, masculine
 - “deceitful; crooked; bent.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *pipeṣa* ← *piṣ*
 - \[verb\], singular, Perfect indicative
 - “grind; knead; paste; crush; press out.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyābhir* ← *māyābhiḥ* ← *māyā*
 - \[noun\], instrumental, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyūṃr* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhibhūtyojāḥ* ← *abhibhūti*
 - \[noun\]
 - “superior; overpowering.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhibhūtyojāḥ* ← *ojāḥ* ← *ojas*
 - \[noun\], nominative, singular, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -93,64 +93,94 @@ pātayati ← √pat- 1 (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ghā* ← *gha*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣeva* ← *yoṣā*
 - \[noun\], nominative, singular, feminine
 - “woman; puppet; daughter.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoṣeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnary* ← *sūnarī* ← *sūnara*
 - \[noun\], nominative, singular, feminine
 - “noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *prabhuñjatī* ← *prabhuj* ← *√bhuj*
 - \[verb noun\], nominative, singular
 - “consume; eat.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarayantī* ← *jaray* ← *√jṛ*
 - \[verb noun\], nominative, singular
 - “jāray; digest; consume.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjanam* ← *vṛjana*
 - \[noun\], accusative, singular, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *padvad* ← *padvat*
 - \[noun\], accusative, singular, neuter
 - “footed.”
-------------------------------------------------------------------------
+
+_________
+
 - *īyata* ← *īyate* ← *i*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *ut* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *pātayati* ← *pātay* ← *√pat*
 - \[verb\], singular, Present indikative
 - “pātay; kill; make fall; destroy; lower; put on; cut off; use; make
     fly; drip; divide; give; pour; prick.”
-------------------------------------------------------------------------
+
+_________
+
 - *pakṣiṇaḥ* ← *pakṣin*
 - \[noun\], accusative, plural, masculine
 - “bird; mākṣika; poultry.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

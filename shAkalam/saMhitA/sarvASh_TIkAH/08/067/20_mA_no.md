@@ -79,47 +79,69 @@ vadhīt ← √vadhⁱ- (root)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *hetir* ← *hetiḥ* ← *heti*
 - \[noun\], nominative, singular, feminine
 - “projectile; heti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vivasvata* ← *vivasvataḥ* ← *vivasvant*
 - \[noun\], genitive, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityāḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtrimā* ← *kṛtrima*
 - \[noun\], nominative, singular, feminine
 - “factitious; artificial; fake.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaruḥ* ← *śaru*
 - \[noun\], nominative, singular, feminine
 - “arrow.”
-------------------------------------------------------------------------
+
+_________
+
 - *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaraso* ← *jarasaḥ* ← *jaras*
 - \[noun\], ablative, singular, feminine
 - “old age.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhīt* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

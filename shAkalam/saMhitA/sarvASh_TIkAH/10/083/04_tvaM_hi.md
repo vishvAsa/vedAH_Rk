@@ -90,61 +90,91 @@ pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *manyo* ← *manyu*
 - \[noun\], vocative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhibhūtyojāḥ* ← *abhibhūti*
 - \[noun\]
 - “superior; overpowering.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhibhūtyojāḥ* ← *ojāḥ* ← *ojas*
 - \[noun\], nominative, singular, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayaṃbhūr* ← *svayaṃbhūḥ* ← *svayaṃbhū*
 - \[noun\], nominative, singular, masculine
 - “spontaneous.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāmo* ← *bhāmaḥ* ← *bhāma*
 - \[noun\], nominative, singular, masculine
 - “wrath; anger.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhimātiṣāhaḥ* ← *abhimātiṣāha*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *viśvacarṣaṇiḥ* ← *viśvacarṣaṇi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sahuriḥ* ← *sahuri*
 - \[noun\], nominative, singular, masculine
 - “victorious; mighty; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahāvān* ← *sahāva*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *asmāsv* ← *asmāsu* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

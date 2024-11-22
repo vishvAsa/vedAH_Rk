@@ -87,56 +87,82 @@ víśvāḥ ← víśva- (nominal stem)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], vocative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhukṣaṇaḥ* ← *ṛbhukṣan*
 - \[noun\], vocative, plural, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathaś* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *citana* ← *ci*
 - \[verb\], plural, Aorist imperative
 - “cover; accumulate; pile up; pick; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṣṭave* ← *yaj*
 - \[verb noun\]
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūraya* ← *sūrayaḥ* ← *sūri*
 - \[noun\], vocative, plural, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *stutā* ← *stutāḥ* ← *stu*
 - \[verb noun\], nominative, plural
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśās* ← *āśāḥ* ← *āśā*
 - \[noun\], accusative, plural, feminine
 - “quarter; region; geographical area; sky; space.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarīṣaṇi* ← *tṛ*
 - \[verb noun\]
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

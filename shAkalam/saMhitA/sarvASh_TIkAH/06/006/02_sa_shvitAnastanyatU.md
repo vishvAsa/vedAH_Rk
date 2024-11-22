@@ -95,68 +95,100 @@ pr̥thū́ni ← pr̥thú- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvitānas* ← *śvitānaḥ* ← *śvitāna*
 - \[noun\], nominative, singular, masculine
 - “bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanyatū* ← *tanyatuḥ* ← *tanyatu*
 - \[noun\], nominative, singular, masculine
 - “thunder.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocanasthā* ← *rocana*
 - \[noun\], neuter
 - “light; celestial sphere.”
-------------------------------------------------------------------------
+
+_________
+
 - *rocanasthā* ← *sthāḥ* ← *sthā*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ajarebhir* ← *ajarebhiḥ* ← *ajara*
 - \[noun\], instrumental, plural, masculine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *nānadadbhir* ← *nānadadbhiḥ* ← *nānad* ← *√nad*
 - \[verb noun\], instrumental, plural
 - “bellow.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaviṣṭhaḥ* ← *yaviṣṭha*
 - \[noun\], nominative, singular, masculine
 - “youngest.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pāvakaḥ* ← *pāvaka*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
-------------------------------------------------------------------------
+
+_________
+
 - *purutamaḥ* ← *purutama*
 - \[noun\], nominative, singular, masculine
 - “most(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *purūṇi* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthūny* ← *pṛthūni* ← *pṛthu*
 - \[noun\], accusative, plural, neuter
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *anuyāti* ← *anuyā* ← *√yā*
 - \[verb\], singular, Present indikative
 - “follow; pursue.”
-------------------------------------------------------------------------
+
+_________
+
 - *bharvan* ← *bharv*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

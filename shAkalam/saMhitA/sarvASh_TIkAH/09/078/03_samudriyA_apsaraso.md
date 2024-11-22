@@ -99,71 +99,105 @@ yā́cante ← √yāc- (root)
 -   *samudriyā* ← *samudriyāḥ* ← *samudriya*
 - \[noun\], nominative, plural, feminine
 - “oceanic; oceanic.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsaraso* ← *apsarasaḥ* ← *apsaras*
 - \[noun\], nominative, plural, feminine
 - “Apsaras.”
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣiṇam* ← *manīṣin*
 - \[noun\], accusative, singular, masculine
 - “sage; expert; devout.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsīnā* ← *āsīnāḥ* ← *ās*
 - \[verb noun\], nominative, plural
 - “sit; stay; sit down; dwell; lie; lie; exist.”
-------------------------------------------------------------------------
+
+_________
+
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣaran* ← *kṣar*
 - \[verb\], plural, Root aorist (Ind.)
 - “run; melt.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *hinvanti* ← *hi*
 - \[verb\], plural, Present indikative
 - “impel; send; spur; stimulate; urge.”
-------------------------------------------------------------------------
+
+_________
+
 - *harmyasya* ← *harmya*
 - \[noun\], genitive, singular, neuter
 - “mansion; house; palace.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakṣaṇiṃ* ← *sakṣaṇim* ← *sakṣaṇi*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yācante* ← *yāc*
 - \[verb\], plural, Present indikative
 - “beg; ask; offer; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *pavamānam* ← *pū*
 - \[verb noun\], accusative, singular
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣitam* ← *akṣita*
 - \[noun\], accusative, singular, neuter
 - “undecaying; uninjured.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -77,47 +77,69 @@ súvidvāṁsam ← súvidvaṁs- (nominal stem)
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaiyaśva*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *daśamaṃ* ← *daśamam* ← *daśama*
 - \[noun\], accusative, singular, masculine
 - “tenth.”
-------------------------------------------------------------------------
+
+_________
+
 - *navam* ← *nava*
 - \[noun\], accusative, singular, masculine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvidvāṃsaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvidvāṃsaṃ* ← *vidvāṃsam* ← *vid*
 - \[verb noun\], accusative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *carkṛtyaṃ* ← *carkṛtyam* ← *carkar* ← *√kṛ*
 - \[verb noun\], accusative, singular
 - “praise; commemorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *caraṇīnām* ← *caraṇi*
 - \[noun\], genitive, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

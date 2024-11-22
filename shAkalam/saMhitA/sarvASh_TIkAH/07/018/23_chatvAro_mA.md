@@ -93,63 +93,95 @@ vahanti ← √vah- (root)
 -   *catvāro* ← *catvāraḥ* ← *catur*
 - \[noun\], nominative, plural, masculine
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *paijavanasya* ← *paijavana*
 - \[noun\], genitive, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *dānāḥ* ← *dāna*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *smaddiṣṭayaḥ* ← *smaddiṣṭi*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kṛśanino* ← *kṛśaninaḥ* ← *kṛśanin*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nireke* ← *nireka*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjrāso* ← *ṛjrāsaḥ* ← *ṛjra*
 - \[noun\], nominative, plural, masculine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthiviṣṭhāḥ* ← *pṛthivi* ← *pṛthivī*
 - \[noun\], feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthiviṣṭhāḥ* ← *sthāḥ* ← *sthā*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sudāsas* ← *sudāsaḥ* ← *sudās*
 - \[noun\], genitive, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *tokaṃ* ← *tokam* ← *toka*
 - \[noun\], accusative, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravase* ← *śravas*
 - \[noun\], dative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

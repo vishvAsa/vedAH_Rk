@@ -67,43 +67,63 @@ udríṇam ← udrín- (nominal stem)
 -   *iṣkṛtāhāvam* ← *iṣkṛta* ← *iṣkṛ* ← *√kṛ*
 - \[verb noun\]
 - “prepare.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣkṛtāhāvam* ← *āhāvam* ← *āhāva*
 - \[noun\], accusative, singular, masculine
 - “bucket; āhāva \[word\]; manger.”
-------------------------------------------------------------------------
+
+_________
+
 - *avataṃ* ← *avatam* ← *avata*
 - \[noun\], accusative, singular, masculine
 - “well.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvaratraṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvaratraṃ* ← *varatram* ← *varatrā*
 - \[noun\], accusative, singular, masculine
 - “cord; strap.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣecanam* ← *suṣecana*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *udriṇaṃ* ← *udriṇam* ← *udrin*
 - \[noun\], accusative, singular, masculine
 - “filled with water.”
-------------------------------------------------------------------------
+
+_________
+
 - *siñce* ← *sic*
 - \[verb\], singular, Present indikative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣitam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣitam* ← *kṣitam* ← *kṣi*
 - \[verb noun\], accusative, singular
 - “decrease; emaciate; vanish; kill; wane; destroy; run down; elapse;
     lose; lose; gasify; decline; decay; corrupt.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

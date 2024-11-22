@@ -92,65 +92,97 @@ sākṣate ← √sah- (root)
 
 -   *stuṣeyyam* ← *stuṣeyya*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *puruvarpasam* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruvarpasam* ← *varpasam* ← *varpas*
 - \[noun\], accusative, singular, masculine
 - “form; look; disguise.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbhvam* ← *ṛbhva*
 - \[noun\], accusative, singular, masculine
 - “adroit.”
-------------------------------------------------------------------------
+
+_________
+
 - *inatamam* ← *inatama*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āptyam* ← *āptya*
 - \[noun\], accusative, singular, masculine
 - “Āptya; Trita.”
-------------------------------------------------------------------------
+
+_________
+
 - *āptyānām* ← *āptya*
 - \[noun\], genitive, plural, masculine
 - “Āptya; Trita.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *darṣate* ← *dṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “burst; burst.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapta* ← *saptan*
 - \[noun\], accusative, plural, masculine
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *dānūn* ← *dānu*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *sākṣate* ← *sah*
 - \[verb\], singular, Aorist conj./subj.
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratimānāni* ← *pratimāna*
 - \[noun\], accusative, plural, neuter
 - “weight.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūri*
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

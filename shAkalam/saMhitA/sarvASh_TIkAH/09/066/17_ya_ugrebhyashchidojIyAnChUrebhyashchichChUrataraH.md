@@ -76,46 +76,68 @@ máṁhīyān ← máṁhīyaṁs- (nominal stem)
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ugrebhyaś* ← *ugrebhyaḥ* ← *ugra*
 - \[noun\], ablative, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojīyāñchūrebhyaś* ← *ojīyān* ← *ojīyas*
 - \[noun\], nominative, singular, masculine
 - “stronger.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojīyāñchūrebhyaś* ← *śūrebhyaḥ* ← *śūra*
 - \[noun\], ablative, plural, masculine
 - “brave; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *cicchūrataraḥ* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *cicchūrataraḥ* ← *śūrataraḥ* ← *śūratara*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bhūridābhyaś* ← *bhūri*
 - \[noun\]
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūridābhyaś* ← *dābhyaḥ* ← *dā*
 - \[noun\], ablative, plural, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṃhīyān* ← *maṃhīyas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

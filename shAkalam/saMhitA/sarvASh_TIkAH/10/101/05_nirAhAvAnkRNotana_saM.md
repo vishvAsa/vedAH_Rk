@@ -84,11 +84,15 @@ suṣékam ← suṣéka- (nominal stem)
 -   *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhāvān* ← *āhāva*
 - \[noun\], accusative, plural, masculine
 - “bucket; āhāva \[word\]; manger.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇotana* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -99,46 +103,68 @@ suṣékam ← suṣéka- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *varatrā* ← *varatrāḥ* ← *varatrā*
 - \[noun\], accusative, plural, feminine
 - “cord; strap.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhātana* ← *dhā*
 - \[verb\], plural, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *siñcāmahā* ← *siñcāmahai* ← *sic*
 - \[verb\], plural, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *avatam* ← *avata*
 - \[noun\], accusative, singular, masculine
 - “well.”
-------------------------------------------------------------------------
+
+_________
+
 - *udriṇaṃ* ← *udriṇam* ← *udrin*
 - \[noun\], accusative, singular, masculine
 - “filled with water.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣekam* ← *suṣeka*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *anupakṣitam* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *anupakṣitam* ← *upakṣitam* ← *upakṣi* ← *√kṣi*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

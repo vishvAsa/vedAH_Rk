@@ -111,23 +111,33 @@ varuṇa ← váruṇa- (nominal stem)
 -   *para* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇā* ← *ṛṇa*
 - \[noun\], accusative, plural, neuter
 - “debt; debt; ṛṇa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sāvīr* ← *sāvīḥ* ← *sū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “give birth; urge; bestow; cause.”
-------------------------------------------------------------------------
+
+_________
+
 - *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *matkṛtāni* ← *mad*
 - \[noun\]
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *matkṛtāni* ← *kṛtāni* ← *kṛ*
 - \[verb noun\], accusative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -138,24 +148,34 @@ varuṇa ← váruṇa- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *māhaṃ* ← *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *māhaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rājann* ← *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyakṛtena* ← *anya*
 - \[noun\]
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *anyakṛtena* ← *kṛtena* ← *kṛ*
 - \[verb noun\], instrumental, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -166,63 +186,91 @@ varuṇa ← váruṇa- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhojam* ← *bhuj*
 - \[verb\], singular, Aorist inj. (proh.)
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyuṣṭā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *avyuṣṭā* ← *vyuṣṭāḥ* ← *vivas* ← *√vas*
 - \[verb noun\], nominative, plural
 - “spend; dwell.”
-------------------------------------------------------------------------
+
+_________
+
 - *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūyasīr* ← *bhūyasīḥ* ← *bhūyas*
 - \[noun\], nominative, plural, feminine
 - “more(a); more(a); abounding in(p); stronger; bigger.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣāsa* ← *uṣāsaḥ* ← *uṣa*
 - \[noun\], nominative, plural, feminine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *jīvān* ← *jīva*
 - \[noun\], accusative, plural, masculine
 - “live; alive(p); amṛta.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāsu* ← *tad*
 - \[noun\], locative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *śādhi* ← *śās*
 - \[verb\], singular, Present imperative
 - “teach; govern; command; order; control; tell; recommend; chastize;
     instruct.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

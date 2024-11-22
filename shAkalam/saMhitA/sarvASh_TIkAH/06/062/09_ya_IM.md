@@ -99,18 +99,26 @@ vácase ← vácas- (nominal stem)
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *rājānāv* ← *rājānau* ← *rājan*
 - \[noun\], vocative, dual, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtuthā*
 - \[adverb\]
 - “seasonably.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidadhad* ← *vidadhat* ← *vidhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 - “produce; perform; administer; cause; shape; use; make; dig;
@@ -118,57 +126,83 @@ vácase ← vácas- (nominal stem)
     regulate; add; arrange; create; dress; inject; process; think of;
     order; name; breed; raise; write; produce; grant; appoint; do; put
     on.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajaso* ← *rajasaḥ* ← *rajas*
 - \[noun\], genitive, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇaś* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *ciketat* ← *cit*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 - *gambhīrāya* ← *gambhīra*
 - \[noun\], dative, singular, neuter
 - “deep; bass; complex; profound; complicated; intense; gambhīra
     \[word\]; hidden.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣase* ← *rakṣas*
 - \[noun\], dative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hetim* ← *heti*
 - \[noun\], accusative, singular, feminine
 - “projectile; heti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *as*
 - \[verb\], singular, Present imperative
 - “shoot; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *droghāya* ← *drogha*
 - \[noun\], dative, singular, neuter
 - “deceitful.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *vacasa* ← *vacase* ← *vacas*
 - \[noun\], dative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānavāya* ← *ānava*
 - \[noun\], dative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

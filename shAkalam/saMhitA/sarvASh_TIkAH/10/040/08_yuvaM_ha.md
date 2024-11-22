@@ -102,80 +102,118 @@ vrajám ← vrajá- (nominal stem)
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛśaṃ* ← *kṛśam* ← *kṛśa*
 - \[noun\], accusative, singular, masculine
 - “Kṛśa.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *śayuṃ* ← *śayum* ← *śayu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhantaṃ* ← *vidhantam* ← *vidh*
 - \[verb noun\], accusative, singular
 - “worship; offer.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidhavām* ← *vidhavā*
 - \[noun\], accusative, singular, feminine
 - “widow.”
-------------------------------------------------------------------------
+
+_________
+
 - *uruṣyathaḥ* ← *uruṣy*
 - \[verb\], dual, Present indikative
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanibhya* ← *sanibhyaḥ* ← *sani*
 - \[noun\], dative, plural, masculine
 - “gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *stanayantam* ← *stanay* ← *√stan*
 - \[verb noun\], accusative, singular
 - “thunder; thunder.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvināpa* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvināpa* ← *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrṇuthaḥ* ← *vṛ*
 - \[verb\], dual, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptāsyam* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *saptāsyam* ← *āsyam* ← *āsya*
 - \[noun\], accusative, singular, masculine
 - “mouth; mouth; aperture; face; mukha; jaw; point.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

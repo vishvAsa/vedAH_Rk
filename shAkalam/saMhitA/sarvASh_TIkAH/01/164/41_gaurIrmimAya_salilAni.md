@@ -98,65 +98,95 @@ vyòman ← vyòman- (nominal stem)
 -   *gaurīr* ← *gaurīḥ* ← *gaurī*
 - \[noun\], nominative, singular, feminine
 - “Parvati; gorocanā; turmeric; gaurī; gaurīpāṣāṇa; abhra; Gaurī.”
-------------------------------------------------------------------------
+
+_________
+
 - *mimāya* ← *mā*
 - \[verb\], singular, Perfect indicative
 - “moo; howl.”
-------------------------------------------------------------------------
+
+_________
+
 - *salilāni* ← *salila*
 - \[noun\], accusative, plural, neuter
 - “water; juice; body of water; Udaka; rain; flood.”
-------------------------------------------------------------------------
+
+_________
+
 - *takṣaty* ← *takṣatī* ← *takṣ*
 - \[verb noun\], nominative, singular
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekapadī* ← *ekapada*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *dvipadī* ← *dvipada*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *catuṣpadī* ← *catuṣpada*
 - \[noun\], nominative, singular, feminine
 - “quadrupedal.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣṭāpadī* ← *aṣṭāpada*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *navapadī* ← *navapada*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *babhūvuṣī* ← *bhū*
 - \[verb noun\], nominative, singular
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrākṣarā* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrākṣarā* ← *akṣarā* ← *akṣara*
 - \[noun\], nominative, singular, feminine
 - “syllable; Om; sound; Brahma; vowel; word; final emancipation.”
-------------------------------------------------------------------------
+
+_________
+
 - *parame* ← *parama*
 - \[noun\], locative, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyoman*
 - \[noun\], locative, singular, neuter
 - “abhra; sky; ākāśa; Svarga; Vyoman.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

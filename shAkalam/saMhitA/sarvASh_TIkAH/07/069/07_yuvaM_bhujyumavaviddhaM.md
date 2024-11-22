@@ -90,62 +90,92 @@ pāráyantā ← √pr̥- (root)
 -   *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhujyum* ← *bhujyu*
 - \[noun\], accusative, singular, masculine
 - “Bhujyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *avaviddhaṃ* ← *avaviddham* ← *avavyadh* ← *√vyadh*
 - \[verb noun\], accusative, singular
 - “throw.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudra* ← *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūhathur* ← *ūhathuḥ* ← *vah*
 - \[verb\], dual, Perfect indicative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṇaso* ← *arṇasaḥ* ← *arṇas*
 - \[noun\], ablative, singular, neuter
 - “body of water; water.”
-------------------------------------------------------------------------
+
+_________
+
 - *asridhānaiḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *asridhānaiḥ* ← *sridhānaiḥ* ← *sridh*
 - \[verb noun\], instrumental, plural
-------------------------------------------------------------------------
+
+_________
+
 - *patatribhir* ← *patatribhiḥ* ← *patatrin*
 - \[noun\], instrumental, plural, masculine
 - “flying; winged.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśramair* ← *aśramaiḥ* ← *aśrama*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *avyathibhir* ← *avyathibhiḥ* ← *avyathi*
 - \[noun\], instrumental, plural, masculine
 - “surefooted.”
-------------------------------------------------------------------------
+
+_________
+
 - *daṃsanābhir* ← *daṃsanābhiḥ* ← *daṃsanā*
 - \[noun\], instrumental, plural, feminine
 - “wonder; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārayantā* ← *pāray* ← *√pṛ*
 - \[verb noun\], nominative, dual
 - “rescue; keep alive; satisfy; save; resist; endure.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

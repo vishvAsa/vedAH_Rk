@@ -99,86 +99,124 @@ yuvatáyaḥ ← yuvatí- (nominal stem)
 -   *viṣṇuṃ* ← *viṣṇum* ← *viṣṇu*
 - \[noun\], accusative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomāsaḥ* ← *stoma*
 - \[noun\], nominative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *purudasmam* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purudasmam* ← *dasmam* ← *dasma*
 - \[noun\], accusative, singular, masculine
 - “overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkā* ← *arkāḥ* ← *arka*
 - \[noun\], nominative, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhagasyeva* ← *bhagasya* ← *bhaga*
 - \[noun\], genitive, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhagasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *kāriṇo* ← *kāriṇaḥ* ← *kārin*
 - \[noun\], genitive, singular, masculine
 - “causing; making; acting; performing; producing; doing.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmani* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *gman* ← *gam*
 - \[verb\], plural, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *urukramaḥ* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *urukramaḥ* ← *kramaḥ* ← *krama*
 - \[noun\], nominative, singular, masculine
 - “sequence; ordering; method; series; arrangement; treatment;
     arrangement; course; kram; krama \[word\]; saṃskāra; footstep; foot;
     step; measure.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakuho* ← *kakuhaḥ* ← *kakuha*
 - \[noun\], nominative, singular, masculine
 - “huge; eminent; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mardhanti* ← *mṛdh*
 - \[verb\], plural, Present indikative
 - “neglect.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvatayo* ← *yuvatayaḥ* ← *yuvati*
 - \[noun\], nominative, plural, feminine
 - “girl; woman.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitrīḥ* ← *janitrī*
 - \[noun\], nominative, plural, feminine
 - “mother.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

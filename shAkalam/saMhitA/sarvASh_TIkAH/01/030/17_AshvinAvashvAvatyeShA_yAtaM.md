@@ -73,34 +73,50 @@ híraṇyavat ← híraṇyavant- (nominal stem)
 -   *āśvināv* ← *āśvinau* ← *āśvina*
 - \[noun\], vocative, dual, masculine
 - “Asin.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvāvatyeṣā* ← *aśvāvatyā* ← *aśvāvat*
 - \[noun\], instrumental, singular, feminine
 - “rich in horses.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvāvatyeṣā* ← *iṣā* ← *iṣ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *śavīrayā* ← *śavīra*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *gomad* ← *gomat* ← *gomant*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyavat*
 - \[noun\], nominative, singular, neuter
 - “possessing gold.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

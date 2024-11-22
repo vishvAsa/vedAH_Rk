@@ -90,68 +90,98 @@ ví ← ví (invariable)
 -   *sumaṅgalīr* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumaṅgalīr* ← *maṅgalīḥ* ← *maṅgala*
 - \[noun\], nominative, singular, feminine
 - “auspicious.”
-------------------------------------------------------------------------
+
+_________
+
 - *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhūr* ← *vadhūḥ* ← *vadhū*
 - \[noun\], nominative, singular, feminine
 - “wife; woman; bride; female; Trigonella corniculata; female; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *sameta* ← *same* ← *√i*
 - \[verb\], plural, Present imperative
 - “meet; mix; approach; meet; endow; meet.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśyata* ← *paś*
 - \[verb\], plural, Present imperative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *saubhāgyam* ← *saubhāgya*
 - \[noun\], accusative, singular, neuter
 - “borax; good fortune; good luck; sindūra; prosperity; happiness;
     affection.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyai* ← *idam*
 - \[noun\], dative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dattvāyāthāstaṃ* ← *dattvāya* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *dattvāyāthāstaṃ* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *dattvāyāthāstaṃ* ← *astam* ← *asta*
 - \[noun\], accusative, singular, masculine
 - “set; Asta.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *paretana* ← *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *paretana* ← *itana* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

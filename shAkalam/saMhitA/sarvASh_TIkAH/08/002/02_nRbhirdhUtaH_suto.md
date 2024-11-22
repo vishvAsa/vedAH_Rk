@@ -79,43 +79,65 @@ niktáḥ ← √nij- (root)
 -   *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhūtaḥ* ← *dhū*
 - \[verb noun\], nominative, singular
 - “shake; remove; chase away.”
-------------------------------------------------------------------------
+
+_________
+
 - *suto* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnair* ← *aśnaiḥ* ← *aśna*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *avyo* ← *avyaḥ* ← *avya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vāraiḥ* ← *vāra*
 - \[noun\], instrumental, plural, masculine
 - “strainer.”
-------------------------------------------------------------------------
+
+_________
+
 - *paripūtaḥ* ← *paripū* ← *√pū*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *aśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nikto* ← *niktaḥ* ← *nij*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *nadīṣu* ← *nadī*
 - \[noun\], locative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

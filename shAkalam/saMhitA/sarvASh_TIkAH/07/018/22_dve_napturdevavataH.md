@@ -105,82 +105,120 @@ sádma ← sádman- (nominal stem)
 -   *dve* ← *dvi*
 - \[noun\], accusative, dual, neuter
 - “two; dvi \[word\]; second.”
-------------------------------------------------------------------------
+
+_________
+
 - *naptur* ← *naptuḥ* ← *naptṛ*
 - \[noun\], genitive, singular, masculine
 - “grandson; nephew; naptṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devavataḥ* ← *devavant*
 - \[noun\], genitive, singular, masculine
 - “Devavant.”
-------------------------------------------------------------------------
+
+_________
+
 - *śate* ← *śata*
 - \[noun\], accusative, dual, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gor* ← *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvā* ← *dvi*
 - \[noun\], accusative, dual, masculine
 - “two; dvi \[word\]; second.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathā* ← *ratha*
 - \[noun\], accusative, dual, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhūmantā* ← *vadhūmat*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sudāsaḥ* ← *sudās*
 - \[noun\], genitive, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *arhann* ← *arhan* ← *arh*
 - \[verb noun\], nominative, singular
 - “should; may; rate; can; can; equal; necessitate.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *paijavanasya* ← *paijavana*
 - \[noun\], genitive, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *dānaṃ* ← *dānam* ← *dāna*
 - \[noun\], accusative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
-------------------------------------------------------------------------
+
+_________
+
 - *hoteva* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hoteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadma* ← *sadman*
 - \[noun\], accusative, singular, neuter
 - “seat; house; stable; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *emi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *rebhan* ← *ribh*
 - \[verb noun\], nominative, singular
 - “moo; murmur; praise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

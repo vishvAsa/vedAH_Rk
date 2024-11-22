@@ -104,86 +104,126 @@ tū́tūrṣati ← √tūr(v)- ~ tur- (root)
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhānuḥ* ← *bhānu*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratuprā* ← *kratu*
 - \[noun\], masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *kratuprā* ← *prāḥ* ← *prā*
 - \[noun\], nominative, singular, feminine
 - “appreciated.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭiḥ* ← *abhiṣṭi*
 - \[noun\], nominative, singular, feminine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛdho* ← *spṛdhaḥ* ← *spṛdh*
 - \[noun\], nominative, plural, masculine
 - “rival; enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaraṇiprā* ← *jaraṇi*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *jaraṇiprā* ← *prāḥ* ← *prā*
 - \[noun\], nominative, plural, masculine
 - “appreciated.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhṛṣṭāḥ* ← *adhṛṣṭa*
 - \[noun\], nominative, plural, masculine
 - “modest; invincible.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajiṣṭhayā* ← *rajiṣṭha*
 - \[noun\], instrumental, singular, feminine
 - “honest.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajyā* ← *raji*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *paśva* ← *paśve* ← *paśu*
 - \[noun\], genitive, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gos* ← *goḥ* ← *go*
 - \[noun\], genitive, singular
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *tūtūrṣati* ← *tūtūrṣ* ← *√tṛ*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *agraṃ* ← *agram* ← *agra*
 - \[noun\], accusative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
-------------------------------------------------------------------------
+
+_________
+
 - *duvasyuḥ* ← *duvasyu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

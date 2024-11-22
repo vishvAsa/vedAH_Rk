@@ -98,11 +98,15 @@ sma ← sma (invariable)
 
 -   *kakardave* ← *kakardu*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *yukta* ← *yuktaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -110,30 +114,44 @@ sma ← sma (invariable)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *avāvacīt* ← *vāvac* ← *√vac*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *sārathir* ← *sārathiḥ* ← *sārathi*
 - \[noun\], nominative, singular, masculine
 - “charioteer; sārathi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *keśī* ← *keśin*
 - \[noun\], nominative, singular, masculine
 - “haired.”
-------------------------------------------------------------------------
+
+_________
+
 - *dudher* ← *dudheḥ* ← *dudhi*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yuktasya* ← *yuj*
 - \[verb noun\], genitive, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -141,35 +159,51 @@ sma ← sma (invariable)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *dravataḥ* ← *dru*
 - \[verb noun\], genitive, singular
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahānasa* ← *saha*
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahānasa* ← *anase* ← *anas*
 - \[noun\], dative, singular, neuter
 - “cart; anas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛcchanti* ← *ṛch*
 - \[verb\], plural, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣmā* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *niṣpado* ← *niṣpadaḥ* ← *niṣpad*
 - \[noun\], nominative, plural, feminine
 - “fecal matter.”
-------------------------------------------------------------------------
+
+_________
+
 - *mudgalānīm* ← *mudgalānī*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

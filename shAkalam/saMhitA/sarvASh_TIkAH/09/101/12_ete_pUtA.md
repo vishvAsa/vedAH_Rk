@@ -81,53 +81,77 @@ jigatnávaḥ ← jigatnú- (nominal stem)
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pūtā* ← *pūtāḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipaścitaḥ* ← *vipaścit*
 - \[noun\], nominative, plural, masculine
 - “wise; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *somāso* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhyāśiraḥ* ← *dadhi*
 - \[noun\], neuter
 - “sour milk; curd; dadhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhyāśiraḥ* ← *āśiraḥ* ← *āśir*
 - \[noun\], nominative, plural, masculine
 - “mixture.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryāso* ← *sūryāsaḥ* ← *sūrya*
 - \[noun\], nominative, plural, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *darśatāso* ← *darśatāsaḥ* ← *darśata*
 - \[noun\], nominative, plural, masculine
 - “beautiful; visible; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigatnavo* ← *jigatnavaḥ* ← *jigatnu*
 - \[noun\], nominative, plural, masculine
 - “moving.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhruvā* ← *dhruvāḥ* ← *dhruva*
 - \[noun\], nominative, plural, masculine
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghṛte* ← *ghṛta*
 - \[noun\], locative, singular, neuter
 - “ghee; fat.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

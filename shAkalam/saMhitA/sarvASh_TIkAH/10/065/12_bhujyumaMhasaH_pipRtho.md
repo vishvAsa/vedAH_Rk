@@ -99,72 +99,106 @@ víśvakāya ← víśvaka- (nominal stem)
 -   *bhujyum* ← *bhujyu*
 - \[noun\], accusative, singular, masculine
 - “Bhujyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
-------------------------------------------------------------------------
+
+_________
+
 - *pipṛtho* ← *pipṛthaḥ* ← *pṛ*
 - \[verb\], dual, Present indikative
 - “protect; promote; rescue; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyāvam* ← *śyāva*
 - \[noun\], accusative, singular, masculine
 - “śyāva; Śyāva.”
-------------------------------------------------------------------------
+
+_________
+
 - *putraṃ* ← *putram* ← *putra*
 - \[noun\], accusative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhrimatyā* ← *vadhrimatyāḥ* ← *vadhrimatī*
 - \[noun\], genitive, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ajinvatam* ← *jinv*
 - \[verb\], dual, Imperfect
 - “enliven; animate.”
-------------------------------------------------------------------------
+
+_________
+
 - *kamadyuvaṃ* ← *kamadyuvam* ← *kamadyū*
 - \[noun\], accusative, singular, feminine
 - “Kamadyū.”
-------------------------------------------------------------------------
+
+_________
+
 - *vimadāyohathur* ← *vimadāya* ← *vimada*
 - \[noun\], dative, singular, masculine
 - “Vimada.”
-------------------------------------------------------------------------
+
+_________
+
 - *vimadāyohathur* ← *ūhathuḥ* ← *vah*
 - \[verb\], dual, Perfect indicative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṇāpvaṃ* ← *viṣṇāpvam* ← *viṣṇāpū*
 - \[noun\], accusative, singular, masculine
 - “Viṣṇāpū.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvakāyāva* ← *viśvakāya* ← *viśvaka*
 - \[noun\], dative, singular, masculine
 - “Viśvaka; Viśvaka.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvakāyāva* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛjathaḥ* ← *sṛj*
 - \[verb\], dual, Present indikative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

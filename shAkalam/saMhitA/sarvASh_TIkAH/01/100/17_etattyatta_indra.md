@@ -96,64 +96,96 @@ surā́dhāḥ ← surā́dhas- (nominal stem)
 -   *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tyat* ← *tyad* ← *tya*
 - \[noun\], nominative, singular, neuter
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇa* ← *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthaṃ* ← *uktham* ← *uktha*
 - \[noun\], nominative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *vārṣāgirā* ← *vārṣāgirāḥ* ← *vārṣāgira*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇanti* ← *gṛ*
 - \[verb\], plural, Present indikative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjrāśvaḥ* ← *ṛjrāśva*
 - \[noun\], nominative, singular, masculine
 - “Ṛjrāśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *praṣṭibhir* ← *praṣṭibhiḥ* ← *praṣṭi*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ambarīṣaḥ* ← *ambarīṣa*
 - \[noun\], nominative, singular, masculine
 - “Ambarīṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahadevo* ← *sahadevaḥ* ← *sahadeva*
 - \[noun\], nominative, singular, masculine
 - “Sahadeva; Sahadeva; Sahadeva.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhayamānaḥ* ← *bhayamāna*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *surādhāḥ* ← *surādhas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

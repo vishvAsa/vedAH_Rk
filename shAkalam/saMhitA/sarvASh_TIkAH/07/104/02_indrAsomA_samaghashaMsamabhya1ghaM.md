@@ -99,82 +99,122 @@ kimīdíne ← kimīdín- (nominal stem)
 -   *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
 - “Soma; Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghaśaṃsam* ← *agha*
 - \[noun\]
 - “bad; dangerous; ill; iniquitous; bad.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghaśaṃsam* ← *śaṃsam* ← *śaṃsa*
 - \[noun\], accusative, singular, masculine
 - “speaking.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghaṃ* ← *agham* ← *agha*
 - \[noun\], nominative, singular, neuter
 - “bad; dangerous; ill; iniquitous; bad.”
-------------------------------------------------------------------------
+
+_________
+
 - *tapur* ← *tapuḥ* ← *tapus*
 - \[noun\], nominative, singular, neuter
 - “heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *yayastu* ← *yas*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *carur* ← *caruḥ* ← *caru*
 - \[noun\], nominative, singular, masculine
 - “caru; pot; Caru.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnivāṃ* ← *agnivat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmadviṣe* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmadviṣe* ← *dviṣe* ← *dviṣ*
 - \[noun\], dative, singular, masculine
 - “hostile; hating.”
-------------------------------------------------------------------------
+
+_________
+
 - *kravyāde* ← *kravyād*
 - \[noun\], dative, singular, masculine
 - “carnivorous.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghoracakṣase* ← *ghora*
 - \[noun\]
 - “awful; dangerous; terrific; intense; dreadful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ghoracakṣase* ← *cakṣase* ← *cakṣas*
 - \[noun\], dative, singular, masculine
 - “eye; look; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 - *dveṣo* ← *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhattam* ← *dhā*
 - \[verb\], dual, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *anavāyaṃ* ← *anavāyam* ← *anavāya*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *kimīdine* ← *kimīdin*
 - \[noun\], dative, singular, masculine
 - “Kimīdin.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

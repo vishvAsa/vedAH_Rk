@@ -73,43 +73,63 @@ vāvr̥tuḥ ← √vr̥t- (root)
 -   *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śyāvā* ← *śyāvāḥ* ← *śyāva*
 - \[noun\], nominative, plural, masculine
 - “brown; dark; śyāva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛdhadrayo* ← *ṛdhadrayaḥ* ← *ṛdhadrī*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vītavārāsa* ← *vīta*
 - \[noun\]
 - “straight; smooth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vītavārāsa* ← *vārāsaḥ* ← *vāra*
 - \[noun\], nominative, plural, masculine
 - “hair; tail.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśavaḥ* ← *āśu*
 - \[noun\], nominative, plural, masculine
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *mathrā* ← *mathrāḥ* ← *mathra*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nemiṃ* ← *nemim* ← *nemi*
 - \[noun\], accusative, singular, masculine
 - “rim; felloe.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛtuḥ* ← *vṛt*
 - \[verb\], plural, Perfect indicative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

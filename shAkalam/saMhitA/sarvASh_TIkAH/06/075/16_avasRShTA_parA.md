@@ -93,72 +93,104 @@ mā́ ← mā́ (invariable)
 -   *avasṛṣṭā* ← *avasṛj* ← *√sṛj*
 - \[verb noun\], nominative, singular
 - “free; shoot; ejaculate.”
-------------------------------------------------------------------------
+
+_________
+
 - *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *pata* ← *pat*
 - \[verb\], singular, Present imperative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaravye* ← *śaravyā*
 - \[noun\], vocative, singular, feminine
 - “arrow; fusillade.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmasaṃśite* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmasaṃśite* ← *saṃśite* ← *saṃśā* ← *√śā*
 - \[verb noun\], vocative, singular
 - “sharpen.”
-------------------------------------------------------------------------
+
+_________
+
 - *gacchāmitrān* ← *gaccha* ← *gam*
 - \[verb\], singular, Present imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *gacchāmitrān* ← *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *padyasva* ← *pad*
 - \[verb\], singular, Present imperative
 - “fall.”
-------------------------------------------------------------------------
+
+_________
+
 - *māmīṣāṃ* ← *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *māmīṣāṃ* ← *amīṣām* ← *adas*
 - \[noun\], genitive, plural, masculine
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaṃ* ← *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *canoc* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *canoc* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *chiṣaḥ* ← *śiṣaḥ* ← *śiṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “leave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

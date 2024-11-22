@@ -100,74 +100,110 @@ gábhastau ← gábhasti- (nominal stem)
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yeṣu* ← *yad*
 - \[noun\], locative, plural, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *havaneṣu* ← *havana*
 - \[noun\], locative, plural, neuter
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmaṃ* ← *tigmam* ← *tigma*
 - \[noun\], nominative, singular, neuter
 - “sharp; pointed; fiery.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipaḥ* ← *vip*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *śacyā* ← *śacī*
 - \[noun\], instrumental, singular, feminine
 - “Śacī; power; dexterity; ability; aid.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanutho* ← *vanuthaḥ* ← *van*
 - \[verb\], dual, Present indikative
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *dravantā* ← *dru*
 - \[verb noun\], nominative, dual
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śaryābhis* ← *śaryābhiḥ* ← *śaryā*
 - \[noun\], instrumental, plural, feminine
 - “arrow.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvinṛmṇo* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvinṛmṇo* ← *nṛmṇaḥ* ← *nṛmṇa*
 - \[noun\], nominative, singular, masculine
 - “manhood; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyāśrīṇītādiśaṃ* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyāśrīṇītādiśaṃ* ← *āśrīṇīta* ← *āśrī* ← *√śrī*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *asyāśrīṇītādiśaṃ* ← *ādiśam* ← *ādiś*
 - \[noun\], accusative, singular, feminine
 - “admonition.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhastau* ← *gabhasti*
 - \[noun\], locative, singular, masculine
 - “beam; hand; sun.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -108,85 +108,125 @@ yātam ← √yā- 1 (root)
 -   *śṛṅgeva* ← *śṛṅgā* ← *śṛṅga*
 - \[noun\], nominative, plural, neuter
 - “peak; horn; tusk; śṛṅga \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṅgeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamā* ← *prathama*
 - \[noun\], nominative, dual, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *gantam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvāk*
 - \[adverb\]
 - “here.”
-------------------------------------------------------------------------
+
+_________
+
 - *chaphāv* ← *śaphau* ← *śapha*
 - \[noun\], nominative, dual, masculine
 - “one-eighth; śapha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarbhurāṇā* ← *jarbhur* ← *√bhur*
 - \[verb noun\], nominative, dual
-------------------------------------------------------------------------
+
+_________
+
 - *tarobhiḥ* ← *taras*
 - \[noun\], instrumental, plural, neuter
 - “speed; Stoma.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakravākeva* ← *cakravākā* ← *cakravāka*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *cakravākeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
-------------------------------------------------------------------------
+
+_________
+
 - *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], ablative, singular, feminine
 - “dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *usrārvāñcā* ← *usrā* ← *usra*
 - \[noun\], nominative, dual, masculine
 - “beam; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *usrārvāñcā* ← *arvāñcā* ← *arvāñc*
 - \[noun\], nominative, dual, masculine
 - “approaching; facing; less.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathyeva* ← *rathyā* ← *rathya*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śakrā* ← *śakra*
 - \[noun\], vocative, dual, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

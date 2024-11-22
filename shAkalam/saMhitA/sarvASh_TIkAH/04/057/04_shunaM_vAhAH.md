@@ -90,39 +90,57 @@ iṅgaya ← √iṅg- (root)
 -   *śunaṃ* ← *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
 - “well-being; success.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāhāḥ* ← *vāha*
 - \[noun\], nominative, plural, masculine
 - “horse; draft horse; carrier.”
-------------------------------------------------------------------------
+
+_________
+
 - *śunaṃ* ← *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
 - “well-being; success.”
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *śunaṃ* ← *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
 - “well-being; success.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣatu* ← *kṛṣ*
 - \[verb\], singular, Present imperative
 - “plow; drag; pull; dry; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *lāṅgalam* ← *lāṅgala*
 - \[noun\], nominative, singular, neuter
 - “plow; lāṅgalaka.”
-------------------------------------------------------------------------
+
+_________
+
 - *śunaṃ* ← *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
 - “well-being; success.”
-------------------------------------------------------------------------
+
+_________
+
 - *varatrā* ← *varatrāḥ* ← *varatrā*
 - \[noun\], nominative, plural, feminine
 - “cord; strap.”
-------------------------------------------------------------------------
+
+_________
+
 - *badhyantāṃ* ← *badhyantām* ← *bandh*
 - \[verb\], plural, Imperativ Pr￤s. Passiv
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
@@ -130,22 +148,32 @@ iṅgaya ← √iṅg- (root)
     restrain; bind; gesticulate; wear; bar; bandh; connect; stud; mix;
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
-------------------------------------------------------------------------
+
+_________
+
 - *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
 - “well-being; success.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣṭrām* ← *aṣṭrā*
 - \[noun\], accusative, singular, feminine
 - “prod.”
-------------------------------------------------------------------------
+
+_________
+
 - *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṅgaya* ← *iṅgay* ← *√iṅg*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

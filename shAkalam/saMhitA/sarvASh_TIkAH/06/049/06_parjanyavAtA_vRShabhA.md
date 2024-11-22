@@ -93,70 +93,102 @@ sthātar ← sthā́tar- (nominal stem)
 -   *parjanyavātā* ← *parjanya*
 - \[noun\], masculine
 - “cloud; Parjanya; Indra; nimbus.”
-------------------------------------------------------------------------
+
+_________
+
 - *parjanyavātā* ← *vātā* ← *vāta*
 - \[noun\], vocative, dual, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhā* ← *vṛṣabha*
 - \[noun\], vocative, dual, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *purīṣāṇi* ← *purīṣa*
 - \[noun\], accusative, plural, neuter
 - “fecal matter; droppings; spring; earth; purīṣa \[word\]; Purīṣa;
     rust; affluence; defecation.”
-------------------------------------------------------------------------
+
+_________
+
 - *jinvatam* ← *jinv*
 - \[verb\], dual, Present imperative
 - “enliven; animate.”
-------------------------------------------------------------------------
+
+_________
+
 - *apyāni* ← *apya*
 - \[noun\], accusative, plural, neuter
 - “aquatic; aquatic.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyaśrutaḥ* ← *satya*
 - \[noun\], neuter
 - “truth; oath; satya \[word\]; promise.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyaśrutaḥ* ← *śrutaḥ* ← *śrut*
 - \[noun\], vocative, plural, masculine
 - “listening.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavayo* ← *kavayaḥ* ← *kavi*
 - \[noun\], vocative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagata* ← *jagataḥ* ← *jagant*
 - \[noun\], genitive, singular, neuter
 - “universe; Earth; world; people; Jagatī; Loka; animal; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthātar* ← *sthātṛ*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *jagad* ← *jagat* ← *jagant*
 - \[noun\], accusative, singular, neuter
 - “universe; Earth; world; people; Jagatī; Loka; animal; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -167,7 +199,9 @@ sthātar ← sthā́tar- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,75 +102,111 @@ vándanaḥ ← vándana- 1 (nominal stem)
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *rebham* ← *rebha*
 - \[noun\], accusative, singular, masculine
 - “bard; eulogist.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣūter* ← *pariṣūteḥ* ← *pariṣūti*
 - \[noun\], ablative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *uruṣyatho* ← *uruṣyathaḥ* ← *uruṣy*
 - \[verb\], dual, Present indikative
 - “protect; help.”
-------------------------------------------------------------------------
+
+_________
+
 - *himena* ← *hima*
 - \[noun\], instrumental, singular, neuter
 - “snow; frost; hima \[word\]; winter; tin; silver; pearl;
     sauvīrāñjana; year; ague; Himalayas; coldness.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmam* ← *gharma*
 - \[noun\], accusative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *paritaptam* ← *paritap* ← *√tap*
 - \[verb noun\], accusative, singular
 - “suffer; heat; trouble; burn; suffer.”
-------------------------------------------------------------------------
+
+_________
+
 - *atraye* ← *atri*
 - \[noun\], dative, singular, masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śayor* ← *śayoḥ* ← *śayu*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *avasam* ← *avasa*
 - \[noun\], accusative, singular, neuter
 - “stores; food.”
-------------------------------------------------------------------------
+
+_________
+
 - *pipyathur* ← *pipyathuḥ* ← *pyā*
 - \[verb\], dual, Perfect indicative
 - “swell; abound; swell.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavi* ← *go*
 - \[noun\], locative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīrgheṇa* ← *dīrgha*
 - \[noun\], instrumental, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vandanas* ← *vandanaḥ* ← *vandana*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tāry* ← *tāri* ← *tṛ*
 - \[verb\], singular, Aorist passive
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyuṣā* ← *āyus*
 - \[noun\], instrumental, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

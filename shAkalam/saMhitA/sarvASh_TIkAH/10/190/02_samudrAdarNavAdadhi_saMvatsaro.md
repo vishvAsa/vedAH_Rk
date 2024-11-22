@@ -78,29 +78,41 @@ víśvasya ← víśva- (nominal stem)
 -   *samudrād* ← *samudrāt* ← *samudra*
 - \[noun\], ablative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṇavād* ← *arṇavāt* ← *arṇava*
 - \[noun\], ablative, singular, masculine
 - “ocean; sea; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvatsaro* ← *saṃvatsaraḥ* ← *saṃvatsara*
 - \[noun\], nominative, singular, masculine
 - “year; year; saṃvatsara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāyata* ← *jan*
 - \[verb\], singular, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahorātrāṇi* ← *ahorātra*
 - \[noun\], accusative, plural, neuter
 - “day.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidadhad* ← *vidadhat* ← *vidhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 - “produce; perform; administer; cause; shape; use; make; dig;
@@ -108,19 +120,27 @@ víśvasya ← víśva- (nominal stem)
     regulate; add; arrange; create; dress; inject; process; think of;
     order; name; breed; raise; write; produce; grant; appoint; do; put
     on.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *miṣato* ← *miṣataḥ* ← *miṣ*
 - \[verb noun\], genitive, singular
-------------------------------------------------------------------------
+
+_________
+
 - *vaśī* ← *vaśin*
 - \[noun\], nominative, singular, masculine
 - “powerful; controlling; regnant; authoritative.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

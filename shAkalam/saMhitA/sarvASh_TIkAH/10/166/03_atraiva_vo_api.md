@@ -103,74 +103,108 @@ yáthā ← yáthā (invariable)
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *atraiva* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *'pi* ← *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *nahyāmy* ← *nahyāmi* ← *nah*
 - \[verb\], singular, Present indikative
 - “tie; envelop; tie.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *ārtnī*
 - \[noun\], accusative, dual, feminine
 - “bow tip.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyayā* ← *jyā*
 - \[noun\], instrumental, singular, feminine
 - “bowstring.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācaspate* ← *vācaspati*
 - \[noun\], vocative, singular, masculine
 - “Vācaspati; Jupiter.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣedhemān* ← *ṣedha* ← *sidh*
 - \[verb\], singular, Present imperative
 - “chase away; repel.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣedhemān* ← *imān* ← *idam*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *mad* ← *mat* ← *mad*
 - \[noun\], ablative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *adharaṃ* ← *adharam* ← *adhara*
 - \[noun\], accusative, singular, neuter
 - “lower; adhara \[word\]; worse.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadān* ← *vad*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

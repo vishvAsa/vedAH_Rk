@@ -105,86 +105,126 @@ samānám ← samāná- (nominal stem)
 -   *naitāvad* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naitāvad* ← *etāvat*
 - \[noun\], accusative, singular, neuter
 - “such(a); such(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *anye* ← *anya*
 - \[noun\], nominative, plural, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatheme* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatheme* ← *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājante* ← *bhrāj*
 - \[verb\], plural, Present indikative
 - “shine; glitter; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmair* ← *rukmaiḥ* ← *rukma*
 - \[noun\], instrumental, plural, masculine
 - “adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyudhais* ← *āyudhaiḥ* ← *āyudha*
 - \[noun\], instrumental, plural, neuter
 - “weapon; āyudha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūbhiḥ* ← *tanū*
 - \[noun\], instrumental, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvapiśaḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvapiśaḥ* ← *piśaḥ* ← *piś*
 - \[noun\], nominative, plural, masculine
 - “decoration.”
-------------------------------------------------------------------------
+
+_________
+
 - *piśānāḥ* ← *piś*
 - \[verb noun\], nominative, plural
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *samānam* ← *samāna*
 - \[noun\], accusative, singular, neuter
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjy* ← *añji*
 - \[noun\], accusative, singular, neuter
 - “color; ointment; adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *añjate* ← *añj*
 - \[verb\], plural, Present indikative
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhe* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 - *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

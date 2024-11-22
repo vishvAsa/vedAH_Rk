@@ -84,58 +84,82 @@ pátiḥ ← páti- (nominal stem)
 -   *nīlalohitam* ← *nīla*
 - \[noun\]
 - “blue; black; black; nīla \[word\]; green.”
-------------------------------------------------------------------------
+
+_________
+
 - *nīlalohitam* ← *lohitam* ← *lohita*
 - \[noun\], nominative, singular, neuter
 - “red; red-hot; lohita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtyāsaktir* ← *kṛtyā*
 - \[noun\], nominative, singular, feminine
 - “magic; spirit; kṛtyā; Kṛtyā; witchcraft; act.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtyāsaktir* ← *āsaktiḥ* ← *āsakti*
 - \[noun\], nominative, singular, feminine
 - “attachment.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajyate* ← *añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *edhante* ← *edh*
 - \[verb\], plural, Present indikative
 - “boom; get; thrive; increase; increase.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *jñātayaḥ* ← *jñāti*
 - \[noun\], nominative, plural, masculine
 - “relative; jñāti \[word\]; kinsman.”
-------------------------------------------------------------------------
+
+_________
+
 - *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *bandheṣu* ← *bandha*
 - \[noun\], locative, plural, masculine
 - “bandhana; bandage; paralysis; connection; shutting; constipation;
     confinement; joining; part; binding; fetter; bandha \[word\];
     hardening; attachment; dressing; capture; sexual intercourse;
     border; chain; fixedness; deposit; connection; trap.”
-------------------------------------------------------------------------
+
+_________
+
 - *badhyate* ← *bandh*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
@@ -143,7 +167,9 @@ pátiḥ ← páti- (nominal stem)
     restrain; bind; gesticulate; wear; bar; bandh; connect; stud; mix;
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

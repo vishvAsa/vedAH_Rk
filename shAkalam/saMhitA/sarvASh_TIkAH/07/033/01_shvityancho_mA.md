@@ -99,78 +99,114 @@ vásiṣṭhāḥ ← vásiṣṭha- (nominal stem)
 -   *śvityañco* ← *śvityañcaḥ* ← *śvityañc*
 - \[noun\], nominative, plural, masculine
 - “white.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇataskapardā* ← *dakṣiṇatas*
 - \[adverb\]
 - “right; southward.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇataskapardā* ← *kapardāḥ* ← *kaparda*
 - \[noun\], nominative, plural, masculine
 - “money cowrie; knotted hair.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyañjinvāso* ← *dhiyañjinvāsaḥ* ← *dhiyaṃjinva*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pramanduḥ* ← *pramad* ← *√mad*
 - \[verb\], plural, Aorist inj. (proh.)
 - “rut.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttiṣṭhan* ← *utthā* ← *√sthā*
 - \[verb noun\], nominative, singular
 - “originate; get up; arise; rise; utthā; rise; be active; come forth;
     cause; happen; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *voce* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhiṣo* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], ablative, singular, neuter
 - “Barhis; barhis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūrād* ← *dūrāt*
 - \[adverb\]
 - “far.”
-------------------------------------------------------------------------
+
+_________
+
 - *avitave* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣṭhāḥ* ← *vasiṣṭha*
 - \[noun\], nominative, plural, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

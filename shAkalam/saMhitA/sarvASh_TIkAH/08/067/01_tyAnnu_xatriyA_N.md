@@ -70,39 +70,57 @@ sumr̥ḷīkā́n ← sumr̥ḷīká- (nominal stem)
 -   *tyān* ← *tya*
 - \[noun\], accusative, plural, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣatriyāṃ* ← *kṣatriya*
 - \[noun\], accusative, plural, masculine
 - “Kshatriya.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādityān* ← *āditya*
 - \[noun\], accusative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yāciṣāmahe* ← *yāc*
 - \[verb\], plural, Aorist conj./subj.
 - “beg; ask; offer; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumṛﾱīkāṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumṛﾱīkāṃ* ← *mṛﾱīkāṃ* ← *mṛḍīka*
 - \[noun\], accusative, plural, masculine
 - “compassion; favor.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
 - “prevalence; protection.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

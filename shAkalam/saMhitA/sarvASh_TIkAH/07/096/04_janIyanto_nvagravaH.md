@@ -66,30 +66,44 @@ sárasvantam ← sárasvant- (nominal stem)
 
 -   *janīyanto* ← *janīyantaḥ* ← *janīy*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *agravaḥ* ← *agru*
 - \[noun\], nominative, plural, masculine
 - “unmarried.”
-------------------------------------------------------------------------
+
+_________
+
 - *putrīyantaḥ* ← *putrīy*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *sudānavaḥ* ← *sudānu*
 - \[noun\], nominative, plural, masculine
 - “big; lavish.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvantaṃ* ← *sarasvantam* ← *sarasvant*
 - \[noun\], accusative, singular, masculine
 - “Sarasvant.”
-------------------------------------------------------------------------
+
+_________
+
 - *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -84,44 +84,64 @@ suva ← √sū- 1 (root)
 -   *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitaḥ* ← *savitar* ← *savitṛ*
 - \[noun\], vocative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajāvat*
 - \[noun\], accusative, singular, neuter
 - “prolific.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāvīḥ* ← *sū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “give birth; urge; bestow; cause.”
-------------------------------------------------------------------------
+
+_________
+
 - *saubhagam* ← *saubhaga*
 - \[noun\], accusative, singular, neuter
 - “well-being.”
-------------------------------------------------------------------------
+
+_________
+
 - *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *duṣṣvapnyaṃ* ← *duṣṣvapnyam* ← *duḥṣvapnya*
 - \[noun\], accusative, singular, neuter
 - “nightmare.”
-------------------------------------------------------------------------
+
+_________
+
 - *suva* ← *sū*
 - \[verb\], singular, Present imperative
 - “give birth; urge; bestow; cause.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

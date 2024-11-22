@@ -81,50 +81,72 @@ svādúḥ ← svādú- (nominal stem)
 -   *apsarasāṃ* ← *apsarasām* ← *apsaras*
 - \[noun\], genitive, plural, feminine
 - “Apsaras.”
-------------------------------------------------------------------------
+
+_________
+
 - *gandharvāṇām* ← *gandharva*
 - \[noun\], genitive, plural, masculine
 - “Gandharva; castor-oil plant; horse; Gandharva; Indian cuckoo.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛgāṇāṃ* ← *mṛgāṇām* ← *mṛga*
 - \[noun\], genitive, plural, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *caraṇe* ← *caraṇa*
 - \[noun\], locative, singular, masculine
 - “foot; Vedic school; caraṇa; one-fourth; wheel; performance.”
-------------------------------------------------------------------------
+
+_________
+
 - *caran* ← *car*
 - \[verb noun\], nominative, singular
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *keśī* ← *keśin*
 - \[noun\], nominative, singular, masculine
 - “haired.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketasya* ← *keta*
 - \[noun\], genitive, singular, masculine
 - “wish; will; purpose; expectation; house.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svādur* ← *svāduḥ* ← *svādu*
 - \[noun\], nominative, singular, masculine
 - “Madhura; sweet; sweet; dainty; agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *madintamaḥ* ← *madintama*
 - \[noun\], nominative, singular, masculine
 - “exhilarating; intoxicant.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

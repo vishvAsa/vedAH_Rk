@@ -74,61 +74,89 @@ práskaṇvasya ← práskaṇva- (nominal stem)
 
 -   *priyamedhavad* ← *priyamedha*
 - \[noun\], masculine
-------------------------------------------------------------------------
+
+_________
+
 - *priyamedhavad* ← *vat*
 - \[adverb\]
 - “equally; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *atrivaj* ← *atri*
 - \[noun\], masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *atrivaj* ← *vat*
 - \[adverb\]
 - “equally; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedo* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *virūpavat* ← *virūpa*
 - \[noun\], masculine
 - “Virūpa.”
-------------------------------------------------------------------------
+
+_________
+
 - *virūpavat* ← *vat*
 - \[adverb\]
 - “equally; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgirasvan* ← *aṅgiras*
 - \[noun\], masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgirasvan* ← *vat*
 - \[adverb\]
 - “equally; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahivrata* ← *mahi*
 - \[noun\]
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahivrata* ← *vrata*
 - \[noun\], vocative, singular, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *praskaṇvasya* ← *praskaṇva*
 - \[noun\], genitive, singular, masculine
 - “Praskaṇva.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrudhī* ← *śrudhi* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

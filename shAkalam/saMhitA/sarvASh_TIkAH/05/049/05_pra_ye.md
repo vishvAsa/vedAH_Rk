@@ -105,65 +105,93 @@ madema ← √mad- (root)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vasubhya* ← *vasubhyaḥ* ← *vasu*
 - \[noun\], dative, plural, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īvad* ← *īvat*
 - \[noun\], accusative, singular, neuter
 - “such(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *namo* ← *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *dur* ← *duḥ* ← *dā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mitre* ← *mitra*
 - \[noun\], locative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇe* ← *varuṇa*
 - \[noun\], locative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūktavācaḥ* ← *sūkta*
 - \[noun\], neuter
 - “Mantra; hymn.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūktavācaḥ* ← *vācaḥ* ← *vāc*
 - \[noun\], nominative, plural, masculine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *avaitv* ← *avaitu* ← *ave* ← *√i*
 - \[verb\], singular, Present imperative
 - “descend; go; learn; know; disappear.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhvaṃ* ← *abhvam* ← *abhva*
 - \[noun\], nominative, singular, neuter
 - “monstrosity; nothingness; void; force.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇutā* ← *kṛṇuta* ← *kṛ*
 - \[verb\], singular, Present injunctive
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -174,23 +202,33 @@ madema ← √mad- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *varīyo* ← *varīyaḥ* ← *varīyas*
 - \[noun\], accusative, singular, neuter
 - “freedom; room.”
-------------------------------------------------------------------------
+
+_________
+
 - *divaspṛthivyor* ← *divaspṛthivyoḥ* ← *divaspṛthivī*
 - \[noun\], genitive, dual, feminine
 - “heaven and earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *madema* ← *mad*
 - \[verb\], plural, Present optative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

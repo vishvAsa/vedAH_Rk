@@ -96,69 +96,103 @@ yātha ← √yā- 1 (root)
 -   *ukṣante* ← *ukṣ*
 - \[verb\], plural, Present indikative
 - “sprinkle; wet.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvāṃ* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *atyāṃ* ← *atya*
 - \[noun\], accusative, plural, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivājiṣu* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivājiṣu* ← *ājiṣu* ← *āji*
 - \[noun\], locative, plural, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadasya* ← *nada*
 - \[noun\], genitive, singular, masculine
 - “river; nad; roarer; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *karṇais* ← *karṇaiḥ* ← *karṇa*
 - \[noun\], instrumental, plural, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
-------------------------------------------------------------------------
+
+_________
+
 - *turayanta* ← *turay* ← *√tṛ*
 - \[verb\], plural, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *āśubhiḥ* ← *āśu*
 - \[noun\], instrumental, plural, masculine
 - “quick; fast; immediate; agile.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyaśiprā* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *hiraṇyaśiprā* ← *śiprāḥ* ← *śiprā*
 - \[noun\], nominative, plural, masculine
 - “lip; śiprā.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *davidhvataḥ* ← *dodhu* ← *√dhū*
 - \[verb noun\], nominative, plural
 - “shake.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛkṣaṃ* ← *pṛkṣam* ← *pṛkṣa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yātha* ← *yā*
 - \[verb\], plural, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣatībhiḥ* ← *pṛṣatī*
 - \[noun\], instrumental, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *samanyavaḥ* ← *samanyu*
 - \[noun\], nominative, plural, masculine
 - “consentaneous.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,68 +99,100 @@ vásvaḥ ← vásu- (nominal stem)
 -   *īkṣe* ← *īś*
 - \[verb\], singular, Present indikative
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣayasya* ← *kṣaya*
 - \[noun\], genitive, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
-------------------------------------------------------------------------
+
+_________
+
 - *apavartāsi* ← *apavṛ* ← *√vṛ*
 - \[verb\], singular, periphrast. future
 - “open.”
-------------------------------------------------------------------------
+
+_________
+
 - *gonām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣānaraḥ* ← *śikṣā*
 - \[noun\], feminine
 - “teaching; study; lesson; phonetics; learning; Śikṣā; art.”
-------------------------------------------------------------------------
+
+_________
+
 - *śikṣānaraḥ* ← *naraḥ* ← *nara*
 - \[noun\], nominative, singular, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
-------------------------------------------------------------------------
+
+_________
+
 - *samitheṣu* ← *samitha*
 - \[noun\], locative, plural, masculine
 - “battle; conflict.”
-------------------------------------------------------------------------
+
+_________
+
 - *prahāvān* ← *prahāvat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vasvo* ← *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāśim* ← *rāśi*
 - \[noun\], accusative, singular, masculine
 - “pile; quantity; sign of the zodiac; mass.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhinetāsi* ← *abhinī* ← *√nī*
 - \[verb\], singular, periphrast. future
-------------------------------------------------------------------------
+
+_________
+
 - *bhūrim* ← *bhūri*
 - \[noun\], accusative, singular, masculine
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

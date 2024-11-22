@@ -100,68 +100,102 @@ yajñásya ← yajñá- (nominal stem)
 - \[noun\], accusative, singular, neuter
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”
-------------------------------------------------------------------------
+
+_________
+
 - *apāṃsi* ← *apas*
 - \[noun\], accusative, plural, neuter
 - “work; deed.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanatā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukṣite* ← *vakṣ*
 - \[verb noun\], nominative, dual
 - “grow; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣāsānaktā*
 - \[noun\], nominative, dual, feminine
 - “dawn; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayyeva* ← *vayyā* ← *vayī*
 - \[noun\], nominative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vayyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *raṇvite* ← *raṇvita*
 - \[noun\], nominative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *tantuṃ* ← *tantum* ← *tantu*
 - \[noun\], accusative, singular, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
-------------------------------------------------------------------------
+
+_________
+
 - *tataṃ* ← *tatam* ← *tan*
 - \[verb noun\], accusative, singular
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvayantī* ← *saṃve* ← *√ve*
 - \[verb noun\], nominative, dual
-------------------------------------------------------------------------
+
+_________
+
 - *samīcī* ← *samyañc*
 - \[noun\], nominative, dual, feminine
 - “conjugate; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *peśaḥ* ← *peśas*
 - \[noun\], accusative, singular, neuter
 - “decoration; shape.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudughe* ← *sudughā*
 - \[noun\], nominative, dual, feminine
 - “cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *payasvatī* ← *payasvat*
 - \[noun\], nominative, dual, feminine
 - “sappy; watery; milk(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

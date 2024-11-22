@@ -104,87 +104,129 @@ utá ← utá (invariable)
 
 -   *yūpavraskā* ← *yūpavraskāḥ* ← *yūpavraska*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yūpavāhāś* ← *yūpa*
 - \[noun\], masculine
 - “column; stake.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūpavāhāś* ← *vāhāḥ* ← *vāha*
 - \[noun\], nominative, plural, masculine
 - “transporting; flowing; removing.”
-------------------------------------------------------------------------
+
+_________
+
 - *caṣālaṃ* ← *caṣālam* ← *caṣāla*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvayūpāya* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvayūpāya* ← *yūpāya* ← *yūpa*
 - \[noun\], dative, singular, masculine
 - “column; stake.”
-------------------------------------------------------------------------
+
+_________
+
 - *takṣati* ← *takṣ*
 - \[verb\], plural, Present indikative
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cārvate* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cārvate* ← *arvate* ← *arvant*
 - \[noun\], dative, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *pacanaṃ* ← *pacanam* ← *pacana*
 - \[noun\], accusative, singular, neuter
 - “heating; boiling; digestion.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃbharanty* ← *saṃbharanti* ← *sambhṛ* ← *√bhṛ*
 - \[verb\], plural, Present indikative
 - “gather; collect; fill; mix; fill into; produce.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *teṣām* ← *tad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhigūrtir* ← *abhigūrtiḥ* ← *abhigūrti*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *invatu* ← *inv*
 - \[verb\], singular, Present imperative
 - “bring; drive.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

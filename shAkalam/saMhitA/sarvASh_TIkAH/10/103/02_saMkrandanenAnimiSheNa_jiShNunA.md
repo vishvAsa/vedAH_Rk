@@ -93,71 +93,103 @@ yúdhaḥ ← yúdh- (nominal stem)
 -   *saṃkrandanenānimiṣeṇa* ← *saṃkrandanena* ← *saṃkrandana*
 - \[noun\], instrumental, singular, masculine
 - “crying; blatant.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃkrandanenānimiṣeṇa* ← *animiṣeṇa* ← *animiṣa*
 - \[noun\], instrumental, singular, masculine
 - “agaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *jiṣṇunā* ← *jiṣṇu*
 - \[noun\], instrumental, singular, masculine
 - “victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *yutkāreṇa* ← *yutkāra*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *duścyavanena* ← *duścyavana*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇunā* ← *dhṛṣṇu*
 - \[noun\], instrumental, singular, masculine
 - “brave; ferocious; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayata* ← *ji*
 - \[verb\], plural, Present imperative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahadhvaṃ* ← *sahadhvam* ← *sah*
 - \[verb\], plural, Present imperative
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudho* ← *yudhaḥ* ← *yudh*
 - \[noun\], accusative, plural, feminine
 - “battle; fight; war; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *nara* ← *naraḥ* ← *nṛ*
 - \[noun\], vocative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣuhastena* ← *iṣu*
 - \[noun\], masculine
 - “arrow; iṣu \[word\]; iṣ; five; munj.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣuhastena* ← *hastena* ← *hasta*
 - \[noun\], instrumental, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇā* ← *vṛṣan*
 - \[noun\], instrumental, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -97,64 +97,94 @@ manyate ← √man- 1 (root)
 - \[noun\], accusative, singular
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgaiṣa* ← *aṅga*
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgaiṣa* ← *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hvayati* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *dārv* ← *dārū* ← *dāru*
 - \[noun\], accusative, plural, neuter
 - “wood; log; lumber.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgaiṣo* ← *aṅga*
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgaiṣo* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *apāvadhīt* ← *apavadh* ← *√vadh*
 - \[verb\], singular, Athematic is aor. (Ind.)
-------------------------------------------------------------------------
+
+_________
+
 - *vasann* ← *vasan* ← *vas*
 - \[verb noun\], nominative, singular
 - “stay; dwell; get stale; be situated; exist; continue; bide.”
-------------------------------------------------------------------------
+
+_________
+
 - *araṇyānyāṃ* ← *araṇyānyām* ← *araṇyānī*
 - \[noun\], locative, singular, feminine
 - “forest.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāyam*
 - \[adverb\]
 - “in the evening; sāyam \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *akrukṣad* ← *akrukṣat* ← *kruś*
 - \[verb\], singular, sa aorist (Ind.)
 - “cry; shout; lament.”
-------------------------------------------------------------------------
+
+_________
+
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *manyate* ← *man*
 - \[verb\], singular, Present indikative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -95,61 +95,91 @@ bíbhratau ← √bhr̥- (root)
 -   *ucchantyām* ← *vas*
 - \[verb noun\], locative, singular
 - “dawn; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajatā* ← *yajata*
 - \[noun\], nominative, dual, masculine
 - “holy; august; sacrificial.”
-------------------------------------------------------------------------
+
+_________
+
 - *devakṣatre* ← *devakṣatra*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ruśadgavi* ← *ruśadgu*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sutaṃ* ← *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hastibhir* ← *hastibhiḥ* ← *hastin*
 - \[noun\], instrumental, plural, masculine
 - “elephant; hastin \[word\]; Hastin; hastimeha.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paḍbhir* ← *paḍbhiḥ* ← *pad*
 - \[noun\], instrumental, plural
 - “foot; pad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāvataṃ* ← *dhāvatam* ← *dhāv*
 - \[verb\], dual, Present imperative
 - “run; run; wash.”
-------------------------------------------------------------------------
+
+_________
+
 - *narā* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bibhratāv* ← *bibhratau* ← *bhṛ*
 - \[verb noun\], nominative, dual
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcanānasam* ← *arcanānas*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -117,93 +117,139 @@ visrásaḥ ← √sraṁs- (root)
 -   *nāveva* ← *nāvā* ← *nau*
 - \[noun\], nominative, dual, feminine
 - “ship; boat; nau \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nāveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pārayataṃ* ← *pārayatam* ← *pāray* ← *√pṛ*
 - \[verb\], dual, Present imperative
 - “rescue; keep alive; satisfy; save; resist; endure.”
-------------------------------------------------------------------------
+
+_________
+
 - *yugeva* ← *yugā* ← *yuga*
 - \[noun\], nominative, plural, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
-------------------------------------------------------------------------
+
+_________
+
 - *yugeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabhyeva* ← *nabhyā* ← *nabhya*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *nabhyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *upadhīva* ← *upadhī* ← *upadhi*
 - \[noun\], nominative, dual, masculine
 - “upadhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *upadhīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *pradhīva* ← *pradhī* ← *pradhi*
 - \[noun\], nominative, dual, masculine
 - “disk.”
-------------------------------------------------------------------------
+
+_________
+
 - *pradhīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvāneva* ← *śvānā* ← *śvan*
 - \[noun\], nominative, dual, masculine
 - “dog; śvan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śvāneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣaṇyā* ← *ariṣaṇya*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tanūnāṃ* ← *tanūnām* ← *tanū*
 - \[noun\], genitive, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *khṛgaleva* ← *khṛgalā* ← *khṛgala*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *khṛgaleva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *visrasaḥ* ← *visraṃs* ← *√sraṃs*
 - \[verb noun\]
 - “fall off.”
-------------------------------------------------------------------------
+
+_________
+
 - *pātam* ← *pā*
 - \[verb\], dual, Present imperative
 - “protect; govern.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

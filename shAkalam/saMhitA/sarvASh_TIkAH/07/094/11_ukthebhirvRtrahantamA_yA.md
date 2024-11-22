@@ -73,43 +73,63 @@ yā́ ← yá- (pronoun)
 -   *ukthebhir* ← *ukthebhiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahantamā* ← *vṛtra*
 - \[noun\], neuter
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahantamā* ← *hantamā* ← *hantama*
 - \[noun\], nominative, dual, masculine
 - “killing.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mandānā* ← *mad*
 - \[verb noun\], nominative, dual
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā* ← *āḥ* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *girā* ← *giri*
 - \[noun\], locative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 - *āṅgūṣair* ← *āṅgūṣaiḥ* ← *āṅgūṣa*
 - \[noun\], instrumental, plural, masculine
 - “hymn.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvivāsataḥ* ← *āvivās* ← *√van*
 - \[verb noun\], genitive, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

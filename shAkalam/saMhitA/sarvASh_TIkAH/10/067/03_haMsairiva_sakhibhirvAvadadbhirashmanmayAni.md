@@ -99,73 +99,107 @@ vidvā́n ← √vid- 2 (root)
 -   *haṃsair* ← *haṃsaiḥ* ← *haṃsa*
 - \[noun\], instrumental, plural, masculine
 - “goose; Vishnu; sun.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhibhir* ← *sakhibhiḥ* ← *sakhi*
 - \[noun\], instrumental, plural, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvadadbhir* ← *vāvadadbhiḥ* ← *vāvad* ← *√vad*
 - \[verb noun\], instrumental, plural
 - “make noise; chatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśmanmayāni* ← *aśmanmaya*
 - \[noun\], accusative, plural, neuter
 - “stone.”
-------------------------------------------------------------------------
+
+_________
+
 - *nahanā* ← *nahana*
 - \[noun\], accusative, plural, neuter
 - “fastener.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyasyan* ← *vyas* ← *√as*
 - \[verb noun\], nominative, singular
 - “disperse; distinguish; write.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *kanikradad* ← *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāstaud* ← *prāstaut* ← *prastu* ← *√stu*
 - \[verb\], singular, Imperfect
 - “chant; praise; recommend.”
-------------------------------------------------------------------------
+
+_________
+
 - *uc* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidvāṃ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *agāyat* ← *gā*
 - \[verb\], singular, Imperfect
 - “sing; praise; jap; recite; describe.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

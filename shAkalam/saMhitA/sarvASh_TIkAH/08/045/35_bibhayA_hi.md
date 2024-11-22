@@ -70,33 +70,49 @@ r̥tīṣáhaḥ ← r̥tīṣáh- (nominal stem)
 -   *bibhayā* ← *bibhaya* ← *bhī*
 - \[verb\], singular, Perfect indicative
 - “fear; fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tvāvata* ← *tvāvataḥ* ← *tvāvat*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ugrād* ← *ugrāt* ← *ugra*
 - \[noun\], ablative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiprabhaṅgiṇaḥ* ← *abhiprabhaṅgin*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dasmād* ← *dasmāt* ← *dasma*
 - \[noun\], ablative, singular, masculine
 - “overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtīṣahaḥ* ← *ṛtīṣah*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

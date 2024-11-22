@@ -93,26 +93,36 @@ vibhātīnā́m ← √bhā- (root)
 -   *āvahantī* ← *āvah* ← *√vah*
 - \[verb noun\], nominative, singular
 - “bring; marry; cause; run; perform; exude.”
-------------------------------------------------------------------------
+
+_________
+
 - *poṣyā* ← *puṣ*
 - \[verb noun\], accusative, plural
 - “boom; grow; promote; foster.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāryāṇi* ← *vārya*
 - \[noun\], accusative, plural, neuter
 - “wealth.”
-------------------------------------------------------------------------
+
+_________
+
 - *citraṃ* ← *citram* ← *citra*
 - \[noun\], accusative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketuṃ* ← *ketum* ← *ketu*
 - \[noun\], accusative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -123,44 +133,64 @@ vibhātīnā́m ← √bhā- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *cekitānā* ← *cekit* ← *√cit*
 - \[verb noun\], nominative, singular
 - “chew over.”
-------------------------------------------------------------------------
+
+_________
+
 - *īyuṣīṇām* ← *i*
 - \[verb noun\], genitive, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *upamā* ← *upama*
 - \[noun\], nominative, singular, feminine
 - “best; topmost.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvatīnāṃ* ← *śaśvatīnām* ← *śaśvat*
 - \[noun\], genitive, plural, feminine
 - “all(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhātīnām* ← *vibhā* ← *√bhā*
 - \[verb noun\], genitive, plural
 - “shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamoṣā* ← *prathamā* ← *prathama*
 - \[noun\], nominative, singular, feminine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamoṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvait* ← *śvit*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “shine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

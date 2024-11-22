@@ -81,48 +81,70 @@ yáyā ← yá- (pronoun)
 -   *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *khanāmy* ← *khanāmi* ← *khan*
 - \[verb\], singular, Present indikative
 - “dig; dig out; dig; bury.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhiṃ* ← *oṣadhim* ← *oṣadhi*
 - \[noun\], accusative, singular, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrudham* ← *vīrudh*
 - \[noun\], accusative, singular, feminine
 - “plant; shrub.”
-------------------------------------------------------------------------
+
+_________
+
 - *balavattamām* ← *balavattama*
 - \[noun\], accusative, singular, feminine
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnīm* ← *sapatnī*
 - \[noun\], accusative, singular, feminine
 - “sapatnī; rival; sapatnī \[word\]; mistress.”
-------------------------------------------------------------------------
+
+_________
+
 - *bādhate* ← *bādh*
 - \[verb\], singular, Present indikative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvindate* ← *saṃvid* ← *√vid*
 - \[verb\], singular, Present indikative
 - “line up.”
-------------------------------------------------------------------------
+
+_________
+
 - *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

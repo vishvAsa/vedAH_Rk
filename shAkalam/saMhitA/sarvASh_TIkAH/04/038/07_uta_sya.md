@@ -99,67 +99,101 @@ r̥ñján ← √r̥j- 1 (root)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahurir* ← *sahuriḥ* ← *sahuri*
 - \[noun\], nominative, singular, masculine
 - “victorious; mighty; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvā* ← *ṛtāvan*
 - \[noun\], nominative, singular, masculine
 - “law-abiding; faithful; righteous.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuśrūṣamāṇas* ← *śuśrūṣamāṇaḥ* ← *śuśrūṣ*
 - \[verb noun\], nominative, singular
 - “obey; heed.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *samarye* ← *samarya*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *turaṃ* ← *turam* ← *tura*
 - \[noun\], accusative, singular, neuter
 - “powerful; noble; noble.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatīṣu* ← *i*
 - \[verb noun\], locative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *turayann* ← *turayan* ← *turay* ← *√tṛ*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjipyo* ← *ṛjipyaḥ* ← *ṛjipya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *'dhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhruvoḥ* ← *bhrū*
 - \[noun\], locative, dual, feminine
 - “eyebrow; bhrū \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kirate* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “spread; scatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *reṇum* ← *reṇu*
 - \[noun\], accusative, singular, masculine
 - “dust; pollen; powder.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛñjan* ← *ṛj*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

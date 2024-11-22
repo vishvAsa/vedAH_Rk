@@ -96,67 +96,99 @@ sédha ← √sidh- (root)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣa* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], nominative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *veśīd* ← *veśīt* ← *viś*
 - \[verb\], singular, Aorist inj. (proh.)
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 - *āghṛṇīvaso* ← *āghṛṇīvasu*
 - \[noun\], vocative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātur* ← *yātuḥ* ← *yātu*
 - \[noun\], nominative, singular, masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātumāvatām* ← *yātumāvat*
 - \[noun\], genitive, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *parogavyūty* ← *parogavyūtī* ← *parogavyūti*
 - \[noun\], accusative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *anirām* ← *anirā*
 - \[noun\], accusative, singular, feminine
 - “languor.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣudham* ← *kṣudh*
 - \[noun\], accusative, singular, feminine
 - “hunger; kṣudh.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *sedha* ← *sidh*
 - \[verb\], singular, Present imperative
 - “chase away; repel.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣasvinaḥ* ← *rakṣasvin*
 - \[noun\], accusative, plural, masculine
 - “malevolent; demoniac; obsessed.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

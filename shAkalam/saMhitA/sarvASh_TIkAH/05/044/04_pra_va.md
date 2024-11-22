@@ -99,78 +99,116 @@ pravaṇé ← pravaṇá- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suyujo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suyujo* ← *yujaḥ* ← *yuj*
 - \[noun\], nominative, plural, masculine
 - “ally; friend; pair; two; companion.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmann* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *nīcīr* ← *nīcīḥ* ← *nyāñc*
 - \[noun\], accusative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *amuṣmai* ← *adas*
 - \[noun\], dative, singular, masculine
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamya* ← *yamyaḥ* ← *yamī*
 - \[noun\], nominative, plural, feminine
 - “Yamī.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāvṛdhaḥ* ← *ṛtāvṛdh*
 - \[noun\], nominative, plural, feminine
 - “sincere.”
-------------------------------------------------------------------------
+
+_________
+
 - *suyantubhiḥ* ← *suyantu*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sarvaśāsair* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvaśāsair* ← *śāsaiḥ* ← *śāsa*
 - \[noun\], instrumental, plural, masculine
 - “ruler; commander.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhīśubhiḥ* ← *abhīśu*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein.”
-------------------------------------------------------------------------
+
+_________
+
 - *krivir* ← *kriviḥ* ← *krivi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nāmāni* ← *nāman*
 - \[noun\], accusative, plural, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravaṇe* ← *pravaṇa*
 - \[noun\], locative, singular, masculine
 - “descent.”
-------------------------------------------------------------------------
+
+_________
+
 - *muṣāyati* ← *muṣāy* ← *√muṣ*
 - \[verb\], singular, Present indikative
 - “steal; rob.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

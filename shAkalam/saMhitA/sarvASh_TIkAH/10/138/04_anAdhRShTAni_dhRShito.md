@@ -104,81 +104,119 @@ virúkmatā ← virúkmant- (nominal stem)
 
 -   *anādhṛṣṭāni* ← *anādhṛṣṭa*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣito* ← *dhṛṣitaḥ* ← *dhṛṣ*
 - \[verb noun\], nominative, singular
 - “dare; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsyan* ← *āsyat* ← *as*
 - \[verb\], singular, Imperfect
 - “shoot; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *nidhīṃr* ← *nidhi*
 - \[noun\], accusative, plural, masculine
 - “hoard; receptacle; treasure; ocean; instrument.”
-------------------------------------------------------------------------
+
+_________
+
 - *adevāṃ* ← *adeva*
 - \[noun\], accusative, plural, masculine
 - “godless.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛṇad* ← *amṛṇat* ← *mṛ*
 - \[verb\], singular, Imperfect
 - “crush; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayāsyaḥ* ← *ayāsya*
 - \[noun\], nominative, singular, masculine
 - “Ayāsya.”
-------------------------------------------------------------------------
+
+_________
+
 - *māseva* ← *māsā* ← *mās*
 - \[noun\], instrumental, singular, masculine
 - “month; lunar month.”
-------------------------------------------------------------------------
+
+_________
+
 - *māseva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasu*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *puryam* ← *purya*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatrūṃr* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśṛṇād* ← *aśṛṇāt* ← *śṛ*
 - \[verb\], singular, Imperfect
 - “fall off; break; disintegrate; crush; break; fracture.”
-------------------------------------------------------------------------
+
+_________
+
 - *virukmatā* ← *virukmant*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

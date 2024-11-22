@@ -79,52 +79,76 @@ rátheṣu ← rátha- (nominal stem)
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *añjiṣu* ← *añji*
 - \[noun\], locative, plural, masculine
 - “color; ointment; adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vāśīṣu* ← *vāśī*
 - \[noun\], locative, plural, feminine
 - “ax; chisel.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhānavaḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svabhānavaḥ* ← *bhānavaḥ* ← *bhānu*
 - \[noun\], nominative, plural, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *srakṣu* ← *sraj*
 - \[noun\], locative, plural
 - “wreath; sraj \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rukmeṣu* ← *rukma*
 - \[noun\], locative, plural, neuter
 - “gold; svarṇamākṣika.”
-------------------------------------------------------------------------
+
+_________
+
 - *khādiṣu* ← *khādi*
 - \[noun\], locative, plural, masculine
 - “ring.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrāyā* ← *śrāyāḥ* ← *śrāya*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ratheṣu* ← *ratha*
 - \[noun\], locative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvasu* ← *dhanvan*
 - \[noun\], locative, plural, neuter
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

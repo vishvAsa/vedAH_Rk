@@ -86,54 +86,82 @@ supīvásaḥ ← supīvás- (nominal stem)
 
 -   *tṛdilā* ← *tṛdilāḥ* ← *tṛdila*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *atṛdilāso* ← *atṛdilāsaḥ* ← *atṛdila*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *adrayo* ← *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *'śramaṇā* ← *aśramaṇāḥ* ← *aśramaṇa*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aśṛthitā* ← *aśṛthitāḥ* ← *aśṛthita*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *amṛtyavaḥ* ← *amṛtyu*
 - \[noun\], nominative, plural, masculine
 - “ageless; immortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *anāturā* ← *anāturāḥ* ← *anātura*
 - \[noun\], nominative, plural, masculine
 - “well.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajarā* ← *ajara*
 - \[noun\], nominative, plural, masculine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthāmaviṣṇavaḥ* ← *stha* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthāmaviṣṇavaḥ* ← *amaviṣṇavaḥ* ← *amaviṣṇu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *supīvaso* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supīvaso* ← *pīvasaḥ* ← *pīvas*
 - \[noun\], nominative, plural, masculine
 - “fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *atṛṣitā* ← *atṛṣitāḥ* ← *atṛṣita*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *atṛṣṇajaḥ* ← *atṛṣṇaj*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

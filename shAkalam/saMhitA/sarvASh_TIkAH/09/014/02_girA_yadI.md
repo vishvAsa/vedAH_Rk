@@ -71,35 +71,51 @@ pariṣkr̥ṇvánti ← √kr̥- (root)
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
-------------------------------------------------------------------------
+
+_________
+
 - *sabandhavaḥ* ← *sabandhu*
 - \[noun\], nominative, plural, masculine
 - “related.”
-------------------------------------------------------------------------
+
+_________
+
 - *pañca* ← *pañcan*
 - \[noun\], nominative, plural, masculine
 - “five; fifth; pañcan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vrātā* ← *vrātāḥ* ← *vrāta*
 - \[noun\], nominative, plural, masculine
 - “troop; group; Vrāta; vrāta \[word\]; flock.”
-------------------------------------------------------------------------
+
+_________
+
 - *apasyavaḥ* ← *apasyu*
 - \[noun\], nominative, plural, masculine
 - “active.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣkṛṇvanti* ← *pariṣkṛ* ← *√kṛ*
 - \[verb\], plural, Present indikative
 - “decorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *dharṇasim* ← *dharṇasi*
 - \[noun\], accusative, singular, masculine
 - “permanent; firm.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

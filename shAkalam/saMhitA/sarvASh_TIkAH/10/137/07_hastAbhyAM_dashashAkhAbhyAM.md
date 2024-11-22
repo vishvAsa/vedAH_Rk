@@ -81,55 +81,79 @@ tvā ← tvám (pronoun)
 -   *hastābhyāṃ* ← *hastābhyām* ← *hasta*
 - \[noun\], instrumental, dual, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśaśākhābhyāṃ* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśaśākhābhyāṃ* ← *śākhābhyām* ← *śākhā*
 - \[noun\], instrumental, dual, masculine
 - “branch; limb; school; extremity; śākhā \[word\]; bough; branchlet;
     finger.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvā*
 - \[noun\], nominative, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācaḥ* ← *vāc*
 - \[noun\], genitive, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 - *purogavī*
 - \[noun\], nominative, singular, feminine
 - “leader.”
-------------------------------------------------------------------------
+
+_________
+
 - *anāmayitnubhyāṃ* ← *anāmayitnubhyām* ← *anāmayitnu*
 - \[noun\], instrumental, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tābhyāṃ* ← *tābhyām* ← *tad*
 - \[noun\], instrumental, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvopa* ← *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *spṛśāmasi* ← *spṛś*
 - \[verb\], plural, Present indikative
 - “touch; enter (a state); reach; touch.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

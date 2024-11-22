@@ -84,62 +84,90 @@ bhúvanāni ← bhúvana- (nominal stem)
 -   *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrya*
 - \[noun\], vocative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarbhānus* ← *svarbhānuḥ* ← *svarbhānu*
 - \[noun\], nominative, singular, masculine
 - “Rahu.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamasāvidhyad* ← *tamasā* ← *tamas*
 - \[noun\], instrumental, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamasāvidhyad* ← *vidhyat* ← *vyadh*
 - \[verb\], singular, Imperfect
 - “pierce; vedhay; pierce; transfix; bleed; pierce; cut off; injure.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsuraḥ* ← *āsura*
 - \[noun\], nominative, singular, masculine
 - “āsura; demoniac.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣetravid* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣetravid* ← *kṣetra*
 - \[noun\], masculine
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣetravid* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *mugdho* ← *mugdhaḥ* ← *muh*
 - \[verb noun\], nominative, singular
 - “confuse; err; faint; stray; sin.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhuvanāny* ← *bhuvanāni* ← *bhuvana*
 - \[noun\], nominative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adīdhayuḥ* ← *dhī*
 - \[verb\], plural, Imperfect
 - “think; desire; chew over.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

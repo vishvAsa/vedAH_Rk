@@ -96,77 +96,111 @@ vaso ← vásu- (nominal stem)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamo* ← *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātariśvana* ← *mātariśvane* ← *mātariśvan*
 - \[noun\], dative, singular, masculine
 - “wind; Mātariśvan; Vayu; vāta.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratūyā*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vivasvate* ← *vivasvant*
 - \[noun\], dative, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
-------------------------------------------------------------------------
+
+_________
+
 - *arejetāṃ* ← *arejetām* ← *rej*
 - \[verb\], dual, Imperfect
 - “tremor; flicker.”
-------------------------------------------------------------------------
+
+_________
+
 - *rodasī* ← *rodas*
 - \[noun\], nominative, dual, neuter
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotṛvūrye* ← *hotṛ*
 - \[noun\], masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotṛvūrye* ← *vūrye* ← *vūrya*
 - \[noun\], locative, singular, neuter
 - “election.”
-------------------------------------------------------------------------
+
+_________
+
 - *'saghnor* ← *asaghnoḥ* ← *sagh*
 - \[verb\], singular, Imperfect
 - “bear up.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāram* ← *bhāra*
 - \[noun\], accusative, singular, masculine
 - “weight; load; difficulty; bhāra \[word\]; bhāra; quantity; trouble;
     specific gravity; cargo; effort; labor.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayajo* ← *ayajaḥ* ← *yaj*
 - \[verb\], singular, Imperfect
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

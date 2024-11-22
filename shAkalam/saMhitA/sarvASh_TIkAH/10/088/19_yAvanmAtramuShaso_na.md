@@ -95,67 +95,99 @@ niṣī́dan ← √sad- (root)
 
 -   *yāvanmātram* ← *yāvanmātra*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratīkaṃ* ← *pratīkam* ← *pratīka*
 - \[noun\], accusative, singular, neuter
 - “face; surface.”
-------------------------------------------------------------------------
+
+_________
+
 - *suparṇyo* ← *suparṇyaḥ* ← *suparṇī*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vasate* ← *vas*
 - \[verb\], plural, Present indikative
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātariśvaḥ* ← *mātariśvan*
 - \[noun\], vocative, singular
 - “wind; Mātariśvan; Vayu; vāta.”
-------------------------------------------------------------------------
+
+_________
+
 - *tāvad* ← *tāvat*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *dadhāty* ← *dadhāti* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *āyan* ← *e* ← *√i*
 - \[verb noun\], nominative, singular
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *brāhmaṇo* ← *brāhmaṇaḥ* ← *brāhmaṇa*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; Brahmin; brāhmaṇa \[word\]; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotur* ← *hotuḥ* ← *hotṛ*
 - \[noun\], genitive, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *avaro* ← *avaraḥ* ← *avara*
 - \[noun\], nominative, singular, masculine
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣīdan* ← *niṣad* ← *√sad*
 - \[verb noun\], nominative, singular
 - “sit down; sit; put.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -70,40 +70,58 @@ yáthā ← yáthā (invariable)
 -   *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrāsa* ← *vīrāsaḥ* ← *vīra*
 - \[noun\], vocative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
-------------------------------------------------------------------------
+
+_________
+
 - *etana* ← *e* ← *√i*
 - \[verb\], plural, Present imperative
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *maryāso* ← *maryāsaḥ* ← *marya*
 - \[noun\], nominative, plural, masculine
 - “young buck; boyfriend.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrajānayaḥ* ← *bhadra*
 - \[noun\]
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhadrajānayaḥ* ← *jānayaḥ* ← *jānī*
 - \[noun\], nominative, plural, masculine
 - “wife.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnitapo* ← *agnitapaḥ* ← *agnitap*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yathāsatha* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathāsatha* ← *asatha* ← *as*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

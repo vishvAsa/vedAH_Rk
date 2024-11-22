@@ -76,47 +76,69 @@ tánasā ← tánas- (nominal stem)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *kasyādbhutakratū* ← *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kasyādbhutakratū* ← *adbhuta*
 - \[noun\]
 - “extraordinary; amazing; supernatural.”
-------------------------------------------------------------------------
+
+_________
+
 - *kasyādbhutakratū* ← *kratū* ← *kratu*
 - \[noun\], vocative, dual, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣam* ← *yakṣa*
 - \[noun\], accusative, singular, neuter
 - “apparition; monster; apparition.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhujemā* ← *bhujema* ← *bhuj*
 - \[verb\], plural, Aorist optative
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūbhiḥ* ← *tanū*
 - \[noun\], instrumental, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *śeṣasā* ← *śeṣas*
 - \[noun\], instrumental, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanasā* ← *tanas*
 - \[noun\], instrumental, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

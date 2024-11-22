@@ -108,92 +108,136 @@ pakthī́ ← pakthín- (nominal stem)
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tyad* ← *tya*
 - \[noun\], nominative, singular, neuter
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvam* ← *viśva*
 - \[noun\], nominative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasto* ← *sastaḥ* ← *sas*
 - \[verb\], dual, Present indikative
 - “sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhunīcumurī* ← *dhunī*
 - \[noun\], feminine
 - “river.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhunīcumurī* ← *cumurī* ← *cumuri*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], accusative, dual, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣvap* ← *svap*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sleep; numb; fall asleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdayad* ← *dīdayat* ← *dīdī*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “shine; glitter.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *somebhiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *sunvan* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *dabhītir* ← *dabhītiḥ* ← *dabhīti*
 - \[noun\], nominative, singular, masculine
 - “Dabhīti.”
-------------------------------------------------------------------------
+
+_________
+
 - *idhmabhṛtiḥ* ← *idhma*
 - \[noun\], masculine
 - “fuel.”
-------------------------------------------------------------------------
+
+_________
+
 - *idhmabhṛtiḥ* ← *bhṛtiḥ* ← *bhṛti*
 - \[noun\], nominative, singular, masculine
 - “rental; support; wage.”
-------------------------------------------------------------------------
+
+_________
+
 - *pakthy* ← *pakthī* ← *pakthin*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

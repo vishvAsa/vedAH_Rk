@@ -102,30 +102,44 @@ viṣvā́caḥ ← viṣvā́(ñ)c- (nominal stem)
 -   *ajohavīd* ← *ajohavīt* ← *johav* ← *√hvā*
 - \[verb\], singular, Imperfect
 - “appeal.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartikā*
 - \[noun\], nominative, singular, feminine
 - “wick; paintbrush.”
-------------------------------------------------------------------------
+
+_________
+
 - *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsno* ← *āsnaḥ* ← *āsan*
 - \[noun\], ablative, singular, neuter
 - “mouth.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīm*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *amuñcataṃ* ← *amuñcatam* ← *muc*
 - \[verb\], dual, Imperfect
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -133,50 +147,72 @@ viṣvā́caḥ ← viṣvā́(ñ)c- (nominal stem)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkasya* ← *vṛka*
 - \[noun\], genitive, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayuṣā* ← *jayus*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yayathuḥ* ← *yā*
 - \[verb\], dual, Perfect indicative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *sānv* ← *sānū* ← *sānu*
 - \[noun\], accusative, plural, neuter
 - “tableland; ridge; peak; back; ridge; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *adrer* ← *adreḥ* ← *adri*
 - \[noun\], genitive, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātaṃ* ← *jātam* ← *jāta*
 - \[noun\], accusative, singular, neuter
 - “kind; object; descendant; kin; being; reincarnation.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣvāco* ← *viṣvācaḥ* ← *viṣvāc*
 - \[noun\], genitive, singular, masculine
 - “Viṣvāc.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahataṃ* ← *ahatam* ← *han*
 - \[verb\], dual, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣeṇa* ← *viṣa*
 - \[noun\], instrumental, singular, neuter
 - “poison; poisoning; viṣa; venom; vatsanābha; Aconitum Ferox; viṣa
     \[word\]; Viṣa; myrrh; myrrh.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

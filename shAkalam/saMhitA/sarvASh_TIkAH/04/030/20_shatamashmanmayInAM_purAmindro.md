@@ -70,36 +70,52 @@ dívodāsāya ← dívodāsa- (nominal stem)
 -   *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśmanmayīnām* ← *aśmanmaya*
 - \[noun\], genitive, plural, feminine
 - “stone.”
-------------------------------------------------------------------------
+
+_________
+
 - *purām* ← *pur*
 - \[noun\], genitive, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsyat* ← *as*
 - \[verb\], singular, Imperfect
 - “shoot; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *divodāsāya* ← *divodāsa*
 - \[noun\], dative, singular, masculine
 - “Divodāsa.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

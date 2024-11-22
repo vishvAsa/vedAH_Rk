@@ -73,18 +73,26 @@ matsarám ← matsará- (nominal stem)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāvatā* ← *dhāvata* ← *dhāv*
 - \[verb\], plural, Present imperative
 - “run; run; wash.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhastyaḥ* ← *suhastī*
 - \[noun\], vocative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śukrā* ← *śukrāḥ* ← *śukra*
 - \[noun\], vocative, plural, masculine
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛbhṇīta* ← *grah*
 - \[verb\], plural, Present imperative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -92,24 +100,34 @@ matsarám ← matsará- (nominal stem)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *manthinā* ← *manthin*
 - \[noun\], instrumental, singular, masculine
 - “manthin \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrīṇīta* ← *śrī*
 - \[verb\], plural, Present imperative
 - “cook; boil; heat; cook; mix.”
-------------------------------------------------------------------------
+
+_________
+
 - *matsaram* ← *matsara*
 - \[noun\], accusative, singular, masculine
 - “envy; hostility.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

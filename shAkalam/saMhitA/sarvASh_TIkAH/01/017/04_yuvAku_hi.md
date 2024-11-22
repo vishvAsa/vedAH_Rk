@@ -67,38 +67,54 @@ vājadā́vnām ← vājadā́van- (nominal stem)
 -   *yuvāku*
 - \[noun\], accusative, singular, neuter
 - “your(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śacīnāṃ* ← *śacīnām* ← *śacī*
 - \[noun\], genitive, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvāku*
 - \[noun\], accusative, singular, neuter
 - “your(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *sumatīnām* ← *sumati*
 - \[noun\], genitive, plural, feminine
 - “benevolence; favor; Sumati.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūyāma* ← *bhū*
 - \[verb\], plural, Aorist optative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājadāvnām* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājadāvnām* ← *dāvnām* ← *dāvan*
 - \[noun\], genitive, plural, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

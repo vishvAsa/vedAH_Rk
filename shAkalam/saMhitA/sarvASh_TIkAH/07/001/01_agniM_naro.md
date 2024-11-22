@@ -78,47 +78,69 @@ gr̥hápatim ← gr̥hápati- (nominal stem)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdhitibhir* ← *dīdhitibhiḥ* ← *dīdhiti*
 - \[noun\], instrumental, plural, feminine
 - “beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *araṇyor* ← *araṇyoḥ* ← *araṇi*
 - \[noun\], locative, dual, feminine
 - “Araṇi.”
-------------------------------------------------------------------------
+
+_________
+
 - *hastacyutī* ← *hasta*
 - \[noun\], masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *hastacyutī* ← *cyutī* ← *cyuti*
 - \[noun\], instrumental, singular, feminine
 - “deviation; degeneracy; loss.”
-------------------------------------------------------------------------
+
+_________
+
 - *janayanta* ← *janay* ← *√jan*
 - \[verb\], plural, Present injunctive
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
+
+_________
+
 - *praśastam* ← *praśaṃs* ← *√śaṃs*
 - \[verb noun\], accusative, singular
 - “recommend; approve; praise; laud; favor; proclaim.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūredṛśaṃ* ← *dūredṛśam* ← *dūredṛś*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *gṛhapatim* ← *gṛhapati*
 - \[noun\], accusative, singular, masculine
 - “gṛhapati \[word\]; Gṛhastha.”
-------------------------------------------------------------------------
+
+_________
+
 - *atharyum* ← *atharyu*
 - \[noun\], accusative, singular, masculine
 - “blazing.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

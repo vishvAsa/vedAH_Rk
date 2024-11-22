@@ -105,83 +105,121 @@ viravéṇa ← viravá- (nominal stem)
 -   *aśnāpinaddham* ← *aśnā* ← *aśan*
 - \[noun\], instrumental, singular, masculine
 - “stone; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnāpinaddham* ← *apinaddham* ← *apinah* ← *√nah*
 - \[verb noun\], accusative, singular
 - “fasten; tie.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaśyan* ← *apaśyat* ← *paś*
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *matsyaṃ* ← *matsyam* ← *matsya*
 - \[noun\], accusative, singular, masculine
 - “fish; Matsya; Matsya; matsya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dīna* ← *dīne* ← *dīna*
 - \[noun\], locative, singular, neuter
 - “sad; miserable; afflicted; blue; shallow.”
-------------------------------------------------------------------------
+
+_________
+
 - *udani* ← *udan*
 - \[noun\], locative, singular, neuter
 - “water; body of water.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣiyantam* ← *kṣi*
 - \[verb noun\], accusative, singular
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣ* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṭaj* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *jabhāra* ← *bhṛ*
 - \[verb\], singular, Perfect indicative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *camasaṃ* ← *camasam* ← *camasa*
 - \[noun\], accusative, singular, masculine
 - “camasa; beaker; cake.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkṣād* ← *vṛkṣāt* ← *vṛkṣa*
 - \[noun\], ablative, singular, masculine
 - “tree; fruit tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *viraveṇā* ← *viraveṇa* ← *virava*
 - \[noun\], instrumental, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vikṛtya* ← *vikṛ* ← *√kṛ*
 - \[verb noun\]
 - “deform; change; transform; corrupt; cripple; roll; decorate; bend;
     transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,77 +102,113 @@ víśvasya ← víśva- (nominal stem)
 -   *omānam* ← *oman*
 - \[noun\], accusative, singular, masculine
 - “relief; aid.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], vocative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *mānuṣīr* ← *mānuṣīḥ* ← *mānuṣa*
 - \[noun\], vocative, plural, feminine
 - “human.”
-------------------------------------------------------------------------
+
+_________
+
 - *amṛktaṃ* ← *amṛktam* ← *amṛkta*
 - \[noun\], accusative, singular, masculine
 - “new; undamaged; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāta* ← *dhā*
 - \[verb\], plural, Aorist imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanayāya* ← *tanaya*
 - \[noun\], dative, singular, neuter
 - “biological.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yoḥ* ← *yos*
 - \[noun\], accusative, singular, neuter
 - “fortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣṭhā* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhiṣajo* ← *bhiṣajaḥ* ← *bhiṣaj*
 - \[noun\], nominative, plural, masculine
 - “doctor; alchemist; therapist; medicine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātṛtamā* ← *mātṛtamāḥ* ← *mātṛtama*
 - \[noun\], nominative, plural, masculine
 - “motherly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sthātur* ← *sthātuḥ* ← *sthātṛ*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *jagato* ← *jagataḥ* ← *jagat*
 - \[noun\], genitive, singular, masculine
 - “movable; Jagatī; moving.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitrīḥ* ← *janitrī*
 - \[noun\], nominative, plural, feminine
 - “mother.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

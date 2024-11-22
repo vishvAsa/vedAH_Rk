@@ -96,70 +96,102 @@ yé ← yá- (pronoun)
 -   *samatsu* ← *samad*
 - \[noun\], locative, plural, masculine
 - “conflict; strife.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *satām* ← *as*
 - \[verb noun\], genitive, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *urāṇam* ← *vṛ*
 - \[verb noun\], accusative, singular
 - “choose; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *prapathintamam* ← *prapathintama*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *paritaṃsayadhyai* ← *paritaṃsay* ← *√taṃs*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *sajoṣasa* ← *sajoṣasaḥ* ← *sajoṣas*
 - \[noun\], nominative, plural, feminine
 - “consentaneous; combined; associated; united.”
-------------------------------------------------------------------------
+
+_________
+
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣoṇīḥ* ← *kṣoṇī*
 - \[noun\], nominative, plural, feminine
 - “Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūriṃ* ← *sūrim* ← *sūri*
 - \[noun\], accusative, singular, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *anumadanti* ← *anumad* ← *√mad*
 - \[verb\], plural, Present indikative
 - “praise; cheer; applaud.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājaiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

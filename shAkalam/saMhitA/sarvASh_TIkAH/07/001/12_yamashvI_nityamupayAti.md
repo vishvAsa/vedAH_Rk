@@ -82,62 +82,90 @@ vāvr̥dhānám ← √vr̥dh- (root)
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvī* ← *aśvin*
 - \[noun\], nominative, singular, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *nityam*
 - \[adverb\]
 - “always; continually; repeatedly.”
-------------------------------------------------------------------------
+
+_________
+
 - *upayāti* ← *upayā* ← *√yā*
 - \[verb\], singular, Present indikative
 - “enter (a state); arrive; come; go.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajāvantaṃ* ← *prajāvantam* ← *prajāvat*
 - \[noun\], accusative, singular, masculine
 - “prolific.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapatyaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapatyaṃ* ← *apatyam* ← *apatya*
 - \[noun\], accusative, singular, masculine
 - “child; offspring; patronymic; descendant.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣayaṃ* ← *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *svajanmanā* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *svajanmanā* ← *janmanā* ← *janman*
 - \[noun\], instrumental, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *śeṣasā* ← *śeṣas*
 - \[noun\], instrumental, singular, neuter
 - “offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvṛdhānam* ← *vṛdh*
 - \[verb noun\], accusative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

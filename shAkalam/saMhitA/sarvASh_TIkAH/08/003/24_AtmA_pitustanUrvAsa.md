@@ -88,59 +88,87 @@ dātā́ram ← dātár- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “self; nature; Ātman; mind; soul; self; body; character; ātman
     \[word\]; person; life; peculiarity.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitus* ← *pituḥ* ← *pitu*
 - \[noun\], nominative, singular, masculine
 - “food.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanūr* ← *tanūḥ* ← *tanū*
 - \[noun\], nominative, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāsa* ← *vāsaḥ* ← *vāsas*
 - \[noun\], nominative, singular, neuter
 - “clothing; fabric; garment; feather; dress; envelope.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojodā* ← *ojaḥ* ← *ojas*
 - \[noun\], neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojodā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhyañjanam* ← *abhyañjana*
 - \[noun\], nominative, singular, neuter
 - “abhyaṅga; ointment.”
-------------------------------------------------------------------------
+
+_________
+
 - *turīyam* ← *turīya*
 - \[noun\], accusative, singular, masculine
 - “fourth.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *rohitasya* ← *rohita*
 - \[noun\], genitive, singular, masculine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 - *pākasthāmānam* ← *pākasthāman*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bhojaṃ* ← *bhojam* ← *bhoja*
 - \[noun\], accusative, singular, masculine
 - “big; hospitable.”
-------------------------------------------------------------------------
+
+_________
+
 - *dātāram* ← *dātṛ*
 - \[noun\], accusative, singular, masculine
 - “giving; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *abravam* ← *brū*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

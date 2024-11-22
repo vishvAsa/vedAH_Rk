@@ -99,74 +99,108 @@ dabhī́taye ← dabhī́ti- (nominal stem)
 -   *bhūri*
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣebhir* ← *dakṣebhiḥ* ← *dakṣa*
 - \[noun\], instrumental, plural, neuter
 - “deft; right; intelligent; expert.”
-------------------------------------------------------------------------
+
+_________
+
 - *vacanebhir* ← *vacanebhiḥ* ← *vacana*
 - \[noun\], instrumental, plural, neuter
 - “statement; command; speech; question; description; construction;
     advice; number; vacana \[word\]; case ending; rumor; speaking;
     pronunciation; recommendation; history.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛkvabhiḥ* ← *ṛkvan*
 - \[noun\], instrumental, plural, neuter
 - “singing.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyebhiḥ* ← *sakhya*
 - \[noun\], instrumental, plural, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyāni* ← *sakhya*
 - \[noun\], accusative, plural, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *vocata* ← *vac*
 - \[verb\], plural, Aorist imperative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhuniṃ* ← *dhunim* ← *dhuni*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cumuriṃ* ← *cumurim* ← *cumuri*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dambhayañchraddhāmanasyā* ← *dambhayan* ← *dambhay* ← *√dabh*
 - \[verb noun\], nominative, singular
 - “subjugate; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 - *dambhayañchraddhāmanasyā* ← *śraddhāmanasyā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇute* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *dabhītaye* ← *dabhīti*
 - \[noun\], dative, singular, masculine
 - “Dabhīti.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

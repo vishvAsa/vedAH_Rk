@@ -84,63 +84,91 @@ nāśaya ← √naś- 2 (root)
 -   *udyann* ← *udyan* ← *udi* ← *√i*
 - \[verb noun\], nominative, singular
 - “rise; originate; rise; increase.”
-------------------------------------------------------------------------
+
+_________
+
 - *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mitramaha* ← *mitra*
 - \[noun\], masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitramaha* ← *maha*
 - \[noun\], vocative, singular, masculine
 - “great; abundant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārohann* ← *ārohan* ← *āruh* ← *√ruh*
 - \[verb noun\], nominative, singular
 - “board; hop on; climb; ascend; descend; ride; copulate; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *uttarāṃ* ← *uttarām* ← *uttara*
 - \[noun\], accusative, singular, feminine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *divam* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdrogam* ← *hṛd*
 - \[noun\], neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdrogam* ← *rogam* ← *roga*
 - \[noun\], accusative, singular, masculine
 - “disease; illness; ache; roga \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūrya*
 - \[noun\], vocative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *harimāṇaṃ* ← *harimāṇam* ← *hariman*
 - \[noun\], accusative, singular, masculine
 - “jaundice.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāśaya* ← *nāśay* ← *√naś*
 - \[verb\], singular, Present imperative
 - “cure; destroy; kill; remove; māray; obstruct; expiate; eliminate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

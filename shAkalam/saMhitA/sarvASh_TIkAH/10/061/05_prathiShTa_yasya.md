@@ -105,77 +105,113 @@ duhitúḥ ← duhitár- (nominal stem)
 -   *prathiṣṭa* ← *prath*
 - \[verb\], singular, Aorist inj. (proh.)
 - “be known; expand; expand; boom.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vīrakarmam* ← *vīrakarma*
 - \[noun\], nominative, singular, neuter
 - “penis.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣṇad* ← *iṣṇat* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “send.”
-------------------------------------------------------------------------
+
+_________
+
 - *anuṣṭhitaṃ* ← *anuṣṭhitam* ← *anuṣṭhā* ← *√sthā*
 - \[verb noun\], accusative, singular
 - “follow; protect; treat.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *naryo* ← *naryaḥ* ← *narya*
 - \[noun\], nominative, singular, masculine
 - “manly; heroic; powerful; male; human.”
-------------------------------------------------------------------------
+
+_________
+
 - *apauhat* ← *apoh* ← *√ūh*
 - \[verb\], singular, Imperfect
 - “remove; cure; get rid of; stop; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *punas* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛhati* ← *vṛh*
 - \[verb\], singular, Present indikative
 - “extract.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kanāyā* ← *kanāyāḥ* ← *kanā*
 - \[noun\], genitive, singular, feminine
 - “girl.”
-------------------------------------------------------------------------
+
+_________
+
 - *duhitur* ← *duhituḥ* ← *duhitṛ*
 - \[noun\], genitive, singular, feminine
 - “daughter; duhitṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *anubhṛtam* ← *anubhṛ* ← *√bhṛ*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *anarvā* ← *anarvan*
 - \[noun\], nominative, singular, masculine
 - “unchallenged; unrivaled.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

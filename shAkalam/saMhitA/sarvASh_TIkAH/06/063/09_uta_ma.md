@@ -102,73 +102,109 @@ vaśā́saḥ ← vaśā́- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *ma* ← *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjre* ← *ṛjra*
 - \[noun\], nominative, dual, feminine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 - *purayasya* ← *puraya*
 - \[noun\], genitive, singular, masculine
 - “Puraya.”
-------------------------------------------------------------------------
+
+_________
+
 - *raghvī* ← *raghu*
 - \[noun\], nominative, dual, feminine
 - “low; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumīﾱhe* ← *sumīḍhe* ← *sumīḍha*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *peruke* ← *peruka*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *pakvā* ← *pakva*
 - \[noun\], nominative, singular, feminine
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
-------------------------------------------------------------------------
+
+_________
+
 - *śāṇḍo* ← *śāṇḍaḥ* ← *śāṇḍa*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *dāddhiraṇinaḥ* ← *dāt* ← *dā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāddhiraṇinaḥ* ← *hiraṇinaḥ* ← *hiraṇin*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *smaddiṣṭīn* ← *smaddiṣṭi*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vaśāso* ← *vaśāsaḥ* ← *vaśā*
 - \[noun\], nominative, plural, feminine
 - “cow; female elephant.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiṣāca* ← *abhiṣācaḥ* ← *abhiṣāc*
 - \[noun\], nominative, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣvān* ← *ṛṣva*
 - \[noun\], accusative, plural, masculine
 - “distinguished; high; noble; enormous.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

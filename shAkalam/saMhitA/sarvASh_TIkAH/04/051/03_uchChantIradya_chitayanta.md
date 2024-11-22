@@ -90,74 +90,108 @@ vímadhye ← vímadhya- (nominal stem)
 -   *ucchantīr* ← *ucchantīḥ* ← *vas*
 - \[verb noun\], nominative, plural
 - “dawn; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *citayanta* ← *citay* ← *√cit*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *bhojān* ← *bhoja*
 - \[noun\], accusative, plural, masculine
 - “big; hospitable.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhodeyāyoṣaso* ← *rādhaḥ* ← *rādhas*
 - \[noun\], neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhodeyāyoṣaso* ← *deyāya* ← *deya*
 - \[noun\], dative, singular, neuter
 - “giving; gift.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādhodeyāyoṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghonīḥ* ← *maghavan*
 - \[noun\], nominative, plural, feminine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *acitre* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *acitre* ← *citre* ← *citra*
 - \[noun\], locative, singular, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *paṇayaḥ* ← *paṇi*
 - \[noun\], nominative, plural, masculine
 - “niggard; paṇ.”
-------------------------------------------------------------------------
+
+_________
+
 - *sasantv* ← *sasantu* ← *sas*
 - \[verb\], plural, Present imperative
 - “sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *abudhyamānās* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *abudhyamānās* ← *budhyamānāḥ* ← *budh*
 - \[verb noun\], nominative, plural
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamaso* ← *tamasaḥ* ← *tamas*
 - \[noun\], genitive, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *vimadhye* ← *vimadhya*
 - \[noun\], locative, singular, neuter
 - “middle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

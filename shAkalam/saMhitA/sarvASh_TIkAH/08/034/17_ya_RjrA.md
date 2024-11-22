@@ -70,40 +70,58 @@ sū́ryāḥ ← sū́rya- (nominal stem)
 -   *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjrā* ← *ṛjrāḥ* ← *ṛjra*
 - \[noun\], nominative, plural, masculine
 - “red.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātaraṃhaso* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātaraṃhaso* ← *raṃhasaḥ* ← *raṃhas*
 - \[noun\], nominative, plural, masculine
 - “speed.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ruṣāso* ← *aruṣāsaḥ* ← *aruṣa*
 - \[noun\], nominative, plural, masculine
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *raghuṣyadaḥ* ← *raghuṣyad*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bhrājante* ← *bhrāj*
 - \[verb\], plural, Present indikative
 - “shine; glitter; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryā* ← *sūryāḥ* ← *sūrya*
 - \[noun\], nominative, plural, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

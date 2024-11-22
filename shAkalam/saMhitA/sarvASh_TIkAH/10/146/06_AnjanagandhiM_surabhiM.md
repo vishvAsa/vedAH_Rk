@@ -78,58 +78,84 @@ aśaṁsiṣam ← √śaṁs- (root)
 -   *āñjanagandhiṃ* ← *āñjana*
 - \[noun\], neuter
 - “anointing.”
-------------------------------------------------------------------------
+
+_________
+
 - *āñjanagandhiṃ* ← *gandhim* ← *gandhi*
 - \[noun\], accusative, singular, feminine
 - “redolent(p); odoriferous.”
-------------------------------------------------------------------------
+
+_________
+
 - *surabhim* ← *surabhi*
 - \[noun\], accusative, singular, feminine
 - “fragrant; perfumed; surabhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *bahvannām* ← *bahu*
 - \[noun\]
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
-------------------------------------------------------------------------
+
+_________
+
 - *bahvannām* ← *annām* ← *anna*
 - \[noun\], accusative, singular, feminine
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṣīvalām* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṣīvalām* ← *kṛṣīvalām* ← *kṛṣīvala*
 - \[noun\], accusative, singular, feminine
 - “farmer.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāham* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛgāṇām* ← *mṛga*
 - \[noun\], genitive, plural, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *araṇyānim* ← *araṇyāni*
 - \[noun\], accusative, singular, feminine
 - “forest.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśaṃsiṣam* ← *śaṃs*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

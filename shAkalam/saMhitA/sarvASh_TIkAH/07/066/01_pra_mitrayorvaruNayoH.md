@@ -73,46 +73,66 @@ tuvijātáyoḥ ← tuvijātá- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitrayor* ← *mitrayoḥ* ← *mitra*
 - \[noun\], genitive, dual, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇayo* ← *varuṇayoḥ* ← *varuṇa*
 - \[noun\], genitive, dual, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomo* ← *stomaḥ* ← *stoma*
 - \[noun\], nominative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūṣyaḥ* ← *śūṣya*
 - \[noun\], nominative, singular, masculine
 - “encouraging.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasvān* ← *namasvat*
 - \[noun\], nominative, singular, masculine
 - “respectful.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvijātayoḥ* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvijātayoḥ* ← *jātayoḥ* ← *jan*
 - \[verb noun\], genitive, dual
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -98,71 +98,105 @@ sahásrā ← sahásra- (nominal stem)
 -   *ṣaṣṭiṃ* ← *ṣaṣṭim* ← *ṣaṣṭi*
 - \[noun\], accusative, singular, feminine
 - “sixty; sixtieth; ṣaṣṭi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrāśvyasyāyutāsanam* ← *sahasrā* ← *sahasra*
 - \[noun\], instrumental, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrāśvyasyāyutāsanam* ← *aśvyasya* ← *aśvya*
 - \[noun\], genitive, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrāśvyasyāyutāsanam* ← *ayuta*
 - \[noun\], neuter
 - “ayuta.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrāśvyasyāyutāsanam* ← *āsanam* ← *āsana*
 - \[noun\], accusative, singular, neuter
 - “seat; sitting; throne; Āsana; dwelling; āsana \[word\]; place;
     stay.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣṭrānāṃ* ← *uṣṭrānām* ← *uṣṭra*
 - \[noun\], genitive, plural, masculine
 - “camel; uṣṭra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viṃśatiṃ* ← *viṃśatim* ← *viṃśati*
 - \[noun\], accusative, singular, feminine
 - “twenty; twentieth; viṃśati \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śyāvīnāṃ* ← *śyāvīnām* ← *śyāvī*
 - \[noun\], genitive, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tryaruṣīṇāṃ* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tryaruṣīṇāṃ* ← *aruṣīṇām* ← *aruṣa*
 - \[noun\], genitive, plural, feminine
 - “red; red.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
 - “ten; tenth; daśan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gavāṃ* ← *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -97,47 +97,69 @@ yā́t ← yā́t (invariable)
 - \[noun\], instrumental, singular, neuter
 - “snow; frost; hima \[word\]; winter; tin; silver; pearl;
     sauvīrāñjana; year; ague; Himalayas; coldness.”
-------------------------------------------------------------------------
+
+_________
+
 - *himeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *parṇā* ← *parṇa*
 - \[noun\], accusative, plural, neuter
 - “leaf; feather; parṇa \[word\]; leaf; wing.”
-------------------------------------------------------------------------
+
+_________
+
 - *muṣitā* ← *muṣ*
 - \[verb noun\], nominative, plural
 - “rob; remove; steal.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanāni* ← *vana*
 - \[noun\], nominative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatinākṛpayad* ← *bṛhaspatinā* ← *bṛhaspati*
 - \[noun\], instrumental, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatinākṛpayad* ← *akṛpayat* ← *kṛpay* ← *√kṛp*
 - \[verb\], singular, Imperfect
 - “miss.”
-------------------------------------------------------------------------
+
+_________
+
 - *valo* ← *valaḥ* ← *vala*
 - \[noun\], nominative, singular, masculine
 - “Vala; vala; cave.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *anānukṛtyam* ← *anānukṛtya*
 - \[noun\], accusative, singular, neuter
 - “inimitable.”
-------------------------------------------------------------------------
+
+_________
+
 - *apunaś* ← *apunar*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -148,23 +170,33 @@ yā́t ← yā́t (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāt*
 - \[adverb\]
 - “wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryāmāsā* ← *sūryāmāsa*
 - \[noun\], nominative, dual, masculine
 - “moon.”
-------------------------------------------------------------------------
+
+_________
+
 - *mitha* ← *mithas*
 - \[adverb\]
 - “together; mutually; alternately.”
-------------------------------------------------------------------------
+
+_________
+
 - *uccarātaḥ* ← *uccar* ← *√car*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “rise.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

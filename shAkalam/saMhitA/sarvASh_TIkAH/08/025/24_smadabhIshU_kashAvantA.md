@@ -76,47 +76,69 @@ vājínau ← vājín- (nominal stem)
 -   *smadabhīśū* ← *smat*
 - \[adverb\]
 - “simultaneously; jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *smadabhīśū* ← *abhīśū* ← *abhīśu*
 - \[noun\], accusative, dual, masculine
 - “beam; rein.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaśāvantā* ← *kaśāvat*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], vocative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *naviṣṭhayā* ← *naviṣṭha*
 - \[noun\], instrumental, singular, feminine
 - “late(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *matī* ← *mati*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahaḥ* ← *mahas*
 - \[noun\], accusative, singular, neuter
 - “greatness; festival; glory; reward; gladness.”
-------------------------------------------------------------------------
+
+_________
+
 - *vājināv* ← *vājinau* ← *vājin*
 - \[noun\], accusative, dual, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvantā* ← *arvat*
 - \[noun\], accusative, dual, masculine
 - “running.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacāsanam* ← *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacāsanam* ← *asanam* ← *san*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -73,44 +73,64 @@ múniḥ ← múni- (nominal stem)
 -   *śubhro* ← *śubhraḥ* ← *śubhra*
 - \[noun\], nominative, singular, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śuṣmaḥ* ← *śuṣma*
 - \[noun\], nominative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
-------------------------------------------------------------------------
+
+_________
+
 - *krudhmī* ← *krudhmi*
 - \[noun\], nominative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *manāṃsi* ← *manas*
 - \[noun\], nominative, plural, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhunir* ← *dhuniḥ* ← *dhuni*
 - \[noun\], nominative, singular, masculine
 - “deafening; boisterous; noisy.”
-------------------------------------------------------------------------
+
+_________
+
 - *munir* ← *muniḥ* ← *muni*
 - \[noun\], nominative, singular, masculine
 - “ascetic; seven; Sesbania grandiflora; Brahmin; muni; saint; Buddha;
     Ṛṣi.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhasya* ← *śardha*
 - \[noun\], genitive, singular, masculine
 - “troop.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣṇoḥ* ← *dhṛṣṇu*
 - \[noun\], genitive, singular, masculine
 - “brave; ferocious; strong.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

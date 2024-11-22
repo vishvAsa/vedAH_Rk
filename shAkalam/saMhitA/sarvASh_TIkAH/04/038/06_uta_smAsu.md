@@ -102,42 +102,62 @@ rérihat ← √rih- (root)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *smāsu* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *smāsu* ← *āsu* ← *idam*
 - \[noun\], locative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
-------------------------------------------------------------------------
+
+_________
+
 - *sariṣyan* ← *sṛ*
 - \[verb noun\], nominative, singular
 - “sṛ; liquefy; run; spread; stretch out.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *veveti* ← *vevīy* ← *√vī*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *śreṇibhī* ← *śreṇibhiḥ* ← *śreṇi*
 - \[noun\], instrumental, plural, feminine
 - “club; line.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathānām* ← *ratha*
 - \[noun\], genitive, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *srajaṃ* ← *srajam* ← *sraj*
 - \[noun\], accusative, singular, feminine
 - “wreath; sraj \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvāno* ← *kṛṇvānaḥ* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -148,33 +168,49 @@ rérihat ← √rih- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *janyo* ← *janyaḥ* ← *janya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhvā* ← *śubhvan*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *reṇuṃ* ← *reṇum* ← *reṇu*
 - \[noun\], accusative, singular, masculine
 - “dust; pollen; powder.”
-------------------------------------------------------------------------
+
+_________
+
 - *rerihat* ← *rerih* ← *√rih*
 - \[verb noun\], nominative, singular
 - “lick.”
-------------------------------------------------------------------------
+
+_________
+
 - *kiraṇaṃ* ← *kiraṇam* ← *kiraṇa*
 - \[noun\], accusative, singular, masculine
 - “beam; sunbeam; Kiraṇa; dust; sun; chapter.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadaśvān* ← *daṃś*
 - \[verb noun\], nominative, singular
 - “bite; sting.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

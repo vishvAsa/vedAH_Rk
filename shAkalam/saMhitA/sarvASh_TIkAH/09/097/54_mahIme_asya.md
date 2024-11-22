@@ -108,81 +108,121 @@ itás ← itás (invariable)
 -   *mahīme* ← *mahi*
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahīme* ← *ime* ← *idam*
 - \[noun\], nominative, dual, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣanāma* ← *vṛṣa*
 - \[noun\], masculine
 - “bull; vṛṣa \[word\]; vṛṣ; Justicia gendarussa Burm.F.; bull;
     Taurus; bull.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣanāma* ← *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūṣe* ← *śūṣa*
 - \[noun\], locative, singular, masculine
 - “song; energy.”
-------------------------------------------------------------------------
+
+_________
+
 - *māṃścatve* ← *māṃścatva*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśane* ← *pṛśana*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhatre* ← *vadhatra*
 - \[noun\], locative, singular, neuter
 - “weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *asvāpayan* ← *asvāpayat* ← *svāpay* ← *√svap*
 - \[verb\], singular, Imperfect
 - “put to sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *nigutaḥ* ← *nigut*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *snehayac* ← *snehayat* ← *snehay* ← *√snih*
 - \[verb\], singular, Present injunctive
 - “anoint.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāpāmitrāṃ* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāpāmitrāṃ* ← *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāpāmitrāṃ* ← *amitrāṃ* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *apācito* ← *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *apācito* ← *acitaḥ* ← *acit*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *acetaḥ* ← *cit*
 - \[verb\], singular, Imperfect
 - “notice; observe; attend to; intend.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -78,41 +78,61 @@ iṣudhyasi ← √iṣudhy- (root)
 -   *nadaṃ* ← *nadam* ← *nada*
 - \[noun\], accusative, singular, masculine
 - “river; nad; roarer; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *odatīnāṃ* ← *odatīnām* ← *odatī*
 - \[noun\], genitive, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *nadaṃ* ← *nadam* ← *nada*
 - \[noun\], accusative, singular, masculine
 - “river; nad; roarer; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoyuvatīnām* ← *yoyu* ← *√yu*
 - \[verb noun\], genitive, plural
-------------------------------------------------------------------------
+
+_________
+
 - *patiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *aghnyānāṃ* ← *aghnyānām* ← *aghnyā*
 - \[noun\], genitive, plural, feminine
 - “cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhenūnām* ← *dhenu*
 - \[noun\], genitive, plural, feminine
 - “cow; dhenu \[word\]; milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣudhyasi* ← *iṣudhy*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,80 +99,116 @@ te ← tvám (pronoun)
 -   *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *adadād* ← *adadāt* ← *dā*
 - \[verb\], singular, Imperfect
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *rabhasam* ← *rabhasa*
 - \[noun\], accusative, singular, masculine
 - “fierce; impetuous; powerful; potent; flamboyant.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇacyutaṃ* ← *ṛṇa*
 - \[noun\], neuter
 - “debt; debt; ṛṇa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇacyutaṃ* ← *cyutam* ← *cyut*
 - \[noun\], accusative, singular, masculine
 - “shaking; dropping.”
-------------------------------------------------------------------------
+
+_________
+
 - *divodāsaṃ* ← *divodāsam* ← *divodāsa*
 - \[noun\], accusative, singular, masculine
 - “Divodāsa.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhryaśvāya* ← *vadhryaśva*
 - \[noun\], dative, singular, masculine
 - “Vadhryaśva.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śaśvantam* ← *śaśvat*
 - \[noun\], accusative, singular, masculine
 - “all(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *ācakhādāvasam* ← *ācakhāda* ← *ākhād* ← *√khād*
 - \[verb\], singular, Perfect indicative
-------------------------------------------------------------------------
+
+_________
+
 - *ācakhādāvasam* ← *avasam* ← *avasa*
 - \[noun\], accusative, singular, neuter
 - “stores; food.”
-------------------------------------------------------------------------
+
+_________
+
 - *paṇiṃ* ← *paṇim* ← *paṇi*
 - \[noun\], accusative, singular, masculine
 - “niggard; paṇ.”
-------------------------------------------------------------------------
+
+_________
+
 - *tā* ← *tad*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dātrāṇi* ← *dātra*
 - \[noun\], nominative, plural, neuter
 - “sickle; gift; scythe.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣā* ← *taviṣa*
 - \[noun\], nominative, plural, neuter
 - “strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvati* ← *sarasvatī*
 - \[noun\], vocative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

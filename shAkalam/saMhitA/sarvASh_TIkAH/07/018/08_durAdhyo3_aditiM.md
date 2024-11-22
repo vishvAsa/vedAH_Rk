@@ -93,22 +93,32 @@ paśúḥ ← paśú- (nominal stem)
 -   *durādhyo* ← *durādhyaḥ* ← *durādhī*
 - \[noun\], nominative, plural, masculine
 - “malevolent.”
-------------------------------------------------------------------------
+
+_________
+
 - *aditiṃ* ← *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *srevayanto* ← *srevayantaḥ* ← *srevay* ← *√sriv*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *'cetaso* ← *acetasaḥ* ← *acetas*
 - \[noun\], nominative, plural, masculine
 - “imprudent; stupid.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagṛbhre* ← *grah*
 - \[verb\], plural, Perfect indicative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -116,43 +126,63 @@ paśúḥ ← paśú- (nominal stem)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *paruṣṇīm* ← *paruṣṇī*
 - \[noun\], accusative, singular, feminine
 - “Paruṣṇī.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahnāvivyak* ← *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahnāvivyak* ← *avivyak* ← *vyac*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *patyamānaḥ* ← *paty*
 - \[verb noun\], nominative, singular
 - “own; have; master.”
-------------------------------------------------------------------------
+
+_________
+
 - *paśuṣ* ← *paśuḥ* ← *paśu*
 - \[noun\], nominative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśayac* ← *aśayat* ← *śī*
 - \[verb\], singular, Imperfect
 - “lie; sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *cāyamānaḥ* ← *cāy*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -81,50 +81,72 @@ rā́dhaḥ ← rā́dhas- (nominal stem)
 -   *asapatnā* ← *asapatna*
 - \[noun\], nominative, singular, feminine
 - “unrivaled.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnaghnī* ← *sapatna*
 - \[noun\], masculine
 - “rival; enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *sapatnaghnī* ← *ghnī* ← *ghna*
 - \[noun\], nominative, singular, feminine
 - “curative; removing; killing; destroying; māraka; multiplied.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayanty* ← *jayantī* ← *ji*
 - \[verb noun\], nominative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhibhūvarī* ← *abhibhūvan*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *āvṛkṣam* ← *āvṛj* ← *√vṛj*
 - \[verb\], singular, sa aorist (Ind.)
 - “appropriate; accord.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyāsāṃ* ← *anyāsām* ← *anya*
 - \[noun\], genitive, plural, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *varco* ← *varcaḥ* ← *varcas*
 - \[noun\], accusative, singular, neuter
 - “shininess; vigor; fecal matter; glare; magnificence; energy;
     prestige; energy; glory; luster; light; varcas \[word\]; glory; body
     waste; droppings; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
-------------------------------------------------------------------------
+
+_________
+
 - *astheyasām* ← *astheyas*
 - \[noun\], genitive, plural, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

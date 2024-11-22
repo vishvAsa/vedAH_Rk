@@ -99,34 +99,50 @@ víśaḥ ← víś- (nominal stem)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dehyo* ← *dehyaḥ* ← *dehī*
 - \[noun\], accusative, plural, feminine
 - “wall; rampart.”
-------------------------------------------------------------------------
+
+_________
+
 - *anamayad* ← *anamayat* ← *namay* ← *√nam*
 - \[verb\], singular, Imperfect
 - “bend.”
-------------------------------------------------------------------------
+
+_________
+
 - *vadhasnair* ← *vadhasnaiḥ* ← *vadhasna*
 - \[noun\], instrumental, plural, masculine
 - “weapon.”
-------------------------------------------------------------------------
+
+_________
+
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *aryapatnīr* ← *arya*
 - \[noun\]
-------------------------------------------------------------------------
+
+_________
+
 - *aryapatnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], accusative, plural, feminine
 - “wife; mistress; queen.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣasaś* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -137,35 +153,49 @@ víśaḥ ← víś- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *nirudhyā* ← *nirudhya* ← *nirudh* ← *√rudh*
 - \[verb noun\]
 - “close; insert; seal; obstruct; fill into; enclose; put; stop;
     suppress; puṭ; banish; impede; envelop; capture.”
-------------------------------------------------------------------------
+
+_________
+
 - *nahuṣo* ← *nahuṣaḥ* ← *nahus*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yahvo* ← *yahvaḥ* ← *yahva*
 - \[noun\], nominative, singular, masculine
 - “youngest; youthful; active.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśaś* ← *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -176,19 +206,27 @@ víśaḥ ← víś- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *balihṛtaḥ* ← *bali*
 - \[noun\], masculine
 - “sulfur; bali; Bali; tribute; tax; bali \[word\]; Bali.”
-------------------------------------------------------------------------
+
+_________
+
 - *balihṛtaḥ* ← *hṛtaḥ* ← *hṛt*
 - \[noun\], accusative, plural, feminine
 - “curative; removing; destructive; seizing; carrying away; bringing.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahobhiḥ* ← *sahas*
 - \[noun\], instrumental, plural, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

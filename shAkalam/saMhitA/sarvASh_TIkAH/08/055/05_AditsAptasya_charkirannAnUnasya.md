@@ -90,52 +90,78 @@ saṁnáśe ← √naś- 1 (root)
 -   *ād* ← *āt*
 - \[adverb\]
 - “then.”
-------------------------------------------------------------------------
+
+_________
+
 - *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *sāptasya* ← *sāpta*
 - \[noun\], genitive, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *carkirann* ← *carkiran* ← *carkar* ← *√kṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “praise; commemorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ānūnasya* ← *anūnasya* ← *anūna*
 - \[noun\], genitive, singular, masculine
 - “perfect; entire.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahi*
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *śravaḥ* ← *śravas*
 - \[noun\], nominative, singular, neuter
 - “fame; glory; ear.”
-------------------------------------------------------------------------
+
+_________
+
 - *śyāvīr* ← *śyāvīḥ* ← *śyāva*
 - \[noun\], nominative, plural, feminine
 - “brown; dark; śyāva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *atidhvasan* ← *atidhvaṃs* ← *√dhvaṃs*
 - \[verb\], plural, Aorist inj. (proh.)
-------------------------------------------------------------------------
+
+_________
+
 - *pathaś* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakṣuṣā* ← *cakṣus*
 - \[noun\], instrumental, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
-------------------------------------------------------------------------
+
+_________
+
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃnaśe* ← *saṃnaś* ← *√naś*
 - \[verb noun\]
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -67,35 +67,51 @@ cariṣṇúdhūmam ← cariṣṇúdhūma- (nominal stem)
 -   *īﾱiṣvā* ← *īḍiṣva* ← *īḍ*
 - \[verb\], singular, Present imperative
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pratīvyaṃ* ← *pratīvyam* ← *pratīvī*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yajasva* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedasam* ← *jātavedas*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *cariṣṇudhūmam* ← *cariṣṇu*
 - \[noun\]
 - “mobile; moving.”
-------------------------------------------------------------------------
+
+_________
+
 - *cariṣṇudhūmam* ← *dhūmam* ← *dhūma*
 - \[noun\], accusative, singular, masculine
 - “smoke; dhūmavedha; carbon black; dhūmana; mist; vapor;
     vaporization; dhūma \[word\]; incense.”
-------------------------------------------------------------------------
+
+_________
+
 - *agṛbhītaśociṣam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *agṛbhītaśociṣam* ← *gṛbhīta* ← *grah*
 - \[verb noun\]
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -103,11 +119,15 @@ cariṣṇúdhūmam ← cariṣṇúdhūma- (nominal stem)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *agṛbhītaśociṣam* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

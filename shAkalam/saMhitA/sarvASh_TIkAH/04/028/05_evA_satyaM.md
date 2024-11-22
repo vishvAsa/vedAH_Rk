@@ -106,77 +106,113 @@ tatr̥dānā́ ← √tr̥d- (root)
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
-------------------------------------------------------------------------
+
+_________
+
 - *satyam* ← *satya*
 - \[noun\], nominative, singular, neuter
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
+
+_________
+
 - *maghavānā* ← *maghavan*
 - \[noun\], vocative, dual, masculine
 - “big.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *somorvam* ← *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somorvam* ← *ūrvam* ← *ūrva*
 - \[noun\], accusative, singular, masculine
 - “pen; Aurva; ocean.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvyaṃ* ← *aśvyam* ← *aśvya*
 - \[noun\], accusative, singular, masculine
 - “equine.”
-------------------------------------------------------------------------
+
+_________
+
 - *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādardṛtam* ← *ādardar* ← *√dṛ*
 - \[verb\], dual, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *apihitāny* ← *apihitāni* ← *apidhā* ← *√dhā*
 - \[verb noun\], accusative, plural
 - “cover; obstruct.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnā* ← *aśan*
 - \[noun\], instrumental, singular, masculine
 - “stone; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *riricathuḥ* ← *ric*
 - \[verb\], dual, Perfect indicative
 - “empty; liberate; concede; surrender; purge.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāś* ← *kṣāḥ* ← *kṣā*
 - \[noun\], accusative, plural, feminine
 - “Earth; Earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *tatṛdānā* ← *tṛd*
 - \[verb noun\], nominative, dual
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

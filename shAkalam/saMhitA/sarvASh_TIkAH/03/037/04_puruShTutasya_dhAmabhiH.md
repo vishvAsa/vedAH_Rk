@@ -64,32 +64,46 @@ carṣaṇīdhŕ̥taḥ ← carṣaṇīdhŕ̥t- (nominal stem)
 -   *puruṣṭutasya* ← *puruṣṭuta*
 - \[noun\], genitive, singular, masculine
 - “Indra; Vishnu; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhāmabhiḥ* ← *dhāman*
 - \[noun\], instrumental, plural, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
-------------------------------------------------------------------------
+
+_________
+
 - *śatena* ← *śata*
 - \[noun\], instrumental, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mahayāmasi* ← *mahay* ← *√mah*
 - \[verb\], plural, Present indikative
 - “glorify.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīdhṛtaḥ* ← *carṣaṇī*
 - \[noun\], feminine
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīdhṛtaḥ* ← *dhṛtaḥ* ← *dhṛt*
 - \[noun\], genitive, singular, masculine
 - “maintaining.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

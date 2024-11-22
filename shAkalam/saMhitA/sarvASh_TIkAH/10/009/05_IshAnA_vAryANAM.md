@@ -67,31 +67,45 @@ yācāmi ← √yāc- (root)
 -   *īśānā* ← *īśānāḥ* ← *īś*
 - \[verb noun\], accusative, plural
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāryāṇāṃ* ← *vāryāṇām* ← *vārya*
 - \[noun\], genitive, plural, masculine
 - “precious; valuable.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣayantīś* ← *kṣayantīḥ* ← *kṣi*
 - \[verb noun\], accusative, plural
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
-------------------------------------------------------------------------
+
+_________
+
 - *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *yācāmi* ← *yāc*
 - \[verb\], singular, Present indikative
 - “beg; ask; offer; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *bheṣajam* ← *bheṣaja*
 - \[noun\], accusative, singular, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

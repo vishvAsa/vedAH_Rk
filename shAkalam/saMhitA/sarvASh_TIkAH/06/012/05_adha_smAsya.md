@@ -111,82 +111,124 @@ tāyúḥ ← tāyú- (nominal stem)
 -   *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *smāsya* ← *sma*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *smāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *panayanti* ← *panay* ← *√pan*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *bhāso* ← *bhāsaḥ* ← *bhās*
 - \[noun\], accusative, plural, feminine
 - “beam; radiance; bhās \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛthā*
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *takṣad* ← *takṣat* ← *takṣ*
 - \[verb noun\], nominative, singular
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *anuyāti* ← *anuyā* ← *√yā*
 - \[verb\], singular, Present indikative
 - “follow; pursue.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthvīm* ← *pṛthvī*
 - \[noun\], accusative, singular, feminine
 - “Earth; floor; earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *syandro* ← *syandraḥ* ← *syandra*
 - \[noun\], nominative, singular, masculine
 - “flowing; fleet.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣito* ← *viṣitaḥ* ← *viṣā* ← *√sā*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *dhavīyān* ← *dhavīyas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇo* ← *ṛṇaḥ* ← *ṛṇa*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tāyur* ← *tāyuḥ* ← *tāyu*
 - \[noun\], nominative, singular, masculine
 - “thief.”
-------------------------------------------------------------------------
+
+_________
+
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvā* ← *dhanvan*
 - \[noun\], accusative, plural, neuter
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāṭ* ← *rāj*
 - \[verb\], singular, Present injunctive
 - “govern; shine; glitter; direct.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

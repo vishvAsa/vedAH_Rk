@@ -99,73 +99,107 @@ sutásomaḥ ← sutásoma- (nominal stem)
 -   *āsthāpayanta* ← *āsthāpay* ← *√sthā*
 - \[verb\], plural, Imperfect
 - “āsthāpay.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvatiṃ* ← *yuvatim* ← *yuvati*
 - \[noun\], accusative, singular, feminine
 - “girl; woman.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvānaḥ* ← *yuvan*
 - \[noun\], nominative, plural, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubhe* ← *śubha*
 - \[noun\], locative, singular, masculine
 - “good; beautiful; auspicious; good; suitable; pleasant; righteous;
     beautiful; wholesome; beneficial.”
-------------------------------------------------------------------------
+
+_________
+
 - *nimiślāṃ* ← *nimiślām* ← *nimiśla*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vidatheṣu* ← *vidatha*
 - \[noun\], locative, plural, neuter
 - “meeting; wisdom; council.”
-------------------------------------------------------------------------
+
+_________
+
 - *pajrām* ← *pajra*
 - \[noun\], accusative, singular, feminine
 - “steadfast.”
-------------------------------------------------------------------------
+
+_________
+
 - *arko* ← *arkaḥ* ← *arka*
 - \[noun\], nominative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣmān* ← *haviṣmat*
 - \[noun\], nominative, singular, masculine
 - “sacrificing.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāyad* ← *gāyat* ← *gā*
 - \[verb\], singular, Present injunctive
 - “sing; praise; jap; recite; describe.”
-------------------------------------------------------------------------
+
+_________
+
 - *gāthaṃ* ← *gātham* ← *gātha*
 - \[noun\], accusative, singular, masculine
 - “song.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasomo* ← *suta* ← *su*
 - \[verb noun\]
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutasomo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *duvasyan* ← *duvasy*
 - \[verb noun\], nominative, singular
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

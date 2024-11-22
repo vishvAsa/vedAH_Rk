@@ -99,76 +99,112 @@ varcínam ← varcín- (nominal stem)
 -   *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadṛśīr* ← *sadṛśīḥ* ← *sadṛśa*
 - \[noun\], accusative, plural, feminine
 - “like; alike(p); appropriate; sadṛśa \[word\]; comparable;
     resembling.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *ardhaṃ* ← *ardham* ← *ardha*
 - \[noun\], accusative, singular, masculine
 - “one-half; ardha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇā* ← *kṛṣṇāḥ* ← *kṛṣṇa*
 - \[noun\], accusative, plural, feminine
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *asedhad* ← *asedhat* ← *sidh*
 - \[verb\], singular, Imperfect
 - “chase away; repel.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadmano* ← *sadmanaḥ* ← *sadman*
 - \[noun\], ablative, singular, neuter
 - “seat; house; stable; dwelling.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāḥ* ← *jā*
 - \[noun\], accusative, plural, feminine
 - “child; jā; being.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsā* ← *dāsa*
 - \[noun\], accusative, dual, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasnayantodavraje* ← *vasnayantā* ← *vasnay*
 - \[verb noun\], accusative, dual
-------------------------------------------------------------------------
+
+_________
+
 - *vasnayantodavraje* ← *udavraje* ← *udavraja*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *varcinaṃ* ← *varcinam* ← *varcin*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śambaraṃ* ← *śambaram* ← *śambara*
 - \[noun\], accusative, singular, masculine
 - “Śambara; Śambara.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

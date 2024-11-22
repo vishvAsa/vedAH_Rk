@@ -112,91 +112,133 @@ naḥ ← ahám (pronoun)
 - \[noun\], nominative, dual, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhanteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *gambhareṣu* ← *gambhara*
 - \[noun\], locative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *pratiṣṭhām* ← *pratiṣṭhā*
 - \[noun\], accusative, singular, feminine
 - “foundation; base; fame; consecration; location.”
-------------------------------------------------------------------------
+
+_________
+
 - *pādeva* ← *pādā* ← *pāda*
 - \[noun\], nominative, dual, masculine
 - “foot; one-fourth; beam; pāda; foot; foundation; pāda \[word\]; leg;
     leg; animal foot; step; foot; footfall; verse.”
-------------------------------------------------------------------------
+
+_________
+
 - *pādeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *gādhaṃ* ← *gādham* ← *gādha*
 - \[noun\], accusative, singular, neuter
 - “ford.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarate* ← *tṛ*
 - \[verb noun\], dative, singular
 - “traverse; overcome; float; rescue; reach; satisfy.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidāthaḥ* ← *vid*
 - \[verb\], dual, Aorist conj./subj.
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *karṇeva* ← *karṇā* ← *karṇa*
 - \[noun\], nominative, dual, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
-------------------------------------------------------------------------
+
+_________
+
 - *karṇeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *śāsur* ← *śāsuḥ* ← *śāsus*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *smarātho* ← *smarāthaḥ* ← *smṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “think of; name; call; remember; enumerate; describe; teach;
     recommend; define; hand down; long; study; deem.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ṃśeva* ← *aṃśā* ← *aṃśa*
 - \[noun\], nominative, dual, masculine
 - “part; part; share; part; volume; parcel; part; Aṃśa; aṃśa \[word\];
     fraction.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ṃśeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhajataṃ* ← *bhajatam* ← *bhaj*
 - \[verb\], dual, Present imperative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
-------------------------------------------------------------------------
+
+_________
+
 - *citram* ← *citra*
 - \[noun\], accusative, singular, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *apnaḥ* ← *apnas*
 - \[noun\], accusative, singular, neuter
 - “property.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,93 +99,137 @@ rejante ← √rej- (root)
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣā* ← *tveṣāḥ* ← *tveṣa*
 - \[noun\], nominative, plural, masculine
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajarā* ← *ajarāḥ* ← *ajara*
 - \[noun\], nominative, plural, masculine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhānavaḥ* ← *bhānu*
 - \[noun\], nominative, plural, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
-------------------------------------------------------------------------
+
+_________
+
 - *susaṃdṛśaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *susaṃdṛśaḥ* ← *saṃdṛśaḥ* ← *saṃdṛś*
 - \[noun\], nominative, plural, masculine
 - “appearance; view; view.”
-------------------------------------------------------------------------
+
+_________
+
 - *supratīkasya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supratīkasya* ← *pratīkasya* ← *pratīka*
 - \[noun\], genitive, singular, masculine
 - “face; surface.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudyutaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudyutaḥ* ← *dyutaḥ* ← *dyut*
 - \[noun\], nominative, plural, masculine
 - “beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhātvakṣaso* ← *bhā*
 - \[noun\], feminine
 - “light; bhā.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhātvakṣaso* ← *tvakṣasaḥ* ← *tvakṣas*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *aty* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *aktur* ← *aktuḥ* ← *aktu*
 - \[noun\], nominative, singular, masculine
 - “night; dark; beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *'gne* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *rejante* ← *rej*
 - \[verb\], plural, Present indikative
 - “tremor; flicker.”
-------------------------------------------------------------------------
+
+_________
+
 - *asasanto* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *asasanto* ← *sasantaḥ* ← *sas*
 - \[verb noun\], nominative, plural
 - “sleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajarāḥ* ← *ajara*
 - \[noun\], nominative, plural, masculine
 - “undecaying; ageless.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

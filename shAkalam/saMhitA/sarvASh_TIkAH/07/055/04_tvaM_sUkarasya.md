@@ -95,64 +95,94 @@ svapa ← √svap- (root)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūkarasya* ← *sūkara*
 - \[noun\], genitive, singular, masculine
 - “hog; wild boar; boar; Sūkara.”
-------------------------------------------------------------------------
+
+_________
+
 - *dardṛhi* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Present imperative
 - “cleave.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *dardartu* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Present imperative
 - “cleave.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūkaraḥ* ← *sūkara*
 - \[noun\], nominative, singular, masculine
 - “hog; wild boar; boar; Sūkara.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotṝn* ← *stotṛ*
 - \[noun\], accusative, plural, masculine
 - “laudatory; worshiping.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *rāyasi* ← *rā*
 - \[verb\], singular, Present indikative
 - “bark.”
-------------------------------------------------------------------------
+
+_________
+
 - *kim*
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ducchunāyase* ← *duchunāy*
 - \[verb\], singular, Present indikative
 - “threaten.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svapa* ← *svap*
 - \[verb\], singular, Present imperative
 - “sleep; numb; fall asleep.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

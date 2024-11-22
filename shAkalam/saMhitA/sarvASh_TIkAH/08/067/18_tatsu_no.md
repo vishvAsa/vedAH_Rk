@@ -84,30 +84,44 @@ iva ← iva (invariable)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyaṃ* ← *navyam* ← *navya*
 - \[noun\], nominative, singular, neuter
 - “new; fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanyasa* ← *sanyase* ← *sanyas*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yan* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *mumocati* ← *muc*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -115,14 +129,18 @@ iva ← iva (invariable)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *bandhād* ← *bandhāt* ← *bandha*
 - \[noun\], ablative, singular, masculine
 - “bandhana; bandage; paralysis; connection; shutting; constipation;
     confinement; joining; part; binding; fetter; bandha \[word\];
     hardening; attachment; dressing; capture; sexual intercourse;
     border; chain; fixedness; deposit; connection; trap.”
-------------------------------------------------------------------------
+
+_________
+
 - *baddham* ← *bandh*
 - \[verb noun\], accusative, singular
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
@@ -130,15 +148,21 @@ iva ← iva (invariable)
     restrain; bind; gesticulate; wear; bar; bandh; connect; stud; mix;
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivādite* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivādite* ← *adite* ← *aditi*
 - \[noun\], vocative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

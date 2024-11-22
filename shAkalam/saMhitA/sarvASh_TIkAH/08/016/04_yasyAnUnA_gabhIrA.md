@@ -70,36 +70,52 @@ harṣumántaḥ ← harṣumánt- (nominal stem)
 -   *yasyānūnā* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasyānūnā* ← *anūnāḥ* ← *anūna*
 - \[noun\], nominative, plural, masculine
 - “perfect; entire.”
-------------------------------------------------------------------------
+
+_________
+
 - *gabhīrā* ← *gabhīrāḥ* ← *gabhīra*
 - \[noun\], nominative, plural, masculine
 - “deep; profound; immeasurable; unfathomable; unfathomable;
     mysterious; deep; countless.”
-------------------------------------------------------------------------
+
+_________
+
 - *madā* ← *madāḥ* ← *mada*
 - \[noun\], nominative, plural, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
-------------------------------------------------------------------------
+
+_________
+
 - *uravas* ← *uravaḥ* ← *uru*
 - \[noun\], nominative, plural, masculine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
+
+_________
+
 - *tarutrāḥ* ← *tarutra*
 - \[noun\], nominative, plural, masculine
 - “triumphant; conquering(a); superior.”
-------------------------------------------------------------------------
+
+_________
+
 - *harṣumantaḥ* ← *harṣumat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śūrasātau* ← *śūrasāti*
 - \[noun\], locative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

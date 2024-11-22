@@ -76,53 +76,75 @@ vā́tāpe ← vātāpi- (nominal stem)
 -   *karambha* ← *karambhaḥ* ← *karambha*
 - \[noun\], nominative, singular, masculine
 - “gruel.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhe* ← *oṣadhi*
 - \[noun\], vocative, singular, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *pīvo* ← *pīvaḥ* ← *pīvas*
 - \[noun\], nominative, singular, neuter
 - “fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛkka* ← *vṛkkaḥ* ← *vṛkka*
 - \[noun\], nominative, singular, masculine
 - “kidney.”
-------------------------------------------------------------------------
+
+_________
+
 - *udārathiḥ* ← *udārathi*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vātāpe* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātāpe* ← *āpe* ← *āpi*
 - \[noun\], vocative, singular, masculine
 - “friend.”
-------------------------------------------------------------------------
+
+_________
+
 - *pīva* ← *pīvaḥ* ← *pīvas*
 - \[noun\], nominative, singular, neuter
 - “fat.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

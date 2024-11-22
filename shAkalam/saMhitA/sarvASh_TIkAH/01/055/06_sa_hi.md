@@ -104,46 +104,66 @@ sukrátuḥ ← sukrátu- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śravasyuḥ* ← *śravasyu*
 - \[noun\], nominative, singular, masculine
 - “celebrated.”
-------------------------------------------------------------------------
+
+_________
+
 - *sadanāni* ← *sadana*
 - \[noun\], accusative, plural, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtrimā* ← *kṛtrima*
 - \[noun\], accusative, plural, neuter
 - “factitious; artificial; fake.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣmayā* ← *kṣmā*
 - \[noun\], instrumental, singular, feminine
 - “Earth; Earth; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛdhāna* ← *vṛdhānaḥ* ← *vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *vināśayan* ← *vināśay* ← *√naś*
 - \[verb noun\], nominative, singular
 - “cure; destroy; kill; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyotīṃṣi* ← *jyotis*
 - \[noun\], accusative, plural, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvann* ← *kṛṇvan* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -154,40 +174,58 @@ sukrátuḥ ← sukrátu- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *avṛkāṇi* ← *avṛka*
 - \[noun\], accusative, plural, neuter
 - “protective; safe.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajyave* ← *yajyu*
 - \[noun\], dative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *'va* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratuḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sukratuḥ* ← *kratuḥ* ← *kratu*
 - \[noun\], nominative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 - *sartavā* ← *sartavai* ← *sṛ*
 - \[verb noun\]
 - “sṛ; liquefy; run; spread; stretch out.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛjat* ← *sṛj*
 - \[verb\], singular, Imperfect
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

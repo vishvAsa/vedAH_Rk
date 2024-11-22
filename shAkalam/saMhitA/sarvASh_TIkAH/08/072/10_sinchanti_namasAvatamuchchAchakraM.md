@@ -67,33 +67,49 @@ nīcī́nabāram ← nīcī́nabāra- (nominal stem)
 -   *siñcanti* ← *sic*
 - \[verb\], plural, Present indikative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasāvatam* ← *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasāvatam* ← *avatam* ← *avata*
 - \[noun\], accusative, singular, masculine
 - “well.”
-------------------------------------------------------------------------
+
+_________
+
 - *uccācakram* ← *uccācakra*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *parijmānam* ← *parijman*
 - \[noun\], accusative, singular, masculine
 - “encompassing(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *nīcīnabāram* ← *nīcīna*
 - \[noun\]
 - “downward(ip).”
-------------------------------------------------------------------------
+
+_________
+
 - *nīcīnabāram* ← *bāram* ← *bāra*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *akṣitam* ← *akṣita*
 - \[noun\], accusative, singular, masculine
 - “undecaying; uninjured.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

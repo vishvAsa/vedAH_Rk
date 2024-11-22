@@ -99,71 +99,105 @@ suṣómayā ← suṣóma- (nominal stem)
 -   *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṅge* ← *gaṅgā*
 - \[noun\], vocative, singular, feminine
 - “Ganges.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamune* ← *yamunā*
 - \[noun\], vocative, singular, feminine
 - “Yamunā.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvati* ← *sarasvatī*
 - \[noun\], vocative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *śutudri* ← *śutudrī*
 - \[noun\], vocative, singular, feminine
 - “Sutlej/Śatadru.”
-------------------------------------------------------------------------
+
+_________
+
 - *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sacatā* ← *sacata* ← *sac*
 - \[verb\], plural, Present imperative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 - *paruṣṇy* ← *paruṣṇi* ← *paruṣṇī*
 - \[noun\], vocative, singular, feminine
 - “Paruṣṇī.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asiknyā* ← *asiknī*
 - \[noun\], instrumental, singular, feminine
 - “Asiknī; Vairiṇī; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *marudvṛdhe* ← *marudvṛdhā*
 - \[noun\], vocative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *vitastayārjīkīye* ← *vitastayā* ← *vitastā*
 - \[noun\], instrumental, singular, feminine
 - “Vitastā.”
-------------------------------------------------------------------------
+
+_________
+
 - *vitastayārjīkīye* ← *ārjīkīye* ← *ārjīkīyā*
 - \[noun\], vocative, singular, feminine
 - “Ārjīkīyā.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇuhy* ← *śṛṇuhi* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣomayā* ← *suṣomā*
 - \[noun\], instrumental, singular, feminine
 - “Suṣomā.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

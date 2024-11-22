@@ -93,65 +93,95 @@ dasayanta ← √das- (root)
 -   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ukthāya* ← *uktha*
 - \[noun\], dative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatasya* ← *parvata*
 - \[noun\], genitive, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *garbho* ← *garbhaḥ* ← *garbha*
 - \[noun\], nominative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahīnāṃ* ← *mahīnām* ← *mahi*
 - \[noun\], genitive, plural, feminine
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *januṣe* ← *janus*
 - \[noun\], dative, singular, masculine
 - “birth.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyāya* ← *pūrvya*
 - \[noun\], dative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvato* ← *parvataḥ* ← *parvata*
 - \[noun\], nominative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihīta* ← *hā*
 - \[verb\], singular, Present injunctive
 - “move over; yield; give way.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhata* ← *sādh*
 - \[verb\], singular, Present injunctive
 - “promote; succeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvivāsanto* ← *āvivāsantaḥ* ← *āvivās* ← *√van*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *dasayanta* ← *dasay*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *bhūma* ← *bhūman*
 - \[noun\], nominative, singular, neuter
 - “Earth; floor.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

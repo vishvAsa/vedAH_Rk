@@ -93,80 +93,116 @@ pr̥ṇanti ← √pr̥̄- 1 (root)
 -   *daivī* ← *daiva*
 - \[noun\], nominative, singular, feminine
 - “divine; religious.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrtir* ← *pūrtiḥ* ← *pūrti*
 - \[noun\], nominative, singular, feminine
 - “fullness.”
-------------------------------------------------------------------------
+
+_________
+
 - *dakṣiṇā*
 - \[noun\], nominative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayajyā* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devayajyā* ← *yajyā* ← *yajya*
 - \[noun\], nominative, singular, feminine
 - “sacrifice; yajña.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kavāribhyo* ← *kavāribhyaḥ* ← *kavāri*
 - \[noun\], dative, plural, masculine
 - “stingy.”
-------------------------------------------------------------------------
+
+_________
+
 - *nahi*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇanti* ← *pṛ*
 - \[verb\], plural, Present indikative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayatadakṣiṇāso* ← *prayata* ← *prayam* ← *√yam*
 - \[verb noun\]
 - “give; emit; send; transmit.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayatadakṣiṇāso* ← *dakṣiṇāsaḥ* ← *dakṣiṇā*
 - \[noun\], nominative, plural, masculine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vadyabhiyā* ← *avadya*
 - \[noun\], neuter
 - “shame; censure; blame.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vadyabhiyā* ← *bhiyā* ← *bhī*
 - \[noun\], instrumental, singular, feminine
 - “fear; bhī; alarm.”
-------------------------------------------------------------------------
+
+_________
+
 - *bahavaḥ* ← *bahu*
 - \[noun\], nominative, plural, masculine
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṇanti* ← *pṛ*
 - \[verb\], plural, Present indikative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

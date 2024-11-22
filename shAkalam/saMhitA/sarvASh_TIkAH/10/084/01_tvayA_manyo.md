@@ -93,75 +93,109 @@ yantu ← √i- 1 (root)
 -   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *manyo* ← *manyu*
 - \[noun\], vocative, singular, masculine
 - “anger; fury; rage; wrath.”
-------------------------------------------------------------------------
+
+_________
+
 - *saratham* ← *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
+
+_________
+
 - *saratham* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *ārujanto* ← *ārujantaḥ* ← *āruj* ← *√ruj*
 - \[verb noun\], nominative, plural
 - “demolish; break up.”
-------------------------------------------------------------------------
+
+_________
+
 - *harṣamāṇāso* ← *harṣamāṇāsaḥ* ← *hṛṣ*
 - \[verb noun\], nominative, plural
 - “rejoice; bristle; thrill.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣitā* ← *dhṛṣitāḥ* ← *dhṛṣ*
 - \[verb noun\], nominative, plural
 - “dare; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *marutvaḥ* ← *marutvas* ← *marutvat*
 - \[noun\], vocative, singular, masculine
 - “Marut(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmeṣava* ← *tigmeṣavaḥ* ← *tigmeṣu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āyudhā* ← *āyudha*
 - \[noun\], accusative, plural, neuter
 - “weapon; āyudha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃśiśānā* ← *saṃśiśānāḥ* ← *saṃśā* ← *√śā*
 - \[verb noun\], nominative, plural
 - “sharpen.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnirūpāḥ* ← *agni*
 - \[noun\], masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnirūpāḥ* ← *rūpāḥ* ← *rūpa*
 - \[noun\], nominative, plural, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

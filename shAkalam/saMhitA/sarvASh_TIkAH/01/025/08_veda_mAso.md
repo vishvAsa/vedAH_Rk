@@ -71,42 +71,60 @@ yáḥ ← yá- (pronoun)
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *māso* ← *māsaḥ* ← *mās*
 - \[noun\], accusative, plural, masculine
 - “month; lunar month.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛtavrato* ← *dhṛta* ← *dhṛ*
 - \[verb noun\]
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛtavrato* ← *vrataḥ* ← *vrata*
 - \[noun\], nominative, singular, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvādaśa* ← *dvādaśan*
 - \[noun\], accusative, singular, neuter
 - “twelve; twelfth.”
-------------------------------------------------------------------------
+
+_________
+
 - *prajāvataḥ* ← *prajāvat*
 - \[noun\], accusative, plural, masculine
 - “prolific.”
-------------------------------------------------------------------------
+
+_________
+
 - *vedā* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
+
+_________
+
 - *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *upajāyate* ← *upajan* ← *√jan*
 - \[verb\], singular, Present indikative
 - “originate; happen.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

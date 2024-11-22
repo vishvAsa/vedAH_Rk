@@ -84,58 +84,84 @@ vatsā́n ← vatsá- (nominal stem)
 -   *bhūribhiḥ* ← *bhūri*
 - \[noun\], instrumental, plural, masculine
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
-------------------------------------------------------------------------
+
+_________
+
 - *samaha*
 - \[adverb\]
 - “verily; somewhere; somehow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣibhir* ← *ṛṣibhiḥ* ← *ṛṣi*
 - \[noun\], instrumental, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *barhiṣmadbhi* ← *barhiṣmadbhiḥ* ← *barhiṣmat*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *staviṣyase* ← *stu*
 - \[verb\], singular, Future
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *ittham*
 - \[adverb\]
 - “thus; therefore.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekam* ← *eka*
 - \[noun\], accusative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *ekam* ← *eka*
 - \[noun\], accusative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchara* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchara* ← *śara*
 - \[noun\], vocative, singular, masculine
 - “arrow; five; reed; śara \[word\]; munj; Śara; Śara.”
-------------------------------------------------------------------------
+
+_________
+
 - *vatsān* ← *vatsa*
 - \[noun\], accusative, plural, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
-------------------------------------------------------------------------
+
+_________
+
 - *parādadaḥ* ← *parādā* ← *√dā*
 - \[verb\], singular, Present conjunctive (subjunctive)
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

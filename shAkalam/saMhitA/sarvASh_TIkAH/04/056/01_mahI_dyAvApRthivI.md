@@ -102,78 +102,114 @@ ukṣā́ ← ukṣán- (nominal stem)
 -   *mahī* ← *mahi*
 - \[noun\], nominative, dual, feminine
 - “great; firm.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvāpṛthivī*
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *jyeṣṭhe* ← *jyeṣṭha*
 - \[noun\], nominative, dual, feminine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rucā* ← *ruc*
 - \[noun\], instrumental, singular, feminine
 - “beam; radiance; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhavatāṃ* ← *bhavatām* ← *bhū*
 - \[verb\], dual, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
+
+_________
+
 - *śucayadbhir* ← *śucayadbhiḥ* ← *śocay* ← *√śuc*
 - \[verb noun\], instrumental, plural
 - “distress; afflict; burn.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīṃ* ← *sīm*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *variṣṭhe* ← *variṣṭha*
 - \[noun\], accusative, dual, neuter
 - “best; preferable.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhatī* ← *bṛhat*
 - \[noun\], accusative, dual, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *viminvan* ← *vimi* ← *√mi*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *ruvaddhokṣā* ← *ruvat* ← *ru*
 - \[verb\], singular, Present injunctive
 - “bellow; howl.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruvaddhokṣā* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ruvaddhokṣā* ← *ukṣā* ← *ukṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; ukṣan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *paprathānebhir* ← *paprathānebhiḥ* ← *prath*
 - \[verb noun\], instrumental, plural
 - “be known; expand; expand; boom.”
-------------------------------------------------------------------------
+
+_________
+
 - *evaiḥ* ← *eva*
 - \[noun\], instrumental, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

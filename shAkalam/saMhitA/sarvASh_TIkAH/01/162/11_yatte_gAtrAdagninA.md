@@ -111,98 +111,140 @@ uśádbhyaḥ ← √vaś- (root)
 -   *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātrād* ← *gātrāt* ← *gātra*
 - \[noun\], ablative, singular, neuter
 - “body part; body; limb; part; largeness.”
-------------------------------------------------------------------------
+
+_________
+
 - *agninā* ← *agni*
 - \[noun\], instrumental, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *pacyamānād* ← *pacyamānāt* ← *pac*
 - \[verb noun\], ablative, singular
 - “heat; cook; digest; boil; ripen; fester; burn; boil; cauterize;
     fry; cook; suppurate; inflame.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūlaṃ* ← *śūlam* ← *śūla*
 - \[noun\], accusative, singular, neuter
 - “śūla; spear; pain; colic; Triśūla; stake; śūla \[word\]; pain;
     śūla; spit.”
-------------------------------------------------------------------------
+
+_________
+
 - *nihatasyāvadhāvati* ← *nihatasya* ← *nihan* ← *√han*
 - \[verb noun\], genitive, singular
 - “kill; cure; māray; destroy; remove; attack; beat; obviate; beat;
     destroy; assail; overpower; hurt.”
-------------------------------------------------------------------------
+
+_________
+
 - *nihatasyāvadhāvati* ← *avadhāvati* ← *avadhāv* ← *√dhāv*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūmyām* ← *bhūmi*
 - \[noun\], locative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śriṣan* ← *śriṣat* ← *śriṣ*
 - \[verb\], singular, Aorist inj. (proh.)
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛṇeṣu* ← *tṛṇa*
 - \[noun\], locative, plural, neuter
 - “grass; tṛṇa \[word\]; herb.”
-------------------------------------------------------------------------
+
+_________
+
 - *devebhyas* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *uśadbhyo* ← *uśadbhyaḥ* ← *vaś*
 - \[verb noun\], dative, plural
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātam* ← *rā*
 - \[verb noun\], nominative, singular
 - “give; impart.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

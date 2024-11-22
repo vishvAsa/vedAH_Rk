@@ -85,37 +85,53 @@ sácā ← sácā (invariable)
 -   *śrudhī* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipipānasyādrer* ← *vipipānasya* ← *vipā* ← *√pā*
 - \[verb noun\], genitive, singular
 - “drink; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipipānasyādrer* ← *adreḥ* ← *adri*
 - \[noun\], genitive, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
+
+_________
+
 - *bodhā* ← *bodha* ← *budh*
 - \[verb\], singular, Present imperative
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprasyārcato* ← *viprasya* ← *vipra*
 - \[noun\], genitive, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
-------------------------------------------------------------------------
+
+_________
+
 - *viprasyārcato* ← *arcataḥ* ← *arc*
 - \[verb noun\], genitive, singular
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *manīṣām* ← *manīṣā*
 - \[noun\], accusative, singular, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣvā* ← *kṛṣva* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -126,23 +142,33 @@ sácā ← sácā (invariable)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *duvāṃsy* ← *duvāṃsi* ← *duvas*
 - \[noun\], accusative, plural, neuter
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *antamā* ← *antama*
 - \[noun\], accusative, plural, neuter
 - “intimate; bosom(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *sacemā* ← *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacemā* ← *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

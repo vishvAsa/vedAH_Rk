@@ -67,49 +67,71 @@ náram ← nár- (nominal stem)
 -   *yudhmaṃ* ← *yudhmam* ← *yudhma*
 - \[noun\], accusative, singular, masculine
 - “warrior.”
-------------------------------------------------------------------------
+
+_________
+
 - *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *anarvāṇaṃ* ← *anarvāṇam* ← *anarvan*
 - \[noun\], accusative, singular, masculine
 - “unchallenged; unrivaled.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapām* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *somapām* ← *pām* ← *pā*
 - \[noun\], accusative, singular, masculine
 - “drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *anapacyutam* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *anapacyutam* ← *apacyutam* ← *apacyu* ← *√cyu*
 - \[verb noun\], accusative, singular
 - “abscond.”
-------------------------------------------------------------------------
+
+_________
+
 - *naram* ← *nṛ*
 - \[noun\], accusative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *avāryakratum* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *avāryakratum* ← *vārya* ← *vāray*
 - \[verb noun\]
 - “ward off; obstruct; restrain.”
-------------------------------------------------------------------------
+
+_________
+
 - *avāryakratum* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

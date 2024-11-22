@@ -98,69 +98,101 @@ upásthāt ← upástha- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhujyuṃ* ← *bhujyum* ← *bhujyu*
 - \[noun\], accusative, singular, masculine
 - “Bhujyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhir* ← *vibhiḥ* ← *vi*
 - \[noun\], instrumental, plural, masculine
 - “vi; bird; vi.”
-------------------------------------------------------------------------
+
+_________
+
 - *adbhyaḥ* ← *ap*
 - \[noun\], ablative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudrāt* ← *samudra*
 - \[noun\], ablative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 - *tugrasya* ← *tugra*
 - \[noun\], genitive, singular, masculine
 - “Tugra; tugra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnum* ← *sūnu*
 - \[noun\], accusative, singular, masculine
 - “son; offspring.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūhathū* ← *ūhathuḥ* ← *vah*
 - \[verb\], dual, Perfect indicative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *rajobhiḥ* ← *rajas*
 - \[noun\], instrumental, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
+
+_________
+
 - *areṇubhir* ← *areṇubhiḥ* ← *areṇu*
 - \[noun\], instrumental, plural, neuter
 - “clean.”
-------------------------------------------------------------------------
+
+_________
+
 - *yojanebhir* ← *yojanebhiḥ* ← *yojana*
 - \[noun\], instrumental, plural, neuter
 - “yojana; use; yojana \[word\]; team.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhujantā* ← *bhuj*
 - \[verb noun\], nominative, dual
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
-------------------------------------------------------------------------
+
+_________
+
 - *patatribhir* ← *patatribhiḥ* ← *patatrin*
 - \[noun\], instrumental, plural, masculine
 - “flying; winged.”
-------------------------------------------------------------------------
+
+_________
+
 - *arṇaso* ← *arṇasaḥ* ← *arṇas*
 - \[noun\], genitive, singular, neuter
 - “body of water; water.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *upasthāt* ← *upastha*
 - \[noun\], ablative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -87,61 +87,87 @@ r̥tāyaté ← √r̥tāy- (root)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ma* ← *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pravocaty* ← *pravocati* ← *pravac* ← *√vac*
 - \[verb\], singular, Aorist conj./subj.
 - “describe; name; enumerate; call; explain; teach; state; tell;
     impart; convey; address; proclaim.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvamedhāya* ← *aśvamedha*
 - \[noun\], dative, singular, masculine
 - “aśvamedha; Aśvamedha.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūraye* ← *sūri*
 - \[noun\], dative, singular, masculine
 - “patron.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadad* ← *dadat* ← *dā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛcā* ← *ṛc*
 - \[noun\], instrumental, singular, feminine
 - “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
-------------------------------------------------------------------------
+
+_________
+
 - *saniṃ* ← *sanim* ← *sani*
 - \[noun\], accusative, singular, feminine
 - “gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *yate* ← *i*
 - \[verb noun\], dative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadan* ← *dadat* ← *dā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhām* ← *medhā*
 - \[noun\], accusative, singular, feminine
 - “intelligence; medhā \[word\]; Medhā.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtāyate* ← *ṛtāy*
 - \[verb noun\], dative, singular
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

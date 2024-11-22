@@ -76,42 +76,62 @@ putrakr̥thé ← putrakr̥thá- (nominal stem)
 -   *jaghane* ← *jaghana*
 - \[noun\], locative, singular, neuter
 - “hip; buttock; buttocks; vulva; vagina.”
-------------------------------------------------------------------------
+
+_________
+
 - *coda* ← *codaḥ* ← *coda*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakthāni* ← *saktha*
 - \[noun\], accusative, plural, neuter
 - “saktha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamuḥ* ← *yam*
 - \[verb\], plural, Aorist inj. (proh.)
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *putrakṛthe* ← *putrakṛtha*
 - \[noun\], locative, singular, masculine
 - “reproduction.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *janayaḥ* ← *jani*
 - \[noun\], nominative, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

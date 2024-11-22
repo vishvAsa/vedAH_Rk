@@ -93,68 +93,100 @@ ní ← ní (invariable)
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtayus* ← *ṛtayuḥ* ← *ṛtayu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tvānido* ← *tvānidaḥ* ← *tvānid*
 - \[noun\], accusative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛmpasi* ← *tṛp*
 - \[verb\], singular, Present indikative
 - “satiate; enjoy; delight.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhye* ← *madhya*
 - \[noun\], locative, singular, neuter
 - “midst; center; cavity; inside; middle; center; waist; group; pulp;
     torso; time interval; area; series; madhya \[word\]; Madhya; noon;
     middle; middle age; span; belly.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasiṣva* ← *vas*
 - \[verb\], singular, Present imperative
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvinṛmṇorvor* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvinṛmṇorvor* ← *nṛmṇa*
 - \[noun\], vocative, singular, masculine
 - “manhood; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *tuvinṛmṇorvor* ← *ūrvoḥ* ← *ūru*
 - \[noun\], genitive, dual, masculine
 - “thigh; ūru \[word\]; ūru; shank.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsaṃ* ← *dāsam* ← *dāsa*
 - \[noun\], accusative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
-------------------------------------------------------------------------
+
+_________
+
 - *śiśnatho* ← *śiśnathaḥ* ← *śnath*
 - \[verb\], singular, Aorist inj. (proh.)
 - “pierce; kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *hathaiḥ* ← *hatha*
 - \[noun\], instrumental, plural, masculine
 - “blow.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

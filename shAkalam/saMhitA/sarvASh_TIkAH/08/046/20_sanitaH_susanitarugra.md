@@ -87,61 +87,89 @@ vā́jeṣu ← vā́ja- (nominal stem)
 -   *sanitaḥ* ← *sanitar* ← *sanitṛ*
 - \[noun\], vocative, singular, masculine
 - “bestowing; victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *susanitar* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *susanitar* ← *sanitar* ← *sanitṛ*
 - \[noun\], vocative, singular, masculine
 - “bestowing; victorious.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugra*
 - \[noun\], vocative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *citra*
 - \[noun\], vocative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
-------------------------------------------------------------------------
+
+_________
+
 - *cetiṣṭha*
 - \[noun\], vocative, singular, masculine
 - “attentive.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūnṛta*
 - \[noun\], vocative, singular, masculine
 - “big; friendly.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāsahā* ← *prāsah*
 - \[noun\], instrumental, singular, feminine
 - “violence.”
-------------------------------------------------------------------------
+
+_________
+
 - *samrāṭ* ← *samrāj*
 - \[noun\], vocative, singular, masculine
 - “sovereign; ruler.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahuriṃ* ← *sahurim* ← *sahuri*
 - \[noun\], accusative, singular, masculine
 - “victorious; mighty; strong.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahantam* ← *sah*
 - \[verb noun\], accusative, singular
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhujyuṃ* ← *bhujyum* ← *bhujyu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

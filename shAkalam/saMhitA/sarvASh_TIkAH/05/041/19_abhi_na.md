@@ -99,75 +99,111 @@ prabhr̥thásya ← prabhr̥thá- (nominal stem)
 -   *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *iﾱā* ← *iḍā*
 - \[noun\], nominative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *yūthasya* ← *yūtha*
 - \[noun\], genitive, singular, masculine
 - “herd; troop; battalion.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *sman* ← *smat*
 - \[adverb\]
 - “simultaneously; jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadībhir* ← *nadībhiḥ* ← *nadī*
 - \[noun\], instrumental, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *urvaśī*
 - \[noun\], nominative, singular, feminine
 - “Urvaśī.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇātu* ← *gṛ*
 - \[verb\], singular, Present imperative
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *urvaśī*
 - \[noun\], nominative, singular, feminine
 - “Urvaśī.”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaddivā* ← *bṛhat*
 - \[noun\]
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaddivā* ← *divā* ← *diva*
 - \[noun\], nominative, singular, feminine
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇānābhyūrṇvānā* ← *gṛṇānā* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛṇānābhyūrṇvānā* ← *abhyūrṇvānā* ← *abhivṛ* ← *√vṛ*
 - \[verb noun\], nominative, singular
 - “cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *prabhṛthasyāyoḥ* ← *prabhṛthasya* ← *prabhṛtha*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *prabhṛthasyāyoḥ* ← *āyoḥ* ← *āyu*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

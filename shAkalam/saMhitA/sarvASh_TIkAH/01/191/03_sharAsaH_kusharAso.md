@@ -84,49 +84,73 @@ sárve ← sárva- (nominal stem)
 -   *śarāsaḥ* ← *śara*
 - \[noun\], nominative, plural, masculine
 - “arrow; five; reed; śara \[word\]; munj; Śara; Śara.”
-------------------------------------------------------------------------
+
+_________
+
 - *kuśarāso* ← *kuśarāsaḥ* ← *kuśara*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *darbhāsaḥ* ← *darbha*
 - \[noun\], nominative, plural, masculine
 - “Bermuda grass; darbha \[word\]; tuft.”
-------------------------------------------------------------------------
+
+_________
+
 - *sairyā* ← *sairyāḥ* ← *sairya*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *mauñjā* ← *mauñjāḥ* ← *mauñja*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *adṛṣṭā* ← *adṛṣṭāḥ* ← *adṛṣṭa*
 - \[noun\], nominative, plural, masculine
 - “unobserved; invisible; unseen; unanticipated; unknown.”
-------------------------------------------------------------------------
+
+_________
+
 - *vairiṇāḥ* ← *vairiṇa*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sarve* ← *sarva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *sākaṃ* ← *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
-------------------------------------------------------------------------
+
+_________
+
 - *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *alipsata* ← *lip*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “smear; tarnish; dirty; anoint; poultice.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

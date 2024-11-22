@@ -99,70 +99,104 @@ upatíṣṭhamānaḥ ← √sthā- (root)
 -   *ekapād*
 - \[noun\], nominative, singular, masculine
 - “Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūyo* ← *bhūyas*
 - \[adverb\]
 - “again; further; further; repeatedly.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvipado* ← *dvipadaḥ* ← *dvipad*
 - \[noun\], ablative, singular, masculine
 - “biped.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakrame* ← *kram*
 - \[verb\], singular, Perfect indicative
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvipāt* ← *dvipād*
 - \[noun\], nominative, singular, masculine
 - “biped; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *tripādam* ← *tripād*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *paścāt*
 - \[adverb\]
 - “subsequently; westward; paścāt \[word\]; after; back.”
-------------------------------------------------------------------------
+
+_________
+
 - *catuṣpād*
 - \[noun\], nominative, singular, masculine
 - “quadruped.”
-------------------------------------------------------------------------
+
+_________
+
 - *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvipadām* ← *dvipad*
 - \[noun\], genitive, plural, masculine
 - “biped.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhisvare* ← *abhisvara*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sampaśyan* ← *saṃdṛś* ← *√dṛś*
 - \[verb noun\], nominative, singular
 - “see; look; consider.”
-------------------------------------------------------------------------
+
+_________
+
 - *paṅktīr* ← *paṅktīḥ* ← *paṅkti*
 - \[noun\], accusative, plural, feminine
 - “Paṅkti; group; paṅkti \[word\]; assembly.”
-------------------------------------------------------------------------
+
+_________
+
 - *upatiṣṭhamānaḥ* ← *upasthā* ← *√sthā*
 - \[verb noun\], nominative, singular
 - “approach; approach; worship; serve; originate; enter (a state);
     entertain; arise; stand; happen; become.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

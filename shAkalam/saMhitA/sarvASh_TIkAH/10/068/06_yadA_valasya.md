@@ -102,74 +102,106 @@ usríyāṇām ← usríya- (nominal stem)
 -   *yadā*
 - \[adverb\]
 - “once \[when\]; if.”
-------------------------------------------------------------------------
+
+_________
+
 - *valasya* ← *vala*
 - \[noun\], genitive, singular, masculine
 - “Vala; vala; cave.”
-------------------------------------------------------------------------
+
+_________
+
 - *pīyato* ← *pīyataḥ* ← *pī*
 - \[verb noun\], genitive, singular
 - “tease.”
-------------------------------------------------------------------------
+
+_________
+
 - *jasum* ← *jasu*
 - \[noun\], accusative, singular, feminine
 - “exhaustion; weakness.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhed* ← *bhet* ← *bhid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnitapobhir* ← *agni*
 - \[noun\], masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *agnitapobhir* ← *tapobhiḥ* ← *tapas*
 - \[noun\], instrumental, plural, masculine
 - “penance; heat; Tapoloka; tapas \[word\]; ardor; austerity; summer;
     heat.”
-------------------------------------------------------------------------
+
+_________
+
 - *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadbhir* ← *dadbhiḥ* ← *dat*
 - \[noun\], instrumental, plural, masculine
 - “tooth; dat \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvā*
 - \[noun\], nominative, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariviṣṭam* ← *pariviṣ* ← *√viṣ*
 - \[verb noun\], accusative, singular
 - “serve; serve.”
-------------------------------------------------------------------------
+
+_________
+
 - *ādad* ← *ādat* ← *ad*
 - \[verb\], singular, Imperfect
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
-------------------------------------------------------------------------
+
+_________
+
 - *nidhīṃr* ← *nidhīn* ← *nidhi*
 - \[noun\], accusative, plural, masculine
 - “hoard; receptacle; treasure; ocean; instrument.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -180,11 +212,15 @@ usríyāṇām ← usríya- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *usriyāṇām* ← *usriyā*
 - \[noun\], genitive, plural, feminine
 - “cow; dairy product.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

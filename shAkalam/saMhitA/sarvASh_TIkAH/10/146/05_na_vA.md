@@ -93,63 +93,91 @@ yathākā́mam ← yathākā́mam (invariable)
 -   *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
+
+_________
+
 - *araṇyānir* ← *araṇyāniḥ* ← *araṇyāni*
 - \[noun\], nominative, singular, feminine
 - “forest.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanty* ← *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *anyaś* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *cen* ← *ced*
 - \[adverb\]
 - “if; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nābhigacchati* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nābhigacchati* ← *abhigacchati* ← *abhigam* ← *√gam*
 - \[verb\], singular, Present indikative
 - “approach; go; visit; obtain; come; assail.”
-------------------------------------------------------------------------
+
+_________
+
 - *svādoḥ* ← *svādu*
 - \[noun\], genitive, singular, neuter
 - “Madhura; sweet; sweet; dainty; agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *phalasya* ← *phala*
 - \[noun\], genitive, singular, neuter
 - “fruit; fruit; result; consequence; consequence; benefit;
     recompense; testis; enjoyment; fetus; success; seed; nutmeg; phala
     \[word\]; phalaka; phal; scrotum; blade; reward.”
-------------------------------------------------------------------------
+
+_________
+
 - *jagdhvāya* ← *jakṣ*
 - \[verb noun\]
 - “eat; devour.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathākāmaṃ* ← *yathākāmam* ← *yathākāma*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *padyate* ← *pad*
 - \[verb\], singular, Present indikative
 - “fall.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

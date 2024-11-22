@@ -108,86 +108,126 @@ vīḷáyasva ← √vīḍ- ~ √vīḷ- (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *krandaya* ← *kranday* ← *√krand*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *balam* ← *bala*
 - \[noun\], accusative, singular, neuter
 - “strength; army; power; force; potency; vigor; Balarama; bala;
     violence; might; Shiva; bala \[word\]; myrrh; semen; reflex; bronze;
     influence; erection; potency; intensity.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhā* ← *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
+
+_________
+
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṣṭanihi* ← *stanihi* ← *stan*
 - \[verb\], singular, Present imperative
 - “bawl.”
-------------------------------------------------------------------------
+
+_________
+
 - *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
-------------------------------------------------------------------------
+
+_________
+
 - *bādhamānaḥ* ← *bādh*
 - \[verb noun\], nominative, singular
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 - *apa*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *protha* ← *pruth*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *dundubhe* ← *dundubhi*
 - \[noun\], vocative, singular, masculine
 - “dundubhi; war drum; Dundubhi; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ducchunā* ← *ducchunāḥ* ← *ducchunā*
 - \[noun\], accusative, plural, feminine
 - “calamity; misfortune.”
-------------------------------------------------------------------------
+
+_________
+
 - *ita* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *muṣṭir* ← *muṣṭiḥ* ← *muṣṭi*
 - \[noun\], nominative, singular, masculine
 - “fist; handful; pestle; muṣṭi \[word\]; pala.”
-------------------------------------------------------------------------
+
+_________
+
 - *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *vīﾱayasva* ← *vīḍayasva* ← *vīḍay* ← *√vīḍ*
 - \[verb\], singular, Present imperative
 - “solidify; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

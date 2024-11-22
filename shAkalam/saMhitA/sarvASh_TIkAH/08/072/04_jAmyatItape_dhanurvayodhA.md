@@ -76,39 +76,57 @@ jihváyā ← jihvā́- (nominal stem)
 -   *jāmy* ← *jāmi*
 - \[noun\], nominative, singular, neuter
 - “related; ancestral; customary; usual.”
-------------------------------------------------------------------------
+
+_________
+
 - *atītape* ← *tap*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanur* ← *dhanuḥ* ← *dhanus*
 - \[noun\], nominative, singular, neuter
 - “bow; archery; dhanus \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vayodhā* ← *vayodhāḥ* ← *vayodhas*
 - \[noun\], nominative, singular, masculine
 - “fortifying.”
-------------------------------------------------------------------------
+
+_________
+
 - *aruhad* ← *aruhat* ← *ruh*
 - \[verb\], singular, Imperfect
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanam* ← *vana*
 - \[noun\], accusative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛṣadaṃ* ← *dṛṣadam* ← *dṛṣad*
 - \[noun\], accusative, singular, feminine
 - “millstone; rock; jewel.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvayāvadhīt* ← *jihvayā* ← *jihvā*
 - \[noun\], instrumental, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvayāvadhīt* ← *avadhīt* ← *vadh*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “kill; assail; kick; māray; destroy; beat.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

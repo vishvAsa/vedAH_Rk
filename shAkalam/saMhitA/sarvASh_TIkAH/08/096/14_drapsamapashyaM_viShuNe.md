@@ -96,70 +96,102 @@ yúdhyata ← √yudh- (root)
 -   *drapsam* ← *drapsa*
 - \[noun\], accusative, singular, masculine
 - “drop; banner.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaśyaṃ* ← *apaśyam* ← *paś*
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣuṇe* ← *viṣuṇa*
 - \[noun\], locative, singular, neuter
 - “different; assorted; antipathetic; changing.”
-------------------------------------------------------------------------
+
+_________
+
 - *carantam* ← *car*
 - \[verb noun\], accusative, singular
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *upahvare* ← *upahvara*
 - \[noun\], locative, singular, neuter
 - “proximity.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], genitive, singular, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃśumatyāḥ* ← *aṃśumatī*
 - \[noun\], genitive, singular, feminine
 - “Yamunā.”
-------------------------------------------------------------------------
+
+_________
+
 - *nabho* ← *nabhaḥ* ← *nabhas*
 - \[noun\], accusative, singular, neuter
 - “sky; cloud; ākāśa; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṣṇam* ← *kṛṣṇa*
 - \[noun\], accusative, singular, masculine
 - “black; dark; dark; blue; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *avatasthivāṃsam* ← *avasthā* ← *√sthā*
 - \[verb noun\], accusative, singular
 - “stay; stand; situate; continue; stop; lodge; fixate.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣyāmi* ← *iṣ*
 - \[verb\], singular, Present indikative
 - “send.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇo* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], vocative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhyatājau* ← *yudhyata* ← *yudh*
 - \[verb\], plural, Present imperative
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhyatājau* ← *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

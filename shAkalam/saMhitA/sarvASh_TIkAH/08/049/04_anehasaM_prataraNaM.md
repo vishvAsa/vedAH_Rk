@@ -99,68 +99,102 @@ tmánā ← tmán- (nominal stem)
 -   *anehasam* ← *anehas*
 - \[noun\], accusative, singular, masculine
 - “faultless; anehas \[word\]; incomparable.”
-------------------------------------------------------------------------
+
+_________
+
 - *prataraṇaṃ* ← *prataraṇam* ← *prataraṇa*
 - \[noun\], accusative, singular, masculine
 - “prolonging; beneficial.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivakṣaṇam* ← *vivakṣaṇa*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *madhvaḥ* ← *madhu*
 - \[noun\], ablative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svādiṣṭham* ← *svādiṣṭha*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *īm* ← *īṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *mandasānaḥ* ← *mand*
 - \[verb noun\], nominative, singular
 - “rejoice; exhilarate.”
-------------------------------------------------------------------------
+
+_________
+
 - *kirāsi* ← *kṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “spread; scatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣudreva* ← *kṣudrā* ← *kṣudra*
 - \[noun\], nominative, plural, neuter
 - “small; despicable; kṣudra \[word\]; avaricious.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣudreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhṛṣat* ← *dhṛṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “dare; attack.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

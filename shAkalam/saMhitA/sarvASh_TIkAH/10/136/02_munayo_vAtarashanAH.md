@@ -85,58 +85,84 @@ yát ← yá- (pronoun)
 - \[noun\], nominative, plural, masculine
 - “ascetic; seven; Sesbania grandiflora; Brahmin; muni; saint; Buddha;
     Ṛṣi.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātaraśanāḥ* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātaraśanāḥ* ← *raśanāḥ* ← *raśanā*
 - \[noun\], nominative, plural, masculine
 - “rein; bridle; girdle; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *piśaṅgā* ← *piśaṅga*
 - \[noun\], accusative, plural, neuter
 - “tawny; red; brown.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasate* ← *vas*
 - \[verb\], singular, Present indikative
 - “wear.”
-------------------------------------------------------------------------
+
+_________
+
 - *malā* ← *mala*
 - \[noun\], accusative, plural, neuter
 - “rag.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātasyānu* ← *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *vātasyānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhrājiṃ* ← *dhrājim* ← *dhrāji*
 - \[noun\], accusative, singular, feminine
 - “rush; gust; feeling.”
-------------------------------------------------------------------------
+
+_________
+
 - *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *avikṣata* ← *viś*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “enter; penetrate; settle; settle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

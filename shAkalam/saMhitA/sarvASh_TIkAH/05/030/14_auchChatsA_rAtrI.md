@@ -99,71 +99,105 @@ sahásrā ← sahásra- (nominal stem)
 -   *aucchat* ← *vas*
 - \[verb\], singular, Imperfect
 - “dawn; shine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *rātrī* ← *rātri*
 - \[noun\], nominative, singular, feminine
 - “night; night; rātri \[word\]; turmeric; Rātri; day; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *paritakmyā* ← *paritakmya*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yāṃ* ← *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇañcaye* ← *ṛṇaṃcaya*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *rājani* ← *rājan*
 - \[noun\], locative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *ruśamānām* ← *ruśamā*
 - \[noun\], genitive, plural, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
-------------------------------------------------------------------------
+
+_________
+
 - *raghur* ← *raghuḥ* ← *raghu*
 - \[noun\], nominative, singular, masculine
 - “low; fast.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajyamāno* ← *ajyamānaḥ* ← *añj*
 - \[verb noun\], nominative, singular
 - “smear; anoint; mix; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *babhruś* ← *babhruḥ* ← *babhru*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; babhru \[word\]; Babhru; Babhru; water clover; Shiva;
     ichneumon.”
-------------------------------------------------------------------------
+
+_________
+
 - *catvāry* ← *catvāri* ← *catur*
 - \[noun\], accusative, plural, neuter
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asanat* ← *san*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “win; get; gain.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

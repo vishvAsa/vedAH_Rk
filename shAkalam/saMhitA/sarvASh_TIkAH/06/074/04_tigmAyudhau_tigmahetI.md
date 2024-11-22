@@ -96,54 +96,80 @@ sumanasyámānā ← √sumanasy- (root)
 -   *tigmāyudhau* ← *tigma*
 - \[noun\]
 - “sharp; pointed; fiery.”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmāyudhau* ← *āyudhau* ← *āyudha*
 - \[noun\], nominative, dual, masculine
 - “weapon; āyudha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmahetī* ← *tigma*
 - \[noun\]
 - “sharp; pointed; fiery.”
-------------------------------------------------------------------------
+
+_________
+
 - *tigmahetī* ← *hetī* ← *heti*
 - \[noun\], nominative, dual, masculine
 - “projectile; heti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suśevau* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśevau* ← *śevau* ← *śeva*
 - \[noun\], nominative, dual, masculine
 - “friendly; favorable; dear.”
-------------------------------------------------------------------------
+
+_________
+
 - *somārudrāv* ← *somārudrau* ← *somārudra*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛﾱataṃ* ← *mṛḍatam* ← *mṛḍ*
 - \[verb\], dual, Present imperative
 - “pardon.”
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *muñcataṃ* ← *muñcatam* ← *muc*
 - \[verb\], dual, Present imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -151,27 +177,39 @@ sumanasyámānā ← √sumanasy- (root)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāśād* ← *pāśāt* ← *pāśa*
 - \[noun\], ablative, singular, masculine
 - “noose; shackle; eye; pāśa \[word\]; fetter.”
-------------------------------------------------------------------------
+
+_________
+
 - *gopāyataṃ* ← *gopāyatam* ← *gopāy*
 - \[verb\], dual, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *sumanasyamānā* ← *sumanasyamāna*
 - \[noun\], nominative, dual, masculine
 - “favorable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

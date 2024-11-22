@@ -70,38 +70,56 @@ dyumā́n ← dyumánt- (nominal stem)
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sṛñjaye* ← *sṛñjaya*
 - \[noun\], locative, singular, masculine
 - “Sṛñjaya.”
-------------------------------------------------------------------------
+
+_________
+
 - *puro* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivavāte* ← *daivavāta*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *samidhyate* ← *samindh* ← *√indh*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “kindle; blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumāṃ* ← *dyumat*
 - \[noun\], nominative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *amitradambhanaḥ* ← *amitra*
 - \[noun\], masculine
 - “enemy; foe.”
-------------------------------------------------------------------------
+
+_________
+
 - *amitradambhanaḥ* ← *dambhanaḥ* ← *dambhana*
 - \[noun\], nominative, singular, masculine
 - “damaging.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

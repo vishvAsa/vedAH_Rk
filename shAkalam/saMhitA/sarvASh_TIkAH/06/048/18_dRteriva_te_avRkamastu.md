@@ -76,47 +76,69 @@ súpūrṇasya ← súpūrṇa- (nominal stem)
 -   *dṛter* ← *dṛteḥ* ← *dṛti*
 - \[noun\], genitive, singular, masculine
 - “hose; dṛti \[word\]; hide; bladder.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vṛkam* ← *avṛkam* ← *avṛka*
 - \[noun\], nominative, singular, neuter
 - “protective; safe.”
-------------------------------------------------------------------------
+
+_________
+
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyam* ← *sakhya*
 - \[noun\], nominative, singular, neuter
 - “friendship; aid; company.”
-------------------------------------------------------------------------
+
+_________
+
 - *acchidrasya* ← *acchidra*
 - \[noun\], genitive, singular, masculine
 - “uninjured; unbroken.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhanvataḥ* ← *dadhanvat*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *supūrṇasya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supūrṇasya* ← *pūrṇasya* ← *pṛ*
 - \[verb noun\], genitive, singular
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
-------------------------------------------------------------------------
+
+_________
+
 - *dadhanvataḥ* ← *dadhanvat*
 - \[noun\], genitive, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

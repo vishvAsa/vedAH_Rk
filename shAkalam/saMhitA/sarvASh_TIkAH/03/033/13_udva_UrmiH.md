@@ -93,32 +93,46 @@ aratām ← √r̥- 1 (root)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrmiḥ* ← *ūrmi*
 - \[noun\], nominative, singular, feminine
 - “wave; billow.”
-------------------------------------------------------------------------
+
+_________
+
 - *śamyā* ← *śamyāḥ* ← *śamyā*
 - \[noun\], accusative, plural, feminine
 - “stick; peg.”
-------------------------------------------------------------------------
+
+_________
+
 - *hantv* ← *hantu* ← *han*
 - \[verb\], singular, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], vocative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *yoktrāṇi* ← *yoktra*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *muñcata* ← *muc*
 - \[verb\], plural, Present imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -126,34 +140,50 @@ aratām ← √r̥- 1 (root)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *māduṣkṛtau* ← *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *māduṣkṛtau* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *māduṣkṛtau* ← *duṣkṛtau* ← *duṣkṛt*
 - \[noun\], nominative, dual, masculine
 - “wicked.”
-------------------------------------------------------------------------
+
+_________
+
 - *vyenasāghnyau* ← *vyenasā* ← *vyenas*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vyenasāghnyau* ← *aghnyau* ← *aghnya*
 - \[noun\], nominative, dual, masculine
 - “bull.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūnam* ← *śūna*
 - \[noun\], accusative, singular, neuter
 - “lack; absence.”
-------------------------------------------------------------------------
+
+_________
+
 - *āratām* ← *ārch* ← *√ṛch*
 - \[verb\], dual, Aorist imperative
 - “enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

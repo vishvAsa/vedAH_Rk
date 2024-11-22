@@ -79,48 +79,70 @@ vívratayoḥ ← vívrata- (nominal stem)
 -   *sacāyor* ← *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacāyor* ← *ayoḥ* ← *idam*
 - \[noun\], genitive, dual, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *carkṛṣa* ← *carkṛṣe* ← *carkar* ← *√kṛ*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “praise; commemorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *upānasaḥ* ← *upānasa*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *saparyan* ← *sapary*
 - \[verb noun\], nominative, singular
 - “worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadayor* ← *nadayoḥ* ← *nada*
 - \[noun\], genitive, dual, masculine
 - “river; nad; roarer; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *vivratayoḥ* ← *vivrata*
 - \[noun\], genitive, dual, masculine
 - “refractory; loath.”
-------------------------------------------------------------------------
+
+_________
+
 - *śūra* ← *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

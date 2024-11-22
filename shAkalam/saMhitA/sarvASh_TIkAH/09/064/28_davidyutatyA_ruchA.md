@@ -67,29 +67,43 @@ sómāḥ ← sóma- (nominal stem)
 -   *davidyutatyā* ← *davidyut* ← *√dyut*
 - \[verb noun\], instrumental, singular
 - “flash.”
-------------------------------------------------------------------------
+
+_________
+
 - *rucā* ← *ruc*
 - \[noun\], instrumental, singular, feminine
 - “beam; radiance; color.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariṣṭobhantyā* ← *pariṣṭubh* ← *√stubh*
 - \[verb noun\], instrumental, singular
-------------------------------------------------------------------------
+
+_________
+
 - *kṛpā* ← *kṛp*
 - \[noun\], instrumental, singular, feminine
 - “kṛp.”
-------------------------------------------------------------------------
+
+_________
+
 - *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukrā* ← *śukrāḥ* ← *śukra*
 - \[noun\], nominative, plural, masculine
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavāśiraḥ* ← *gavāśir*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

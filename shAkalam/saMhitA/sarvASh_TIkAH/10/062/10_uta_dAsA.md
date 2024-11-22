@@ -73,42 +73,62 @@ yáduḥ ← yádu- (nominal stem)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāsā* ← *dāsa*
 - \[noun\], accusative, dual, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
-------------------------------------------------------------------------
+
+_________
+
 - *pariviṣe* ← *pariviṣ* ← *√viṣ*
 - \[verb noun\]
 - “serve; serve.”
-------------------------------------------------------------------------
+
+_________
+
 - *smaddiṣṭī* ← *smaddiṣṭi*
 - \[noun\], accusative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *goparīṇasā* ← *go*
 - \[noun\]
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *goparīṇasā* ← *parīṇasā* ← *parīṇas*
 - \[noun\], accusative, dual, masculine
 - “plenty.”
-------------------------------------------------------------------------
+
+_________
+
 - *yadus* ← *yaduḥ* ← *yadu*
 - \[noun\], nominative, singular, masculine
 - “Yadu; Yadu.”
-------------------------------------------------------------------------
+
+_________
+
 - *turvaś* ← *turvaḥ* ← *turva*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *māmahe* ← *mah*
 - \[verb\], singular, Perfect indicative
 - “give; accord.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

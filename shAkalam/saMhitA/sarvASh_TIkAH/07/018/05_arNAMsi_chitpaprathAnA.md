@@ -96,28 +96,40 @@ síndhūnām ← síndhu- (nominal stem)
 -   *arṇāṃsi* ← *arṇas*
 - \[noun\], accusative, plural, neuter
 - “body of water; water.”
-------------------------------------------------------------------------
+
+_________
+
 - *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *paprathānā* ← *prath*
 - \[verb noun\], accusative, plural
 - “be known; expand; expand; boom.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudāsa* ← *sudāse* ← *sudās*
 - \[noun\], dative, singular, masculine
 - “Sudās.”
-------------------------------------------------------------------------
+
+_________
+
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *gādhāny* ← *gādhāni* ← *gādha*
 - \[noun\], accusative, plural, neuter
 - “gādha \[word\]; fordable.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -128,37 +140,55 @@ síndhūnām ← síndhu- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *supārā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supārā* ← *pārā* ← *pāra*
 - \[noun\], accusative, plural, neuter
 - “Pāra; Pāra.”
-------------------------------------------------------------------------
+
+_________
+
 - *śardhantaṃ* ← *śardhantam* ← *śṛdh*
 - \[verb noun\], accusative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *śimyum* ← *śimyu*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ucathasya* ← *ucatha*
 - \[noun\], genitive, singular, neuter
 - “praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyaḥ* ← *navyas*
 - \[noun\], accusative, singular, neuter
 - “new.”
-------------------------------------------------------------------------
+
+_________
+
 - *śāpaṃ* ← *śāpam* ← *śāpa*
 - \[noun\], accusative, singular, masculine
 - “imprecation; ban; curse.”
-------------------------------------------------------------------------
+
+_________
+
 - *sindhūnām* ← *sindhu*
 - \[noun\], genitive, plural, masculine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *akṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -169,11 +199,15 @@ síndhūnām ← síndhu- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśastīḥ* ← *aśasti*
 - \[noun\], accusative, plural, feminine
 - “hex.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

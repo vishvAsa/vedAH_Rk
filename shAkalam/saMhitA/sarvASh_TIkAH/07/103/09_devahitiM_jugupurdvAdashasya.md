@@ -97,72 +97,106 @@ visargám ← visargá- (nominal stem)
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *devahitiṃ* ← *hitim* ← *hiti*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *jugupur* ← *jugupuḥ* ← *gup*
 - \[verb\], plural, Perfect indicative
 - “protect; hide; guard; defend; cover.”
-------------------------------------------------------------------------
+
+_________
+
 - *dvādaśasya* ← *dvādaśa*
 - \[noun\], genitive, singular, masculine
 - “twelfth.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛtuṃ* ← *ṛtum* ← *ṛtu*
 - \[noun\], accusative, singular, masculine
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *minanty* ← *minanti* ← *mī*
 - \[verb\], plural, Present indikative
 - “transgress; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃvatsare* ← *saṃvatsara*
 - \[noun\], locative, singular, masculine
 - “year; year; saṃvatsara \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *prāvṛṣy* ← *prāvṛṣi* ← *prāvṛṣ*
 - \[noun\], locative, singular, feminine
 - “monsoon; rainy season; prāvṛṣ \[word\]; prāvṛṣ.”
-------------------------------------------------------------------------
+
+_________
+
 - *āgatāyāṃ* ← *āgatāyām* ← *āgam* ← *√gam*
 - \[verb noun\], locative, singular
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
-------------------------------------------------------------------------
+
+_________
+
 - *taptā* ← *taptāḥ* ← *tap*
 - \[verb noun\], nominative, plural
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
-------------------------------------------------------------------------
+
+_________
+
 - *gharmā* ← *gharmāḥ* ← *gharma*
 - \[noun\], nominative, plural, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśnuvate* ← *aś*
 - \[verb\], plural, Present indikative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
+
+_________
+
 - *visargam* ← *visarga*
 - \[noun\], accusative, singular, masculine
 - “ejaculation; visarga; elimination; end; creation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

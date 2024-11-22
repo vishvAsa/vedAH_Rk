@@ -98,18 +98,26 @@ nadyàḥ ← nadī́- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayakṣatamam* ← *prayakṣatama*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *karma* ← *karman*
 - \[noun\], nominative, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -117,54 +125,80 @@ nadyàḥ ← nadī́- (nominal stem)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasmasya* ← *dasma*
 - \[noun\], genitive, singular, masculine
 - “overlord.”
-------------------------------------------------------------------------
+
+_________
+
 - *cārutamam* ← *cārutama*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *daṃsaḥ* ← *daṃsas*
 - \[noun\], nominative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *upahvare* ← *upahvara*
 - \[noun\], locative, singular, neuter
 - “proximity.”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *uparā* ← *uparāḥ* ← *upara*
 - \[noun\], accusative, plural, feminine
 - “later(a); future(a); nether.”
-------------------------------------------------------------------------
+
+_________
+
 - *apinvan* ← *apinvat* ← *pinv*
 - \[verb\], singular, Imperfect
 - “swell; swell; overflow; abound.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhvarṇaso* ← *madhu*
 - \[noun\]
 - “sweet; deft.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhvarṇaso* ← *arṇasaḥ* ← *arṇas*
 - \[noun\], accusative, plural, feminine
 - “body of water; water.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadyaś* ← *nadyaḥ* ← *nadī*
 - \[noun\], accusative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *catasraḥ* ← *catur*
 - \[noun\], accusative, plural, feminine
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

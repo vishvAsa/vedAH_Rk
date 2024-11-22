@@ -102,78 +102,114 @@ tasthau ← √sthā- (root)
 -   *āvaḥ* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *kutsam* ← *kutsa*
 - \[noun\], accusative, singular, masculine
 - “Kutsa; kutsa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yasmiñcākan* ← *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yasmiñcākan* ← *cākan* ← *kan*
 - \[verb\], singular, Plusquamperfect
 - “like; delight; desire.”
-------------------------------------------------------------------------
+
+_________
+
 - *prāvo* ← *prāvaḥ* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
-------------------------------------------------------------------------
+
+_________
+
 - *yudhyantaṃ* ← *yudhyantam* ← *yudh*
 - \[verb noun\], accusative, singular
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśadyum* ← *daśadyu*
 - \[noun\], accusative, singular, masculine
 - “Daśadyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaphacyuto* ← *śapha*
 - \[noun\], masculine
 - “one-eighth; śapha \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śaphacyuto* ← *cyutaḥ* ← *cyu*
 - \[verb noun\], nominative, singular
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”
-------------------------------------------------------------------------
+
+_________
+
 - *reṇur* ← *reṇuḥ* ← *reṇu*
 - \[noun\], nominative, singular, masculine
 - “dust; pollen; powder.”
-------------------------------------------------------------------------
+
+_________
+
 - *nakṣata* ← *nakṣ*
 - \[verb\], singular, Present injunctive
 - “reach; approach.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucchvaitreyo* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucchvaitreyo* ← *śvaitreyaḥ* ← *śvaitreya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nṛṣāhyāya* ← *nṛṣāhya*
 - \[noun\], dative, singular, neuter
 - “battle.”
-------------------------------------------------------------------------
+
+_________
+
 - *tasthau* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

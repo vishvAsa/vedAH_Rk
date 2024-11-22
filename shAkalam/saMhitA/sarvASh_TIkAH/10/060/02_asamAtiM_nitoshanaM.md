@@ -67,34 +67,50 @@ sátpatim ← sátpati- (nominal stem)
 -   *asamātiṃ* ← *asamātim* ← *asamāti*
 - \[noun\], accusative, singular, masculine
 - “Asamāti.”
-------------------------------------------------------------------------
+
+_________
+
 - *nitośanaṃ* ← *nitośanam* ← *nitośana*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tveṣaṃ* ← *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
+
+_________
+
 - *niyayinaṃ* ← *niyayinam* ← *niyayin*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhajerathasya* ← *bhajeratha*
 - \[noun\], genitive, singular, neuter
 - “Bhajeratha.”
-------------------------------------------------------------------------
+
+_________
+
 - *satpatim* ← *sat*
 - \[noun\]
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
-------------------------------------------------------------------------
+
+_________
+
 - *satpatim* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

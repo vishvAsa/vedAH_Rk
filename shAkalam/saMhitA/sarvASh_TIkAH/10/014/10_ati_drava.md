@@ -99,75 +99,109 @@ yé ← yá- (pronoun)
 -   *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
+
+_________
+
 - *drava* ← *dru*
 - \[verb\], singular, Present imperative
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *sārameyau* ← *sārameya*
 - \[noun\], accusative, dual, masculine
 - “dog.”
-------------------------------------------------------------------------
+
+_________
+
 - *śvānau* ← *śvan*
 - \[noun\], accusative, dual, masculine
 - “dog; śvan \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *caturakṣau* ← *catur*
 - \[noun\]
 - “four; catur \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *caturakṣau* ← *akṣau* ← *akṣa*
 - \[noun\], accusative, dual, masculine
 - “eye; akṣa \[word\]; hole.”
-------------------------------------------------------------------------
+
+_________
+
 - *śabalau* ← *śabala*
 - \[noun\], accusative, dual, masculine
 - “varicolored; patched.”
-------------------------------------------------------------------------
+
+_________
+
 - *sādhunā* ← *sādhu*
 - \[noun\], instrumental, singular, masculine
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”
-------------------------------------------------------------------------
+
+_________
+
 - *pathā* ← *pathin*
 - \[noun\], instrumental, singular
 - “way; road; path \[word\]; journey; method.”
-------------------------------------------------------------------------
+
+_________
+
 - *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitṝn* ← *pitṛ*
 - \[noun\], accusative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvidatrāṃ* ← *suvidatra*
 - \[noun\], accusative, plural, masculine
 - “beneficent.”
-------------------------------------------------------------------------
+
+_________
+
 - *upehi* ← *upe* ← *√i*
 - \[verb\], singular, Present imperative
 - “mix; endow; enter (a state); approach; love; supply; travel; come
     out; reach; arrive; decorate; process.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamena* ← *yama*
 - \[noun\], instrumental, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sadhamādam* ← *sadhamāda*
 - \[noun\], accusative, singular, masculine
 - “banquet; party; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *madanti* ← *mad*
 - \[verb\], plural, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

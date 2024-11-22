@@ -99,70 +99,102 @@ párvatānām ← párvata- (nominal stem)
 -   *akṣodayacchavasā* ← *akṣodayat* ← *kṣoday* ← *√kṣud*
 - \[verb\], singular, Imperfect
 - “mix; powderize.”
-------------------------------------------------------------------------
+
+_________
+
 - *akṣodayacchavasā* ← *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāma* ← *kṣāman*
 - \[noun\], accusative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *budhnaṃ* ← *budhnam* ← *budhna*
 - \[noun\], accusative, singular, neuter
 - “bottom; bottom; base.”
-------------------------------------------------------------------------
+
+_________
+
 - *vār*
 - \[noun\], accusative, singular, neuter
 - “water; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṇa* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vātas* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *taviṣībhir* ← *taviṣībhiḥ* ← *taviṣī*
 - \[noun\], instrumental, plural, feminine
 - “strength; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *dṛﾱhāny* ← *dṛﾱhāni* ← *dṛḍha*
 - \[noun\], accusative, plural, neuter
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
-------------------------------------------------------------------------
+
+_________
+
 - *aubhnād* ← *aubhnāt* ← *ubh*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *uśamāna* ← *uśamānaḥ* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
+
+_________
+
 - *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
-------------------------------------------------------------------------
+
+_________
+
 - *'vābhinat* ← *avābhinat* ← *avabhid* ← *√bhid*
 - \[verb\], singular, Imperfect
 - “pierce; slash.”
-------------------------------------------------------------------------
+
+_________
+
 - *kakubhaḥ* ← *kakubh*
 - \[noun\], accusative, plural, feminine
 - “Kakubh; peak; bulge.”
-------------------------------------------------------------------------
+
+_________
+
 - *parvatānām* ← *parvata*
 - \[noun\], genitive, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

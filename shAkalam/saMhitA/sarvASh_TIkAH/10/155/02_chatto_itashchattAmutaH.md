@@ -90,67 +90,97 @@ udr̥ṣán ← √r̥ṣ- (root)
 -   *catto* ← *cattā* ← *cat*
 - \[verb noun\], nominative, singular
 - “flee.”
-------------------------------------------------------------------------
+
+_________
+
 - *catto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *itaś* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
-------------------------------------------------------------------------
+
+_________
+
 - *cattāmutaḥ* ← *cattā* ← *cat*
 - \[verb noun\], nominative, singular
 - “flee.”
-------------------------------------------------------------------------
+
+_________
+
 - *cattāmutaḥ* ← *amutas*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *sarvā* ← *sarva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhrūṇāny* ← *bhrūṇāni* ← *bhrūṇa*
 - \[noun\], accusative, plural, neuter
 - “embryo; bhrūṇa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āruṣī* ← *ṛch*
 - \[verb noun\], nominative, singular
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *arāyyam* ← *arāyī*
 - \[noun\], accusative, singular, feminine
 - “hag.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmaṇas* ← *brahmaṇaḥ* ← *brahman*
 - \[noun\], genitive, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
-------------------------------------------------------------------------
+
+_________
+
 - *tīkṣṇaśṛṅgodṛṣann* ← *tīkṣṇa*
 - \[noun\]
 - “sharp; tīkṣṇa; intense; strong; vehement; pungent; loud; severe;
     tīkṣṇa \[word\]; gingery; acuate; pointed.”
-------------------------------------------------------------------------
+
+_________
+
 - *tīkṣṇaśṛṅgodṛṣann* ← *śṛṅga*
 - \[noun\], vocative, singular, masculine
 - “peak; horn; tusk; śṛṅga \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *tīkṣṇaśṛṅgodṛṣann* ← *udṛṣan* ← *udṛṣ* ← *√ṛṣ*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *ihi* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

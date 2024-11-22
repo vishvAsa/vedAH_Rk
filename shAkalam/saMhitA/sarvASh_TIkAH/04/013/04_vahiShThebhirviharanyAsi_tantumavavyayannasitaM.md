@@ -101,75 +101,109 @@ támaḥ ← támas- (nominal stem)
 
 -   *vahiṣṭhebhir* ← *vahiṣṭhebhiḥ* ← *vahiṣṭha*
 - \[noun\], instrumental, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *viharan* ← *vihṛ* ← *√hṛ*
 - \[verb noun\], nominative, singular
 - “spend; amuse; stay; separate; unfold.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāsi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *tantum* ← *tantu*
 - \[noun\], accusative, singular, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
-------------------------------------------------------------------------
+
+_________
+
 - *avavyayann* ← *avavyayan* ← *avavye* ← *√vye*
 - \[verb noun\], nominative, singular
 - “unravel.”
-------------------------------------------------------------------------
+
+_________
+
 - *asitaṃ* ← *asitam* ← *asita*
 - \[noun\], accusative, singular, neuter
 - “black; dark; dark; black.”
-------------------------------------------------------------------------
+
+_________
+
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasma* ← *vasman*
 - \[noun\], accusative, singular, neuter
 - “garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *davidhvato* ← *davidhvataḥ* ← *dodhu* ← *√dhū*
 - \[verb noun\], nominative, plural
 - “shake.”
-------------------------------------------------------------------------
+
+_________
+
 - *raśmayaḥ* ← *raśmi*
 - \[noun\], nominative, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
+
+_________
+
 - *carmevāvādhus* ← *carma* ← *carman*
 - \[noun\], accusative, singular, neuter
 - “leather; hide; shield; skin; carman \[word\]; carman; hide.”
-------------------------------------------------------------------------
+
+_________
+
 - *carmevāvādhus* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *carmevāvādhus* ← *avādhuḥ* ← *avadhā* ← *√dhā*
 - \[verb\], plural, Root aorist (Ind.)
 - “concentrate; immerse; set down.”
-------------------------------------------------------------------------
+
+_________
+
 - *tamo* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
-------------------------------------------------------------------------
+
+_________
+
 - *apsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -93,79 +93,117 @@ svastáye ← svastí- (nominal stem)
 -   *sutrāmāṇam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sutrāmāṇam* ← *trāmāṇam* ← *trāman*
 - \[noun\], accusative, singular, feminine
 - “protection.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīṃ* ← *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *anehasaṃ* ← *anehasam* ← *anehas*
 - \[noun\], accusative, singular, masculine
 - “faultless; anehas \[word\]; incomparable.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśarmāṇam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suśarmāṇam* ← *śarmāṇam* ← *śarman*
 - \[noun\], accusative, singular, feminine
 - “protection; protective covering; refuge; joy.”
-------------------------------------------------------------------------
+
+_________
+
 - *aditiṃ* ← *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *supraṇītim* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *supraṇītim* ← *praṇītim* ← *praṇīti*
 - \[noun\], accusative, singular, feminine
 - “guidance; guidance.”
-------------------------------------------------------------------------
+
+_________
+
 - *daivīṃ* ← *daivīm* ← *daiva*
 - \[noun\], accusative, singular, feminine
 - “divine; religious.”
-------------------------------------------------------------------------
+
+_________
+
 - *nāvaṃ* ← *nāvam* ← *nau*
 - \[noun\], accusative, singular
 - “ship; boat; nau \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *svaritrām* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *svaritrām* ← *aritrām* ← *aritra*
 - \[noun\], accusative, singular, feminine
 - “oar.”
-------------------------------------------------------------------------
+
+_________
+
 - *anāgasam* ← *anāgas*
 - \[noun\], accusative, singular, feminine
 - “blameless; impeccant.”
-------------------------------------------------------------------------
+
+_________
+
 - *asravantīm* ← *asravat*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ruhemā* ← *ruhema* ← *ruh*
 - \[verb\], plural, Aorist optative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
-------------------------------------------------------------------------
+
+_________
+
 - *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

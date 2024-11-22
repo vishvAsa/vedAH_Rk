@@ -100,16 +100,22 @@ vā́cam ← vā́c- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *gṛbhṇāty* ← *gṛbhṇāti* ← *grah*
 - \[verb\], singular, Present indikative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
@@ -117,59 +123,87 @@ vā́cam ← vā́c- (nominal stem)
     afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
-------------------------------------------------------------------------
+
+_________
+
 - *enor* ← *enoḥ* ← *enad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasarge* ← *prasarga*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *amandiṣātām* ← *mand*
 - \[verb\], dual, Athematic is aor. (Ind.)
 - “rejoice; exhilarate.”
-------------------------------------------------------------------------
+
+_________
+
 - *maṇḍūko* ← *maṇḍūkaḥ* ← *maṇḍūka*
 - \[noun\], nominative, singular, masculine
 - “frog; maṇḍūkamūṣā; maṇḍūka \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhivṛṣṭaḥ* ← *abhivṛṣ* ← *√vṛṣ*
 - \[verb noun\], nominative, singular
 - “rain; shower; saturate; sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 - *kaniṣkan* ← *caniṣkad* ← *√skand*
 - \[verb\], singular, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *pṛśniḥ* ← *pṛśni*
 - \[noun\], nominative, singular, masculine
 - “varicolored; dappled.”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃpṛṅkte* ← *sampṛc* ← *√pṛc*
 - \[verb\], singular, Present indikative
 - “mix; connect.”
-------------------------------------------------------------------------
+
+_________
+
 - *haritena* ← *harita*
 - \[noun\], instrumental, singular, masculine
 - “green; yellow; fresh; harita \[word\]; green.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

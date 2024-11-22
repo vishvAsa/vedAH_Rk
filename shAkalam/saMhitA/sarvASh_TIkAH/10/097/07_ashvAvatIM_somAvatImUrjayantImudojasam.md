@@ -78,40 +78,58 @@ asmaí ← ayám (pronoun)
 -   *aśvāvatīṃ* ← *aśvāvatīm* ← *aśvāvat*
 - \[noun\], accusative, singular, feminine
 - “rich in horses.”
-------------------------------------------------------------------------
+
+_________
+
 - *somāvatīm* ← *somāvat*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjayantīm* ← *ūrjay*
 - \[verb noun\], accusative, singular
 - “strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *udojasam* ← *udojas*
 - \[noun\], accusative, singular, feminine
 - “powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *āvitsi* ← *vid*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvā* ← *sarvāḥ* ← *sarva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
+
+_________
+
 - *oṣadhīr* ← *oṣadhīḥ* ← *oṣadhi*
 - \[noun\], accusative, plural, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
-------------------------------------------------------------------------
+
+_________
+
 - *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ariṣṭatātaye* ← *ariṣṭatāti*
 - \[noun\], dative, singular, feminine
 - “safeness.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

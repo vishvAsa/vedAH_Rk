@@ -101,75 +101,113 @@ sūyavasā́t ← sūyavasā́d- (nominal stem)
 
 -   *āraṅgareva* ← *āraṅgarā* ← *āraṅgara*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *āraṅgareva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *madhv* ← *madhū* ← *madhu*
 - \[noun\], accusative, plural, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *erayethe* ← *eray* ← *√īr*
 - \[verb\], dual, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *sāragheva* ← *sāraghā* ← *sāragha*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *sāragheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *gavi* ← *go*
 - \[noun\], locative, singular
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *nīcīnabāre* ← *nīcīna*
 - \[noun\]
 - “downward(ip).”
-------------------------------------------------------------------------
+
+_________
+
 - *nīcīnabāre* ← *bāre* ← *bāra*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kīnāreva* ← *kīnārā* ← *kīnāra*
 - \[noun\], nominative, dual, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kīnāreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *svedam* ← *sveda*
 - \[noun\], accusative, singular, masculine
 - “svedana; perspiration; svedana; perspiring; fomentation; sweat.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsiṣvidānā* ← *āsvid* ← *√svid*
 - \[verb noun\], nominative, dual
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāmevorjā* ← *kṣāmā* ← *kṣāma*
 - \[noun\], nominative, dual, masculine
 - “faint; slender; bony.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāmevorjā* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṣāmevorjā* ← *ūrjā* ← *ūrj*
 - \[noun\], instrumental, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūyavasāt* ← *sū* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūyavasāt* ← *yavasāt* ← *yavasa*
 - \[noun\], ablative, singular, masculine
 - “eatage; pasture; fodder.”
-------------------------------------------------------------------------
+
+_________
+
 - *sacethe* ← *sac*
 - \[verb\], dual, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

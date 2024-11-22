@@ -72,38 +72,56 @@ yā́meṣu ← yā́ma- (nominal stem)
 
 -   *kanīnakeva* ← *kanīnakā*
 - \[noun\], nominative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *kanīnakeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vidradhe* ← *vidradha*
 - \[noun\], nominative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *nave* ← *nava*
 - \[noun\], nominative, dual, feminine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *drupade* ← *drupada*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *arbhake* ← *arbhaka*
 - \[noun\], nominative, dual, feminine
 - “humble; weak.”
-------------------------------------------------------------------------
+
+_________
+
 - *babhrū* ← *babhru*
 - \[noun\], nominative, dual, masculine
 - “tawny; brown.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmeṣu* ← *yāma*
 - \[noun\], locative, plural, masculine
 - “prahara; watch; travel; path.”
-------------------------------------------------------------------------
+
+_________
+
 - *śobhete* ← *śubh*
 - \[verb\], dual, Present indikative
 - “look; shine; beautify.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

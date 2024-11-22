@@ -93,27 +93,39 @@ vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)
 -   *ṛṣiṃ* ← *ṛṣim* ← *ṛṣi*
 - \[noun\], accusative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
-------------------------------------------------------------------------
+
+_________
+
 - *narāv* ← *narau* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
-------------------------------------------------------------------------
+
+_________
+
 - *pāñcajanyam* ← *pāñcajanya*
 - \[noun\], accusative, singular, masculine
 - “Pāñcajanya; Agni.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛbīsād* ← *ṛbīsāt* ← *ṛbīsa*
 - \[noun\], ablative, singular, neuter
 - “chasm.”
-------------------------------------------------------------------------
+
+_________
+
 - *atrim* ← *atri*
 - \[noun\], accusative, singular, masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *muñcatho* ← *muñcathaḥ* ← *muc*
 - \[verb\], dual, Present indikative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -121,42 +133,60 @@ vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *gaṇena* ← *gaṇa*
 - \[noun\], instrumental, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
-------------------------------------------------------------------------
+
+_________
+
 - *minantā* ← *mī*
 - \[verb noun\], nominative, dual
 - “transgress; damage.”
-------------------------------------------------------------------------
+
+_________
+
 - *dasyor* ← *dasyoḥ* ← *dasyu*
 - \[noun\], genitive, singular, masculine
 - “savage; outcast; mugger.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśivasya* ← *aśiva*
 - \[noun\], genitive, singular, masculine
 - “inauspicious; unkind; unfriendly; cruel; dangerous.”
-------------------------------------------------------------------------
+
+_________
+
 - *māyā* ← *māyāḥ* ← *māyā*
 - \[noun\], accusative, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
-------------------------------------------------------------------------
+
+_________
+
 - *anupūrvaṃ* ← *anupūrvam* ← *anupūrva*
 - \[noun\], accusative, singular, masculine
 - “consecutive; regular; regular.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *codayantā* ← *coday* ← *√cud*
 - \[verb noun\], nominative, dual
 - “impel; drive; incite; command; drive; arouse; propel.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

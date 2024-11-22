@@ -79,49 +79,73 @@ vanaḥ ← √vanⁱ- (root)
 -   *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mūrā* ← *mūrāḥ* ← *mūra*
 - \[noun\], nominative, plural, masculine
 - “stupid.”
-------------------------------------------------------------------------
+
+_________
+
 - *aviṣyavo* ← *aviṣyavaḥ* ← *aviṣyu*
 - \[noun\], nominative, plural, masculine
 - “impetuous.”
-------------------------------------------------------------------------
+
+_________
+
 - *mopahasvāna* ← *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *mopahasvāna* ← *upahasvānaḥ* ← *upahasvan*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dabhan* ← *dabh*
 - \[verb\], plural, Present injunctive
-------------------------------------------------------------------------
+
+_________
+
 - *mākīm*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *brahmadviṣo* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
+
+_________
+
 - *brahmadviṣo* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, masculine
 - “hostile; hating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanaḥ* ← *van*
 - \[verb\], singular, Present injunctive
 - “obtain; gain; desire; get; like; love; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

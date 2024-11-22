@@ -73,42 +73,62 @@ māmahe ← √maṁh- (root)
 -   *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *tye* ← *tya*
 - \[noun\], accusative, dual, feminine
 - “that.”
-------------------------------------------------------------------------
+
+_________
+
 - *payovṛdhā* ← *payaḥ* ← *payas*
 - \[noun\], neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
-------------------------------------------------------------------------
+
+_________
+
 - *payovṛdhā* ← *vṛdhā* ← *vṛdh*
 - \[noun\], accusative, dual, feminine
 - “increasing.”
-------------------------------------------------------------------------
+
+_________
+
 - *mākī* ← *mākir*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *raṇasya* ← *raṇa*
 - \[noun\], genitive, singular, masculine
 - “battle; fight; pleasure; joy; war; combat.”
-------------------------------------------------------------------------
+
+_________
+
 - *naptyā* ← *naptī*
 - \[noun\], ablative, dual, feminine
 - “daughter; granddaughter.”
-------------------------------------------------------------------------
+
+_________
+
 - *janitvanāya* ← *janitvana*
 - \[noun\], dative, singular, neuter
 - “marriage.”
-------------------------------------------------------------------------
+
+_________
+
 - *māmahe* ← *mah*
 - \[verb\], singular, Perfect indicative
 - “give; accord.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

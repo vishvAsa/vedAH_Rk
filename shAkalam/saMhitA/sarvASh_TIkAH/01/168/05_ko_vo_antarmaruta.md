@@ -102,87 +102,129 @@ purupraíṣāḥ ← purupraíṣa- (nominal stem)
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ntar* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
-------------------------------------------------------------------------
+
+_________
+
 - *maruta* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣṭividyuto* ← *ṛṣṭi*
 - \[noun\], feminine
 - “spear.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṣṭividyuto* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], vocative, plural, masculine
 - “lightning; Vidyut; thunderbolt.”
-------------------------------------------------------------------------
+
+_________
+
 - *rejati* ← *rej*
 - \[verb\], singular, Present indikative
 - “tremor; flicker.”
-------------------------------------------------------------------------
+
+_________
+
 - *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanveva* ← *hanvā* ← *hanu*
 - \[noun\], instrumental, singular, masculine
 - “jaw.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvayā* ← *jihvā*
 - \[noun\], instrumental, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvacyuta* ← *dhanva* ← *dhanvan*
 - \[noun\], neuter
 - “bow; desert; steppe; barren.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhanvacyuta* ← *cyutaḥ* ← *cyut*
 - \[noun\], nominative, plural, masculine
 - “shaking; dropping.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣāṃ* ← *iṣām* ← *iṣ*
 - \[noun\], genitive, plural, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmani* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *purupraiṣā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
-------------------------------------------------------------------------
+
+_________
+
 - *purupraiṣā* ← *praiṣāḥ* ← *praiṣa*
 - \[noun\], nominative, plural, masculine
 - “order; invitation.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahanyo* ← *ahanyaḥ* ← *ahanya*
 - \[noun\], nominative, singular, masculine
 - “daily.”
-------------------------------------------------------------------------
+
+_________
+
 - *naitaśaḥ* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *naitaśaḥ* ← *etaśaḥ* ← *etaśa*
 - \[noun\], nominative, singular, masculine
 - “Etaśa; horse.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

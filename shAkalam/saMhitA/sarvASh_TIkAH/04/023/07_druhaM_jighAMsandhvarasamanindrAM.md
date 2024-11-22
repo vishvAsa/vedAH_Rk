@@ -102,78 +102,116 @@ uṣásaḥ ← uṣás- (nominal stem)
 -   *druhaṃ* ← *druham* ← *druh*
 - \[noun\], accusative, singular, feminine
 - “deception; druh; misrepresentation; fraudulence; offense; injury.”
-------------------------------------------------------------------------
+
+_________
+
 - *jighāṃsan* ← *jighāṃs* ← *√han*
 - \[verb noun\], nominative, singular
 - “kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhvarasam* ← *dhvaras*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *anindrāṃ* ← *an*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *anindrāṃ* ← *indrām* ← *indra*
 - \[noun\], accusative, singular, feminine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *tetikte* ← *tetij* ← *√tij*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *tigmā* ← *tigma*
 - \[noun\], accusative, plural, neuter
 - “sharp; pointed; fiery.”
-------------------------------------------------------------------------
+
+_________
+
 - *tujase* ← *tuj*
 - \[verb noun\]
 - “draw.”
-------------------------------------------------------------------------
+
+_________
+
 - *anīkā* ← *anīka*
 - \[noun\], accusative, plural, neuter
 - “army; face; battalion; battlefront; point; appearance.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇā* ← *ṛṇa*
 - \[noun\], accusative, plural, neuter
 - “debt; debt; ṛṇa \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛṇayā* ← *ṛṇayāḥ* ← *ṛṇayā*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
+
+_________
+
 - *dūre* ← *dūra*
 - \[noun\], locative, singular, neuter
 - “distance; distance; farness.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajñātā* ← *ajñātāḥ* ← *ajñāta*
 - \[noun\], accusative, plural, feminine
 - “unknown; unexpected.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *babādhe* ← *bādh*
 - \[verb\], singular, Perfect indicative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

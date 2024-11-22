@@ -90,63 +90,91 @@ idhmáḥ ← idhmá- (nominal stem)
 -   *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
+
+_________
+
 - *puruṣeṇa* ← *puruṣa*
 - \[noun\], instrumental, singular, masculine
 - “man; man; Puruṣa; puṃvajra; puruṣa; servant; puruṣa \[word\];
     assistant; soldier; soul; commoner; generation; people; doll.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
+
+_________
+
 - *atanvata* ← *tan*
 - \[verb\], plural, Imperfect
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasanto* ← *vasantaḥ* ← *vasanta*
 - \[noun\], nominative, singular, masculine
 - “spring; vasanta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *asyāsīd* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *asyāsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājyaṃ* ← *ājyam* ← *ājya*
 - \[noun\], nominative, singular, neuter
 - “ghee; clarified butter; ājya.”
-------------------------------------------------------------------------
+
+_________
+
 - *grīṣma* ← *grīṣmaḥ* ← *grīṣma*
 - \[noun\], nominative, singular, masculine
 - “summer; grīṣma \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *idhmaḥ* ← *idhma*
 - \[noun\], nominative, singular, masculine
 - “fuel.”
-------------------------------------------------------------------------
+
+_________
+
 - *śaraddhaviḥ* ← *śarad*
 - \[noun\], nominative, singular, feminine
 - “fall; year; śarad \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śaraddhaviḥ* ← *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

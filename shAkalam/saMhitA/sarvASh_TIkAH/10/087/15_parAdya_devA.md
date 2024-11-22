@@ -102,77 +102,113 @@ yātudhā́naḥ ← yātudhā́na- (nominal stem)
 -   *parādya* ← *parā*
 - \[adverb\]
 - “away.”
-------------------------------------------------------------------------
+
+_________
+
 - *parādya* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjinaṃ* ← *vṛjinam* ← *vṛjina*
 - \[noun\], accusative, singular, masculine
 - “deceitful; crooked; bent.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṇantu* ← *śṛ*
 - \[verb\], plural, Present imperative
 - “fall off; break; disintegrate; crush; break; fracture.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratyag* ← *pratyak* ← *pratyañc*
 - \[noun\], accusative, singular, neuter
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
-------------------------------------------------------------------------
+
+_________
+
 - *enaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
-------------------------------------------------------------------------
+
+_________
+
 - *śapathā* ← *śapathāḥ* ← *śapatha*
 - \[noun\], nominative, plural, masculine
 - “imprecation; oath; ordeal; hex.”
-------------------------------------------------------------------------
+
+_________
+
 - *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛṣṭāḥ* ← *tṛṣṭa*
 - \[noun\], nominative, plural, masculine
 - “harsh; harsh.”
-------------------------------------------------------------------------
+
+_________
+
 - *vācāstenaṃ* ← *vācāstenam* ← *vācāstena*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śarava* ← *śaravaḥ* ← *śaru*
 - \[noun\], nominative, plural, masculine
 - “arrow.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛcchantu* ← *ṛch*
 - \[verb\], plural, Present imperative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
-------------------------------------------------------------------------
+
+_________
+
 - *marman*
 - \[noun\], locative, singular, neuter
 - “marman; secret; secret; mystery; vulnerability.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasyaitu* ← *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
+
+_________
+
 - *viśvasyaitu* ← *aitu* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *prasitiṃ* ← *prasitim* ← *prasiti*
 - \[noun\], accusative, singular, feminine
 - “binding.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātudhānaḥ* ← *yātudhāna*
 - \[noun\], nominative, singular, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

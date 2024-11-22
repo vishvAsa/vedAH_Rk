@@ -71,35 +71,51 @@ sómāya ← sóma- (nominal stem)
 - \[noun\], dative, singular, masculine
 - “Vishnu; babhru \[word\]; Babhru; Babhru; water clover; Shiva;
     ichneumon.”
-------------------------------------------------------------------------
+
+_________
+
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
+
+_________
+
 - *svatavase* ← *svatavas*
 - \[noun\], dative, singular, masculine
 - “svatavas \[word\]; powerful.”
-------------------------------------------------------------------------
+
+_________
+
 - *'ruṇāya* ← *aruṇāya* ← *aruṇa*
 - \[noun\], dative, singular, masculine
 - “red; tawny; dusty; gray.”
-------------------------------------------------------------------------
+
+_________
+
 - *divispṛśe* ← *divispṛś*
 - \[noun\], dative, singular, masculine
 - “heavenward.”
-------------------------------------------------------------------------
+
+_________
+
 - *somāya* ← *soma*
 - \[noun\], dative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *gātham* ← *gātha*
 - \[noun\], accusative, singular, masculine
 - “song.”
-------------------------------------------------------------------------
+
+_________
+
 - *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

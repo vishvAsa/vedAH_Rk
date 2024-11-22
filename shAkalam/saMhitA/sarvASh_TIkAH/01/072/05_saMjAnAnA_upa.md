@@ -93,38 +93,56 @@ sákhyuḥ ← sákhi- (nominal stem)
 -   *saṃjānānā* ← *saṃjānānāḥ* ← *saṃjñā* ← *√jñā*
 - \[verb noun\], nominative, plural
 - “agree.”
-------------------------------------------------------------------------
+
+_________
+
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *sīdann* ← *sīdan* ← *sad*
 - \[verb\], plural, Present injunctive
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhijñu*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *patnīvanto* ← *patnīvantaḥ* ← *patnīvat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *namasyaṃ* ← *namasyam* ← *namasya*
 - \[noun\], accusative, singular, neuter
 - “honorable; august; respectful; esteemed.”
-------------------------------------------------------------------------
+
+_________
+
 - *namasyan* ← *namasy*
 - \[verb\], plural, Imperfect
 - “worship; respect.”
-------------------------------------------------------------------------
+
+_________
+
 - *ririkvāṃsas* ← *ririkvāṃsaḥ* ← *ric*
 - \[verb noun\], nominative, plural
 - “empty; liberate; concede; surrender; purge.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanvaḥ* ← *tanū*
 - \[noun\], accusative, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛṇvata* ← *kṛ*
 - \[verb\], plural, Present injunctive
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -135,28 +153,40 @@ sákhyuḥ ← sákhi- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāḥ* ← *sva*
 - \[noun\], accusative, plural, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *sakhyur* ← *sakhyuḥ* ← *sakhi*
 - \[noun\], genitive, singular, masculine
 - “friend; companion; sakhi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nimiṣi* ← *nimiṣ*
 - \[noun\], locative, singular, feminine
 - “blink of an eye.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣamāṇāḥ* ← *rakṣ*
 - \[verb noun\], nominative, plural
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -87,64 +87,92 @@ manuṣyèbhiḥ ← manuṣyà- (nominal stem)
 -   *araṇyor* ← *araṇyoḥ* ← *araṇi*
 - \[noun\], locative, dual, feminine
 - “Araṇi.”
-------------------------------------------------------------------------
+
+_________
+
 - *nihito* ← *nihitaḥ* ← *nidhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 - “put; fill into; stow; insert; ignite; insert; add; put on;
     establish; keep down.”
-------------------------------------------------------------------------
+
+_________
+
 - *jātavedā* ← *jātavedāḥ* ← *jātavedas*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *garbha* ← *garbhaḥ* ← *garbha*
 - \[noun\], nominative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhito* ← *sudhitaḥ* ← *sudhita*
 - \[noun\], nominative, singular, masculine
 - “sudhita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *garbhiṇīṣu* ← *garbhiṇī*
 - \[noun\], locative, plural, feminine
 - “gravida.”
-------------------------------------------------------------------------
+
+_________
+
 - *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *diva* ← *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍyo* ← *īḍyaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *jāgṛvadbhir* ← *jāgṛvadbhiḥ* ← *jāgṛ*
 - \[verb noun\], instrumental, plural
 - “wake; watch; awaken; wake up; oversee.”
-------------------------------------------------------------------------
+
+_________
+
 - *haviṣmadbhir* ← *haviṣmadbhiḥ* ← *haviṣmat*
 - \[noun\], instrumental, plural, masculine
 - “sacrificing.”
-------------------------------------------------------------------------
+
+_________
+
 - *manuṣyebhir* ← *manuṣyebhiḥ* ← *manuṣya*
 - \[noun\], instrumental, plural, masculine
 - “man; people; man; manuṣya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

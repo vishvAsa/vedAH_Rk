@@ -97,62 +97,92 @@ vavr̥ktam ← √vr̥j- 1 (root)
 - \[noun\], instrumental, plural, neuter
 - “another(a); other; interior; different; near; intermediate;
     following.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakrais* ← *cakraiḥ* ← *cakra*
 - \[noun\], instrumental, plural, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
-------------------------------------------------------------------------
+
+_________
+
 - *tanayāya* ← *tanaya*
 - \[noun\], dative, singular, neuter
 - “child; descendants.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartir* ← *vartiḥ* ← *vartis*
 - \[noun\], accusative, singular, neuter
 - “tour.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyumatā* ← *dyumat*
 - \[noun\], instrumental, singular, masculine
 - “bright; brilliant; brilliant; loud.”
-------------------------------------------------------------------------
+
+_________
+
 - *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *nṛvatā* ← *nṛvat*
 - \[noun\], instrumental, singular, masculine
 - “rich in men.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
-------------------------------------------------------------------------
+
+_________
+
 - *sanutyena* ← *sanutya*
 - \[noun\], instrumental, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *tyajasā* ← *tyajas*
 - \[noun\], instrumental, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *martyasya* ← *martya*
 - \[noun\], genitive, singular, masculine
 - “mortal.”
-------------------------------------------------------------------------
+
+_________
+
 - *vanuṣyatām* ← *vanuṣy*
 - \[verb noun\], genitive, plural
-------------------------------------------------------------------------
+
+_________
+
 - *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
-------------------------------------------------------------------------
+
+_________
+
 - *śīrṣā* ← *śīrṣa*
 - \[noun\], accusative, plural, neuter
 - “head; battlefront; ear; front; śīrṣa \[word\]; tip; skull.”
-------------------------------------------------------------------------
+
+_________
+
 - *vavṛktam* ← *vṛj*
 - \[verb\], dual, Perfect imperative
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

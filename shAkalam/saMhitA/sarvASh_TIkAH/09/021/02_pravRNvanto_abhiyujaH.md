@@ -67,33 +67,49 @@ vayaskŕ̥taḥ ← vayaskŕ̥t- (nominal stem)
 -   *pravṛṇvanto* ← *pravṛṇvantaḥ* ← *pravṛ* ← *√vṛ*
 - \[verb noun\], nominative, plural
 - “cover; envelop; ward off.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiyujaḥ* ← *abhiyuj*
 - \[noun\], accusative, plural, feminine
 - “attack; attack.”
-------------------------------------------------------------------------
+
+_________
+
 - *suṣvaye* ← *suṣvi*
 - \[noun\], dative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *varivovidaḥ* ← *varivaḥ* ← *varivas*
 - \[noun\], neuter
 - “room; varivas \[word\]; space; escape.”
-------------------------------------------------------------------------
+
+_________
+
 - *varivovidaḥ* ← *vidaḥ* ← *vid*
 - \[noun\], nominative, plural, masculine
 - “finding.”
-------------------------------------------------------------------------
+
+_________
+
 - *svayaṃ* ← *svayam*
 - \[adverb\]
 - “personally; spontaneously; svayam \[word\]; voluntarily.”
-------------------------------------------------------------------------
+
+_________
+
 - *stotre* ← *stotra*
 - \[noun\], locative, singular, neuter
 - “hymn; praise.”
-------------------------------------------------------------------------
+
+_________
+
 - *vayaskṛtaḥ* ← *vayaskṛt*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

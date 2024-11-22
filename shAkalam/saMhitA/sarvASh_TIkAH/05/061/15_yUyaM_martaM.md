@@ -70,40 +70,58 @@ yā́mahūtiṣu ← yā́mahūti- (nominal stem)
 -   *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *martaṃ* ← *martam* ← *marta*
 - \[noun\], accusative, singular, masculine
 - “man.”
-------------------------------------------------------------------------
+
+_________
+
 - *vipanyavaḥ* ← *vipanyu*
 - \[noun\], nominative, plural, masculine
 - “admiring; laudatory.”
-------------------------------------------------------------------------
+
+_________
+
 - *praṇetāra* ← *praṇetāraḥ* ← *praṇī* ← *√nī*
 - \[verb\], plural, periphrast. future
 - “enforce; lead; produce.”
-------------------------------------------------------------------------
+
+_________
+
 - *itthā*
 - \[adverb\]
 - “thus; here.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
-------------------------------------------------------------------------
+
+_________
+
 - *śrotāro* ← *śrotāraḥ* ← *śru*
 - \[verb\], plural, periphrast. future
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmahūtiṣu* ← *yāma* ← *yāman*
 - \[noun\], neuter
 - “expedition; path; expedition; arrival.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāmahūtiṣu* ← *hūtiṣu* ← *hūti*
 - \[noun\], locative, plural, feminine
 - “invocation.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

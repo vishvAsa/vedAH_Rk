@@ -96,72 +96,104 @@ sántaḥ ← √as- 1 (root)
 -   *nīcā* ← *nīcāḥ* ← *nīca*
 - \[noun\], nominative, plural, masculine
 - “short; mean; less; humble; base; low; despicable.”
-------------------------------------------------------------------------
+
+_________
+
 - *vartanta* ← *vartante* ← *vṛt*
 - \[verb\], plural, Present indikative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
-------------------------------------------------------------------------
+
+_________
+
 - *upari*
 - \[adverb\]
 - “above; up; additionally; upari \[word\]; subsequently.”
-------------------------------------------------------------------------
+
+_________
+
 - *sphuranty* ← *sphuranti* ← *sphur*
 - \[verb\], plural, Present indikative
 - “glitter; bounce; quiver; pulsate.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahastāso* ← *ahastāsaḥ* ← *ahasta*
 - \[noun\], nominative, plural, masculine
 - “handless.”
-------------------------------------------------------------------------
+
+_________
+
 - *hastavantaṃ* ← *hastavantam* ← *hastavat*
 - \[noun\], accusative, singular, masculine
 - “handed.”
-------------------------------------------------------------------------
+
+_________
+
 - *sahante* ← *sah*
 - \[verb\], plural, Present indikative
 - “endure; overcome; habituate.”
-------------------------------------------------------------------------
+
+_________
+
 - *divyā* ← *divyāḥ* ← *divya*
 - \[noun\], nominative, plural, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅgārā* ← *aṅgārāḥ* ← *aṅgāra*
 - \[noun\], nominative, plural, masculine
 - “charcoal.”
-------------------------------------------------------------------------
+
+_________
+
 - *iriṇe* ← *iriṇa*
 - \[noun\], locative, singular, neuter
 - “hole; rivulet.”
-------------------------------------------------------------------------
+
+_________
+
 - *nyuptāḥ* ← *nivap* ← *√vap*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *śītāḥ* ← *śīta*
 - \[noun\], nominative, plural, masculine
 - “cold; śīta; cooled; cool; śīta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *santo* ← *santaḥ* ← *as*
 - \[verb noun\], nominative, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
+
+_________
+
 - *hṛdayaṃ* ← *hṛdayam* ← *hṛdaya*
 - \[noun\], accusative, singular, neuter
 - “heart; heart; mind; hṛdaya \[word\]; science; thorax;
     Aṣṭāṅgahṛdayasaṃhitā; soul.”
-------------------------------------------------------------------------
+
+_________
+
 - *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
-------------------------------------------------------------------------
+
+_________
+
 - *dahanti* ← *dah*
 - \[verb\], plural, Present indikative
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

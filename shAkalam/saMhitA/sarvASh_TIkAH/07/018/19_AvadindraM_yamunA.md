@@ -105,84 +105,122 @@ jabhruḥ ← √bhr̥- (root)
 -   *āvad* ← *āvat* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
+
+_________
+
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamunā*
 - \[noun\], nominative, singular, feminine
 - “Yamunā.”
-------------------------------------------------------------------------
+
+_________
+
 - *tṛtsavaś* ← *tṛtsavaḥ* ← *tṛtsu*
 - \[noun\], nominative, plural, masculine
 - “Tṛtsu.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *prātra* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
+
+_________
+
 - *prātra* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhedaṃ* ← *bhedam* ← *bheda*
 - \[noun\], accusative, singular, masculine
 - “type; kind; differentiation; distinction; rupture; distinction;
     discord; bheda; breakage; dualism; Bheda; diarrhea; betrayal;
     change; change; difference; pain; opening.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarvatātā* ← *sarvatāti*
 - \[noun\], locative, singular, feminine
 - “completeness; prosperity; sum.”
-------------------------------------------------------------------------
+
+_________
+
 - *muṣāyat* ← *muṣāy* ← *√muṣ*
 - \[verb\], singular, Present injunctive
 - “steal; rob.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajāsaś* ← *ajāsaḥ* ← *aja*
 - \[noun\], nominative, plural, masculine
 - “goat; Vishnu; Brahma; Shiva; Aja; aja \[word\]; Aja; aj; Ocimum
     gratissimum; Puruṣa.”
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *śigravo* ← *śigravaḥ* ← *śigru*
 - \[noun\], nominative, plural, masculine
 - “horseradish tree.”
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣavaś* ← *yakṣavaḥ* ← *yakṣu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *baliṃ* ← *balim* ← *bali*
 - \[noun\], accusative, singular, masculine
 - “sulfur; bali; Bali; tribute; tax; bali \[word\]; Bali.”
-------------------------------------------------------------------------
+
+_________
+
 - *śīrṣāṇi* ← *śīrṣa*
 - \[noun\], accusative, plural, neuter
 - “head; battlefront; ear; front; śīrṣa \[word\]; tip; skull.”
-------------------------------------------------------------------------
+
+_________
+
 - *jabhrur* ← *jabhruḥ* ← *bhṛ*
 - \[verb\], plural, Perfect indicative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvyāni* ← *aśvya*
 - \[noun\], accusative, plural, neuter
 - “equine.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

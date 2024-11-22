@@ -96,66 +96,98 @@ yajñíyān ← yajñíya- (nominal stem)
 -   *arādhi* ← *rādh*
 - \[verb\], singular, Aorist passive
 - “thrive; boom; succeed.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *niṣadā* ← *niṣad*
 - \[noun\], instrumental, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yajīyān* ← *yajīyas*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
+
+_________
+
 - *prayāṃsi* ← *prayas*
 - \[noun\], accusative, plural, neuter
 - “food; dainty; enjoyment.”
-------------------------------------------------------------------------
+
+_________
+
 - *sudhitāni* ← *sudhita*
 - \[noun\], accusative, plural, neuter
 - “sudhita \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *khyat* ← *khyā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “name; describe; call; enumerate; watch; know.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajāmahai* ← *yaj*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajñiyān* ← *yajñiya*
 - \[noun\], accusative, plural, masculine
 - “sacrificial; divine; devoted.”
-------------------------------------------------------------------------
+
+_________
+
 - *hanta*
 - \[adverb\]
 - “very well; hanta \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍāmahā* ← *īḍāmahai* ← *īḍ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *īḍyāṃ* ← *īḍ*
 - \[verb noun\], accusative, plural
 - “praise; invite; raise.”
-------------------------------------------------------------------------
+
+_________
+
 - *ājyena* ← *ājya*
 - \[noun\], instrumental, singular, neuter
 - “ghee; clarified butter; ājya.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -99,79 +99,115 @@ uṣā́ḥ ← uṣás- (nominal stem)
 -   *ayuddhaseno* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayuddhaseno* ← *yuddha* ← *yudh*
 - \[verb noun\]
 - “fight; overcome.”
-------------------------------------------------------------------------
+
+_________
+
 - *ayuddhaseno* ← *senaḥ* ← *senā*
 - \[noun\], nominative, singular, masculine
 - “army; senā \[word\]; armament.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhvā* ← *vibhu*
 - \[noun\], instrumental, singular, masculine
 - “mighty; abundant; big.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhindatā* ← *vibhid* ← *√bhid*
 - \[verb noun\], instrumental, singular
 - “cleave; incise.”
-------------------------------------------------------------------------
+
+_________
+
 - *dāśad* ← *dāśat* ← *dāś*
 - \[verb\], singular, Present injunctive
 - “sacrifice; give.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
-------------------------------------------------------------------------
+
+_________
+
 - *tujyāni* ← *tujya*
 - \[noun\], accusative, plural, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *tejate* ← *tij*
 - \[verb\], singular, Present indikative
 - “sharpen.”
-------------------------------------------------------------------------
+
+_________
+
 - *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajrād* ← *vajrāt* ← *vajra*
 - \[noun\], ablative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *abibhed* ← *abibhet* ← *bhī*
 - \[verb\], singular, Imperfect
 - “fear; fear.”
-------------------------------------------------------------------------
+
+_________
+
 - *abhiśnathaḥ* ← *abhiśnath*
 - \[noun\], ablative, singular, masculine
 - “piercing.”
-------------------------------------------------------------------------
+
+_________
+
 - *prākrāmacchundhyūr* ← *prākrāmat* ← *prakram* ← *√kram*
 - \[verb\], singular, Imperfect
 - “go; begin; walk; travel.”
-------------------------------------------------------------------------
+
+_________
+
 - *prākrāmacchundhyūr* ← *śundhyūḥ* ← *śundhyu*
 - \[noun\], nominative, singular, feminine
 - “fine-looking; beautiful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajahād* ← *ajahāt* ← *hā*
 - \[verb\], singular, Imperfect
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
-------------------------------------------------------------------------
+
+_________
+
 - *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
-------------------------------------------------------------------------
+
+_________
+
 - *anaḥ* ← *anas*
 - \[noun\], accusative, singular, neuter
 - “cart; anas \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

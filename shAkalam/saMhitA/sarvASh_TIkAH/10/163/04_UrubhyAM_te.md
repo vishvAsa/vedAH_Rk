@@ -84,50 +84,74 @@ vr̥hāmi ← √vr̥h- (root)
 -   *ūrubhyāṃ* ← *ūrubhyām* ← *ūru*
 - \[noun\], ablative, dual, masculine
 - “thigh; ūru \[word\]; ūru; shank.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṣṭhīvadbhyām* ← *aṣṭhīvant*
 - \[noun\], ablative, dual, masculine
 - “knee; aṣṭhīvant \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *pārṣṇibhyām* ← *pārṣṇi*
 - \[noun\], ablative, dual, masculine
 - “heel; rear.”
-------------------------------------------------------------------------
+
+_________
+
 - *prapadābhyām* ← *prapada*
 - \[noun\], ablative, dual, neuter
 - “tiptoe.”
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣmaṃ* ← *yakṣmam* ← *yakṣma*
 - \[noun\], accusative, singular, masculine
 - “tuberculosis; disease; pulmonary tuberculosis.”
-------------------------------------------------------------------------
+
+_________
+
 - *śroṇibhyām* ← *śroṇi*
 - \[noun\], ablative, dual, masculine
 - “hip; pelvis; buttocks.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhāsadād* ← *bhāsadāt* ← *bhāsada*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *bhaṃsaso* ← *bhaṃsasaḥ* ← *bhaṃsas*
 - \[noun\], ablative, singular, neuter
 - “loins.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛhāmi* ← *vṛh*
 - \[verb\], singular, Present indikative
 - “extract.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

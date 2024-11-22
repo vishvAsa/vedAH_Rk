@@ -72,40 +72,58 @@ dīdhet ← √dhī- (root)
 
 -   *ghṛṣuḥ* ← *ghṛṣu*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *śyenāya* ← *śyena*
 - \[noun\], dative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
-------------------------------------------------------------------------
+
+_________
+
 - *kṛtvana* ← *kṛtvane* ← *kṛtvan*
 - \[noun\], dative, singular, masculine
 - “busy.”
-------------------------------------------------------------------------
+
+_________
+
 - *āsu* ← *idam*
 - \[noun\], locative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *svāsu* ← *sva*
 - \[noun\], locative, plural, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
-------------------------------------------------------------------------
+
+_________
+
 - *vaṃsagaḥ* ← *vaṃsaga*
 - \[noun\], nominative, singular, masculine
 - “bull.”
-------------------------------------------------------------------------
+
+_________
+
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
+
+_________
+
 - *dīdhed* ← *dīdhet* ← *dhī*
 - \[verb\], singular, Imperfect
 - “think; desire; chew over.”
-------------------------------------------------------------------------
+
+_________
+
 - *ahīśuvaḥ* ← *ahīśuva*
 - \[noun\], nominative, singular, masculine
 - “Ahīśuva.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

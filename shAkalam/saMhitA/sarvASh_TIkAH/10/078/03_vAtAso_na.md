@@ -100,77 +100,113 @@ surātáyaḥ ← surātí- (nominal stem)
 - \[noun\], nominative, plural, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *dhunayo* ← *dhunayaḥ* ← *dhuni*
 - \[noun\], nominative, plural, masculine
 - “deafening; boisterous; noisy.”
-------------------------------------------------------------------------
+
+_________
+
 - *jigatnavo* ← *jigatnavaḥ* ← *jigatnu*
 - \[noun\], nominative, plural, masculine
 - “moving.”
-------------------------------------------------------------------------
+
+_________
+
 - *'gnīnāṃ* ← *agnīnām* ← *agni*
 - \[noun\], genitive, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jihvā* ← *jihvāḥ* ← *jihvā*
 - \[noun\], nominative, plural, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
-------------------------------------------------------------------------
+
+_________
+
 - *virokiṇaḥ* ← *virokin*
 - \[noun\], nominative, plural, masculine
 - “shining.”
-------------------------------------------------------------------------
+
+_________
+
 - *varmaṇvanto* ← *varmaṇvantaḥ* ← *varmaṇvat*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *yodhāḥ* ← *yodha*
 - \[noun\], nominative, plural, masculine
 - “soldier.”
-------------------------------------------------------------------------
+
+_________
+
 - *śimīvantaḥ* ← *śimīvat*
 - \[noun\], nominative, plural, masculine
 - “mighty.”
-------------------------------------------------------------------------
+
+_________
+
 - *pitṝṇāṃ* ← *pitṝṇām* ← *pitṛ*
 - \[noun\], genitive, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *śaṃsāḥ* ← *śaṃsa*
 - \[noun\], nominative, plural, masculine
 - “praise; śaṃs; recitation.”
-------------------------------------------------------------------------
+
+_________
+
 - *surātayaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *surātayaḥ* ← *rātayaḥ* ← *rāti*
 - \[noun\], nominative, plural, masculine
 - “gift; bounty; favor.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

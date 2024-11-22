@@ -84,48 +84,72 @@ syū́maraśmau ← syū́maraśmi- (nominal stem)
 -   *pṛṣadhre* ← *pṛṣadhra*
 - \[noun\], locative, singular, masculine
 - “Pṛṣadhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *medhye* ← *medhya*
 - \[noun\], locative, singular, masculine
 - “barley; goat.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātariśvanīndra* ← *mātariśvani* ← *mātariśvan*
 - \[noun\], locative, singular, masculine
 - “wind; Mātariśvan; Vayu; vāta.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātariśvanīndra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *suvāne* ← *su*
 - \[verb noun\], locative, singular
 - “press out; su.”
-------------------------------------------------------------------------
+
+_________
+
 - *amandathāḥ* ← *mand*
 - \[verb\], singular, Imperfect
 - “rejoice; exhilarate.”
-------------------------------------------------------------------------
+
+_________
+
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
-------------------------------------------------------------------------
+
+_________
+
 - *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśaśipre* ← *daśaśipra*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *daśoṇye* ← *daśoṇya*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *syūmaraśmāv* ← *syūmaraśmau* ← *syūmaraśmi*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *ṛjūnasi* ← *ṛjūnas*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

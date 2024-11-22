@@ -72,34 +72,50 @@ sámiddhaḥ ← √idh- 1 (root)
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtrāṇi* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaṅghanad* ← *jaṅghanat* ← *jaṅghan* ← *√han*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “murder; kill.”
-------------------------------------------------------------------------
+
+_________
+
 - *draviṇasyur* ← *draviṇasyuḥ* ← *draviṇasyu*
 - \[noun\], nominative, singular, masculine
 - “draviṇasyu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vipanyayā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *samiddhaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle; blaze.”
-------------------------------------------------------------------------
+
+_________
+
 - *śukra* ← *śukraḥ* ← *śukra*
 - \[noun\], nominative, singular, masculine
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *āhutaḥ* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; sprinkle.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -102,85 +102,127 @@ vr̥jyāḥ ← √vr̥j- 1 (root)
 -   *prajāvatīḥ* ← *prajāvat*
 - \[noun\], accusative, plural, feminine
 - “prolific.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūyavasaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūyavasaṃ* ← *yavasam* ← *yavasa*
 - \[noun\], accusative, singular, neuter
 - “eatage; pasture; fodder.”
-------------------------------------------------------------------------
+
+_________
+
 - *riśantīḥ* ← *riś*
 - \[verb noun\], accusative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *śuddhā* ← *śuddhāḥ* ← *śudh*
 - \[verb noun\], accusative, plural
 - “become pure; purify; wash; expiate; clean; cleanse.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
+
+_________
+
 - *suprapāṇe* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suprapāṇe* ← *prapāṇe* ← *prapāṇa*
 - \[noun\], locative, singular, neuter
 - “drink; drinking.”
-------------------------------------------------------------------------
+
+_________
+
 - *pibantīḥ* ← *pā*
 - \[verb noun\], accusative, plural
 - “drink; gulp; soak; drink; suck; inhale.”
-------------------------------------------------------------------------
+
+_________
+
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *va* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *stena* ← *stenaḥ* ← *stena*
 - \[noun\], nominative, singular, masculine
 - “thief; stena \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *īśata* ← *īś*
 - \[verb\], singular, Present injunctive
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
+
+_________
+
 - *māghaśaṃsaḥ* ← *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
+
+_________
+
 - *māghaśaṃsaḥ* ← *agha*
 - \[noun\]
 - “bad; dangerous; ill; iniquitous; bad.”
-------------------------------------------------------------------------
+
+_________
+
 - *māghaśaṃsaḥ* ← *śaṃsaḥ* ← *śaṃsa*
 - \[noun\], nominative, singular, masculine
 - “speaking.”
-------------------------------------------------------------------------
+
+_________
+
 - *pari*
 - \[adverb\]
 - “from; about; around.”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *hetī* ← *hetiḥ* ← *heti*
 - \[noun\], nominative, singular, feminine
 - “projectile; heti \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *rudrasya* ← *rudra*
 - \[noun\], genitive, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjyāḥ* ← *vṛj*
 - \[verb\], singular, Prekativ
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

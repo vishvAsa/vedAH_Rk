@@ -101,27 +101,39 @@ yúvānā ← yúvan- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *navyaso* ← *navyasaḥ* ← *navyas*
 - \[noun\], genitive, singular, masculine
 - “new.”
-------------------------------------------------------------------------
+
+_________
+
 - *jaramāṇasya* ← *jṛ*
 - \[verb noun\], genitive, singular
 - “sing.”
-------------------------------------------------------------------------
+
+_________
+
 - *manmopa* ← *manmā* ← *manman*
 - \[noun\], accusative, plural, neuter
 - “hymn; idea; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *manmopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhūṣato* ← *bhūṣataḥ* ← *bhūṣ*
 - \[verb\], dual, Present indikative
 - “endeavor; attend; strive.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyujānasaptī* ← *yuyujāna* ← *yuj*
 - \[verb noun\]
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
@@ -129,51 +141,75 @@ yúvānā ← yúvan- (nominal stem)
     prosecute; combine; supply; compound; attach to; appoint; fill;
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuyujānasaptī* ← *saptī* ← *sapti*
 - \[noun\], nominative, dual, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *śubham* ← *śubh*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *pṛkṣam* ← *pṛkṣ*
 - \[noun\], accusative, singular, feminine
 - “food; refreshment; power.”
-------------------------------------------------------------------------
+
+_________
+
 - *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
-------------------------------------------------------------------------
+
+_________
+
 - *ūrjaṃ* ← *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
-------------------------------------------------------------------------
+
+_________
+
 - *vahantā* ← *vah*
 - \[verb noun\], accusative, dual
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
-------------------------------------------------------------------------
+
+_________
+
 - *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yakṣat* ← *yaj*
 - \[verb\], singular, Aorist conj./subj.
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratno* ← *pratnaḥ* ← *pratna*
 - \[noun\], nominative, singular, masculine
 - “age-old; pratna \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *adhrug* ← *adhruk* ← *adruh*
 - \[noun\], nominative, singular, masculine
 - “friendly; benign.”
-------------------------------------------------------------------------
+
+_________
+
 - *yuvānā* ← *yuvan*
 - \[noun\], accusative, dual, masculine
 - “young; youthful.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

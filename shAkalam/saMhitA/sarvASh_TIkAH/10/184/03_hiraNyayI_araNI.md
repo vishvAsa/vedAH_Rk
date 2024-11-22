@@ -84,55 +84,79 @@ sū́tave ← √sū- 2 (root)
 -   *hiraṇyayī* ← *hiraṇyaya*
 - \[noun\], accusative, dual, feminine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *araṇī*
 - \[noun\], accusative, dual, feminine
 - “Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *nirmanthato* ← *nirmanthataḥ* ← *nirmath* ← *√math*
 - \[verb\], dual, Present indikative
 - “churn; crush; grind.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
-------------------------------------------------------------------------
+
+_________
+
 - *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *garbhaṃ* ← *garbham* ← *garbha*
 - \[noun\], accusative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
-------------------------------------------------------------------------
+
+_________
+
 - *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśame* ← *daśama*
 - \[noun\], locative, singular, masculine
 - “tenth.”
-------------------------------------------------------------------------
+
+_________
+
 - *māsi* ← *mās*
 - \[noun\], locative, singular, masculine
 - “month; lunar month.”
-------------------------------------------------------------------------
+
+_________
+
 - *sūtave* ← *sū*
 - \[verb noun\]
 - “give birth; urge; bestow; cause.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -96,68 +96,100 @@ járbhurāṇā ← √bhur- (root)
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śarīram* ← *śarīra*
 - \[noun\], nominative, singular, neuter
 - “body; human body; body part; body; body; strength.”
-------------------------------------------------------------------------
+
+_________
+
 - *patayiṣṇv* ← *patayiṣṇu*
 - \[noun\], nominative, singular, neuter
 - “flying.”
-------------------------------------------------------------------------
+
+_________
+
 - *arvan* ← *arvant*
 - \[noun\], vocative, singular, masculine
 - “horse.”
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *cittaṃ* ← *cittam* ← *citta*
 - \[noun\], nominative, singular, neuter
 - “mind; attention; idea; thinking; fondness; purpose.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāta* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhrajīmān* ← *dhrajīmat*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *śṛṅgāṇi* ← *śṛṅga*
 - \[noun\], nominative, plural, neuter
 - “peak; horn; tusk; śṛṅga \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣṭhitā* ← *viṣṭhā* ← *√sthā*
 - \[verb noun\], nominative, plural
 - “stand; stay; resist.”
-------------------------------------------------------------------------
+
+_________
+
 - *purutrāraṇyeṣu* ← *purutrā*
 - \[adverb\]
 - “distributively.”
-------------------------------------------------------------------------
+
+_________
+
 - *purutrāraṇyeṣu* ← *araṇyeṣu* ← *araṇya*
 - \[noun\], locative, plural, neuter
 - “forest; araṇya \[word\]; wilderness.”
-------------------------------------------------------------------------
+
+_________
+
 - *jarbhurāṇā* ← *jarbhur* ← *√bhur*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

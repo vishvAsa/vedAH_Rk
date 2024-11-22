@@ -83,55 +83,79 @@ vr̥ścika ← vŕ̥ścika- (nominal stem)
 
 -   *kuṣumbhakas* ← *kuṣumbhakaḥ* ← *kuṣumbhaka*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *abravīd* ← *abravīt* ← *brū*
 - \[verb\], singular, Imperfect
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *gireḥ* ← *giri*
 - \[noun\], ablative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
-------------------------------------------------------------------------
+
+_________
+
 - *pravartamānakaḥ* ← *pravartamānaka*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *vṛścikasyārasaṃ* ← *vṛścikasya* ← *vṛścika*
 - \[noun\], genitive, singular, masculine
 - “scorpion; punarnavā; Vṛścika; Scorpio.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛścikasyārasaṃ* ← *arasam* ← *arasa*
 - \[noun\], nominative, singular, neuter
 - “ineffective; weak; sapless.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣam* ← *viṣa*
 - \[noun\], nominative, singular, neuter
 - “poison; poisoning; viṣa; venom; vatsanābha; Aconitum Ferox; viṣa
     \[word\]; Viṣa; myrrh; myrrh.”
-------------------------------------------------------------------------
+
+_________
+
 - *arasaṃ* ← *arasam* ← *arasa*
 - \[noun\], nominative, singular, neuter
 - “ineffective; weak; sapless.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛścika*
 - \[noun\], vocative, singular, masculine
 - “scorpion; punarnavā; Vṛścika; Scorpio.”
-------------------------------------------------------------------------
+
+_________
+
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *viṣam* ← *viṣa*
 - \[noun\], nominative, singular, neuter
 - “poison; poisoning; viṣa; venom; vatsanābha; Aconitum Ferox; viṣa
     \[word\]; Viṣa; myrrh; myrrh.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

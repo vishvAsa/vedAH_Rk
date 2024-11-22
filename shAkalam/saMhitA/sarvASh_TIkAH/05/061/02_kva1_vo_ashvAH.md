@@ -85,57 +85,83 @@ yámaḥ ← yáma- (nominal stem)
 -   *kva*
 - \[adverb\]
 - “wherein; how; kva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *'śvāḥ* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *kvābhīśavaḥ* ← *kva*
 - \[adverb\]
 - “wherein; how; kva \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *kvābhīśavaḥ* ← *abhīśavaḥ* ← *abhīśu*
 - \[noun\], nominative, plural, masculine
 - “beam; rein.”
-------------------------------------------------------------------------
+
+_________
+
 - *kathaṃ* ← *katham*
 - \[adverb\]
 - “how.”
-------------------------------------------------------------------------
+
+_________
+
 - *śeka* ← *śak*
 - \[verb\], plural, Perfect indicative
 - “can; invigorate.”
-------------------------------------------------------------------------
+
+_________
+
 - *kathā*
 - \[adverb\]
 - “how.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaya* ← *yā*
 - \[verb\], plural, Perfect indicative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛṣṭhe* ← *pṛṣṭha*
 - \[noun\], locative, singular, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
-------------------------------------------------------------------------
+
+_________
+
 - *sado* ← *sadaḥ* ← *sadas*
 - \[noun\], nominative, singular, neuter
 - “mansion; assembly; seat; seat.”
-------------------------------------------------------------------------
+
+_________
+
 - *nasor* ← *nasoḥ* ← *nas*
 - \[noun\], genitive, dual, feminine
 - “snout; nas.”
-------------------------------------------------------------------------
+
+_________
+
 - *yamaḥ* ← *yama*
 - \[noun\], nominative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

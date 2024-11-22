@@ -53,19 +53,27 @@ yájamānaḥ ← √yaj- (root)
 -   *asiknyāṃ* ← *asiknyām* ← *asiknī*
 - \[noun\], locative, singular, feminine
 - “Asiknī; Vairiṇī; night.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajamāno* ← *yajamānaḥ* ← *yaj*
 - \[verb noun\], nominative, singular
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

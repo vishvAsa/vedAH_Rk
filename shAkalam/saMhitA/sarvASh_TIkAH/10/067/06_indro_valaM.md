@@ -100,76 +100,112 @@ paṇím ← paṇí- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *valaṃ* ← *valam* ← *vala*
 - \[noun\], accusative, singular, masculine
 - “Vala; vala; cave.”
-------------------------------------------------------------------------
+
+_________
+
 - *rakṣitāraṃ* ← *rakṣitāram* ← *rakṣitṛ*
 - \[noun\], accusative, singular, masculine
 - “protecting.”
-------------------------------------------------------------------------
+
+_________
+
 - *dughānāṃ* ← *dughānām* ← *dughā*
 - \[noun\], genitive, plural, feminine
 - “cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *kareṇeva* ← *kareṇa* ← *kara*
 - \[noun\], instrumental, singular, masculine
 - “hand; proboscis; two; hand; Kara; act.”
-------------------------------------------------------------------------
+
+_________
+
 - *kareṇeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
+
+_________
+
 - *cakartā* ← *kṛt*
 - \[verb\], singular, Perfect indicative
 - “cut; cut; cut off; fell; cut.”
-------------------------------------------------------------------------
+
+_________
+
 - *raveṇa* ← *rava*
 - \[noun\], instrumental, singular, masculine
 - “sound; howl; thunder; cry; talk; cry.”
-------------------------------------------------------------------------
+
+_________
+
 - *svedāñjibhir* ← *sveda*
 - \[noun\], masculine
 - “svedana; perspiration; svedana; perspiring; fomentation; sweat.”
-------------------------------------------------------------------------
+
+_________
+
 - *svedāñjibhir* ← *añjibhiḥ* ← *añji*
 - \[noun\], instrumental, plural, masculine
 - “color; ointment; adornment.”
-------------------------------------------------------------------------
+
+_________
+
 - *āśiram* ← *āśir*
 - \[noun\], accusative, singular, feminine
 - “mixture.”
-------------------------------------------------------------------------
+
+_________
+
 - *icchamāno* ← *icchamānaḥ* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
+
+_________
+
 - *'rodayat* ← *arodayat* ← *roday* ← *√rud*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
+
+_________
+
 - *paṇim* ← *paṇi*
 - \[noun\], accusative, singular, masculine
 - “niggard; paṇ.”
-------------------------------------------------------------------------
+
+_________
+
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *amuṣṇāt* ← *muṣ*
 - \[verb\], singular, Imperfect
 - “rob; remove; steal.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -93,75 +93,111 @@ varivasyantu ← √varivasy- (root)
 -   *damūnaso* ← *damūnasaḥ* ← *damūnas*
 - \[noun\], nominative, plural, masculine
 - “master.”
-------------------------------------------------------------------------
+
+_________
+
 - *apaso* ← *apasaḥ* ← *apas*
 - \[noun\], nominative, plural, masculine
 - “busy; effective; hardworking.”
-------------------------------------------------------------------------
+
+_________
+
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *suhastā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
+
+_________
+
 - *suhastā* ← *hastāḥ* ← *hasta*
 - \[noun\], nominative, plural, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
-------------------------------------------------------------------------
+
+_________
+
 - *patnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], nominative, plural, feminine
 - “wife; mistress; queen.”
-------------------------------------------------------------------------
+
+_________
+
 - *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], nominative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhvataṣṭāḥ* ← *vibhva* ← *vibhvan*
 - \[noun\], masculine
 - “Vibhvan.”
-------------------------------------------------------------------------
+
+_________
+
 - *vibhvataṣṭāḥ* ← *taṣṭāḥ* ← *takṣ*
 - \[verb noun\], nominative, plural
 - “produce; shape; fashion; chisel; invent.”
-------------------------------------------------------------------------
+
+_________
+
 - *sarasvatī*
 - \[noun\], nominative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaddivota* ← *bṛhat*
 - \[noun\]
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaddivota* ← *divā* ← *diva*
 - \[noun\], nominative, singular, feminine
 - “day; sky; Svarga.”
-------------------------------------------------------------------------
+
+_________
+
 - *bṛhaddivota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
+
+_________
+
 - *rākā*
 - \[noun\], nominative, singular, feminine
 - “Rākā; rākā; full moon.”
-------------------------------------------------------------------------
+
+_________
+
 - *daśasyantīr* ← *daśasyantīḥ* ← *daśasy*
 - \[verb noun\], nominative, plural
-------------------------------------------------------------------------
+
+_________
+
 - *varivasyantu* ← *varivasy*
 - \[verb\], plural, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *śubhrāḥ* ← *śubhra*
 - \[noun\], nominative, plural, feminine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

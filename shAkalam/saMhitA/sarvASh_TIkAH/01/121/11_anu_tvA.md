@@ -99,41 +99,59 @@ varā́hum ← varā́hu- (nominal stem)
 -   *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *mahī* ← *mah*
 - \[noun\], nominative, dual, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *pājasī* ← *pājas*
 - \[noun\], nominative, dual, neuter
 - “luminosity; look.”
-------------------------------------------------------------------------
+
+_________
+
 - *acakre* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
+
+_________
+
 - *acakre* ← *cakre* ← *cakra*
 - \[noun\], nominative, dual, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyāvākṣāmā* ← *dyāvākṣam*
 - \[noun\], nominative, dual, feminine
 - “heaven and earth.”
-------------------------------------------------------------------------
+
+_________
+
 - *madatām* ← *mad*
 - \[verb\], dual, Present imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *karman*
 - \[noun\], locative, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
@@ -141,44 +159,64 @@ varā́hum ← varā́hu- (nominal stem)
     passive voice; activity; consequence; function; yajña; pañcakarman;
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
-------------------------------------------------------------------------
+
+_________
+
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āśayānaṃ* ← *āśayānam* ← *āśī* ← *√śī*
 - \[verb noun\], accusative, singular
 - “lie; stay.”
-------------------------------------------------------------------------
+
+_________
+
 - *sirāsu* ← *sirā*
 - \[noun\], locative, plural, feminine
 - “sirā; vessel; river; vein; artery.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *mahā* ← *mah*
 - \[noun\], instrumental, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
+
+_________
+
 - *maho* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
-------------------------------------------------------------------------
+
+_________
+
 - *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
-------------------------------------------------------------------------
+
+_________
+
 - *siṣvapo* ← *siṣvapaḥ* ← *svap*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sleep; numb; fall asleep.”
-------------------------------------------------------------------------
+
+_________
+
 - *varāhum* ← *varāhu*
 - \[noun\], accusative, singular, masculine
 - “wild boar.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

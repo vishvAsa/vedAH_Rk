@@ -91,59 +91,89 @@ sámpr̥ktāḥ ← √pr̥c- (root)
 - \[noun\], nominative, plural, masculine
 - “belleric myrobalan; dice; gambling; karṣa; akṣa; akṣa \[word\];
     berry.”
-------------------------------------------------------------------------
+
+_________
+
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
+
+_________
+
 - *aṅkuśino* ← *aṅkuśinaḥ* ← *aṅkuśin*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nitodino* ← *nitodinaḥ* ← *nitodin*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *nikṛtvānas* ← *nikṛtvānaḥ* ← *nikṛtvan*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tapanās* ← *tapanāḥ* ← *tapana*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *tāpayiṣṇavaḥ* ← *tāpayiṣṇu*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *kumāradeṣṇā* ← *kumāra*
 - \[noun\], masculine
 - “prince; male child; child; Skanda; son; kumārabandha; kumāra
     \[word\]; young person.”
-------------------------------------------------------------------------
+
+_________
+
 - *kumāradeṣṇā* ← *deṣṇāḥ* ← *deṣṇa*
 - \[noun\], nominative, plural, masculine
 - “gift; giving.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayataḥ* ← *ji*
 - \[verb noun\], accusative, plural
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *punarhaṇo* ← *punarhaṇaḥ* ← *punarhan*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *madhvā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *saṃpṛktāḥ* ← *sampṛc* ← *√pṛc*
 - \[verb noun\], nominative, plural
 - “mix; connect.”
-------------------------------------------------------------------------
+
+_________
+
 - *kitavasya* ← *kitava*
 - \[noun\], genitive, singular, masculine
 - “gambler; deceiver; thorn apple; kitava \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *barhaṇā*
 - \[noun\], instrumental, singular, feminine
 - “power; might.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

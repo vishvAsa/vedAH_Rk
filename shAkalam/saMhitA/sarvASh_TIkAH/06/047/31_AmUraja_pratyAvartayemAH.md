@@ -99,78 +99,114 @@ rathínaḥ ← rathín- (nominal stem)
 -   *āmūr* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
+
+_________
+
 - *āmūr* ← *amūḥ* ← *adas*
 - \[noun\], accusative, plural, feminine
 - “that; John Doe; yonder; from here.”
-------------------------------------------------------------------------
+
+_________
+
 - *aja* ← *aj*
 - \[verb\], singular, Present imperative
 - “drive; expel.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratyāvartayemāḥ* ← *pratyāvartaya* ← *pratyāvartay* ← *√vṛt*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
+
+_________
+
 - *pratyāvartayemāḥ* ← *imāḥ* ← *idam*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
+
+_________
+
 - *ketumad* ← *ketumat*
 - \[noun\], accusative, singular, neuter
 - “clean.”
-------------------------------------------------------------------------
+
+_________
+
 - *dundubhir* ← *dundubhiḥ* ← *dundubhi*
 - \[noun\], nominative, singular, masculine
 - “dundubhi; war drum; Dundubhi; Vishnu.”
-------------------------------------------------------------------------
+
+_________
+
 - *vāvadīti* ← *vāvad* ← *√vad*
 - \[verb\], singular, Present indikative
 - “make noise; chatter.”
-------------------------------------------------------------------------
+
+_________
+
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvaparṇāś* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvaparṇāś* ← *parṇāḥ* ← *parṇa*
 - \[noun\], nominative, plural, masculine
 - “leaf; feather; parṇa \[word\]; leaf; wing.”
-------------------------------------------------------------------------
+
+_________
+
 - *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
+
+_________
+
 - *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
+
+_________
+
 - *'smākam* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
+
+_________
+
 - *rathino* ← *rathinaḥ* ← *rathin*
 - \[noun\], nominative, plural, masculine
 - “driver; charioteer; Kshatriya; owner of a car.”
-------------------------------------------------------------------------
+
+_________
+
 - *jayantu* ← *ji*
 - \[verb\], plural, Present imperative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
