@@ -61,7 +61,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -237,7 +238,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “Truth (of thought) and truthfulness (of speech) were born of arduous penance, thence was nightgenerated, thence also the watery ocean.”
 
@@ -343,7 +345,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -471,7 +474,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “From the watery ocean was the year afterwards produced, ordaining nights and days, the ruler ofevery moment.”
 </details>
@@ -561,7 +565,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -687,7 +692,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “**Dhātā** in the beginning created the sun and moved the heaven, the earth, the firmament, and thehappy (sky).”
 </details>

@@ -61,7 +61,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
@@ -194,7 +195,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “This moving many-coloured (Sun) has arrived, he has sat down before his mother (earth) in the east,and advances to his father heaven.”
 
@@ -297,7 +299,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
@@ -410,7 +413,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “His radiance penetrates internally, drawing (the air) down (through the lungs) after having sent it up,the mighty one beholds the sky.”
 
@@ -508,7 +512,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
@@ -634,7 +639,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “The thirty stations of the day and night shine with (the sun's) rays, the voice (of praise) is addressed to the Sun.”
 

@@ -120,7 +120,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -423,7 +424,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -611,7 +613,8 @@ The word parā in this verse seems to denote the region where Vr̥ṣākapi has 
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “**Indrāṇī** speaks: You, **Indra**, much annoyed, hasten towards **Vṛṣākapi**; and yet you find no otherplace to drink the **Soma**; Indra is above all (the world).”
 </details>
@@ -699,7 +702,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -905,7 +909,8 @@ The form, in which Vr̥ṣākapi is here said to have appeared, should be specia
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “What (favour) has this tawny deer **Vṛṣākapi** done to you that you should like a liberal (benefactor)bestow upon him wealth and nourish me; **Indra** is above all (the world).”
 </details>
@@ -992,7 +997,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -1174,7 +1180,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “This **Vṛṣākapi** whom you, **Indra**, cherish as your dear (son)-- may the dog which chases the boar(seize) him by the ear (and) devour him; Indra is above all (the world).”
 </details>
@@ -1261,7 +1268,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -1464,7 +1472,8 @@ Here Indrāṇī is herself prepared to punish Vr̥ṣākapi by setting the dog 
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “The ape has spoiled the beloved ghī-adorned (oblations) made to me (by worshippers); let mequickly cut off his head, let me not be the giver of happiness to one who works evil; **Indra** is above all (the world).”
 
@@ -1556,7 +1565,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -1732,7 +1742,8 @@ This verse presents no difficulty. Thus satisfied, Indraṇī speaks of herself 
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “There is no woman more amiable than I am, not one who bears fairer sons than I; nor one moretractable not one more ardent; **Indra** is above all (the world).”
 </details>
@@ -1818,7 +1829,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -2027,7 +2039,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “\[**Vṛṣākapi** speaks\]: O mother, who are easy of access, it will quickly be as (you have said); may my(father) and you, mother, be united; may it delight my (father) and your head like a bird; **Indra** is above all (theworld).”
 
@@ -2119,7 +2132,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -2306,7 +2320,8 @@ I prefer taking amba as an affectionale and respectful mode of address, as in mo
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “\[**Indra** speaks\]: You who have beautiful arms, who have beautiful fingers, long-haired, broad-hipped,why are you angry with our **Vṛṣākapi**, O you wife of a hero; Indra is above all (the world).”
 
@@ -2400,7 +2415,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -2589,7 +2605,8 @@ Indrāṇī replies, "This mischievous (Vr̥ṣākapi) considers me to be avirā
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “\[**Indrāṇī** speaks\]: This savage beast (**Vṛṣākapi**) despises me as one who has no **male** (protector),and yet I am the mother of male offspring, the wife of **Indra**, the friend of the **Maruts**; Indra is above all (the world).”
 
@@ -2670,7 +2687,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -2843,7 +2861,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “The mother who is the instrumental tutress of the ceremony, the mother of **male** offspring, the wife of **Indra**,goes first to the united sacrifice to battle, (and) is honoured (by the praisers); Indra is above all (the world).”
 </details>
@@ -2930,7 +2949,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -3108,7 +3128,8 @@ Pischel and Geldner suppose that the first is addressed by Vr̥ṣākapi to Indr
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “(**Indra** speaks\]: I have heard that **Indrāṇī** is the most fortunate among these women, for her lordIndra, who is above all (the world), does ot die of old age like other (men).”
 </details>
@@ -3194,7 +3215,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -3392,7 +3414,8 @@ Indra says "O Indrāṇī! I am not delighted without my friend Vriṣākapi, of
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “I am not happy, **Indrāṇi**, without my friend **Vṛṣākapi**; whose acceptable oblation here, purified withwater, proceeds to the gods; **Indra** is above all (the world).”
 </details>
@@ -3484,7 +3507,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -3674,7 +3698,8 @@ The verse means, "O rich Vr̥ṣākapāyī having a good son and a daughter-in-l
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “\[**Vṛṣākapi** speaks\]: O mother of Vṛṣākapi, wealthy, possessing excellent sons, possessingexcellent daughters-in-law, let **Indra** eat your bulls, (give him) the beloved and most delightful ghī, Indra is aboveall (the world).”
 
@@ -3766,7 +3791,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -3974,7 +4000,8 @@ The practice of sacrificing bulls to Indra seems to have been out of date even a
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “\[**Indra** speaks\]: The worshippers dress for me fifteen (and) twenty bulls; I eat them and (become) fat,they fill both sides of my belly; Indra is above all (the world).”
 
@@ -4066,7 +4093,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -4262,7 +4290,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “\[**Indrāṇī** speaks\]: Like a sharp-horned bull roaring among the herds, so may your libation plural aseworld).”
 
@@ -4354,7 +4383,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -4548,7 +4578,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “The man who is impotent begets not progeny, but he who is endowed with vigour; **Indra** is above all(the world).”
 </details>
@@ -4636,7 +4667,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525)  
@@ -4834,7 +4866,8 @@ The fifteenth and the sixteenth seem to be addressed to Indra by Indrāṇī, an
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “\[**Indra** speaks\]: He who is endowed with vigour begets not progeny, but he who is impotent; Indra isabove all (the world).”
 
@@ -4928,7 +4961,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -5106,7 +5140,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “\[**Indrāṇī** speaks\]: Let this **Vṛṣākapi**, **Indra**, take a dead wild ass, (let him take) a knife (to cut it up),a fire-plural ce (to cook it), a new saucepan, and a cart full of fuel; Indra is above all (the world).”
 
@@ -5199,7 +5234,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -5360,7 +5396,8 @@ Thereon Indra, having thus saved Vr̥ṣākapi by his intercession, observes, "T
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “\[**Indra** speaks\]: Here I come to the (sacrifice) looking upon (the worshippers), distinguishing the Dāsaand the **Ārya**; I drink (the **Soma**) of the (worshipper), who effuses (the Soma) with mature (mind); I look upon theintelligent (sacrificer); Indra is above all (the world).”
 
@@ -5453,7 +5490,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -5676,7 +5714,8 @@ I have already given in full my reasons for understanding nedīyas in a differen
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “Go home, Vṣs.ākapi, to the halls of sacrifice (from the lurking- plural ce of the enemy), which is desertand forest (how many leagues are there from there?) and from the nearest (lurking-plural ce); **Indra** is above all (theworld).”
 </details>
@@ -5763,7 +5802,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -5934,7 +5974,8 @@ Vr̥ṣikapi has gone down to the netherworld. This verse now describes what Ind
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “Come back, **Vṛṣākapi**, that we may do what is agreeable to you; you, who are the destroyer ofsleep, come home again by the road; **Indra** is above all (the world).”
 
@@ -6026,7 +6067,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -6232,7 +6274,8 @@ If the meaning I have proposed is correct, we have here a record of the position
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “Rise up and come home, **Vṛṣākapi** and **Indra**; where is that destructive beast, to what (region) has(that beast), the exhilarator of men, gone? Indra is above all (the world).”
 
@@ -6324,7 +6367,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -6519,7 +6563,8 @@ The concluding verse undoubtedly appears to be benedictory. But I have not found
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “The daughter of **Manu**, **Parśu** by name, bore twenty children at once; may good fortune, O arrow ofIndra, befall her whose belly was so prolific; **Indra** is above all (the world).”
 
