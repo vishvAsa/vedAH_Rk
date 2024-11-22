@@ -116,7 +116,8 @@ Indra's Frau:
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -125,7 +126,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-###### Morph
+_________
+**Morph**  
 ásr̥kṣata ← √sr̥j- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -381,7 +383,8 @@ Sie haben abgelassen vom Somapressen, sie achteten Indra nicht als Gott, dort, w
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -390,7 +393,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 dhā́vasi ← √dhāv- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -621,7 +625,8 @@ Du läufst ja weiter, Indra, über die Verfehlung des Vrisakapi hinweg sehend. A
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -630,7 +635,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -876,7 +882,8 @@ Was hat dir dieser Vrischākapi, dieses gelbe Wild, gethan, dass du ihm nun so z
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -885,7 +892,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 imám ← ayám (pronoun)  
 {case:ACC, gender:M, number:SG}
 
@@ -1109,7 +1117,8 @@ Den lieben Vrisakapi, den du, Indra, da in Schutz nimmst, den soll gleich der Hu
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1118,7 +1127,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 kapíḥ ← kapí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -1282,7 +1292,8 @@ Here Indrāṇī is herself prepared to punish Vr̥ṣākapi by setting the dog 
 
 “The ape has spoiled the beloved ghī-adorned (oblations) made to me (by worshippers); let mequickly cut off his head, let me not be the giver of happiness to one who works evil; **Indra** is above all (the world).”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The ape: **kapi** = ape; also, a shorter form of **Vṛṣākapi**
 </details>
@@ -1365,7 +1376,8 @@ Die mir theuren, schönen Kunstwerke hat mir der Affe verdorben; nun will ich ih
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1374,7 +1386,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 mát ← ahám (pronoun)  
 {case:ABL, number:SG}
 
@@ -1593,7 +1606,8 @@ Es gibt keine Frau mit schönerem Hintern und zum Beischlaf geeigneter als mich,
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1602,7 +1616,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 amba ← amba (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -1768,7 +1783,8 @@ víśvasmāt ← víśva- (nominal stem)
 
 “\[**Vṛṣākapi** speaks\]: O mother, who are easy of access, it will quickly be as (you have said); may my(father) and you, mother, be united; may it delight my (father) and your head like a bird; **Indra** is above all (theworld).”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 \[Vṛṣākapi speaks\]: O mother, who are easy of access, it will quickly be as (you have said); may my(father) and you, mother, be united; may it delight my (father) and your head like a bird; Indra is above all (theworld).
 </details>
@@ -1851,7 +1867,8 @@ Ich spreche, o leicht zu gewinnende Mutter, wie es bald geschehen wird. Mein Hin
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1860,7 +1877,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 kím ← ká- (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -2008,7 +2026,8 @@ I prefer taking amba as an affectionale and respectful mode of address, as in mo
 
 “\[**Indra** speaks\]: You who have beautiful arms, who have beautiful fingers, long-haired, broad-hipped,why are you angry with our **Vṛṣākapi**, O you wife of a hero; Indra is above all (the world).”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 \[Indra speaks\]: You who have beautiful arms, who have beautiful fingers, long-haired, broad-hipped,why are you angry with our Vṛṣākapi, O you wife of a hero; Indra is above all (the world).
 </details>
@@ -2093,7 +2112,8 @@ Warum, schönarmige, schönfingrige, breitflechtige, breithüftige, warum, o Hel
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -2102,7 +2122,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 avī́rām ← avī́ra- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -2252,7 +2273,8 @@ Indrāṇī replies, "This mischievous (Vr̥ṣākapi) considers me to be avirā
 
 “\[**Indrāṇī** speaks\]: This savage beast (**Vṛṣākapi**) despises me as one who has no **male** (protector),and yet I am the mother of male offspring, the wife of **Indra**, the friend of the **Maruts**; Indra is above all (the world).”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 \[Indrāṇī speaks\]: This savage beast (Vṛṣākapi) despises me as one who has no male (protector),and yet I am the mother of male offspring, the wife of Indra, the friend of the Maruts; Indra is above all (the world).
 </details>
@@ -2324,7 +2346,8 @@ Dieser Boshafte hat es auf mich abgesehen, als ob ich keinen Mann hätte. Und ic
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -2333,7 +2356,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 nā́rī ← nā́rī- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -2550,7 +2574,8 @@ Sonst ist die Frau auch zum gemeinsamen Opfer oder zur Festversammlung gegangen;
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -2559,7 +2584,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 āsú ← ayám (pronoun)  
 {case:LOC, gender:F, number:PL}
 
@@ -2780,7 +2806,8 @@ Die Indrānī habe ich als die selige unter diesen Weibern nennen gehört; denn 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -2789,7 +2816,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -3034,7 +3062,8 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -3043,7 +3072,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 révati ← revánt- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -3194,7 +3224,8 @@ The verse means, "O rich Vr̥ṣākapāyī having a good son and a daughter-in-l
 
 “\[**Vṛṣākapi** speaks\]: O mother of Vṛṣākapi, wealthy, possessing excellent sons, possessingexcellent daughters-in-law, let **Indra** eat your bulls, (give him) the beloved and most delightful ghī, Indra is aboveall (the world).”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mother of Vṛṣākapi: Vṛṣākapayin = wife of Indra; Vṛṣākapi may be a name of Indra, as theshowerer of benefits
 </details>
@@ -3277,7 +3308,8 @@ O reiche Vrischākapājī, die du treffliche Söhne und Schwiegertöchter hast, 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -3286,7 +3318,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -3453,7 +3486,8 @@ The practice of sacrificing bulls to Indra seems to have been out of date even a
 
 “\[**Indra** speaks\]: The worshippers dress for me fifteen (and) twenty bulls; I eat them and (become) fat,they fill both sides of my belly; Indra is above all (the world).”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 \[Indra speaks\]: The worshippers dress for me fifteen (and) twenty bulls; I eat them and (become) fat,they fill both sides of my belly; Indra is above all (the world).
 </details>
@@ -3536,7 +3570,8 @@ Denn zwanzig Ochsen braten mir die fünfzehn [Vrischākapi mit Frau, Söhnen und
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -3545,7 +3580,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 ná ← ná (invariable)  
 {}
 
@@ -3700,7 +3736,8 @@ víśvasmāt ← víśva- (nominal stem)
 
 “\[**Indrāṇī** speaks\]: Like a sharp-horned bull roaring among the herds, so may your libation plural aseworld).”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 \[Indrāṇī speaks\]: Like a sharp-horned bull roaring among the herds, so may your libation plural aseworld).
 </details>
@@ -3783,7 +3820,8 @@ Wie ein spitzhorniger Stier, der in den Herden brüllt, ist er: Der Gerstentrank
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -3792,7 +3830,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 īśe ← √īś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -4027,7 +4066,8 @@ Nicht der ist stark, dessen Glied schlaff zwischen den Schenkeln herabhängt; so
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -4036,7 +4076,8 @@ popular;; epic anuṣṭubh (525);; repeated line
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 īśe ← √īś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -4195,7 +4236,8 @@ The fifteenth and the sixteenth seem to be addressed to Indra by Indrāṇī, an
 
 “\[**Indra** speaks\]: He who is endowed with vigour begets not progeny, but he who is impotent; Indra isabove all (the world).”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 \[Indra speaks\]: He who is endowed with vigour begets not progeny, but he who is impotent; Indra isabove all (the world).
 </details>
@@ -4280,7 +4322,8 @@ Nicht der ist stark, dessen behaartes Glied, wenn er sich niedergelassen hat, si
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -4289,7 +4332,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -4432,7 +4476,8 @@ víśvasmāt ← víśva- (nominal stem)
 
 “\[**Indrāṇī** speaks\]: Let this **Vṛṣākapi**, **Indra**, take a dead wild ass, (let him take) a knife (to cut it up),a fire-plural ce (to cook it), a new saucepan, and a cart full of fuel; Indra is above all (the world).”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A dead wild ass:parasvantam = parasvam, i.e. one who is of his own nature, i.e. an ape, **kapi**; a fire plural ce: **sūnā**; cf. Manu3.68
 </details>
@@ -4516,7 +4561,8 @@ Indra! Dieser Vrisakapi fand einen getöteten Waldesel, ein Schlachtmesser, eine
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -4525,7 +4571,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -4655,7 +4702,8 @@ Thereon Indra, having thus saved Vr̥ṣākapi by his intercession, observes, "T
 
 “\[**Indra** speaks\]: Here I come to the (sacrifice) looking upon (the worshippers), distinguishing the Dāsaand the **Ārya**; I drink (the **Soma**) of the (worshipper), who effuses (the Soma) with mature (mind); I look upon theintelligent (sacrificer); Indra is above all (the world).”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cf. Muir, **Sanskrit** Texts, vol. 2, p. 374
 </details>
@@ -4739,7 +4787,8 @@ Ich hier gehe scharf blickend einher, Arier und Barbaren unterscheidend; ich tri
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -4748,7 +4797,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -5009,7 +5059,8 @@ Das wüste Land und die jähen Abhänge, wie viele Meilen sind sie entfernt? dru
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -5018,7 +5069,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -5156,7 +5208,8 @@ Vr̥ṣikapi has gone down to the netherworld. This verse now describes what Ind
 
 “Come back, **Vṛṣākapi**, that we may do what is agreeable to you; you, who are the destroyer ofsleep, come home again by the road; **Indra** is above all (the world).”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Destroyer of sleep: i.e., the sun; cf. Nirukta12.28
 </details>
@@ -5239,7 +5292,8 @@ Gehe wieder zurück, Vrischākapi, wir beide wollen dein Wohlergehen bewirken; g
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -5248,7 +5302,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 údañcaḥ ← údañc- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -5415,7 +5470,8 @@ If the meaning I have proposed is correct, we have here a record of the position
 
 “Rise up and come home, **Vṛṣākapi** and **Indra**; where is that destructive beast, to what (region) has(that beast), the exhilarator of men, gone? Indra is above all (the world).”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 To what region: **Nirukta**, 13.3
 </details>
@@ -5498,7 +5554,8 @@ Als ihr, Indra und Vrisakapi, aufwärts nach Hause gegangen waret, wo war das vi
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -5507,7 +5564,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 ha ← ha (invariable)  
 {}
 
@@ -5665,7 +5723,8 @@ The concluding verse undoubtedly appears to be benedictory. But I have not found
 
 “The daughter of **Manu**, **Parśu** by name, bore twenty children at once; may good fortune, O arrow ofIndra, befall her whose belly was so prolific; **Indra** is above all (the world).”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Indra is the deity invoked: Nirukta13.3
 </details>

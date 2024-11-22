@@ -57,14 +57,16 @@ that compete and combine at that time: the sun and the ritual fire, as well as D
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -172,7 +174,8 @@ svàr ← svàr- (nominal stem)
 
 “This moving many-coloured (Sun) has arrived, he has sat down before his mother (earth) in the east,and advances to his father heaven.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Deity Sārparājñī: i.e., **Kadru**, the mother of the serpent race; Yajuṣ3.6-8;
 
@@ -266,14 +269,16 @@ Den Wesenkenner spornet nun gleich einem schnellen Rosse an, Zu setzen sich auf 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 antár ← antár (invariable)  
 {}
 
@@ -365,7 +370,8 @@ ví ← ví (invariable)
 
 “His radiance penetrates internally, drawing (the air) down (through the lungs) after having sent it up,the mighty one beholds the sky.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 After having sent it up: i.e., setting after having risen; the mighty one: the sun;or, **Agni** in the character of **Vāyu**;
 
@@ -454,14 +460,16 @@ Dem Wesenkenner bringe ich, dem heldbesungnen, gnädigen Ein grosses schönes Lo
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 dhā́ma ← dhā́man- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -564,7 +572,8 @@ vástoḥ ← vástu- (nominal stem)
 
 “The thirty stations of the day and night shine with (the sun's) rays, the voice (of praise) is addressed to the Sun.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sun's rays: **dhāma** = related to duration of time: he shines for thirty stations (or **ghaṭis**, one **ghaṭi** =24 minutes) in the day;
 

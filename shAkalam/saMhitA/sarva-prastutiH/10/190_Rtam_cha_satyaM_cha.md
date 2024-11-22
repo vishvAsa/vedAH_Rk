@@ -57,7 +57,8 @@ This hymn presents a cosmogony with tápas “ascetic heat, fervor” as the ult
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -65,7 +66,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 abhī̀ddhāt ← √idh- 1 (root)  
 {case:ABL, gender:N, number:SG, non-finite:PPP}
 
@@ -211,7 +213,8 @@ tátas ← tátas (invariable)
 
 “Truth (of thought) and truthfulness (of speech) were born of arduous penance, thence was nightgenerated, thence also the watery ocean.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Penance: an allusion to the penance of **Brahmā** preceding creation;
 
@@ -308,7 +311,8 @@ Genaht ist dieser bunte Stier; zum Vater und zur Mutter hat Er sich gesetzt beim
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -316,7 +320,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -504,7 +509,8 @@ Er wandelt in des Lichtes Raum, vor seinem Hauch erlischt das Roth, Der starke h
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -512,7 +518,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 dhātā́ ← dhātár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
