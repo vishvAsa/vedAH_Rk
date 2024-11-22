@@ -1,4 +1,4 @@
-﻿+++
++++
 title = "पदपाठः पाश्चात्यः"
 unicode_script = "devanagari"
 +++
