@@ -191,15 +191,31 @@ _________
 
 <details><summary>सायण-भाष्यम्</summary>
 
-आदित्यासोऽदितेः पुत्रावरुणादयो देवाः स्रिधो हिंसाकाञ्शत्रूनस्मानतिनयन्तु। मरुद्भिः पुत्रैः सहितमुग्रमुद्गूर्णतेजसं रुद्रमिन्द्रमग्निं च स्वस्तये क्षेमाय हुवेम। आह्वयेमहि। ह्वयतेराशीर्लुङि बहुलं छन्दसीति सम्प्रसारणम् । लिङ्याशिष्यङ्। आहूतास्तेऽस्मान्द्विषो द्वेष्ट नति नयन्तु॥५॥
+**आदित्यासो** ऽदितेः पुत्रावरुणादयो देवाः **स्रिधो** हिंसाकाञ् शत्रूनस्मानतिनयन्तु। मरुद्भिः पुत्रैः सहितमुग्रमुद्गूर्णतेजसं रुद्रमिन्द्रमग्निं च स्वस्तये क्षेमाय हुवेम। आह्वयेमहि। ह्वयतेराशीर्लुङि बहुलं छन्दसीति सम्प्रसारणम् । लिङ्याशिष्यङ्। आहूतास्तेऽस्मान्द्विषो द्वेष्ट नति नयन्तु॥५॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+May the Adityas (carry us) beyond mishaps:  
+varuNa, mitra, aryaman!  
+We shall invoke the fierce rudra with the marut-s,  
+indra, agni for auspiciousness,  
+beyond all enmities. 
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+A upariShTAd-bR^ihati R^ik:  
+An 8+8+8+8 syllabic core is decorated with a 4-syllabic pendant containing a constant refrain. The R^ik in Adityan sUkta suddenly completes the triad of deity classes by bringing in the rudra-s and the vasu: agni along with indra who bridges the three functions.
+</details>
+
 
 <details><summary>Wilson</summary>
 
 _________
 **English translation:**  
 
-“May the **Ādityas**, **Varuṇa**, **Mitra**, **Aryaman**, (lead us) beyond (the reach of) the malignant; let usinvoke the fierce **Rudra** with the **Maruts**, and **Indra** and **Agni** for our welfare, (that they may plural ce us) beyond (thereach of) our enemies.”
+“May the **Ādityas**, **Varuṇa**, **Mitra**, **Aryaman**, (lead us) beyond (the reach of) the malignant; let us invoke the fierce **Rudra** with the **Maruts**, and **Indra** and **Agni** for our welfare, (that they may plural ce us) beyond (thereach of) our enemies.”
 </details>
 
 <details><summary>Jamison Brereton</summary>
@@ -211,7 +227,7 @@ We would call on powerful Rudra along with the Maruts, on Indra and  Agni, for w
 <details><summary>Griffith</summary>
 
 Adityas are beyond all foes,-Varuna, Mitra, Aryaman:  
-     Strong Rudra with the Marut host, Indra, Agni let us call for weal beyond our foes.
+Strong Rudra with the Marut host, Indra, Agni let us call for weal beyond our foes.
 </details>
 
 <details><summary>Geldner</summary>
