@@ -206,7 +206,9 @@ beyond all enmities.
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
 A upariShTAd-bR^ihati R^ik:  
-An 8+8+8+8 syllabic core is decorated with a 4-syllabic pendant containing a constant refrain. The R^ik in Adityan sUkta suddenly completes the triad of deity classes by bringing in the rudra-s and the vasu: agni along with indra who bridges the three functions.
+An 8+8+8+8 syllabic core is decorated with a 4-syllabic pendant containing a constant refrain. The R^ik in Adityan sUkta suddenly completes the triad of deity classes by bringing in the rudra-s and the vasu: agni, along with indra, who bridges the three functions. 
+
+Aditya-s: heavenly, rudra-s atmospheric, vasu-s earthy functions: approximately (they do have other dimensions).
 </details>
 
 
