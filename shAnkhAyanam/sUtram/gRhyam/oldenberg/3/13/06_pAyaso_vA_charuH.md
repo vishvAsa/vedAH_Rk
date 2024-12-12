@@ -1,0 +1,5 @@
++++
+title = "०६ पायसो वा चरुः"
+
++++
+6. Or milk-rice (should be offered).
