@@ -210,8 +210,24 @@ _________
 
 <details><summary>सायण-भाष्यम्</summary>
 
-**असुरस्य** मेघस्य **नीळयः** आवासभूताः **दिवः** अन्तरिक्षस्य संबन्धिनः **श्येनासः** श्येनाः शंसनीयगतयः **विश्वकृष्टयः** व्याप्तमनुष्याः **रुद्राः** रुद्रपुत्रा ये **मरुतः** **क्राणाः** स्वाधिकारकर्माणि कुर्वाणा आसत इति शेषः । **तेभिः** तैः **अर्वशेभिः** अश्ववद्भिः सोमवद्भिर्वा **देवेभिः** देवैः सह **अर्वशः** अश्ववान् सोमवान्वा **इन्द्रः** **चष्टे** पश्यति । **वरुणः** च **मित्रः** च **अर्यमा** च सोमवद्भिः मरुद्भिः सह पश्यन्ति ॥
+**असुरस्य** मेघस्य **नीळयः** आवासभूताः **दिवः** अन्तरिक्षस्य संबन्धिनः **श्येनासः** श्येनाः शंसनीयगतयः **विश्वकृष्टयः** व्याप्तमनुष्याः **रुद्राः** रुद्रपुत्रा ये **मरुतः** **क्राणाः** स्वाधिकारकर्माणि कुर्वाणा आसत इति शेषः । **तेभिः** तैः **अर्वशेभिः** अश्ववद्भिः सोमवद्भिर्वा **देवेभिः** देवैः सह **अर्वशः** अश्ववान् सोमवान् वा **इन्द्रः** **चष्टे** पश्यति । **वरुणः** च **मित्रः** च **अर्यमा** च सोमवद्भिः मरुद्भिः सह पश्यन्ति ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The swift rudra-s, the marut-s, of all the peoples,  
+falcons of dyaus, the asura's nestlings.  
+With them appears varuNa, mitra, aryaman,  
+indra with the quick gods, the quick one.
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+A verse implying rudra as the asura dyaus.
+
+While the obvious coupling is between the rudra and the Aditya classes, the implied reference to rudra as the asura dyaus, likely brings in the vasu-class (notwithstanding the more usual duality with agni in that class)
+</details>
+
 
 <details><summary>Wilson</summary>
 
