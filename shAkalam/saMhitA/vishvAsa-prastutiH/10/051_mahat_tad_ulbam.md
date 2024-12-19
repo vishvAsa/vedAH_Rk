@@ -14,7 +14,7 @@ unicode_script = "devanagari"
 
  सूक्तत्रयोक्तार्थे तैत्तिरीयब्राह्मणम्-' अग्नेस्त्रयो ज्यायांसो भ्रातर आसन् ते देवेभ्यो हव्यं वहन्तः प्रामीयन्त ' (तै. सं. २. ६. ६) इत्यादि ।
 
-{{&lt; figure src="../../../../../jyotiSham/history/images/zodiac_history/bce-2300_naxatra-chakra.png" class="thumbnail" >}}
+{{<figure src="../../../../../jyotiSham/history/images/zodiac_history/bce-2300_naxatra-chakra.png" class="thumbnail" >}}
 
 
 ## पाठः
