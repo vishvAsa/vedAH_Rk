@@ -243,6 +243,25 @@ _________
 **प्र** **यन्तु** प्रगच्छन्तु **गिरिजाः** वाचि निष्पन्नाः **मतयः** स्तुतयः । कस्मै । **वः** तुभ्यम् । वचनव्यत्ययः । **विष्णवे** व्याप्तायेन्द्राय विष्णवे वा **मरुत्वते** मरुद्भिस्तद्वते । कस्य स्तुतय इत्युच्यते । **एवयामरुत्** एतन्नामकस्य ऋषेः ॥ षष्ठ्या लुक् ॥ अथवा अयमृषिर्गिरिजाः स्तुतेर्जनयिता भवति । उत्तरार्धे मरुत्स्तुतिः। किंच **प्र** यन्तु स्तुतयः । कस्मै । **शर्धाय** बलाय मारुताय । इतरत् सर्वं बलविशेषणम् । **प्रयज्यवे** प्रकर्षेण यष्टव्याय **सुखादये** शोभनाभरणाय । खादिः आभरणविशेषः । ‘हस्तेषु खादिश्च' ( ऋ. सं. १. १६८. ३); ‘ पत्सु खादयः' (ऋ. सं. ५. ५४, ११) इति च श्रुतेः । **तवसे** बलवते **भन्ददिष्टये** । स्तुतिरूपा इष्टिर्यस्य तद्धन्ददिष्टि । तस्मै **धुनिव्रताय** मेघानां चालनं कर्म यस्य तादृशाय **शवसे** गमनवते ॥
 </details>
 
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+May the mantra-thoughts go forth to the great viShNu,
+Accompanied by the marut-s, mountain-born, marut-speed.
+[Let them go] to the troop at the forefront of the ritual, with good bracelets,
+to the mighty ones, to the one evoking praise
+to ones with roaring ways, to the strong ones!
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The word bhandadiShTi is a hapax in the RV. It has been interpreted as bandhat= the participle formation of the root bhand (to praise, honor or applaud).  
+
+There is a very similar formation in RV 10.100.2: krandad-iShTi. krand means roar (e.g., akrandad agni stanayann iva dyauH) or the neighing of a horse. Thus, krandad-iShTi could similarly imply evoking roaring [praise].
+
+The sUkta beginning with this mantra is recited in the shilpa-shastra. For more see: Source: [TW](https://manasataramgini.wordpress.com/2020/05/25/vi%e1%b9%a3%e1%b9%87u-the-marut-s-and-rudra/)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
