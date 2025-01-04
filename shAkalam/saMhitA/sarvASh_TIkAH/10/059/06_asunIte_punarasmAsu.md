@@ -222,6 +222,22 @@ _________
 हे **असुनीते** प्राणदायिनि देवि **अस्मासु** । अस्मदीये सुबन्धावित्यर्थः । **पुनः** **चक्षुः** प्रकाशकं नयनम् । ईक्षणसामर्थ्यमित्यर्थः। किंच **प्राणं** **पुनः** अस्मासु **धेहि** स्थापय । वयं च **ज्योक्** चिरम् **उच्चरन्तम्** उद्गच्छन्तं **सूर्यं** **पश्येम** । हे **अनुमते** देवि **स्वस्ति** अविनाशं यथा स्यात्तथा **नः** अस्मान् **मृळय** सुखय ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+O asunIti (leader of life breath) [give] us our sight again,  
+give us again our breath and our enjoyment,  
+long may we see the Sun rising up,  
+o anumati grant us mercy and wellbeing 
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The purely vaidika prANapratiShThA mantra is the below triShTubh invoking the lunar goddess anumati asunIti.
+
+Interestingly, the tAntrika version, with roots in the pUrvAmnAya, invokes parA as prANa-shakti in conjunction with hamsAmbA-hamsAnandanAtha dyad. Most modern practitioners known to us perform a mishra version using both.
+</details>
+
+
 <details><summary>Wilson</summary>
 
 _________
