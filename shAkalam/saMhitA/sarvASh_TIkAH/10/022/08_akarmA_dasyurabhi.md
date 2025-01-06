@@ -196,7 +196,7 @@ _________
 _________
 **English translation:**  
 
-“The **Dasyu** practising no religious rites, not knowing as thoroughly, following other observances,obeying no human laws, baffle, destroyer of enemies, the weapon of that slave.”
+“The **Dasyu** practising no religious rites, not knowing as thoroughly, following other observances, obeying no human laws, baffle, destroyer of enemies, the weapon of that slave.”
 
 _________
 **Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
