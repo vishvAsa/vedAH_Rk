@@ -15,6 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA5MzQwNjAwMjc
 
 +++
 
+TODO: क्वचित् परिष्कार्यम्। 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
