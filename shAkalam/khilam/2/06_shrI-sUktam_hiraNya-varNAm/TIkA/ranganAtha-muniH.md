@@ -24,7 +24,8 @@ All Rights Reserved.]
 [Price Re 1-8-0. 
 कमला 
 B.KOM/2 
-कान्त्या काञ्चनसन्निभां हिमगिरिप्रख्यैश्चतुर्भिर्गजै- ईस्तोत्क्षिप्तहिरण्मया मृतघटैरासिच्यमानां श्रियम् । विभ्राणां वरमब्जयुग्ममभयं हस्तैः किरीटोज्ज्वलां क्षौमावद्धनितस्वविम्वललितां वन्देऽरविन्दस्थिताम् ॥ 
+
+कान्त्या काञ्चनसन्निभां हिमगिरिप्रख्यैश्चतुर्भिर्गजैईस्तोत्क्षिप्तहिरण्मया मृतघटैरासिच्यमानां श्रियम् । विभ्राणां वरमब्जयुग्ममभयं हस्तैः किरीटोज्ज्वलां क्षौमावद्धनितस्वविम्वललितां वन्देऽरविन्दस्थिताम् ॥ 
 GITA PRESS GORAKHPUR. 
 No. 1034. 
 aft: 
@@ -59,7 +60,9 @@ PUDUKKOTTAI.
 समर्पितमिदं ग्रन्थरत्नम् 
 तदन्तेवासिना तत्कटाक्षलब्धसत्ताकेन 
 श्री श्रीनिवासराघवदासेन 
-CONTENTS. 
+
+## ०
+### CONTENTS 
 SRI SUKTA BHASHYA AND LAKSHMI STOTRAS. 
 DEDICATION 
 FOREWORD 
@@ -82,7 +85,7 @@ The Concept of Sri in Visishtadvaita Analysis of the Bhashya
 Conclusion .... 
 LIST OF ABBREVIATIONS ( संकेतविवरण ) 
 SRI SUKTA BHASHYA: TEXT 
-Introductory 9-9; Verse I-99; II–२५; III–२६; IV-२९; V-३२; VI-3; VII, VIII-35; IX-9; X-&9; XI-q3; XII-3; XIII- qɣ; XIV, XV-4. 
+Introductory 9-9; Verse I-99; II–२५; III–२६; IV-२९; V-३२; VI-3; VII, VIII-35; IX-9; X-&9; XI-q3; XII-3; XIIIqɣ; XIV, XV-4. 
 xxiii 
 XXV 
 XXX 
@@ -140,44 +143,60 @@ Lakshmi-Ashtottarasata-namavali Alphabetical index to the 108 names
 Lakshmi-Sahasranama-stotra 
 Lakshmi-Sahasra-namavali 
 Alphabetical index to the 1008 names 
-FOREWORD. 
-Sri Sukta is the well-known hymn to the Goddess Sri or Lakshmi who is referred to as the Consort of Maha Purusha in the Uttara Anuvaka of the Purusha Sukta - ( हीथ ते लक्ष्मीश्च पत्न्यौ ). The 
-Sri Sukta is not found in any of the extant recen- sions of the four Vedas, but has been ever popular as a Khila Rik' (Supplemental Hymn), the authority of which has been universally ac- knowledged, even as that of so many other 'Khila Mantras. Such Khila Riks are generally found at the end of Mandalas and anuvakas and not at the end of Ashtakas and adhyayas; and this finds a place in the Rig Veda edited by Prof. Max Muller at the end of the fifth Mandala. 
-There are many commentaries on this Sukta, the most famous of which are those of Sayana (or Vidyaranya) and of Prth vidharacarya, and they have been edited more than once. The com- mentary of Nanjiyar or Ranganatha, as he is also called, is another, which is popular chiefly among the Visishtadvaitins. This has been cited and quoted as an authority by Sri Venkatanatha (13th cent.) in his works. In spite of its popularity and authoritativeness, the Bhashya has been so far only in manuscripts and it is with pleasure I place this before the discerning public. This supplies the link that was missing in the chain of the development of the concept of Lakshmi beginning 
-iv 
-from Yamunacarya's Catus-sloki based on the Sri Sukta and coming up to Sri Venkatanatha's Sri Stuti and Rahasya Raksha (commentary on Catus-sloki) through the Saranagatigadya of Ramanuja, Sri Stava of Sri Vatsanka Misra, and Sri Gunaratnakosa of Bhattar; and so no apology is needed for publishing this. The work will speak for itself and I need not dilate upon its merits. 
-To facilitate reference, I am including in the Appendix complete Stotras of Lakshmi which have been either cited or quoted by the Bhashyakara. Sri Sukta, Catus-sloki, Saranagatigadya, Sri Stava, Sri Gunaratnakosa and Sri Stuti, are published with their translations in English. I have in- cluded chapters eight and nine of the first Amsa of the Vishnu Purana and a Lakshmi Sahasranama and the Lakshmi Ashtottara also. The Sahasra- nama was kindly lent to me by Sri. Sriramadesika- carya of Tirukkottiyur. There are already three editions of Sahasranama in print: one printed in the Vani Vilas Press, Srirangam; the other in the Venkatesvar Steam Press, Bombay; and the third published by V. R. Sastrulu & Sons, Madras. The last two are mostly alike and the first differs much from them. But there too, many names of Lakshmi, that are quoted by earlier writers like Nanjiyar and Desika, are not found and I was in search of the original Sahasra- nama of Lakshmi which should have been the source for the Acaryas. My efforts have been successful at last and I was able to find one with 
-Sri. Sri Rama Desikacarya of Tirukkottiyur which has all the names quoted and it is that I am including in the Appendix. Though it agrees with the Vani Vilas Edition to a large extent, still there are many differences in readings which are given in the foot-notes. I hope it will be use- ful to all, not only as an authority, but as a book for 'Parayanam' also. An alphabetical index of the Lakshmi Sahasranama and Lakshmi Ashtot- tara also is added. I have also prepared indexes of the Riks, of quotations in the Bhashya, and of the proper names mentioned in the Bhashya. Many of the Samhitas quoted, like the Dhana- diya, Kasyapa, Mankana, and Svayambhuva are not to be had now. The quotations from the Bodhayanakalpa and the Padma Purana cannot be traced and there are many other quotations the sources of which I am not able to trace out. I should be much obliged if any kind scholar is pleased to throw any light on all, or any, of them. 
-ACKNOWLEDGMENTS. 
-It would be impossible for me to give full details of all the help I have received from my friends. My chief debt is to Sri. Sri Ramadesika- carya of Tirukkottiyur for kindly lending me his palm-leaf Ms. that he, as if by divine favour, got one morning years ago from the River Ghatila (Garuda Nadi) in Cuddalore. It is on this Ms. that the present work is mainly based.vi 
-I am greatly indebted to my Acarya Sri Saumya Narayana Acarya of Tirukkottiyur who helped me at every stage. It was under his supervision and advice that I copied the Ms. and compared it with an incomplete one in his posses- sion. He read through the whole again when it was printed and gave many useful suggestions which I have tried to carry out. Besides making me what I am, he has blessed my endeavour now with a critical and learned Bhumika to this book in the course of which he establishes the identity of the Bhashyakara with invulnerable arguments. I have drawn a great deal from this Bhumika to write my Introduction in English and it is with great reverence and love that I take this oppor- tunity of expressing my gratitude to him for all his help. 
+
+### FOREWORD 
+
+Sri Sukta is the well-known hymn to the Goddess Sri or Lakshmi who is referred to as the Consort of Maha Purusha in the Uttara Anuvaka of the Purusha Sukta - ( हीथ ते लक्ष्मीश्च पत्न्यौ ). The Sri Sukta is not found in any of the extant recensions of the four Vedas, but has been ever popular as a Khila Rik' (Supplemental Hymn), the authority of which has been universally acknowledged, even as that of so many other 'Khila Mantras. Such Khila Riks are generally found at the end of Mandalas and anuvakas and not at the end of Ashtakas and adhyayas; and this finds a place in the Rig Veda edited by Prof. Max Muller at the end of the fifth Mandala. 
+
+There are many commentaries on this Sukta, the most famous of which are those of Sayana (or Vidyaranya) and of Prthvidharacarya, and they have been edited more than once. The commentary of Nanjiyar or Ranganatha, as he is also called, is another, which is popular chiefly among the Visishtadvaitins. This has been cited and quoted as an authority by Sri Venkatanatha (13th cent.) in his works. In spite of its popularity and authoritativeness, the Bhashya has been so far only in manuscripts and it is with pleasure I place this before the discerning public. This supplies the link that was missing in the chain of the development of the concept of Lakshmi beginning [[iv]] from Yamunacarya's Catus-sloki based on the Sri Sukta and coming up to Sri Venkatanatha's Sri Stuti and Rahasya Raksha (commentary on Catus-sloki) through the Saranagatigadya of Ramanuja, Sri Stava of Sri Vatsanka Misra, and Sri Gunaratnakosa of Bhattar; and so no apology is needed for publishing this. The work will speak for itself and I need not dilate upon its merits. 
+
+To facilitate reference, I am including in the Appendix complete Stotras of Lakshmi which have been either cited or quoted by the Bhashyakara. Sri Sukta, Catus-sloki, Saranagatigadya, Sri Stava, Sri Gunaratnakosa and Sri Stuti, are published with their translations in English. I have included chapters eight and nine of the first Amsa of the Vishnu Purana and a Lakshmi Sahasranama and the Lakshmi Ashtottara also. The Sahasranama was kindly lent to me by Sri. Sriramadesikacarya of Tirukkottiyur. There are already three editions of Sahasranama in print: one printed in the Vani Vilas Press, Srirangam; the other in the Venkatesvar Steam Press, Bombay; and the third published by V. R. Sastrulu & Sons, Madras. The last two are mostly alike and the first differs much from them. But there too, many names of Lakshmi, that are quoted by earlier writers like Nanjiyar and Desika, are not found and I was in search of the original Sahasranama of Lakshmi which should have been the source for the Acaryas. My efforts have been successful at last and I was able to find one with Sri. Sri Rama Desikacarya of Tirukkottiyur which has all the names quoted and it is that I am including in the Appendix. Though it agrees with the Vani Vilas Edition to a large extent, still there are many differences in readings which are given in the foot-notes. I hope it will be useful to all, not only as an authority, but as a book for 'Parayanam' also. An alphabetical index of the Lakshmi Sahasranama and Lakshmi Ashtottara also is added. I have also prepared indexes of the Riks, of quotations in the Bhashya, and of the proper names mentioned in the Bhashya. Many of the Samhitas quoted, like the Dhanadiya, Kasyapa, Mankana, and Svayambhuva are not to be had now. The quotations from the Bodhayanakalpa and the Padma Purana cannot be traced and there are many other quotations the sources of which I am not able to trace out. I should be much obliged if any kind scholar is pleased to throw any light on all, or any, of them. 
+
+### ACKNOWLEDGMENTS. 
+It would be impossible for me to give full details of all the help I have received from my friends. My chief debt is to Sri. Sri Ramadesikacarya of Tirukkottiyur for kindly lending me his palm-leaf Ms. that he, as if by divine favour, got one morning years ago from the River Ghatila (Garuda Nadi) in Cuddalore. It is on this Ms. that the present work is mainly based.vi 
+
+I am greatly indebted to my Acarya Sri Saumya Narayana Acarya of Tirukkottiyur who helped me at every stage. It was under his supervision and advice that I copied the Ms. and compared it with an incomplete one in his possession. He read through the whole again when it was printed and gave many useful suggestions which I have tried to carry out. Besides making me what I am, he has blessed my endeavour now with a critical and learned Bhumika to this book in the course of which he establishes the identity of the Bhashyakara with invulnerable arguments. I have drawn a great deal from this Bhumika to write my Introduction in English and it is with great reverence and love that I take this opportunity of expressing my gratitude to him for all his help. 
+
 My thanks are also due to Melappalayam Venkatacarya, the Vedic scholar at Srirangam who helped me to find out the sources of many Vedic passages quoted in the Bhashya. 
-In addition to the above, I am indebted to Dr. V. Raghavan, M.A., Ph. D., (Senior Assistant to the Editor-in-chief of the Catalogus Catalo- gorum, Madras University), who, on my request, so kindly undertook to compare for me four Mss. of Sri Sukta Bhashya in the Madras Govern- ment Oriental Manuscripts Library and supplied me the various readings. But the work was already half-way through the press when I approached him and so the variations in reading 
-vii 
-could be incorporated in the text itself only in the latter part of the book and for the first half, they are appended to the end of this. 
-I shall be thankful to my friends and well- wishers for any suggestions to improve the work and bring it to perfection. In fine, I shall feel my endeavour has been quite a success if even one devotee of that Goddess-Mahalakshmiya- dasa-or Lakshmi Herself will be pleased with this. 
-8-4-37. 
-SRINIVASA RAGHAVAN. 
-DESCRIPTION OF THE MANUSCRIPTS. 
+
+In addition to the above, I am indebted to Dr. V. Raghavan, M.A., Ph. D., (Senior Assistant to the Editor-in-chief of the Catalogus Catalogorum, Madras University), who, on my request, so kindly undertook to compare for me four Mss. of Sri Sukta Bhashya in the Madras Government Oriental Manuscripts Library and supplied me the various readings. But the work was already half-way through the press when I approached him and so the variations in reading [[vii]] could be incorporated in the text itself only in the latter part of the book and for the first half, they are appended to the end of this. 
+
+I shall be thankful to my friends and wellwishers for any suggestions to improve the work and bring it to perfection. In fine, I shall feel my endeavour has been quite a success if even one devotee of that Goddess-Mahalakshmiyadasa-or Lakshmi Herself will be pleased with this. 
+
+8-4-37.  
+SRINIVASA RAGHAVAN.   
+
+### DESCRIPTION OF THE MANUSCRIPTS.   
 1. Ms. of Sri. Sri Ramadesikacarya marked *. 
-2. D. 25-palm-leaf Ms. in Grantha script calls itself Sri Sukta Bhashya by Gomatha Ranganatha marked . Colophon : इति श्री- गोमठरङ्गनाथविरचितं श्रीसूक्तभाष्यं समाप्तम् । 
-3. D.26-a copy of D. 25 is marked and agrees substantially and verbally in most places with D. 25, but has different readings in many places. Colophon: agregiatărâdi श्रीसूकभाष्यं समाप्तम् । 
-viii 
-4. D. 27.—marked is an abridged version of D. 25 & 26, but with all the discussive portions omitted and giving just a word- for-word meaning and also quotations from some works, most of which are found in D. 25 & 26. This calls itself Sri Sukta- Visishtadvaita-Bhashya and is very much like the one edited by Pandit Anantacarya in Conjivaram in 1899. 
+2. D. 25-palm-leaf Ms. in Grantha script calls itself Sri Sukta Bhashya by Gomatha Ranganatha marked . Colophon : इति श्रीगोमठरङ्गनाथविरचितं श्रीसूक्तभाष्यं समाप्तम् । 
+3. D.26-a copy of D. 25 is marked and agrees substantially and verbally in most places with D. 25, but has different readings in many places. Colophon: agregiatărâdi श्रीसूकभाष्यं समाप्तम् ।[[viii]] 
+4. D. 27.—marked is an abridged version of D. 25 & 26, but with all the discussive portions omitted and giving just a wordfor-word meaning and also quotations from some works, most of which are found in D. 25 & 26. This calls itself Sri SuktaVisishtadvaita-Bhashya and is very much like the one edited by Pandit Anantacarya in Conjivaram in 1899. 
 5. R. 99f.-Tamil part-leaves 97a to 116a- 
 same as D. 25 and so marked . It has three additional Mangala Slokas. (All the above four (2-5) are in the Government Oriental Manuscripts Library, Madras.) 
-6. An incomplete Ms. in the possession of Sri. Sri Saumyanarayana Acarya of Tirukkotti- yur, marked . 
+6. An incomplete Ms. in the possession of Sri. Sri Saumyanarayana Acarya of Tirukkottiyur, marked . 
+
 I am told the Adyar Library has a Sri Sukta Bhashya which is given in the catalogue without the author's name and so also the Mysore Library. The Ms. marked, on which the present work is based, is the most complete and all the others have some portion or other omitted in them. This Bhashya is by Ranganatha Muni. 
+
 The Bhashya on the seventh Rik is not found in any of the Mss. which merely read the Rik. So I have given the meaning from the Bhashya edited by Pandit Anantacarya of Conjivaram. 
-श्रीः 
-श्रीसूक्तभाष्ये पाठभेदाः । 
-[क- गोष्ठीपुरं श्रीमत्. श्रीरामदेशिकाचार्यखामिनां तालपत्रकोशः 
-ख - D. 25 & R99f. 
-ग - D. 26 घ - 27. 
-एतच्चतुष्टयमपि मदरास् गवर्न्मेण्ट् ओरियण्टल् मानस्कृप्ट्स् लैब्ररिगतम् । च-गोष्ठीपुरं श्रीमत् . श्रीसौम्यनारायणाचार्यपादानां तालपत्त्रकोशः ॥ 
+
+### श्रीसूक्तभाष्ये पाठभेदाः  
+श्रीः   
+
+[
+क गोष्ठीपुरं श्रीमत्. श्रीरामदेशिकाचार्यखामिनां तालपत्रकोशः   
+ख - D. 25 & R99f.   
+ग - D. 26 
+घ - 27.  
+
+एतच्चतुष्टयमपि मदरास् गवर्न्मेण्ट् ओरियण्टल् मानस्कृप्ट्स् लैब्ररिगतम् । 
+
+च गोष्ठीपुरं श्रीमत् . श्रीसौम्यनारायणाचार्यपादानां तालपत्त्रकोशः ॥ 
+
 'क, ग, च' इति ग्रन्थाः निर्दिश्यन्ते । 
 अनिर्दिष्टाक्षराः पाठभेदाः ख पुस्तकस्य ] 
+
 पृष्ठ. पङ्किः. 
+
 १ 1 ग्रन्थारम्भे एते श्लोकाः दृश्यन्ते -ख पुस्तके 
 प्राची सन्ध्या काचिदन्तर्निशायाः प्रज्ञादृष्टेरञ्जन श्रीरपूर्वा । 
 वक्त्री वेदान् भातु मे वाजिवक्त्रा 
@@ -191,7 +210,7 @@ The Bhashya on the seventh Rik is not found in any of the Mss. which merely read
 ५ 
 X 
 १ 1 2 श्री पराशर.... इति श्लोकः न - ख । लोकसद्भावेऽपि 
-अनन्तर श्लोकस्य एव प्रथमसंख्या दीयते -- ग. 
+अनन्तर श्लोकस्य एव प्रथमसंख्या दीयते -ग. 
 २ 
 m 
 3 जननीं लक्ष्मीं कमलवासिनी - ख. 
@@ -206,12 +225,12 @@ m
 6 स्थापयन्ती - ख. 
 4 आङ्–क,ख. 
 7 वैदेहीमिति - ख. 
-9 समाराधनसमुद्यतानां भोगानु-- ख. 
+9 समाराधनसमुद्यतानां भोगानु-ख. 
 11-13 यस्य यस्य....दुहाना इति एतत् न - ख. 
 18 प्रकिरन्तीति बहुस्नुतीति - ख; प्रक्षरन्ती बहुस्तुति- 
 रिति-च. 
 2 जंगमात्मकप्रपञ्चस्य ख, ग . 6 [ 
-हविषा ] इति न- ग. 6 वस्त्रपुष्पादिना - ख. 
+हविषा ] इति नग. 6 वस्त्रपुष्पादिना - ख. 
 7 वा इति न - ख; सा नो लोकमित्यादि इति न - ख. 8 समाराधितेभ्यः - ख. 13 पुराणवचनं... लेख्यं इति न. 14 'ईशाना देवी' इत्यारभ्य, पृ. १६, २. एवं भूतां 
 श्रद्धामुपास्महे' इत्यन्तं न - ख. 
 6 यजमानाः -ग, च. 7 देवाः ―ग, च. 
@@ -281,8 +300,8 @@ xiii
 प्रवा येते । 
 16 भवन्ति इत्यादि । अर्थज्ञान । 
 4 सम्यगादरणीयं । 5 व्याकुर्महे । सूक्तं व्याख्यास्यते । 
-8, 9 अयं श्लोको न- ग. 
-13 सूर्यवैष्णवचतुर्मुख- । 16,17 पद्मभूः प्राप्तवान्-ग. 
+8, 9 अयं श्लोको नग. 
+13 सूर्यवैष्णवचतुर्मुख। 16,17 पद्मभूः प्राप्तवान्-ग. 
 3 सर्वान् लोकान् - ग. | 9 चन्द्रमसग । चन्द्रस्य 
 इति - ग. । पुनरप्यत्रैव-ख, च । 
 12 यमश्च । 17 एवं ते-ख, ग. 
@@ -290,9 +309,9 @@ xiii
 2 जातवेदशब्दस्य - ग. । 7 " अत एव प्राणः" इत्यपि 
 भवितव्यं च 
 9 हितरमणीयरूपां - च. 
-9 हिरण्यवर्णां । हिरण्यं - हितरमणीयं- ग 
-10 रमणीयत्वेन प्रीत्यनु । 14 तत्तत्स्फुरत्- क, ख . 16 सर्वपापक्षयप्रदां । वैष्णवे, त्वं सिद्धिः- ग. 
-1-3 पंक्तित्रयं न - ख. । 2 यद्वा- ग. 
+9 हिरण्यवर्णां । हिरण्यं - हितरमणीयंग 
+10 रमणीयत्वेन प्रीत्यनु । 14 तत्तत्स्फुरत्क, ख . 16 सर्वपापक्षयप्रदां । वैष्णवे, त्वं सिद्धिःग. 
+1-3 पंक्तित्रयं न - ख. । 2 यद्वाग. 
 6,10 पक्तिद्वयेऽपि पाठः शोध्यः । 
 10 सुवर्णरजतस्रजतां । 
 २४ 
@@ -319,7 +338,7 @@ xiv
 6 संस्तुता । 
 ३१ 
 1 इत्यत्र च 
-6 सात्वते इति न- ग. 
+6 सात्वते इति नग. 
 ३२ 
 ३३ 
 ३४ 
@@ -329,12 +348,12 @@ xiv
 3 अपनीय च ख, च. 
 · 
 4-8 प्रापयन्तीमित्यर्थः । तां उक्तगुणविशिष्टां सर्वेश्वरी 
-शरणं प्रपद्ये- ख. 
+शरणं प्रपद्येख. 
 11 रम्यं । 
 17 कीर्तनान्मत्तः - ग. प्रवृत्तात्मनः - ख. । 
 18 सर्वस्य गमिष्यति जवेन वै 
 I 
-4 मायां नाशयति स्वयं । 9 आदित्यवर्णे इत्यादि । 10 स्थापिता- ग. 
+4 मायां नाशयति स्वयं । 9 आदित्यवर्णे इत्यादि । 10 स्थापिताग. 
 ३७ 
 ३८ 
 ३९ 
@@ -342,7 +361,7 @@ I
 १५ 
 XV 
 11 मङ्गलावहस्य बिल्ववृक्षस्य फलानि, तपसा- 
-स्वहोमरक्षण —- ख. 
+स्वहोमरक्षण —ख. 
 14 बिल्वाटव्यान्तरं भोजवनस्थां । 15 अन्यत्र किं च. 16 फलाभ्याशी । 18 विघातकराः । 
 15 तत्सहचारिण्यश्च वा अश्रीः । 
 ( तत्सहचारिण्यश्च । अश्रीर्वा )? 13 अलक्ष्मी लक्ष्मीप्रतिभटरूपां-च. 
@@ -351,7 +370,7 @@ XV
 15 त्वदाश्रयणैकप्रयोजनस्य-च. 
 ता नाशयामि च . 
 6 इत्यादिके - इति न च 8 श्रूयमाणाः -च. 14 'च' इति 'यथा' इति च न च. 
-7 सृजते --- च. 
+7 सृजते --च. 
 13 शेषित्वमपि व्यासक्तं एकं च. 
 2 सर्वर्धीनां च सत्यत्वं यशसश्च प्रयाचते -च. 
 ५५ 
@@ -363,47 +382,47 @@ XV
 12 भगवच्छायाकपिशितशीतलमनोहर- 
 6 वाचः संबन्धि-च.11 eft: 11 
 
-॥ श्रीमते रामानुजाय नमः ॥ 
+### भूमिका 
+॥ श्रीमते रामानुजाय नमः ॥
 
-भूमिका 
 
 कलये कमलां कल्यां कल्याणानामवाप्तये । 
 विमलं सूक्तमस्यास्तद्भाप्यकर्तृश्च देशिकान् ।। 
 
-विदितमेवैतदार्याणां, आर्यमिश्राः, यत् लक्ष्मीवीक्षणं यतोमुखं चिचलिषेत्, तत्रैव रतिमतिसरखतीधृतिसमृद्धिसिद्धिशोभादयः सर्वाः संपदोऽहंपूर्विकया कूलङ्कषाः परिवहन्तीति । तत्साधनभूतं तत्समा- श्रयणं च तद्वैभवतत्त्वज्ञानविश्वासाद्यधीनं तदर्थं प्राधान्येन श्रीसूक्त - मेवापेक्षते; तदुपबृंहणतया च स्मृतीतिहासपुराणसंहितासंप्रदायान् । सामान्यतश्च सर्वेषां मन्त्राणामर्थतत्वज्ञानावश्यंभावः, तत एव प्रकृत- भाष्यारंभ इति चास्मिन् ग्रन्थ एव सप्रमाणमुपपादितम् । एवमवश्या- पेक्षिते अर्थज्ञाने, मन्दमतीनामस्मादृशां स्वतस्तदसंभवे च निस्संशये, व्याख्यानापेक्षा नैवोपपादनीया ॥ 
-तत्रामुष्य भाष्यस्य भाषितारः पूर्वदशायां मतान्तरप्रवर्तकतयाऽ- वस्थानेऽपि श्रीमद्भट्टपराशरपादकटाक्षामृतलहर्यभिषेकपरिक्षालितसकल- कल्मषाः, तदैव मतान्तरपरित्यागेन परमप्रामाणिकाः, तदैव संन्यास- स्वीकारेण परमविरक्ताः श्रीभट्टपादेभ्य एव विदितवेद्याः स्ववागमृतासार- पूरितभुवनत्रयत्वेन प्रज्ञाताः, 
+विदितमेवैतदार्याणां, आर्यमिश्राः, यत् लक्ष्मीवीक्षणं यतोमुखं चिचलिषेत्, तत्रैव रतिमतिसरखतीधृतिसमृद्धिसिद्धिशोभादयः सर्वाः संपदोऽहंपूर्विकया कूलङ्कषाः परिवहन्तीति । तत्साधनभूतं तत्समाश्रयणं च तद्वैभवतत्त्वज्ञानविश्वासाद्यधीनं तदर्थं प्राधान्येन श्रीसूक्त - मेवापेक्षते; तदुपबृंहणतया च स्मृतीतिहासपुराणसंहितासंप्रदायान् । सामान्यतश्च सर्वेषां मन्त्राणामर्थतत्वज्ञानावश्यंभावः, तत एव प्रकृतभाष्यारंभ इति चास्मिन् ग्रन्थ एव सप्रमाणमुपपादितम् । एवमवश्यापेक्षिते अर्थज्ञाने, मन्दमतीनामस्मादृशां स्वतस्तदसंभवे च निस्संशये, व्याख्यानापेक्षा नैवोपपादनीया ॥ 
+तत्रामुष्य भाष्यस्य भाषितारः पूर्वदशायां मतान्तरप्रवर्तकतयाऽवस्थानेऽपि श्रीमद्भट्टपराशरपादकटाक्षामृतलहर्यभिषेकपरिक्षालितसकलकल्मषाः, तदैव मतान्तरपरित्यागेन परमप्रामाणिकाः, तदैव संन्यासस्वीकारेण परमविरक्ताः श्रीभट्टपादेभ्य एव विदितवेद्याः स्ववागमृतासारपूरितभुवनत्रयत्वेन प्रज्ञाताः, 
 द्वैविध्यमापन्नेऽपि भगवद्भाष्यकारसंप्रदाये 
 xvii 
 ' नव- 
 भट्टपादवदेवाविशेपमा द्रियमाणाः प्रकृतग्रन्थव्यतिरेकेणापि सहस्री'संज्ञितद्रमिडोपनिषद्भाप्यनित्यार्चनप्रयोगादिनिर्मातारो भगव- 
 द्विषयग्रन्थेषु भगवत्प्रेमभरपरिवाहसरससरसोपन्याससन्तोषितसहृदयत्वेन मुहुर्मुहुः ख्याप्यमानाः 'नञ्जीयर्' (bjgjai) नामानः परमाचार्या इति प्रसिद्धमेवैतत् ॥ 
-एतद्भाष्यारंभ एव च मङ्गलतयैभिर्निबद्धः 'श्री पराशरभट्टार्य' इति श्लोकः श्रीभट्टपादानामनुसन्धानपद्यतया सर्वैराद्रियते; भट्टपाद- प्रभृतिभिरेव स्वस्वग्रन्थारंभे मङ्गलतया निबद्धाः “श्रीवत्सचिह्नमिश्रेभ्यः" "रामानुजपदच्छाया,” “यो नित्यं" इत्यादिश्लोकाः इव तत्तदाचार्या - नुसन्धानपद्यतया ॥ 
+एतद्भाष्यारंभ एव च मङ्गलतयैभिर्निबद्धः 'श्री पराशरभट्टार्य' इति श्लोकः श्रीभट्टपादानामनुसन्धानपद्यतया सर्वैराद्रियते; भट्टपादप्रभृतिभिरेव स्वस्वग्रन्थारंभे मङ्गलतया निबद्धाः “श्रीवत्सचिह्नमिश्रेभ्यः" "रामानुजपदच्छाया,” “यो नित्यं" इत्यादिश्लोकाः इव तत्तदाचार्या - नुसन्धानपद्यतया ॥ 
 s 
-एषां च श्रीसूक्तभाप्यप्रणेतृत्वं श्रीमति च सारशास्त्रे सिद्धोपायशोधने "ஸ்ரீஸூக்தபாஷ்யத்திலே பெரிய ஜீயரும் அபேக்ஷிதார்த் $ign @Qwvonin eur शिक्रं कृi" इति वाक्येनावगम्यते । चरमश्लोकाधिकारे “Qui 'श्री पराशरभट्टार्यचरणौ संश्र- येमहि' Sur own invo@pri♚$ மாக குருநமஸ்காராதிகளைப் பண்ணி, 
+एषां च श्रीसूक्तभाप्यप्रणेतृत्वं श्रीमति च सारशास्त्रे सिद्धोपायशोधने "ஸ்ரீஸூக்தபாஷ்யத்திலே பெரிய ஜீயரும் அபேக்ஷிதார்த் $ign @Qwvonin eur शिक्रं कृi" इति वाक्येनावगम्यते । चरमश्लोकाधिकारे “Qui 'श्री पराशरभट्टार्यचरणौ संश्रयेमहि' Sur own invo@pri♚$ மாக குருநமஸ்காராதிகளைப் பண்ணி, 
 'भगवच्चरणांभोजपरिचर्याविधिक्रमम् । 
 ய 
 एकान्तिभिरनुष्ठेयं नित्यं समभिदध्महे ॥' क आपोहीत्यादिभिर्मन्त्रैः वाचकैः परमात्मनः । 
 संप्रोक्ष्य मन्त्राचमनं' इत्यारभ्य, “गुनी कृ” 
 B 
 xviii 
-इत्यन्तवाक्यपर्यालोचने भट्टचरणान्तेवासिनः नित्वग्रन्थनिर्मातारः 'नञ्जीयर् ' योगिन एव 'पेरिय जीयर' (@u ) इत्यप्यभिघी- यन्ते इत्यवगम्यते । अस्मिन्नधिकारद्वयेऽपि यथायोगं भगवद्यामुना- चार्य-भगवद्भाष्यकार-वह्निवंशेश्वर-श्रीवत्सचिह्नमिश्र भट्टपाद निर्देशानन्तर निर्देशो ‘नञ्जीयर्' योगिनामेव औचित्येनापि सिद्ध्यति इत्यपि संप्र- दायविदां सुगममेव । एभिश्च 'शुम्भाणं L&&&Ca_GsLG bjguri ciliaon♚♚mi" इति सिद्धोपायशोधनवाक्येन किडा - म्बि आच्चान्' (@_rio19 शुभगं ) संज्ञितयतिराज माहानसिकगुरु- भ्यः कतिपयार्थाः श्रीतत्त्वसंबन्धिनः श्रुताः इति स्फुटम् । भाष्ये “ यतीन्द्रमाहानसिकात् प्रणतार्तिहरात् गुरोः । 
+इत्यन्तवाक्यपर्यालोचने भट्टचरणान्तेवासिनः नित्वग्रन्थनिर्मातारः 'नञ्जीयर् ' योगिन एव 'पेरिय जीयर' (@u ) इत्यप्यभिघीयन्ते इत्यवगम्यते । अस्मिन्नधिकारद्वयेऽपि यथायोगं भगवद्यामुनाचार्य-भगवद्भाष्यकार-वह्निवंशेश्वर-श्रीवत्सचिह्नमिश्र भट्टपाद निर्देशानन्तर निर्देशो ‘नञ्जीयर्' योगिनामेव औचित्येनापि सिद्ध्यति इत्यपि संप्रदायविदां सुगममेव । एभिश्च 'शुम्भाणं L&&&Ca_GsLG bjguri ciliaon♚♚mi" इति सिद्धोपायशोधनवाक्येन किडा - म्बि आच्चान्' (@_rio19 शुभगं ) संज्ञितयतिराज माहानसिकगुरुभ्यः कतिपयार्थाः श्रीतत्त्वसंबन्धिनः श्रुताः इति स्फुटम् । भाष्ये “ यतीन्द्रमाहानसिकात् प्रणतार्तिहरात् गुरोः । 
 सत्संप्रदायसिद्धोऽर्थः श्रीसूक्तस्य विनिश्चितः || ” 
 கட 
 इत्युपसंहारपद्यात् त एवेम इति निश्चीयन्ते । 
 " श्रीमहालक्ष्मिदासीये सर्वशास्त्रार्थनिर्णये । श्रीमच्छीसूक्तभाष्येऽस्मिन् रमध्वं भूसुरोत्तमाः || ” 
 अत्र च 
-इति तदनन्तरश्लोके महालक्ष्मिदासत्वेनैतद्भाप्यकर्तृभिः नामनिर्देशन- न्तरेणात्माऽनुसन्धीयते । तदप्युचितमेव एषां निरतिशयस्य लक्ष्मी- चरणारविन्दप्रावण्यस्य भगवद्विषयग्रन्थेष्ववगमात् भट्टपादशिष्याणां तथा निर्देशस्य न्याय्यत्वाच्च । तेषां हि मैथिलजनभावः श्रीगुणरत्न- कोशादिषु व्यक्तः । 
+इति तदनन्तरश्लोके महालक्ष्मिदासत्वेनैतद्भाप्यकर्तृभिः नामनिर्देशनन्तरेणात्माऽनुसन्धीयते । तदप्युचितमेव एषां निरतिशयस्य लक्ष्मीचरणारविन्दप्रावण्यस्य भगवद्विषयग्रन्थेष्ववगमात् भट्टपादशिष्याणां तथा निर्देशस्य न्याय्यत्वाच्च । तेषां हि मैथिलजनभावः श्रीगुणरत्नकोशादिषु व्यक्तः । 
 2 
-भगवद्गुणदर्पणे लक्ष्मीप्रभावपरत्वेन तदुपात्ताः श्रद्धासूक्त- मेधासूक्तादयश्चात्र भाष्ये तत्परतया सविस्तरमुपपाद्यन्ते ॥ 
+भगवद्गुणदर्पणे लक्ष्मीप्रभावपरत्वेन तदुपात्ताः श्रद्धासूक्तमेधासूक्तादयश्चात्र भाष्ये तत्परतया सविस्तरमुपपाद्यन्ते ॥ 
 xix 
-अपि च रहस्यरक्षायां चतुः श्लोक्यधिकारे, “अत्र सर्वभूतेश्व- रत्वादिवचनसाम्यात् अस्या गुणभावः उभयेच्छाप्रयुक्त इति केचित् 
+अपि च रहस्यरक्षायां चतुः श्लोक्यधिकारे, “अत्र सर्वभूतेश्वरत्वादिवचनसाम्यात् अस्या गुणभावः उभयेच्छाप्रयुक्त इति केचित् 
 अन्योन्येच्छाविघातादिनिवृत्तौ तत्परत्वतः 
 आहुः । 
 ऐककण्ठ्यमशेषाणां आगमानां भवत्विति ॥ " 
-इत्यनुद्यमानोऽत एव पुरोवादसापेक्षः पक्षोऽस्मिन् भाष्ये नवम्याः 'गन्ध- द्वारां' इत्यृचो व्याख्याने, “ एवं सर्वभूतेश्वरत्ववचनसाम्यात् द्वयोरपि मुख्येश्वरत्वस्य दुरपहृवत्वेन सर्वागमानामीश्वरव्यक्तयैक्यपरत्वेऽनुपपन्ने सर्वागमानामैककण्ठ्यं अन्योन्येच्छाविघातादिनिवृत्तौ तात्पर्यात् उप- पन्नं" इत्यादिवाक्ये शब्दतोऽर्थतश्च प्रत्यभिज्ञायमानोऽयमेव पुरोवाद इति स्थापयति । अत आचार्यापेक्षया पूर्वैः, श्रीभट्टपादशिष्यैः, यती- न्द्रमाहानसिकेभ्योऽपि श्रुतार्थैः, लक्ष्मीचरणप्रावण्यशालिभिः परमगुरुभिः प्रणीतमिदं भाप्यं ‘नञ्जीयर् भाप्यं' इत्येव यथाप्रसिद्धि न्याय्यमङ्गीकर्तु इति विशदतममेवौचित्यवेदिनाम् ॥ 
-'श्रीरङ्गनाथमुनिविरचितम्' इति अन्ते दृश्यमानवाक्ये 'रङ्गनाथमुनिः ' इति श्रूयमाणं नामधेयमप्यदसीयमेव संभाव्यते ; तेषां गुरुपरम्परा- वैभवादिषु नामान्तराप्रसिद्धेः । यद्यपि श्रीपाञ्चरात्ररक्षादिपरामर्शे प्रकृतानामाचार्याणां नारायणमुनय इति नाम प्रतिभाति, तथापि भट्ट- पादचरणारविन्दसंश्रयणात्पूर्वमेव संन्यासदशायां तत्स्वयमेव स्वीकृतं, संन्यासाश्रमदातृभिर्दत्तं वा नाम स्यात् । आचार्यसमाश्रयणदशायां नाम- संस्कारे भट्टपादैरिदं दत्तं स्यात् । उभयमपि समीचीनतया पूर्वव्यवहार - विषयतयाऽप्यवतिष्ठेत वादिहंसाम्बुदगुरवरपितॄणां श्रीरङ्गराजगुरवः 
+इत्यनुद्यमानोऽत एव पुरोवादसापेक्षः पक्षोऽस्मिन् भाष्ये नवम्याः 'गन्धद्वारां' इत्यृचो व्याख्याने, “ एवं सर्वभूतेश्वरत्ववचनसाम्यात् द्वयोरपि मुख्येश्वरत्वस्य दुरपहृवत्वेन सर्वागमानामीश्वरव्यक्तयैक्यपरत्वेऽनुपपन्ने सर्वागमानामैककण्ठ्यं अन्योन्येच्छाविघातादिनिवृत्तौ तात्पर्यात् उपपन्नं" इत्यादिवाक्ये शब्दतोऽर्थतश्च प्रत्यभिज्ञायमानोऽयमेव पुरोवाद इति स्थापयति । अत आचार्यापेक्षया पूर्वैः, श्रीभट्टपादशिष्यैः, यतीन्द्रमाहानसिकेभ्योऽपि श्रुतार्थैः, लक्ष्मीचरणप्रावण्यशालिभिः परमगुरुभिः प्रणीतमिदं भाप्यं ‘नञ्जीयर् भाप्यं' इत्येव यथाप्रसिद्धि न्याय्यमङ्गीकर्तु इति विशदतममेवौचित्यवेदिनाम् ॥ 
+'श्रीरङ्गनाथमुनिविरचितम्' इति अन्ते दृश्यमानवाक्ये 'रङ्गनाथमुनिः ' इति श्रूयमाणं नामधेयमप्यदसीयमेव संभाव्यते ; तेषां गुरुपरम्परावैभवादिषु नामान्तराप्रसिद्धेः । यद्यपि श्रीपाञ्चरात्ररक्षादिपरामर्शे प्रकृतानामाचार्याणां नारायणमुनय इति नाम प्रतिभाति, तथापि भट्टपादचरणारविन्दसंश्रयणात्पूर्वमेव संन्यासदशायां तत्स्वयमेव स्वीकृतं, संन्यासाश्रमदातृभिर्दत्तं वा नाम स्यात् । आचार्यसमाश्रयणदशायां नामसंस्कारे भट्टपादैरिदं दत्तं स्यात् । उभयमपि समीचीनतया पूर्वव्यवहार - विषयतयाऽप्यवतिष्ठेत वादिहंसाम्बुदगुरवरपितॄणां श्रीरङ्गराजगुरवः 
 XX 
-पद्मनाभाचार्याः इति च नामद्वयवत् । इदं हि नामद्वयं वैष्णवकुले लब्ध- जन्मद्वयानुबन्धिभ्यां नामकरणनामसंस्काराभ्यामागतमिति संभाव्यते । व्यवह्नियते चेदं नामद्वयं न्यायकुलिशतदनुसन्धानपद्यादिषु । नामदा- नादिषु चानेकनामदानमपि प्रमाणेष्वाचारेषु च दृश्यत एव । तथा वा दृष्टान्तदाष्टन्तिकयोः स्यात् । इत्थं च एषामेव 'रङ्गनाथमुनिः ' 'नारायणमुनिः' इति च नामद्वये न कोऽपि विरोधः । अपि च श्रीरंगनाथचरणतन्नामैकजीवितैः श्रीभट्टपादैः तस्यैव नाम्नोऽनुग्रहौचि- त्यात् तन्नामवहनस्य तद्दास्य चिह्नत्वेन एभिरपि तस्य नाम्नो वहनस्यौचि- त्याच्च । भट्टपादानामपि हि ‘रङ्गनाथ' इत्यभिधानरत्नं भगवद्गुणदर्पणे " श्री श्रीरङ्गपतिप्रसादतृषया श्रीरंगनाथाभिध" इत्यारंभ श्लोके स्पष्टम् । "वेदान्त्याख्यमुनिं” “नमो वेदान्तवेद्याय " इत्यादि तु पूर्वावस्थातो ऽविरोधादनुवर्तमानं किंचिदिव वित्रियमाणं च नाम स्यात् इति मन्महे ॥ 
+पद्मनाभाचार्याः इति च नामद्वयवत् । इदं हि नामद्वयं वैष्णवकुले लब्धजन्मद्वयानुबन्धिभ्यां नामकरणनामसंस्काराभ्यामागतमिति संभाव्यते । व्यवह्नियते चेदं नामद्वयं न्यायकुलिशतदनुसन्धानपद्यादिषु । नामदानादिषु चानेकनामदानमपि प्रमाणेष्वाचारेषु च दृश्यत एव । तथा वा दृष्टान्तदाष्टन्तिकयोः स्यात् । इत्थं च एषामेव 'रङ्गनाथमुनिः ' 'नारायणमुनिः' इति च नामद्वये न कोऽपि विरोधः । अपि च श्रीरंगनाथचरणतन्नामैकजीवितैः श्रीभट्टपादैः तस्यैव नाम्नोऽनुग्रहौचित्यात् तन्नामवहनस्य तद्दास्य चिह्नत्वेन एभिरपि तस्य नाम्नो वहनस्यौचित्याच्च । भट्टपादानामपि हि ‘रङ्गनाथ' इत्यभिधानरत्नं भगवद्गुणदर्पणे " श्री श्रीरङ्गपतिप्रसादतृषया श्रीरंगनाथाभिध" इत्यारंभ श्लोके स्पष्टम् । "वेदान्त्याख्यमुनिं” “नमो वेदान्तवेद्याय " इत्यादि तु पूर्वावस्थातो ऽविरोधादनुवर्तमानं किंचिदिव वित्रियमाणं च नाम स्यात् इति मन्महे ॥ 
 अत एतान् गुरूनधिकृत्य, " 
 'Bi@mo न ஜீயர்;' இத்திருநாமம் சுருங்கிச் சுருங்கி 'நஞ்ஜீயர்' என aurjin” इति श्रीतत्वनिर्णयकारोक्तिरपि समूलैव स्यादिति ' इत्यनयोः संस्कृतद्रमिड- 
 संभाव्यते ; ' रङ्गनाथः ' 'Bib@ 
@@ -411,72 +430,78 @@ XX
 एषां च गुरुरत्नानां अवतारकालश्चरित्रं प्रभाव इत्यादिकं गुरुपरम्पराप्रभावग्रन्थेषु लिखितमेवास्माभिरविलेख्यमिति तत उपर- 
 म्यते ॥ 
 xxi 
-अस्मिंश्च भाष्ये प्रथमं श्रद्धासूक्तद्वयं, मेघासूक्तं, अदितिसूक्त- द्वयं वाक्सूक्तं, पृथिवीसूक्तं, इत्याद्याः श्रुतयः वैष्णवब्राह्मसनत्कुमार- संहितालैङ्गविष्णुस्मृतिस्वायंभुवादिस्थतदुपबृंहणवचनानि च सम्यक् व्या- ख्यातानि । अनन्तरं सूक्तस्य ऋष्यादयः सप्रमाणो विनियोगः ऋष्यादिज्ञानावश्यंभावः, अर्थज्ञानावश्यंभावः इत्यादिकमुपापादि । ततः सौक्तीनां पञ्चदशानामृचां सम्यग्विवरणमक्रियत ॥ 
+अस्मिंश्च भाष्ये प्रथमं श्रद्धासूक्तद्वयं, मेघासूक्तं, अदितिसूक्तद्वयं वाक्सूक्तं, पृथिवीसूक्तं, इत्याद्याः श्रुतयः वैष्णवब्राह्मसनत्कुमारसंहितालैङ्गविष्णुस्मृतिस्वायंभुवादिस्थतदुपबृंहणवचनानि च सम्यक् व्याख्यातानि । अनन्तरं सूक्तस्य ऋष्यादयः सप्रमाणो विनियोगः ऋष्यादिज्ञानावश्यंभावः, अर्थज्ञानावश्यंभावः इत्यादिकमुपापादि । ततः सौक्तीनां पञ्चदशानामृचां सम्यग्विवरणमक्रियत ॥ 
 , 
-तत्रायं सङ्ग्रहः – प्रथमायामृचि भगवत्सन्निधौ आत्मनि लक्ष्मीसन्निधापनप्रार्थनम् । द्वितीयस्यां अन्यतो व्यावर्त्य आत्मन्येव लक्ष्म्या अवस्थापनप्रार्थनम् । तत्रैव तृतीयस्यां भगवत्प्रसादादागतायाः श्रियः स्वस्मिन् सन्निधिप्रार्थनम् । तुरीयायां सस्मिततयाऽऽगमनप्रा- र्थनम् । पञ्चम्यां लक्ष्मीप्रपत्तिपूर्वकं अलक्ष्मीनाशप्रार्थनम् । सप्तम्या ऋचो व्याख्या यद्यपि पतिता, तथापि तत्रालक्ष्मीनाशे कीर्तिमण्यादि- मङ्गलवस्तुलाभकथनमिति स्यात् । अष्टम्यां अलक्ष्मीतत्कार्यविवरणेन तन्नाशप्रार्थनम् । नवम्यां अलक्ष्मीनाशानन्तरं लक्ष्म्याह्वानं । दशम्यां स्वकीयमनोवागादिव्यापाराणां लक्ष्मीप्रसादादमोघताप्रार्थनम् । एकाद- इयां लोकानुग्रहार्थं कर्दमप्रजापतिगृहेऽवतीर्णायाः श्रियः खकुले नित्य- निवासे तत्पितृकर्दमानुमतिप्रार्थनम् । द्वादश्यां लक्ष्मीपरिकराणां 'चिक्लीतादीनां प्रार्थनम् । त्रयोदश्यां आदरातिशयेन पुनर्लक्ष्मीनि- चासाय प्रथमायामृचीव भगवत एव प्रार्थनम् । चतुर्दश्यां प्रकारान्तरेण अस्यैवार्थस्य कथनम् । पञ्चदश्यां द्वितीयस्यामिव भगवत्येव लक्ष्म्याः खतोऽनपगमप्रार्थनमिति ॥ 
+तत्रायं सङ्ग्रहः – प्रथमायामृचि भगवत्सन्निधौ आत्मनि लक्ष्मीसन्निधापनप्रार्थनम् । द्वितीयस्यां अन्यतो व्यावर्त्य आत्मन्येव लक्ष्म्या अवस्थापनप्रार्थनम् । तत्रैव तृतीयस्यां भगवत्प्रसादादागतायाः श्रियः स्वस्मिन् सन्निधिप्रार्थनम् । तुरीयायां सस्मिततयाऽऽगमनप्रार्थनम् । पञ्चम्यां लक्ष्मीप्रपत्तिपूर्वकं अलक्ष्मीनाशप्रार्थनम् । सप्तम्या ऋचो व्याख्या यद्यपि पतिता, तथापि तत्रालक्ष्मीनाशे कीर्तिमण्यादिमङ्गलवस्तुलाभकथनमिति स्यात् । अष्टम्यां अलक्ष्मीतत्कार्यविवरणेन तन्नाशप्रार्थनम् । नवम्यां अलक्ष्मीनाशानन्तरं लक्ष्म्याह्वानं । दशम्यां स्वकीयमनोवागादिव्यापाराणां लक्ष्मीप्रसादादमोघताप्रार्थनम् । एकादइयां लोकानुग्रहार्थं कर्दमप्रजापतिगृहेऽवतीर्णायाः श्रियः खकुले नित्यनिवासे तत्पितृकर्दमानुमतिप्रार्थनम् । द्वादश्यां लक्ष्मीपरिकराणां 'चिक्लीतादीनां प्रार्थनम् । त्रयोदश्यां आदरातिशयेन पुनर्लक्ष्मीनिचासाय प्रथमायामृचीव भगवत एव प्रार्थनम् । चतुर्दश्यां प्रकारान्तरेण अस्यैवार्थस्य कथनम् । पञ्चदश्यां द्वितीयस्यामिव भगवत्येव लक्ष्म्याः खतोऽनपगमप्रार्थनमिति ॥ 
 xxii 
-एवमसंख्यातार्थगर्भं बहूपयोगमिदं सूक्तं सभाप्यं प्राचीनपुस्तकसहा- येन यथामति परिशोध्य सम्मुद्रय अस्मदन्तेवासिना श्री श्रीनिवासराव - वेण प्रकाशितम् । तदिदं सम्यगवलोक्योपयुज्य सन्तोष्टव्यमार्यैरिति सविनयमभ्यर्थयामहे || 
+एवमसंख्यातार्थगर्भं बहूपयोगमिदं सूक्तं सभाप्यं प्राचीनपुस्तकसहायेन यथामति परिशोध्य सम्मुद्रय अस्मदन्तेवासिना श्री श्रीनिवासराव - वेण प्रकाशितम् । तदिदं सम्यगवलोक्योपयुज्य सन्तोष्टव्यमार्यैरिति सविनयमभ्यर्थयामहे || 
 मथुरान्तकम् ईश्वर चैत्र, २ (14th April, 1937.) 
 गोष्ठीपुरं श्रीसौम्यनारायणाचार्यः 
 SRI. 
-INTRODUCTION. 
-It may be said almost without contradiction that there is no branch of literature in India, secular or religious, which is not based on the Vedas, the sacred books of the Hindus and these have been enjoying unquestioned authority from time immemorial. These Vedas are in two sec- tions: the Karma-kanda dealing with the rituals and sacrifices, and the Gnana-kanda with the nature of Brahman, the world, and their inter- relation; which latter (the Gnana-kanda) is the source of all our systems of philosophy. 
-The Gnana-kanda has been differently inter- preted by different schools of philosophy. But the one form of philosophy which has, and can at any time have, universal popularity is that in which the Brahman of the Upanishads is con- ceived of as a being, between which and the de- votee there can exist a personal relation, love and faith on the part of man, justice tempered by mercy on the part of the Divinity. The School of the Alvars pre-eminently struck this note of devotion to a personal God-Sriman Narayana, and so came to hold the hearts of the people. 
-This school of the Alvars gradually developed through several centuries till it assumed a full and definite form in the eleventh century with the advent of Sri Ramanuja and his numerous 
-xxiv 
-disciples proficient in the Upanishadic lore, both of the Vedas and of the Alvars. The Alvars recognised the Divine Couple Sri and Narayana as the Supreme Tattva, as the goal, and as the means towards the goal (Para Tattva, Parama hita, and Parama Purushartha). The Couple are responsible for the creation, sustenance, and dis- solution of the world; and in short the Brahman of the Upanishads connotes for them the Divya Mithuna or the Divine Couple. Thus the hymns of the Alvars speak of the greatness of Sri as being on a par with that of Her Consort, in every way. She equally shares with Him the definition of the term "Brahman. 
-The Acaryas who came in the wake of the Alvars elucidated this idea in their different Stotras to Sri, i. e., Lakshmi: Sri Yamuna- carya in his Catus-sloki (hymn of four verses), and Ramanuja in his Saranagati gadya. 
-The disciples of the latter carried this still futher: Srivatsanka Misra in his Sri Stava of eleven verses, and Sri Parasara Bhattar in his Sri Guna- 
-ratnakosa of sixty-one verses. Nanjiyar, who was also called Ranganatha and Narayana Muni, and who was a disciple of Bhattar, codified all the ideas from the time of the Vedas to that of his own master and wrote a masterly digest in the form of a commentary on Sri Sukta, called the Sri Sukta Bhashya which is published now for the first time nearly eight hundred years after it was written. No doubt later Acaryas such as Sri Venkatanatha and Nainar-accan-pillai have 
-XXV 
-given the world their Sri Stuti and Catus-sloki Bhashyas; but the former's is an exposition, and the latter's at best a criticism of the ideas in the Sri Sukta Bhashya of Nanjiyar. So it may be said without hesitation that the Sri Sukta Bhashya marks the climax in the development of the concept of Sri, especially in the Visishta- dvaita School of Philosophy. 
-LIFE AND WORKS OF THE BHASHYAKARA : 
-RANGANATHA MUNI (NANJIYAR). 
+
+### INTRODUCTION. 
+It may be said almost without contradiction that there is no branch of literature in India, secular or religious, which is not based on the Vedas, the sacred books of the Hindus and these have been enjoying unquestioned authority from time immemorial. These Vedas are in two sections: the Karma-kanda dealing with the rituals and sacrifices, and the Gnana-kanda with the nature of Brahman, the world, and their interrelation; which latter (the Gnana-kanda) is the source of all our systems of philosophy. 
+
+The Gnana-kanda has been differently interpreted by different schools of philosophy. But the one form of philosophy which has, and can at any time have, universal popularity is that in which the Brahman of the Upanishads is conceived of as a being, between which and the devotee there can exist a personal relation, love and faith on the part of man, justice tempered by mercy on the part of the Divinity. The School of the Alvars pre-eminently struck this note of devotion to a personal God-Sriman Narayana, and so came to hold the hearts of the people. 
+
+This school of the Alvars gradually developed through several centuries till it assumed a full and definite form in the eleventh century with the advent of Sri Ramanuja and his numerous [[xxiv]] disciples proficient in the Upanishadic lore, both of the Vedas and of the Alvars. The Alvars recognised the Divine Couple Sri and Narayana as the Supreme Tattva, as the goal, and as the means towards the goal (Para Tattva, Parama hita, and Parama Purushartha). The Couple are responsible for the creation, sustenance, and dissolution of the world; and in short the Brahman of the Upanishads connotes for them the Divya Mithuna or the Divine Couple. Thus the hymns of the Alvars speak of the greatness of Sri as being on a par with that of Her Consort, in every way. She equally shares with Him the definition of the term "Brahman. 
+
+The Acaryas who came in the wake of the Alvars elucidated this idea in their different Stotras to Sri, i. e., Lakshmi: Sri Yamunacarya in his Catus-sloki (hymn of four verses), and Ramanuja in his Saranagati gadya. 
+
+The disciples of the latter carried this still futher: Srivatsanka Misra in his Sri Stava of eleven verses, and Sri Parasara Bhattar in his Sri Guna-ratnakosa of sixty-one verses. Nanjiyar, who was also called Ranganatha and Narayana Muni, and who was a disciple of Bhattar, codified all the ideas from the time of the Vedas to that of his own master and wrote a masterly digest in the form of a commentary on Sri Sukta, called the Sri Sukta Bhashya which is published now for the first time nearly eight hundred years after it was written. No doubt later Acaryas such as Sri Venkatanatha and Nainar-accan-pillai have [[XXV]] given the world their Sri Stuti and Catus-sloki Bhashyas; but the former's is an exposition, and the latter's at best a criticism of the ideas in the Sri Sukta Bhashya of Nanjiyar. So it may be said without hesitation that the Sri Sukta Bhashya marks the climax in the development of the concept of Sri, especially in the Visishtadvaita School of Philosophy. 
+
+#### LIFE AND WORKS OF THE BHASHYAKARA : RANGANATHA MUNI (NANJIYAR). 
 As is the case generally with our poets and saints, we have no detailed and accurate history of the life of Nanjiyar or Ranganatha, our author; and all that we know of him comes to us from the traditional account preserved in the "Lives of the Acaryas" (Guruparampara-prabhava) and in the 'aitihyas' in the Bhagavad vishaya. We shall now proceed to sketch briefly the life of the author of the Sri Sukta Bhashya as far as we are able to glean from the sources mentioned above, and then establish his identity which is a bit shrouded in mystery. 
 
-"This is just like the Teaching Hall of the Vedantin in the west.' 
-"" 
-"Is he a good scholar? How many Sastras has he learnt ?" 
-"Why, he is a very great scholar and is acknowledged as such by many savants, all of whom he defeated in debates. He is the masterxxvi 
-of all Sastras and the six Darsanas (systems of philosophy); and to show this, he sits on a throne of six planks placed one over the other. 
-6 
-" 
-"Then will you please tell him I know Tiruneduntandagam * also? 
-C 
-This was the conversation that took place one day in the Kalakshepa Mantapa' (Teaching Hall) of Sri Parasara Bhattar in the great temple at Sriranga between Bhattar and a Brahmin pilgrim from the west. Bhattar was one of the two sons of Sri Vatsanka Misra (Kurattalvan), was the devoted and beloved disciple of Rama- nuja, and was noted for his piety and learning, Ranganatha was the name given to him by God Ranganatha himself. Even as a boy Parasara Bhattar was very intelligent, and was very soon the foremost among the scholars of the day and the disciples of Ramanuja. Soon after the con- versation described above, Bhattar under the command of the Lord Ranganatha marched to the west to engage the great Vedantin in a debate and make him a disciple and devotee of the Lord. 
-*This is one of the six poems of Tirumangai Alvar full of devotion and melody. It establishes the superiority of Sriman-Narayana in a charmingly poetic manner. 
-+ Vide the introductory stanza of the Sahasranamabhashya of Bhattar: 
-श्रीश्रीरङ्गपतिप्रसादतृषया श्रीरङ्गनाथाह्वयः । 
-For further details about the life of Bhattar, the reader is referred tc. 
-the introduction prefixed to Sri Gunaratnakosa in the Appendix. 
-xxvii 
-This Vedantin was born in Tirunarayana- puram on the day of Uttara in the month of Phalguna in Vijaya, Kali 4215, (March-April 1114 A.D.) and was then known as Madhava Suri. Very soon he learnt all the Sastras and darsanas and became a successful disputationist. The Vedanta of the Advaitic interpretation was his special field and so he was known as 'Vedantin'- by which name we shall refer to him hereafter. Many came to learn at his feet and his place was like a university. Being charitably-minded, he fed all those that came to his residence at Kangora. 
-The Brahmin pilgrim came to the Vedantin,. and spoke about Bhattar at Sriranga and his knowledge of Tiruneduntandagam.' The Vedan- tin was astonished to hear that name, and felt a bit annoyed and perturbed as he thought Bhattar would be more than a match for him. 
-A few days later Bhattar left Sriranga with all his paraphernalia and was marching trium- phantly followed by his disciples and admirers towards the place of the Vedantin. When he was approaching the town, a Brahmin told Bhattar that it would not be possible for him to see the Vedantin with all that pomp and grandeur, as he was sure to be delayed by the disciples in the outer halls, and that he should go in the guise of a mendicant if he wanted to see him easily. Bhattar took the hint and leaving all, donned the robes of a mendicant, and without any diffi- culty approached the Vedantin seated proudly 
-C 
-xxviii 
-on a dais of six planks placed one over the other. The Vedantin directed him towards the dining hall, but Bhattar boldly and firmly said, "I am here for Vada-bhiksha' (debate), and not for 'anna- bhiksha' (begging food)." The Vedantin was startled and asked him immediately if he was Bhattar of Srirangam fame. 
-"Yes" was the reply, and soon a discussion began. It went on for a week and more until finally the Vedantin acknowledged defeat at the hands of the great Parasara Bhattar and as per the conditions, he became the latter's disciple. Bhattar initiated him into the Vaishnava fold and gave him his own name of *Ranganatha as the dasya-nama.' The disciple also received it with pleasure, as one way of acknowledging discipleship and 'dasya' (subordination) was bearing the master's name. Bhattar taught him the fundamental principles only of Visishtadvaita and allowed him, a great scholar as he was, to know the rest himself. Bhattar returned to Sriranga leaving the scholar- ly disciple in his own place. 
-C 
-Ranganatha-we shall hereafter refer to the Vedantin by this name-remained at Kangora for some time; but drawn towards his master and longing to be always near him, he became 
-The Guruparampara-prabhava (edited by Tattai Krishnamacarya of Kumbakonam and printed in Muttamil-Vilakka Press in Kali 4958, Pingala Ani-June-July, 1857) says clearly that Ranganatha is the ' dasya-nama' of Nanjiyar: p. 143. 
-"பட்டர் உகந்தருளி 'நம்முடைய கீயர் வந்தார்' என்று அருளிச் செய்தார். அன்று முதல் வேதாந்திகளுக்கு நஞ்ஜீயர்' என்று திரு நாமமாயிற்று. அவருக்கு 'ஸ்ரீரங்கநாதர்' என்பது தாஸ்யநாமம்." 
-xxix 
-a Sannyasin with the name of Narayana Muni; (for they assume a new name in that asrama ); and taking a part of his wealth as Gurudakshina, came to Sriranga and prostrated at the feet of his master. Bhattar was greatly delighted to see his learned disciple and lifted him with joy exclaiming "O, Our Saint!"* (Nam Jiyar!).. Ever since he is known in the Vaishnava hier- archy as Nanjiyar in their Tamil works, and Narayana muni' in their Sanskrit works. It is just possible that when he referred to him- self, he did so by his dasya-name, Ranganatha, as in the colophon of the Sri Sukta Bhashya.t Being a devoted disciple of Bhattar, he always attended on him, and the enlightening conver- sations that the learned master and the scho- larly disciple had, are handed down to us as aitihyam in the Bhagavad vishaya literature. So we find that Ranganatha, Narayana, and Nanjiyar are the names of the Vedantin who was also known as Madhavasuri. 
-Being a good scholar Ranganatha-Nara- yana-Nanjiyar soon mastered the songs of the Alvars known as the Divya Prabandha,' and was then entrusted by Bhattar with the task of writing a commentary on them. So we have his sweet and short commentary on Tiru-vai-moli of Nammalvar known as 9000 padi' (i.e., in 9000 
-เ 
-*Cor! Jiyar is the term in Tamil for the Vaishnava 
-Sannyasin. 
-| श्रीरङ्गनाथमुनिविरचितं श्रीसूक्तमाप्यं समाप्तम् । 
-XXX 
-units) which is the source of all the comment- aries that came later, especially the masterly 36000 padi' or 'Idu' of Nampillai. He has commented upon "Tiruppalli-elucci' and Kanni- nun-sirut-tambu' also. A work called 'Nityam,' dealing with the daily duties of a Vaishnava as laid down in the Panca Ratra Samhitas, is attributed to him; but we have it only in fragments in the form of quotations in the Rahasya-Traya-Sara and Panca-Ratra-Raksha of Sri Venkatanatha. 
-Sri Sukta Bhashya is another work of this Ranganatha Muni. He learnt the fundamental principles of the doctrine of Sri from Pranatarti- hara, a direct disciple of Ramanuja, and a con- temporary of Bhattar who was his chief master. That Nanjiyar wrote a Bhashya on Sri Sukta is well-known and accepted by all without contra- diction. That the work we are bringing out now is his Sri Sukta Bhashya, and that Ranganatha Muni and Nanjiyar are identical persons can be easily seen by the discerning reader. We shall also establish the same with evidences, both internal and external. 
+> "This is just like the Teaching Hall of the Vedantin in the west.' 
+
+> "Is he a good scholar? How many Sastras has he learnt ?" 
+
+> "Why, he is a very great scholar and is acknowledged as such by many savants, all of whom he defeated in debates. He is the master [[xxvi]] of all Sastras and the six Darsanas (systems of philosophy); and to show this, he sits on a throne of six planks placed one over the other." 
+
+> "Then will you please tell him I know Tiruneduntandagam * also?" 
+
+(*This is one of the six poems of Tirumangai Alvar full of devotion and melody. It establishes the superiority of Sriman-Narayana in a charmingly poetic manner. )
+
+This was the conversation that took place one day in the Kalakshepa Mantapa' (Teaching Hall) of Sri Parasara Bhattar in the great temple at Sriranga between Bhattar and a Brahmin pilgrim from the west. (+ Vide the introductory stanza of the Sahasranamabhashya of Bhattar: श्रीश्रीरङ्गपतिप्रसादतृषया श्रीरङ्गनाथाह्वयः । ) 
+
+Bhattar was one of the two sons of Sri Vatsanka Misra (Kurattalvan), was the devoted and beloved disciple of Ramanuja, and was noted for his piety and learning, Ranganatha was the name given to him by God Ranganatha himself. Even as a boy Parasara Bhattar was very intelligent, and was very soon the foremost among the scholars of the day and the disciples of Ramanuja. Soon after the conversation described above, Bhattar under the command of the Lord Ranganatha marched to the west to engage the great Vedantin in a debate and make him a disciple and devotee of the Lord. 
+
+
+
+For further details about the life of Bhattar, the reader is referred to the introduction prefixed to Sri Gunaratnakosa in the Appendix. [[xxvii]] 
+
+This Vedantin was born in Tirunarayanapuram on the day of Uttara in the month of Phalguna in Vijaya, Kali 4215, (March-April 1114 A.D.) and was then known as Madhava Suri. Very soon he learnt all the Sastras and darsanas and became a successful disputationist. The Vedanta of the Advaitic interpretation was his special field and so he was known as 'Vedantin' by which name we shall refer to him hereafter. Many came to learn at his feet and his place was like a university. Being charitably-minded, he fed all those that came to his residence at Kangora. 
+
+The Brahmin pilgrim came to the Vedantin, and spoke about Bhattar at Sriranga and his knowledge of Tiruneduntandagam.' The Vedantin was astonished to hear that name, and felt a bit annoyed and perturbed as he thought Bhattar would be more than a match for him. 
+
+A few days later Bhattar left Sriranga with all his paraphernalia and was marching triumphantly followed by his disciples and admirers towards the place of the Vedantin. When he was approaching the town, a Brahmin told Bhattar that it would not be possible for him to see the Vedantin with all that pomp and grandeur, as he was sure to be delayed by the disciples in the outer halls, and that he should go in the guise of a mendicant if he wanted to see him easily. Bhattar took the hint and leaving all, donned the robes of a mendicant, and without any difficulty approached the Vedantin seated proudly [[xxviii]] on a dais of six planks placed one over the other. The Vedantin directed him towards the dining hall, but Bhattar boldly and firmly said, "I am here for Vada-bhiksha' (debate), and not for 'annabhiksha' (begging food)." The Vedantin was startled and asked him immediately if he was Bhattar of Srirangam fame. 
+
+"Yes" was the reply, and soon a discussion began. It went on for a week and more until finally the Vedantin acknowledged defeat at the hands of the great Parasara Bhattar and as per the conditions, he became the latter's disciple. Bhattar initiated him into the Vaishnava fold and gave him his own name of \* Ranganatha as the dasya-nama.' The disciple also received it with pleasure, as one way of acknowledging discipleship and 'dasya' (subordination) was bearing the master's name. Bhattar taught him the fundamental principles only of Visishtadvaita and allowed him, a great scholar as he was, to know the rest himself. Bhattar returned to Sriranga leaving the scholarly disciple in his own place. 
+
+
+
+(The Guruparampara-prabhava (edited by Tattai Krishnamacarya of Kumbakonam and printed in Muttamil-Vilakka Press in Kali 4958, Pingala Ani-June-July, 1857) says clearly that Ranganatha is the ' dasya-nama' of Nanjiyar: p. 143. 
+"பட்டர் உகந்தருளி 'நம்முடைய கீயர் வந்தார்' என்று அருளிச் செய்தார். அன்று முதல் வேதாந்திகளுக்கு நஞ்ஜீயர்' என்று திரு நாமமாயிற்று. அவருக்கு 'ஸ்ரீரங்கநாதர்' என்பது தாஸ்யநாமம்." )
+
+[[xxix]] 
+
+Ranganatha- we shall hereafter refer to the Vedantin by this name-remained at Kangora for some time; but drawn towards his master and longing to be always near him, he became a Sannyasin with the name of Narayana Muni; (for they assume a new name in that asrama ); and taking a part of his wealth as Gurudakshina, came to Sriranga and prostrated at the feet of his master. Bhattar was greatly delighted to see his learned disciple and lifted him with joy exclaiming "O, Our Saint!"\* (Nam Jiyar! \* Cor! Jiyar is the term in Tamil for the Vaishnava Sannyasin.).. Ever since he is known in the Vaishnava hierarchy as Nanjiyar in their Tamil works, and 'Narayana muni' in their Sanskrit works. It is just possible that when he referred to himself, he did so by his dasya-name, Ranganatha, as in the colophon of the Sri Sukta Bhashya.t (श्रीरङ्गनाथमुनिविरचितं श्रीसूक्तमाप्यं समाप्तम् । )
+
+Being a devoted disciple of Bhattar, he always attended on him, and the enlightening conversations that the learned master and the scholarly disciple had, are handed down to us as aitihyam in the Bhagavad vishaya literature. So we find that Ranganatha, Narayana, and Nanjiyar are the names of the Vedantin who was also known as Madhavasuri. 
+
+Being a good scholar Ranganatha-Narayana-Nanjiyar soon mastered the songs of the Alvars known as the Divya Prabandha,' and was then entrusted by Bhattar with the task of writing a commentary on them. So we have his sweet and short commentary on Tiru-vai-moli of Nammalvar known as 9000 padi' (i.e., in 9000 [[XXX]] units) which is the source of all the commentaries that came later, especially the masterly 36000 padi' or 'Idu' of Nampillai. He has commented upon "Tiruppalli-elucci' and Kanninun-sirut-tambu' also. A work called 'Nityam,' dealing with the daily duties of a Vaishnava as laid down in the Panca Ratra Samhitas, is attributed to him; but we have it only in fragments in the form of quotations in the Rahasya-Traya-Sara and Panca-Ratra-Raksha of Sri Venkatanatha. 
+
+Sri Sukta Bhashya is another work of this Ranganatha Muni. He learnt the fundamental principles of the doctrine of Sri from Pranatartihara, a direct disciple of Ramanuja, and a contemporary of Bhattar who was his chief master. That Nanjiyar wrote a Bhashya on Sri Sukta is well-known and accepted by all without contradiction. That the work we are bringing out now is his Sri Sukta Bhashya, and that Ranganatha Muni and Nanjiyar are identical persons can be easily seen by the discerning reader. We shall also establish the same with evidences, both internal and external. 
+
 IDENTITY OF THE BHASHYAKARA. 
-All the Guruparamparas uniformly declare that Nanjiyar has written a Bhashya on Sri Sukta. The Rahasya-Traya-Sara of Sri Venkata- natha corroborates this. After discussing the greatness and nature of Lakshmi in great detail in Chapter XXIII of that work, Venkatanatha 
-6 
-xxxi 
-concludes that Periya Jiyar also has adduced the necessary arguments in the Sri Sukta Bhashya.* The introduction in the beginning of the Bhashya and the long discussion in the Bhashya of the ninth verse amply corroborate this statement. That the Periya Jiyar' here mentioned is Nanjiyar is known to all acquainted with the Vaishnava hierarchy and can be seen from an- other passage in the same book. It says: Periya Jiyar wrote a Nityam based on those of Ramanuja and Bhattar which he began with a salutation to Bhattar his Guru. The author of this Nityam should be Nanjiyar; for he was the only person who was a disciple of Bhattar, a good scholar, teaching philosophy to others, and the author of some books on philosophy. 
-Again the order in which Venkatanatha quotes the Acaryas also proves that Periya Jiyar is Nanjiyar. The order is: Yamuna, Ramanuja, 
+
+All the Guruparamparas uniformly declare that Nanjiyar has written a Bhashya on Sri Sukta. The Rahasya-Traya-Sara of Sri Venkatanatha corroborates this. After discussing the greatness and nature of Lakshmi in great detail in Chapter XXIII of that work, Venkatanatha [[xxxi]]concludes that Periya Jiyar also has adduced the necessary arguments in the Sri Sukta Bhashya.\* The introduction in the beginning of the Bhashya and the long discussion in the Bhashya of the ninth verse amply corroborate this statement. 
+
+That the Periya Jiyar\' here mentioned is Nanjiyar is known to all acquainted with the Vaishnava hierarchy and can be seen from another passage in the same book. It says: Periya Jiyar wrote a Nityam based on those of Ramanuja and Bhattar which he began with a salutation to Bhattar his Guru. The author of this Nityam should be Nanjiyar; for he was the only person who was a disciple of Bhattar, a good scholar, teaching philosophy to others, and the author of some books on philosophy. 
+
+
+
 (( 
 இத்யாதியாலே 
 ஸ்ரீஸுஅக்த பாஷ்யத்திலே பெரிய ஜீயரும் அபேக்ஷிதார்த்தங்களெல்லாம் உபபாதித்தார் (ரஹஸ்யத்ரய வாரம் 23. ஸித்தோபாயசோதனாதிகாரம்) பெரிய ஜீயரும், श्री पराशरभट्टार्यचरणौ संश्रयेमहि " Sev ஸமப்ரதாய - விசேஷ -ஞாபனார்த்தமாக குருநமஸ்காராதிகளைப் பண்ணி, भगवच्छरगांभोजपरिचर्याविधिक्रमं । एकान्तिमिरनुष्ठेयं नित्यं समभिदध्महे 
@@ -486,85 +511,101 @@ antena: ferrenei facief Tenco: | प्रतिपादिकया विष�
 ध्यायन् जप्त्वोपतिष्ठेत तमेव पुरुषोत्तमं । 
 नारायणात्मकान् देवान् ऋषीन् सन्तर्पयेत् पितृन् ॥ 
 என்று அருளிச்செய்தார்.(ரஹஸ்ய த்ரய ஸாரம். XXIX சரமச்லோ காதிகாரம்) 
-xxxii 
-Kurattalvan, Bhattar and Periya Jiyar. The place of Nanjiyar is after Bhattar and there was no one immediately after Bhattar and before Venkatanatha who was a scholar and a Sannya- sin, and the author of a Nitya and Sri Sukta Bhashya. 
-That this Periya Jiyar was also known as Narayana Muni can be seen from the Panca- Ratra-Raksha of Desika where he quotes the same slokas†, attributed in the Rahasya - traya- sara to Periya Jiyar, under the name of Narayana Muni and speaks of the latter as following the footsteps of Parasara Bhattar. 
-The opening stanza of Sri Sukta Bhashya is a salutation to Bhattar : श्रीपराशरभार्यः श्रीरङ्गेशपुरोहितः, " It is the tradition among the Vaishnavaites to salute their immediate Acaryas in the beginning 
-cf. Panca Ratra Raksha, printed in Vyavahara Tarangini 
-Press 1880 A. D. in Grantha script : 
-p. 31 : अत एव हि तदुभयानुसारिभिः (वङ्गिवंशेश्वरपर राशर भट्टारकानुसा- रिभिः) नारायणमुनिभिरपि पञ्चकालकल्पनया तत्तत्कालानुष्ठेयानि यथाक्रमं प्रपञ्चितानि । तथा हि- भगवच्चरणांभोजपरिचर्याविधिक्रमम् । एकान्तिमिरनुष्ठेयं नित्यं समभिदध्यमहे ॥” 
+
+[[xxxii]] 
+
+Again the order in which Venkatanatha quotes the Acaryas also proves that Periya Jiyar is Nanjiyar. The order is: Yamuna, Ramanuja, Kurattalvan, Bhattar and Periya Jiyar. The place of Nanjiyar is after Bhattar and there was no one immediately after Bhattar and before Venkatanatha who was a scholar and a Sannyasin, and the author of a Nitya and Sri Sukta Bhashya. 
+
+That this Periya Jiyar was also known as Narayana Muni can be seen from the PancaRatra-Raksha of Desika where he quotes the same slokas†, attributed in the Rahasya - trayasara to Periya Jiyar, under the name of Narayana Muni and speaks of the latter as following the footsteps of Parasara Bhattar. 
+
+
+
+cf. Panca Ratra Raksha, printed in Vyavahara Tarangini Press 1880 A. D. in Grantha script :p. 31 : 
+
+अत एव हि तदुभयानुसारिभिः (वङ्गिवंशेश्वरपर राशर भट्टारकानुसारिभिः) नारायणमुनिभिरपि पञ्चकालकल्पनया तत्तत्कालानुष्ठेयानि यथाक्रमं प्रपञ्चितानि । तथा हिभगवच्चरणांभोजपरिचर्याविधिक्रमम् । एकान्तिमिरनुष्ठेयं नित्यं समभिदध्यमहे ॥” 
+
 p. 65 संगृहीतं नारायणमुनिभिः- 
-आपो हीत्यादिभिर्मन्त्रैः वाचकैः परमात्मनः । संप्रोक्ष्य मन्त्राचमनं मन्त्रैस्तत्प्रतिपादकैः ॥ 
+
+> आपो हीत्यादिभिर्मन्त्रैः वाचकैः परमात्मनः । संप्रोक्ष्य मन्त्राचमनं मन्त्रैस्तत्प्रतिपादकैः ॥ 
 नारायणात्मकान् देवान् ऋषीन् संतर्पयेत् पितॄन् ॥ 
-"> 
-xxxiii 
-... 
-of their works and the opening verse will gene- rally be adopted as the Tanian' of that Acarya. Cf. ' यो नित्यभच्युतपदांबुजयुग्म 
-'-which is the Mangala sloka of Sri Vaikuntha Stava of Sri Vatsanka Misra, a disciple of Ramanuja and which is now Ramanuja'stanian'; "m: नमउक्तिमधीमहे " which is the Mangala Sloka of Sri Rangaraja Stava of Bhattar, the son and disciple of Kurattalvan and which is now the latter's 'tanian.' So the Sloka ' श्रीपराशरभट्टार्य ' composed by Nanjiyar, the disciple, as the Mangala Sloka of Sri Sukta Bhashya is the 'tanian' of Bhattar. 
-There is another statement of Venkatanatha in chapter XXIII of his Rahasya-Traya-Sara: Nanjiyar heard from Accan (a direct disciple of Ramanuja) what Sri Ramanuja had said (regard- ing Sri) and summarised it: Wherever the Lord is spoken of, there Lakshmi also is spoken of."* Sri Sukta Bhashya is the only work of Nanjiyar in which he has dealt with Sri exclusively and in great detail, and the internal evidence of the Bhashya also corroborates this. For these words of Venkatanatha are almost a translation of the concluding stanza of Sri Sukta Bhashya: 
-#LL 
+
+[[xxxiii]] 
+
+The opening stanza of Sri Sukta Bhashya is a salutation to Bhattar : श्रीपराशरभार्यः श्रीरङ्गेशपुरोहितः, " It is the tradition among the Vaishnavaites to salute their immediate Acaryas in the beginning of their works and the opening verse will generally be adopted as the Tanian' of that Acarya. Cf. ' यो नित्यभच्युतपदांबुजयुग्म'-which is the Mangala sloka of Sri Vaikuntha Stava of Sri Vatsanka Misra, a disciple of Ramanuja and which is now Ramanuja'stanian'; "m: नमउक्तिमधीमहे " which is the Mangala Sloka of Sri Rangaraja Stava of Bhattar, the son and disciple of Kurattalvan and which is now the latter's 'tanian.' So the Sloka ' श्रीपराशरभट्टार्य ' composed by Nanjiyar, the disciple, as the Mangala Sloka of Sri Sukta Bhashya is the 'tanian' of Bhattar. 
+
+There is another statement of Venkatanatha in chapter XXIII of his Rahasya-Traya-Sara: Nanjiyar heard from Accan (a direct disciple of Ramanuja) what Sri Ramanuja had said (regarding Sri) and summarised it: Wherever the Lord is spoken of, there Lakshmi also is spoken of."* Sri Sukta Bhashya is the only work of Nanjiyar in which he has dealt with Sri exclusively and in great detail, and the internal evidence of the Bhashya also corroborates this. For these words of Venkatanatha are almost a translation of the concluding stanza of Sri Sukta Bhashya: 
+
 “यतीन्द्रमाहानसिकात् प्रणतार्तिहरात् गुरोः । सत्संप्रदायसिद्धोऽर्थः श्रीसूक्तस्य विनिश्चितः || ” 
+
 எம்பெருமானைச் சொன்ன இடத்திலே பிராட்டியையும் சொல்லிற்றாம் 
-என்று தொடங்கி, உடையவர் அருளிச்செய்த வார்த்தையை ஆச்சான் பக்கலிலே கேட்டு நஞ்ஜீயர் ங்ைகிரஹித்தார்.(ரஹஸ்யத்ரயஸாரம்- XXIII ஸித்தோபாய சோதனாதிகாரம்.) 
-0 
-XXXiv 
+என்று தொடங்கி, உடையவர் அருளிச்செய்த வார்த்தையை ஆச்சான் பக்கலிலே கேட்டு நஞ்ஜீயர் ங்ைகிரஹித்தார்.(ரஹஸ்யத்ரயஸாரம்XXIII ஸித்தோபாய சோதனாதிகாரம்.) 
+
+[[XXXiv]] 
+
 [Sri Sukta has been interpreted (by us) according to the correct tradition as we learnt it at the feet of (our) master Pranatartihara, the Mahanasika of Sri Ramanuja.] 
-6 
-It is well-known that Pranatartihara attend- ed to the cooking of the food of Ramanuja and hence his name Mahanasika' (cook); and he was also known as Kidambi Accan' and 'Madaip- palli Accan.' So from these two we have to conclude that Nanjiyar and Ranganatha Muni are different names of the same person who learnt all these truths about Lakshmi from Pranatartihara, the Accan, who in his turn, learnt them from Ramanuja. 
-The order in which the Bhashyakara quotes authorities also shows that our Ranganatha Muni is none other than Nanjiyar. When he cites authorities in support of some statement of his, he begins with Sruti and Smriti and then proceeds to the work of the Acaryas. There the order is Yamuna, Ramanuja, Sri Vatsanka Misra and Bhattar. Himself being the immediate disciple of the last, he stops with Bhattar. Venkatanatha, who is later than Ranganatha Muni, alias Nanjiyar, goes one step further and cites Nanjiyar also, as Periya Jiyar or Nanjiyar in Tamil works and as Narayana Muni in Sans- krit works. Ranganatha Muni (alias Nanjiyar) agrees entirely with his master Bhattar in his concept of Sri and the latter's view is known to us 
-But 
-XXXV 
-from his Sri Gunaratnakosa' and his 'Lakshmi- kalyana.' (Three slokas are all that we have of Bhattar's play Lakshmi kalyana and they are had in the three works of Venkatanatha: Rahasya- traya-sara XXIII, Sara-sara. ii, and Tatparya candrika or the gloss on Gita Bhashya XVIII. 14.) 
-There is a slight indication in the Bhashya even in the manner of citing the names of the earlier Acaryas which corroborates our conclu- sion. Yamuna, Ramanuja, and Sri Vatsanka Misra he mentions only with the plural suffix out of respect whereas he refers to Bhattar his immediate Acarya with honorific and plural suffixes (भट्टपराशरपादैः). 
-Further in the concluding stanza, the author of the Bhashya styles himself as श्रीमहालक्ष्मिदास (a devotee or servant of Goddess Lakshmi). It reminds us of Bhattar styling himself as one of the retinue of Maithili (Lakshmi of Ramayana) (vide Sri Gunaratnakosa, 51.); and thus the Bhashyakara echoes the sentiment of his beloved master. He again quotes and explains in the introduction Sraddha-, and Medha-suktas men- tioned by Bhattar in his Sahasranama Bhashya as dealing with the greatness of Sri, and explains also the Aditi-, Vak-, and Prthivi-suktas indi- cated by the term ('adi') 'etc.' in that work. Venkatanatha also agrees entirely with Nanjiyar's interpretation as he cites in his Catus-sloki Bhashya all the Samhitas and Suktas quoted by Nanjiyar.xxxvi 
-८ 
-, 
+
+It is well-known that Pranatartihara attended to the cooking of the food of Ramanuja and hence his name Mahanasika' (cook); and he was also known as Kidambi Accan' and 'Madaippalli Accan.' So from these two we have to conclude that Nanjiyar and Ranganatha Muni are different names of the same person who learnt all these truths about Lakshmi from Pranatartihara, the Accan, who in his turn, learnt them from Ramanuja. 
+
+The order in which the Bhashyakara quotes authorities also shows that our Ranganatha Muni is none other than Nanjiyar. When he cites authorities in support of some statement of his, he begins with Sruti and Smriti and then proceeds to the work of the Acaryas. There the order is Yamuna, Ramanuja, Sri Vatsanka Misra and Bhattar. Himself being the immediate disciple of the last, he stops with Bhattar. Venkatanatha, who is later than Ranganatha Muni, alias Nanjiyar, goes one step further and cites Nanjiyar also, as Periya Jiyar or Nanjiyar in Tamil works and as Narayana Muni in Sanskrit works. Ranganatha Muni (alias Nanjiyar) agrees entirely with his master Bhattar in his concept of Sri and the latter's view is known to us [[XXXV]] from his Sri Gunaratnakosa' and his 'Lakshmikalyana.' (Three slokas are all that we have of Bhattar's play Lakshmi kalyana and they are had in the three works of Venkatanatha: Rahasyatraya-sara XXIII, Sara-sara. ii, and Tatparya candrika or the gloss on Gita Bhashya XVIII. 14.) 
+
+There is a slight indication in the Bhashya even in the manner of citing the names of the earlier Acaryas which corroborates our conclusion. Yamuna, Ramanuja, and Sri Vatsanka Misra he mentions only with the plural suffix out of respect whereas he refers to Bhattar his immediate Acarya with honorific and plural suffixes (भट्टपराशरपादैः). 
+
+Further in the concluding stanza, the author of the Bhashya styles himself as श्रीमहालक्ष्मिदास (a devotee or servant of Goddess Lakshmi). It reminds us of Bhattar styling himself as one of the retinue of Maithili (Lakshmi of Ramayana) (vide Sri Gunaratnakosa, 51.); and thus the Bhashyakara echoes the sentiment of his beloved master. He again quotes and explains in the introduction Sraddha-, and Medha-suktas mentioned by Bhattar in his Sahasranama Bhashya as dealing with the greatness of Sri, and explains also the Aditi-, Vak-, and Prthivi-suktas indicated by the term ('adi') 'etc.' in that work. Venkatanatha also agrees entirely with Nanjiyar's interpretation as he cites in his Catus-sloki Bhashya all the Samhitas and Suktas quoted by Nanjiyar.[[xxxvi]] 
+
 Apart from the agreement of the names of the author, of the book, and of the subject matter, there is verbal agreement also. Venkatanatha ( alias Vedanta Desika) in his • Rahasya Raksha, a commentary on Catus-Sloki states the views of different Schools on the concept of Lakshmi and concludes in the words of an earlier writer who is none other than our Bhashyakara: 
-“अन्योन्येच्छा विघातादिनिवृत्तौ तत्परत्वतः । ऐककण्ठ्यमशेषाणां आगमानां भवत्विति ॥ पञ्चस्वेतेषु पक्षेषु कश्चिदेकः प्रमाणवान् । सलक्ष्मीकस्य साम्राज्यं सर्वथा सुप्रतिष्ठितम् ॥" 
-This is only a restatement almost in identical words of the view of Ranganatha Muni expressed in his Bhashya on verse 9 of Sri Sukta, but summarised here for exigencies of metre. Ranga- natha Muni writes: (p. 48 of Sri Sukta Bhashya) 
-"एवं सर्वभूतेश्वरत्ववचनसाम्यात् द्वयोरपि मुख्येश्वरत्वस्य दुर- 
-पह्नवत्वेन सर्वागमानां ईश्वरव्यक्तयैक्यपरत्वे अनुपपन्ने, सर्वागमानां ऐककण्ठ्यं अन्योन्येच्छाविधातादिनिवृत्तौ तात्पर्यात् उपपन्नम् ।" 
-[Thus there are some passages in the Vedas which say clearly that Narayana is the sovereign of all beings and others which, with equal clear- ness, declare that Lakshmi is the Sovereign. So 
-xxxvii 
-the paramount sovereignty of both Lakshmi and Narayana becomes unshakable. But there are yet others which declare that there is only one sovereign of the Universe. The apparent contra- diction between the first two statements and the third must be reconciled by saying that, though both Lakshmi and Narayana are the sovereigns, there is no difference of opinion between the two (and so practically there is only one sovereign).] 
-Sri Venkatanatha has cited with perfect ap- proval the Sri Sukta Bhashya of Nanjiyar as an authority in his Rahasyatraya Sara and has quoted almost the same words from that Bhashya in his Catus-sloki Bhashya. So our Bhashyakara is Nanjiyar and no one else. That the author is referred to by two different names is no great obstacle against arriving at the above conclusion; for among the Vaishnavas it is common to have more than one name. The father of Vadiham- sambuvahacarya had two names: Sri Rangaraja and Padmanabha. Desika himself is known by two names: Venkatanatha and Vedanta Desika; Bhattar as Parasara Bhattar and Ranganatha though the latter name is not so well-known. So there is nothing strange in our author having 
-two names. 
-Thus we see that Ranganatha Muni, the author of Sri Sukta Bhashya that is published now, and Nanjiyar, its reputed author are the same: because of the opening stanza which is a 
-xxxviii 
-salutation to Bhattar; because of the more res- pectful reference to Bhattar and his works; because of the absence of a quotation from any author later than Bhattar; because of the concluding stanzas where he styles himself a devotee of Mahalakshmi and where he acknowledges his indebtedness to Pranatartihara alias Madaipalli or Kidambi Accan; and because of the citations by Desika in his Rahasyatraya Sara (chap. 23 and 29,) Panca Ratra Raksha, and Catus-sloki Bhashya. 
-C 
-Madhavasuri was the name given to our author at his birth; Vedantin the name that he earned by his vast learning and skill in debate; *Ranganatha the name that was given to him as the dasya-nama' at the time of initiation into the Vaishnava fold by Bhattar which he himself used in his works; Narayana Muni the name that he assumed on becoming a Sannyasin by which he was referred to in Sanskrit works; Nanjiyar was the pet name given to him by Bhat- tar when the former met him at Sriranga for the 
-* An ingenious interpretation of the name 'Nanjiyar' is given by the author of Sri Tattva Nirnaya' in Tamil. He says that the original name was 'Nam-perumal-jiyar and 'Nanjiyar' is its corrupted form. (இவர் திருநாமம் 'நம்பெருமாள் ஜீயர், இத்திருநாமம் சுருங்கிச் சுருங்கி 'நஞ்ஜீயர்' என 
-S. p. 8.) This only helps our view: the Tamil name of Ranganatha is Nam-perumal' and Muni is 'Jiyar'; so Ranganatha Muni translated into the Tamil of the Vaishnavaite section will be Namperumal Jiyar. It is an easy step from this name to 'Nanjiyar.' 
-xxxix 
-second time by which he was referred to in Tamil works and in other places; and Periya Jiyar was another and a more respectable form of the name Nanjiyar by which also he was referred to. So by all these we are led to the irresistible conclusion that this Ranganatha Muni is Nanjiyar and this Bhashya on Sri Sukta is Nanjiyar's Sri Sukta Bhashya. 
-THE CONCEPT OF SRI IN VISISHTADVAITA. 
-Let us now sketch briefly the concept of Sri according to the Visishtadvaita System of philo- sophy as we learn from the works of eminent Vaishnava Acaryas such as Yamuna, Ramanuja, Bhattar, Nanjiyar, and Venkatanatha-all based on the ancient scriptures. Lakshmi and Narayana are ever inseparably united and they together are the Para Brahman. They are the Masters and Saviours of the Universe. The origination, sustentation, and the re-absorption of the Uni- verse are done by the Divine Couple (Divya Mithuna). Devotion to the Couple is the means of salvation and the Two are the goal to be attained in the state of release. 
+
+> “अन्योन्येच्छा विघातादिनिवृत्तौ तत्परत्वतः । ऐककण्ठ्यमशेषाणां आगमानां भवत्विति ॥ पञ्चस्वेतेषु पक्षेषु कश्चिदेकः प्रमाणवान् । सलक्ष्मीकस्य साम्राज्यं सर्वथा सुप्रतिष्ठितम् ॥" 
+
+This is only a restatement almost in identical words of the view of Ranganatha Muni expressed in his Bhashya on verse 9 of Sri Sukta, but summarised here for exigencies of metre. Ranganatha Muni writes: (p. 48 of Sri Sukta Bhashya) 
+
+> "एवं सर्वभूतेश्वरत्ववचनसाम्यात्  
+> द्वयोर् अपि मुख्येश्वरत्वस्य दुर्-अपह्नवत्वेन  
+> सर्वागमानां ईश्वर-व्यक्त्य्-ऐक्य-परत्वे अनुपपन्ने,  
+> सर्वागमानां ऐककण्ठ्यं अन्योऽन्येच्छा-विघातादि-निवृत्तौ तात्पर्यात् उपपन्नम् ।"   
+>
+> [Thus there are some passages in the Vedas which say clearly that Narayana is the sovereign of all beings and others which, with equal clearness, declare that Lakshmi is the Sovereign. So [[xxxvii]] the paramount sovereignty of both Lakshmi and Narayana becomes unshakable. But there are yet others which declare that there is only one sovereign of the Universe. The apparent contradiction between the first two statements and the third must be reconciled by saying that, though both Lakshmi and Narayana are the sovereigns, there is no difference of opinion between the two (and so practically there is only one sovereign).] 
+
+Sri Venkatanatha has cited with perfect approval the Sri Sukta Bhashya of Nanjiyar as an authority in his Rahasyatraya Sara and has quoted almost the same words from that Bhashya in his Catus-sloki Bhashya. So our Bhashyakara is Nanjiyar and no one else. That the author is referred to by two different names is no great obstacle against arriving at the above conclusion; for among the Vaishnavas it is common to have more than one name. The father of Vadihamsambuvahacarya had two names: Sri Rangaraja and Padmanabha. Desika himself is known by two names: Venkatanatha and Vedanta Desika; Bhattar as Parasara Bhattar and Ranganatha though the latter name is not so well-known. So there is nothing strange in our author having two names. 
+
+Thus we see that Ranganatha Muni, the author of Sri Sukta Bhashya that is published now, and Nanjiyar, its reputed author are the same: because of the opening stanza which is a [[xxxviii]] salutation to Bhattar; because of the more respectful reference to Bhattar and his works; because of the absence of a quotation from any author later than Bhattar; because of the concluding stanzas where he styles himself a devotee of Mahalakshmi and where he acknowledges his indebtedness to Pranatartihara alias Madaipalli or Kidambi Accan; and because of the citations by Desika in his Rahasyatraya Sara (chap. 23 and 29,) Panca Ratra Raksha, and Catus-sloki Bhashya. 
+
+\* An ingenious interpretation of the name 'Nanjiyar' is given by the author of Sri Tattva Nirnaya' in Tamil. He says that the original name was 'Nam-perumal-jiyar and 'Nanjiyar' is its corrupted form. (இவர் திருநாமம் 'நம்பெருமாள் ஜீயர், இத்திருநாமம் சுருங்கிச் சுருங்கி 'நஞ்ஜீயர்' என S. p. 8.) This only helps our view: the Tamil name of Ranganatha is Nam-perumal' and Muni is 'Jiyar'; so Ranganatha Muni translated into the Tamil of the Vaishnavaite section will be Namperumal Jiyar. It is an easy step from this name to 'Nanjiyar.'
+
+Madhavasuri was the name given to our author at his birth; Vedantin the name that he earned by his vast learning and skill in debate; \*Ranganatha the name that was given to him as the dasya-nama' at the time of initiation into the Vaishnava fold by Bhattar which he himself used in his works; Narayana Muni the name that he assumed on becoming a Sannyasin by which he was referred to in Sanskrit works; Nanjiyar was the pet name given to him by Bhattar when the former met him at Sriranga for the [[xxxix]] second time by which he was referred to in Tamil works and in other places; and Periya Jiyar was another and a more respectable form of the name Nanjiyar by which also he was referred to. So by all these we are led to the irresistible conclusion that this Ranganatha Muni is Nanjiyar and this Bhashya on Sri Sukta is Nanjiyar's Sri Sukta Bhashya. 
+
+### THE CONCEPT OF SRI IN VISISHTADVAITA. 
+Let us now sketch briefly the concept of Sri according to the Visishtadvaita System of philosophy as we learn from the works of eminent Vaishnava Acaryas such as Yamuna, Ramanuja, Bhattar, Nanjiyar, and Venkatanatha-all based on the ancient scriptures. Lakshmi and Narayana are ever inseparably united and they together are the Para Brahman. They are the Masters and Saviours of the Universe. The origination, sustentation, and the re-absorption of the Universe are done by the Divine Couple (Divya Mithuna). Devotion to the Couple is the means of salvation and the Two are the goal to be attained in the state of release. 
+
 Though their persons are different, the tastes and opinions of Lakshmi and Narayana are always identical and there is no difference of opinion between them as in the case of loving parents intent on doing good to their children. Both are the possessors of unlimited auspicious 
 xl 
-qualities; still for the convenience of the medi- tation of their devotees, by their common consent, the Lord manifests all the manly quali- ties and Sri, the womanly qualities. But it does not mean that one does not possess the qualities found in the other. Though both are the Masters of the Universe and have no master over them, still out of their own free will, Sri is the Queen or Consort; and the Lord is prominent only to this extent that he is the 'Pati' (husband); and this agreement too they are having only for saving the souls of the devotees. The Lord is strict and severe, and the erring souls cannot approach Him directly for pardon. Then the soft-hearted Sri, the loving Mother that She is, intercedes on their behalf with Her Consort and thus they both together save the souls from sin and bondage. All this is based on the authority of the Vedas and Samhitas such as Svayambhuva, Mankana, Mahalakshmi, Dhanadiya, Satamakha, Kasyapa, Sattvata, Vasishtha, Saunaka, Parasara and Atri. 
-There are different schools of thought which hold views different from the above about Lakshmi: Lakshmi is no separate entity but only the Prakriti or Inanimate Matter that is being presided over and evolved by the Lord; She is nothing but the Ego, the Volition, the Power, the Knowledge or the Existence of the Lord; Lakshmi is only the feminine form as- sumed by the Lord at his will from his own body for his diversion. But all these are ground- less as the Vedas clearly and unmistakably 
+qualities; still for the convenience of the meditation of their devotees, by their common consent, the Lord manifests all the manly qualities and Sri, the womanly qualities. But it does not mean that one does not possess the qualities found in the other. Though both are the Masters of the Universe and have no master over them, still out of their own free will, Sri is the Queen or Consort; and the Lord is prominent only to this extent that he is the 'Pati' (husband); and this agreement too they are having only for saving the souls of the devotees. The Lord is strict and severe, and the erring souls cannot approach Him directly for pardon. Then the soft-hearted Sri, the loving Mother that She is, intercedes on their behalf with Her Consort and thus they both together save the souls from sin and bondage. All this is based on the authority of the Vedas and Samhitas such as Svayambhuva, Mankana, Mahalakshmi, Dhanadiya, Satamakha, Kasyapa, Sattvata, Vasishtha, Saunaka, Parasara and Atri. 
+
+There are different schools of thought which hold views different from the above about Lakshmi: Lakshmi is no separate entity but only the Prakriti or Inanimate Matter that is being presided over and evolved by the Lord; She is nothing but the Ego, the Volition, the Power, the Knowledge or the Existence of the Lord; Lakshmi is only the feminine form assumed by the Lord at his will from his own body for his diversion. But all these are groundless as the Vedas clearly and unmistakably 
 xli 
 declare that Lakshmi is a Cetana-a separate entity with the attributes of knowledge, bliss, power and the like; and that She is eternal like the Lord, Her consort. 
-Some grant that Lakshmi is a Cetana, but deny Her omnipresence, omniscience and omni- potence; they say She is atomic in size; some say She does not come under the category of Isvara, but is one of the souls; a few, Her great- ness is not inherent, but bestowed on Her by the Lord for a time. Yet others say She forms a class by Herself being neither the Isvara, nor a Jiva. A few others hold that She is the Sovereign of all except the Isvara, while Narayana is the Sovereign of all including Herself. All these run counter to the clear dictates of the Vedas which must be our first and chief authority on these matters supported, of course, by Samhitas, Itihasas and Puranas. They declare that She is the Sovereign of all souls () as uncondi- tionally as the Lord (:); and so He is the Sovereign of all except Lakshmi as much as She is the Sovereign of all excepting Her Consort. The subordination of the one to the other is voluntary and optional, not obligatory. Her greatness is inherent, and not dependent on an- other. Though the two 
-the two are the Paramount Sovereigns, the duality does not show itself as their opinions are always identical. One is the Mother of the Universe, while the other the Father. Thus the Divine Couple, Lakshmi and Narayana are the Para Brahman of the Upanishads 
-xlii 
-and both together are masters, creators, and saviours, and also the final goal of the Universe. 
-This is the conclusion arrived at by Ranga- natha Muni, or Nanjiyar as he is popularly known, after a thorough and careful study of all authorities and of the works of the earlier Acaryas. He discusses all schools of thought which differ from this and refutes them with proper argu- ments based on the authority of the Scriptures. He has set down all this in this Bhashya. 
-ANALYSIS OF THE BHASHYA. 
+
+Some grant that Lakshmi is a Cetana, but deny Her omnipresence, omniscience and omnipotence; they say She is atomic in size; some say She does not come under the category of Isvara, but is one of the souls; a few, Her greatness is not inherent, but bestowed on Her by the Lord for a time. Yet others say She forms a class by Herself being neither the Isvara, nor a Jiva. A few others hold that She is the Sovereign of all except the Isvara, while Narayana is the Sovereign of all including Herself. All these run counter to the clear dictates of the Vedas which must be our first and chief authority on these matters supported, of course, by Samhitas, Itihasas and Puranas. They declare that She is the Sovereign of all souls () as unconditionally as the Lord (:); and so He is the Sovereign of all except Lakshmi as much as She is the Sovereign of all excepting Her Consort. The subordination of the one to the other is voluntary and optional, not obligatory. Her greatness is inherent, and not dependent on another. Though the two the two are the Paramount Sovereigns, the duality does not show itself as their opinions are always identical. One is the Mother of the Universe, while the other the Father. Thus the Divine Couple, Lakshmi and Narayana are the Para Brahman of the Upanishads [[xlii]] and both together are masters, creators, and saviours, and also the final goal of the Universe. 
+
+This is the conclusion arrived at by Ranganatha Muni, or Nanjiyar as he is popularly known, after a thorough and careful study of all authorities and of the works of the earlier Acaryas. He discusses all schools of thought which differ from this and refutes them with proper arguments based on the authority of the Scriptures. He has set down all this in this Bhashya. 
+
+### ANALYSIS OF THE BHASHYA. 
 In an introduction of about eighteen pages, he quotes extensively and explains all the Vedic hymns which deal with Lakshmi: two Sraddha Suktas, Medha Sukta, Aditi Suktas; and his verdict is that Lakshmi, like Karayana, has all the following qualities: She is the creator of the Universe; She is omnipotent and omniscient; by nature fundamentally opposed to all blemishes and the resort of all auspicious qualities. She again pervades, sustains, and rules the Universe; She is the object of worship in all sacrifices; and all the fruits of wealth, realisation of the Soul (Kaivalya), and the attainment of Moksha are under Her control and bestowed on the devotees by Her. 
 Then begins the Bhashya on the hymn. The word 'Jatavedah' which occurs in the first verse and also in four others is interpreted as Vishnu with an elaborate discussion containing 
 xliii 
-citations from numerous authorities such as Mahabharata and Vishnu Purana, Kasyapiya and Mankana Samhitas, Paramatma Sukta and Sari- raka Sutras. Then the Bhashyakara proceeds with his Bhashya on the Riks and there are profuse quotations then and there from various authorities in support of his interpretations; and the reader is referred to the index for a detailed list of the same. 
-> 
-In the ninth verse where Lakshmi is referred to as the Sovereign (ii), Nanjiyar has launched into an elaborate and long discussion-- running to nearly twenty pages-on the concept of Lakshmi. In the course of it he raises many prima facie views, answers them categorically and concludes that names like Sraddha, and Vishnupatni refer to Lakshmi only: She is not subordinate to any one and is only the cail (Consort) of Narayana and not a 'f' (slave); both are engaged in the divine cosmic sacrifice of saving the souls and the one is essential for the other and cannot function or be without the other. Then he quotes in extenso many chapters of the Ahirbudhnya Samhita and Lakshmi Tantra in support of his view and winds up by saying that She is the equal of the Lord in all respects. 'The mastery of the Universe is one which inheres in both Lakshmi and Narayana.' 
-Then he completes his Bhashya on the re- maining Riks and concludes the work mentioning his name and that of the master from whom he learnt all those things about Lakshmi. 
-xliv 
-CONCLUSION. 
-I need not dilate upon the merits of the Bhashya, but the intelligent reader can see for himself that it is perfect not only as a comment- ary, but as a piece of polemics and a type of beautiful literature also. I consider myself ex- tremely fortunate that I have been chosen as the instrument for unearthing and publishing this rare work and I owe all this privilege and fortune to my Guru Sri. Sri Saumya Narayana Acarya of Tirukkottiyur. My respectful homage and salu- tations to him and to Goddess Lakshmi, the Mother of the Universe and of my humble self. 
-Pudukotab, 17-7-37.J 
-A. SRINIVASA RAGHAVAN 
-अशुद्धं ५ 22 तै. उ. 
+citations from numerous authorities such as Mahabharata and Vishnu Purana, Kasyapiya and Mankana Samhitas, Paramatma Sukta and Sariraka Sutras. Then the Bhashyakara proceeds with his Bhashya on the Riks and there are profuse quotations then and there from various authorities in support of his interpretations; and the reader is referred to the index for a detailed list of the same. 
+
+In the ninth verse where Lakshmi is referred to as the Sovereign (ii), Nanjiyar has launched into an elaborate and long discussion-running to nearly twenty pages-on the concept of Lakshmi. In the course of it he raises many prima facie views, answers them categorically and concludes that names like Sraddha, and Vishnupatni refer to Lakshmi only: She is not subordinate to any one and is only the cail (Consort) of Narayana and not a 'f' (slave); both are engaged in the divine cosmic sacrifice of saving the souls and the one is essential for the other and cannot function or be without the other. Then he quotes in extenso many chapters of the Ahirbudhnya Samhita and Lakshmi Tantra in support of his view and winds up by saying that She is the equal of the Lord in all respects. 'The mastery of the Universe is one which inheres in both Lakshmi and Narayana.' 
+Then he completes his Bhashya on the remaining Riks and concludes the work mentioning his name and that of the master from whom he learnt all those things about Lakshmi. [[xliv]] 
+
+### CONCLUSION. 
+
+I need not dilate upon the merits of the Bhashya, but the intelligent reader can see for himself that it is perfect not only as a commentary, but as a piece of polemics and a type of beautiful literature also. I consider myself extremely fortunate that I have been chosen as the instrument for unearthing and publishing this rare work and I owe all this privilege and fortune to my Guru Sri. Sri Saumya Narayana Acarya of Tirukkottiyur. My respectful homage and salutations to him and to Goddess Lakshmi, the Mother of the Universe and of my humble self. 
+
+Pudukotab, 17-7-37.J   
+A. SRINIVASA RAGHAVAN   
+
+### अशुद्धं 
+५ 22 तै. उ. 
 ५० 12 विग्रहविशुष्ट 
 ९० 17 चन्द्र 
 १३४ 15 bosom 
@@ -577,8 +618,12 @@ A. SRINIVASA RAGHAVAN
 विग्रहविशिष्ट चन्द्रां 
 bosoms 
 against सर्व पालिनी 
+
 नमः 
-लक्ष्मणाअथर्व. - अथर्वशिखोपनिषत् अष्टा - अष्टाध्यायी 
+लक्ष्मणा
+
+### Abbr
+अथर्व. - अथर्वशिखोपनिषत् अष्टा - अष्टाध्यायी 
 अष्टा, व्र. - अष्टाक्षरब्रह्मविद्या 
 अहि. सं. – अहिर्बुद्ध्रयसंहिता इति. समु. - इतिहाससमुच्चयः कठ. - कठोपनिषत् 
 छा. - छान्दोग्योपनिषत् 
@@ -603,14 +648,14 @@ against सर्व पालिनी
 वाजस. - वाजसनेयत्राह्मणं 
 - 
 वि. पु. - विष्णुपुराणम् 
-विष्व. सं- विष्वक्सेनसंहिता 
+विष्व. संविष्वक्सेनसंहिता 
 "" 
 " 
 का. 
 आर. 
 आरण्यकं 
 " 
-वे.सं.- वेदार्थसंग्रहः 
+वे.सं.वेदार्थसंग्रहः 
 शरणा. ग. -शरणागतिगद्यं 
 तै. उ.-तैत्तिरीयोपनिपत् 
 वृ. - बृहदारण्यकोपनिषत् 
@@ -628,6 +673,8 @@ against सर्व पालिनी
 सनत् . सं . - सनत्कुमारसंहिता सुवाल.–सुवालोपनिषत् 
 स्वायं. - स्वायम्भुवसंहिता 
 66 
+
+## भाष्य-प्रवेशः
 ॥ श्रियै नमः ॥ 
 ॥ श्रीसूक्तभाष्यम् ॥ 
 श्री पराशरभट्टार्यः श्रीरङ्गेशपुरोहितः । श्रीवत्सांकसुतः श्रीमान् श्रेयसे मेऽस्तु भूयसे || 
@@ -641,8 +688,8 @@ against सर्व पालिनी
 U 
 श्रद्धा देवी प्रथमजा ऋतस्य । विश्वस्य भलीं जगतः प्रतिष्ठा । तां श्रद्धां हविषा यजामहे । सा नो लोकममृतं दधातु । ईशाना देवी भुवनस्याविपत्नी ||२|| 
 अत्र द्वितीया ऋक् पञ्चपदा । तस्मिन्मन्त्रद्वये लक्ष्म्याः स्वरूपरूपगुणविभवादि सकलवेदवेदान्तसारभूतमाचालपण्डितं प्रसिद्धतरं प्रतिपाद्यते । 
-तत्र प्रथमेन मन्त्रेण सर्वेश्वरस्य सर्वेश्वरत्वं तद्विभूतेरपि विभूति- त्वं लक्ष्म्यायत्तमिति प्रतिपाद्यते । 
-[' श्रद्धया देव इत्यादि' ] [ देवः] - निरुपाधिकद्योतनादिकल्याण- गुणविशिष्टः सर्वेश्वरः । [देवत्वं ] - ईश्वरत्वं । [ श्रद्धया ] - श्रद्धापरपर्यायया देव्या श्रिया । [समश्नुते ] - प्राप्नोति । तथा वैष्णवे पुराणे 
+तत्र प्रथमेन मन्त्रेण सर्वेश्वरस्य सर्वेश्वरत्वं तद्विभूतेरपि विभूतित्वं लक्ष्म्यायत्तमिति प्रतिपाद्यते । 
+[' श्रद्धया देव इत्यादि' ] [ देवः] - निरुपाधिकद्योतनादिकल्याणगुणविशिष्टः सर्वेश्वरः । [देवत्वं ] - ईश्वरत्वं । [ श्रद्धया ] - श्रद्धापरपर्यायया देव्या श्रिया । [समश्नुते ] - प्राप्नोति । तथा वैष्णवे पुराणे 
 1" मेधा श्रद्धा सरस्वती, ' 2" अस्येशाना जगतो विष्णुपत्नी ' । 3' सुमज्जानये विष्णवे ददाशति' इति श्रुत्यन्तरम् । 
 46 
 " 
@@ -663,12 +710,12 @@ C
 रा. सु. २१-१६. 
 ३ 
 [सा]श्रीः । 
-[ श्रद्धा प्रतिष्ठा लोकस्य देवी ]. लोक्यत इति लोक:- असद्या- वृत्तं प्रमाणप्रतिपन्नं वस्तुजातं; असद्व्यावर्तकस्य चेतनाचेतनात्म- कस्य सर्वस्य प्रपञ्चस्य। [देवी]-जगदुत्पत्तिस्थितिलयादिना क्रीडन्ती । [ श्रद्धा ] - साक्षाल्लक्ष्मीः । [ प्रतिष्ठा ] - प्रतितिष्ठत्यस्यामिति प्रतिष्ठा - आधार - भूता । " आतश्चोपसर्ग" इति अङ् । अथवा अस्य सर्वस्य लोकस्य धारण- पोषणभोग्यप्रदानेन स्थापयित्री । तथा, 
-" विष्टंभो दिवो धरुणः पृथि- व्या:, ' ' अलमेषा परित्रातुं,' " अभियाचाम वैदेहीमि 'त्यादि । [सा नो जुषाणोपयज्ञमागात्] एवंभूता [सा] श्रीः | [ नः] - अस्माकं, देवी- समाराधनाय समुद्युक्तानां [य] आनुपूर्व्या विधीयमानं स्वप्रीणनम् । [जुषाणा] प्रीयमाणा । [ उपागात्] उपगच्छतु । 
-56 छन्दसि लुङ्लो- टा' विति लोटो लुङ् । किंविशिष्टा [ कामवत्साऽमृतं दुहाना ] यस्य यस्य यो यः कामः तस्य तस्य तेन तेन कामेन वत्सभूतेन वत्सला धेनुः वत्सस्य पय इव [अमृतं दुहाना ] क्षरन्ती, बहुस्नुतीरिति यावत् । तथा “ प्रणिपातप्रसन्ना हि ' " स श्लाघ्यस्स गुणी धन्य' इत्यादि ॥ 
+[ श्रद्धा प्रतिष्ठा लोकस्य देवी ]. लोक्यत इति लोक:असद्यावृत्तं प्रमाणप्रतिपन्नं वस्तुजातं; असद्व्यावर्तकस्य चेतनाचेतनात्मकस्य सर्वस्य प्रपञ्चस्य। [देवी]-जगदुत्पत्तिस्थितिलयादिना क्रीडन्ती । [ श्रद्धा ] - साक्षाल्लक्ष्मीः । [ प्रतिष्ठा ] - प्रतितिष्ठत्यस्यामिति प्रतिष्ठा - आधार - भूता । " आतश्चोपसर्ग" इति अङ् । अथवा अस्य सर्वस्य लोकस्य धारणपोषणभोग्यप्रदानेन स्थापयित्री । तथा, 
+" विष्टंभो दिवो धरुणः पृथिव्या:, ' ' अलमेषा परित्रातुं,' " अभियाचाम वैदेहीमि 'त्यादि । [सा नो जुषाणोपयज्ञमागात्] एवंभूता [सा] श्रीः | [ नः] - अस्माकं, देवीसमाराधनाय समुद्युक्तानां [य] आनुपूर्व्या विधीयमानं स्वप्रीणनम् । [जुषाणा] प्रीयमाणा । [ उपागात्] उपगच्छतु । 
+56 छन्दसि लुङ्लोटा' विति लोटो लुङ् । किंविशिष्टा [ कामवत्साऽमृतं दुहाना ] यस्य यस्य यो यः कामः तस्य तस्य तेन तेन कामेन वत्सभूतेन वत्सला धेनुः वत्सस्य पय इव [अमृतं दुहाना ] क्षरन्ती, बहुस्नुतीरिति यावत् । तथा “ प्रणिपातप्रसन्ना हि ' " स श्लाघ्यस्स गुणी धन्य' इत्यादि ॥ 
 द्वितीयेन मन्त्रेण इष्टापूर्तादिसर्वकर्मसमाराध्यत्वं तेषां फल- 
 प्रदातृत्वं च लक्ष्म्याः समर्थ्यते । 
-[ श्रद्धा देवीत्यादि ] [ऋतस्य ] - सुकृतस्य कर्मण: [ प्रथमजा ]- 8' जनसनखने 'त्यादिना विट् । ' ' विड्वनोरनुनासिकस्याऽऽत्' इति 
+[ श्रद्धा देवीत्यादि ] [ऋतस्य ] - सुकृतस्य कर्मण: [ प्रथमजा ]8' जनसनखने 'त्यादिना विट् । ' ' विड्वनोरनुनासिकस्याऽऽत्' इति 
 अष्टाध्यायी - ३-३-१०६. 
 2 
 9 
@@ -677,8 +724,8 @@ C
 8 अष्टाध्या. ३-२-६७. 9 अष्टाध्या ६-४-४१. 
 · 
 ४ 
-आत्त्वम् । समाराध्यत्वेन पूर्वं सन्निहिता [विश्वस्य भत्रीं] [विश्वस्य ]- स्थावरजंगमात्मकस्य प्रपञ्चस्य पोषयित्री । [ जगतः प्रतिष्ठा ] [ जगतः ]- जङ्गमस्य देवतिर्यङ्मनुप्यात्मकभूतजातस्याधारभूता । कर्मफलभूतेन वृष्ट्यादिना जगन्निर्वाहिका " " ततोऽवलोकिता देवा" इत्यादि । [तां श्रद्धां हविषा यजामहे ] उक्तगुणविशिष्टां [तां] [श्रद्धां]- सर्वेश्वरी । [हविषा यजा- महे] [हविषा ] - तस्याः प्रीत्यर्थं प्रदेयेन पत्रपुष्पादिना चरुपुरोडाशादिना वा, आत्मात्मीयेन वा । [ यजामहे ] समाराधयामः । [ सा नो लोक- मित्यादि ] [ सा]- एवमस्मत्समाराधिता । [ नः ] - समाराधकेभ्यः । [ अमृतं लोकं ]- नित्यसिद्धं विष्णोः परमं पदं । [ धातु] - ददातु | तथा परमपदविषये- 2“ अत्यर्कानलदीप्तं तस्थानं विष्णोर्महात्मनः, ' इत्यारण्यपर्वणि आर्ष्टिषेणप्रतिपादितम् परमपदविपयवचनं सर्वमल लेख्यम् । “त्वं सिद्धिस्त्वं स्वधा स्वाहे "त्यादि, “विमुक्तिफलदायिनी " इत्यन्तं पुराणवचनं सर्वमत्र लेख्यम् । 
-[ ईशाना देवी भुवनस्याधिपत्नी] [भुवनस्य ] - चिड़चिदात्मकम्य कृत्स्नस्य प्रपंचस्य । [ ईशाना ] - खभावतो नियन्त्री ; अनन्याधीनेश्वरी- त्यर्थः । ' ताच्छील्ये चाशु' | [ अधिपत्नी] अधि - अधिकस्य पत्युः 
+आत्त्वम् । समाराध्यत्वेन पूर्वं सन्निहिता [विश्वस्य भत्रीं] [विश्वस्य ]स्थावरजंगमात्मकस्य प्रपञ्चस्य पोषयित्री । [ जगतः प्रतिष्ठा ] [ जगतः ]जङ्गमस्य देवतिर्यङ्मनुप्यात्मकभूतजातस्याधारभूता । कर्मफलभूतेन वृष्ट्यादिना जगन्निर्वाहिका " " ततोऽवलोकिता देवा" इत्यादि । [तां श्रद्धां हविषा यजामहे ] उक्तगुणविशिष्टां [तां] [श्रद्धां]सर्वेश्वरी । [हविषा यजामहे] [हविषा ] - तस्याः प्रीत्यर्थं प्रदेयेन पत्रपुष्पादिना चरुपुरोडाशादिना वा, आत्मात्मीयेन वा । [ यजामहे ] समाराधयामः । [ सा नो लोकमित्यादि ] [ सा]एवमस्मत्समाराधिता । [ नः ] - समाराधकेभ्यः । [ अमृतं लोकं ]नित्यसिद्धं विष्णोः परमं पदं । [ धातु] - ददातु | तथा परमपदविषये2“ अत्यर्कानलदीप्तं तस्थानं विष्णोर्महात्मनः, ' इत्यारण्यपर्वणि आर्ष्टिषेणप्रतिपादितम् परमपदविपयवचनं सर्वमल लेख्यम् । “त्वं सिद्धिस्त्वं स्वधा स्वाहे "त्यादि, “विमुक्तिफलदायिनी " इत्यन्तं पुराणवचनं सर्वमत्र लेख्यम् । 
+[ ईशाना देवी भुवनस्याधिपत्नी] [भुवनस्य ] - चिड़चिदात्मकम्य कृत्स्नस्य प्रपंचस्य । [ ईशाना ] - खभावतो नियन्त्री ; अनन्याधीनेश्वरीत्यर्थः । ' ताच्छील्ये चाशु' | [ अधिपत्नी] अधि - अधिकस्य पत्युः 
 1 वि. पु. १ ९-१०६. 
 " भा. व. 
 ३ वि. पु. १ ९-११९. वं सिद्धित्वं स्वधा स्वाहा सुधा त्वं लोकपावनी । 
@@ -688,15 +735,15 @@ C
 २ अष्टा ३-२-१२९. 
 यज्ञविद्या महाविद्या शुद्यविद्या च शोभने । आत्मविद्या च देवि त्वं विमुक्तिफलदायिनी ॥ 
 1 
-भगवतः पत्नी । पत्युनों यज्ञसंयोगे' इति पाणिनिः । आश्रित - संरक्षणयज्ञे सहधर्मचारिणी; सृष्ट्यादीनामप्युपलक्षणम् । तथा चोभय- संकल्पायत्ता जगन्निर्माणादिलीलेति भावः ॥ 
+भगवतः पत्नी । पत्युनों यज्ञसंयोगे' इति पाणिनिः । आश्रित - संरक्षणयज्ञे सहधर्मचारिणी; सृष्ट्यादीनामप्युपलक्षणम् । तथा चोभयसंकल्पायत्ता जगन्निर्माणादिलीलेति भावः ॥ 
 अन्यदपि श्रद्धामुक्तम् 
 'हविषा वर्धयामसि' इत्यन्तम् ॥ 
 ''श्रद्धयाऽग्निम्समिध्यत' इत्यादि 
-तत्र श्रद्धासूक्ते 'श्रद्धां देवा यजमानः' इत्यादिना सर्वदेवो- पास्यत्वमवगतम् । 'देव' इति मनुष्याणामुपलक्षणम् । 
-'श्रद्धां प्रातर्हवामहे ' इत्यादिना सन्ध्यालयोपान्यत्वम् । 'श्रद्धा देवानधिवस्त' इत्यनेन सर्वदेवान्तर्यामित्वं; 'श्रद्धा विश्वमिदं जगत्' इत्य नेन सामानाधिकरण्यव्यपदेशेन शरीरात्मभावश्च सिद्धः । यथा " नारा- यण एवेदं सर्व' मिति भगवतः । ' ' सर्वं खल्विदं ब्रह्म' इति सामा- 
+तत्र श्रद्धासूक्ते 'श्रद्धां देवा यजमानः' इत्यादिना सर्वदेवोपास्यत्वमवगतम् । 'देव' इति मनुष्याणामुपलक्षणम् । 
+'श्रद्धां प्रातर्हवामहे ' इत्यादिना सन्ध्यालयोपान्यत्वम् । 'श्रद्धा देवानधिवस्त' इत्यनेन सर्वदेवान्तर्यामित्वं; 'श्रद्धा विश्वमिदं जगत्' इत्य नेन सामानाधिकरण्यव्यपदेशेन शरीरात्मभावश्च सिद्धः । यथा " नारायण एवेदं सर्व' मिति भगवतः । ' ' सर्वं खल्विदं ब्रह्म' इति सामा- 
 1 अष्टा ४-१-३३. 
 यजु. अष्ट. २ प्रश्न. ८ अनु. ८, ६४-६६. 
-श्रद्धयाऽग्निः समिध्यते श्रद्धया विन्दते हविः । श्रद्धां भगस्य मूर्धनि वचसाss- वेदयामास । प्रियं श्रद्धे ददतः । प्रियं श्रद्धे दिदासतः । प्रियं भोजेषु यज्चसु इदं म उदितं कृधि । यथा देवा अमुरेषु श्रद्धामुग्रेषु चक्रिरे ॥ एवं भोजेषु यज्वसु अस्माकमुदितं कृधि । श्रद्धां देवा यजमानाः वायुगोपा उपासते । श्रद्धां हृदय्ययाऽऽकृत्या श्रद्धया हूयते हविः । श्रद्धां प्रातर्हवामहे श्रद्धां मध्य- न्दिनं परि । श्रद्धां सूर्यस्य निम्रुचि श्रद्धे श्रद्धापयेहमा | श्रद्धा देवानघिवस्ते श्रद्धा विश्वमिदं जगत् । श्रद्धां कामस्य मातरं हविषा वर्धयामसि ॥ 
+श्रद्धयाऽग्निः समिध्यते श्रद्धया विन्दते हविः । श्रद्धां भगस्य मूर्धनि वचसाssवेदयामास । प्रियं श्रद्धे ददतः । प्रियं श्रद्धे दिदासतः । प्रियं भोजेषु यज्चसु इदं म उदितं कृधि । यथा देवा अमुरेषु श्रद्धामुग्रेषु चक्रिरे ॥ एवं भोजेषु यज्वसु अस्माकमुदितं कृधि । श्रद्धां देवा यजमानाः वायुगोपा उपासते । श्रद्धां हृदय्ययाऽऽकृत्या श्रद्धया हूयते हविः । श्रद्धां प्रातर्हवामहे श्रद्धां मध्यन्दिनं परि । श्रद्धां सूर्यस्य निम्रुचि श्रद्धे श्रद्धापयेहमा | श्रद्धा देवानघिवस्ते श्रद्धा विश्वमिदं जगत् । श्रद्धां कामस्य मातरं हविषा वर्धयामसि ॥ 
 ॥ 
 15. 
 ± तैं. उ.२-११- 
@@ -705,8 +752,8 @@ w
 नाधिकरण्यव्यपदेशस्तूभयसाधारणः । ' श्रद्धां कामस्य मातरमित्यनेन सर्वफलदातृत्वमवगतम् । एवं भूतां श्रद्धामुपास्महे || 
 मेधासूक्तेऽपि 
 1 मेधा देवी जुषमाणा न आगात् । विश्वाची भद्रा सुमनस्यमाना । त्वया जुष्टा जुषमाणा दुरुक्तान् । बृहद्वदेम विदधे सुवीराः ॥ १ ॥ त्वया जुष्ट ऋषिर्भवति । देवि त्वया ब्रह्माऽऽगतश्रीरुत त्वया । त्वया जुष्टश्चितं विन्दते वसु । सानो जुषस्व द्रविणेन मे ॥ २ ॥ 
-अस्मिन्मन्त्रद्वये देव्यास्सर्वव्यापित्वं, सर्वसमाराध्यत्वं, सर्वापे- क्षितफलप्रदातृत्वं च सुस्पष्टमुच्यते । 
-मेधा देवीत्यादि — अध्यवसायिन्या बुद्धेर्निर्वाहिका [मेधा ] । [देवी] - जगन्निर्माणनर्मरसिका । [ नः ] - तत्सेवारसिकानां अस्माकम् । [ जुषमाणा ] भक्तप्रिया । आगात् - अस्मद्यागं, [आगात् ] - आगच्छतु । [विश्वाची] विश्वं भूतजातं अञ्जसा अञ्चन्ती व्याप्य नियच्छन्ती । लुप्त- नकारादञ्चतेर्डीप् । ‘अञ्चु गतिपूजनयो 'रिति धातुना विश्वगता, विश्व- पूज्या च । उक्तं च भगवता पराशरेण " यथा सर्वगतो विष्णुस्तथै- वेयं द्विजोत्तम' इति । " त्वयैतद्विष्णुना चाम्ब जगद्व्याप्तं चराचरं ' इति च । [भद्रा]-भजनीया; सर्वमंगळावहा । [सुमनस्यमाना] सुमनोभाव- मात्मन इच्छन्तीति क्यच् । क्यजन्तात् " ताच्छील्ये चानशू' । तस्याः 
+अस्मिन्मन्त्रद्वये देव्यास्सर्वव्यापित्वं, सर्वसमाराध्यत्वं, सर्वापेक्षितफलप्रदातृत्वं च सुस्पष्टमुच्यते । 
+मेधा देवीत्यादि — अध्यवसायिन्या बुद्धेर्निर्वाहिका [मेधा ] । [देवी] - जगन्निर्माणनर्मरसिका । [ नः ] - तत्सेवारसिकानां अस्माकम् । [ जुषमाणा ] भक्तप्रिया । आगात् - अस्मद्यागं, [आगात् ] - आगच्छतु । [विश्वाची] विश्वं भूतजातं अञ्जसा अञ्चन्ती व्याप्य नियच्छन्ती । लुप्तनकारादञ्चतेर्डीप् । ‘अञ्चु गतिपूजनयो 'रिति धातुना विश्वगता, विश्वपूज्या च । उक्तं च भगवता पराशरेण " यथा सर्वगतो विष्णुस्तथैवेयं द्विजोत्तम' इति । " त्वयैतद्विष्णुना चाम्ब जगद्व्याप्तं चराचरं ' इति च । [भद्रा]-भजनीया; सर्वमंगळावहा । [सुमनस्यमाना] सुमनोभावमात्मन इच्छन्तीति क्यच् । क्यजन्तात् " ताच्छील्ये चानशू' । तस्याः 
 1 तै. उ. २-३७· 
 ० वि. पु. १ ८ १७. 
 " 
@@ -715,18 +762,18 @@ w
 4. अष्टा. ३-२-१२९. 
 9 
 ........ 
-सुमनस्त्वे "पापानां वा शुभानां वा न कश्चिन्नापराध्यति ॥ आगतां तां त्वंकृत्य ब्रवीति । त्वत्कटाक्षात्पूर्वं [दुरुक्तान् ]-दुरुक्तानि वचनलक्षणरहितानि वाक्यानि । [ जुषमाणाः ] - सेवमाना वयं; इदानीं [त्वया ] [ जुष्टाः ] - प्रीतिपूर्वकं समीक्षिताः । त्वत्कटाक्षपातेन [विदधे ]- विज्ञाने सति, महान्तः विगोष्ठीषु [सुवीरा ] :- वीर्यवन्तः । [ बृहत् ], महत्पूजितं वचः ; [वदेम] अभिदधीमहि । अनेन मन्त्रेण लक्ष्मीकटा- क्षाधीनं वाग्विलासादिकमिति दर्शितम् ॥ 
-अथ द्वितीयः -- ' त्वया जुष्ट' इत्यादि । हे देवि, [त्वया जुष्टः ] यः कश्चिदकिंचनोऽपि [ ऋषिर्भवति ] - मन्त्रद्रष्टा भवति । किं च त्वया जुष्टः ब्रह्मा भवति - बृहत्त्वगुणयोगी भवतीति यावत् । ब्रह्म वा भवति । *निरञ्जनः परमं साम्यमुपैति' इति प्रक्रियया । ब्रह्मसदृशो भवति । किं च त्वत्कटाक्षतः गतश्रीरप्यागतश्रीर्भवति । [ उत] अप्यर्थे । किं च त्वया जुष्ट:, [चित्रं ] - विस्मयनीयं, [ वसु ]- समृद्धधनं [ विन्दते] - लभते । एवं भूता सा त्वं [ अस्मान् ] त्वां प्रपन्नान् ; [ द्रविणेन ] सर्वसमृद्धया सह [ जुषख ]- सेवख । हे [मेधे] हे लक्ष्मीरिति योजना । अनेन मन्त्रेण सर्वस्य ज्ञानधन महत्त्वादिकं त्वदधीनमित्युक्तम् || 
+सुमनस्त्वे "पापानां वा शुभानां वा न कश्चिन्नापराध्यति ॥ आगतां तां त्वंकृत्य ब्रवीति । त्वत्कटाक्षात्पूर्वं [दुरुक्तान् ]-दुरुक्तानि वचनलक्षणरहितानि वाक्यानि । [ जुषमाणाः ] - सेवमाना वयं; इदानीं [त्वया ] [ जुष्टाः ] - प्रीतिपूर्वकं समीक्षिताः । त्वत्कटाक्षपातेन [विदधे ]विज्ञाने सति, महान्तः विगोष्ठीषु [सुवीरा ] :वीर्यवन्तः । [ बृहत् ], महत्पूजितं वचः ; [वदेम] अभिदधीमहि । अनेन मन्त्रेण लक्ष्मीकटाक्षाधीनं वाग्विलासादिकमिति दर्शितम् ॥ 
+अथ द्वितीयः -' त्वया जुष्ट' इत्यादि । हे देवि, [त्वया जुष्टः ] यः कश्चिदकिंचनोऽपि [ ऋषिर्भवति ] - मन्त्रद्रष्टा भवति । किं च त्वया जुष्टः ब्रह्मा भवति - बृहत्त्वगुणयोगी भवतीति यावत् । ब्रह्म वा भवति । *निरञ्जनः परमं साम्यमुपैति' इति प्रक्रियया । ब्रह्मसदृशो भवति । किं च त्वत्कटाक्षतः गतश्रीरप्यागतश्रीर्भवति । [ उत] अप्यर्थे । किं च त्वया जुष्ट:, [चित्रं ] - विस्मयनीयं, [ वसु ]समृद्धधनं [ विन्दते] - लभते । एवं भूता सा त्वं [ अस्मान् ] त्वां प्रपन्नान् ; [ द्रविणेन ] सर्वसमृद्धया सह [ जुषख ]सेवख । हे [मेधे] हे लक्ष्मीरिति योजना । अनेन मन्त्रेण सर्वस्य ज्ञानधन महत्त्वादिकं त्वदधीनमित्युक्तम् || 
 अदितिसूक्तेषु : 'अदितिद्यैरदितिरन्तरिक्षम् । अदितिर्माता स पिता स पुत्रः । विश्वे देवा अदितिः पञ्चजना: । अदितिर्जातमदितिर्ज 
 रा. यु. ११६-४४. 2 मुण्डक. उ. ३-१-३. 
 3 
 यजु. आर. प्र. १-१३-४. 
 नित्वं ।' 'अष्टौ पुत्रासो अदितेः' इत्यत्र अदितिशब्देन साक्षाल्ल- 
 क्ष्मीः तद्विभूतिभूता भूमिर्वोच्यते । 
-अदितिः-अखण्डनीयखरूपगुणविभवा अदितिः । ' दो अव- खण्डने' । दितिर्नेत्यदितिः । " द्यतिस्यतीत्यादिना इकारः । अनेन मन्त्रेण तस्याः सर्वात्मकत्वमुच्यते । 
-'अदितिः पञ्चजना' इति पञ्चजनाश्चादितिविभूतिभृताः । के पुनस्ते ! प्राणश्चक्षुः श्रोत्रान्नमनांसि । तथा वाजसनेयत्राह्मणे "प्राणस प्राणं चक्षुषश्चक्षुः श्रोत्रस्य श्रोतं मनसो मन इति एते पञ्चजना अदित्यधीना इति यावत् । अदितिर्जातं - उत्पन्नम् । अदितिर्जनिलं- जनुषो लक्षणं; जनिष्यमणामिति यावत् । 
+अदितिः-अखण्डनीयखरूपगुणविभवा अदितिः । ' दो अवखण्डने' । दितिर्नेत्यदितिः । " द्यतिस्यतीत्यादिना इकारः । अनेन मन्त्रेण तस्याः सर्वात्मकत्वमुच्यते । 
+'अदितिः पञ्चजना' इति पञ्चजनाश्चादितिविभूतिभृताः । के पुनस्ते ! प्राणश्चक्षुः श्रोत्रान्नमनांसि । तथा वाजसनेयत्राह्मणे "प्राणस प्राणं चक्षुषश्चक्षुः श्रोत्रस्य श्रोतं मनसो मन इति एते पञ्चजना अदित्यधीना इति यावत् । अदितिर्जातं - उत्पन्नम् । अदितिर्जनिलंजनुषो लक्षणं; जनिष्यमणामिति यावत् । 
 3" अदितिर्देवा गन्धर्वा" इत्यादिकमनुवाकमदितिविभूतिप्रति पादकमत्र लेख्यम् । 
-4' अदितिनं उरुप्यतु' इत्यादिसुक्तेऽपि तन्माहात्म्यं सुभिक्षम् । अन्यत्र लक्ष्मीमाहात्म्यपराणि वाक्यानि बहूनि दृश्यन्ते । " अस्येशाना जगतो विष्णुपत्नी,' "महीं देवीं विष्णुपत्नीमजूय' 'ही ते लक्ष्मी- श्च पन्न्यौ, ' ' सुमज्जानये विष्णवे ददाती 'ति । 
+4' अदितिनं उरुप्यतु' इत्यादिसुक्तेऽपि तन्माहात्म्यं सुभिक्षम् । अन्यत्र लक्ष्मीमाहात्म्यपराणि वाक्यानि बहूनि दृश्यन्ते । " अस्येशाना जगतो विष्णुपत्नी,' "महीं देवीं विष्णुपत्नीमजूय' 'ही ते लक्ष्मीश्च पन्न्यौ, ' ' सुमज्जानये विष्णवे ददाती 'ति । 
 1 अष्टा ७-४-४०. 
 " वाजसे. व्रा. 
 ± तै. उ. 
@@ -735,13 +782,13 @@ w
 6 य. अष्ट. ३. अनु. २-१८-१. 
 तै. आ. ३-१३-४१. 
 8 च. अष्ट. २-४-२९-४. 
-बाक्सूक्तं पृथिवीसूक्तमित्यादिकमपि अत्र द्रष्टव्यम् । वाक्सूक्ते तु विशेषः " मेधा श्रद्धा सरस्वती' इति सरखतीशब्दस्य लक्ष्मीनाम- त्वेन परिगणनात् तत्पर्यायवाक्छन्दवाच्याया लक्ष्म्या "अनन्तामन्ता- दित्यनेन देशतः कालतो वस्तुतः परिच्छेदरहितत्वं । 
+बाक्सूक्तं पृथिवीसूक्तमित्यादिकमपि अत्र द्रष्टव्यम् । वाक्सूक्ते तु विशेषः " मेधा श्रद्धा सरस्वती' इति सरखतीशब्दस्य लक्ष्मीनामत्वेन परिगणनात् तत्पर्यायवाक्छन्दवाच्याया लक्ष्म्या "अनन्तामन्तादित्यनेन देशतः कालतो वस्तुतः परिच्छेदरहितत्वं । 
 * वाचं देवा उपजीवन्ति' इत्यादिना देवादिसर्वचेतनोपजीव्यत्वम् । “वाचीमा विश्वे' त्यनेन सकलभुवनाधारत्वम् । '[ इन्द्रपत्नी]' त्यनेन ' इदि परमै - वर्य' इति धातूत्पन्नेन्द्रशब्दवाच्य परमैश्वर्यविशिष्टविष्णुपत्नीत्वम् । ‘[अमृतस्य नाभि]'रित्यनेन मुक्तयुपायत्वम् । ' [ अवन्ती देवी ] 'त्यनेन सर्वरक्षकत्वम् । '[यामृपय ] ' इत्यादिना सर्वोपास्यत्वं च सुस्पष्टम्वगतम् । 
 5 
 असक्तेऽपि तद्विभूतिभूतभूमिप्रतिपादके ' [ इन्द्रपत्नी व्यापिनी ] ' इति सर्वव्यापित्वं भूम्या अवगतम् । तत् गुणतो व्याप्तिपरं : 
 G 44 तथा भूमिश्च नीला च शेषभूते मते मम । 
 स्वरूपतस्तु न तयोर्गुणतो व्याप्तिरिष्यते ॥” इति 
-स्वरूपतो व्याप्तिप्रतिषेधात्, गुणतो व्याप्तिप्रतिपादनाच्च अनन्यथासि- द्वैतद्वचनोपबृंहितस्वरूपतो व्याप्तिप्रतिषेधपरे कायनश्रुत्यैक कट्यावश्यंभा- वाच्च । यद्यपि तैत्तिरीयके “उद्धृताऽसि वराहेण' इत्यादिके भूविषये वाक्ये 
+स्वरूपतो व्याप्तिप्रतिषेधात्, गुणतो व्याप्तिप्रतिपादनाच्च अनन्यथासिद्वैतद्वचनोपबृंहितस्वरूपतो व्याप्तिप्रतिषेधपरे कायनश्रुत्यैक कट्यावश्यंभावाच्च । यद्यपि तैत्तिरीयके “उद्धृताऽसि वराहेण' इत्यादिके भूविषये वाक्ये 
 1 वि. पु. १ ९-११९. 
 " य. अष्ट. २८-६२-४. 
 "" 23 २-८-६२-७. 
@@ -753,15 +800,15 @@ G
 भुसुक्ते. 
 7 तैं. उ. २.1 ( 
 १० 
-ईश्वरीं सर्वभूतानां ' इति सर्वभूतेश्वरत्वमवगतं, तथाऽपि जीवकोटि- त्वेन प्रमाणसिद्धायाः भूम्याः सर्वभूतेश्वरत्ववचनं तदन्तर्यामिलक्ष्मी- परत्वेन योज्यम् । वराहोद्धृतत्वं तत्परमेव । एतेषां सर्वेषामुपबृंहणानि वैष्णवत्राह्मभगवच्छास्त्रवचनानि ॥ 
-तथा हि—मैत्रेयेण पृष्टो भगवान् पराशरः वैष्णवे पुराणे लक्ष्मीख- रूपविभूत्यादिकं स्पष्टमध्यायद्वयेन प्रतिपादितवान् । तत्र प्रथमेंss- टमेध्याये मैत्रेयः 
+ईश्वरीं सर्वभूतानां ' इति सर्वभूतेश्वरत्वमवगतं, तथाऽपि जीवकोटित्वेन प्रमाणसिद्धायाः भूम्याः सर्वभूतेश्वरत्ववचनं तदन्तर्यामिलक्ष्मीपरत्वेन योज्यम् । वराहोद्धृतत्वं तत्परमेव । एतेषां सर्वेषामुपबृंहणानि वैष्णवत्राह्मभगवच्छास्त्रवचनानि ॥ 
+तथा हि—मैत्रेयेण पृष्टो भगवान् पराशरः वैष्णवे पुराणे लक्ष्मीखरूपविभूत्यादिकं स्पष्टमध्यायद्वयेन प्रतिपादितवान् । तत्र प्रथमेंssटमेध्याये मैत्रेयः 
 3 
 2“क्षीरोदाच्छ्रीः समुत्पन्ना श्रूयतेऽमृतमन्धने । 
 भृगोः ख्यात्यां समुत्पन्नेत्येतदाह कथं भवान् ॥” 
 पराशरः ३ “नित्यैवैषा जगन्माता विष्णोः श्रीरनपायिनी " इत्यारभ्य 
 46 
 '' देवतिर्यमनुष्येषु पुन्नामा भगवान् हरिः । 
-स्त्रीनाम्नी लक्ष्मीर्मैत्रेय नानयोर्विद्यते परम्" इत्यन्तं लेख्यम् । अनेनाध्यायेन सर्वेषां तत्वानां भगवानिव लक्ष्मीरपि व्यापनभरण- नियमनात्मशरीरभावादिनां सर्वेषामियं स्वामिनी, तानि सर्वाण्यस्याश्शेष इति सुस्पष्टमुदितम् || 
+स्त्रीनाम्नी लक्ष्मीर्मैत्रेय नानयोर्विद्यते परम्" इत्यन्तं लेख्यम् । अनेनाध्यायेन सर्वेषां तत्वानां भगवानिव लक्ष्मीरपि व्यापनभरणनियमनात्मशरीरभावादिनां सर्वेषामियं स्वामिनी, तानि सर्वाण्यस्याश्शेष इति सुस्पष्टमुदितम् || 
 अनन्तरेणाध्यायेन लक्ष्मीमाहात्म्यादिकं केनचिदितिहासेन 
 प्रपञ्चितम् । 
 3 
@@ -772,13 +819,13 @@ G
 ,, १-८-३५ ( See 
 appendix .) 
 ११ 
-श्रीपराशरः :- 1" इदं च शृणु मैत्रेय यत्पृष्टोऽहमिह त्वया । 
+श्रीपराशरः :1" इदं च शृणु मैत्रेय यत्पृष्टोऽहमिह त्वया । 
 श्रीसंबन्धं मयाप्येतच्छ्रतमासीन्मरीचितः ॥ " इत्यारभ्य, 2" वसति न तेषु कदाचिदप्यलक्ष्मीः" इत्यन्तं सर्वं लेख्यम् ॥ 
-अस्मिन्नध्याये साक्षात्सर्वेश्वरस्य परमात्मपरब्रह्मादिशब्दवाच्यस्य नारायणस्येव श्रद्धाविष्णुपत्नी श्रीशब्दवाच्यायाः सर्वेश्वर्याः सर्वात्म- भूतायाः साक्षालक्ष्म्याः अपि व्यापनभरणनियमनखाम्यादिकं अनन्त- गरुडविष्वक्सेनादिनित्यसूरिविरिञ्चेशशतमखाद्यखिलसुरासुरमनुजसिद्ध- गन्धर्वादिस्तुतत्वं, तत्समाराध्यत्वं, अखिल हेयप्रत्यनीकत्वं, कल्याणैकता- नत्वं, सर्वलोकस्य तत्कटाक्षलवसमुल्लसितत्वं, तस्य सर्वस्य तदभावमा - त्रविनाशित्वं, यज्ञदानतपःप्रभृतीनां धर्माणां तन्निदानभूतस्य सत्यस्य च तत्कार्यभूतशुद्धिसमृद्धिबुद्धिप्रभृतीनामपि तत्कटाक्षायत्तत्वं, सकलस्य चेतनस्य तेनैव भोगमोक्षरूपनिखिलपुरुषार्थलाभित्वं, अशरण्यशरण्यत्व- मित्युक्तार्थजातं तदसाधारणमनन्यगोचरं प्रतिपादयता वसिष्ठपुलस्त्यवर- प्रदानप्रसादीकृतदेवतापारमार्थ यज्ञानेन श्रीविष्णुपुराणसन्दर्शितसर्वभो- गापवर्गतदुपायरूपपरमरहस्येन भगवतः पाराशर्यस्य पितृत्वेन सर्वोप- निषत्सु घुष्यमाणेन साक्षाद्वसिष्ठपौत्रेण सकललोकपितामहचतुर्मुख- नप्त्रा ब्रह्मविदग्रेसरशुकपितामहेन ब्रह्मविन्मैत्रायाचार्येण भगवता परा - शरेण ‘श्रीरेव सर्वेश्वरी' इति श्रुतीनामुपबृंहणं बहुभिस्तात्पर्यलिंगैः सुदृढय्य समुद्भावितम् । 
+अस्मिन्नध्याये साक्षात्सर्वेश्वरस्य परमात्मपरब्रह्मादिशब्दवाच्यस्य नारायणस्येव श्रद्धाविष्णुपत्नी श्रीशब्दवाच्यायाः सर्वेश्वर्याः सर्वात्मभूतायाः साक्षालक्ष्म्याः अपि व्यापनभरणनियमनखाम्यादिकं अनन्तगरुडविष्वक्सेनादिनित्यसूरिविरिञ्चेशशतमखाद्यखिलसुरासुरमनुजसिद्धगन्धर्वादिस्तुतत्वं, तत्समाराध्यत्वं, अखिल हेयप्रत्यनीकत्वं, कल्याणैकतानत्वं, सर्वलोकस्य तत्कटाक्षलवसमुल्लसितत्वं, तस्य सर्वस्य तदभावमा - त्रविनाशित्वं, यज्ञदानतपःप्रभृतीनां धर्माणां तन्निदानभूतस्य सत्यस्य च तत्कार्यभूतशुद्धिसमृद्धिबुद्धिप्रभृतीनामपि तत्कटाक्षायत्तत्वं, सकलस्य चेतनस्य तेनैव भोगमोक्षरूपनिखिलपुरुषार्थलाभित्वं, अशरण्यशरण्यत्वमित्युक्तार्थजातं तदसाधारणमनन्यगोचरं प्रतिपादयता वसिष्ठपुलस्त्यवरप्रदानप्रसादीकृतदेवतापारमार्थ यज्ञानेन श्रीविष्णुपुराणसन्दर्शितसर्वभोगापवर्गतदुपायरूपपरमरहस्येन भगवतः पाराशर्यस्य पितृत्वेन सर्वोपनिषत्सु घुष्यमाणेन साक्षाद्वसिष्ठपौत्रेण सकललोकपितामहचतुर्मुखनप्त्रा ब्रह्मविदग्रेसरशुकपितामहेन ब्रह्मविन्मैत्रायाचार्येण भगवता परा - शरेण ‘श्रीरेव सर्वेश्वरी' इति श्रुतीनामुपबृंहणं बहुभिस्तात्पर्यलिंगैः सुदृढय्य समुद्भावितम् । 
 1 वि. पु. १-९-१ (See appendix ) . 
 ३ वि. पु. १९१४९. 
 १२ 
-एवमादिमे ब्राह्मपुराणे भगवान् हिरण्यगर्भः क्षीराब्धौ भगवन्त- -मभिगम्य “जितं ते" इत्यादिना स्तुत्वा पृच्छति म्म - 
+एवमादिमे ब्राह्मपुराणे भगवान् हिरण्यगर्भः क्षीराब्धौ भगवन्त-मभिगम्य “जितं ते" इत्यादिना स्तुत्वा पृच्छति म्म - 
 ब्रह्मोवाच - " चतुर्दशविधस्यास्य भूतसर्गस्य केशव । 
 परित्राणाय मे ब्रूहि रहस्यं परमाद्भुतम् ॥ दारिद्र्यनाशनं धर्म्यं मनोज्ञं पापनाशनं । सर्वेश्वर महाबुद्धे स्वरूपं वैभवं महत् ॥ श्रियन्सर्वातिशायिन्यास्तथा ज्ञानं च शाश्वतम् । नामानि चैव मुख्यानि यानि गौणानि चाच्युत ॥ 
 त्वक्त्रकमलोत्थानि श्रोतुमिच्छामि तत्वतः । " 
@@ -789,7 +836,7 @@ appendix .)
 तथाऽगुणमैश्वर्यं ददाति पठतां नृणाम् । 
 " 
 "" 
-इति सर्वेश्वर्याः व्यापनभरणनियमनखाम्यादिकापरिमेयमाहात्म्यप्रमा- णानि प्रपञ्च च तन्नामानि स्वरूपरूपगुणविभूतिमाहात्म्यप्रतिपादकानि पठतां जपतां सर्वमङ्गलावहानि भोगमोक्षप्रदानि सहस्रनामानि व्यप- दिश्यन्ते- 
+इति सर्वेश्वर्याः व्यापनभरणनियमनखाम्यादिकापरिमेयमाहात्म्यप्रमाणानि प्रपञ्च च तन्नामानि स्वरूपरूपगुणविभूतिमाहात्म्यप्रतिपादकानि पठतां जपतां सर्वमङ्गलावहानि भोगमोक्षप्रदानि सहस्रनामानि व्यपदिश्यन्ते- 
 ८८ 
 ' इति नाम्नां सहस्रं तु लक्ष्म्याः प्रोक्तं शुभावहन् । 
 परावरेण भेदेन गौणमुख्यविभागतः ॥ 
@@ -800,7 +847,7 @@ appendix .)
 यम्मालक्ष्म्यंशसंभूताः शक्तयो विश्वगाः सदा । कारणत्वेन तिष्ठन्ति जगत्यस्मिंस्तदाश्रयाः || तस्मात्प्रीता जगन्माता श्रीर्यस्याच्युतवल्लभा । स्वाध्यायशक्तयस्तस्य सिद्धिमिष्टां दिशन्ति च ॥ एक एव जगत्स्वामी शक्तिमानच्युतः प्रभुः । तदंशाः शक्तिमन्तोऽन्ये ब्रह्मेशानादयो यथा || तथैवैका परा शक्तिः श्रीस्तस्य करुणाश्रया । ज्ञानादिषाड्गुण्यमयी या प्रोक्ता प्रकृतिः परा ॥ एकैव शक्तिः श्रीस्तस्य द्वितीया परिवर्तते । परावरेण रूपेण सर्वाकारात्ममानिनी ॥ अनन्तनामधेया च शक्तिचक्रस्य नायिका । जगच्चराचरमिदं विश्वं व्याप्य व्यवस्थिता || तस्मादेकैव परमा श्रीर्ज्ञेया विश्वरूपिणी । सौम्या सौम्येन रूपेण संस्थिता वटवीजवत् ॥ यो यो जगति पुंभावः स विष्णुरिति निश्चयः । यो यस्तु नारीभावः स्यात्तत्र लक्ष्मीर्व्यवस्थिता | प्रकृतेः पुरुषाच्चान्यस्तृतीयो नैव विद्यते । अथ किं बहुनोक्तेन नरनारीमयो हरिः || अनेक भेदभिन्नस्तु क्रीडते परमेश्वरः । महाविभूतिदयितां ये स्तुवन्त्यच्युतप्रियाम् ॥ 
 १५ 
 ते प्राप्नुवन्ति परमां लक्ष्मीं संशुद्धचेतसः । पद्मयोनिरिदं प्राप्य पठन् सूक्तं ततः क्रमात् ॥ 
-दिव्यं चाष्टगुणैश्वर्यं तत्प्रसादाच्च लब्धवान् ॥ " इति ॥ अत्राऽपि तस्य स्वरूपरूपगुणविभवादिकं शक्तिचक्रनायिकात्वं, भगवतः सर्वेश्वरस्येव सर्वव्यापनमरणनियमनादिकं सुस्पष्टं प्रपंच्योप- संहृतम् । श्रीमद्वैष्णवपुराणवदत्राप्यस्मदपेक्षितं सुभिक्षम् ॥ लेंगे क्षुपस्तोत्रे – “ प्रजया तस्य सन्तुष्टो भगवान्पुरुषोत्तमः । 
+दिव्यं चाष्टगुणैश्वर्यं तत्प्रसादाच्च लब्धवान् ॥ " इति ॥ अत्राऽपि तस्य स्वरूपरूपगुणविभवादिकं शक्तिचक्रनायिकात्वं, भगवतः सर्वेश्वरस्येव सर्वव्यापनमरणनियमनादिकं सुस्पष्टं प्रपंच्योपसंहृतम् । श्रीमद्वैष्णवपुराणवदत्राप्यस्मदपेक्षितं सुभिक्षम् ॥ लेंगे क्षुपस्तोत्रे – “ प्रजया तस्य सन्तुष्टो भगवान्पुरुषोत्तमः । 
 श्रीभूमिसहितः श्रीमान् शंखचक्रगदाधरः ॥ 
 अत्रापि लक्ष्मीनारायणयोरपरिमेयमाहात्म्यं सुप्रसिद्धम् ॥ श्रीविष्णुस्मृतौ श्रियं प्रति वसुधावचनम् 
 " आक्रम्य सर्वां तु यथा त्रिलोकीं तिष्ठत्ययं देववरोऽसिताक्षि * । 
@@ -822,13 +869,13 @@ appendix .)
 — 
 पा. 
 १६ 
-त्तमस्य जगत्कारणत्वादिकं सर्वज्ञत्वसर्वशक्तित्वादिकं हेयप्रत्यनीकत्व- कल्याणगुणाकरत्वादिकं च सर्वं सर्वेश्वर्या जगन्नायिकाया अपि साधा- रणम् । एवं श्रुतिस्मृत्यादिषु प्रतिपाद्यमानानां लक्ष्मीस्वरूपरूपगुण- विभवादीनां सामस्त्यं श्रीसूक्ते दरीदृश्यते || 
-हिरण्यगर्भः श्रीपुत्रः श्रीसूक्तस्य ऋषिः स्मृतः । देवता सैव विज्ञेया छन्दश्चात्र निगद्यते || चतुर्थी पञ्चमी चाल त्रिष्टुभ छन्दसा स्मृ । शिष्टा अनुष्टुमश्चेति छन्दस्तत्त्वविदो विदुः || अन्त्यां तृतीयां बृहतीं केचिदिच्छन्ति पण्डिताः ॥ अथवा --- श्रीसूक्तस्य श्रियं देवीं भूषितां चैव देवताम् । 
+त्तमस्य जगत्कारणत्वादिकं सर्वज्ञत्वसर्वशक्तित्वादिकं हेयप्रत्यनीकत्वकल्याणगुणाकरत्वादिकं च सर्वं सर्वेश्वर्या जगन्नायिकाया अपि साधारणम् । एवं श्रुतिस्मृत्यादिषु प्रतिपाद्यमानानां लक्ष्मीस्वरूपरूपगुणविभवादीनां सामस्त्यं श्रीसूक्ते दरीदृश्यते || 
+हिरण्यगर्भः श्रीपुत्रः श्रीसूक्तस्य ऋषिः स्मृतः । देवता सैव विज्ञेया छन्दश्चात्र निगद्यते || चतुर्थी पञ्चमी चाल त्रिष्टुभ छन्दसा स्मृ । शिष्टा अनुष्टुमश्चेति छन्दस्तत्त्वविदो विदुः || अन्त्यां तृतीयां बृहतीं केचिदिच्छन्ति पण्डिताः ॥ अथवा --श्रीसूक्तस्य श्रियं देवीं भूषितां चैव देवताम् । 
 अन्ये वदन्ति मुनयः छन्द: क्लृप्तिं च पूर्ववत् ॥ कुत्रास्य विनियोगः ? भोगमोक्षार्थिनां तेन श्रीसूक्तेन विधीयते । 
 आराधने श्रियो देव्याः श्रीकामानां जपादिषु । बोधायनेन मुनिना सूत्रे च विनियुज्यते ॥ 
-तत्र तावद्भोधायनः :- 'अथातः श्रीसूक्तकल्पं व्याख्यास्यामः । चान्द्रायणं चरित्वा सहस्रं जपेत् सिद्धो भवतीत्यथ पुष्टिकाम उत्तर- फल्गुन्यां पञ्चमीयोगे केवलायां वोपोषितो महात्रीहितण्डुलैश्चरुं पयसि श्रपयित्वा विल्वमयं परिधिं परिधाय विल्मयमिध्मं आदध्यात् । अथ पायसादवदायाभिघार्य प्रत्यृचं दशाहुतीर्जुहोति आज्याहुतीस्समिढ़ाहु- तीच 'गन्धद्वारा 'मित्यारभ्याऽऽन्तात्सूक्तस्य पद्मानि जुहुयात् । त्रयः प्रां- चस्त्रय प्रत्यञ्च आत्मा सप्तमो महाश्रीर्भवति' इत्याह भगवान् बोधायनः । 
+तत्र तावद्भोधायनः :'अथातः श्रीसूक्तकल्पं व्याख्यास्यामः । चान्द्रायणं चरित्वा सहस्रं जपेत् सिद्धो भवतीत्यथ पुष्टिकाम उत्तरफल्गुन्यां पञ्चमीयोगे केवलायां वोपोषितो महात्रीहितण्डुलैश्चरुं पयसि श्रपयित्वा विल्वमयं परिधिं परिधाय विल्मयमिध्मं आदध्यात् । अथ पायसादवदायाभिघार्य प्रत्यृचं दशाहुतीर्जुहोति आज्याहुतीस्समिढ़ाहुतीच 'गन्धद्वारा 'मित्यारभ्याऽऽन्तात्सूक्तस्य पद्मानि जुहुयात् । त्रयः प्रांचस्त्रय प्रत्यञ्च आत्मा सप्तमो महाश्रीर्भवति' इत्याह भगवान् बोधायनः । 
 १७ 
-वसिष्ठस्मृतौ : - " अथ लक्ष्मीव्रतं वक्ष्ये । पञ्चम्यां शुक्लपक्षस्य चैत्रे मासि प्रदोषेऽविनालं सितमष्टदलपद्मं लिखित्वा, तत्र श्रियमावा- ह्याऽऽवाहनादिविसर्जनान्तं कृत्वा, समिदाहुतीश्च प्रत्यृचं अष्टाविंशतिं हुत्वा, श्रीसूक्तं जपित्वा ततः शेषं भुञ्जीत । सम्वत्सरान्महती श्रीर्भवति, अलक्ष्मीनाशश्च भवति ॥' इति ॥ 
+वसिष्ठस्मृतौ : - " अथ लक्ष्मीव्रतं वक्ष्ये । पञ्चम्यां शुक्लपक्षस्य चैत्रे मासि प्रदोषेऽविनालं सितमष्टदलपद्मं लिखित्वा, तत्र श्रियमावाह्याऽऽवाहनादिविसर्जनान्तं कृत्वा, समिदाहुतीश्च प्रत्यृचं अष्टाविंशतिं हुत्वा, श्रीसूक्तं जपित्वा ततः शेषं भुञ्जीत । सम्वत्सरान्महती श्रीर्भवति, अलक्ष्मीनाशश्च भवति ॥' इति ॥ 
 पाद्मे पुराणे : 2" लक्ष्मीसमाराधने विनियोगः । मल्लिकैः श्वेतपद्मैर्वा जातिपुप्पैरथापि वा । मन्दारकुसुमं चापि पूजायां गृह्यते श्रियः ॥ आद्ययाssवाहयेत् देवीं श्रीसूक्तस्य नृपेश्वरीम् । द्वितीययाऽऽसनं दद्यात् पाद्यं चैव तृतीयया ।। चतुर्थ्याऽर्ध्यप्रदानं स्यात् पंचम्याऽऽचमनीयकम् । षष्ठया स्नानं प्रकुर्वीत सप्तम्या वस्त्रमेव च ॥ मुक्तासंवीतमष्टम्या भूषणानि च पार्थिव । गन्धं दद्यान्नवम्या तु दशम्या पुष्पमेव च ॥ एकादश्या तथा धूपं द्वादश्या ज्योतिरेव च । पायसं घृतसंयुक्तं खण्डशर्करसंयुतम् ॥ निवेदयेत् त्रयोदश्या चतुर्दश्या प्रदक्षिणम् । उद्वासयेत् पञ्चदश्या लक्ष्मीं तां लोकमातरम् ।। स्नाने वस्त्रे निवेद्ये च दद्यादाचमनं नृप । कृत्वा प्रदक्षिणं देवीं प्रागुद्वासनकर्मणः || 
 1 वसिष्ठस्मृ. 
 2 
@@ -844,22 +891,22 @@ appendix .)
 "" 
 3" अविदित्वा * ऋषिं छन्दो दैवतं योगमेव च । योऽध्यापयेद्याजयेद्वा पापीयान् जायते तु सः ॥ " इति । 
 । 
-41"यो ह वा अविदितार्षेयछन्दोदैवतब्राह्मणेन मन्त्रेण यजति याजयति वाऽध्यापयति वा स्थाणुं वर्च्छति गर्तं वाऽऽपद्यते प्र वा मीयते पापीयान् भवति यातयामान्यस्य छन्दांसि भवन्ति । अथ यो मन्त्रे वेद स सर्वमा- युरेति अयातयामान्यस्य छन्दांसि भवन्ति " इति । तथाऽर्थज्ञानाज्ञाने च 
+41"यो ह वा अविदितार्षेयछन्दोदैवतब्राह्मणेन मन्त्रेण यजति याजयति वाऽध्यापयति वा स्थाणुं वर्च्छति गर्तं वाऽऽपद्यते प्र वा मीयते पापीयान् भवति यातयामान्यस्य छन्दांसि भवन्ति । अथ यो मन्त्रे वेद स सर्वमायुरेति अयातयामान्यस्य छन्दांसि भवन्ति " इति । तथाऽर्थज्ञानाज्ञाने च 
 1 
 2 
 3 
 4 
-ऋषिच्छन्दोदेवतायोगमेव च - क, ख यो वा अवि.- क. अथवाविदि. ख. 
+ऋषिच्छन्दोदेवतायोगमेव च - क, ख यो वा अवि.क. अथवाविदि. ख. 
 · 
 1 मन्त्रं-क. 
 १९ 
-फलविशेषमाहुः । “स्थाणुरयं भारवाहः किलाधीत्य वेदं न विजानाति योऽर्थ, योऽर्थज्ञ* इत् सकलं भद्रमश्नुते स नाकमेति ज्ञानविधूतपाप्मा " इति अनवगतार्थज्ञानस्य मन्त्रस्य सर्वमन्त्रवैयर्थ्यम्; अवगतार्थज्ञानस्य सर्वपुरुषार्थसाधकत्वं श्रुतम् । तस्मादवश्यं सूक्तादीनामर्थज्ञानं संपाद- नीयम् | तज्ज्ञानार्थमिदमपि सूक्तं व्याकुर्महे || 
+फलविशेषमाहुः । “स्थाणुरयं भारवाहः किलाधीत्य वेदं न विजानाति योऽर्थ, योऽर्थज्ञ* इत् सकलं भद्रमश्नुते स नाकमेति ज्ञानविधूतपाप्मा " इति अनवगतार्थज्ञानस्य मन्त्रस्य सर्वमन्त्रवैयर्थ्यम्; अवगतार्थज्ञानस्य सर्वपुरुषार्थसाधकत्वं श्रुतम् । तस्मादवश्यं सूक्तादीनामर्थज्ञानं संपादनीयम् | तज्ज्ञानार्थमिदमपि सूक्तं व्याकुर्महे || 
 हरिः ओं ॥ हिरण्यवर्णां हरिणीं सुवर्णरजतस्रजाम् । 
 चन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥ १ ॥ 
 सर्वेश्वरेश्वरी लक्ष्मीर्भोगमोक्षप्रदायिनी । 
 आद्ययाssवाह्यते देवी श्रीनिवासाद्धरिप्रिया ॥ 
-हिरण्यवर्णा इत्यादि । हे जातवेदः - लक्ष्मीपते; जातं- स्वतस्सिद्धं वेद:- धनं वा, ज्ञानं वा, यशो वा यस्य जातवेदाः । स्वतस्सिद्धं सार्वज्ञ्यसर्वैश्वर्यादिकं साक्षाल्लक्ष्मीपतेरेव, नान्यस्य कस्यचित् । अग्न्यादित्यसोमसूर्यशिववैश्रवणचतुर्मुखशतमखादीनां ज्ञानबलैश्वर्य - वीर्यादिकं स्वपदलाभादिकं च भगवदायत्तमिति सर्वैः शास्त्रैः समर्थ्यते ॥ 
-तथा हि- चतुर्मुखस्य तावत् महाभारते 
+हिरण्यवर्णा इत्यादि । हे जातवेदः - लक्ष्मीपते; जातंस्वतस्सिद्धं वेद:धनं वा, ज्ञानं वा, यशो वा यस्य जातवेदाः । स्वतस्सिद्धं सार्वज्ञ्यसर्वैश्वर्यादिकं साक्षाल्लक्ष्मीपतेरेव, नान्यस्य कस्यचित् । अग्न्यादित्यसोमसूर्यशिववैश्रवणचतुर्मुखशतमखादीनां ज्ञानबलैश्वर्य - वीर्यादिकं स्वपदलाभादिकं च भगवदायत्तमिति सर्वैः शास्त्रैः समर्थ्यते ॥ 
+तथा हिचतुर्मुखस्य तावत् महाभारते 
 1 
 200 
 2" " युगकोटिसहस्राणि विष्णुमाराध्य पद्मभूः । 
@@ -884,7 +931,7 @@ appendix .)
 एधन्ते त्वत्पदच्छायामाश्रित्य कमलेश्वरि ॥ " इति । 
 · 
 1 भार. शा २०-१२. 
-4 तैं. आर. २- १५. 
+4 तैं. आर. २१५. 
 2 वि. पु. ५-१७-७. 
 कतैं. व्रा. ३-७-१२. 
 वि. पु. ३-७-१५. 
@@ -892,7 +939,7 @@ appendix .)
 ॐ 
 ३ तै. उ. २-६३. 
 ० तैं. उ.१-१३. 
-लोकहिते- ख. 
+लोकहितेख. 
 २१ 
 ब्राह्मे पुराणे : - 1 " एक एव जगत्खामी शक्तिमानच्युतः प्रभुः । 
 तदंशाः शक्तिमन्तोऽन्ये ब्रह्मेशानादयो यथा ॥ " 
@@ -911,7 +958,7 @@ appendix .)
 1 ब्राह्म. 
 · मंकणसं. 3 महालक्ष्मीसं. 
 २२ 
-भगवद्व्यतिरिक्तानां सर्वेषां देवानां स्वरूपरूपगुणविभवादिकं भगव- दधनमिति प्रपञ्चितम् । तस्मादत्र 'जातवेदः 'शब्दः सर्वनिर्वाहकस्य श्रियः पतेर्वाचक इति । परमात्मसूक्ते 'जातवेद: 'शब्दः परमात्मनि प्रयुज्यते । 1" जातवेदसे सुनवाम सोमं " इति । परमात्मनि प्रयुक्तानामेवंविधानां शब्दानां रूढिमपहाय योगेनैव तद्वाचकत्वं भगवता शारीरकमीमांसासूत्रकारेण बादरायणेन 2 " आकाशस्तल्लिं- गात्” “प्राणस्तथानुगमात्" " वैश्वानरस्साधारणशब्दविशेषात् " इत्यादिसूत्रैः सुदृढेन न्यायेन निरूप्य निर्णीतम् ॥ 
+भगवद्व्यतिरिक्तानां सर्वेषां देवानां स्वरूपरूपगुणविभवादिकं भगवदधनमिति प्रपञ्चितम् । तस्मादत्र 'जातवेदः 'शब्दः सर्वनिर्वाहकस्य श्रियः पतेर्वाचक इति । परमात्मसूक्ते 'जातवेद: 'शब्दः परमात्मनि प्रयुज्यते । 1" जातवेदसे सुनवाम सोमं " इति । परमात्मनि प्रयुक्तानामेवंविधानां शब्दानां रूढिमपहाय योगेनैव तद्वाचकत्वं भगवता शारीरकमीमांसासूत्रकारेण बादरायणेन 2 " आकाशस्तल्लिंगात्” “प्राणस्तथानुगमात्" " वैश्वानरस्साधारणशब्दविशेषात् " इत्यादिसूत्रैः सुदृढेन न्यायेन निरूप्य निर्णीतम् ॥ 
 हिरण्यवर्णाम्—हितरमणीयाम् । हितत्वं नाम अपेक्षितार्थ- 
 साधकत्वं; रमणीयत्वं नाम प्रीत्यनुरूपत्वम् । सर्वहितत्वरमणीयत्वाभ्यां देव्या दिव्यरूपमेव परमप्राप्यं परमप्रापकमिति च दर्शितम् । तथा धनदीये " " सर्वलक्षणसंपन्नां श्रियं श्रेयः प्रदायिनीम् । क्षिप्रप्रसादिनीं देवीं शरण्यामनुचिन्तयेत् ॥ 
 वैष्णवपुराणे' “ततः स्फुरत्कान्तिमती विकासिकमले स्थिता । 
@@ -928,7 +975,7 @@ appendix .)
 काश्यपीये "" सर्वदुःखौषधं नृणां सर्वपापक्षयप्रदाम् । वैष्णवे 2" त्वं सिद्धिस्त्वं स्वधा स्वाहा " इति । अथवा हरिणी - कृष्णमृगी । सा मेध्या सर्वयागार्हा सर्वपापहराऽपि च " । भगवत्समाश्रयणयोग्यतापादिनीति यावत् । 
 काश्यपीये “नारायणात्मिकां देवीं श्रियं त्रैलोक्यमातरम् | 
 भजमानां महाभाग परमो धर्म उच्यत ॥ " इति । 
-सुवर्णरजतस्रजाम् — खसौन्दर्यलावण्यानुगुणनित्यनिर्मलविराजमान- स्रग्वस्त्राभरणोद्भासिताम् । श्रीविष्णुपुराणे: 5 " स्रम्बस्त्राभरणैर्युक्ता दिव्यमाल्यांबरधरा । ++++ ययौ वक्षःस्थलं हरेः ||" तद्ध्याने च "सुवर्णरजतां मालां धारिणीं सुमुखीं सदा" इति । चन्द्राम्- सर्वाह्लादकारिणीम् । ‘चदि आह्लादने' । इदित्वान्नुम् । औणादिको र[*क्]प्रत्ययः । तापत्रयतप्तान् स्वसमाश्रयणोन्मुखानाह्लादयन्तीम् । 
+सुवर्णरजतस्रजाम् — खसौन्दर्यलावण्यानुगुणनित्यनिर्मलविराजमानस्रग्वस्त्राभरणोद्भासिताम् । श्रीविष्णुपुराणे: 5 " स्रम्बस्त्राभरणैर्युक्ता दिव्यमाल्यांबरधरा । ++++ ययौ वक्षःस्थलं हरेः ||" तद्ध्याने च "सुवर्णरजतां मालां धारिणीं सुमुखीं सदा" इति । चन्द्राम्सर्वाह्लादकारिणीम् । ‘चदि आह्लादने' । इदित्वान्नुम् । औणादिको र[*क्]प्रत्ययः । तापत्रयतप्तान् स्वसमाश्रयणोन्मुखानाह्लादयन्तीम् । 
 6८८ 
 तथा- 
 - 
@@ -957,9 +1004,9 @@ G
 धनधान्यकरीं सिद्धिं वसुधां वसुधारिणीम् | निविद्वयेनापि धनं प्रापयन्तीं मनोरथान् ॥ 
 ३ “शंखपद्मनिधी लक्ष्म्याः पादयोरग्रतः स्थितौ 1 
 पश्यन्तौ मुखमन्योऽन्यं, वमन्तौ विपुलं धनम् ॥ 
-लक्ष्मीम् - सर्वसुरासुरमनुजमुनीन्द्रादिभिर्लक्षणीयां- प्रार्थनीयां; सर्वैश्वर्य- निमित्तभूतदिव्यलक्षणसंपन्नां वा । 
+लक्ष्मीम् - सर्वसुरासुरमनुजमुनीन्द्रादिभिर्लक्षणीयांप्रार्थनीयां; सर्वैश्वर्यनिमित्तभूतदिव्यलक्षणसंपन्नां वा । 
 तथा : 4 " ब्रह्माद्यास्सकला देवा मुनयश्च तपोधनाः । 
-त्वां स्तोतुमपि नेशानास्त्वत्प्रसादलवं विना ॥” इति । जातवेदो म आवह - एवं भूतां तां लक्ष्मीं त्वत्समाश्रयणोन्मुखस्य सर्वो- पकरणसमृद्ध्यर्थं, आवह —— सन्निधापय । लक्ष्मीनिरीक्षणादेव सर्वेषां सर्वसमृद्धिः । यथा “सः श्लाघयम्सगुणी धन्य" इत्यादि, 5 "देवि निरीक्षस" इत्यन्तं ; "" दाराः पुत्रास्तथाऽऽगारा" इत्यादि च ॥ १ ॥ 
+त्वां स्तोतुमपि नेशानास्त्वत्प्रसादलवं विना ॥” इति । जातवेदो म आवह - एवं भूतां तां लक्ष्मीं त्वत्समाश्रयणोन्मुखस्य सर्वोपकरणसमृद्ध्यर्थं, आवह —— सन्निधापय । लक्ष्मीनिरीक्षणादेव सर्वेषां सर्वसमृद्धिः । यथा “सः श्लाघयम्सगुणी धन्य" इत्यादि, 5 "देवि निरीक्षस" इत्यन्तं ; "" दाराः पुत्रास्तथाऽऽगारा" इत्यादि च ॥ १ ॥ 
 5 
 1 वि. पु. १ ९ १०६० वि. पु. १ ९ १३१. 
 3 
@@ -978,9 +1025,9 @@ G
 4 
 ईशते भगवानेकः सत्यमेतद्ब्रवीमि ते ॥ 
 564 
-इत्यादि । तां - पूर्वोक्तसमस्त कल्याणगुणगणप्रकाराम् * । लक्ष्मी- चतुर्मुखशतमखादिसकलसुरासुरप्रार्थनीयविभवलक्षणाम् ; सर्वलक्ष- णसंपन्नाम्,” “न ते वर्णयितुं शक्या" इत्यादि । भवदावानलप्लुष्ट- तया त्वत्कटाक्षामृततरङ्गिणीतरङ्गपरम्पराप्लाव्यमानस्य मे - मत्सेवार्थं । इहावह-मयि सन्निधापय । कथमित्यपेक्षायां अनपगामिनीम् - मत्समी- पादन्यत्र कदाचित् क्वचिद्गन्तुं नेच्छन्तीं; यथा मयि नित्यानपायिनी, तथा कुरु । तथा 7 " आवहन्ती वितन्वाना कुर्वाणा चीरमात्मनः " 
+इत्यादि । तां - पूर्वोक्तसमस्त कल्याणगुणगणप्रकाराम् * । लक्ष्मीचतुर्मुखशतमखादिसकलसुरासुरप्रार्थनीयविभवलक्षणाम् ; सर्वलक्षणसंपन्नाम्,” “न ते वर्णयितुं शक्या" इत्यादि । भवदावानलप्लुष्टतया त्वत्कटाक्षामृततरङ्गिणीतरङ्गपरम्पराप्लाव्यमानस्य मे - मत्सेवार्थं । इहावह-मयि सन्निधापय । कथमित्यपेक्षायां अनपगामिनीम् - मत्समीपादन्यत्र कदाचित् क्वचिद्गन्तुं नेच्छन्तीं; यथा मयि नित्यानपायिनी, तथा कुरु । तथा 7 " आवहन्ती वितन्वाना कुर्वाणा चीरमात्मनः " 
 'तै. उ. नारा, २-११. 3 * प्रकारां तां - ख. ग. 'तै. उ.१-४. 
-1 तै. उ. २- १. 
+1 तै. उ. २१. 
 1 
 भार. उ. ६७-१३. 
 5 
@@ -988,7 +1035,7 @@ G
 ► 
 1 
 २६ 
-चीरं कुर्वाणा। यस्याम्--सकलापेक्षितप्रदातृत्वेन श्रुतिस्मृतिसिद्धायां ; यथा ““स श्लाध्यस्सगुणी धन्य" इत्यादि । हिरण्यम्-हिरण्यरूप्यादि * आकूप्यं धनजातम् । गाम् - गोमहिपादिजीवधनम् । अश्वम्- रिथ- गजतुरगादिवाहंनसमृद्धिम् | पुरुषान् - दासीदासादिपरिचारकान् सर्वै- र्विभवैर्विहीनोऽहम् । विन्दे॒यम् - सर्वां विभूतिं लभेयमिति । तथा 2" वासांसि मम गावश्च । अन्नपाने च सर्वदा । ततो मे श्रियमाह । लोमशां पशुभिस्सह स्वाहा " इति । 
+चीरं कुर्वाणा। यस्याम्--सकलापेक्षितप्रदातृत्वेन श्रुतिस्मृतिसिद्धायां ; यथा ““स श्लाध्यस्सगुणी धन्य" इत्यादि । हिरण्यम्-हिरण्यरूप्यादि * आकूप्यं धनजातम् । गाम् - गोमहिपादिजीवधनम् । अश्वम्रिथगजतुरगादिवाहंनसमृद्धिम् | पुरुषान् - दासीदासादिपरिचारकान् सर्वैर्विभवैर्विहीनोऽहम् । विन्दे॒यम् - सर्वां विभूतिं लभेयमिति । तथा 2" वासांसि मम गावश्च । अन्नपाने च सर्वदा । ततो मे श्रियमाह । लोमशां पशुभिस्सह स्वाहा " इति । 
 स्वायंभुवे ः– “यद्यत्कामयते बुद्धया यद्यद्दृष्ट्वा च याचति । 
 तत्तदेतेन वीजेन स्वयमेवागमिष्यति ॥ 
 ॥२॥ 
@@ -1006,12 +1053,12 @@ G
 २७ 
 1 " यथा सर्वगतो विष्णुस्तथैवेयं द्विजोत्तम 
 " इति । 
-रथमध्यां --- रथानां - ईहाशीलानां जीवानां मध्ये – हृदयगुहायां आत्मत्वेन या तिष्ठति सा रथमध्या । यद्वा, रथस्य - शरीरस्य, श्रीनिवा- सस्य सर्वेश्वरस्य सौन्दर्यलावण्याद्याकाराप्राकृतपञ्चशक्तिमयदिव्यविग्रह- स्य; 2“आत्मानं रथिनं विद्धि शरीरं रथमेव च " इति श्रुतिप्रसिद्धेः । तस्य मरकतगिरितटविशाले श्रीवत्सकौस्तुभादिकल्पिताकल्पे मङ्गलाकारे वक्षःस्थले नित्यसन्निहिता । तथा 3" पश्यतां सर्वदेवानां ययौ वक्षःस्थलं हरेः” इति । हस्तिनादप्रबोधिनीम् - गजेन्द्राद्याश्रितार्तनादे परमकृपाम्बुधेः सर्वेश्वरादपि प्रथमप्रबोधनशीलाम्; आर्तसंरक्षणे पुरुषोत्तमादपि त्वरमाणाम् इति यावत् । 4 " करुणास्रानतमुखी " "सर्वार्तिसमुद्रपरिशोषिणी " इति । तन्नाम्नि ॥ 
+रथमध्यां --रथानां - ईहाशीलानां जीवानां मध्ये – हृदयगुहायां आत्मत्वेन या तिष्ठति सा रथमध्या । यद्वा, रथस्य - शरीरस्य, श्रीनिवासस्य सर्वेश्वरस्य सौन्दर्यलावण्याद्याकाराप्राकृतपञ्चशक्तिमयदिव्यविग्रहस्य; 2“आत्मानं रथिनं विद्धि शरीरं रथमेव च " इति श्रुतिप्रसिद्धेः । तस्य मरकतगिरितटविशाले श्रीवत्सकौस्तुभादिकल्पिताकल्पे मङ्गलाकारे वक्षःस्थले नित्यसन्निहिता । तथा 3" पश्यतां सर्वदेवानां ययौ वक्षःस्थलं हरेः” इति । हस्तिनादप्रबोधिनीम् - गजेन्द्राद्याश्रितार्तनादे परमकृपाम्बुधेः सर्वेश्वरादपि प्रथमप्रबोधनशीलाम्; आर्तसंरक्षणे पुरुषोत्तमादपि त्वरमाणाम् इति यावत् । 4 " करुणास्रानतमुखी " "सर्वार्तिसमुद्रपरिशोषिणी " इति । तन्नाम्नि ॥ 
 - 
-$पूर्वार्धस्यैवं[वा]योजना । अश्वपूर्वाम् - यस्याः प्रयाणकाले सेनाग्रे असंख्येयान्यश्चवृन्दानि पुरस्ताद्गच्छन्ति तां अश्वपूर्वाम् । रथमध्याम्- यस्यास्सेनामध्ये मणिमयानि दिव्यानि रथकदंबानि सन्निहितानि भवन्ति तां, रथमध्याम् । हस्तिनादप्रबोधिनीम् - पद्मवनवासित्वात् पद्मप्रियाणां गजानां नादैः प्रबुद्धयमानाम् । यद्वा-खासन पद्मस्थगुलगुलु 
+$पूर्वार्धस्यैवं[वा]योजना । अश्वपूर्वाम् - यस्याः प्रयाणकाले सेनाग्रे असंख्येयान्यश्चवृन्दानि पुरस्ताद्गच्छन्ति तां अश्वपूर्वाम् । रथमध्याम्यस्यास्सेनामध्ये मणिमयानि दिव्यानि रथकदंबानि सन्निहितानि भवन्ति तां, रथमध्याम् । हस्तिनादप्रबोधिनीम् - पद्मवनवासित्वात् पद्मप्रियाणां गजानां नादैः प्रबुद्धयमानाम् । यद्वा-खासन पद्मस्थगुलगुलु 
 1 वि. पु. १-८-१७. 
 कठ. ३-३. ९ वि. पु. १ ९-१०५. 
-4 लक्ष्मी- सहस्रनामाध्याये-करुणाग्रानतमुखी. - इति पाठः । करुणार्द्रानतमुखी - ग. * रथानामिह 
+4 लक्ष्मीसहस्रनामाध्याये-करुणाग्रानतमुखी. - इति पाठः । करुणार्द्रानतमुखी - ग. * रथानामिह 
 1 
 क. - महाशीलानां ग. रहणशीलानां घ ॥ 
 + तन्नामानि - ख. तन्नामनी - ग. 
@@ -1024,8 +1071,8 @@ $ पूर्ववत् अस्यैवं वा योजना । अ�
 दमकः शलिलश्चेति ख्याताः पुष्णन्तु मे श्रियम् ॥ 
 काश्यपीये - 2 " ऐरावतादिभिः सम्यक् सामजैरावृतां । शुभाम् । " स्वायंभुवे – “कोणपत्रगतैर्दिव्यैर्हिरण्यकलशोदकैः । 
 3 
-संप्रीतैः स्नाप्यमानां तां बोध्यमानां च तैर्गजैः ॥ " इति । श्रियम्-भगवद्वक्षःस्थलैकाश्रयाम् । देवीम् - जगत्सृष्ट्यादिकर्मनर्म- विनोदैः स्वप्रेयांसं श्रीमन्तमनुक्रीडन्तीम् । उपह्वये - अनेन मन्त्रेण मम समीपं प्रापयामि । सा श्री : - सर्वैराश्रयणीयाऽपि उपाश्रिता मां त्वदेकशरणम्, देवी- कन्तुकेनेव संकल्पमात्रोदञ्चनाकुञ्चनादिमता मया संक्रीडमाना । जुषताम् - अस्मल्लीलोपकरणमयमिति प्रीता भूयात् ॥ 
-अपरस्मिन्मन्त्रे प्रायेण स्तोत्रात्मना सर्वमङ्गलावहानि देवीनामा - न्येव पठितानि ॥ ब्राह्मे नाममाहात्म्ये :- ब्रह्मा- 
+संप्रीतैः स्नाप्यमानां तां बोध्यमानां च तैर्गजैः ॥ " इति । श्रियम्-भगवद्वक्षःस्थलैकाश्रयाम् । देवीम् - जगत्सृष्ट्यादिकर्मनर्मविनोदैः स्वप्रेयांसं श्रीमन्तमनुक्रीडन्तीम् । उपह्वये - अनेन मन्त्रेण मम समीपं प्रापयामि । सा श्री : - सर्वैराश्रयणीयाऽपि उपाश्रिता मां त्वदेकशरणम्, देवीकन्तुकेनेव संकल्पमात्रोदञ्चनाकुञ्चनादिमता मया संक्रीडमाना । जुषताम् - अस्मल्लीलोपकरणमयमिति प्रीता भूयात् ॥ 
+अपरस्मिन्मन्त्रे प्रायेण स्तोत्रात्मना सर्वमङ्गलावहानि देवीनामा - न्येव पठितानि ॥ ब्राह्मे नाममाहात्म्ये :ब्रह्मा- 
 4 (6 
 1 मङ्कणसं. 
 चतुर्दशविधस्यास्य भूतसर्गस्य केशव । 
@@ -1055,9 +1102,9 @@ LL
 धनदीये- 
 "सुस्मितास्योत्पलोद्भासिसु शुक्लदशनांशुभिः । 
 नयन्मधुलिहः श्वैत्यमात्मगन्धानुपातिनः ॥ " 
-हिरण्यप्राकारां- नानारत्नमयसुवर्णमयप्राकारपरिवृतानन्दमयदिव्यमण्ड- पान्तर्निवासिनीम् । तथा च श्रुतिः 3" देवानां पूरयोध्या तस्यां हिर- ण्मयः कोशः खर्गे लोको ज्योतिषाssवृतः " इत्यादि । ""यं मृत्यु - नवपश्यति तं प्रपद्ये " इति च । मङ्कणसंहितायाम् 5 “ माहेन्द्रमण्डपं हेमसालगोपुरलक्षणम् । 
+हिरण्यप्राकारांनानारत्नमयसुवर्णमयप्राकारपरिवृतानन्दमयदिव्यमण्डपान्तर्निवासिनीम् । तथा च श्रुतिः 3" देवानां पूरयोध्या तस्यां हिरण्मयः कोशः खर्गे लोको ज्योतिषाssवृतः " इत्यादि । ""यं मृत्यु - नवपश्यति तं प्रपद्ये " इति च । मङ्कणसंहितायाम् 5 “ माहेन्द्रमण्डपं हेमसालगोपुरलक्षणम् । 
 चतुर्द्वारं महद्दीप्तं यत्तत्पुष्णातु मे श्रियम् ॥ " 
-आर्द्राम् - दयार्द्रहृदयाम् । खचरणांभोजसमाराधनार्थं दिग्गजेन्द्रैरमृत- कलशैः स्नाप्यमानतया आर्द्रदेहां वा । ईश्वरसंहितायाम् : 
+आर्द्राम् - दयार्द्रहृदयाम् । खचरणांभोजसमाराधनार्थं दिग्गजेन्द्रैरमृतकलशैः स्नाप्यमानतया आर्द्रदेहां वा । ईश्वरसंहितायाम् : 
 66 
 दिग्गजेन्द्रैः स्नाप्यमानां काञ्चनैः कलशोदकैः । " 
 ज्वलन्तीम्-लावण्यमयेन खतेजसा सर्वांल्लोकान् भासयन्तीम् । 
@@ -1077,17 +1124,17 @@ LL
 + 
 * श्यामाभां - क. इत्यादि । चतुर्जलं ब्रह्मकोशं यं मृत्युः - ख. 
 8 भविष्योत्तरे. 
-+ स्वभासित- ग. 
++ स्वभासितग. 
 6 
 ३१ 
-'ज्वलन्तीं' इत्यस्याः 'आर्द्रा' इति विशेषणं वा । 1" आर्द्र ज्वलति ज्योतिरहमस्मि” इति श्रुत्या 'आर्द्रा' इति ज्वलतेर्विशेषणमाम्नातम् । तृप्ताम्-भगवत्संश्लेषजनितेन महानन्देन स्वयं तृप्ताम् । तर्पयन्तीम् - कान्तिशान्त्याकरमधुरशीतल विलोकनामृततरङ्गपरंपरया तापत्रयतप्तं प्रा- णिजातमाह्लादयन्तीम् । 
+'ज्वलन्तीं' इत्यस्याः 'आर्द्रा' इति विशेषणं वा । 1" आर्द्र ज्वलति ज्योतिरहमस्मि” इति श्रुत्या 'आर्द्रा' इति ज्वलतेर्विशेषणमाम्नातम् । तृप्ताम्-भगवत्संश्लेषजनितेन महानन्देन स्वयं तृप्ताम् । तर्पयन्तीम् - कान्तिशान्त्याकरमधुरशीतल विलोकनामृततरङ्गपरंपरया तापत्रयतप्तं प्राणिजातमाह्लादयन्तीम् । 
 सात्वते - 2" पूर्वकर्मानलार्तानां ध्यायिनां खेदशान्तये । 
 स्ववक्त्रेन्दुचयोत्थेन ह्लादयन्गो गणेन तु ॥ " इति । 
-तथा पद्मे स्थिताम् - खसौन्दर्यसौकुमार्यानुगुणसुगन्धशीतलसुखस्पर्श- पद्मासनासीनाम्; पद्मवर्णाम्-पद्मोदरसहोदराम्; अशेषजनवर्णनीयलाव- ण्यमयदिव्यशोभाम् । तथा मङ्कणसंहितायाम् : 
+तथा पद्मे स्थिताम् - खसौन्दर्यसौकुमार्यानुगुणसुगन्धशीतलसुखस्पर्शपद्मासनासीनाम्; पद्मवर्णाम्-पद्मोदरसहोदराम्; अशेषजनवर्णनीयलावण्यमयदिव्यशोभाम् । तथा मङ्कणसंहितायाम् : 
 3 " पद्मे स्थिता पद्मवर्णी पद्मनाभप्रिया शुभा । 
 सदानुग्रहसंपन्ना सा मे देवी प्रसीदतु ॥ " 
 4 
-भविष्योत्तरे :- " पद्मालयां पद्महस्तां पद्मां पद्मदलेक्षणाम् । " पूर्वोक्तसर्वगुणविशिष्टां तां श्रियं, सर्वैः सर्वप्रकारैस्समाश्रयणीयां इह- तच्छेषतैकखरूपे मयि, उपह्वये - तदनुकूलाञ्जलिमुद्रादिभिरभिमुखी- करोमि || 
+भविष्योत्तरे :" पद्मालयां पद्महस्तां पद्मां पद्मदलेक्षणाम् । " पूर्वोक्तसर्वगुणविशिष्टां तां श्रियं, सर्वैः सर्वप्रकारैस्समाश्रयणीयां इहतच्छेषतैकखरूपे मयि, उपह्वये - तदनुकूलाञ्जलिमुद्रादिभिरभिमुखीकरोमि || 
 " 
 आहूतामागतां देवीं पञ्चमेन प्रपद्यताम् । नाशं दुस्सहभार्याया अलक्ष्म्या वृणुते ततः ॥ 
 118 11 
@@ -1098,20 +1145,20 @@ LL
 चन्द्रां प्रभासां यशसा ज्वलन्तीं 
 श्रियं लोके देवजुष्टामुदाराम् । तां पद्मनेमिं शरणमहं प्रपद्येऽ- 
 लक्ष्मीर्मे नश्यतां त्वां वृणे ॥ ५ ॥ 
-'चन्द्राम्- ' चदि आह्लादने'; निरतिशयानन्दरूपामिति यावत् । आनन्दखरूपां, आनन्दगुणकां, आनन्दविग्रहां चेत्यर्थः । प्रभासाम्- प्रकृष्टतया भासमानाम् ; शुद्धसत्वप्रकाश शुभाश्रयदिव्यमङ्गलविग्रहाम् । यद्वा, प्रभासां - सर्वस्य लोकस्य सहस्रेन्दुसमप्रकाशाम् । यशसा - देवस्य सर्वेश्वरस्य सहधर्मचारित्वेन सर्वलोकविदितेन गुणवत्त्वसौभाग्येन यशसा । ज्वलन्तीम् — अनुकूलाननुकूलाखादतापकरदिव्यज्योतिः- स्वरूपाम् । तथा मङ्कणसंहितायाम्- 
+'चन्द्राम्' चदि आह्लादने'; निरतिशयानन्दरूपामिति यावत् । आनन्दखरूपां, आनन्दगुणकां, आनन्दविग्रहां चेत्यर्थः । प्रभासाम्प्रकृष्टतया भासमानाम् ; शुद्धसत्वप्रकाश शुभाश्रयदिव्यमङ्गलविग्रहाम् । यद्वा, प्रभासां - सर्वस्य लोकस्य सहस्रेन्दुसमप्रकाशाम् । यशसा - देवस्य सर्वेश्वरस्य सहधर्मचारित्वेन सर्वलोकविदितेन गुणवत्त्वसौभाग्येन यशसा । ज्वलन्तीम् — अनुकूलाननुकूलाखादतापकरदिव्यज्योतिःस्वरूपाम् । तथा मङ्कणसंहितायाम्- 
 - 
 सद्रत्नरूप्यसंमिश्रहेममालापरिष्कृता । 
-ज्वलन्ती तेजसा स्वेन सा मे देवी प्रसीदतु ॥ " इति । यद्वा, यशसा ज्वलन्तीम् - निरतिशयमङ्गलविभूत्यादिमत्तया तथाविध- गुणविभूत्यादिप्रदतया 26 यद्यद्विभूतिमत्" इत्यादिप्रमाणसिद्धतया 
+ज्वलन्ती तेजसा स्वेन सा मे देवी प्रसीदतु ॥ " इति । यद्वा, यशसा ज्वलन्तीम् - निरतिशयमङ्गलविभूत्यादिमत्तया तथाविधगुणविभूत्यादिप्रदतया 26 यद्यद्विभूतिमत्" इत्यादिप्रमाणसिद्धतया 
 1 मङ्कणसं. 2 गीता १० - ४१. 
 + 
-* 'चन्द्रां' इत्यारभ्य ' यशसा' इत्यन्तं पंक्तिचतुष्टयं न ख. यशसा ज्वलन्तीं- अनुकूलाह्लादेन तापहरां । चन्द्रां प्रभासां सर्वस्य... प्रकाशां । दिव्यज्योतिःस्वरूपां । 
+* 'चन्द्रां' इत्यारभ्य ' यशसा' इत्यन्तं पंक्तिचतुष्टयं न ख. यशसा ज्वलन्तींअनुकूलाह्लादेन तापहरां । चन्द्रां प्रभासां सर्वस्य... प्रकाशां । दिव्यज्योतिःस्वरूपां । 
 'यद्वा' इत्यारभ्य 'दीप्यमानां' इत्यन्तं न - ख. 
 तथा मङ्कण. - ख. 
-$ नेमीं- पा 
+$ नेमींपा 
 ३३ 
-अनुग्रहैकस्वरूपतया च संपन्नयशसा दीप्यमानाम् । श्रियं सर्वसमा- श्रयणीयाम् । “यद्वा — शृणोति श्रावयति' इत्याद्युक्तप्राप्यत्वप्रापकत्वो- पयुक्तसमस्ताकारवतीम् । लोके - विभूतिद्वये * । 'लोक' इति जाता- वेकवचनम् ; सर्वेषूपरिलोकेषु वर्तमानैरिति यावत् । पूर्वपदेनान्वयः । देवजुष्टां - देवैः चतुर्मुखशिवशतमखहुतवहादिदेवैः अनन्तगरुडादिभिः देवोत्तमैश्च, स्वपदलाभाय तदनुगुणसमृद्धये आनन्दानुभवाय च, यजन- भजनमननादिभिः जुष्टां-सेव्यमानाम् । मङ्कणसंहितायां - "श्यामः किरीटी देवेश " इत्याद्याः श्लोका अप्यनुसन्धेयाः । 
+अनुग्रहैकस्वरूपतया च संपन्नयशसा दीप्यमानाम् । श्रियं सर्वसमाश्रयणीयाम् । “यद्वा — शृणोति श्रावयति' इत्याद्युक्तप्राप्यत्वप्रापकत्वोपयुक्तसमस्ताकारवतीम् । लोके - विभूतिद्वये * । 'लोक' इति जातावेकवचनम् ; सर्वेषूपरिलोकेषु वर्तमानैरिति यावत् । पूर्वपदेनान्वयः । देवजुष्टां - देवैः चतुर्मुखशिवशतमखहुतवहादिदेवैः अनन्तगरुडादिभिः देवोत्तमैश्च, स्वपदलाभाय तदनुगुणसमृद्धये आनन्दानुभवाय च, यजनभजनमननादिभिः जुष्टां-सेव्यमानाम् । मङ्कणसंहितायां - "श्यामः किरीटी देवेश " इत्याद्याः श्लोका अप्यनुसन्धेयाः । 
 यद्वा, देवजुष्टां - देवेन निरुपाधिकक्रीडनादिमता 2" दिव्यो देव एको नारायण " इत्युक्तदेवेन, जुष्टाम् - निरतिशयप्रीतिविषयीकृताम् । उदारां - तेभ्यः सुरादिभ्यः सर्वकामवर्षिणीम् । 
-काश्यपीये :- “ सर्वकामप्रदां देवीं शरण्यामनुचिन्तयेत् । " इति । ऐश्वर्यमक्षरगतिं " इत्याद्युक्तौदार्यगुणवतीम् । उक्तं 
+काश्यपीये :“ सर्वकामप्रदां देवीं शरण्यामनुचिन्तयेत् । " इति । ऐश्वर्यमक्षरगतिं " इत्याद्युक्तौदार्यगुणवतीम् । उक्तं 
 यद्वा उदारां 
 4.66 
 च भट्टपराशरपादैः श्रीगुणरत्नकोशे- 
@@ -1129,12 +1176,12 @@ $ नेमीं- पा
 ८८ 
 । 
 पद्मनेमिम् – पद्ममेव नेमिः नयनसाधनं यस्याः सा पद्मनेमिः । 'नीङ् प्रापणे, ' 
-“ नियो मिः " इत्यौणादिको 'मि' प्रत्ययः । करतलकलि- तेन पद्मेन समाश्रितानां सर्वेषां सर्वमनिष्टमपहाय सर्वकालं स्वचरणा- म्भोजं प्रापयन्तीमित्यर्थः । यद्वा, पद्मनेमिं - नाभिस्थानीयकर्णिकायां नेमिस्थानीयपद्मवतीम् । पद्मस्य नेमित्वोक्तया कर्णिकाया नाभिस्था- नीयत्वव्यञ्जनात्, मातुस्तत्रावस्थानं व्यज्यते । ताम्-उक्तगुणविशि- ष्टाम् । यद्वा, ताम्-अहिर्बुद्भयसंहितालक्ष्मीतन्त्रादिप्रसिद्धवैभवां सर्वे- श्वरीम्, अहम्–अत्यन्ताकिञ्चनोऽहमुपायान्तरशून्यः, शरणं प्रपद्ये । 
+“ नियो मिः " इत्यौणादिको 'मि' प्रत्ययः । करतलकलितेन पद्मेन समाश्रितानां सर्वेषां सर्वमनिष्टमपहाय सर्वकालं स्वचरणाम्भोजं प्रापयन्तीमित्यर्थः । यद्वा, पद्मनेमिं - नाभिस्थानीयकर्णिकायां नेमिस्थानीयपद्मवतीम् । पद्मस्य नेमित्वोक्तया कर्णिकाया नाभिस्थानीयत्वव्यञ्जनात्, मातुस्तत्रावस्थानं व्यज्यते । ताम्-उक्तगुणविशिष्टाम् । यद्वा, ताम्-अहिर्बुद्भयसंहितालक्ष्मीतन्त्रादिप्रसिद्धवैभवां सर्वेश्वरीम्, अहम्–अत्यन्ताकिञ्चनोऽहमुपायान्तरशून्यः, शरणं प्रपद्ये । 
 1 66 इह चामुत्र चानिष्टनिवृत्तीष्टाप्तिसिद्धये । 
 साक्षाल्लक्ष्म्याः पदाम्भोजे भूयास्तां शरणं मम || स्वायंभुवे 2 " सर्वकामप्रदां सौम्यां संसारार्णवतारिणीम् । 
 क्षिप्रप्रसादिनीं देवीं शरण्यामनुचिन्तयेत् ॥ 
 अनेनैव प्रपन्नस्य श्रियं देवीं सनातनीम् । पापानुषङ्गस्सकलस्तत्क्षणादेव नश्यति || 
-पुनरपि त्वां वृणे - त्वच्चरणारविन्दयुगलमेव परमोपायमध्यवस्यामि । अनया प्रपत्त्या त्वत्प्राप्तिविरोधिनी अलक्ष्मीः- दुस्सहभार्या, मे - त्वत्स्मृ- तिकीर्तनादौ प्रवृत्तान्मत्तः, नश्यतां -- नश्यतु ॥ 
+पुनरपि त्वां वृणे - त्वच्चरणारविन्दयुगलमेव परमोपायमध्यवस्यामि । अनया प्रपत्त्या त्वत्प्राप्तिविरोधिनी अलक्ष्मीःदुस्सहभार्या, मे - त्वत्स्मृतिकीर्तनादौ प्रवृत्तान्मत्तः, नश्यतां -नश्यतु ॥ 
 3 
 लैङ्गे ' “अलक्ष्म्येषा च संत्यज्य गमिष्यति च येन वे 
 I 
@@ -1148,9 +1195,9 @@ I
 भोज्यं पेयं च लेह्यं च नमो नारायणेति यः । अभिमन्त्र्य स्पृशन् भुंक्ते स याति परमां गतिम् ॥ ८ ॥ सर्वपापविनिर्मुक्तः प्राप्नोति परमां गतिम् ॥ अलक्ष्मीश्च मया प्रोक्ता पत्नीं या दुस्सहस्य च । ९॥ नारायणपदं ध्यात्वा नश्यत्येव न संशयः || 
 या लक्ष्मीर्देवदेवस्य हरेरीशस्य वल्लभा ॥ १० 
 0 11 
-गृहे क्षेत्रे तदाऽऽवासे तनौ वसति सुत्रता ।। " इति । यद्वा शरणं प्रपद्ये- निरपेक्षमदभिमतसाधकत्वाध्यवसायपूर्वकं तव चरणारविन्दयोर्भरन्यासं करोमि । अलक्ष्मीः - 1 ' सा हि श्रीरमृता सतां' इत्युक्तब्रह्मविद्याया अभावः । मे - ब्रह्मविद्याविरोधिपापाक्रान्तस्य । नश्यतां क्षिप्रं नश्यतु । त्वां वृणे - अनुग्रहैकरूपां मम मातरं गोप्तृ- त्वेन, वृणे - यथावस्थितमोक्षोपायनिप्पत्त्यर्थं प्रार्थये ॥ 
+गृहे क्षेत्रे तदाऽऽवासे तनौ वसति सुत्रता ।। " इति । यद्वा शरणं प्रपद्येनिरपेक्षमदभिमतसाधकत्वाध्यवसायपूर्वकं तव चरणारविन्दयोर्भरन्यासं करोमि । अलक्ष्मीः - 1 ' सा हि श्रीरमृता सतां' इत्युक्तब्रह्मविद्याया अभावः । मे - ब्रह्मविद्याविरोधिपापाक्रान्तस्य । नश्यतां क्षिप्रं नश्यतु । त्वां वृणे - अनुग्रहैकरूपां मम मातरं गोप्तृत्वेन, वृणे - यथावस्थितमोक्षोपायनिप्पत्त्यर्थं प्रार्थये ॥ 
 - 
-अस्मिन्मन्त्रे श्रीशब्दे आनुकूल्यसङ्कल्पप्रातिकूल्यवर्जनरूपमङ्गद्वयम- नुसन्धेयम् । 'अहं' शब्दे आकिञ्चन्यानुसन्धानरूपं कार्पण्यं अक्रमनुसन्धे- यम् । 'त्वां वृणे' इत्यत्र गोप्तृत्ववरणरूपमङ्गमनुसन्धेयम् । 'शरणं प्रपद्ये ' 
+अस्मिन्मन्त्रे श्रीशब्दे आनुकूल्यसङ्कल्पप्रातिकूल्यवर्जनरूपमङ्गद्वयमनुसन्धेयम् । 'अहं' शब्दे आकिञ्चन्यानुसन्धानरूपं कार्पण्यं अक्रमनुसन्धेयम् । 'त्वां वृणे' इत्यत्र गोप्तृत्ववरणरूपमङ्गमनुसन्धेयम् । 'शरणं प्रपद्ये ' 
 पा. * श्रुत्वा इति मुद्रितपुस्तके. श्रुत्वा गच्छत्येव-ख. हिरेः कृष्णस्य इति च । 
 भूतये - ख. 1 तै. व्रा. ३-७ 
 ३६ 
@@ -1178,14 +1225,14 @@ I
 266 
 | 
 ३७ 
-तपसोऽधिजातः – तपसः - सर्वेश्वर्यास्तव सङ्कल्पात् ; 1 " यस्य ज्ञानमयं तप” इति तपः सर्ववेदनज्ञानमुच्यते । अधिजातः - सर्वमङ्गलान्यधिकृत्य जातः–समुद्भूतः । वनस्पतिः - वनानां पतिः, सर्वेषां वृक्षसमूहानामधि- पतित्वेन प्रसिद्धः । अथ - अत्र अथशब्दो मङ्गलवाची मङ्गलस्वरूपः । बिल्वः - 2 “ बैल्वो यूपो भवत्यसौ वा आदित्यो यतोऽजायत ततो बिल्व उदतिष्ठत् स योऽन्येव ब्रह्मवर्चसमवरुन्ध" इति ब्राह्मणे आदि- त्यकारणभूताच्छ्रियःपतेर्विल्वस्योत्पत्तिः श्रुता । भगवान् बोधायनः तच्छेषे लक्ष्मीसमाराधने “ बिल्वमयं परिधिं परिधाय बिल्वमयमिध्म- मादध्यात् । अथ पायसादवदाय प्रत्यृचं दशाहुतीर्जुहोति " इति । तत्रैवान्यत्र :-- “ श्रीकामो जुहुयादनौ पर्विल्वैस्तथा फलैः” । एवं मङ्गलावहो यो बिल्ववृक्षः, तस्य फलानि तपसा - स्वहोमवीक्षण- कीर्तनस्पर्शनस्मृतिरूपेण तपसा लक्ष्मीचरणाम्भोजसेवाविरोधिनः सर्व- विघ्नान्, नुदन्तु — नाशयन्तु । 
+तपसोऽधिजातः – तपसः - सर्वेश्वर्यास्तव सङ्कल्पात् ; 1 " यस्य ज्ञानमयं तप” इति तपः सर्ववेदनज्ञानमुच्यते । अधिजातः - सर्वमङ्गलान्यधिकृत्य जातः–समुद्भूतः । वनस्पतिः - वनानां पतिः, सर्वेषां वृक्षसमूहानामधिपतित्वेन प्रसिद्धः । अथ - अत्र अथशब्दो मङ्गलवाची मङ्गलस्वरूपः । बिल्वः - 2 “ बैल्वो यूपो भवत्यसौ वा आदित्यो यतोऽजायत ततो बिल्व उदतिष्ठत् स योऽन्येव ब्रह्मवर्चसमवरुन्ध" इति ब्राह्मणे आदित्यकारणभूताच्छ्रियःपतेर्विल्वस्योत्पत्तिः श्रुता । भगवान् बोधायनः तच्छेषे लक्ष्मीसमाराधने “ बिल्वमयं परिधिं परिधाय बिल्वमयमिध्ममादध्यात् । अथ पायसादवदाय प्रत्यृचं दशाहुतीर्जुहोति " इति । तत्रैवान्यत्र :-“ श्रीकामो जुहुयादनौ पर्विल्वैस्तथा फलैः” । एवं मङ्गलावहो यो बिल्ववृक्षः, तस्य फलानि तपसा - स्वहोमवीक्षणकीर्तनस्पर्शनस्मृतिरूपेण तपसा लक्ष्मीचरणाम्भोजसेवाविरोधिनः सर्वविघ्नान्, नुदन्तु — नाशयन्तु । 
 11 
 तथा धनदीये | "अल्पां बिल्वान्तरांभोजसरःस्थां संस्मरेद्बहिः । " तत्रैवान्यत्र : ' “श्रियं च देवीमभ्यर्च्य आसीनो बिल्वमूलके । नित्यं बिल्वफलान्नाशी बिल्वच्छायामुपोषितः ॥ 
 न छिन्द्याद्विल्वं यत्नेन नावमन्येत तन्नरः || 
 के ते विघ्नकरा इत्याशङ्कायामाह - मायान्तरायाश्च बाह्या अलक्ष्मीः | 'माया - अन्यथाज्ञानान्यथाप्रवृत्तयः । अन्तरायाः- 
 मुण्ड, १-१-९, ± तै. सं. २-१-८१. 3 बोधायन 4 धनदीये. 
 ३८ 
-तद्भजनसेवादिविघ्नाः, तानू - कामक्रोध लोभमोहादीन् ; बाह्याः - लक्ष्मी- संबन्धरहिताः; अलक्ष्मीः-लक्ष्मीप्रतिभटभूताः; सर्वांस्तान् विनाशयन्तु । ते सर्वे श्रीसंबन्धविरोधिनः । 
+तद्भजनसेवादिविघ्नाः, तानू - कामक्रोध लोभमोहादीन् ; बाह्याः - लक्ष्मीसंबन्धरहिताः; अलक्ष्मीः-लक्ष्मीप्रतिभटभूताः; सर्वांस्तान् विनाशयन्तु । ते सर्वे श्रीसंबन्धविरोधिनः । 
 2 
 तथा 1 " मायां न सेवे भद्रं ते " " विघ्नोऽन्तरायः प्रत्यूहः । 
 “ त्रिविधं नरकस्यैतद्द्द्वारं नाशनमात्मनः । 
@@ -1206,30 +1253,30 @@ I
 11 & 11 
 * तत्सहचारिण्यश्च श्रीरश्रीर्वाह तरो नाशयामि इत्येव क, ख, ग, सर्वत्र पाठः । यथानिर्दिष्टमेव समन्वितमिव प्रतिभाति । 
 ३९ 
-उपैतु मां देवसखः कीर्तिश्च मनुना सह । प्रादुर्भूतोऽस्मि राष्ट्रेऽस्मिन् कीर्तिवृद्धिं ददातु मे ॥७॥ *[विद्यैश्वर्यादिप्राप्तिनिदानकीर्त्यादिकमर्थयते । हे देवि, मां- त्वदाश्रयं, कीर्ति :- विद्यैश्वर्यादिकृता प्रथा, मणिना - रत्नादिभिः, सह- युगपत्, उपैतु प्राप्नोतु | अहं अस्मिन् लोके प्रादुर्भूतोऽस्मि त्वत्- प्रसादात् प्रबुद्धोऽस्मि । कीर्तिमृद्धिं धनादिसमृद्धिं च मे -मह्यं ददातु - दिशतु । सा लक्ष्मीः इति शेषः ॥ ] 
+उपैतु मां देवसखः कीर्तिश्च मनुना सह । प्रादुर्भूतोऽस्मि राष्ट्रेऽस्मिन् कीर्तिवृद्धिं ददातु मे ॥७॥ *[विद्यैश्वर्यादिप्राप्तिनिदानकीर्त्यादिकमर्थयते । हे देवि, मांत्वदाश्रयं, कीर्ति :विद्यैश्वर्यादिकृता प्रथा, मणिना - रत्नादिभिः, सहयुगपत्, उपैतु प्राप्नोतु | अहं अस्मिन् लोके प्रादुर्भूतोऽस्मि त्वत्प्रसादात् प्रबुद्धोऽस्मि । कीर्तिमृद्धिं धनादिसमृद्धिं च मे -मह्यं ददातु - दिशतु । सा लक्ष्मीः इति शेषः ॥ ] 
 I 
 क्षुत्पिपासां मलां ज्येष्ठामलक्ष्मीं नाशयाम्यहम् । अभूतिमसमृद्धिं च सर्वान् निर्णुद मे गृहात् ||८|| 
 वै 
 110 11 
-क्षुत्-अन्नेच्छा; "क्षुत् खलु वै मनुष्यस्य भ्रातृव्यः । ” पिपासां- विषयस्पृहां ; तृष्णां । " " जीर्यन्ति जीर्यतः केशाः" इत्यादि । क्षुत्पिपासां इति समासो वा । उभयं नाशयामि इति संबन्धः । मलां-'मलसंबन्धाम् | अलक्ष्मी - प्रतिभटरूपाममङ्गलस्वरूपाम् । ज्ये- ष्ठाम् - दुस्सहपत्नीम् | अलक्ष्मी दर्शनायोग्याम् । हे लक्ष्मीः, सर्वान 
+क्षुत्-अन्नेच्छा; "क्षुत् खलु वै मनुष्यस्य भ्रातृव्यः । ” पिपासांविषयस्पृहां ; तृष्णां । " " जीर्यन्ति जीर्यतः केशाः" इत्यादि । क्षुत्पिपासां इति समासो वा । उभयं नाशयामि इति संबन्धः । मलां-'मलसंबन्धाम् | अलक्ष्मी - प्रतिभटरूपाममङ्गलस्वरूपाम् । ज्येष्ठाम् - दुस्सहपत्नीम् | अलक्ष्मी दर्शनायोग्याम् । हे लक्ष्मीः, सर्वान 
 * 
 2 
 १०-२९. 
-1 तै. सं. ६-१-२१. ± इति समु. १०- २९. मलसंबद्धां लक्ष्मीप्रतिभटरूपां (?) 
+1 तै. सं. ६-१-२१. ± इति समु. १०२९. मलसंबद्धां लक्ष्मीप्रतिभटरूपां (?) 
 अस्या ऋचः भाष्यं नोपलभ्यते । अतः काञ्चीप्रतिवादिभयङ्कर अनन्ताचार्यैः (ई. १८९९ - सं.) प्रकाशितात् अज्ञातनामधेयस्य कस्यचित् भाष्यात् उद्धृत्य अत दीयते । तत्र च ऋक्पाठ एवमस्ति - 
 उपैतु मां देवि सह कीर्तिश्च मणिना सह । 
 प्रादुर्भूतोऽस्मि राष्ट्रेऽस्मिन् कीर्तिमृद्धिं ददातु मे ॥ ७ ॥४० 
-एतान्, त्वत्समाश्रयणबलेन मे गृहात् - अस्मद्गृहात्, नाशयामि- त्याजयामि । 
-लै- "" अलक्ष्मीश्च मया प्रोक्ता पत्नी या दुष्षहस्य च । 
+एतान्, त्वत्समाश्रयणबलेन मे गृहात् - अस्मद्गृहात्, नाशयामित्याजयामि । 
+लै"" अलक्ष्मीश्च मया प्रोक्ता पत्नी या दुष्षहस्य च । 
 नारायणपदं स्मृत्वा गच्छत्वेव न संशयः || ” 
-तत्र दुष्षहं प्रति- 1 "विष्णुभक्तिविनिर्मुक्ताः तदीयजननिन्दकाः । 
+तत्र दुष्षहं प्रति1 "विष्णुभक्तिविनिर्मुक्ताः तदीयजननिन्दकाः । 
 नास्तिकाश्च शठा यत्र साहाय्यस्त्वं समाविश ॥ 
 दुषोऽपि तथोक्तानि स्थानानि च समेयिवान् । विशेषादेवदेवस्य विष्णोर्निन्दारतात्मनाम् ॥ 
 साहाय्यो मुनिशार्दूल सैषा ज्येष्ठा इति स्मृता ॥ " 
 श्रीमद्रामायणे - 2 " प्रणष्टबलिकर्मेज्यामन्त्रहोमजपानि च । 
 दुष्कालेनेव भग्नानि भिन्नभाजनवन्ति च ॥ 
 अम्मत्यक्तानि वेश्मानि कैकेयी प्रतिपद्यताम् ॥" 
-अभूतिं - इत्यादि । हे देवि ! अभूतिं - गृहक्षेत्रारामदासीदासादि- विभूतिनिरोधिनीं । असमृद्धिम् - धनधान्यखर्णरूप्यादिसमृद्धिविघाति- नीं सर्वां पूर्वोक्तां सविभूतिकां ज्येष्ठाम् मे गृहात् त्वदाश्रयणप्रयो- जनस्य मम गृहात्, मत्संबन्धिदेशविशेषात्, निर्णुद - त्याजय, नाशय इत्यर्थः ॥ 
+अभूतिं - इत्यादि । हे देवि ! अभूतिं - गृहक्षेत्रारामदासीदासादिविभूतिनिरोधिनीं । असमृद्धिम् - धनधान्यखर्णरूप्यादिसमृद्धिविघातिनीं सर्वां पूर्वोक्तां सविभूतिकां ज्येष्ठाम् मे गृहात् त्वदाश्रयणप्रयोजनस्य मम गृहात्, मत्संबन्धिदेशविशेषात्, निर्णुद - त्याजय, नाशय इत्यर्थः ॥ 
 1 लैङ्गे. 
 2 
 रा. अ. ३३ २०, २१. 
@@ -1240,12 +1287,12 @@ I
 + जयानि च - ख. 
 ४१ 
 अलक्ष्मचादीन्परानुद्य* स्वगृहात्पुनरेव ताम् । सर्वेश्वरीं श्रियं देवीं नवमेनाह्वयत्ययम् ॥ गन्धद्वारां दुराधर्षां नित्यपुष्टां करीषिणीम् । ईश्वरीं सर्वभूतानां तामिहोपह्वये श्रियम् ॥ ९ ॥ 
-गन्धद्वाराम्- गन्धशब्देन लक्ष्मीसमाराधनोपकरणभूतानि गन्ध- पुष्पधूपदीपनैवेद्यानि समाराधनक्रियालंबनभूतानि सर्वाण्युपलक्ष्यन्ते । तानि यस्याः प्राप्तौ द्वाराणि - उपायाः; तां गन्धद्वाराम् * । धनदीये :- 
+गन्धद्वाराम्गन्धशब्देन लक्ष्मीसमाराधनोपकरणभूतानि गन्धपुष्पधूपदीपनैवेद्यानि समाराधनक्रियालंबनभूतानि सर्वाण्युपलक्ष्यन्ते । तानि यस्याः प्राप्तौ द्वाराणि - उपायाः; तां गन्धद्वाराम् * । धनदीये :- 
 1" गन्धं पुष्पं च धूपं च दीपं च सुमनोहरम् । 
 लेह्यं मधुरसंयुक्तं शाल्यन्नं च निवेदयेत् ॥ 
 - 
 -25 " यथा 
-प्रियाणि लक्ष्म्याः पुष्पाणि कमलानि विदुर्बुधाः || ” यद्वा, गन्धस्य-पुण्यकर्मसंभूतस्य यशसः प्रापिकाम् ; वृक्षस्य संपुष्पितस्य दूराद्गन्धो वात्येवं पुण्यस्य कर्मणो दूराद्गन्धो वाति" इति । दुराधर्षां-अप्रयतैरमंगलैः पूर्वोक्तोपायरहितैश्च प्राप्तुमशक्याम् । अथवा स्वसमृद्धिप्रकर्षेण सर्वैर्दुराधर्षाम् । तथा 3 " अभितः पावको- पमम्” इति । नित्यपुष्टां-सर्वकालसर्वदेशसर्ववस्तुप्वपि सर्वदा पुष्टाम् । अथवा नित्यैर्गुणैर्विभूत्यादिभिः समृद्धाम् । करीषिणीम् - कर्षवतीम् ; मृद्वतीं वा । कर्षमृदोः मङ्गलावहत्वेन लक्ष्मीप्रियत्वं श्रुतिस्मृत्यादिषु 1 धनदीये. 2 तै. उ. २. 3 रा. अ. ९९-२६. पा. * अपानुद्य-ख. 
+प्रियाणि लक्ष्म्याः पुष्पाणि कमलानि विदुर्बुधाः || ” यद्वा, गन्धस्य-पुण्यकर्मसंभूतस्य यशसः प्रापिकाम् ; वृक्षस्य संपुष्पितस्य दूराद्गन्धो वात्येवं पुण्यस्य कर्मणो दूराद्गन्धो वाति" इति । दुराधर्षां-अप्रयतैरमंगलैः पूर्वोक्तोपायरहितैश्च प्राप्तुमशक्याम् । अथवा स्वसमृद्धिप्रकर्षेण सर्वैर्दुराधर्षाम् । तथा 3 " अभितः पावकोपमम्” इति । नित्यपुष्टां-सर्वकालसर्वदेशसर्ववस्तुप्वपि सर्वदा पुष्टाम् । अथवा नित्यैर्गुणैर्विभूत्यादिभिः समृद्धाम् । करीषिणीम् - कर्षवतीम् ; मृद्वतीं वा । कर्षमृदोः मङ्गलावहत्वेन लक्ष्मीप्रियत्वं श्रुतिस्मृत्यादिषु 1 धनदीये. 2 तै. उ. २. 3 रा. अ. ९९-२६. पा. * अपानुद्य-ख. 
 अलक्ष्म्यादिवन्निराकृत्यास्मद्गृहात्पुनरेव तां-ख 
 $ 
 यथा वृक्षस्य इति श्रुतिः । अप्रयतैः-ख. 
@@ -1253,31 +1300,31 @@ $
 + पावकोपम इति क, ख . 
 , 
 ४२ 
-प्रसिद्धम् । ईश्वरीं सर्वभृतानाम् चतुर्मुखशिवशतमखप्रभृतिदेवासुर- सिद्धगन्धर्वमनुजानां सर्वेषां भूतानां नित्यसूरीणां च, ईश्वरी- नियन्त्रीं, स्वामिनीं । निरुपाधिकमैश्वर्यं यस्य स ईश्वरः । ईश ऐश्वर्य " इति धातोः 1" स्थेशभासपिसकसो वरच् " इति 'वरच्' - प्रत्यये ईश्वरशब्दो निष्पन्नः । यद्वा 'अशू व्याप्तौ ' इति धातोः "" ईच्चोपधाया" इति अकारस्थाने ईकारे वरच्प्रत्यये च, ईश्वरशब्दो निष्पन्नः व्यापित्ववाची । तथाऽत्र सर्वभूतेश्वरीं सर्वभूतनियन्त्री, व्यापिनीं वा । 3" ईशाना देवी भुवनस्य " इत्यस्मिन् मन्त्रे 'भुवन' शब्दः चिदचिदात्मकसर्वभूतपरः । 46" अस्येशाना जगतो विष्णुपत्नी " इति अस्मिन् मन्त्रेऽपि जगच्छब्दस्सर्वभूतपरः; तदैकार्थ्यं गन्धद्वारामिति मन्त्रे द्रष्टव्यम् । उपबृंहिता चेयं श्रीवैष्णवे पुराणे :- 
+प्रसिद्धम् । ईश्वरीं सर्वभृतानाम् चतुर्मुखशिवशतमखप्रभृतिदेवासुरसिद्धगन्धर्वमनुजानां सर्वेषां भूतानां नित्यसूरीणां च, ईश्वरीनियन्त्रीं, स्वामिनीं । निरुपाधिकमैश्वर्यं यस्य स ईश्वरः । ईश ऐश्वर्य " इति धातोः 1" स्थेशभासपिसकसो वरच् " इति 'वरच्' - प्रत्यये ईश्वरशब्दो निष्पन्नः । यद्वा 'अशू व्याप्तौ ' इति धातोः "" ईच्चोपधाया" इति अकारस्थाने ईकारे वरच्प्रत्यये च, ईश्वरशब्दो निष्पन्नः व्यापित्ववाची । तथाऽत्र सर्वभूतेश्वरीं सर्वभूतनियन्त्री, व्यापिनीं वा । 3" ईशाना देवी भुवनस्य " इत्यस्मिन् मन्त्रे 'भुवन' शब्दः चिदचिदात्मकसर्वभूतपरः । 46" अस्येशाना जगतो विष्णुपत्नी " इति अस्मिन् मन्त्रेऽपि जगच्छब्दस्सर्वभूतपरः; तदैकार्थ्यं गन्धद्वारामिति मन्त्रे द्रष्टव्यम् । उपबृंहिता चेयं श्रीवैष्णवे पुराणे :- 
 56. नित्यैवैषा जगन्माता विष्णोः श्रीरनपायिनी । 
 । 
-यथा सर्वगतो विष्णुस्तथैवेयं द्विजोत्तम ||" इति । अन्यत्रापि "" त्वयैतद्विष्णुना चाम्ब जगद्व्याप्तं चराचरम् ॥ " इति । भगवच्छास्त्रवचनैश्च उपबृंहितेयं श्रुतिः । यथा विप्वक्सेनाय भगवान् आह- तथा लक्ष्म्याः प्रभावं च वक्ष्ये शृणु समाहितः । 
+यथा सर्वगतो विष्णुस्तथैवेयं द्विजोत्तम ||" इति । अन्यत्रापि "" त्वयैतद्विष्णुना चाम्ब जगद्व्याप्तं चराचरम् ॥ " इति । भगवच्छास्त्रवचनैश्च उपबृंहितेयं श्रुतिः । यथा विप्वक्सेनाय भगवान् आहतथा लक्ष्म्याः प्रभावं च वक्ष्ये शृणु समाहितः । 
 766 
 गुणतश्च स्वरूपेण व्याप्तिस्साधारणी मता ॥ 
 2 
 3 
 अष्टा. उणादि ५-७३४. ३ तै काठ ३-३-१२. ६ वि. पु. १ ८ १७. ० वि. पु. १ ९ १२६. 
 1 अष्टा ३-२-१७५. 4 तै. सं. ४-४-१२. 7 विष्वक्. सं. (?) पा. १ चतुर्मुखवासवादि - ख. 'निरुपाधिकमैश्वर्य' इत्यारभ्य 
-* गन्धर्वमनुजादीनां सर्वेषां ईश्वरी - ख. 'इहोपह्वये' इत्यन्तं २९ पंक्तयः न- ख. 
+* गन्धर्वमनुजादीनां सर्वेषां ईश्वरी - ख. 'इहोपह्वये' इत्यन्तं २९ पंक्तयः नख. 
 ४३ 
 यथा मया जगव्याप्तं स्वरूपेण स्वभावतः ॥ 
 तथा व्याप्तमिदं सर्वं नियन्त्री च तथेश्वरी ॥ * 
 यथा मया हि सा व्याप्ता तया व्याप्तोऽहमीश्वरः ॥ " 
 अन्यत्र :-' “अस्या मम च शेषं हि विभूतिरुभयात्मिका ॥” इति । 
-ननु “ईश्वरीं सर्वभूतानां" इत्यत्र 'ईश्वरी' इति पदं ईश्वरपत्नीत्व - परं किं न स्यादिति चेन्न - सर्वभूतानामिति षष्ठ्यन्तपदानन्वयः स्यात् । षष्ठ्यन्तपदस्य पदान्तरोपसर्जनेनेश्वरशब्देन कथमन्वयः । पदार्थः पदा- र्थेन संबद्ध्यते, न तु तदेकदेशेन इति व्युत्पत्तिविरोधात् । 'ईश्वरीं' इत्यत्र ईश्वरपदस्य अन्यान्वितत्वेन निराकांक्षत्वाच्च न षष्ठ्यन्तपदान्वयः । साकांक्षयोरेव परस्परान्वयः; न तु निराकांक्षयोः, निराकांक्षस्य साकां- क्षेण वेति । अत एव 'गाढे पङ्कजं ' ' गभीरे सरसिजं' इति 'गाढ' - 'गंभीर' पदयोः पङ्क'' सरो' ऽन्वयाभिप्रायेण न प्रयोगः । अत एवात्र सर्वभूतेश्वरत्वमेवाभिप्रेतम् ॥ 
-ताम्-उक्तगुणलक्षणाम् । इहोपह्वये पूर्वमलक्ष्म्यादिदूषिते इदानीं तत्त्यागात् देव्यागमनयोग्ये, उपह्वये-सर्वसमृद्ध्यर्थमाह्वयामि | श्रियं - 'श्री श्रये' इति सर्वाधारत्वं पुरुषकारत्वेनोपायत्वेन चाश्रीयमा- णत्वम् । ‘शू हिंसायां' इति आश्रितदोषनिवर्तकत्वम् । 'श्रु श्रवण' इति आश्रितानामार्तनादं स्वयं श्रुत्वा भगवन्तं प्रति श्रावकत्वम् । 
+ननु “ईश्वरीं सर्वभूतानां" इत्यत्र 'ईश्वरी' इति पदं ईश्वरपत्नीत्व - परं किं न स्यादिति चेन्न - सर्वभूतानामिति षष्ठ्यन्तपदानन्वयः स्यात् । षष्ठ्यन्तपदस्य पदान्तरोपसर्जनेनेश्वरशब्देन कथमन्वयः । पदार्थः पदार्थेन संबद्ध्यते, न तु तदेकदेशेन इति व्युत्पत्तिविरोधात् । 'ईश्वरीं' इत्यत्र ईश्वरपदस्य अन्यान्वितत्वेन निराकांक्षत्वाच्च न षष्ठ्यन्तपदान्वयः । साकांक्षयोरेव परस्परान्वयः; न तु निराकांक्षयोः, निराकांक्षस्य साकांक्षेण वेति । अत एव 'गाढे पङ्कजं ' ' गभीरे सरसिजं' इति 'गाढ' - 'गंभीर' पदयोः पङ्क'' सरो' ऽन्वयाभिप्रायेण न प्रयोगः । अत एवात्र सर्वभूतेश्वरत्वमेवाभिप्रेतम् ॥ 
+ताम्-उक्तगुणलक्षणाम् । इहोपह्वये पूर्वमलक्ष्म्यादिदूषिते इदानीं तत्त्यागात् देव्यागमनयोग्ये, उपह्वये-सर्वसमृद्ध्यर्थमाह्वयामि | श्रियं - 'श्री श्रये' इति सर्वाधारत्वं पुरुषकारत्वेनोपायत्वेन चाश्रीयमाणत्वम् । ‘शू हिंसायां' इति आश्रितदोषनिवर्तकत्वम् । 'श्रु श्रवण' इति आश्रितानामार्तनादं स्वयं श्रुत्वा भगवन्तं प्रति श्रावकत्वम् । 
 1 विष्वक्. सं. पा, इत आरभ्य, 'अलमतिविस्तरेण' इत्यन्तं न । अतः परं 'कामानां दशमे' इति वर्तते । दशमी ऋक् प्रारभ्यते - ख. * इति इत्यधिकः - ग 
 ४४ 
 'श्रा परिपाक' इति आश्रितदोषानपहाय, " श्रीणाति च गुणैर्जगत्" इति आश्रितगुणपूरकत्वम् । एवमादयो धर्माः सूचिताः 'श्री' शब्देन । तथा च भगवच्छास्त्रे - 
 1“शृणाति निखिलान् दोषान् श्रीणाति च गुणैर्जगत् । श्रीयते चाखिलैर्नित्यं श्रयते च परं पदम् ॥” इति ॥ 
 तथा चोक्तगुणविशिष्टां इत्यर्थः ॥ 
 3 
-2 " सर्वस्य प्रभुमीशानं " "विश्वस्येशानं वृषभं मतीनां," ननु 4" एष सर्वेश्वर एष * भूतपतिः " " ईशानः सर्वभूतानामीश्वरः सर्वभू- तानां,” ““पतिं विश्वस्यात्मेश्वरं,” “सर्वैश्वर्यसंपन्नः सर्वेश्वरश्च शंभुः," S" तमीश्वराणां परमं महेश्वरं, " * इत्यादिश्रुतिभिः भगवत एव सर्वेश्वरत्वं प्रतीयते । तत् कथं देव्याः सर्वेश्वरत्वं बहुप्रमाणविरोधात्, “ह्रीश्च ते लक्ष्मीश्च पत्न्यौ” इति श्रुतावेव भूमिसाधारणतया भगवच्छेषत्व- प्रतिपादनाच्च । देव्याः सर्वेश्वरत्वे, भगवत्साम्यापत्त्या 
+2 " सर्वस्य प्रभुमीशानं " "विश्वस्येशानं वृषभं मतीनां," ननु 4" एष सर्वेश्वर एष * भूतपतिः " " ईशानः सर्वभूतानामीश्वरः सर्वभूतानां,” ““पतिं विश्वस्यात्मेश्वरं,” “सर्वैश्वर्यसंपन्नः सर्वेश्वरश्च शंभुः," S" तमीश्वराणां परमं महेश्वरं, " * इत्यादिश्रुतिभिः भगवत एव सर्वेश्वरत्वं प्रतीयते । तत् कथं देव्याः सर्वेश्वरत्वं बहुप्रमाणविरोधात्, “ह्रीश्च ते लक्ष्मीश्च पत्न्यौ” इति श्रुतावेव भूमिसाधारणतया भगवच्छेषत्वप्रतिपादनाच्च । देव्याः सर्वेश्वरत्वे, भगवत्साम्यापत्त्या 
 "न तत्- 
 11 
 10 6. 
@@ -1296,15 +1343,15 @@ B वे. ६-७.
 10. 
 ० तै. आर. ३-१३-४१. 10 श्वे. ६-८. 
 पा. * भूताधिपतिः सर्वविद्यानां * इत्यादिभिः - ग. भगवत्साम्यापत्त्या - ग. 
-अत्रेदं तत्त्वम्- इदमग्र आसीत्, ' 
+अत्रेदं तत्त्वम्इदमग्र आसीत्, ' 
 "" 
 34 
 ४५ 
 1 " सदेव सोम्येदमग्र आसीत् " 2 " ब्रह्म वा 
 आत्मा वा इदमेक एवाग्र आसीत्, 1 “एको ह वै नारायण आसीत्" इत्यादिकारणवाक्येषु 'सत्' 'ब्रह्म' ‘आत्म‘नारायण’शब्दाः छागपशुन्यायेन सामान्यविशेषभावतया, नारायणे देवताविशेषे पर्यवसन्नाः यथा, तद्वत्, 5“ श्रद्धया देवो देव- 
 "" 
-त्वमश्नुते,' 6 " श्रद्धा प्रतिष्ठा लोकस्य देवी" इत्यादिके 7 "ईशा- ना देवी भुवनस्याधिपत्नी, " 8 " अस्येशाना जगतो विष्णुपत्नी, " “ईश्वरीं सर्वभूतानां " इति वाक्येषु श्रूयमाणः 'श्रद्धा'' विष्णुपत्नी ' 'श्री' शब्दाः सामान्यविशेषभावतया तन्न्यायेन लक्ष्मीरूपे देवताविशेषे पर्यवसन्नाः ॥ 
-तथा हि-यथा सच्छब्दस्य बृहदबृहत्साधारणस्य 'ब्रह्म' शब्दोदिते विशेषे पर्यवसानम्, 'ब्रह्म' शब्दस्य चेतनाचेतनसाधारणस्य 'आत्म' शब्दोदिते चेतने पर्यवसानम् ; 'आत्म' शब्दस्य च जीवे- श्वरसाधारणस्य च ‘नारायण' शब्दोदिते देवताविशेषे पर्यवसानं यथा, तद्वत् 'श्रद्धा' शब्दस्य चेतनाचेतनसाधारणस्य 'विष्णुपत्नी 'शब्दोदिता- यां देवतायां पर्यवसानम् । 'विष्णुपत्नी ' शब्दस्यापि * श्रीभूमिसा- धारणस्य ‘श्री’शब्दवाच्यायां लक्ष्म्यां पर्यवसानं युक्तम् । ततः त्रयाणां 
+त्वमश्नुते,' 6 " श्रद्धा प्रतिष्ठा लोकस्य देवी" इत्यादिके 7 "ईशाना देवी भुवनस्याधिपत्नी, " 8 " अस्येशाना जगतो विष्णुपत्नी, " “ईश्वरीं सर्वभूतानां " इति वाक्येषु श्रूयमाणः 'श्रद्धा'' विष्णुपत्नी ' 'श्री' शब्दाः सामान्यविशेषभावतया तन्न्यायेन लक्ष्मीरूपे देवताविशेषे पर्यवसन्नाः ॥ 
+तथा हि-यथा सच्छब्दस्य बृहदबृहत्साधारणस्य 'ब्रह्म' शब्दोदिते विशेषे पर्यवसानम्, 'ब्रह्म' शब्दस्य चेतनाचेतनसाधारणस्य 'आत्म' शब्दोदिते चेतने पर्यवसानम् ; 'आत्म' शब्दस्य च जीवेश्वरसाधारणस्य च ‘नारायण' शब्दोदिते देवताविशेषे पर्यवसानं यथा, तद्वत् 'श्रद्धा' शब्दस्य चेतनाचेतनसाधारणस्य 'विष्णुपत्नी 'शब्दोदितायां देवतायां पर्यवसानम् । 'विष्णुपत्नी ' शब्दस्यापि * श्रीभूमिसाधारणस्य ‘श्री’शब्दवाच्यायां लक्ष्म्यां पर्यवसानं युक्तम् । ततः त्रयाणां 
 1 
 2 छा, ६-२-१. बृ. ३-४-११. 
 ० तै, काठ. ३-३-९. 
@@ -1312,30 +1359,30 @@ B वे. ६-७.
 3 
 7 
 ऐतरेय. १-१-१. 
-4 महोप. १- १. 
+4 महोप. ११. 
 ०, तै. काठ. ३-३-१२. 
 ० तै. उ. २. 
 पा. *श्रीभूमिशब्दसाधारणस्य क. 
 ४६ 
 वाक्यानामैककण्ठ्यावश्यंभावात् लक्ष्म्याः सर्वभूतेश्वरत्वं सिद्धम् । तदपि अनन्याधीनत्वरूपं मुख्येश्वरत्वं पतिवत् ॥ 
-नन्वेवं श्रियोऽप्यनन्याधीनत्वे पतिवन्मुख्येश्वरत्वे, सर्वागमानामेके- श्वरपरत्वाभावादैककण्ठ्यं न स्यादिति चेन्न । अन्योन्येच्छाविघातकयोः अन्योन्यगुणप्रधानभावगन्धरहितयोः अन्योन्यसाहित्यानादरेण जग- द्व्यापारेषु पृथक् पृथक् प्रवृत्तिमतोर्द्वयोरीश्वरयोः प्रतिपादने ह्यागमा- नामैककण्ठ्यहानिः । इह त्वनयोर्दापत्यादिवचनबलात् अन्योन्येच्छा- विघातराहित्ये समप्रधानभावराहित्ये जगद्व्यापारेषु पृथक्प्रवृत्तिराहि- त्यादौ च सर्वागमानां तात्पर्याभ्युपगमात्, ऐककण्ट्यमुपपन्नम् । सर्वा- गमानामीश्वरव्यक्तयैक्यपरत्वरूपमै ककण्ठ्यं ह्यत्र दुरुपपादं ; श्री श्रीश- विषयसर्वभूतेश्वरत्ववचनयोर्द्वयोरपि तुल्यबलत्वेन, तयोरन्यतरस्याप्यन्यथा नेतुमशक्यत्वात् । अतो दंपत्योरन्योन्येच्छा विघातादिराहित्ये तात्पर्य वा; पत्युः प्रधानत्वेन प्रधानैक्यतात्पर्यं वा सर्वागमानामैककण्ठ्यमित्येव तेषामैककण्ठ्यं निर्वाह्यम् । 
-किञ्च यथा पतिः सर्वचेतनाचेतनतत्त्वनियन्ता, तथा देव्यपि सर्वचेतनाचेतनतत्त्वनियन्त्री । यथा च पतिरनन्याधीनखरूपस्थिति- प्रवृत्तिकः, तथा देव्यप्यनन्याधीनस्वरूपस्थितिप्रवृत्तिकैव । अत उभयोर- प्यैश्वर्यमत्यन्तसमानम् । एवं देव्याः सर्वनियन्तृत्वेऽपि, यथा पत्युरीशि- तव्यराश्यनन्तर्भावात् तं प्रति देव्या नियन्तृत्वप्रसक्तिर्नास्ति, तथा देव्या अपि तद्राश्यनन्तर्भावादेव देवीं प्रति तस्यापि नियन्तृत्वं 
+नन्वेवं श्रियोऽप्यनन्याधीनत्वे पतिवन्मुख्येश्वरत्वे, सर्वागमानामेकेश्वरपरत्वाभावादैककण्ठ्यं न स्यादिति चेन्न । अन्योन्येच्छाविघातकयोः अन्योन्यगुणप्रधानभावगन्धरहितयोः अन्योन्यसाहित्यानादरेण जगद्व्यापारेषु पृथक् पृथक् प्रवृत्तिमतोर्द्वयोरीश्वरयोः प्रतिपादने ह्यागमानामैककण्ठ्यहानिः । इह त्वनयोर्दापत्यादिवचनबलात् अन्योन्येच्छाविघातराहित्ये समप्रधानभावराहित्ये जगद्व्यापारेषु पृथक्प्रवृत्तिराहित्यादौ च सर्वागमानां तात्पर्याभ्युपगमात्, ऐककण्ट्यमुपपन्नम् । सर्वागमानामीश्वरव्यक्तयैक्यपरत्वरूपमै ककण्ठ्यं ह्यत्र दुरुपपादं ; श्री श्रीशविषयसर्वभूतेश्वरत्ववचनयोर्द्वयोरपि तुल्यबलत्वेन, तयोरन्यतरस्याप्यन्यथा नेतुमशक्यत्वात् । अतो दंपत्योरन्योन्येच्छा विघातादिराहित्ये तात्पर्य वा; पत्युः प्रधानत्वेन प्रधानैक्यतात्पर्यं वा सर्वागमानामैककण्ठ्यमित्येव तेषामैककण्ठ्यं निर्वाह्यम् । 
+किञ्च यथा पतिः सर्वचेतनाचेतनतत्त्वनियन्ता, तथा देव्यपि सर्वचेतनाचेतनतत्त्वनियन्त्री । यथा च पतिरनन्याधीनखरूपस्थितिप्रवृत्तिकः, तथा देव्यप्यनन्याधीनस्वरूपस्थितिप्रवृत्तिकैव । अत उभयोरप्यैश्वर्यमत्यन्तसमानम् । एवं देव्याः सर्वनियन्तृत्वेऽपि, यथा पत्युरीशितव्यराश्यनन्तर्भावात् तं प्रति देव्या नियन्तृत्वप्रसक्तिर्नास्ति, तथा देव्या अपि तद्राश्यनन्तर्भावादेव देवीं प्रति तस्यापि नियन्तृत्वं 
 ४७ 
 | 
-नास्त्येव । अतो यथा भगवतो नियन्त्रन्तराभावेन तदैश्वर्यं स्वापेक्षयो- त्कृष्टावधिरहितं, तथा देव्या अपि नियन्त्रन्तराभावात् तदैश्वर्यमपि स्वापेक्षया उत्कृष्टावधिरहितम् । उक्तार्थे प्रमाणं च, बलाबलवैषम्यनि- यामकाभावेन समतुलारूढं परस्परबाधाद्यनर्हं उभयोरप्यविशिष्टं सर्वभू- तेश्वरत्ववचनम् । अपि च भगवत ईश्वरतत्त्वरूपत्वेनेशितव्यतत्त्वेप्वनन्त- र्भावात्, तद्व्यतिरिक्तविषयमेव देव्या ऐश्वर्यमिति वक्तव्यम् । ऐश्वर्यं हि ईशितव्यवस्तुमात्रप्रतिसंबन्धिकम् । न त्वीश्वरवस्तुप्रतिसंबन्धिक- मपि, अयोग्यत्वात् । न च तावता तस्या अनवधिकातिशयत्वहानिः । ईशितव्य कृत्स्नप्रतिसंबन्धिकत्वादेव तदुपपत्तेः स्वापेक्षया उत्कृष्टाव- धिराहित्याच्च । भगवदैश्वर्यमपि हि न देवीप्रतिसंबन्धिकम्, येन तदुत्कृ- ष्टावधि स्यात् । पतिवत् देव्या अपि ईश्वरतत्त्वरूपत्वेन तन्न्यायसाम्यात् इति ॥ 
-तदेवं स्तोत्ररत्ने भगवत इव देव्याः चतुःश्लोक्यां स्वाभाविकान- वधिकातिशयेशितृत्वरूपं पतिवत् मुख्यमीश्वरत्वं यामुनाचार्यैः कण्ठ- रवेण प्रतिपादितम् । 1" स्वाभाविकानवाधिकातिशयेशितृत्वं 
+नास्त्येव । अतो यथा भगवतो नियन्त्रन्तराभावेन तदैश्वर्यं स्वापेक्षयोत्कृष्टावधिरहितं, तथा देव्या अपि नियन्त्रन्तराभावात् तदैश्वर्यमपि स्वापेक्षया उत्कृष्टावधिरहितम् । उक्तार्थे प्रमाणं च, बलाबलवैषम्यनियामकाभावेन समतुलारूढं परस्परबाधाद्यनर्हं उभयोरप्यविशिष्टं सर्वभूतेश्वरत्ववचनम् । अपि च भगवत ईश्वरतत्त्वरूपत्वेनेशितव्यतत्त्वेप्वनन्तर्भावात्, तद्व्यतिरिक्तविषयमेव देव्या ऐश्वर्यमिति वक्तव्यम् । ऐश्वर्यं हि ईशितव्यवस्तुमात्रप्रतिसंबन्धिकम् । न त्वीश्वरवस्तुप्रतिसंबन्धिकमपि, अयोग्यत्वात् । न च तावता तस्या अनवधिकातिशयत्वहानिः । ईशितव्य कृत्स्नप्रतिसंबन्धिकत्वादेव तदुपपत्तेः स्वापेक्षया उत्कृष्टावधिराहित्याच्च । भगवदैश्वर्यमपि हि न देवीप्रतिसंबन्धिकम्, येन तदुत्कृष्टावधि स्यात् । पतिवत् देव्या अपि ईश्वरतत्त्वरूपत्वेन तन्न्यायसाम्यात् इति ॥ 
+तदेवं स्तोत्ररत्ने भगवत इव देव्याः चतुःश्लोक्यां स्वाभाविकानवधिकातिशयेशितृत्वरूपं पतिवत् मुख्यमीश्वरत्वं यामुनाचार्यैः कण्ठरवेण प्रतिपादितम् । 1" स्वाभाविकानवाधिकातिशयेशितृत्वं 
 नारायण त्वयि न मृप्यति" इति । 
 3" यस्यास्ते महिमानमात्मन इव त्वद्वल्लभोऽपि प्रभु- 
-नलं मातुमियत्तया निरवधिं नित्यानुकूलं खतः । " इति । भगवद्भाष्यकारैरैपि पृथुगद्ये “भगवन्नारायणाभिमतानुरूपस्वरूपरूप- गुणविभवैधर्यशीलाद्यनवधिकातिशयासंख्येयकल्याणगुणगणां " इति, 1 स्तोत्ररत्ने, १२. 2 चतुःश्लो. २. • ( पृथु ) शरणा - ग. 
+नलं मातुमियत्तया निरवधिं नित्यानुकूलं खतः । " इति । भगवद्भाष्यकारैरैपि पृथुगद्ये “भगवन्नारायणाभिमतानुरूपस्वरूपरूपगुणविभवैधर्यशीलाद्यनवधिकातिशयासंख्येयकल्याणगुणगणां " इति, 1 स्तोत्ररत्ने, १२. 2 चतुःश्लो. २. • ( पृथु ) शरणा - ग. 
 ४८ 
-वेदार्थसंग्रहे च 1 " अभिमतखानुरूपस्वरूपरूपगुणविभवैश्वर्यशीलाद्य- नवधिकमहिममहिषी” इति प्रतिपादितम् । श्रीवत्सचिह्नमिश्रैरपि 2 " देवि त्वन्महिमावधिर्न हरिणा नापि त्वया ज्ञायत" इति अनवधि- कमाहात्म्यं प्रतिपादितम् । तदात्मजैश्च भट्टपराशरपादैः 
+वेदार्थसंग्रहे च 1 " अभिमतखानुरूपस्वरूपरूपगुणविभवैश्वर्यशीलाद्यनवधिकमहिममहिषी” इति प्रतिपादितम् । श्रीवत्सचिह्नमिश्रैरपि 2 " देवि त्वन्महिमावधिर्न हरिणा नापि त्वया ज्ञायत" इति अनवधिकमाहात्म्यं प्रतिपादितम् । तदात्मजैश्च भट्टपराशरपादैः 
 3 " अस्येशाना जगत इति ते धीमहे यां समृद्धिं 
 श्री श्रीसूक्तं बहुमुखयते तां च शाखानुशाखम् ।" इति ॥ 
 4 
 6 
-एवमनन्याधीनत्वेन पत्या समस्वातन्त्र्यं कण्ठरवेण वर्णितं श्रीगुणरत्नकोशे “युवयोः स्वातन्त्र्यमत्यङ्कुशं " इति । 5 “सर्वस्य प्रभुमीशानं " इत्यादिवाक्येषु, देवीविषयवचनेषु “अस्येशाना" इत्या- दिपु [च] 'ईशाने 'ति चानश्प्रत्ययेन खाभाविकेश्वरत्वमवगम्यते; अनन्या - धीनत्वमिति यावत् । एवं सर्वभूतेश्वरत्ववचनसाम्यात् द्वयोरपि मुख्ये - श्वरत्वस्य दुरपह्नवत्वेन, सर्वागमानामीश्वरव्यक्तयैक्यपरत्वेऽनुपपन्ने, सर्वा- गमानामैककण्ठ्यमन्योन्येच्छाविघातादिनिवृत्तौ तात्पर्यमुखेनोपपन्नमस्तु 
+एवमनन्याधीनत्वेन पत्या समस्वातन्त्र्यं कण्ठरवेण वर्णितं श्रीगुणरत्नकोशे “युवयोः स्वातन्त्र्यमत्यङ्कुशं " इति । 5 “सर्वस्य प्रभुमीशानं " इत्यादिवाक्येषु, देवीविषयवचनेषु “अस्येशाना" इत्यादिपु [च] 'ईशाने 'ति चानश्प्रत्ययेन खाभाविकेश्वरत्वमवगम्यते; अनन्या - धीनत्वमिति यावत् । एवं सर्वभूतेश्वरत्ववचनसाम्यात् द्वयोरपि मुख्ये - श्वरत्वस्य दुरपह्नवत्वेन, सर्वागमानामीश्वरव्यक्तयैक्यपरत्वेऽनुपपन्ने, सर्वागमानामैककण्ठ्यमन्योन्येच्छाविघातादिनिवृत्तौ तात्पर्यमुखेनोपपन्नमस्तु 
 इत्यर्थः ॥ 
-ननु पतिविषये सर्वभूतेश्वरत्ववचने 'सर्व' शब्दः श्रियमपि संगृ- ह्णाति ; पत्नीविषये तु पतिव्यतिरिक्तपरः । तत्कथमत्र सर्वभूतेश्वरत्व- वचनसाम्योक्तिरिति चेदुच्यते - पति विषयवचनेऽपि 'सर्व' शब्दो देवी- व्यतिरिक्तपरः । ईश्वरत्वेन श्रूयमाणायास्तस्या ईशितव्यपरे तस्मिन् 
+ननु पतिविषये सर्वभूतेश्वरत्ववचने 'सर्व' शब्दः श्रियमपि संगृह्णाति ; पत्नीविषये तु पतिव्यतिरिक्तपरः । तत्कथमत्र सर्वभूतेश्वरत्ववचनसाम्योक्तिरिति चेदुच्यते - पति विषयवचनेऽपि 'सर्व' शब्दो देवीव्यतिरिक्तपरः । ईश्वरत्वेन श्रूयमाणायास्तस्या ईशितव्यपरे तस्मिन् 
 * श्रीगुगर. १३. 
 1 वेदा. सं. 
 4 श्री गुणर. ५३. 
@@ -1343,13 +1390,13 @@ B वे. ६-७.
 वे. ३-१७. 
 ० तै. सं. ४-४-१२. 
 ४९ 
-संग्रहीतुमशक्यत्वात्। ब्रह्मरुद्रादीनां त्वीश्वरत्वेन श्रुतानामपि कार्यत्वक- र्मवश्यत्वादिभिरनीश्वरत्वनिश्चयात् तत्र संग्रहो युज्यते । तथाऽत्र संको- चाभावात् अस्या ईश्वरत्वं पतिवदनवधिकातिशयमेव श्रुतिसिद्धं तिष्ठ - तीति नास्यास्तत्र सर्वशब्दे संग्रहः शक्यः । जगदीश्वरत्वेऽपि पतिं प्रति नियाम्यत्वात्, अस्या अपि तस्मिन् 'सर्व' शब्दे संग्रह : स्यादिति चेन्न - उभयत्र 'सर्व'शब्दे तुल्ये श्रूयमाणे, तस्याः तं प्रति नियाम्यत्वनिश्च- यायोगात् । अन्यथा वैपरीत्यस्यापि प्रसङ्गात् । एकः 'सर्व' ३ 
-। शब्दः संकुचितविषयः, अन्यस्तु न तथेत्यत्र विनिगमकाभावेन, उभयोरपि तुल्यविषयत्वस्यैव न्याय्यत्वात् । तत्र च द्वयोरप्यन्योन्यनियन्तृत्वस्य दुर्वचत्वात्, उभावपि सर्वशब्दौ उभयव्यतिरिक्तपरौ तिष्ठतः । तथा च सर्वभूतेश्वरत्ववचनसाम्यसिद्धिः । एवं देव्या अपि सर्वभूतेश्वरत्वश्रुति- सद्भावात् तां प्रति भगवतो नियन्तृत्वासंभवेन, तदैश्वर्यापेक्षया भगवदै- श्वर्यमपि नोत्कृष्टमित्ययमर्थः भगवद्भाष्यकारैः प्रतिपादित: 1 "अनव- धिकातिशय” इति । स्थापितं चैतच्छ्रीवत्सचिह्नमिश्रैः भट्टपराशर - पादैश्च ॥ 
-ननु श्रियोऽपि 'नार' शब्दार्थत्वेन भाष्यकारादिभिर्व्याख्यानात्, तेन तस्यास्तं प्रति नियाम्यत्वसिद्धेः, 'नार' शब्दखरूपश्रुतिरत्र सर्व- शब्दयोरतुल्यविषयत्वे * विनिगमका स्यादिति चेन्न—–'नार' शब्दस्य 
+संग्रहीतुमशक्यत्वात्। ब्रह्मरुद्रादीनां त्वीश्वरत्वेन श्रुतानामपि कार्यत्वकर्मवश्यत्वादिभिरनीश्वरत्वनिश्चयात् तत्र संग्रहो युज्यते । तथाऽत्र संकोचाभावात् अस्या ईश्वरत्वं पतिवदनवधिकातिशयमेव श्रुतिसिद्धं तिष्ठ - तीति नास्यास्तत्र सर्वशब्दे संग्रहः शक्यः । जगदीश्वरत्वेऽपि पतिं प्रति नियाम्यत्वात्, अस्या अपि तस्मिन् 'सर्व' शब्दे संग्रह : स्यादिति चेन्न - उभयत्र 'सर्व'शब्दे तुल्ये श्रूयमाणे, तस्याः तं प्रति नियाम्यत्वनिश्चयायोगात् । अन्यथा वैपरीत्यस्यापि प्रसङ्गात् । एकः 'सर्व' ३ 
+। शब्दः संकुचितविषयः, अन्यस्तु न तथेत्यत्र विनिगमकाभावेन, उभयोरपि तुल्यविषयत्वस्यैव न्याय्यत्वात् । तत्र च द्वयोरप्यन्योन्यनियन्तृत्वस्य दुर्वचत्वात्, उभावपि सर्वशब्दौ उभयव्यतिरिक्तपरौ तिष्ठतः । तथा च सर्वभूतेश्वरत्ववचनसाम्यसिद्धिः । एवं देव्या अपि सर्वभूतेश्वरत्वश्रुतिसद्भावात् तां प्रति भगवतो नियन्तृत्वासंभवेन, तदैश्वर्यापेक्षया भगवदैश्वर्यमपि नोत्कृष्टमित्ययमर्थः भगवद्भाष्यकारैः प्रतिपादित: 1 "अनवधिकातिशय” इति । स्थापितं चैतच्छ्रीवत्सचिह्नमिश्रैः भट्टपराशर - पादैश्च ॥ 
+ननु श्रियोऽपि 'नार' शब्दार्थत्वेन भाष्यकारादिभिर्व्याख्यानात्, तेन तस्यास्तं प्रति नियाम्यत्वसिद्धेः, 'नार' शब्दखरूपश्रुतिरत्र सर्वशब्दयोरतुल्यविषयत्वे * विनिगमका स्यादिति चेन्न—–'नार' शब्दस्य 
 1 पृथुगद्ये. पा. * विनिगमिका. ग. 
 4५० 
-श्रीमात्रविषयत्वाभावेन सामान्यवचनरूपत्वात् । तेन विशेषवचनसं- कोचायोगात् । श्रीविषयविशेषवचनसिद्ध सर्वभूतेश्वरत्वसामर्थ्येन, तस्या- स्तं प्रति नियाम्यत्वाभावे सिद्धे, सामान्यवचनरूपस्य 'नार' शब्दस्य तदनुरोधेन निर्वहणस्यैव न्याय्यत्वात् । अतोऽस्या 'नार' शब्दार्थत्वं 1 " नरसंबन्धिनो नारा " इति व्युत्पत्तिमात्रेण ; न तु 12 "नराज्जाता- नि” इति व्युत्पत्त्या । संबन्धश्चात्र पतिपारार्थ्यमात्रं, न तु खतो नियाम्यत्वं; उक्तरीत्या तस्य विशेषवचनवाधितत्वात् ॥ 
-अस्याः 'नार' शब्दार्थत्वमेतावन्मात्रेणैवेति एतेन एतदपि निरस्तम् : “ह्रीश्च ते लक्ष्मीश्च पत्न्यौ " इति पत्नीत्वेन शेषभूताया नियाम्यत्वस्य कल्पयितुमुचितत्वात् इदं वचनमत्र विनिगमकं स्यात् इति । पत्नीत्वेन शेषत्वेऽपि, सर्वभूतेश्वरत्वश्रुतिविरोधेन स्वतो निया- म्यत्वकल्पनस्यैवानवकाशात् । किञ्च पत्नीत्वस्य विग्रहविशुष्टधर्मत्वेन बहिरङ्गत्वं, नियन्तृत्वस्य स्वरूपधर्मत्वेनान्तरङ्गत्वात् । विग्रहविशिष्ट - तया बहिरङ्गभूतेन वचनेनान्तरङ्गवचनस्य सङ्कोचायोगात् । न हि विग्रहरहितस्याऽऽत्मखरूपमात्रस्य पत्नीत्वं लोके वेदे वा दृष्टचरम् । तस्मादन्तरङ्गवचनस्थकण्ठोक्तिसिद्धसर्वभूतेश्वरत्वसामर्थ्येन 
+श्रीमात्रविषयत्वाभावेन सामान्यवचनरूपत्वात् । तेन विशेषवचनसंकोचायोगात् । श्रीविषयविशेषवचनसिद्ध सर्वभूतेश्वरत्वसामर्थ्येन, तस्यास्तं प्रति नियाम्यत्वाभावे सिद्धे, सामान्यवचनरूपस्य 'नार' शब्दस्य तदनुरोधेन निर्वहणस्यैव न्याय्यत्वात् । अतोऽस्या 'नार' शब्दार्थत्वं 1 " नरसंबन्धिनो नारा " इति व्युत्पत्तिमात्रेण ; न तु 12 "नराज्जातानि” इति व्युत्पत्त्या । संबन्धश्चात्र पतिपारार्थ्यमात्रं, न तु खतो नियाम्यत्वं; उक्तरीत्या तस्य विशेषवचनवाधितत्वात् ॥ 
+अस्याः 'नार' शब्दार्थत्वमेतावन्मात्रेणैवेति एतेन एतदपि निरस्तम् : “ह्रीश्च ते लक्ष्मीश्च पत्न्यौ " इति पत्नीत्वेन शेषभूताया नियाम्यत्वस्य कल्पयितुमुचितत्वात् इदं वचनमत्र विनिगमकं स्यात् इति । पत्नीत्वेन शेषत्वेऽपि, सर्वभूतेश्वरत्वश्रुतिविरोधेन स्वतो नियाम्यत्वकल्पनस्यैवानवकाशात् । किञ्च पत्नीत्वस्य विग्रहविशुष्टधर्मत्वेन बहिरङ्गत्वं, नियन्तृत्वस्य स्वरूपधर्मत्वेनान्तरङ्गत्वात् । विग्रहविशिष्ट - तया बहिरङ्गभूतेन वचनेनान्तरङ्गवचनस्य सङ्कोचायोगात् । न हि विग्रहरहितस्याऽऽत्मखरूपमात्रस्य पत्नीत्वं लोके वेदे वा दृष्टचरम् । तस्मादन्तरङ्गवचनस्थकण्ठोक्तिसिद्धसर्वभूतेश्वरत्वसामर्थ्येन 
 स्वतन्त्रत्वे 
 1 अहि. सं. ५२-५०. 2 भार. आनु. १८६-७ (अष्टा. ब्र. १ ३५.) 3 तै. आर.३-१३. 
 पा. निराज्जातानि तत्त्वानि 
@@ -1358,10 +1405,10 @@ B वे. ६-७.
 - 
 · 
 ५१ 
-निश्चिते, स्वतन्त्रयोरपि तयोरन्योन्येच्छया पतिपत्नीभाव इति पत्नी- त्वस्य तदनुरोधेन निर्वहणं न्याय्यम् । तथैव भट्टपराशरपादैः " " तं च त्वत्कं पतिमधिजगावुत्तरश्चानुवाक" इति निर्व्यूढम् । 
+निश्चिते, स्वतन्त्रयोरपि तयोरन्योन्येच्छया पतिपत्नीभाव इति पत्नीत्वस्य तदनुरोधेन निर्वहणं न्याय्यम् । तथैव भट्टपराशरपादैः " " तं च त्वत्कं पतिमधिजगावुत्तरश्चानुवाक" इति निर्व्यूढम् । 
 266 
 - 
-ननु न तस्येशे कश्चन" इति पत्युरीश्वरान्तरनिषेधो दृश्यते । तथा च पतिमात्रस्येश्वरान्तरनिषेधवलात् चेतनान्तरवत् पत्न्या अपि सेश्वरत्वसिद्धया, पत्यावैश्वर्यविश्रमस्य स्वीकर्तव्यत्वात्, अस्याः सर्वभूते- श्वरत्ववचनं संकोचनीयम् । “न तत्समश्चाभ्यधिकश्च दृश्यते,” “एकः शास्ता न द्वितीयोऽस्ति शास्ता" इत्यादिभिस्तत्सदृशनिषेधाच्च । अत इदं वचनजातमत्र विनिगमकमिति चेन्न तस्य निषेधरूपत्वेन धर्मिग्राहक - मुपजीव्योदेतव्यत्वात् सर्वभूतेश्वरत्ववचनस्य च धर्मिग्राहकत्वात् । ईश्वरे सिद्धे हि, तस्येश्वरान्तरं सदृशं च निषेद्धव्यम् । न हि भूतलादिधर्मिणि अगृहीते, तत्र घटादिकं निषेद्धुं शक्यम् । अतः सर्वभूतेश्वरत्वसिद्धि- वेलायां, न तस्येशे कश्चन" इत्यादेरनुदयात् तस्य श्रीविषय- सर्वभूतेश्वरत्ववचनसंकोचकत्वं न संभवति । ततश्च पूर्वोक्तरीत्या द्वयोरप्यविशेषेण प्रथमं सर्वभूतेश्वरत्वे निश्चिते, तदुपजीवनेन प्रवृत्तः पत्युः सदृशनिषेधस्तदनुरोधेन नेतव्यः । एवंविधपत्न्यादिविशिष्टत्वेन सदृशः कश्चिदन्यो नास्तीति । एतत्सर्वमभिप्रेत्य वेदार्थसंग्रहे भगवद्- भाष्यकारैः 'महिषी' शब्द प्रयुञ्जद्भिः निर्व्यूढम् """ अनवधिकमहिम- 
+ननु न तस्येशे कश्चन" इति पत्युरीश्वरान्तरनिषेधो दृश्यते । तथा च पतिमात्रस्येश्वरान्तरनिषेधवलात् चेतनान्तरवत् पत्न्या अपि सेश्वरत्वसिद्धया, पत्यावैश्वर्यविश्रमस्य स्वीकर्तव्यत्वात्, अस्याः सर्वभूतेश्वरत्ववचनं संकोचनीयम् । “न तत्समश्चाभ्यधिकश्च दृश्यते,” “एकः शास्ता न द्वितीयोऽस्ति शास्ता" इत्यादिभिस्तत्सदृशनिषेधाच्च । अत इदं वचनजातमत्र विनिगमकमिति चेन्न तस्य निषेधरूपत्वेन धर्मिग्राहक - मुपजीव्योदेतव्यत्वात् सर्वभूतेश्वरत्ववचनस्य च धर्मिग्राहकत्वात् । ईश्वरे सिद्धे हि, तस्येश्वरान्तरं सदृशं च निषेद्धव्यम् । न हि भूतलादिधर्मिणि अगृहीते, तत्र घटादिकं निषेद्धुं शक्यम् । अतः सर्वभूतेश्वरत्वसिद्धिवेलायां, न तस्येशे कश्चन" इत्यादेरनुदयात् तस्य श्रीविषयसर्वभूतेश्वरत्ववचनसंकोचकत्वं न संभवति । ततश्च पूर्वोक्तरीत्या द्वयोरप्यविशेषेण प्रथमं सर्वभूतेश्वरत्वे निश्चिते, तदुपजीवनेन प्रवृत्तः पत्युः सदृशनिषेधस्तदनुरोधेन नेतव्यः । एवंविधपत्न्यादिविशिष्टत्वेन सदृशः कश्चिदन्यो नास्तीति । एतत्सर्वमभिप्रेत्य वेदार्थसंग्रहे भगवद्भाष्यकारैः 'महिषी' शब्द प्रयुञ्जद्भिः निर्व्यूढम् """ अनवधिकमहिम- 
 566 
 1 श्रीगुणर. १३. 
 5 
@@ -1370,8 +1417,8 @@ B वे. ६-७.
 • 
 • वेदार्थसं. पा. "स्थापितं च त्वत्कं पत्तिमधिजगाम - ग. 
 ५२ 
-महिषी" इति । पतिमात्रस्य ईश्वरान्तरनिषेधश्च तस्य नियन्त्रन्तरं नास्तीत्येतावन्मात्रमभिधत्ते, न तु तदन्यस्य सेश्वरत्वमपि; तावत्पर्यन्त- बोधने सामर्थ्याभावात्, तत्कल्पने गौरवात्, देव्याः सर्वभूतेश्वरत्वश्रुति- विरोधेन तत्कल्पनानवकाशाच्च । अतो देव्याः सर्वभूतेश्वरत्वादिश्रुति- स्वारस्यसंकोचकाभावात्, दंपत्योस्सर्वभूतेश्वरत्वादिवचनसाम्यं सिद्धम् ॥ 
-उपबृंहणान्यपि देव्याः पतितुल्यैश्वर्यप्रतिपादनेन तयोः सर्वभूते- श्वरत्वादिवचनसाम्यं दृढीकुर्वन्ति । यथा भगवच्छास्त्रे ““सर्वैश्वर्यगुणो- पेता नित्यं तद्धर्मधर्मिणी ।" इति । अस्यार्थः - सर्वेश्वरत्वधर्मविशिष्टा, नित्यं सर्वकालेषु, तद्धर्मधर्मिणी- तच्छब्देन भगवानुच्यते; तद्धर्माः- शारीरकाध्यायचतुष्टयविवक्षितकारणत्वाबाध्यत्वोपायत्वोपेयत्वसर्वान्तर्या- मित्वसर्वशरीरित्वादयो धर्माः देव्या अपि धर्मा इति 'तद्धर्मधर्मिणी' 
+महिषी" इति । पतिमात्रस्य ईश्वरान्तरनिषेधश्च तस्य नियन्त्रन्तरं नास्तीत्येतावन्मात्रमभिधत्ते, न तु तदन्यस्य सेश्वरत्वमपि; तावत्पर्यन्तबोधने सामर्थ्याभावात्, तत्कल्पने गौरवात्, देव्याः सर्वभूतेश्वरत्वश्रुतिविरोधेन तत्कल्पनानवकाशाच्च । अतो देव्याः सर्वभूतेश्वरत्वादिश्रुतिस्वारस्यसंकोचकाभावात्, दंपत्योस्सर्वभूतेश्वरत्वादिवचनसाम्यं सिद्धम् ॥ 
+उपबृंहणान्यपि देव्याः पतितुल्यैश्वर्यप्रतिपादनेन तयोः सर्वभूतेश्वरत्वादिवचनसाम्यं दृढीकुर्वन्ति । यथा भगवच्छास्त्रे ““सर्वैश्वर्यगुणोपेता नित्यं तद्धर्मधर्मिणी ।" इति । अस्यार्थः - सर्वेश्वरत्वधर्मविशिष्टा, नित्यं सर्वकालेषु, तद्धर्मधर्मिणीतच्छब्देन भगवानुच्यते; तद्धर्माःशारीरकाध्यायचतुष्टयविवक्षितकारणत्वाबाध्यत्वोपायत्वोपेयत्वसर्वान्तर्यामित्वसर्वशरीरित्वादयो धर्माः देव्या अपि धर्मा इति 'तद्धर्मधर्मिणी' 
 इत्युक्तम् ॥ 
 देव्याः सर्वव्यापकत्वसर्वान्तर्यामित्वसर्वनियन्तृत्वादिप्रतिपादकानि श्रीविष्णुपुराणभगवच्छास्त्रवचनानि प्रागेव दर्शितानि । अन्यान्यपि वचनानि विलिख्यन्ते :- 
 श्रीमदहिर्बुद्भयसंहितायां द्वितीयेऽध्याये 
@@ -1380,7 +1427,7 @@ B वे. ६-७.
 ५३ 
 तृतीयेऽध्याये नारदः- 
 “षाड्गुण्यं तत्कथं ब्रह्म स्वशक्तिपरिबृंहितम् । 
-तस्य शक्तिश्च का नाम यया बृंहितमुच्यते ॥ १ ॥ अहिर्बुद्धयः- “ एवं भगवतस्तस्य परस्य ब्रह्मणो मुने ॥ ४ ॥ सर्वभावानुगा शक्तिर्ज्योत्स्नेव हिमदीधितेः । भावाभावानुगा तस्य सर्वकार्यकरी विभोः || ५ | स्वात्मबुद्धिस्समुन्मीलत्परावरजगस्थितिः ॥ ७ ॥ नित्या कालापरिच्छेदात्पूर्णाकाराऽवियोगतः । 
+तस्य शक्तिश्च का नाम यया बृंहितमुच्यते ॥ १ ॥ अहिर्बुद्धयः“ एवं भगवतस्तस्य परस्य ब्रह्मणो मुने ॥ ४ ॥ सर्वभावानुगा शक्तिर्ज्योत्स्नेव हिमदीधितेः । भावाभावानुगा तस्य सर्वकार्यकरी विभोः || ५ | स्वात्मबुद्धिस्समुन्मीलत्परावरजगस्थितिः ॥ ७ ॥ नित्या कालापरिच्छेदात्पूर्णाकाराऽवियोगतः । 
 1* 
 व्यापिनी देशविभ्रंशाद्रिक्ता पूर्णा च सर्वदा ॥ ८ ॥ जगत्तया लक्ष्यमाणा सा लक्ष्मीरिति गीयते । 
 श्रयन्ती वैष्णवं भावं सा श्रीरिति निगद्यते ॥ ९ ॥ इत्यारभ्य, 
@@ -1427,7 +1474,7 @@ B वे. ६-७.
 तत्रैव """ईशाऽहमीशितव्येन स च देवः सनातनः । 
 ईशितव्यं द्विधा प्रोक्तं चिदचिद्व्यतिरेकतः ॥ २२ ॥ विभक्ते अपि ते एते शक्ती चिदचिदात्मके । मत्स्खाच्छन्द्यवशेनैव मम रूपे सनातने " ॥ २४ ॥ इति । 
 चतुर्थेऽध्याये " पूर्णषाड्गुण्यरूपत्वात् साऽहं भगवती स्मृता ॥ ४८ ॥ मत्तः प्रक्रियते विश्वं प्रकृतिश्चास्मि कीर्तिता" ॥ ५१ ॥ 
-पा. सा सत्ता- ग. 
+पा. सा सत्ताग. 
 1 
 2 नैवैश्वर्यादिको. 3 पूर्वव्यापि 
 5 
@@ -1437,7 +1484,7 @@ B वे. ६-७.
 ५७ 
 पञ्चमेऽध्याये " महान्नाम समाख्यातः विकारः 'पूर्वको विधेः ॥ ४० ॥ 
 महान्तमाविशाम्येनं प्रेरयामि सृष्टये । प्रेर्यमाणात्ततस्तस्मादहंकारश्च जग्मिवान् ॥ ४४ ॥ 
-आविश्यामुमहंकारं सृष्टये प्रेरयाम्यहम् ॥ ४६ ॥ इत्यादिना " महदाद्या विशेषान्ता ह्यण्डमुत्पादयन्ति ते ।" * इत्यादितन्मा- त्रादिसृष्टिक्रमेण विस्तरेण देव्याः जगद्व्यापारः उक्तः । 
+आविश्यामुमहंकारं सृष्टये प्रेरयाम्यहम् ॥ ४६ ॥ इत्यादिना " महदाद्या विशेषान्ता ह्यण्डमुत्पादयन्ति ते ।" * इत्यादितन्मात्रादिसृष्टिक्रमेण विस्तरेण देव्याः जगद्व्यापारः उक्तः । 
 अष्टमेऽध्याये " एकधा च द्विधा चैव तैस्तैस्तत्त्वाव्धिपारगैः । 
 व्यपदिश्यावहे शास्त्रे तावावां सर्वकारणम् ||" 
 द्वादशे “स्वतन्त्रा "विश्वसिद्धीनां हेतुश्चात महाद्भुतः । 
@@ -1448,7 +1495,7 @@ B वे. ६-७.
 सप्तदशे “कान्तस्य देवदेवस्य विष्णोः सद्गुणशालिनः ॥ ३० ॥ 
 1 
 ' पूर्वकैर्बुधैः 2 सिसृक्षया 3 विश्वसिद्धानां 4 तिरोभावः 5 जले. 
-* इत्यतो- क. 
+* इत्यतोक. 
 ५८ 
 ' दयिताहं सदा देवी नित्यं तद्धर्मधर्मिणी ॥ ३१ ॥ 
 ईश्वरी सर्वभूतानां पद्माक्षी पद्ममालिनी । ३२ ॥ नायिका सर्वशक्तीनां सर्वलोकमहेश्वरी ॥ ३४ ॥ महिषी देवदेवस्य सर्वकामदुघा विभोः । तुल्या गुणवयोरूपैर्मनः प्रमथनैर्हरेः ॥ ३५ ॥ 
@@ -1457,24 +1504,24 @@ B वे. ६-७.
 अष्टाविंशे "लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया । 
 रक्षकः सर्वसिद्धान्ते वेदान्तेऽपि च गीयते ॥ " २४ ॥ 
 इत्यादि । 
-एवं श्रुतिस्मृत्यागमवचनैर्देव्याः सर्वेश्वरत्वं सिद्धम् । तच्चाव्याह- तेच्छं सर्वनियन्तृत्वम् । तदपि सर्वेषां सत्तास्थितिप्रवृत्तिप्रयोजकसंक- ल्पाश्रयत्वं इति सर्वकारणत्व सर्वान्तर्यामित्वसर्वशरीरत्वादिसंवलितम् । 
+एवं श्रुतिस्मृत्यागमवचनैर्देव्याः सर्वेश्वरत्वं सिद्धम् । तच्चाव्याहतेच्छं सर्वनियन्तृत्वम् । तदपि सर्वेषां सत्तास्थितिप्रवृत्तिप्रयोजकसंकल्पाश्रयत्वं इति सर्वकारणत्व सर्वान्तर्यामित्वसर्वशरीरत्वादिसंवलितम् । 
 पा. ' दयिताहं सदा देवी ज्ञानानन्दमयी परा । 
 अनवद्याऽनवद्याङ्गी नित्यं तद्धर्मधर्मिणी || 
 2 प्रमथने हरेः . 
 ५९ 
-एवं श्रियोऽपि सर्वेश्वरत्वे भगवतो देव्याश्च पृथक्पृथक् जगत्स्रष्टृत्वमोक्ष-- प्रदत्वादिकमिति शंकापरिहारार्थं "अस्येशाना" इत्यादिश्रुतौ पत्नीत्व- निर्देशः । यथा लोके पत्युः पत्न्याश्च न पृथक् यागानुष्ठानं, अपितु सहैव, तथा प्रकृतेऽपि न पतिमात्रस्य पत्नींमात्त्रस्य च जगत्स्रष्टृत्वमोक्ष- प्रदत्वादिकं; किन्तु परस्परसहितयोरेवेत्युक्तं भवति । अतः सृष्ट्यादि- जगद्व्यापारस्य यज्ञत्वं निरूपितं भवति || 
+एवं श्रियोऽपि सर्वेश्वरत्वे भगवतो देव्याश्च पृथक्पृथक् जगत्स्रष्टृत्वमोक्ष-प्रदत्वादिकमिति शंकापरिहारार्थं "अस्येशाना" इत्यादिश्रुतौ पत्नीत्वनिर्देशः । यथा लोके पत्युः पत्न्याश्च न पृथक् यागानुष्ठानं, अपितु सहैव, तथा प्रकृतेऽपि न पतिमात्रस्य पत्नींमात्त्रस्य च जगत्स्रष्टृत्वमोक्षप्रदत्वादिकं; किन्तु परस्परसहितयोरेवेत्युक्तं भवति । अतः सृष्ट्यादिजगद्व्यापारस्य यज्ञत्वं निरूपितं भवति || 
 166 
 * इदं तु परमरहस्यं 
 "" अकारेणोच्यते विष्णुः सर्वलोकेश्वरो हरिः । उद्धृता विष्णुना लक्ष्मीरुकारेणोच्यते तथा ॥ 
-मकारस्तु तयोर्दास इति प्रणवलक्षणम् ॥” इति कठश्रुतौ भगवतः अकारवाच्यत्वं सर्वलोकेश्वरत्वं च प्रतिपाद्य, देव्याः उकारवाच्यत्वं "सादृश्यार्थकतथेति निर्देशात् सर्वलोकेश्वरत्वं प्रतिपा- दितम् । अनन्तरं “मकारस्तु तयोर्दास" इत्यनेन मकारवाच्यजीवस्य उभयनिरूपितं दासत्वं प्रतिपन्नम् । तच्च शेषत्वप्रतिपत्त्यर्हत्वे सति इष्टविनियोगार्हत्वरूपं शेषत्वं; तत्प्रतिसंबन्धि स्वामित्वं; तदपि ममेद- मिति प्रतिपत्त्यर्हत्वे सति शेषित्वं तच्च विभूतिद्वयजन्यातिशयभाक्त्व- रूपं; तच्च शेषित्वमुभयत्र व्यासक्तं एकं; “तयोर्दास” इति द्वन्द्वश्रुति- स्वारस्यात् । तत्र द्वन्द्वसमासादेवोभयोः समप्राधान्यं परस्परसाहित्यं च सिद्धम् । शेषित्वगर्भमीश्वरत्वम् । शेषित्वं स्वामित्वमिति पर्यायः । 
+मकारस्तु तयोर्दास इति प्रणवलक्षणम् ॥” इति कठश्रुतौ भगवतः अकारवाच्यत्वं सर्वलोकेश्वरत्वं च प्रतिपाद्य, देव्याः उकारवाच्यत्वं "सादृश्यार्थकतथेति निर्देशात् सर्वलोकेश्वरत्वं प्रतिपादितम् । अनन्तरं “मकारस्तु तयोर्दास" इत्यनेन मकारवाच्यजीवस्य उभयनिरूपितं दासत्वं प्रतिपन्नम् । तच्च शेषत्वप्रतिपत्त्यर्हत्वे सति इष्टविनियोगार्हत्वरूपं शेषत्वं; तत्प्रतिसंबन्धि स्वामित्वं; तदपि ममेदमिति प्रतिपत्त्यर्हत्वे सति शेषित्वं तच्च विभूतिद्वयजन्यातिशयभाक्त्वरूपं; तच्च शेषित्वमुभयत्र व्यासक्तं एकं; “तयोर्दास” इति द्वन्द्वश्रुतिस्वारस्यात् । तत्र द्वन्द्वसमासादेवोभयोः समप्राधान्यं परस्परसाहित्यं च सिद्धम् । शेषित्वगर्भमीश्वरत्वम् । शेषित्वं स्वामित्वमिति पर्यायः । 
 पा. * इदं ग. + सादृश्यार्थकतयेति - 
 क. 
 1 
 कठश्रुतौ.६० 
-अथवा "मकारस्तु तयोर्दास" इति जीवानां दासत्वावगमात्, दास- त्वप्रतिसंबन्धि स्वामित्वं दंपत्योरवगतम् । ' ‘“स्वामिन्नैश्वर्ये’’'इति भगवता पाणिनिनाऽनुशासनात् । तथा च व्यासक्तशेषित्वेश्वरत्वपरेयं श्रुतिरहिर्बुद्भयसंहितावचनेनोपबृंहिता । यथा 
+अथवा "मकारस्तु तयोर्दास" इति जीवानां दासत्वावगमात्, दासत्वप्रतिसंबन्धि स्वामित्वं दंपत्योरवगतम् । ' ‘“स्वामिन्नैश्वर्ये’’'इति भगवता पाणिनिनाऽनुशासनात् । तथा च व्यासक्तशेषित्वेश्वरत्वपरेयं श्रुतिरहिर्बुद्भयसंहितावचनेनोपबृंहिता । यथा 
 “लक्ष्म्याः समस्तश्चिदचित्प्रपञ्चो व्याप्यस्तदीशस्य तु साऽपि सर्वं । 
 तथाऽपि साधारणमीशितृत्वं श्री श्रीशयोद्वै च सदैकशेषी " इति ॥ 
-तस्यायमर्थः चिदचिदात्मकः सर्वप्रपञ्चः लक्ष्म्याः शेषभूतः । सा च देवी [च] भगवच्छेषभूता । यद्यपि भगवदपेक्षयोभयोः शेषत्वमेकरूपं वक्त- व्यम्, तथाऽपि देव्याः सर्वेश्वरत्वप्रतिपादकश्रुतिस्मृत्यादिबहुप्रमाण- विरोधात् स्वतः शेषत्वाभावे सिद्धे, ऐच्छिकशेषत्वमादाय पर्यवस्यतिं । प्रपञ्चविषये तु वाधकाभावात्, स्वाभाविकशेषत्वम् । एवं देवीप्रपञ्चयो - 'वैषम्यसूचकः 'तथाऽपि' इति शब्दः । 'साधारणमीशितृत्वं'-'साधा- रणमेकं' इति पर्यायत्वादुभयगतमीश्वरत्वं व्यासक्तमेकं, शेषित्वमिति व्यासक्तमेकं एकवचननिर्देशादिति । उक्तं च श्रीराममिश्रः “ उभ- याधिष्ठानं चैकं शेषित्वं" इति । एवं व्यासक्तशेषित्वेश्वरत्व परेयं श्रुतिरिति भावः । तदभिप्रायेण "" एकः शास्ता" इत्येकत्ववादः उप- पद्यते । एवं देव्याः सर्वभूतेश्वरत्वे न किंचित्संकटमित्यलमतिविस्तरेण ॥ 
+तस्यायमर्थः चिदचिदात्मकः सर्वप्रपञ्चः लक्ष्म्याः शेषभूतः । सा च देवी [च] भगवच्छेषभूता । यद्यपि भगवदपेक्षयोभयोः शेषत्वमेकरूपं वक्तव्यम्, तथाऽपि देव्याः सर्वेश्वरत्वप्रतिपादकश्रुतिस्मृत्यादिबहुप्रमाणविरोधात् स्वतः शेषत्वाभावे सिद्धे, ऐच्छिकशेषत्वमादाय पर्यवस्यतिं । प्रपञ्चविषये तु वाधकाभावात्, स्वाभाविकशेषत्वम् । एवं देवीप्रपञ्चयो - 'वैषम्यसूचकः 'तथाऽपि' इति शब्दः । 'साधारणमीशितृत्वं'-'साधारणमेकं' इति पर्यायत्वादुभयगतमीश्वरत्वं व्यासक्तमेकं, शेषित्वमिति व्यासक्तमेकं एकवचननिर्देशादिति । उक्तं च श्रीराममिश्रः “ उभयाधिष्ठानं चैकं शेषित्वं" इति । एवं व्यासक्तशेषित्वेश्वरत्व परेयं श्रुतिरिति भावः । तदभिप्रायेण "" एकः शास्ता" इत्येकत्ववादः उपपद्यते । एवं देव्याः सर्वभूतेश्वरत्वे न किंचित्संकटमित्यलमतिविस्तरेण ॥ 
 118 11 
 पा. * ४३ पृष्ठे ' श्रियं - श्री श्रय ' 
 1 
@@ -1488,9 +1535,9 @@ B वे. ६-७.
 मनसः काममाकूतिं वाचस्सत्यमशीमहि । 
 पशूनां रूपमन्नस्य मयि श्रीः श्रयतां यशः ॥ १० ॥ 
 | 
-मनसः कामं मनसा काम्यमानमर्थजातम् । आकूतिं * अभिप्रायगतिं मनोरथपरिकल्पितमर्थं; 'वाचः संबन्धी, वाचा याच्यमानम् सर्वप्र- काराभिलषितमर्थं । पशूनां रूपं - जीवधनसमृद्धिम् । अन्नस्य–अद- नीयस्य रूपं रूप्यते प्रकाश्यतेऽनेनेति रूपं ; अन्नसमृद्धिहेतुभूतं सर्वम् । सत्यं -- अवितथं यथावत्स्थितलक्ष्मीप्रसादं; अशीमहि - अभिल- भेमहि । किं च सा श्रीः, मयि - लक्ष्मीचरणकमलयुगल परिचरणपरे, पूर्वोक्तमर्थजातं तत्समृद्धिं प्रथितं यशश्च श्रयताम् - प्रापयताम् । अन्त- र्भावितण्यर्थोऽयम् । एतेषां भगवदधीनत्वं एषा ऋक् प्रतिपादयति । "" आकूतीनामधिपतिं चेतसां च - संकल्पजूतिं देवं विपश्चिम् । मनोराजानमिह वर्धयन्तः । उपहवेऽस्य सुमतौ स्याम । " 
+मनसः कामं मनसा काम्यमानमर्थजातम् । आकूतिं * अभिप्रायगतिं मनोरथपरिकल्पितमर्थं; 'वाचः संबन्धी, वाचा याच्यमानम् सर्वप्रकाराभिलषितमर्थं । पशूनां रूपं - जीवधनसमृद्धिम् । अन्नस्य–अदनीयस्य रूपं रूप्यते प्रकाश्यतेऽनेनेति रूपं ; अन्नसमृद्धिहेतुभूतं सर्वम् । सत्यं -अवितथं यथावत्स्थितलक्ष्मीप्रसादं; अशीमहि - अभिलभेमहि । किं च सा श्रीः, मयि - लक्ष्मीचरणकमलयुगल परिचरणपरे, पूर्वोक्तमर्थजातं तत्समृद्धिं प्रथितं यशश्च श्रयताम् - प्रापयताम् । अन्तर्भावितण्यर्थोऽयम् । एतेषां भगवदधीनत्वं एषा ऋक् प्रतिपादयति । "" आकूतीनामधिपतिं चेतसां च - संकल्पजूतिं देवं विपश्चिम् । मनोराजानमिह वर्धयन्तः । उपहवेऽस्य सुमतौ स्याम । " 
 1 
-एषा ऋक् भगवतो हृषीकेशत्वं प्रपञ्चयन्ती मनोरथपरिकल्पि- तानामर्थानामपि भगवानेव प्रापक इति दर्शयति । 
+एषा ऋक् भगवतो हृषीकेशत्वं प्रपञ्चयन्ती मनोरथपरिकल्पितानामर्थानामपि भगवानेव प्रापक इति दर्शयति । 
 1 
 पा. * अभिप्रायगतं घ. 
 वाचः सिद्धिं - ख. 
@@ -1506,19 +1553,19 @@ B वे. ६-७.
 264, 
 2. “ क्षीरोदार्णवसंभूतां श्रियं "चोवाह कर्दमः । 
 प्रजात्वेन तदा विप्रः तदा प्रभृति कर्दमः ॥ 
-हे कर्दम प्रजापते, कर्दमेन त्वया, प्रजाभृता - प्रजात्वेन स्वीकृता । 'अभूततद्भावे च्चिः' इत्यादिना "च्विः । ईत्त्वाभावः छान्दसः । या पुत्रीत्वेन स्वीकृता तां श्रियम् । मयि - श्रीसमाराधके संभव - 'संभा- वय । किं च हे कर्दम, त्वत्पुत्रीं श्रियं मे कुले--लक्ष्मीचरणारविन्द - परिचरणपरस्य मम पुत्रपौत्रज्ञाति संबन्ध्यादिष्वपि वासय — नित्य- निवासिनीं कुरु । तामेव विशिनष्टि मातरम् - सर्वभूतजननीत्वादस्माक- मपि जननीम्, पद्ममालिनीं- पद्ममालालंकृतां सौन्दर्यलावण्याद्याकारतया 
+हे कर्दम प्रजापते, कर्दमेन त्वया, प्रजाभृता - प्रजात्वेन स्वीकृता । 'अभूततद्भावे च्चिः' इत्यादिना "च्विः । ईत्त्वाभावः छान्दसः । या पुत्रीत्वेन स्वीकृता तां श्रियम् । मयि - श्रीसमाराधके संभव - 'संभावय । किं च हे कर्दम, त्वत्पुत्रीं श्रियं मे कुले--लक्ष्मीचरणारविन्द - परिचरणपरस्य मम पुत्रपौत्रज्ञाति संबन्ध्यादिष्वपि वासय — नित्यनिवासिनीं कुरु । तामेव विशिनष्टि मातरम् - सर्वभूतजननीत्वादस्माकमपि जननीम्, पद्ममालिनींपद्ममालालंकृतां सौन्दर्यलावण्याद्याकारतया 
 3 
 1 वि.पु. १-८-१७. 2 वि.पु. ९-१. ३ पा. जगत्तत्वं ... मुखे.... । 
 ... तन्मुखेनापि याचते - ख. * कर्दमेनेति इति न - क. 
 || जग्राह-अ. + लक्ष्मी... कर्दमी - ख. पा विप्रत्ययः । ईत्त्वाभावः -ग. $ संभावय-समुद्भावयेत्यर्थः - ख. 
 १ संबन्धिवादिष्वपि - क. 
 ६३ 
-सर्वाह्नादकारिणीं श्रियं ; " मालाधारिणी " इति तन्मन्त्रे ; अस्य मन्त्रस्य कर्दमो देव इति केचिद्वदन्ति । तदपार्थकम् । सर्वस्यास्य सूक्तस्य श्रीदेवताकत्वात् । लक्ष्मीपितृत्वेन कर्दमं प्रति प्रार्थना, न देव- तात्वेन ! अन्यदैवत्येऽपि मन्त्रे संबन्धान्तरप्रसक्तान्यपि दैवतानि प्रा- र्थ्यानि महान्ति; तथा च स्मरन्ति ।' मन्त्रेऽन्यदैवते यानि विद्यन्ते तत् - प्रसङ्गतः । सालोक्यात्साहचर्याद्वा तानि नैयत्यकानि तु ॥ " इति । 
+सर्वाह्नादकारिणीं श्रियं ; " मालाधारिणी " इति तन्मन्त्रे ; अस्य मन्त्रस्य कर्दमो देव इति केचिद्वदन्ति । तदपार्थकम् । सर्वस्यास्य सूक्तस्य श्रीदेवताकत्वात् । लक्ष्मीपितृत्वेन कर्दमं प्रति प्रार्थना, न देवतात्वेन ! अन्यदैवत्येऽपि मन्त्रे संबन्धान्तरप्रसक्तान्यपि दैवतानि प्रार्थ्यानि महान्ति; तथा च स्मरन्ति ।' मन्त्रेऽन्यदैवते यानि विद्यन्ते तत् - प्रसङ्गतः । सालोक्यात्साहचर्याद्वा तानि नैयत्यकानि तु ॥ " इति । 
 S चिक्कीतं श्रीगृहद्वास्थं तत्पत्यायतनान्यपः । 
 श्रीशेषा द्वादशेनैताः स्वार्थं दृढयतेऽर्थवत् ॥ 
 आपः सृजन्तु सिग्धानि चिक्कीत वस मे गृहे । नि च देवीं मातरं श्रियं वासय मे कुले ॥ १२ ॥ 
 ॥ ११ ॥ 
-"आपः भगवदायतनभूताः । स्निग्धानां - आज्यतैलमधुप्रभृतीनां कार- णभूता याः ता आपः । तानि स्निग्धानि - आज्यादीनि, मम गृहे सृजन्तु - उत्पादयन्तु । हे चिक्लीत - भगवदन्तःपुरद्वाररक्षक; मे- लक्ष्मीचरणांभोजभक्तस्य मम गृहे, तद्भवनद्वार इव, वस - नित्यं सन्नि- हितो भव । चिक्कीतो नाम भगवदन्तःपुरद्वाररक्षकः । तथा च पौरा- णिकाः पठन्ति " "पद्मो गदो निधिः शंखश्चतुर्दन्ती गजस्तथा । कल्याणसर्पपञ्चास्याश्चिक्लीतो गृहरक्षकाः ॥” इति । 
+"आपः भगवदायतनभूताः । स्निग्धानां - आज्यतैलमधुप्रभृतीनां कारणभूता याः ता आपः । तानि स्निग्धानि - आज्यादीनि, मम गृहे सृजन्तु - उत्पादयन्तु । हे चिक्लीत - भगवदन्तःपुरद्वाररक्षक; मेलक्ष्मीचरणांभोजभक्तस्य मम गृहे, तद्भवनद्वार इव, वस - नित्यं सन्निहितो भव । चिक्कीतो नाम भगवदन्तःपुरद्वाररक्षकः । तथा च पौराणिकाः पठन्ति " "पद्मो गदो निधिः शंखश्चतुर्दन्ती गजस्तथा । कल्याणसर्पपञ्चास्याश्चिक्लीतो गृहरक्षकाः ॥” इति । 
 1 
 2 
 2 
@@ -1531,7 +1578,7 @@ S चिक्कीतं श्रीगृहद्वास्थं तत�
 ॥१२॥ 
 आर्द्रा पुष्करिणीं यष्टिं पिङ्गलां पद्ममालिनीम् । चन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो ममाऽऽवह ॥ १३ ॥ 
 1 
-आर्द्रा - दयार्द्रहृदयतया तापत्रयतप्तान् प्राणिनो दृष्ट्वा दूयमानचेत- स्तया तान् स्त्रकटाक्षामृतैरभिवर्षन्तीम् । पुष्करिणीं - पुष्करवतीं; श्रीनिलयकर्णिकोदरनिवासिनीं ''श्रीनिलयधृतकरकमलवरयुत" इत्यादि तन्मन्त्रे । यष्टिं यजिक्रियास्वरूपां परमयागभूतां; यष्टव्यां वा । पिङ्गलां -- भगवच्छायानवधारणीयशीतलमनोहराह्रादकरदिव्यवर्णाम् । पद्ममालिनी- दिव्यरूपोद्धतपद्ममालालंकृतां; “श्रीनिलयमालाधारिणी" इति तन्मन्त्रे | चन्द्रां हिरण्मयीं इत्यादेः पूर्ववत् योजना । अत्रापि जातवेदः शब्देन श्रियः पतिमेव संबोधयति ॥ 
+आर्द्रा - दयार्द्रहृदयतया तापत्रयतप्तान् प्राणिनो दृष्ट्वा दूयमानचेतस्तया तान् स्त्रकटाक्षामृतैरभिवर्षन्तीम् । पुष्करिणीं - पुष्करवतीं; श्रीनिलयकर्णिकोदरनिवासिनीं ''श्रीनिलयधृतकरकमलवरयुत" इत्यादि तन्मन्त्रे । यष्टिं यजिक्रियास्वरूपां परमयागभूतां; यष्टव्यां वा । पिङ्गलां -भगवच्छायानवधारणीयशीतलमनोहराह्रादकरदिव्यवर्णाम् । पद्ममालिनीदिव्यरूपोद्धतपद्ममालालंकृतां; “श्रीनिलयमालाधारिणी" इति तन्मन्त्रे | चन्द्रां हिरण्मयीं इत्यादेः पूर्ववत् योजना । अत्रापि जातवेदः शब्देन श्रियः पतिमेव संबोधयति ॥ 
 आदरातिशयेनैव पूर्वोक्तामविशेषतः । 
 चतुर्दशे पुनः प्राह द्वयं तत्सर्वरक्षकम् ॥ 
 चिक्लीते-ख. 
@@ -1539,7 +1586,7 @@ S चिक्कीतं श्रीगृहद्वास्थं तत�
 ६५ 
 आर्द्रा पुष्करिणीं पुष्टिं सुवर्णा हेममालिनीम् । सूर्यां हिरण्मयीं लक्ष्मीं जातवेदो ममाऽऽवह ॥ १४ ॥ 
 अत्र 'पुष्टिं ' 'सुवर्णां' 'सूर्यां' 'हेममालिनीं' इति एतन्मात्रो विशेषः । अन्यत्सर्वं पूर्ववत् ॥ 
-पुष्टिं–अखिलसमृद्धिरूपाम् । सुवर्णा - अनुकूल * प्रतिकूलभीष- णरमणीयाप्राक्कृतदिव्यरूपाम् । सूर्यां - सर्वेश्वरवत् सकलचेतनाचेतन- व्यापनभरणनियमनशीलां । सुष्ठु ईरयन्ती इति सूर्या; ताम् । "" राज- सूयसूर्य" इत्यादिना निपातः । "" सूर्य आत्मा जगतस्तस्थुषश्च" इति । पुष्टिमिति प्राप्यत्वमुक्तम् । सुवर्णामिति प्रापकत्वमिति 
+पुष्टिं–अखिलसमृद्धिरूपाम् । सुवर्णा - अनुकूल * प्रतिकूलभीषणरमणीयाप्राक्कृतदिव्यरूपाम् । सूर्यां - सर्वेश्वरवत् सकलचेतनाचेतनव्यापनभरणनियमनशीलां । सुष्ठु ईरयन्ती इति सूर्या; ताम् । "" राजसूयसूर्य" इत्यादिना निपातः । "" सूर्य आत्मा जगतस्तस्थुषश्च" इति । पुष्टिमिति प्राप्यत्वमुक्तम् । सुवर्णामिति प्रापकत्वमिति 
 विशेषः ॥ 
 अन्तिमेनाद्यसूक्तार्थतात्पर्यातिशयात् पुनः । अनन्यगामिनीं देवीं संनियच्छन्नियच्छति ॥ 
 तां म आवह जातवेदो लक्ष्मीमनपगामिनीम् । यस्यां हिरण्यं प्रभृतं गावो दास्योऽश्वान् विन्देयं पुरुषानहम् ॥ १५ ॥ 
@@ -1549,11 +1596,11 @@ S चिक्कीतं श्रीगृहद्वास्थं तत�
 त्रिष्टुः - क. 
 * ममावद- 
 ६६ 
-अयमत्र विशेषः । प्रभृतं - पूर्वोक्त कुप्याकुप्यजीवधनदासीदासा- दिकमशेषधनजातं यस्यां प्रभूतं प्रधानेश्वरेश्वर्यां प्रणिपातप्रसन्नायामखिल- लोकनन्दिन्यां अस्मज्जनन्यां, प्रभृतं - निरवधिकातिशयम् । विन्देयं- लभेयम् | तां-सर्वप्रदानपर्याप्तसमृद्धिमतीं करुणास्रानतमुखीं सर्वेश्वरेश्वरीं श्रियं खचरणारविन्दपरिचर्यैक विनोदे' मयि; जातवेदः - श्रियः पते ! अनपगामिनीं - अन्यत्र सर्वत्राप्यपगमनशंकारहिता, (तां) यथा तथा स्वज्ञानबलशक्तिक्षमादयासौहार्दादिसर्व कल्याणगुणैस्तव दास्यैकरसे मयि संनिधापय ॥ 
+अयमत्र विशेषः । प्रभृतं - पूर्वोक्त कुप्याकुप्यजीवधनदासीदासादिकमशेषधनजातं यस्यां प्रभूतं प्रधानेश्वरेश्वर्यां प्रणिपातप्रसन्नायामखिललोकनन्दिन्यां अस्मज्जनन्यां, प्रभृतं - निरवधिकातिशयम् । विन्देयंलभेयम् | तां-सर्वप्रदानपर्याप्तसमृद्धिमतीं करुणास्रानतमुखीं सर्वेश्वरेश्वरीं श्रियं खचरणारविन्दपरिचर्यैक विनोदे' मयि; जातवेदः - श्रियः पते ! अनपगामिनीं - अन्यत्र सर्वत्राप्यपगमनशंकारहिता, (तां) यथा तथा स्वज्ञानबलशक्तिक्षमादयासौहार्दादिसर्व कल्याणगुणैस्तव दास्यैकरसे मयि संनिधापय ॥ 
 ॥१५॥ 
-एवमेतत्सूक्तोक्तसकलार्थजातं जानतां अनेनार्चनहोमजपतर्प- णादिकं कुर्वतां तस्याः प्रसन्नपावनकान्ति शान्त्याकरवदनारविन्दनिवे- शितमनोनयनबुद्धीनां तच्चरणारविन्दभजनयजनमनन स्मरणकीर्तनवन्दना- दिपरममङ्गलाचरणानां भगवत्पादां भोजविन्यस्तसमस्तभराणामनन्यभावा- नां तच्छरणवरणचारित्रचरणानां पुरुषाणामैहिकमामुष्मिकं वा "भोगजातं साक्षात्परमपदाधिष्ठातृभूतपरमपुरुषचरणारविन्द नित्यकैङ्कर्यरसिकपरमसू रि—परिषन्महिष्ठतादिकमपि सकलं सुलभमिति सकलश्रुतिस्मृतीतिहास- पुराणसिद्धान्तः ॥ 
-1 विनोदने- क. 2 शान्त्या कार - क. 3 तच्छरणवरणपवित्रचरित्राणां-घ. 
-चारित्रपराणां ऐहिकामुष्मिकं वा पुरुषार्थ जातं परमपद - ख. नित्यैकरसिक-ख. परिषन्मनीषितादिकमपि सुलभमिति सकलश्रुतिस्मृती- तिहासादिसिद्धान्तः - स्व. 
+एवमेतत्सूक्तोक्तसकलार्थजातं जानतां अनेनार्चनहोमजपतर्पणादिकं कुर्वतां तस्याः प्रसन्नपावनकान्ति शान्त्याकरवदनारविन्दनिवेशितमनोनयनबुद्धीनां तच्चरणारविन्दभजनयजनमनन स्मरणकीर्तनवन्दनादिपरममङ्गलाचरणानां भगवत्पादां भोजविन्यस्तसमस्तभराणामनन्यभावानां तच्छरणवरणचारित्रचरणानां पुरुषाणामैहिकमामुष्मिकं वा "भोगजातं साक्षात्परमपदाधिष्ठातृभूतपरमपुरुषचरणारविन्द नित्यकैङ्कर्यरसिकपरमसू रि—परिषन्महिष्ठतादिकमपि सकलं सुलभमिति सकलश्रुतिस्मृतीतिहासपुराणसिद्धान्तः ॥ 
+1 विनोदनेक. 2 शान्त्या कार - क. 3 तच्छरणवरणपवित्रचरित्राणां-घ. 
+चारित्रपराणां ऐहिकामुष्मिकं वा पुरुषार्थ जातं परमपद - ख. नित्यैकरसिक-ख. परिषन्मनीषितादिकमपि सुलभमिति सकलश्रुतिस्मृतीतिहासादिसिद्धान्तः - स्व. 
 ६७ 
 "यतीन्द्रमाहानसिकात् प्रणतार्तिहरात् गुरोः । सत्संप्रदायसिद्धोऽर्थः श्रीसूक्तस्य विनिश्चितः ॥ * श्रीमहालक्ष्मिदासीये सर्वशास्त्रार्थनिर्णये । 
 श्रीमच्छीसूक्तभाप्येऽस्मिन् रमध्वं भूसुरोत्तमाः ॥ 
