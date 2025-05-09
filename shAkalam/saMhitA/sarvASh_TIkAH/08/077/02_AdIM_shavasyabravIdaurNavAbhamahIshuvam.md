@@ -140,6 +140,15 @@ _________
 इन्द्रेण पृष्टा **शवसी** माता अनन्तरमेव एनमिन्द्रम् **अब्रवीत्** । किमिति उच्यते । **और्णवाभमहीशुवम्** एतन्नामानावसुरौ तिष्ठतः । तावुक्तावन्ये च तादृशा हे **पुत्र** तव **निष्टुरः** निस्तारणीयाः **सन्तु** इति ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Then shavasI said to him  
+they are aurNavAbha and ahIshuva;  
+O son, they must be the ones you must fell.
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 _________

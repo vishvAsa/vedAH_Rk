@@ -162,6 +162,14 @@ _________
 अयमिन्द्रः **जज्ञानो** **नु** जायमान एव **शतक्रतुः** बहुकर्मा **इति** इत्थं **मातरं** स्वजननीं विपृच्छति । किमिति । **क** **उग्राः** उद्गूर्णबला लोके । **के** **ह** **श्रृण्विरे** श्रूयन्ते गुणैः । के विश्रुता इत्यर्थः ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Barely born, he of hundred powers  
+Began to question his mother thus:  
+Who are these fierce ones? Indeed, who are notorious?
+</details>
+
+
 <details><summary>Wilson</summary>
 
 _________
