@@ -5,7 +5,7 @@ unicode_script: devanagari
 ---
 +++(तैत्तिरीयब्राह्मणे पादशो विभागः। ऋग्वेदे त्व् अर्धशो यथासाधारणम्।)+++
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/01_shraddhayAgniH_samidhyate.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/01_shraddhayAgniH_samidhyate.md">
 <details open><summary><h2>०१ श्रद्धयाग्निः समिध्यते ...{Loading}...</h2></summary>
 
 
@@ -14,7 +14,7 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/02_priyaM_shraddhe.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/02_priyaM_shraddhe.md">
 <details open><summary><h2>०२ प्रियं श्रद्धे ...{Loading}...</h2></summary>
 
 
@@ -23,7 +23,7 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/03_yathA_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/03_yathA_devA.md">
 <details open><summary><h2>०३ यथा देवा ...{Loading}...</h2></summary>
 
 
@@ -32,19 +32,16 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/04_shraddhAM_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/04_shraddhAM_devA.md">
 <details open><summary><h2>०४ श्रद्धां देवा ...{Loading}...</h2></summary>
 
 
 श्र॒द्धां दे॒वा यज॑माना वा॒युगो॑पा॒ उपा॑सते ।  
 श्र॒द्धां हृ॑द॒य्य१॒॑याकू॑त्या श्र॒द्धया॑ विन्दते॒ वसु॑ ॥
 
--  श्र॒द्धान् दे॑वा॒ यज॑मानाः । वा॒युगो॑पा॒ उपा॑सते ।  
-श्र॒द्धाꣳ हृ॑द॒य्य॑या ऽऽकू॑त्या । श्र॒द्धया॑ हूयते ह॒विः ।  
-
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/05_shraddhAM_prAtarhavAmahe.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/05_shraddhAM_prAtarhavAmahe.md">
 <details open><summary><h2>०५ श्रद्धां प्रातर्हवामहे ...{Loading}...</h2></summary>
 
 
@@ -53,7 +50,3 @@ unicode_script: devanagari
 
 </details>
 </div>
-
-श्र॒द्धा दे॒वानधि॑ वस्ते । श्र॒द्धा विश्व॑म् इ॒दञ् जग॑त् ।  
-श्र॒द्धाङ् काम॑स्य मा॒तर॑म् । ह॒विषा॑ वर्धयामसि ।  
-+++(इयम् ऋक् तैत्तिरीयब्राह्मणे ऽस्ति। )+++
