@@ -367,8 +367,10 @@ XV
 ॥ श्रीमते रामानुजाय नमः ॥
 
 
-कलये कमलां कल्यां कल्याणानामवाप्तये । 
-विमलं सूक्तमस्यास्तद्भाप्यकर्तृश्च देशिकान् ।। 
+**कलये** कमलां कल्यां  
+कल्याणानाम् **अवाप्तये** । 
+विमलं सूक्तम् अस्यास्, तद्-  
+भाष्य-कर्तॄंश् च देशिकान् ।। 
 
 विदितमेवैतदार्याणां, आर्यमिश्राः, यत् लक्ष्मीवीक्षणं यतोमुखं चिचलिषेत्, तत्रैव रतिमतिसरखतीधृतिसमृद्धिसिद्धिशोभादयः सर्वाः संपदोऽहंपूर्विकया कूलङ्कषाः परिवहन्तीति । तत्साधनभूतं तत्समाश्रयणं च तद्वैभवतत्त्वज्ञानविश्वासाद्यधीनं तदर्थं प्राधान्येन श्रीसूक्त - मेवापेक्षते; तदुपबृंहणतया च स्मृतीतिहासपुराणसंहितासंप्रदायान् । सामान्यतश्च सर्वेषां मन्त्राणामर्थतत्वज्ञानावश्यंभावः, तत एव प्रकृतभाष्यारंभ इति चास्मिन् ग्रन्थ एव सप्रमाणमुपपादितम् । एवमवश्यापेक्षिते अर्थज्ञाने, मन्दमतीनामस्मादृशां स्वतस्तदसंभवे च निस्संशये, व्याख्यानापेक्षा नैवोपपादनीया ॥ 
 तत्रामुष्य भाष्यस्य भाषितारः पूर्वदशायां मतान्तरप्रवर्तकतयाऽवस्थानेऽपि श्रीमद्भट्टपराशरपादकटाक्षामृतलहर्यभिषेकपरिक्षालितसकलकल्मषाः, तदैव मतान्तरपरित्यागेन परमप्रामाणिकाः, तदैव संन्यासस्वीकारेण परमविरक्ताः श्रीभट्टपादेभ्य एव विदितवेद्याः स्ववागमृतासारपूरितभुवनत्रयत्वेन प्रज्ञाताः, 
@@ -386,13 +388,28 @@ s
 संप्रोक्ष्य मन्त्राचमनं' इत्यारभ्य, “गुनी कृ” 
 B 
 xviii 
-इत्यन्तवाक्यपर्यालोचने भट्टचरणान्तेवासिनः नित्वग्रन्थनिर्मातारः 'नञ्जीयर् ' योगिन एव 'पेरिय जीयर' (@u ) इत्यप्यभिघीयन्ते इत्यवगम्यते । अस्मिन्नधिकारद्वयेऽपि यथायोगं भगवद्यामुनाचार्य-भगवद्भाष्यकार-वह्निवंशेश्वर-श्रीवत्सचिह्नमिश्र भट्टपाद निर्देशानन्तर निर्देशो ‘नञ्जीयर्' योगिनामेव औचित्येनापि सिद्ध्यति इत्यपि संप्रदायविदां सुगममेव । एभिश्च 'शुम्भाणं L&&&Ca_GsLG bjguri ciliaon♚♚mi" इति सिद्धोपायशोधनवाक्येन किडा - म्बि आच्चान्' (@_rio19 शुभगं ) संज्ञितयतिराज माहानसिकगुरुभ्यः कतिपयार्थाः श्रीतत्त्वसंबन्धिनः श्रुताः इति स्फुटम् । भाष्ये “ यतीन्द्रमाहानसिकात् प्रणतार्तिहरात् गुरोः । 
-सत्संप्रदायसिद्धोऽर्थः श्रीसूक्तस्य विनिश्चितः || ” 
-கட 
-इत्युपसंहारपद्यात् त एवेम इति निश्चीयन्ते । 
-" श्रीमहालक्ष्मिदासीये सर्वशास्त्रार्थनिर्णये । श्रीमच्छीसूक्तभाष्येऽस्मिन् रमध्वं भूसुरोत्तमाः || ” 
-अत्र च 
-इति तदनन्तरश्लोके महालक्ष्मिदासत्वेनैतद्भाप्यकर्तृभिः नामनिर्देशनन्तरेणात्माऽनुसन्धीयते । तदप्युचितमेव एषां निरतिशयस्य लक्ष्मीचरणारविन्दप्रावण्यस्य भगवद्विषयग्रन्थेष्ववगमात् भट्टपादशिष्याणां तथा निर्देशस्य न्याय्यत्वाच्च । तेषां हि मैथिलजनभावः श्रीगुणरत्नकोशादिषु व्यक्तः । 
+इत्यन्तवाक्यपर्यालोचने भट्टचरणान्तेवासिनः नित्वग्रन्थनिर्मातारः 'नञ्जीयर् ' योगिन एव 'पेरिय जीयर' (@u ) इत्यप्यभिघीयन्ते इत्यवगम्यते । अस्मिन्नधिकारद्वयेऽपि यथायोगं भगवद्यामुनाचार्य-भगवद्भाष्यकार-वह्निवंशेश्वर-श्रीवत्सचिह्नमिश्र भट्टपाद निर्देशानन्तर निर्देशो ‘नञ्जीयर्' योगिनामेव औचित्येनापि सिद्ध्यति इत्यपि संप्रदायविदां सुगममेव । एभिश्च 'शुम्भाणं L&&&Ca_GsLG bjguri ciliaon♚♚mi" इति सिद्धोपायशोधनवाक्येन किडा - म्बि आच्चान्' (@_rio19 शुभगं ) संज्ञितयतिराज माहानसिकगुरुभ्यः कतिपयार्थाः श्रीतत्त्वसंबन्धिनः श्रुताः इति स्फुटम् । भाष्ये 
+
+> “यतीन्द्र-माहा-नसिकात्  
+प्रणतार्तिहराद् गुरोः । 
+सत्-संप्रदाय-सिद्धोऽर्थः  
+श्री-सूक्तस्य विनिश्चितः ॥ ” 
+
+इत्य् उपसंहार-पद्यात् त एवेम इति निश्चीयन्ते । 
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+अन्योऽपि स्याद् एव नऩ्-जीयर्-सतीर्थः।  
+</details>
+
+
+> "श्रीमहालक्ष्मिदासीये  
+सर्वशास्त्रार्थनिर्णये ।  
+श्रीमच्-छ्री-सूक्त-भाष्येऽस्मिन्  
+रमध्वं भूसुरोत्तमाः ॥ ” 
+
+"अत्र च" इति तदनन्तरश्लोके महालक्ष्मिदासत्वेनैतद्-भाष्यकर्तृभिः नामनिर्देशान्तरेणात्माऽनुसन्धीयते ।  
+तदप्युचितमेव एषां निरतिशयस्य लक्ष्मीचरणारविन्दप्रावण्यस्य भगवद्विषयग्रन्थेष्ववगमात् भट्टपादशिष्याणां तथा निर्देशस्य न्याय्यत्वाच्च । तेषां हि मैथिलजनभावः श्रीगुणरत्नकोशादिषु व्यक्तः । 
 2 
 भगवद्गुणदर्पणे लक्ष्मीप्रभावपरत्वेन तदुपात्ताः श्रद्धासूक्तमेधासूक्तादयश्चात्र भाष्ये तत्परतया सविस्तरमुपपाद्यन्ते ॥ 
 xix 
@@ -401,9 +418,21 @@ xix
 आहुः । 
 ऐककण्ठ्यमशेषाणां आगमानां भवत्विति ॥ " 
 इत्यनुद्यमानोऽत एव पुरोवादसापेक्षः पक्षोऽस्मिन् भाष्ये नवम्याः 'गन्धद्वारां' इत्यृचो व्याख्याने, “ एवं सर्वभूतेश्वरत्ववचनसाम्यात् द्वयोरपि मुख्येश्वरत्वस्य दुरपहृवत्वेन सर्वागमानामीश्वरव्यक्तयैक्यपरत्वेऽनुपपन्ने सर्वागमानामैककण्ठ्यं अन्योन्येच्छाविघातादिनिवृत्तौ तात्पर्यात् उपपन्नं" इत्यादिवाक्ये शब्दतोऽर्थतश्च प्रत्यभिज्ञायमानोऽयमेव पुरोवाद इति स्थापयति । अत आचार्यापेक्षया पूर्वैः, श्रीभट्टपादशिष्यैः, यतीन्द्रमाहानसिकेभ्योऽपि श्रुतार्थैः, लक्ष्मीचरणप्रावण्यशालिभिः परमगुरुभिः प्रणीतमिदं भाप्यं ‘नञ्जीयर् भाप्यं' इत्येव यथाप्रसिद्धि न्याय्यमङ्गीकर्तु इति विशदतममेवौचित्यवेदिनाम् ॥ 
-'श्रीरङ्गनाथमुनिविरचितम्' इति अन्ते दृश्यमानवाक्ये 'रङ्गनाथमुनिः ' इति श्रूयमाणं नामधेयमप्यदसीयमेव संभाव्यते ; तेषां गुरुपरम्परावैभवादिषु नामान्तराप्रसिद्धेः । यद्यपि श्रीपाञ्चरात्ररक्षादिपरामर्शे प्रकृतानामाचार्याणां नारायणमुनय इति नाम प्रतिभाति, तथापि भट्टपादचरणारविन्दसंश्रयणात्पूर्वमेव संन्यासदशायां तत्स्वयमेव स्वीकृतं, संन्यासाश्रमदातृभिर्दत्तं वा नाम स्यात् । आचार्यसमाश्रयणदशायां नामसंस्कारे भट्टपादैरिदं दत्तं स्यात् । उभयमपि समीचीनतया पूर्वव्यवहार - विषयतयाऽप्यवतिष्ठेत वादिहंसाम्बुदगुरवरपितॄणां श्रीरङ्गराजगुरवः 
+
+'श्रीरङ्गनाथमुनिविरचितम्' इति अन्ते दृश्यमानवाक्ये  
+'रङ्गनाथमुनिः ' इति श्रूयमाणं नामधेयम् अप्य् अदसीयमेव संभाव्यते ;  
+तेषां गुरुपरम्परा-वैभवादिषु नामान्तराप्रसिद्धेः ।  
+यद्यपि श्रीपाञ्चरात्ररक्षादिपरामर्शे प्रकृतानामाचार्याणां नारायणमुनय इति नाम प्रतिभाति,  
+तथापि भट्ट-पाद-चरणारविन्द-संश्रयणात् पूर्वम् एव  
+संन्यास-दशायां तत् स्वयमेव स्वीकृतं,  
+संन्यासाश्रम-दातृभिर् दत्तं वा नाम स्यात् ।+++(5)+++  
+आचार्यसमाश्रयणदशायां नाम-संस्कारे भट्टपादैर् इदं दत्तं स्यात् ।  
+उभयमपि समीचीनतया पूर्वव्यवहार - विषयतयाऽप्यवतिष्ठेत वादिहंसाम्बुदगुरवरपितॄणां श्रीरङ्गराजगुरवः 
 XX 
-पद्मनाभाचार्याः इति च नामद्वयवत् । इदं हि नामद्वयं वैष्णवकुले लब्धजन्मद्वयानुबन्धिभ्यां नामकरणनामसंस्काराभ्यामागतमिति संभाव्यते । व्यवह्नियते चेदं नामद्वयं न्यायकुलिशतदनुसन्धानपद्यादिषु । नामदानादिषु चानेकनामदानमपि प्रमाणेष्वाचारेषु च दृश्यत एव । तथा वा दृष्टान्तदाष्टन्तिकयोः स्यात् । इत्थं च एषामेव 'रङ्गनाथमुनिः ' 'नारायणमुनिः' इति च नामद्वये न कोऽपि विरोधः । अपि च श्रीरंगनाथचरणतन्नामैकजीवितैः श्रीभट्टपादैः तस्यैव नाम्नोऽनुग्रहौचित्यात् तन्नामवहनस्य तद्दास्य चिह्नत्वेन एभिरपि तस्य नाम्नो वहनस्यौचित्याच्च । भट्टपादानामपि हि ‘रङ्गनाथ' इत्यभिधानरत्नं भगवद्गुणदर्पणे " श्री श्रीरङ्गपतिप्रसादतृषया श्रीरंगनाथाभिध" इत्यारंभ श्लोके स्पष्टम् । "वेदान्त्याख्यमुनिं” “नमो वेदान्तवेद्याय " इत्यादि तु पूर्वावस्थातो ऽविरोधादनुवर्तमानं किंचिदिव वित्रियमाणं च नाम स्यात् इति मन्महे ॥ 
+पद्मनाभाचार्याः इति च नामद्वयवत् । इदं हि नामद्वयं वैष्णवकुले लब्धजन्मद्वयानुबन्धिभ्यां नामकरणनामसंस्काराभ्यामागतमिति संभाव्यते । व्यवह्रियते चेदं नामद्वयं न्यायकुलिशतदनुसन्धानपद्यादिषु ।  
+नामदानादिषु चानेक-नामदानम् अपि प्रमाणेष्वाचारेषु च दृश्यत एव । तथा वा दृष्टान्त-दार्ष्टन्तिकयोः स्यात् । 
+
+इत्थं च एषामेव 'रङ्गनाथमुनिः ' 'नारायणमुनिः' इति च नामद्वये न कोऽपि विरोधः । अपि च श्रीरंगनाथचरणतन्नामैकजीवितैः श्रीभट्टपादैः तस्यैव नाम्नोऽनुग्रहौचित्यात् तन्नामवहनस्य तद्दास्य चिह्नत्वेन एभिरपि तस्य नाम्नो वहनस्यौचित्याच्च । भट्टपादानामपि हि ‘रङ्गनाथ' इत्यभिधानरत्नं भगवद्गुणदर्पणे " श्री श्रीरङ्गपतिप्रसादतृषया श्रीरंगनाथाभिध" इत्यारंभ श्लोके स्पष्टम् । "वेदान्त्याख्यमुनिं” “नमो वेदान्तवेद्याय " इत्यादि तु पूर्वावस्थातो ऽविरोधादनुवर्तमानं किंचिदिव वित्रियमाणं च नाम स्यात् इति मन्महे ॥ 
 अत एतान् गुरूनधिकृत्य, " 
 'Bi@mo न ஜீயர்;' இத்திருநாமம் சுருங்கிச் சுருங்கி 'நஞ்ஜீயர்' என aurjin” इति श्रीतत्वनिर्णयकारोक्तिरपि समूलैव स्यादिति ' इत्यनयोः संस्कृतद्रमिड- 
 संभाव्यते ; ' रङ्गनाथः ' 'Bib@ 
@@ -471,95 +500,16 @@ Ranganatha- we shall hereafter refer to the Vedantin by this name-remained at Ka
 
 Being a devoted disciple of Bhattar, he always attended on him, and the enlightening conversations that the learned master and the scholarly disciple had, are handed down to us as aitihyam in the Bhagavad vishaya literature. So we find that Ranganatha, Narayana, and Nanjiyar are the names of the Vedantin who was also known as Madhavasuri. 
 
-Being a good scholar Ranganatha-Narayana-Nanjiyar soon mastered the songs of the Alvars known as the Divya Prabandha,' and was then entrusted by Bhattar with the task of writing a commentary on them. So we have his sweet and short commentary on Tiru-vai-moli of Nammalvar known as 9000 padi' (i.e., in 9000 [[XXX]] units) which is the source of all the commentaries that came later, especially the masterly 36000 padi' or 'Idu' of Nampillai. He has commented upon "Tiruppalli-elucci' and Kanninun-sirut-tambu' also. A work called 'Nityam,' dealing with the daily duties of a Vaishnava as laid down in the Panca Ratra Samhitas, is attributed to him; but we have it only in fragments in the form of quotations in the Rahasya-Traya-Sara and Panca-Ratra-Raksha of Sri Venkatanatha. 
+Being a good scholar Ranganatha-Narayana-Nanjiyar soon mastered the songs of the Alvars known as the Divya Prabandha,' and was then entrusted by Bhattar with the task of writing a commentary on them. So we have his sweet and short commentary on Tiru-vai-moli of Nammalvar known as 9000 padi' (i.e., in 9000 [[XXX]] units) which is the source of all the commentaries that came later, especially the masterly 36000 padi' or 'Idu' of Nampillai. He has commented upon "Tiruppalli-elucci' and Kanninun-sirut-tambu' also. 
+
+A work called 'Nityam,' dealing with the daily duties of a Vaishnava as laid down in the Panca Ratra Samhitas, is attributed to him; but we have it only in fragments in the form of quotations in the Rahasya-Traya-Sara and Panca-Ratra-Raksha of Sri Venkatanatha. 
 
 Sri Sukta Bhashya is another work of this Ranganatha Muni. He learnt the fundamental principles of the doctrine of Sri from Pranatartihara, a direct disciple of Ramanuja, and a contemporary of Bhattar who was his chief master. That Nanjiyar wrote a Bhashya on Sri Sukta is well-known and accepted by all without contradiction. That the work we are bringing out now is his Sri Sukta Bhashya, and that Ranganatha Muni and Nanjiyar are identical persons can be easily seen by the discerning reader. We shall also establish the same with evidences, both internal and external. 
 
-IDENTITY OF THE BHASHYAKARA. 
-
-All the Guruparamparas uniformly declare that Nanjiyar has written a Bhashya on Sri Sukta. The Rahasya-Traya-Sara of Sri Venkatanatha corroborates this. After discussing the greatness and nature of Lakshmi in great detail in Chapter XXIII of that work, Venkatanatha [[xxxi]]concludes that Periya Jiyar also has adduced the necessary arguments in the Sri Sukta Bhashya.\* The introduction in the beginning of the Bhashya and the long discussion in the Bhashya of the ninth verse amply corroborate this statement. 
-
-That the Periya Jiyar\' here mentioned is Nanjiyar is known to all acquainted with the Vaishnava hierarchy and can be seen from another passage in the same book. It says: Periya Jiyar wrote a Nityam based on those of Ramanuja and Bhattar which he began with a salutation to Bhattar his Guru. The author of this Nityam should be Nanjiyar; for he was the only person who was a disciple of Bhattar, a good scholar, teaching philosophy to others, and the author of some books on philosophy. 
+IDENTITY OF THE BHASHYAKARA.  
+see [here](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/ajJNAta-gotrAH/periya-jIyar_ranga-nArAyaNa-muniH/articles/nan-jIyar-paxaH)
 
 
-
-(( 
-இத்யாதியாலே 
-ஸ்ரீஸுஅக்த பாஷ்யத்திலே பெரிய ஜீயரும் அபேக்ஷிதார்த்தங்களெல்லாம் உபபாதித்தார் (ரஹஸ்யத்ரய வாரம் 23. ஸித்தோபாயசோதனாதிகாரம்) பெரிய ஜீயரும், श्री पराशरभट्टार्यचरणौ संश्रयेमहि " Sev ஸமப்ரதாய - விசேஷ -ஞாபனார்த்தமாக குருநமஸ்காராதிகளைப் பண்ணி, भगवच्छरगांभोजपरिचर्याविधिक्रमं । एकान्तिमिरनुष्ठेयं नित्यं समभिदध्महे 
-QFL, आपो हीत्यादिभिर्मन्त्रैः वाचकैः परमात्मनः । संप्रोक्ष्य 
-मन्त्राचमनं मन्त्रैस्तत्प्रतिपादकैः ॥ 
-antena: ferrenei facief Tenco: | प्रतिपादिकया विष्णोः सावित्र्या तं जपेत् हरिम् ॥ 
-ध्यायन् जप्त्वोपतिष्ठेत तमेव पुरुषोत्तमं । 
-नारायणात्मकान् देवान् ऋषीन् सन्तर्पयेत् पितृन् ॥ 
-என்று அருளிச்செய்தார்.(ரஹஸ்ய த்ரய ஸாரம். XXIX சரமச்லோ காதிகாரம்) 
-
-[[xxxii]] 
-
-Again the order in which Venkatanatha quotes the Acaryas also proves that Periya Jiyar is Nanjiyar. The order is: Yamuna, Ramanuja, Kurattalvan, Bhattar and Periya Jiyar. The place of Nanjiyar is after Bhattar and there was no one immediately after Bhattar and before Venkatanatha who was a scholar and a Sannyasin, and the author of a Nitya and Sri Sukta Bhashya. 
-
-That this Periya Jiyar was also known as Narayana Muni can be seen from the PancaRatra-Raksha of Desika where he quotes the same slokas†, attributed in the Rahasya - trayasara to Periya Jiyar, under the name of Narayana Muni and speaks of the latter as following the footsteps of Parasara Bhattar. 
-
-
-
-cf. Panca Ratra Raksha, printed in Vyavahara Tarangini Press 1880 A. D. in Grantha script :p. 31 : 
-
-अत एव हि तदुभयानुसारिभिः (वङ्गिवंशेश्वरपर राशर भट्टारकानुसारिभिः) नारायणमुनिभिरपि पञ्चकालकल्पनया तत्तत्कालानुष्ठेयानि यथाक्रमं प्रपञ्चितानि । तथा हिभगवच्चरणांभोजपरिचर्याविधिक्रमम् । एकान्तिमिरनुष्ठेयं नित्यं समभिदध्यमहे ॥” 
-
-p. 65 संगृहीतं नारायणमुनिभिः- 
-
-> आपो हीत्यादिभिर्मन्त्रैः वाचकैः परमात्मनः । संप्रोक्ष्य मन्त्राचमनं मन्त्रैस्तत्प्रतिपादकैः ॥ 
-नारायणात्मकान् देवान् ऋषीन् संतर्पयेत् पितॄन् ॥ 
-
-[[xxxiii]] 
-
-The opening stanza of Sri Sukta Bhashya is a salutation to Bhattar : श्रीपराशरभार्यः श्रीरङ्गेशपुरोहितः, " It is the tradition among the Vaishnavaites to salute their immediate Acaryas in the beginning of their works and the opening verse will generally be adopted as the Tanian' of that Acarya. Cf. ' यो नित्यभच्युतपदांबुजयुग्म'-which is the Mangala sloka of Sri Vaikuntha Stava of Sri Vatsanka Misra, a disciple of Ramanuja and which is now Ramanuja'stanian'; "m: नमउक्तिमधीमहे " which is the Mangala Sloka of Sri Rangaraja Stava of Bhattar, the son and disciple of Kurattalvan and which is now the latter's 'tanian.' So the Sloka ' श्रीपराशरभट्टार्य ' composed by Nanjiyar, the disciple, as the Mangala Sloka of Sri Sukta Bhashya is the 'tanian' of Bhattar. 
-
-There is another statement of Venkatanatha in chapter XXIII of his Rahasya-Traya-Sara:  
-
-Nanjiyar heard from Accan (a direct disciple of Ramanuja) what Sri Ramanuja had said (regarding Sri) and summarised it: Wherever the Lord is spoken of, there Lakshmi also is spoken of."\*  
-Sri Sukta Bhashya is the only work of Nanjiyar in which he has dealt with Sri exclusively and in great detail, and the internal evidence of the Bhashya also corroborates this. For these words of Venkatanatha are almost a translation of the concluding stanza of Sri Sukta Bhashya: 
-
-“यतीन्द्रमाहानसिकात्  
-प्रणतार्तिहरात् गुरोः ।  
-सत्संप्रदायसिद्धोऽर्थः  
-श्रीसूक्तस्य विनिश्चितः || ” 
-
-எம்பெருமானைச் சொன்ன இடத்திலே பிராட்டியையும் சொல்லிற்றாம் 
-என்று தொடங்கி, உடையவர் அருளிச்செய்த வார்த்தையை ஆச்சான் பக்கலிலே கேட்டு நஞ்ஜீயர் ங்ைகிரஹித்தார்.(ரஹஸ்யத்ரயஸாரம்XXIII ஸித்தோபாய சோதனாதிகாரம்.) 
-
-[[XXXiv]] 
-
-[Sri Sukta has been interpreted (by us) according to the correct tradition as we learnt it at the feet of (our) master Pranatartihara, the Mahanasika of Sri Ramanuja.] 
-
-It is well-known that Pranatartihara attended to the cooking of the food of Ramanuja and hence his name Mahanasika' (cook); and he was also known as Kidambi Accan' and 'Madaippalli Accan.' So from these two we have to conclude that Nanjiyar and Ranganatha Muni are different names of the same person who learnt all these truths about Lakshmi from Pranatartihara, the Accan, who in his turn, learnt them from Ramanuja. 
-
-The order in which the Bhashyakara quotes authorities also shows that our Ranganatha Muni is none other than Nanjiyar. When he cites authorities in support of some statement of his, he begins with Sruti and Smriti and then proceeds to the work of the Acaryas. There the order is Yamuna, Ramanuja, Sri Vatsanka Misra and Bhattar. Himself being the immediate disciple of the last, he stops with Bhattar. Venkatanatha, who is later than Ranganatha Muni, alias Nanjiyar, goes one step further and cites Nanjiyar also, as Periya Jiyar or Nanjiyar in Tamil works and as Narayana Muni in Sanskrit works. Ranganatha Muni (alias Nanjiyar) agrees entirely with his master Bhattar in his concept of Sri and the latter's view is known to us [[XXXV]] from his Sri Gunaratnakosa' and his 'Lakshmikalyana.' (Three slokas are all that we have of Bhattar's play Lakshmi kalyana and they are had in the three works of Venkatanatha: Rahasyatraya-sara XXIII, Sara-sara. ii, and Tatparya candrika or the gloss on Gita Bhashya XVIII. 14.) 
-
-There is a slight indication in the Bhashya even in the manner of citing the names of the earlier Acaryas which corroborates our conclusion. Yamuna, Ramanuja, and Sri Vatsanka Misra he mentions only with the plural suffix out of respect whereas he refers to Bhattar his immediate Acarya with honorific and plural suffixes (भट्टपराशरपादैः). 
-
-Further in the concluding stanza, the author of the Bhashya styles himself as श्रीमहालक्ष्मिदास (a devotee or servant of Goddess Lakshmi). It reminds us of Bhattar styling himself as one of the retinue of Maithili (Lakshmi of Ramayana) (vide Sri Gunaratnakosa, 51.); and thus the Bhashyakara echoes the sentiment of his beloved master. He again quotes and explains in the introduction Sraddha-, and Medha-suktas mentioned by Bhattar in his Sahasranama Bhashya as dealing with the greatness of Sri, and explains also the Aditi-, Vak-, and Prthivi-suktas indicated by the term ('adi') 'etc.' in that work. Venkatanatha also agrees entirely with Nanjiyar's interpretation as he cites in his Catus-sloki Bhashya all the Samhitas and Suktas quoted by Nanjiyar.[[xxxvi]] 
-
-Apart from the agreement of the names of the author, of the book, and of the subject matter, there is verbal agreement also.  
-Venkatanatha ( alias Vedanta Desika) in his Rahasya Raksha, a commentary on Catus-Sloki  
-states the views of different Schools on the concept of Lakshmi  
-and concludes in the words of an earlier writer who is none other than our Bhashyakara: 
-
-> “अन्योन्येच्छा विघातादिनिवृत्तौ तत्परत्वतः । ऐककण्ठ्यमशेषाणां आगमानां भवत्विति ॥ पञ्चस्वेतेषु पक्षेषु कश्चिदेकः प्रमाणवान् । सलक्ष्मीकस्य साम्राज्यं सर्वथा सुप्रतिष्ठितम् ॥" 
-
-This is only a restatement almost in identical words of the view of Ranganatha Muni expressed in his Bhashya on verse 9 of Sri Sukta, but summarised here for exigencies of metre. Ranganatha Muni writes: (p. 48 of Sri Sukta Bhashya) 
-
-> "एवं सर्वभूतेश्वरत्ववचनसाम्यात्  
-> द्वयोर् अपि मुख्येश्वरत्वस्य दुर्-अपह्नवत्वेन  
-> सर्वागमानां ईश्वर-व्यक्त्य्-ऐक्य-परत्वे अनुपपन्ने,  
-> सर्वागमानां ऐककण्ठ्यं अन्योऽन्येच्छा-विघातादि-निवृत्तौ तात्पर्यात् उपपन्नम् ।"   
->
-> [Thus there are some passages in the Vedas which say clearly that Narayana is the sovereign of all beings and others which, with equal clearness, declare that Lakshmi is the Sovereign. So [[xxxvii]] the paramount sovereignty of both Lakshmi and Narayana becomes unshakable. But there are yet others which declare that there is only one sovereign of the Universe. The apparent contradiction between the first two statements and the third must be reconciled by saying that, though both Lakshmi and Narayana are the sovereigns, there is no difference of opinion between the two (and so practically there is only one sovereign).] 
-
-Sri Venkatanatha has cited with perfect approval the Sri Sukta Bhashya of Nanjiyar as an authority in his Rahasyatraya Sara and has quoted almost the same words from that Bhashya in his Catus-sloki Bhashya. So our Bhashyakara is Nanjiyar and no one else. That the author is referred to by two different names is no great obstacle against arriving at the above conclusion; for among the Vaishnavas it is common to have more than one name. The father of Vadihamsambuvahacarya had two names: Sri Rangaraja and Padmanabha. Desika himself is known by two names: Venkatanatha and Vedanta Desika; Bhattar as Parasara Bhattar and Ranganatha though the latter name is not so well-known. So there is nothing strange in our author having two names. 
-
-Thus we see that Ranganatha Muni, the author of Sri Sukta Bhashya that is published now, and Nanjiyar, its reputed author are the same: because of the opening stanza which is a [[xxxviii]] salutation to Bhattar; because of the more respectful reference to Bhattar and his works; because of the absence of a quotation from any author later than Bhattar; because of the concluding stanzas where he styles himself a devotee of Mahalakshmi and where he acknowledges his indebtedness to Pranatartihara alias Madaipalli or Kidambi Accan; and because of the citations by Desika in his Rahasyatraya Sara (chap. 23 and 29,) Panca Ratra Raksha, and Catus-sloki Bhashya. 
-
-\* An ingenious interpretation of the name 'Nanjiyar' is given by the author of Sri Tattva Nirnaya' in Tamil. He says that the original name was 'Nam-perumal-jiyar and 'Nanjiyar' is its corrupted form. (இவர் திருநாமம் 'நம்பெருமாள் ஜீயர், இத்திருநாமம் சுருங்கிச் சுருங்கி 'நஞ்ஜீயர்' என S. p. 8.) This only helps our view: the Tamil name of Ranganatha is Nam-perumal' and Muni is 'Jiyar'; so Ranganatha Muni translated into the Tamil of the Vaishnavaite section will be Namperumal Jiyar. It is an easy step from this name to 'Nanjiyar.'
 
 Madhavasuri was the name given to our author at his birth; Vedantin the name that he earned by his vast learning and skill in debate; \*Ranganatha the name that was given to him as the dasya-nama' at the time of initiation into the Vaishnava fold by Bhattar which he himself used in his works; Narayana Muni the name that he assumed on becoming a Sannyasin by which he was referred to in Sanskrit works; Nanjiyar was the pet name given to him by Bhattar when the former met him at Sriranga for the [[xxxix]] second time by which he was referred to in Tamil works and in other places; and Periya Jiyar was another and a more respectable form of the name Nanjiyar by which also he was referred to. So by all these we are led to the irresistible conclusion that this Ranganatha Muni is Nanjiyar and this Bhashya on Sri Sukta is Nanjiyar's Sri Sukta Bhashya. 
 
