@@ -20,46 +20,26 @@ By
 A. SRINIVASA RAGHAVAN, M. A., 
 The Manarajah's College, Pudukotah. 
 1937. 
-All Rights Reserved.] 
-[Price Re 1-8-0. 
-कमला 
-B.KOM/2 
 
-कान्त्या काञ्चनसन्निभां हिमगिरिप्रख्यैश्चतुर्भिर्गजैईस्तोत्क्षिप्तहिरण्मया मृतघटैरासिच्यमानां श्रियम् । विभ्राणां वरमब्जयुग्ममभयं हस्तैः किरीटोज्ज्वलां क्षौमावद्धनितस्वविम्वललितां वन्देऽरविन्दस्थिताम् ॥ 
-GITA PRESS GORAKHPUR. 
-No. 1034. 
-aft: 
-SRI SUKTA BHASHYA 
-OF 
-SRI RANGANATHA MUNI 
-(NANJIYAR) 
-WITH THE BHUMIKA 
-OF 
-Sri. Sri SAUMYANARAYANA ACARYA 
-of Tirukkottiyur, 
-LAKSHMI SAHASRANAMA 
-AND OTHER 
-LAKSHMI STOTRAS 
-With their translation in English 
-By 
-A. SRINIVASA RAGHAVAN, M. A., 
-The Maharajah's College, Pudukotah. 
-1937. 
-All Rights Reserved.] 
-[Price Re 1-8-0- 
-PRINTED AT THE 
-SRI BRIHADAMBA STATE PRESS, 
-PUDUKKOTTAI. 
-श्रीः 
-श्री दिव्यदम्पतीप्रभावप्रवचनैकफलशेमुषीकाणां 
-अखिलात्मगुणगणालङ्कृतानां 
-श्रीगोष्टी पुरभागधेयभूतानां 
-श्री सुन्दर सौम्यनारायणाचार्यपादानां 
-सन्निधौ 
-सप्रणयभक्तिप्रणामम् 
-समर्पितमिदं ग्रन्थरत्नम् 
-तदन्तेवासिना तत्कटाक्षलब्धसत्ताकेन 
-श्री श्रीनिवासराघवदासेन 
+Price Re 1-8-0.  
+
+
+कान्त्या काञ्चन-**सन्निभां** हिम-गिरि-**प्रख्यैश्** चतुर्भिर् गजैर्  
+**हस्तोत्क्षिप्त**-हिरण्मयामृत-घटैर् **आसिच्यमानां** श्रियम् ।  
+**बिभ्राणां** वरम् अब्ज-युग्मम् अ-भयं हस्तैः किरीटोज्ज्वलां  
+क्षौमाबद्ध-नितम्ब-बिम्ब-ललितां वन्देऽरविन्द-स्थिताम् ॥ 
+
+
+
+श्रीः  
+श्री-दिव्य-दम्पती-प्रभाव-प्रवचनैक-फल-शेमुषीकाणाम्  
+अखिलात्म-गुण-गणालङ्कृतानां   
+श्रीगोष्टी-पुर-भाग-धेय-भूतानां  
+श्री-सुन्दर-सौम्य-नारायणाचार्य-पादानां सन्निधौ  
+स-प्रणय-भक्ति-प्रणामं  
+समर्पितम् इदं ग्रन्थ-रत्नम्  
+तद्-अन्तेवासिना तत्-कटाक्ष-लब्ध-सत्ताकेन 
+श्री-श्रीनिवास-राघव-दासेन ॥
 
 ## ०
 ### CONTENTS 
@@ -146,7 +126,7 @@ Alphabetical index to the 1008 names
 
 ### FOREWORD 
 
-Sri Sukta is the well-known hymn to the Goddess Sri or Lakshmi who is referred to as the Consort of Maha Purusha in the Uttara Anuvaka of the Purusha Sukta - ( हीथ ते लक्ष्मीश्च पत्न्यौ ). The Sri Sukta is not found in any of the extant recensions of the four Vedas, but has been ever popular as a Khila Rik' (Supplemental Hymn), the authority of which has been universally acknowledged, even as that of so many other 'Khila Mantras. Such Khila Riks are generally found at the end of Mandalas and anuvakas and not at the end of Ashtakas and adhyayas; and this finds a place in the Rig Veda edited by Prof. Max Muller at the end of the fifth Mandala. 
+Sri Sukta is the well-known hymn to the Goddess Sri or Lakshmi who is referred to as the Consort of Maha Purusha in the Uttara Anuvaka of the Purusha Sukta - ( ह्रीश्च ते लक्ष्मीश्च पत्न्यौ ). The Sri Sukta is not found in any of the extant recensions of the four Vedas, but has been ever popular as a Khila Rik' (Supplemental Hymn), the authority of which has been universally acknowledged, even as that of so many other 'Khila Mantras. Such Khila Riks are generally found at the end of Mandalas and anuvakas and not at the end of Ashtakas and adhyayas; and this finds a place in the Rig Veda edited by Prof. Max Muller at the end of the fifth Mandala. 
 
 There are many commentaries on this Sukta, the most famous of which are those of Sayana (or Vidyaranya) and of Prthvidharacarya, and they have been edited more than once. The commentary of Nanjiyar or Ranganatha, as he is also called, is another, which is popular chiefly among the Visishtadvaitins. This has been cited and quoted as an authority by Sri Venkatanatha (13th cent.) in his works. In spite of its popularity and authoritativeness, the Bhashya has been so far only in manuscripts and it is with pleasure I place this before the discerning public. This supplies the link that was missing in the chain of the development of the concept of Lakshmi beginning [[iv]] from Yamunacarya's Catus-sloki based on the Sri Sukta and coming up to Sri Venkatanatha's Sri Stuti and Rahasya Raksha (commentary on Catus-sloki) through the Saranagatigadya of Ramanuja, Sri Stava of Sri Vatsanka Misra, and Sri Gunaratnakosa of Bhattar; and so no apology is needed for publishing this. The work will speak for itself and I need not dilate upon its merits. 
 
@@ -534,9 +514,15 @@ p. 65 संगृहीतं नारायणमुनिभिः-
 
 The opening stanza of Sri Sukta Bhashya is a salutation to Bhattar : श्रीपराशरभार्यः श्रीरङ्गेशपुरोहितः, " It is the tradition among the Vaishnavaites to salute their immediate Acaryas in the beginning of their works and the opening verse will generally be adopted as the Tanian' of that Acarya. Cf. ' यो नित्यभच्युतपदांबुजयुग्म'-which is the Mangala sloka of Sri Vaikuntha Stava of Sri Vatsanka Misra, a disciple of Ramanuja and which is now Ramanuja'stanian'; "m: नमउक्तिमधीमहे " which is the Mangala Sloka of Sri Rangaraja Stava of Bhattar, the son and disciple of Kurattalvan and which is now the latter's 'tanian.' So the Sloka ' श्रीपराशरभट्टार्य ' composed by Nanjiyar, the disciple, as the Mangala Sloka of Sri Sukta Bhashya is the 'tanian' of Bhattar. 
 
-There is another statement of Venkatanatha in chapter XXIII of his Rahasya-Traya-Sara: Nanjiyar heard from Accan (a direct disciple of Ramanuja) what Sri Ramanuja had said (regarding Sri) and summarised it: Wherever the Lord is spoken of, there Lakshmi also is spoken of."* Sri Sukta Bhashya is the only work of Nanjiyar in which he has dealt with Sri exclusively and in great detail, and the internal evidence of the Bhashya also corroborates this. For these words of Venkatanatha are almost a translation of the concluding stanza of Sri Sukta Bhashya: 
+There is another statement of Venkatanatha in chapter XXIII of his Rahasya-Traya-Sara:  
 
-“यतीन्द्रमाहानसिकात् प्रणतार्तिहरात् गुरोः । सत्संप्रदायसिद्धोऽर्थः श्रीसूक्तस्य विनिश्चितः || ” 
+Nanjiyar heard from Accan (a direct disciple of Ramanuja) what Sri Ramanuja had said (regarding Sri) and summarised it: Wherever the Lord is spoken of, there Lakshmi also is spoken of."\*  
+Sri Sukta Bhashya is the only work of Nanjiyar in which he has dealt with Sri exclusively and in great detail, and the internal evidence of the Bhashya also corroborates this. For these words of Venkatanatha are almost a translation of the concluding stanza of Sri Sukta Bhashya: 
+
+“यतीन्द्रमाहानसिकात्  
+प्रणतार्तिहरात् गुरोः ।  
+सत्संप्रदायसिद्धोऽर्थः  
+श्रीसूक्तस्य विनिश्चितः || ” 
 
 எம்பெருமானைச் சொன்ன இடத்திலே பிராட்டியையும் சொல்லிற்றாம் 
 என்று தொடங்கி, உடையவர் அருளிச்செய்த வார்த்தையை ஆச்சான் பக்கலிலே கேட்டு நஞ்ஜீயர் ங்ைகிரஹித்தார்.(ரஹஸ்யத்ரயஸாரம்XXIII ஸித்தோபாய சோதனாதிகாரம்.) 
@@ -553,7 +539,10 @@ There is a slight indication in the Bhashya even in the manner of citing the nam
 
 Further in the concluding stanza, the author of the Bhashya styles himself as श्रीमहालक्ष्मिदास (a devotee or servant of Goddess Lakshmi). It reminds us of Bhattar styling himself as one of the retinue of Maithili (Lakshmi of Ramayana) (vide Sri Gunaratnakosa, 51.); and thus the Bhashyakara echoes the sentiment of his beloved master. He again quotes and explains in the introduction Sraddha-, and Medha-suktas mentioned by Bhattar in his Sahasranama Bhashya as dealing with the greatness of Sri, and explains also the Aditi-, Vak-, and Prthivi-suktas indicated by the term ('adi') 'etc.' in that work. Venkatanatha also agrees entirely with Nanjiyar's interpretation as he cites in his Catus-sloki Bhashya all the Samhitas and Suktas quoted by Nanjiyar.[[xxxvi]] 
 
-Apart from the agreement of the names of the author, of the book, and of the subject matter, there is verbal agreement also. Venkatanatha ( alias Vedanta Desika) in his • Rahasya Raksha, a commentary on Catus-Sloki states the views of different Schools on the concept of Lakshmi and concludes in the words of an earlier writer who is none other than our Bhashyakara: 
+Apart from the agreement of the names of the author, of the book, and of the subject matter, there is verbal agreement also.  
+Venkatanatha ( alias Vedanta Desika) in his Rahasya Raksha, a commentary on Catus-Sloki  
+states the views of different Schools on the concept of Lakshmi  
+and concludes in the words of an earlier writer who is none other than our Bhashyakara: 
 
 > “अन्योन्येच्छा विघातादिनिवृत्तौ तत्परत्वतः । ऐककण्ठ्यमशेषाणां आगमानां भवत्विति ॥ पञ्चस्वेतेषु पक्षेषु कश्चिदेकः प्रमाणवान् । सलक्ष्मीकस्य साम्राज्यं सर्वथा सुप्रतिष्ठितम् ॥" 
 
