@@ -99,18 +99,25 @@ Sri Sukta is the well-known hymn to the Goddess Sri or Lakshmi who is referred t
 
 There are many commentaries on this Sukta, the most famous of which are those of Sayana (or Vidyaranya) and of Prthvidharacarya, and they have been edited more than once. The commentary of Nanjiyar or Ranganatha, as he is also called, is another, which is popular chiefly among the Visishtadvaitins. This has been cited and quoted as an authority by Sri Venkatanatha (13th cent.) in his works. In spite of its popularity and authoritativeness, the Bhashya has been so far only in manuscripts and it is with pleasure I place this before the discerning public. This supplies the link that was missing in the chain of the development of the concept of Lakshmi beginning 
 
-[[iv]] 
+[[iii]] 
 
-""
-""
-""
 from Yamunacarya's Catus-sloki based on the Sri Sukta and coming up to Sri Venkatanatha's Sri Stuti and Rahasya Raksha (commentary on Catus-sloki) through the Saranagatigadya of Ramanuja, Sri Stava of Sri Vatsanka Misra, and Sri Gunaratnakosa of Bhattar; and so no apology is needed for publishing this. The work will speak for itself and I need not dilate upon its merits. 
 
-To facilitate reference, I am including in the Appendix complete Stotras of Lakshmi which have been either cited or quoted by the Bhashyakara. Sri Sukta, Catus-sloki, Saranagatigadya, Sri Stava, Sri Gunaratnakosa and Sri Stuti, are published with their translations in English. I have included chapters eight and nine of the first Amsa of the Vishnu Purana and a Lakshmi Sahasranama and the Lakshmi Ashtottara also. ... 
-I have also prepared indexes of the Riks, of quotations in the Bhashya, and of the proper names mentioned in the Bhashya. Many of the Samhitas quoted, like the Dhanadiya, Kasyapa, Mankana, and Svayambhuva are not to be had now. The quotations from the Bodhayanakalpa and the Padma Purana cannot be traced and there are many other quotations the sources of which I am not able to trace out. I should be much obliged if any kind scholar is pleased to throw any light on all, or any, of them. 
+To facilitate reference, I am including in the Appendix complete Stotras of Lakshmi which have been either cited or quoted by the Bhashyakara. Sri Sukta, Catus-sloki, Saranagatigadya, Sri Stava, Sri Gunaratnakosa and Sri Stuti, are published with their translations in English. I have included chapters eight and nine of the first Amsa of the Vishnu Purana and a Lakshmi Sahasranama and the Lakshmi Ashtottara also. The Sahasranama was kindly lent to me by Sri. Sriramadesikacarya of Tirukkottiyur. There are already three editions of Sahasranama in print: one printed in the Vani Vilas Press, Srirangam; the other in the Venkatesvar Steam Press, Bombay; and the third published by V. R. Sastrulu & Sons, Madras. The last two are mostly alike and the first differs much from them. But there too, many names of Lakshmi, that are quoted by earlier writers like Nanjiyar and Desika, are not found and I was in search of the original Sahasranama of Lakshmi which should have been the source for the Acaryas. My efforts have been successful at last and I was able to find one with
+
+[[iv]]
+
+Sri. Sri Rama Desikacarya of Tirukkottiyur which has all the names quoted and it is that I am including in the Appendix. Though it agrees with the Vani Vilas Edition to a large extent, still there are many differences in readings which are given in the foot-notes. I hope it will be useful to all, not only as an authority, but as a book for 'Parayanam' also. An alphabetical index of the Lakshmi Sahasranama and Lakshmi Ashtottara also is added. I have also prepared indexes of the Riks, of quotations in the Bhashya, and of the proper names mentioned in the Bhashya. Many of the Samhitas quoted, like the Dhanadiya, Kasyapa, Mankana, and Svayambhuva are not to be had now. The quotations from the Bodhayanakalpa and the Padma Purana cannot be traced and there are many other quotations the sources of which I am not able to trace out. I should be much obliged if any kind scholar is pleased to throw any light on all, or any, of them.
 
 ### ACKNOWLEDGMENTS. 
-It would be impossible for me to give full details of all the help I have received from my friends. My chief debt is to Sri. Sri Ramadesikacarya of Tirukkottiyur for kindly lending me his palm-leaf Ms. that he, as if by divine favour, got one morning years ago from the River Ghatila (Garuda Nadi) in Cuddalore. It is on this Ms. that the present work is mainly based.vi 
+
+It would be impossible for me to give full details of all the help I have received from my friends. My chief debt is to Sri. Sri Ramadesikacarya of Tirukkottiyur for kindly lending me his palm-leaf Ms. that he, as if by divine favour, got one morning years ago from the River Ghatila (Garuda Nadi) in Cuddalore. It is on this Ms. that the present work is mainly based.
+
+[[v]]
+
+""
+""
+""
 
 I am greatly indebted to my Acarya Sri Saumya Narayana Acarya of Tirukkottiyur who helped me at every stage. It was under his supervision and advice that I copied the Ms. and compared it with an incomplete one in his possession. He read through the whole again when it was printed and gave many useful suggestions which I have tried to carry out. Besides making me what I am, he has blessed my endeavour now with a critical and learned Bhumika to this book in the course of which he establishes the identity of the Bhashyakara with invulnerable arguments. I have drawn a great deal from this Bhumika to write my Introduction in English and it is with great reverence and love that I take this opportunity of expressing my gratitude to him for all his help. 
 
