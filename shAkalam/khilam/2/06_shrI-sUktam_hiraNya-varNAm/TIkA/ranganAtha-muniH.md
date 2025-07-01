@@ -115,10 +115,6 @@ It would be impossible for me to give full details of all the help I have receiv
 
 [[v]]
 
-""
-""
-""
-
 I am greatly indebted to my Acarya Sri Saumya Narayana Acarya of Tirukkottiyur who helped me at every stage. It was under his supervision and advice that I copied the Ms. and compared it with an incomplete one in his possession. He read through the whole again when it was printed and gave many useful suggestions which I have tried to carry out. Besides making me what I am, he has blessed my endeavour now with a critical and learned Bhumika to this book in the course of which he establishes the identity of the Bhashyakara with invulnerable arguments. I have drawn a great deal from this Bhumika to write my Introduction in English and it is with great reverence and love that I take this opportunity of expressing my gratitude to him for all his help. 
 
 My thanks are also due to Melappalayam Venkatacarya, the Vedic scholar at Srirangam who helped me to find out the sources of many Vedic passages quoted in the Bhashya. 
@@ -129,7 +125,7 @@ In addition to the above, I am indebted to Dr. V. Raghavan, M.A., Ph. D., (Senio
 
 could be incorporated in the text itself only in the latter part of the book and for the first half, they are appended to the end of this. 
 
-I shall be thankful to my friends and wellwishers for any suggestions to improve the work and bring it to perfection. In fine, I shall feel my endeavour has been quite a success if even one devotee of that Goddess-Mahalakshmiyadasa-or Lakshmi Herself will be pleased with this. 
+I shall be thankful to my friends and wellwishers for any suggestions to improve the work and bring it to perfection. In fine, I shall feel my endeavour has been quite a success if even one devotee of that Goddess - Mahalakshmiyadasa - or Lakshmi Herself will be pleased with this. 
 
 8-4-37.  
 SRINIVASA RAGHAVAN.   
@@ -137,75 +133,92 @@ SRINIVASA RAGHAVAN.
 ### DESCRIPTION OF THE MANUSCRIPTS.
 
 1. Ms. of Sri. Sri Ramadesikacarya marked क. 
-2. D. 25-palm-leaf Ms. in Grantha script calls itself Sri Sukta Bhashya by Gomatha Ranganatha marked ख. Colophon : इति श्रीगोमठरङ्गनाथविरचितं श्रीसूक्तभाष्यं समाप्तम्। 
-3. D.26-a copy of D. 25 is marked ग and agrees substantially and verbally in most places with D. 25, but has different readings in many places. Colophon: श्रीरङ्गनाथमुनिविरचितं श्रीसूक्तभाष्यं समाप्तम्। 
+
+2. D. 25 - palm-leaf Ms. in Grantha script calls itself Sri Sukta Bhashya by Gomatha Ranganatha marked ख. Colophon: इति श्री-गो-मठ-रङ्ग-नाथ-विरचितं श्री-सूक्त-भाष्यं समाप्तम्। 
+
+3. D.26 - a copy of D. 25 is marked ग and agrees substantially and verbally in most places with D. 25, but has different readings in many places. Colophon: श्री-रङ्ग-नाथ-मुनि-विरचितं श्री-सूक्त-भाष्यं समाप्तम्। 
 
 [[vii]] 
 
 4. D. 27. — marked घ is an abridged version of D. 25 & 26, but with all the discussive portions omitted and giving just a word-for-word meaning and also quotations from some works, most of which are found in D. 25 & 26. This calls itself Sri Sukta-Visishtadvaita-Bhashya and is very much like the one edited by Pandit Anantacarya in Conjivaram in 1899. 
-5. R. 99f.-Tamil part-leaves 97a to 116a- 
+
+5. R. 99f.-Tamil part-leaves 97a to 116a - 
 same as D. 25 and so marked ख. It has three additional Mangala Slokas. (All the above four (2-5) are in the Government Oriental Manuscripts Library, Madras.) 
+
 6. An incomplete Ms. in the possession of Sri. Sri Saumyanarayana Acarya of Tirukkottiyur, marked च. 
 
 I am told the Adyar Library has a Sri Sukta Bhashya which is given in the catalogue without the author's name and so also the Mysore Library. The Ms. marked क, on which the present work is based, is the most complete and all the others have some portion or other omitted in them. This Bhashya is by Ranganatha Muni. 
 
-The Bhashya on the seventh Rik is not found in any of the Mss. which merely read the Rik. So I have given the meaning from the Bhashya edited by Pandit Anantacarya of Conjivaram. /////
+The Bhashya on the seventh Rik is not found in any of the Mss. which merely read the Rik. So I have given the meaning from the Bhashya edited by Pandit Anantacarya of Conjivaram.
 
-### श्रीसूक्तभाष्ये पाठभेदाः  
+[[viii]]
+
+### श्री-सूक्त-भाष्ये पाठ-भेदाः  
+
 श्रीः   
 
-[
-क गोष्ठीपुरं श्रीमत्. श्रीरामदेशिकाचार्यखामिनां तालपत्रकोशः   
-ख - D. 25 & R99f.   
-ग - D. 26 
-घ - 27.  
+[क - गोष्ठी-पुरं श्रीमत्. श्री-राम-देशिकाचार्य-स्वामिनां ताल-पत्र-कोशः 
+ख - D. 25 & R 99 f.
+ग - D. 26 घ - 27.
 
-एतच्चतुष्टयमपि मदरास् गवर्न्मेण्ट् ओरियण्टल् मानस्कृप्ट्स् लैब्ररिगतम् । 
-
-च गोष्ठीपुरं श्रीमत् . श्रीसौम्यनारायणाचार्यपादानां तालपत्त्रकोशः ॥ 
-
+एतच् चतुष्टयम् अपि मदरास् गवर्न्मेण्ट् ओरियण्टल् मानस्कृप्ट्स् लैब्ररि-गतम् । 
+च - गोष्ठी-पुरं श्रीमत्. श्री-सौम्य-नारायणाचार्य-पादानां ताल-पत्र-कोशः ॥ 
 'क, ग, च' इति ग्रन्थाः निर्दिश्यन्ते । 
-अनिर्दिष्टाक्षराः पाठभेदाः ख पुस्तकस्य ] 
+अनिर्दिष्टाक्षराः पाठ-भेदाः ख पुस्तकस्य ] 
 
-पृष्ठ. पङ्किः. 
+पृष्ठ. पङ्किः.
 
-१ 1 ग्रन्थारम्भे एते श्लोकाः दृश्यन्ते -ख पुस्तके 
-प्राची सन्ध्या काचिदन्तर्निशायाः प्रज्ञादृष्टेरञ्जन श्रीरपूर्वा । 
-वक्त्री वेदान् भातु मे वाजिवक्त्रा 
-वागीशाख्या वासुदेवस्य मूर्तिः ॥ १ ॥ 
-विशुद्धविज्ञानघनखरूपं विज्ञानविश्राणनबद्धदीक्षं । दयानिधिं देहभृतां शरण्यं देवं हयग्रीवमहं प्रपद्ये ॥ २ 
-योऽन्तः प्रविश्य मम वाचमिमां प्रसुप्तां 
-सञ्जीवयत्यखिलशक्तिधरः स्वधाम्ना । 
-अन्यांश्च हस्तचरणश्रवणत्वगादीन् 
-प्राणान्नमो भगवते पुरुषाय तस्मै ॥ ३ ॥ 
-४ 
-५ 
-X 
-१ 1 2 श्री पराशर.... इति श्लोकः न - ख । लोकसद्भावेऽपि 
-अनन्तर श्लोकस्य एव प्रथमसंख्या दीयते -ग. 
-२ 
-m 
-3 जननीं लक्ष्मीं कमलवासिनी - ख. 
-7 श्रियः सूक्तमधीतं यत् सुजपं मङ्गलावहम् - ख. 
-ई 
-सानो - ग, घ. 
-इति न - ख. 
-3 ईशाना.... धिपत्नी इति न ख. 4 अत्र द्वितीया ऋक् पञ्चपढ़ा 
-अस्मिन् - ख. ग. 5 पण्डितप्रसिद्धतरं - ख. 6 सर्वेश्वरस्येश्वरत्वं तद्विभूनेरहितत्वं - ख. 11 अश्नुते - ख, च. पुराणे इति न - ख. 
-2 असद्व्यावृत्तस्य -ख, घ, च. 
-3 - कस्य प्रपञ्चजातस्य-ख. 
+१ 1 ग्रन्थारम्भे एते श्लोकाः दृश्यन्ते - ख पुस्तके 
+
+> प्राची सन्ध्या काचिद् अन्तर्-निशायाः  
+प्रज्ञा दृष्टेर् अञ्जन-श्रीर् अपूर्वा ।  
+वक्त्री वेदान् भातु मे वाजि-वक्त्रा  
+वागीशाख्या वासुदेवस्य मूर्तिः ॥ १ ॥  
+विशुद्ध-विज्ञान-घन--स्व-रूपं विज्ञान-विश्राणन[[??]]-बद्ध-दीक्षम् ।  
+दया-निधिं देह-भृतां शरण्यं देवं हयग्रीवम् अहं प्रपद्ये ॥ २ ॥  
+यो ऽन्तः प्रविश्य मम वाचम् इमां प्रसुप्ताम्  
+सञ्जीवयत्य् अखिल-शक्ति-धरः स्व-धाम्ना ।  
+अन्यांश् च हस्त-चरण-श्रवण-त्वग्-आदीन्  
+प्राणान् नमो भगवते पुरुषाय तस्मै ॥ ३ ॥ 
+
+[[ix]]
+
+१ 1 2 श्री-पराशर.... इति श्लोकः न - ख । श्लोक-सद्-भावे ऽपि 
+अनन्तर-श्लोकस्य एव प्रथम-सङ्ख्या दीयते - ग. 
+3 जननीं लक्ष्मीं कमल-वासिनी - ख. 
+7 श्रियः सूक्तम् अधीतं यत् सुजपं मङ्गलावहम् - ख. 
+
+२ 3 ईशाना.... धिपत्नी इति न - ख. ई सा नो - ग, घ.
+4 अत्र द्वितीया ऋक् पञ्च-पदा इति न - ख.
+अस्मिन् - ख. ग. 5 पण्डित-प्रसिद्ध-तरं - ख. 
+6 सर्वेश्वरस्येश्वरत्वं तद्-विभूतेर् अविहतत्वं[[??]] - ख. 11 अश्नुते - ख, च. पुराणे इति न - ख. 
+
+३ 2 असद्-व्यावृत्तस्य - ख, घ, च. 
+3 - कस्य प्रपञ्च-जातस्य - ख. 
+4 आङ् - क,ख.
 6 स्थापयन्ती - ख. 
-4 आङ्–क,ख. 
-7 वैदेहीमिति - ख. 
-9 समाराधनसमुद्यतानां भोगानु-ख. 
+7 वैदेहीम् इति - ख. 
+9 समाराधन-समुद्यतानां भोगानु - ख. 
 11-13 यस्य यस्य....दुहाना इति एतत् न - ख. 
-18 प्रकिरन्तीति बहुस्नुतीति - ख; प्रक्षरन्ती बहुस्तुति- 
-रिति-च. 
-2 जंगमात्मकप्रपञ्चस्य ख, ग . 6 [ 
-हविषा ] इति नग. 6 वस्त्रपुष्पादिना - ख. 
-7 वा इति न - ख; सा नो लोकमित्यादि इति न - ख. 8 समाराधितेभ्यः - ख. 13 पुराणवचनं... लेख्यं इति न. 14 'ईशाना देवी' इत्यारभ्य, पृ. १६, २. एवं भूतां 
-श्रद्धामुपास्महे' इत्यन्तं न - ख. 
-6 यजमानाः -ग, च. 7 देवाः ―ग, च. 
+18 प्रकिरन्तीति बहुस्नुतीति[[??]] - ख; प्रक्षरन्ती बहुस्नुतिर् इति - च. 
+
+४ 2 जङ्गमात्मक-प्रपञ्चस्य ख, ग . 
+6 [ हविषा ] इति न - ग. 
+6 वस्त्र-पुष्पादिना - ख. 
+7 वा इति न - ख; सा नो लोकम् इत्य्-आदि इति न - ख. 
+8 समाराधितेभ्यः - ख. 
+13 पुराण-वचनं... लेख्यं इति न. 
+14 'ईशाना देवी' इत्य् आरभ्य, पृ. १६,२. एवं भूतां 'श्रद्धाम् उपास्महे' इत्य् अन्तं न - ख. 
+
+५ 6 यजमानाः - ग, च. 
+7 देवाः - ग, च. 
+
+[[x]]
+
+""
+""
+""
+
 ww 
 G 
 ८ 
