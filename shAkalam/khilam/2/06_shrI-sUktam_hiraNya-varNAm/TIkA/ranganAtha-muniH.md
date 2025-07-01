@@ -123,25 +123,33 @@ I am greatly indebted to my Acarya Sri Saumya Narayana Acarya of Tirukkottiyur w
 
 My thanks are also due to Melappalayam Venkatacarya, the Vedic scholar at Srirangam who helped me to find out the sources of many Vedic passages quoted in the Bhashya. 
 
-In addition to the above, I am indebted to Dr. V. Raghavan, M.A., Ph. D., (Senior Assistant to the Editor-in-chief of the Catalogus Catalogorum, Madras University), who, on my request, so kindly undertook to compare for me four Mss. of Sri Sukta Bhashya in the Madras Government Oriental Manuscripts Library and supplied me the various readings. But the work was already half-way through the press when I approached him and so the variations in reading [[vii]] could be incorporated in the text itself only in the latter part of the book and for the first half, they are appended to the end of this. 
+In addition to the above, I am indebted to Dr. V. Raghavan, M.A., Ph. D., (Senior Assistant to the Editor-in-chief of the Catalogus Catalogorum, Madras University), who, on my request, so kindly undertook to compare for me four Mss. of Sri Sukta Bhashya in the Madras Government Oriental Manuscripts Library and supplied me the various readings. But the work was already half-way through the press when I approached him and so the variations in reading 
+
+[[vi]] 
+
+could be incorporated in the text itself only in the latter part of the book and for the first half, they are appended to the end of this. 
 
 I shall be thankful to my friends and wellwishers for any suggestions to improve the work and bring it to perfection. In fine, I shall feel my endeavour has been quite a success if even one devotee of that Goddess-Mahalakshmiyadasa-or Lakshmi Herself will be pleased with this. 
 
 8-4-37.  
 SRINIVASA RAGHAVAN.   
 
-### DESCRIPTION OF THE MANUSCRIPTS.   
-1. Ms. of Sri. Sri Ramadesikacarya marked *. 
-2. D. 25-palm-leaf Ms. in Grantha script calls itself Sri Sukta Bhashya by Gomatha Ranganatha marked . Colophon : इति श्रीगोमठरङ्गनाथविरचितं श्रीसूक्तभाष्यं समाप्तम् । 
-3. D.26-a copy of D. 25 is marked and agrees substantially and verbally in most places with D. 25, but has different readings in many places. Colophon: agregiatărâdi श्रीसूकभाष्यं समाप्तम् ।[[viii]] 
-4. D. 27.—marked is an abridged version of D. 25 & 26, but with all the discussive portions omitted and giving just a wordfor-word meaning and also quotations from some works, most of which are found in D. 25 & 26. This calls itself Sri SuktaVisishtadvaita-Bhashya and is very much like the one edited by Pandit Anantacarya in Conjivaram in 1899. 
+### DESCRIPTION OF THE MANUSCRIPTS.
+
+1. Ms. of Sri. Sri Ramadesikacarya marked क. 
+2. D. 25-palm-leaf Ms. in Grantha script calls itself Sri Sukta Bhashya by Gomatha Ranganatha marked ख. Colophon : इति श्रीगोमठरङ्गनाथविरचितं श्रीसूक्तभाष्यं समाप्तम्। 
+3. D.26-a copy of D. 25 is marked ग and agrees substantially and verbally in most places with D. 25, but has different readings in many places. Colophon: श्रीरङ्गनाथमुनिविरचितं श्रीसूक्तभाष्यं समाप्तम्। 
+
+[[vii]] 
+
+4. D. 27. — marked घ is an abridged version of D. 25 & 26, but with all the discussive portions omitted and giving just a word-for-word meaning and also quotations from some works, most of which are found in D. 25 & 26. This calls itself Sri Sukta-Visishtadvaita-Bhashya and is very much like the one edited by Pandit Anantacarya in Conjivaram in 1899. 
 5. R. 99f.-Tamil part-leaves 97a to 116a- 
-same as D. 25 and so marked . It has three additional Mangala Slokas. (All the above four (2-5) are in the Government Oriental Manuscripts Library, Madras.) 
-6. An incomplete Ms. in the possession of Sri. Sri Saumyanarayana Acarya of Tirukkottiyur, marked . 
+same as D. 25 and so marked ख. It has three additional Mangala Slokas. (All the above four (2-5) are in the Government Oriental Manuscripts Library, Madras.) 
+6. An incomplete Ms. in the possession of Sri. Sri Saumyanarayana Acarya of Tirukkottiyur, marked च. 
 
-I am told the Adyar Library has a Sri Sukta Bhashya which is given in the catalogue without the author's name and so also the Mysore Library. The Ms. marked, on which the present work is based, is the most complete and all the others have some portion or other omitted in them. This Bhashya is by Ranganatha Muni. 
+I am told the Adyar Library has a Sri Sukta Bhashya which is given in the catalogue without the author's name and so also the Mysore Library. The Ms. marked क, on which the present work is based, is the most complete and all the others have some portion or other omitted in them. This Bhashya is by Ranganatha Muni. 
 
-The Bhashya on the seventh Rik is not found in any of the Mss. which merely read the Rik. So I have given the meaning from the Bhashya edited by Pandit Anantacarya of Conjivaram. 
+The Bhashya on the seventh Rik is not found in any of the Mss. which merely read the Rik. So I have given the meaning from the Bhashya edited by Pandit Anantacarya of Conjivaram. /////
 
 ### श्रीसूक्तभाष्ये पाठभेदाः  
 श्रीः   
