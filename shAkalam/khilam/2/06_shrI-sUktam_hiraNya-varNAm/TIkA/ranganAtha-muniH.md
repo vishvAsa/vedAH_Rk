@@ -4,6 +4,7 @@ title = "रङ्गनाथः"
 
 Source: [TW](https://archive.org/details/srisuktabhashyaofsriranganathamuni1937ocr/page/n73/mode/2up)
 
+श्रीः
 SRI SUKTA BHASHYA 
 OF 
 SRI RANGANATHA MUNI 
@@ -27,14 +28,12 @@ Price Re 1-8-0.
 कान्त्या काञ्चन-**सन्निभां** हिम-गिरि-**प्रख्यैश्** चतुर्भिर् गजैर्  
 **हस्तोत्क्षिप्त**-हिरण्मयामृत-घटैर् **आसिच्यमानां** श्रियम् ।  
 **बिभ्राणां** वरम् अब्ज-युग्मम् अ-भयं हस्तैः किरीटोज्ज्वलां  
-क्षौमाबद्ध-नितम्ब-बिम्ब-ललितां वन्देऽरविन्द-स्थिताम् ॥ 
-
-
+क्षौमाबद्ध-नितम्ब-बिम्ब-ललितां वन्दे ऽरविन्द-स्थिताम् ॥ 
 
 श्रीः  
 श्री-दिव्य-दम्पती-प्रभाव-प्रवचनैक-फल-शेमुषीकाणाम्  
 अखिलात्म-गुण-गणालङ्कृतानां   
-श्रीगोष्टी-पुर-भाग-धेय-भूतानां  
+श्री-गोष्टी-पुर-भाग-धेय-भूतानां  
 श्री-सुन्दर-सौम्य-नारायणाचार्य-पादानां सन्निधौ  
 स-प्रणय-भक्ति-प्रणामं  
 समर्पितम् इदं ग्रन्थ-रत्नम्  
@@ -47,88 +46,65 @@ SRI SUKTA BHASHYA AND LAKSHMI STOTRAS.
 DEDICATION 
 FOREWORD 
 ACKNOWLEDGMENTS 
-READINGS (पाठभेदाः) 
+READINGS (पाठ-भेदाः) 
 BHUMIKA (भूमिका) .... 
-.... 
-.... 
-PAGE. 
-i 
-iii 
-ix 
-xvi 
+
 by Sri. Sri Saumya Narayana Acarya. 
 INTRODUCTION 
-.... 
-.... 
-Life and Works of the Bhashyakara Identity of the Bhashyakara 
-The Concept of Sri in Visishtadvaita Analysis of the Bhashya 
+
+Life and Works of the Bhashyakara 
+Identity of the Bhashyakara 
+The Concept of Sri in Visishtadvaita 
+Analysis of the Bhashya 
 Conclusion .... 
-LIST OF ABBREVIATIONS ( संकेतविवरण ) 
+
+LIST OF ABBREVIATIONS ( सङ्केत-विवरणम् ) 
 SRI SUKTA BHASHYA: TEXT 
-Introductory 9-9; Verse I-99; II–२५; III–२६; IV-२९; V-३२; VI-3; VII, VIII-35; IX-9; X-&9; XI-q3; XII-3; XIIIqɣ; XIV, XV-4. 
-xxiii 
-XXV 
-XXX 
-xxxix 
-xlii 
-xliv 
-.... 
-xlvi 
-१-६७ 
+Introductory १ - १८; Verse I-१९; II–२५; III–२६; IV-२९; V-३२; VI-३६; VII, VIII-३९; IX-४१; X-६१; XI-६२; XII-६३; XIII-६४; XIV, XV-६५. 
+
 INDEXES: 
 Index of Riks 
-PAGE 
-६८-८७ 
-૬૮ 
 Index of proper names 
 Index of other works mentioned 
 Index of Quotations 
 Summary of Quotations 
-APPENDIX-Sri Sukta (with English 
-Translation) 
-७१ 
-ર 
-८२ 
-८८ 
-Catus-sloki by Yamunacarya 
-९६ 
-"" 
-Saranagati Gadya by Sri Ramanuja,, 
-900 
-Sri Stava by Sri Vatsanka Misra 
-१०२ 
-"" 
-Sri Gunaratnakosa 
-Sri Stuti by Sri Vedanta Desika 
-by Parasara Bhattar 
+
+APPENDIX--Sri Sukta (with English Translation) 
+
+Catus-sloki by Yamunacarya (with English Translation)
+
+Saranagati Gadya by Sri Ramanuja (with English Translation)
+
+Sri Stava by Sri Vatsanka Misra (with English Translation) 
+
+Sri Gunaratnakosa by Parasara Bhattar (with English Translation)
+
+Sri Stuti by Sri Vedanta Desika (with English Translation)
+
 Vishnu Purana: Amsa I, Chap. VIII 
-Index (to the Appendix) 
-908 
-"" 
-१४५ 
-१६० 
 Chap. IX 
-૧૬૨ 
-१७८ - १८१ 
-.... 
-१८३ 
-१८७ 
-१९० 
-1 
-19 
-47 
-.... 
+
+Index (to the Appendix) 
+
 Lakshmi-Ashtottarasata-nama-stotra 
-Lakshmi-Ashtottarasata-namavali Alphabetical index to the 108 names 
+Lakshmi-Ashtottarasata-namavali 
+Alphabetical index to the 108 names 
 Lakshmi-Sahasranama-stotra 
 Lakshmi-Sahasra-namavali 
 Alphabetical index to the 1008 names 
 
 ### FOREWORD 
 
-Sri Sukta is the well-known hymn to the Goddess Sri or Lakshmi who is referred to as the Consort of Maha Purusha in the Uttara Anuvaka of the Purusha Sukta - ( ह्रीश्च ते लक्ष्मीश्च पत्न्यौ ). The Sri Sukta is not found in any of the extant recensions of the four Vedas, but has been ever popular as a Khila Rik' (Supplemental Hymn), the authority of which has been universally acknowledged, even as that of so many other 'Khila Mantras. Such Khila Riks are generally found at the end of Mandalas and anuvakas and not at the end of Ashtakas and adhyayas; and this finds a place in the Rig Veda edited by Prof. Max Muller at the end of the fifth Mandala. 
+Sri Sukta is the well-known hymn to the Goddess Sri or Lakshmi who is referred to as the Consort of Maha Purusha in the Uttara Anuvaka of the Purusha Sukta - ( ह्रीश् च ते लक्ष्मीश् च पत्न्यौ ). The Sri Sukta is not found in any of the extant recensions of the four Vedas, but has been ever popular as a 'Khila Rik' (Supplemental Hymn), the authority of which has been universally acknowledged, even as that of so many other 'Khila Mantras'. Such Khila Riks are generally found at the end of Mandalas and anuvakas and not at the end of Ashtakas and adhyayas; and this finds a place in the Rig Veda edited by Prof. Max Muller at the end of the fifth Mandala. 
 
-There are many commentaries on this Sukta, the most famous of which are those of Sayana (or Vidyaranya) and of Prthvidharacarya, and they have been edited more than once. The commentary of Nanjiyar or Ranganatha, as he is also called, is another, which is popular chiefly among the Visishtadvaitins. This has been cited and quoted as an authority by Sri Venkatanatha (13th cent.) in his works. In spite of its popularity and authoritativeness, the Bhashya has been so far only in manuscripts and it is with pleasure I place this before the discerning public. This supplies the link that was missing in the chain of the development of the concept of Lakshmi beginning [[iv]] from Yamunacarya's Catus-sloki based on the Sri Sukta and coming up to Sri Venkatanatha's Sri Stuti and Rahasya Raksha (commentary on Catus-sloki) through the Saranagatigadya of Ramanuja, Sri Stava of Sri Vatsanka Misra, and Sri Gunaratnakosa of Bhattar; and so no apology is needed for publishing this. The work will speak for itself and I need not dilate upon its merits. 
+There are many commentaries on this Sukta, the most famous of which are those of Sayana (or Vidyaranya) and of Prthvidharacarya, and they have been edited more than once. The commentary of Nanjiyar or Ranganatha, as he is also called, is another, which is popular chiefly among the Visishtadvaitins. This has been cited and quoted as an authority by Sri Venkatanatha (13th cent.) in his works. In spite of its popularity and authoritativeness, the Bhashya has been so far only in manuscripts and it is with pleasure I place this before the discerning public. This supplies the link that was missing in the chain of the development of the concept of Lakshmi beginning 
+
+[[iv]] 
+
+""
+""
+""
+from Yamunacarya's Catus-sloki based on the Sri Sukta and coming up to Sri Venkatanatha's Sri Stuti and Rahasya Raksha (commentary on Catus-sloki) through the Saranagatigadya of Ramanuja, Sri Stava of Sri Vatsanka Misra, and Sri Gunaratnakosa of Bhattar; and so no apology is needed for publishing this. The work will speak for itself and I need not dilate upon its merits. 
 
 To facilitate reference, I am including in the Appendix complete Stotras of Lakshmi which have been either cited or quoted by the Bhashyakara. Sri Sukta, Catus-sloki, Saranagatigadya, Sri Stava, Sri Gunaratnakosa and Sri Stuti, are published with their translations in English. I have included chapters eight and nine of the first Amsa of the Vishnu Purana and a Lakshmi Sahasranama and the Lakshmi Ashtottara also. ... 
 I have also prepared indexes of the Riks, of quotations in the Bhashya, and of the proper names mentioned in the Bhashya. Many of the Samhitas quoted, like the Dhanadiya, Kasyapa, Mankana, and Svayambhuva are not to be had now. The quotations from the Bodhayanakalpa and the Padma Purana cannot be traced and there are many other quotations the sources of which I am not able to trace out. I should be much obliged if any kind scholar is pleased to throw any light on all, or any, of them. 
