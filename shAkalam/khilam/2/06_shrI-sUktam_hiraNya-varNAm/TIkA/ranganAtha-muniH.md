@@ -397,7 +397,7 @@ The Bhashya on the seventh Rik is not found in any of the Mss. which merely read
 
 ६२ 16 आकारतरां - क. 
 
-६४ 12 भगवच्-छाया-कपि-शित-शीतल-मनोहर[[??]] - च. 
+६४ 12 भगवच्-छाया-कपिशित-शीतल-मनोहर[[??]] - च. 
 
 [[xv]]
 
