@@ -4,6 +4,7 @@ title = "रङ्गनाथः"
 
 Source: [TW](https://archive.org/details/srisuktabhashyaofsriranganathamuni1937ocr/page/n73/mode/2up)
 
+श्रीः
 SRI SUKTA BHASHYA 
 OF 
 SRI RANGANATHA MUNI 
@@ -27,14 +28,12 @@ Price Re 1-8-0.
 कान्त्या काञ्चन-**सन्निभां** हिम-गिरि-**प्रख्यैश्** चतुर्भिर् गजैर्  
 **हस्तोत्क्षिप्त**-हिरण्मयामृत-घटैर् **आसिच्यमानां** श्रियम् ।  
 **बिभ्राणां** वरम् अब्ज-युग्मम् अ-भयं हस्तैः किरीटोज्ज्वलां  
-क्षौमाबद्ध-नितम्ब-बिम्ब-ललितां वन्देऽरविन्द-स्थिताम् ॥ 
-
-
+क्षौमाबद्ध-नितम्ब-बिम्ब-ललितां वन्दे ऽरविन्द-स्थिताम् ॥ 
 
 श्रीः  
 श्री-दिव्य-दम्पती-प्रभाव-प्रवचनैक-फल-शेमुषीकाणाम्  
 अखिलात्म-गुण-गणालङ्कृतानां   
-श्रीगोष्टी-पुर-भाग-धेय-भूतानां  
+श्री-गोष्टी-पुर-भाग-धेय-भूतानां  
 श्री-सुन्दर-सौम्य-नारायणाचार्य-पादानां सन्निधौ  
 स-प्रणय-भक्ति-प्रणामं  
 समर्पितम् इदं ग्रन्थ-रत्नम्  
@@ -47,202 +46,205 @@ SRI SUKTA BHASHYA AND LAKSHMI STOTRAS.
 DEDICATION 
 FOREWORD 
 ACKNOWLEDGMENTS 
-READINGS (पाठभेदाः) 
+READINGS (पाठ-भेदाः) 
 BHUMIKA (भूमिका) .... 
-.... 
-.... 
-PAGE. 
-i 
-iii 
-ix 
-xvi 
+
 by Sri. Sri Saumya Narayana Acarya. 
 INTRODUCTION 
-.... 
-.... 
-Life and Works of the Bhashyakara Identity of the Bhashyakara 
-The Concept of Sri in Visishtadvaita Analysis of the Bhashya 
+
+Life and Works of the Bhashyakara 
+Identity of the Bhashyakara 
+The Concept of Sri in Visishtadvaita 
+Analysis of the Bhashya 
 Conclusion .... 
-LIST OF ABBREVIATIONS ( संकेतविवरण ) 
+
+LIST OF ABBREVIATIONS ( सङ्केत-विवरणम् ) 
 SRI SUKTA BHASHYA: TEXT 
-Introductory 9-9; Verse I-99; II–२५; III–२६; IV-२९; V-३२; VI-3; VII, VIII-35; IX-9; X-&9; XI-q3; XII-3; XIIIqɣ; XIV, XV-4. 
-xxiii 
-XXV 
-XXX 
-xxxix 
-xlii 
-xliv 
-.... 
-xlvi 
-१-६७ 
+Introductory १ - १८; Verse I-१९; II–२५; III–२६; IV-२९; V-३२; VI-३६; VII, VIII-३९; IX-४१; X-६१; XI-६२; XII-६३; XIII-६४; XIV, XV-६५. 
+
 INDEXES: 
 Index of Riks 
-PAGE 
-६८-८७ 
-૬૮ 
 Index of proper names 
 Index of other works mentioned 
 Index of Quotations 
 Summary of Quotations 
-APPENDIX-Sri Sukta (with English 
-Translation) 
-७१ 
-ર 
-८२ 
-८८ 
-Catus-sloki by Yamunacarya 
-९६ 
-"" 
-Saranagati Gadya by Sri Ramanuja,, 
-900 
-Sri Stava by Sri Vatsanka Misra 
-१०२ 
-"" 
-Sri Gunaratnakosa 
-Sri Stuti by Sri Vedanta Desika 
-by Parasara Bhattar 
+
+APPENDIX--Sri Sukta (with English Translation) 
+
+Catus-sloki by Yamunacarya (with English Translation)
+
+Saranagati Gadya by Sri Ramanuja (with English Translation)
+
+Sri Stava by Sri Vatsanka Misra (with English Translation) 
+
+Sri Gunaratnakosa by Parasara Bhattar (with English Translation)
+
+Sri Stuti by Sri Vedanta Desika (with English Translation)
+
 Vishnu Purana: Amsa I, Chap. VIII 
-Index (to the Appendix) 
-908 
-"" 
-१४५ 
-१६० 
 Chap. IX 
-૧૬૨ 
-१७८ - १८१ 
-.... 
-१८३ 
-१८७ 
-१९० 
-1 
-19 
-47 
-.... 
+
+Index (to the Appendix) 
+
 Lakshmi-Ashtottarasata-nama-stotra 
-Lakshmi-Ashtottarasata-namavali Alphabetical index to the 108 names 
+Lakshmi-Ashtottarasata-namavali 
+Alphabetical index to the 108 names 
 Lakshmi-Sahasranama-stotra 
 Lakshmi-Sahasra-namavali 
 Alphabetical index to the 1008 names 
 
 ### FOREWORD 
 
-Sri Sukta is the well-known hymn to the Goddess Sri or Lakshmi who is referred to as the Consort of Maha Purusha in the Uttara Anuvaka of the Purusha Sukta - ( ह्रीश्च ते लक्ष्मीश्च पत्न्यौ ). The Sri Sukta is not found in any of the extant recensions of the four Vedas, but has been ever popular as a Khila Rik' (Supplemental Hymn), the authority of which has been universally acknowledged, even as that of so many other 'Khila Mantras. Such Khila Riks are generally found at the end of Mandalas and anuvakas and not at the end of Ashtakas and adhyayas; and this finds a place in the Rig Veda edited by Prof. Max Muller at the end of the fifth Mandala. 
+Sri Sukta is the well-known hymn to the Goddess Sri or Lakshmi who is referred to as the Consort of Maha Purusha in the Uttara Anuvaka of the Purusha Sukta - ( ह्रीश् च ते लक्ष्मीश् च पत्न्यौ ). The Sri Sukta is not found in any of the extant recensions of the four Vedas, but has been ever popular as a 'Khila Rik' (Supplemental Hymn), the authority of which has been universally acknowledged, even as that of so many other 'Khila Mantras'. Such Khila Riks are generally found at the end of Mandalas and anuvakas and not at the end of Ashtakas and adhyayas; and this finds a place in the Rig Veda edited by Prof. Max Muller at the end of the fifth Mandala. 
 
-There are many commentaries on this Sukta, the most famous of which are those of Sayana (or Vidyaranya) and of Prthvidharacarya, and they have been edited more than once. The commentary of Nanjiyar or Ranganatha, as he is also called, is another, which is popular chiefly among the Visishtadvaitins. This has been cited and quoted as an authority by Sri Venkatanatha (13th cent.) in his works. In spite of its popularity and authoritativeness, the Bhashya has been so far only in manuscripts and it is with pleasure I place this before the discerning public. This supplies the link that was missing in the chain of the development of the concept of Lakshmi beginning [[iv]] from Yamunacarya's Catus-sloki based on the Sri Sukta and coming up to Sri Venkatanatha's Sri Stuti and Rahasya Raksha (commentary on Catus-sloki) through the Saranagatigadya of Ramanuja, Sri Stava of Sri Vatsanka Misra, and Sri Gunaratnakosa of Bhattar; and so no apology is needed for publishing this. The work will speak for itself and I need not dilate upon its merits. 
+There are many commentaries on this Sukta, the most famous of which are those of Sayana (or Vidyaranya) and of Prthvidharacarya, and they have been edited more than once. The commentary of Nanjiyar or Ranganatha, as he is also called, is another, which is popular chiefly among the Visishtadvaitins. This has been cited and quoted as an authority by Sri Venkatanatha (13th cent.) in his works. In spite of its popularity and authoritativeness, the Bhashya has been so far only in manuscripts and it is with pleasure I place this before the discerning public. This supplies the link that was missing in the chain of the development of the concept of Lakshmi beginning 
 
-To facilitate reference, I am including in the Appendix complete Stotras of Lakshmi which have been either cited or quoted by the Bhashyakara. Sri Sukta, Catus-sloki, Saranagatigadya, Sri Stava, Sri Gunaratnakosa and Sri Stuti, are published with their translations in English. I have included chapters eight and nine of the first Amsa of the Vishnu Purana and a Lakshmi Sahasranama and the Lakshmi Ashtottara also. ... 
-I have also prepared indexes of the Riks, of quotations in the Bhashya, and of the proper names mentioned in the Bhashya. Many of the Samhitas quoted, like the Dhanadiya, Kasyapa, Mankana, and Svayambhuva are not to be had now. The quotations from the Bodhayanakalpa and the Padma Purana cannot be traced and there are many other quotations the sources of which I am not able to trace out. I should be much obliged if any kind scholar is pleased to throw any light on all, or any, of them. 
+[[iii]] 
+
+from Yamunacarya's Catus-sloki based on the Sri Sukta and coming up to Sri Venkatanatha's Sri Stuti and Rahasya Raksha (commentary on Catus-sloki) through the Saranagatigadya of Ramanuja, Sri Stava of Sri Vatsanka Misra, and Sri Gunaratnakosa of Bhattar; and so no apology is needed for publishing this. The work will speak for itself and I need not dilate upon its merits. 
+
+To facilitate reference, I am including in the Appendix complete Stotras of Lakshmi which have been either cited or quoted by the Bhashyakara. Sri Sukta, Catus-sloki, Saranagatigadya, Sri Stava, Sri Gunaratnakosa and Sri Stuti, are published with their translations in English. I have included chapters eight and nine of the first Amsa of the Vishnu Purana and a Lakshmi Sahasranama and the Lakshmi Ashtottara also. The Sahasranama was kindly lent to me by Sri. Sriramadesikacarya of Tirukkottiyur. There are already three editions of Sahasranama in print: one printed in the Vani Vilas Press, Srirangam; the other in the Venkatesvar Steam Press, Bombay; and the third published by V. R. Sastrulu & Sons, Madras. The last two are mostly alike and the first differs much from them. But there too, many names of Lakshmi, that are quoted by earlier writers like Nanjiyar and Desika, are not found and I was in search of the original Sahasranama of Lakshmi which should have been the source for the Acaryas. My efforts have been successful at last and I was able to find one with
+
+[[iv]]
+
+Sri. Sri Rama Desikacarya of Tirukkottiyur which has all the names quoted and it is that I am including in the Appendix. Though it agrees with the Vani Vilas Edition to a large extent, still there are many differences in readings which are given in the foot-notes. I hope it will be useful to all, not only as an authority, but as a book for 'Parayanam' also. An alphabetical index of the Lakshmi Sahasranama and Lakshmi Ashtottara also is added. I have also prepared indexes of the Riks, of quotations in the Bhashya, and of the proper names mentioned in the Bhashya. Many of the Samhitas quoted, like the Dhanadiya, Kasyapa, Mankana, and Svayambhuva are not to be had now. The quotations from the Bodhayanakalpa and the Padma Purana cannot be traced and there are many other quotations the sources of which I am not able to trace out. I should be much obliged if any kind scholar is pleased to throw any light on all, or any, of them.
 
 ### ACKNOWLEDGMENTS. 
-It would be impossible for me to give full details of all the help I have received from my friends. My chief debt is to Sri. Sri Ramadesikacarya of Tirukkottiyur for kindly lending me his palm-leaf Ms. that he, as if by divine favour, got one morning years ago from the River Ghatila (Garuda Nadi) in Cuddalore. It is on this Ms. that the present work is mainly based.vi 
+
+It would be impossible for me to give full details of all the help I have received from my friends. My chief debt is to Sri. Sri Ramadesikacarya of Tirukkottiyur for kindly lending me his palm-leaf Ms. that he, as if by divine favour, got one morning years ago from the River Ghatila (Garuda Nadi) in Cuddalore. It is on this Ms. that the present work is mainly based.
+
+[[v]]
 
 I am greatly indebted to my Acarya Sri Saumya Narayana Acarya of Tirukkottiyur who helped me at every stage. It was under his supervision and advice that I copied the Ms. and compared it with an incomplete one in his possession. He read through the whole again when it was printed and gave many useful suggestions which I have tried to carry out. Besides making me what I am, he has blessed my endeavour now with a critical and learned Bhumika to this book in the course of which he establishes the identity of the Bhashyakara with invulnerable arguments. I have drawn a great deal from this Bhumika to write my Introduction in English and it is with great reverence and love that I take this opportunity of expressing my gratitude to him for all his help. 
 
 My thanks are also due to Melappalayam Venkatacarya, the Vedic scholar at Srirangam who helped me to find out the sources of many Vedic passages quoted in the Bhashya. 
 
-In addition to the above, I am indebted to Dr. V. Raghavan, M.A., Ph. D., (Senior Assistant to the Editor-in-chief of the Catalogus Catalogorum, Madras University), who, on my request, so kindly undertook to compare for me four Mss. of Sri Sukta Bhashya in the Madras Government Oriental Manuscripts Library and supplied me the various readings. But the work was already half-way through the press when I approached him and so the variations in reading [[vii]] could be incorporated in the text itself only in the latter part of the book and for the first half, they are appended to the end of this. 
+In addition to the above, I am indebted to Dr. V. Raghavan, M.A., Ph. D., (Senior Assistant to the Editor-in-chief of the Catalogus Catalogorum, Madras University), who, on my request, so kindly undertook to compare for me four Mss. of Sri Sukta Bhashya in the Madras Government Oriental Manuscripts Library and supplied me the various readings. But the work was already half-way through the press when I approached him and so the variations in reading 
 
-I shall be thankful to my friends and wellwishers for any suggestions to improve the work and bring it to perfection. In fine, I shall feel my endeavour has been quite a success if even one devotee of that Goddess-Mahalakshmiyadasa-or Lakshmi Herself will be pleased with this. 
+[[vi]] 
+
+could be incorporated in the text itself only in the latter part of the book and for the first half, they are appended to the end of this. 
+
+I shall be thankful to my friends and wellwishers for any suggestions to improve the work and bring it to perfection. In fine, I shall feel my endeavour has been quite a success if even one devotee of that Goddess - Mahalakshmiyadasa - or Lakshmi Herself will be pleased with this. 
 
 8-4-37.  
 SRINIVASA RAGHAVAN.   
 
-### DESCRIPTION OF THE MANUSCRIPTS.   
-1. Ms. of Sri. Sri Ramadesikacarya marked *. 
-2. D. 25-palm-leaf Ms. in Grantha script calls itself Sri Sukta Bhashya by Gomatha Ranganatha marked . Colophon : इति श्रीगोमठरङ्गनाथविरचितं श्रीसूक्तभाष्यं समाप्तम् । 
-3. D.26-a copy of D. 25 is marked and agrees substantially and verbally in most places with D. 25, but has different readings in many places. Colophon: agregiatărâdi श्रीसूकभाष्यं समाप्तम् ।[[viii]] 
-4. D. 27.—marked is an abridged version of D. 25 & 26, but with all the discussive portions omitted and giving just a wordfor-word meaning and also quotations from some works, most of which are found in D. 25 & 26. This calls itself Sri SuktaVisishtadvaita-Bhashya and is very much like the one edited by Pandit Anantacarya in Conjivaram in 1899. 
-5. R. 99f.-Tamil part-leaves 97a to 116a- 
-same as D. 25 and so marked . It has three additional Mangala Slokas. (All the above four (2-5) are in the Government Oriental Manuscripts Library, Madras.) 
-6. An incomplete Ms. in the possession of Sri. Sri Saumyanarayana Acarya of Tirukkottiyur, marked . 
+### DESCRIPTION OF THE MANUSCRIPTS.
 
-I am told the Adyar Library has a Sri Sukta Bhashya which is given in the catalogue without the author's name and so also the Mysore Library. The Ms. marked, on which the present work is based, is the most complete and all the others have some portion or other omitted in them. This Bhashya is by Ranganatha Muni. 
+1. Ms. of Sri. Sri Ramadesikacarya marked क. 
 
-The Bhashya on the seventh Rik is not found in any of the Mss. which merely read the Rik. So I have given the meaning from the Bhashya edited by Pandit Anantacarya of Conjivaram. 
+2. D. 25 - palm-leaf Ms. in Grantha script calls itself Sri Sukta Bhashya by Gomatha Ranganatha marked ख. Colophon: इति श्री-गो-मठ-रङ्ग-नाथ-विरचितं श्री-सूक्त-भाष्यं समाप्तम्। 
 
-### श्रीसूक्तभाष्ये पाठभेदाः  
+3. D.26 - a copy of D. 25 is marked ग and agrees substantially and verbally in most places with D. 25, but has different readings in many places. Colophon: श्री-रङ्ग-नाथ-मुनि-विरचितं श्री-सूक्त-भाष्यं समाप्तम्। 
+
+[[vii]] 
+
+4. D. 27. — marked घ is an abridged version of D. 25 & 26, but with all the discussive portions omitted and giving just a word-for-word meaning and also quotations from some works, most of which are found in D. 25 & 26. This calls itself Sri Sukta-Visishtadvaita-Bhashya and is very much like the one edited by Pandit Anantacarya in Conjivaram in 1899. 
+
+5. R. 99f.-Tamil part-leaves 97a to 116a - 
+same as D. 25 and so marked ख. It has three additional Mangala Slokas. (All the above four (2-5) are in the Government Oriental Manuscripts Library, Madras.) 
+
+6. An incomplete Ms. in the possession of Sri. Sri Saumyanarayana Acarya of Tirukkottiyur, marked च. 
+
+I am told the Adyar Library has a Sri Sukta Bhashya which is given in the catalogue without the author's name and so also the Mysore Library. The Ms. marked क, on which the present work is based, is the most complete and all the others have some portion or other omitted in them. This Bhashya is by Ranganatha Muni. 
+
+The Bhashya on the seventh Rik is not found in any of the Mss. which merely read the Rik. So I have given the meaning from the Bhashya edited by Pandit Anantacarya of Conjivaram.
+
+[[viii]]
+
+### श्री-सूक्त-भाष्ये पाठ-भेदाः  
+
 श्रीः   
 
-[
-क गोष्ठीपुरं श्रीमत्. श्रीरामदेशिकाचार्यखामिनां तालपत्रकोशः   
-ख - D. 25 & R99f.   
-ग - D. 26 
-घ - 27.  
+[क - गोष्ठी-पुरं श्रीमत्. श्री-राम-देशिकाचार्य-स्वामिनां ताल-पत्र-कोशः 
+ख - D. 25 & R 99 f.
+ग - D. 26 घ - 27.
 
-एतच्चतुष्टयमपि मदरास् गवर्न्मेण्ट् ओरियण्टल् मानस्कृप्ट्स् लैब्ररिगतम् । 
-
-च गोष्ठीपुरं श्रीमत् . श्रीसौम्यनारायणाचार्यपादानां तालपत्त्रकोशः ॥ 
-
+एतच् चतुष्टयम् अपि मदरास् गवर्न्मेण्ट् ओरियण्टल् मानस्कृप्ट्स् लैब्ररि-गतम् । 
+च - गोष्ठी-पुरं श्रीमत्. श्री-सौम्य-नारायणाचार्य-पादानां ताल-पत्र-कोशः ॥ 
 'क, ग, च' इति ग्रन्थाः निर्दिश्यन्ते । 
-अनिर्दिष्टाक्षराः पाठभेदाः ख पुस्तकस्य ] 
+अनिर्दिष्टाक्षराः पाठ-भेदाः ख पुस्तकस्य ] 
 
-पृष्ठ. पङ्किः. 
+पृष्ठ. पङ्किः.
 
-१ 1 ग्रन्थारम्भे एते श्लोकाः दृश्यन्ते -ख पुस्तके 
-प्राची सन्ध्या काचिदन्तर्निशायाः प्रज्ञादृष्टेरञ्जन श्रीरपूर्वा । 
-वक्त्री वेदान् भातु मे वाजिवक्त्रा 
-वागीशाख्या वासुदेवस्य मूर्तिः ॥ १ ॥ 
-विशुद्धविज्ञानघनखरूपं विज्ञानविश्राणनबद्धदीक्षं । दयानिधिं देहभृतां शरण्यं देवं हयग्रीवमहं प्रपद्ये ॥ २ 
-योऽन्तः प्रविश्य मम वाचमिमां प्रसुप्तां 
-सञ्जीवयत्यखिलशक्तिधरः स्वधाम्ना । 
-अन्यांश्च हस्तचरणश्रवणत्वगादीन् 
-प्राणान्नमो भगवते पुरुषाय तस्मै ॥ ३ ॥ 
-४ 
-५ 
-X 
-१ 1 2 श्री पराशर.... इति श्लोकः न - ख । लोकसद्भावेऽपि 
-अनन्तर श्लोकस्य एव प्रथमसंख्या दीयते -ग. 
-२ 
-m 
-3 जननीं लक्ष्मीं कमलवासिनी - ख. 
-7 श्रियः सूक्तमधीतं यत् सुजपं मङ्गलावहम् - ख. 
-ई 
-सानो - ग, घ. 
-इति न - ख. 
-3 ईशाना.... धिपत्नी इति न ख. 4 अत्र द्वितीया ऋक् पञ्चपढ़ा 
-अस्मिन् - ख. ग. 5 पण्डितप्रसिद्धतरं - ख. 6 सर्वेश्वरस्येश्वरत्वं तद्विभूनेरहितत्वं - ख. 11 अश्नुते - ख, च. पुराणे इति न - ख. 
-2 असद्व्यावृत्तस्य -ख, घ, च. 
-3 - कस्य प्रपञ्चजातस्य-ख. 
+१ 1 ग्रन्थारम्भे एते श्लोकाः दृश्यन्ते - ख पुस्तके 
+
+> प्राची सन्ध्या काचिद् अन्तर्-निशायाः  
+प्रज्ञा दृष्टेर् अञ्जन-श्रीर् अपूर्वा ।  
+वक्त्री वेदान् भातु मे वाजि-वक्त्रा  
+वागीशाख्या वासुदेवस्य मूर्तिः ॥ १ ॥  
+विशुद्ध-विज्ञान-घन--स्व-रूपं विज्ञान-विश्राणन[[??]]-बद्ध-दीक्षम् ।  
+दया-निधिं देह-भृतां शरण्यं देवं हयग्रीवम् अहं प्रपद्ये ॥ २ ॥  
+यो ऽन्तः प्रविश्य मम वाचम् इमां प्रसुप्ताम्  
+सञ्जीवयत्य् अखिल-शक्ति-धरः स्व-धाम्ना ।  
+अन्यांश् च हस्त-चरण-श्रवण-त्वग्-आदीन्  
+प्राणान् नमो भगवते पुरुषाय तस्मै ॥ ३ ॥ 
+
+[[ix]]
+
+१ 1 2 श्री-पराशर.... इति श्लोकः न - ख । श्लोक-सद्-भावे ऽपि 
+अनन्तर-श्लोकस्य एव प्रथम-सङ्ख्या दीयते - ग. 
+3 जननीं लक्ष्मीं कमल-वासिनी - ख. 
+7 श्रियः सूक्तम् अधीतं यत् सुजपं मङ्गलावहम् - ख. 
+
+२ 3 ईशाना.... धिपत्नी इति न - ख. ई सा नो - ग, घ.
+4 अत्र द्वितीया ऋक् पञ्च-पदा इति न - ख.
+अस्मिन् - ख. ग. 5 पण्डित-प्रसिद्ध-तरं - ख. 
+6 सर्वेश्वरस्येश्वरत्वं तद्-विभूतेर् अविहतत्वं[[??]] - ख. 11 अश्नुते - ख, च. पुराणे इति न - ख. 
+
+३ 2 असद्-व्यावृत्तस्य - ख, घ, च. 
+3 - कस्य प्रपञ्च-जातस्य - ख. 
+4 आङ् - क,ख.
 6 स्थापयन्ती - ख. 
-4 आङ्–क,ख. 
-7 वैदेहीमिति - ख. 
-9 समाराधनसमुद्यतानां भोगानु-ख. 
+7 वैदेहीम् इति - ख. 
+9 समाराधन-समुद्यतानां भोगानु - ख. 
 11-13 यस्य यस्य....दुहाना इति एतत् न - ख. 
-18 प्रकिरन्तीति बहुस्नुतीति - ख; प्रक्षरन्ती बहुस्तुति- 
-रिति-च. 
-2 जंगमात्मकप्रपञ्चस्य ख, ग . 6 [ 
-हविषा ] इति नग. 6 वस्त्रपुष्पादिना - ख. 
-7 वा इति न - ख; सा नो लोकमित्यादि इति न - ख. 8 समाराधितेभ्यः - ख. 13 पुराणवचनं... लेख्यं इति न. 14 'ईशाना देवी' इत्यारभ्य, पृ. १६, २. एवं भूतां 
-श्रद्धामुपास्महे' इत्यन्तं न - ख. 
-6 यजमानाः -ग, च. 7 देवाः ―ग, च. 
-ww 
-G 
-८ 
-5 विदथे— ग. 
-xi 
-11 सर्वजगन्निर्माण - ख. 
-8 सर्वकर्मसमाराध्यत्वं - ग. 
+18 प्रकिरन्तीति बहुस्नुतीति[[??]] - ख; प्रक्षरन्ती बहुस्नुतिर् इति - च. 
+
+४ 2 जङ्गमात्मक-प्रपञ्चस्य ख, ग . 
+6 [ हविषा ] इति न - ग. 
+6 वस्त्र-पुष्पादिना - ख. 
+7 वा इति न - ख; सा नो लोकम् इत्य्-आदि इति न - ख. 
+8 समाराधितेभ्यः - ख. 
+13 पुराण-वचनं... लेख्यं इति न. 
+14 'ईशाना देवी' इत्य् आरभ्य, पृ. १६,२. एवं भूतां 'श्रद्धाम् उपास्महे' इत्य् अन्तं न - ख. 
+
+५ 6 यजमानाः - ग, च. 
+7 देवाः - ग, च. 
+
+[[x]]
+
+६ 5 विदथे - ग. 
+8 सर्व-कर्म-समाराध्यत्वं - ग. 
+11 सर्व-जगन्-निर्माण - ख. 
 18 इच्छन्ती क्यच् - क, ग. 
-14 'अञ्चु गति' इत्यारभ्य, 17 ' इति च' इत्यन्तं न ख... 
-2 तां साक्षात्कृत्य - ख. 
+14 'अञ्चु गति' इत्य् आरभ्य, 
+17 'इति च' इत्य् अन्तं न - ख.
+
+७ 2 तां साक्षात् कृत्य - ख. 
+8 कश्चिद् अ-किञ्चन - ख. 
 13 समृद्धं धनं - ख. 
-8 कश्चिकिञ्चन - - ख. 
 14 सा त्वं नः अस्मान् - ग. 
-2 भूमिर्वा उच्यते - ग. 3 अदितिः इति प्रतीकः न - ग. 4 अवखण्डने इत्यादिना इकारः खः 
-पाणचक्षुः - ग, च. 
-9 इति यावत् । अदितिर्जनित्वं – जनिष्यमाणमदितिः -ख. 
+
+८ 2 भूमिर् वा उच्यते - ग. 
+3 अदितिः इति प्रतीकः न - ग. 
+4 अवखण्डने इत्य्-आदिना इकारः - खः 
+7प्राण-चक्षुः - ग, च. 
+9 इति यावत् । अदितिर् जनित्वं – जनिष्यमाणम् अदितिः - ख. 
 14 अत्र लक्ष्मी - ख. 
-1 ' वाक्सूक्ते तु' इत्यारभ्य, 
-तत्परमेव' इत्यन्तं न - ख. 
-3 अनन्तमित्यनेन ——ग. 
-१० 3 'वराहोद्धृतत्वं 
-11 - 13 व्याप्तिपरं प्रतिपादकं । स्वरूपतो व्याप्ति - घ. 
-१० 3 उपबृंहणं । मैत्रेयेण पृष्टः .... वैष्णवपुराणे 
-स्पष्टमध्याय - ख. 
-10-13 ‘जगन्माता' इति 'नानयोर्विद्यते परं' इत्यन्तं लेख्यं 
-प्रथमे अंशे अष्टमोऽध्यायः । अनेनाध्यायेन - ख. 
-14-17 'नात्मशरीरभावादिना' इत्यारभ्य, 'प्रपञ्चितं' इत्यन्तं 
-न - ख. 
+
+९ 1 'वाक्-सूक्ते तु' इत्य् आरभ्य, 
+१० 3 'वराहोद्धृतत्वं तत्परम् एव' इत्य् अन्तं न - ख. 
+3 अन्-अनन्तम् इत्य् अनेन - ग. 
+11 - 13 व्याप्तिपरं प्रतिपादकम् । स्व-रूपतो व्याप्ति - घ. 
+
+१० 3 उपबृंहणम् । मैत्रेयेण पृष्टः .... वैष्णव-पुराणे स्पष्टम् अध्याय - ख. 
+10-13 ‘जगन्-माता' इति 'नानयोर् विद्यते परम्' इत्य् अन्तं लेख्यं प्रथमे अंशे अष्टमो ऽध्यायः । अनेनाध्यायेन - ख. 
+14-17 'नात्म-शरीर-भावादिना' इत्य् आरभ्य, 'प्रपञ्चितम्' इत्य् अन्तं न - ख. 
+
+[[xi]]
+
 ११ 
 १२ 
 : १३ 
