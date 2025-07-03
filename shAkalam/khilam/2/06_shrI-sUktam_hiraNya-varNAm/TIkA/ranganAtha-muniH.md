@@ -548,7 +548,11 @@ As is the case generally with our poets and saints, we have no detailed and accu
 
 > "Is he a good scholar? How many Sastras has he learnt ?" 
 
-> "Why, he is a very great scholar and is acknowledged as such by many savants, all of whom he defeated in debates. He is the master [[xxvi]] of all Sastras and the six Darsanas (systems of philosophy); and to show this, he sits on a throne of six planks placed one over the other." 
+> "Why, he is a very great scholar and is acknowledged as such by many savants, all of whom he defeated in debates. He is the master //////
+
+[[xxv]]
+
+ of all Sastras and the six Darsanas (systems of philosophy); and to show this, he sits on a throne of six planks placed one over the other." 
 
 > "Then will you please tell him I know Tiruneduntandagam * also?" 
 
