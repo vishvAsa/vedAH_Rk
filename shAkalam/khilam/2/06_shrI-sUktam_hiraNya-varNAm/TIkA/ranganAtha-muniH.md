@@ -530,13 +530,16 @@ The Gnana-kanda has been differently interpreted by different schools of philoso
 
 This school of the Alvars gradually developed through several centuries till it assumed a full and definite form in the eleventh century with the advent of Sri Ramanuja and his numerous disciples proficient in the Upanishadic lore, both of the Vedas and of the Alvars. The Alvars recognised the Divine Couple Sri and Narayana as the Supreme Tattva, as the goal, and as the means towards the goal (Para Tattva, Parama hita, and Parama Purushartha). The Couple are responsible for the creation, sustenance, and dissolution of the world; and in short the Brahman of the Upanishads connotes for them the Divya Mithuna or the Divine Couple. Thus the hymns of the Alvars speak of the greatness of Sri as being on a par with that of Her Consort, in every way. She equally shares with Him the definition of the term 'Brahman.' 
 
-""
-""
-""
+The Acaryas who came in the wake of the Alvars elucidated this idea in their different Stotras to Sri, i. e., Lakshmi: Sri Yamunacarya in his Catus-sloki (hymn of four verses), and Ramanuja in his Saranagati gadya. The disciples of the latter carried this still futher: Srivatsanka Misra in his Sri Stava of eleven verses, and Sri Parasara Bhattar in his Sri Gunaratnakosa of sixty-one verses. Nanjiyar, who was also called Ranganatha and Narayana Muni, and who was a disciple of Bhattar, codified all the ideas from the time of the Vedas to that of his own master and wrote a masterly digest in the form of a commentary on Sri Sukta, called the Sri Sukta Bhashya which is published now for the first time nearly eight hundred years after it was written. No doubt later Acaryas such as Sri Venkatanatha and Nainar-accan-pillai have 
 
-The Acaryas who came in the wake of the Alvars elucidated this idea in their different Stotras to Sri, i. e., Lakshmi: Sri Yamunacarya in his Catus-sloki (hymn of four verses), and Ramanuja in his Saranagati gadya. 
 
-The disciples of the latter carried this still futher: Srivatsanka Misra in his Sri Stava of eleven verses, and Sri Parasara Bhattar in his Sri Guna-ratnakosa of sixty-one verses. Nanjiyar, who was also called Ranganatha and Narayana Muni, and who was a disciple of Bhattar, codified all the ideas from the time of the Vedas to that of his own master and wrote a masterly digest in the form of a commentary on Sri Sukta, called the Sri Sukta Bhashya which is published now for the first time nearly eight hundred years after it was written. No doubt later Acaryas such as Sri Venkatanatha and Nainar-accan-pillai have [[XXV]] given the world their Sri Stuti and Catus-sloki Bhashyas; but the former's is an exposition, and the latter's at best a criticism of the ideas in the Sri Sukta Bhashya of Nanjiyar. So it may be said without hesitation that the Sri Sukta Bhashya marks the climax in the development of the concept of Sri, especially in the Visishtadvaita School of Philosophy. 
+given the world their Sri Stuti and Catus-sloki Bhashyas; but the former's is an exposition, and the latter's at best a criticism of the ideas in the Sri Sukta Bhashya of Nanjiyar. So it may be said without hesitation that the Sri Sukta Bhashya marks the climax in the development of the concept of Sri, especially in the Visishtadvaita School of Philosophy. 
+
+[[xxiv]]
+
+""
+""
+""
 
 #### LIFE AND WORKS OF THE BHASHYAKARA : RANGANATHA MUNI (NANJIYAR). 
 As is the case generally with our poets and saints, we have no detailed and accurate history of the life of Nanjiyar or Ranganatha, our author; and all that we know of him comes to us from the traditional account preserved in the "Lives of the Acaryas" (Guruparampara-prabhava) and in the 'aitihyas' in the Bhagavad vishaya. We shall now proceed to sketch briefly the life of the author of the Sri Sukta Bhashya as far as we are able to glean from the sources mentioned above, and then establish his identity which is a bit shrouded in mystery. 
