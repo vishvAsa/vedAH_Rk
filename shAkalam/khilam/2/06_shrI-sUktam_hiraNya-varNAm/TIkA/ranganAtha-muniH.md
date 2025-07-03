@@ -537,34 +537,34 @@ given the world their Sri Stuti and Catus-sloki Bhashyas; but the former's is an
 
 [[xxiv]]
 
-""
-""
-""
-
 #### LIFE AND WORKS OF THE BHASHYAKARA : RANGANATHA MUNI (NANJIYAR). 
 As is the case generally with our poets and saints, we have no detailed and accurate history of the life of Nanjiyar or Ranganatha, our author; and all that we know of him comes to us from the traditional account preserved in the "Lives of the Acaryas" (Guruparampara-prabhava) and in the 'aitihyas' in the Bhagavad vishaya. We shall now proceed to sketch briefly the life of the author of the Sri Sukta Bhashya as far as we are able to glean from the sources mentioned above, and then establish his identity which is a bit shrouded in mystery. 
 
-> "This is just like the Teaching Hall of the Vedantin in the west.' 
+> This is just like the Teaching Hall of the Vedantin in the west. 
 
-> "Is he a good scholar? How many Sastras has he learnt ?" 
+> Is he a good scholar? How many Sastras has he learnt ?
 
-> "Why, he is a very great scholar and is acknowledged as such by many savants, all of whom he defeated in debates. He is the master //////
+> Why, he is a very great scholar and is acknowledged as such by many savants, all of whom he defeated in debates. He is the master of all Sastras and the six Darsanas (systems of philosophy); and to show this, he sits on a throne of six planks placed one over the other.
 
 [[xxv]]
 
- of all Sastras and the six Darsanas (systems of philosophy); and to show this, he sits on a throne of six planks placed one over the other." 
+> Then will you please tell him I know 'Tiruneduntandagam' [^1_xxvi] also? 
 
-> "Then will you please tell him I know Tiruneduntandagam * also?" 
+[^1_xxvi]: This is one of the six poems of Tirumangai Alvar full of devotion and melody. It establishes the superiority of Sriman-Narayana in a charmingly poetic manner.
 
-(*This is one of the six poems of Tirumangai Alvar full of devotion and melody. It establishes the superiority of Sriman-Narayana in a charmingly poetic manner. )
+This was the conversation that took place one day in the 'Kalakshepa Mantapa' (Teaching Hall) of Sri Parasara Bhattar in the great temple at Sriranga between Bhattar and a Brahmin pilgrim from the west. Bhattar was one of the two sons of Sri Vatsanka Misra (Kurattalvan), was the devoted and beloved disciple of Ramanuja, and was noted for his piety and learning, 
 
-This was the conversation that took place one day in the Kalakshepa Mantapa' (Teaching Hall) of Sri Parasara Bhattar in the great temple at Sriranga between Bhattar and a Brahmin pilgrim from the west. (+ Vide the introductory stanza of the Sahasranamabhashya of Bhattar: श्रीश्रीरङ्गपतिप्रसादतृषया श्रीरङ्गनाथाह्वयः । ) 
+[^2_xxvi] Ranganatha was the name given to him by God Ranganatha himself. Even as a boy Parasara Bhattar was very intelligent, and was very soon the foremost among the scholars of the day and the disciples of [^3_xxvi]Ramanuja. Soon after the conversation described above, Bhattar under the command of the Lord Ranganatha marched to the west to engage the great Vedantin in a debate and make him a disciple and devotee of the Lord. 
 
-Bhattar was one of the two sons of Sri Vatsanka Misra (Kurattalvan), was the devoted and beloved disciple of Ramanuja, and was noted for his piety and learning, Ranganatha was the name given to him by God Ranganatha himself. Even as a boy Parasara Bhattar was very intelligent, and was very soon the foremost among the scholars of the day and the disciples of Ramanuja. Soon after the conversation described above, Bhattar under the command of the Lord Ranganatha marched to the west to engage the great Vedantin in a debate and make him a disciple and devotee of the Lord. 
+[^2_xxvi]: Vide the introductory stanza of the Sahasranamabhashya of Bhattar: श्री-श्री-रङ्ग-पति-प्रसाद-तृषया श्री-रङ्ग-नाथाह्वयः ।
 
+[^3_xxvi]: For further details about the life of Bhattar, the reader is referred to the introduction prefixed to Sri Gunaratnakosa in the Appendix. 
 
+[[xxvi]] 
 
-For further details about the life of Bhattar, the reader is referred to the introduction prefixed to Sri Gunaratnakosa in the Appendix. [[xxvii]] 
+""
+""
+""
 
 This Vedantin was born in Tirunarayanapuram on the day of Uttara in the month of Phalguna in Vijaya, Kali 4215, (March-April 1114 A.D.) and was then known as Madhava Suri. Very soon he learnt all the Sastras and darsanas and became a successful disputationist. The Vedanta of the Advaitic interpretation was his special field and so he was known as 'Vedantin' by which name we shall refer to him hereafter. Many came to learn at his feet and his place was like a university. Being charitably-minded, he fed all those that came to his residence at Kangora. 
 
