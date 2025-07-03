@@ -518,16 +518,21 @@ The Bhashya on the seventh Rik is not found in any of the Mss. which merely read
 गोष्ठी-पुरं 
 श्री-सौम्य-नारायणाचार्यः 
 
-""
-""
-""
+[[xxii]]
 
 ### INTRODUCTION. 
+
 It may be said almost without contradiction that there is no branch of literature in India, secular or religious, which is not based on the Vedas, the sacred books of the Hindus and these have been enjoying unquestioned authority from time immemorial. These Vedas are in two sections: the Karma-kanda dealing with the rituals and sacrifices, and the Gnana-kanda with the nature of Brahman, the world, and their interrelation; which latter (the Gnana-kanda) is the source of all our systems of philosophy. 
 
 The Gnana-kanda has been differently interpreted by different schools of philosophy. But the one form of philosophy which has, and can at any time have, universal popularity is that in which the Brahman of the Upanishads is conceived of as a being, between which and the devotee there can exist a personal relation, love and faith on the part of man, justice tempered by mercy on the part of the Divinity. The School of the Alvars pre-eminently struck this note of devotion to a personal God-Sriman Narayana, and so came to hold the hearts of the people. 
 
-This school of the Alvars gradually developed through several centuries till it assumed a full and definite form in the eleventh century with the advent of Sri Ramanuja and his numerous [[xxiv]] disciples proficient in the Upanishadic lore, both of the Vedas and of the Alvars. The Alvars recognised the Divine Couple Sri and Narayana as the Supreme Tattva, as the goal, and as the means towards the goal (Para Tattva, Parama hita, and Parama Purushartha). The Couple are responsible for the creation, sustenance, and dissolution of the world; and in short the Brahman of the Upanishads connotes for them the Divya Mithuna or the Divine Couple. Thus the hymns of the Alvars speak of the greatness of Sri as being on a par with that of Her Consort, in every way. She equally shares with Him the definition of the term "Brahman. 
+[[xxiii]]
+
+This school of the Alvars gradually developed through several centuries till it assumed a full and definite form in the eleventh century with the advent of Sri Ramanuja and his numerous disciples proficient in the Upanishadic lore, both of the Vedas and of the Alvars. The Alvars recognised the Divine Couple Sri and Narayana as the Supreme Tattva, as the goal, and as the means towards the goal (Para Tattva, Parama hita, and Parama Purushartha). The Couple are responsible for the creation, sustenance, and dissolution of the world; and in short the Brahman of the Upanishads connotes for them the Divya Mithuna or the Divine Couple. Thus the hymns of the Alvars speak of the greatness of Sri as being on a par with that of Her Consort, in every way. She equally shares with Him the definition of the term 'Brahman.' 
+
+""
+""
+""
 
 The Acaryas who came in the wake of the Alvars elucidated this idea in their different Stotras to Sri, i. e., Lakshmi: Sri Yamunacarya in his Catus-sloki (hymn of four verses), and Ramanuja in his Saranagati gadya. 
 
