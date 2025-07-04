@@ -592,21 +592,27 @@ Sri Sukta Bhashya is another work of this Ranganatha Muni. He learnt the fundame
 
 ### IDENTITY OF THE BHASHYAKARA. 
 
-""
-""
-""
-
 see [here](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/ajJNAta-gotrAH/periya-jIyar_ranga-nArAyaNa-muniH/articles/nan-jIyar-paxaH)
 
 
+Madhavasuri was the name given to our author at his birth; Vedantin the name that he earned by his vast learning and skill in debate; [1_xxxviii]Ranganatha the name that was given to him as the 'dasya-nama' at the time of initiation into the Vaishnava fold by Bhattar which he himself used in his works; Narayana Muni the name that he assumed on becoming a Sannyasin by which he was referred to in Sanskrit works; Nanjiyar was the pet name given to him by Bhattar when the former met him at Sriranga for the second time by which he was referred to in Tamil works and in other places; and Periya Jiyar was another and a more respectable form of the name Nanjiyar by which also he was referred to. So by all these we are led to the irresistible conclusion that this Ranganatha Muni is Nanjiyar and this Bhashya on Sri Sukta is Nanjiyar's Sri Sukta Bhashya. 
 
-Madhavasuri was the name given to our author at his birth; Vedantin the name that he earned by his vast learning and skill in debate; \*Ranganatha the name that was given to him as the dasya-nama' at the time of initiation into the Vaishnava fold by Bhattar which he himself used in his works; Narayana Muni the name that he assumed on becoming a Sannyasin by which he was referred to in Sanskrit works; Nanjiyar was the pet name given to him by Bhattar when the former met him at Sriranga for the [[xxxix]] second time by which he was referred to in Tamil works and in other places; and Periya Jiyar was another and a more respectable form of the name Nanjiyar by which also he was referred to. So by all these we are led to the irresistible conclusion that this Ranganatha Muni is Nanjiyar and this Bhashya on Sri Sukta is Nanjiyar's Sri Sukta Bhashya. 
+[1_xxxviii]: An ingenious interpretation of the name 'Nanjiyar' is given by the author of 'Sri Tattva Nirnaya' in Tamil. He says that the original name was 'Nam-perumal-jiyar and 'Nanjiyar' is its corrupted form. (इवर् तिरुनामम् 'नम्पॆरुमाळ् जीयर्'; इत्तिरुनामम् चुरुङ्गिच् चुरुङ्गि 'नञ्जीयर्' ऎनवायीऱ्ऱु p. 8.) [[??]] This only helps our view: the Tamil name of Ranganatha is Nam-perumal' and Muni is 'Jiyar'; so Ranganatha Muni translated into the Tamil of the Vaishnavaite section will be Namperumal Jiyar. It is an easy step from this name to 'Nanjiyar.' 
+
+[[xxxviii]] 
 
 #### THE CONCEPT OF SRI IN VISISHTADVAITA. 
-Let us now sketch briefly the concept of Sri according to the Visishtadvaita System of philosophy as we learn from the works of eminent Vaishnava Acaryas such as Yamuna, Ramanuja, Bhattar, Nanjiyar, and Venkatanatha-all based on the ancient scriptures. Lakshmi and Narayana are ever inseparably united and they together are the Para Brahman. They are the Masters and Saviours of the Universe. The origination, sustentation, and the re-absorption of the Universe are done by the Divine Couple (Divya Mithuna). Devotion to the Couple is the means of salvation and the Two are the goal to be attained in the state of release. 
+
+Let us now sketch briefly the concept of Sri according to the Visishtadvaita System of philosophy as we learn from the works of eminent Vaishnava Acaryas such as Yamuna, Ramanuja, Bhattar, Nanjiyar, and Venkatanatha -- all based on the ancient scriptures. Lakshmi and Narayana are ever inseparably united and they together are the Para Brahman. They are the Masters and Saviours of the Universe. The origination, sustentation, and the re-absorption of the Universe are done by the Divine Couple (Divya Mithuna). Devotion to the Couple is the means of salvation and the Two are the goal to be attained in the state of release. 
 
 Though their persons are different, the tastes and opinions of Lakshmi and Narayana are always identical and there is no difference of opinion between them as in the case of loving parents intent on doing good to their children. Both are the possessors of unlimited auspicious 
-xl 
+
+[[xxxix]]
+
+""
+""
+""
+
 qualities; still for the convenience of the meditation of their devotees, by their common consent, the Lord manifests all the manly qualities and Sri, the womanly qualities. But it does not mean that one does not possess the qualities found in the other. Though both are the Masters of the Universe and have no master over them, still out of their own free will, Sri is the Queen or Consort; and the Lord is prominent only to this extent that he is the 'Pati' (husband); and this agreement too they are having only for saving the souls of the devotees. The Lord is strict and severe, and the erring souls cannot approach Him directly for pardon. Then the soft-hearted Sri, the loving Mother that She is, intercedes on their behalf with Her Consort and thus they both together save the souls from sin and bondage. All this is based on the authority of the Vedas and Samhitas such as Svayambhuva, Mankana, Mahalakshmi, Dhanadiya, Satamakha, Kasyapa, Sattvata, Vasishtha, Saunaka, Parasara and Atri. 
 
 There are different schools of thought which hold views different from the above about Lakshmi: Lakshmi is no separate entity but only the Prakriti or Inanimate Matter that is being presided over and evolved by the Lord; She is nothing but the Ego, the Volition, the Power, the Knowledge or the Existence of the Lord; Lakshmi is only the feminine form assumed by the Lord at his will from his own body for his diversion. But all these are groundless as the Vedas clearly and unmistakably 
