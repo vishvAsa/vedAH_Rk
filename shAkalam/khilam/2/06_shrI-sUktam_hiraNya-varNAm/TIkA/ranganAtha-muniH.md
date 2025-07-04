@@ -588,13 +588,14 @@ Ranganatha -- we shall hereafter refer to the Vedantin by this name -- remained 
 
 Being a good scholar Ranganatha-Narayana-Nanjiyar soon mastered the songs of the Alvars known as the 'Divya Prabandha,' and was then entrusted by Bhattar with the task of writing a commentary on them. So we have his sweet and short commentary on Tiru-vai-moli of Nammalvar known as '9000 padi' (i.e., in 9000 units) which is the source of all the commentaries that came later, especially the masterly '36000 padi' or 'Idu' of Nampillai. He has commented upon 'Tiruppalli-elucci' and 'Kanninun-sirut-tambu' also. A work called 'Nityam,' dealing with the daily duties of a Vaishnava as laid down in the Panca Ratra Samhitas, is attributed to him; but we have it only in fragments in the form of quotations in the Rahasya-Traya-Sara and Panca-Ratra-Raksha of Sri Venkatanatha. 
 
-""
-""
-""
-
 Sri Sukta Bhashya is another work of this Ranganatha Muni. He learnt the fundamental principles of the doctrine of Sri from Pranatartihara, a direct disciple of Ramanuja, and a contemporary of Bhattar who was his chief master. That Nanjiyar wrote a Bhashya on Sri Sukta is well-known and accepted by all without contradiction. That the work we are bringing out now is his Sri Sukta Bhashya, and that Ranganatha Muni and Nanjiyar are identical persons can be easily seen by the discerning reader. We shall also establish the same with evidences, both internal and external. 
 
-IDENTITY OF THE BHASHYAKARA.  
+### IDENTITY OF THE BHASHYAKARA. 
+
+""
+""
+""
+
 see [here](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/ajJNAta-gotrAH/periya-jIyar_ranga-nArAyaNa-muniH/articles/nan-jIyar-paxaH)
 
 
