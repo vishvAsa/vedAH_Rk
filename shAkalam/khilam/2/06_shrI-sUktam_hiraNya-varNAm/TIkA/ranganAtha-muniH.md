@@ -560,32 +560,37 @@ This was the conversation that took place one day in the 'Kalakshepa Mantapa' (T
 
 [[xxvi]] 
 
+This Vedantin was born in Tirunarayanapuram on the day of Uttara in the month of Phalguna in Vijaya, Kali 4215, (March-April 1114 A.D.) and was then known as Madhava Suri. Very soon he learnt all the Sastras and darsanas and became a successful disputationist. The Vedanta of the Advaitic interpretation was his special field and so he was known as 'Vedantin' -- by which name we shall refer to him hereafter. Many came to learn at his feet and his place was like a university. Being charitably-minded, he fed all those that came to his residence at Kangora. 
+
+The Brahmin pilgrim came to the Vedantin, and spoke about Bhattar at Sriranga and his knowledge of 'Tiruneduntandagam.' The Vedantin was astonished to hear that name, and felt a bit annoyed and perturbed as he thought Bhattar would be more than a match for him. 
+
+A few days later Bhattar left Sriranga with all his paraphernalia and was marching triumphantly followed by his disciples and admirers towards the place of the Vedantin. When he was approaching the town, a Brahmin told Bhattar that it would not be possible for him to see the Vedantin with all that pomp and grandeur, as he was sure to be delayed by the disciples in the outer halls, and that he should go in the guise of a mendicant if he wanted to see him easily. Bhattar took the hint and leaving all, donned the robes of a mendicant, and without any difficulty approached the Vedantin seated proudly on a dais of six planks placed one over the other. The Vedantin directed him towards the dining hall, but Bhattar boldly and firmly said, 
+
+[[xxvii]] 
+
+> "I am here for 'Vada-bhiksha' (debate), and not for 'annabhiksha' (begging food)." 
+
+The Vedantin was startled and asked him immediately if he was Bhattar of Srirangam fame. "Yes" was the reply, and soon a discussion began. It went on for a week and more until finally the Vedantin acknowledged defeat at the hands of the great Parasara Bhattar and as per the conditions, he became the latter's disciple. Bhattar initiated him into the Vaishnava fold and gave him his own name of [^1_xxviii]Ranganatha as the 'dasya-nama.' The disciple also received it with pleasure, as one way of acknowledging discipleship and 'dasya' (subordination) was bearing the master's name. Bhattar taught him the fundamental principles only of Visishtadvaita and allowed him, a great scholar as he was, to know the rest himself. Bhattar returned to Sriranga leaving the scholarly disciple in his own place. 
+
+[^1_xxviii]: The Guruparampara-prabhava (edited by Tattai Krishnamacarya of Kumbakonam and printed in Muttamil-Vilakka Press in Kali 4958, Pingala Ani-June-July, 1857) says clearly that Ranganatha is the 'dasya-nama' of Nanjiyar: p. 143. 
+
+> "पट्टर् उकन्तरुळि 'नम्मुटैय जीयर् वन्तार्' ऎन्ऱु अरुळिच् चॆय्दार्. अन्ऱु मुदल् वेदान्तिकळुक्कु 'नञ्जीयर्' ऎन्ऱु तिरु नाममायिऱ्ऱु. अवरुक्कु 'श्रीरङ्गनादर्' ऎन्पतु तास्यनामम्."[[??]]
+
+[[xxviii]]
+
+Ranganatha -- we shall hereafter refer to the Vedantin by this name -- remained at Kangora for some time; but drawn towards his master and longing to be always near him, he became a Sannyasin with the name of Narayana Muni; (for they assume a new name in that asrama ); and taking a part of his wealth as Gurudakshina, came to Sriranga and prostrated at the feet of his master. Bhattar was greatly delighted to see his learned disciple and lifted him with joy exclaiming "O, Our Saint!"[^1_xxix] (Nam Jiyar!) Ever since he is known in the Vaishnava hierarchy as 'Nanjiyar' in their Tamil works, and 'Narayana muni' in their Sanskrit works. It is just possible that when he referred to himself, he did so by his dasya-name, Ranganatha, as in the colophon of the Sri Sukta Bhashya.[^2_xxix] Being a devoted disciple of Bhattar, he always attended on him, and the enlightening conversations that the learned master and the scholarly disciple had, are handed down to us as 'aitihyam' in the Bhagavad vishaya literature. So we find that Ranganatha, Narayana, and Nanjiyar are the names of the Vedantin who was also known as Madhavasuri. 
+
+[^1_xxix]: 'नञ्जीयर्'[[??]] jiyar is the term in Tamil for the Vaishnava Sannyasin
+
+[^2_xxix]: (श्री-रङ्ग-नाथ-मुनि-विरचितं श्री-सूक्त-भाष्यं समाप्तम् । )
+
+[[xxix]]
+
+Being a good scholar Ranganatha-Narayana-Nanjiyar soon mastered the songs of the Alvars known as the 'Divya Prabandha,' and was then entrusted by Bhattar with the task of writing a commentary on them. So we have his sweet and short commentary on Tiru-vai-moli of Nammalvar known as '9000 padi' (i.e., in 9000 units) which is the source of all the commentaries that came later, especially the masterly '36000 padi' or 'Idu' of Nampillai. He has commented upon 'Tiruppalli-elucci' and 'Kanninun-sirut-tambu' also. A work called 'Nityam,' dealing with the daily duties of a Vaishnava as laid down in the Panca Ratra Samhitas, is attributed to him; but we have it only in fragments in the form of quotations in the Rahasya-Traya-Sara and Panca-Ratra-Raksha of Sri Venkatanatha. 
+
 ""
 ""
 ""
-
-This Vedantin was born in Tirunarayanapuram on the day of Uttara in the month of Phalguna in Vijaya, Kali 4215, (March-April 1114 A.D.) and was then known as Madhava Suri. Very soon he learnt all the Sastras and darsanas and became a successful disputationist. The Vedanta of the Advaitic interpretation was his special field and so he was known as 'Vedantin' by which name we shall refer to him hereafter. Many came to learn at his feet and his place was like a university. Being charitably-minded, he fed all those that came to his residence at Kangora. 
-
-The Brahmin pilgrim came to the Vedantin, and spoke about Bhattar at Sriranga and his knowledge of Tiruneduntandagam.' The Vedantin was astonished to hear that name, and felt a bit annoyed and perturbed as he thought Bhattar would be more than a match for him. 
-
-A few days later Bhattar left Sriranga with all his paraphernalia and was marching triumphantly followed by his disciples and admirers towards the place of the Vedantin. When he was approaching the town, a Brahmin told Bhattar that it would not be possible for him to see the Vedantin with all that pomp and grandeur, as he was sure to be delayed by the disciples in the outer halls, and that he should go in the guise of a mendicant if he wanted to see him easily. Bhattar took the hint and leaving all, donned the robes of a mendicant, and without any difficulty approached the Vedantin seated proudly [[xxviii]] on a dais of six planks placed one over the other. The Vedantin directed him towards the dining hall, but Bhattar boldly and firmly said, "I am here for Vada-bhiksha' (debate), and not for 'annabhiksha' (begging food)." The Vedantin was startled and asked him immediately if he was Bhattar of Srirangam fame. 
-
-"Yes" was the reply, and soon a discussion began. It went on for a week and more until finally the Vedantin acknowledged defeat at the hands of the great Parasara Bhattar and as per the conditions, he became the latter's disciple. Bhattar initiated him into the Vaishnava fold and gave him his own name of \* Ranganatha as the dasya-nama.' The disciple also received it with pleasure, as one way of acknowledging discipleship and 'dasya' (subordination) was bearing the master's name. Bhattar taught him the fundamental principles only of Visishtadvaita and allowed him, a great scholar as he was, to know the rest himself. Bhattar returned to Sriranga leaving the scholarly disciple in his own place. 
-
-
-
-(The Guruparampara-prabhava (edited by Tattai Krishnamacarya of Kumbakonam and printed in Muttamil-Vilakka Press in Kali 4958, Pingala Ani-June-July, 1857) says clearly that Ranganatha is the ' dasya-nama' of Nanjiyar: p. 143. 
-"பட்டர் உகந்தருளி 'நம்முடைய கீயர் வந்தார்' என்று அருளிச் செய்தார். அன்று முதல் வேதாந்திகளுக்கு நஞ்ஜீயர்' என்று திரு நாமமாயிற்று. அவருக்கு 'ஸ்ரீரங்கநாதர்' என்பது தாஸ்யநாமம்." )
-
-[[xxix]] 
-
-Ranganatha- we shall hereafter refer to the Vedantin by this name-remained at Kangora for some time; but drawn towards his master and longing to be always near him, he became a Sannyasin with the name of Narayana Muni; (for they assume a new name in that asrama ); and taking a part of his wealth as Gurudakshina, came to Sriranga and prostrated at the feet of his master. Bhattar was greatly delighted to see his learned disciple and lifted him with joy exclaiming "O, Our Saint!"\* (Nam Jiyar! \* Cor! Jiyar is the term in Tamil for the Vaishnava Sannyasin.).. Ever since he is known in the Vaishnava hierarchy as Nanjiyar in their Tamil works, and 'Narayana muni' in their Sanskrit works. It is just possible that when he referred to himself, he did so by his dasya-name, Ranganatha, as in the colophon of the Sri Sukta Bhashya.t (श्रीरङ्गनाथमुनिविरचितं श्रीसूक्तमाप्यं समाप्तम् । )
-
-Being a devoted disciple of Bhattar, he always attended on him, and the enlightening conversations that the learned master and the scholarly disciple had, are handed down to us as aitihyam in the Bhagavad vishaya literature. So we find that Ranganatha, Narayana, and Nanjiyar are the names of the Vedantin who was also known as Madhavasuri. 
-
-Being a good scholar Ranganatha-Narayana-Nanjiyar soon mastered the songs of the Alvars known as the Divya Prabandha,' and was then entrusted by Bhattar with the task of writing a commentary on them. So we have his sweet and short commentary on Tiru-vai-moli of Nammalvar known as 9000 padi' (i.e., in 9000 [[XXX]] units) which is the source of all the commentaries that came later, especially the masterly 36000 padi' or 'Idu' of Nampillai. He has commented upon "Tiruppalli-elucci' and Kanninun-sirut-tambu' also. 
-
-A work called 'Nityam,' dealing with the daily duties of a Vaishnava as laid down in the Panca Ratra Samhitas, is attributed to him; but we have it only in fragments in the form of quotations in the Rahasya-Traya-Sara and Panca-Ratra-Raksha of Sri Venkatanatha. 
 
 Sri Sukta Bhashya is another work of this Ranganatha Muni. He learnt the fundamental principles of the doctrine of Sri from Pranatartihara, a direct disciple of Ramanuja, and a contemporary of Bhattar who was his chief master. That Nanjiyar wrote a Bhashya on Sri Sukta is well-known and accepted by all without contradiction. That the work we are bringing out now is his Sri Sukta Bhashya, and that Ranganatha Muni and Nanjiyar are identical persons can be easily seen by the discerning reader. We shall also establish the same with evidences, both internal and external. 
 
