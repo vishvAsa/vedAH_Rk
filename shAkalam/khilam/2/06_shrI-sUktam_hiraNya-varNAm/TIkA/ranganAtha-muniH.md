@@ -623,24 +623,34 @@ This is the conclusion arrived at by Ranganatha Muni, or Nanjiyar as he is popul
 
 #### ANALYSIS OF THE BHASHYA. 
 
-""
-""
-""
+In an introduction of about eighteen pages, he quotes extensively and explains all the Vedic hymns which deal with Lakshmi: two Sraddha Suktas, Medha Sukta, Aditi Suktas; and his verdict is that Lakshmi, like Narayana, has all the following qualities: She is the creator of the Universe; She is omnipotent and omniscient; by nature fundamentally opposed to all blemishes and the resort of all auspicious qualities. She again pervades, sustains, and rules the Universe; She is the object of worship in all sacrifices; and all the fruits of wealth, realisation of the Soul (Kaivalya), and the attainment of Moksha are under Her control and bestowed on the devotees by Her. 
 
-In an introduction of about eighteen pages, he quotes extensively and explains all the Vedic hymns which deal with Lakshmi: two Sraddha Suktas, Medha Sukta, Aditi Suktas; and his verdict is that Lakshmi, like Karayana, has all the following qualities: She is the creator of the Universe; She is omnipotent and omniscient; by nature fundamentally opposed to all blemishes and the resort of all auspicious qualities. She again pervades, sustains, and rules the Universe; She is the object of worship in all sacrifices; and all the fruits of wealth, realisation of the Soul (Kaivalya), and the attainment of Moksha are under Her control and bestowed on the devotees by Her. 
-Then begins the Bhashya on the hymn. The word 'Jatavedah' which occurs in the first verse and also in four others is interpreted as Vishnu with an elaborate discussion containing 
-xliii 
-citations from numerous authorities such as Mahabharata and Vishnu Purana, Kasyapiya and Mankana Samhitas, Paramatma Sukta and Sariraka Sutras. Then the Bhashyakara proceeds with his Bhashya on the Riks and there are profuse quotations then and there from various authorities in support of his interpretations; and the reader is referred to the index for a detailed list of the same. 
+[[hlii]]
 
-In the ninth verse where Lakshmi is referred to as the Sovereign (ii), Nanjiyar has launched into an elaborate and long discussion-running to nearly twenty pages-on the concept of Lakshmi. In the course of it he raises many prima facie views, answers them categorically and concludes that names like Sraddha, and Vishnupatni refer to Lakshmi only: She is not subordinate to any one and is only the cail (Consort) of Narayana and not a 'f' (slave); both are engaged in the divine cosmic sacrifice of saving the souls and the one is essential for the other and cannot function or be without the other. Then he quotes in extenso many chapters of the Ahirbudhnya Samhita and Lakshmi Tantra in support of his view and winds up by saying that She is the equal of the Lord in all respects. 'The mastery of the Universe is one which inheres in both Lakshmi and Narayana.' 
-Then he completes his Bhashya on the remaining Riks and concludes the work mentioning his name and that of the master from whom he learnt all those things about Lakshmi. [[xliv]] 
+Then begins the Bhashya on the hymn. The word 'Jatavedah' which occurs in the first verse and also in four others is interpreted as Vishnu with an elaborate discussion containing citations from numerous authorities such as Mahabharata and Vishnu Purana, Kasyapiya and Mankana Samhitas, Paramatma Sukta and Sariraka Sutras. Then the Bhashyakara proceeds with his Bhashya on the Riks and there are profuse quotations then and there from various authorities in support of his interpretations; and the reader is referred to the index for a detailed list of the same. 
+
+In the ninth verse where Lakshmi is referred to as the Sovereign (ईश्वरीं सर्व-भूतानाम्), Nanjiyar has launched into an elaborate and long discussion -- running to nearly twenty pages -- on the concept of Lakshmi. In the course of it he raises many prima facie views, answers them categorically and concludes that names like Sraddha, and Vishnupatni refer to Lakshmi only: She is not subordinate to any one and is only the cail (Consort) of Narayana and not a 'दासी' (slave); both are engaged in the divine cosmic sacrifice of saving the souls and the one is essential for the other and cannot function or be without the other. Then he quotes in extenso many chapters of the Ahirbudhnya Samhita and Lakshmi Tantra in support of his view and winds up by saying that She is the equal of the Lord in all respects. 
+
+> The mastery of the Universe is one which inheres in both Lakshmi and Narayana.
+
+Then he completes his Bhashya on the remaining Riks and concludes the work mentioning his name and that of the master from whom he learnt all those things about Lakshmi. 
+
+[[xliii]] 
 
 #### CONCLUSION. 
 
 I need not dilate upon the merits of the Bhashya, but the intelligent reader can see for himself that it is perfect not only as a commentary, but as a piece of polemics and a type of beautiful literature also. I consider myself extremely fortunate that I have been chosen as the instrument for unearthing and publishing this rare work and I owe all this privilege and fortune to my Guru Sri. Sri Saumya Narayana Acarya of Tirukkottiyur. My respectful homage and salutations to him and to Goddess Lakshmi, the Mother of the Universe and of my humble self. 
 
-Pudukotab, 17-7-37.J   
-A. SRINIVASA RAGHAVAN   
+Pudukotab, 
+17-7-37.
+
+A. SRINIVASA RAGHAVAN 
+
+[[xliv]]
+
+""
+""
+""
 
 ### अशुद्धं 
 ५ 22 तै. उ. 
