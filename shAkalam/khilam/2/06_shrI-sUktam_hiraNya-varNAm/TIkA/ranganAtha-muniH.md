@@ -609,21 +609,24 @@ Though their persons are different, the tastes and opinions of Lakshmi and Naray
 
 [[xxxix]]
 
-""
-""
-""
-
 qualities; still for the convenience of the meditation of their devotees, by their common consent, the Lord manifests all the manly qualities and Sri, the womanly qualities. But it does not mean that one does not possess the qualities found in the other. Though both are the Masters of the Universe and have no master over them, still out of their own free will, Sri is the Queen or Consort; and the Lord is prominent only to this extent that he is the 'Pati' (husband); and this agreement too they are having only for saving the souls of the devotees. The Lord is strict and severe, and the erring souls cannot approach Him directly for pardon. Then the soft-hearted Sri, the loving Mother that She is, intercedes on their behalf with Her Consort and thus they both together save the souls from sin and bondage. All this is based on the authority of the Vedas and Samhitas such as Svayambhuva, Mankana, Mahalakshmi, Dhanadiya, Satamakha, Kasyapa, Sattvata, Vasishtha, Saunaka, Parasara and Atri. 
 
-There are different schools of thought which hold views different from the above about Lakshmi: Lakshmi is no separate entity but only the Prakriti or Inanimate Matter that is being presided over and evolved by the Lord; She is nothing but the Ego, the Volition, the Power, the Knowledge or the Existence of the Lord; Lakshmi is only the feminine form assumed by the Lord at his will from his own body for his diversion. But all these are groundless as the Vedas clearly and unmistakably 
-xli 
-declare that Lakshmi is a Cetana-a separate entity with the attributes of knowledge, bliss, power and the like; and that She is eternal like the Lord, Her consort. 
+There are different schools of thought which hold views different from the above about Lakshmi: Lakshmi is no separate entity but only the Prakriti or Inanimate Matter that is being presided over and evolved by the Lord; She is nothing but the Ego, the Volition, the Power, the Knowledge or the Existence of the Lord; Lakshmi is only the feminine form assumed by the Lord at his will from his own body for his diversion. But all these are groundless as the Vedas clearly and unmistakably declare that Lakshmi is a Cetana-a separate entity with the attributes of knowledge, bliss, power and the like; and that She is eternal like the Lord, Her consort. 
 
-Some grant that Lakshmi is a Cetana, but deny Her omnipresence, omniscience and omnipotence; they say She is atomic in size; some say She does not come under the category of Isvara, but is one of the souls; a few, Her greatness is not inherent, but bestowed on Her by the Lord for a time. Yet others say She forms a class by Herself being neither the Isvara, nor a Jiva. A few others hold that She is the Sovereign of all except the Isvara, while Narayana is the Sovereign of all including Herself. All these run counter to the clear dictates of the Vedas which must be our first and chief authority on these matters supported, of course, by Samhitas, Itihasas and Puranas. They declare that She is the Sovereign of all souls () as unconditionally as the Lord (:); and so He is the Sovereign of all except Lakshmi as much as She is the Sovereign of all excepting Her Consort. The subordination of the one to the other is voluntary and optional, not obligatory. Her greatness is inherent, and not dependent on another. Though the two the two are the Paramount Sovereigns, the duality does not show itself as their opinions are always identical. One is the Mother of the Universe, while the other the Father. Thus the Divine Couple, Lakshmi and Narayana are the Para Brahman of the Upanishads [[xlii]] and both together are masters, creators, and saviours, and also the final goal of the Universe. 
+[[xl]]
+
+Some grant that Lakshmi is a Cetana, but deny Her omnipresence, omniscience and omnipotence; they say She is atomic in size; some say She does not come under the category of Isvara, but is one of the souls; a few, Her greatness is not inherent, but bestowed on Her by the Lord for a time. Yet others say She forms a class by Herself being neither the Isvara, nor a Jiva. A few others hold that She is the Sovereign of all except the Isvara, while Narayana is the Sovereign of all including Herself. All these run counter to the clear dictates of the Vedas which must be our first and chief authority on these matters supported, of course, by Samhitas, Itihasas and Puranas. They declare that She is the Sovereign of all souls (ईश्वरीं सर्व-भूतानाम्) as unconditionally as the Lord (ईश्वरः सर्व-भूतानाम्); and so He is the Sovereign of all except Lakshmi as much as She is the Sovereign of all excepting Her Consort. The subordination of the one to the other is voluntary and optional, not obligatory. Her greatness is inherent, and not dependent on another. Though the two are the Paramount Sovereigns, the duality does not show itself as their opinions are always identical. One is the Mother of the Universe, while the other the Father. Thus the Divine Couple, Lakshmi and Narayana are the Para Brahman of the Upanishads and both together are masters, creators, and saviours, and also the final goal of the Universe. 
+
+[[xli]]
 
 This is the conclusion arrived at by Ranganatha Muni, or Nanjiyar as he is popularly known, after a thorough and careful study of all authorities and of the works of the earlier Acaryas. He discusses all schools of thought which differ from this and refutes them with proper arguments based on the authority of the Scriptures. He has set down all this in this Bhashya. 
 
 #### ANALYSIS OF THE BHASHYA. 
+
+""
+""
+""
+
 In an introduction of about eighteen pages, he quotes extensively and explains all the Vedic hymns which deal with Lakshmi: two Sraddha Suktas, Medha Sukta, Aditi Suktas; and his verdict is that Lakshmi, like Karayana, has all the following qualities: She is the creator of the Universe; She is omnipotent and omniscient; by nature fundamentally opposed to all blemishes and the resort of all auspicious qualities. She again pervades, sustains, and rules the Universe; She is the object of worship in all sacrifices; and all the fruits of wealth, realisation of the Soul (Kaivalya), and the attainment of Moksha are under Her control and bestowed on the devotees by Her. 
 Then begins the Bhashya on the hymn. The word 'Jatavedah' which occurs in the first verse and also in four others is interpreted as Vishnu with an elaborate discussion containing 
 xliii 
