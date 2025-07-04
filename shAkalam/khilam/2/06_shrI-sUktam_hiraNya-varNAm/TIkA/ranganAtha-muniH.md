@@ -580,7 +580,7 @@ The Vedantin was startled and asked him immediately if he was Bhattar of Srirang
 
 Ranganatha -- we shall hereafter refer to the Vedantin by this name -- remained at Kangora for some time; but drawn towards his master and longing to be always near him, he became a Sannyasin with the name of Narayana Muni; (for they assume a new name in that asrama ); and taking a part of his wealth as Gurudakshina, came to Sriranga and prostrated at the feet of his master. Bhattar was greatly delighted to see his learned disciple and lifted him with joy exclaiming "O, Our Saint!"[^1_xxix] (Nam Jiyar!) Ever since he is known in the Vaishnava hierarchy as 'Nanjiyar' in their Tamil works, and 'Narayana muni' in their Sanskrit works. It is just possible that when he referred to himself, he did so by his dasya-name, Ranganatha, as in the colophon of the Sri Sukta Bhashya.[^2_xxix] Being a devoted disciple of Bhattar, he always attended on him, and the enlightening conversations that the learned master and the scholarly disciple had, are handed down to us as 'aitihyam' in the Bhagavad vishaya literature. So we find that Ranganatha, Narayana, and Nanjiyar are the names of the Vedantin who was also known as Madhavasuri. 
 
-[^1_xxix]: 'नञ्जीयर्'[[??]] jiyar is the term in Tamil for the Vaishnava Sannyasin
+[^1_xxix]: 'नञ्जीयरो'[[??]] jiyar is the term in Tamil for the Vaishnava Sannyasin
 
 [^2_xxix]: (श्री-रङ्ग-नाथ-मुनि-विरचितं श्री-सूक्त-भाष्यं समाप्तम् । )
 
