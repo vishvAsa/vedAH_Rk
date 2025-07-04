@@ -90,6 +90,8 @@ pitŕ̥bhyaḥ ← pitár- (nominal stem)
 
 <details><summary>Hellwig Grammar</summary>
 
+
+
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
