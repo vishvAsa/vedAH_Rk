@@ -574,7 +574,7 @@ The Vedantin was startled and asked him immediately if he was Bhattar of Srirang
 
 [^1_xxviii]: The Guruparampara-prabhava (edited by Tattai Krishnamacarya of Kumbakonam and printed in Muttamil-Vilakka Press in Kali 4958, Pingala Ani-June-July, 1857) says clearly that Ranganatha is the 'dasya-nama' of Nanjiyar: p. 143. 
 
-> "पट्टर् उकन्तरुळि 'नम्मुटैय जीयर् वन्तार्' ऎन्ऱु अरुळिच् चॆय्दार्. अन्ऱु मुदल् वेदान्तिकळुक्कु 'नञ्जीयर्' ऎन्ऱु तिरु नाममायिऱ्ऱु. अवरुक्कु 'श्रीरङ्गनादर्' ऎन्पतु तास्यनामम्."[[??]]
+> "पड्डर् उगन्दरुळि 'नम्मुडैय जीयर् वन्दार्' ऎन्ऱु अरुळिच् चॆय्दार्. अन्ऱु मुदल् वेदान्तिकळुक्कु 'नञ्जीयर्' ऎन्ऱु तिरु नाममायिऱ्ऱु. अवरुक्कु 'श्रीरङ्गनादर्' ऎन्पतु तास्यनामम्."[[??]]
 
 [[xxviii]]
 
@@ -597,7 +597,7 @@ see [here](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varN
 
 Madhavasuri was the name given to our author at his birth; Vedantin the name that he earned by his vast learning and skill in debate; [1_xxxviii]Ranganatha the name that was given to him as the 'dasya-nama' at the time of initiation into the Vaishnava fold by Bhattar which he himself used in his works; Narayana Muni the name that he assumed on becoming a Sannyasin by which he was referred to in Sanskrit works; Nanjiyar was the pet name given to him by Bhattar when the former met him at Sriranga for the second time by which he was referred to in Tamil works and in other places; and Periya Jiyar was another and a more respectable form of the name Nanjiyar by which also he was referred to. So by all these we are led to the irresistible conclusion that this Ranganatha Muni is Nanjiyar and this Bhashya on Sri Sukta is Nanjiyar's Sri Sukta Bhashya. 
 
-[1_xxxviii]: An ingenious interpretation of the name 'Nanjiyar' is given by the author of 'Sri Tattva Nirnaya' in Tamil. He says that the original name was 'Nam-perumal-jiyar and 'Nanjiyar' is its corrupted form. (इवर् तिरुनामम् 'नम्पॆरुमाळ् जीयर्'; इत्तिरुनामम् चुरुङ्गिच् चुरुङ्गि 'नञ्जीयर्' ऎनवायीऱ्ऱु p. 8.) [[??]] This only helps our view: the Tamil name of Ranganatha is Nam-perumal' and Muni is 'Jiyar'; so Ranganatha Muni translated into the Tamil of the Vaishnavaite section will be Namperumal Jiyar. It is an easy step from this name to 'Nanjiyar.' 
+[1_xxxviii]: An ingenious interpretation of the name 'Nanjiyar' is given by the author of 'Sri Tattva Nirnaya' in Tamil. He says that the original name was 'Nam-perumal-jiyar and 'Nanjiyar' is its corrupted form. (इवर् तिरुनामम् 'नम्पॆरुमाळ् जीयर्'; इत्तिरुनामम् चुरुङ्गिच् चुरुङ्गि 'नञ्जीयर्' ऎनवायीऱ्ऱु p. 8.) This only helps our view: the Tamil name of Ranganatha is Nam-perumal' and Muni is 'Jiyar'; so Ranganatha Muni translated into the Tamil of the Vaishnavaite section will be Namperumal Jiyar. It is an easy step from this name to 'Nanjiyar.' 
 
 [[xxxviii]] 
 
@@ -705,7 +705,7 @@ A. SRINIVASA RAGHAVAN
 अ-शरण्य-शरण्यं तद्-व्याकुर्मो भोग-मोक्ष-दम् ॥  
 परस्य ब्रह्मणस् तत्वं[^१_१] यद्-अधीनम् अधीमहे ।  
 सा श्रीः स्व-रूप-रूपाद्यैः सहात्र प्रतिपाद्यते ॥  
-यद् ईय[[??]] नित्य-निर्दोष-कल्याण-गुण-संहतिः ।  
+यदीय नित्य-निर्दोष-कल्याण-गुण-संहतिः ।  
 श्रुति-स्मृतिषु शास्त्रेषु दिव्येषु समुदीर्यते॥  
 
 तत्र तावच् छ्रुतयः – श्रद्धा-सूक्ते[^२_१] । 
