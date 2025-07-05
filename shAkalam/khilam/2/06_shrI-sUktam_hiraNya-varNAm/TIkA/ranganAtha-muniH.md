@@ -574,7 +574,7 @@ The Vedantin was startled and asked him immediately if he was Bhattar of Srirang
 
 [^1_xxviii]: The Guruparampara-prabhava (edited by Tattai Krishnamacarya of Kumbakonam and printed in Muttamil-Vilakka Press in Kali 4958, Pingala Ani-June-July, 1857) says clearly that Ranganatha is the 'dasya-nama' of Nanjiyar: p. 143. 
 
-> "पड्डर् उगन्दरुळि 'नम्मुडैय जीयर् वन्दार्' ऎन्ऱु अरुळिच् चॆय्दार्. अन्ऱु मुदल् वेदान्तिकळुक्कु 'नञ्जीयर्' ऎन्ऱु तिरु नाममायिऱ्ऱु. अवरुक्कु 'श्रीरङ्गनादर्' ऎन्पतु तास्यनामम्."[[??]]
+> "पड्डर् उगन्दरुळि 'नम्मुडैय जीयर् वन्दार्' ऎन्ऱु अरुळिच् चॆय्दार्. अन्ऱु मुदल् वेदान्तिगळुक्कु 'नञ्जीयर्' ऎन्ऱु तिरु नाममायिऱ्ऱु. अवरुक्कु 'श्रीरङ्गनादर्' ऎन्पतु तास्यनामम्."[[??]]
 
 [[xxviii]]
 
