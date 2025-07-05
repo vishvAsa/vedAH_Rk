@@ -560,179 +560,186 @@ This was the conversation that took place one day in the 'Kalakshepa Mantapa' (T
 
 [[xxvi]] 
 
-""
-""
-""
+This Vedantin was born in Tirunarayanapuram on the day of Uttara in the month of Phalguna in Vijaya, Kali 4215, (March-April 1114 A.D.) and was then known as Madhava Suri. Very soon he learnt all the Sastras and darsanas and became a successful disputationist. The Vedanta of the Advaitic interpretation was his special field and so he was known as 'Vedantin' -- by which name we shall refer to him hereafter. Many came to learn at his feet and his place was like a university. Being charitably-minded, he fed all those that came to his residence at Kangora. 
 
-This Vedantin was born in Tirunarayanapuram on the day of Uttara in the month of Phalguna in Vijaya, Kali 4215, (March-April 1114 A.D.) and was then known as Madhava Suri. Very soon he learnt all the Sastras and darsanas and became a successful disputationist. The Vedanta of the Advaitic interpretation was his special field and so he was known as 'Vedantin' by which name we shall refer to him hereafter. Many came to learn at his feet and his place was like a university. Being charitably-minded, he fed all those that came to his residence at Kangora. 
+The Brahmin pilgrim came to the Vedantin, and spoke about Bhattar at Sriranga and his knowledge of 'Tiruneduntandagam.' The Vedantin was astonished to hear that name, and felt a bit annoyed and perturbed as he thought Bhattar would be more than a match for him. 
 
-The Brahmin pilgrim came to the Vedantin, and spoke about Bhattar at Sriranga and his knowledge of Tiruneduntandagam.' The Vedantin was astonished to hear that name, and felt a bit annoyed and perturbed as he thought Bhattar would be more than a match for him. 
+A few days later Bhattar left Sriranga with all his paraphernalia and was marching triumphantly followed by his disciples and admirers towards the place of the Vedantin. When he was approaching the town, a Brahmin told Bhattar that it would not be possible for him to see the Vedantin with all that pomp and grandeur, as he was sure to be delayed by the disciples in the outer halls, and that he should go in the guise of a mendicant if he wanted to see him easily. Bhattar took the hint and leaving all, donned the robes of a mendicant, and without any difficulty approached the Vedantin seated proudly on a dais of six planks placed one over the other. The Vedantin directed him towards the dining hall, but Bhattar boldly and firmly said, 
 
-A few days later Bhattar left Sriranga with all his paraphernalia and was marching triumphantly followed by his disciples and admirers towards the place of the Vedantin. When he was approaching the town, a Brahmin told Bhattar that it would not be possible for him to see the Vedantin with all that pomp and grandeur, as he was sure to be delayed by the disciples in the outer halls, and that he should go in the guise of a mendicant if he wanted to see him easily. Bhattar took the hint and leaving all, donned the robes of a mendicant, and without any difficulty approached the Vedantin seated proudly [[xxviii]] on a dais of six planks placed one over the other. The Vedantin directed him towards the dining hall, but Bhattar boldly and firmly said, "I am here for Vada-bhiksha' (debate), and not for 'annabhiksha' (begging food)." The Vedantin was startled and asked him immediately if he was Bhattar of Srirangam fame. 
+[[xxvii]] 
 
-"Yes" was the reply, and soon a discussion began. It went on for a week and more until finally the Vedantin acknowledged defeat at the hands of the great Parasara Bhattar and as per the conditions, he became the latter's disciple. Bhattar initiated him into the Vaishnava fold and gave him his own name of \* Ranganatha as the dasya-nama.' The disciple also received it with pleasure, as one way of acknowledging discipleship and 'dasya' (subordination) was bearing the master's name. Bhattar taught him the fundamental principles only of Visishtadvaita and allowed him, a great scholar as he was, to know the rest himself. Bhattar returned to Sriranga leaving the scholarly disciple in his own place. 
+> "I am here for 'Vada-bhiksha' (debate), and not for 'annabhiksha' (begging food)." 
 
+The Vedantin was startled and asked him immediately if he was Bhattar of Srirangam fame. "Yes" was the reply, and soon a discussion began. It went on for a week and more until finally the Vedantin acknowledged defeat at the hands of the great Parasara Bhattar and as per the conditions, he became the latter's disciple. Bhattar initiated him into the Vaishnava fold and gave him his own name of [^1_xxviii]Ranganatha as the 'dasya-nama.' The disciple also received it with pleasure, as one way of acknowledging discipleship and 'dasya' (subordination) was bearing the master's name. Bhattar taught him the fundamental principles only of Visishtadvaita and allowed him, a great scholar as he was, to know the rest himself. Bhattar returned to Sriranga leaving the scholarly disciple in his own place. 
 
+[^1_xxviii]: The Guruparampara-prabhava (edited by Tattai Krishnamacarya of Kumbakonam and printed in Muttamil-Vilakka Press in Kali 4958, Pingala Ani-June-July, 1857) says clearly that Ranganatha is the 'dasya-nama' of Nanjiyar: p. 143. 
 
-(The Guruparampara-prabhava (edited by Tattai Krishnamacarya of Kumbakonam and printed in Muttamil-Vilakka Press in Kali 4958, Pingala Ani-June-July, 1857) says clearly that Ranganatha is the ' dasya-nama' of Nanjiyar: p. 143. 
-"பட்டர் உகந்தருளி 'நம்முடைய கீயர் வந்தார்' என்று அருளிச் செய்தார். அன்று முதல் வேதாந்திகளுக்கு நஞ்ஜீயர்' என்று திரு நாமமாயிற்று. அவருக்கு 'ஸ்ரீரங்கநாதர்' என்பது தாஸ்யநாமம்." )
+> "पट्टर् उकन्तरुळि 'नम्मुटैय जीयर् वन्तार्' ऎन्ऱु अरुळिच् चॆय्दार्. अन्ऱु मुदल् वेदान्तिकळुक्कु 'नञ्जीयर्' ऎन्ऱु तिरु नाममायिऱ्ऱु. अवरुक्कु 'श्रीरङ्गनादर्' ऎन्पतु तास्यनामम्."[[??]]
 
-[[xxix]] 
+[[xxviii]]
 
-Ranganatha- we shall hereafter refer to the Vedantin by this name-remained at Kangora for some time; but drawn towards his master and longing to be always near him, he became a Sannyasin with the name of Narayana Muni; (for they assume a new name in that asrama ); and taking a part of his wealth as Gurudakshina, came to Sriranga and prostrated at the feet of his master. Bhattar was greatly delighted to see his learned disciple and lifted him with joy exclaiming "O, Our Saint!"\* (Nam Jiyar! \* Cor! Jiyar is the term in Tamil for the Vaishnava Sannyasin.).. Ever since he is known in the Vaishnava hierarchy as Nanjiyar in their Tamil works, and 'Narayana muni' in their Sanskrit works. It is just possible that when he referred to himself, he did so by his dasya-name, Ranganatha, as in the colophon of the Sri Sukta Bhashya.t (श्रीरङ्गनाथमुनिविरचितं श्रीसूक्तमाप्यं समाप्तम् । )
+Ranganatha -- we shall hereafter refer to the Vedantin by this name -- remained at Kangora for some time; but drawn towards his master and longing to be always near him, he became a Sannyasin with the name of Narayana Muni; (for they assume a new name in that asrama ); and taking a part of his wealth as Gurudakshina, came to Sriranga and prostrated at the feet of his master. Bhattar was greatly delighted to see his learned disciple and lifted him with joy exclaiming "O, Our Saint!"[^1_xxix] (Nam Jiyar!) Ever since he is known in the Vaishnava hierarchy as 'Nanjiyar' in their Tamil works, and 'Narayana muni' in their Sanskrit works. It is just possible that when he referred to himself, he did so by his dasya-name, Ranganatha, as in the colophon of the Sri Sukta Bhashya.[^2_xxix] Being a devoted disciple of Bhattar, he always attended on him, and the enlightening conversations that the learned master and the scholarly disciple had, are handed down to us as 'aitihyam' in the Bhagavad vishaya literature. So we find that Ranganatha, Narayana, and Nanjiyar are the names of the Vedantin who was also known as Madhavasuri. 
 
-Being a devoted disciple of Bhattar, he always attended on him, and the enlightening conversations that the learned master and the scholarly disciple had, are handed down to us as aitihyam in the Bhagavad vishaya literature. So we find that Ranganatha, Narayana, and Nanjiyar are the names of the Vedantin who was also known as Madhavasuri. 
+[^1_xxix]: 'नञ्जीयरो'[[??]] jiyar is the term in Tamil for the Vaishnava Sannyasin
 
-Being a good scholar Ranganatha-Narayana-Nanjiyar soon mastered the songs of the Alvars known as the Divya Prabandha,' and was then entrusted by Bhattar with the task of writing a commentary on them. So we have his sweet and short commentary on Tiru-vai-moli of Nammalvar known as 9000 padi' (i.e., in 9000 [[XXX]] units) which is the source of all the commentaries that came later, especially the masterly 36000 padi' or 'Idu' of Nampillai. He has commented upon "Tiruppalli-elucci' and Kanninun-sirut-tambu' also. 
+[^2_xxix]: (श्री-रङ्ग-नाथ-मुनि-विरचितं श्री-सूक्त-भाष्यं समाप्तम् । )
 
-A work called 'Nityam,' dealing with the daily duties of a Vaishnava as laid down in the Panca Ratra Samhitas, is attributed to him; but we have it only in fragments in the form of quotations in the Rahasya-Traya-Sara and Panca-Ratra-Raksha of Sri Venkatanatha. 
+[[xxix]]
+
+Being a good scholar Ranganatha-Narayana-Nanjiyar soon mastered the songs of the Alvars known as the 'Divya Prabandha,' and was then entrusted by Bhattar with the task of writing a commentary on them. So we have his sweet and short commentary on Tiru-vai-moli of Nammalvar known as '9000 padi' (i.e., in 9000 units) which is the source of all the commentaries that came later, especially the masterly '36000 padi' or 'Idu' of Nampillai. He has commented upon 'Tiruppalli-elucci' and 'Kanninun-sirut-tambu' also. A work called 'Nityam,' dealing with the daily duties of a Vaishnava as laid down in the Panca Ratra Samhitas, is attributed to him; but we have it only in fragments in the form of quotations in the Rahasya-Traya-Sara and Panca-Ratra-Raksha of Sri Venkatanatha. 
 
 Sri Sukta Bhashya is another work of this Ranganatha Muni. He learnt the fundamental principles of the doctrine of Sri from Pranatartihara, a direct disciple of Ramanuja, and a contemporary of Bhattar who was his chief master. That Nanjiyar wrote a Bhashya on Sri Sukta is well-known and accepted by all without contradiction. That the work we are bringing out now is his Sri Sukta Bhashya, and that Ranganatha Muni and Nanjiyar are identical persons can be easily seen by the discerning reader. We shall also establish the same with evidences, both internal and external. 
 
-IDENTITY OF THE BHASHYAKARA.  
+### IDENTITY OF THE BHASHYAKARA. 
+
 see [here](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/ajJNAta-gotrAH/periya-jIyar_ranga-nArAyaNa-muniH/articles/nan-jIyar-paxaH)
 
 
+Madhavasuri was the name given to our author at his birth; Vedantin the name that he earned by his vast learning and skill in debate; [1_xxxviii]Ranganatha the name that was given to him as the 'dasya-nama' at the time of initiation into the Vaishnava fold by Bhattar which he himself used in his works; Narayana Muni the name that he assumed on becoming a Sannyasin by which he was referred to in Sanskrit works; Nanjiyar was the pet name given to him by Bhattar when the former met him at Sriranga for the second time by which he was referred to in Tamil works and in other places; and Periya Jiyar was another and a more respectable form of the name Nanjiyar by which also he was referred to. So by all these we are led to the irresistible conclusion that this Ranganatha Muni is Nanjiyar and this Bhashya on Sri Sukta is Nanjiyar's Sri Sukta Bhashya. 
 
-Madhavasuri was the name given to our author at his birth; Vedantin the name that he earned by his vast learning and skill in debate; \*Ranganatha the name that was given to him as the dasya-nama' at the time of initiation into the Vaishnava fold by Bhattar which he himself used in his works; Narayana Muni the name that he assumed on becoming a Sannyasin by which he was referred to in Sanskrit works; Nanjiyar was the pet name given to him by Bhattar when the former met him at Sriranga for the [[xxxix]] second time by which he was referred to in Tamil works and in other places; and Periya Jiyar was another and a more respectable form of the name Nanjiyar by which also he was referred to. So by all these we are led to the irresistible conclusion that this Ranganatha Muni is Nanjiyar and this Bhashya on Sri Sukta is Nanjiyar's Sri Sukta Bhashya. 
+[1_xxxviii]: An ingenious interpretation of the name 'Nanjiyar' is given by the author of 'Sri Tattva Nirnaya' in Tamil. He says that the original name was 'Nam-perumal-jiyar and 'Nanjiyar' is its corrupted form. (इवर् तिरुनामम् 'नम्पॆरुमाळ् जीयर्'; इत्तिरुनामम् चुरुङ्गिच् चुरुङ्गि 'नञ्जीयर्' ऎनवायीऱ्ऱु p. 8.) [[??]] This only helps our view: the Tamil name of Ranganatha is Nam-perumal' and Muni is 'Jiyar'; so Ranganatha Muni translated into the Tamil of the Vaishnavaite section will be Namperumal Jiyar. It is an easy step from this name to 'Nanjiyar.' 
+
+[[xxxviii]] 
 
 #### THE CONCEPT OF SRI IN VISISHTADVAITA. 
-Let us now sketch briefly the concept of Sri according to the Visishtadvaita System of philosophy as we learn from the works of eminent Vaishnava Acaryas such as Yamuna, Ramanuja, Bhattar, Nanjiyar, and Venkatanatha-all based on the ancient scriptures. Lakshmi and Narayana are ever inseparably united and they together are the Para Brahman. They are the Masters and Saviours of the Universe. The origination, sustentation, and the re-absorption of the Universe are done by the Divine Couple (Divya Mithuna). Devotion to the Couple is the means of salvation and the Two are the goal to be attained in the state of release. 
+
+Let us now sketch briefly the concept of Sri according to the Visishtadvaita System of philosophy as we learn from the works of eminent Vaishnava Acaryas such as Yamuna, Ramanuja, Bhattar, Nanjiyar, and Venkatanatha -- all based on the ancient scriptures. Lakshmi and Narayana are ever inseparably united and they together are the Para Brahman. They are the Masters and Saviours of the Universe. The origination, sustentation, and the re-absorption of the Universe are done by the Divine Couple (Divya Mithuna). Devotion to the Couple is the means of salvation and the Two are the goal to be attained in the state of release. 
 
 Though their persons are different, the tastes and opinions of Lakshmi and Narayana are always identical and there is no difference of opinion between them as in the case of loving parents intent on doing good to their children. Both are the possessors of unlimited auspicious 
-xl 
+
+[[xxxix]]
+
 qualities; still for the convenience of the meditation of their devotees, by their common consent, the Lord manifests all the manly qualities and Sri, the womanly qualities. But it does not mean that one does not possess the qualities found in the other. Though both are the Masters of the Universe and have no master over them, still out of their own free will, Sri is the Queen or Consort; and the Lord is prominent only to this extent that he is the 'Pati' (husband); and this agreement too they are having only for saving the souls of the devotees. The Lord is strict and severe, and the erring souls cannot approach Him directly for pardon. Then the soft-hearted Sri, the loving Mother that She is, intercedes on their behalf with Her Consort and thus they both together save the souls from sin and bondage. All this is based on the authority of the Vedas and Samhitas such as Svayambhuva, Mankana, Mahalakshmi, Dhanadiya, Satamakha, Kasyapa, Sattvata, Vasishtha, Saunaka, Parasara and Atri. 
 
-There are different schools of thought which hold views different from the above about Lakshmi: Lakshmi is no separate entity but only the Prakriti or Inanimate Matter that is being presided over and evolved by the Lord; She is nothing but the Ego, the Volition, the Power, the Knowledge or the Existence of the Lord; Lakshmi is only the feminine form assumed by the Lord at his will from his own body for his diversion. But all these are groundless as the Vedas clearly and unmistakably 
-xli 
-declare that Lakshmi is a Cetana-a separate entity with the attributes of knowledge, bliss, power and the like; and that She is eternal like the Lord, Her consort. 
+There are different schools of thought which hold views different from the above about Lakshmi: Lakshmi is no separate entity but only the Prakriti or Inanimate Matter that is being presided over and evolved by the Lord; She is nothing but the Ego, the Volition, the Power, the Knowledge or the Existence of the Lord; Lakshmi is only the feminine form assumed by the Lord at his will from his own body for his diversion. But all these are groundless as the Vedas clearly and unmistakably declare that Lakshmi is a Cetana-a separate entity with the attributes of knowledge, bliss, power and the like; and that She is eternal like the Lord, Her consort. 
 
-Some grant that Lakshmi is a Cetana, but deny Her omnipresence, omniscience and omnipotence; they say She is atomic in size; some say She does not come under the category of Isvara, but is one of the souls; a few, Her greatness is not inherent, but bestowed on Her by the Lord for a time. Yet others say She forms a class by Herself being neither the Isvara, nor a Jiva. A few others hold that She is the Sovereign of all except the Isvara, while Narayana is the Sovereign of all including Herself. All these run counter to the clear dictates of the Vedas which must be our first and chief authority on these matters supported, of course, by Samhitas, Itihasas and Puranas. They declare that She is the Sovereign of all souls () as unconditionally as the Lord (:); and so He is the Sovereign of all except Lakshmi as much as She is the Sovereign of all excepting Her Consort. The subordination of the one to the other is voluntary and optional, not obligatory. Her greatness is inherent, and not dependent on another. Though the two the two are the Paramount Sovereigns, the duality does not show itself as their opinions are always identical. One is the Mother of the Universe, while the other the Father. Thus the Divine Couple, Lakshmi and Narayana are the Para Brahman of the Upanishads [[xlii]] and both together are masters, creators, and saviours, and also the final goal of the Universe. 
+[[xl]]
+
+Some grant that Lakshmi is a Cetana, but deny Her omnipresence, omniscience and omnipotence; they say She is atomic in size; some say She does not come under the category of Isvara, but is one of the souls; a few, Her greatness is not inherent, but bestowed on Her by the Lord for a time. Yet others say She forms a class by Herself being neither the Isvara, nor a Jiva. A few others hold that She is the Sovereign of all except the Isvara, while Narayana is the Sovereign of all including Herself. All these run counter to the clear dictates of the Vedas which must be our first and chief authority on these matters supported, of course, by Samhitas, Itihasas and Puranas. They declare that She is the Sovereign of all souls (ईश्वरीं सर्व-भूतानाम्) as unconditionally as the Lord (ईश्वरः सर्व-भूतानाम्); and so He is the Sovereign of all except Lakshmi as much as She is the Sovereign of all excepting Her Consort. The subordination of the one to the other is voluntary and optional, not obligatory. Her greatness is inherent, and not dependent on another. Though the two are the Paramount Sovereigns, the duality does not show itself as their opinions are always identical. One is the Mother of the Universe, while the other the Father. Thus the Divine Couple, Lakshmi and Narayana are the Para Brahman of the Upanishads and both together are masters, creators, and saviours, and also the final goal of the Universe. 
+
+[[xli]]
 
 This is the conclusion arrived at by Ranganatha Muni, or Nanjiyar as he is popularly known, after a thorough and careful study of all authorities and of the works of the earlier Acaryas. He discusses all schools of thought which differ from this and refutes them with proper arguments based on the authority of the Scriptures. He has set down all this in this Bhashya. 
 
 #### ANALYSIS OF THE BHASHYA. 
-In an introduction of about eighteen pages, he quotes extensively and explains all the Vedic hymns which deal with Lakshmi: two Sraddha Suktas, Medha Sukta, Aditi Suktas; and his verdict is that Lakshmi, like Karayana, has all the following qualities: She is the creator of the Universe; She is omnipotent and omniscient; by nature fundamentally opposed to all blemishes and the resort of all auspicious qualities. She again pervades, sustains, and rules the Universe; She is the object of worship in all sacrifices; and all the fruits of wealth, realisation of the Soul (Kaivalya), and the attainment of Moksha are under Her control and bestowed on the devotees by Her. 
-Then begins the Bhashya on the hymn. The word 'Jatavedah' which occurs in the first verse and also in four others is interpreted as Vishnu with an elaborate discussion containing 
-xliii 
-citations from numerous authorities such as Mahabharata and Vishnu Purana, Kasyapiya and Mankana Samhitas, Paramatma Sukta and Sariraka Sutras. Then the Bhashyakara proceeds with his Bhashya on the Riks and there are profuse quotations then and there from various authorities in support of his interpretations; and the reader is referred to the index for a detailed list of the same. 
 
-In the ninth verse where Lakshmi is referred to as the Sovereign (ii), Nanjiyar has launched into an elaborate and long discussion-running to nearly twenty pages-on the concept of Lakshmi. In the course of it he raises many prima facie views, answers them categorically and concludes that names like Sraddha, and Vishnupatni refer to Lakshmi only: She is not subordinate to any one and is only the cail (Consort) of Narayana and not a 'f' (slave); both are engaged in the divine cosmic sacrifice of saving the souls and the one is essential for the other and cannot function or be without the other. Then he quotes in extenso many chapters of the Ahirbudhnya Samhita and Lakshmi Tantra in support of his view and winds up by saying that She is the equal of the Lord in all respects. 'The mastery of the Universe is one which inheres in both Lakshmi and Narayana.' 
-Then he completes his Bhashya on the remaining Riks and concludes the work mentioning his name and that of the master from whom he learnt all those things about Lakshmi. [[xliv]] 
+In an introduction of about eighteen pages, he quotes extensively and explains all the Vedic hymns which deal with Lakshmi: two Sraddha Suktas, Medha Sukta, Aditi Suktas; and his verdict is that Lakshmi, like Narayana, has all the following qualities: She is the creator of the Universe; She is omnipotent and omniscient; by nature fundamentally opposed to all blemishes and the resort of all auspicious qualities. She again pervades, sustains, and rules the Universe; She is the object of worship in all sacrifices; and all the fruits of wealth, realisation of the Soul (Kaivalya), and the attainment of Moksha are under Her control and bestowed on the devotees by Her. 
+
+[[hlii]]
+
+Then begins the Bhashya on the hymn. The word 'Jatavedah' which occurs in the first verse and also in four others is interpreted as Vishnu with an elaborate discussion containing citations from numerous authorities such as Mahabharata and Vishnu Purana, Kasyapiya and Mankana Samhitas, Paramatma Sukta and Sariraka Sutras. Then the Bhashyakara proceeds with his Bhashya on the Riks and there are profuse quotations then and there from various authorities in support of his interpretations; and the reader is referred to the index for a detailed list of the same. 
+
+In the ninth verse where Lakshmi is referred to as the Sovereign (ईश्वरीं सर्व-भूतानाम्), Nanjiyar has launched into an elaborate and long discussion -- running to nearly twenty pages -- on the concept of Lakshmi. In the course of it he raises many prima facie views, answers them categorically and concludes that names like Sraddha, and Vishnupatni refer to Lakshmi only: She is not subordinate to any one and is only the cail (Consort) of Narayana and not a 'दासी' (slave); both are engaged in the divine cosmic sacrifice of saving the souls and the one is essential for the other and cannot function or be without the other. Then he quotes in extenso many chapters of the Ahirbudhnya Samhita and Lakshmi Tantra in support of his view and winds up by saying that She is the equal of the Lord in all respects. 
+
+> The mastery of the Universe is one which inheres in both Lakshmi and Narayana.
+
+Then he completes his Bhashya on the remaining Riks and concludes the work mentioning his name and that of the master from whom he learnt all those things about Lakshmi. 
+
+[[xliii]] 
 
 #### CONCLUSION. 
 
 I need not dilate upon the merits of the Bhashya, but the intelligent reader can see for himself that it is perfect not only as a commentary, but as a piece of polemics and a type of beautiful literature also. I consider myself extremely fortunate that I have been chosen as the instrument for unearthing and publishing this rare work and I owe all this privilege and fortune to my Guru Sri. Sri Saumya Narayana Acarya of Tirukkottiyur. My respectful homage and salutations to him and to Goddess Lakshmi, the Mother of the Universe and of my humble self. 
 
-Pudukotab, 17-7-37.J   
-A. SRINIVASA RAGHAVAN   
+Pudukotab, 
+17-7-37.
 
-### अशुद्धं 
-५ 22 तै. उ. 
-५० 12 विग्रहविशुष्ट 
-९० 17 चन्द्र 
-१३४ 15 bosom 
-१३८ 14 towards 24 6 सर्यपालिनी 
-7 नम 
-31 22 लक्षमणा 
-शुद्धाशुद्धपत्रिका 
-शुद्धं 
-नारायणोपनिषत् 
-विग्रहविशिष्ट चन्द्रां 
-bosoms 
-against सर्व पालिनी 
+A. SRINIVASA RAGHAVAN 
 
-नमः 
-लक्ष्मणा
+[[xliv]]
 
-### Abbr
-अथर्व. - अथर्वशिखोपनिषत् अष्टा - अष्टाध्यायी 
-अष्टा, व्र. - अष्टाक्षरब्रह्मविद्या 
-अहि. सं. – अहिर्बुद्ध्रयसंहिता इति. समु. - इतिहाससमुच्चयः कठ. - कठोपनिषत् 
+## सङ्केत-विवरणम् 
+
+अथर्व. - अथर्व-शिखोपनिषत् 
+अष्टा - अष्टाध्यायी 
+अष्टा, व्र. - अष्टाक्षर-ब्रह्म-विद्या 
+अहि. सं. – अहिर्बुद्ध्र्यसंहिता 
+इति. समु. - इतिहास-समुच्चयः 
+कठ. - कठोपनिषत् 
 छा. - छान्दोग्योपनिषत् 
-तै. (यजु) . सं-तैत्तिरीयसंहिता 
-सङ्केतविवरणम् 
-रा. - रामायणं 
-अ. - अयोध्याकाण्ड: 
-"" 
-आ. - आरण्यकाण्डः 
-33 
-वा. - बालकाण्ड: 
-"" 
-" 
-यु. - युद्धकाण्डः 
-" 
-सु. - सुन्दरकाण्डः 
-व्रा. 
-ब्राह्मणं 
-" 
-काठकं 
-लैङ्ग – लैङ्गपुराणम् 
-वाजस. - वाजसनेयत्राह्मणं 
-- 
-वि. पु. - विष्णुपुराणम् 
-विष्व. संविष्वक्सेनसंहिता 
-"" 
-" 
-का. 
-आर. 
-आरण्यकं 
-" 
-वे.सं.वेदार्थसंग्रहः 
-शरणा. ग. -शरणागतिगद्यं 
-तै. उ.-तैत्तिरीयोपनिपत् 
-वृ. - बृहदारण्यकोपनिषत् 
-भार. आनु. - भारते अनुशासनिकपर्व 
-आश्व. - आश्वमेधिकपर्व 
-" 
-" 
-उद्यो. - उद्योगपर्व 
-"" 
-" 
-वन. - वनपर्व 
-शा. - शान्तिपर्व 
-महोप. -महोपनिषत् मु. - मुण्डकोपनिषत् 
-शा. सू. - शारीरकसूत्राणि श्रीगुण. - श्री गुणरत्नकोशः धे. -श्वेताश्वतरोपनिषत् 
-सनत् . सं . - सनत्कुमारसंहिता सुवाल.–सुवालोपनिषत् 
-स्वायं. - स्वायम्भुवसंहिता 
-66 
+तै. (यजु). सं-तैत्तिरीय-संहिता 
+तै. (यजु) ब्रा. तैत्तरीय-ब्राह्मणम्
+तै. (यजु) का. तैत्तरीय-काठकम्
+तै. (यजु) आर. तैत्तरीय-आरण्यकम्
+तै. उ. - तैत्तरीय-उपनिषत्
+बृ. - बृहदारण्यकोपनिषत्
+भार. आनु. - भारते आनुशासनिक-पर्व
+भार. आश्व. - भारते आश्वमेधिक-पर्व
+भार. उद्यो. - भारते उद्योग-पर्व
+भार. वन. - भारते वन-पर्व
+भार. शा. - भारते शान्ति-पर्व
+महोप. - महोपनिषत्
+मु. - मुण्डकोपनिषत्
+रा. - रामायणम् 
+रा. अ. - अयोध्या-काण्डः 
+रा. आ. - आरण्य-काण्डः 
+रा. बा. - बाल-काण्डः
+रा. यु. - युद्ध-काण्डः  
+रा. सु. - सुन्दर-काण्डः 
+लैङ्ग – लैङ्ग-पुराणम् 
+वाजस. - वाजसनेय-ब्राह्मणम्
+वि. पु. - विष्णु-पुराणम् 
+विष्व. सं. - विष्वक्सेन-संहिता 
+वे.सं. - वेदार्थ-सङ्ग्रहः 
+शरणा. ग. - शरणागति-गद्यम् 
+शा. सू. - शारीरक-सूत्राणि 
+श्री-गुण. - श्री-गुण-रत्न-कोशः 
+श्वे. -श्वेताश्वतरोपनिषत् 
+सनत्. सं . - सनत्-कुमार-संहिता 
+सुबाल.–सुबालोपनिषत् 
+स्वायं. - स्वायम्भुव-संहिता 
+
+## भाष्य-प्रवेशः
 
 ## भाष्य-प्रवेशः
 ॥ श्रियै नमः ॥ 
-॥ श्रीसूक्तभाष्यम् ॥ 
-श्री पराशरभट्टार्यः श्रीरङ्गेशपुरोहितः । श्रीवत्सांकसुतः श्रीमान् श्रेयसे मेऽस्तु भूयसे || 
-यामाहुः श्रुतयः सर्वाः पुंप्रधानेश्वरेश्वरीम् । अशेषलोकजननी लक्ष्मीर्मामभिवीक्षताम् ॥ 
-यत्पदां भोजघटिता प्रणतिर्दुर्लभान्यपि । पदानि परमां मुक्तिं सूते तां श्रियमाश्रये ॥ श्रियः सूक्तं समुदितं यज्जपो मंगलावहः । अशरण्यशरण्यं तद्वयाकुर्मो भोगमोक्षदम् ॥ परस्य ब्रह्मणस्तत्वं यदधीनमधीमहे । सा श्रीः स्वरूपरूपाद्यैः सहाल प्रतिपाद्यते ॥ यदीयनित्यनिर्दोषकल्याणगुणसंहतिः । श्रुतिस्मृतिषु शास्त्रेषु दिव्येषु समुदीर्यते || 
-तत्र तावच्छ्रुतयः– श्रद्धासूक्ते' । 
-श्रद्धया देवो देवत्वमश्नुते । श्रद्धा प्रतिष्ठा लोकस्य देवी | सा नो जुपाणोपयज्ञमागात् । कामवत्साऽमृतं दुहाना || १ || 
-रूपम् - पा. 
-1 
-यजु. काठक. ३. ३. ९-१२. 
-U 
-श्रद्धा देवी प्रथमजा ऋतस्य । विश्वस्य भलीं जगतः प्रतिष्ठा । तां श्रद्धां हविषा यजामहे । सा नो लोकममृतं दधातु । ईशाना देवी भुवनस्याविपत्नी ||२|| 
-अत्र द्वितीया ऋक् पञ्चपदा । तस्मिन्मन्त्रद्वये लक्ष्म्याः स्वरूपरूपगुणविभवादि सकलवेदवेदान्तसारभूतमाचालपण्डितं प्रसिद्धतरं प्रतिपाद्यते । 
-तत्र प्रथमेन मन्त्रेण सर्वेश्वरस्य सर्वेश्वरत्वं तद्विभूतेरपि विभूतित्वं लक्ष्म्यायत्तमिति प्रतिपाद्यते । 
-[' श्रद्धया देव इत्यादि' ] [ देवः] - निरुपाधिकद्योतनादिकल्याणगुणविशिष्टः सर्वेश्वरः । [देवत्वं ] - ईश्वरत्वं । [ श्रद्धया ] - श्रद्धापरपर्यायया देव्या श्रिया । [समश्नुते ] - प्राप्नोति । तथा वैष्णवे पुराणे 
-1" मेधा श्रद्धा सरस्वती, ' 2" अस्येशाना जगतो विष्णुपत्नी ' । 3' सुमज्जानये विष्णवे ददाशति' इति श्रुत्यन्तरम् । 
-46 
-" 
-C 
-अनन्या राघवेणाहम् 5 काव्यं रामायणं कृत्स्नं सीताया- 
-श्चरितं महत्' ; 
-76 
-6 " अप्रमेयं हि तत्तेजो यस्य सा जनकात्मजा '; 
-यथा सर्वगतो विष्णुस्तथैवेयं द्विजोत्तम' इति ॥ 
+॥ श्री-सूक्त-भाष्यम् ॥ 
+
+> श्री-पराशर-भट्टार्यः श्री-रङ्गेश-पुरोहितः ।  
+श्री-वत्साङ्क-सुतः श्रीमान् श्रेयसे मे ऽस्तु भूयसे॥  
+याम् आहुः श्रुतयः सर्वाः पुंप्रधानेश्वरेश्वरीम् ।  
+अ-शेष-लोक-जननी लक्ष्मीर् माम् अभिवीक्षताम् ॥  
+यत्-पदाम्भोज-घटिता प्रणतिर् दुर्लभान्य् अपि ।  
+पदानि परमां मुक्तिं सूते तां श्रियम् आश्रये ॥   
+श्रियः सूक्तं समुदितं यज्-जपो मङ्गलावहः ।  
+अ-शरण्य-शरण्यं तद्-व्याकुर्मो भोग-मोक्ष-दम् ॥  
+परस्य ब्रह्मणस् तत्वं[^१_१] यद्-अधीनम् अधीमहे ।  
+सा श्रीः स्व-रूप-रूपाद्यैः सहात्र प्रतिपाद्यते ॥  
+यद् ईय[[??]] नित्य-निर्दोष-कल्याण-गुण-संहतिः ।  
+श्रुति-स्मृतिषु शास्त्रेषु दिव्येषु समुदीर्यते॥  
+
+तत्र तावच् छ्रुतयः – श्रद्धा-सूक्ते[^२_१] । 
+
+[^१_१]: रूपम् - पा.
+[२_१]: यजु. काठक. ३. ३. ९-१२.
+
+[[1]]
+
+> श्रद्धया देवो देवत्वम् अश्नुते । श्रद्धा प्रतिष्ठा लोकस्य देवी । सा नो जुषाणोपयज्ञम् आगात् । कामवत्सा ऽमृतं दुहाना ॥ १ ॥ श्रद्धा देवी प्रथम-जा ऋतस्य । विश्वस्य भर्त्री जगतः प्रतिष्ठा । तां श्रद्धां हविषा यजामहे । सा नो लोकम् अमृतं दधातु । ईशाना देवी भुवनस्याधिपत्नी ॥ २ ॥
+[[TODO: परिष्कार्यम्]]
+
+अत्र द्वितीया ऋक् पञ्च-पदा । तस्मिन् मन्त्र-द्वये लक्ष्म्याः स्व-रूप--रूप-गुण-विभवादि-सकल-वेद-वेदान्त-सार-भूतम् आबाल-पण्डितं प्रसिद्धतरं प्रतिपाद्यते ।
+
+तत्र प्रथमेन मन्त्रेण सर्वेश्वरस्य सर्वेश्वरत्वं तद्-विभूतेर् अपि विभूतित्वं लक्ष्म्यायत्तम् इति प्रतिपाद्यते ।
+
+['श्रद्धया देव इत्य् आदि' ] [ देवः] - निरुपाधिक-द्योतनादि-कल्याण-गुण-विशिष्टः सर्वेश्वरः । [देवत्वं ] - ईश्वरत्वं । [ श्रद्धया ] - श्रद्धापर-पर्यायया देव्या श्रिया । [समश्नुते ] - प्राप्नोति । तथा वैष्णवे पुराणे
+
+1 "मेधा श्रद्धा सरस्वती, ' 2 "अस्येशाना जगतो विष्णु-पत्नी' । 3 'सुमज्जानये विष्णवे ददाशति' इति श्रुत्य्-अन्तरम् । 4 'अन्-अन्या राघवेणाहम्; 5 'काव्यं रामायणं कृत्स्नं सीतायाश् चरितं महत्'; 6 'अ-प्रमेयं हि तत्-तेजो यस्य सा जनकात्मजा'; 7 'यथा सर्व-गतो विष्णुस् तथैवेयं द्विजोत्तम' इति ॥ 
+
 1 वि. पु. १. ९.११९. 
-2 यजु. सं. ४. प्र.४-१२. 
-3 
-यजु. अष्ट. २. प्र. ४. २९. ४. 
-17 
-रा. वा. ४-७. 
-७ रा. आ. ३७-१८. 
+2 यजु. सं. ४. प्र. ४-१२. 
+3 यजु. अष्ट. २. प्र. ४. २९. ४. 
+4 रा. सु. २१-१६.
+5 रा. बा. ४-७. 
+6 रा. आ. ३७-१८. 
 7 वि. पु. १-८-१७. 
-रा. सु. २१-१६. 
-३ 
-[सा]श्रीः । 
+
+[[2]]
+
+""
+""
+""
+
 [ श्रद्धा प्रतिष्ठा लोकस्य देवी ]. लोक्यत इति लोक:असद्यावृत्तं प्रमाणप्रतिपन्नं वस्तुजातं; असद्व्यावर्तकस्य चेतनाचेतनात्मकस्य सर्वस्य प्रपञ्चस्य। [देवी]-जगदुत्पत्तिस्थितिलयादिना क्रीडन्ती । [ श्रद्धा ] - साक्षाल्लक्ष्मीः । [ प्रतिष्ठा ] - प्रतितिष्ठत्यस्यामिति प्रतिष्ठा - आधार - भूता । " आतश्चोपसर्ग" इति अङ् । अथवा अस्य सर्वस्य लोकस्य धारणपोषणभोग्यप्रदानेन स्थापयित्री । तथा, 
 " विष्टंभो दिवो धरुणः पृथिव्या:, ' ' अलमेषा परित्रातुं,' " अभियाचाम वैदेहीमि 'त्यादि । [सा नो जुषाणोपयज्ञमागात्] एवंभूता [सा] श्रीः | [ नः] - अस्माकं, देवीसमाराधनाय समुद्युक्तानां [य] आनुपूर्व्या विधीयमानं स्वप्रीणनम् । [जुषाणा] प्रीयमाणा । [ उपागात्] उपगच्छतु । 
 56 छन्दसि लुङ्लोटा' विति लोटो लुङ् । किंविशिष्टा [ कामवत्साऽमृतं दुहाना ] यस्य यस्य यो यः कामः तस्य तस्य तेन तेन कामेन वत्सभूतेन वत्सला धेनुः वत्सस्य पय इव [अमृतं दुहाना ] क्षरन्ती, बहुस्नुतीरिति यावत् । तथा “ प्रणिपातप्रसन्ना हि ' " स श्लाघ्यस्स गुणी धन्य' इत्यादि ॥ 
