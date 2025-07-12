@@ -22,7 +22,7 @@ This hymn presents a cosmogony with tápas “ascetic heat, fervor” as the ult
 
 
 ## 01 ऋतं च - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/01_RtaM_cha.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/01_RtaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -33,14 +33,14 @@ This hymn presents a cosmogony with tápas “ascetic heat, fervor” as the ult
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/190/01_RtaM_cha.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/190/01_RtaM_cha.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 ऋ॒तं च॑ स॒त्यं चा॒भी॑द्धा॒त्तप॒सोऽध्य॑जायत ।  
 ततो॒ रात्र्य॑जायत॒ ततः॑ समु॒द्रो अ॑र्ण॒वः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/190/01_RtaM_cha.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/190/01_RtaM_cha.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -306,7 +306,7 @@ Genaht ist dieser bunte Stier; zum Vater und zur Mutter hat Er sich gesetzt beim
 </div>
 
 ## 02 समुद्रादर्णवादधि संवत्सरो - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -317,14 +317,14 @@ Genaht ist dieser bunte Stier; zum Vater und zur Mutter hat Er sich gesetzt beim
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 स॒मु॒द्राद॑र्ण॒वादधि॑ संवत्स॒रो अ॑जायत ।  
 अ॒हो॒रा॒त्राणि॑ वि॒दध॒द्विश्व॑स्य मिष॒तो व॒शी ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -527,7 +527,7 @@ Er wandelt in des Lichtes Raum, vor seinem Hauch erlischt das Roth, Der starke h
 </div>
 
 ## 03 सूर्याचन्द्रमसौ धाता - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/03_sUryAchandramasau_dhAtA.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/03_sUryAchandramasau_dhAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -537,14 +537,14 @@ Er wandelt in des Lichtes Raum, vor seinem Hauch erlischt das Roth, Der starke h
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/190/03_sUryAchandramasau_dhAtA.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/190/03_sUryAchandramasau_dhAtA.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 सू॒र्या॒च॒न्द्र॒मसौ॑ धा॒ता य॑थापू॒र्वम॑कल्पयत् ।  
 दिवं॑ च पृथि॒वीं चा॒न्तरि॑क्ष॒मथो॒ स्वः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/190/03_sUryAchandramasau_dhAtA.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/190/03_sUryAchandramasau_dhAtA.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 

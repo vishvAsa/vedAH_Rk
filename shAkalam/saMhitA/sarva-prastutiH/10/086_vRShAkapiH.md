@@ -78,7 +78,7 @@ Indra's Frau:
 
 
 ## 01 वि हि - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/01_vi_hi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/01_vi_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -91,14 +91,14 @@ Indra's Frau:
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/01_vi_hi.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/01_vi_hi.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 वि हि सोतो॒रसृ॑क्षत॒ नेन्द्रं॑ दे॒वम॑मंसत ।  
 यत्राम॑दद्वृ॒षाक॑पिर॒र्यः पु॒ष्टेषु॒ मत्स॑खा॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/01_vi_hi.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/01_vi_hi.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -382,7 +382,7 @@ Sie haben abgelassen vom Somapressen, sie achteten Indra nicht als Gott, dort, w
 </div>
 
 ## 02 परा हीन्द्र - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/02_parA_hIndra.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/02_parA_hIndra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -395,14 +395,14 @@ Sie haben abgelassen vom Somapressen, sie achteten Indra nicht als Gott, dort, w
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/02_parA_hIndra.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/02_parA_hIndra.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 परा॒ ही॑न्द्र॒ धाव॑सि वृ॒षाक॑पे॒रति॒ व्यथिः॑ ।  
 नो अह॒ प्र वि॑न्दस्य॒न्यत्र॒ सोम॑पीतये॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/02_parA_hIndra.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/02_parA_hIndra.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -660,7 +660,7 @@ Du läufst ja weiter, Indra, über die Verfehlung des Vrisakapi hinweg sehend. A
 </div>
 
 ## 03 किमयं त्वाम् - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/03_kimayaM_tvAM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/03_kimayaM_tvAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -673,14 +673,14 @@ Du läufst ja weiter, Indra, über die Verfehlung des Vrisakapi hinweg sehend. A
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/03_kimayaM_tvAM.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/03_kimayaM_tvAM.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 किम॒यं त्वां वृ॒षाक॑पिश्च॒कार॒ हरि॑तो मृ॒गः ।  
 यस्मा॑ इर॒स्यसीदु॒ न्व१॒॑र्यो वा॑ पुष्टि॒मद्वसु॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/03_kimayaM_tvAM.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/03_kimayaM_tvAM.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -955,7 +955,7 @@ Was hat dir dieser Vrischākapi, dieses gelbe Wild, gethan, dass du ihm nun so z
 </div>
 
 ## 04 यमिमं त्वम् - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/04_yamimaM_tvaM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/04_yamimaM_tvaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -968,14 +968,14 @@ Was hat dir dieser Vrischākapi, dieses gelbe Wild, gethan, dass du ihm nun so z
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/04_yamimaM_tvaM.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/04_yamimaM_tvaM.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 यमि॒मं त्वं वृ॒षाक॑पिं प्रि॒यमि॑न्द्राभि॒रक्ष॑सि ।  
 श्वा न्व॑स्य जम्भिष॒दपि॒ कर्णे॑ वराह॒युर्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/04_yamimaM_tvaM.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/04_yamimaM_tvaM.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1226,7 +1226,7 @@ Den lieben Vrisakapi, den du, Indra, da in Schutz nimmst, den soll gleich der Hu
 </div>
 
 ## 05 प्रिया तष्थानि - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/05_priyA_taShTAni.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/05_priyA_taShTAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -1239,14 +1239,14 @@ Den lieben Vrisakapi, den du, Indra, da in Schutz nimmst, den soll gleich der Hu
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/05_priyA_taShTAni.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/05_priyA_taShTAni.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 प्रि॒या त॒ष्टानि॑ मे क॒पिर्व्य॑क्ता॒ व्य॑दूदुषत् ।  
 शिरो॒ न्व॑स्य राविषं॒ न सु॒गं दु॒ष्कृते॑ भुवं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/05_priyA_taShTAni.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/05_priyA_taShTAni.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1524,7 +1524,7 @@ Die mir theuren, schönen Kunstwerke hat mir der Affe verdorben; nun will ich ih
 </div>
 
 ## 06 न मत्स्त्री - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/06_na_matstrI.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/06_na_matstrI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -1536,14 +1536,14 @@ Die mir theuren, schönen Kunstwerke hat mir der Affe verdorben; nun will ich ih
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/06_na_matstrI.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/06_na_matstrI.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 न मत्स्त्री सु॑भ॒सत्त॑रा॒ न सु॒याशु॑तरा भुवत् ।  
 न मत्प्रति॑च्यवीयसी॒ न सक्थ्युद्य॑मीयसी॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/06_na_matstrI.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/06_na_matstrI.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1787,7 +1787,7 @@ Es gibt keine Frau mit schönerem Hintern und zum Beischlaf geeigneter als mich,
 </div>
 
 ## 07 उवे अम्ब - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/07_uve_amba.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/07_uve_amba.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -1800,14 +1800,14 @@ Es gibt keine Frau mit schönerem Hintern und zum Beischlaf geeigneter als mich,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/07_uve_amba.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/07_uve_amba.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 उ॒वे अ॑म्ब सुलाभिके॒ यथे॑वा॒ङ्ग भ॑वि॒ष्यति॑ ।  
 भ॒सन्मे॑ अम्ब॒ सक्थि॑ मे॒ शिरो॑ मे॒ वी॑व हृष्यति॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/07_uve_amba.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/07_uve_amba.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2091,7 +2091,7 @@ Ich spreche, o leicht zu gewinnende Mutter, wie es bald geschehen wird. Mein Hin
 </div>
 
 ## 08 किं सुबाहो - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/08_kiM_subAho.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/08_kiM_subAho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -2103,14 +2103,14 @@ Ich spreche, o leicht zu gewinnende Mutter, wie es bald geschehen wird. Mein Hin
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/08_kiM_subAho.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/08_kiM_subAho.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 किं सु॑बाहो स्वङ्गुरे॒ पृथु॑ष्टो॒ पृथु॑जाघने ।  
 किं शू॑रपत्नि न॒स्त्वम॒भ्य॑मीषि वृ॒षाक॑पिं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/08_kiM_subAho.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/08_kiM_subAho.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2373,7 +2373,7 @@ Warum, schönarmige, schönfingrige, breitflechtige, breithüftige, warum, o Hel
 </div>
 
 ## 09 अवीरामिव मामयम् - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/09_avIrAmiva_mAmayaM.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/09_avIrAmiva_mAmayaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -2386,14 +2386,14 @@ Warum, schönarmige, schönfingrige, breitflechtige, breithüftige, warum, o Hel
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/09_avIrAmiva_mAmayaM.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/09_avIrAmiva_mAmayaM.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 अ॒वीरा॑मिव॒ माम॒यं श॒रारु॑र॒भि म॑न्यते ।  
 उ॒ताहम॑स्मि वी॒रिणीन्द्र॑पत्नी म॒रुत्स॑खा॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/09_avIrAmiva_mAmayaM.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/09_avIrAmiva_mAmayaM.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2645,7 +2645,7 @@ Dieser Boshafte hat es auf mich abgesehen, als ob ich keinen Mann hätte. Und ic
 </div>
 
 ## 10 संहोत्रं स्म - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/10_saMhotraM_sma.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/10_saMhotraM_sma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -2658,14 +2658,14 @@ Dieser Boshafte hat es auf mich abgesehen, als ob ich keinen Mann hätte. Und ic
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/10_saMhotraM_sma.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/10_saMhotraM_sma.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 सं॒हो॒त्रं स्म॑ पु॒रा नारी॒ सम॑नं॒ वाव॑ गच्छति ।  
 वे॒धा ऋ॒तस्य॑ वी॒रिणीन्द्र॑पत्नी महीयते॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/10_saMhotraM_sma.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/10_saMhotraM_sma.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2908,7 +2908,7 @@ Sonst ist die Frau auch zum gemeinsamen Opfer oder zur Festversammlung gegangen;
 </div>
 
 ## 11 इन्द्राणीमासु नारिषु - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/11_indrANImAsu_nAriShu.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/11_indrANImAsu_nAriShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -2920,14 +2920,14 @@ Sonst ist die Frau auch zum gemeinsamen Opfer oder zur Festversammlung gegangen;
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/11_indrANImAsu_nAriShu.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/11_indrANImAsu_nAriShu.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 इ॒न्द्रा॒णीमा॒सु नारि॑षु सु॒भगा॑म॒हम॑श्रवम् ।  
 न॒ह्य॑स्या अप॒रं च॒न ज॒रसा॒ मर॑ते॒ पति॒र्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/11_indrANImAsu_nAriShu.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/11_indrANImAsu_nAriShu.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -3174,7 +3174,7 @@ Die Indrānī habe ich als die selige unter diesen Weibern nennen gehört; denn 
 </div>
 
 ## 12 नाहमिन्द्राणि रारण - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/12_nAhamindrANi_rAraNa.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/12_nAhamindrANi_rAraNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -3186,14 +3186,14 @@ Die Indrānī habe ich als die selige unter diesen Weibern nennen gehört; denn 
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/12_nAhamindrANi_rAraNa.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/12_nAhamindrANi_rAraNa.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 नाहमि॑न्द्राणि रारण॒ सख्यु॑र्वृ॒षाक॑पेरृ॒ते ।  
 यस्ये॒दमप्यं॑ ह॒विः प्रि॒यं दे॒वेषु॒ गच्छ॑ति॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/12_nAhamindrANi_rAraNa.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/12_nAhamindrANi_rAraNa.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -3466,7 +3466,7 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 </div>
 
 ## 13 वृषाकपायि रेवति - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/13_vRShAkapAyi_revati.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/13_vRShAkapAyi_revati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -3478,14 +3478,14 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/13_vRShAkapAyi_revati.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/13_vRShAkapAyi_revati.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 वृषा॑कपायि॒ रेव॑ति॒ सुपु॑त्र॒ आदु॒ सुस्नु॑षे ।  
 घस॑त्त॒ इन्द्र॑ उ॒क्षणः॑ प्रि॒यं का॑चित्क॒रं ह॒विर्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/13_vRShAkapAyi_revati.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/13_vRShAkapAyi_revati.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -3750,7 +3750,7 @@ O reiche Vrischākapājī, die du treffliche Söhne und Schwiegertöchter hast, 
 </div>
 
 ## 14 उक्ष्णो हि - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/14_uxNo_hi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/14_uxNo_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -3762,14 +3762,14 @@ O reiche Vrischākapājī, die du treffliche Söhne und Schwiegertöchter hast, 
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/14_uxNo_hi.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/14_uxNo_hi.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 उ॒क्ष्णो हि मे॒ पञ्च॑दश सा॒कं पच॑न्ति विंश॒तिम् ।  
 उ॒ताहम॑द्मि॒ पीव॒ इदु॒भा कु॒क्षी पृ॑णन्ति मे॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/14_uxNo_hi.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/14_uxNo_hi.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -4051,7 +4051,7 @@ Denn zwanzig Ochsen braten mir die fünfzehn [Vrischākapi mit Frau, Söhnen und
 </div>
 
 ## 15 वृषभो न - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/15_vRShabho_na.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/15_vRShabho_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -4064,14 +4064,14 @@ Denn zwanzig Ochsen braten mir die fünfzehn [Vrischākapi mit Frau, Söhnen und
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/15_vRShabho_na.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/15_vRShabho_na.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 वृ॒ष॒भो न ति॒ग्मशृ॑ङ्गो॒ऽन्तर्यू॒थेषु॒ रोरु॑वत् ।  
 म॒न्थस्त॑ इन्द्र॒ शं हृ॒दे यं ते॑ सु॒नोति॑ भाव॒युर्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/15_vRShabho_na.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/15_vRShabho_na.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -4341,7 +4341,7 @@ Wie ein spitzhorniger Stier, der in den Herden brüllt, ist er: Der Gerstentrank
 </div>
 
 ## 16 न सेशे - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/16_na_seshe.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/16_na_seshe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -4354,14 +4354,14 @@ Wie ein spitzhorniger Stier, der in den Herden brüllt, ist er: Der Gerstentrank
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/16_na_seshe.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/16_na_seshe.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 न सेशे॒ यस्य॒ रम्ब॑तेऽन्त॒रा स॒क्थ्या॒३॒॑ कपृ॑त् ।  
 सेदी॑शे॒ यस्य॑ रोम॒शं नि॑षे॒दुषो॑ वि॒जृम्भ॑ते॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/16_na_seshe.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/16_na_seshe.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -4624,7 +4624,7 @@ Nicht der ist stark, dessen Glied schlaff zwischen den Schenkeln herabhängt; so
 </div>
 
 ## 17 न सेशे - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/17_na_seshe.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/17_na_seshe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -4638,14 +4638,14 @@ Nicht der ist stark, dessen Glied schlaff zwischen den Schenkeln herabhängt; so
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/17_na_seshe.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/17_na_seshe.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 न सेशे॒ यस्य॑ रोम॒शं नि॑षे॒दुषो॑ वि॒जृम्भ॑ते ।  
 सेदी॑शे॒ यस्य॒ रम्ब॑तेऽन्त॒रा स॒क्थ्या॒३॒॑ कपृ॒द्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/17_na_seshe.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/17_na_seshe.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -4918,7 +4918,7 @@ Nicht der ist stark, dessen behaartes Glied, wenn er sich niedergelassen hat, si
 </div>
 
 ## 18 अयमिन्द्र वृषाकपिः - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/18_ayamindra_vRShAkapiH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/18_ayamindra_vRShAkapiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -4932,14 +4932,14 @@ Nicht der ist stark, dessen behaartes Glied, wenn er sich niedergelassen hat, si
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/18_ayamindra_vRShAkapiH.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/18_ayamindra_vRShAkapiH.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 अ॒यमि॑न्द्र वृ॒षाक॑पिः॒ पर॑स्वन्तं ह॒तं वि॑दत् ।  
 अ॒सिं सू॒नां नवं॑ च॒रुमादेध॒स्यान॒ आचि॑तं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/18_ayamindra_vRShAkapiH.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/18_ayamindra_vRShAkapiH.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -5192,7 +5192,7 @@ Indra! Dieser Vrisakapi fand einen getöteten Waldesel, ein Schlachtmesser, eine
 </div>
 
 ## 19 अयमेमि विचाकशद्विचिन्वन्दासमार्यम् - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/19_ayamemi_vichAkashadvichinvandAsamAryam.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/19_ayamemi_vichAkashadvichinvandAsamAryam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -5205,14 +5205,14 @@ Indra! Dieser Vrisakapi fand einen getöteten Waldesel, ein Schlachtmesser, eine
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/19_ayamemi_vichAkashadvichinvandAsamAryam.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/19_ayamemi_vichAkashadvichinvandAsamAryam.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 अ॒यमे॑मि वि॒चाक॑शद्विचि॒न्वन्दास॒मार्य॑म् ।  
 पिबा॑मि पाक॒सुत्व॑नो॒ऽभि धीर॑मचाकशं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/19_ayamemi_vichAkashadvichinvandAsamAryam.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/19_ayamemi_vichAkashadvichinvandAsamAryam.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -5448,7 +5448,7 @@ Ich hier gehe scharf blickend einher, Arier und Barbaren unterscheidend; ich tri
 </div>
 
 ## 20 धन्व च - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/20_dhanva_cha.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/20_dhanva_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -5461,14 +5461,14 @@ Ich hier gehe scharf blickend einher, Arier und Barbaren unterscheidend; ich tri
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/20_dhanva_cha.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/20_dhanva_cha.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 धन्व॑ च॒ यत्कृ॒न्तत्रं॑ च॒ कति॑ स्वि॒त्ता वि योज॑ना ।  
 नेदी॑यसो वृषाक॒पेऽस्त॒मेहि॑ गृ॒हाँ उप॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/20_dhanva_cha.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/20_dhanva_cha.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -5761,7 +5761,7 @@ Das wüste Land und die jähen Abhänge, wie viele Meilen sind sie entfernt? dru
 </div>
 
 ## 21 पुनरेहि वृषाकपे - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/21_punarehi_vRShAkape.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/21_punarehi_vRShAkape.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -5773,14 +5773,14 @@ Das wüste Land und die jähen Abhänge, wie viele Meilen sind sie entfernt? dru
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/21_punarehi_vRShAkape.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/21_punarehi_vRShAkape.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 पुन॒रेहि॑ वृषाकपे सुवि॒ता क॑ल्पयावहै ।  
 य ए॒ष स्व॑प्न॒नंश॒नोऽस्त॒मेषि॑ प॒था पुन॒र्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/21_punarehi_vRShAkape.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/21_punarehi_vRShAkape.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -6026,7 +6026,7 @@ Gehe wieder zurück, Vrischākapi, wir beide wollen dein Wohlergehen bewirken; g
 </div>
 
 ## 22 यदुदञ्चो वृषाकपे - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/22_yadudancho_vRShAkape.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/22_yadudancho_vRShAkape.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -6038,14 +6038,14 @@ Gehe wieder zurück, Vrischākapi, wir beide wollen dein Wohlergehen bewirken; g
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/22_yadudancho_vRShAkape.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/22_yadudancho_vRShAkape.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 यदुद॑ञ्चो वृषाकपे गृ॒हमि॒न्द्राज॑गन्तन ।  
 क्व१॒॑ स्य पु॑ल्व॒घो मृ॒गः कम॑गञ्जन॒योप॑नो॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/22_yadudancho_vRShAkape.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/22_yadudancho_vRShAkape.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -6326,7 +6326,7 @@ Als ihr, Indra und Vrisakapi, aufwärts nach Hause gegangen waret, wo war das vi
 </div>
 
 ## 23 पर्शुर्ह नाम - पङ्क्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/23_parshurha_nAma.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/23_parshurha_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -6338,14 +6338,14 @@ Als ihr, Indra und Vrisakapi, aufwärts nach Hause gegangen waret, wo war das vi
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/23_parshurha_nAma.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/23_parshurha_nAma.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 पर्शु॑र्ह॒ नाम॑ मान॒वी सा॒कं स॑सूव विंश॒तिम् ।  
 भ॒द्रं भ॑ल॒ त्यस्या॑ अभू॒द्यस्या॑ उ॒दर॒माम॑य॒द्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/23_parshurha_nAma.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/23_parshurha_nAma.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 

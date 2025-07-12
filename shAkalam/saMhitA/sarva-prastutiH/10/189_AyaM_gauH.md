@@ -24,7 +24,7 @@ that compete and combine at that time: the sun and the ritual fire, as well as D
 
 
 ## 01 आयं गौः - गायत्री
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/189/01_AyaM_gauH.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/189/01_AyaM_gauH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -34,14 +34,14 @@ that compete and combine at that time: the sun and the ritual fire, as well as D
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/189/01_AyaM_gauH.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/189/01_AyaM_gauH.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 आयं गौः पृश्नि॑रक्रमी॒दस॑दन्मा॒तरं॑ पु॒रः ।  
 पि॒तरं॑ च प्र॒यन्त्स्वः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/189/01_AyaM_gauH.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/189/01_AyaM_gauH.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -262,7 +262,7 @@ Den Wesenkenner spornet nun gleich einem schnellen Rosse an, Zu setzen sich auf 
 </div>
 
 ## 02 अन्तश्चरति रोचनास्य - गायत्री
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/189/02_antashcharati_rochanAsya.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/189/02_antashcharati_rochanAsya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -272,14 +272,14 @@ Den Wesenkenner spornet nun gleich einem schnellen Rosse an, Zu setzen sich auf 
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/189/02_antashcharati_rochanAsya.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/189/02_antashcharati_rochanAsya.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 अ॒न्तश्च॑रति रोच॒नास्य प्रा॒णाद॑पान॒ती ।  
 व्य॑ख्यन्महि॒षो दिव॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/189/02_antashcharati_rochanAsya.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/189/02_antashcharati_rochanAsya.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -473,7 +473,7 @@ Dem Wesenkenner bringe ich, dem heldbesungnen, gnädigen Ein grosses schönes Lo
 </div>
 
 ## 03 त्रिंशद्धाम वि - गायत्री
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/189/03_triMshaddhAma_vi.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/189/03_triMshaddhAma_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
@@ -485,14 +485,14 @@ Dem Wesenkenner bringe ich, dem heldbesungnen, gnädigen Ein grosses schönes Lo
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/189/03_triMshaddhAma_vi.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/189/03_triMshaddhAma_vi.md">
 <details><summary><h3>मूलम् ...{Loading}...</h3></summary>
 
 त्रिं॒शद्धाम॒ वि रा॑जति॒ वाक्प॑तं॒गाय॑ धीयते ।  
 प्रति॒ वस्तो॒रह॒ द्युभिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/189/03_triMshaddhAma_vi.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/189/03_triMshaddhAma_vi.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
