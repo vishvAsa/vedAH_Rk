@@ -71,6 +71,11 @@ rayím ← rayí- ~ rāy- (nominal stem)
 दध॑त् । र॒यिम् । मयि॑ । पोष॑म् ॥
 </details>
 
+<details><summary>पद-पाठः- तैत्तिरीयः</summary>
+
+अग्ने᳚ । पव॑स्व । स्वपा॒ इति॑ सु-अपाः᳚ । अ॒स्मे इति॑ । वर्चः॑ । सु॒वीर्य॒मिति॑ सु-वीर्य᳚म् ॥ दध॑त् । पोष᳚म् । र॒यिम् । मयि॑ ॥ 
+</details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
