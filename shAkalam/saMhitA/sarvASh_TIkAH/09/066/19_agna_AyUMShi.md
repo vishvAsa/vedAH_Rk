@@ -77,6 +77,14 @@ duchúnām ← duchúnā- (nominal stem)
 आ॒रे । बा॒ध॒स्व॒ । दु॒च्छुना॑म् ॥
 </details>
 
+
+
+<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+
+अग्ने᳚ । आयूꣳ॑षि । प॒व॒से॒ । एति॑ । सु॒व॒ । ऊर्ज᳚म् । इष᳚म् । च॒ । नः॒ ॥ आ॒रे । बा॒ध॒स्व॒ । दु॒च्छुना᳚म् ॥ 
+
+</details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *agna* ← *agne* ← *agni*
