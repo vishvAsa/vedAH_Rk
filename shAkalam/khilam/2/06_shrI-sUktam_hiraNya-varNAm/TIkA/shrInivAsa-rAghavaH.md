@@ -15,74 +15,90 @@ Source: [TW](https://archive.org/details/srisuktabhashyaofsriranganathamuni1937o
 > हिरण्य-वर्णां हरिणीं सुवर्ण-रजत-स्रजाम् ।  
 > चन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥१॥
 
-1. O Jatavedah![^1] Bring unto me (the Goddess) Lakshmi of golden hue,[^2] who is the destroyer of the sins[^3] (of her devotees), who is (resplendent) with her garlands of (lotuses of) gold and silver, who is the delight[^4] (of the universe) and who has plenty of (wealth in the form of) gold, etc.
+1. O Jatavedah![^1_88] Bring unto me (the Goddess) Lakshmi of golden hue,[^2_88] who is the destroyer of the sins[^3_88] (of her devotees), who is (resplendent) with her garlands of (lotuses of) gold and silver, who is the delight[^4_88] (of the universe) and who has plenty of (wealth in the form of) gold, etc.
 
 R = Ranganatha. S = Sayana. P = Prthvidhara.
 
-[^1]: Lord Narayana who has abundant wealth, all of his own acquisition.—R.  
+[^1_88]: Lord Narayana who has abundant wealth, all of his own acquisition.—R.  
     Agni (God of Fire).—S. & P.
-[^2]: who is benevolent and charming.—R.
-[^3]: attractive like the doe.
-[^4]: refulgent and charming like the moon—S. & P.
+
+[^2_88]: who is benevolent and charming.—R.
+
+[^3_88]: attractive like the doe.
+
+[^4_88]: refulgent and charming like the moon—S. & P.
 
 [[P88]]
 
 > तां म आवह जातवेदो लक्ष्मीम् अनप-गामिनीम् ।  
 > यस्यां हिरण्यं विन्देयं गाम् अश्वं पुरुषान् अहम् ॥ २ ॥
 
-2. O Jatavedah! Bring unto me that Lakshmi[^1] who will never leave me and by whose grace I may obtain gold and cattle, and horses and servants[^2].
+2. O Jatavedah! Bring unto me that Lakshmi[^1_89] who will never leave me and by whose grace I may obtain gold and cattle, and horses and servants[^2_89].
 
 > अश्व-पूर्वां रथ-मध्यां हस्ति-नाद-प्रबोधिनीम् ।  
 > श्रियं देवीम् उपह्वये श्रीर् मा देवी जुषताम् ॥ ३ ॥
 
-3. I invoke Goddess' Sri[^3] who has the All-Pervading (Vishnu) before her, who resides in the heart of souls, (or on the chest of Narayana) and who wakes up (first) at the call (for help) of the elephants (and other beings in distress).  
+3. I invoke Goddess[^3_89] Sri[^4_89] who has the All-Pervading (Vishnu) before her, who resides in the heart of souls, (or on the chest of Narayana) and who wakes up (first) at the call (for help) of the elephants (and other beings in distress).  
 (Or) I invoke Sri who has the cavalry in front (in her march) and the chariots in the middle and who wakes up (daily) by the cry of the elephants attending on her. May she be benign towards me.
 
-[^1]: One who has auspicious signs indicative of wealth which is prayed for by all.—R.
-[^2]: sons, friends and servants.—S.
-[^3]: The resplendent or the sportive Goddess who diverts Herself by the creation, etc. of the world.—R.
-[^4]: who is in the form of an army.—S. & P.
+[^1_89]: One who has auspicious signs indicative of wealth which is prayed for by all.—R.
+
+[^2_89]: sons, friends and servants.—S.
+
+[^3_89]: The resplendent or the sportive Goddess who diverts Herself by the creation, etc. of the world.—R.
+
+[^4_89]: who is in the form of an army.—S. & P.
 
 [[P89]]
 
 > कां सोस्मितां हिरण्य-प्राकाराम् आर्द्रां ज्वलन्तीं तृप्तां तर्पयन्तीम् ।  
 > पद्मे स्थितां पद्म-वर्णां त्वाम् इहोपह्वये श्रियम् ॥ ४ ॥
 
-4. I invoke Sri[^1] who is bliss[^2] itself, who is sweet-smiling, who resides in a hall of gold[^3], who is compassionate, or drenched[^4] (on account of her rising from the Milky Ocean or being bathed by the attending elephants'), who is effulgent, who is pleased (because of Her association with Her consort or by the worship of Her devotees), who pleases (all by granting their desires), and who dwells in the lotus and is lotus-coloured.
+4. I invoke Sri[^1_90] who is bliss[^2_90] itself, who is sweet-smiling, who resides in a hall of gold[^3_90], who is compassionate, or drenched[^4_90] (on account of her rising from the Milky Ocean or being bathed by the attending elephants'), who is effulgent, who is pleased (because of Her association with Her consort or by the worship of Her devotees), who pleases (all by granting their desires), and who dwells in the lotus and is lotus-coloured.
 
-[^1]: who is the prop of all beings.—R.
-[^2]: of indescribable greatness or Brahman itself.—S.  
+[^1_90]: who is the prop of all beings.—R.
+
+[^2_90]: of indescribable greatness or Brahman itself.—S.  
     In the form of Vani (Goddess of speech).—P.
-[^3]: of golden hue or form.—S.
-[^4]: born in the constellation of Ardra.—S.
+
+[^3_90]: of golden hue or form.—S.
+
+[^4_90]: born in the constellation of Ardra.—S.
 
 > चन्द्रां प्रभासां यशसा ज्वलन्तीं श्रियं लोके देव-जुष्टाम् उदाराम् ।  
 > तां पद्म-नेमीं शरणम् अहं प्रपद्ये ऽलक्ष्मीर् मे नश्यतां त्वां वृणे ॥५॥
 
-5. I take refuge in Sri who is delightful (to those who take refuge in Her), who has a shining form, who shines with the fame (of protecting those who seek Her), who is worshipped by the Gods (for getting their ends accomplished) or who is loved by Narayana, who is bounteous in Her gifts, and who has the lotus for Her weapon³ (to remove the distress of, and to shower favours
+5. I take refuge in Sri who is delightful (to those who take refuge in Her), who has a shining form, who shines with the fame (of protecting those who seek Her), who is worshipped by the Gods (for getting their ends accomplished) or who is loved by Narayana, who is bounteous in Her gifts, and who has the lotus for Her weapon[^6_90] (to remove the distress of, and to shower favours
+
+on, Her devotees.) May the Alakshmi[^7_90] go away from me, I[^8_90] invoke you, O Lakshmi.
+
+[^5_90]: all pervading.—P. [[??]]
+
+[^6_90]: who is in the form of a lotus. ‘i’ is one of the names of Lakshmi.—S.
+
+[^7_90]: Nescience or the non-existence of the knowledge of Brahman.—R.
+
+[^8_90]: ‘aham’ is found in all the northern versions of the Rk and in some of the south. Sayana is of opinion that it is an interpolation.
 
 [[P90]]
-
-on, Her devotees.) May the Alakshmi[^3] go away from me, I[^4] invoke you, O Lakshmi.
-
-[^1]: all pervading.—P.
-[^2]: who is in the form of a lotus. ‘i’ is one of the names of Lakshmi.—S.
-[^3]: Nescience or the non-existence of the knowledge of Brahman.—R.
-[^4]: ‘aham’ is found in all the northern versions of the Rk and in some of the south. Sayana is of opinion that it is an interpolation.
 
 > आदित्य-वर्णे तपसो ऽधि जातो  
 > वनस्पतिस् तव वृक्षो ऽथ बिल्वः ।  
 > तस्य फलानि तपसा नुदन्तु  
 > माया-अन्तरायाश् च बाह्या अलक्ष्मीः ॥ ६ ॥
 
-6. Lakshmi of sun-like lustre![^1] The auspicious Bilva tree was generated by your penance[^2]. May the fruits of that tree destroy through (our) penance[^3] (viz. chanting their names and worshipping them) (our) ignorance[^4] (or nescience), obstacles[^5] (to the worship and service of you) and extraneous things (which are not related to you).
+6. Lakshmi of sun-like lustre![^1_91] The auspicious Bilva tree was generated by your penance[^2_91]. May the fruits of that tree destroy through (our) penance[^3_91] (viz. chanting their names and worshipping them) (our) ignorance[^4_91] (or nescience), obstacles[^5_91] (to the worship and service of you) and extraneous things (which are not related to you).
 
-[^1]: whose lustre was got from ‘a’ (Bhagavan).—R.
-[^2]: for (you to perform) penance (under it).—P.  
+[^1_91]: whose lustre was got from ‘a’ (Bhagavan).—R.
+
+[^2_91]: for (you to perform) penance (under it).—P.  
     by your will. R. & S.
-[^3]: by (your) favour.—S.
-[^4]: ma & ya—two words : ma—towards & ya—which.—P.
-[^5]: ignorance pertaining to the organs of sense, both internal and external.—S.  
+
+[^3_91]: by (your) favour.—S.
+
+[^4_91]: ma & ya—two words : ma—towards & ya—which.—P.
+
+[^5_91]: ignorance pertaining to the organs of sense, both internal and external.—S.  
     inauspicious things—both internal and external.—P.
 
 [[P91]]
@@ -90,7 +106,13 @@ on, Her devotees.) May the Alakshmi[^3] go away from me, I[^4] invoke you, O Lak
 > उपैतु मां देव-सखः कीर्तिश् च मनुना सह ।  
 > प्रादुर्भूतो ऽस्मि राष्ट्रे ऽस्मिन् कीर्तिम् ऋद्धिं ददातु मे ॥ ७ ॥
 
-7. O Goddess![^1] May the reputation[^2] (of being learned) come to me along with gems[^3]. I am born in this world and may you give me fame and plenty.
+7. O Goddess![^1_92] May the reputation[^2_92] (of being learned) come to me along with gems[^3_92]. I am born in this world and may you give me fame and plenty.
+
+[^1_92]: Devasakhah—(Kubera) the friend of (Maha)deva.—S.&P. The daughter of Daksha—Sati (the consort of Siva).—S.
+
+[^2_92]: with Manibhadra—an attendant of Kubera.--S.
+
+[^3_92]: with cintamani (the divine gem)—P.
 
 > क्षुत्-पिपासा-मलां ज्येष्ठाम्-अलक्ष्मीं नाशयाम्य् अहम् ।  
 > अभूतिम्-असमृद्धिं च सर्वां निर्णुद मे गृहात् ॥ ८ ॥
@@ -100,59 +122,70 @@ on, Her devotees.) May the Alakshmi[^3] go away from me, I[^4] invoke you, O Lak
 > गन्ध-द्वारां दुर्-आधर्षां नित्य-पुष्टां करीषिणीम् ।  
 > ईश्वरीं सर्व-भूतानां ताम् इहोपह्वये श्रियम् ॥ ९ ॥
 
-9. I invoke Sri, to realise whom fragrant things (like sandal-paste, flowers, etc.) are the means¹, who is unassailable² by the inauspicious, who is ever-joyful³ and the possessor of (wealth in the form of) manure (because of the
+9. I invoke Sri, to realise whom fragrant things (like sandal-paste, flowers, etc.) are the means[4_92], who is unassailable[5_92] by the inauspicious, who is ever-joyful[6_92] and the possessor of (wealth in the form of) manure (because of the abundance of cattle She has), and who is the Supreme sovereign of all (living) beings.
 
-[^1]: Devasakhah—(Kubera) the friend of (Maha)deva.—S.&P. The daughter of Daksha—Sati (the consort of Siva).—S.
-[^2]: with Manibhadra—an attendant of Kubera.--S.
-[^3]: with cintamani (the divine gem)—P.
+[4_92]: Who is the means of bringing fame to Her devotees.—R.  
+    (Lakshmi, in the form of the Goddess Earth whose distinguishing feature is smell.—S.
+
+[5_92]: unattainable by those who do not seek her with auxiliaries to worship and with devotion.—R.
+
+[6_92]: who has an abundance of crops.—S.
 
 [[P92]]
-
-abundance of cattle She has), and who is the Supreme sovereign of all (living) beings.
-
-10. May we realise all (the) wishes of (our) hearts and (our) aims, the truth of (our) words (in the form of requests), the wealth of cattle and food. May Sri bring me fame (also).
 
 > मनसः कामम् आकूतिं वाचः सत्यम् अशीमहि ।  
 > पशूनां रूपम् अन्नस्य मयि श्रीः श्रयतां यशः ॥ १० ॥
 
-11. (O Kardama![^1]) Bring to me Sri, who has been taken as a daughter by Kardama (i. e., yourself) and make Her dwell in my family—Her, who is the (Universal) Mother[^2] and who is decked with garlands of lotuses.
+10. May we realise all (the) wishes of (our) hearts and (our) aims, the truth of (our) words (in the form of requests), the wealth of cattle and food. May Sri bring me fame (also).
 
 > कर्दमेन प्रजा-भूता मयि सम्भव कर्दम ।  
 > श्रियं वासय मे कुले मातरं पद्म-मालिनीम् ॥ ११ ॥
 
+11. (O Kardama!) Bring to me Sri, who has been taken as a daughter[1_93] by Kardama (i. e., yourself) and make Her dwell in my family—Her, who is the (Universal) Mother[^2_93] and who is decked with garlands of lotuses.
+
+[1_93]: who has (Kardama) for Her son - S & P.
+
+[2_93]: (your) mother - S & P.
+
 [[P93]]
+
 
 > आपः सृजन्तु स्निग्धानि चिक्लीत वस मे गृहे ।  
 > नि च देवीं मातरं श्रियं वासय मे कुले ॥ १२ ॥
 
-12. O Ciklita![^3] Let the waters[^4] (which are the dwelling places of the Lord) generate (for me) viscous things (like ghee and others). Dwell in my house and make the Goddess Sri, the Mother (of the Universe) also live in my abode.
+12. O Ciklita![^1_94] Let the waters[^2_94] (which are the dwelling places of the Lord) generate (for me) viscous things (like ghee and others). Dwell in my house and make the Goddess Sri, the Mother (of the Universe) also live in my abode.
+
+[^1_94]: One of the personal attendants of Lakshmi. The name of Manmatha, the son of Sri.
+
+[^2_94]: deities presiding over the waters —S.
 
 > आर्द्रां पुष्करिणीं [[यष्टिं|पुष्टिं]] पिङ्गलां पद्म-मालिनीम् ।  
 > चन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो ममावह ॥ १३ ॥
 
-13. O Jatavedah! Bring to me Lakshmi who is compassionate, who resides in the lotus pond[^5], who is the goal of (all) sacrificial rites[^6], who is tawny-coloured, who has garlands of lotuses, who delights[^7] (the Universe), and who has an abundance (of wealth in the form) of gold.
+13. O Jatavedah! Bring to me Lakshmi who is compassionate, who resides in the lotus pond[^3_94], who is the goal of (all) sacrificial rites[^4_94], who is tawny-coloured, who has garlands of lotuses, who delights[^5_94] (the Universe), and who has an abundance (of wealth in the form) of gold.
+
+[^3_94]: who has elephants around Her with their trunks lifted ready to pour water on Her for Her bath.—S.
+
+[^4_94]: who is the punisher (of the delinquent).—S.
+
+[^5_94]: who is lustrous like the moon.—R.
+
+""
+""
+""
 
 > आर्द्रां पुष्करिणीं पुष्टिं सु-वर्णां हेम-मालिनीम् ।  
 > सूर्यां हिरण्मयीं लक्ष्मीं जातवेदो ममावह ॥ १४ ॥
 
 14. O Jatavedah! Bring unto me Lakshmi, who is compassionate, who resides in the lotus-pond, who is prosperity (itself), who is of a
 
-[^1]: Who is the means of bringing fame to Her devotees.—R.  
-    (Lakshmi, in the form of the Goddess Earth whose distinguishing feature is smell.—S.
-[^2]: unattainable by those who do not seek her with auxiliaries to worship and with devotion.—R.
-[^3]: who has an abundance of crops.—S.
-[^4]: One of the personal attendants of Lakshmi. The name of Manmatha, the son of Sri.
-[^5]: deities presiding over the waters —S.
-[^6]: who has elephants around Her with their trunks lifted ready to pour water on Her for Her bath.—S.
-[^7]: who is the punisher (of the delinquent).—S.
-[^8]: who is lustrous like the moon.—R.
-
 [[P94]]
 
-golden hue¹, who is decked with garlands of gold, who is the (efficient) impeller² (of the Universe) and who is of golden form.
+golden hue[^1_95], who is decked with garlands of gold, who is the (efficient) impeller[^2_95]² (of the Universe) and who is of golden form.
 
-[^1]: who is of an agreeable hue.— S.
-[^2]: who is wealth itself.—P.
+[^1_95]: who is of an agreeable hue.— S.
+
+[^2_95]: who is wealth itself.—P.
 
 > तां म आवह जातवेदो लक्ष्मीम् अनपगामिनीम् ।  
 > यस्यां हिरण्यं प्रभूतं गावो दास्योऽश्वान्  
