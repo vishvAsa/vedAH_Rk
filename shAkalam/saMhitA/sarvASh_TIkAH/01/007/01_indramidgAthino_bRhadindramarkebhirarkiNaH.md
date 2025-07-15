@@ -71,6 +71,11 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 इन्द्र॑म् । वाणीः॑ । अ॒नू॒ष॒त॒ ॥
 </details>
 
+<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+
+इन्द्र᳚म् । इत् । गा॒थिनः॑ । बृ॒हत् । इन्द्र᳚म् । अ॒र्केभिः॑ । अ॒र्किणः॑ ॥ इन्द्र᳚म् । वाणीः᳚ । अ॒नू॒ष॒त॒ ॥
+</details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *indram* ← *indra*

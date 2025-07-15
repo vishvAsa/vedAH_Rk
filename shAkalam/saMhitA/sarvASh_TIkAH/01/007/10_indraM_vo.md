@@ -68,6 +68,11 @@ kévalaḥ ← kévala- (nominal stem)
 अ॒स्माक॑म् । अ॒स्तु॒ । केव॑लः ॥
 </details>
 
+<details><summary>पद-पाठः- तैत्तिरीयः</summary>
+
+इन्द्र᳚म् । वः॒ । वि॒श्वतः॑ । परीति॑ । हवा॑महे । जने᳚भ्यः ॥ अ॒स्माक᳚म् । अ॒स्तु॒ । केव॑लः ॥ 
+</details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *indraṃ* ← *indram* ← *indra*
