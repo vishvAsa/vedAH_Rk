@@ -74,6 +74,12 @@ vr̥ṇe ← √vr̥- ~ vr̥̄- (root)
 इन्द्र॑ । तानि॑ । ते॒ । आ । वृ॒णे॒ ॥
 </details>
 
+<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+
+इ॒न्द्रि॒याणि॑ । श॒त॒क्र॒तो॒ इति॑ शत-क्र॒तो॒ । या । ते॒ । जने॑षु । प॒ञ्चस्विति॑ प॒ञ्च-सु॒ ॥ इन्द्र॑ । तानि॑ । ते॒ । एति॑ । वृ॒णे॒ ॥
+</details>
+
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *indriyāṇi* ← *indriya*
