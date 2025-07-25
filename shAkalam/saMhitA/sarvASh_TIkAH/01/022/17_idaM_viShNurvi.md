@@ -74,6 +74,12 @@ sámūḷham ← √vah- (root)
 सम्ऽऊ॑ळ्हम् । अ॒स्य॒ । पां॒सु॒रे ॥
 </details>
 
+<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+
+इ॒दम् । विष्णुः॑ । वीति॑ । च॒क्र॒मे॒ । त्रे॒धा । नीति॑ । द॒धे॒ । प॒दम् ॥ समू॑ढ॒मिति॒ सम्-ऊ॒ढ॒म्॒ । अ॒स्य॒ । [25]  पा॒ꣳ॒सु॒रे ।
+</details>  
+
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *idaṃ* ← *idam*
