@@ -74,6 +74,13 @@ yajñéṣu ← yajñá- (nominal stem)
 त्वम् । य॒ज्ञेषु॑ । ईड्यः॑ ॥
 </details>
 
+<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+
+त्वम् । अ॒ग्ने॒ । व्र॒त॒पा इति॑ व्रत-पाः । अ॒सि॒ । दे॒वः । एति॑ । मर्त्ये॑षु । आ ॥    
+त्वम् । [6]  य॒ज्ञेषु॑ । ईड्यः॑ ॥ 
+</details>
+
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*

@@ -68,6 +68,13 @@ yantā́ ← yantár- (nominal stem)
 उ॒रु । य॒न्ता । अ॒सि॒ । वरू॑थम् ॥
 </details>
 
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । सो॒म॒ । त॒नू॒कृद्भ्य॒ इति॑ तनू॒कृत्-भ्यः॒ ।  द्वेषो᳚भ्य॒ इति॒ द्वेषः॑-भ्यः॒ । अ॒न्यकृ॑तेभ्य॒ इत्य॒न्य-कृ॒ते॒भ्यः॒ । उ॒रु । य॒न्ता । अ॒सि॒ । वरू॑थम् । 
+</details>
+
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*

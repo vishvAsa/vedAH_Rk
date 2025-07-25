@@ -74,6 +74,12 @@ iva ← iva (invariable)
 दि॒विऽइ॑व । चक्षुः॑ । आऽत॑तम् ॥
 </details>
 
+<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+
+तत् । विष्णोः᳚ । प॒र॒मम् । प॒दम् । सदा᳚ । प॒श्य॒न्ति॒ । सू॒रयः॑ ॥ दि॒वि । इ॒व॒ । चख्षुः॑ । आत॑त॒मित्या-त॒त॒म्॒ ॥  
+</details>
+
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*

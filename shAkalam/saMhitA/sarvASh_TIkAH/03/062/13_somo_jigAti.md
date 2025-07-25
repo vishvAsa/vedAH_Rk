@@ -68,6 +68,13 @@ yónim ← yóni- (nominal stem)
 ऋ॒तस्य॑ । योनि॑म् । आ॒ऽसद॑म् ॥
 </details>
 
+
+<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+
+सोमः॑ । जि॒गा॒ति॒ । गा॒तु॒विदिति॑ गातु-वित् । दे॒वाना᳚म् । ए॒ति॒ । नि॒ष्कृ॒तमिति॑ निः-कृ॒तम् । ऋ॒तस्य॑ । योनि᳚म् । आ॒सद॒मित्या᳚-सद᳚म् । 
+</details>
+
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *somo* ← *somaḥ* ← *soma*

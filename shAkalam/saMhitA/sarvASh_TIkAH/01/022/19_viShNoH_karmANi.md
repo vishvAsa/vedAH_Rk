@@ -68,6 +68,11 @@ yújyaḥ ← yújya- (nominal stem)
 इन्द्र॑स्य । युज्यः॑ । सखा॑ ॥
 </details>
 
+<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+
+विष्णोः᳚ । कर्मा॑णि । प॒श्य॒त॒ । यतः॑ । व्र॒तानि॑ । प॒स्प॒शे ॥ इन्द्र॑स्य । युज्यः॑ । सखा᳚ ॥
+</details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *viṣṇoḥ* ← *viṣṇu*
