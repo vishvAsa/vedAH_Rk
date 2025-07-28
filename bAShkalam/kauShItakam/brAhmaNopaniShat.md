@@ -1,5 +1,6 @@
 +++
-title = "कौषीतकि-ब्राह्मणोपनिषत्"
+title = "ब्राह्मणोपनिषत्"
+
 +++
 
 (भाष्यम् [अत्र](https://archive.org/stream/in.ernet.dli.2015.487480/2015.487480.Kaushitaki-Brahmanopnishat#page/n86/mode/1up)।)  

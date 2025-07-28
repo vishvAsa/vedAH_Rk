@@ -1,6 +1,7 @@
 +++
-title = "पदपाठः पाश्चात्यः"
+title = "विकृत-पद-पाठः"
 unicode_script = "devanagari"
+
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>

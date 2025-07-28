@@ -1,4 +1,5 @@
 +++
-title = "उपनिषत्"
+title = "+उपनिषत्"
 unicode_script = "devanagari"
+
 +++
