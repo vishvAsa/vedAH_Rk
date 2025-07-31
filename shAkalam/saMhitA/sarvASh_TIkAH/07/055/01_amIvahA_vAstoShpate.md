@@ -20,6 +20,12 @@ ChandaH = "गायत्री"
 स꣡खा सुशे꣡व एधि नः
 </details>
 
+<details><summary>तैत्तिरीयम् - मूलम्</summary>
+
+अ॒मी॒व॒हा वास्तो॑ष्पते॒ विश्वा॑ रू॒पाण्या॑ वि॒शन्न् ।  
+सखा॑ सु॒शेव॑ एधि नः ।
+</details>
+
 <details><summary>Vedaweb annotation</summary>
 
 _________
