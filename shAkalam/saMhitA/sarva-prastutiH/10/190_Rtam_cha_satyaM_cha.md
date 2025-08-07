@@ -50,10 +50,10 @@ This hymn presents a cosmogony with tápas “ascetic heat, fervor” as the ult
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-ऋतं꣡ च सत्यं꣡ चाभी꣡द्धात्  
-त꣡पसो꣡ ऽधि अजायत  
-त꣡तो रा꣡त्री अजायत  
-त꣡तः समुद्रो꣡ अर्णवः꣡
+ऋतं᳓ च सत्यं᳓ चाभी᳓द्धात्  
+त᳓पसो᳓ ऽधि अजायत  
+त᳓तो रा᳓त्री अजायत  
+त᳓तः समुद्रो᳓ अर्णवः᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -334,10 +334,10 @@ Genaht ist dieser bunte Stier; zum Vater und zur Mutter hat Er sich gesetzt beim
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-समुद्रा꣡द् अर्णवा꣡द् अ꣡धि  
-संवत्सरो꣡ अजायत  
-अहोरात्रा꣡णि विद꣡धद्  
-वि꣡श्वस्य मिषतो꣡ वशी꣡
+समुद्रा᳓द् अर्णवा᳓द् अ᳓धि  
+संवत्सरो᳓ अजायत  
+अहोरात्रा᳓णि विद᳓धद्  
+वि᳓श्वस्य मिषतो᳓ वशी᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -554,10 +554,10 @@ Er wandelt in des Lichtes Raum, vor seinem Hauch erlischt das Roth, Der starke h
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-सूर्याचन्द्रम꣡सौ धाता꣡  
-यथापूर्व꣡म् अकल्पयत्  
-दि꣡वं च पृथिवीं꣡ च  
-अन्त꣡रिक्षम् अ꣡थो सु꣡वः
+सूर्याचन्द्रम᳓सौ धाता᳓  
+यथापूर्व᳓म् अकल्पयत्  
+दि᳓वं च पृथिवीं᳓ च  
+अन्त᳓रिक्षम् अ᳓थो सु᳓वः
 </details>
 <details><summary>Vedaweb annotation</summary>
 

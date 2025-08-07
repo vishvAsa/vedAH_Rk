@@ -108,11 +108,11 @@ Indra's Frau:
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ हि꣡ सो꣡तोर् अ꣡सृक्षत  
-ने꣡न्द्रं देव꣡म् अमंसत  
-य꣡त्रा꣡मदद् वृषा꣡कपिर्  
-अर्यः꣡ पुष्टे꣡षु म꣡त्सखा  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+वि᳓ हि᳓ सो᳓तोर् अ᳓सृक्षत  
+ने᳓न्द्रं देव᳓म् अमंसत  
+य᳓त्रा᳓मदद् वृषा᳓कपिर्  
+अर्यः᳓ पुष्टे᳓षु म᳓त्सखा  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -412,11 +412,11 @@ Sie haben abgelassen vom Somapressen, sie achteten Indra nicht als Gott, dort, w
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रा हि꣡ इन्द्र धा꣡वसि  
-वृषा꣡कपेर् अ꣡ति व्य꣡थिः  
-न꣡ ऊ अ꣡ह प्र꣡ विन्दसि  
-अन्य꣡त्र सो꣡मपीतये  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+प᳓रा हि᳓ इन्द्र धा᳓वसि  
+वृषा᳓कपेर् अ᳓ति व्य᳓थिः  
+न᳓ ऊ अ᳓ह प्र᳓ विन्दसि  
+अन्य᳓त्र सो᳓मपीतये  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -690,11 +690,11 @@ Du läufst ja weiter, Indra, über die Verfehlung des Vrisakapi hinweg sehend. A
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-कि꣡म् अयं꣡ त्वां꣡ वृषा꣡कपिश्  
-चका꣡र ह꣡रितो मृगः꣡  
-य꣡स्मा इरस्य꣡सी꣡द् उ नु꣡  
-अर्यो꣡ वा पुष्टिम꣡द् व꣡सु  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+कि᳓म् अयं᳓ त्वां᳓ वृषा᳓कपिश्  
+चका᳓र ह᳓रितो मृगः᳓  
+य᳓स्मा इरस्य᳓सी᳓द् उ नु᳓  
+अर्यो᳓ वा पुष्टिम᳓द् व᳓सु  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -985,11 +985,11 @@ Was hat dir dieser Vrischākapi, dieses gelbe Wild, gethan, dass du ihm nun so z
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-य꣡म् इमं꣡ त्वं꣡ वृषा꣡कपिम्  
-प्रिय꣡म् इन्द्राभिर꣡क्षसि  
-शुवा꣡ नु꣡ अस्य जम्भिषद्  
-अ꣡पि क꣡र्णे वराहयु꣡र्  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+य᳓म् इमं᳓ त्वं᳓ वृषा᳓कपिम्  
+प्रिय᳓म् इन्द्राभिर᳓क्षसि  
+शुवा᳓ नु᳓ अस्य जम्भिषद्  
+अ᳓पि क᳓र्णे वराहयु᳓र्  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1231,7 +1231,7 @@ Den lieben Vrisakapi, den du, Indra, da in Schutz nimmst, den soll gleich der Hu
 
 
 प्रि॒या त॒ष्टानि॑+++(=कल्पितानि [यजमानैः])+++ मे क॒पिर्  
-+++(इन्द्रप्रीति꣡म्, उक्षपाकं꣡ स्व꣡स्या वक्ष्य꣡माणं)+++  
++++(इन्द्रप्रीति᳓म्, उक्षपाकं᳓ स्व᳓स्या वक्ष्य᳓माणं)+++  
 व्य॑क्ता॒ व्य॑दूदुषत् ।  
 शिरो॒ न्व् अ॑स्य राविषं॒ +++(यथा मृगशीर्षे दृश्यते)+++  
 न सु॒गं दु॒ष्कृते॑ भुवं॒  
@@ -1256,11 +1256,11 @@ Den lieben Vrisakapi, den du, Indra, da in Schutz nimmst, den soll gleich der Hu
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्रिया꣡ तष्टा꣡नि मे कपि꣡र्  
-वि꣡अक्ता वि꣡ अदूदुषत्  
-शि꣡रो नु꣡ अस्य राविषं  
-न꣡ सुगं꣡ दुष्कृ꣡ते भुवं  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+प्रिया᳓ तष्टा᳓नि मे कपि᳓र्  
+वि᳓अक्ता वि᳓ अदूदुषत्  
+शि᳓रो नु᳓ अस्य राविषं  
+न᳓ सुगं᳓ दुष्कृ᳓ते भुवं  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1553,11 +1553,11 @@ Die mir theuren, schönen Kunstwerke hat mir der Affe verdorben; nun will ich ih
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ म꣡त् स्त्री꣡ सुभस꣡त्तरा  
-न꣡ सुया꣡शुतरा भुवत्  
-न꣡ म꣡त् प्र꣡तिच्यवीयसी  
-न꣡ स꣡क्थि उ꣡द्यमीयसी  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+न᳓ म᳓त् स्त्री᳓ सुभस᳓त्तरा  
+न᳓ सुया᳓शुतरा भुवत्  
+न᳓ म᳓त् प्र᳓तिच्यवीयसी  
+न᳓ स᳓क्थि उ᳓द्यमीयसी  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1817,11 +1817,11 @@ Es gibt keine Frau mit schönerem Hintern und zum Beischlaf geeigneter als mich,
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उवे꣡ अम्ब सुलाभिके  
-य꣡थेवाङ्ग꣡ भविष्य꣡ति  
-भस꣡न् मे अम्ब स꣡क्थि मे  
-शि꣡रो मे वी꣡व हृष्यति  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+उवे᳓ अम्ब सुलाभिके  
+य᳓थेवाङ्ग᳓ भविष्य᳓ति  
+भस᳓न् मे अम्ब स᳓क्थि मे  
+शि᳓रो मे वी᳓व हृष्यति  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2120,11 +2120,11 @@ Ich spreche, o leicht zu gewinnende Mutter, wie es bald geschehen wird. Mein Hin
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-किं꣡ सुबाहो सुअङ्गुरे  
-पृ꣡थुष्टो पृ꣡थुजाघने  
-किं꣡ शूरपत्नि नस् तुव꣡म्  
-अभ्य् अ᳡मीषि वृषा꣡कपिं  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+किं᳓ सुबाहो सुअङ्गुरे  
+पृ᳓थुष्टो पृ᳓थुजाघने  
+किं᳓ शूरपत्नि नस् तुव᳓म्  
+अभ्य् अ᳡मीषि वृषा᳓कपिं  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2403,11 +2403,11 @@ Warum, schönarmige, schönfingrige, breitflechtige, breithüftige, warum, o Hel
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अवी꣡राम् इव मा꣡म् अयं꣡  
-शरा꣡रुर् अभि꣡ मन्यते  
-उता꣡ह꣡म् अस्मि वीरि꣡णी  
-इ꣡न्द्रपत्नी मरु꣡त्सखा  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+अवी᳓राम् इव मा᳓म् अयं᳓  
+शरा᳓रुर् अभि᳓ मन्यते  
+उता᳓ह᳓म् अस्मि वीरि᳓णी  
+इ᳓न्द्रपत्नी मरु᳓त्सखा  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2675,11 +2675,11 @@ Dieser Boshafte hat es auf mich abgesehen, als ob ich keinen Mann hätte. Und ic
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-संहोत्रं꣡ स्म पुरा꣡ ना꣡री  
-स꣡मनं वा꣡व गछति  
-वेधा꣡ ऋत꣡स्य वीरि꣡णी  
-इ꣡न्द्रपत्नी महीयते  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+संहोत्रं᳓ स्म पुरा᳓ ना᳓री  
+स᳓मनं वा᳓व गछति  
+वेधा᳓ ऋत᳓स्य वीरि᳓णी  
+इ᳓न्द्रपत्नी महीयते  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2937,11 +2937,11 @@ Sonst ist die Frau auch zum gemeinsamen Opfer oder zur Festversammlung gegangen;
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इन्द्राणी꣡म् आसु꣡ ना꣡रिषु  
-सुभ꣡गाम् अह꣡म् अश्रवम्  
-नह्य् अ᳡स्या अपरं꣡ चन꣡  
-जर꣡सा म꣡रते प꣡तिर्  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+इन्द्राणी᳓म् आसु᳓ ना᳓रिषु  
+सुभ᳓गाम् अह᳓म् अश्रवम्  
+नह्य् अ᳡स्या अपरं᳓ चन᳓  
+जर᳓सा म᳓रते प᳓तिर्  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3203,11 +3203,11 @@ Die Indrānī habe ich als die selige unter diesen Weibern nennen gehört; denn 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-ना꣡ह꣡म् इन्द्राणि रारण  
-स꣡ख्युर् वृषा꣡कपेर् ऋते꣡  
-य꣡स्येद꣡म् अ꣡पियं हविः꣡  
-प्रियं꣡ देवे꣡षु ग꣡छति  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+ना᳓ह᳓म् इन्द्राणि रारण  
+स᳓ख्युर् वृषा᳓कपेर् ऋते᳓  
+य᳓स्येद᳓म् अ᳓पियं हविः᳓  
+प्रियं᳓ देवे᳓षु ग᳓छति  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3495,11 +3495,11 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡षाकपायि रे꣡वति  
-सु꣡पुत्र आ꣡द् उ सु꣡स्नुषे  
-घ꣡सत् त इ꣡न्द्र उक्ष꣡णः  
-प्रियं꣡ काचित्करं꣡ हवि꣡र्  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+वृ᳓षाकपायि रे᳓वति  
+सु᳓पुत्र आ᳓द् उ सु᳓स्नुषे  
+घ᳓सत् त इ᳓न्द्र उक्ष᳓णः  
+प्रियं᳓ काचित्करं᳓ हवि᳓र्  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3779,11 +3779,11 @@ O reiche Vrischākapājī, die du treffliche Söhne und Schwiegertöchter hast, 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उक्ष्णो꣡ हि꣡ मे प꣡ञ्चदश  
-साक꣡म् प꣡चन्ति विंशति꣡म्  
-उता꣡ह꣡म् अद्मि पी꣡व इ꣡द्  
-उभा꣡ कुक्षी꣡ पृणन्ति मे  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+उक्ष्णो᳓ हि᳓ मे प᳓ञ्चदश  
+साक᳓म् प᳓चन्ति विंशति᳓म्  
+उता᳓ह᳓म् अद्मि पी᳓व इ᳓द्  
+उभा᳓ कुक्षी᳓ पृणन्ति मे  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -4081,11 +4081,11 @@ Denn zwanzig Ochsen braten mir die fünfzehn [Vrischākapi mit Frau, Söhnen und
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-वृषभो꣡ न꣡ तिग्म꣡शृङ्गो  
-अन्त꣡र् यूथे꣡षु रो꣡रुवत्  
-मन्थ꣡स् त इन्द्र शं꣡ हृदे꣡  
-यं꣡ ते सुनो꣡ति भावयु꣡र्  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+वृषभो᳓ न᳓ तिग्म᳓शृङ्गो  
+अन्त᳓र् यूथे᳓षु रो᳓रुवत्  
+मन्थ᳓स् त इन्द्र शं᳓ हृदे᳓  
+यं᳓ ते सुनो᳓ति भावयु᳓र्  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -4371,11 +4371,11 @@ Wie ein spitzhorniger Stier, der in den Herden brüllt, ist er: Der Gerstentrank
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ से꣡शे य꣡स्य र꣡म्बते  
-अन्तरा꣡ सक्थि꣡या क꣡पृत्  
-से꣡द् ईशे य꣡स्य रोमशं꣡  
-निषेदु꣡षो विजृ꣡म्भते  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+न᳓ से᳓शे य᳓स्य र᳓म्बते  
+अन्तरा᳓ सक्थि᳓या क᳓पृत्  
+से᳓द् ईशे य᳓स्य रोमशं᳓  
+निषेदु᳓षो विजृ᳓म्भते  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -4655,11 +4655,11 @@ Nicht der ist stark, dessen Glied schlaff zwischen den Schenkeln herabhängt; so
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ से꣡शे य꣡स्य रोमशं꣡  
-निषेदु꣡षो विजृ꣡म्भते  
-से꣡द् ईशे य꣡स्य र꣡म्बते  
-अन्तरा꣡ सक्थि꣡या क꣡पृद्  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+न᳓ से᳓शे य᳓स्य रोमशं᳓  
+निषेदु᳓षो विजृ᳓म्भते  
+से᳓द् ईशे य᳓स्य र᳓म्बते  
+अन्तरा᳓ सक्थि᳓या क᳓पृद्  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -4949,11 +4949,11 @@ Nicht der ist stark, dessen behaartes Glied, wenn er sich niedergelassen hat, si
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अय꣡म् इन्द्र वृषा꣡कपिः  
-प꣡रस्वन्तं हतं꣡ विदत्  
-असिं꣡ सूनां꣡ न꣡वं चरु꣡म्  
-आ꣡द् ए꣡धस्या꣡न आ꣡चितं  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+अय᳓म् इन्द्र वृषा᳓कपिः  
+प᳓रस्वन्तं हतं᳓ विदत्  
+असिं᳓ सूनां᳓ न᳓वं चरु᳓म्  
+आ᳓द् ए᳓धस्या᳓न आ᳓चितं  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -5222,11 +5222,11 @@ Indra! Dieser Vrisakapi fand einen getöteten Waldesel, ein Schlachtmesser, eine
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अय꣡म् एमि विचा꣡कशद्  
-विचिन्व꣡न् दा꣡सम् आ꣡रियम्  
-पि꣡बामि पाकसु꣡त्वनो  
-अभि꣡ धी꣡रम् अचाकशं  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+अय᳓म् एमि विचा᳓कशद्  
+विचिन्व᳓न् दा᳓सम् आ᳓रियम्  
+पि᳓बामि पाकसु᳓त्वनो  
+अभि᳓ धी᳓रम् अचाकशं  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -5478,11 +5478,11 @@ Ich hier gehe scharf blickend einher, Arier und Barbaren unterscheidend; ich tri
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-ध꣡न्व च य꣡त् कृन्त꣡त्रं च  
-क꣡ति स्वित् ता꣡ वि꣡ यो꣡जना  
-ने꣡दीयसो वृषाकपे  
-अ꣡स्तम् ए꣡हि गृहाँ꣡ उ꣡प  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+ध᳓न्व च य᳓त् कृन्त᳓त्रं च  
+क᳓ति स्वित् ता᳓ वि᳓ यो᳓जना  
+ने᳓दीयसो वृषाकपे  
+अ᳓स्तम् ए᳓हि गृहाँ᳓ उ᳓प  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -5790,11 +5790,11 @@ Das wüste Land und die jähen Abhänge, wie viele Meilen sind sie entfernt? dru
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-पु꣡नर् ए꣡हि वृषाकपे  
-सुविता꣡ कल्पयावहै  
-य꣡ एष꣡ स्वप्ननं꣡शनो  
-अ꣡स्तम् ए꣡षि पथा꣡ पु꣡नर्  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+पु᳓नर् ए᳓हि वृषाकपे  
+सुविता᳓ कल्पयावहै  
+य᳓ एष᳓ स्वप्ननं᳓शनो  
+अ᳓स्तम् ए᳓षि पथा᳓ पु᳓नर्  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -6055,11 +6055,11 @@ Gehe wieder zurück, Vrischākapi, wir beide wollen dein Wohlergehen bewirken; g
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् उ꣡दञ्चो वृषाकपे  
-गृह꣡म् इन्द्रा꣡जगन्तन  
-कु꣡व स्य꣡ पुल्वघो꣡ मृगः꣡  
-क꣡म् अगञ् जनयो꣡पनो  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+य᳓द् उ᳓दञ्चो वृषाकपे  
+गृह᳓म् इन्द्रा᳓जगन्तन  
+कु᳓व स्य᳓ पुल्वघो᳓ मृगः᳓  
+क᳓म् अगञ् जनयो᳓पनो  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -6355,11 +6355,11 @@ Als ihr, Indra und Vrisakapi, aufwärts nach Hause gegangen waret, wo war das vi
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प꣡र्शुर् ह ना꣡म मानवी꣡  
-साकं꣡ ससूव विंशति꣡म्  
-भद्र꣡म् भल त्य꣡स्या अभूद्  
-य꣡स्या उद꣡रम् आ꣡मयद्  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+प᳓र्शुर् ह ना᳓म मानवी᳓  
+साकं᳓ ससूव विंशति᳓म्  
+भद्र᳓म् भल त्य᳓स्या अभूद्  
+य᳓स्या उद᳓रम् आ᳓मयद्  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 

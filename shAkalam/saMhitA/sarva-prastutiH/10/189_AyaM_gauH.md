@@ -51,9 +51,9 @@ that compete and combine at that time: the sun and the ritual fire, as well as D
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡यं꣡ गउः꣡ पृ꣡श्निर् अक्रमीद्  
-अ꣡सदन् मात꣡रम् पुरः꣡  
-पित꣡रं च प्रय꣡न् सु꣡वः
+आ᳓यं᳓ गउः᳓ पृ᳓श्निर् अक्रमीद्  
+अ᳓सदन् मात᳓रम् पुरः᳓  
+पित᳓रं च प्रय᳓न् सु᳓वः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -289,9 +289,9 @@ Den Wesenkenner spornet nun gleich einem schnellen Rosse an, Zu setzen sich auf 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अन्त꣡श् चरति रोचना꣡  
-अस्य꣡ प्राणा꣡द् अपानती꣡  
-वि꣡ अख्यन् महिषो꣡ दि꣡वम्
+अन्त᳓श् चरति रोचना᳓  
+अस्य᳓ प्राणा᳓द् अपानती᳓  
+वि᳓ अख्यन् महिषो᳓ दि᳓वम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -502,9 +502,9 @@ Dem Wesenkenner bringe ich, dem heldbesungnen, gnädigen Ein grosses schönes Lo
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त्रिंश꣡द् धा꣡म वि꣡ राजति  
-वा꣡क् पतंगा꣡य धीयते  
-प्र꣡ति व꣡स्तोर् अ꣡ह द्यु꣡भिः
+त्रिंश᳓द् धा᳓म वि᳓ राजति  
+वा᳓क् पतंगा᳓य धीयते  
+प्र᳓ति व᳓स्तोर् अ᳓ह द्यु᳓भिः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
