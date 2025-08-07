@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्मा꣡कम् अद्य꣡ वाम् अयं꣡  
-स्तो꣡मो वा꣡हिष्ठो अ꣡न्तमः  
-युवा꣡भ्याम् भूतु अश्विना
+अस्मा᳓कम् अद्य᳓ वाम् अयं᳓  
+स्तो᳓मो वा᳓हिष्ठो अ᳓न्तमः  
+युवा᳓भ्याम् भूतु अश्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

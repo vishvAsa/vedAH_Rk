@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अग्ने म꣡र्तियस् तुवं꣡  
-सिया꣡म् अह꣡म् मित्रमहो अ꣡मर्तियः  
-स꣡हसः सूनव् आहुत
+य᳓द् अग्ने म᳓र्तियस् तुवं᳓  
+सिया᳓म् अह᳓म् मित्रमहो अ᳓मर्तियः  
+स᳓हसः सूनव् आहुत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

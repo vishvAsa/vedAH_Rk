@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने केतु꣡र् विशा꣡म् असि  
-प्रे꣡ष्ठः श्रे꣡ष्ठ उपस्थस꣡त्  
-बो꣡धा स्तोत्रे꣡ व꣡यो द꣡धत्
+अ᳓ग्ने केतु᳓र् विशा᳓म् असि  
+प्रे᳓ष्ठः श्रे᳓ष्ठ उपस्थस᳓त्  
+बो᳓धा स्तोत्रे᳓ व᳓यो द᳓धत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

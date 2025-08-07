@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अर्वाची꣡नं सु꣡ ते म꣡न  
-उत꣡ च꣡क्षुः शतक्रतो  
-इ꣡न्द्र कृण्व꣡न्तु वाघ꣡तः
+अर्वाची᳓नं सु᳓ ते म᳓न  
+उत᳓ च᳓क्षुः शतक्रतो  
+इ᳓न्द्र कृण्व᳓न्तु वाघ᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

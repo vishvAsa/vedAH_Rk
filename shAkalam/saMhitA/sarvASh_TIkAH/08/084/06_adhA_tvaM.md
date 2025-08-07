@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धा तुवं꣡ हि꣡ नस् क꣡रो  
-वि꣡श्वा अस्म꣡भ्यं सुक्षितीः꣡  
-वा꣡जद्रविणसो गि꣡रः
+अ᳓धा तुवं᳓ हि᳓ नस् क᳓रो  
+वि᳓श्वा अस्म᳓भ्यं सुक्षितीः᳓  
+वा᳓जद्रविणसो गि᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

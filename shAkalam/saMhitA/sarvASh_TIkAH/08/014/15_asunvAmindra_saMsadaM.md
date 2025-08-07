@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-असुन्वा꣡म् इन्द्र संस꣡दं  
-वि꣡षूचीं वि꣡ अनाशयः  
-सोमपा꣡ उ꣡त्तरो भ꣡वन्
+असुन्वा᳓म् इन्द्र संस᳓दं  
+वि᳓षूचीं वि᳓ अनाशयः  
+सोमपा᳓ उ᳓त्तरो भ᳓वन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

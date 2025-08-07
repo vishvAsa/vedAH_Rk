@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ धावता सुहस्तियः  
-शुक्रा꣡ गृभ्णीत मन्थि꣡ना  
-गो꣡भिः श्रीणीत मत्सर꣡म्
+आ᳓ धावता सुहस्तियः  
+शुक्रा᳓ गृभ्णीत मन्थि᳓ना  
+गो᳓भिः श्रीणीत मत्सर᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

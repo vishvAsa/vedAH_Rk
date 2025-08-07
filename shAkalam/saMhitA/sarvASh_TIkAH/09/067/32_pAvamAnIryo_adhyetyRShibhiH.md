@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पावमानी꣡र् यो꣡ अध्ये꣡ति  
-ऋ꣡षिभिः स꣡म्भृतं र꣡सम्  
-त꣡स्मै स꣡रस्वती दुहे  
-क्षीरं꣡ सर्पि꣡र् म꣡धूदक꣡म्
+पावमानी᳓र् यो᳓ अध्ये᳓ति  
+ऋ᳓षिभिः स᳓म्भृतं र᳓सम्  
+त᳓स्मै स᳓रस्वती दुहे  
+क्षीरं᳓ सर्पि᳓र् म᳓धूदक᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -194,7 +194,7 @@ Here follows a **khila** of 19 verses in praise of pavamāna hymns
 Whoever studies the “Self-Purifying” (verses), the sap assembled by  the seers,  
 for him Sarasvatī milks out milk, fresh butter, honey, and water.  
 Jagatı Hymns: 68–86 ̄
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/31-32.md">

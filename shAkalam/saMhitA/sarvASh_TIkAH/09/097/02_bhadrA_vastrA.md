@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-भद्रा꣡ व꣡स्त्रा समनि꣡या व꣡सानो  
-महा꣡न् कवि꣡र् निव꣡चनानि शं꣡सन्  
-आ꣡ वच्यस्व चमु꣡वोः पूय꣡मानो  
-विचक्षणो꣡ जा꣡गृविर् देव꣡वीतौ
+भद्रा᳓ व᳓स्त्रा समनि᳓या व᳓सानो  
+महा᳓न् कवि᳓र् निव᳓चनानि शं᳓सन्  
+आ᳓ वच्यस्व चमु᳓वोः पूय᳓मानो  
+विचक्षणो᳓ जा᳓गृविर् देव᳓वीतौ
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -209,7 +209,7 @@ _________
 
 Wearing auspicious festival garments, as a great poet pronouncing  enigmas,  
 coil yourself into the two cups while being purified, wide-gazing and  watchful in the pursuit of the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/01-03.md">

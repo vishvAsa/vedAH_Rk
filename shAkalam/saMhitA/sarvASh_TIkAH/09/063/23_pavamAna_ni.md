@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमान नि꣡ तोशसे  
-रयिं꣡ सोम श्रवा꣡यियम्  
-प्रियः꣡ समुद्र꣡म् आ꣡ विश
+प᳓वमान नि᳓ तोशसे  
+रयिं᳓ सोम श्रवा᳓यियम्  
+प्रियः᳓ समुद्र᳓म् आ᳓ विश
 </details>
 
 <details><summary>Vedaweb annotation</summary>

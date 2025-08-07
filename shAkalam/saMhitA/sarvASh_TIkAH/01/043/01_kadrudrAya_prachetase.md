@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡द् रुद्रा꣡य प्र꣡चेतसे  
-मीळ्हु꣡ष्टमाय त꣡व्यसे  
-वोचे꣡म शं꣡तमं हृदे꣡
+क᳓द् रुद्रा᳓य प्र᳓चेतसे  
+मीळ्हु᳓ष्टमाय त᳓व्यसे  
+वोचे᳓म शं᳓तमं हृदे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

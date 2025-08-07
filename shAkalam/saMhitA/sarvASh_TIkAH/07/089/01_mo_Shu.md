@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मो꣡ षु꣡ वरुण मृन्म꣡यं  
-गृहं꣡ राजन्न् अहं꣡ गमम्  
-मॄळा꣡+ सुक्षत्र मॄळ꣡य
+मो᳓ षु᳓ वरुण मृन्म᳓यं  
+गृहं᳓ राजन्न् अहं᳓ गमम्  
+मॄळा᳓+ सुक्षत्र मॄळ᳓य
 </details>
 
 <details><summary>Vedaweb annotation</summary>

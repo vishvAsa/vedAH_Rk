@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ हि꣡ रिरिक्ष꣡ ओ꣡जसा  
-दिवो꣡ अ꣡न्तेभियस् प꣡रि  
-न꣡ त्वा विव्याच र꣡ज इन्द्र पा꣡र्थिवम्  
-अ꣡नु स्वधां꣡ ववक्षिथ
+प्र᳓ हि᳓ रिरिक्ष᳓ ओ᳓जसा  
+दिवो᳓ अ᳓न्तेभियस् प᳓रि  
+न᳓ त्वा विव्याच र᳓ज इन्द्र पा᳓र्थिवम्  
+अ᳓नु स्वधां᳓ ववक्षिथ
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -212,7 +212,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Because you project beyond the limits of heaven with your strength, the earthly realm does not contain you, Indra. You have waxed strong  following your independent power.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/088/04-05.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वयं꣡ घा ते अ꣡पि ष्मसि  
-स्तोता꣡र इन्द्र गिर्वणः  
-तुवं꣡ नो जिन्व सोमपाः
+वयं᳓ घा ते अ᳓पि ष्मसि  
+स्तोता᳓र इन्द्र गिर्वणः  
+तुवं᳓ नो जिन्व सोमपाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

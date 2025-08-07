@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-धिष्व꣡ व꣡ज्रं ग꣡भस्तियो  
-रक्षोह꣡त्याय वज्रिवः  
-सासहीष्ठा꣡ अभि꣡ स्पृ꣡धः
+धिष्व᳓ व᳓ज्रं ग᳓भस्तियो  
+रक्षोह᳓त्याय वज्रिवः  
+सासहीष्ठा᳓ अभि᳓ स्पृ᳓धः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

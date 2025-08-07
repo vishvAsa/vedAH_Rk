@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एवा꣡ हि꣡ ते वि꣡भूतय  
-ऊत꣡य इन्द्र मा꣡वते  
-सद्य꣡श् चित् स꣡न्ति दाशु꣡षे
+एवा᳓ हि᳓ ते वि᳓भूतय  
+ऊत᳓य इन्द्र मा᳓वते  
+सद्य᳓श् चित् स᳓न्ति दाशु᳓षे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

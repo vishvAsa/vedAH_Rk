@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-श꣡नैश् चिद् य꣡न्तो अद्रिवो  
-अ꣡श्वावन्तः शतग्वि꣡नः  
-विव꣡क्षणा अनेह꣡सः
+श᳓नैश् चिद् य᳓न्तो अद्रिवो  
+अ᳓श्वावन्तः शतग्वि᳓नः  
+विव᳓क्षणा अनेह᳓सः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

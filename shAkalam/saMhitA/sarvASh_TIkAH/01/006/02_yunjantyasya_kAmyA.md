@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-युञ्ज꣡न्ति अस्य का꣡मिया  
-ह꣡री वि꣡पक्षसा र꣡थे  
-शो꣡णा धृष्णू꣡ नृवा꣡हसा
+युञ्ज᳓न्ति अस्य का᳓मिया  
+ह᳓री वि᳓पक्षसा र᳓थे  
+शो᳓णा धृष्णू᳓ नृवा᳓हसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-सह꣡ वामे꣡न न उषो  
-वि꣡ उछा दुहितर् दिवः  
-सह꣡ द्युम्ने꣡न बृहता꣡ विभावरि  
-राया꣡ देवि दा᳐꣡स्वती
+सह᳓ वामे᳓न न उषो  
+वि᳓ उछा दुहितर् दिवः  
+सह᳓ द्युम्ने᳓न बृहता᳓ विभावरि  
+राया᳓ देवि दा᳐᳓स्वती
 </details>
 
 <details><summary>Vedaweb annotation</summary>

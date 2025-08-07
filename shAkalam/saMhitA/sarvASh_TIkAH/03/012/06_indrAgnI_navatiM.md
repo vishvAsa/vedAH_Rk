@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राग्नी नवति꣡म् पु꣡रो  
-दास꣡पत्नीर् अधूनुतम्  
-साक꣡म् ए꣡केन क꣡र्मणा
+इ᳓न्द्राग्नी नवति᳓म् पु᳓रो  
+दास᳓पत्नीर् अधूनुतम्  
+साक᳓म् ए᳓केन क᳓र्मणा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

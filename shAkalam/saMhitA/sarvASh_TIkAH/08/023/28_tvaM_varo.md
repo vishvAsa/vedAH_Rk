@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ वरो सुषा꣡मणे  
-अ꣡ग्ने ज꣡नाय चोदय  
-स꣡दा वसो रातिं꣡ यविष्ठ श꣡श्वते
+तुवं᳓ वरो सुषा᳓मणे  
+अ᳓ग्ने ज᳓नाय चोदय  
+स᳓दा वसो रातिं᳓ यविष्ठ श᳓श्वते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इहे꣡ह वः स्वतवसः  
-क꣡वयः सू꣡रियत्वचः  
-यज्ञ꣡म् मरुत आ꣡ वृणे
+इहे᳓ह वः स्वतवसः  
+क᳓वयः सू᳓रियत्वचः  
+यज्ञ᳓म् मरुत आ᳓ वृणे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

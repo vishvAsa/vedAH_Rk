@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो याहि पराव꣡तो  
-ह꣡रिभ्यां हर्यता꣡भियाम्  
-इम꣡म् इन्द्र सुत꣡म् पिब
+आ᳓ नो याहि पराव᳓तो  
+ह᳓रिभ्यां हर्यता᳓भियाम्  
+इम᳓म् इन्द्र सुत᳓म् पिब
 </details>
 
 <details><summary>Vedaweb annotation</summary>

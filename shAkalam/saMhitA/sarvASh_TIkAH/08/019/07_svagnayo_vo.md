@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुअग्न꣡यो वो अग्नि꣡भिः  
-सिया꣡म सूनो सहस ऊर्जाम् पते  
-सुवी꣡रस् तुव꣡म् अस्मयुः꣡
+सुअग्न᳓यो वो अग्नि᳓भिः  
+सिया᳓म सूनो सहस ऊर्जाम् पते  
+सुवी᳓रस् तुव᳓म् अस्मयुः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

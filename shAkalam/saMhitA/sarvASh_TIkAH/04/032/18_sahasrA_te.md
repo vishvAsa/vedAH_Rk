@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सह꣡स्रा ते शता꣡ वयं꣡  
-ग꣡वाम् आ꣡ च्यावयामसि  
-अस्मत्रा꣡ रा꣡ध एतु ते
+सह᳓स्रा ते शता᳓ वयं᳓  
+ग᳓वाम् आ᳓ च्यावयामसि  
+अस्मत्रा᳓ रा᳓ध एतु ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

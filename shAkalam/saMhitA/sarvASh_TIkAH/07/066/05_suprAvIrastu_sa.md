@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुप्रावी꣡र् अस्तु स꣡ क्ष꣡यः  
-प्र꣡ नु꣡ या꣡मन् सुदानवः  
-ये꣡ नो अं꣡हो ऽतिपि꣡प्रति
+सुप्रावी᳓र् अस्तु स᳓ क्ष᳓यः  
+प्र᳓ नु᳓ या᳓मन् सुदानवः  
+ये᳓ नो अं᳓हो ऽतिपि᳓प्रति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

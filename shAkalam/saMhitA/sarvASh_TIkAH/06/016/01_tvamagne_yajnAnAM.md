@@ -15,9 +15,9 @@ ChandaH = "वर्धमाना गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुव꣡म् अग्ने यज्ञा꣡नां᳐  
-हो꣡ता वि꣡श्वेषां᳐ हितः꣡  
-देवे꣡भिर् मा꣡नुषे ज꣡ने
+तुव᳓म् अग्ने यज्ञा᳓नां᳐  
+हो᳓ता वि᳓श्वेषां᳐ हितः᳓  
+देवे᳓भिर् मा᳓नुषे ज᳓ने
 </details>
 
 <details><summary>Vedaweb annotation</summary>

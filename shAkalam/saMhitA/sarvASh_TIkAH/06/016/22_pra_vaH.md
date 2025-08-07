@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ वः सखायो अग्न꣡ये  
-स्तो꣡मं यज्ञं꣡ च धृष्णुया꣡  
-अ꣡र्च गा꣡य च वेध꣡से
+प्र᳓ वः सखायो अग्न᳓ये  
+स्तो᳓मं यज्ञं᳓ च धृष्णुया᳓  
+अ᳓र्च गा᳓य च वेध᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>

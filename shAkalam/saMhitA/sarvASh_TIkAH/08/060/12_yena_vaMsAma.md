@@ -15,10 +15,10 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡न वं꣡साम पृ꣡तनासु श꣡र्धतस्  
-त꣡रन्तो अर्य꣡ आदि꣡शः  
-स꣡ त्वं꣡ नो वर्ध प्र꣡यसा शचीवसो  
-जि꣡न्वा धि꣡यो वसुवि꣡दः
+ये᳓न वं᳓साम पृ᳓तनासु श᳓र्धतस्  
+त᳓रन्तो अर्य᳓ आदि᳓शः  
+स᳓ त्वं᳓ नो वर्ध प्र᳓यसा शचीवसो  
+जि᳓न्वा धि᳓यो वसुवि᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -222,7 +222,7 @@ _________
 
 (Wealth) with which we will vanquish in battles those who vaunt  themselves, as we overcome the aims of the stranger.  
 Strengthen us because of our pleasing offering, o you who have the  goods of skill. Quicken our insights so they find goods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

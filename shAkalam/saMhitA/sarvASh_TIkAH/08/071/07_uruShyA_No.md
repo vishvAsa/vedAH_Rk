@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उरुष्या꣡ णो मा꣡ प꣡रा दा  
-अघायते꣡ जातवेदः  
-दुराधि꣡ये म꣡र्तिआय°
+उरुष्या᳓ णो मा᳓ प᳓रा दा  
+अघायते᳓ जातवेदः  
+दुराधि᳓ये म᳓र्तिआय°
 </details>
 
 <details><summary>Vedaweb annotation</summary>

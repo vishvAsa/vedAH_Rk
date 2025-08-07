@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-समिध्य꣡मानो अध्वरे꣡  
-अग्निः꣡ पवाक꣡+ ई꣡डियः  
-शोचि꣡ष्केशस् त꣡म् ईमहे
+समिध्य᳓मानो अध्वरे᳓  
+अग्निः᳓ पवाक᳓+ ई᳓डियः  
+शोचि᳓ष्केशस् त᳓म् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

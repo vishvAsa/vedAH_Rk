@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अय꣡म् मे ह꣡स्तो भ꣡गवान्  
-अय꣡म् मे भ꣡गवत्तरः  
-अय꣡म् मे विश्व꣡भेषजो  
-अयं꣡ शिवा꣡भिमर्शनः
+अय᳓म् मे ह᳓स्तो भ᳓गवान्  
+अय᳓म् मे भ᳓गवत्तरः  
+अय᳓म् मे विश्व᳓भेषजो  
+अयं᳓ शिवा᳓भिमर्शनः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

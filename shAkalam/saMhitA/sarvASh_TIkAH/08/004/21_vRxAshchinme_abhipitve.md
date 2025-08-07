@@ -15,9 +15,9 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृक्षा꣡श् चिन् मे अभिपित्वे꣡ अरारणुः  
-गा᳐꣡म् भजन्त मेह꣡ना  
-अ꣡श्वम् भजन्त मेह꣡ना
+वृक्षा᳓श् चिन् मे अभिपित्वे᳓ अरारणुः  
+गा᳐᳓म् भजन्त मेह᳓ना  
+अ᳓श्वम् भजन्त मेह᳓ना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

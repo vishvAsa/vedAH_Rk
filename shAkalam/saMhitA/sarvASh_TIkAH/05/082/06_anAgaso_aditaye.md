@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡नागसो अ꣡दितये  
-देव꣡स्य सवितुः꣡ सवे꣡  
-वि꣡श्वा वामा꣡नि धीमहि
+अ᳓नागसो अ᳓दितये  
+देव᳓स्य सवितुः᳓ सवे᳓  
+वि᳓श्वा वामा᳓नि धीमहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

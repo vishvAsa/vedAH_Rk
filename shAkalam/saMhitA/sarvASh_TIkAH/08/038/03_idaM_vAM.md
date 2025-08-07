@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इदं꣡ वाम् मदिर꣡म् म꣡धु  
-अ꣡धुक्षन्न् अ꣡द्रिभिर् न꣡रः  
-इ꣡न्द्राग्नी त꣡स्य बोधतम्
+इदं᳓ वाम् मदिर᳓म् म᳓धु  
+अ᳓धुक्षन्न् अ᳓द्रिभिर् न᳓रः  
+इ᳓न्द्राग्नी त᳓स्य बोधतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

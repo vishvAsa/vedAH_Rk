@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-घृत꣡पृष्ठा मनोयु꣡जो  
-ये꣡ त्वा व꣡हन्ति व꣡ह्नयः  
-आ꣡ देवा꣡न् सो꣡मपीतये
+घृत᳓पृष्ठा मनोयु᳓जो  
+ये᳓ त्वा व᳓हन्ति व᳓ह्नयः  
+आ᳓ देवा᳓न् सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

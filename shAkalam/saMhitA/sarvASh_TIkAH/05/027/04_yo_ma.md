@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ म इ꣡ति प्रवो꣡चति  
-अ꣡श्वमेधाय सूर꣡ये  
-द꣡दद् ऋचा꣡ सनिं꣡ यते꣡  
-द꣡दन् मेधा꣡म् ऋतायते꣡
+यो᳓ म इ᳓ति प्रवो᳓चति  
+अ᳓श्वमेधाय सूर᳓ये  
+द᳓दद् ऋचा᳓ सनिं᳓ यते᳓  
+द᳓दन् मेधा᳓म् ऋतायते᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

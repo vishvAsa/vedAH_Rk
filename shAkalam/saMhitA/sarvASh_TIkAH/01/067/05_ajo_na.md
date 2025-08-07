@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अजो꣡ न꣡ क्षां꣡ दाधा꣡र पृथिवीं꣡  
-तस्त꣡म्भ दिया꣡म् म꣡न्त्रेभिः सत्यइः꣡
+अजो᳓ न᳓ क्षां᳓ दाधा᳓र पृथिवीं᳓  
+तस्त᳓म्भ दिया᳓म् म᳓न्त्रेभिः सत्यइः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

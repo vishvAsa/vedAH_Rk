@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवा꣡म् अ꣡छा चरामसि  
-त꣡द् इ꣡द् अ꣡र्थं दिवे꣡-दिवे  
-इ꣡न्दो तुवे꣡ न आश꣡सः
+तुवा᳓म् अ᳓छा चरामसि  
+त᳓द् इ᳓द् अ᳓र्थं दिवे᳓-दिवे  
+इ᳓न्दो तुवे᳓ न आश᳓सः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

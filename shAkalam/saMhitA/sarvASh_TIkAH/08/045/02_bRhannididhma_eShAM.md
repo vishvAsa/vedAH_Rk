@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-बृह꣡न्न् इ꣡द् इध्म꣡ एषा᳐म्  
-भू꣡रि शस्त꣡म् पृथुः꣡ स्व꣡रुः  
-ये꣡षाम् इ꣡न्द्रो यु꣡वा स꣡खा
+बृह᳓न्न् इ᳓द् इध्म᳓ एषा᳐म्  
+भू᳓रि शस्त᳓म् पृथुः᳓ स्व᳓रुः  
+ये᳓षाम् इ᳓न्द्रो यु᳓वा स᳓खा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

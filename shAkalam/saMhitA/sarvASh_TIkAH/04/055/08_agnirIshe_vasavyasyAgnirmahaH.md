@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् ईशे वसव्य᳡स्य  
-अग्नि꣡र् महः꣡ सउ꣡भगस्य  
-ता꣡नि अस्म꣡भ्यं रासते
+अग्नि᳓र् ईशे वसव्य᳡स्य  
+अग्नि᳓र् महः᳓ सउ᳓भगस्य  
+ता᳓नि अस्म᳓भ्यं रासते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

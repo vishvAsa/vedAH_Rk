@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋ꣡धद् य꣡स् ते सुदा꣡नवे  
-धिया꣡ म꣡र्तः शश꣡मते  
-ऊती꣡ ष꣡ बृहतो꣡ दिवो꣡  
-द्विषो꣡ अं꣡हो न꣡ तरति
+ऋ᳓धद् य᳓स् ते सुदा᳓नवे  
+धिया᳓ म᳓र्तः शश᳓मते  
+ऊती᳓ ष᳓ बृहतो᳓ दिवो᳓  
+द्विषो᳓ अं᳓हो न᳓ तरति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

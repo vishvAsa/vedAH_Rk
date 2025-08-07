@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡षा पवस्व धा꣡रया  
-मरु꣡त्वते च मत्सरः꣡  
-वि꣡श्वा द꣡धान ओ꣡जसा
+वृ᳓षा पवस्व धा᳓रया  
+मरु᳓त्वते च मत्सरः᳓  
+वि᳓श्वा द᳓धान ओ᳓जसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

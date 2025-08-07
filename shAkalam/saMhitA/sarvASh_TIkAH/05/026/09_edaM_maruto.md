@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ए꣡द꣡म् मरु꣡तो अश्वि꣡ना  
-मित्रः꣡ सीदन्तु व꣡रुणः  
-देवा꣡सः स꣡र्वया विशा꣡
+ए᳓द᳓म् मरु᳓तो अश्वि᳓ना  
+मित्रः᳓ सीदन्तु व᳓रुणः  
+देवा᳓सः स᳓र्वया विशा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

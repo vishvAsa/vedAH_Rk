@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्थिरउ꣡ गा꣡वौ भवतां वीळु꣡र् अ꣡क्षो  
-मे꣡षा꣡ वि꣡ वर्हि मा꣡ युगं꣡ वि꣡ शारि  
-इ꣡न्द्रः पातल्ये᳡ ददतां श꣡रीतोर्  
-अ꣡रिष्टनेमे अभि꣡ नः सचस्व
+स्थिरउ᳓ गा᳓वौ भवतां वीळु᳓र् अ᳓क्षो  
+मे᳓षा᳓ वि᳓ वर्हि मा᳓ युगं᳓ वि᳓ शारि  
+इ᳓न्द्रः पातल्ये᳡ ददतां श᳓रीतोर्  
+अ᳓रिष्टनेमे अभि᳓ नः सचस्व
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -273,7 +273,7 @@ The horses: gāvau gaccheta iti gāvau aśvau: **gāvā** implies those who go, 
 
 Let the two oxen be steadfast, the axle firm; let the chariot-pole not be  torn off, nor the yoke be broken off.  
 Let Indra keep the two pātalyas [=pieces of chariot?] from breaking.  You with indestructible wheel-rims, escort us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

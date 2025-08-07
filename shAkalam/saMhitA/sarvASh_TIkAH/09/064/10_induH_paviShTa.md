@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्दुः पविष्ट चे꣡तनः  
-प्रियः꣡ कवीना᳐꣡म् मती꣡  
-सृज꣡द् अ꣡श्वं रथी꣡र् इव
+इ᳓न्दुः पविष्ट चे᳓तनः  
+प्रियः᳓ कवीना᳐᳓म् मती᳓  
+सृज᳓द् अ᳓श्वं रथी᳓र् इव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -157,7 +157,7 @@ _________
 
 The drop has become purified, the conspicuous dear one, by the  thought of the poets.  
 Like a charioteer his horse, it has released (its wave),
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/10-12.md">

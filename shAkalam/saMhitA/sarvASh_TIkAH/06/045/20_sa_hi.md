@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ हि꣡ वि꣡श्वानि पा꣡र्थिवाँ  
-ए꣡को व꣡सूनि प꣡त्यते  
-गि꣡र्वणस्तमो अ꣡ध्रिगुः
+स᳓ हि᳓ वि᳓श्वानि पा᳓र्थिवाँ  
+ए᳓को व᳓सूनि प᳓त्यते  
+गि᳓र्वणस्तमो अ᳓ध्रिगुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -147,7 +147,7 @@ _________
 
 For he alone is lord of all the good things of the earth,  
 the rich one who most longs for songs.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/19-20.md">

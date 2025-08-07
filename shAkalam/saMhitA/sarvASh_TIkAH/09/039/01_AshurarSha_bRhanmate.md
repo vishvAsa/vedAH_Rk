@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आशु꣡र् अर्ष बृहन्मते  
-प꣡रि प्रिये꣡ण धा꣡मना  
-य꣡त्र देवा꣡ इ꣡ति ब्र꣡वन्
+आशु᳓र् अर्ष बृहन्मते  
+प᳓रि प्रिये᳓ण धा᳓मना  
+य᳓त्र देवा᳓ इ᳓ति ब्र᳓वन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् इन्द्र म꣡दम् आ꣡ गहि  
-बर्हिष्ठां꣡ ग्रा꣡वभिः सुत꣡म्  
-कुवि꣡न् नु꣡ अस्य तृप्ण꣡वः
+त᳓म् इन्द्र म᳓दम् आ᳓ गहि  
+बर्हिष्ठां᳓ ग्रा᳓वभिः सुत᳓म्  
+कुवि᳓न् नु᳓ अस्य तृप्ण᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

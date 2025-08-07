@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-राया꣡ हिरण्यया꣡ मति꣡र्  
-इय꣡म् अवृका꣡य श꣡वसे  
-इयं꣡ वि꣡प्रा मेध꣡सातये
+राया᳓ हिरण्यया᳓ मति᳓र्  
+इय᳓म् अवृका᳓य श᳓वसे  
+इयं᳓ वि᳓प्रा मेध᳓सातये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

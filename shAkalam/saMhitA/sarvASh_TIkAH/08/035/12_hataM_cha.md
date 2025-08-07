@@ -15,10 +15,10 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-हतं꣡ च श꣡त्रून् य꣡ततं च मित्रि꣡णः  
-प्रजां꣡ च धत्तं꣡ द्र꣡विणं च धत्तम्  
-सजो꣡षसा उष꣡सा सू꣡रियेण च  
-ऊ꣡र्जं नो धत्तम् अश्विना
+हतं᳓ च श᳓त्रून् य᳓ततं च मित्रि᳓णः  
+प्रजां᳓ च धत्तं᳓ द्र᳓विणं च धत्तम्  
+सजो᳓षसा उष᳓सा सू᳓रियेण च  
+ऊ᳓र्जं नो धत्तम् अश्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -251,7 +251,7 @@ _________
 
 Smite rivals and arrange allies in their place. – Provide progeny and  provide property.  
 In concert with Dawn and the Sun, provide nourishment for us, o  Aśvins.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/10-12.md">

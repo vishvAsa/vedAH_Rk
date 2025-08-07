@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अया꣡ चित्तो꣡ विपा꣡न꣡या  
-ह꣡रिः पवस्व धा꣡रया  
-यु꣡जं वा꣡जेषु चोदय
+अया᳓ चित्तो᳓ विपा᳓न᳓या  
+ह᳓रिः पवस्व धा᳓रया  
+यु᳓जं वा᳓जेषु चोदय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -150,7 +150,7 @@ By these flexible fingers: ayā = from i, to go; ayā vipā anayā = itastato ga
 
 Conspicuous because of this poetic inspiration, purify yourself as  tawny one in this very stream.  
 Spur on your yokemate to the prizes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/10-12.md">

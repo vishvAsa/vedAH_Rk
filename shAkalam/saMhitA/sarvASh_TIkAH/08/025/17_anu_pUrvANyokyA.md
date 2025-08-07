@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡नु पू꣡र्वाणि ओकि꣡या  
-साम्राजिय꣡स्य सश्चिम  
-मित्र꣡स्य व्रता꣡ व꣡रुणस्य दीर्घश्रु꣡त्
+अ᳓नु पू᳓र्वाणि ओकि᳓या  
+साम्राजिय᳓स्य सश्चिम  
+मित्र᳓स्य व्रता᳓ व᳓रुणस्य दीर्घश्रु᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

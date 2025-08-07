@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कुरुश्र꣡वणम् आवृणि  
-रा꣡जानं त्रा꣡सदस्यवम्  
-मं꣡हिष्ठं वाघ꣡ताम् ऋ꣡षिः
+कुरुश्र᳓वणम् आवृणि  
+रा᳓जानं त्रा᳓सदस्यवम्  
+मं᳓हिष्ठं वाघ᳓ताम् ऋ᳓षिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

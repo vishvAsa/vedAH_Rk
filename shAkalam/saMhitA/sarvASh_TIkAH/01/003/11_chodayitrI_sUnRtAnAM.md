@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-चोदयित्री꣡ सूनृ꣡तानां  
-चे꣡तन्ती सुमतीना᳐꣡म्  
-यज्ञं꣡ दधे स꣡रस्वती
+चोदयित्री᳓ सूनृ᳓तानां  
+चे᳓तन्ती सुमतीना᳐᳓म्  
+यज्ञं᳓ दधे स᳓रस्वती
 </details>
 
 <details><summary>Vedaweb annotation</summary>

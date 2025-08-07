@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-साधु꣡र् न꣡ गृध्नु꣡र् अ꣡स्ते ऽव शू꣡रो  
-या꣡ते ऽव भीम꣡स् त्वेषः꣡ सम꣡त्सु
+साधु᳓र् न᳓ गृध्नु᳓र् अ᳓स्ते ऽव शू᳓रो  
+या᳓ते ऽव भीम᳓स् त्वेषः᳓ सम᳓त्सु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

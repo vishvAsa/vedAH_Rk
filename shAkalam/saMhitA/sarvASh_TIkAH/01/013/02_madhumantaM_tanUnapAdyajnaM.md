@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-म꣡धुमन्तं तनूनपाद्  
-यज्ञं꣡ देवे꣡षु नः कवे  
-अद्या꣡ कृणुहि वीत꣡ये
+म᳓धुमन्तं तनूनपाद्  
+यज्ञं᳓ देवे᳓षु नः कवे  
+अद्या᳓ कृणुहि वीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

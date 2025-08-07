@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् मर्तिआ° अ꣡मर्तियं  
-घृते꣡नाग्निं꣡ सपर्यत  
-अ꣡दाभियं गृह꣡पतिम्
+त᳓म् मर्तिआ° अ᳓मर्तियं  
+घृते᳓नाग्निं᳓ सपर्यत  
+अ᳓दाभियं गृह᳓पतिम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

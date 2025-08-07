@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ स्तो꣡मियः स꣡ ह꣡वियः  
-सत्यः꣡ स꣡त्वा तुविकूर्मिः꣡  
-ए꣡कश् चित् स꣡न्न् अभि꣡भूतिः
+स᳓ स्तो᳓मियः स᳓ ह᳓वियः  
+सत्यः᳓ स᳓त्वा तुविकूर्मिः᳓  
+ए᳓कश् चित् स᳓न्न् अभि᳓भूतिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

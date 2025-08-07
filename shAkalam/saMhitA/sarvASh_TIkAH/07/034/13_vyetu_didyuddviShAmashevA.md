@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ एतु दिद्यु꣡द् द्विषा꣡म् अ꣡शेवा  
-युयो꣡त वि꣡ष्वग् र꣡पस् तनू꣡नाम्
+वि᳓ एतु दिद्यु᳓द् द्विषा᳓म् अ᳓शेवा  
+युयो᳓त वि᳓ष्वग् र᳓पस् तनू᳓नाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -140,7 +140,7 @@ _________
 
 Let the unfriendly missile of the haters go wide.  
 Keep the infirmity of bodies away, off to the side.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/12-13.md">

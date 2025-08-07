@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क्र꣡त्वा दा꣡ अस्तु श्र꣡यिष्ठो+  
-अद्य꣡ त्वा वन्व꣡न् सुरे꣡क्णाः  
-म꣡र्त आनाश सुवृक्ति꣡म्
+क्र᳓त्वा दा᳓ अस्तु श्र᳓यिष्ठो+  
+अद्य᳓ त्वा वन्व᳓न् सुरे᳓क्णाः  
+म᳓र्त आनाश सुवृक्ति᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

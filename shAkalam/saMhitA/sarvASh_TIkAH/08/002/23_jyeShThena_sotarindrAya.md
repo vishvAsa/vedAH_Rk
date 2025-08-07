@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ज्ये꣡ष्ठेन सोतर् इ꣡न्द्राय  
-सो꣡मं वीरा꣡य शक्रा꣡य  
-भ꣡रा पि꣡बन् न꣡रियाय
+ज्ये᳓ष्ठेन सोतर् इ᳓न्द्राय  
+सो᳓मं वीरा᳓य शक्रा᳓य  
+भ᳓रा पि᳓बन् न᳓रियाय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

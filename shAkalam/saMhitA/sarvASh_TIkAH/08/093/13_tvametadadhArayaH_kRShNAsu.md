@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुव꣡म् एत꣡द् अधारयः  
-कृष्णा꣡सु रो꣡हिणीषु च  
-प꣡रुष्णीषु रु꣡शत् प꣡यः
+तुव᳓म् एत᳓द् अधारयः  
+कृष्णा᳓सु रो᳓हिणीषु च  
+प᳓रुष्णीषु रु᳓शत् प᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -144,7 +144,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 You fixed this fast in the black (cows) and in the reddish ones, and in the gray ones—the gleaming white milk.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/13-15.md">

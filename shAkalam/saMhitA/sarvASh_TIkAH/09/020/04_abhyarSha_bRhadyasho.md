@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ अर्ष बृह꣡द् य꣡शो  
-मघ꣡वद्भ्यो ध्रुवं꣡ रयि꣡म्  
-इ꣡षं स्तोतृ꣡भ्य आ꣡ भर
+अभि᳓ अर्ष बृह᳓द् य᳓शो  
+मघ᳓वद्भ्यो ध्रुवं᳓ रयि᳓म्  
+इ᳓षं स्तोतृ᳓भ्य आ᳓ भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>

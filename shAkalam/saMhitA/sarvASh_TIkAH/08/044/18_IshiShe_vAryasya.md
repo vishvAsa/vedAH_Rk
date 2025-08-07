@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ई꣡शिषे वा꣡रियस्य हि꣡  
-दात्र꣡स्याग्ने सु꣡वर्पतिः  
-स्तोता꣡ स्यां त꣡व श꣡र्मणि
+ई᳓शिषे वा᳓रियस्य हि᳓  
+दात्र᳓स्याग्ने सु᳓वर्पतिः  
+स्तोता᳓ स्यां त᳓व श᳓र्मणि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

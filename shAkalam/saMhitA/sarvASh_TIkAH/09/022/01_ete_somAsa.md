@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एते꣡ सो꣡मास आश꣡वो  
-र꣡था इव प्र꣡ वाजि꣡नः  
-स꣡र्गाः सृष्टा꣡ अहेषत
+एते᳓ सो᳓मास आश᳓वो  
+र᳓था इव प्र᳓ वाजि᳓नः  
+स᳓र्गाः सृष्टा᳓ अहेषत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

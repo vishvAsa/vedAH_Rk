@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ देवा꣡य ज꣡न्मने  
-स्तो꣡मो वि꣡प्रेभिर् आसया꣡  
-अ꣡कारि रत्नधा꣡तमः
+अयं᳓ देवा᳓य ज᳓न्मने  
+स्तो᳓मो वि᳓प्रेभिर् आसया᳓  
+अ᳓कारि रत्नधा᳓तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

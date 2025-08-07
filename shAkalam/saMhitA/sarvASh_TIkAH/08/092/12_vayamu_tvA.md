@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वय꣡म् उ त्वा शतक्रतो  
-गा꣡वो न꣡ य꣡वसेषु आ꣡  
-उक्थे꣡षु रणयामसि
+वय᳓म् उ त्वा शतक्रतो  
+गा᳓वो न᳓ य᳓वसेषु आ᳓  
+उक्थे᳓षु रणयामसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

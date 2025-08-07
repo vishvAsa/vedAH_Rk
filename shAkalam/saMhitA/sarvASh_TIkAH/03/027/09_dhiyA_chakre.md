@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-धिया꣡ चक्रे व꣡रेणियो  
-भूता꣡नां ग꣡र्भम् आ꣡ दधे  
-द꣡क्षस्य पित꣡रं त꣡ना
+धिया᳓ चक्रे व᳓रेणियो  
+भूता᳓नां ग᳓र्भम् आ᳓ दधे  
+द᳓क्षस्य पित᳓रं त᳓ना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

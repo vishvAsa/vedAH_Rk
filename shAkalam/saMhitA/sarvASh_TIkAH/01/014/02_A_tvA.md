@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ त्वा क꣡ण्वा अहूषत  
-गृण꣡न्ति विप्र ते धि꣡यः  
-देवे꣡भिर् अग्न आ꣡ गहि
+आ᳓ त्वा क᳓ण्वा अहूषत  
+गृण᳓न्ति विप्र ते धि᳓यः  
+देवे᳓भिर् अग्न आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

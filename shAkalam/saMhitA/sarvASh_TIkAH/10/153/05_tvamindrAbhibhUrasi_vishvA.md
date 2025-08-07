@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुव꣡म् इन्द्राभिभू꣡र् असि  
-वि꣡श्वा जाता꣡नि ओ꣡जसा  
-स꣡ वि꣡श्वा भु꣡व आ꣡भवः
+तुव᳓म् इन्द्राभिभू᳓र् असि  
+वि᳓श्वा जाता᳓नि ओ᳓जसा  
+स᳓ वि᳓श्वा भु᳓व आ᳓भवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

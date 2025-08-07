@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पा꣡रावतस्य राति꣡षु  
-द्रव꣡च्चक्रेषु आशु꣡षु  
-ति꣡ष्ठं व꣡नस्य म꣡ध्य आ꣡
+पा᳓रावतस्य राति᳓षु  
+द्रव᳓च्चक्रेषु आशु᳓षु  
+ति᳓ष्ठं व᳓नस्य म᳓ध्य आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

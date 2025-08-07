@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡ रु꣡चो जात꣡वेदसो  
-देवत्रा꣡ हव्यवा꣡हनीः  
-ता꣡भिर् नो यज्ञ꣡म् इन्वतु
+या᳓ रु᳓चो जात᳓वेदसो  
+देवत्रा᳓ हव्यवा᳓हनीः  
+ता᳓भिर् नो यज्ञ᳓म् इन्वतु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

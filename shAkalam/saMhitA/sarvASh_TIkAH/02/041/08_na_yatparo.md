@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ य꣡त् प꣡रो न꣡ अ꣡न्तर  
-आदध꣡र्षद् वृषण्वसू  
-दुःशं꣡सो म꣡र्तियो रिपुः꣡
+न᳓ य᳓त् प᳓रो न᳓ अ᳓न्तर  
+आदध᳓र्षद् वृषण्वसू  
+दुःशं᳓सो म᳓र्तियो रिपुः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

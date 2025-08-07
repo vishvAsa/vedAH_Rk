@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ वां गीर्भि꣡र् विपन्य꣡वः  
-प्र꣡यस्वन्तो हवामहे  
-मेध꣡साता सनिष्य꣡वः
+ता᳓ वां गीर्भि᳓र् विपन्य᳓वः  
+प्र᳓यस्वन्तो हवामहे  
+मेध᳓साता सनिष्य᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -143,7 +143,7 @@ _________
 
 You two we invoke, expressing admiration with our hymns, dispensing  ritual delight,  
 seeking to win at the contest for wisdom.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/094/05-06.md">

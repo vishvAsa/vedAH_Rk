@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ स्य꣡ पीत꣡ये सुतो꣡  
-ह꣡रिर् अर्षति धर्णसिः꣡  
-क्र꣡न्दन् यो꣡निम् अभि꣡ प्रिय꣡म्
+एष᳓ स्य᳓ पीत᳓ये सुतो᳓  
+ह᳓रिर् अर्षति धर्णसिः᳓  
+क्र᳓न्दन् यो᳓निम् अभि᳓ प्रिय᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

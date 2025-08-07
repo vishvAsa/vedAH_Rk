@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो भर विअ꣡ञ्जनं  
-गा꣡म् अ꣡श्वम् अभिअ꣡ञ्जनम्  
-स꣡चा मना꣡ हिरण्य꣡या
+आ᳓ नो भर विअ᳓ञ्जनं  
+गा᳓म् अ᳓श्वम् अभिअ᳓ञ्जनम्  
+स᳓चा मना᳓ हिरण्य᳓या
 </details>
 
 <details><summary>Vedaweb annotation</summary>

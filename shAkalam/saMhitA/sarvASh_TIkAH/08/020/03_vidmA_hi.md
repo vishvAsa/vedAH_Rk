@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-विद्मा꣡ हि꣡ रुद्रि꣡याणां᳐  
-शु꣡ष्मम् उग्र꣡म् मरु꣡तां᳐ शि꣡मीवताम्  
-वि꣡ष्णोर् एष꣡स्य मीळ्हु꣡षाम्
+विद्मा᳓ हि᳓ रुद्रि᳓याणां᳐  
+शु᳓ष्मम् उग्र᳓म् मरु᳓तां᳐ शि᳓मीवताम्  
+वि᳓ष्णोर् एष᳓स्य मीळ्हु᳓षाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -159,7 +159,7 @@ Shedder: viṣṇor mīḷhuṣām = vyāptasya eṣaṇīyasya vṛṣṭyudaka
 
 For we know the mighty forcefulness of the Rudrian Maruts, the  strenuous ones,  
 of quick Viṣṇu, of the ones who grant rewards.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/03-04.md">

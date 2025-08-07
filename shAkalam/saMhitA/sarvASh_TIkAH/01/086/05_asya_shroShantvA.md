@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्य꣡ श्रोषन्तु आ꣡ भु꣡वो  
-वि꣡श्वा य꣡श् चर्षणी꣡र् अभि꣡  
-सू꣡रं चित् सस्रु꣡षीर् इ꣡षः
+अस्य᳓ श्रोषन्तु आ᳓ भु᳓वो  
+वि᳓श्वा य᳓श् चर्षणी᳓र् अभि᳓  
+सू᳓रं चित् सस्रु᳓षीर् इ᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

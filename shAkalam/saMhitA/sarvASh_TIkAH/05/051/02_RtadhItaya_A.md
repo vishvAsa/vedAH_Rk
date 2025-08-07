@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋ꣡तधीतय आ꣡ गत  
-स꣡त्यधर्माणो अध्वर꣡म्  
-अग्नेः꣡ पिबत जिह्व꣡या
+ऋ᳓तधीतय आ᳓ गत  
+स᳓त्यधर्माणो अध्वर᳓म्  
+अग्नेः᳓ पिबत जिह्व᳓या
 </details>
 
 <details><summary>Vedaweb annotation</summary>

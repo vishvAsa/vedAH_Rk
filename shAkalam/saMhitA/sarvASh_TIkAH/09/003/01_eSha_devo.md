@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ देवो꣡ अ꣡मर्तियः  
-पर्णवी꣡र् इव दीयति  
-अभि꣡ द्रो꣡णानि आस꣡दम्
+एष᳓ देवो᳓ अ᳓मर्तियः  
+पर्णवी᳓र् इव दीयति  
+अभि᳓ द्रो᳓णानि आस᳓दम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,11 +15,11 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त्रानन्दा꣡श् च मो꣡दाश् च  
-मु꣡दः प्रमु꣡द आ꣡सते  
-का꣡मस्य य꣡त्राप्ताः꣡ का꣡मास्  
-त꣡त्र मा꣡म् अमृ꣡तं कृधि  
-इ꣡न्द्रायेन्दो प꣡रि स्रव
+य᳓त्रानन्दा᳓श् च मो᳓दाश् च  
+मु᳓दः प्रमु᳓द आ᳓सते  
+का᳓मस्य य᳓त्राप्ताः᳓ का᳓मास्  
+त᳓त्र मा᳓म् अमृ᳓तं कृधि  
+इ᳓न्द्रायेन्दो प᳓रि स्रव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -266,7 +266,7 @@ The wishes of the wisher: the desired god
 Where joys and delights, elations and exaltations dwell,  
 where the desires of desire are obtained, there make me immortal.  
 – O drop, flow around for Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/08-11.md">

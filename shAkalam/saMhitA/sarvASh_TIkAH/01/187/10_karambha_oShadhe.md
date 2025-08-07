@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-करम्भ꣡ ओषधे भव  
-पी꣡वो वृक्क꣡ उदारथिः꣡  
-वा꣡तापे पी꣡व इ꣡द् भव
+करम्भ᳓ ओषधे भव  
+पी᳓वो वृक्क᳓ उदारथिः᳓  
+वा᳓तापे पी᳓व इ᳓द् भव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

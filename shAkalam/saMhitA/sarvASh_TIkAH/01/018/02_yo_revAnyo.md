@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ रेवा꣡न् यो꣡ अमीवहा꣡  
-वसुवि꣡त् पुष्टिव꣡र्धनः  
-स꣡ नः सिषक्तु य꣡स् तुरः꣡
+यो᳓ रेवा᳓न् यो᳓ अमीवहा᳓  
+वसुवि᳓त् पुष्टिव᳓र्धनः  
+स᳓ नः सिषक्तु य᳓स् तुरः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

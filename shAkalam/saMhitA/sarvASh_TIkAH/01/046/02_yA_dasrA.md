@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡ दस्रा꣡ सि꣡न्धुमातरा  
-मनोत꣡रा रयीणा᳐꣡म्  
-धिया꣡ देवा꣡ वसुवि꣡दा
+या᳓ दस्रा᳓ सि᳓न्धुमातरा  
+मनोत᳓रा रयीणा᳐᳓म्  
+धिया᳓ देवा᳓ वसुवि᳓दा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

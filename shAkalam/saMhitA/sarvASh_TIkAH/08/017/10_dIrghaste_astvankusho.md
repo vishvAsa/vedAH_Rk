@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दीर्घ꣡स् ते अस्तु अङ्कुशो꣡  
-ये꣡ना व꣡सु प्रय꣡छसि  
-य꣡जमानाय सुन्वते꣡
+दीर्घ᳓स् ते अस्तु अङ्कुशो᳓  
+ये᳓ना व᳓सु प्रय᳓छसि  
+य᳓जमानाय सुन्वते᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

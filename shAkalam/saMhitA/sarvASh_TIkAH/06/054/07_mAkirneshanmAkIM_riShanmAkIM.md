@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡किर् नेशन् मा꣡कीं रिषन्  
-मा꣡कीं सं꣡ शारि के꣡वटे  
-अ꣡था꣡रिष्टाभिर् आ꣡ गहि
+मा᳓किर् नेशन् मा᳓कीं रिषन्  
+मा᳓कीं सं᳓ शारि के᳓वटे  
+अ᳓था᳓रिष्टाभिर् आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

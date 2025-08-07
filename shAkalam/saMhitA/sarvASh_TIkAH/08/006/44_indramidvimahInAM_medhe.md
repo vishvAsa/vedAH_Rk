@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रम् इ꣡द् वि꣡महीना᳐म्  
-मे꣡धे वृणीत म꣡र्तियः  
-इ꣡न्द्रं सनिष्यु꣡र् ऊत꣡ये
+इ᳓न्द्रम् इ᳓द् वि᳓महीना᳐म्  
+मे᳓धे वृणीत म᳓र्तियः  
+इ᳓न्द्रं सनिष्यु᳓र् ऊत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

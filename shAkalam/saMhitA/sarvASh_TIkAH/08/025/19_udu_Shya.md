@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् उ ष्य꣡ शरणे꣡ दिवो꣡  
-ज्यो꣡तिर् अयंस्त सू꣡रियः  
-अग्नि꣡र् न꣡ शुक्रः꣡ समिधान꣡ आ꣡हुतः
+उ᳓द् उ ष्य᳓ शरणे᳓ दिवो᳓  
+ज्यो᳓तिर् अयंस्त सू᳓रियः  
+अग्नि᳓र् न᳓ शुक्रः᳓ समिधान᳓ आ᳓हुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

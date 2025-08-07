@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कदा꣡ गछाथ मरुत  
-इत्था꣡ वि꣡प्रं ह꣡वमानम्  
-मार्डीके꣡भिर् ना꣡धमानम्
+कदा᳓ गछाथ मरुत  
+इत्था᳓ वि᳓प्रं ह᳓वमानम्  
+मार्डीके᳓भिर् ना᳓धमानम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एत꣡म् उ त्यं꣡ द꣡श क्षि꣡पो  
-मृज꣡न्ति सि꣡न्धुमातरम्  
-स꣡म् आदित्ये꣡भिर् अख्यत
+एत᳓म् उ त्यं᳓ द᳓श क्षि᳓पो  
+मृज᳓न्ति सि᳓न्धुमातरम्  
+स᳓म् आदित्ये᳓भिर् अख्यत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -158,7 +158,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Just him do the ten fingers groom, him whose mother is the river(s). He has been reckoned among the Ādityas.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/07-09.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मर्मृजाना꣡स आय꣡वो  
-वृ꣡था समुद्र꣡म् इ꣡न्दवः  
-अ꣡ग्मन्न् ऋत꣡स्य यो꣡निम् आ꣡
+मर्मृजाना᳓स आय᳓वो  
+वृ᳓था समुद्र᳓म् इ᳓न्दवः  
+अ᳓ग्मन्न् ऋत᳓स्य यो᳓निम् आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -148,7 +148,7 @@ _________
 
 Continually being groomed, the lively drops  
 have come at will to the sea, to the womb of truth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/16-18.md">

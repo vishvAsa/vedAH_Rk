@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इछ꣡न्ति देवाः꣡ सुन्व꣡न्तं  
-न꣡ स्व꣡प्नाय स्पृहयन्ति  
-य꣡न्ति प्रमा꣡दम् अ꣡तन्द्राः
+इछ᳓न्ति देवाः᳓ सुन्व᳓न्तं  
+न᳓ स्व᳓प्नाय स्पृहयन्ति  
+य᳓न्ति प्रमा᳓दम् अ᳓तन्द्राः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

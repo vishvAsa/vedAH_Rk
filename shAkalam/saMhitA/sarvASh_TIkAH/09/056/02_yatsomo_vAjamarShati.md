@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त् सो꣡मो वा꣡जम् अ꣡र्षति  
-शतं꣡ धा꣡रा अपस्यु꣡वः  
-इ꣡न्द्रस्य सख्य꣡म् आविश꣡न्
+य᳓त् सो᳓मो वा᳓जम् अ᳓र्षति  
+शतं᳓ धा᳓रा अपस्यु᳓वः  
+इ᳓न्द्रस्य सख्य᳓म् आविश᳓न्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

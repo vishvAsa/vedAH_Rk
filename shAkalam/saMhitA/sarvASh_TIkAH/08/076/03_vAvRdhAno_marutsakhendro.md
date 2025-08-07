@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वावृधानो꣡ मरु꣡त्सखा  
-इ꣡न्द्रो वि꣡ वृत्र꣡म् ऐरयत्  
-सृज꣡न् समुद्रि꣡या अपः꣡
+वावृधानो᳓ मरु᳓त्सखा  
+इ᳓न्द्रो वि᳓ वृत्र᳓म् ऐरयत्  
+सृज᳓न् समुद्रि᳓या अपः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

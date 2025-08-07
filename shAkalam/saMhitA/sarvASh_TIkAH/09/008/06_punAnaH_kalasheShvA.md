@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुनानः꣡ कल꣡शेषु आ꣡  
-व꣡स्त्राणि अरुषो꣡ ह꣡रिः  
-प꣡रि ग꣡व्यानि अव्यत
+पुनानः᳓ कल᳓शेषु आ᳓  
+व᳓स्त्राणि अरुषो᳓ ह᳓रिः  
+प᳓रि ग᳓व्यानि अव्यत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उभा꣡भ्यां देव सवितः  
-पवि꣡त्रेण सवे꣡न च  
-मा᳐꣡म् पुनीहि विश्व꣡तः
+उभा᳓भ्यां देव सवितः  
+पवि᳓त्रेण सवे᳓न च  
+मा᳐᳓म् पुनीहि विश्व᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

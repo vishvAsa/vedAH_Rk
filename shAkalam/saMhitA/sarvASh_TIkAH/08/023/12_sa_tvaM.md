@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ त्वं꣡ न ऊर्जा᳐म् पते  
-रयिं꣡ रास्व सुवी꣡रियम्  
-प्रा꣡व नस् तोके꣡ त꣡नये सम꣡त्सु आ꣡
+स᳓ त्वं᳓ न ऊर्जा᳐म् पते  
+रयिं᳓ रास्व सुवी᳓रियम्  
+प्रा᳓व नस् तोके᳓ त᳓नये सम᳓त्सु आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

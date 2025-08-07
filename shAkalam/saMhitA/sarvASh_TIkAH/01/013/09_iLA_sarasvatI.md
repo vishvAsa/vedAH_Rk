@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡ळा स꣡रस्वती मही꣡  
-तिस्रो꣡ देवी꣡र् मयोभु꣡वः  
-बर्हिः꣡ सीदन्तु अस्रि꣡धः
+इ᳓ळा स᳓रस्वती मही᳓  
+तिस्रो᳓ देवी᳓र् मयोभु᳓वः  
+बर्हिः᳓ सीदन्तु अस्रि᳓धः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

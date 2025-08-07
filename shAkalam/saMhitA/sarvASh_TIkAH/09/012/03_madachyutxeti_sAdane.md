@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मदच्यु꣡त् क्षेति सा꣡दने  
-सि꣡न्धोर् ऊर्मा꣡ विपश्चि꣡त्  
-सो꣡मो गौरी꣡ अ꣡धि श्रितः꣡
+मदच्यु᳓त् क्षेति सा᳓दने  
+सि᳓न्धोर् ऊर्मा᳓ विपश्चि᳓त्  
+सो᳓मो गौरी᳓ अ᳓धि श्रितः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡सृग्रम् इन्द्र ते गि꣡रः  
-प्र꣡ति त्वा꣡म् उ꣡द् अहासत  
-अ꣡जोषा वृषभ꣡म् प꣡तिम्
+अ᳓सृग्रम् इन्द्र ते गि᳓रः  
+प्र᳓ति त्वा᳓म् उ᳓द् अहासत  
+अ᳓जोषा वृषभ᳓म् प᳓तिम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ध्वर्यव् आ꣡ तु꣡ हि꣡ षिञ्च꣡  
-सो꣡मं वीरा꣡य शिप्रि꣡णे  
-भ꣡रा सुत꣡स्य पीत꣡ये
+अ᳓ध्वर्यव् आ᳓ तु᳓ हि᳓ षिञ्च᳓  
+सो᳓मं वीरा᳓य शिप्रि᳓णे  
+भ᳓रा सुत᳓स्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

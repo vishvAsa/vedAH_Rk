@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्रम् पिबा म꣡धूनां᳐  
-सुतं꣡ वायो दि꣡विष्टिषु  
-तुवं꣡ हि꣡ पूर्वपा꣡ अ꣡सि
+अ᳓ग्रम् पिबा म᳓धूनां᳐  
+सुतं᳓ वायो दि᳓विष्टिषु  
+तुवं᳓ हि᳓ पूर्वपा᳓ अ᳓सि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

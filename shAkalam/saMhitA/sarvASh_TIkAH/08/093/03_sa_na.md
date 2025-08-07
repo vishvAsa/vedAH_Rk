@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ न इ꣡न्द्रः शिवः꣡ स꣡खा  
-अ꣡श्वावद् गो꣡मद् य꣡वमत्  
-उरु꣡धारेव दोहते
+स᳓ न इ᳓न्द्रः शिवः᳓ स᳓खा  
+अ᳓श्वावद् गो᳓मद् य᳓वमत्  
+उरु᳓धारेव दोहते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

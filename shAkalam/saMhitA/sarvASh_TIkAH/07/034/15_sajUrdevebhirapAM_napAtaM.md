@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सजू꣡र् देवे꣡भिर् अपां꣡ न꣡पातं  
-स꣡खायं कृध्वं शिवो꣡ नो अस्तु
+सजू᳓र् देवे᳓भिर् अपां᳓ न᳓पातं  
+स᳓खायं कृध्वं शिवो᳓ नो अस्तु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

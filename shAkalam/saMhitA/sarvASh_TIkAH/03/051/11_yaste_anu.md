@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स् ते अ꣡नु स्वधा꣡म् अ꣡सत्  
-सुते꣡ नि꣡ यछ तनु꣡वम्  
-स꣡ त्वा ममत्तु सोमिय꣡म्
+य᳓स् ते अ᳓नु स्वधा᳓म् अ᳓सत्  
+सुते᳓ नि᳓ यछ तनु᳓वम्  
+स᳓ त्वा ममत्तु सोमिय᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

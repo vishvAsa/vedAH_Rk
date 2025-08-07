@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यः꣡ कृन्त꣡द् इ꣡द् वि꣡ योनियं꣡  
-त्रिशो꣡काय गिरि꣡म् पृथु꣡म्  
-गो꣡भ्यो गातुं꣡ नि꣡रेतवे
+यः᳓ कृन्त᳓द् इ᳓द् वि᳓ योनियं᳓  
+त्रिशो᳓काय गिरि᳓म् पृथु᳓म्  
+गो᳓भ्यो गातुं᳓ नि᳓रेतवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

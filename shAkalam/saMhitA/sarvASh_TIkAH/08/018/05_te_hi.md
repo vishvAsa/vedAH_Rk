@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ हि꣡ पुत्रा꣡सो अ꣡दितेर्  
-विदु꣡र् द्वे꣡षांसि यो꣡तवे  
-अंहो꣡श् चिद् उरुच꣡क्रयो अनेह꣡सः
+ते᳓ हि᳓ पुत्रा᳓सो अ᳓दितेर्  
+विदु᳓र् द्वे᳓षांसि यो᳓तवे  
+अंहो᳓श् चिद् उरुच᳓क्रयो अनेह᳓सः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

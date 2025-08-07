@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रेण रोचना꣡ दिवो꣡  
-दॄळ्हा꣡नि+ दृंहिता꣡नि च  
-स्थिरा꣡णि न꣡ पराणु꣡दे
+इ᳓न्द्रेण रोचना᳓ दिवो᳓  
+दॄळ्हा᳓नि+ दृंहिता᳓नि च  
+स्थिरा᳓णि न᳓ पराणु᳓दे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

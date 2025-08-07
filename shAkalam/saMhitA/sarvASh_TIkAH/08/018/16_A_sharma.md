@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ श꣡र्म प꣡र्वताना᳐म्  
-ओ꣡ता꣡पां᳐꣡ वृणीमहे  
-द्या꣡वाक्षामा आरे꣡ अस्म꣡द् र꣡पस् कृतम्
+आ᳓ श᳓र्म प᳓र्वताना᳐म्  
+ओ᳓ता᳓पां᳐᳓ वृणीमहे  
+द्या᳓वाक्षामा आरे᳓ अस्म᳓द् र᳓पस् कृतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

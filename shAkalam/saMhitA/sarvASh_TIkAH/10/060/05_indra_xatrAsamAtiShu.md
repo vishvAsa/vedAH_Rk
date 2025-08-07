@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र क्षत्रा꣡समातिषु  
-र꣡थप्रोष्ठेषु धारय  
-दिवी꣡व सू꣡रियं दृशे꣡
+इ᳓न्द्र क्षत्रा᳓समातिषु  
+र᳓थप्रोष्ठेषु धारय  
+दिवी᳓व सू᳓रियं दृशे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

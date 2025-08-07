@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-हृत्सु꣡ पीता꣡सो युध्यन्ते  
-दुर्म꣡दासो न꣡ सु꣡रायाम्  
-ऊ꣡धर् न꣡ नग्ना꣡ जरन्ते
+हृत्सु᳓ पीता᳓सो युध्यन्ते  
+दुर्म᳓दासो न᳓ सु᳓रायाम्  
+ऊ᳓धर् न᳓ नग्ना᳓ जरन्ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡या ते अग्ने अङ्गिर  
-ऊ꣡र्जो नपाद् उ꣡पस्तुतिम्  
-व꣡राय देव मन्य꣡वे
+क᳓या ते अग्ने अङ्गिर  
+ऊ᳓र्जो नपाद् उ᳓पस्तुतिम्  
+व᳓राय देव मन्य᳓वे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

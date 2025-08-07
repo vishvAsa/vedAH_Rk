@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म्मिश्लो अरुषो꣡ भव  
-सूपस्था꣡भिर् न꣡ धेनु꣡भिः  
-सी꣡दञ् छ्येनो꣡ न꣡ यो꣡निम् आ꣡
+स᳓म्मिश्लो अरुषो᳓ भव  
+सूपस्था᳓भिर् न᳓ धेनु᳓भिः  
+सी᳓दञ् छ्येनो᳓ न᳓ यो᳓निम् आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

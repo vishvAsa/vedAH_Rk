@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ ह त्य꣡द् इन्दर+ चोदीः स꣡खा  
-वृत्रं꣡ य꣡द् वज्रिन् वृषकर्मन् उभ्नाः꣡  
-य꣡द् ध शूर वृषमणः पराचइ꣡र्  
-वि꣡ द꣡स्यूँर् यो꣡नाव् अ꣡कृतो वृथाषा꣡ट्
+तुवं᳓ ह त्य᳓द् इन्दर+ चोदीः स᳓खा  
+वृत्रं᳓ य᳓द् वज्रिन् वृषकर्मन् उभ्नाः᳓  
+य᳓द् ध शूर वृषमणः पराचइ᳓र्  
+वि᳓ द᳓स्यूँर् यो᳓नाव् अ᳓कृतो वृथाषा᳓ट्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -275,7 +275,7 @@ Dasyus are enemies of **Kutsa**: kutsasyopakṣayatāraḥ
 
 You then, Indra, as partner provided the spur, when you knotted up  Vr̥tra, you mace-bearer of bullish deeds,  
 when, you champion of bullish mind, you cut apart the Dasyus in their  womb far away, as one who is victorious at will.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md">

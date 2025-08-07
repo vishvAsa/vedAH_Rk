@@ -15,11 +15,11 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रो वृत्र꣡स्य दो꣡धतः  
-सा꣡नुं व꣡ज्रेण हीळितः꣡  
-अभिक्र꣡म्या꣡व जिघ्नते  
-अपः꣡ स꣡र्माय चोद꣡यन्न्  
-अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्
+इ᳓न्द्रो वृत्र᳓स्य दो᳓धतः  
+सा᳓नुं व᳓ज्रेण हीळितः᳓  
+अभिक्र᳓म्या᳓व जिघ्नते  
+अपः᳓ स᳓र्माय चोद᳓यन्न्  
+अ᳓र्चन्न् अ᳓नु स्वरा᳓जियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -211,7 +211,7 @@ _________
 
 Indra, angered, having attacked the back of raging Vr̥tra with his mace, keeps smashing him downward, spurring the waters to flow.  
 – They cheer on your sovereign power.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/080/05-06.md">

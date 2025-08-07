@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ इन्द्र सोमपा꣡तमो  
-म꣡दः शविष्ठ चे꣡तति  
-ये꣡ना हं꣡सि नि꣡ अत्रि꣡णं त꣡म् ईमहे
+य᳓ इन्द्र सोमपा᳓तमो  
+म᳓दः शविष्ठ चे᳓तति  
+ये᳓ना हं᳓सि नि᳓ अत्रि᳓णं त᳓म् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

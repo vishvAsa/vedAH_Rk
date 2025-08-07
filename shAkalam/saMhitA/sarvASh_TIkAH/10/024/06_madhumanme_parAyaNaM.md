@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-म꣡धुमन् मे परा꣡यणम्  
-म꣡धुमत् पु꣡नर् आ꣡यनम्  
-ता꣡ नो देवा देव꣡तया  
-युव꣡म् म꣡धुमतस् कृतम्
+म᳓धुमन् मे परा᳓यणम्  
+म᳓धुमत् पु᳓नर् आ᳓यनम्  
+ता᳓ नो देवा देव᳓तया  
+युव᳓म् म᳓धुमतस् कृतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

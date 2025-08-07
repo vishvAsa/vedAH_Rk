@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡खायः क्र꣡तुम् इछत  
-कथा꣡ राधाम शर꣡स्य  
-उ꣡पस्तुतिम् भोजः꣡ सूरि꣡र् यो꣡ अ꣡ह्रयः
+स᳓खायः क्र᳓तुम् इछत  
+कथा᳓ राधाम शर᳓स्य  
+उ᳓पस्तुतिम् भोजः᳓ सूरि᳓र् यो᳓ अ᳓ह्रयः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

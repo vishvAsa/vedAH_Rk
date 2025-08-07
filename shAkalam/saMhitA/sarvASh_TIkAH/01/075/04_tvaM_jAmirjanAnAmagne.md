@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ जामि꣡र् ज꣡नाना᳐म्  
-अ꣡ग्ने मित्रो꣡ असि प्रियः꣡  
-स꣡खा स꣡खिभ्य ई꣡डियः
+तुवं᳓ जामि᳓र् ज᳓नाना᳐म्  
+अ᳓ग्ने मित्रो᳓ असि प्रियः᳓  
+स᳓खा स᳓खिभ्य ई᳓डियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -156,7 +156,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 You are the kinsman of the peoples. O Agni, you are the dear envoy, a comrade for your comrades, to be reverently invoked.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/03-04.md">

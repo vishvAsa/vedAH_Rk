@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-मह꣡त् त꣡त् सो꣡मो महिष꣡श् चकार  
-अपां꣡ य꣡द् ग꣡र्भो अ꣡वृणीत देवा꣡न्  
-अ꣡दधाद् इ꣡न्द्रे प꣡वमान ओ꣡जो  
-अ꣡जनयत् सू꣡रिये ज्यो꣡तिर् इ꣡न्दुः
+मह᳓त् त᳓त् सो᳓मो महिष᳓श् चकार  
+अपां᳓ य᳓द् ग᳓र्भो अ᳓वृणीत देवा᳓न्  
+अ᳓दधाद् इ᳓न्द्रे प᳓वमान ओ᳓जो  
+अ᳓जनयत् सू᳓रिये ज्यो᳓तिर् इ᳓न्दुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -246,7 +246,7 @@ _________
 
 Soma the buffalo performed this great (deed), that [/when] as embryo of  the waters he chose the gods.  
 Purifying himself, he placed strength in Indra. The drop begat the light  in the sun.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/40-42.md">

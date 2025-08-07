@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पितु꣡र् न꣡ पुत्राः꣡ क्र꣡तुं जुषन्त  
-श्रो꣡षन् ये꣡ अस्य शा꣡सं तुरा꣡सः
+पितु᳓र् न᳓ पुत्राः᳓ क्र᳓तुं जुषन्त  
+श्रो᳓षन् ये᳓ अस्य शा᳓सं तुरा᳓सः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

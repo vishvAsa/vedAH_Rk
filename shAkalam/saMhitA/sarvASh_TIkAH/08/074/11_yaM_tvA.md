@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यं꣡ त्वा गोप꣡वनो गिरा꣡  
-च꣡निष्ठद् अग्ने अङ्गिरः  
-स꣡ पवाक+ श्रुधी ह꣡वम्
+यं᳓ त्वा गोप᳓वनो गिरा᳓  
+च᳓निष्ठद् अग्ने अङ्गिरः  
+स᳓ पवाक+ श्रुधी ह᳓वम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

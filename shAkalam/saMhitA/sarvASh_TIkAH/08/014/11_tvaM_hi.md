@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ हि꣡ स्तोमव꣡र्धन  
-इ꣡न्द्रा꣡सि उक्थव꣡र्धनः  
-स्तोतॄणा꣡म् उत꣡ भद्रकृ꣡त्
+तुवं᳓ हि᳓ स्तोमव᳓र्धन  
+इ᳓न्द्रा᳓सि उक्थव᳓र्धनः  
+स्तोतॄणा᳓म् उत᳓ भद्रकृ᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

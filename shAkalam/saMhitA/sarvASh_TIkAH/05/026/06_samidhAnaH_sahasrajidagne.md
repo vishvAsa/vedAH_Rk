@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-समिधानः꣡ सहस्रजिद्  
-अ꣡ग्ने ध꣡र्माणि पुष्यसि  
-देवा꣡नां दूत꣡ उक्थि꣡यः
+समिधानः᳓ सहस्रजिद्  
+अ᳓ग्ने ध᳓र्माणि पुष्यसि  
+देवा᳓नां दूत᳓ उक्थि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

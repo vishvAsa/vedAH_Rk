@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तृणस्कन्द꣡स्य नु꣡ वि꣡शः  
-प꣡रि वृङ्क्त सुदानवः  
-ऊर्ध्वा꣡न् नः कर्त जीव꣡से
+तृणस्कन्द᳓स्य नु᳓ वि᳓शः  
+प᳓रि वृङ्क्त सुदानवः  
+ऊर्ध्वा᳓न् नः कर्त जीव᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>

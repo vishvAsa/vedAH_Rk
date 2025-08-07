@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नहि꣡ त्वा शूर देवा꣡  
-न꣡ म꣡र्तासो दि꣡त्सन्तम्  
-भीमं꣡ न꣡ गां꣡ वार꣡यन्ते
+नहि᳓ त्वा शूर देवा᳓  
+न᳓ म᳓र्तासो दि᳓त्सन्तम्  
+भीमं᳓ न᳓ गां᳓ वार᳓यन्ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

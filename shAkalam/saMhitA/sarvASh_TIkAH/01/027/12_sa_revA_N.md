@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ रेवाँ꣡ इव विश्प꣡तिर्  
-दइ꣡व्यः केतुः꣡ शृणोतु नः  
-उक्थइ꣡र् अग्नि꣡र् बृह꣡द्भानुः
+स᳓ रेवाँ᳓ इव विश्प᳓तिर्  
+दइ᳓व्यः केतुः᳓ शृणोतु नः  
+उक्थइ᳓र् अग्नि᳓र् बृह᳓द्भानुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

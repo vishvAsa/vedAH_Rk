@@ -15,9 +15,9 @@ ChandaH = "विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमो꣡ अग्ने वीत꣡तमानि हव्या꣡  
-अ꣡जस्रो वक्षि देव꣡तातिम् अ꣡छ  
-प्र꣡ति न ईं सुरभी꣡णि वियन्तु
+इमो᳓ अग्ने वीत᳓तमानि हव्या᳓  
+अ᳓जस्रो वक्षि देव᳓तातिम् अ᳓छ  
+प्र᳓ति न ईं सुरभी᳓णि वियन्तु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

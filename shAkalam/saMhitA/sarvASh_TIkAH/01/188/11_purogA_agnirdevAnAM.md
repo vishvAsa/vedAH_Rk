@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरोगा꣡ अग्नि꣡र् देवा꣡नां  
-गायत्रे꣡ण स꣡म् अज्यते  
-स्वा꣡हाकृतीषु रोचते
+पुरोगा᳓ अग्नि᳓र् देवा᳓नां  
+गायत्रे᳓ण स᳓म् अज्यते  
+स्वा᳓हाकृतीषु रोचते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

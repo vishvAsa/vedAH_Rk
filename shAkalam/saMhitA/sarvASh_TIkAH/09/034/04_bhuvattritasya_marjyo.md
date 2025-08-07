@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-भु꣡वत् त्रित꣡स्य म꣡र्जियो  
-भु꣡वद् इ꣡न्द्राय मत्सरः꣡  
-सं꣡ रूपइ꣡र् अज्यते ह꣡रिः
+भु᳓वत् त्रित᳓स्य म᳓र्जियो  
+भु᳓वद् इ᳓न्द्राय मत्सरः᳓  
+सं᳓ रूपइ᳓र् अज्यते ह᳓रिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

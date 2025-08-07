@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ हुवे य꣡योर् इद꣡म्  
-पप्ने꣡ वि꣡श्वम् पुरा꣡ कृत꣡म्  
-इन्द्रअग्नी꣡ न꣡ मर्धतः
+ता᳓ हुवे य᳓योर् इद᳓म्  
+पप्ने᳓ वि᳓श्वम् पुरा᳓ कृत᳓म्  
+इन्द्रअग्नी᳓ न᳓ मर्धतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

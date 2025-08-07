@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्थिरा꣡ वः सन्तु नेम꣡यो  
-र꣡था अ꣡श्वास एषा᳐म्  
-सु꣡संस्कृता अभी꣡शवः
+स्थिरा᳓ वः सन्तु नेम᳓यो  
+र᳓था अ᳓श्वास एषा᳐म्  
+सु᳓संस्कृता अभी᳓शवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

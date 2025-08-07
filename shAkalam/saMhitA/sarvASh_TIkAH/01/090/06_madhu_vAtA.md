@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-म꣡धु वा꣡ता ऋतायते꣡  
-म꣡धु क्षरन्ति सि꣡न्धवः  
-मा꣡ध्वीर् नः सन्तु ओ꣡षधीः
+म᳓धु वा᳓ता ऋतायते᳓  
+म᳓धु क्षरन्ति सि᳓न्धवः  
+मा᳓ध्वीर् नः सन्तु ओ᳓षधीः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रस्य सोम रा꣡धसे  
-श꣡म् पवस्व विचर्षणे  
-प्रजा꣡वद् रे꣡त आ꣡ भर
+इ᳓न्द्रस्य सोम रा᳓धसे  
+श᳓म् पवस्व विचर्षणे  
+प्रजा᳓वद् रे᳓त आ᳓ भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>

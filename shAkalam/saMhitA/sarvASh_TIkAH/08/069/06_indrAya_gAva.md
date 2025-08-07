@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राय गा꣡व आशि꣡रं  
-दुदुह्रे꣡ वज्रि꣡णे म꣡धु  
-य꣡त् सीम् उपह्वरे꣡ विद꣡त्
+इ᳓न्द्राय गा᳓व आशि᳓रं  
+दुदुह्रे᳓ वज्रि᳓णे म᳓धु  
+य᳓त् सीम् उपह्वरे᳓ विद᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

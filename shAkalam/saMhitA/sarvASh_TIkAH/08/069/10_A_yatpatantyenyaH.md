@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ य꣡त् प꣡तन्ति एनि꣡यः  
-सुदु꣡घा अ꣡नपस्फुरः  
-अपस्फु꣡रं गृभायत  
-सो꣡मम् इ꣡न्द्राय पा꣡तवे
+आ᳓ य᳓त् प᳓तन्ति एनि᳓यः  
+सुदु᳓घा अ᳓नपस्फुरः  
+अपस्फु᳓रं गृभायत  
+सो᳓मम् इ᳓न्द्राय पा᳓तवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

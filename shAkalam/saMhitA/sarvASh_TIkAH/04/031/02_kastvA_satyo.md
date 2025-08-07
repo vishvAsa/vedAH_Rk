@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡स् त्वा सत्यो꣡ म꣡दाना᳐म्  
-मं꣡हिष्ठो मत्सद् अ꣡न्धसः  
-दॄळ्हा꣡+ चिद् आरु꣡जे व꣡सु
+क᳓स् त्वा सत्यो᳓ म᳓दाना᳐म्  
+मं᳓हिष्ठो मत्सद् अ᳓न्धसः  
+दॄळ्हा᳓+ चिद् आरु᳓जे व᳓सु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

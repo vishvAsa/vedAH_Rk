@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡त् तिष्ठसि सु꣡आहुतो  
-घृता꣡नि प्र꣡ति मोदसे  
-य꣡त् त्वा स्रु꣡चः सम꣡स्थिरन्
+उ᳓त् तिष्ठसि सु᳓आहुतो  
+घृता᳓नि प्र᳓ति मोदसे  
+य᳓त् त्वा स्रु᳓चः सम᳓स्थिरन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

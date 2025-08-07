@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ कृता꣡नि ऋजीषि꣡णः  
-क꣡ण्वा इ꣡न्द्रस्य गा꣡थया  
-म꣡दे सो꣡मस्य वोचत
+प्र᳓ कृता᳓नि ऋजीषि᳓णः  
+क᳓ण्वा इ᳓न्द्रस्य गा᳓थया  
+म᳓दे सो᳓मस्य वोचत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ इन्द्र चमसे꣡षु आ꣡  
-सो꣡मश् चमू꣡षु ते सुतः꣡  
-पि꣡बे꣡द् अस्य त्व꣡म् ईशिषे
+य᳓ इन्द्र चमसे᳓षु आ᳓  
+सो᳓मश् चमू᳓षु ते सुतः᳓  
+पि᳓बे᳓द् अस्य त्व᳓म् ईशिषे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

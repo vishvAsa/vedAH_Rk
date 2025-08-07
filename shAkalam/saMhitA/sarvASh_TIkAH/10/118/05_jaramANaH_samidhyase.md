@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ज꣡रमाणः स꣡म् इध्यसे  
-देवे꣡भ्यो हव्यवाहन  
-तं꣡ त्वा हवन्त म꣡र्तियाः
+ज᳓रमाणः स᳓म् इध्यसे  
+देवे᳓भ्यो हव्यवाहन  
+तं᳓ त्वा हवन्त म᳓र्तियाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

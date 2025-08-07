@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इयं꣡ त इन्द्र गिर्वणो  
-रातिः꣡ क्षरति सुन्वतः꣡  
-मन्दानो꣡ अस्य꣡ बर्हि꣡षो वि꣡ राजसि
+इयं᳓ त इन्द्र गिर्वणो  
+रातिः᳓ क्षरति सुन्वतः᳓  
+मन्दानो᳓ अस्य᳓ बर्हि᳓षो वि᳓ राजसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

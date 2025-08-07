@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡म् अग्ने पृत्सु꣡ म꣡र्तियम्  
-अ꣡वा वा꣡जेषु यं꣡ जुनाः꣡  
-स꣡ य꣡न्ता श꣡श्वतीर् इ꣡षः
+य᳓म् अग्ने पृत्सु᳓ म᳓र्तियम्  
+अ᳓वा वा᳓जेषु यं᳓ जुनाः᳓  
+स᳓ य᳓न्ता श᳓श्वतीर् इ᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

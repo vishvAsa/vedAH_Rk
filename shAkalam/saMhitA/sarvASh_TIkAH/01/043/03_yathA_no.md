@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡था नो मित्रो꣡ व꣡रुणो  
-य꣡था रुद्र꣡श् चि꣡केतति  
-य꣡था वि꣡श्वे सजो꣡षसः
+य᳓था नो मित्रो᳓ व᳓रुणो  
+य᳓था रुद्र᳓श् चि᳓केतति  
+य᳓था वि᳓श्वे सजो᳓षसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

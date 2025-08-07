@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्य꣡ वृ꣡ष्णो विओ꣡दन  
-उरु꣡ क्रमिष्ट जीव꣡से  
-य꣡वं न꣡ पश्व꣡ आ꣡ ददे
+अस्य᳓ वृ᳓ष्णो विओ᳓दन  
+उरु᳓ क्रमिष्ट जीव᳓से  
+य᳓वं न᳓ पश्व᳓ आ᳓ ददे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

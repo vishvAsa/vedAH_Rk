@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ सो꣡ अग्ने त꣡वोति꣡भिः  
-सुवी꣡राभिस् तिरते वा꣡जभर्मभिः  
-य꣡स्य त्वं꣡ सख्य꣡म् आव꣡रः
+प्र᳓ सो᳓ अग्ने त᳓वोति᳓भिः  
+सुवी᳓राभिस् तिरते वा᳓जभर्मभिः  
+य᳓स्य त्वं᳓ सख्य᳓म् आव᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

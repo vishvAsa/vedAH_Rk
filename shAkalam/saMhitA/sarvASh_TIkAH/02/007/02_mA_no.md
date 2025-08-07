@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नो अ꣡रातिर् ईशत  
-देव꣡स्य म꣡र्तियस्य च  
-प꣡र्षि त꣡स्या उत꣡ द्विषः꣡
+मा᳓ नो अ᳓रातिर् ईशत  
+देव᳓स्य म᳓र्तियस्य च  
+प᳓र्षि त᳓स्या उत᳓ द्विषः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

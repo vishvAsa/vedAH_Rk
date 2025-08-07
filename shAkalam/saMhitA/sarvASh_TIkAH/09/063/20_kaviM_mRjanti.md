@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कवि꣡म् मृजन्ति म꣡र्जियं  
-धीभि꣡र् वि꣡प्रा अवस्य꣡वः  
-वृ꣡षा क꣡निक्रद् अर्षति
+कवि᳓म् मृजन्ति म᳓र्जियं  
+धीभि᳓र् वि᳓प्रा अवस्य᳓वः  
+वृ᳓षा क᳓निक्रद् अर्षति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

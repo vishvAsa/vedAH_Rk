@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्निं꣡ स्तो꣡मेन बोधय  
-समिधानो꣡ अ꣡मर्तियम्  
-हव्या꣡ देवे꣡षु नो दधत्
+अग्निं᳓ स्तो᳓मेन बोधय  
+समिधानो᳓ अ᳓मर्तियम्  
+हव्या᳓ देवे᳓षु नो दधत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-हिन्व꣡न्ति सू꣡रम् उ꣡स्रयः  
-स्व꣡सारो जाम꣡यस् प꣡तिम्  
-महा꣡म् इ꣡न्दुम् महीयु꣡वः
+हिन्व᳓न्ति सू᳓रम् उ᳓स्रयः  
+स्व᳓सारो जाम᳓यस् प᳓तिम्  
+महा᳓म् इ᳓न्दुम् महीयु᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

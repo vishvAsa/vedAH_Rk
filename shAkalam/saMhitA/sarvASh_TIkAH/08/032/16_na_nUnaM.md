@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ नून꣡म् ब्रह्म꣡णाम् ऋण꣡म्  
-प्राशूना꣡म् अस्ति सुन्वता꣡म्  
-न꣡ सो꣡मो अप्रता꣡ पपे
+न᳓ नून᳓म् ब्रह्म᳓णाम् ऋण᳓म्  
+प्राशूना᳓म् अस्ति सुन्वता᳓म्  
+न᳓ सो᳓मो अप्रता᳓ पपे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

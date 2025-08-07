@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानस्य विश्ववित्  
-प्र꣡ ते स꣡र्गा असृक्षत  
-सू꣡र्यस्येव न꣡ रश्म꣡यः
+प᳓वमानस्य विश्ववित्  
+प्र᳓ ते स᳓र्गा असृक्षत  
+सू᳓र्यस्येव न᳓ रश्म᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उता꣡दः꣡ परुषे꣡ ग꣡वि  
-सू꣡रश् चक्रं꣡ हिरण्य꣡यम्  
-नि꣡ ऐरयद् रथी꣡तमः
+उता᳓दः᳓ परुषे᳓ ग᳓वि  
+सू᳓रश् चक्रं᳓ हिरण्य᳓यम्  
+नि᳓ ऐरयद् रथी᳓तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

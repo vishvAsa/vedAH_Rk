@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡युद्ध इ꣡द् युधा꣡ वृ꣡तं  
-शू꣡र आ꣡जति स꣡त्वभिः  
-ये꣡षाम् इ꣡न्द्रो यु꣡वा स꣡खा
+अ᳓युद्ध इ᳓द् युधा᳓ वृ᳓तं  
+शू᳓र आ᳓जति स᳓त्वभिः  
+ये᳓षाम् इ᳓न्द्रो यु᳓वा स᳓खा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

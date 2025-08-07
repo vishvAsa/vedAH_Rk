@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राय सोम पा꣡तवे  
-नृ꣡भिर् यतः꣡ सुआयुधो꣡ मदि꣡न्तमः  
-प꣡वस्व म꣡धुमत्तमः
+इ᳓न्द्राय सोम पा᳓तवे  
+नृ᳓भिर् यतः᳓ सुआयुधो᳓ मदि᳓न्तमः  
+प᳓वस्व म᳓धुमत्तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

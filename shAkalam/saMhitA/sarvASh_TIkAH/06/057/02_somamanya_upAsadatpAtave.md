@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मम् अन्य꣡ उ꣡पासदत्  
-पा꣡तवे चमु꣡वोः सुत꣡म्  
-करम्भ꣡म् अन्य꣡ इछति
+सो᳓मम् अन्य᳓ उ᳓पासदत्  
+पा᳓तवे चमु᳓वोः सुत᳓म्  
+करम्भ᳓म् अन्य᳓ इछति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

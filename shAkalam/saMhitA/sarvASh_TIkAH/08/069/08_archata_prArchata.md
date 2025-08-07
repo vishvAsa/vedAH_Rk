@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡र्चत प्र꣡ अर्चत  
-प्रि꣡यमेधासो अ꣡र्चत  
-अ꣡र्चन्तु पुत्रका꣡ उत꣡  
-पु꣡रं न꣡ धृष्णु꣡ अर्चत
+अ᳓र्चत प्र᳓ अर्चत  
+प्रि᳓यमेधासो अ᳓र्चत  
+अ᳓र्चन्तु पुत्रका᳓ उत᳓  
+पु᳓रं न᳓ धृष्णु᳓ अर्चत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

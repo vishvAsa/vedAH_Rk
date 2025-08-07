@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुअस्ति꣡ मित्रावरुणा  
-सुअस्ति꣡ पथ्ये रेवति  
-स्वस्ति꣡ न इ꣡न्द्रश् चाग्नि꣡श् च  
-स्वस्ति꣡ नो अदिते कृधि
+सुअस्ति᳓ मित्रावरुणा  
+सुअस्ति᳓ पथ्ये रेवति  
+स्वस्ति᳓ न इ᳓न्द्रश् चाग्नि᳓श् च  
+स्वस्ति᳓ नो अदिते कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -223,7 +223,7 @@ Revati = goddess presiding over riches
 Well-being, o Mitra and Varuṇa, well-being, o rich Path.  
 Well-being for us (let) Indra and Agni—well-being, o Aditi, make  
 for us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">

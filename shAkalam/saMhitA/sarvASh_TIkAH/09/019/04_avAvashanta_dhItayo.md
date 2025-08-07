@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡वावशन्त धीत꣡यो  
-वृषभ꣡स्या꣡धि रे꣡तसि  
-सूनो꣡र् वत्स꣡स्य मात꣡रः
+अ᳓वावशन्त धीत᳓यो  
+वृषभ᳓स्या᳓धि रे᳓तसि  
+सूनो᳓र् वत्स᳓स्य मात᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

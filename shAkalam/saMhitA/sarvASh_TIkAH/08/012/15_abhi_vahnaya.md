@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ व꣡ह्नय ऊत꣡ये  
-अ꣡नूषत प्र꣡शस्तये  
-न꣡ देव वि꣡व्रता ह꣡री ऋत꣡स्य य꣡त्
+अभि᳓ व᳓ह्नय ऊत᳓ये  
+अ᳓नूषत प्र᳓शस्तये  
+न᳓ देव वि᳓व्रता ह᳓री ऋत᳓स्य य᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -170,7 +170,7 @@ Protection: or, for the sake of his protection andpraise
 <details><summary>Jamison Brereton</summary>
 
 The draft-horses have roared to (him) for help and for his glorification. Your two fallow bays, o god, do not follow a commandment separate  (from the one) that belongs to truth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/13-15.md">

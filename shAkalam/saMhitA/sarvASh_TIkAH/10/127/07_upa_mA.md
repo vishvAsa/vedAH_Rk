@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प मा पे꣡पिशत् त꣡मः  
-कृष्णं꣡ वि꣡अक्तम् अस्थित  
-उ꣡ष ऋणे꣡व यातय
+उ᳓प मा पे᳓पिशत् त᳓मः  
+कृष्णं᳓ वि᳓अक्तम् अस्थित  
+उ᳓ष ऋणे᳓व यातय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

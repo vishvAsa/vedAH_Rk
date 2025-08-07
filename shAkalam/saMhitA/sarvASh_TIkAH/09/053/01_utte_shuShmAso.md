@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡त् ते शु꣡ष्मासो अस्थू  
-र꣡क्षो भिन्द꣡न्तो अद्रिवः  
-नुद꣡स्व याः꣡ परिस्पृ꣡धः
+उ᳓त् ते शु᳓ष्मासो अस्थू  
+र᳓क्षो भिन्द᳓न्तो अद्रिवः  
+नुद᳓स्व याः᳓ परिस्पृ᳓धः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

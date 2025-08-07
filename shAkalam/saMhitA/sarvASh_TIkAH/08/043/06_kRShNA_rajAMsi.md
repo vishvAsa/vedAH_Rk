@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कृष्णा꣡ र꣡जांसि पत्सुतः꣡  
-प्रया꣡णे जात꣡वेदसः  
-अग्नि꣡र् य꣡द् रो꣡धति क्ष꣡मि
+कृष्णा᳓ र᳓जांसि पत्सुतः᳓  
+प्रया᳓णे जात᳓वेदसः  
+अग्नि᳓र् य᳓द् रो᳓धति क्ष᳓मि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

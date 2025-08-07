@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुचे꣡ त꣡नाय त꣡त् सु꣡ नो  
-द्रा꣡घीय आ꣡यु° जीव꣡से  
-आ꣡दित्यासः सुमहसः कृणो꣡तन
+तुचे᳓ त᳓नाय त᳓त् सु᳓ नो  
+द्रा᳓घीय आ᳓यु° जीव᳓से  
+आ᳓दित्यासः सुमहसः कृणो᳓तन
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् अर्के꣡भिस् तं꣡ सा꣡मभिस्  
-तं꣡ गायत्रइ꣡श् चर्षण꣡यः  
-इ꣡न्द्रं वर्धन्ति क्षित꣡यः
+त᳓म् अर्के᳓भिस् तं᳓ सा᳓मभिस्  
+तं᳓ गायत्रइ᳓श् चर्षण᳓यः  
+इ᳓न्द्रं वर्धन्ति क्षित᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वा꣡यो त꣡व प्रपृञ्चती꣡  
-धे꣡ना जिगाति दाशु꣡षे  
-उरूची꣡ सो꣡मपीतये
+वा᳓यो त᳓व प्रपृञ्चती᳓  
+धे᳓ना जिगाति दाशु᳓षे  
+उरूची᳓ सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

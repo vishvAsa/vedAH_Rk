@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सुतो꣡ नृमा꣡दनो  
-दधन्वा꣡न् मत्सरि꣡न्तमः  
-इ꣡न्द्राय सूरि꣡र् अ꣡न्धसा
+तुवं᳓ सुतो᳓ नृमा᳓दनो  
+दधन्वा᳓न् मत्सरि᳓न्तमः  
+इ᳓न्द्राय सूरि᳓र् अ᳓न्धसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -141,7 +141,7 @@ _________
 You, bringing exhilaration to superior men when pressed, most  
 exhilarating when you have run,  
 are patron to Indra, with your stalk.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/01-03.md">

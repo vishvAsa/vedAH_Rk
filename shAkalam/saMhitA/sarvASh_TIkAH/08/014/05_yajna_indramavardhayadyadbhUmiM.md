@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यज्ञ꣡ इ꣡न्द्रम् अवर्धयद्  
-य꣡द् भू꣡मिं वि꣡ अ꣡वर्तयत्  
-चक्राण꣡ ओपशं꣡ दिवि꣡
+यज्ञ᳓ इ᳓न्द्रम् अवर्धयद्  
+य᳓द् भू᳓मिं वि᳓ अ᳓वर्तयत्  
+चक्राण᳓ ओपशं᳓ दिवि᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ मा पूषन्न् उ꣡प द्रव  
-शं꣡सिषं नु꣡ ते अपिकर्ण꣡ आघृणे  
-अघा꣡ अर्यो꣡ अ꣡रातयः
+आ᳓ मा पूषन्न् उ᳓प द्रव  
+शं᳓सिषं नु᳓ ते अपिकर्ण᳓ आघृणे  
+अघा᳓ अर्यो᳓ अ᳓रातयः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

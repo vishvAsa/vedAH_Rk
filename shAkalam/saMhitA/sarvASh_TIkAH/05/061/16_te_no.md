@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ नो व꣡सूनि का꣡मिया  
-पुरुश्चन्द्रा꣡ रिशादसः  
-आ꣡ यज्ञियासो ववृत्तन
+ते᳓ नो व᳓सूनि का᳓मिया  
+पुरुश्चन्द्रा᳓ रिशादसः  
+आ᳓ यज्ञियासो ववृत्तन
 </details>
 
 <details><summary>Vedaweb annotation</summary>

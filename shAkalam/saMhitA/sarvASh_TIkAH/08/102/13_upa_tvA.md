@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प त्वा जाम꣡यो गि꣡रो  
-दे꣡दिशतीर् हविष्कृ꣡तः  
-वायो꣡र् अ꣡नीके अस्थिरन्
+उ᳓प त्वा जाम᳓यो गि᳓रो  
+दे᳓दिशतीर् हविष्कृ᳓तः  
+वायो᳓र् अ᳓नीके अस्थिरन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

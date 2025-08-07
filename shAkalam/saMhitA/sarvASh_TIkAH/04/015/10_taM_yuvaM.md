@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ युवं꣡ देवाव् अश्विना  
-कुमारं꣡ साहदेविय꣡म्  
-दीर्घा꣡युषं कृणोतन
+तं᳓ युवं᳓ देवाव् अश्विना  
+कुमारं᳓ साहदेविय᳓म्  
+दीर्घा᳓युषं कृणोतन
 </details>
 
 <details><summary>Vedaweb annotation</summary>

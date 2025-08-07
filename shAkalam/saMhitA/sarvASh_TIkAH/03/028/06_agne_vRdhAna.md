@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने वृधान꣡ आ꣡हुतिम्  
-पुरोळा꣡शं जातवेदः  
-जुष꣡स्व तिरो꣡अह्नियम्
+अ᳓ग्ने वृधान᳓ आ᳓हुतिम्  
+पुरोळा᳓शं जातवेदः  
+जुष᳓स्व तिरो᳓अह्नियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

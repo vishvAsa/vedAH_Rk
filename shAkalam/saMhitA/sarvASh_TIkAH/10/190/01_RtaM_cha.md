@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋतं꣡ च सत्यं꣡ चाभी꣡द्धात्  
-त꣡पसो꣡ ऽधि अजायत  
-त꣡तो रा꣡त्री अजायत  
-त꣡तः समुद्रो꣡ अर्णवः꣡
+ऋतं᳓ च सत्यं᳓ चाभी᳓द्धात्  
+त᳓पसो᳓ ऽधि अजायत  
+त᳓तो रा᳓त्री अजायत  
+त᳓तः समुद्रो᳓ अर्णवः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

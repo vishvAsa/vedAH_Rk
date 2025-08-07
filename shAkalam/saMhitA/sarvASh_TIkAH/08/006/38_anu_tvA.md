@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡नु त्वा रो꣡दसी उभे꣡  
-चक्रं꣡ न꣡ वर्ति ए꣡तशम्  
-अ꣡नु स्वाना꣡स° इ꣡न्दवः
+अ᳓नु त्वा रो᳓दसी उभे᳓  
+चक्रं᳓ न᳓ वर्ति ए᳓तशम्  
+अ᳓नु स्वाना᳓स° इ᳓न्दवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

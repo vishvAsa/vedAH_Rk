@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उग्रा꣡ स꣡न्ता हवामह  
-उ꣡पेदं꣡ स꣡वनं सुत꣡म्  
-इन्द्राग्नी꣡ ए꣡ह꣡ गछताम्
+उग्रा᳓ स᳓न्ता हवामह  
+उ᳓पेदं᳓ स᳓वनं सुत᳓म्  
+इन्द्राग्नी᳓ ए᳓ह᳓ गछताम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् उ त्ये꣡ अरुण꣡प्सवश्  
-चित्रा꣡ या꣡मेभिर् ईरते  
-वाश्रा꣡ अ꣡धि ष्णु꣡ना दिवः꣡
+उ᳓द् उ त्ये᳓ अरुण᳓प्सवश्  
+चित्रा᳓ या᳓मेभिर् ईरते  
+वाश्रा᳓ अ᳓धि ष्णु᳓ना दिवः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

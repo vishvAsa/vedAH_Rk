@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡ अ꣡र्बुदस्य विष्ट꣡पं  
-वर्ष्मा꣡णम् बृहत꣡स् तिर  
-कृषे꣡ त꣡द् इन्द्र पउं꣡सियम्
+नि᳓ अ᳓र्बुदस्य विष्ट᳓पं  
+वर्ष्मा᳓णम् बृहत᳓स् तिर  
+कृषे᳓ त᳓द् इन्द्र पउं᳓सियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

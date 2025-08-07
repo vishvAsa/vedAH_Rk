@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-समीचीने꣡ अभि꣡ त्म꣡ना  
-यह्वी꣡ ऋत꣡स्य मात꣡रा  
-तन्वाना꣡ यज्ञ꣡म् आनुष꣡ग् य꣡द् अञ्जते꣡
+समीचीने᳓ अभि᳓ त्म᳓ना  
+यह्वी᳓ ऋत᳓स्य मात᳓रा  
+तन्वाना᳓ यज्ञ᳓म् आनुष᳓ग् य᳓द् अञ्जते᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ अप्सु꣡ चन्द्र꣡मा इव  
-सो꣡मश् चमू꣡षु द꣡दृशे  
-पि꣡बे꣡द् अस्य त्व꣡म् ईशिषे
+यो᳓ अप्सु᳓ चन्द्र᳓मा इव  
+सो᳓मश् चमू᳓षु द᳓दृशे  
+पि᳓बे᳓द् अस्य त्व᳓म् ईशिषे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡मस् ते अग्न ओ꣡जसे  
-गृण꣡न्ति देव कृष्ट꣡यः  
-अ꣡मैर् अमि꣡त्रम् अर्दय
+न᳓मस् ते अग्न ओ᳓जसे  
+गृण᳓न्ति देव कृष्ट᳓यः  
+अ᳓मैर् अमि᳓त्रम् अर्दय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

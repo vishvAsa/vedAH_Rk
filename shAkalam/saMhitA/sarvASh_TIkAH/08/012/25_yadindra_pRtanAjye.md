@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् इन्द्र पृतना꣡जिये  
-देवा꣡स् त्वा दधिरे꣡ पुरः꣡  
-आ꣡द् इ꣡त् ते हर्यता꣡ ह꣡री ववक्षतुः
+य᳓द् इन्द्र पृतना᳓जिये  
+देवा᳓स् त्वा दधिरे᳓ पुरः᳓  
+आ᳓द् इ᳓त् ते हर्यता᳓ ह᳓री ववक्षतुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

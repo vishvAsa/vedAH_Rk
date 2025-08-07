@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡त् ते शु꣡ष्मास ईरते  
-सि꣡न्धोर् ऊर्मे꣡र् इव स्वनः꣡  
-वाण꣡स्य चोदया पवि꣡म्
+उ᳓त् ते शु᳓ष्मास ईरते  
+सि᳓न्धोर् ऊर्मे᳓र् इव स्वनः᳓  
+वाण᳓स्य चोदया पवि᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

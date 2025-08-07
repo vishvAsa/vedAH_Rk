@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राग्नी जरितुः꣡ स꣡चा  
-यज्ञो꣡ जिगाति चे꣡तनः  
-अया꣡ पातम् इमं꣡ सुत꣡म्
+इ᳓न्द्राग्नी जरितुः᳓ स᳓चा  
+यज्ञो᳓ जिगाति चे᳓तनः  
+अया᳓ पातम् इमं᳓ सुत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

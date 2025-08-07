@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इयं꣡ ते पूषन्न् आघृणे  
-सुष्टुति꣡र् देव न꣡व्यसी  
-अस्मा꣡भिस् तु꣡भ्य° शस्यते
+इयं᳓ ते पूषन्न् आघृणे  
+सुष्टुति᳓र् देव न᳓व्यसी  
+अस्मा᳓भिस् तु᳓भ्य° शस्यते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

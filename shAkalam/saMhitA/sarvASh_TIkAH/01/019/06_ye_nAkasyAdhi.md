@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ ना꣡कस्या꣡धि रोचने꣡  
-दिवि꣡ देवा꣡स आ꣡सते  
-मरु꣡द्भिर् अग्न आ꣡ गहि
+ये᳓ ना᳓कस्या᳓धि रोचने᳓  
+दिवि᳓ देवा᳓स आ᳓सते  
+मरु᳓द्भिर् अग्न आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

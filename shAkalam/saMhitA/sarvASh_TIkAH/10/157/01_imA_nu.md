@@ -15,8 +15,8 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमा꣡ नु꣡ कम् भु꣡वना सीषधाम  
-इ꣡न्द्रश् च वि꣡श्वे च देवाः꣡
+इमा᳓ नु᳓ कम् भु᳓वना सीषधाम  
+इ᳓न्द्रश् च वि᳓श्वे च देवाः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

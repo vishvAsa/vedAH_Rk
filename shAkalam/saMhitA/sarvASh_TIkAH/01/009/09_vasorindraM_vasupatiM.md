@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-व꣡सोर् इ꣡न्द्रं व꣡सुपतिं  
-गीर्भि꣡र् गृण꣡न्त ऋग्मि꣡यम्  
-हो꣡म ग꣡न्तारम् ऊत꣡ये
+व᳓सोर् इ᳓न्द्रं व᳓सुपतिं  
+गीर्भि᳓र् गृण᳓न्त ऋग्मि᳓यम्  
+हो᳓म ग᳓न्तारम् ऊत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

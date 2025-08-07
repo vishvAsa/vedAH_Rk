@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-एता꣡ चिकित्वो भू꣡मा नि꣡ पाहि  
-देवा꣡नां ज꣡न्म म꣡र्तांश् च विद्वा꣡न्
+एता᳓ चिकित्वो भू᳓मा नि᳓ पाहि  
+देवा᳓नां ज᳓न्म म᳓र्तांश् च विद्वा᳓न्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

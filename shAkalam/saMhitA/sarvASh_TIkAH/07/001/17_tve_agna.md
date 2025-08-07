@@ -15,9 +15,9 @@ ChandaH = "विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवे꣡ अग्न आह꣡वनानि भू꣡रि  
-ईशाना꣡स आ꣡ जुहुयाम नि꣡त्या  
-उभा꣡ कृण्व꣡न्तो वहतू꣡ मिये꣡धे
+तुवे᳓ अग्न आह᳓वनानि भू᳓रि  
+ईशाना᳓स आ᳓ जुहुयाम नि᳓त्या  
+उभा᳓ कृण्व᳓न्तो वहतू᳓ मिये᳓धे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

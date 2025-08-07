@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ घा व꣡सुर् नि꣡ यमते  
-दानं꣡ वा꣡जस्य गो꣡मतः  
-य꣡त् सीम् उ꣡प श्र꣡वद् गि꣡रः
+न᳓ घा व᳓सुर् नि᳓ यमते  
+दानं᳓ वा᳓जस्य गो᳓मतः  
+य᳓त् सीम् उ᳓प श्र᳓वद् गि᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -178,7 +178,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The good one will not hold back his gift of a prize of cattle when he will hear these songs.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/22-24.md">

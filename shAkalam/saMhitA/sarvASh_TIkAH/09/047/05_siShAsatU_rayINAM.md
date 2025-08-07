@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सिषास꣡तू रयीणां᳐꣡  
-वा꣡जेषु अ꣡र्वताम् इव  
-भ꣡रेषु जिग्यु꣡षाम् असि
+सिषास᳓तू रयीणां᳐᳓  
+वा᳓जेषु अ᳓र्वताम् इव  
+भ᳓रेषु जिग्यु᳓षाम् असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

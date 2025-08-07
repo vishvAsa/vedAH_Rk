@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ हिन्वन्ति मदच्यु꣡तं  
-ह꣡रिं नदी꣡षु वाजि꣡नम्  
-इ꣡न्दुम् इ꣡न्द्राय मत्सर꣡म्
+तं᳓ हिन्वन्ति मदच्यु᳓तं  
+ह᳓रिं नदी᳓षु वाजि᳓नम्  
+इ᳓न्दुम् इ᳓न्द्राय मत्सर᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

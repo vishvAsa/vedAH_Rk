@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वा꣡य उक्थे꣡भिर् जरन्ते  
-तुवा꣡म् अ꣡छा जरिता꣡रः  
-सुत꣡सोमा अहर्वि꣡दः
+वा᳓य उक्थे᳓भिर् जरन्ते  
+तुवा᳓म् अ᳓छा जरिता᳓रः  
+सुत᳓सोमा अहर्वि᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-युव꣡म् मृगं꣡ जागृवां꣡सं  
-स्व꣡दथो वा वृषण्वसू  
-ता꣡ नः पृङ्क्तम् इषा꣡ रयि꣡म्
+युव᳓म् मृगं᳓ जागृवां᳓सं  
+स्व᳓दथो वा वृषण्वसू  
+ता᳓ नः पृङ्क्तम् इषा᳓ रयि᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

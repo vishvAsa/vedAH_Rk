@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ सुदेवा꣡य दाशु꣡षे  
-सुमेधा꣡म् अ꣡वितारिणीम्  
-घृतइ꣡र् ग꣡व्यूतिम् उक्षतम्
+ता᳓ सुदेवा᳓य दाशु᳓षे  
+सुमेधा᳓म् अ᳓वितारिणीम्  
+घृतइ᳓र् ग᳓व्यूतिम् उक्षतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

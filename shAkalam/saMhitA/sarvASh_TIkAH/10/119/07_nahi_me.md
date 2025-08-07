@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नहि꣡ मे रो꣡दसी उभे꣡  
-अन्य꣡म् पक्षं꣡ चन꣡ प्र꣡ति  
-कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
+नहि᳓ मे रो᳓दसी उभे᳓  
+अन्य᳓म् पक्षं᳓ चन᳓ प्र᳓ति  
+कुवि᳓त् सो᳓मस्या᳓पाम् इ᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡वं नु꣡ स्तो꣡मम् अग्न꣡ये  
-दिवः꣡ श्येना꣡य जीजनम्  
-व꣡स्वः कुवि꣡द् वना꣡ति नः
+न᳓वं नु᳓ स्तो᳓मम् अग्न᳓ये  
+दिवः᳓ श्येना᳓य जीजनम्  
+व᳓स्वः कुवि᳓द् वना᳓ति नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

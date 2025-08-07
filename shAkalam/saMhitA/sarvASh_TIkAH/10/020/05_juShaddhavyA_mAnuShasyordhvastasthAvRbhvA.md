@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-जुष꣡द् धव्या꣡ मा꣡नुषस्य  
-ऊर्ध्व꣡स् तस्थाव् ऋ꣡भ्वा यज्ञे꣡  
-मिन्व꣡न् स꣡द्म पुर꣡ एति
+जुष᳓द् धव्या᳓ मा᳓नुषस्य  
+ऊर्ध्व᳓स् तस्थाव् ऋ᳓भ्वा यज्ञे᳓  
+मिन्व᳓न् स᳓द्म पुर᳓ एति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

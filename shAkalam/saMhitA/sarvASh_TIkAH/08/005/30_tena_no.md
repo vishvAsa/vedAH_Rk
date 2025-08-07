@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡न नो वाजिनीवसू  
-पराव꣡तश् चिद् आ꣡ गतम्  
-उ꣡पेमां꣡ सुष्टुति꣡म् म꣡म
+ते᳓न नो वाजिनीवसू  
+पराव᳓तश् चिद् आ᳓ गतम्  
+उ᳓पेमां᳓ सुष्टुति᳓म् म᳓म
 </details>
 
 <details><summary>Vedaweb annotation</summary>

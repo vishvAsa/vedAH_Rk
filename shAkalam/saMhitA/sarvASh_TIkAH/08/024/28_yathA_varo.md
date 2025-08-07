@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡था वरो सुषा꣡मणे  
-सनि꣡भ्य आ꣡वहो रयि꣡म्  
-वि꣡अश्वेभ्यः सुभगे वाजिनीवति
+य᳓था वरो सुषा᳓मणे  
+सनि᳓भ्य आ᳓वहो रयि᳓म्  
+वि᳓अश्वेभ्यः सुभगे वाजिनीवति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

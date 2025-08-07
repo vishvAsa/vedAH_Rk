@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡थोत꣡ कृ꣡त्विये ध꣡ने  
-अंशुं꣡ गो꣡षु अग꣡स्तियम्  
-य꣡था वा꣡जेषु सो꣡भरिम्
+य᳓थोत᳓ कृ᳓त्विये ध᳓ने  
+अंशुं᳓ गो᳓षु अग᳓स्तियम्  
+य᳓था वा᳓जेषु सो᳓भरिम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

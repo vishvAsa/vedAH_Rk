@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡त्तानपर्णे सु꣡भगे  
-दे꣡वजूते स꣡हस्वति  
-सप꣡त्नीम् मे प꣡रा धम  
-प꣡तिम् मे के꣡वलं कुरु
+उ᳓त्तानपर्णे सु᳓भगे  
+दे᳓वजूते स᳓हस्वति  
+सप᳓त्नीम् मे प᳓रा धम  
+प᳓तिम् मे के᳓वलं कुरु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

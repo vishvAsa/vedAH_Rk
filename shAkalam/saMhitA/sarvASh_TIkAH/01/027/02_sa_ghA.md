@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ घा नः सूनुः꣡ श꣡वसा  
-पृथु꣡प्रगामा सुशे꣡वः  
-मीढ्वाँ꣡ अस्मा꣡कम् बभूयात्
+स᳓ घा नः सूनुः᳓ श᳓वसा  
+पृथु᳓प्रगामा सुशे᳓वः  
+मीढ्वाँ᳓ अस्मा᳓कम् बभूयात्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

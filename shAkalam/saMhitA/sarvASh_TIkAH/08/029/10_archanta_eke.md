@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡र्चन्त ए꣡के म꣡हि सा꣡म मन्वत  
-ते꣡न सू꣡र्यम् अरोचयन्
+अ᳓र्चन्त ए᳓के म᳓हि सा᳓म मन्वत  
+ते᳓न सू᳓र्यम् अरोचयन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

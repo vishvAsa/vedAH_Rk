@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋभु꣡र् न꣡ र꣡थियं न꣡वं  
-द꣡धाता के꣡तम् आदि꣡शे  
-शुक्राः꣡ पवध्वम् अ꣡र्णसा
+ऋभु᳓र् न᳓ र᳓थियं न᳓वं  
+द᳓धाता के᳓तम् आदि᳓शे  
+शुक्राः᳓ पवध्वम् अ᳓र्णसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

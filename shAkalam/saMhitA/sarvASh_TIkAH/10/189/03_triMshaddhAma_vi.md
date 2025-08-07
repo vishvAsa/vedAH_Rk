@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्रिंश꣡द् धा꣡म वि꣡ राजति  
-वा꣡क् पतंगा꣡य धीयते  
-प्र꣡ति व꣡स्तोर् अ꣡ह द्यु꣡भिः
+त्रिंश᳓द् धा᳓म वि᳓ राजति  
+वा᳓क् पतंगा᳓य धीयते  
+प्र᳓ति व᳓स्तोर् अ᳓ह द्यु᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

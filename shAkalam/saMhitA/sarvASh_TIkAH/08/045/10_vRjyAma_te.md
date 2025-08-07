@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृज्या꣡म ते प꣡रि द्वि꣡षो  
-अ꣡रं ते शक्र दाव꣡ने  
-गमे꣡मे꣡द् इन्द्र गो꣡मतः
+वृज्या᳓म ते प᳓रि द्वि᳓षो  
+अ᳓रं ते शक्र दाव᳓ने  
+गमे᳓मे᳓द् इन्द्र गो᳓मतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

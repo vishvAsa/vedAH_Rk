@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इदं꣡ वाम् आसि꣡ये हविः꣡  
-प्रिय꣡म् इन्द्राबृहस्पती  
-उक्थ꣡म् म꣡दश् च शस्यते
+इदं᳓ वाम् आसि᳓ये हविः᳓  
+प्रिय᳓म् इन्द्राबृहस्पती  
+उक्थ᳓म् म᳓दश् च शस्यते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

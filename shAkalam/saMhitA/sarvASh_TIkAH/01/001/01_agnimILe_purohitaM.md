@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡म् ईळे पुरो꣡हितं  
-यज्ञ꣡स्य देव꣡म् ऋत्वि꣡जम्  
-हो꣡तारं रत्नधा꣡तमम्
+अग्नि᳓म् ईळे पुरो᳓हितं  
+यज्ञ᳓स्य देव᳓म् ऋत्वि᳓जम्  
+हो᳓तारं रत्नधा᳓तमम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

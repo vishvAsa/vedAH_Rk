@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-श꣡श्वन्तं हि꣡ प्रचेतसः  
-प्रतिय꣡न्तं चिद् ए꣡नसः  
-दे꣡वाः कृणुथ꣡ जीव꣡से
+श᳓श्वन्तं हि᳓ प्रचेतसः  
+प्रतिय᳓न्तं चिद् ए᳓नसः  
+दे᳓वाः कृणुथ᳓ जीव᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>

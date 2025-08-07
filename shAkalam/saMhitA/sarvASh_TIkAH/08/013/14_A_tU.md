@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ तू꣡ गहि प्र꣡ तु꣡ द्रव  
-म꣡त्स्वा सुत꣡स्य गो꣡मतः  
-त꣡न्तुं तनुष्व पूर्वियं꣡ य꣡था विदे꣡
+आ᳓ तू᳓ गहि प्र᳓ तु᳓ द्रव  
+म᳓त्स्वा सुत᳓स्य गो᳓मतः  
+त᳓न्तुं तनुष्व पूर्वियं᳓ य᳓था विदे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

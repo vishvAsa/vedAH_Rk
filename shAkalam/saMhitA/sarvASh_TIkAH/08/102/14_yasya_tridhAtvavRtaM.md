@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य त्रिधा꣡तु अ꣡वृतम्  
-बर्हि꣡स् तस्था꣡व् अ꣡संदिनम्  
-आ꣡पश् चिन् नि꣡ दधा पद꣡म्
+य᳓स्य त्रिधा᳓तु अ᳓वृतम्  
+बर्हि᳓स् तस्था᳓व् अ᳓संदिनम्  
+आ᳓पश् चिन् नि᳓ दधा पद᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

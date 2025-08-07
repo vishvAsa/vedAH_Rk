@@ -15,9 +15,9 @@ ChandaH = "तनुशिरा"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ या꣡ घो꣡षे भृ꣡गवाणे न꣡ शो꣡भे  
-य꣡या वाचा꣡ य꣡जति पज्रियो꣡ वाम्  
-प्रइ꣡षयु꣡र् न꣡ विद्वा꣡न्
+प्र᳓ या᳓ घो᳓षे भृ᳓गवाणे न᳓ शो᳓भे  
+य᳓या वाचा᳓ य᳓जति पज्रियो᳓ वाम्  
+प्रइ᳓षयु᳓र् न᳓ विद्वा᳓न्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

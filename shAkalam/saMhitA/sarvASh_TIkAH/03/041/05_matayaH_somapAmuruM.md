@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मत꣡यः सोमपा꣡म् उरुं꣡  
-रिह꣡न्ति श꣡वसस् प꣡तिम्  
-इ꣡न्द्रं वत्सं꣡ न꣡ मात꣡रः
+मत᳓यः सोमपा᳓म् उरुं᳓  
+रिह᳓न्ति श᳓वसस् प᳓तिम्  
+इ᳓न्द्रं वत्सं᳓ न᳓ मात᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

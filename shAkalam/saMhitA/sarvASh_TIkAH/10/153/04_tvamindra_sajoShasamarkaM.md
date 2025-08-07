@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुव꣡म् इन्द्र सजो꣡षसम्  
-अर्क꣡म् बिभर्षि बाहुवोः꣡  
-व꣡ज्रं शि꣡शान ओ꣡जसा
+तुव᳓म् इन्द्र सजो᳓षसम्  
+अर्क᳓म् बिभर्षि बाहुवोः᳓  
+व᳓ज्रं शि᳓शान ओ᳓जसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

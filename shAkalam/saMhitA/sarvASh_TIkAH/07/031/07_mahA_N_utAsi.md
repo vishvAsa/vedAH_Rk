@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-महाँ꣡ उता꣡सि य꣡स्य ते  
-अ꣡नु स्वधा꣡वरी स꣡हः  
-मम्ना꣡ते इन्द्र रो꣡दसी
+महाँ᳓ उता᳓सि य᳓स्य ते  
+अ᳓नु स्वधा᳓वरी स᳓हः  
+मम्ना᳓ते इन्द्र रो᳓दसी
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -167,7 +167,7 @@ _________
 And you are great, you to whose might the two autonomous  
 world-halves  
 have yielded, o Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/07-08.md">

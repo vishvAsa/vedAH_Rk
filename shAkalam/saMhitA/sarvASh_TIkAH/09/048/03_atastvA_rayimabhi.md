@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡तस् तुवा रयि꣡म् अभि꣡  
-रा꣡जानं सुक्रतो दिवः꣡  
-सुपर्णो꣡ अव्यथि꣡र् भरत्
+अ᳓तस् तुवा रयि᳓म् अभि᳓  
+रा᳓जानं सुक्रतो दिवः᳓  
+सुपर्णो᳓ अव्यथि᳓र् भरत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

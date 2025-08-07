@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व म꣡धुमत्तम  
-इ꣡न्द्राय सोम क्रतुवि꣡त्तमो म꣡दः  
-म꣡हि द्युक्ष꣡तमो म꣡दः
+प᳓वस्व म᳓धुमत्तम  
+इ᳓न्द्राय सोम क्रतुवि᳓त्तमो म᳓दः  
+म᳓हि द्युक्ष᳓तमो म᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -155,7 +155,7 @@ _________
 Purify yourself as the most honeyed for Indra, o Soma, as the  
 exhilarating drink that best finds resolve,  
 greatly, as the exhilarating drink that best rules heaven,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/01-02.md">

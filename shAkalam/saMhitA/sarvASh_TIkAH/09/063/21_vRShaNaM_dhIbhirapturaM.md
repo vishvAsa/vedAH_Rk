@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡षणं धीभि꣡र् अप्तु꣡रं  
-सो꣡मम् ऋत꣡स्य धा꣡रया  
-मती꣡ वि꣡प्राः स꣡म् अस्वरन्
+वृ᳓षणं धीभि᳓र् अप्तु᳓रं  
+सो᳓मम् ऋत᳓स्य धा᳓रया  
+मती᳓ वि᳓प्राः स᳓म् अस्वरन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,7 +154,7 @@ _________
 To the water-crossing bull, Soma, in a stream of truth  
 have the inspired poets cried out in unison with their insights, their  
 thought.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/19-21.md">

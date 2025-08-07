@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡षो अद्ये꣡ह꣡ गोमति  
-अ꣡श्वावति विभावरि  
-रेव꣡द् अस्मे꣡ वि꣡ उछ सूनृतावति
+उ᳓षो अद्ये᳓ह᳓ गोमति  
+अ᳓श्वावति विभावरि  
+रेव᳓द् अस्मे᳓ वि᳓ उछ सूनृतावति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

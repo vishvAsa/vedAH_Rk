@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ चित्र꣡म् अर्कं꣡ गृणते꣡ तुरा꣡य  
-मा꣡रुताय स्व꣡तवसे भरध्वम्  
-ये꣡ स꣡हांसि · स꣡हसा स꣡हन्ते  
-रे꣡जते अग्ने पृथिवी꣡ मखे꣡भ्यः
+प्र᳓ चित्र᳓म् अर्कं᳓ गृणते᳓ तुरा᳓य  
+मा᳓रुताय स्व᳓तवसे भरध्वम्  
+ये᳓ स᳓हांसि · स᳓हसा स᳓हन्ते  
+रे᳓जते अग्ने पृथिवी᳓ मखे᳓भ्यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -213,7 +213,7 @@ _________
 
 Bring forward a brilliant chant for the singing, swift, self-strong  Marut(-troop).  
 Those who overpower powers with power, before (those) combatants  the earth trembles, o Agni.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

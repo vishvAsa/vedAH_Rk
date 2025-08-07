@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अर्वाव꣡तो न आ꣡ गहि  
-पराव꣡तश् च वृत्रहन्  
-इमा꣡ जुषस्व नो गि꣡रः
+अर्वाव᳓तो न आ᳓ गहि  
+पराव᳓तश् च वृत्रहन्  
+इमा᳓ जुषस्व नो गि᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

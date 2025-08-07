@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ ग꣡र्भम् ओ꣡षधीनां᳐  
-ग꣡वां कृणो꣡ति अ꣡र्वताम्  
-पर्ज꣡न्यः पुरुषी꣡णा᳐म्
+यो᳓ ग᳓र्भम् ओ᳓षधीनां᳐  
+ग᳓वां कृणो᳓ति अ᳓र्वताम्  
+पर्ज᳓न्यः पुरुषी᳓णा᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

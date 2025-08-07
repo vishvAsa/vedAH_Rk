@@ -15,10 +15,10 @@ ChandaH = "जगती"
 
 <details><summary>Thomson & Solcum</summary>
 
-यज्ञ꣡स्य केतुः꣡ पवते सुअध्वरः꣡  
-सो꣡मो देवा꣡नाम् उ꣡प याति निष्कृत꣡म्  
-सह꣡स्रधारः प꣡रि को꣡शम् अर्षति  
-वृ꣡षा पवि꣡त्रम् अ꣡ति एति रो꣡रुवत्
+यज्ञ᳓स्य केतुः᳓ पवते सुअध्वरः᳓  
+सो᳓मो देवा᳓नाम् उ᳓प याति निष्कृत᳓म्  
+सह᳓स्रधारः प᳓रि को᳓शम् अर्षति  
+वृ᳓षा पवि᳓त्रम् अ᳓ति एति रो᳓रुवत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -242,7 +242,7 @@ _________
 
 Beacon of the sacrifice, lovely at the ceremony, he purifies himself.  Soma proceeds toward the rendezvous with the gods.  
 Having a thousand streams, he rushes around the cask. The bull keeps  bellowing as he goes across the filter.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/07-09.md">

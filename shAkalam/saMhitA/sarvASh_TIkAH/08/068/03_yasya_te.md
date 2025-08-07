@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य ते महिना꣡ महः꣡  
-प꣡रि ज्माय꣡न्तम् ईय꣡तुः  
-ह꣡स्ता व꣡ज्रं हिरण्य꣡यम्
+य᳓स्य ते महिना᳓ महः᳓  
+प᳓रि ज्माय᳓न्तम् ईय᳓तुः  
+ह᳓स्ता व᳓ज्रं हिरण्य᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

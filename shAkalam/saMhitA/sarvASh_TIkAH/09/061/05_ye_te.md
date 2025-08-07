@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ ते पवि꣡त्रम् ऊर्म꣡यो  
-अभिक्ष꣡रन्ति धा꣡रया  
-ते꣡भिर् नः सोम मॄळय+
+ये᳓ ते पवि᳓त्रम् ऊर्म᳓यो  
+अभिक्ष᳓रन्ति धा᳓रया  
+ते᳓भिर् नः सोम मॄळय+
 </details>
 
 <details><summary>Vedaweb annotation</summary>

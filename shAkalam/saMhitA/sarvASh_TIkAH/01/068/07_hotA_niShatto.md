@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-हो꣡ता नि꣡षत्तो म꣡नोर् अ꣡पत्ये  
-स꣡ चिन् नु꣡ आसाम् प꣡ती रयीणा꣡म्
+हो᳓ता नि᳓षत्तो म᳓नोर् अ᳓पत्ये  
+स᳓ चिन् नु᳓ आसाम् प᳓ती रयीणा᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

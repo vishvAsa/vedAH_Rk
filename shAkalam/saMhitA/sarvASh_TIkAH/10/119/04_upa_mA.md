@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प मा मति꣡र् अस्थित  
-वाश्रा꣡ पुत्र꣡म् इव प्रिय꣡म्  
-कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
+उ᳓प मा मति᳓र् अस्थित  
+वाश्रा᳓ पुत्र᳓म् इव प्रिय᳓म्  
+कुवि᳓त् सो᳓मस्या᳓पाम् इ᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

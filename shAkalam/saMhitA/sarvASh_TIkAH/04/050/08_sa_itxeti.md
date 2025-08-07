@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ इ꣡त् क्षेति सु꣡धित ओ꣡कसि स्वे꣡  
-त꣡स्मा इ꣡ळा पिन्वते विश्वदा꣡नीम्  
-त꣡स्मै वि꣡शः स्वय꣡म् एवा꣡ नमन्ते  
-य꣡स्मिन् ब्रह्मा꣡ रा꣡जनि पू꣡र्व ए꣡ति
+स᳓ इ᳓त् क्षेति सु᳓धित ओ᳓कसि स्वे᳓  
+त᳓स्मा इ᳓ळा पिन्वते विश्वदा᳓नीम्  
+त᳓स्मै वि᳓शः स्वय᳓म् एवा᳓ नमन्ते  
+य᳓स्मिन् ब्रह्मा᳓ रा᳓जनि पू᳓र्व ए᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -256,7 +256,7 @@ _________
 Only he dwells peacefully, well-situated in his own home; for him  refreshment swells at all times;  
 to him the clans bow just of themselves—for which king the  
 Formulator comes first.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/07-08.md">

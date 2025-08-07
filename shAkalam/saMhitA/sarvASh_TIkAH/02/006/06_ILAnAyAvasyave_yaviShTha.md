@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ई꣡ळानाय अवस्य꣡वे  
-य꣡विष्ठ दूत नो गिरा꣡  
-य꣡जिष्ठ होतर् आ꣡ गहि
+ई᳓ळानाय अवस्य᳓वे  
+य᳓विष्ठ दूत नो गिरा᳓  
+य᳓जिष्ठ होतर् आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

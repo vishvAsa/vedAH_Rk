@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यः꣡ संस्थे꣡ चिच् छत꣡क्रतुर्  
-आ꣡द् ईं कृणो꣡ति वृत्रहा꣡  
-जरितृ꣡भ्यः पुरूव꣡सुः
+यः᳓ संस्थे᳓ चिच् छत᳓क्रतुर्  
+आ᳓द् ईं कृणो᳓ति वृत्रहा᳓  
+जरितृ᳓भ्यः पुरूव᳓सुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

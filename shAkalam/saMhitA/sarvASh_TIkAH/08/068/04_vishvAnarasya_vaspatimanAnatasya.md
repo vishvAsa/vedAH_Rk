@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-विश्वा꣡नरस्य वस् प꣡तिम्  
-अ꣡नानतस्य श꣡वसः  
-ए꣡वैश् च चर्षणीना᳐꣡म्  
-ऊती꣡ हुवे र꣡थाना᳐म्
+विश्वा᳓नरस्य वस् प᳓तिम्  
+अ᳓नानतस्य श᳓वसः  
+ए᳓वैश् च चर्षणीना᳐᳓म्  
+ऊती᳓ हुवे र᳓थाना᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

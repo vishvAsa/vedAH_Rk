@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡न सत्ये꣡न जागृतम्  
-अ꣡धि प्रचेतु꣡ने पदे꣡  
-इ꣡न्द्राग्नी श꣡र्म यछतम्
+ते᳓न सत्ये᳓न जागृतम्  
+अ᳓धि प्रचेतु᳓ने पदे᳓  
+इ᳓न्द्राग्नी श᳓र्म यछतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

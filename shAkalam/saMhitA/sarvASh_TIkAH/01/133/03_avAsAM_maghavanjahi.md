@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡वासाम् मघवञ् जहि  
-श꣡र्धो यातुम꣡तीना᳐म्  
-वैलस्थानके꣡ अर्मके꣡  
-महा꣡वैलस्थे अर्मके꣡
+अ᳓वासाम् मघवञ् जहि  
+श᳓र्धो यातुम᳓तीना᳐म्  
+वैलस्थानके᳓ अर्मके᳓  
+महा᳓वैलस्थे अर्मके᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

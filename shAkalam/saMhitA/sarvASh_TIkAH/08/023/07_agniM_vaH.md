@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्निं꣡ वः पूर्वियं꣡ हुवे  
-हो꣡तारं चर्षणीना᳐꣡म्  
-त꣡म् अया꣡ वाचा꣡ गृणे त꣡म् उ व स्तुषे
+अग्निं᳓ वः पूर्वियं᳓ हुवे  
+हो᳓तारं चर्षणीना᳐᳓म्  
+त᳓म् अया᳓ वाचा᳓ गृणे त᳓म् उ व स्तुषे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

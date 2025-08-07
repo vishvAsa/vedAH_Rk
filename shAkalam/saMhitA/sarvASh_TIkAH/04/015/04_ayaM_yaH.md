@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ यः꣡ सृ꣡ञ्जये पुरो꣡  
-दैववाते꣡ समिध्य꣡ते  
-द्युमाँ꣡ अमित्रद꣡म्भनः
+अयं᳓ यः᳓ सृ᳓ञ्जये पुरो᳓  
+दैववाते᳓ समिध्य᳓ते  
+द्युमाँ᳓ अमित्रद᳓म्भनः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

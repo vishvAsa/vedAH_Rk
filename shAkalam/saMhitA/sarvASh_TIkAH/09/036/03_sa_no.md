@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो ज्यो꣡तींषि पूर्विय  
-प꣡वमान वि꣡ रोचय  
-क्र꣡त्वे द꣡क्षाय नो हिनु
+स᳓ नो ज्यो᳓तींषि पूर्विय  
+प᳓वमान वि᳓ रोचय  
+क्र᳓त्वे द᳓क्षाय नो हिनु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

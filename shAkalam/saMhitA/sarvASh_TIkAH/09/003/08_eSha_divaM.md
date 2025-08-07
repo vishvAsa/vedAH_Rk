@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ दि꣡वं वि꣡ आ꣡सरत्  
-तिरो꣡ र꣡जांसि अ꣡स्पृतः  
-प꣡वमानः सुअध्वरः꣡
+एष᳓ दि᳓वं वि᳓ आ᳓सरत्  
+तिरो᳓ र᳓जांसि अ᳓स्पृतः  
+प᳓वमानः सुअध्वरः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -162,7 +162,7 @@ _________
 
 This one has now run through heaven, across the airy spaces, and  cannot be recaptured—  
 good at the rite as he purifies himself.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/003/07-08.md">

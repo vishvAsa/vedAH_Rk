@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इह꣡ त्वा गो꣡परीणसा  
-महे꣡ मन्दन्तु रा꣡धसे  
-स꣡रो गौरो꣡ य꣡था पिब
+इह᳓ त्वा गो᳓परीणसा  
+महे᳓ मन्दन्तु रा᳓धसे  
+स᳓रो गौरो᳓ य᳓था पिब
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वा सोम पवमान  
-द्युम्ना꣡नि इन्दव् आ꣡ भर  
-विदाः꣡ सहस्रि꣡णीर् इ꣡षः
+वि᳓श्वा सोम पवमान  
+द्युम्ना᳓नि इन्दव् आ᳓ भर  
+विदाः᳓ सहस्रि᳓णीर् इ᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

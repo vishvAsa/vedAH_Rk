@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡किर् अस्य सहन्तिय  
-परिएता꣡ क꣡यस्य चित्  
-वा꣡जो अस्ति श्रवा꣡यियः
+न᳓किर् अस्य सहन्तिय  
+परिएता᳓ क᳓यस्य चित्  
+वा᳓जो अस्ति श्रवा᳓यियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

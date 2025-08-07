@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ ज꣡नं त्वेष꣡संदृशम्  
-मा꣡हीनानाम् उ꣡पस्तुतम्  
-अ꣡गन्म बि꣡भ्रतो न꣡मः
+आ᳓ ज᳓नं त्वेष᳓संदृशम्  
+मा᳓हीनानाम् उ᳓पस्तुतम्  
+अ᳓गन्म बि᳓भ्रतो न᳓मः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

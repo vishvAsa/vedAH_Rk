@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रिया꣡ पदा꣡नि पश्वो꣡ नि꣡ पाहि  
-विश्वा꣡युर् अग्ने गुहा꣡ गु꣡हं गाः
+प्रिया᳓ पदा᳓नि पश्वो᳓ नि᳓ पाहि  
+विश्वा᳓युर् अग्ने गुहा᳓ गु᳓हं गाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

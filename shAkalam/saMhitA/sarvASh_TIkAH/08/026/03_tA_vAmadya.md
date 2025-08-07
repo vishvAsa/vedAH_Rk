@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ वाम् अद्य꣡ हवामहे  
-हव्ये꣡भिर् वाजिनीवसू  
-पूर्वी꣡र् इष꣡ इष꣡यन्ताव् अ꣡ति क्षपः꣡
+ता᳓ वाम् अद्य᳓ हवामहे  
+हव्ये᳓भिर् वाजिनीवसू  
+पूर्वी᳓र् इष᳓ इष᳓यन्ताव् अ᳓ति क्षपः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

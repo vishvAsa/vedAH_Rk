@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡था ते अङ्गिरस्तम  
-अ꣡ग्ने वेधस्तम प्रिय꣡म्  
-वोचे꣡म ब्र꣡ह्म सानसि꣡
+अ᳓था ते अङ्गिरस्तम  
+अ᳓ग्ने वेधस्तम प्रिय᳓म्  
+वोचे᳓म ब्र᳓ह्म सानसि᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -148,7 +148,7 @@ _________
 
 Then, o Agni, best of Aṅgirases, best of ritual adepts, something  dear to you  
 might we speak—a winning sacred formulation.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/01-02.md">

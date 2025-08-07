@@ -15,10 +15,10 @@ ChandaH = "विराट् त्रिष्थुब्वा"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋत꣡स्य पथि꣡ वेधा꣡ अपायि  
-श्रिये꣡ म꣡नांसि देवा꣡सो अक्रन्  
-द꣡धानो ना꣡म महो꣡ व꣡चोभिर्  
-व꣡पुर् दृश꣡ये वेन्यो꣡ वि꣡ आवः
+ऋत᳓स्य पथि᳓ वेधा᳓ अपायि  
+श्रिये᳓ म᳓नांसि देवा᳓सो अक्रन्  
+द᳓धानो ना᳓म महो᳓ व᳓चोभिर्  
+व᳓पुर् दृश᳓ये वेन्यो᳓ वि᳓ आवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -232,7 +232,7 @@ _________
 
 On the path of truth, the ritual adept has been drunk. The gods have  set their minds for glory.  
 Acquiring the name of “great” by (ritual) speeches, the one worthy of  the quest has disclosed his wondrous form to be seen.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

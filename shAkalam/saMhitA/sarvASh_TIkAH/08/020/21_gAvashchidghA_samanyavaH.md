@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-गा꣡वश् चिद् घा समन्यवः  
-सजाति꣡येन मरुतः स꣡बन्धवः  
-रिहते꣡ ककु꣡भो मिथः꣡
+गा᳓वश् चिद् घा समन्यवः  
+सजाति᳓येन मरुतः स᳓बन्धवः  
+रिहते᳓ ककु᳓भो मिथः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

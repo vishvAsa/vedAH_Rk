@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्य꣡ म꣡दे पुरु꣡ व꣡र्पांसि विद्वा꣡न्  
-इ꣡न्द्रो वृत्रा꣡णि अप्रती꣡ जघान  
-त꣡म् उ प्र꣡ होषि म꣡धुमन्तम् अस्मै  
-सो꣡मं वीरा꣡य शिप्रि꣡णे पि꣡बध्यै
+अस्य᳓ म᳓दे पुरु᳓ व᳓र्पांसि विद्वा᳓न्  
+इ᳓न्द्रो वृत्रा᳓णि अप्रती᳓ जघान  
+त᳓म् उ प्र᳓ होषि म᳓धुमन्तम् अस्मै  
+सो᳓मं वीरा᳓य शिप्रि᳓णे पि᳓बध्यै
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -242,7 +242,7 @@ _________
 
 In its exhilaration, knowing many shapes, Indra smashed unopposable  obstacles.  
 Pour forth for him the honeyed soma, for the belipped hero to drink.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

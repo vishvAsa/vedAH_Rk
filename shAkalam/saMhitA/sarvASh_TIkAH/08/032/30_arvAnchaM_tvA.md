@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अर्वा꣡ञ्चं त्वा पुरुष्टुत  
-प्रिय꣡मेधस्तुता ह꣡री  
-सोमपे꣡याय वक्षतः
+अर्वा᳓ञ्चं त्वा पुरुष्टुत  
+प्रिय᳓मेधस्तुता ह᳓री  
+सोमपे᳓याय वक्षतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-रा꣡जानाव् अ꣡नभिद्रुहा  
-ध्रुवे꣡ स꣡दसि उत्तमे꣡  
-सह꣡स्रस्थूण आसते°
+रा᳓जानाव् अ᳓नभिद्रुहा  
+ध्रुवे᳓ स᳓दसि उत्तमे᳓  
+सह᳓स्रस्थूण आसते°
 </details>
 
 <details><summary>Vedaweb annotation</summary>

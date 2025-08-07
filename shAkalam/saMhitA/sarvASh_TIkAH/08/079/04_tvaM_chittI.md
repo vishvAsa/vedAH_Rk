@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ चित्ती꣡ त꣡व द꣡क्षैर्  
-दिव꣡ आ꣡ पृथिव्या꣡ र्जीषिन्  
-या꣡वीर् अघ꣡स्य चिद् द्वे꣡षः
+तुवं᳓ चित्ती᳓ त᳓व द᳓क्षैर्  
+दिव᳓ आ᳓ पृथिव्या᳓ र्जीषिन्  
+या᳓वीर् अघ᳓स्य चिद् द्वे᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

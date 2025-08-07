@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡वाह꣡म् अग्न ऊति꣡भिर्  
-ने꣡दिष्ठाभिः सचेय जो꣡षम् आ꣡ वसो  
-स꣡दा देव꣡स्य म꣡र्तियः
+त᳓वाह᳓म् अग्न ऊति᳓भिर्  
+ने᳓दिष्ठाभिः सचेय जो᳓षम् आ᳓ वसो  
+स᳓दा देव᳓स्य म᳓र्तियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

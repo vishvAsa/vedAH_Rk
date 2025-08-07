@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ए꣡हि वां꣡ विमुचो नपाद्  
-आ꣡घृणे सं꣡ सचावहै  
-रथी꣡र् ऋत꣡स्य नो भव
+ए᳓हि वां᳓ विमुचो नपाद्  
+आ᳓घृणे सं᳓ सचावहै  
+रथी᳓र् ऋत᳓स्य नो भव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

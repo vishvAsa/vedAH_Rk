@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गाथ꣡पतिम् मेध꣡पतिं  
-रुद्रं꣡ ज꣡लाषभेषजम्  
-त꣡च् छंयोः꣡ सुम्न꣡म् ईमहे
+गाथ᳓पतिम् मेध᳓पतिं  
+रुद्रं᳓ ज᳓लाषभेषजम्  
+त᳓च् छंयोः᳓ सुम्न᳓म् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

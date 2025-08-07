@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ सो꣡मासो अधन्विषुः  
-प꣡वमानास इ꣡न्दवः  
-श्रीणाना꣡ अप्सु꣡ मृञ्जत
+प्र᳓ सो᳓मासो अधन्विषुः  
+प᳓वमानास इ᳓न्दवः  
+श्रीणाना᳓ अप्सु᳓ मृञ्जत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -135,7 +135,7 @@ _________
 
 The soma juices have run forth, the self-purifying drops.  
 Brought to readiness, they have been groomed in the waters.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/024/01-03.md">

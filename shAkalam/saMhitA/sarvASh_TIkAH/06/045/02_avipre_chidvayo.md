@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अविप्रे꣡ चिद् व꣡यो द꣡धद्  
-अनाशु꣡ना चिद् अ꣡र्वता  
-इ꣡न्द्रो जे꣡ता हितं꣡ ध꣡नम्
+अविप्रे᳓ चिद् व᳓यो द᳓धद्  
+अनाशु᳓ना चिद् अ᳓र्वता  
+इ᳓न्द्रो जे᳓ता हितं᳓ ध᳓नम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

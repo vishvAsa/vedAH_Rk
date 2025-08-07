@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡स्वापयद् दभी꣡तये  
-सह꣡स्रा त्रिंश꣡तं ह꣡थैः  
-दासा꣡नाम् इ꣡न्द्रो माय꣡या
+अ᳓स्वापयद् दभी᳓तये  
+सह᳓स्रा त्रिंश᳓तं ह᳓थैः  
+दासा᳓नाम् इ᳓न्द्रो माय᳓या
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -135,7 +135,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 For Dabhīti, Indra “put to sleep” with his blows thirty thousand Dāsas by his magic power.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमा꣡ अस्य प्र꣡तूर्तयः  
-पदं꣡ जुषन्त य꣡द् दिवि꣡  
-ना꣡भा यज्ञ꣡स्य सं꣡ दधुर् य꣡था विदे꣡
+इमा᳓ अस्य प्र᳓तूर्तयः  
+पदं᳓ जुषन्त य᳓द् दिवि᳓  
+ना᳓भा यज्ञ᳓स्य सं᳓ दधुर् य᳓था विदे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

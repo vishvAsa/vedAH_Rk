@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ नू꣡ महित्वं꣡ वृषभ꣡स्य वोचं  
-य꣡म् पूर꣡वो वृत्रह꣡णं स꣡चन्ते  
-वैश्वानरो꣡ द꣡स्युम् अग्नि꣡र् जघन्वाँ꣡  
-अ꣡धूनोत् का꣡ष्ठा अ꣡व श꣡म्बरम् भेत्
+प्र᳓ नू᳓ महित्वं᳓ वृषभ᳓स्य वोचं  
+य᳓म् पूर᳓वो वृत्रह᳓णं स᳓चन्ते  
+वैश्वानरो᳓ द᳓स्युम् अग्नि᳓र् जघन्वाँ᳓  
+अ᳓धूनोत् का᳓ष्ठा अ᳓व श᳓म्बरम् भेत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -254,7 +254,7 @@ Vaiśvānara = **Indra**; Vaiśvānara in the hymn is interpreated as the Agni o
 I now proclaim the greatness of the bull, whom the Pūrus attend upon as  Vr̥tra-smasher.  
 Vaiśvānara, Agni, having smashed the Dasyu, shook the wooden  
 barriers, cut down Śambara.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/059/05-06.md">

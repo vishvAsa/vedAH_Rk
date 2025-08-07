@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡रं क्ष꣡याय नो महे꣡  
-वि꣡श्वा रूपा꣡णि आविश꣡न्  
-इ꣡न्द्रं जइ꣡त्राय हर्षया श꣡चीप꣡तिम्
+अ᳓रं क्ष᳓याय नो महे᳓  
+वि᳓श्वा रूपा᳓णि आविश᳓न्  
+इ᳓न्द्रं जइ᳓त्राय हर्षया श᳓चीप᳓तिम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मः सुतो꣡ धा꣡रया꣡त्यो न꣡ हि꣡त्वा  
-सि꣡न्धुर् न꣡ निम्न꣡म् अभि꣡ वाजी꣡ अक्षाः  
-आ꣡ यो꣡निं व꣡न्यम् असदत् पुनानः꣡  
-स꣡म् इ꣡न्दुर् गो꣡भिर् असरत् स꣡म् अद्भिः꣡
+सो᳓मः सुतो᳓ धा᳓रया᳓त्यो न᳓ हि᳓त्वा  
+सि᳓न्धुर् न᳓ निम्न᳓म् अभि᳓ वाजी᳓ अक्षाः  
+आ᳓ यो᳓निं व᳓न्यम् असदत् पुनानः᳓  
+स᳓म् इ᳓न्दुर् गो᳓भिर् असरत् स᳓म् अद्भिः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -279,7 +279,7 @@ _________
 
 Soma, pressed in a stream, driving like a steed, has streamed like a river  to the deep, as prizewinner.  
 He has sat in the wooden womb while being purified. The drop has  flowed together with the cows, with the waters.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/43-45.md">

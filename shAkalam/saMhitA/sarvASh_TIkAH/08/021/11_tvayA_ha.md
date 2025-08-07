@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्व꣡या ह स्विद् युजा꣡ वय꣡म्  
-प्र꣡ति श्वस꣡न्तं वृषभ ब्रुवीमहि  
-संस्थे꣡ ज꣡नस्य गो꣡मतः
+त्व᳓या ह स्विद् युजा᳓ वय᳓म्  
+प्र᳓ति श्वस᳓न्तं वृषभ ब्रुवीमहि  
+संस्थे᳓ ज᳓नस्य गो᳓मतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

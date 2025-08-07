@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवां꣡ स्तो꣡मा अवीवृधन्  
-तुवा꣡म् उक्था꣡ शतक्रतो  
-तुवां꣡ वर्धन्तु नो गि꣡रः
+तुवां᳓ स्तो᳓मा अवीवृधन्  
+तुवा᳓म् उक्था᳓ शतक्रतो  
+तुवां᳓ वर्धन्तु नो गि᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

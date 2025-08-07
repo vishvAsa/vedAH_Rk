@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡राशं꣡सं सुधृ꣡ष्टमम्  
-अ꣡पश्यं सप्र꣡थस्तमम्  
-दिवो꣡ न꣡ स꣡द्ममखसम्
+न᳓राशं᳓सं सुधृ᳓ष्टमम्  
+अ᳓पश्यं सप्र᳓थस्तमम्  
+दिवो᳓ न᳓ स᳓द्ममखसम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

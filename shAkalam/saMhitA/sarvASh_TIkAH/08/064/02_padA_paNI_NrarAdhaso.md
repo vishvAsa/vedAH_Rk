@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पदा꣡ पणीँ꣡र् अराध꣡सो  
-नि꣡ बाधस्व महाँ꣡ असि  
-नहि꣡ त्वा क꣡श् चन꣡ प्र꣡ति
+पदा᳓ पणीँ᳓र् अराध᳓सो  
+नि᳓ बाधस्व महाँ᳓ असि  
+नहि᳓ त्वा क᳓श् चन᳓ प्र᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

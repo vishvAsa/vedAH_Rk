@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गउ꣡र् धयति मरु꣡तां᳐  
-श्रवस्यु꣡र् माता꣡ मघो꣡नाम्  
-युक्ता꣡ व꣡ह्नी र꣡थाना᳐म्
+गउ᳓र् धयति मरु᳓तां᳐  
+श्रवस्यु᳓र् माता᳓ मघो᳓नाम्  
+युक्ता᳓ व᳓ह्नी र᳓थाना᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -156,7 +156,7 @@ The cow: cf. RV. 1.23.10; 2.34.2
 
 The cow herself takes suck, the fame-seeking mother of the bounteous  Maruts;  
 she is yoked as the draft-horse of their chariots,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/01-02.md">

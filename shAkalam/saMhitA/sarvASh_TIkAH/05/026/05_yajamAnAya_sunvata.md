@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡जमानाय सुन्वत꣡  
-आ꣡ग्ने सुवी꣡रियं वह  
-देवइ꣡र् आ꣡ सत्सि बर्हि꣡षि
+य᳓जमानाय सुन्वत᳓  
+आ᳓ग्ने सुवी᳓रियं वह  
+देवइ᳓र् आ᳓ सत्सि बर्हि᳓षि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

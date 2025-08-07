@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र स्थातर् हरीणां᳐  
-न꣡किष् टे पूर्विय꣡स्तुतिम्  
-उ꣡द् आनंश · श꣡वसा न꣡ भन्द꣡ना
+इ᳓न्द्र स्थातर् हरीणां᳐  
+न᳓किष् टे पूर्विय᳓स्तुतिम्  
+उ᳓द् आनंश · श᳓वसा न᳓ भन्द᳓ना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

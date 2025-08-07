@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡ इन्द्र प्रसु꣡वस् तुवा  
-आसा꣡ ग꣡र्भम् अ꣡चक्रिरन्  
-प꣡रि ध꣡र्मेव सू꣡रियम्
+या᳓ इन्द्र प्रसु᳓वस् तुवा  
+आसा᳓ ग᳓र्भम् अ᳓चक्रिरन्  
+प᳓रि ध᳓र्मेव सू᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

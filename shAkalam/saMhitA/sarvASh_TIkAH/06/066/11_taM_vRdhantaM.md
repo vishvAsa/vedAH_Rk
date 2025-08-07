@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ वृध꣡न्तम् मा꣡रुतम् भ्रा꣡जदृष्टिं  
-रुद्र꣡स्य सूनुं꣡ हव꣡सा꣡ विवासे  
-दिवः꣡ श꣡र्धाय शु꣡चयो मनीषा꣡  
-गिर꣡यो न꣡ आ꣡प उग्रा꣡ अस्पृध्रन्
+तं᳓ वृध᳓न्तम् मा᳓रुतम् भ्रा᳓जदृष्टिं  
+रुद्र᳓स्य सूनुं᳓ हव᳓सा᳓ विवासे  
+दिवः᳓ श᳓र्धाय शु᳓चयो मनीषा᳓  
+गिर᳓यो न᳓ आ᳓प उग्रा᳓ अस्पृध्रन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -243,7 +243,7 @@ Divaḥ = stotuḥ, of the praiser or worshipper;
 
 This Marut(-troop) grown strong, with flashing spears, the son(s) of  Rudra I seek to entice here with an invocation.  
 For (the favor of) the troop of heaven the gleaming inspired thoughts,  mighty like mountains or waters, have contended (with each other).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

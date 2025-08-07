@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡ षसाद धृत꣡व्रतो  
-व꣡रुणः पस्ति꣡यासु आ꣡  
-सा꣡म्राजियाय सुक्र꣡तुः
+नि᳓ षसाद धृत᳓व्रतो  
+व᳓रुणः पस्ति᳓यासु आ᳓  
+सा᳓म्राजियाय सुक्र᳓तुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

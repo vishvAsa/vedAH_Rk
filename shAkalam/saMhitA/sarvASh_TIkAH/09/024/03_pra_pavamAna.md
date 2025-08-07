@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ पवमान धन्वसि  
-सो꣡म इ꣡न्द्राय पा꣡तवे  
-नृ꣡भिर् यतो꣡ वि꣡ नीयसे
+प्र᳓ पवमान धन्वसि  
+सो᳓म इ᳓न्द्राय पा᳓तवे  
+नृ᳓भिर् यतो᳓ वि᳓ नीयसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -159,7 +159,7 @@ You proceed: added, 'from the wagon whence they are taken by the priests to the 
 
 You run forth, self-purifying Soma, for Indra to drink.  
 Held by men, you are led through (the filter).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/024/01-03.md">

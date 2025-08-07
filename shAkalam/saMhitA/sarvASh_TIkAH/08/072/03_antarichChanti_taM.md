@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अन्त꣡र् इछन्ति तं꣡ ज꣡ने  
-रुद्र꣡म् परो꣡ मनीष꣡या  
-गृभ्ण꣡न्ति जिह्व꣡या सस꣡म्
+अन्त᳓र् इछन्ति तं᳓ ज᳓ने  
+रुद्र᳓म् परो᳓ मनीष᳓या  
+गृभ्ण᳓न्ति जिह्व᳓या सस᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

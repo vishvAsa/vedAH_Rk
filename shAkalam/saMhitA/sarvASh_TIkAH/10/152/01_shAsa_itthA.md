@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-शास꣡ इत्था꣡ महाँ꣡ असि  
-अमित्रखादो꣡ अ꣡द्भुतः  
-न꣡ य꣡स्य हन्य꣡ते स꣡खा  
-न꣡ जी꣡यते क꣡दा चन꣡
+शास᳓ इत्था᳓ महाँ᳓ असि  
+अमित्रखादो᳓ अ᳓द्भुतः  
+न᳓ य᳓स्य हन्य᳓ते स᳓खा  
+न᳓ जी᳓यते क᳓दा चन᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

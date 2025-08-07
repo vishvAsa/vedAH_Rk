@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ घे꣡द् अग्ने सुआधि꣡यो  
-ये꣡ त्वा विप्र निदधिरे꣡ नृच꣡क्षसम्  
-वि꣡प्रासो देव सुक्र꣡तुम्
+ते᳓ घे᳓द् अग्ने सुआधि᳓यो  
+ये᳓ त्वा विप्र निदधिरे᳓ नृच᳓क्षसम्  
+वि᳓प्रासो देव सुक्र᳓तुम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

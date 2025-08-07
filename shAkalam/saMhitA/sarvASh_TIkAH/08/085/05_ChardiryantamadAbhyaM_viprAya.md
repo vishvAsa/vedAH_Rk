@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-छर्दि꣡र् यन्तम् अ꣡दाभियं  
-वि꣡प्राय स्तुवते꣡ नरा  
-म꣡ध्वः सो꣡मस्य पीत꣡ये
+छर्दि᳓र् यन्तम् अ᳓दाभियं  
+वि᳓प्राय स्तुवते᳓ नरा  
+म᳓ध्वः सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

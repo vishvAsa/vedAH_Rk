@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ घा स꣡ रथी꣡तमः  
-स꣡खिया स꣡त्पतिर् युजा꣡  
-इ꣡न्द्रो वृत्रा꣡णि जिघ्नते
+उत᳓ घा स᳓ रथी᳓तमः  
+स᳓खिया स᳓त्पतिर् युजा᳓  
+इ᳓न्द्रो वृत्रा᳓णि जिघ्नते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

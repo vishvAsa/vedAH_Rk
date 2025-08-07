@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अस्य धा꣡मनि प्रिये꣡  
-समीचीना꣡सो अ꣡स्वरन्  
-ना꣡भा यज्ञ꣡स्य दोह꣡ना प्र꣡ अध्वरे꣡
+य᳓द् अस्य धा᳓मनि प्रिये᳓  
+समीचीना᳓सो अ᳓स्वरन्  
+ना᳓भा यज्ञ᳓स्य दोह᳓ना प्र᳓ अध्वरे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

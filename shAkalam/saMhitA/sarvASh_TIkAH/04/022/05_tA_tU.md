@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ तू꣡ त इन्द्र महतो꣡ महा꣡नि  
-वि꣡श्वेषु इ꣡त् स꣡वनेषु प्रवा꣡च्या  
-य꣡च् छूर धृष्णो धृषता꣡ दधृष्वा꣡न्  
-अ꣡हिं व꣡ज्रेण श꣡वसा꣡विवेषीः
+ता᳓ तू᳓ त इन्द्र महतो᳓ महा᳓नि  
+वि᳓श्वेषु इ᳓त् स᳓वनेषु प्रवा᳓च्या  
+य᳓च् छूर धृष्णो धृषता᳓ दधृष्वा᳓न्  
+अ᳓हिं व᳓ज्रेण श᳓वसा᳓विवेषीः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -244,7 +244,7 @@ _________
 
 These great (deeds) of you, the great one, o Indra, are to be proclaimed  at all the pressings:  
 that, o daring champion, having dared with daring, you worked over the  serpent with your mace and strength.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/022/05-06.md">

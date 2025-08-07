@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ हो꣡त्रे पूर्वियं꣡ व꣡चो  
-अग्न꣡ये भरता बृह꣡त्  
-विपां꣡ ज्यो꣡तींषि बि꣡भ्रते न꣡ वेध꣡से
+प्र᳓ हो᳓त्रे पूर्वियं᳓ व᳓चो  
+अग्न᳓ये भरता बृह᳓त्  
+विपां᳓ ज्यो᳓तींषि बि᳓भ्रते न᳓ वेध᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>

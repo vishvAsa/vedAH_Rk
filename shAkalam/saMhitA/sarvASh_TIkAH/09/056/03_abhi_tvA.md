@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ त्वा यो꣡षणो द꣡श  
-जारं꣡ न꣡ कन्या᳡नूषत  
-मृज्य꣡से सोम सात꣡ये
+अभि᳓ त्वा यो᳓षणो द᳓श  
+जारं᳓ न᳓ कन्या᳡नूषत  
+मृज्य᳓से सोम सात᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

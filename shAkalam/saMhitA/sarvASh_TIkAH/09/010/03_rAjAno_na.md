@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-रा꣡जानो न꣡ प्र꣡शस्तिभिः  
-सो꣡मासो गो꣡भिर् अञ्जते  
-यज्ञो꣡ न꣡ सप्त꣡ धातृ꣡भिः
+रा᳓जानो न᳓ प्र᳓शस्तिभिः  
+सो᳓मासो गो᳓भिर् अञ्जते  
+यज्ञो᳓ न᳓ सप्त᳓ धातृ᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

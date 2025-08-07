@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अय꣡म् उ त्वा विचर्षणे  
-ज꣡नीर् इवाभि꣡ सं꣡वृतः  
-प्र꣡ सो꣡म इन्द्र सर्पतु
+अय᳓म् उ त्वा विचर्षणे  
+ज᳓नीर् इवाभि᳓ सं᳓वृतः  
+प्र᳓ सो᳓म इन्द्र सर्पतु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

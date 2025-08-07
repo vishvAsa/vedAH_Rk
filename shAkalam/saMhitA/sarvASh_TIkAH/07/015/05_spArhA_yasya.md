@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्पार्हा꣡ य꣡स्य श्रि꣡यो दृशे꣡  
-रयि꣡र् वीर꣡वतो यथा  
-अ꣡ग्रे यज्ञ꣡स्य शो꣡चतः
+स्पार्हा᳓ य᳓स्य श्रि᳓यो दृशे᳓  
+रयि᳓र् वीर᳓वतो यथा  
+अ᳓ग्रे यज्ञ᳓स्य शो᳓चतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡सृग्रम् इ꣡न्दवः पथा꣡  
-ध꣡र्मन्न् ऋत꣡स्य सुश्रि꣡यः  
-विदाना꣡ अस्य यो꣡जनम्
+अ᳓सृग्रम् इ᳓न्दवः पथा᳓  
+ध᳓र्मन्न् ऋत᳓स्य सुश्रि᳓यः  
+विदाना᳓ अस्य यो᳓जनम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

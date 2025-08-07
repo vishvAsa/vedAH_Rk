@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि स꣡प्तिर् न꣡ वाजयु꣡र्  
-देवो꣡ देवे꣡भियः सुतः꣡  
-विआनशिः꣡ प꣡वमानो वि꣡ धावति
+प᳓रि स᳓प्तिर् न᳓ वाजयु᳓र्  
+देवो᳓ देवे᳓भियः सुतः᳓  
+विआनशिः᳓ प᳓वमानो वि᳓ धावति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि णो अ꣡श्वम् अश्ववि꣡द्  
-गो꣡मद् इन्दो हि꣡रण्यवत्  
-क्ष꣡रा सहस्रि꣡णीर् इ꣡षः
+प᳓रि णो अ᳓श्वम् अश्ववि᳓द्  
+गो᳓मद् इन्दो हि᳓रण्यवत्  
+क्ष᳓रा सहस्रि᳓णीर् इ᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

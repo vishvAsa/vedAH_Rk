@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡पास्मै गायता नरः  
-प꣡वमानाय इ꣡न्दवे  
-अभि꣡ देवाँ꣡ इ꣡यक्षते
+उ᳓पास्मै गायता नरः  
+प᳓वमानाय इ᳓न्दवे  
+अभि᳓ देवाँ᳓ इ᳓यक्षते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡द्रौ चिद् अस्मा अन्त꣡र् दुरोणे꣡  
-विशां꣡ न꣡ वि꣡श्वो अमृ꣡तः स्वाधीः꣡
+अ᳓द्रौ चिद् अस्मा अन्त᳓र् दुरोणे᳓  
+विशां᳓ न᳓ वि᳓श्वो अमृ᳓तः स्वाधीः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

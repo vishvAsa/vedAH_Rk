@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ त्वा गीर्भि꣡र् महा꣡म् उरुं꣡  
-हुवे꣡ गा꣡म् इव भो꣡जसे  
-इ꣡न्द्र सो꣡मस्य पीत꣡ये
+आ᳓ त्वा गीर्भि᳓र् महा᳓म् उरुं᳓  
+हुवे᳓ गा᳓म् इव भो᳓जसे  
+इ᳓न्द्र सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

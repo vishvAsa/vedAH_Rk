@@ -15,10 +15,10 @@ ChandaH = "पदपङ्क्तिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धा हि꣡ अग्ने  
-क्र꣡तोर् भद्र꣡स्य  
-द꣡क्षस्य साधोः꣡  
-रथी꣡र् ऋत꣡स्य बृहतो꣡ बभू꣡थ
+अ᳓धा हि᳓ अग्ने  
+क्र᳓तोर् भद्र᳓स्य  
+द᳓क्षस्य साधोः᳓  
+रथी᳓र् ऋत᳓स्य बृहतो᳓ बभू᳓थ
 </details>
 
 <details><summary>Vedaweb annotation</summary>

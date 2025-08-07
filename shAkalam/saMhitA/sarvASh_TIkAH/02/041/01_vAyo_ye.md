@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वा꣡यो ये꣡ ते सहस्रि꣡णो  
-र꣡थासस् ते꣡भिर् आ꣡ गहि  
-नियु꣡त्वान् सो꣡मपीतये
+वा᳓यो ये᳓ ते सहस्रि᳓णो  
+र᳓थासस् ते᳓भिर् आ᳓ गहि  
+नियु᳓त्वान् सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -167,7 +167,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 O Vāyu, the chariots in thousands that are yours—with them come here, you with your teams, for soma-drinking.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/041/01-03.md">

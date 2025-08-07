@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ देवा अ꣡वहितं  
-दे꣡वा उ꣡न् नयथा पु꣡नः  
-उता꣡गश् चक्रु꣡षं देवा  
-दे꣡वा जीव꣡यथा पु꣡नः
+उत᳓ देवा अ᳓वहितं  
+दे᳓वा उ᳓न् नयथा पु᳓नः  
+उता᳓गश् चक्रु᳓षं देवा  
+दे᳓वा जीव᳓यथा पु᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

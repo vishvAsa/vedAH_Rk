@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नः सोम सं꣡ वीविजो  
-मा꣡ वि꣡ बीभिषथा राजन्  
-मा꣡ नो हा꣡र्दि त्विषा꣡ वधीः
+मा᳓ नः सोम सं᳓ वीविजो  
+मा᳓ वि᳓ बीभिषथा राजन्  
+मा᳓ नो हा᳓र्दि त्विषा᳓ वधीः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

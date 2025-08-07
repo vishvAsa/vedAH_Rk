@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-रा꣡त्री वि꣡ अख्यद् आयती꣡  
-पुरुत्रा꣡ देवी꣡ अक्ष꣡भिः  
-वि꣡श्वा अ꣡धि श्रि꣡यो ऽधित
+रा᳓त्री वि᳓ अख्यद् आयती᳓  
+पुरुत्रा᳓ देवी᳓ अक्ष᳓भिः  
+वि᳓श्वा अ᳓धि श्रि᳓यो ऽधित
 </details>
 
 <details><summary>Vedaweb annotation</summary>

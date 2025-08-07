@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ न आ꣡ वोळ्हम् अश्विना  
-रयि꣡म् पिश꣡ङ्गसंदृशम्  
-धि꣡ष्णिया वरिवोवि꣡दम्
+ता᳓ न आ᳓ वोळ्हम् अश्विना  
+रयि᳓म् पिश᳓ङ्गसंदृशम्  
+धि᳓ष्णिया वरिवोवि᳓दम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

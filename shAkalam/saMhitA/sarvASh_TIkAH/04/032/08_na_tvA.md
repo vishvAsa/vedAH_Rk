@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ त्वा वरन्ते अन्य꣡था  
-य꣡द् दि꣡त्ससि स्तुतो꣡ मघ꣡म्  
-स्तोतृ꣡भ्य इन्द्र गिर्वणः
+न᳓ त्वा वरन्ते अन्य᳓था  
+य᳓द् दि᳓त्ससि स्तुतो᳓ मघ᳓म्  
+स्तोतृ᳓भ्य इन्द्र गिर्वणः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

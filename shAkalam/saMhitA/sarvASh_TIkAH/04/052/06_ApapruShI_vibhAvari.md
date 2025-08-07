@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आपप्रु꣡षी विभावरि  
-वि꣡ आवर् ज्यो꣡तिषा त꣡मः  
-उ꣡षो अ꣡नु स्वधा꣡म् अव
+आपप्रु᳓षी विभावरि  
+वि᳓ आवर् ज्यो᳓तिषा त᳓मः  
+उ᳓षो अ᳓नु स्वधा᳓म् अव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

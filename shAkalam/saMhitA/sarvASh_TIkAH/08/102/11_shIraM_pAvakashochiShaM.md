@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शीर꣡म् पवाक꣡शोचिषं+  
-ज्य꣡यिष्ठो+ यो꣡ द꣡मेषु आ꣡  
-दीदा꣡य दीर्घश्रु꣡त्तमः
+शीर᳓म् पवाक᳓शोचिषं+  
+ज्य᳓यिष्ठो+ यो᳓ द᳓मेषु आ᳓  
+दीदा᳓य दीर्घश्रु᳓त्तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

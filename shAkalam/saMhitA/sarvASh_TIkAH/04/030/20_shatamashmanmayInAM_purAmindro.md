@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शत꣡म् अश्मन्म꣡यीना᳐म्  
-पुरा꣡म् इ꣡न्द्रो वि꣡ आसियत्  
-दि꣡वोदासाय दाशु꣡षे
+शत᳓म् अश्मन्म᳓यीना᳐म्  
+पुरा᳓म् इ᳓न्द्रो वि᳓ आसियत्  
+दि᳓वोदासाय दाशु᳓षे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -140,7 +140,7 @@ Stone-build cities: aśmanmayīnām purām, an apparent reference to the use of 
 
 Indra threw open the hundred fortresses made of stone  
 for the pious Divodāsa.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">

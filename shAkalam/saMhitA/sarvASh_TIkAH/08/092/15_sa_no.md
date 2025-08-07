@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो वृषन् स꣡निष्ठया  
-सं꣡ घोर꣡या द्रवित्नुवा꣡  
-धिया꣡विड्ढि पु꣡रंधिया
+स᳓ नो वृषन् स᳓निष्ठया  
+सं᳓ घोर᳓या द्रवित्नुवा᳓  
+धिया᳓विड्ढि पु᳓रंधिया
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अक्ष्ण꣡श् चिद् गातुवि꣡त्तर  
-अनुल्बणे꣡न च꣡क्षसा  
-नि꣡ चिन् मिष꣡न्ता निचिरा꣡ नि꣡ चिक्यतुः
+अक्ष्ण᳓श् चिद् गातुवि᳓त्तर  
+अनुल्बणे᳓न च᳓क्षसा  
+नि᳓ चिन् मिष᳓न्ता निचिरा᳓ नि᳓ चिक्यतुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -176,7 +176,7 @@ The ṛca is a referenceto **Mitra** and **Varuṇa** as respectively presiding 
 
 Better even than the eye at finding the way, by means of eyesight  without motes,  
 even when blinking, the two attentive ones remain attentive.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/08-09.md">

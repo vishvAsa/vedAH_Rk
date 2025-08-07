@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡त् ते बृह꣡न्तो अर्च꣡यः  
-समिधान꣡स्य दीदिवः  
-अ꣡ग्ने शुक्रा꣡स ईरते
+उ᳓त् ते बृह᳓न्तो अर्च᳓यः  
+समिधान᳓स्य दीदिवः  
+अ᳓ग्ने शुक्रा᳓स ईरते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

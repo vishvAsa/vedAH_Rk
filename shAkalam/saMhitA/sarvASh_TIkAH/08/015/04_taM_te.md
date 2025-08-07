@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ ते म꣡दं गृणीमसि  
-वृ꣡षणम् पृत्सु꣡ सासहि꣡म्  
-उलोककृत्नु꣡म्† अद्रिवो हरिश्रि꣡यम्
+तं᳓ ते म᳓दं गृणीमसि  
+वृ᳓षणम् पृत्सु᳓ सासहि᳓म्  
+उलोककृत्नु᳓म्† अद्रिवो हरिश्रि᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

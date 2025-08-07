@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-परो꣡मात्रम् ऋ꣡चीषमम्  
-इ꣡न्द्रम् उग्रं꣡ सुरा꣡धसम्  
-ई꣡शानं चिद् व꣡सूना᳐म्
+परो᳓मात्रम् ऋ᳓चीषमम्  
+इ᳓न्द्रम् उग्रं᳓ सुरा᳓धसम्  
+ई᳓शानं चिद् व᳓सूना᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुरुक्मे꣡ हि꣡ सुपे꣡शसा  
-अ꣡धि श्रिया꣡ विरा꣡जतः  
-उषा꣡साव् ए꣡ह꣡ सीदताम्
+सुरुक्मे᳓ हि᳓ सुपे᳓शसा  
+अ᳓धि श्रिया᳓ विरा᳓जतः  
+उषा᳓साव् ए᳓ह᳓ सीदताम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

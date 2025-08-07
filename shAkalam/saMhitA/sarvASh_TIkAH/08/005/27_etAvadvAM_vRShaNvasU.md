@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एता꣡वद् वां वृषण्वसू  
-अ꣡तो वा भू꣡यो अश्विना  
-गृण꣡न्तः सुम्न꣡म् ईमहे
+एता᳓वद् वां वृषण्वसू  
+अ᳓तो वा भू᳓यो अश्विना  
+गृण᳓न्तः सुम्न᳓म् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

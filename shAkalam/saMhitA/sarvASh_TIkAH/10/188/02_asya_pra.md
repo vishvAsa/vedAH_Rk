@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्य꣡ प्र꣡ जात꣡वेदसो  
-वि꣡प्रवीरस्य मीळ्हु꣡षः  
-मही꣡म् इयर्मि सुष्टुति꣡म्
+अस्य᳓ प्र᳓ जात᳓वेदसो  
+वि᳓प्रवीरस्य मीळ्हु᳓षः  
+मही᳓म् इयर्मि सुष्टुति᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

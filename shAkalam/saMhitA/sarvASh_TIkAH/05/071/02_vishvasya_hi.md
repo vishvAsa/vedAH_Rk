@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वस्य हि꣡ प्रचेतसा  
-व꣡रुण मि꣡त्र रा꣡जथः  
-ईशाना꣡ पिप्यतं धि꣡यः
+वि᳓श्वस्य हि᳓ प्रचेतसा  
+व᳓रुण मि᳓त्र रा᳓जथः  
+ईशाना᳓ पिप्यतं धि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

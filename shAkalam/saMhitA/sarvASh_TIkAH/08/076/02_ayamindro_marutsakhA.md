@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अय꣡म् इ꣡न्द्रो मरु꣡त्सखा  
-वि꣡ वृत्र꣡स्याभिनच् छि꣡रः  
-व꣡ज्रेण शत꣡पर्वणा
+अय᳓म् इ᳓न्द्रो मरु᳓त्सखा  
+वि᳓ वृत्र᳓स्याभिनच् छि᳓रः  
+व᳓ज्रेण शत᳓पर्वणा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

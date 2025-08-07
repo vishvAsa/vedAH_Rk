@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो अद्य꣡ व꣡सुत्तये  
-क्रतुवि꣡द् गातुवि꣡त्तमः  
-वा꣡जं जेषि श्र꣡वो बृह꣡त्
+स᳓ नो अद्य᳓ व᳓सुत्तये  
+क्रतुवि᳓द् गातुवि᳓त्तमः  
+वा᳓जं जेषि श्र᳓वो बृह᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

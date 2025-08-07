@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-शु꣡केषु मे हरिमा꣡णं  
-रोपणा꣡कासु दध्मसि  
-अ꣡थो हारिद्रवे꣡षु मे  
-हरिमा꣡णं नि꣡ दध्मसि
+शु᳓केषु मे हरिमा᳓णं  
+रोपणा᳓कासु दध्मसि  
+अ᳓थो हारिद्रवे᳓षु मे  
+हरिमा᳓णं नि᳓ दध्मसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

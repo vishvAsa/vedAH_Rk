@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् अजैषम् इमा꣡ अहं꣡  
-सप꣡त्नीर् अभिभू꣡वरी  
-य꣡थाह꣡म् अस्य꣡ वीर꣡स्य  
-विरा꣡जानि ज꣡नस्य च
+स᳓म् अजैषम् इमा᳓ अहं᳓  
+सप᳓त्नीर् अभिभू᳓वरी  
+य᳓थाह᳓म् अस्य᳓ वीर᳓स्य  
+विरा᳓जानि ज᳓नस्य च
 </details>
 
 <details><summary>Vedaweb annotation</summary>

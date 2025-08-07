@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡था न उभ꣡येषा᳐म्  
-अ꣡मृत म꣡र्तियाना᳐म्  
-मिथः꣡ सन्तु प्र꣡शस्तयः
+अ᳓था न उभ᳓येषा᳐म्  
+अ᳓मृत म᳓र्तियाना᳐म्  
+मिथः᳓ सन्तु प्र᳓शस्तयः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

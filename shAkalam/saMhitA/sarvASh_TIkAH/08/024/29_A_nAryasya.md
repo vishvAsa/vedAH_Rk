@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नारिय꣡स्य द꣡क्षिणा  
-वि꣡अश्वाँ एतु सोमि꣡नः  
-स्थूरं꣡ च रा꣡धः शत꣡वत् सह꣡स्रवत्
+आ᳓ नारिय᳓स्य द᳓क्षिणा  
+वि᳓अश्वाँ एतु सोमि᳓नः  
+स्थूरं᳓ च रा᳓धः शत᳓वत् सह᳓स्रवत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

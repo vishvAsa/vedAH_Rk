@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शृण्वे꣡ वृष्टे꣡र् इव स्वनः꣡  
-प꣡वमानस्य शुष्मि꣡णः  
-च꣡रन्ति विद्यु꣡तो दिवि꣡
+शृण्वे᳓ वृष्टे᳓र् इव स्वनः᳓  
+प᳓वमानस्य शुष्मि᳓णः  
+च᳓रन्ति विद्यु᳓तो दिवि᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

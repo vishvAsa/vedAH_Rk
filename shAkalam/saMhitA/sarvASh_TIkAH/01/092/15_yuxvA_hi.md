@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-युक्ष्वा꣡ हि꣡ वाजिनीवति  
-अ꣡श्वाँ अद्या꣡रुणाँ꣡ उषः  
-अ꣡था नो वि꣡श्वा सउ꣡भगानि आ꣡ वह
+युक्ष्वा᳓ हि᳓ वाजिनीवति  
+अ᳓श्वाँ अद्या᳓रुणाँ᳓ उषः  
+अ᳓था नो वि᳓श्वा सउ᳓भगानि आ᳓ वह
 </details>
 
 <details><summary>Vedaweb annotation</summary>

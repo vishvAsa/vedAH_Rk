@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमा꣡ अभि꣡ प्र꣡ णोनुमो  
-विपा꣡म् अ꣡ग्रेषु धीत꣡यः  
-अग्नेः꣡ शोचि꣡र् न꣡ दिद्यु꣡तः
+इमा᳓ अभि᳓ प्र᳓ णोनुमो  
+विपा᳓म् अ᳓ग्रेषु धीत᳓यः  
+अग्नेः᳓ शोचि᳓र् न᳓ दिद्यु᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

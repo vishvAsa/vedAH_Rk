@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡या नश् चित्र꣡ आ꣡ भुवद्  
-ऊती꣡ सदा꣡वृधः स꣡खा  
-क꣡या श꣡चिष्ठया वृता꣡
+क᳓या नश् चित्र᳓ आ᳓ भुवद्  
+ऊती᳓ सदा᳓वृधः स᳓खा  
+क᳓या श᳓चिष्ठया वृता᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

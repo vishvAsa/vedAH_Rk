@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡पो ह꣡रीणा᳐म् प꣡तिं  
-द꣡क्षम् पृञ्च꣡न्तम् अब्रवम्  
-नूनं꣡ श्रुधि स्तुवतो꣡ अश्विय꣡स्य
+उ᳓पो ह᳓रीणा᳐म् प᳓तिं  
+द᳓क्षम् पृञ्च᳓न्तम् अब्रवम्  
+नूनं᳓ श्रुधि स्तुवतो᳓ अश्विय᳓स्य
 </details>
 
 <details><summary>Vedaweb annotation</summary>

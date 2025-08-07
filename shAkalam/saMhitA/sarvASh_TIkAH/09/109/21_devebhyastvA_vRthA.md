@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-देवे꣡भियस् त्वा वृ꣡था पा꣡जसे  
-अपो꣡ व꣡सानं ह꣡रिम् मृजन्ति
+देवे᳓भियस् त्वा वृ᳓था पा᳓जसे  
+अपो᳓ व᳓सानं ह᳓रिम् मृजन्ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

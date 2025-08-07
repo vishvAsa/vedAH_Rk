@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रा꣡स्मा ऊ꣡र्जं घृतश्चु꣡तम्  
-अ꣡श्विना य꣡छतं युव꣡म्  
-यो꣡ वां सुम्ना꣡य तुष्ट꣡वद्  
-वसूया꣡द् दानुनस् पती
+प्रा᳓स्मा ऊ᳓र्जं घृतश्चु᳓तम्  
+अ᳓श्विना य᳓छतं युव᳓म्  
+यो᳓ वां सुम्ना᳓य तुष्ट᳓वद्  
+वसूया᳓द् दानुनस् पती
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -190,7 +190,7 @@ _________
 
 O Aśvins, offer nourishment dripping with ghee to him  
 who will praise you for your favor and will seek goods from you, o lords  of the drop.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/008/15-16.md">

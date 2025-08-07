@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नः पवाक+ दीदिवो  
-अ꣡ग्ने देवाँ꣡ इहा꣡ वह  
-उ꣡प यज्ञं꣡ हवि꣡श् च नः
+स᳓ नः पवाक+ दीदिवो  
+अ᳓ग्ने देवाँ᳓ इहा᳓ वह  
+उ᳓प यज्ञं᳓ हवि᳓श् च नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

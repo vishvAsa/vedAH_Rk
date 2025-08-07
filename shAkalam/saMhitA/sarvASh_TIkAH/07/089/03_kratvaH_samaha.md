@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क्र꣡त्वः समह दीन꣡ता  
-प्रतीपं꣡ जगमा शुचे  
-मॄळा꣡+ सुक्षत्र मॄळ꣡य
+क्र᳓त्वः समह दीन᳓ता  
+प्रतीपं᳓ जगमा शुचे  
+मॄळा᳓+ सुक्षत्र मॄळ᳓य
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡त् ते सहस्व ईमहे  
-दात्रं꣡ य꣡न् नो꣡पद꣡स्यति  
-त्व꣡द् अग्ने वा꣡रियं व꣡सु
+त᳓त् ते सहस्व ईमहे  
+दात्रं᳓ य᳓न् नो᳓पद᳓स्यति  
+त्व᳓द् अग्ने वा᳓रियं व᳓सु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

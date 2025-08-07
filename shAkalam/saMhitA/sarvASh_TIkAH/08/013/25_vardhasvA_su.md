@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-व꣡र्धस्वा सु꣡ पुरुष्टुत  
-ऋ꣡षिष्टुताभिर् ऊति꣡भिः  
-धुक्ष꣡स्व पिप्यु꣡षीम् इ꣡षम् अ꣡वा च नः
+व᳓र्धस्वा सु᳓ पुरुष्टुत  
+ऋ᳓षिष्टुताभिर् ऊति᳓भिः  
+धुक्ष᳓स्व पिप्यु᳓षीम् इ᳓षम् अ᳓वा च नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

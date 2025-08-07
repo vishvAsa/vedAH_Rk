@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-नू꣡ अन्य꣡त्रा चिद् अद्रिवस्  
-तुव꣡न् नो जग्मुर् आश꣡सः  
-म꣡घवञ् छग्धि꣡ त꣡व त꣡न् न ऊति꣡भिः
+नू᳓ अन्य᳓त्रा चिद् अद्रिवस्  
+तुव᳓न् नो जग्मुर् आश᳓सः  
+म᳓घवञ् छग्धि᳓ त᳓व त᳓न् न ऊति᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

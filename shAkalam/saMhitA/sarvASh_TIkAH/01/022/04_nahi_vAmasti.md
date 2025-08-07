@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नहि꣡ वाम् अ꣡स्ति दूरके꣡  
-य꣡त्रा र꣡थेन ग꣡छथः  
-अ꣡श्विना सोमि꣡नो गृह꣡म्
+नहि᳓ वाम् अ᳓स्ति दूरके᳓  
+य᳓त्रा र᳓थेन ग᳓छथः  
+अ᳓श्विना सोमि᳓नो गृह᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

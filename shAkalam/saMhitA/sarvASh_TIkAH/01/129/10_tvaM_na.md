@@ -15,13 +15,13 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ न इन्द्र रा᳐या꣡ त꣡रूषसा  
-उग्रं꣡ चित् त्वा महिमा꣡ सक्षद् अ꣡वसे  
-महे꣡ मित्रं꣡ न꣡ अ꣡वसे  
-ओ꣡जिष्ठ त्रा꣡तर् अ꣡विता  
-र꣡थं कं꣡ चिद् अमर्तिय  
-अन्य꣡म् अस्म꣡द् रिरिषेः कं꣡ चिद् अद्रिवो  
-रि꣡रिक्षन्तं चिद् अद्रिवः
+तुवं᳓ न इन्द्र रा᳐या᳓ त᳓रूषसा  
+उग्रं᳓ चित् त्वा महिमा᳓ सक्षद् अ᳓वसे  
+महे᳓ मित्रं᳓ न᳓ अ᳓वसे  
+ओ᳓जिष्ठ त्रा᳓तर् अ᳓विता  
+र᳓थं कं᳓ चिद् अमर्तिय  
+अन्य᳓म् अस्म᳓द् रिरिषेः कं᳓ चिद् अद्रिवो  
+रि᳓रिक्षन्तं चिद् अद्रिवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -362,7 +362,7 @@ immortal one.
 Another one than us—any one—should you harm, o possessor of  
 the stone—(anyone) who (himself) intends harm, o possessor of  
 the stone.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/129/09-10.md">

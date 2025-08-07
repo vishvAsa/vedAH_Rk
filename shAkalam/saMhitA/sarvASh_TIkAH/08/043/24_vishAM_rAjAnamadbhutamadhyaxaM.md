@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-विशां꣡ रा꣡जानम् अ꣡द्भुतम्  
-अ꣡ध्यक्षं ध꣡र्मणाम् इम꣡म्  
-अग्नि꣡म् ईळे स꣡ उ श्रवत्
+विशां᳓ रा᳓जानम् अ᳓द्भुतम्  
+अ᳓ध्यक्षं ध᳓र्मणाम् इम᳓म्  
+अग्नि᳓म् ईळे स᳓ उ श्रवत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

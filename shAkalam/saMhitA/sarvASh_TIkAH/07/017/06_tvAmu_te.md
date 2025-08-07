@@ -15,8 +15,8 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवा꣡म् उ ते꣡ दधिरे हव्यवा꣡हं  
-देवा꣡सो अग्न ऊर्ज꣡ आ꣡ न꣡पातम्
+तुवा᳓म् उ ते᳓ दधिरे हव्यवा᳓हं  
+देवा᳓सो अग्न ऊर्ज᳓ आ᳓ न᳓पातम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

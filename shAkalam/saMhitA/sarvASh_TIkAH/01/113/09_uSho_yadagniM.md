@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡षो य꣡द् अग्निं꣡ समि꣡धे चक꣡र्थ  
-वि꣡ य꣡द् आ꣡वश् च꣡क्षसा सू꣡रियस्य  
-य꣡न् मा꣡नुषान् यक्ष्य꣡माणाँ अ꣡जीगस्  
-त꣡द् देवे꣡षु चकृषे भद्र꣡म् अ꣡प्नः
+उ᳓षो य᳓द् अग्निं᳓ समि᳓धे चक᳓र्थ  
+वि᳓ य᳓द् आ᳓वश् च᳓क्षसा सू᳓रियस्य  
+य᳓न् मा᳓नुषान् यक्ष्य᳓माणाँ अ᳓जीगस्  
+त᳓द् देवे᳓षु चकृषे भद्र᳓म् अ᳓प्नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -256,7 +256,7 @@ _________
 
 Dawn, since you have caused the fire to be kindled, since you have  shone forth with the eye of the sun,  
 since you have awakened the sons of Manu who are about to sacrifice,  so you have made for yourself good profit among the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">

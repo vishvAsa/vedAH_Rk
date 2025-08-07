@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ तु꣡ अशत्रव् आ꣡ गहि  
-नि꣡ उक्था꣡नि च हूयसे  
-उपमे꣡ रोचने꣡ दिवः꣡
+आ᳓ तु᳓ अशत्रव् आ᳓ गहि  
+नि᳓ उक्था᳓नि च हूयसे  
+उपमे᳓ रोचने᳓ दिवः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

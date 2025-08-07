@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ यं꣡ ह꣡स्ते न꣡ खादि꣡नं  
-शि꣡शुं जातं꣡ न꣡ बि꣡भ्रति  
-विशा꣡म् अग्निं꣡ सुअध्वर꣡म्
+आ᳓ यं᳓ ह᳓स्ते न᳓ खादि᳓नं  
+शि᳓शुं जातं᳓ न᳓ बि᳓भ्रति  
+विशा᳓म् अग्निं᳓ सुअध्वर᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

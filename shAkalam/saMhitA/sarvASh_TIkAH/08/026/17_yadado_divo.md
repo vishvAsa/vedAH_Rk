@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अदो꣡ दिवो꣡ अर्णव꣡  
-इषो꣡ वा म꣡दथो गृहे꣡  
-श्रुत꣡म् इ꣡न् मे अमर्तिया
+य᳓द् अदो᳓ दिवो᳓ अर्णव᳓  
+इषो᳓ वा म᳓दथो गृहे᳓  
+श्रुत᳓म् इ᳓न् मे अमर्तिया
 </details>
 
 <details><summary>Vedaweb annotation</summary>

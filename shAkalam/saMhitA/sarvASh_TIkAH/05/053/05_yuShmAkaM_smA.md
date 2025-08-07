@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-युष्मा꣡कं स्मा र꣡थाँ अ꣡नु  
-मुदे꣡ दधे मरुतो जीरदानवः  
-वृष्टी꣡ द्या꣡वो यती꣡र् इव
+युष्मा᳓कं स्मा र᳓थाँ अ᳓नु  
+मुदे᳓ दधे मरुतो जीरदानवः  
+वृष्टी᳓ द्या᳓वो यती᳓र् इव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

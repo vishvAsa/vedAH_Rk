@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इषे꣡ पवस्व धा꣡रया  
-मृज्य꣡मानो मनीषि꣡भिः  
-इ꣡न्दो रुचा꣡भि꣡ गा꣡ इहि
+इषे᳓ पवस्व धा᳓रया  
+मृज्य᳓मानो मनीषि᳓भिः  
+इ᳓न्दो रुचा᳓भि᳓ गा᳓ इहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -160,7 +160,7 @@ Ruc = food
 
 For refreshment purify yourself in a stream, being groomed by the  inspired ones.  
 O drop, with your light come toward the cows.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/13-15.md">

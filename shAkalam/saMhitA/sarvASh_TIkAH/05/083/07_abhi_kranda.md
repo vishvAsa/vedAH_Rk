@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ क्रन्द स्तन꣡य ग꣡र्भम् आ꣡ धा  
-उदन्व꣡ता प꣡रि दीया र꣡थेन  
-दृ꣡तिं सु꣡ कर्ष वि꣡षितं नि꣡अञ्चं  
-समा꣡ भवन्तु उद्व꣡तो निपादाः꣡
+अभि᳓ क्रन्द स्तन᳓य ग᳓र्भम् आ᳓ धा  
+उदन्व᳓ता प᳓रि दीया र᳓थेन  
+दृ᳓तिं सु᳓ कर्ष वि᳓षितं नि᳓अञ्चं  
+समा᳓ भवन्तु उद्व᳓तो निपादाः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -241,7 +241,7 @@ _________
 Roar! Thunder! Set an embryo! Fly around with your water-bearing  chariot.  
 Drag the water-skin unleashed, facing downward. Let uplands and  
 lowlands become alike.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/083/07-08.md">

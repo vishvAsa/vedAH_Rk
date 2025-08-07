@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ ते द꣡क्षम् मयोभु꣡वं  
-व꣡ह्निम् अद्या꣡ वृणीमहे  
-पा᳐꣡न्तम् आ꣡ पुरुस्पृ꣡हम्
+आ᳓ ते द᳓क्षम् मयोभु᳓वं  
+व᳓ह्निम् अद्या᳓ वृणीमहे  
+पा᳐᳓न्तम् आ᳓ पुरुस्पृ᳓हम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -153,7 +153,7 @@ _________
 
 Here your skill, which is joy itself, we choose today, here (you as)  draft-animal,  
 here the much coveted drink,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/28-30.md">

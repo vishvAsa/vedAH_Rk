@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उतो꣡ प꣡तिर् य꣡ उच्य꣡ते  
-कृष्टीना꣡म् ए꣡क इ꣡द् वशी꣡  
-नमोवृधइ꣡र् अवस्यु꣡भिः सुते꣡ रण
+उतो᳓ प᳓तिर् य᳓ उच्य᳓ते  
+कृष्टीना᳓म् ए᳓क इ᳓द् वशी᳓  
+नमोवृधइ᳓र् अवस्यु᳓भिः सुते᳓ रण
 </details>
 
 <details><summary>Vedaweb annotation</summary>

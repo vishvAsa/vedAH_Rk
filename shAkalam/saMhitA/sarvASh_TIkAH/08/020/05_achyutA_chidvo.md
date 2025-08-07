@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡च्युता चिद् वो अ꣡ज्मन् आ꣡  
-ना꣡नदति प꣡र्वतासो व꣡नस्प꣡तिः  
-भू꣡मिर् या꣡मेषु रेजते
+अ᳓च्युता चिद् वो अ᳓ज्मन् आ᳓  
+ना᳓नदति प᳓र्वतासो व᳓नस्प᳓तिः  
+भू᳓मिर् या᳓मेषु रेजते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

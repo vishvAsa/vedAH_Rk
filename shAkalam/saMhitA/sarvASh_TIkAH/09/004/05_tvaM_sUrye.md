@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्वं꣡ सू꣡रिये न आ꣡ भज  
-त꣡व क्र꣡त्वा त꣡वोति꣡भिः  
-अ꣡था नो व꣡स्यसस् कृधि
+त्वं᳓ सू᳓रिये न आ᳓ भज  
+त᳓व क्र᳓त्वा त᳓वोति᳓भिः  
+अ᳓था नो व᳓स्यसस् कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -189,7 +189,7 @@ _________
 
 Give us a share in the sun through your resolve and your help.  
 – Then make us better off.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/004/05-06.md">

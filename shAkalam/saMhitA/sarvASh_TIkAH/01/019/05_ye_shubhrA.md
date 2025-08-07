@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ शुभ्रा꣡ घोर꣡वर्पसः  
-सुक्षत्रा꣡सो रिशा꣡दसः  
-मरु꣡द्भिर् अग्न आ꣡ गहि
+ये᳓ शुभ्रा᳓ घोर᳓वर्पसः  
+सुक्षत्रा᳓सो रिशा᳓दसः  
+मरु᳓द्भिर् अग्न आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

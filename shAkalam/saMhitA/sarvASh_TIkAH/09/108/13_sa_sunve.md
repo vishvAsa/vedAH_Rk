@@ -15,9 +15,9 @@ ChandaH = "गायत्री यवमध्या"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ सुन्वे यो꣡ व꣡सूनां᳐  
-यो꣡ राया꣡म् आनयिता꣡+ य꣡ इ꣡ळाना᳐म्  
-सो꣡मो यः꣡ सुक्षितीना᳐꣡म्
+स᳓ सुन्वे यो᳓ व᳓सूनां᳐  
+यो᳓ राया᳓म् आनयिता᳓+ य᳓ इ᳓ळाना᳐म्  
+सो᳓मो यः᳓ सुक्षितीना᳐᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -177,7 +177,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 He is pressed—who is the leader of goods, of riches, of Iḍā-offerings, Soma, who (is the leader) of good settlements,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/13-14.md">

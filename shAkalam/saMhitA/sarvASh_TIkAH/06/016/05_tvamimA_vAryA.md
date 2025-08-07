@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्व꣡म् इमा꣡ वा꣡रिया पुरु꣡  
-दि꣡वोदासाय सुन्वते꣡  
-भर꣡द्वाजाय दाशु꣡षे
+त्व᳓म् इमा᳓ वा᳓रिया पुरु᳓  
+दि᳓वोदासाय सुन्वते᳓  
+भर᳓द्वाजाय दाशु᳓षे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,13 +15,13 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ वां धि꣡यो ववृत्युर् अध्वराँ꣡ उ꣡प  
-इम꣡म् इ꣡न्दुम् · मर्मृजन्त वाजि꣡नम्  
-आशु꣡म् अ꣡त्यं न꣡ वाजि꣡नम्  
-ते꣡षाम् पिबतम् अस्मयू꣡  
-आ꣡ नो गन्तम् इहो꣡तिया꣡  
-इ꣡न्द्रवायू सुता꣡नाम् अ꣡द्रिभिर् युव꣡म्  
-म꣡दाय वाजदा युव꣡म्
+आ᳓ वां धि᳓यो ववृत्युर् अध्वराँ᳓ उ᳓प  
+इम᳓म् इ᳓न्दुम् · मर्मृजन्त वाजि᳓नम्  
+आशु᳓म् अ᳓त्यं न᳓ वाजि᳓नम्  
+ते᳓षाम् पिबतम् अस्मयू᳓  
+आ᳓ नो गन्तम् इहो᳓तिया᳓  
+इ᳓न्द्रवायू सुता᳓नाम् अ᳓द्रिभिर् युव᳓म्  
+म᳓दाय वाजदा युव᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -362,7 +362,7 @@ As the grooms rub down: the intended verb is: marmṛjanta, have strained or cle
 Our thoughts should turn you two hither to our ceremonies; they  keep grooming this drop, the prizewinner—(the drop) swift like a  
 prizewinning steed.  
 Drink of these (soma drinks), seeking us; come here to us with help. O Indra and Vāyu, (drink) of them, pressed by stones, you two—(drink)  to exhilaration, you two prize-givers.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/04-06.md">

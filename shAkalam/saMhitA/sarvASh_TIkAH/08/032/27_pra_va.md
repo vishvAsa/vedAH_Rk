@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ व उग्रा꣡य निष्टु꣡रे  
-अ꣡षाळ्हाय प्रसक्षि꣡णे  
-देव꣡त्तम् ब्र꣡ह्म गायत
+प्र᳓ व उग्रा᳓य निष्टु᳓रे  
+अ᳓षाळ्हाय प्रसक्षि᳓णे  
+देव᳓त्तम् ब्र᳓ह्म गायत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ हि꣡ विश्वतोमुख  
-विश्व꣡तः परिभू꣡र् अ꣡सि  
-अ꣡प नः शो꣡शुचद् अघ꣡म्
+तुवं᳓ हि᳓ विश्वतोमुख  
+विश्व᳓तः परिभू᳓र् अ᳓सि  
+अ᳓प नः शो᳓शुचद् अघ᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

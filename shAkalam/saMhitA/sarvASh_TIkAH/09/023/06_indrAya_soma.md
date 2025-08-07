@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राय सोम पवसे  
-देवे꣡भ्यः सधमा꣡दियः  
-इ꣡न्दो वा꣡जं सिषाससि
+इ᳓न्द्राय सोम पवसे  
+देवे᳓भ्यः सधमा᳓दियः  
+इ᳓न्दो वा᳓जं सिषाससि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

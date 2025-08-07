@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभिआ꣡रम् इ꣡द् अ꣡द्रयो  
-नि꣡षिक्तम् पु꣡ष्करे म꣡धु  
-अवत꣡स्य विस꣡र्जने
+अभिआ᳓रम् इ᳓द् अ᳓द्रयो  
+नि᳓षिक्तम् पु᳓ष्करे म᳓धु  
+अवत᳓स्य विस᳓र्जने
 </details>
 
 <details><summary>Vedaweb annotation</summary>

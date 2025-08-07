@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-युक्ष्वा꣡ हि꣡ अ꣡रुषी र꣡थे  
-हरि꣡तो देव रोहि꣡तः  
-ता꣡भिर् देवाँ꣡ इहा꣡ वह
+युक्ष्वा᳓ हि᳓ अ᳓रुषी र᳓थे  
+हरि᳓तो देव रोहि᳓तः  
+ता᳓भिर् देवाँ᳓ इहा᳓ वह
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ति नः सश्च꣡तो नय  
-सुगा꣡ नः सुप꣡था कृणु  
-पू꣡षन्न् इह꣡ क्र꣡तुं विदः
+अ᳓ति नः सश्च᳓तो नय  
+सुगा᳓ नः सुप᳓था कृणु  
+पू᳓षन्न् इह᳓ क्र᳓तुं विदः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

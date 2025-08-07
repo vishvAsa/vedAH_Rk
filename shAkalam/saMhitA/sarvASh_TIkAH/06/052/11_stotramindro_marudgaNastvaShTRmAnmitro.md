@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्तोत्र꣡म् इ꣡न्द्रो मरु꣡द्गणस्  
-त्व꣡ष्टृमान् मित्रो꣡ अर्यमा꣡  
-इमा꣡ हव्या꣡ जुषन्त नः
+स्तोत्र᳓म् इ᳓न्द्रो मरु᳓द्गणस्  
+त्व᳓ष्टृमान् मित्रो᳓ अर्यमा᳓  
+इमा᳓ हव्या᳓ जुषन्त नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

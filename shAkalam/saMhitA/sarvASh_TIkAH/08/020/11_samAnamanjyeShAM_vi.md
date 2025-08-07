@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-समान꣡म् अञ्जि꣡ एषां᳐  
-वि꣡ भ्राजन्ते रुक्मा꣡सो अ꣡धि बाहु꣡षु  
-द꣡विद्युतति ऋष्ट꣡यः
+समान᳓म् अञ्जि᳓ एषां᳐  
+वि᳓ भ्राजन्ते रुक्मा᳓सो अ᳓धि बाहु᳓षु  
+द᳓विद्युतति ऋष्ट᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ च सोम नो व꣡शो  
-जीवा꣡तुं न꣡ मरामहे  
-प्रिय꣡स्तोत्रो व꣡नस्प꣡तिः
+तुवं᳓ च सोम नो व᳓शो  
+जीवा᳓तुं न᳓ मरामहे  
+प्रिय᳓स्तोत्रो व᳓नस्प᳓तिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

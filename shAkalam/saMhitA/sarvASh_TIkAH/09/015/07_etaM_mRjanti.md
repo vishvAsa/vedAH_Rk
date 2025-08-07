@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एत꣡म् मृजन्ति म꣡र्जियम्  
-उ꣡प द्रो꣡णेषु आय꣡वः  
-प्रचक्राण꣡म् मही꣡र् इ꣡षः
+एत᳓म् मृजन्ति म᳓र्जियम्  
+उ᳓प द्रो᳓णेषु आय᳓वः  
+प्रचक्राण᳓म् मही᳓र् इ᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

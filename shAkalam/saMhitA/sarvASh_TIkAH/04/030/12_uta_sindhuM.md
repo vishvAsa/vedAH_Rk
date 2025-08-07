@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ सि꣡न्धुं विबालि꣡यं  
-वितस्थाना꣡म् अ꣡धि क्ष꣡मि  
-प꣡रि ष्ठा इन्द्र माय꣡या
+उत᳓ सि᳓न्धुं विबालि᳓यं  
+वितस्थाना᳓म् अ᳓धि क्ष᳓मि  
+प᳓रि ष्ठा इन्द्र माय᳓या
 </details>
 
 <details><summary>Vedaweb annotation</summary>

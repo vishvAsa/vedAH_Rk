@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡गोरुधाय गवि꣡षे  
-द्युक्षा꣡य द꣡स्मियं व꣡चः  
-घृता꣡त् स्वा꣡दीयो म꣡धुनश् च वोचत
+अ᳓गोरुधाय गवि᳓षे  
+द्युक्षा᳓य द᳓स्मियं व᳓चः  
+घृता᳓त् स्वा᳓दीयो म᳓धुनश् च वोचत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

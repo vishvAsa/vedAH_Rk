@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-शतं꣡ वो अम्ब धा꣡मानि  
-सह꣡स्रम् उत꣡ वो रु꣡हः  
-अ꣡धा शतक्रत्वो यूय꣡म्  
-इम꣡म् मे अगदं꣡ कृत
+शतं᳓ वो अम्ब धा᳓मानि  
+सह᳓स्रम् उत᳓ वो रु᳓हः  
+अ᳓धा शतक्रत्वो यूय᳓म्  
+इम᳓म् मे अगदं᳓ कृत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

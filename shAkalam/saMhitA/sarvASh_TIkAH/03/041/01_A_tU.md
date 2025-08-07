@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ तू꣡ न इन्द्र मद्रि꣡अग्  
-घुवानः꣡ सो꣡मपीतये  
-ह꣡रिभ्यां याहि अद्रिवः
+आ᳓ तू᳓ न इन्द्र मद्रि᳓अग्  
+घुवानः᳓ सो᳓मपीतये  
+ह᳓रिभ्यां याहि अद्रिवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

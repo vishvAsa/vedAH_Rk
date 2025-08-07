@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ इन्द्र सानसिं꣡ रयिं꣡  
-सजि꣡त्वानं सदास꣡हम्  
-व꣡र्षिष्ठम् ऊत꣡ये भर
+आ᳓ इन्द्र सानसिं᳓ रयिं᳓  
+सजि᳓त्वानं सदास᳓हम्  
+व᳓र्षिष्ठम् ऊत᳓ये भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>

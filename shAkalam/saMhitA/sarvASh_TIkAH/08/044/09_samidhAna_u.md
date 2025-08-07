@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-समिधान꣡ उ सन्तिय  
-शु꣡क्रशोच इहा꣡ वह  
-चिकित्वा꣡न् दइ꣡वियं ज꣡नम्
+समिधान᳓ उ सन्तिय  
+शु᳓क्रशोच इहा᳓ वह  
+चिकित्वा᳓न् दइ᳓वियं ज᳓नम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

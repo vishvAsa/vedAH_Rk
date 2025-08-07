@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡खाय आ꣡ नि꣡ षीदत  
-सविता꣡ स्तो꣡मियो नु꣡ नः  
-दा꣡ता रा꣡धांसि शुम्भति
+स᳓खाय आ᳓ नि᳓ षीदत  
+सविता᳓ स्तो᳓मियो नु᳓ नः  
+दा᳓ता रा᳓धांसि शुम्भति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

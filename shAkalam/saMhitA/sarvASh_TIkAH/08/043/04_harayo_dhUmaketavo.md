@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ह꣡रयो धूम꣡केतवो  
-वा꣡तजूता उ꣡प द्य꣡वि  
-य꣡तन्ते वृ꣡थग् अग्न꣡यः
+ह᳓रयो धूम᳓केतवो  
+वा᳓तजूता उ᳓प द्य᳓वि  
+य᳓तन्ते वृ᳓थग् अग्न᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -150,7 +150,7 @@ _________
 
 The fallow bays with smoke as their beacon, sped by the wind up  toward heaven,  
 take up opposing positions—the fires.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/043/04-05.md">

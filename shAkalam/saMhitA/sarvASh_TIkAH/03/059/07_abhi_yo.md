@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ यो꣡ महिना꣡ दि꣡वम्  
-मित्रो꣡ बभू꣡व सप्र꣡थाः  
-अभि꣡ श्र꣡वोभिः पृथिवी꣡म्
+अभि᳓ यो᳓ महिना᳓ दि᳓वम्  
+मित्रो᳓ बभू᳓व सप्र᳓थाः  
+अभि᳓ श्र᳓वोभिः पृथिवी᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

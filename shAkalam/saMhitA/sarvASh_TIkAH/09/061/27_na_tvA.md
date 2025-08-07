@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ त्वा शतं꣡ चन꣡ ह्रु꣡तो  
-रा꣡धो दि꣡त्सन्तम् आ꣡ मिनन्  
-य꣡त् पुनानो꣡ मखस्य꣡से
+न᳓ त्वा शतं᳓ चन᳓ ह्रु᳓तो  
+रा᳓धो दि᳓त्सन्तम् आ᳓ मिनन्  
+य᳓त् पुनानो᳓ मखस्य᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>

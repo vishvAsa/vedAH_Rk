@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ त्वा न꣡रः पुरुत्रा꣡ सपर्यन्  
-पितु꣡र् न꣡ जि꣡व्रेर् वि꣡ वे꣡दो भरन्त
+वि᳓ त्वा न᳓रः पुरुत्रा᳓ सपर्यन्  
+पितु᳓र् न᳓ जि᳓व्रेर् वि᳓ वे᳓दो भरन्त
 </details>
 
 <details><summary>Vedaweb annotation</summary>

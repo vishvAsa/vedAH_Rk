@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ वाजी꣡ हितो꣡ नृ꣡भिर्  
-विश्ववि꣡न् म꣡नसस् प꣡तिः  
-अ꣡व्यो वा꣡रं वि꣡ धावति
+एष᳓ वाजी᳓ हितो᳓ नृ᳓भिर्  
+विश्ववि᳓न् म᳓नसस् प᳓तिः  
+अ᳓व्यो वा᳓रं वि᳓ धावति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-महो꣡ नो राय꣡ आ꣡ भर  
-प꣡वमान जही꣡ मृ꣡धः  
-रा꣡स्वेन्दो वीर꣡वद् य꣡शः
+महो᳓ नो राय᳓ आ᳓ भर  
+प᳓वमान जही᳓ मृ᳓धः  
+रा᳓स्वेन्दो वीर᳓वद् य᳓शः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -173,7 +173,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Bring great wealth here to us, self-purifying one; smash the scorners. Give glory in heroes, o drop.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/25-27.md">

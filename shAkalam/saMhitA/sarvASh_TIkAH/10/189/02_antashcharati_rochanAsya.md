@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अन्त꣡श् चरति रोचना꣡  
-अस्य꣡ प्राणा꣡द् अपानती꣡  
-वि꣡ अख्यन् महिषो꣡ दि꣡वम्
+अन्त᳓श् चरति रोचना᳓  
+अस्य᳓ प्राणा᳓द् अपानती᳓  
+वि᳓ अख्यन् महिषो᳓ दि᳓वम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡वीन् नो अग्नि꣡र् हव्या꣡न् न꣡मोभिः  
-प्र꣡यिष्ठो+ अस्मा अधायि स्तो꣡मः
+अ᳓वीन् नो अग्नि᳓र् हव्या᳓न् न᳓मोभिः  
+प्र᳓यिष्ठो+ अस्मा अधायि स्तो᳓मः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

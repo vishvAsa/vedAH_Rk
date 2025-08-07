@@ -15,10 +15,10 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-मृजानो꣡ वा꣡रे प꣡वमानो अव्य꣡ये  
-वृ꣡षा꣡व चक्रदो व꣡ने  
-देवा꣡नां सोम पवमान निष्कृतं꣡  
-गो꣡भिर् अञ्जानो꣡ अर्षसि
+मृजानो᳓ वा᳓रे प᳓वमानो अव्य᳓ये  
+वृ᳓षा᳓व चक्रदो व᳓ने  
+देवा᳓नां सोम पवमान निष्कृतं᳓  
+गो᳓भिर् अञ्जानो᳓ अर्षसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -201,7 +201,7 @@ _________
 
 Being groomed, purifying yourself on the sheep’s fleece, as bull you  have roared down into the wood(en cup).  
 O self-purifying Soma, you rush to the rendezvous with the gods, being  anointed with cows.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/21-22.md">

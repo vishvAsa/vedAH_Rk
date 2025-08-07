@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्येक्ष्वाकु꣡र् उ꣡प व्रते꣡  
-रेवा꣡न् मरायि ए꣡धते  
-दिवी꣡व प꣡ञ्च कृष्ट꣡यः
+य᳓स्येक्ष्वाकु᳓र् उ᳓प व्रते᳓  
+रेवा᳓न् मरायि ए᳓धते  
+दिवी᳓व प᳓ञ्च कृष्ट᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

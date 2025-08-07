@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡छा समुद्र꣡म् इ꣡न्दवो  
-अ꣡स्तं गा꣡वो न꣡ धेन꣡वः  
-अ꣡ग्मन्न् ऋत꣡स्य यो꣡निम् आ꣡
+अ᳓छा समुद्र᳓म् इ᳓न्दवो  
+अ᳓स्तं गा᳓वो न᳓ धेन᳓वः  
+अ᳓ग्मन्न् ऋत᳓स्य यो᳓निम् आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -172,7 +172,7 @@ To the ocean: the wooden vessel in which the Soma is collected
 <details><summary>Jamison Brereton</summary>
 
 Toward the sea have the drops gone, like milk-cows toward home, to the womb of truth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/10-12.md">

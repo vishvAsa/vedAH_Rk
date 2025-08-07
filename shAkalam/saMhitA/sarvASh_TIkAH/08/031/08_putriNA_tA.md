@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुत्रि꣡णा ता꣡ कुमारि꣡णा  
-वि꣡श्वम् आ꣡युर् वि꣡ अश्नुतः  
-उभा꣡ हि꣡रण्यपेशसा
+पुत्रि᳓णा ता᳓ कुमारि᳓णा  
+वि᳓श्वम् आ᳓युर् वि᳓ अश्नुतः  
+उभा᳓ हि᳓रण्यपेशसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

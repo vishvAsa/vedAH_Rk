@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ युष्मे꣡ वाजबन्धवो  
-निनित्सु꣡श् चन꣡ म꣡र्तियः  
-अवद्य꣡म् अ꣡धि दीधरत्
+न᳓ युष्मे᳓ वाजबन्धवो  
+निनित्सु᳓श् चन᳓ म᳓र्तियः  
+अवद्य᳓म् अ᳓धि दीधरत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

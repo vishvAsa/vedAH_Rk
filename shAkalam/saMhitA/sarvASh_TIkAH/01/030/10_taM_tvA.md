@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा वयं꣡ विश्ववार  
-आ꣡ शास्महे पुरुहूत  
-स꣡खे वसो जरितृ꣡भ्यः
+तं᳓ त्वा वयं᳓ विश्ववार  
+आ᳓ शास्महे पुरुहूत  
+स᳓खे वसो जरितृ᳓भ्यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡व द्यउ꣡र् इन्द्र पउं꣡सियम्  
-पृथिवी꣡ वर्धति श्र꣡वः  
-तुवा꣡म् आ꣡पः प꣡र्वतासश् च हिन्विरे
+त᳓व द्यउ᳓र् इन्द्र पउं᳓सियम्  
+पृथिवी᳓ वर्धति श्र᳓वः  
+तुवा᳓म् आ᳓पः प᳓र्वतासश् च हिन्विरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -173,7 +173,7 @@ _________
 
 Heaven increases your manliness, Indra, earth your fame;  
 the waters and mountains spur you on.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">

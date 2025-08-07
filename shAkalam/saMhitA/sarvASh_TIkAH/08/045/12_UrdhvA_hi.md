@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऊर्ध्वा꣡ हि꣡ ते दिवे꣡-दिवे  
-सह꣡स्रा सूनृ꣡ता शता꣡  
-जरितृ꣡भ्यो विमं꣡हते
+ऊर्ध्वा᳓ हि᳓ ते दिवे᳓-दिवे  
+सह᳓स्रा सूनृ᳓ता शता᳓  
+जरितृ᳓भ्यो विमं᳓हते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

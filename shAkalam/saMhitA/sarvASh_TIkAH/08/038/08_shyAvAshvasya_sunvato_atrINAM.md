@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-श्यावा꣡शुवस्य सुन्वतो꣡  
-अ꣡त्रीणां शृणुतं ह꣡वम्  
-इ꣡न्द्राग्नी सो꣡मपीतये
+श्यावा᳓शुवस्य सुन्वतो᳓  
+अ᳓त्रीणां शृणुतं ह᳓वम्  
+इ᳓न्द्राग्नी सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

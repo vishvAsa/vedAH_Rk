@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡स्ति हि꣡ ष्मा म꣡दाय वः  
-स्म꣡सि ष्मा वय꣡म् एषा᳐म्  
-वि꣡श्वं चिद् आ꣡यु° जीव꣡से
+अ᳓स्ति हि᳓ ष्मा म᳓दाय वः  
+स्म᳓सि ष्मा वय᳓म् एषा᳐म्  
+वि᳓श्वं चिद् आ᳓यु° जीव᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>

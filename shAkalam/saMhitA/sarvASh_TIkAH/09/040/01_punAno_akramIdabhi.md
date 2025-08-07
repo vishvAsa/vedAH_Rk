@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुनानो꣡ अक्रमीद् अभि꣡  
-वि꣡श्वा मृ꣡धो वि꣡चर्षणिः  
-शुम्भ꣡न्ति वि꣡प्रं धीति꣡भिः
+पुनानो᳓ अक्रमीद् अभि᳓  
+वि᳓श्वा मृ᳓धो वि᳓चर्षणिः  
+शुम्भ᳓न्ति वि᳓प्रं धीति᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

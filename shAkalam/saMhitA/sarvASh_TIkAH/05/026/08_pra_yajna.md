@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ यज्ञ꣡ एतु आनुष꣡ग्  
-अद्या꣡ देव꣡व्यचस्तमः  
-स्तृणीत꣡ बर्हि꣡र् आस꣡दे
+प्र᳓ यज्ञ᳓ एतु आनुष᳓ग्  
+अद्या᳓ देव᳓व्यचस्तमः  
+स्तृणीत᳓ बर्हि᳓र् आस᳓दे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

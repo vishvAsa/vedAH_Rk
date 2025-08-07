@@ -15,9 +15,9 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡ति स्तुता꣡सो असथा रिशादसो  
-ये꣡ स्थ꣡ त्र꣡यश् च त्रिंश꣡च् च  
-म꣡नोर् देवा यज्ञियासः
+इ᳓ति स्तुता᳓सो असथा रिशादसो  
+ये᳓ स्थ᳓ त्र᳓यश् च त्रिंश᳓च् च  
+म᳓नोर् देवा यज्ञियासः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

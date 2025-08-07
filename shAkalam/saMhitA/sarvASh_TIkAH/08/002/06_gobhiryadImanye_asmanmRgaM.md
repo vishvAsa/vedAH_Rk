@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गो꣡भिर् य꣡द् ईम् अन्ये꣡ अस्म꣡न्  
-मृगं꣡ न꣡ व्रा꣡ मृग꣡यन्ते  
-अभित्स꣡रन्ति धेनु꣡भिः
+गो᳓भिर् य᳓द् ईम् अन्ये᳓ अस्म᳓न्  
+मृगं᳓ न᳓ व्रा᳓ मृग᳓यन्ते  
+अभित्स᳓रन्ति धेनु᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

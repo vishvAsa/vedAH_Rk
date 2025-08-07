@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने याहि꣡ सुशस्ति꣡भिर्  
-हव्या꣡ जु꣡ह्वान आनुष꣡क्  
-य꣡था दूतो꣡ बभू꣡थ हव्यवा꣡हनः
+अ᳓ग्ने याहि᳓ सुशस्ति᳓भिर्  
+हव्या᳓ जु᳓ह्वान आनुष᳓क्  
+य᳓था दूतो᳓ बभू᳓थ हव्यवा᳓हनः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

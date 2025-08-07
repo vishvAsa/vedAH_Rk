@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ स्वरन्तु ये꣡ त꣡व  
-रुद्रा꣡सः सक्षत श्रि꣡यम्  
-उतो꣡ मरु꣡त्वतीर् वि꣡शो अभि꣡ प्र꣡यः
+अभि᳓ स्वरन्तु ये᳓ त᳓व  
+रुद्रा᳓सः सक्षत श्रि᳓यम्  
+उतो᳓ मरु᳓त्वतीर् वि᳓शो अभि᳓ प्र᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

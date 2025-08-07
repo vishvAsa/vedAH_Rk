@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुपे꣡शसम् मा꣡व सृजन्ति अ꣡स्तं  
-ग꣡वां सह꣡स्रै रुश꣡मासो अग्ने  
-तीव्रा꣡ इ꣡न्द्रम् अममन्दुः सुता꣡सो  
-अक्तो꣡र् वि꣡उष्टौ प꣡रितक्मियायाः
+सुपे᳓शसम् मा᳓व सृजन्ति अ᳓स्तं  
+ग᳓वां सह᳓स्रै रुश᳓मासो अग्ने  
+तीव्रा᳓ इ᳓न्द्रम् अममन्दुः सुता᳓सो  
+अक्तो᳓र् वि᳓उष्टौ प᳓रितक्मियायाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -211,7 +211,7 @@ _________
 
 The Ruśamas send me home well-ornamented with thousands of cows,  o Agni.  
 The sharp (soma-drinks, when) pressed, exhilarated Indra at the early  brightening of the night, at its final turn.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/13-14.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अरि꣡त्रं वां दिव꣡स् पृथु꣡  
-तीर्थे꣡ सि꣡न्धूनां᳐ र꣡थः  
-धिया꣡ युयुज्र इ꣡न्दवः
+अरि᳓त्रं वां दिव᳓स् पृथु᳓  
+तीर्थे᳓ सि᳓न्धूनां᳐ र᳓थः  
+धिया᳓ युयुज्र इ᳓न्दवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

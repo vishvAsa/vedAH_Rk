@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-नहि꣡ अङ्ग꣡ नृतो तुव꣡द्  
-अन्यं꣡ विन्दा꣡मि रा꣡धसे  
-राये꣡ द्युम्ना꣡य श꣡वसे च गिर्वणः
+नहि᳓ अङ्ग᳓ नृतो तुव᳓द्  
+अन्यं᳓ विन्दा᳓मि रा᳓धसे  
+राये᳓ द्युम्ना᳓य श᳓वसे च गिर्वणः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ज꣡राबोध त꣡द् विविड्ढि  
-विशे꣡-विशे यज्ञि꣡याय  
-स्तो꣡मं रुद्रा꣡य दृ꣡शीकम्
+ज᳓राबोध त᳓द् विविड्ढि  
+विशे᳓-विशे यज्ञि᳓याय  
+स्तो᳓मं रुद्रा᳓य दृ᳓शीकम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ स्तो꣡मो मा꣡रुतं श꣡र्धो अ꣡छा  
-रुद्र꣡स्य सूनूँ꣡र् युवन्यूँ꣡र् उ꣡द् अश्याः  
-का꣡मो राये꣡ हवते मा सुअस्ति꣡  
-उ꣡प स्तुहि पृ꣡षदश्वाँ अया꣡सः
+एष᳓ स्तो᳓मो मा᳓रुतं श᳓र्धो अ᳓छा  
+रुद्र᳓स्य सूनूँ᳓र् युवन्यूँ᳓र् उ᳓द् अश्याः  
+का᳓मो राये᳓ हवते मा सुअस्ति᳓  
+उ᳓प स्तुहि पृ᳓षदश्वाँ अया᳓सः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -243,7 +243,7 @@ _________
 
 May this praise reach up to the Marutian troop, to the youthful sons  of Rudra.  
 Desire calls me to wealth with well-being. Praise the unruly ones with  dappled horses.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/042/14-16.md">

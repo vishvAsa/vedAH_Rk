@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमाना असृक्षत  
-सो꣡माः शुक्रा꣡स इ꣡न्दवः  
-अभि꣡ वि꣡श्वानि का꣡विया
+प᳓वमाना असृक्षत  
+सो᳓माः शुक्रा᳓स इ᳓न्दवः  
+अभि᳓ वि᳓श्वानि का᳓विया
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -137,7 +137,7 @@ _________
 
 The self-purifying soma juices, the clear drops have surged  
 toward all products of poetic skill.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/25-27.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡स् तिग्मे꣡न शोचि꣡षा  
-या꣡सद् वि꣡श्वं नि꣡ अत्रि꣡णम्  
-अग्नि꣡र् नो वनते रयि꣡म्
+अग्नि᳓स् तिग्मे᳓न शोचि᳓षा  
+या᳓सद् वि᳓श्वं नि᳓ अत्रि᳓णम्  
+अग्नि᳓र् नो वनते रयि᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

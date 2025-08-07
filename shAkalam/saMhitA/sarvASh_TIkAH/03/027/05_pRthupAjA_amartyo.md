@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पृथुपा꣡जा अ꣡मर्तियो  
-घृत꣡निर्णिक् सु꣡आहुतः  
-अग्नि꣡र् यज्ञ꣡स्य हव्यवा꣡ट्
+पृथुपा᳓जा अ᳓मर्तियो  
+घृत᳓निर्णिक् सु᳓आहुतः  
+अग्नि᳓र् यज्ञ᳓स्य हव्यवा᳓ट्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

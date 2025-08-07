@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कृता꣡नी꣡द् अस्य क꣡र्तुवा  
-चे꣡तन्ते दस्युत꣡र्हणा  
-ऋणा꣡ च धृष्णु꣡श् चयते
+कृता᳓नी᳓द् अस्य क᳓र्तुवा  
+चे᳓तन्ते दस्युत᳓र्हणा  
+ऋणा᳓ च धृष्णु᳓श् चयते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

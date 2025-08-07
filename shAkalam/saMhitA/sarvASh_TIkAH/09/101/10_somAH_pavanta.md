@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡माः पवन्त इ꣡न्दवो  
-अस्म꣡भ्यं गातुवि꣡त्तमाः  
-मित्राः꣡ स्वाना꣡° अरेप꣡सः  
-सुआधि꣡यः सुवर्वि꣡दः
+सो᳓माः पवन्त इ᳓न्दवो  
+अस्म᳓भ्यं गातुवि᳓त्तमाः  
+मित्राः᳓ स्वाना᳓° अरेप᳓सः  
+सुआधि᳓यः सुवर्वि᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -166,7 +166,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The soma drops purify themselves, as best pathfinders for us, allies, unblemished, rich in purpose, finding the sun, when they are  being pressed.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/10-12.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सह꣡स्रे पृ꣡षतीना᳐म्  
-अ꣡धि श्चन्द्र꣡म् बृह꣡त् पृथु꣡  
-शुक्रं꣡ हि꣡रण्यम् आ꣡ ददे
+सह᳓स्रे पृ᳓षतीना᳐म्  
+अ᳓धि श्चन्द्र᳓म् बृह᳓त् पृथु᳓  
+शुक्रं᳓ हि᳓रण्यम् आ᳓ ददे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

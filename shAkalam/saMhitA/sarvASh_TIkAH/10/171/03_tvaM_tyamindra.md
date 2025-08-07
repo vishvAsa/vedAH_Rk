@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ त्य꣡म् इन्द्र म꣡र्तियम्  
-आस्त्रबुध्ना꣡य वेनिय꣡म्  
-मु꣡हुः श्रथ्ना मनस्य꣡वे
+तुवं᳓ त्य᳓म् इन्द्र म᳓र्तियम्  
+आस्त्रबुध्ना᳓य वेनिय᳓म्  
+मु᳓हुः श्रथ्ना मनस्य᳓वे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र शविष्ठ सत्पते  
-रयिं꣡ गृण꣡त्सु धारय  
-श्र꣡वः सूरि꣡भ्यो अमृ꣡तं वसुत्वन꣡म्
+इ᳓न्द्र शविष्ठ सत्पते  
+रयिं᳓ गृण᳓त्सु धारय  
+श्र᳓वः सूरि᳓भ्यो अमृ᳓तं वसुत्वन᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

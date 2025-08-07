@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पूष꣡णं नु꣡ अजा꣡शुवम्  
-उ꣡प स्तोषाम वाजि꣡नम्  
-स्व꣡सुर् यो꣡ जार꣡ उच्य꣡ते
+पूष᳓णं नु᳓ अजा᳓शुवम्  
+उ᳓प स्तोषाम वाजि᳓नम्  
+स्व᳓सुर् यो᳓ जार᳓ उच्य᳓ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -160,7 +160,7 @@ Svasur yo **jāra** ucyate, the sister of Pūṣan is the dawn, with whom he, as
 
 Pūṣan who has goats for horses let us now approach with praise—the  prizewinner,  
 who is said to be the lover of his sister.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/055/04-05.md">

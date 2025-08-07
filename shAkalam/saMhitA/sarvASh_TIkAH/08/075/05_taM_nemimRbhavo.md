@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ नेमि꣡म् ऋभ꣡वो यथा  
-आ꣡ नमस्व स꣡हूतिभिः  
-ने꣡दीयो यज्ञ꣡म् अङ्गिरः
+तं᳓ नेमि᳓म् ऋभ᳓वो यथा  
+आ᳓ नमस्व स᳓हूतिभिः  
+ने᳓दीयो यज्ञ᳓म् अङ्गिरः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

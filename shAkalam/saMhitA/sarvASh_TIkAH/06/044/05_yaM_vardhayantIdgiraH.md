@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यं꣡ वर्ध꣡यन्ति इ꣡द् गि꣡रः  
-प꣡तिं तुर꣡स्य रा꣡धसः  
-त꣡म् इ꣡न् नु꣡ अस्य रो꣡दसी  
-देवी꣡ शु꣡ष्मं सपर्यतः
+यं᳓ वर्ध᳓यन्ति इ᳓द् गि᳓रः  
+प᳓तिं तुर᳓स्य रा᳓धसः  
+त᳓म् इ᳓न् नु᳓ अस्य रो᳓दसी  
+देवी᳓ शु᳓ष्मं सपर्यतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -202,7 +202,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 He whom songs make strong, the lord of overpowering generosity— his tempestuous force do the two world-halves, the goddesses, respect.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

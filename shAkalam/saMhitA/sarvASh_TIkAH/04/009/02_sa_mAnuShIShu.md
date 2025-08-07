@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ मा꣡नुषीषु दूळ꣡भो  
-विक्षु꣡ प्रावी꣡र् अ꣡मर्तियः  
-दूतो꣡ वि꣡श्वेषा᳐म् भुवत्
+स᳓ मा᳓नुषीषु दूळ᳓भो  
+विक्षु᳓ प्रावी᳓र् अ᳓मर्तियः  
+दूतो᳓ वि᳓श्वेषा᳐म् भुवत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

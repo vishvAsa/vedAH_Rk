@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ वात वाहि भेषजं꣡  
-वि꣡ वात वाहि य꣡द् र꣡पः  
-तुवं꣡ हि꣡ विश्व꣡भेषजो  
-देवा꣡नां दूत꣡ ई꣡यसे
+आ᳓ वात वाहि भेषजं᳓  
+वि᳓ वात वाहि य᳓द् र᳓पः  
+तुवं᳓ हि᳓ विश्व᳓भेषजो  
+देवा᳓नां दूत᳓ ई᳓यसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

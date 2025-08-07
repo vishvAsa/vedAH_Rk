@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ ऊ° षु꣡ णः प꣡रा-परा  
-नि꣡रृतिर् दुर्ह꣡णा वधीत्  
-पदीष्ट꣡ तृ꣡ष्णया सह꣡
+मा᳓ ऊ° षु᳓ णः प᳓रा-परा  
+नि᳓रृतिर् दुर्ह᳓णा वधीत्  
+पदीष्ट᳓ तृ᳓ष्णया सह᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

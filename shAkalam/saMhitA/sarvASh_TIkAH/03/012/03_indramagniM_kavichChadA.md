@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रम् अग्निं꣡ कविछ꣡दा  
-यज्ञ꣡स्य जूतिया꣡ वृणे  
-ता꣡ सो꣡मस्येह꣡ तृम्पताम्
+इ᳓न्द्रम् अग्निं᳓ कविछ᳓दा  
+यज्ञ᳓स्य जूतिया᳓ वृणे  
+ता᳓ सो᳓मस्येह᳓ तृम्पताम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ससर्परी꣡र् अ꣡मतिम् बा꣡धमाना  
-बृह꣡न् मिमाय जम꣡दग्निदत्ता  
-आ꣡ सू꣡रियस्य दुहिता꣡ ततान  
-श्र꣡वो देवे꣡षु अमृ꣡तम् अजुर्य꣡म्
+ससर्परी᳓र् अ᳓मतिम् बा᳓धमाना  
+बृह᳓न् मिमाय जम᳓दग्निदत्ता  
+आ᳓ सू᳓रियस्य दुहिता᳓ ततान  
+श्र᳓वो देवे᳓षु अमृ᳓तम् अजुर्य᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -208,7 +208,7 @@ Given by Jamadagni: jamadagni **dattā** = given by the ṛs;is maintaining a bl
 The squirming, sappy (cow called) Sasarparī, given by the Jamadagnis,  banishing neglect, has bellowed loftily.  
 (She like) the Daughter of the Sun has stretched (their [=the  
 Jamadagnis’]) fame, immortal and unaging, to the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/15-16.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ ब्रुवन्तु जन्त꣡व  
-उ꣡द् अग्नि꣡र् वृत्रहा꣡जनि  
-धनंजयो꣡ र꣡णे-रणे
+उत᳓ ब्रुवन्तु जन्त᳓व  
+उ᳓द् अग्नि᳓र् वृत्रहा᳓जनि  
+धनंजयो᳓ र᳓णे-रणे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

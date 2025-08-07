@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वीति꣡होत्रं तुवा कवे  
-द्युम꣡न्तं स꣡म् इधीमहि  
-अ꣡ग्ने बृह꣡न्तम् अध्वरे꣡
+वीति᳓होत्रं तुवा कवे  
+द्युम᳓न्तं स᳓म् इधीमहि  
+अ᳓ग्ने बृह᳓न्तम् अध्वरे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

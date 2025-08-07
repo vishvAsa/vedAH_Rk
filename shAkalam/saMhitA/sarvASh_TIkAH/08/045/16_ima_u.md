@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इम꣡ उ त्वा वि꣡ चक्षते  
-स꣡खाय इन्द्र सोमि꣡नः  
-पुष्टा꣡वन्तो य꣡था पशु꣡म्
+इम᳓ उ त्वा वि᳓ चक्षते  
+स᳓खाय इन्द्र सोमि᳓नः  
+पुष्टा᳓वन्तो य᳓था पशु᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

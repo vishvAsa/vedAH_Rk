@@ -15,10 +15,10 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-मंसीम꣡हि त्वा वय꣡म्  
-अस्मा꣡कं देव पूषन्  
-मतीनां᳐꣡ च सा꣡धनं  
-वि꣡प्राणां᳐ च आधव꣡म्
+मंसीम᳓हि त्वा वय᳓म्  
+अस्मा᳓कं देव पूषन्  
+मतीनां᳐᳓ च सा᳓धनं  
+वि᳓प्राणां᳐ च आधव᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

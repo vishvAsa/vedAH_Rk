@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वे꣡षि हि꣡ अध्वरीयता꣡म्  
-हव्या꣡ च मा꣡नुषाणा᳐म्  
-उपवक्ता꣡ ज꣡नाना᳐म्
+वे᳓षि हि᳓ अध्वरीयता᳓म्  
+हव्या᳓ च मा᳓नुषाणा᳐म्  
+उपवक्ता᳓ ज᳓नाना᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

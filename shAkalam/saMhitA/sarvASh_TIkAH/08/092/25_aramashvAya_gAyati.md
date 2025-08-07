@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡रम् अ꣡श्वाय गायति  
-श्रुत꣡कक्षो अ꣡रं ग꣡वे  
-अ꣡रम् इ꣡न्द्रस्य धा꣡मने
+अ᳓रम् अ᳓श्वाय गायति  
+श्रुत᳓कक्षो अ᳓रं ग᳓वे  
+अ᳓रम् इ᳓न्द्रस्य धा᳓मने
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -146,7 +146,7 @@ Sings for ahorse: indrasya dhāmne = for a house given by Indra; or, Indra's hea
 <details><summary>Jamison Brereton</summary>
 
 Śrutakakṣa [“Famous Armpit”] sings fit for a horse, fit for a cow, fit for the “fundament” [/bestowal] of Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-25.md">

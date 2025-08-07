@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-एषा꣡ शुभ्रा꣡ न꣡ तनु꣡वो विदाना꣡  
-ऊर्ध्वे꣡व स्नाती꣡ दृश꣡ये नो अस्थात्  
-अ꣡प द्वे꣡षो बा꣡धमाना त꣡मांसि  
-उषा꣡ दिवो꣡ दुहिता꣡ ज्यो꣡तिषा꣡गात्
+एषा᳓ शुभ्रा᳓ न᳓ तनु᳓वो विदाना᳓  
+ऊर्ध्वे᳓व स्नाती᳓ दृश᳓ये नो अस्थात्  
+अ᳓प द्वे᳓षो बा᳓धमाना त᳓मांसि  
+उषा᳓ दिवो᳓ दुहिता᳓ ज्यो᳓तिषा᳓गात्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -255,7 +255,7 @@ _________
 
 She, like a beauty who knows her own body, has stood up erect like a  bather for us to see.  
 Thrusting away hatred and the shades of darkness, Dawn, the Daughter  of Heaven, has come here with her light.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/04-05.md">

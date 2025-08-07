@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ वृ꣡तश् चातयते समीची꣡र्  
-य꣡ आजि꣡षु मघ꣡वा शृण्व꣡ ए꣡कः  
-अयं꣡ वा꣡जम् भरति यं꣡ सनो꣡ति  
-अस्य꣡ प्रिया꣡सः सखिये꣡ सियाम
+अयं᳓ वृ᳓तश् चातयते समीची᳓र्  
+य᳓ आजि᳓षु मघ᳓वा शृण्व᳓ ए᳓कः  
+अयं᳓ वा᳓जम् भरति यं᳓ सनो᳓ति  
+अस्य᳓ प्रिया᳓सः सखिये᳓ सियाम
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -230,7 +230,7 @@ _________
 
 This one forces his united opponents into hiding, he who alone is famed  as the bounteous one in contests.  
 This one brings the prize that he wins. Might we be dear to him in his  partnership.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/09-10.md">

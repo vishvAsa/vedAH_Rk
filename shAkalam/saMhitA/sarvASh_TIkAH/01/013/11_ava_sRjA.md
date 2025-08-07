@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡व सृजा वनस्पते  
-दे꣡व देवे꣡भियो हविः꣡  
-प्र꣡ दातु꣡र् अस्तु चे꣡तनम्
+अ᳓व सृजा वनस्पते  
+दे᳓व देवे᳓भियो हविः᳓  
+प्र᳓ दातु᳓र् अस्तु चे᳓तनम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

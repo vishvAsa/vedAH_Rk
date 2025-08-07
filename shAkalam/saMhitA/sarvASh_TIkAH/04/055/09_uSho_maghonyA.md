@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡षो मघोनि आ꣡ वह  
-सू꣡नृते वा꣡रिया पुरु꣡  
-अस्म꣡भ्यं वाजिनीवति
+उ᳓षो मघोनि आ᳓ वह  
+सू᳓नृते वा᳓रिया पुरु᳓  
+अस्म᳓भ्यं वाजिनीवति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

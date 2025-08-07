@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् ईम् अ꣡ण्वीः समर्य꣡ आ꣡  
-गृभ्ण꣡न्ति यो꣡षणो द꣡श  
-स्व꣡सारः पा꣡रिये दिवि꣡
+त᳓म् ईम् अ᳓ण्वीः समर्य᳓ आ᳓  
+गृभ्ण᳓न्ति यो᳓षणो द᳓श  
+स्व᳓सारः पा᳓रिये दिवि᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

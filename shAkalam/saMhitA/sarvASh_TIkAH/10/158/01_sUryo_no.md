@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सू꣡रियो नो दिव꣡स् पातु  
-वा᳐꣡तो अन्त꣡रिक्षा᳐꣡त्  
-अग्नि꣡र् नः पा꣡र्थिवेभियः
+सू᳓रियो नो दिव᳓स् पातु  
+वा᳐᳓तो अन्त᳓रिक्षा᳐᳓त्  
+अग्नि᳓र् नः पा᳓र्थिवेभियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

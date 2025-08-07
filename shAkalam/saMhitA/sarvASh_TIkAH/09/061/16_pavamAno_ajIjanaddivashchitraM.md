@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानो अजीजनद्  
-दिव꣡श् चित्रं꣡ न꣡ तन्यतु꣡म्  
-ज्यो꣡तिर् वैश्वानर꣡म् बृह꣡त्
+प᳓वमानो अजीजनद्  
+दिव᳓श् चित्रं᳓ न᳓ तन्यतु᳓म्  
+ज्यो᳓तिर् वैश्वानर᳓म् बृह᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

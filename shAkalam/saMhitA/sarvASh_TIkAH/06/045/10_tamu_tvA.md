@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् उ त्वा सत्य सोमपा  
-इ꣡न्द्र वाजाना᳐꣡म् पते  
-अ꣡हूमहि श्रवस्य꣡वः
+त᳓म् उ त्वा सत्य सोमपा  
+इ᳓न्द्र वाजाना᳐᳓म् पते  
+अ᳓हूमहि श्रवस्य᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

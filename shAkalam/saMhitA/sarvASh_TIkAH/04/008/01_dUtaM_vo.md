@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दूतं꣡ वो विश्व꣡वेदसं  
-हव्यवा꣡हम् अ꣡मर्तियम्  
-य꣡जिष्ठम् ऋञ्जसे गिरा꣡
+दूतं᳓ वो विश्व᳓वेदसं  
+हव्यवा᳓हम् अ᳓मर्तियम्  
+य᳓जिष्ठम् ऋञ्जसे गिरा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

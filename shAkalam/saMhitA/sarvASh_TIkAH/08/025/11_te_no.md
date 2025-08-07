@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ नो नाव꣡म् उरुष्यत  
-दि꣡वा न꣡क्तं सुदानवः  
-अ꣡रिष्यन्तो नि꣡ पायु꣡भिः सचेमहि
+ते᳓ नो नाव᳓म् उरुष्यत  
+दि᳓वा न᳓क्तं सुदानवः  
+अ᳓रिष्यन्तो नि᳓ पायु᳓भिः सचेमहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

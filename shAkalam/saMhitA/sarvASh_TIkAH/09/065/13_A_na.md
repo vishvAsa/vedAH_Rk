@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ न इन्दो मही꣡म् इ꣡षम्  
-प꣡वस्व विश्व꣡दर्शतः  
-अस्म꣡भ्यं सोम गातुवि꣡त्
+आ᳓ न इन्दो मही᳓म् इ᳓षम्  
+प᳓वस्व विश्व᳓दर्शतः  
+अस्म᳓भ्यं सोम गातुवि᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -166,7 +166,7 @@ _________
 
 By purifying yourself bring great refreshment here for us, o drop visible  to all,  
 finding the way for us, o Soma.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/13-15.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वान् देवा꣡न् हवामहे  
-मरु꣡तः सो꣡मपीतये  
-उग्रा꣡ हि꣡ पृ꣡श्निमातरः
+वि᳓श्वान् देवा᳓न् हवामहे  
+मरु᳓तः सो᳓मपीतये  
+उग्रा᳓ हि᳓ पृ᳓श्निमातरः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

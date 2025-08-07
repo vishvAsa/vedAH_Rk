@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्वायुधा꣡स इष्मि꣡णः सुनिष्का꣡  
-उत꣡ स्वयं꣡ तन्वः᳡ शु꣡म्भमानाः
+स्वायुधा᳓स इष्मि᳓णः सुनिष्का᳓  
+उत᳓ स्वयं᳓ तन्वः᳡ शु᳓म्भमानाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-साह्वा꣡न् वि꣡श्वा अभियु꣡जः  
-क्र꣡तुर् देवा꣡नाम् अ꣡मृक्तः  
-अग्नि꣡स् तुवि꣡श्रवस्तमः
+साह्वा᳓न् वि᳓श्वा अभियु᳓जः  
+क्र᳓तुर् देवा᳓नाम् अ᳓मृक्तः  
+अग्नि᳓स् तुवि᳓श्रवस्तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

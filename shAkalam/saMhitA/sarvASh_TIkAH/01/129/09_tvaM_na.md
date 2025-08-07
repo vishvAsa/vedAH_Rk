@@ -15,13 +15,13 @@ ChandaH = "अतिशक्वरी"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ न इन्द्र रा᳐या꣡ प꣡रीणसा  
-याहि꣡ पथाँ꣡ अनेह꣡सा  
-पुरो꣡ याहि अरक्ष꣡सा  
-स꣡चस्व नः पराक꣡ आ꣡  
-स꣡चस्व अस्तमीक꣡ आ꣡  
-पाहि꣡ नो · दूरा꣡द् आरा꣡द् अभि꣡ष्टिभिः  
-स꣡दा पाहि अभि꣡ष्टिभिः
+तुवं᳓ न इन्द्र रा᳐या᳓ प᳓रीणसा  
+याहि᳓ पथाँ᳓ अनेह᳓सा  
+पुरो᳓ याहि अरक्ष᳓सा  
+स᳓चस्व नः पराक᳓ आ᳓  
+स᳓चस्व अस्तमीक᳓ आ᳓  
+पाहि᳓ नो · दूरा᳓द् आरा᳓द् अभि᳓ष्टिभिः  
+स᳓दा पाहि अभि᳓ष्टिभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -308,7 +308,7 @@ You, Indra, with wealth in profusion for us: drive along a faultless  path—dri
 Accompany us in the distance; accompany us close to home.  
 Protect us from a long way, from afar with your superior powers—  
 always protect us with your superior powers.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/129/09-10.md">

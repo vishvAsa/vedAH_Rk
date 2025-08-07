@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा वयं꣡ हवामहे  
-शृण्व꣡न्तं जात꣡वेदसम्  
-अ꣡ग्ने घ्न꣡न्तम् अ꣡प द्वि꣡षः
+तं᳓ त्वा वयं᳓ हवामहे  
+शृण्व᳓न्तं जात᳓वेदसम्  
+अ᳓ग्ने घ्न᳓न्तम् अ᳓प द्वि᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

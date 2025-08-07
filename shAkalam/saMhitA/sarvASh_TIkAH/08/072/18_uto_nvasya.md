@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उतो꣡ नु꣡ अस्य य꣡त् पदं꣡  
-हर्यत꣡स्य निधानि꣡यम्  
-प꣡रि द्यां꣡ जिह्व꣡यातनत्
+उतो᳓ नु᳓ अस्य य᳓त् पदं᳓  
+हर्यत᳓स्य निधानि᳓यम्  
+प᳓रि द्यां᳓ जिह्व᳓यातनत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मं꣡हिष्ठा वाजसा꣡तमा  
-इष꣡यन्ता शुभ꣡स् प꣡ती  
-ग꣡न्तारा दाशु꣡षो गृह꣡म्
+मं᳓हिष्ठा वाजसा᳓तमा  
+इष᳓यन्ता शुभ᳓स् प᳓ती  
+ग᳓न्तारा दाशु᳓षो गृह᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

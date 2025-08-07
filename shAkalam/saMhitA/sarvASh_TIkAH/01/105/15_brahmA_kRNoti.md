@@ -15,11 +15,11 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-ब्र꣡ह्मा कृणोति व꣡रुणो  
-गातुवि꣡दं त꣡म् ईमहे  
-वि꣡ ऊर्णोति हृदा꣡ मतिं꣡  
-न꣡वियो जायताम् ऋतं꣡  
-वित्त꣡म् मे अस्य꣡ रोदसी
+ब्र᳓ह्मा कृणोति व᳓रुणो  
+गातुवि᳓दं त᳓म् ईमहे  
+वि᳓ ऊर्णोति हृदा᳓ मतिं᳓  
+न᳓वियो जायताम् ऋतं᳓  
+वित्त᳓म् मे अस्य᳓ रोदसी
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -247,7 +247,7 @@ _________
 Varuṇa creates sacred formulations; we implore him as the finder of  the way.  
 He opens up the thought in our heart. Let a newer truth be born.  
 – Take heed of this (speech) of mine, you two world-halves.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/12-15.md">

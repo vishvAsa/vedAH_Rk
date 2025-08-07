@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡नाव꣡ तुर्व꣡शं य꣡दुं  
-ये꣡न क꣡ण्वं धनस्पृ꣡तम्  
-राये꣡ सु꣡ त꣡स्य धीमहि
+ये᳓नाव᳓ तुर्व᳓शं य᳓दुं  
+ये᳓न क᳓ण्वं धनस्पृ᳓तम्  
+राये᳓ सु᳓ त᳓स्य धीमहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

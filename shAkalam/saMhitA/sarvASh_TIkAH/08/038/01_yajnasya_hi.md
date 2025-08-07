@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यज्ञ꣡स्य हि꣡ स्थ꣡ ऋत्वि꣡जा  
-स꣡स्नी वा꣡जेषु क꣡र्मसु  
-इ꣡न्द्राग्नी त꣡स्य बोधतम्
+यज्ञ᳓स्य हि᳓ स्थ᳓ ऋत्वि᳓जा  
+स᳓स्नी वा᳓जेषु क᳓र्मसु  
+इ᳓न्द्राग्नी त᳓स्य बोधतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -170,7 +170,7 @@ _________
 Because you two are regular offerers of the sacrifice, winners in  
 prize-contests and in (cultic/heroic) acts,  
 – Indra and Agni, take note of this.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/038/01-03.md">

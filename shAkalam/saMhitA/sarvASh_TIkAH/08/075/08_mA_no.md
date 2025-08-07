@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नो देवा꣡नां᳐ वि꣡शः  
-प्रस्नाती꣡र् इव उस्राः꣡  
-कृशं꣡ न꣡ हासुर् अ꣡घ्नियाः
+मा᳓ नो देवा᳓नां᳐ वि᳓शः  
+प्रस्नाती᳓र् इव उस्राः᳓  
+कृशं᳓ न᳓ हासुर् अ᳓घ्नियाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

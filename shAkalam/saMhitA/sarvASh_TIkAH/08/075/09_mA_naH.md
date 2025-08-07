@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नः समस्य दूढि꣡यः  
-प꣡रिद्वेषसो अंहतिः꣡  
-ऊर्मि꣡र् न꣡ ना꣡वम् आ꣡ वधीत्
+मा᳓ नः समस्य दूढि᳓यः  
+प᳓रिद्वेषसो अंहतिः᳓  
+ऊर्मि᳓र् न᳓ ना᳓वम् आ᳓ वधीत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

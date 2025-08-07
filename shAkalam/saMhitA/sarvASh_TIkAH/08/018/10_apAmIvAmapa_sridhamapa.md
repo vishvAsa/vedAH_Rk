@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡पा꣡मीवाम् अ꣡प स्रि꣡धम्  
-अ꣡प सेधत दुर्मति꣡म्  
-आ꣡दित्यासो युयो꣡तना नो अं꣡हसः
+अ᳓पा᳓मीवाम् अ᳓प स्रि᳓धम्  
+अ᳓प सेधत दुर्मति᳓म्  
+आ᳓दित्यासो युयो᳓तना नो अं᳓हसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

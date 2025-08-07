@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्रि꣡कद्रुकेषु चे꣡तनं  
-देवा꣡सो यज्ञ꣡म् अत्नत  
-त꣡म् इ꣡द् वर्धन्तु नो गि꣡रः सदा꣡वृधम्
+त्रि᳓कद्रुकेषु चे᳓तनं  
+देवा᳓सो यज्ञ᳓म् अत्नत  
+त᳓म् इ᳓द् वर्धन्तु नो गि᳓रः सदा᳓वृधम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आरोका꣡ इव घे꣡द् अ꣡ह  
-तिग्मा꣡ अग्ने त꣡व त्वि꣡षः  
-दद्भि꣡र् व꣡नानि बप्सति
+आरोका᳓ इव घे᳓द् अ᳓ह  
+तिग्मा᳓ अग्ने त᳓व त्वि᳓षः  
+दद्भि᳓र् व᳓नानि बप्सति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

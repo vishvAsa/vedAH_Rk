@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-घृ꣡ताहवन सन्तिय  
-इमा꣡ उ षु꣡ श्रुधी गि꣡रः  
-या꣡भिः क꣡ण्वस्य सून꣡वो  
-ह꣡वन्ते अ꣡वसे तुवा
+घृ᳓ताहवन सन्तिय  
+इमा᳓ उ षु᳓ श्रुधी गि᳓रः  
+या᳓भिः क᳓ण्वस्य सून᳓वो  
+ह᳓वन्ते अ᳓वसे तुवा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

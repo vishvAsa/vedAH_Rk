@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡क्ष्णया꣡वानो वहन्ति  
-अन्त꣡रिक्षेण प꣡ततः  
-धा꣡तार स्तुवते꣡ व꣡यः
+आ᳓क्ष्णया᳓वानो वहन्ति  
+अन्त᳓रिक्षेण प᳓ततः  
+धा᳓तार स्तुवते᳓ व᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रायेन्दो मरु꣡त्वते  
-प꣡वस्व म꣡धुमत्तमः  
-ऋत꣡स्य यो꣡निम् आस꣡दम्
+इ᳓न्द्रायेन्दो मरु᳓त्वते  
+प᳓वस्व म᳓धुमत्तमः  
+ऋत᳓स्य यो᳓निम् आस᳓दम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -137,7 +137,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 For Indra with the Maruts, o drop, purify yourself as the most honeyed, to sit on the womb of truth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/22-24.md">

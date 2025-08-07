@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने अ꣡छा वदेह꣡ नः  
-प्रत्य꣡ङ् नः सुम꣡ना भव  
-प्र꣡ नो यछ विशस् पते  
-धनदा꣡ असि नस् तुव꣡म्
+अ᳓ग्ने अ᳓छा वदेह᳓ नः  
+प्रत्य᳓ङ् नः सुम᳓ना भव  
+प्र᳓ नो यछ विशस् पते  
+धनदा᳓ असि नस् तुव᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

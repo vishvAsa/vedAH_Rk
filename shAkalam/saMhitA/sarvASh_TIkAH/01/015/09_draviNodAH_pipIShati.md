@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-द्रविणोदाः꣡ पिपीषति  
-जुहो꣡त प्र꣡ च तिष्ठत  
-नेष्ट्रा꣡द् ऋतु꣡भिर् इष्यत
+द्रविणोदाः᳓ पिपीषति  
+जुहो᳓त प्र᳓ च तिष्ठत  
+नेष्ट्रा᳓द् ऋतु᳓भिर् इष्यत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

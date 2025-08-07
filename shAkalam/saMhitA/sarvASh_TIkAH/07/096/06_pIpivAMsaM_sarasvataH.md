@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पीपिवां꣡सं स꣡रस्वत  
-स्त꣡नं यो꣡ विश्व꣡दर्शतः  
-भक्षीम꣡हि प्रजा꣡म् इ꣡षम्
+पीपिवां᳓सं स᳓रस्वत  
+स्त᳓नं यो᳓ विश्व᳓दर्शतः  
+भक्षीम᳓हि प्रजा᳓म् इ᳓षम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

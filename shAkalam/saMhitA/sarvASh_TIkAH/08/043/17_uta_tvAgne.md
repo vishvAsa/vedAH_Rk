@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ त्वाग्ने म꣡म स्तु꣡तो  
-वाश्रा꣡य प्रतिह꣡र्यते  
-गोष्ठं꣡ गा꣡व इवाशत
+उत᳓ त्वाग्ने म᳓म स्तु᳓तो  
+वाश्रा᳓य प्रतिह᳓र्यते  
+गोष्ठं᳓ गा᳓व इवाशत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

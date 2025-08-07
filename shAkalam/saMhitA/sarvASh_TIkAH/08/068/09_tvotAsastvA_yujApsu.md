@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवो꣡तासस् तुवा꣡ युजा꣡  
-अप्सु꣡ सू꣡र्ये मह꣡द् ध꣡नम्  
-ज꣡येम पृत्सु꣡ वज्रिवः
+तुवो᳓तासस् तुवा᳓ युजा᳓  
+अप्सु᳓ सू᳓र्ये मह᳓द् ध᳓नम्  
+ज᳓येम पृत्सु᳓ वज्रिवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

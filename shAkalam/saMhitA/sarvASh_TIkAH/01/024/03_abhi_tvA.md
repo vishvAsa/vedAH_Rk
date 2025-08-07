@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ त्वा देव सवितर्  
-ई꣡शानं वा꣡रियाणा᳐म्  
-स꣡दावन् भाग꣡म् ईमहे
+अभि᳓ त्वा देव सवितर्  
+ई᳓शानं वा᳓रियाणा᳐म्  
+स᳓दावन् भाग᳓म् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

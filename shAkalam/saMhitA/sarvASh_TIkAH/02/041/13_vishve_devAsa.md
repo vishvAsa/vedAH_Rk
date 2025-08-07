@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वे देवास आ꣡ गत  
-शृणुता꣡ म इमं꣡ ह꣡वम्  
-ए꣡द꣡म् बर्हि꣡र् नि꣡ षीदत
+वि᳓श्वे देवास आ᳓ गत  
+शृणुता᳓ म इमं᳓ ह᳓वम्  
+ए᳓द᳓म् बर्हि᳓र् नि᳓ षीदत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

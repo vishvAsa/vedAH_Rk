@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ वः सखायो म꣡दाय  
-पुनान꣡म् अभि꣡ गायत  
-शि꣡शुं न꣡ यज्ञइः꣡ स्वदयन्त गूर्ति꣡भिः
+तं᳓ वः सखायो म᳓दाय  
+पुनान᳓म् अभि᳓ गायत  
+शि᳓शुं न᳓ यज्ञइः᳓ स्वदयन्त गूर्ति᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

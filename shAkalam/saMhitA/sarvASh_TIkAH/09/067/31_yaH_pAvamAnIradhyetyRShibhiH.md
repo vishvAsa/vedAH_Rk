@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यः꣡ पावमानी꣡र् अध्ये꣡ति  
-ऋ꣡षिभिः स꣡म्भृतं र꣡सम्  
-स꣡र्वं स꣡ पूत꣡म् अश्नाति  
-स्वदित꣡म् मातरि꣡श्वना
+यः᳓ पावमानी᳓र् अध्ये᳓ति  
+ऋ᳓षिभिः स᳓म्भृतं र᳓सम्  
+स᳓र्वं स᳓ पूत᳓म् अश्नाति  
+स्वदित᳓म् मातरि᳓श्वना
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -184,7 +184,7 @@ Mātariśvan = Va+yu, because it breathes in the atmosphere, antarikṣe śvasit
 
 Whoever studies the “Self-Purifying” (verses), the sap assembled by  the seers,  
 that one eats the whole purified (sap), sweetened by Mātariśvan.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/31-32.md">

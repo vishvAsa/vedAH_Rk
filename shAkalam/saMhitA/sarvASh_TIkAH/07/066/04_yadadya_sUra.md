@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अद्य꣡ सू꣡र उ꣡दिते  
-अ꣡नागा मित्रो꣡ अर्यमा꣡  
-सुवा꣡ति सविता꣡ भ꣡गः
+य᳓द् अद्य᳓ सू᳓र उ᳓दिते  
+अ᳓नागा मित्रो᳓ अर्यमा᳓  
+सुवा᳓ति सविता᳓ भ᳓गः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

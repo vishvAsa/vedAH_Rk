@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ए꣡ह꣡ देवा꣡ मयोभु꣡वा  
-दस्रा꣡ हि꣡रण्यवर्तनी  
-उषर्बु꣡धो वहन्तु सो꣡मपीतये
+ए᳓ह᳓ देवा᳓ मयोभु᳓वा  
+दस्रा᳓ हि᳓रण्यवर्तनी  
+उषर्बु᳓धो वहन्तु सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

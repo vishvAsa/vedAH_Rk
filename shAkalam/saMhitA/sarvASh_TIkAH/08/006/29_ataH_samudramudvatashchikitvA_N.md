@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡तः समुद्र꣡म् उद्व꣡तश्  
-चिकित्वाँ꣡ अ꣡व पश्यति  
-य꣡तो विपान꣡ ए꣡जति
+अ᳓तः समुद्र᳓म् उद्व᳓तश्  
+चिकित्वाँ᳓ अ᳓व पश्यति  
+य᳓तो विपान᳓ ए᳓जति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

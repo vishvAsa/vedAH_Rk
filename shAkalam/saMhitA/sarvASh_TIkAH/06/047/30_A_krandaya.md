@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ क्रन्दय ब꣡लम् ओ꣡जो न आ꣡ धा  
-नि꣡ ष्टनिहि दुरिता꣡ बा꣡धमानः  
-अ꣡प प्रोथ दुन्दुभे दुछु꣡ना इत꣡  
-इ꣡न्द्रस्य मुष्टि꣡र् असि वीळ꣡यस्व
+आ᳓ क्रन्दय ब᳓लम् ओ᳓जो न आ᳓ धा  
+नि᳓ ष्टनिहि दुरिता᳓ बा᳓धमानः  
+अ᳓प प्रोथ दुन्दुभे दुछु᳓ना इत᳓  
+इ᳓न्द्रस्य मुष्टि᳓र् असि वीळ᳓यस्व
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -248,7 +248,7 @@ _________
 Roar out your power. Set strength in us. Thunder down, thrusting away  difficulties.  
 Blast away misfortunes from here, o Drum. You are the fist of  
 Indra: be firm!
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">

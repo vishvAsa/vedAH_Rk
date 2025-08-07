@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यूयं꣡ ह र꣡त्नम् मघ꣡वत्सु धत्थ  
-सुवर्दृ꣡श ऋभुक्षणो अ꣡मृक्तम्  
-सं꣡ यज्ञे꣡षु स्वधावन्तः पिबध्वं  
-वि꣡ नो रा꣡धांसि मति꣡भिर् दयध्वम्
+यूयं᳓ ह र᳓त्नम् मघ᳓वत्सु धत्थ  
+सुवर्दृ᳓श ऋभुक्षणो अ᳓मृक्तम्  
+सं᳓ यज्ञे᳓षु स्वधावन्तः पिबध्वं  
+वि᳓ नो रा᳓धांसि मति᳓भिर् दयध्वम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -226,7 +226,7 @@ _________
 
 You confer a treasure on the bounteous (patrons), you R̥bhukṣans of  sunlike sight—(a treasure) indestructible.  
 Drink together at the sacrifices, autonomous ones. Apportion rewards to  us in accordance with our thoughts.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/037/01-02.md">

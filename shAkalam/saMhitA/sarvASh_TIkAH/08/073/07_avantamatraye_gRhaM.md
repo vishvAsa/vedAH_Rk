@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡वन्तम् अ꣡त्रये गृहं꣡  
-कृणुतं꣡ युव꣡म् अश्विना  
-अ꣡न्ति षद् भूतु वाम् अ꣡वः
+अ᳓वन्तम् अ᳓त्रये गृहं᳓  
+कृणुतं᳓ युव᳓म् अश्विना  
+अ᳓न्ति षद् भूतु वाम् अ᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

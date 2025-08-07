@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡दाभियः पुरएता꣡  
-विशा꣡म् अग्नि꣡र् मा꣡नुषीणाम्  
-तू꣡र्णी र꣡थः स꣡दा न꣡वः
+अ᳓दाभियः पुरएता᳓  
+विशा᳓म् अग्नि᳓र् मा᳓नुषीणाम्  
+तू᳓र्णी र᳓थः स᳓दा न᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् इ꣡द् ध꣡नेषु हिते꣡षु  
-अधिवाका꣡य हवन्ते  
-ये꣡षाम् इ꣡न्द्रस् ते꣡ जयन्ति
+त᳓म् इ᳓द् ध᳓नेषु हिते᳓षु  
+अधिवाका᳓य हवन्ते  
+ये᳓षाम् इ᳓न्द्रस् ते᳓ जयन्ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

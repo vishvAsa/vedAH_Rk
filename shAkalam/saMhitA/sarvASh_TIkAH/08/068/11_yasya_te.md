@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य ते स्वादु꣡ सखियं꣡  
-स्वाद्वी꣡ प्र꣡णीतिर् अद्रिवः  
-यज्ञो꣡ वितन्तसा꣡यियः
+य᳓स्य ते स्वादु᳓ सखियं᳓  
+स्वाद्वी᳓ प्र᳓णीतिर् अद्रिवः  
+यज्ञो᳓ वितन्तसा᳓यियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

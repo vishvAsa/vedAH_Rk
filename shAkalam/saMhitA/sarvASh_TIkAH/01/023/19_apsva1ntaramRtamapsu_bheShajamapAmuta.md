@@ -15,9 +15,9 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अप्सु꣡ अन्त꣡र् अमृ꣡तम् अप्सु꣡ भेषज꣡म्  
-अपा꣡म् उत꣡ प्र꣡शस्तये  
-दे꣡वा भ꣡वत वाजि꣡नः
+अप्सु᳓ अन्त᳓र् अमृ᳓तम् अप्सु᳓ भेषज᳓म्  
+अपा᳓म् उत᳓ प्र᳓शस्तये  
+दे᳓वा भ᳓वत वाजि᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

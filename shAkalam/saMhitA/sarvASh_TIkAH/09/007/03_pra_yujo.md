@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ युजो꣡ वाचो꣡ अग्रियो꣡  
-वृ꣡षा꣡व चक्रदद् व꣡ने  
-स꣡द्माभि꣡ सत्यो꣡ अध्वरः꣡
+प्र᳓ युजो᳓ वाचो᳓ अग्रियो᳓  
+वृ᳓षा᳓व चक्रदद् व᳓ने  
+स᳓द्माभि᳓ सत्यो᳓ अध्वरः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ व्रजं꣡ न꣡ तत्निषे  
-सू꣡र उपाक꣡चक्षसम्  
-य꣡द् इन्द्र मॄळ꣡यासि+ नः
+अभि᳓ व्रजं᳓ न᳓ तत्निषे  
+सू᳓र उपाक᳓चक्षसम्  
+य᳓द् इन्द्र मॄळ᳓यासि+ नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

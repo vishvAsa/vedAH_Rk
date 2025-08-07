@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ वाम् अश्नोतु सुष्टुति꣡र्  
-इ꣡न्द्रावरुण यां꣡ हुवे꣡  
-या꣡म् ऋधा꣡थे सध꣡स्तुतिम्
+प्र᳓ वाम् अश्नोतु सुष्टुति᳓र्  
+इ᳓न्द्रावरुण यां᳓ हुवे᳓  
+या᳓म् ऋधा᳓थे सध᳓स्तुतिम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

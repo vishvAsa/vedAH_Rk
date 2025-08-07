@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ शुक्र ए꣡तु देवी꣡ मनीषा꣡  
-अस्म꣡त् सु꣡तष्टो र꣡थो न꣡ वाजी꣡
+प्र᳓ शुक्र ए᳓तु देवी᳓ मनीषा᳓  
+अस्म᳓त् सु᳓तष्टो र᳓थो न᳓ वाजी᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

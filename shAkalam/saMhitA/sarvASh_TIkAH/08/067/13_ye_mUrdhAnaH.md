@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ मूर्धा꣡नः क्षितीना᳐꣡म्  
-अ꣡दब्धासः स्व꣡यशसः  
-व्रता꣡ र꣡क्षन्ते अद्रु꣡हः
+ये᳓ मूर्धा᳓नः क्षितीना᳐᳓म्  
+अ᳓दब्धासः स्व᳓यशसः  
+व्रता᳓ र᳓क्षन्ते अद्रु᳓हः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -142,7 +142,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 They who, as heads of the settled peoples, untrickable, self-glorious, without deceit, guard their commandments—
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/067/12-13.md">

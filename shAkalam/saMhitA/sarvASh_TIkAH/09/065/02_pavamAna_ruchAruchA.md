@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमान रुचा꣡-रुचा  
-देवो꣡ देवे꣡भियस् प꣡रि  
-वि꣡श्वा व꣡सूनि आ꣡ विश
+प᳓वमान रुचा᳓-रुचा  
+देवो᳓ देवे᳓भियस् प᳓रि  
+वि᳓श्वा व᳓सूनि आ᳓ विश
 </details>
 
 <details><summary>Vedaweb annotation</summary>

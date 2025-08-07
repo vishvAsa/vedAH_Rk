@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-नियु꣡त्वान् वायव् आ꣡ गहि  
-अयं꣡ शुक्रो꣡ अयामि ते  
-ग꣡न्तासि सुन्वतो꣡ गृह꣡म्
+नियु᳓त्वान् वायव् आ᳓ गहि  
+अयं᳓ शुक्रो᳓ अयामि ते  
+ग᳓न्तासि सुन्वतो᳓ गृह᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -179,7 +179,7 @@ _________
 
 You with your teams, Vāyu, come here. This clear (soma) has been held  out to you.  
 You are wont to come to the house of the presser.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/041/01-03.md">

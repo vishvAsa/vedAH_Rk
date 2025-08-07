@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ घ त्वा꣡वान् त्म꣡ना आप्त꣡  
-स्तोतृ꣡भ्यो धृष्णव् इयानः꣡  
-ऋणो꣡र् अ꣡क्षं न꣡ चक्रि꣡योः
+आ᳓ घ त्वा᳓वान् त्म᳓ना आप्त᳓  
+स्तोतृ᳓भ्यो धृष्णव् इयानः᳓  
+ऋणो᳓र् अ᳓क्षं न᳓ चक्रि᳓योः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

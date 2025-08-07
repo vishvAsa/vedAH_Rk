@@ -15,10 +15,10 @@ ChandaH = "जगती"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रावरुणा सुतपाव् इमं꣡ सुतं꣡  
-सो꣡मम् पिबतम् म꣡दियं धृतव्रता  
-युवो꣡ र꣡थो अध्वरं꣡ देव꣡वीतये  
-प्र꣡ति स्व꣡सरम् उ꣡प याति पीत꣡ये
+इ᳓न्द्रावरुणा सुतपाव् इमं᳓ सुतं᳓  
+सो᳓मम् पिबतम् म᳓दियं धृतव्रता  
+युवो᳓ र᳓थो अध्वरं᳓ देव᳓वीतये  
+प्र᳓ति स्व᳓सरम् उ᳓प याति पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -229,7 +229,7 @@ _________
 
 O Indra and Varuṇa, soma-drinkers—drink this exhilarating pressed  soma here, o you of steadfast commandments.  
 Your chariot drives to the ceremony for attracting the gods, (as if) to  good pasture to drink.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/068/09-11.md">

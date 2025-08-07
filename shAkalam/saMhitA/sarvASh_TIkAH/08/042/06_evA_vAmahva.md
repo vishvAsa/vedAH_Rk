@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-एवा꣡ वाम् अह्व ऊत꣡ये  
-य꣡था꣡हुवन्त मे꣡धिराः  
-ना꣡सत्या सो꣡मपीतये  
-न꣡भन्ताम् अन्यके꣡ समे
+एवा᳓ वाम् अह्व ऊत᳓ये  
+य᳓था᳓हुवन्त मे᳓धिराः  
+ना᳓सत्या सो᳓मपीतये  
+न᳓भन्ताम् अन्यके᳓ समे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

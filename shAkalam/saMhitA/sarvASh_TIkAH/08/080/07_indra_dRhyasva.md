@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र दृ꣡ह्यस्व पू꣡र् असि  
-भद्रा꣡ त एति निष्कृत꣡   
-इयं꣡ धी꣡र् ऋत्वि꣡यावती
+इ᳓न्द्र दृ᳓ह्यस्व पू᳓र् असि  
+भद्रा᳓ त एति निष्कृत᳓   
+इयं᳓ धी᳓र् ऋत्वि᳓यावती
 </details>
 
 <details><summary>Vedaweb annotation</summary>

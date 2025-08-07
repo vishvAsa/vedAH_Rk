@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡म् आसा꣡ कृप꣡नीळम्  
-भासा꣡केतुं वर्ध꣡यन्ति  
-भ्रा꣡जते श्र꣡यणिदन्+
+य᳓म् आसा᳓ कृप᳓नीळम्  
+भासा᳓केतुं वर्ध᳓यन्ति  
+भ्रा᳓जते श्र᳓यणिदन्+
 </details>
 
 <details><summary>Vedaweb annotation</summary>

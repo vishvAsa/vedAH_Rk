@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र त्वा वृषभं꣡ वयं꣡  
-सुते꣡ सो꣡मे हवामहे  
-स꣡ पाहि म꣡ध्वो अ꣡न्धसः
+इ᳓न्द्र त्वा वृषभं᳓ वयं᳓  
+सुते᳓ सो᳓मे हवामहे  
+स᳓ पाहि म᳓ध्वो अ᳓न्धसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -169,7 +169,7 @@ Indra: a number of etymologies: from **Nirukta** and **Taittirīya** **Āraṇya
 
 Indra! We invoke you as bull when the soma is pressed.  
 Drink of the honey, of the stalk.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/01-02.md">

@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि य꣡द् एषाम् ए꣡को वि꣡श्वेषाम्  
-भु꣡वद् देवो꣡ देवा꣡नाम् महित्वा꣡
+प᳓रि य᳓द् एषाम् ए᳓को वि᳓श्वेषाम्  
+भु᳓वद् देवो᳓ देवा᳓नाम् महित्वा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ नो अग्ने म꣡होभिः  
-पाहि꣡ वि꣡श्वस्या अ꣡रातेः  
-उत꣡ द्विषो꣡ म꣡र्तियस्य
+तुवं᳓ नो अग्ने म᳓होभिः  
+पाहि᳓ वि᳓श्वस्या अ᳓रातेः  
+उत᳓ द्विषो᳓ म᳓र्तियस्य
 </details>
 
 <details><summary>Vedaweb annotation</summary>

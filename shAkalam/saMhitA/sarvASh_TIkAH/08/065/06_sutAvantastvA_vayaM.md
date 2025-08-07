@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुता꣡वन्तस् तुवा वय꣡म्  
-प्र꣡यस्वन्तो हवामहे  
-इदं꣡ नो बर्हि꣡र् आस꣡दे
+सुता᳓वन्तस् तुवा वय᳓म्  
+प्र᳓यस्वन्तो हवामहे  
+इदं᳓ नो बर्हि᳓र् आस᳓दे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

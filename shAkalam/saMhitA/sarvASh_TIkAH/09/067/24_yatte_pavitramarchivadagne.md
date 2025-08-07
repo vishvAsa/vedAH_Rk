@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त् ते पवि꣡त्रम् अर्चिव꣡द्  
-अ꣡ग्ने ते꣡न पुनीहि नः  
-ब्रह्मसवइः꣡ पुनीहि नः
+य᳓त् ते पवि᳓त्रम् अर्चिव᳓द्  
+अ᳓ग्ने ते᳓न पुनीहि नः  
+ब्रह्मसवइः᳓ पुनीहि नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

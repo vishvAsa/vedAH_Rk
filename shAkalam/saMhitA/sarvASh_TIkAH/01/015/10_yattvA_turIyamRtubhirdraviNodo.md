@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त् त्वा तुरी꣡यम् ऋतु꣡भिर्  
-द्र꣡विणोदो य꣡जामहे  
-अ꣡ध स्मा नो ददि꣡र् भव
+य᳓त् त्वा तुरी᳓यम् ऋतु᳓भिर्  
+द्र᳓विणोदो य᳓जामहे  
+अ᳓ध स्मा नो ददि᳓र् भव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

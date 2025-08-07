@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ तू꣡ न इन्द्र वृत्रहन्न्  
-अस्मा꣡कम् अर्ध꣡म् आ꣡ गहि  
-महा꣡न् मही꣡भिर् ऊति꣡भिः
+आ᳓ तू᳓ न इन्द्र वृत्रहन्न्  
+अस्मा᳓कम् अर्ध᳓म् आ᳓ गहि  
+महा᳓न् मही᳓भिर् ऊति᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

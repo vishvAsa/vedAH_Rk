@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्र꣡य इ꣡न्दरस्य+ सो꣡माः  
-सुता꣡सः सन्तु देव꣡स्य  
-सुवे꣡ क्ष꣡ये सुतपा꣡व्नः
+त्र᳓य इ᳓न्दरस्य+ सो᳓माः  
+सुता᳓सः सन्तु देव᳓स्य  
+सुवे᳓ क्ष᳓ये सुतपा᳓व्नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

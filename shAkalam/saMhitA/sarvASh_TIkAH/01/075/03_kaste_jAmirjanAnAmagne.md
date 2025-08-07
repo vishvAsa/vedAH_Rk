@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡स् ते जामि꣡र् ज꣡नाना᳐म्  
-अ꣡ग्ने को꣡ दाशु꣡अध्वरः  
-को꣡ ह क꣡स्मिन्न् असि श्रितः꣡
+क᳓स् ते जामि᳓र् ज᳓नाना᳐म्  
+अ᳓ग्ने को᳓ दाशु᳓अध्वरः  
+को᳓ ह क᳓स्मिन्न् असि श्रितः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -173,7 +173,7 @@ _________
 
 Who is the kinsman of your peoples? O Agni, who holds the pious  ceremony?  
 Who are you and fixed in what?
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/03-04.md">

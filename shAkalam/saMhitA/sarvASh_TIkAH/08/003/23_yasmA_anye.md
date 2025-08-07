@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्मा अन्ये꣡ द꣡श प्र꣡ति  
-धु꣡रं व꣡हन्ति व꣡ह्नयः  
-अ꣡स्तं व꣡यो न꣡ तु꣡ग्रियम्
+य᳓स्मा अन्ये᳓ द᳓श प्र᳓ति  
+धु᳓रं व᳓हन्ति व᳓ह्नयः  
+अ᳓स्तं व᳓यो न᳓ तु᳓ग्रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ यं꣡ विविक्तो꣡ रो꣡दसी  
-ना꣡न्त꣡रिक्षाणि वज्रि꣡णम्  
-अ꣡माद् इ꣡द् अस्य तित्विषे स꣡म् ओ꣡जसः
+न᳓ यं᳓ विविक्तो᳓ रो᳓दसी  
+ना᳓न्त᳓रिक्षाणि वज्रि᳓णम्  
+अ᳓माद् इ᳓द् अस्य तित्विषे स᳓म् ओ᳓जसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

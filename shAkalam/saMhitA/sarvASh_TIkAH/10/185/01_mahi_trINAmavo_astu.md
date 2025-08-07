@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-म꣡हि त्रीणा꣡म् अ꣡वो अस्तु  
-द्युक्ष꣡म् मित्र꣡स्य अर्यम्णः꣡  
-दुराध꣡र्षं व꣡रुणस्य
+म᳓हि त्रीणा᳓म् अ᳓वो अस्तु  
+द्युक्ष᳓म् मित्र᳓स्य अर्यम्णः᳓  
+दुराध᳓र्षं व᳓रुणस्य
 </details>
 
 <details><summary>Vedaweb annotation</summary>

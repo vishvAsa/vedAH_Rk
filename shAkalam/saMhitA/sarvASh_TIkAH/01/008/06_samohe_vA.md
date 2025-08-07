@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-समोहे꣡ वा य꣡ आ꣡शत  
-न꣡रस् तोक꣡स्य स꣡नितौ  
-वि꣡प्रासो वा धियाय꣡वः
+समोहे᳓ वा य᳓ आ᳓शत  
+न᳓रस् तोक᳓स्य स᳓नितौ  
+वि᳓प्रासो वा धियाय᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

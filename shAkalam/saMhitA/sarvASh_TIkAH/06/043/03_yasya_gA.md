@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य गा꣡ अन्त꣡र् अ꣡श्मनो  
-म꣡दे दॄळ्हा꣡+ अवा꣡सृजः  
-अयं꣡ स꣡ सो꣡म इन्द्र ते सुतः꣡ पि꣡ब
+य᳓स्य गा᳓ अन्त᳓र् अ᳓श्मनो  
+म᳓दे दॄळ्हा᳓+ अवा᳓सृजः  
+अयं᳓ स᳓ सो᳓म इन्द्र ते सुतः᳓ पि᳓ब
 </details>
 
 <details><summary>Vedaweb annotation</summary>

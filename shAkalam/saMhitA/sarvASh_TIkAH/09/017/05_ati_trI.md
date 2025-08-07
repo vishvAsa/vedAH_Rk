@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ति त्री꣡ सोम रोचना꣡  
-रो꣡हन् न꣡ भ्राजसे दि꣡वम्  
-इष्ण꣡न् सू꣡र्यं न꣡ चोदयः
+अ᳓ति त्री᳓ सोम रोचना᳓  
+रो᳓हन् न᳓ भ्राजसे दि᳓वम्  
+इष्ण᳓न् सू᳓र्यं न᳓ चोदयः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

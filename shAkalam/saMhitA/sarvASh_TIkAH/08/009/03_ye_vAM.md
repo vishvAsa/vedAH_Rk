@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ वां दं꣡सांसि अश्विना  
-वि꣡प्रासः परिमामृशुः꣡  
-एवे꣡त् काण्व꣡स्य बोधतम्
+ये᳓ वां दं᳓सांसि अश्विना  
+वि᳓प्रासः परिमामृशुः᳓  
+एवे᳓त् काण्व᳓स्य बोधतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

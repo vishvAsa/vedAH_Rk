@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ एनम् आदि꣡देशति  
-करम्भा꣡द् इ꣡ति पूष꣡णम्  
-न꣡ ते꣡न देव꣡ आदि꣡शे
+य᳓ एनम् आदि᳓देशति  
+करम्भा᳓द् इ᳓ति पूष᳓णम्  
+न᳓ ते᳓न देव᳓ आदि᳓शे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

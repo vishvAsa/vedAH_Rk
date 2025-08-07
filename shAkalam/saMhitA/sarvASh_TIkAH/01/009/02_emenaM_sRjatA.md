@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ए꣡म् एनं सृजता सुते꣡  
-मन्दि꣡म् इ꣡न्द्राय मन्दि꣡ने  
-च꣡क्रिं वि꣡श्वानि च꣡क्रये
+ए᳓म् एनं सृजता सुते᳓  
+मन्दि᳓म् इ᳓न्द्राय मन्दि᳓ने  
+च᳓क्रिं वि᳓श्वानि च᳓क्रये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धि या꣡ बृहतो꣡ दिवो꣡  
-अभि꣡ यूथे꣡व प꣡श्यतः  
-ऋता꣡वाना सम्रा꣡जा न꣡मसे हिता꣡
+अ᳓धि या᳓ बृहतो᳓ दिवो᳓  
+अभि᳓ यूथे᳓व प᳓श्यतः  
+ऋता᳓वाना सम्रा᳓जा न᳓मसे हिता᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

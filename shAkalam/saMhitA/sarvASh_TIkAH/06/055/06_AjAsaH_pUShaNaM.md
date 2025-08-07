@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡जा꣡सः पूष꣡णं र꣡थे  
-निशृम्भा꣡स् ते꣡ जनश्रि꣡यम्  
-देवं꣡ वहन्तु बि꣡भ्रतः
+आ᳓जा᳓सः पूष᳓णं र᳓थे  
+निशृम्भा᳓स् ते᳓ जनश्रि᳓यम्  
+देवं᳓ वहन्तु बि᳓भ्रतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

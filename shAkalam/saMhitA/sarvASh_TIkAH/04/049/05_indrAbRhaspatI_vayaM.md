@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राबृ꣡हस्प꣡ती वयं꣡  
-सुते꣡ गीर्भि꣡र् हवामहे  
-अस्य꣡ सो꣡मस्य पीत꣡ये
+इ᳓न्द्राबृ᳓हस्प᳓ती वयं᳓  
+सुते᳓ गीर्भि᳓र् हवामहे  
+अस्य᳓ सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

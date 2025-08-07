@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् यूय꣡म् पृश्निमातरो  
-म꣡र्तिआसः° सिया꣡तन  
-स्तोता꣡ वो अमृ꣡तः सियात्
+य᳓द् यूय᳓म् पृश्निमातरो  
+म᳓र्तिआसः° सिया᳓तन  
+स्तोता᳓ वो अमृ᳓तः सियात्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

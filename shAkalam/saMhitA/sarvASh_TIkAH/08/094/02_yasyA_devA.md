@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्या देवा꣡ उप꣡स्थे  
-व्रता꣡ वि꣡श्वे धार꣡यन्ते  
-सू꣡रियामा꣡सा दृशे꣡ क꣡म्
+य᳓स्या देवा᳓ उप᳓स्थे  
+व्रता᳓ वि᳓श्वे धार᳓यन्ते  
+सू᳓रियामा᳓सा दृशे᳓ क᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

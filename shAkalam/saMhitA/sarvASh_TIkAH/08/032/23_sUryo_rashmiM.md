@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सू꣡र्यो रश्मिं꣡ य꣡था सृज  
-आ꣡ त्वा यछन्तु मे गि꣡रः  
-निम्न꣡म् आ꣡पो न꣡ सध्रि꣡अक्
+सू᳓र्यो रश्मिं᳓ य᳓था सृज  
+आ᳓ त्वा यछन्तु मे गि᳓रः  
+निम्न᳓म् आ᳓पो न᳓ सध्रि᳓अक्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

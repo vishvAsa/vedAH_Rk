@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इयं꣡ वाम् अस्य꣡ म꣡न्मन  
-इ꣡न्द्राग्नी पूर्विय꣡स्तुतिः  
-अभ्रा꣡द् वृष्टि꣡र् इवाजनि
+इयं᳓ वाम् अस्य᳓ म᳓न्मन  
+इ᳓न्द्राग्नी पूर्विय᳓स्तुतिः  
+अभ्रा᳓द् वृष्टि᳓र् इवाजनि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

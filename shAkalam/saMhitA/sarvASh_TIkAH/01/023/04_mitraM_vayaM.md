@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मित्रं꣡ वयं꣡ हवामहे  
-व꣡रुणं सो꣡मपीतये  
-जज्ञाना꣡ पूत꣡दक्षसा
+मित्रं᳓ वयं᳓ हवामहे  
+व᳓रुणं सो᳓मपीतये  
+जज्ञाना᳓ पूत᳓दक्षसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

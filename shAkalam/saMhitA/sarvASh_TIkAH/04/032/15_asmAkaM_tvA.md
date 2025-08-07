@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्मा꣡कं त्वा मतीना᳐꣡म्  
-आ꣡ स्तो꣡म इन्द्र यछतु  
-अर्वा꣡ग् आ꣡ वर्तया ह꣡री
+अस्मा᳓कं त्वा मतीना᳐᳓म्  
+आ᳓ स्तो᳓म इन्द्र यछतु  
+अर्वा᳓ग् आ᳓ वर्तया ह᳓री
 </details>
 
 <details><summary>Vedaweb annotation</summary>

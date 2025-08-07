@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ वाम् अर्चन्ति उक्थि꣡नो  
-नीथावि꣡दो जरिता꣡रः  
-इ꣡न्द्राग्नी इ꣡ष आ꣡ वृणे
+प्र᳓ वाम् अर्चन्ति उक्थि᳓नो  
+नीथावि᳓दो जरिता᳓रः  
+इ᳓न्द्राग्नी इ᳓ष आ᳓ वृणे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

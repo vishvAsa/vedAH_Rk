@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व वृत्रहन्तम  
-उक्थे꣡भिर् अनुमा꣡दियः  
-शु꣡चिः पवाको꣡+ अ꣡द्भुतः
+प᳓वस्व वृत्रहन्तम  
+उक्थे᳓भिर् अनुमा᳓दियः  
+शु᳓चिः पवाको᳓+ अ᳓द्भुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

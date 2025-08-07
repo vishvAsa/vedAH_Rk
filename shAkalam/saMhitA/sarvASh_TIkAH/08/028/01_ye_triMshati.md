@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ त्रिंश꣡ति त्र꣡यस् परो꣡  
-देवा꣡सो बर्हि꣡र् आ꣡सदन्  
-विद꣡न्न् अ꣡ह द्विता꣡सनन्
+ये᳓ त्रिंश᳓ति त्र᳓यस् परो᳓  
+देवा᳓सो बर्हि᳓र् आ᳓सदन्  
+विद᳓न्न् अ᳓ह द्विता᳓सनन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-जनीय꣡न्तो नु꣡ अ꣡ग्रवः  
-पुत्रीय꣡न्तः सुदा꣡नवः  
-स꣡रस्वन्तं हवामहे
+जनीय᳓न्तो नु᳓ अ᳓ग्रवः  
+पुत्रीय᳓न्तः सुदा᳓नवः  
+स᳓रस्वन्तं हवामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡वेमे꣡ सप्त꣡ सि꣡न्धवः  
-प्रशि꣡षं सोम सिस्रते  
-तु꣡भ्यं धावन्ति धेन꣡वः
+त᳓वेमे᳓ सप्त᳓ सि᳓न्धवः  
+प्रशि᳓षं सोम सिस्रते  
+तु᳓भ्यं धावन्ति धेन᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,7 +151,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Yours are these seven streams that flow forth to your command, Soma. For you do the milk-cows run.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/04-06.md">

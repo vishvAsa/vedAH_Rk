@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि त्रिविष्टि꣡ अध्वरं꣡  
-या꣡ति अग्नी꣡ रथी꣡र् इव  
-आ꣡ देवे꣡षु प्र꣡यो द꣡धत्
+प᳓रि त्रिविष्टि᳓ अध्वरं᳓  
+या᳓ति अग्नी᳓ रथी᳓र् इव  
+आ᳓ देवे᳓षु प्र᳓यो द᳓धत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

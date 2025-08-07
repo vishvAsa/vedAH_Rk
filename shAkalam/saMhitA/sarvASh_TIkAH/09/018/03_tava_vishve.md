@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡व वि꣡श्वे सजो꣡षसो  
-देवा꣡सः पीति꣡म् आशत  
-म꣡देषु सर्वधा꣡ असि
+त᳓व वि᳓श्वे सजो᳓षसो  
+देवा᳓सः पीति᳓म् आशत  
+म᳓देषु सर्वधा᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -155,7 +155,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 All the gods, joined in fellowship, have attained the drinking of you. – You are the one who confers wholeness in the raptures of exhilaration.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/03-04.md">

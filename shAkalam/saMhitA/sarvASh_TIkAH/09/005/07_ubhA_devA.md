@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उभा꣡ देवा꣡ नृच꣡क्षसा  
-हो꣡तारा दइ꣡विया हुवे  
-प꣡वमान इ꣡न्द्रो वृ꣡षा
+उभा᳓ देवा᳓ नृच᳓क्षसा  
+हो᳓तारा दइ᳓विया हुवे  
+प᳓वमान इ᳓न्द्रो वृ᳓षा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

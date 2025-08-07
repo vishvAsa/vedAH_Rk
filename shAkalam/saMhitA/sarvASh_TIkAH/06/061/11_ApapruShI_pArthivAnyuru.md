@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आपप्रु꣡षी पा꣡र्थिवानि  
-उरु꣡ र꣡जो अन्त꣡रिक्षम्  
-स꣡रस्वती निद꣡स् पातु
+आपप्रु᳓षी पा᳓र्थिवानि  
+उरु᳓ र᳓जो अन्त᳓रिक्षम्  
+स᳓रस्वती निद᳓स् पातु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

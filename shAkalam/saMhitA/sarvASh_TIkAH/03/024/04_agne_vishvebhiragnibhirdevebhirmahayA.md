@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने वि꣡श्वेभिर् अग्नि꣡भिर्  
-देवे꣡भिर् महया गि꣡रः  
-यज्ञे꣡षु य꣡ उ चाय꣡वः
+अ᳓ग्ने वि᳓श्वेभिर् अग्नि᳓भिर्  
+देवे᳓भिर् महया गि᳓रः  
+यज्ञे᳓षु य᳓ उ चाय᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ सोता प꣡रि षिञ्चत  
-अ꣡श्वं न꣡ स्तो꣡मम् अप्तु꣡रं रजस्तु꣡रम्  
-वनक्रक्ष꣡म् उदप्रु꣡तम्
+आ᳓ सोता प᳓रि षिञ्चत  
+अ᳓श्वं न᳓ स्तो᳓मम् अप्तु᳓रं रजस्तु᳓रम्  
+वनक्रक्ष᳓म् उदप्रु᳓तम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

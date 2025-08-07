@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ नो र꣡त्नानि धत्तन  
-त्रि꣡र् आ꣡ सा꣡प्तानि सुन्वते꣡  
-ए꣡कम्-एकं सुशस्ति꣡भिः
+ते᳓ नो र᳓त्नानि धत्तन  
+त्रि᳓र् आ᳓ सा᳓प्तानि सुन्वते᳓  
+ए᳓कम्-एकं सुशस्ति᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

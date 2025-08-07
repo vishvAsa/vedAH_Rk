@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गिर꣡यश् चिन् नि꣡ जिहते  
-प꣡र्शानासो म꣡न्यमानाः  
-प꣡र्वताश् चिन् नि꣡ येमिरे
+गिर᳓यश् चिन् नि᳓ जिहते  
+प᳓र्शानासो म᳓न्यमानाः  
+प᳓र्वताश् चिन् नि᳓ येमिरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

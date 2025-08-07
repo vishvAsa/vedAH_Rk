@@ -15,10 +15,10 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-नहि꣡ व ऊतिः꣡ पृ꣡तनासु म꣡र्धति  
-य꣡स्मा अ꣡राधुवं नरः  
-अभि꣡ व आ꣡वर्त् सुमति꣡र् न꣡वीयसी  
-तू꣡यं यात पिपीषवः
+नहि᳓ व ऊतिः᳓ पृ᳓तनासु म᳓र्धति  
+य᳓स्मा अ᳓राधुवं नरः  
+अभि᳓ व आ᳓वर्त् सुमति᳓र् न᳓वीयसी  
+तू᳓यं यात पिपीषवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -211,7 +211,7 @@ _________
 
 Your help in battles certainly does not desert him to whom you have  granted it, o men.  
 Your favor has turned here anew. Drive straightaway, you who desire  to drink.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/03-04.md">

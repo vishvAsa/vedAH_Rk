@@ -15,9 +15,9 @@ ChandaH = "ऊर्ध्वबृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-दिवः꣡ पीयू꣡षम् पूर्वियं꣡ य꣡द् उक्थि꣡यम्  
-महो꣡ गाहा꣡द् दिव꣡ आ꣡ नि꣡र् अधुक्षत  
-इ꣡न्द्रम् अभि꣡ जा꣡यमानं स꣡म् अस्वरन्
+दिवः᳓ पीयू᳓षम् पूर्वियं᳓ य᳓द् उक्थि᳓यम्  
+महो᳓ गाहा᳓द् दिव᳓ आ᳓ नि᳓र् अधुक्षत  
+इ᳓न्द्रम् अभि᳓ जा᳓यमानं स᳓म् अस्वरन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -209,7 +209,7 @@ _________
 
 The ancient beestings of heaven, worthy of hymns—they milked that  out of the great depth of heaven.  
 They cried out in unison toward Indra as he was being born.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/07-09.md">

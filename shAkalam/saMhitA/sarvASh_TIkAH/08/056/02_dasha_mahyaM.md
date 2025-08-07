@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-द꣡श म꣡ह्यम् पौतक्रतः꣡  
-सह꣡स्रा द꣡स्यवे वृ꣡कः  
-नि꣡त्याद् रायो꣡ अमंहत
+द᳓श म᳓ह्यम् पौतक्रतः᳓  
+सह᳓स्रा द᳓स्यवे वृ᳓कः  
+नि᳓त्याद् रायो᳓ अमंहत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

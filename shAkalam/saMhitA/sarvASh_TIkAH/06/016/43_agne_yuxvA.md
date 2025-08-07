@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने युक्ष्वा꣡ हि꣡ ये꣡ त꣡व  
-अ꣡श्वासो देव साध꣡वः  
-अ꣡रं व꣡हन्ति मन्य꣡वे
+अ᳓ग्ने युक्ष्वा᳓ हि᳓ ये᳓ त᳓व  
+अ᳓श्वासो देव साध᳓वः  
+अ᳓रं व᳓हन्ति मन्य᳓वे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-चिकित्वि꣡न्मनसं तुवा  
-देव꣡म् म꣡र्तास ऊत꣡ये  
-व꣡रेण्यस्य ते अ꣡वस  
-इयाना꣡सो अमन्महि
+चिकित्वि᳓न्मनसं तुवा  
+देव᳓म् म᳓र्तास ऊत᳓ये  
+व᳓रेण्यस्य ते अ᳓वस  
+इयाना᳓सो अमन्महि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

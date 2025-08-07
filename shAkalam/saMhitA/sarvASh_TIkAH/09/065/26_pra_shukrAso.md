@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ शुक्रा꣡सो वयोजु꣡वो  
-हिन्वाना꣡सो न꣡ स꣡प्तयः  
-श्रीणाना꣡ अप्सु꣡ मृञ्जत
+प्र᳓ शुक्रा᳓सो वयोजु᳓वो  
+हिन्वाना᳓सो न᳓ स᳓प्तयः  
+श्रीणाना᳓ अप्सु᳓ मृञ्जत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

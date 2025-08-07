@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡षां श्रिया꣡धि रो꣡दसी  
-विभ्रा꣡जन्ते र꣡थेषु आ꣡  
-दिवि꣡ रुक्म꣡ इवोप꣡रि
+ये᳓षां श्रिया᳓धि रो᳓दसी  
+विभ्रा᳓जन्ते र᳓थेषु आ᳓  
+दिवि᳓ रुक्म᳓ इवोप᳓रि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

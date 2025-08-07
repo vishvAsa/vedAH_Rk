@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ पवस्व सहस्रि꣡णं  
-रयिं꣡ सोम सुवी꣡रियम्  
-अस्मे꣡ श्र꣡वांसि धारय
+आ᳓ पवस्व सहस्रि᳓णं  
+रयिं᳓ सोम सुवी᳓रियम्  
+अस्मे᳓ श्र᳓वांसि धारय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,7 +154,7 @@ _________
 In purifying yourself, o Soma, bring wealth in thousands and an  
 abundance of good heroes;  
 secure our claims to fame for us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/01-03.md">

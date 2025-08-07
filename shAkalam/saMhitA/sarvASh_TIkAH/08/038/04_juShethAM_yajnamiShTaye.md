@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-जुषे꣡थां यज्ञ꣡म् इष्ट꣡ये  
-सुतं꣡ सो꣡मं सधस्तुती  
-इ꣡न्द्राग्नी आ꣡ गतं नरा
+जुषे᳓थां यज्ञ᳓म् इष्ट᳓ये  
+सुतं᳓ सो᳓मं सधस्तुती  
+इ᳓न्द्राग्नी आ᳓ गतं नरा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

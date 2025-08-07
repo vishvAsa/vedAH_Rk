@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ हि꣡ व꣡स्वो व꣡सवानास्  
-ते꣡ अ꣡प्रमूरा म꣡होभिः  
-व्रता꣡ रक्षन्ते विश्वा꣡हा
+ते᳓ हि᳓ व᳓स्वो व᳓सवानास्  
+ते᳓ अ᳓प्रमूरा म᳓होभिः  
+व्रता᳓ रक्षन्ते विश्वा᳓हा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

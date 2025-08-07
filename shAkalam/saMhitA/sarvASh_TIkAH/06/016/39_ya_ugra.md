@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ उग्र꣡ इव शर्यहा꣡  
-तिग्म꣡शृङ्गो न꣡ वं꣡सगः  
-अ꣡ग्ने पु꣡रो रुरो꣡जिथ
+य᳓ उग्र᳓ इव शर्यहा᳓  
+तिग्म᳓शृङ्गो न᳓ वं᳓सगः  
+अ᳓ग्ने पु᳓रो रुरो᳓जिथ
 </details>
 
 <details><summary>Vedaweb annotation</summary>

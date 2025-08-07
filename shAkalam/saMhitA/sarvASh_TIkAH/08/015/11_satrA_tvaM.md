@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सत्रा꣡ तुव꣡म् पुरुष्टुतँ  
-ए꣡को वृत्रा꣡णि तोशसे  
-ना꣡न्य꣡ इ꣡न्द्रात् क꣡रणम् भू꣡य इन्वति
+सत्रा᳓ तुव᳓म् पुरुष्टुतँ  
+ए᳓को वृत्रा᳓णि तोशसे  
+ना᳓न्य᳓ इ᳓न्द्रात् क᳓रणम् भू᳓य इन्वति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-हिन्वानो꣡ वा꣡चम् इष्यसि  
-प꣡वमान वि꣡धर्मणि  
-अ꣡क्रान् देवो꣡ न꣡ सू꣡रियः
+हिन्वानो᳓ वा᳓चम् इष्यसि  
+प᳓वमान वि᳓धर्मणि  
+अ᳓क्रान् देवो᳓ न᳓ सू᳓रियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

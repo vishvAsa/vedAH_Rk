@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ स्वरा꣡जो अ꣡दितिर्  
-अ꣡दब्धस्य व्रत꣡स्य ये꣡  
-महो꣡ रा꣡जान ईशते
+उत᳓ स्वरा᳓जो अ᳓दितिर्  
+अ᳓दब्धस्य व्रत᳓स्य ये᳓  
+महो᳓ रा᳓जान ईशते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

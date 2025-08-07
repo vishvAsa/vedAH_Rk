@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो याहि सुता꣡वतो  
-अस्मा꣡कं सुष्टुती꣡र् उ꣡प  
-पि꣡बा सु꣡ शिप्रिन् अ꣡न्धसः
+आ᳓ नो याहि सुता᳓वतो  
+अस्मा᳓कं सुष्टुती᳓र् उ᳓प  
+पि᳓बा सु᳓ शिप्रिन् अ᳓न्धसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

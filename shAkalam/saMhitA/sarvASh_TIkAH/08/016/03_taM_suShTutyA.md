@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ सुष्टुतिया꣡ विवासे  
-ज्येष्ठरा꣡जम् भ꣡रे कृत्नु꣡म्  
-महो꣡ वाजि꣡नं सनि꣡भ्यः
+तं᳓ सुष्टुतिया᳓ विवासे  
+ज्येष्ठरा᳓जम् भ᳓रे कृत्नु᳓म्  
+महो᳓ वाजि᳓नं सनि᳓भ्यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

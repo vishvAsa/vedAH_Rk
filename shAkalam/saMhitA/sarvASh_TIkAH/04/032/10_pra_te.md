@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ ते वोचाम वीरि꣡या  
-या꣡ मन्दसान꣡ आ꣡रुजः  
-पु꣡रो दा꣡सीर् अभी꣡तिय
+प्र᳓ ते वोचाम वीरि᳓या  
+या᳓ मन्दसान᳓ आ᳓रुजः  
+पु᳓रो दा᳓सीर् अभी᳓तिय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

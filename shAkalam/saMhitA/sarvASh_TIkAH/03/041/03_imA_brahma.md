@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमा꣡ ब्र꣡ह्म ब्रह्मवाहः  
-क्रिय꣡न्त आ꣡ बर्हिः꣡ सीद  
-वीहि꣡ शूर पुरोळा꣡शम्
+इमा᳓ ब्र᳓ह्म ब्रह्मवाहः  
+क्रिय᳓न्त आ᳓ बर्हिः᳓ सीद  
+वीहि᳓ शूर पुरोळा᳓शम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

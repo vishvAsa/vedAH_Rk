@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने मॄळ꣡+ महाँ꣡ असि  
-य꣡ ईम् आ꣡ देवयुं꣡ ज꣡नम्  
-इये꣡थ बर्हि꣡र् आस꣡दम्
+अ᳓ग्ने मॄळ᳓+ महाँ᳓ असि  
+य᳓ ईम् आ᳓ देवयुं᳓ ज᳓नम्  
+इये᳓थ बर्हि᳓र् आस᳓दम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

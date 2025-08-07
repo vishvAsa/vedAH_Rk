@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ त्वा वृषभा सुते꣡  
-सुतं꣡ सृजामि पीत꣡ये  
-तृम्पा꣡ वि꣡ अश्नुही म꣡दम्
+अभि᳓ त्वा वृषभा सुते᳓  
+सुतं᳓ सृजामि पीत᳓ये  
+तृम्पा᳓ वि᳓ अश्नुही म᳓दम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

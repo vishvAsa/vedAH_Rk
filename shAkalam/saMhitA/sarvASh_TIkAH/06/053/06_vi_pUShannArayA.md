@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ पूषन्न् आ꣡रया तुद  
-पणे꣡र् इछ हृदि꣡ प्रिय꣡म्  
-अ꣡थेम् अस्म꣡भ्य° रन्धय
+वि᳓ पूषन्न् आ᳓रया तुद  
+पणे᳓र् इछ हृदि᳓ प्रिय᳓म्  
+अ᳓थेम् अस्म᳓भ्य° रन्धय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -171,7 +171,7 @@ _________
 
 Thrust through (them) with an awl, Pūṣan. Seek what is dear to the  heart of the niggard.  
 And make him subject to us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/05-06.md">

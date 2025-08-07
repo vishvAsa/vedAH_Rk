@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-भीता꣡य ना꣡धमानाय  
-ऋ꣡षये सप्त꣡वध्रये  
-माया꣡भिर् अश्विना युवं꣡  
-वृक्षं꣡ सं꣡ च वि꣡ चाचथः
+भीता᳓य ना᳓धमानाय  
+ऋ᳓षये सप्त᳓वध्रये  
+माया᳓भिर् अश्विना युवं᳓  
+वृक्षं᳓ सं᳓ च वि᳓ चाचथः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

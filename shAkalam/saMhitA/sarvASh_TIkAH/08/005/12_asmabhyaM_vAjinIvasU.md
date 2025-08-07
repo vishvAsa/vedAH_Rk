@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्म꣡भ्यं वाजिनीवसू  
-मघ꣡वद्भ्यश् च सप्र꣡थः  
-छर्दि꣡र् यन्तम् अ꣡दाभियम्
+अस्म᳓भ्यं वाजिनीवसू  
+मघ᳓वद्भ्यश् च सप्र᳓थः  
+छर्दि᳓र् यन्तम् अ᳓दाभियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

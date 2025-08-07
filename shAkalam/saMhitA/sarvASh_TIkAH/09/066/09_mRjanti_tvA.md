@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मृज꣡न्ति त्वा स꣡म् अग्रु꣡वो  
-अ꣡व्ये जीरा꣡व् अ꣡धि ष्व꣡णि  
-रेभो꣡ य꣡द् अज्य꣡से व꣡ने
+मृज᳓न्ति त्वा स᳓म् अग्रु᳓वो  
+अ᳓व्ये जीरा᳓व् अ᳓धि ष्व᳓णि  
+रेभो᳓ य᳓द् अज्य᳓से व᳓ने
 </details>
 
 <details><summary>Vedaweb annotation</summary>

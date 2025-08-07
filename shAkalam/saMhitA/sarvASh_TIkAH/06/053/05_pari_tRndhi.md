@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि तृन्धि पणीना᳐꣡म्  
-आ꣡रया हृ꣡दया कवे  
-अ꣡थेम् अस्म꣡भ्य° रन्धय
+प᳓रि तृन्धि पणीना᳐᳓म्  
+आ᳓रया हृ᳓दया कवे  
+अ᳓थेम् अस्म᳓भ्य° रन्धय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -158,7 +158,7 @@ cavity Su1ryas. ; N. of a tree L. ; N. of a lake KaushUp. ; the plural net **Mar
 
 Bore around the hearts of the niggards with an awl, you poet.  
 And make them subject to us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/05-06.md">

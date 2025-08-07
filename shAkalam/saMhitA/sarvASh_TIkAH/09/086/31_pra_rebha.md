@@ -15,10 +15,10 @@ ChandaH = "जगती"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ रेभ꣡ एति अ꣡ति वा꣡रम् अव्य꣡यं  
-वृ꣡षा व꣡नेषु अ꣡व चक्रदद् ध꣡रिः  
-सं꣡ धीत꣡यो वावशाना꣡ अनूषत  
-शि꣡शुं रिहन्ति मत꣡यः प꣡निप्नतम्
+प्र᳓ रेभ᳓ एति अ᳓ति वा᳓रम् अव्य᳓यं  
+वृ᳓षा व᳓नेषु अ᳓व चक्रदद् ध᳓रिः  
+सं᳓ धीत᳓यो वावशाना᳓ अनूषत  
+शि᳓शुं रिहन्ति मत᳓यः प᳓निप्नतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -235,7 +235,7 @@ _________
 
 The husky-voiced one goes forth across the sheep’s fleece; the tawny bull  has roared down into the woods [/wooden vessels].  
 The hymnic visions, bellowing [/in their longing], have roared together.  The thoughts lick the child who always excites wonder.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/31-33.md">

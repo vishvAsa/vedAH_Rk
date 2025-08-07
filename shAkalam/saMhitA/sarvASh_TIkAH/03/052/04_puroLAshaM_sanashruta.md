@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरोळा꣡शं सनश्रुत  
-प्रातःसावे꣡ जुषस्व नः  
-इ꣡न्द्र क्र꣡तुर् हि꣡ ते बृह꣡न्
+पुरोळा᳓शं सनश्रुत  
+प्रातःसावे᳓ जुषस्व नः  
+इ᳓न्द्र क्र᳓तुर् हि᳓ ते बृह᳓न्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

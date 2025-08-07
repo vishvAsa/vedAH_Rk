@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ त्या꣡ सद्य꣡ आ꣡रिया  
-सर꣡योर् इन्द्र पार꣡तः  
-अ꣡र्णाचित्र꣡रथावधीः
+उत᳓ त्या᳓ सद्य᳓ आ᳓रिया  
+सर᳓योर् इन्द्र पार᳓तः  
+अ᳓र्णाचित्र᳓रथावधीः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -152,7 +152,7 @@ Those two Āryas: **āryā** = āryābhimānau, āryatvabhimāninau, presuming o
 
 And these two Āryas, Arṇa and Citraratha, did you strike at the  same time  
 to the far side of the Sarayu (River), o Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">

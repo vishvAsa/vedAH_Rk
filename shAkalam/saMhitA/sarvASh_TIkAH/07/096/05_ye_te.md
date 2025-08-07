@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ ते सरस्व ऊर्म꣡यो  
-म꣡धुमन्तो घृतश्चु꣡तः  
-ते꣡भिर् नो अविता꣡ भव
+ये᳓ ते सरस्व ऊर्म᳓यो  
+म᳓धुमन्तो घृतश्चु᳓तः  
+ते᳓भिर् नो अविता᳓ भव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

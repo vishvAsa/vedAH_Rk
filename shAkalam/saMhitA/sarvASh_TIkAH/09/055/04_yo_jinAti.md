@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ जिना꣡ति न꣡ जी꣡यते  
-ह꣡न्ति श꣡त्रुम् अभी꣡तिय  
-स꣡ पवस्व सहस्रजित्
+यो᳓ जिना᳓ति न᳓ जी᳓यते  
+ह᳓न्ति श᳓त्रुम् अभी᳓तिय  
+स᳓ पवस्व सहस्रजित्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

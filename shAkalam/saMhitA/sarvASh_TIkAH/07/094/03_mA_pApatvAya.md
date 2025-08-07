@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ पापत्वा꣡य नो नरा  
-इ꣡न्द्राग्नी मा꣡भि꣡शस्तये  
-मा꣡ नो रीरधतं निदे꣡
+मा᳓ पापत्वा᳓य नो नरा  
+इ᳓न्द्राग्नी मा᳓भि᳓शस्तये  
+मा᳓ नो रीरधतं निदे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

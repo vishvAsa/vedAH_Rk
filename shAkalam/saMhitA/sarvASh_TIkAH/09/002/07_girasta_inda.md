@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गि꣡रस् त इन्द ओ꣡जसा  
-मर्मृज्य꣡न्ते अपस्यु꣡वः  
-या꣡भिर् म꣡दाय शु꣡म्भसे
+गि᳓रस् त इन्द ओ᳓जसा  
+मर्मृज्य᳓न्ते अपस्यु᳓वः  
+या᳓भिर् म᳓दाय शु᳓म्भसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

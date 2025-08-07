@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभिवृ꣡त्य सप꣡त्नान्  
-अभि꣡ या꣡ नो अ꣡रातयः  
-अभि꣡ पृतन्य꣡न्तं तिष्ठ  
-अभि꣡ यो꣡ न इरस्य꣡ति
+अभिवृ᳓त्य सप᳓त्नान्  
+अभि᳓ या᳓ नो अ᳓रातयः  
+अभि᳓ पृतन्य᳓न्तं तिष्ठ  
+अभि᳓ यो᳓ न इरस्य᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

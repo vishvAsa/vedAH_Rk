@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि वा꣡जपतिः कवि꣡र्  
-अग्नि꣡र् हव्या꣡नि अक्रमीत्  
-द꣡धद् र꣡त्नानि दाशु꣡षे
+प᳓रि वा᳓जपतिः कवि᳓र्  
+अग्नि᳓र् हव्या᳓नि अक्रमीत्  
+द᳓धद् र᳓त्नानि दाशु᳓षे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्म꣡ना सम꣡त्सु हिनो꣡त यज्ञं꣡  
-द꣡धात केतुं꣡ ज꣡नाय वीर꣡म्
+त्म᳓ना सम᳓त्सु हिनो᳓त यज्ञं᳓  
+द᳓धात केतुं᳓ ज᳓नाय वीर᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -134,7 +134,7 @@ _________
 
 By yourself spur on the sacrifice at the combats.  
 Establish it as a beacon, a hero for the people.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/04-06.md">

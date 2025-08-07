@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रं वर्धन्तु नो गि꣡र  
-इ꣡न्द्रं सुता꣡स इ꣡न्दवः  
-इ꣡न्द्रे हवि꣡ष्मतीर् वि꣡शो अराणिषुः
+इ᳓न्द्रं वर्धन्तु नो गि᳓र  
+इ᳓न्द्रं सुता᳓स इ᳓न्दवः  
+इ᳓न्द्रे हवि᳓ष्मतीर् वि᳓शो अराणिषुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -172,7 +172,7 @@ Excite plural asure: or, having rejoiced in Indra, araṃsiṣuḥ
 <details><summary>Jamison Brereton</summary>
 
 Let our songs increase Indra, let our pressed drops (increase) Indra; in Indra have the oblation-bearing clans found joy.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/013/16-18.md">

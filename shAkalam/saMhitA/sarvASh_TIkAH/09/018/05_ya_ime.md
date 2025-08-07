@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ इमे꣡ रो꣡दसी मही꣡  
-स꣡म् मात꣡रेव दो꣡हते  
-म꣡देषु सर्वधा꣡ असि
+य᳓ इमे᳓ रो᳓दसी मही᳓  
+स᳓म् मात᳓रेव दो᳓हते  
+म᳓देषु सर्वधा᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

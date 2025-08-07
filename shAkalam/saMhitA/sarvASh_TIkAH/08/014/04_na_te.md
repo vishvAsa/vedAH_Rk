@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ ते वर्ता꣡स्ति रा꣡धस  
-इ꣡न्द्र देवो꣡ न꣡ म꣡र्तियः  
-य꣡द् दि꣡त्ससि स्तुतो꣡ मघ꣡म्
+न᳓ ते वर्ता᳓स्ति रा᳓धस  
+इ᳓न्द्र देवो᳓ न᳓ म᳓र्तियः  
+य᳓द् दि᳓त्ससि स्तुतो᳓ मघ᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

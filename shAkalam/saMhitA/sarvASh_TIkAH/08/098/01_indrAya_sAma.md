@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राय सा꣡म गायत  
-वि꣡प्राय बृहते꣡ बृह꣡त्  
-धर्मकृ꣡ते विपश्चि꣡ते पनस्य꣡वे
+इ᳓न्द्राय सा᳓म गायत  
+वि᳓प्राय बृहते᳓ बृह᳓त्  
+धर्मकृ᳓ते विपश्चि᳓ते पनस्य᳓वे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

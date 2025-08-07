@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡षं तोका꣡य नो द꣡धद्  
-अस्म꣡भ्यं सोम विश्व꣡तः  
-आ꣡ पवस्व सहस्रि꣡णम्
+इ᳓षं तोका᳓य नो द᳓धद्  
+अस्म᳓भ्यं सोम विश्व᳓तः  
+आ᳓ पवस्व सहस्रि᳓णम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -153,7 +153,7 @@ _________
 
 Establishing refreshment for our offspring and for us on all sides,  o Soma,  
 by purifying yourself bring thousandfold (wealth) here.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/19-21.md">

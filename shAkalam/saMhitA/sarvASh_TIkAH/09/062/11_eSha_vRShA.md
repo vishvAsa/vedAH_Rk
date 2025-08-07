@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ वृ꣡षा वृ꣡षव्रतः  
-प꣡वमानो अशस्तिहा꣡  
-क꣡रद् व꣡सूनि दाशु꣡षे
+एष᳓ वृ᳓षा वृ᳓षव्रतः  
+प᳓वमानो अशस्तिहा᳓  
+क᳓रद् व᳓सूनि दाशु᳓षे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

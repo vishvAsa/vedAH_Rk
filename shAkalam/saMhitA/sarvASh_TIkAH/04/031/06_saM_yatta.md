@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सं꣡ य꣡त् त इन्द्र मन्य꣡वः  
-सं꣡ चक्रा꣡णि दधन्विरे꣡  
-अ꣡ध त्वे꣡ अ꣡ध सू꣡रिये
+सं᳓ य᳓त् त इन्द्र मन्य᳓वः  
+सं᳓ चक्रा᳓णि दधन्विरे᳓  
+अ᳓ध त्वे᳓ अ᳓ध सू᳓रिये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

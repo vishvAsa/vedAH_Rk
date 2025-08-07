@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ सखायः सबर्दु꣡घां  
-धेनु꣡म् अजध्वम् उ꣡प न꣡व्यसा व꣡चः  
-सृज꣡ध्वम् अ꣡नपस्फुराम्
+आ᳓ सखायः सबर्दु᳓घां  
+धेनु᳓म् अजध्वम् उ᳓प न᳓व्यसा व᳓चः  
+सृज᳓ध्वम् अ᳓नपस्फुराम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

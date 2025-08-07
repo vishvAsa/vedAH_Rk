@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सोमा꣡नं सुअ꣡रणं  
-कृणुहि꣡ ब्रह्मणस् पते  
-कक्षी꣡वन्तं य꣡ औशिजः꣡
+सोमा᳓नं सुअ᳓रणं  
+कृणुहि᳓ ब्रह्मणस् पते  
+कक्षी᳓वन्तं य᳓ औशिजः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

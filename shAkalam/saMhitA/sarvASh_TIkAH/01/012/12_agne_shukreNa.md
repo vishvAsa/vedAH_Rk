@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने शुक्रे꣡ण शोचि꣡षा  
-वि꣡श्वाभिर् देव꣡हूतिभिः  
-इमं꣡ स्तो꣡मं जुषस्व नः
+अ᳓ग्ने शुक्रे᳓ण शोचि᳓षा  
+वि᳓श्वाभिर् देव᳓हूतिभिः  
+इमं᳓ स्तो᳓मं जुषस्व नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

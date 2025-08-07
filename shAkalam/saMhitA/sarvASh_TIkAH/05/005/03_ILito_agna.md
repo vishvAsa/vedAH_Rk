@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ईळितो꣡ अग्न आ꣡ वह  
-इ꣡न्द्रं चित्र꣡म् इह꣡ प्रिय꣡म्  
-सुखइ꣡ र꣡थेभिर् ऊत꣡ये
+ईळितो᳓ अग्न आ᳓ वह  
+इ᳓न्द्रं चित्र᳓म् इह᳓ प्रिय᳓म्  
+सुखइ᳓ र᳓थेभिर् ऊत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

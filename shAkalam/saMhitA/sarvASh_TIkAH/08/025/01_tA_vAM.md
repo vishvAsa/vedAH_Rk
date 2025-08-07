@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ वां वि꣡श्वस्य गोपा᳐꣡  
-देवा꣡ देवे꣡षु यज्ञि꣡या  
-ऋता꣡वाना यजसे पूत꣡दक्षसा
+ता᳓ वां वि᳓श्वस्य गोपा᳐᳓  
+देवा᳓ देवे᳓षु यज्ञि᳓या  
+ऋता᳓वाना यजसे पूत᳓दक्षसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

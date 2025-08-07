@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡ण्वास इन्द्र ते मतिं꣡  
-वि꣡श्वे वर्धन्ति पउं꣡सियम्  
-उतो꣡ शविष्ठ वृ꣡ष्णियम्
+क᳓ण्वास इन्द्र ते मतिं᳓  
+वि᳓श्वे वर्धन्ति पउं᳓सियम्  
+उतो᳓ शविष्ठ वृ᳓ष्णियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

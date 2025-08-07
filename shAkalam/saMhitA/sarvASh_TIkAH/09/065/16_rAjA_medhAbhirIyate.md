@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-रा꣡जा मेधा꣡भिर् ईयते  
-प꣡वमानो मना꣡व् अ꣡धि  
-अन्त꣡रिक्षेण या꣡तवे
+रा᳓जा मेधा᳓भिर् ईयते  
+प᳓वमानो मना᳓व् अ᳓धि  
+अन्त᳓रिक्षेण या᳓तवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

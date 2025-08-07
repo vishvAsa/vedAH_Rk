@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अप्सा꣡ इ꣡न्द्राय वाय꣡वे  
-व꣡रुणाय मरु꣡द्भियः  
-सो꣡मो अर्षति वि꣡ष्णवे
+अप्सा᳓ इ᳓न्द्राय वाय᳓वे  
+व᳓रुणाय मरु᳓द्भियः  
+सो᳓मो अर्षति वि᳓ष्णवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -143,7 +143,7 @@ _________
 
 For Indra, for Vāyu, for Varuṇa, for the Maruts, for Viṣṇu  
 the water-winning soma rushes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/19-21.md">

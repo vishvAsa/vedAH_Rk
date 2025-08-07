@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-युवं꣡ द꣡क्षं धृतव्रत  
-मि꣡त्रावरुण दूळ꣡भम्  
-ऋतु꣡ना यज्ञ꣡म् आशथे°
+युवं᳓ द᳓क्षं धृतव्रत  
+मि᳓त्रावरुण दूळ᳓भम्  
+ऋतु᳓ना यज्ञ᳓म् आशथे°
 </details>
 
 <details><summary>Vedaweb annotation</summary>

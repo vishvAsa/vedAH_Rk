@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सप्तानां꣡ सप्त꣡ ऋष्ट꣡यः  
-सप्त꣡ द्युम्ना꣡नि एषा᳐म्  
-सप्तो꣡ अ꣡धि श्रि꣡यो धिरे
+सप्तानां᳓ सप्त᳓ ऋष्ट᳓यः  
+सप्त᳓ द्युम्ना᳓नि एषा᳐म्  
+सप्तो᳓ अ᳓धि श्रि᳓यो धिरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

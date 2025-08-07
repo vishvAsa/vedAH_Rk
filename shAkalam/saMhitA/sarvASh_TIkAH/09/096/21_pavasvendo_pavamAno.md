@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्वेन्दो प꣡वमानो म꣡होभिः  
-क꣡निक्रदत् प꣡रि वा꣡राणि अर्ष  
-क्री꣡ळञ् चम्वो᳡र् आ꣡ विश पूय꣡मान  
-इ꣡न्द्रं ते र꣡सो मदिरो꣡ ममत्तु
+प᳓वस्वेन्दो प᳓वमानो म᳓होभिः  
+क᳓निक्रदत् प᳓रि वा᳓राणि अर्ष  
+क्री᳓ळञ् चम्वो᳡र् आ᳓ विश पूय᳓मान  
+इ᳓न्द्रं ते र᳓सो मदिरो᳓ ममत्तु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -232,7 +232,7 @@ _________
 
 Purify yourself, o drop, as self-purifying one, with your mighty powers.  Constantly roaring, rush around the fleeces.  
 Playing, enter the two cups while being purified. Let your exhilarating  sap exhilarate Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/20-21.md">

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ माता꣡ विश्व꣡वेदसा  
-असुर्या᳡य प्र꣡महसा  
-मही꣡ जजान अ꣡दितिर् ऋता꣡वरी
+ता᳓ माता᳓ विश्व᳓वेदसा  
+असुर्या᳡य प्र᳓महसा  
+मही᳓ जजान अ᳓दितिर् ऋता᳓वरी
 </details>
 
 <details><summary>Vedaweb annotation</summary>

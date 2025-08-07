@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शं꣡ नो देवी꣡र् अभि꣡ष्टय  
-आ꣡पो भवन्तु पीत꣡ये  
-शं꣡ यो꣡र् अभि꣡ स्रवन्तु नः
+शं᳓ नो देवी᳓र् अभि᳓ष्टय  
+आ᳓पो भवन्तु पीत᳓ये  
+शं᳓ यो᳓र् अभि᳓ स्रवन्तु नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ नः कर्णशो꣡भना  
-पुरू꣡णि धृष्णव् आ꣡ भर  
-तुवं꣡ हि꣡ शृण्विषे꣡ वसो
+उत᳓ नः कर्णशो᳓भना  
+पुरू᳓णि धृष्णव् आ᳓ भर  
+तुवं᳓ हि᳓ शृण्विषे᳓ वसो
 </details>
 
 <details><summary>Vedaweb annotation</summary>

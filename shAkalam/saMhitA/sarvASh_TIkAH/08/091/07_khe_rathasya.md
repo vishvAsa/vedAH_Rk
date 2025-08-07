@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-खे꣡ र꣡थस्य खे꣡ अ꣡नसः  
-खे꣡ युग꣡स्य शतक्रतो  
-अपाला꣡म् इन्द्र त्रि꣡ष् पूत्वी꣡  
-अ꣡कृणोः सू꣡रियत्वचम्
+खे᳓ र᳓थस्य खे᳓ अ᳓नसः  
+खे᳓ युग᳓स्य शतक्रतो  
+अपाला᳓म् इन्द्र त्रि᳓ष् पूत्वी᳓  
+अ᳓कृणोः सू᳓रियत्वचम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -206,7 +206,7 @@ Thrice did you purify: **Indra** draggedher through the wide hole of his chariot
 In the nave of a chariot, in the nave of a wagon, in the nave of a yoke, o  Indra of a hundred resolves,  
 having purified Apālā three times, you made (her) sun-skinned.  
 The next three hymns, 92–94, should be grouped together, according to Oldenberg  (1888: 218).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/091/05-07.md">

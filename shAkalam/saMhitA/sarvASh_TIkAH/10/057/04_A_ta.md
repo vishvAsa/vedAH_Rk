@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ त एतु म꣡नः पु꣡नः  
-क्र꣡त्वे द꣡क्षाय जीव꣡से  
-जियो꣡क् च सू꣡रियं दृशे꣡
+आ᳓ त एतु म᳓नः पु᳓नः  
+क्र᳓त्वे द᳓क्षाय जीव᳓से  
+जियो᳓क् च सू᳓रियं दृशे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

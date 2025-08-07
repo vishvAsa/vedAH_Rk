@@ -15,9 +15,9 @@ ChandaH = "विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ वां र꣡थो म꣡नोजवा इयर्ति  
-तिरो꣡ र꣡जांसि अश्विना शतो꣡तिः  
-अस्म꣡भ्यं सूरियावसू इयानः꣡
+प्र᳓ वां र᳓थो म᳓नोजवा इयर्ति  
+तिरो᳓ र᳓जांसि अश्विना शतो᳓तिः  
+अस्म᳓भ्यं सूरियावसू इयानः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

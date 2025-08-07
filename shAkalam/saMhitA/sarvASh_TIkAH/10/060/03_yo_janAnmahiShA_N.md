@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ ज꣡नान् महिषाँ꣡ इव  
-अतितस्थउ꣡ प꣡वीरवान्  
-उता꣡पवीरवान् युधा꣡
+यो᳓ ज᳓नान् महिषाँ᳓ इव  
+अतितस्थउ᳓ प᳓वीरवान्  
+उता᳓पवीरवान् युधा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

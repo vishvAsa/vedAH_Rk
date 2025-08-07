@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने यं꣡ यज्ञ꣡म् अध्वरं꣡  
-विश्व꣡तः परिभू꣡र् अ꣡सि  
-स꣡ इ꣡द् देवे꣡षु गछति
+अ᳓ग्ने यं᳓ यज्ञ᳓म् अध्वरं᳓  
+विश्व᳓तः परिभू᳓र् अ᳓सि  
+स᳓ इ᳓द् देवे᳓षु गछति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

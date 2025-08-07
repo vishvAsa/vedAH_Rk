@@ -15,13 +15,13 @@ ChandaH = "अतिशक्वरी"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुषुमा꣡ यातम् अ꣡द्रिभिर्  
-गो꣡श्रीता मत्सरा꣡ इमे꣡  
-सो꣡मासो मत्सरा꣡ इमे꣡  
-आ꣡ राजाना दिविस्पृशा  
-अस्मत्रा꣡ गन्तम् उ꣡प नः  
-इमे꣡ वाम् मित्रावरुणा ग꣡वाशिरः  
-सो꣡माः शुक्रा꣡ ग꣡वाशिरः
+सुषुमा᳓ यातम् अ᳓द्रिभिर्  
+गो᳓श्रीता मत्सरा᳓ इमे᳓  
+सो᳓मासो मत्सरा᳓ इमे᳓  
+आ᳓ राजाना दिविस्पृशा  
+अस्मत्रा᳓ गन्तम् उ᳓प नः  
+इमे᳓ वाम् मित्रावरुणा ग᳓वाशिरः  
+सो᳓माः शुक्रा᳓ ग᳓वाशिरः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -296,7 +296,7 @@ We have pressed—you two, drive hither—with the stones; these
 exhilarating ones here are mixed with cows [=milk]—these  
 exhilarating soma drinks.  
 You two kings, touching heaven, come here right to us, into our midst. These with their milk mixture are for you two, Mitra and Varuṇa—the  clear soma drinks and those with their milk mixture.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/137/01-02.md">

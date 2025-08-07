@@ -15,10 +15,10 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-पि꣡बतं घर्म꣡म् म꣡धुमन्तम् अश्विना  
-आ꣡ बर्हिः꣡ सीदतं नरा  
-ता꣡ मन्दसाना꣡ म꣡नुषो दुरोण꣡ आ꣡  
-नि꣡ पातं वे꣡दसा व꣡यः
+पि᳓बतं घर्म᳓म् म᳓धुमन्तम् अश्विना  
+आ᳓ बर्हिः᳓ सीदतं नरा  
+ता᳓ मन्दसाना᳓ म᳓नुषो दुरोण᳓ आ᳓  
+नि᳓ पातं वे᳓दसा व᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -220,7 +220,7 @@ As it drops:**gharma** = earthen pot called **mahāvīra**, also signifies the m
 <details><summary>Jamison Brereton</summary>
 
 Drink the honeyed hot milk, o Aśvins; sit here on the ritual grass, o men. Reaching exhilaration here in the dwelling of Manu, protect our vital  energy along with our property.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/087/01-02.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शुम्भ꣡मान ऋतायु꣡भिर्  
-मृज्य꣡मानो ग꣡भस्तियोः  
-प꣡वते वा꣡रे अव्य꣡ये
+शुम्भ᳓मान ऋतायु᳓भिर्  
+मृज्य᳓मानो ग᳓भस्तियोः  
+प᳓वते वा᳓रे अव्य᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

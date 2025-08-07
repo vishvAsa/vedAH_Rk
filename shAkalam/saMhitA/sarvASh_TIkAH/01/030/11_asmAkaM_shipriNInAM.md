@@ -15,9 +15,9 @@ ChandaH = "पादनिचृद्गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्मा꣡कं शिप्रि꣡णीनां᳐  
-सो꣡मपाः सोमपा꣡व्ना᳐म्  
-स꣡खे वज्रिन् स꣡खीना᳐म्
+अस्मा᳓कं शिप्रि᳓णीनां᳐  
+सो᳓मपाः सोमपा᳓व्ना᳐म्  
+स᳓खे वज्रिन् स᳓खीना᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

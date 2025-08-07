@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-देवे꣡भिर् देवि अदिते  
-अ꣡रिष्टभर्मन् आ꣡ गहि  
-स्म꣡त् सूरि꣡भिः पुरुप्रिये सुश꣡र्मभिः
+देवे᳓भिर् देवि अदिते  
+अ᳓रिष्टभर्मन् आ᳓ गहि  
+स्म᳓त् सूरि᳓भिः पुरुप्रिये सुश᳓र्मभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

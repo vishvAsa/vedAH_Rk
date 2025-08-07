@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मो अस्म꣡भ्यं द्विप꣡दे  
-च꣡तुष्पदे च पश꣡वे  
-अनमीवा꣡ इ꣡षस् करत्
+सो᳓मो अस्म᳓भ्यं द्विप᳓दे  
+च᳓तुष्पदे च पश᳓वे  
+अनमीवा᳓ इ᳓षस् करत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

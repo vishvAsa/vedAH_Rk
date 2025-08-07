@@ -15,10 +15,10 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-के꣡तेन श꣡र्मन् सचते सुषाम꣡णि  
-अ꣡ग्ने तु꣡भ्यं चिकित्व꣡ना  
-इषण्य꣡या नः पुरुरू꣡पम् आ꣡ भर  
-वा꣡जं ने꣡दिष्ठम् ऊत꣡ये
+के᳓तेन श᳓र्मन् सचते सुषाम᳓णि  
+अ᳓ग्ने तु᳓भ्यं चिकित्व᳓ना  
+इषण्य᳓या नः पुरुरू᳓पम् आ᳓ भर  
+वा᳓जं ने᳓दिष्ठम् ऊत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -209,7 +209,7 @@ _________
 
 He [=singer?] keeps company with your intention in the shelter made of  good melody. O perceptive Agni, the *pieces of wood are for you.  
 By impulsion bring here to us the prize of many forms to be nearest to  us, for our aid.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

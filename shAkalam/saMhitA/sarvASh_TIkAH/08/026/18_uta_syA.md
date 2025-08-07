@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ स्या꣡ श्वेतया꣡वरी  
-वा꣡हिष्ठा वां नदी꣡ना᳐म्  
-सि꣡न्धुर् हि꣡रण्यवर्तनिः
+उत᳓ स्या᳓ श्वेतया᳓वरी  
+वा᳓हिष्ठा वां नदी᳓ना᳐म्  
+सि᳓न्धुर् हि᳓रण्यवर्तनिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो बर्ही꣡ रिशा꣡दसो  
-व꣡रुणो मित्रो꣡ अर्यमा꣡  
-सी꣡दन्तु म꣡नुषो यथा
+आ᳓ नो बर्ही᳓ रिशा᳓दसो  
+व᳓रुणो मित्रो᳓ अर्यमा᳓  
+सी᳓दन्तु म᳓नुषो यथा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

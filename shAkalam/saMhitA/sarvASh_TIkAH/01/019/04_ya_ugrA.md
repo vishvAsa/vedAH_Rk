@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ उग्रा꣡ अर्क꣡म् आनृचु꣡र्  
-अ꣡नाधृष्टास ओ꣡जसा  
-मरु꣡द्भिर् अग्न आ꣡ गहि
+य᳓ उग्रा᳓ अर्क᳓म् आनृचु᳓र्  
+अ᳓नाधृष्टास ओ᳓जसा  
+मरु᳓द्भिर् अग्न आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ष्णोः क꣡र्माणि पश्यत  
-य꣡तो व्रता꣡नि पस्पशे꣡  
-इ꣡न्द्रस्य यु꣡जियः स꣡खा
+वि᳓ष्णोः क᳓र्माणि पश्यत  
+य᳓तो व्रता᳓नि पस्पशे᳓  
+इ᳓न्द्रस्य यु᳓जियः स᳓खा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

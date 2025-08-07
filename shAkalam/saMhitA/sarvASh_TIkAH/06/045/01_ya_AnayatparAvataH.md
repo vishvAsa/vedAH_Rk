@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ आ꣡नयत् पराव꣡तः  
-सु꣡नीती तुर्व꣡शं य꣡दुम्  
-इ꣡न्द्रः स꣡ नो यु꣡वा स꣡खा
+य᳓ आ᳓नयत् पराव᳓तः  
+सु᳓नीती तुर्व᳓शं य᳓दुम्  
+इ᳓न्द्रः स᳓ नो यु᳓वा स᳓खा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

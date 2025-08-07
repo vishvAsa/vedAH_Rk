@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रे꣡तां यज्ञ꣡स्य शम्भु꣡वा  
-युवा꣡म् इ꣡द् आ꣡ वृणीमहे  
-अग्निं꣡ च हव्यवा꣡हनम्
+प्रे᳓तां यज्ञ᳓स्य शम्भु᳓वा  
+युवा᳓म् इ᳓द् आ᳓ वृणीमहे  
+अग्निं᳓ च हव्यवा᳓हनम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

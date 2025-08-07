@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पूर्वी꣡भिर् हि꣡ ददाशिम꣡  
-शर꣡द्भिर् मरुतो वय꣡म्  
-अ꣡वोभिश् चर्षणीना᳐꣡म्
+पूर्वी᳓भिर् हि᳓ ददाशिम᳓  
+शर᳓द्भिर् मरुतो वय᳓म्  
+अ᳓वोभिश् चर्षणीना᳐᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

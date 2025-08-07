@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इह꣡ त्या꣡ सधमा꣡दिया  
-युजानः꣡ सो꣡मपीतये  
-ह꣡री इन्द्र प्रत꣡द्वसू अभि꣡ स्वर
+इह᳓ त्या᳓ सधमा᳓दिया  
+युजानः᳓ सो᳓मपीतये  
+ह᳓री इन्द्र प्रत᳓द्वसू अभि᳓ स्वर
 </details>
 
 <details><summary>Vedaweb annotation</summary>

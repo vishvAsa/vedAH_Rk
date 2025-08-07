@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्मा꣡न् सु꣡ त꣡त्र चोदय  
-इ꣡न्द्र राये꣡ र꣡भस्वतः  
-तु꣡विद्युम्न य꣡शस्वतः
+अस्मा᳓न् सु᳓ त᳓त्र चोदय  
+इ᳓न्द्र राये᳓ र᳓भस्वतः  
+तु᳓विद्युम्न य᳓शस्वतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

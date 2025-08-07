@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्दुः पविष्ट चा꣡रुर् म꣡दाय  
-अपा꣡म् उप꣡स्थे कवि꣡र् भ꣡गाय
+इ᳓न्दुः पविष्ट चा᳓रुर् म᳓दाय  
+अपा᳓म् उप᳓स्थे कवि᳓र् भ᳓गाय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -135,7 +135,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The dear drop has been purified for exhilaration in the lap of the  waters, the sage poet (has been purified) for good fortune.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/13-15.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वे꣡त्था हि꣡ वेधो अ꣡ध्वनः  
-पथ꣡श् च देव अ꣡ञ्जसा  
-अ꣡ग्ने यज्ञे꣡षु सुक्रतो
+वे᳓त्था हि᳓ वेधो अ᳓ध्वनः  
+पथ᳓श् च देव अ᳓ञ्जसा  
+अ᳓ग्ने यज्ञे᳓षु सुक्रतो
 </details>
 
 <details><summary>Vedaweb annotation</summary>

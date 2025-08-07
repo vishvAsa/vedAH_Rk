@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यावय꣡द्द्वेषसं तुवा  
-चिकित्वि꣡त् सूनृतावरि  
-प्र꣡ति स्तो꣡मैर् अभुत्स्महि
+यावय᳓द्द्वेषसं तुवा  
+चिकित्वि᳓त् सूनृतावरि  
+प्र᳓ति स्तो᳓मैर् अभुत्स्महि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

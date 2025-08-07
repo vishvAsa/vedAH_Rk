@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गिरा꣡ व꣡ज्रो न꣡ स꣡म्भृतः  
-स꣡बलो अ꣡नपच्युतः  
-ववक्ष꣡ ऋष्वो꣡ अ꣡स्तृतः
+गिरा᳓ व᳓ज्रो न᳓ स᳓म्भृतः  
+स᳓बलो अ᳓नपच्युतः  
+ववक्ष᳓ ऋष्वो᳓ अ᳓स्तृतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

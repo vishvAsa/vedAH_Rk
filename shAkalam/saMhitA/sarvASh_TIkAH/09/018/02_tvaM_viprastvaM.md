@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ वि꣡प्रस् तुवं꣡ कवि꣡र्  
-म꣡धु प्र꣡ जात꣡म् अ꣡न्धसः  
-म꣡देषु सर्वधा꣡ असि
+तुवं᳓ वि᳓प्रस् तुवं᳓ कवि᳓र्  
+म᳓धु प्र᳓ जात᳓म् अ᳓न्धसः  
+म᳓देषु सर्वधा᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

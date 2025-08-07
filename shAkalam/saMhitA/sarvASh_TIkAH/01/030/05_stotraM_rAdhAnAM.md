@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्तोत्रं꣡ राधाना᳐म् पते  
-गि꣡र्वाहो वीर य꣡स्य ते  
-वि꣡भूतिर् अस्तु सूनृ꣡ता
+स्तोत्रं᳓ राधाना᳐म् पते  
+गि᳓र्वाहो वीर य᳓स्य ते  
+वि᳓भूतिर् अस्तु सूनृ᳓ता
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ प्रथमे꣡ वि꣡ओमनि  
-देवा꣡नां स꣡दने वृधः꣡  
-सुपारः꣡ सुश्र꣡वस्तमः स꣡म् अप्सुजि꣡त्
+स᳓ प्रथमे᳓ वि᳓ओमनि  
+देवा᳓नां स᳓दने वृधः᳓  
+सुपारः᳓ सुश्र᳓वस्तमः स᳓म् अप्सुजि᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

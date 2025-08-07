@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वरिवोधा꣡तमो भव  
-मं꣡हिष्ठो वृत्रह꣡न्तमः  
-प꣡र्षि रा꣡धो मघो꣡ना᳐म्
+वरिवोधा᳓तमो भव  
+मं᳓हिष्ठो वृत्रह᳓न्तमः  
+प᳓र्षि रा᳓धो मघो᳓ना᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

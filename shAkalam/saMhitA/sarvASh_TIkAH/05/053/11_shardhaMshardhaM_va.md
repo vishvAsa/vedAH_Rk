@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-श꣡र्धं-शर्धं व एषां᳐  
-व्रा꣡तं-व्रातं गणं꣡-गणं सुशस्ति꣡भिः  
-अ꣡नु क्रामेम धीति꣡भिः
+श᳓र्धं-शर्धं व एषां᳐  
+व्रा᳓तं-व्रातं गणं᳓-गणं सुशस्ति᳓भिः  
+अ᳓नु क्रामेम धीति᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

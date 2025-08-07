@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡द् इ꣡त् ते वि꣡श्वे क्र꣡तुं जुषन्त  
-शु꣡ष्काद् य꣡द् देव जीवो꣡ ज꣡निष्ठाः
+आ᳓द् इ᳓त् ते वि᳓श्वे क्र᳓तुं जुषन्त  
+शु᳓ष्काद् य᳓द् देव जीवो᳓ ज᳓निष्ठाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

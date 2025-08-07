@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुनीथो꣡ घा स꣡ म꣡र्तियो  
-य꣡म् मरु꣡तो य꣡म् अर्यमा꣡  
-मित्रः꣡ पा᳐꣡न्ति अद्रु꣡हः
+सुनीथो᳓ घा स᳓ म᳓र्तियो  
+य᳓म् मरु᳓तो य᳓म् अर्यमा᳓  
+मित्रः᳓ पा᳐᳓न्ति अद्रु᳓हः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

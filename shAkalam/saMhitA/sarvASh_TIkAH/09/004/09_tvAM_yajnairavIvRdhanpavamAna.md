@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवां꣡ यज्ञइ꣡र् अवीवृधन्  
-प꣡वमान वि꣡धर्मणि  
-अ꣡था नो व꣡स्यसस् कृधि
+तुवां᳓ यज्ञइ᳓र् अवीवृधन्  
+प᳓वमान वि᳓धर्मणि  
+अ᳓था नो व᳓स्यसस् कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

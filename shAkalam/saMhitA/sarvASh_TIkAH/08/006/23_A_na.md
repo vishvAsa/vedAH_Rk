@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ न इन्द्र मही꣡म् इ꣡षम्  
-पु꣡रं न꣡ दर्षि गो꣡मतीम्  
-उत꣡ प्रजां꣡ सुवी꣡रियम्
+आ᳓ न इन्द्र मही᳓म् इ᳓षम्  
+पु᳓रं न᳓ दर्षि गो᳓मतीम्  
+उत᳓ प्रजां᳓ सुवी᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

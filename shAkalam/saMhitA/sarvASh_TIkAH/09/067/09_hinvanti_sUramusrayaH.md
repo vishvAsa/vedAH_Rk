@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-हिन्व꣡न्ति सू꣡रम् उ꣡स्रयः  
-प꣡वमानम् मधुश्चु꣡तम्  
-अभि꣡ गिरा꣡ स꣡म् अस्वरन्
+हिन्व᳓न्ति सू᳓रम् उ᳓स्रयः  
+प᳓वमानम् मधुश्चु᳓तम्  
+अभि᳓ गिरा᳓ स᳓म् अस्वरन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -147,7 +147,7 @@ Heroic: i.e., the instrumental gator of everybody's good actions (sacrifice)
 
 The rosy (fingers) impel the sun; to the self-purifying one, dripping  with honey,  
 they cry out in unison with a song.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">

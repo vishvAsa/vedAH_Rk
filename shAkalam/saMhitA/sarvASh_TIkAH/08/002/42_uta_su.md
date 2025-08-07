@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ सु꣡ त्ये꣡ पयोवृ꣡धा  
-माकी꣡ र꣡णस्य नप्ति꣡या  
-जनित्वना꣡य मामहे
+उत᳓ सु᳓ त्ये᳓ पयोवृ᳓धा  
+माकी᳓ र᳓णस्य नप्ति᳓या  
+जनित्वना᳓य मामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

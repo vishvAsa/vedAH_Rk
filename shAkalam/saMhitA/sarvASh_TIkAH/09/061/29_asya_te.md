@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡स्य ते सखिये꣡ वयं꣡  
-त꣡वेन्दो द्युम्न꣡ उत्तमे꣡  
-सासह्या꣡म पृतन्यतः꣡
+अ᳓स्य ते सखिये᳓ वयं᳓  
+त᳓वेन्दो द्युम्न᳓ उत्तमे᳓  
+सासह्या᳓म पृतन्यतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-देवा꣡नां दूतः꣡ पुरुध꣡ प्र꣡सूतो  
-अ꣡नागान् नो वोचतु सर्व꣡ताता  
-शृणो꣡तु नः पृथिवी꣡ द्यउ꣡र् उता꣡पः  
-सू꣡र्यो न꣡क्षत्रैर् उरु꣡ अन्त꣡रिक्षम्
+देवा᳓नां दूतः᳓ पुरुध᳓ प्र᳓सूतो  
+अ᳓नागान् नो वोचतु सर्व᳓ताता  
+शृणो᳓तु नः पृथिवी᳓ द्यउ᳓र् उता᳓पः  
+सू᳓र्यो न᳓क्षत्रैर् उरु᳓ अन्त᳓रिक्षम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -231,7 +231,7 @@ _________
 
 The messenger of the gods, impelled forth in many forms—let him  pronounce us blameless in our entirety.  
 Let Earth, Heaven, and the Waters hear us, and the Sun with the  heavenly bodies, and the broad midspace.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/054/19-20.md">

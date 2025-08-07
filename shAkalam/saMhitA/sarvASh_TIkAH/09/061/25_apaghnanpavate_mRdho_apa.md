@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अपघ्न꣡न् पवते मृ꣡धो  
-अ꣡प सो꣡मो अ꣡रावणः  
-ग꣡छन्न् इ꣡न्द्रस्य निष्कृत꣡म्
+अपघ्न᳓न् पवते मृ᳓धो  
+अ᳓प सो᳓मो अ᳓रावणः  
+ग᳓छन्न् इ᳓न्द्रस्य निष्कृत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -146,7 +146,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Smashing away the scorners, away the ungenerous, Soma purifies himself, going to the rendezvous with Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/25-27.md">

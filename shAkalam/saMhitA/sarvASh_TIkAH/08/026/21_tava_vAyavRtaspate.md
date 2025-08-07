@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡व वायव् ऋतस्पते  
-त्व꣡ष्टुर् जामातर् अद्भुत  
-अ꣡वांसि आ꣡ वृणीमहे
+त᳓व वायव् ऋतस्पते  
+त्व᳓ष्टुर् जामातर् अद्भुत  
+अ᳓वांसि आ᳓ वृणीमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

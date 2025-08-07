@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-भर꣡द्वाजाय सप्र꣡थः  
-श꣡र्म यछ सहन्तिय  
-अ꣡ग्ने व꣡रेणियं व꣡सु
+भर᳓द्वाजाय सप्र᳓थः  
+श᳓र्म यछ सहन्तिय  
+अ᳓ग्ने व᳓रेणियं व᳓सु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

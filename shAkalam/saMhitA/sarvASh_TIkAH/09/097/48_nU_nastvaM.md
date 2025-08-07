@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-नू꣡ नस् तुवं꣡ रथिरो꣡ देव सोम  
-प꣡रि स्रव चमु꣡वोः पूय꣡मानः  
-अप्सु꣡ स्वा꣡दिष्ठो म꣡धुमाँ ऋता꣡वा  
-देवो꣡ न꣡ यः꣡ सविता꣡ सत्य꣡मन्मा
+नू᳓ नस् तुवं᳓ रथिरो᳓ देव सोम  
+प᳓रि स्रव चमु᳓वोः पूय᳓मानः  
+अप्सु᳓ स्वा᳓दिष्ठो म᳓धुमाँ ऋता᳓वा  
+देवो᳓ न᳓ यः᳓ सविता᳓ सत्य᳓मन्मा
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -247,7 +247,7 @@ Flow quickly into the cups: camvoḥ = adhiśavṇa phalakayoḥ; apsu is relate
 
 Now, you, o god Soma, as charioteer—flow around for us in the two  cups, while being purified,  
 sweetest in the waters, honeyed, truthful, you whose thoughts become  reality, like god Savitar’s.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md">

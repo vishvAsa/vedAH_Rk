@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ वृषस्व महामह  
-महे꣡ नृतम रा꣡धसे  
-दॄळ्ह꣡श्+ चिद् दृह्य मघवन् मघ꣡त्तये
+आ᳓ वृषस्व महामह  
+महे᳓ नृतम रा᳓धसे  
+दॄळ्ह᳓श्+ चिद् दृह्य मघवन् मघ᳓त्तये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

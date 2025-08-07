@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् अपप्तद् असउ꣡ सू꣡र्यः  
-पुरु꣡ वि꣡श्वानि जू꣡रुवन्  
-आदित्यः꣡ प꣡र्वतेभियो  
-विश्व꣡दृष्टो अदृष्टहा꣡
+उ᳓द् अपप्तद् असउ᳓ सू᳓र्यः  
+पुरु᳓ वि᳓श्वानि जू᳓रुवन्  
+आदित्यः᳓ प᳓र्वतेभियो  
+विश्व᳓दृष्टो अदृष्टहा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -186,7 +186,7 @@ Cf. AV 6.52.1
 
 Up has flown yonder Sun, incinerating all the many—  
 the Āditya (up) from the mountains, the smasher of the no-see-ums,  seen by all.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/08-09.md">

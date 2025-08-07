@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उग्रं꣡ व ओ꣡ज स्थिरा꣡ श꣡वांसि  
-अ꣡धा मरु꣡द्भिर् गण꣡स् तु꣡विष्मान्
+उग्रं᳓ व ओ᳓ज स्थिरा᳓ श᳓वांसि  
+अ᳓धा मरु᳓द्भिर् गण᳓स् तु᳓विष्मान्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

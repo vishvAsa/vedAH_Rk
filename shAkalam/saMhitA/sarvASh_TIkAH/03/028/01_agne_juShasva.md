@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने जुष꣡स्व नो हविः꣡  
-पुरोळा꣡शं जातवेदः  
-प्रातःसावे꣡ धियावसो
+अ᳓ग्ने जुष᳓स्व नो हविः᳓  
+पुरोळा᳓शं जातवेदः  
+प्रातःसावे᳓ धियावसो
 </details>
 
 <details><summary>Vedaweb annotation</summary>

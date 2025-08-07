@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡ना रयि꣡म् अश्नवत्  
-पो꣡षम् एव꣡ दिवे꣡-दिवे  
-यश꣡सं वीर꣡वत्तमम्
+अग्नि᳓ना रयि᳓म् अश्नवत्  
+पो᳓षम् एव᳓ दिवे᳓-दिवे  
+यश᳓सं वीर᳓वत्तमम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

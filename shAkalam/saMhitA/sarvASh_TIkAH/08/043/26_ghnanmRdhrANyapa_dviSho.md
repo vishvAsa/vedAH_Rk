@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-घ्न꣡न् मृध्रा꣡णि अ꣡प द्वि꣡षो  
-द꣡हन् र꣡क्षांसि विश्व꣡हा  
-अ꣡ग्ने तिग्मे꣡न दीदिहि
+घ्न᳓न् मृध्रा᳓णि अ᳓प द्वि᳓षो  
+द᳓हन् र᳓क्षांसि विश्व᳓हा  
+अ᳓ग्ने तिग्मे᳓न दीदिहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,11 +15,11 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने त꣡व त्य꣡द् उक्थि꣡यं  
-देवे꣡षु अस्ति आ꣡पियम्  
-स꣡ नः सत्तो꣡ मनुष्व꣡द् आ꣡  
-देवा꣡न् यक्षि विदु꣡ष्टरो  
-वित्त꣡म् मे अस्य꣡ रोदसी
+अ᳓ग्ने त᳓व त्य᳓द् उक्थि᳓यं  
+देवे᳓षु अस्ति आ᳓पियम्  
+स᳓ नः सत्तो᳓ मनुष्व᳓द् आ᳓  
+देवा᳓न् यक्षि विदु᳓ष्टरो  
+वित्त᳓म् मे अस्य᳓ रोदसी
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -246,7 +246,7 @@ O Agni, it exists: this friendship of yours among the gods, worthy to be  hymned
 
 Seated here, sacrifice to the gods for us as you did for Manu—as the  one who knows better.  
 – Take heed of this (speech) of mine, you two world-halves.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/12-15.md">

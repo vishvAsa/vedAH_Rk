@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मृज꣡न्ति त्वा द꣡श क्षि꣡पो  
-हिन्व꣡न्ति सप्त꣡ धीत꣡यः  
-अ꣡नु वि꣡प्रा अमादिषुः
+मृज᳓न्ति त्वा द᳓श क्षि᳓पो  
+हिन्व᳓न्ति सप्त᳓ धीत᳓यः  
+अ᳓नु वि᳓प्रा अमादिषुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

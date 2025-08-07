@@ -15,9 +15,9 @@ ChandaH = "पादनिचृत्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभी꣡ षु꣡ णः स꣡खीना᳐म्  
-अविता꣡ जरितॄणा᳐꣡म्  
-शत꣡म् भवासि ऊति꣡भिः
+अभी᳓ षु᳓ णः स᳓खीना᳐म्  
+अविता᳓ जरितॄणा᳐᳓म्  
+शत᳓म् भवासि ऊति᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

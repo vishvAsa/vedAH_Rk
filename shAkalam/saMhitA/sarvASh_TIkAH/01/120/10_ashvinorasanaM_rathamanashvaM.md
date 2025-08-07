@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अश्वि꣡नोर् असनं र꣡थम्  
-अनश्वं꣡ वाजि꣡नीवतोः  
-ते꣡नाह꣡म् भू꣡रि चाकन
+अश्वि᳓नोर् असनं र᳓थम्  
+अनश्वं᳓ वाजि᳓नीवतोः  
+ते᳓नाह᳓म् भू᳓रि चाकन
 </details>
 
 <details><summary>Vedaweb annotation</summary>

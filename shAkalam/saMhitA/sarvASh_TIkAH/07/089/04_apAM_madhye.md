@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अपा꣡म् म꣡ध्ये तस्थिवां꣡सं  
-तृ꣡ष्णाविदज् जरिता꣡रम्  
-मॄळा꣡+ सुक्षत्र मॄळ꣡य
+अपा᳓म् म᳓ध्ये तस्थिवां᳓सं  
+तृ᳓ष्णाविदज् जरिता᳓रम्  
+मॄळा᳓+ सुक्षत्र मॄळ᳓य
 </details>
 
 <details><summary>Vedaweb annotation</summary>

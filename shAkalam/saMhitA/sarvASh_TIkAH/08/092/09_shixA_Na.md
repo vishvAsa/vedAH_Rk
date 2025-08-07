@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शि꣡क्षा ण इन्द्र राय꣡ आ꣡  
-पुरु꣡ विद्वाँ꣡ ऋचीषम  
-अ꣡वा नः पा꣡रिये ध꣡ने
+शि᳓क्षा ण इन्द्र राय᳓ आ᳓  
+पुरु᳓ विद्वाँ᳓ ऋचीषम  
+अ᳓वा नः पा᳓रिये ध᳓ने
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ दॄळ्हा꣡नि+ चिद् अद्रिवो  
-ज꣡नानां᳐ शचीपते  
-वृह꣡ माया꣡ अनानत
+वि᳓ दॄळ्हा᳓नि+ चिद् अद्रिवो  
+ज᳓नानां᳐ शचीपते  
+वृह᳓ माया᳓ अनानत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

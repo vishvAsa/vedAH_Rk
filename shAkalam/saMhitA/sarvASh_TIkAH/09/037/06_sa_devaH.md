@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ देवः꣡ कवि꣡नेषितो꣡  
-अभि꣡ द्रो꣡णानि धावति  
-इ꣡न्दुर् इ꣡न्द्राय मंह꣡ना
+स᳓ देवः᳓ कवि᳓नेषितो᳓  
+अभि᳓ द्रो᳓णानि धावति  
+इ᳓न्दुर् इ᳓न्द्राय मंह᳓ना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

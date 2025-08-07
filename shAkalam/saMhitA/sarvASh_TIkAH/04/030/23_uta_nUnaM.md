@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ नूनं꣡ य꣡द् इन्द्रियं꣡  
-करिष्या꣡ इन्द्र पउं꣡सियम्  
-अद्या꣡ न꣡किष् ट꣡द् आ꣡ मिनत्
+उत᳓ नूनं᳓ य᳓द् इन्द्रियं᳓  
+करिष्या᳓ इन्द्र पउं᳓सियम्  
+अद्या᳓ न᳓किष् ट᳓द् आ᳓ मिनत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

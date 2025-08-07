@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानो वि꣡ अश्नवद्  
-रश्मि꣡भिर् वाजसा꣡तमः  
-द꣡धत् स्तोत्रे꣡ सुवी꣡रियम्
+प᳓वमानो वि᳓ अश्नवद्  
+रश्मि᳓भिर् वाजसा᳓तमः  
+द᳓धत् स्तोत्रे᳓ सुवी᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

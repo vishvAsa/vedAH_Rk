@@ -15,9 +15,9 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-कर्णगृ꣡ह्या मघ꣡वा शौरदेवियो꣡  
-वत्सं꣡ नस् त्रिभ्य꣡ आ꣡नयत्  
-अजां꣡ सूरि꣡र् न꣡ धा꣡तवे
+कर्णगृ᳓ह्या मघ᳓वा शौरदेवियो᳓  
+वत्सं᳓ नस् त्रिभ्य᳓ आ᳓नयत्  
+अजां᳓ सूरि᳓र् न᳓ धा᳓तवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

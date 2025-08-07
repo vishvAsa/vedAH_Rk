@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्तोत्र꣡म् इ꣡न्द्राय गायत  
-पुरुनृम्णा꣡य स꣡त्वने  
-न꣡किर् यं꣡ वृण्वते꣡ युधि꣡
+स्तोत्र᳓म् इ᳓न्द्राय गायत  
+पुरुनृम्णा᳓य स᳓त्वने  
+न᳓किर् यं᳓ वृण्वते᳓ युधि᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

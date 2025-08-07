@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरुत्रा꣡ चिद् धि꣡ वां नरा  
-विह्व꣡यन्ते मनीषि꣡णः  
-वाघ꣡द्भिर् अश्विना꣡ गतम्
+पुरुत्रा᳓ चिद् धि᳓ वां नरा  
+विह्व᳓यन्ते मनीषि᳓णः  
+वाघ᳓द्भिर् अश्विना᳓ गतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

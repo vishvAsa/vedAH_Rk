@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्री꣡णि स꣡रांसि पृ꣡श्नयो  
-दुदुह्रे꣡ वज्रि꣡णे म꣡धु  
-उ꣡त्सं क꣡वन्धम् उद्रि꣡णम्
+त्री᳓णि स᳓रांसि पृ᳓श्नयो  
+दुदुह्रे᳓ वज्रि᳓णे म᳓धु  
+उ᳓त्सं क᳓वन्धम् उद्रि᳓णम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

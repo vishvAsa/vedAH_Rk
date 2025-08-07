@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नः शक्र꣡श् चिद् आ꣡ शकद्  
-दा꣡नवाँ अन्तराभरः꣡  
-इ꣡न्द्रो वि꣡श्वाभिर् ऊति꣡भिः
+स᳓ नः शक्र᳓श् चिद् आ᳓ शकद्  
+दा᳓नवाँ अन्तराभरः᳓  
+इ᳓न्द्रो वि᳓श्वाभिर् ऊति᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

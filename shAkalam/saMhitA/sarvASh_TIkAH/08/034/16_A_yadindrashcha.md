@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ य꣡द् इ꣡न्द्रश् च द꣡द्वहे  
-सह꣡स्रं व꣡सुरोचिषः  
-ओ꣡जिष्ठम् अ꣡श्वियम् पशु꣡म्
+आ᳓ य᳓द् इ᳓न्द्रश् च द᳓द्वहे  
+सह᳓स्रं व᳓सुरोचिषः  
+ओ᳓जिष्ठम् अ᳓श्वियम् पशु᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

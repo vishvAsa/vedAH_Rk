@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-विद्यु꣡द्धस्ता अभि꣡द्यवः  
-शि꣡प्राः शीर्ष꣡न् हिरण्य꣡यीः  
-शुभ्रा꣡ वि꣡ अञ्जत श्रिये꣡
+विद्यु᳓द्धस्ता अभि᳓द्यवः  
+शि᳓प्राः शीर्ष᳓न् हिरण्य᳓यीः  
+शुभ्रा᳓ वि᳓ अञ्जत श्रिये᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

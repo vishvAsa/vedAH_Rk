@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ कृत्नु꣡र् अ꣡गृभीतो  
-विश्वजि꣡द् उद्भि꣡द् इ꣡त् सो꣡मः  
-ऋ꣡षिर् वि꣡प्रः का꣡वियेन
+अयं᳓ कृत्नु᳓र् अ᳓गृभीतो  
+विश्वजि᳓द् उद्भि᳓द् इ᳓त् सो᳓मः  
+ऋ᳓षिर् वि᳓प्रः का᳓वियेन
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "अतिनिचृत्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरूत꣡मम् पुरूणां꣡  
-स्तोतॄणां꣡ वि꣡वाचि  
-वा꣡जेभिर् वाजयता꣡म्
+पुरूत᳓मम् पुरूणां᳓  
+स्तोतॄणां᳓ वि᳓वाचि  
+वा᳓जेभिर् वाजयता᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

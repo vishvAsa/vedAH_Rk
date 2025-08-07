@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡दी घृते꣡भिर् आ꣡हुतो  
-वा꣡शीम् अग्नि꣡र् भ꣡रत उ꣡च् च अ꣡व च  
-अ꣡सुर इव निर्णि꣡जम्
+य᳓दी घृते᳓भिर् आ᳓हुतो  
+वा᳓शीम् अग्नि᳓र् भ᳓रत उ᳓च् च अ᳓व च  
+अ᳓सुर इव निर्णि᳓जम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

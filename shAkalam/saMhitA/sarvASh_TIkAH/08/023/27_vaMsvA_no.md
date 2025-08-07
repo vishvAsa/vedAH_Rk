@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वं꣡स्वा नो वा꣡रिया पुरु꣡  
-वं꣡स्व रायः꣡ पुरुस्पृ꣡हः  
-सुवी꣡र्यस्य प्रजा꣡वतो य꣡शस्वतः
+वं᳓स्वा नो वा᳓रिया पुरु᳓  
+वं᳓स्व रायः᳓ पुरुस्पृ᳓हः  
+सुवी᳓र्यस्य प्रजा᳓वतो य᳓शस्वतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

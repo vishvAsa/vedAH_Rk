@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ गीर्भि꣡र् वाचमीङ्खय꣡म्  
-पुनानं꣡ वासयामसि  
-सो꣡मं ज꣡नस्य गो꣡पतिम्
+तं᳓ गीर्भि᳓र् वाचमीङ्खय᳓म्  
+पुनानं᳓ वासयामसि  
+सो᳓मं ज᳓नस्य गो᳓पतिम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

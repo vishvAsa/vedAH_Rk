@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राय सोम पा꣡तवे  
-वृत्रघ्ने꣡ प꣡रि षिच्यसे  
-न꣡रे च द꣡क्षिणावते  
-देवा꣡य सदनास꣡दे
+इ᳓न्द्राय सोम पा᳓तवे  
+वृत्रघ्ने᳓ प᳓रि षिच्यसे  
+न᳓रे च द᳓क्षिणावते  
+देवा᳓य सदनास᳓दे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

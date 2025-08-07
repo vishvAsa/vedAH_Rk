@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-दस्रा꣡ हि꣡ वि꣡श्वम् आनुष꣡ङ्  
-मक्षू꣡भिः परिदी꣡यथः  
-धियंजिन्वा꣡ म꣡धुवर्णा शुभ꣡स् प꣡ती
+दस्रा᳓ हि᳓ वि᳓श्वम् आनुष᳓ङ्  
+मक्षू᳓भिः परिदी᳓यथः  
+धियंजिन्वा᳓ म᳓धुवर्णा शुभ᳓स् प᳓ती
 </details>
 
 <details><summary>Vedaweb annotation</summary>

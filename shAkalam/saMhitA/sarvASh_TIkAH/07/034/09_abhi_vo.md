@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ वो देवीं꣡ धि꣡यं दधिध्वम्  
-प्र꣡ वो देवत्रा꣡ वा꣡चं कृणुध्वम्
+अभि᳓ वो देवीं᳓ धि᳓यं दधिध्वम्  
+प्र᳓ वो देवत्रा᳓ वा᳓चं कृणुध्वम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

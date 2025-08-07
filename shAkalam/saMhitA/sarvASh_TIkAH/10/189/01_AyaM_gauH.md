@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡यं꣡ गउः꣡ पृ꣡श्निर् अक्रमीद्  
-अ꣡सदन् मात꣡रम् पुरः꣡  
-पित꣡रं च प्रय꣡न् सु꣡वः
+आ᳓यं᳓ गउः᳓ पृ᳓श्निर् अक्रमीद्  
+अ᳓सदन् मात᳓रम् पुरः᳓  
+पित᳓रं च प्रय᳓न् सु᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

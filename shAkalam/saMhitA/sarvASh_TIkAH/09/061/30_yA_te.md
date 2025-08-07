@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡ ते भीमा꣡नि आ꣡युधा  
-तिग्मा꣡नि स꣡न्ति धू꣡र्वणे  
-र꣡क्षा समस्य नो निदः꣡
+या᳓ ते भीमा᳓नि आ᳓युधा  
+तिग्मा᳓नि स᳓न्ति धू᳓र्वणे  
+र᳓क्षा समस्य नो निदः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

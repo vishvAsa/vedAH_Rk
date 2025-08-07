@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गृणाना꣡ जम꣡दग्निना  
-यो꣡नाव् ऋत꣡स्य सीदतम्  
-पातं꣡ सो꣡मम् ऋतावृधा
+गृणाना᳓ जम᳓दग्निना  
+यो᳓नाव् ऋत᳓स्य सीदतम्  
+पातं᳓ सो᳓मम् ऋतावृधा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

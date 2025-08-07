@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रा हि꣡ मे वि꣡मन्यवः  
-प꣡तन्ति व꣡स्यïष्टये  
-व꣡यो न꣡ वसती꣡र् उ꣡प
+प᳓रा हि᳓ मे वि᳓मन्यवः  
+प᳓तन्ति व᳓स्यïष्टये  
+व᳓यो न᳓ वसती᳓र् उ᳓प
 </details>
 
 <details><summary>Vedaweb annotation</summary>

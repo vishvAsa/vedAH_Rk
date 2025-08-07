@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ओ꣡रु꣡ अप्रा अ꣡मर्तिया  
-निव꣡तो देवी꣡ उद्व꣡तः  
-ज्यो꣡तिषा बाधते त꣡मः
+ओ᳓रु᳓ अप्रा अ᳓मर्तिया  
+निव᳓तो देवी᳓ उद्व᳓तः  
+ज्यो᳓तिषा बाधते त᳓मः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् उ त्ये꣡ महती꣡र् अपः꣡  
-सं꣡ क्षोणी꣡ स꣡म् उ सू꣡रियम्  
-सं꣡ व꣡ज्रम् पर्वशो꣡ दधुः
+स᳓म् उ त्ये᳓ महती᳓र् अपः᳓  
+सं᳓ क्षोणी᳓ स᳓म् उ सू᳓रियम्  
+सं᳓ व᳓ज्रम् पर्वशो᳓ दधुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -197,7 +197,7 @@ Vṛtra: they have plural nted thethunderbolt in (Vṛtra's) every limb
 
 They put together the great waters, together the two “opponents”  [=heaven and earth], together the sun,  
 together the mace, joint by joint.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/22-23.md">

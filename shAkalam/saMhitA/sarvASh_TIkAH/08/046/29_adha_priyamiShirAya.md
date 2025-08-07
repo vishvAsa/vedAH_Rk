@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ध प्रिय꣡म् इषिरा꣡य  
-षष्टिं꣡ सह꣡स्रासनम्  
-अ꣡श्वानाम् इ꣡न् न꣡ वृ꣡ष्णा᳐म्
+अ᳓ध प्रिय᳓म् इषिरा᳓य  
+षष्टिं᳓ सह᳓स्रासनम्  
+अ᳓श्वानाम् इ᳓न् न᳓ वृ᳓ष्णा᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

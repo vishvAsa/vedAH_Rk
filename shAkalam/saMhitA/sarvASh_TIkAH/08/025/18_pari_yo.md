@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि यो꣡ रश्मि꣡ना दिवो꣡  
-अ꣡न्तान् ममे꣡ पृथिवियाः꣡  
-उभे꣡ आ꣡ पप्रौ रो꣡दसी महित्वा꣡
+प᳓रि यो᳓ रश्मि᳓ना दिवो᳓  
+अ᳓न्तान् ममे᳓ पृथिवियाः᳓  
+उभे᳓ आ᳓ पप्रौ रो᳓दसी महित्वा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

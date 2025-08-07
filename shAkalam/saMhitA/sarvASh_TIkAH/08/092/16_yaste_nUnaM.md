@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स् ते नूनं꣡ शतक्रतव्  
-इ꣡न्द्र द्युम्नि꣡तमो म꣡दः  
-ते꣡न नून꣡म् म꣡दे मदेः
+य᳓स् ते नूनं᳓ शतक्रतव्  
+इ᳓न्द्र द्युम्नि᳓तमो म᳓दः  
+ते᳓न नून᳓म् म᳓दे मदेः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

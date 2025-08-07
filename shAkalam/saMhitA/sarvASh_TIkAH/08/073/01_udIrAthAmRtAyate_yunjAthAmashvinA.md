@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् ईराथाम् ऋतायते꣡  
-युञ्जा꣡थाम् अश्विना र꣡थम्  
-अ꣡न्ति ष꣡द् भूतु वाम् अ꣡वः
+उ᳓द् ईराथाम् ऋतायते᳓  
+युञ्जा᳓थाम् अश्विना र᳓थम्  
+अ᳓न्ति ष᳓द् भूतु वाम् अ᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

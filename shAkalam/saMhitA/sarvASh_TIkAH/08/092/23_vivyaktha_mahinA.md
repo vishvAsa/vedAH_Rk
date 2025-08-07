@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-विव्य꣡क्थ महिना꣡ वृषन्  
-भक्षं꣡ सो꣡मस्य जागृवे  
-य꣡ इन्द्र जठ꣡रेषु ते
+विव्य᳓क्थ महिना᳓ वृषन्  
+भक्षं᳓ सो᳓मस्य जागृवे  
+य᳓ इन्द्र जठ᳓रेषु ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

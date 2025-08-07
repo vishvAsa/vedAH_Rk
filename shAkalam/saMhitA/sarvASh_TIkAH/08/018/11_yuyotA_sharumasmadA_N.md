@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-युयो꣡ता श꣡रुम् अस्म꣡द् आँ꣡  
-आ꣡दित्यास उता꣡मतिम्  
-ऋ꣡धग् द्वे꣡षः कृणुत विश्ववेदसः
+युयो᳓ता श᳓रुम् अस्म᳓द् आँ᳓  
+आ᳓दित्यास उता᳓मतिम्  
+ऋ᳓धग् द्वे᳓षः कृणुत विश्ववेदसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

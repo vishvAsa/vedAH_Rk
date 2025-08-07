@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡द् ध नूनं꣡ कधप्रियः  
-पिता꣡ पुत्रं꣡ न꣡ ह꣡स्तयोः  
-दधिध्वे꣡ वृक्तबर्हिषः
+क᳓द् ध नूनं᳓ कधप्रियः  
+पिता᳓ पुत्रं᳓ न᳓ ह᳓स्तयोः  
+दधिध्वे᳓ वृक्तबर्हिषः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

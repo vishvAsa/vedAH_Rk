@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡चायो꣡र् इ꣡न्द्रश् च꣡र्कृष  
-आँ꣡ उपानसः꣡ सपर्य꣡न्  
-नद꣡योर् वि꣡व्रतयोः शू꣡र इ꣡न्द्रः
+स᳓चायो᳓र् इ᳓न्द्रश् च᳓र्कृष  
+आँ᳓ उपानसः᳓ सपर्य᳓न्  
+नद᳓योर् वि᳓व्रतयोः शू᳓र इ᳓न्द्रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

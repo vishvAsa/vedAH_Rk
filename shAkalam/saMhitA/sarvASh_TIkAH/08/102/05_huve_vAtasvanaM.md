@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-हुवे꣡ वा꣡तस्वनं कवि꣡म्  
-पर्ज꣡न्यक्रन्दियं स꣡हः  
-अग्निं꣡ समुद्र꣡वाससम्
+हुवे᳓ वा᳓तस्वनं कवि᳓म्  
+पर्ज᳓न्यक्रन्दियं स᳓हः  
+अग्निं᳓ समुद्र᳓वाससम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

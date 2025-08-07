@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡पोषा꣡ अ꣡नसः सरत्  
-स꣡म्पिष्टाद् अ꣡ह बिभ्यु꣡षी  
-नि꣡ य꣡त् सीं शिश्न꣡थद् वृ꣡षा
+अ᳓पोषा᳓ अ᳓नसः सरत्  
+स᳓म्पिष्टाद् अ᳓ह बिभ्यु᳓षी  
+नि᳓ य᳓त् सीं शिश्न᳓थद् वृ᳓षा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

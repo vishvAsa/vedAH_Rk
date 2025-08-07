@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुवी꣡रियं सुअश्वियं  
-सुग꣡व्यम् इन्द्र दद्धि नः  
-हो꣡तेव पूर्व꣡चित्तये प्र꣡ अध्वरे꣡
+सुवी᳓रियं सुअश्वियं  
+सुग᳓व्यम् इन्द्र दद्धि नः  
+हो᳓तेव पूर्व᳓चित्तये प्र᳓ अध्वरे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -184,7 +184,7 @@ _________
 
 Indra, give to us the possession of good heroes, of good horses, of  good cows,  
 like a Hotar, (for us) to be first in your thought, while the ceremony is  pro(ceeding).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/31-33.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभी꣡ न आ꣡ ववृत्सुव  
-चक्रं꣡ न꣡ वृत्त꣡म् अ꣡र्वतः  
-नियु꣡द्भिश् चर्षणीना᳐꣡म्
+अभी᳓ न आ᳓ ववृत्सुव  
+चक्रं᳓ न᳓ वृत्त᳓म् अ᳓र्वतः  
+नियु᳓द्भिश् चर्षणीना᳐᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

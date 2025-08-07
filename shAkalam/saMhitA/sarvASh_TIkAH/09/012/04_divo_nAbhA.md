@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दिवो꣡ ना꣡भा विचक्षणो꣡  
-अ꣡व्यो वा꣡रे महीयते  
-सो꣡मो यः꣡ सुक्र꣡तुः कविः꣡
+दिवो᳓ ना᳓भा विचक्षणो᳓  
+अ᳓व्यो वा᳓रे महीयते  
+सो᳓मो यः᳓ सुक्र᳓तुः कविः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

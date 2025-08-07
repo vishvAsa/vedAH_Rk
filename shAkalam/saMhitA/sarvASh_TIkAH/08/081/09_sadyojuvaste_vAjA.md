@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सद्योजु꣡वस् ते वा꣡जा  
-अस्म꣡भ्यं विश्व꣡श्चन्द्राः  
-व꣡शैश् च मक्षू꣡ जरन्ते
+सद्योजु᳓वस् ते वा᳓जा  
+अस्म᳓भ्यं विश्व᳓श्चन्द्राः  
+व᳓शैश् च मक्षू᳓ जरन्ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-व꣡रुणो मित्रो꣡ अर्यमा꣡  
-स्म꣡द्रातिषाचो अग्न꣡यः  
-प꣡त्नीवन्तो व꣡षट्कृताः
+व᳓रुणो मित्रो᳓ अर्यमा᳓  
+स्म᳓द्रातिषाचो अग्न᳓यः  
+प᳓त्नीवन्तो व᳓षट्कृताः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

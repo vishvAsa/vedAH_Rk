@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व वाचो꣡ अग्रियः꣡  
-सो꣡म चित्रा꣡भिर् ऊति꣡भिः  
-अभि꣡ वि꣡श्वानि का꣡विया
+प᳓वस्व वाचो᳓ अग्रियः᳓  
+सो᳓म चित्रा᳓भिर् ऊति᳓भिः  
+अभि᳓ वि᳓श्वानि का᳓विया
 </details>
 
 <details><summary>Vedaweb annotation</summary>

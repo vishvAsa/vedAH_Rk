@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो व꣡स्व उ꣡प मासि  
-ऊ꣡र्जो नपान् मा꣡हिनस्य  
-स꣡खे वसो जरितृ꣡भ्यः
+स᳓ नो व᳓स्व उ᳓प मासि  
+ऊ᳓र्जो नपान् मा᳓हिनस्य  
+स᳓खे वसो जरितृ᳓भ्यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

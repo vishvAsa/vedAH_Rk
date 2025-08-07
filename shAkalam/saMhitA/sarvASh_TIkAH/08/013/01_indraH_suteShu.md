@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रः सुते꣡षु सो꣡मेषु  
-क्र꣡तुम् पुनीत उक्थि꣡यम्  
-विदे꣡ वृध꣡स्य द꣡क्षसो महा꣡न् हि꣡ षः꣡
+इ᳓न्द्रः सुते᳓षु सो᳓मेषु  
+क्र᳓तुम् पुनीत उक्थि᳓यम्  
+विदे᳓ वृध᳓स्य द᳓क्षसो महा᳓न् हि᳓ षः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

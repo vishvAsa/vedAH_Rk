@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो मन्द्रा꣡भिर् अध्वरे꣡  
-जिहुवा꣡भिर् यजा महः꣡  
-आ꣡ देवा꣡न् वक्षि य꣡क्षि च
+स᳓ नो मन्द्रा᳓भिर् अध्वरे᳓  
+जिहुवा᳓भिर् यजा महः᳓  
+आ᳓ देवा᳓न् वक्षि य᳓क्षि च
 </details>
 
 <details><summary>Vedaweb annotation</summary>

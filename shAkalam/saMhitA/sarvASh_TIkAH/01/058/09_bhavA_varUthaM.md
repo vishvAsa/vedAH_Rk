@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-भ꣡वा व꣡रूथं गृणते꣡ विभावो  
-भ꣡वा मघवन् मघ꣡वद्भ्यः श꣡र्म  
-उरुष्य꣡ अग्ने अं꣡हसो गृण꣡न्तम्  
-प्रात꣡र् मक्षू꣡ धिया꣡वसुर् जगम्यात्
+भ᳓वा व᳓रूथं गृणते᳓ विभावो  
+भ᳓वा मघवन् मघ᳓वद्भ्यः श᳓र्म  
+उरुष्य᳓ अग्ने अं᳓हसो गृण᳓न्तम्  
+प्रात᳓र् मक्षू᳓ धिया᳓वसुर् जगम्यात्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -225,7 +225,7 @@ Become a defense for the singer, o radiant one. Become shelter for  bounteous on
 Deliver the singer from narrow straits, Agni. – Early in the  
 morning—soon—he should come, bringing goods through (his)  
 insight.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/058/08-09.md">

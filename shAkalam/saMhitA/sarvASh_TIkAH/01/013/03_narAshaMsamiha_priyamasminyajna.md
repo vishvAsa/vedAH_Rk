@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡राशं꣡सम् इह꣡ प्रिय꣡म्  
-अस्मि꣡न् यज्ञ꣡ उ꣡प ह्वये  
-म꣡धुजिह्वं हविष्कृ꣡तम्
+न᳓राशं᳓सम् इह᳓ प्रिय᳓म्  
+अस्मि᳓न् यज्ञ᳓ उ᳓प ह्वये  
+म᳓धुजिह्वं हविष्कृ᳓तम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

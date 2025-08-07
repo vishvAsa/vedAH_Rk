@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-बो꣡धद् य꣡न् मा ह꣡रिभ्यां  
-कुमारः꣡ साहदेवियः꣡  
-अ꣡छा न꣡ हूत꣡ उ꣡द् अरम्
+बो᳓धद् य᳓न् मा ह᳓रिभ्यां  
+कुमारः᳓ साहदेवियः᳓  
+अ᳓छा न᳓ हूत᳓ उ᳓द् अरम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

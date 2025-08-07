@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-नहि꣡ अङ्ग꣡ पुरा꣡ चन꣡  
-जज्ञे꣡ वीर꣡तरस् तुव꣡त्  
-न꣡की राया꣡ न꣡ एव꣡था न꣡ भन्द꣡ना
+नहि᳓ अङ्ग᳓ पुरा᳓ चन᳓  
+जज्ञे᳓ वीर᳓तरस् तुव᳓त्  
+न᳓की राया᳓ न᳓ एव᳓था न᳓ भन्द᳓ना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

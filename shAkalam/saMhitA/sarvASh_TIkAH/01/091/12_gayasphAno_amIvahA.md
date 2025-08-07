@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गयस्फा꣡नो अमीवहा꣡  
-वसुवि꣡त् पुष्टिव꣡र्धनः  
-सुमित्रः꣡ सोम नो भव
+गयस्फा᳓नो अमीवहा᳓  
+वसुवि᳓त् पुष्टिव᳓र्धनः  
+सुमित्रः᳓ सोम नो भव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -160,7 +160,7 @@ _________
 
 Fattening the livestock, smiting afflictions, finding goods, increasing  prosperity,  
 Soma, be a good ally to us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/091/11-12.md">

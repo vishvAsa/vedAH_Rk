@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र शुद्धो꣡ हि꣡ नो रयिं꣡  
-शुद्धो꣡ र꣡त्नानि दाशु꣡षे  
-शुद्धो꣡ वृत्रा꣡णि जिघ्नसे  
-शुद्धो꣡ वा꣡जं सिषाससि
+इ᳓न्द्र शुद्धो᳓ हि᳓ नो रयिं᳓  
+शुद्धो᳓ र᳓त्नानि दाशु᳓षे  
+शुद्धो᳓ वृत्रा᳓णि जिघ्नसे  
+शुद्धो᳓ वा᳓जं सिषाससि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -195,7 +195,7 @@ _________
 For, o Indra, cleansed, (you lay down) wealth for us, cleansed, (you lay  down) treasures for the pious man.  
 Cleansed, you keep smashing obstacles, cleansed, you seek to gain  
 the prize.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/095/07-09.md">

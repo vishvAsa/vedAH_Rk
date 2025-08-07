@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ई꣡ळिष्वा हि꣡ प्रतीवि꣡यं  
-य꣡जस्व जात꣡वेदसम्  
-चरिष्णु꣡धूमम् अ꣡गृभीतशोचिषम्
+ई᳓ळिष्वा हि᳓ प्रतीवि᳓यं  
+य᳓जस्व जात᳓वेदसम्  
+चरिष्णु᳓धूमम् अ᳓गृभीतशोचिषम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

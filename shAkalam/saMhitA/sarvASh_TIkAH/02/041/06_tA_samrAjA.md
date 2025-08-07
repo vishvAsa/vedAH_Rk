@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ सम्रा꣡जा घृता꣡सुती  
-आदित्या꣡ दा꣡नुनस् प꣡ती  
-स꣡चेते अ꣡नवह्वरम्
+ता᳓ सम्रा᳓जा घृता᳓सुती  
+आदित्या᳓ दा᳓नुनस् प᳓ती  
+स᳓चेते अ᳓नवह्वरम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

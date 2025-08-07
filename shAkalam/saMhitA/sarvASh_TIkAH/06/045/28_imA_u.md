@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमा꣡ उ त्वा सुते꣡-सुते  
-न꣡क्षन्ते गिर्वणो गि꣡रः  
-वत्सं꣡ गा꣡वो न꣡ धेन꣡वः
+इमा᳓ उ त्वा सुते᳓-सुते  
+न᳓क्षन्ते गिर्वणो गि᳓रः  
+वत्सं᳓ गा᳓वो न᳓ धेन᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

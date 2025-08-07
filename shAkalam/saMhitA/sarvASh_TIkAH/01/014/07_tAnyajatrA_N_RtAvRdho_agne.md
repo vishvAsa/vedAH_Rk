@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡न् य꣡जत्राँ ऋतावृ꣡धो  
-अ꣡ग्ने प꣡त्नीवतस् कृधि  
-म꣡ध्वः सुजिह्व पायय
+ता᳓न् य᳓जत्राँ ऋतावृ᳓धो  
+अ᳓ग्ने प᳓त्नीवतस् कृधि  
+म᳓ध्वः सुजिह्व पायय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

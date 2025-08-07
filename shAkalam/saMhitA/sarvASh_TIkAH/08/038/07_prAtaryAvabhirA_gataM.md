@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रातर्या꣡वभिर् आ꣡ गतं  
-देवे꣡भिर् जेनियावसू  
-इ꣡न्द्राग्नी सो꣡मपीतये
+प्रातर्या᳓वभिर् आ᳓ गतं  
+देवे᳓भिर् जेनियावसू  
+इ᳓न्द्राग्नी सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

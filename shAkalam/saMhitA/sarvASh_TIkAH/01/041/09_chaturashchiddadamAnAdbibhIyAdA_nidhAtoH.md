@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-चतु꣡रश् चिद् द꣡दमानाद्  
-बिभीया꣡द् आ꣡ नि꣡धातोः  
-न꣡ दुरुक्ता꣡य स्पृहयेत्
+चतु᳓रश् चिद् द᳓दमानाद्  
+बिभीया᳓द् आ᳓ नि᳓धातोः  
+न᳓ दुरुक्ता᳓य स्पृहयेत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

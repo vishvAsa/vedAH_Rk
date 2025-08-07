@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुना꣡ति ते परिस्रु꣡तं  
-सो꣡मं सू꣡र्यस्य दुहिता꣡  
-वा꣡रेण श꣡श्वता त꣡ना
+पुना᳓ति ते परिस्रु᳓तं  
+सो᳓मं सू᳓र्यस्य दुहिता᳓  
+वा᳓रेण श᳓श्वता त᳓ना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

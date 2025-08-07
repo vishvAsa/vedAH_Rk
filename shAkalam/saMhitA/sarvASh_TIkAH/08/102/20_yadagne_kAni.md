@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अग्ने का꣡नि का꣡नि चिद्  
-आ꣡ ते दा꣡रूणि दध्म꣡सि  
-ता꣡ जुषस्व यविष्ठिय
+य᳓द् अग्ने का᳓नि का᳓नि चिद्  
+आ᳓ ते दा᳓रूणि दध्म᳓सि  
+ता᳓ जुषस्व यविष्ठिय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -181,7 +181,7 @@ Any kinds oftimber: **Taittirīya** **Saṃhitā** 5.1.10: in ancient times they
 
 When, Agni, we set any pieces of wood whatsoever in you,  
 enjoy them, youngest one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/102/19-22.md">

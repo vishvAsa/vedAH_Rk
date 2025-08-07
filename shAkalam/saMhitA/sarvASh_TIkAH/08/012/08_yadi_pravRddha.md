@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡दि प्रवृद्ध सत्पते  
-सह꣡स्रम् महिषाँ꣡ अ꣡घः  
-आ꣡द् इ꣡त् त इन्द्रिय꣡म् म꣡हि प्र꣡ वावृधे
+य᳓दि प्रवृद्ध सत्पते  
+सह᳓स्रम् महिषाँ᳓ अ᳓घः  
+आ᳓द् इ᳓त् त इन्द्रिय᳓म् म᳓हि प्र᳓ वावृधे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

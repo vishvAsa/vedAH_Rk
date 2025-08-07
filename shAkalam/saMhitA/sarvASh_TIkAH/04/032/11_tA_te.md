@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ ते गृणन्ति वेध꣡सो  
-या꣡नि चक꣡र्थ पउं꣡सिया  
-सुते꣡षु इन्द्र गिर्वणः
+ता᳓ ते गृणन्ति वेध᳓सो  
+या᳓नि चक᳓र्थ पउं᳓सिया  
+सुते᳓षु इन्द्र गिर्वणः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

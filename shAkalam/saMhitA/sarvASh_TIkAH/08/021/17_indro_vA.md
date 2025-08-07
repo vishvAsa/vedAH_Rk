@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रो वा घे꣡द् इ꣡यन् मघं꣡  
-स꣡रस्वती वा सुभ꣡गा ददि꣡र् व꣡सु  
-तुवं꣡ वा चित्र दाशु꣡षे
+इ᳓न्द्रो वा घे᳓द् इ᳓यन् मघं᳓  
+स᳓रस्वती वा सुभ᳓गा ददि᳓र् व᳓सु  
+तुवं᳓ वा चित्र दाशु᳓षे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

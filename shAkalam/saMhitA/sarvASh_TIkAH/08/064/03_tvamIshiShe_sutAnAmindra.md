@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्व꣡म् ईशिषे सुता꣡ना᳐म्  
-इ꣡न्द्र त्व꣡म् अ꣡सुताना᳐म्  
-तुवं꣡ रा꣡जा ज꣡नाना᳐म्
+त्व᳓म् ईशिषे सुता᳓ना᳐म्  
+इ᳓न्द्र त्व᳓म् अ᳓सुताना᳐म्  
+तुवं᳓ रा᳓जा ज᳓नाना᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

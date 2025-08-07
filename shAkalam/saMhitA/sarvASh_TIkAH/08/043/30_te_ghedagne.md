@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ घे꣡द् अग्ने सुआधियो꣡  
-अ꣡हा वि꣡श्वा नृच꣡क्षसः  
-त꣡रन्तः स्याम दुर्ग꣡हा
+ते᳓ घे᳓द् अग्ने सुआधियो᳓  
+अ᳓हा वि᳓श्वा नृच᳓क्षसः  
+त᳓रन्तः स्याम दुर्ग᳓हा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

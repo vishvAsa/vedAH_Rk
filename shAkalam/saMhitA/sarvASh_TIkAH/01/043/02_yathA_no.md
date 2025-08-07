@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡था नो अ꣡दितिः क꣡रत्  
-प꣡श्वे नृ꣡भ्यो य꣡था ग꣡वे  
-य꣡था तोका꣡य रुद्रि꣡यम्
+य᳓था नो अ᳓दितिः क᳓रत्  
+प᳓श्वे नृ᳓भ्यो य᳓था ग᳓वे  
+य᳓था तोका᳓य रुद्रि᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

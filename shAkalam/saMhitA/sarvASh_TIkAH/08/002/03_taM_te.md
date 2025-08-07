@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ ते य꣡वं य꣡था गो꣡भिः  
-स्वादु꣡म् अकर्म श्रीण꣡न्तः  
-इ꣡न्द्र त्वास्मि꣡न् सधमा꣡दे
+तं᳓ ते य᳓वं य᳓था गो᳓भिः  
+स्वादु᳓म् अकर्म श्रीण᳓न्तः  
+इ᳓न्द्र त्वास्मि᳓न् सधमा᳓दे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

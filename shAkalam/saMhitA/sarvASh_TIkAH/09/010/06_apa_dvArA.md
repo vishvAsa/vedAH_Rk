@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡प द्वा꣡रा मतीना᳐꣡म्  
-प्रत्ना꣡ ऋण्वन्ति कार꣡वः  
-वृ꣡ष्णो ह꣡रस आय꣡वः
+अ᳓प द्वा᳓रा मतीना᳐᳓म्  
+प्रत्ना᳓ ऋण्वन्ति कार᳓वः  
+वृ᳓ष्णो ह᳓रस आय᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

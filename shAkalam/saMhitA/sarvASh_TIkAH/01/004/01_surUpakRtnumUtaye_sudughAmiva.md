@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुरूपकृत्नु꣡म् ऊत꣡ये  
-सुदु꣡घाम् इव गोदु꣡हे  
-जुहूम꣡सि द्य꣡वि-द्यवि
+सुरूपकृत्नु᳓म् ऊत᳓ये  
+सुदु᳓घाम् इव गोदु᳓हे  
+जुहूम᳓सि द्य᳓वि-द्यवि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

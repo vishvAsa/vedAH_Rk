@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुनान꣡ इन्दव् आ꣡ भर  
-सो꣡म द्विब꣡र्हसं रयि꣡म्  
-वृ꣡षन्न् इन्दो न उक्थि꣡यम्
+पुनान᳓ इन्दव् आ᳓ भर  
+सो᳓म द्विब᳓र्हसं रयि᳓म्  
+वृ᳓षन्न् इन्दो न उक्थि᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

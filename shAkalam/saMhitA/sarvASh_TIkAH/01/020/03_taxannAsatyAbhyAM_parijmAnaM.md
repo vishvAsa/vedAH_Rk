@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡क्षन् ना꣡सतियाभियाम्  
-प꣡रिज्मानं सुखं꣡ र꣡थम्  
-त꣡क्षन् धेनुं꣡ सबर्दु꣡घाम्
+त᳓क्षन् ना᳓सतियाभियाम्  
+प᳓रिज्मानं सुखं᳓ र᳓थम्  
+त᳓क्षन् धेनुं᳓ सबर्दु᳓घाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

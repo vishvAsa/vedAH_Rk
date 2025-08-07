@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡द् इ꣡त् प्रत्न꣡स्य रे꣡तसो  
-ज्यो꣡तिष् पश्यन्ति वासर꣡म्  
-परो꣡ य꣡द् इध्य꣡ते दिवा꣡
+आ᳓द् इ᳓त् प्रत्न᳓स्य रे᳓तसो  
+ज्यो᳓तिष् पश्यन्ति वासर᳓म्  
+परो᳓ य᳓द् इध्य᳓ते दिवा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

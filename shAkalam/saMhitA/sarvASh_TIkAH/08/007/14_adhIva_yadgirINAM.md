@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धीव य꣡द् गिरीणां᳐꣡  
-या꣡मं शुभ्रा अ꣡चिधुवम्  
-स्वानइ꣡र्° मन्दध्व इ꣡न्दुभिः
+अ᳓धीव य᳓द् गिरीणां᳐᳓  
+या᳓मं शुभ्रा अ᳓चिधुवम्  
+स्वानइ᳓र्° मन्दध्व इ᳓न्दुभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

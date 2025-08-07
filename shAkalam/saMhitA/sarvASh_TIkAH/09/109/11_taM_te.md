@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ ते सोता꣡रो र꣡सम् म꣡दाय  
-पुन꣡न्ति सो꣡मम् महे꣡ द्युम्ना꣡य
+तं᳓ ते सोता᳓रो र᳓सम् म᳓दाय  
+पुन᳓न्ति सो᳓मम् महे᳓ द्युम्ना᳓य
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -146,7 +146,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The pressers purify that sap of yours for exhilaration, the soma for  great heavenly brilliance.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/10-12.md">

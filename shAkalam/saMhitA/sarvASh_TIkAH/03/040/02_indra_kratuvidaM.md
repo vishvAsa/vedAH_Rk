@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र क्रतुवि꣡दं सुतं꣡  
-सो꣡मं हर्य पुरुष्टुत  
-पि꣡बा꣡ वृषस्व ता꣡तृपिम्
+इ᳓न्द्र क्रतुवि᳓दं सुतं᳓  
+सो᳓मं हर्य पुरुष्टुत  
+पि᳓बा᳓ वृषस्व ता᳓तृपिम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -157,7 +157,7 @@ Imbibe: vṛṣasva, sprinkle, shower, that is, into the stomach, so that it may
 <details><summary>Jamison Brereton</summary>
 
 Indra! Enjoy the pressed soma that finds the will, you much-praised one. Drink it, drench yourself in it—the ever satisfying (soma).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/01-02.md">

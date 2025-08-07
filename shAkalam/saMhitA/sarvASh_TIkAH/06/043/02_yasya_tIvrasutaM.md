@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य तीव्रसु꣡तम् म꣡दम्  
-म꣡ध्यम् अ꣡न्तं च र꣡क्षसे  
-अयं꣡ स꣡ सो꣡म इन्द्र ते सुतः꣡ पि꣡ब
+य᳓स्य तीव्रसु᳓तम् म᳓दम्  
+म᳓ध्यम् अ᳓न्तं च र᳓क्षसे  
+अयं᳓ स᳓ सो᳓म इन्द्र ते सुतः᳓ पि᳓ब
 </details>
 
 <details><summary>Vedaweb annotation</summary>

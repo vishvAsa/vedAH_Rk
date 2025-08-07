@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नः सोम स꣡हो जु꣡वो  
-रूपं꣡ न꣡ व꣡र्चसे भर  
-सुष्वाणो꣡ देव꣡वीतये
+आ᳓ नः सोम स᳓हो जु᳓वो  
+रूपं᳓ न᳓ व᳓र्चसे भर  
+सुष्वाणो᳓ देव᳓वीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

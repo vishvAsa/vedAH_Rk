@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्माँ꣡ अविड्ढि विश्व꣡हा  
-इ꣡न्द्र राया꣡ प꣡रीणसा  
-अस्मा꣡न् वि꣡श्वाभिर् ऊति꣡भिः
+अस्माँ᳓ अविड्ढि विश्व᳓हा  
+इ᳓न्द्र राया᳓ प᳓रीणसा  
+अस्मा᳓न् वि᳓श्वाभिर् ऊति᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

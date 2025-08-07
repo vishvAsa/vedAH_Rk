@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ त्रित꣡स्या꣡धि सा꣡नवि  
-प꣡वमानो अरोचयत्  
-जामि꣡भिः सू꣡रियं सह꣡
+स᳓ त्रित᳓स्या᳓धि सा᳓नवि  
+प᳓वमानो अरोचयत्  
+जामि᳓भिः सू᳓रियं सह᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

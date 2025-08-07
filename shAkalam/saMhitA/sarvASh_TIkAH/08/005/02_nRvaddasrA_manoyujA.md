@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नृव꣡द् दस्रा मनोयु꣡जा  
-र꣡थेन पृथुपा꣡जसा  
-स꣡चेथे अश्विनोष꣡सम्
+नृव᳓द् दस्रा मनोयु᳓जा  
+र᳓थेन पृथुपा᳓जसा  
+स᳓चेथे अश्विनोष᳓सम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

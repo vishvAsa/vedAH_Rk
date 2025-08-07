@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-बभ्रु꣡र् ए꣡को वि꣡षुणः सून꣡रो यु꣡वा  
-अञ्जि꣡ अङ्क्ते हिरण्य꣡यम्
+बभ्रु᳓र् ए᳓को वि᳓षुणः सून᳓रो यु᳓वा  
+अञ्जि᳓ अङ्क्ते हिरण्य᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

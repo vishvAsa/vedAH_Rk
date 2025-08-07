@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡व शुक्रा꣡सो अर्च꣡यो  
-दिव꣡स् पृष्ठे꣡ वि꣡ तन्वते  
-पवि꣡त्रं सोम धा꣡मभिः
+त᳓व शुक्रा᳓सो अर्च᳓यो  
+दिव᳓स् पृष्ठे᳓ वि᳓ तन्वते  
+पवि᳓त्रं सोम धा᳓मभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

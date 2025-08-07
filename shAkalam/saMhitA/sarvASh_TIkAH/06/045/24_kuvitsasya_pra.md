@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कुवि꣡त्सस्य प्र꣡ हि꣡ व्रजं꣡  
-गो꣡मन्तं दस्युहा꣡ ग꣡मत्  
-श꣡चीभिर् अ꣡प नो वरत्
+कुवि᳓त्सस्य प्र᳓ हि᳓ व्रजं᳓  
+गो᳓मन्तं दस्युहा᳓ ग᳓मत्  
+श᳓चीभिर् अ᳓प नो वरत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

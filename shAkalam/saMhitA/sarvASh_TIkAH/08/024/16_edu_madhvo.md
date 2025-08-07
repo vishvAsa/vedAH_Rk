@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ए꣡द् उ म꣡ध्वो मदि꣡न्तरं  
-सिञ्च꣡ वाध्वर्यो अ꣡न्धसः  
-एवा꣡ हि꣡ वीर꣡ स्त꣡वते सदा꣡वृधः
+ए᳓द् उ म᳓ध्वो मदि᳓न्तरं  
+सिञ्च᳓ वाध्वर्यो अ᳓न्धसः  
+एवा᳓ हि᳓ वीर᳓ स्त᳓वते सदा᳓वृधः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

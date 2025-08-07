@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ वाम् उरुव्य꣡चस्तमं  
-चि꣡केतति नृपा꣡यियम्  
-वर्ति꣡र् अश्विना प꣡रि यातम् अस्मयू꣡
+यो᳓ वाम् उरुव्य᳓चस्तमं  
+चि᳓केतति नृपा᳓यियम्  
+वर्ति᳓र् अश्विना प᳓रि यातम् अस्मयू᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

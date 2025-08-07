@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡सां रा꣡जा व꣡रुणो या꣡ति म꣡ध्ये  
-सत्यानृते꣡ अवप꣡श्यञ् ज꣡नानाम्  
-मधुश्चु꣡तः शु꣡चयो याः꣡ पवाका꣡स्+  
-ता꣡ आ꣡पो देवी꣡र् इह꣡ मा꣡म् अवन्तु
+या᳓सां रा᳓जा व᳓रुणो या᳓ति म᳓ध्ये  
+सत्यानृते᳓ अवप᳓श्यञ् ज᳓नानाम्  
+मधुश्चु᳓तः शु᳓चयो याः᳓ पवाका᳓स्+  
+ता᳓ आ᳓पो देवी᳓र् इह᳓ मा᳓म् अवन्तु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -239,7 +239,7 @@ _________
 
 In the middle of which King Varuṇa travels, looking down upon the  truth and falsehood of the peoples,  
 those, clear and pure, that drip honey—let those waters, goddesses, help  me here.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/049/02-03.md">

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-विभ्रा꣡जञ् ज्यो꣡तिषा सु꣡वर्  
-अ꣡गछो रोचनं꣡ दिवः꣡  
-देवा꣡स् त इन्द्र सखिया꣡य येमिरे
+विभ्रा᳓जञ् ज्यो᳓तिषा सु᳓वर्  
+अ᳓गछो रोचनं᳓ दिवः᳓  
+देवा᳓स् त इन्द्र सखिया᳓य येमिरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -171,7 +171,7 @@ Light of the sky: rocanam **divaḥ**; you have pervaded and illumined by yourli
 
 Flashing forth (like) the sun with its light, you went to the luminous  realm of heaven.  
 The gods yielded themselves to partnership with you, Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/098/02-03.md">

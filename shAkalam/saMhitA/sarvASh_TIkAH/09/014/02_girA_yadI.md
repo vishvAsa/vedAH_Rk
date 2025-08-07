@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गिरा꣡ य꣡दी स꣡बन्धवः  
-प꣡ञ्च व्रा꣡ता अपस्य꣡वः  
-परिष्कृण्व꣡न्ति धर्णसि꣡म्
+गिरा᳓ य᳓दी स᳓बन्धवः  
+प᳓ञ्च व्रा᳓ता अपस्य᳓वः  
+परिष्कृण्व᳓न्ति धर्णसि᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

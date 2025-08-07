@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-म꣡रुतो मा꣡रुतस्य न  
-आ꣡ भेषज꣡स्य वहता सुदानवः  
-यूयं꣡ सखायः सप्तयः
+म᳓रुतो मा᳓रुतस्य न  
+आ᳓ भेषज᳓स्य वहता सुदानवः  
+यूयं᳓ सखायः सप्तयः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

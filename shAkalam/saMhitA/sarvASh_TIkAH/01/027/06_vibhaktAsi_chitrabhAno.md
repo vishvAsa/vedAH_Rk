@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-विभक्ता꣡सि चित्रभानो  
-सि꣡न्धोर् ऊर्मा꣡ उपाक꣡ आ꣡  
-सद्यो꣡ दाशु꣡षे क्षरसि
+विभक्ता᳓सि चित्रभानो  
+सि᳓न्धोर् ऊर्मा᳓ उपाक᳓ आ᳓  
+सद्यो᳓ दाशु᳓षे क्षरसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

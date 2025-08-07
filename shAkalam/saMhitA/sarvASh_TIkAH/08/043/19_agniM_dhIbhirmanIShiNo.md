@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्निं꣡ धीभि꣡र् मनीषि꣡णो  
-मे꣡धिरासो विपश्चि꣡तः  
-अद्मस꣡द्याय हिन्विरे
+अग्निं᳓ धीभि᳓र् मनीषि᳓णो  
+मे᳓धिरासो विपश्चि᳓तः  
+अद्मस᳓द्याय हिन्विरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

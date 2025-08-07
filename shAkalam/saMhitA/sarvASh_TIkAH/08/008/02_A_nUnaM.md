@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नूनं꣡ यातम् अश्विना  
-र꣡थेन सू꣡रियत्वचा  
-भु꣡जी हि꣡रण्यपेशसा  
-क꣡वी ग꣡म्भीरचेतसा
+आ᳓ नूनं᳓ यातम् अश्विना  
+र᳓थेन सू᳓रियत्वचा  
+भु᳓जी हि᳓रण्यपेशसा  
+क᳓वी ग᳓म्भीरचेतसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् अस्य मन्य꣡वे वि꣡शो  
-वि꣡श्वा नमन्त कृष्ट꣡यः  
-समुद्रा꣡येव सि꣡न्धवः
+स᳓म् अस्य मन्य᳓वे वि᳓शो  
+वि᳓श्वा नमन्त कृष्ट᳓यः  
+समुद्रा᳓येव सि᳓न्धवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

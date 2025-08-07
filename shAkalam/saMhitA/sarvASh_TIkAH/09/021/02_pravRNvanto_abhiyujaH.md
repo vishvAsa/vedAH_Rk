@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रवृण्व꣡न्तो अभियु꣡जः  
-सु꣡ष्वये वरिवोवि꣡दः  
-स्वयं꣡ स्तोत्रे꣡ वयस्कृ꣡तः
+प्रवृण्व᳓न्तो अभियु᳓जः  
+सु᳓ष्वये वरिवोवि᳓दः  
+स्वयं᳓ स्तोत्रे᳓ वयस्कृ᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

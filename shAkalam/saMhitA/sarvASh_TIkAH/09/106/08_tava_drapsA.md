@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡व द्रप्सा꣡ उदप्रु꣡त  
-इ꣡न्द्रम् म꣡दाय वावृधुः  
-तुवां꣡ देवा꣡सो अमृ꣡ताय क꣡म् पपुः
+त᳓व द्रप्सा᳓ उदप्रु᳓त  
+इ᳓न्द्रम् म᳓दाय वावृधुः  
+तुवां᳓ देवा᳓सो अमृ᳓ताय क᳓म् पपुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -173,7 +173,7 @@ _________
 Your droplets, swimming in water, have strengthened Indra for  
 exhilaration.  
 The gods have drunk you for immortality
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/07-09.md">

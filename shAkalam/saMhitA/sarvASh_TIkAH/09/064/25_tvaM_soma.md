@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सोम विपश्चि꣡तम्  
-पुनानो꣡ वा꣡चम् इष्यसि  
-इ꣡न्दो सह꣡स्रभर्णसम्
+तुवं᳓ सोम विपश्चि᳓तम्  
+पुनानो᳓ वा᳓चम् इष्यसि  
+इ᳓न्दो सह᳓स्रभर्णसम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -142,7 +142,7 @@ Sapient speech: vipaścitam = prajñayā pavitrām, cleaning (?) by wisdom
 
 You, Soma, while becoming purified, send out speech that is attentive to  poetic inspiration  
 and brings a thousand presents, o drop.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/25-27.md">

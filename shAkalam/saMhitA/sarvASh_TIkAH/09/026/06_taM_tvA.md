@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा हिन्वन्ति वेध꣡सः  
-प꣡वमान गिरावृ꣡धम्  
-इ꣡न्दव् इ꣡न्द्राय मत्सर꣡म्
+तं᳓ त्वा हिन्वन्ति वेध᳓सः  
+प᳓वमान गिरावृ᳓धम्  
+इ᳓न्दव् इ᳓न्द्राय मत्सर᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

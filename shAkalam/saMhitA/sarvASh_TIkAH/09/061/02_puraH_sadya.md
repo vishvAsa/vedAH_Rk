@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पु꣡रः सद्य꣡ इत्था꣡धिये  
-दि꣡वोदासाय श꣡म्बरम्  
-अ꣡ध त्यं꣡ तुर्व꣡शं य꣡दुम्
+पु᳓रः सद्य᳓ इत्था᳓धिये  
+दि᳓वोदासाय श᳓म्बरम्  
+अ᳓ध त्यं᳓ तुर्व᳓शं य᳓दुम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

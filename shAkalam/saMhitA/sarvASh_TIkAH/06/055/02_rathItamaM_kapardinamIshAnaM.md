@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-रथी꣡तमं कपर्दि꣡नम्  
-ई꣡शानं रा꣡धसो महः꣡  
-रायः꣡ स꣡खायम् ईमहे
+रथी᳓तमं कपर्दि᳓नम्  
+ई᳓शानं रा᳓धसो महः᳓  
+रायः᳓ स᳓खायम् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

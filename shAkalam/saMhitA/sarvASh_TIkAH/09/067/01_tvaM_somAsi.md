@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सोमासि धारयु꣡र्  
-मन्द्र꣡ ओ꣡जिष्ठो अध्वरे꣡  
-प꣡वस्व मंहय꣡द्रयिः
+तुवं᳓ सोमासि धारयु᳓र्  
+मन्द्र᳓ ओ᳓जिष्ठो अध्वरे᳓  
+प᳓वस्व मंहय᳓द्रयिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -147,7 +147,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 You, Soma, are supporting, invigorating, strongest at the ceremony. Purify yourself, readying wealth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/01-03.md">

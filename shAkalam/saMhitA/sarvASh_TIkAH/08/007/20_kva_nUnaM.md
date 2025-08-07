@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कु꣡व नूनं꣡ सुदानवो  
-म꣡दथा वृक्तबर्हिषः  
-ब्रह्मा꣡ को꣡ वः सपर्यति
+कु᳓व नूनं᳓ सुदानवो  
+म᳓दथा वृक्तबर्हिषः  
+ब्रह्मा᳓ को᳓ वः सपर्यति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

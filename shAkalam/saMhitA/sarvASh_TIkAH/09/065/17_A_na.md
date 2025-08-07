@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ न इन्दो शतग्वि꣡नं  
-ग꣡वाम् पो꣡षं सुअश्वियम्  
-व꣡हा भ꣡गत्तिम् ऊत꣡ये
+आ᳓ न इन्दो शतग्वि᳓नं  
+ग᳓वाम् पो᳓षं सुअश्वियम्  
+व᳓हा भ᳓गत्तिम् ऊत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -158,7 +158,7 @@ _________
 
 Convey to us here, o drop, hundredfold thriving of cattle, an abundance  of horses,  
 and the gift of good fortune, for aid.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/16-18.md">

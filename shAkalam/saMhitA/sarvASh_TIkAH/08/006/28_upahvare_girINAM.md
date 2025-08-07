@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उपह्वरे꣡ गिरीणां᳐꣡  
-संगथे꣡ च नदी꣡ना᳐म्  
-धिया꣡ वि꣡प्रो अजायत
+उपह्वरे᳓ गिरीणां᳐᳓  
+संगथे᳓ च नदी᳓ना᳐म्  
+धिया᳓ वि᳓प्रो अजायत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

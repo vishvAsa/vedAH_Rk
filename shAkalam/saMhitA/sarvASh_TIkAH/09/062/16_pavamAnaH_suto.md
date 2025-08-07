@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानः सुतो꣡ नृ꣡भिः  
-सो꣡मो वा꣡जम् इवासरत्  
-चमू꣡षु श꣡क्मनास꣡दम्
+प᳓वमानः सुतो᳓ नृ᳓भिः  
+सो᳓मो वा᳓जम् इवासरत्  
+चमू᳓षु श᳓क्मनास᳓दम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -150,7 +150,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Purifying himself, pressed by men, Soma has flowed, as if to a prize, to sit in the cups, through his mastery.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/16-18.md">

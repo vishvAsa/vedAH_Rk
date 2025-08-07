@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मही꣡र् अस्य प्र꣡णीतयः  
-पूर्वी꣡र् उत꣡ प्र꣡शस्तयः  
-ना꣡स्य क्षीयन्त ऊत꣡यः
+मही᳓र् अस्य प्र᳓णीतयः  
+पूर्वी᳓र् उत᳓ प्र᳓शस्तयः  
+ना᳓स्य क्षीयन्त ऊत᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

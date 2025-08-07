@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सोमासि स꣡त्पतिस्  
-तुवं꣡ रा꣡जोत꣡ वृत्रहा꣡  
-तुव꣡म् भद्रो꣡ असि क्र꣡तुः
+तुवं᳓ सोमासि स᳓त्पतिस्  
+तुवं᳓ रा᳓जोत᳓ वृत्रहा᳓  
+तुव᳓म् भद्रो᳓ असि क्र᳓तुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

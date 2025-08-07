@@ -15,10 +15,10 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-मो꣡ ते꣡ रिषन् ये꣡ अ꣡छउक्तिभिर् वसो  
-अ꣡ग्ने के꣡भिश् चिद् ए꣡वैः  
-कीरि꣡श् चिद् धि꣡ त्वा꣡म् ई꣡ट्टे दूति꣡याय  
-रात꣡हव्यः सुअध्वरः꣡
+मो᳓ ते᳓ रिषन् ये᳓ अ᳓छउक्तिभिर् वसो  
+अ᳓ग्ने के᳓भिश् चिद् ए᳓वैः  
+कीरि᳓श् चिद् धि᳓ त्वा᳓म् ई᳓ट्टे दूति᳓याय  
+रात᳓हव्यः सुअध्वरः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -243,7 +243,7 @@ _________
 
 And let those not suffer harm who (approach you) with invitations here  in sundry ways, o good Agni.  
 For even a weakling reverently invokes you for a mission if he is a man  of good ceremony who has bestowed the oblation.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/12-13.md">

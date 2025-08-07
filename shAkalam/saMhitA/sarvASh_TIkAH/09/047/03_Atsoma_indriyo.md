@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡त् सो꣡म इन्द्रियो꣡ र꣡सो  
-व꣡ज्रः सहस्रसा꣡ भुवत्  
-उक्थं꣡ य꣡द् अस्य जा꣡यते
+आ᳓त् सो᳓म इन्द्रियो᳓ र᳓सो  
+व᳓ज्रः सहस्रसा᳓ भुवत्  
+उक्थं᳓ य᳓द् अस्य जा᳓यते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

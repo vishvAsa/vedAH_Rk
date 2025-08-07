@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-देवे꣡भ्यस् त्वा म꣡दाय कं꣡  
-सृजान꣡म् अ꣡ति मेषि꣡यः  
-सं꣡ गो꣡भिर् वासयामसि
+देवे᳓भ्यस् त्वा म᳓दाय कं᳓  
+सृजान᳓म् अ᳓ति मेषि᳓यः  
+सं᳓ गो᳓भिर् वासयामसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

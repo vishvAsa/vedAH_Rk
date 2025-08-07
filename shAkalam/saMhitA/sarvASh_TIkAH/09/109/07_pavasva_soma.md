@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व सोम द्युम्नी꣡ सुधारो꣡  
-महा꣡म् अ꣡वीनाम् अ꣡नु पूर्वियः꣡
+प᳓वस्व सोम द्युम्नी᳓ सुधारो᳓  
+महा᳓म् अ᳓वीनाम् अ᳓नु पूर्वियः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

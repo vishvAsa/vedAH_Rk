@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शु꣡चिर् असि पुरुनिष्ठाः꣡  
-क्षीरइ꣡र् मध्यत꣡ आ꣡शीर्तः  
-दध्ना꣡ म꣡न्दिष्ठः शू꣡रस्य
+शु᳓चिर् असि पुरुनिष्ठाः᳓  
+क्षीरइ᳓र् मध्यत᳓ आ᳓शीर्तः  
+दध्ना᳓ म᳓न्दिष्ठः शू᳓रस्य
 </details>
 
 <details><summary>Vedaweb annotation</summary>

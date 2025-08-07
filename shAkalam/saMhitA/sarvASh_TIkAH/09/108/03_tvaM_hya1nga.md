@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ हि꣡ अङ्ग꣡ दइ꣡विया  
-प꣡वमान ज꣡निमानि द्युम꣡त्तमः  
-अमृतत्वा꣡य घोष꣡यः
+तुवं᳓ हि᳓ अङ्ग᳓ दइ᳓विया  
+प᳓वमान ज᳓निमानि द्युम᳓त्तमः  
+अमृतत्वा᳓य घोष᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -148,7 +148,7 @@ _________
 
 O self-purifying one, it was certainly you as the most brilliant who made  the heavenly races heed  
 for the sake of immortality,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/03-04.md">

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ न स्त꣡वान आ꣡ भर  
-रयिं꣡ चित्र꣡श्रवस्तमम्  
-निरेके꣡ चिद् यो꣡ हरिवो व꣡सुर् ददिः꣡
+स᳓ न स्त᳓वान आ᳓ भर  
+रयिं᳓ चित्र᳓श्रवस्तमम्  
+निरेके᳓ चिद् यो᳓ हरिवो व᳓सुर् ददिः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

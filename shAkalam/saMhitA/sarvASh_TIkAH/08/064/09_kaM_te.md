@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कं꣡ ते दाना꣡ असक्षत  
-वृ꣡त्रहन् कं꣡ सुवी꣡रिया  
-उक्थे꣡ क꣡ उ स्विद् अ꣡न्तमः
+कं᳓ ते दाना᳓ असक्षत  
+वृ᳓त्रहन् कं᳓ सुवी᳓रिया  
+उक्थे᳓ क᳓ उ स्विद् अ᳓न्तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-समीचीना꣡स आसते  
-हो꣡तारः सप्त꣡जामयः  
-पद꣡म् ए꣡कस्य पि꣡प्रतः
+समीचीना᳓स आसते  
+हो᳓तारः सप्त᳓जामयः  
+पद᳓म् ए᳓कस्य पि᳓प्रतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

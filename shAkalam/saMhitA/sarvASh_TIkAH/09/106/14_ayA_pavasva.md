@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अया꣡ पवस्व देवयु꣡र्  
-म꣡धोर् धा꣡रा असृक्षत  
-रे꣡भन् पवि꣡त्रम् प꣡रि एषि विश्व꣡तः
+अया᳓ पवस्व देवयु᳓र्  
+म᳓धोर् धा᳓रा असृक्षत  
+रे᳓भन् पवि᳓त्रम् प᳓रि एषि विश्व᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ न ऊर्जे꣡ वि꣡ अव्य꣡यम्  
-पवि꣡त्रं धाव धा꣡रया  
-देवा꣡सः शृण꣡वन् हि꣡ कम्
+स᳓ न ऊर्जे᳓ वि᳓ अव्य᳓यम्  
+पवि᳓त्रं धाव धा᳓रया  
+देवा᳓सः शृण᳓वन् हि᳓ कम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

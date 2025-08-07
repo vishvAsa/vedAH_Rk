@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡वं-यवं नो अ꣡न्धसा  
-पुष्ट꣡म्-पुष्टम् प꣡रि स्रव  
-सो꣡म वि꣡श्वा च सउ꣡भगा
+य᳓वं-यवं नो अ᳓न्धसा  
+पुष्ट᳓म्-पुष्टम् प᳓रि स्रव  
+सो᳓म वि᳓श्वा च सउ᳓भगा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

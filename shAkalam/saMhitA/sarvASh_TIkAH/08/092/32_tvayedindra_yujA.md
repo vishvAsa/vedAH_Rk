@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्व꣡ये꣡द् इन्द्र युजा꣡ वय꣡म्  
-प्र꣡ति ब्रुवीमहि स्पृ꣡धः  
-त्व꣡म् अस्मा꣡कं त꣡व स्मसि
+त्व᳓ये᳓द् इन्द्र युजा᳓ वय᳓म्  
+प्र᳓ति ब्रुवीमहि स्पृ᳓धः  
+त्व᳓म् अस्मा᳓कं त᳓व स्मसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

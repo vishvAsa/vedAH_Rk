@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अमित्रहा꣡ वि꣡चर्षणिः  
-प꣡वस्व सोम शं꣡ ग꣡वे  
-देवे꣡भ्यो अनुकामकृ꣡त्
+अमित्रहा᳓ वि᳓चर्षणिः  
+प᳓वस्व सोम शं᳓ ग᳓वे  
+देवे᳓भ्यो अनुकामकृ᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

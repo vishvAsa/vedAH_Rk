@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्म꣡भ्यं त्वा वसुवि꣡दम्  
-अभि꣡ वा꣡णीर् अनूषत  
-गो꣡भिष् टे व꣡र्णम् अभि꣡ वासयामसि
+अस्म᳓भ्यं त्वा वसुवि᳓दम्  
+अभि᳓ वा᳓णीर् अनूषत  
+गो᳓भिष् टे व᳓र्णम् अभि᳓ वासयामसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

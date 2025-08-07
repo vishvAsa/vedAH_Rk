@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-कुषुम्भक꣡स् त꣡द् अब्रवीद्  
-गिरेः꣡ प्रवर्तमानकः꣡  
-वृ꣡श्चिकस्यारसं꣡ विष꣡म्  
-अरसं꣡ वृश्चिक ते विष꣡म्
+कुषुम्भक᳓स् त᳓द् अब्रवीद्  
+गिरेः᳓ प्रवर्तमानकः᳓  
+वृ᳓श्चिकस्यारसं᳓ विष᳓म्  
+अरसं᳓ वृश्चिक ते विष᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -175,7 +175,7 @@ _________
 
 The little teeny kuṣumbha-bug said this, as it made its teeny turn forth  from the mountain:  
 “Without juice is the poison of the little scorpion, without juice is your  poison, little scorpion.”
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/15-16.md">

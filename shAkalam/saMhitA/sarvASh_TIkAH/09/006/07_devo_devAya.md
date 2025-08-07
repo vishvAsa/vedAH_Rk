@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-देवो꣡ देवा꣡य धा꣡रया  
-इ꣡न्द्राय पवते सुतः꣡  
-प꣡यो य꣡द् अस्य पीप꣡यत्
+देवो᳓ देवा᳓य धा᳓रया  
+इ᳓न्द्राय पवते सुतः᳓  
+प᳓यो य᳓द् अस्य पीप᳓यत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

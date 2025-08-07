@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ हि꣡ र꣡त्नानि दाशु꣡षे  
-सुवा꣡ति सविता꣡ भ꣡गः  
-त꣡म् भागं꣡ चित्र꣡म् ईमहे
+स᳓ हि᳓ र᳓त्नानि दाशु᳓षे  
+सुवा᳓ति सविता᳓ भ᳓गः  
+त᳓म् भागं᳓ चित्र᳓म् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

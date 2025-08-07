@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सोम नृमा꣡दनः  
-प꣡वस्व चर्षणीस꣡हे  
-स꣡स्निर् यो꣡ अनुमा꣡दियः
+तुवं᳓ सोम नृमा᳓दनः  
+प᳓वस्व चर्षणीस᳓हे  
+स᳓स्निर् यो᳓ अनुमा᳓दियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

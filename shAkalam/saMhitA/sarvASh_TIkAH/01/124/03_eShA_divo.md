@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-एषा꣡ दिवो꣡ दुहिता꣡ प्र꣡त्य् अदर्शि  
-ज्यो꣡तिर् व꣡साना समना꣡ पुर꣡स्तात्  
-ऋत꣡स्य प꣡न्थाम् अ꣡नु एति साधु꣡  
-प्रजानती꣡व न꣡ दि꣡शो मिनाति
+एषा᳓ दिवो᳓ दुहिता᳓ प्र᳓त्य् अदर्शि  
+ज्यो᳓तिर् व᳓साना समना᳓ पुर᳓स्तात्  
+ऋत᳓स्य प᳓न्थाम् अ᳓नु एति साधु᳓  
+प्रजानती᳓व न᳓ दि᳓शो मिनाति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -239,7 +239,7 @@ _________
 
 This Daughter of Heaven has appeared opposite, dressed in light, in the  same way (as the others), from the east.  
 She follows along the path of truth, straight to the goal. Like one who  knows the way, she does not confound the directions.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/02-03.md">

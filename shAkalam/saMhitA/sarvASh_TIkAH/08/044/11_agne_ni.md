@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने नि꣡ पाहि नस् तुव꣡म्  
-प्र꣡ति ष्म देव री꣡षतः  
-भिन्धि꣡ द्वे꣡षः सहस्कृत
+अ᳓ग्ने नि᳓ पाहि नस् तुव᳓म्  
+प्र᳓ति ष्म देव री᳓षतः  
+भिन्धि᳓ द्वे᳓षः सहस्कृत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

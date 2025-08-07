@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-हवि꣡ष् कृणुध्वम् आ꣡ गमद्  
-अध्वर्यु꣡र् वनते पु꣡नः  
-विद्वाँ꣡ अस्य प्रशा꣡सनम्
+हवि᳓ष् कृणुध्वम् आ᳓ गमद्  
+अध्वर्यु᳓र् वनते पु᳓नः  
+विद्वाँ᳓ अस्य प्रशा᳓सनम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-गा꣡वो न꣡ यूथ꣡म् उ꣡प यन्ति व꣡ध्रय  
-उ꣡प मा꣡ यन्ति व꣡ध्रयः
+गा᳓वो न᳓ यूथ᳓म् उ᳓प यन्ति व᳓ध्रय  
+उ᳓प मा᳓ यन्ति व᳓ध्रयः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

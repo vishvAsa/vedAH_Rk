@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क्र꣡त्व इ꣡त् पूर्ण꣡म् उद꣡रं  
-तुर꣡स्य अस्ति विधतः꣡  
-वृत्रघ्नः꣡ सोमपा꣡वनः
+क्र᳓त्व इ᳓त् पूर्ण᳓म् उद᳓रं  
+तुर᳓स्य अस्ति विधतः᳓  
+वृत्रघ्नः᳓ सोमपा᳓वनः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

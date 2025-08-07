@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वामं꣡ नो अस्तु अर्यमन्  
-वामं꣡ वरुण शं꣡सियम्  
-वामं꣡ हि꣡ आवृणीम꣡हे
+वामं᳓ नो अस्तु अर्यमन्  
+वामं᳓ वरुण शं᳓सियम्  
+वामं᳓ हि᳓ आवृणीम᳓हे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सबा꣡धो यं꣡ ज꣡ना इमे꣡  
-अग्निं꣡ हव्ये꣡भिर् ई꣡ळते  
-जु꣡ह्वानासो यत꣡स्रुचः
+सबा᳓धो यं᳓ ज᳓ना इमे᳓  
+अग्निं᳓ हव्ये᳓भिर् ई᳓ळते  
+जु᳓ह्वानासो यत᳓स्रुचः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

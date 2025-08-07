@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ य꣡त् ते अग्ने सूर꣡यो  
-जा꣡येमहि प्र꣡ ते वय꣡म्  
-अ꣡प नः शो꣡शुचद् अघ꣡म्
+प्र᳓ य᳓त् ते अग्ने सूर᳓यो  
+जा᳓येमहि प्र᳓ ते वय᳓म्  
+अ᳓प नः शो᳓शुचद् अघ᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -192,7 +192,7 @@ Prajāyemahi vayam: from jan, to be born, may we be born successively in the per
 
 So that we and our patrons would be further propagated through  you, o Agni,  
 —(you) blazing away the bad for us—
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/097/03-05.md">

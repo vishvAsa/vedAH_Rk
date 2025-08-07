@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡भिः सू꣡र्यम् उष꣡सम् मन्दसानो꣡  
-अ꣡वासयो अ꣡प दॄळ्हा꣡नि+ द꣡र्द्रत्  
-महा꣡म् अ꣡द्रिम् प꣡रि गा꣡ इन्द्र स꣡न्तं  
-नुत्था꣡ अ꣡च्युतं स꣡दसस् प꣡रि स्वा꣡त्
+ये᳓भिः सू᳓र्यम् उष᳓सम् मन्दसानो᳓  
+अ᳓वासयो अ᳓प दॄळ्हा᳓नि+ द᳓र्द्रत्  
+महा᳓म् अ᳓द्रिम् प᳓रि गा᳓ इन्द्र स᳓न्तं  
+नुत्था᳓ अ᳓च्युतं स᳓दसस् प᳓रि स्वा᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -243,7 +243,7 @@ _________
 
 Becoming exhilarated on which, you made the sun and dawn to shine, as  you shattered the strongholds.  
 You shoved the great, immoveable rock that was enclosing the cattle  from its own seat, Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/03-05ab.md">

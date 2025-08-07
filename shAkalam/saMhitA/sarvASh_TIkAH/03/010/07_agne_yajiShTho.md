@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने य꣡जिष्ठो अध्वरे꣡  
-देवा꣡न् देवयते꣡ यज  
-हो꣡ता मन्द्रो꣡ वि꣡ राजसि अ꣡ति स्रि꣡धः
+अ᳓ग्ने य᳓जिष्ठो अध्वरे᳓  
+देवा᳓न् देवयते᳓ यज  
+हो᳓ता मन्द्रो᳓ वि᳓ राजसि अ᳓ति स्रि᳓धः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

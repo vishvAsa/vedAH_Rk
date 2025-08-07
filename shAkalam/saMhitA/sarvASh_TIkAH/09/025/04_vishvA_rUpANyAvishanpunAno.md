@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वा रूपा꣡णि आविश꣡न्  
-पुनानो꣡ याति हर्यतः꣡  
-य꣡त्रामृ꣡तास आ꣡सते
+वि᳓श्वा रूपा᳓णि आविश᳓न्  
+पुनानो᳓ याति हर्यतः᳓  
+य᳓त्रामृ᳓तास आ᳓सते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

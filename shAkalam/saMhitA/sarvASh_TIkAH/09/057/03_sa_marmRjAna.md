@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ मर्मृजान꣡ आयु꣡भिर्  
-इ꣡भो रा꣡जेव सुव्रतः꣡  
-श्येनो꣡ न꣡ वं꣡सु षीदति
+स᳓ मर्मृजान᳓ आयु᳓भिर्  
+इ᳓भो रा᳓जेव सुव्रतः᳓  
+श्येनो᳓ न᳓ वं᳓सु षीदति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

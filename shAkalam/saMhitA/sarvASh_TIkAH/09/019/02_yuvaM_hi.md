@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-युवं꣡ हि꣡ स्थः꣡ सु꣡वर्पती  
-इ꣡न्द्रश् च सोम गो꣡पती  
-ईशाना꣡ पिप्यतं धि꣡यः
+युवं᳓ हि᳓ स्थः᳓ सु᳓वर्पती  
+इ᳓न्द्रश् च सोम गो᳓पती  
+ईशाना᳓ पिप्यतं धि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

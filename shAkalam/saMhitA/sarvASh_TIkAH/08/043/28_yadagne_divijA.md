@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अग्ने दिविजा꣡ अ꣡सि  
-अप्सुजा꣡ वा सहस्कृत  
-तं꣡ त्वा गीर्भि꣡र् हवामहे
+य᳓द् अग्ने दिविजा᳓ अ᳓सि  
+अप्सुजा᳓ वा सहस्कृत  
+तं᳓ त्वा गीर्भि᳓र् हवामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

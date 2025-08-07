@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अ꣡त्ति उपजि꣡ह्विका  
-य꣡द् वम्रो꣡ अतिस꣡र्पति  
-स꣡र्वं त꣡द् अस्तु ते घृत꣡म्
+य᳓द् अ᳓त्ति उपजि᳓ह्विका  
+य᳓द् वम्रो᳓ अतिस᳓र्पति  
+स᳓र्वं त᳓द् अस्तु ते घृत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -165,7 +165,7 @@ _________
 
 What the little termite eats, what the ant creeps over,  
 let all that be ghee for you.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/102/19-22.md">

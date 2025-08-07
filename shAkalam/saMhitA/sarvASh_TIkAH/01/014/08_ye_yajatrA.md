@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ य꣡जत्रा य꣡ ई꣡डियास्  
-ते꣡ ते पिबन्तु जिह्व꣡या  
-म꣡धोर् अग्ने व꣡षट्कृति
+ये᳓ य᳓जत्रा य᳓ ई᳓डियास्  
+ते᳓ ते पिबन्तु जिह्व᳓या  
+म᳓धोर् अग्ने व᳓षट्कृति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

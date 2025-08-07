@@ -15,9 +15,9 @@ ChandaH = "उष्णिग्गायत्री वा"
 
 <details><summary>Thomson & Solcum</summary>
 
-कदा꣡ वसो · स्तोत्रं꣡ ह꣡र्यते आ꣡  
-अ꣡व श्मशा꣡ रुधद्† वाः꣡  
-दीर्घं꣡ सुतं꣡ वाता꣡प्याय
+कदा᳓ वसो · स्तोत्रं᳓ ह᳓र्यते आ᳓  
+अ᳓व श्मशा᳓ रुधद्† वाः᳓  
+दीर्घं᳓ सुतं᳓ वाता᳓प्याय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

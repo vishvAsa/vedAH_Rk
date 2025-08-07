@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ व꣡र्मासि सप्र꣡थः  
-पुरोयोध꣡श् च वृत्रहन्  
-त्व꣡या प्र꣡ति ब्रुवे युजा꣡
+तुवं᳓ व᳓र्मासि सप्र᳓थः  
+पुरोयोध᳓श् च वृत्रहन्  
+त्व᳓या प्र᳓ति ब्रुवे युजा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

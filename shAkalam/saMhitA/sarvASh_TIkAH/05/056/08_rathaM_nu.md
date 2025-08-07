@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-र꣡थं नु꣡ मा꣡रुतं वयं꣡  
-श्रवस्यु꣡म् आ꣡ हुवामहे  
-आ꣡ य꣡स्मिन् तस्थउ꣡ सुर꣡णानि बि꣡भ्रती  
-स꣡चा मरु꣡त्सु रोदसी꣡
+र᳓थं नु᳓ मा᳓रुतं वयं᳓  
+श्रवस्यु᳓म् आ᳓ हुवामहे  
+आ᳓ य᳓स्मिन् तस्थउ᳓ सुर᳓णानि बि᳓भ्रती  
+स᳓चा मरु᳓त्सु रोदसी᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -206,7 +206,7 @@ Rodasi = wife of **Rudra**, and the mother of the Maruts
 
 The Marutian chariot, seeking fame, do we now call here,  
 on which there stands, bearing great delights, Rodasī in company with  the Maruts.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/056/08-09.md">

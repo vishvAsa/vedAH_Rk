@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अन्तरा꣡ पराव꣡तम्  
-अर्वाव꣡तं च हूय꣡से  
-इ꣡न्द्रेह꣡ त꣡त आ꣡ गहि
+य᳓द् अन्तरा᳓ पराव᳓तम्  
+अर्वाव᳓तं च हूय᳓से  
+इ᳓न्द्रेह᳓ त᳓त आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -166,7 +166,7 @@ _________
 
 If you are invoked between the far and the nearby,  
 Indra, come here from there.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/08-09.md">

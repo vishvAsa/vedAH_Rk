@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शु꣡चिः पवाक+ व꣡न्दियः  
-अ꣡ग्ने बृह꣡द् वि꣡ रोचसे  
-तुवं꣡ घृते꣡भिर् आ꣡हुतः
+शु᳓चिः पवाक+ व᳓न्दियः  
+अ᳓ग्ने बृह᳓द् वि᳓ रोचसे  
+तुवं᳓ घृते᳓भिर् आ᳓हुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -143,7 +143,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 हेपावकशोधकाग्ने शुचिः शुद्धोवन्द्यः नमस्कार्यःसन् महत् अत्यधिकंविरोचते विविधन्दीप्यसे यतस्त्वङ्घृतेभिः घृतैराहुतः समन्तात्सिक्तः अतोविरोचसे ॥ ४ ॥
-꣡</details>
+᳓</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -173,7 +173,7 @@ Thou, Purifier Agni, high shinest forth, bright, adorable,
 <details><summary>Oldenberg</summary>
 
 Bright, O purifier, worthy of adoration, Agni, thou shinest mightily; thou hast been worshipped by offerings of ghrita 1.
-꣡</details>
+᳓</details>
 
 <details><summary>Keith</summary>
 

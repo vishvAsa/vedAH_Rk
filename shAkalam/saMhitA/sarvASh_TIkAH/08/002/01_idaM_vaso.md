@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इदं꣡ वसो सुत꣡म् अ꣡न्धः  
-पि꣡बा सु꣡पूर्णम् उद꣡रम्  
-अ꣡नाभयिन् ररिमा꣡ ते
+इदं᳓ वसो सुत᳓म् अ᳓न्धः  
+पि᳓बा सु᳓पूर्णम् उद᳓रम्  
+अ᳓नाभयिन् ररिमा᳓ ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्मा꣡कम् उत्तमं꣡ कृधि  
-श्र꣡वो देवे꣡षु सूरिय  
-व꣡र्षिष्ठं द्या꣡म् इवोप꣡रि
+अस्मा᳓कम् उत्तमं᳓ कृधि  
+श्र᳓वो देवे᳓षु सूरिय  
+व᳓र्षिष्ठं द्या᳓म् इवोप᳓रि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

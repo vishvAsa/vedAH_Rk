@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्रिपृष्ठे꣡ त्रिवन्धुरे꣡  
-र꣡थे युञ्जन्ति या꣡तवे  
-ऋ꣡षीणां सप्त꣡ धीति꣡भिः
+तं᳓ त्रिपृष्ठे᳓ त्रिवन्धुरे᳓  
+र᳓थे युञ्जन्ति या᳓तवे  
+ऋ᳓षीणां सप्त᳓ धीति᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

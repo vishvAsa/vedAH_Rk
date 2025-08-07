@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ यो꣡ वाम् मित्रावरुणा  
-अजिरो꣡ दूतो꣡ अ꣡द्रवत्  
-अ꣡यःशीर्षा म꣡देरघुः
+प्र᳓ यो᳓ वाम् मित्रावरुणा  
+अजिरो᳓ दूतो᳓ अ᳓द्रवत्  
+अ᳓यःशीर्षा म᳓देरघुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

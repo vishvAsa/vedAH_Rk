@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प त्वा जुहु꣡वो म꣡म  
-घृता꣡चीर् यन्तु हर्यत  
-अ꣡ग्ने हव्या꣡ जुषस्व नः
+उ᳓प त्वा जुहु᳓वो म᳓म  
+घृता᳓चीर् यन्तु हर्यत  
+अ᳓ग्ने हव्या᳓ जुषस्व नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

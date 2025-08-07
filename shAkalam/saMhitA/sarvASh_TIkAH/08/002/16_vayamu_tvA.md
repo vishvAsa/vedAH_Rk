@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वय꣡म् उ त्वा तदि꣡दर्था  
-इ꣡न्द्र त्वाय꣡न्तः स꣡खायः  
-क꣡ण्वा उक्थे꣡भिर् जरन्ते
+वय᳓म् उ त्वा तदि᳓दर्था  
+इ᳓न्द्र त्वाय᳓न्तः स᳓खायः  
+क᳓ण्वा उक्थे᳓भिर् जरन्ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

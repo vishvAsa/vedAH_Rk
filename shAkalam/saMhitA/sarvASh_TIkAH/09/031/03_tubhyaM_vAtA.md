@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तु꣡भ्यं वा꣡ता अभिप्रि꣡यस्  
-तु꣡भ्यम् अर्षन्ति सि꣡न्धवः  
-सो꣡म व꣡र्धन्ति ते म꣡हः
+तु᳓भ्यं वा᳓ता अभिप्रि᳓यस्  
+तु᳓भ्यम् अर्षन्ति सि᳓न्धवः  
+सो᳓म व᳓र्धन्ति ते म᳓हः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

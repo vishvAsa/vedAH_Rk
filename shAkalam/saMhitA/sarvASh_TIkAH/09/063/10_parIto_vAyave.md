@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रीतो꣡ वाय꣡वे सुतं꣡  
-गि꣡र इ꣡न्द्राय मत्सर꣡म्  
-अ꣡व्यो वा꣡रेषु सिञ्चत
+प᳓रीतो᳓ वाय᳓वे सुतं᳓  
+गि᳓र इ᳓न्द्राय मत्सर᳓म्  
+अ᳓व्यो वा᳓रेषु सिञ्चत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

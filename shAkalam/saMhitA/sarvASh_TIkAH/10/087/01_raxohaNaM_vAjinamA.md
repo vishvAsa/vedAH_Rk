@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-रक्षोह꣡णं वाजि꣡नम् आ꣡ जिघर्मि  
-मित्र꣡म् प्र꣡थिष्ठम् उ꣡प यामि श꣡र्म  
-शि꣡शानो अग्निः꣡ क्र꣡तुभिः स꣡मिद्धः  
-स꣡ नो दि꣡वा स꣡ रिषः꣡ पातु न꣡क्तम्
+रक्षोह᳓णं वाजि᳓नम् आ᳓ जिघर्मि  
+मित्र᳓म् प्र᳓थिष्ठम् उ᳓प यामि श᳓र्म  
+शि᳓शानो अग्निः᳓ क्र᳓तुभिः स᳓मिद्धः  
+स᳓ नो दि᳓वा स᳓ रिषः᳓ पातु न᳓क्तम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -275,7 +275,7 @@ I touch the steed that slayeth the Raksases;
 I go for shelter to the friend most spreading;  
 May Agni, enkindled with our offerings, sharpening (his dart)  
 Guard us by day, [6] from harm and by night.
-꣡</details>
+᳓</details>
 
 <details><summary>Geldner</summary>
 

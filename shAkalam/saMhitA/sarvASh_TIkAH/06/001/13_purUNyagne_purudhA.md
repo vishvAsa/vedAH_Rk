@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरू꣡णि अग्ने पुरुधा꣡ तुवाया꣡  
-व꣡सूनि राजन् वसु꣡ता ते अश्याम्  
-पुरू꣡णि हि꣡ त्वे꣡ पुरुवार स꣡न्ति  
-अ꣡ग्ने व꣡सु विधते꣡ रा꣡जनि त्वे꣡
+पुरू᳓णि अग्ने पुरुधा᳓ तुवाया᳓  
+व᳓सूनि राजन् वसु᳓ता ते अश्याम्  
+पुरू᳓णि हि᳓ त्वे᳓ पुरुवार स᳓न्ति  
+अ᳓ग्ने व᳓सु विधते᳓ रा᳓जनि त्वे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -251,7 +251,7 @@ _________
 
 Many goods many-fold in their goodness might I attain of you through  seeking you, o King Agni.  
 For many are the goods in you, o Agni of many favors, for the one who  does (you) honor, since you are king.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/12-13.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡न्यांसं जात꣡वेदसं  
-यो꣡ देव꣡ताति उ꣡द्यता  
-हव्या꣡नि अइ꣡रयत् दिवि꣡
+प᳓न्यांसं जात᳓वेदसं  
+यो᳓ देव᳓ताति उ᳓द्यता  
+हव्या᳓नि अइ᳓रयत् दिवि᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

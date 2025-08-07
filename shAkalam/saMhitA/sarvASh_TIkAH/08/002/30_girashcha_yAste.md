@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गि꣡रश् च या꣡स् ते गिर्वाह  
-उक्था꣡ च तु꣡भ्यं ता꣡नि  
-सत्रा꣡ दधिरे꣡ श꣡वांसि
+गि᳓रश् च या᳓स् ते गिर्वाह  
+उक्था᳓ च तु᳓भ्यं ता᳓नि  
+सत्रा᳓ दधिरे᳓ श᳓वांसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -172,7 +172,7 @@ _________
 
 And the songs for you, o you whose vehicle is song, and the solemn  words—these are for you—  
 those which have in every way deployed their powers.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/002/29-30.md">

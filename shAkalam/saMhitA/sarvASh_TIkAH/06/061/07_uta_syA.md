@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ स्या꣡ नः स꣡रस्वती  
-घोरा꣡ हि꣡रण्यवर्तनिः  
-वृत्रघ्नी꣡ वष्टि सुष्टुति꣡म्
+उत᳓ स्या᳓ नः स᳓रस्वती  
+घोरा᳓ हि᳓रण्यवर्तनिः  
+वृत्रघ्नी᳓ वष्टि सुष्टुति᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

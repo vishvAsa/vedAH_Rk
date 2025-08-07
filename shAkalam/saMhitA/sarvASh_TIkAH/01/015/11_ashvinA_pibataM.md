@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡श्विना पि꣡बतम् म꣡धु  
-दी꣡दिअग्नी शुचिव्रता  
-ऋतु꣡ना यज्ञवाहसा
+अ᳓श्विना पि᳓बतम् म᳓धु  
+दी᳓दिअग्नी शुचिव्रता  
+ऋतु᳓ना यज्ञवाहसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

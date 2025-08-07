@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अय꣡म् उ ते स꣡म् अतसि  
-कपो꣡त इव गर्भधि꣡म्  
-व꣡चस् त꣡च् चिन् न ओहसे
+अय᳓म् उ ते स᳓म् अतसि  
+कपो᳓त इव गर्भधि᳓म्  
+व᳓चस् त᳓च् चिन् न ओहसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

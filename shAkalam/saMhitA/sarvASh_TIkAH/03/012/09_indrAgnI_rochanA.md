@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राग्नी रोचना꣡ दिवः꣡  
-प꣡रि वा꣡जेषु भूषथः  
-त꣡द् वां चेति प्र꣡ वीरि꣡यम्
+इ᳓न्द्राग्नी रोचना᳓ दिवः᳓  
+प᳓रि वा᳓जेषु भूषथः  
+त᳓द् वां चेति प्र᳓ वीरि᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

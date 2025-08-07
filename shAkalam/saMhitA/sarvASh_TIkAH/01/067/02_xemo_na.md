@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-क्षे꣡मो न꣡ साधुः꣡ क्र꣡तुर् न꣡ भद्रो꣡  
-भु꣡वत् सुआधी꣡र् हो꣡ता हव्यवा꣡ट्
+क्षे᳓मो न᳓ साधुः᳓ क्र᳓तुर् न᳓ भद्रो᳓  
+भु᳓वत् सुआधी᳓र् हो᳓ता हव्यवा᳓ट्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ नो देवः꣡ पराव꣡तः  
-सखित्वना꣡य मामहे꣡  
-दिवो꣡ न꣡ वृष्टि꣡म् प्रथ꣡यन् वव꣡क्षिथ
+यो᳓ नो देवः᳓ पराव᳓तः  
+सखित्वना᳓य मामहे᳓  
+दिवो᳓ न᳓ वृष्टि᳓म् प्रथ᳓यन् वव᳓क्षिथ
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ मॄळीका꣡य+ ते म꣡नो  
-रथी꣡र् अ꣡श्वं न꣡ सं꣡दितम्  
-गीर्भि꣡र् वरुण सीमहि
+वि᳓ मॄळीका᳓य+ ते म᳓नो  
+रथी᳓र् अ᳓श्वं न᳓ सं᳓दितम्  
+गीर्भि᳓र् वरुण सीमहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

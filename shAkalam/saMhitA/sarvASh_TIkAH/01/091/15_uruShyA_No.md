@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उरुष्या꣡ णो अभि꣡शस्तेः  
-सो꣡म नि꣡ पाहि अं꣡हसः  
-स꣡खा सुशे꣡व एधि नः
+उरुष्या᳓ णो अभि᳓शस्तेः  
+सो᳓म नि᳓ पाहि अं᳓हसः  
+स᳓खा सुशे᳓व एधि नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

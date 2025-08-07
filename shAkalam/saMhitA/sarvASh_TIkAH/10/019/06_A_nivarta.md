@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ निवर्त नि꣡ वर्तय  
-पु꣡नर् न इन्द्र गा꣡ देहि  
-जीवा꣡भिर् भुनजामहै
+आ᳓ निवर्त नि᳓ वर्तय  
+पु᳓नर् न इन्द्र गा᳓ देहि  
+जीवा᳓भिर् भुनजामहै
 </details>
 
 <details><summary>Vedaweb annotation</summary>

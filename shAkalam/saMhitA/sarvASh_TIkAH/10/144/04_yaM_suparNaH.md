@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यं꣡ सुपर्णः꣡ पराव꣡तः  
-श्येन꣡स्य पुत्र꣡ आ꣡भरत्  
-शत꣡चक्रं यो᳡ ऽह्यो᳡ वर्तनिः꣡
+यं᳓ सुपर्णः᳓ पराव᳓तः  
+श्येन᳓स्य पुत्र᳓ आ᳓भरत्  
+शत᳓चक्रं यो᳡ ऽह्यो᳡ वर्तनिः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

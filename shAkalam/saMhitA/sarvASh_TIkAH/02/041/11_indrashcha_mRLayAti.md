@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रश् च मॄळ꣡याति+ नो  
-न꣡ नः पश्चा꣡द् अघं꣡ नशत्  
-भद्र꣡म् भवाति नः पुरः꣡
+इ᳓न्द्रश् च मॄळ᳓याति+ नो  
+न᳓ नः पश्चा᳓द् अघं᳓ नशत्  
+भद्र᳓म् भवाति नः पुरः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

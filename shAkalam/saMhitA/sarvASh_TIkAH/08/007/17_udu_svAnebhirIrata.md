@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् उ स्वाने꣡भिर् ईरत  
-उ꣡द् र꣡थैर् उ꣡द् उ वायु꣡भिः  
-उ꣡त् स्तो꣡मैः पृ꣡श्निमातरः
+उ᳓द् उ स्वाने᳓भिर् ईरत  
+उ᳓द् र᳓थैर् उ᳓द् उ वायु᳓भिः  
+उ᳓त् स्तो᳓मैः पृ᳓श्निमातरः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -178,7 +178,7 @@ _________
 
 Up they rise with their sounds [/with (the drops) being pressed], up with  their chariots, and up with the winds;  
 up with praises—they whose mother is Pr̥śni.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/16-17.md">

@@ -15,10 +15,10 @@ ChandaH = "जगती"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡सश्चन्ती भू꣡रिधारे प꣡यस्वती  
-घृतं꣡ दुहाते सुकृ꣡ते शु꣡चिव्रते  
-रा꣡जन्ती अस्य꣡ भु꣡वनस्य रोदसी  
-अस्मे꣡ रे꣡तः सिञ्चतं य꣡न् म꣡नुर्हितम्
+अ᳓सश्चन्ती भू᳓रिधारे प᳓यस्वती  
+घृतं᳓ दुहाते सुकृ᳓ते शु᳓चिव्रते  
+रा᳓जन्ती अस्य᳓ भु᳓वनस्य रोदसी  
+अस्मे᳓ रे᳓तः सिञ्चतं य᳓न् म᳓नुर्हितम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -236,7 +236,7 @@ _________
 Never drying up, with abundant streams, rich in milk, they milk  out ghee for the good performer (of rituals), the two of pure  
 commandments.  
 Ruling over this creation, you two World-Halves, for us pour the semen,  as was established by Manu.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/070/01-02.md">

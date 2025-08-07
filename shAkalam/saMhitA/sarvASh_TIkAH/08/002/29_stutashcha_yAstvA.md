@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्तु꣡तश् च या꣡स् त्वा व꣡र्धन्ति  
-महे꣡ रा꣡धसे नृम्णा꣡य  
-इ꣡न्द्र कारि꣡णं वृध꣡न्तः
+स्तु᳓तश् च या᳓स् त्वा व᳓र्धन्ति  
+महे᳓ रा᳓धसे नृम्णा᳓य  
+इ᳓न्द्र कारि᳓णं वृध᳓न्तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -163,7 +163,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The praises that strengthen you for great generosity and manly action, o Indra, strengthening (you) as the decisive victor,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/002/29-30.md">

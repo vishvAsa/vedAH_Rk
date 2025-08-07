@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-धासिं꣡ कृण्वान꣡ ओ꣡षधीर्  
-ब꣡प्सद् अग्नि꣡र् न꣡ वायति  
-पु꣡नर् य꣡न् त꣡रुणीर् अ꣡पि
+धासिं᳓ कृण्वान᳓ ओ᳓षधीर्  
+ब᳓प्सद् अग्नि᳓र् न᳓ वायति  
+पु᳓नर् य᳓न् त᳓रुणीर् अ᳓पि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

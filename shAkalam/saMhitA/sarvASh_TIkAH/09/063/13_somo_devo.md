@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मो देवो꣡ न꣡ सू꣡रियो  
-अ꣡द्रिभिः पवते सुतः꣡  
-द꣡धानः कल꣡शे र꣡सम्
+सो᳓मो देवो᳓ न᳓ सू᳓रियो  
+अ᳓द्रिभिः पवते सुतः᳓  
+द᳓धानः कल᳓शे र᳓सम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡म्-अग्निं ह꣡वीमभिः  
-स꣡दा हवन्त विश्प꣡तिम्  
-हव्यवा꣡हम् पुरुप्रिय꣡म्
+अग्नि᳓म्-अग्निं ह᳓वीमभिः  
+स᳓दा हवन्त विश्प᳓तिम्  
+हव्यवा᳓हम् पुरुप्रिय᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

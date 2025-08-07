@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शृणुतं꣡ जरितु꣡र् ह꣡वं  
-कृ꣡ष्णस्य स्तुवतो꣡ नरा  
-म꣡ध्वः सो꣡मस्य पीत꣡ये
+शृणुतं᳓ जरितु᳓र् ह᳓वं  
+कृ᳓ष्णस्य स्तुवतो᳓ नरा  
+म᳓ध्वः सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -145,7 +145,7 @@ _________
 
 Hear the call of Kr̥ṣṇa the praising singer, o men,  
 to drink of the honeyed soma.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/085/03-04.md">

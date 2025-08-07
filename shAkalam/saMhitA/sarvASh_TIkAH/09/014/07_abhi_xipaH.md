@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ क्षि꣡पः स꣡म् अग्मत  
-मर्ज꣡यन्तीर् इष꣡स् प꣡तिम्  
-पृष्ठा꣡ गृभ्णत वाजि꣡नः
+अभि᳓ क्षि᳓पः स᳓म् अग्मत  
+मर्ज᳓यन्तीर् इष᳓स् प᳓तिम्  
+पृष्ठा᳓ गृभ्णत वाजि᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

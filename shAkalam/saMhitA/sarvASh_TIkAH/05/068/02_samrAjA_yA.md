@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सम्रा꣡जा या꣡ घृत꣡योनी  
-मित्र꣡श् चोभा꣡ व꣡रुणश् च  
-देवा꣡ देवे꣡षु प्रशस्ता꣡
+सम्रा᳓जा या᳓ घृत᳓योनी  
+मित्र᳓श् चोभा᳓ व᳓रुणश् च  
+देवा᳓ देवे᳓षु प्रशस्ता᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

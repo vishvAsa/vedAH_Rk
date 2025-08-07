@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ स꣡खासि अश्वि꣡नोर्  
-उत꣡ माता꣡ ग꣡वाम् असि  
-उतो꣡षो व꣡स्व ईशिषे
+उत᳓ स᳓खासि अश्वि᳓नोर्  
+उत᳓ माता᳓ ग᳓वाम् असि  
+उतो᳓षो व᳓स्व ईशिषे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

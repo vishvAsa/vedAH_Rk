@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुनान꣡ इन्दव् एषा᳐म्  
-पु꣡रुहूत ज꣡नाना᳐म्  
-प्रियः꣡ समुद्र꣡म् आ꣡ विश
+पुनान᳓ इन्दव् एषा᳐म्  
+पु᳓रुहूत ज᳓नाना᳐म्  
+प्रियः᳓ समुद्र᳓म् आ᳓ विश
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -152,7 +152,7 @@ _________
 
 Becoming purified, o drop, much invoked by these peoples,  
 as dear one, enter the sea.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/25-27.md">

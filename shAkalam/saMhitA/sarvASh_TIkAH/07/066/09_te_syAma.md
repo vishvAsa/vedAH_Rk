@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ स्याम देव वरुण  
-ते꣡ मित्र सूरि꣡भिः सह꣡  
-इ꣡षं सु꣡वश् च धीमहि
+ते᳓ स्याम देव वरुण  
+ते᳓ मित्र सूरि᳓भिः सह᳓  
+इ᳓षं सु᳓वश् च धीमहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

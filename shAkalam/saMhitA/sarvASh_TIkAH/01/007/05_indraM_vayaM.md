@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रं वय꣡म् महाधन꣡  
-इ꣡न्द्रम् अ꣡र्भे हवामहे  
-यु꣡जं वृत्रे꣡षु वज्रि꣡णम्
+इ᳓न्द्रं वय᳓म् महाधन᳓  
+इ᳓न्द्रम् अ᳓र्भे हवामहे  
+यु᳓जं वृत्रे᳓षु वज्रि᳓णम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

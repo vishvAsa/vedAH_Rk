@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमा꣡ उ वः सुदानवो  
-घृतं꣡ न꣡ पिप्यु꣡षीर् इ꣡षः  
-व꣡र्धान् काण्व꣡स्य म꣡न्मभिः
+इमा᳓ उ वः सुदानवो  
+घृतं᳓ न᳓ पिप्यु᳓षीर् इ᳓षः  
+व᳓र्धान् काण्व᳓स्य म᳓न्मभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

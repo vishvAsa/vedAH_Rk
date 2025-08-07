@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सजो꣡षा धी꣡राः पदइ꣡र् अ꣡नु ग्मन्न्  
-उ꣡प त्वा सीदन् वि꣡श्वे य꣡जत्राः
+सजो᳓षा धी᳓राः पदइ᳓र् अ᳓नु ग्मन्न्  
+उ᳓प त्वा सीदन् वि᳓श्वे य᳓जत्राः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

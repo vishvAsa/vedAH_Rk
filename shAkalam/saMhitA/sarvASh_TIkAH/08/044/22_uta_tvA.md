@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ त्वा धीत꣡यो म꣡म  
-गि꣡रो वर्धन्तु विश्व꣡हा  
-अ꣡ग्ने सख्य꣡स्य बोधि नः
+उत᳓ त्वा धीत᳓यो म᳓म  
+गि᳓रो वर्धन्तु विश्व᳓हा  
+अ᳓ग्ने सख्य᳓स्य बोधि नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

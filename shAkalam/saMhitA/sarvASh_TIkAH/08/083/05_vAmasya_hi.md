@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वाम꣡स्य हि꣡ प्रचेतस  
-ई꣡शानाशो रिशादसः  
-ने꣡म् आदित्या अघ꣡स्य य꣡त्
+वाम᳓स्य हि᳓ प्रचेतस  
+ई᳓शानाशो रिशादसः  
+ने᳓म् आदित्या अघ᳓स्य य᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

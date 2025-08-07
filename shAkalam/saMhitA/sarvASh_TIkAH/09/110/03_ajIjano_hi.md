@@ -15,9 +15,9 @@ ChandaH = "अनुष्टुप्पिपीलिकमध्या"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡जीजनो हि꣡ पवमान सू꣡रियं  
-विधा꣡रे श꣡क्मना प꣡यः  
-गो꣡जीरया रं꣡हमाणः पु꣡रंधिया
+अ᳓जीजनो हि᳓ पवमान सू᳓रियं  
+विधा᳓रे श᳓क्मना प᳓यः  
+गो᳓जीरया रं᳓हमाणः पु᳓रंधिया
 </details>
 
 <details><summary>Vedaweb annotation</summary>

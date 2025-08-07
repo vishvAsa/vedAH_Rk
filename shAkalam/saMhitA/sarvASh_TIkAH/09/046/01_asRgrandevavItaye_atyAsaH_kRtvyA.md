@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡सृग्रन् देव꣡वीतये  
-अ꣡त्यासः कृ꣡त्विया इव  
-क्ष꣡रन्तः पर्वतावृ꣡धः
+अ᳓सृग्रन् देव᳓वीतये  
+अ᳓त्यासः कृ᳓त्विया इव  
+क्ष᳓रन्तः पर्वतावृ᳓धः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

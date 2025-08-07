@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् उ त्वा दधिअ꣡ङ्ङ् ऋ꣡षिः  
-पुत्र꣡ ईधे अ꣡थर्वणः  
-वृत्रह꣡णम् पुरंदर꣡म्
+त᳓म् उ त्वा दधिअ᳓ङ्ङ् ऋ᳓षिः  
+पुत्र᳓ ईधे अ᳓थर्वणः  
+वृत्रह᳓णम् पुरंदर᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -160,7 +160,7 @@ _________
 
 You did Dadhyañc, the seer, son of Atharvan, kindle  
 as obstacle-smasher, stronghold-splitter.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/13-15.md">

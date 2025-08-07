@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ प्र꣡यांसि वा꣡हसा  
-दाश्वाँ꣡ अश्नोति म꣡र्तियः  
-क्ष꣡यम् पवाक꣡शोचिषः+
+अभि᳓ प्र᳓यांसि वा᳓हसा  
+दाश्वाँ᳓ अश्नोति म᳓र्तियः  
+क्ष᳓यम् पवाक᳓शोचिषः+
 </details>
 
 <details><summary>Vedaweb annotation</summary>

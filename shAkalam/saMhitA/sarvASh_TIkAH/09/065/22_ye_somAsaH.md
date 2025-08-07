@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ सो꣡मासः पराव꣡ति  
-ये꣡ अर्वाव꣡ति सुन्विरे꣡  
-ये꣡ वादः꣡ शर्यणा꣡वति
+ये᳓ सो᳓मासः पराव᳓ति  
+ये᳓ अर्वाव᳓ति सुन्विरे᳓  
+ये᳓ वादः᳓ शर्यणा᳓वति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

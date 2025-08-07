@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व सोम महा꣡न् समुद्रः꣡  
-पिता꣡ देवा꣡नां वि꣡श्वाभि꣡ धा꣡म
+प᳓वस्व सोम महा᳓न् समुद्रः᳓  
+पिता᳓ देवा᳓नां वि᳓श्वाभि᳓ धा᳓म
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -145,7 +145,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Purify yourself, Soma, as the great sea and as the father of the gods,  (going) to all domains.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/04-06.md">

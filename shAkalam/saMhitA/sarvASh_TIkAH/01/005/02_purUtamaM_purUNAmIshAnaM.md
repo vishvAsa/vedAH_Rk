@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरूत꣡मम् पुरूणा᳐꣡म्  
-ई꣡शानं वा꣡रियाणा᳐म्  
-इ꣡न्द्रं सो꣡मे स꣡चा सुते꣡
+पुरूत᳓मम् पुरूणा᳐᳓म्  
+ई᳓शानं वा᳓रियाणा᳐म्  
+इ᳓न्द्रं सो᳓मे स᳓चा सुते᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

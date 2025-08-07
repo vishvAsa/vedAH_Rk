@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡म् पूषन् ब्रह्मचो꣡दनीम्  
-आ꣡राम् बि꣡भर्षि आघृणे  
-त꣡या समस्य हृ꣡दयम्  
-आ꣡ रिख किकिरा꣡ कृणु
+या᳓म् पूषन् ब्रह्मचो᳓दनीम्  
+आ᳓राम् बि᳓भर्षि आघृणे  
+त᳓या समस्य हृ᳓दयम्  
+आ᳓ रिख किकिरा᳓ कृणु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -206,7 +206,7 @@ Kikirā = to tear into pieces, rend into rags and tatters RV. vi, 53, 7 and 8.
 The awl that you carry, which impels the sacred formulation, o  
 glowing Pūṣan,  
 with it shred the heart of each one, make it shrapnel.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/07-08.md">

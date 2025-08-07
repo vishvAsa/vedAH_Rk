@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कथा꣡ राधाम सखाय  
-स्तो꣡मम् मित्र꣡स्य अर्यम्णः꣡  
-म꣡हि प्स꣡रो व꣡रुणस्य
+कथा᳓ राधाम सखाय  
+स्तो᳓मम् मित्र᳓स्य अर्यम्णः᳓  
+म᳓हि प्स᳓रो व᳓रुणस्य
 </details>
 
 <details><summary>Vedaweb annotation</summary>

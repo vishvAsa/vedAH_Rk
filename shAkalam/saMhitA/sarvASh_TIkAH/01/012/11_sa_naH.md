@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ न स्त꣡वान आ꣡ भर  
-गायत्रे꣡ण न꣡वीयसा  
-रयिं꣡ वीर꣡वतीम् इ꣡षम्
+स᳓ न स्त᳓वान आ᳓ भर  
+गायत्रे᳓ण न᳓वीयसा  
+रयिं᳓ वीर᳓वतीम् इ᳓षम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

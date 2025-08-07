@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡छिद्रा सूनो सहसो नो अद्य꣡  
-स्तोतृ꣡भ्यो मित्रमहः श꣡र्म यछ  
-अ꣡ग्ने गृण꣡न्तम् अं꣡हस उरुष्य  
-ऊ꣡र्जो नपात् · पूर्भि꣡र् आ꣡यसीभिः
+अ᳓छिद्रा सूनो सहसो नो अद्य᳓  
+स्तोतृ᳓भ्यो मित्रमहः श᳓र्म यछ  
+अ᳓ग्ने गृण᳓न्तम् अं᳓हस उरुष्य  
+ऊ᳓र्जो नपात् · पूर्भि᳓र् आ᳓यसीभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -227,7 +227,7 @@ _________
 
 O son of strength with the might of Mitra, today hold out unbroken  shelters to us, your praisers.  
 O Agni, child of nourishment, deliver the singer from narrow straits,  with your metal strongholds.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/058/08-09.md">

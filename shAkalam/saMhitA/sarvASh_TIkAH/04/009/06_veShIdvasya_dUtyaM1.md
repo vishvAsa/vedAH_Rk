@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वे꣡षी꣡द् उ अस्य दूति꣡यं  
-हव्य꣡म् म꣡र्तस्य वो꣡ळ्हवे  
-य꣡स्य जु꣡जोषो अध्वर꣡म्
+वे᳓षी᳓द् उ अस्य दूति᳓यं  
+हव्य᳓म् म᳓र्तस्य वो᳓ळ्हवे  
+य᳓स्य जु᳓जोषो अध्वर᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

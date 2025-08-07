@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवो꣡तासस् त꣡वा꣡वसा  
-स्या꣡म वन्व꣡न्त आमु꣡रः  
-सो꣡म व्रते꣡षु जागृहि
+तुवो᳓तासस् त᳓वा᳓वसा  
+स्या᳓म वन्व᳓न्त आमु᳓रः  
+सो᳓म व्रते᳓षु जागृहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

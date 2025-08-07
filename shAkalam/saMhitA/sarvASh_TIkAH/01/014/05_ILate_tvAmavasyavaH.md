@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ई꣡ळते त्वा꣡म् अवस्य꣡वः  
-क꣡ण्वासो वृक्त꣡बर्हिषः  
-हवि꣡ष्मन्तो अरंकृ꣡तः
+ई᳓ळते त्वा᳓म् अवस्य᳓वः  
+क᳓ण्वासो वृक्त᳓बर्हिषः  
+हवि᳓ष्मन्तो अरंकृ᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

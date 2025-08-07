@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प त्रित꣡स्य पाषि꣡योर्  
-अ꣡भक्त य꣡द् गु꣡हा पद꣡म्  
-यज्ञ꣡स्य सप्त꣡ धा꣡मभिर् अ꣡ध प्रिय꣡म्
+उ᳓प त्रित᳓स्य पाषि᳓योर्  
+अ᳓भक्त य᳓द् गु᳓हा पद᳓म्  
+यज्ञ᳓स्य सप्त᳓ धा᳓मभिर् अ᳓ध प्रिय᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

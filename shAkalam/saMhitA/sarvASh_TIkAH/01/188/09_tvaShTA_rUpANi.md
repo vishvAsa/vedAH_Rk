@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्व꣡ष्टा रूपा꣡णि हि꣡ प्रभुः꣡  
-पशू꣡न् वि꣡श्वान् समानजे꣡  
-ते꣡षां न स्फाति꣡म् आ꣡ यज
+त्व᳓ष्टा रूपा᳓णि हि᳓ प्रभुः᳓  
+पशू᳓न् वि᳓श्वान् समानजे᳓  
+ते᳓षां न स्फाति᳓म् आ᳓ यज
 </details>
 
 <details><summary>Vedaweb annotation</summary>

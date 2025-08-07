@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् अग्ने शु꣡चयस् त꣡व  
-शुक्रा꣡ भ्रा꣡जन्त ईरते  
-त꣡व ज्यो꣡तींषि अर्च꣡यः
+उ᳓द् अग्ने शु᳓चयस् त᳓व  
+शुक्रा᳓ भ्रा᳓जन्त ईरते  
+त᳓व ज्यो᳓तींषि अर्च᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

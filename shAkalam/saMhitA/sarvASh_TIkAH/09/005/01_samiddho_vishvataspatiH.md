@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡मिद्धो विश्व꣡तस् प꣡तिः  
-प꣡वमानो वि꣡ राजति  
-प्रीण꣡न् वृ꣡षा क꣡निक्रदत्
+स᳓मिद्धो विश्व᳓तस् प᳓तिः  
+प᳓वमानो वि᳓ राजति  
+प्रीण᳓न् वृ᳓षा क᳓निक्रदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

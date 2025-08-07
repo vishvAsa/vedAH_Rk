@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ न इन्द्र वाजयु꣡स्  
-तुवं꣡ गव्युः꣡ शतक्रतो  
-तुवं꣡ हिरण्ययु꣡र् वसो
+तुवं᳓ न इन्द्र वाजयु᳓स्  
+तुवं᳓ गव्युः᳓ शतक्रतो  
+तुवं᳓ हिरण्ययु᳓र् वसो
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,7 +151,7 @@ _________
 
 You, Indra, are seeking spoils for us; you are seeking cows, o you of a  hundred resolves;  
 you are seeking gold, o good one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/03-04.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ प्रत्नव꣡न् न꣡वीयसा  
-अ꣡ग्ने द्युम्ने꣡न संय꣡ता  
-बृह꣡त् ततन्थ भानु꣡ना
+स᳓ प्रत्नव᳓न् न᳓वीयसा  
+अ᳓ग्ने द्युम्ने᳓न संय᳓ता  
+बृह᳓त् ततन्थ भानु᳓ना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

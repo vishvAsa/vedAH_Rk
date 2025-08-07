@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ व्ययस्व खदिर꣡स्य सा꣡रम्  
-ओ꣡जो धेहि स्पन्दने꣡ शिंश꣡पायाम्  
-अ꣡क्ष वीळो वीळित वीळ꣡यस्व  
-मा꣡ या꣡माद् अस्मा꣡द् अ꣡व जीहिपो नः
+अभि᳓ व्ययस्व खदिर᳓स्य सा᳓रम्  
+ओ᳓जो धेहि स्पन्दने᳓ शिंश᳓पायाम्  
+अ᳓क्ष वीळो वीळित वीळ᳓यस्व  
+मा᳓ या᳓माद् अस्मा᳓द् अ᳓व जीहिपो नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -234,7 +234,7 @@ Khayar and śiśu: khadirasya sāram is the text;
 
 Engird yourself in the hardwood of the acacia tree; place strength in the  śiṃśapā(-wood) in its recoil.  
 O Axle, you who are firm and were made firm, stay firm. Don’t make us  leave off from this journey.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

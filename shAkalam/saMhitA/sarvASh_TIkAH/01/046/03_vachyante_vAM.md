@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वच्य꣡न्ते वां ककुहा꣡सो  
-जूर्णा꣡याम् अ꣡धि विष्ट꣡पि  
-य꣡द् वां र꣡थो वि꣡भिष् प꣡तात्
+वच्य᳓न्ते वां ककुहा᳓सो  
+जूर्णा᳓याम् अ᳓धि विष्ट᳓पि  
+य᳓द् वां र᳓थो वि᳓भिष् प᳓तात्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡द् वि꣡प्रासो विपन्य꣡वो  
-जागृवां꣡सः स꣡म् इन्धते  
-वि꣡ष्णोर् य꣡त् परम꣡म् पद꣡म्
+त᳓द् वि᳓प्रासो विपन्य᳓वो  
+जागृवां᳓सः स᳓म् इन्धते  
+वि᳓ष्णोर् य᳓त् परम᳓म् पद᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

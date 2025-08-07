@@ -15,8 +15,8 @@ ChandaH = "द्विपदा जगती"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो वा꣡जेषु अविता꣡ पुरूव꣡सुः  
-पुरस्थाता꣡ मघ꣡वा वृत्रहा꣡ भुवत्
+स᳓ नो वा᳓जेषु अविता᳓ पुरूव᳓सुः  
+पुरस्थाता᳓ मघ᳓वा वृत्रहा᳓ भुवत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

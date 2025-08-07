@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ वः शिव꣡तमो र꣡सस्  
-त꣡स्य भाजयतेह꣡ नः  
-उशती꣡र् इव मात꣡रः
+यो᳓ वः शिव᳓तमो र᳓सस्  
+त᳓स्य भाजयतेह᳓ नः  
+उशती᳓र् इव मात᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

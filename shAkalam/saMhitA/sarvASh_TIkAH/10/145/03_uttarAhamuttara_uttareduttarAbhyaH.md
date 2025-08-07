@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡त्तरा अह꣡म् उत्तर  
-उ꣡त्तरा इ꣡द् उ꣡त्तराभ्यः  
-अ꣡था सप꣡त्नी या꣡ म꣡म  
-अ꣡धरा सा꣡धराभियः
+उ᳓त्तरा अह᳓म् उत्तर  
+उ᳓त्तरा इ᳓द् उ᳓त्तराभ्यः  
+अ᳓था सप᳓त्नी या᳓ म᳓म  
+अ᳓धरा सा᳓धराभियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

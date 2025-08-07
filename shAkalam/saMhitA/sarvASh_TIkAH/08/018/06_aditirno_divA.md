@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡दितिर् नो दि꣡वा पशु꣡म्  
-अ꣡दितिर् न꣡क्तम् अ꣡द्वयाः  
-अ꣡दितिः पातु अं꣡हसः सदा꣡वृधा
+अ᳓दितिर् नो दि᳓वा पशु᳓म्  
+अ᳓दितिर् न᳓क्तम् अ᳓द्वयाः  
+अ᳓दितिः पातु अं᳓हसः सदा᳓वृधा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

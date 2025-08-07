@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ नः पथः꣡ सुविता꣡य  
-चिय꣡न्तु इ꣡न्द्रो मरु꣡तः  
-पूषा꣡ भ꣡गो व꣡न्दियासः
+वि᳓ नः पथः᳓ सुविता᳓य  
+चिय᳓न्तु इ᳓न्द्रो मरु᳓तः  
+पूषा᳓ भ᳓गो व᳓न्दियासः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

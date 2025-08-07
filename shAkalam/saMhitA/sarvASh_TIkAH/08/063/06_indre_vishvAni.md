@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रे वि꣡श्वानि वीरि꣡या  
-कृता꣡नि क꣡र्तुवानि च  
-य꣡म् अर्का꣡ अध्वरं꣡ विदुः꣡
+इ᳓न्द्रे वि᳓श्वानि वीरि᳓या  
+कृता᳓नि क᳓र्तुवानि च  
+य᳓म् अर्का᳓ अध्वरं᳓ विदुः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

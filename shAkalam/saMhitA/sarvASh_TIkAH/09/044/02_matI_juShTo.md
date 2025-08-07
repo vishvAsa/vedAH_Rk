@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मती꣡ जुष्टो꣡ धिया꣡ हितः꣡  
-सो꣡मो हिन्वे पराव꣡ति  
-वि꣡प्रस्य धा꣡रया कविः꣡
+मती᳓ जुष्टो᳓ धिया᳓ हितः᳓  
+सो᳓मो हिन्वे पराव᳓ति  
+वि᳓प्रस्य धा᳓रया कविः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

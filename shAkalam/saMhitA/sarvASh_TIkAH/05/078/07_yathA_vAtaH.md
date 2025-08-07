@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡था वा꣡तः पुष्करि꣡णीं  
-समिङ्ग꣡यति सर्व꣡तः  
-एवा꣡ ते ग꣡र्भ एजतु  
-निरइ꣡तु द꣡शमासियः
+य᳓था वा᳓तः पुष्करि᳓णीं  
+समिङ्ग᳓यति सर्व᳓तः  
+एवा᳓ ते ग᳓र्भ एजतु  
+निरइ᳓तु द᳓शमासियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

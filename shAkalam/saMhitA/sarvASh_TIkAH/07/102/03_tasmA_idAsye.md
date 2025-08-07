@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡स्मा इ꣡द् आसि꣡ये हवि꣡र्  
-जुहो꣡ता म꣡धुमत्तमम्  
-इ꣡ळां नः संय꣡तं करत्
+त᳓स्मा इ᳓द् आसि᳓ये हवि᳓र्  
+जुहो᳓ता म᳓धुमत्तमम्  
+इ᳓ळां नः संय᳓तं करत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

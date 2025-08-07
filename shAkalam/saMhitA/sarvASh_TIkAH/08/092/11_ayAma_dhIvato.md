@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡याम धी꣡वतो धि꣡यो  
-अ꣡र्वद्भिः शक्र गोदरे  
-ज꣡येम पृत्सु꣡ वज्रिवः
+अ᳓याम धी᳓वतो धि᳓यो  
+अ᳓र्वद्भिः शक्र गोदरे  
+ज᳓येम पृत्सु᳓ वज्रिवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

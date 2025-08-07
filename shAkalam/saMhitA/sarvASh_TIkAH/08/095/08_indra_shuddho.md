@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र शुद्धो꣡ न आ꣡ गहि  
-शुद्धः꣡ शुद्धा꣡भिर् ऊति꣡भिः  
-शुद्धो꣡ रयिं꣡ नि꣡ धारय  
-शुद्धो꣡ ममद्धि सोमियः꣡
+इ᳓न्द्र शुद्धो᳓ न आ᳓ गहि  
+शुद्धः᳓ शुद्धा᳓भिर् ऊति᳓भिः  
+शुद्धो᳓ रयिं᳓ नि᳓ धारय  
+शुद्धो᳓ ममद्धि सोमियः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -210,7 +210,7 @@ Protecting hostws: the **Maruts**
 
 O Indra—cleansed, come here to us; (come) cleansed with cleansed help. Cleansed, lay down a foundation of wealth; cleansed, become  
 exhilarated as the one deserving of soma.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/095/07-09.md">

@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ए꣡हि स्तो꣡माँ अभि꣡ स्वर  
-अभि꣡ गृणीहि आ꣡ रुव  
-ब्र꣡ह्म च नो वसो स꣡चा  
-इ꣡न्द्र यज्ञं꣡ च वर्धय
+ए᳓हि स्तो᳓माँ अभि᳓ स्वर  
+अभि᳓ गृणीहि आ᳓ रुव  
+ब्र᳓ह्म च नो वसो स᳓चा  
+इ᳓न्द्र यज्ञं᳓ च वर्धय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

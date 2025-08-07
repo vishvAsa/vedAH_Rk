@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡त्नीवन्तः सुता꣡ इम꣡  
-उश꣡न्तो यन्ति वीत꣡ये  
-अपां꣡ ज꣡ग्मिर् निचुम्पुणः꣡
+प᳓त्नीवन्तः सुता᳓ इम᳓  
+उश᳓न्तो यन्ति वीत᳓ये  
+अपां᳓ ज᳓ग्मिर् निचुम्पुणः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

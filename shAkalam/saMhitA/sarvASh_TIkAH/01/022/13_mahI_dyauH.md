@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मही꣡ द्यउः꣡ पृथिवी꣡ च न  
-इमं꣡ यज्ञ꣡म् मिमिक्षताम्  
-पिपृतां꣡ नो भ꣡रीमभिः
+मही᳓ द्यउः᳓ पृथिवी᳓ च न  
+इमं᳓ यज्ञ᳓म् मिमिक्षताम्  
+पिपृतां᳓ नो भ᳓रीमभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

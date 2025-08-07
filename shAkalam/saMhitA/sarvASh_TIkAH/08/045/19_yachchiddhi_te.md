@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡च् चिद् धि꣡ ते अ꣡पि व्य꣡थिर्  
-जगन्वां꣡सो अ꣡मन्महि  
-गोदा꣡ इ꣡द् इन्द्र बोधि नः
+य᳓च् चिद् धि᳓ ते अ᳓पि व्य᳓थिर्  
+जगन्वां᳓सो अ᳓मन्महि  
+गोदा᳓ इ᳓द् इन्द्र बोधि नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

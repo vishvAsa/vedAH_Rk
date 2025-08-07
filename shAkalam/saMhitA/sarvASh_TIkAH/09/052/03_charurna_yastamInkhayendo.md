@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-चरु꣡र् न꣡ य꣡स् त꣡म् ईङ्खय  
-इ꣡न्दो न꣡ दा꣡नम् ईङ्खय  
-वधइ꣡र् वधस्नव् ईङ्खय
+चरु᳓र् न᳓ य᳓स् त᳓म् ईङ्खय  
+इ᳓न्दो न᳓ दा᳓नम् ईङ्खय  
+वधइ᳓र् वधस्नव् ईङ्खय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡रं हि꣡ ष्म सुते꣡षु णः  
-सो꣡मेषु इन्द्र भू꣡षसि  
-अ꣡रं ते शक्र दाव꣡ने
+अ᳓रं हि᳓ ष्म सुते᳓षु णः  
+सो᳓मेषु इन्द्र भू᳓षसि  
+अ᳓रं ते शक्र दाव᳓ने
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -177,7 +177,7 @@ Abundantly able: bhiṣasi = bhavasi, prāpaya, bring us abundant wealth
 For fittingly you exert yourself when our soma drinks are  
 pressed, Indra,  
 fittingly for your giving, able one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-27.md">

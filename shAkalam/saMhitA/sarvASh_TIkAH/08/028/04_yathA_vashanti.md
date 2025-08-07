@@ -15,9 +15,9 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡था व꣡शन्ति देवा᳐꣡स् त꣡थे꣡द् असत्  
-त꣡द् एषां न꣡किर् आ꣡ मिनत्  
-अ꣡रावा चन꣡ म꣡र्तियः
+य᳓था व᳓शन्ति देवा᳐᳓स् त᳓थे᳓द् असत्  
+त᳓द् एषां न᳓किर् आ᳓ मिनत्  
+अ᳓रावा चन᳓ म᳓र्तियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

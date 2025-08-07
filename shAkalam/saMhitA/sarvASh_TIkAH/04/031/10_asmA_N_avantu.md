@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्माँ꣡ अवन्तु ते शत꣡म्  
-अस्मा꣡न् सह꣡स्रम् ऊत꣡यः  
-अस्मा꣡न् वि꣡श्वा अभि꣡ष्टयः
+अस्माँ᳓ अवन्तु ते शत᳓म्  
+अस्मा᳓न् सह᳓स्रम् ऊत᳓यः  
+अस्मा᳓न् वि᳓श्वा अभि᳓ष्टयः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

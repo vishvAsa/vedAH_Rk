@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ति अस्मै पि꣡पीषते  
-वि꣡श्वानि विदु꣡षे भर  
-अरंगमा꣡य ज꣡ग्मये  
-अ꣡पश्चाद्दघ्वने न꣡रे
+प्र᳓ति अस्मै पि᳓पीषते  
+वि᳓श्वानि विदु᳓षे भर  
+अरंगमा᳓य ज᳓ग्मये  
+अ᳓पश्चाद्दघ्वने न᳓रे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,11 +15,11 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त्र ज्यो꣡तिर् अ꣡जस्रं  
-य꣡स्मिँ लोके꣡ सु꣡वर् हित꣡म्  
-त꣡स्मिन् मां꣡ धेहि पवमान  
-अमृ꣡ते लोके꣡ अ꣡क्षित  
-इ꣡न्द्रायेन्दो प꣡रि स्रव
+य᳓त्र ज्यो᳓तिर् अ᳓जस्रं  
+य᳓स्मिँ लोके᳓ सु᳓वर् हित᳓म्  
+त᳓स्मिन् मां᳓ धेहि पवमान  
+अमृ᳓ते लोके᳓ अ᳓क्षित  
+इ᳓न्द्रायेन्दो प᳓रि स्रव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -240,7 +240,7 @@ Where the inexhaustible light is, in which world the sun is placed,
 in that one place me, o self-purifying one, in the immortal,  
 imperishable world.  
 – O drop, flow around for Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/06-07.md">

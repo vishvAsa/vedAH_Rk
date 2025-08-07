@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो मित्रावरुणा  
-घृतइ꣡र् ग꣡व्यूतिम् उक्षतम्  
-म꣡ध्वा र꣡जांसि सुक्रतू
+आ᳓ नो मित्रावरुणा  
+घृतइ᳓र् ग᳓व्यूतिम् उक्षतम्  
+म᳓ध्वा र᳓जांसि सुक्रतू
 </details>
 
 <details><summary>Vedaweb annotation</summary>

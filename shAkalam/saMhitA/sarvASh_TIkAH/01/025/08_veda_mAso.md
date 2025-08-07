@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वे꣡द मासो꣡ धृत꣡व्रतो  
-दुवा꣡दश प्रजा꣡वतः  
-वे꣡दा य꣡ उपजा꣡यते
+वे᳓द मासो᳓ धृत᳓व्रतो  
+दुवा᳓दश प्रजा᳓वतः  
+वे᳓दा य᳓ उपजा᳓यते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

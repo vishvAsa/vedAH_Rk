@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-म꣡र्ता अ꣡मर्तियस्य ते  
-भू꣡रि ना꣡म मनामहे  
-वि꣡प्रासो जात꣡वेदसः
+म᳓र्ता अ᳓मर्तियस्य ते  
+भू᳓रि ना᳓म मनामहे  
+वि᳓प्रासो जात᳓वेदसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

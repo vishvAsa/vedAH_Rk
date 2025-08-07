@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वाचो꣡ जन्तुः꣡ कवीना᳐꣡म्  
-प꣡वस्व सोम धा꣡रया  
-देवे꣡षु रत्नधा꣡ असि
+वाचो᳓ जन्तुः᳓ कवीना᳐᳓म्  
+प᳓वस्व सोम धा᳓रया  
+देवे᳓षु रत्नधा᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

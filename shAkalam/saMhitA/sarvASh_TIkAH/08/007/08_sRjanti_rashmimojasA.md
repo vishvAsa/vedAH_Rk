@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सृज꣡न्ति रश्मि꣡म् ओ꣡जसा  
-प꣡न्थां सू꣡र्याय या꣡तवे  
-ते꣡ भानु꣡भिर् वि꣡ तस्थिरे
+सृज᳓न्ति रश्मि᳓म् ओ᳓जसा  
+प᳓न्थां सू᳓र्याय या᳓तवे  
+ते᳓ भानु᳓भिर् वि᳓ तस्थिरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

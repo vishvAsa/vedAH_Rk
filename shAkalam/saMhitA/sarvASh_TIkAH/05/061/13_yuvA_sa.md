@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यु꣡वा स꣡ मा꣡रुतो गण꣡स्  
-त्वेष꣡रथो अ꣡नेदियः  
-शुभंया꣡वा꣡प्रतिष्कुतः
+यु᳓वा स᳓ मा᳓रुतो गण᳓स्  
+त्वेष᳓रथो अ᳓नेदियः  
+शुभंया᳓वा᳓प्रतिष्कुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

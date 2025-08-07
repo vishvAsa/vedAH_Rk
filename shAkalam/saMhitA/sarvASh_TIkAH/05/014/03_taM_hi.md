@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ हि꣡ श꣡श्वन्त ई꣡ळते  
-स्रुचा꣡ देवं꣡ घृतश्चु꣡ता  
-अग्निं꣡ हव्या꣡य वो꣡ळ्हवे
+तं᳓ हि᳓ श᳓श्वन्त ई᳓ळते  
+स्रुचा᳓ देवं᳓ घृतश्चु᳓ता  
+अग्निं᳓ हव्या᳓य वो᳓ळ्हवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

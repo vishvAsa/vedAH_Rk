@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ र꣡क्षांसि निजू꣡र्वति  
-वृ꣡षा शुक्रे꣡ण शोचि꣡षा  
-स꣡ नः पर्षद् अ꣡ति द्वि꣡षः
+यो᳓ र᳓क्षांसि निजू᳓र्वति  
+वृ᳓षा शुक्रे᳓ण शोचि᳓षा  
+स᳓ नः पर्षद् अ᳓ति द्वि᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

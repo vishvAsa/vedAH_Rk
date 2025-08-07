@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡किर् अस्य श꣡चीनां᳐  
-नियन्ता꣡ सूनृ꣡ताना᳐म्  
-न꣡किर् वक्ता꣡ न꣡ दाद् इ꣡ति
+न᳓किर् अस्य श᳓चीनां᳐  
+नियन्ता᳓ सूनृ᳓ताना᳐म्  
+न᳓किर् वक्ता᳓ न᳓ दाद् इ᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

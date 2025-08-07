@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि वा꣡राणि अव्य꣡या  
-गो꣡भिर् अञ्जानो꣡ अर्षति  
-त्री꣡ षध꣡स्था पुनानः꣡ कृणुते ह꣡रिः
+प᳓रि वा᳓राणि अव्य᳓या  
+गो᳓भिर् अञ्जानो᳓ अर्षति  
+त्री᳓ षध᳓स्था पुनानः᳓ कृणुते ह᳓रिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

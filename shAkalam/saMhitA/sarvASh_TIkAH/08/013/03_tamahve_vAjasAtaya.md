@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् अह्वे वा꣡जसातय  
-इ꣡न्द्रम् भ꣡राय शुष्मि꣡णम्  
-भ꣡वा नः सुम्ने꣡ अ꣡न्तमः स꣡खा वृधे꣡
+त᳓म् अह्वे वा᳓जसातय  
+इ᳓न्द्रम् भ᳓राय शुष्मि᳓णम्  
+भ᳓वा नः सुम्ने᳓ अ᳓न्तमः स᳓खा वृधे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

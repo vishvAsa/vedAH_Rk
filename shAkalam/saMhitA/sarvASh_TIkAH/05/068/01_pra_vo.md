@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ वो मित्रा꣡य गायत  
-व꣡रुणाय विपा꣡ गिरा꣡  
-म꣡हिक्षत्राव् ऋत꣡म् बृह꣡त्
+प्र᳓ वो मित्रा᳓य गायत  
+व᳓रुणाय विपा᳓ गिरा᳓  
+म᳓हिक्षत्राव् ऋत᳓म् बृह᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

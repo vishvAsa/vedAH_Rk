@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दुर्गे꣡ चिन् नः सुगं꣡ कृधि  
-गृणान꣡ इन्द्र गिर्वणः  
-तुवं꣡ च मघवन् व꣡शः
+दुर्गे᳓ चिन् नः सुगं᳓ कृधि  
+गृणान᳓ इन्द्र गिर्वणः  
+तुवं᳓ च मघवन् व᳓शः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

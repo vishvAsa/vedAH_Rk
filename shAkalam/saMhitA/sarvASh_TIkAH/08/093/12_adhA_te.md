@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धा ते अ꣡प्रतिष्कुतं  
-देवी꣡ शु꣡ष्मं सपर्यतः  
-उभे꣡ सुशिप्र रो꣡दसी
+अ᳓धा ते अ᳓प्रतिष्कुतं  
+देवी᳓ शु᳓ष्मं सपर्यतः  
+उभे᳓ सुशिप्र रो᳓दसी
 </details>
 
 <details><summary>Vedaweb annotation</summary>

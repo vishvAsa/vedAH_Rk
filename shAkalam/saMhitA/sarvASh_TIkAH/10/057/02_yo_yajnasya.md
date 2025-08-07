@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ यज्ञ꣡स्य प्रसा꣡धनस्  
-त꣡न्तुर् देवे꣡षु आ꣡ततः  
-त꣡म् आ꣡हुतं नशीमहि
+यो᳓ यज्ञ᳓स्य प्रसा᳓धनस्  
+त᳓न्तुर् देवे᳓षु आ᳓ततः  
+त᳓म् आ᳓हुतं नशीमहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

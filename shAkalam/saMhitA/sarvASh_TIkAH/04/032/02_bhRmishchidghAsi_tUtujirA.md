@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-भृ꣡मिश् चिद् घासि तू꣡तुजिर्  
-आ꣡ चित्र चित्रि꣡णीषु आ꣡  
-चित्रं꣡ कृणोषि ऊत꣡ये
+भृ᳓मिश् चिद् घासि तू᳓तुजिर्  
+आ᳓ चित्र चित्रि᳓णीषु आ᳓  
+चित्रं᳓ कृणोषि ऊत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

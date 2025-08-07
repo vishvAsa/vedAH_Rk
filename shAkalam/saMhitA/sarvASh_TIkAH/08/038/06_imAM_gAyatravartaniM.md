@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमां꣡ गायत्र꣡वर्तनिं  
-जुषे꣡थां सुष्टुति꣡म् म꣡म  
-इ꣡न्द्राग्नी आ꣡ गतं नरा
+इमां᳓ गायत्र᳓वर्तनिं  
+जुषे᳓थां सुष्टुति᳓म् म᳓म  
+इ᳓न्द्राग्नी आ᳓ गतं नरा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

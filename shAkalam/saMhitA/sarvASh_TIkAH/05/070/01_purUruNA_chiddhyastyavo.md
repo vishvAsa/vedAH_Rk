@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरूरु꣡णा चिद् धि꣡ अ꣡स्ति  
-अ꣡वो नूनं꣡ वां वरुण  
-मि꣡त्र वं꣡सि वां सुमति꣡म्
+पुरूरु᳓णा चिद् धि᳓ अ᳓स्ति  
+अ᳓वो नूनं᳓ वां वरुण  
+मि᳓त्र वं᳓सि वां सुमति᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

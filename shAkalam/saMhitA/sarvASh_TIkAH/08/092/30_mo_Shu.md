@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मो꣡ षु꣡ ब्रह्मे꣡व तन्द्रयु꣡र्  
-भु꣡वो वाजाना᳐म् पते  
-म꣡त्स्वा सुत꣡स्य गो꣡मतः
+मो᳓ षु᳓ ब्रह्मे᳓व तन्द्रयु᳓र्  
+भु᳓वो वाजाना᳐म् पते  
+म᳓त्स्वा सुत᳓स्य गो᳓मतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

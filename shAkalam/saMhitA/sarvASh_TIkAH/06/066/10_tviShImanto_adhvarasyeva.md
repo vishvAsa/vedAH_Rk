@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्वि꣡षीमन्तो अध्वर꣡स्येव दिद्यु꣡त्  
-तृषुच्य꣡वसो जुहु꣡वो न꣡ अग्नेः꣡  
-अर्च꣡त्रयो · धु꣡नयो न꣡ वीरा꣡  
-भ्रा꣡जज्जन्मानो मरु꣡तो अ꣡धृष्टाः
+त्वि᳓षीमन्तो अध्वर᳓स्येव दिद्यु᳓त्  
+तृषुच्य᳓वसो जुहु᳓वो न᳓ अग्नेः᳓  
+अर्च᳓त्रयो · धु᳓नयो न᳓ वीरा᳓  
+भ्रा᳓जज्जन्मानो मरु᳓तो अ᳓धृष्टाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -206,7 +206,7 @@ _________
 
 Flaring like the dart of the ceremony [=ritual fire], stirring thirstily like  tongues of fire,  
 chanting like boisterous heroes, the Maruts with their flashing birth are  unassailable.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शृण्व꣡न्तम् पूष꣡णं वय꣡म्  
-इ꣡र्यम् अ꣡नष्टवेदसम्  
-ई꣡शानं राय꣡ ईमहे
+शृण्व᳓न्तम् पूष᳓णं वय᳓म्  
+इ᳓र्यम् अ᳓नष्टवेदसम्  
+ई᳓शानं राय᳓ ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

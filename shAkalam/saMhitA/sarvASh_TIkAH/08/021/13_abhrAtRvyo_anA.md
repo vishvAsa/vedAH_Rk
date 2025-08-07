@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभ्रातृव्यो꣡ अना꣡ तुव꣡म्  
-अ꣡नापिर् इन्द्र जनु꣡षा सना꣡द् असि  
-युधे꣡द् आपित्व꣡म् इछसे
+अभ्रातृव्यो᳓ अना᳓ तुव᳓म्  
+अ᳓नापिर् इन्द्र जनु᳓षा सना᳓द् असि  
+युधे᳓द् आपित्व᳓म् इछसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

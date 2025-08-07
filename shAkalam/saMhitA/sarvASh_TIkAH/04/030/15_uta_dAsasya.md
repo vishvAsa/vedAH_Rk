@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ दास꣡स्य वर्चि꣡नः  
-सह꣡स्राणि शता꣡वधीः  
-अ꣡धि प꣡ञ्च प्रधीँ꣡र् इव
+उत᳓ दास᳓स्य वर्चि᳓नः  
+सह᳓स्राणि शता᳓वधीः  
+अ᳓धि प᳓ञ्च प्रधीँ᳓र् इव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,7 +151,7 @@ _________
 
 And you smote the hundreds and thousands (of men) of the Dāsa  Varcin,  
 and five in addition, like the outer parts of wheels.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">

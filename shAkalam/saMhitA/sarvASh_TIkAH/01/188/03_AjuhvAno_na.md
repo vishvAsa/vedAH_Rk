@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आजु꣡ह्वानो न ई꣡डियो  
-देवाँ꣡ आ꣡ वक्षि यज्ञि꣡यान्  
-अ꣡ग्ने सहस्रसा꣡ असि
+आजु᳓ह्वानो न ई᳓डियो  
+देवाँ᳓ आ᳓ वक्षि यज्ञि᳓यान्  
+अ᳓ग्ने सहस्रसा᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

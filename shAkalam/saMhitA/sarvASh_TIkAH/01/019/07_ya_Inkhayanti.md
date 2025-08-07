@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ ईङ्ख꣡यन्ति प꣡र्वतान्  
-तिरः꣡ समुद्र꣡म् अर्णव꣡म्  
-मरु꣡द्भिर् अग्न आ꣡ गहि
+य᳓ ईङ्ख᳓यन्ति प᳓र्वतान्  
+तिरः᳓ समुद्र᳓म् अर्णव᳓म्  
+मरु᳓द्भिर् अग्न आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -156,7 +156,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Those who make the mountains swing, across the undulating sea— with the Maruts, o Agni, come hither.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/019/07-08.md">

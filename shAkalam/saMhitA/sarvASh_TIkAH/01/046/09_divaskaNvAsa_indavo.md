@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दिव꣡स् कण्वास इ꣡न्दवो  
-व꣡सु सि꣡न्धूना᳐म् पदे꣡  
-स्वं꣡ वव्रिं꣡ कु꣡ह धित्सथः
+दिव᳓स् कण्वास इ᳓न्दवो  
+व᳓सु सि᳓न्धूना᳐म् पदे᳓  
+स्वं᳓ वव्रिं᳓ कु᳓ह धित्सथः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

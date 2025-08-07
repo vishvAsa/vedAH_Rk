@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरुष्टुत꣡स्य धा꣡मभिः  
-शते꣡न महयामसि  
-इ꣡न्द्रस्य चर्षणीधृ꣡तः
+पुरुष्टुत᳓स्य धा᳓मभिः  
+शते᳓न महयामसि  
+इ᳓न्द्रस्य चर्षणीधृ᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -124,7 +124,7 @@ _________
 We magnify (him) through the hundred embodiments of the  
 much-praised one,  
 of Indra, the supporter of the settled domains.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/037/03-04.md">

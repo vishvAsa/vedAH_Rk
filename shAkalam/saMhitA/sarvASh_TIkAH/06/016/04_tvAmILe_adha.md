@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवा꣡म् ईळे अ꣡ध द्विता꣡  
-भरतो꣡ वाजि꣡भिः शुन꣡म्  
-ईजे꣡ यज्ञे꣡षु यज्ञि꣡यम्
+तुवा᳓म् ईळे अ᳓ध द्विता᳓  
+भरतो᳓ वाजि᳓भिः शुन᳓म्  
+ईजे᳓ यज्ञे᳓षु यज्ञि᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

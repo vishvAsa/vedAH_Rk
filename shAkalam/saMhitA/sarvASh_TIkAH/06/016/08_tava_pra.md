@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡व प्र꣡ यक्षि संदृ꣡शम्  
-उत꣡ क्र꣡तुं सुदा꣡नवः  
-वि꣡श्वे जुषन्त कामि꣡नः
+त᳓व प्र᳓ यक्षि संदृ᳓शम्  
+उत᳓ क्र᳓तुं सुदा᳓नवः  
+वि᳓श्वे जुषन्त कामि᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,7 +15,7 @@ ChandaH = "एकपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ वां सुम्ने꣡ व꣡रिमन् सूरि꣡भिः ष्याम्
+आ᳓ वां सुम्ने᳓ व᳓रिमन् सूरि᳓भिः ष्याम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

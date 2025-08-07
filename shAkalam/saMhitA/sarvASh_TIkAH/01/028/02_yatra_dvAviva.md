@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त्र द्वा꣡व् इव जघ꣡ना  
-अधिषवणि꣡या कृता꣡  
-उलू꣡खलसुताना᳐म्  
-अ꣡वे꣡द् उ इन्द्र जल्गुलः
+य᳓त्र द्वा᳓व् इव जघ᳓ना  
+अधिषवणि᳓या कृता᳓  
+उलू᳓खलसुताना᳐म्  
+अ᳓वे᳓द् उ इन्द्र जल्गुलः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

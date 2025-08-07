@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ अस्मै हव्य꣡दातिभिर्  
-आ꣡हुतिम् म꣡र्तो अ꣡विधत्  
-भू꣡रि पो꣡षं स꣡ धत्ते वीर꣡वद् य꣡शः
+यो᳓ अस्मै हव्य᳓दातिभिर्  
+आ᳓हुतिम् म᳓र्तो अ᳓विधत्  
+भू᳓रि पो᳓षं स᳓ धत्ते वीर᳓वद् य᳓शः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

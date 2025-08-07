@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दभ्रं꣡ चिद् धि꣡ तुवा꣡वतः  
-कृतं꣡ शृण्वे꣡ अ꣡धि क्ष꣡मि  
-जि꣡गातु इन्द्र ते म꣡नः
+दभ्रं᳓ चिद् धि᳓ तुवा᳓वतः  
+कृतं᳓ शृण्वे᳓ अ᳓धि क्ष᳓मि  
+जि᳓गातु इन्द्र ते म᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

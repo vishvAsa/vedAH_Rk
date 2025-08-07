@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ त्य꣡म् इन्द्र सू꣡रियम्  
-पश्चा꣡ स꣡न्तम् पुर꣡स् कृधि  
-देवा꣡नां चित् तिरो꣡ व꣡शम्
+तुवं᳓ त्य᳓म् इन्द्र सू᳓रियम्  
+पश्चा᳓ स᳓न्तम् पुर᳓स् कृधि  
+देवा᳓नां चित् तिरो᳓ व᳓शम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

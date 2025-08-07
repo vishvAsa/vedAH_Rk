@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कृण्व꣡न्तो व꣡रिवो ग꣡वे  
-अभि꣡ अर्षन्ति सुष्टुति꣡म्  
-इ꣡ळाम् अस्म꣡भ्य° संय꣡तम्
+कृण्व᳓न्तो व᳓रिवो ग᳓वे  
+अभि᳓ अर्षन्ति सुष्टुति᳓म्  
+इ᳓ळाम् अस्म᳓भ्य° संय᳓तम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -157,7 +157,7 @@ Sustaining: saṃyatam = yad asmān saṃyacchati, that which supports us
 Making a wide realm for the cow, they rush toward the lovely  
 praise hymn,  
 toward lasting refreshment for us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/01-03.md">

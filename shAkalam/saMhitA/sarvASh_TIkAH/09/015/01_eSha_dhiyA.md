@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ धिया꣡ यात्य् अ꣡ण्विया  
-शू꣡रो र꣡थेभिर् आशु꣡भिः  
-ग꣡छन्न् इ꣡न्द्रस्य निष्कृत꣡म्
+एष᳓ धिया᳓ यात्य् अ᳓ण्विया  
+शू᳓रो र᳓थेभिर् आशु᳓भिः  
+ग᳓छन्न् इ᳓न्द्रस्य निष्कृत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

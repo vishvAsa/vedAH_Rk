@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ रुक्मि꣡भिर् ईयते  
-वाजी꣡ शुभ्रे꣡भिर् अंशु꣡भिः  
-प꣡तिः सि꣡न्धूना᳐म् भ꣡वन्
+एष᳓ रुक्मि᳓भिर् ईयते  
+वाजी᳓ शुभ्रे᳓भिर् अंशु᳓भिः  
+प᳓तिः सि᳓न्धूना᳐म् भ᳓वन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

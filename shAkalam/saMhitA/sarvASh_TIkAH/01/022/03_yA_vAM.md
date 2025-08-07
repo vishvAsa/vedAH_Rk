@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡ वां क꣡शा म꣡धुमती  
-अ꣡श्विना सूनृ꣡तावती  
-त꣡या यज्ञ꣡म् मिमिक्षतम्
+या᳓ वां क᳓शा म᳓धुमती  
+अ᳓श्विना सूनृ᳓तावती  
+त᳓या यज्ञ᳓म् मिमिक्षतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

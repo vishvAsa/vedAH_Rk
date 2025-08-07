@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अङ्ग꣡ दाशु꣡षे तुव꣡म्  
-अ꣡ग्ने भद्रं꣡ करिष्य꣡सि  
-त꣡वे꣡त् त꣡त् सत्य꣡म् अङ्गिरः
+य᳓द् अङ्ग᳓ दाशु᳓षे तुव᳓म्  
+अ᳓ग्ने भद्रं᳓ करिष्य᳓सि  
+त᳓वे᳓त् त᳓त् सत्य᳓म् अङ्गिरः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

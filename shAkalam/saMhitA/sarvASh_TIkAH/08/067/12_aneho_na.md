@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अनेहो꣡ न उरुव्रज  
-उ꣡रूचि वि꣡ प्र꣡सर्तवे  
-कृधि꣡ तोका꣡य जीव꣡से
+अनेहो᳓ न उरुव्रज  
+उ᳓रूचि वि᳓ प्र᳓सर्तवे  
+कृधि᳓ तोका᳓य जीव᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>

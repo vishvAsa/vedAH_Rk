@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡व यो꣡ नवति꣡म् पु꣡रो  
-बिभे꣡द बाहु꣡ओजसा  
-अ꣡हिं च वृत्रहा꣡वधीत्
+न᳓व यो᳓ नवति᳓म् पु᳓रो  
+बिभे᳓द बाहु᳓ओजसा  
+अ᳓हिं च वृत्रहा᳓वधीत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

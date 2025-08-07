@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡व्यो वा꣡रे प꣡रि प्रियं꣡  
-ह꣡रिं हिन्वन्ति अ꣡द्रिभिः  
-प꣡वमानम् मधुश्चु꣡तम्
+अ᳓व्यो वा᳓रे प᳓रि प्रियं᳓  
+ह᳓रिं हिन्वन्ति अ᳓द्रिभिः  
+प᳓वमानम् मधुश्चु᳓तम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

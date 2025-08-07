@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ गो꣡भिर् वृ꣡षणं र꣡सम्  
-म꣡दाय देव꣡वीतये  
-सुत꣡म् भ꣡राय सं꣡ सृज
+तं᳓ गो᳓भिर् वृ᳓षणं र᳓सम्  
+म᳓दाय देव᳓वीतये  
+सुत᳓म् भ᳓राय सं᳓ सृज
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ पवस्व मही꣡म् इ꣡षं  
-गो꣡मद् इन्दो हि꣡रण्यवत्  
-अ꣡श्वावद् वा꣡जवत् सुतः꣡
+आ᳓ पवस्व मही᳓म् इ᳓षं  
+गो᳓मद् इन्दो हि᳓रण्यवत्  
+अ᳓श्वावद् वा᳓जवत् सुतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

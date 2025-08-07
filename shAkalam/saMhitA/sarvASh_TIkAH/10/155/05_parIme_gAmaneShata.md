@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रीमे꣡ गा꣡म् अनेषत  
-प꣡रि अग्नि꣡म् अहृषत  
-देवे꣡षु अक्रत श्र꣡वः  
-क꣡ इमाँ꣡ आ꣡ दधर्षति
+प᳓रीमे᳓ गा᳓म् अनेषत  
+प᳓रि अग्नि᳓म् अहृषत  
+देवे᳓षु अक्रत श्र᳓वः  
+क᳓ इमाँ᳓ आ᳓ दधर्षति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

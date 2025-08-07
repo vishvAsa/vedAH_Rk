@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नूनं꣡ रघु꣡वर्तनिं  
-र꣡थं तिष्ठाथो अश्विना  
-आ꣡ वां स्तो꣡मा इमे꣡ म꣡म  
-न꣡भो न꣡ चुच्यवीरत
+आ᳓ नूनं᳓ रघु᳓वर्तनिं  
+र᳓थं तिष्ठाथो अश्विना  
+आ᳓ वां स्तो᳓मा इमे᳓ म᳓म  
+न᳓भो न᳓ चुच्यवीरत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -198,7 +198,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Here and now you two will mount the swift-tracked chariot, o Aśvins. Here should these praise songs of mine move you, like a cloud.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/009/08-09.md">

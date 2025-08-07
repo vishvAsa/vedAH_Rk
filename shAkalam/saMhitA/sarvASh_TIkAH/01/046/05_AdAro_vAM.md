@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आदारो꣡ वाम् मतीनां᳐꣡  
-ना꣡सत्या मतवचसा  
-पातं꣡ सो꣡मस्य धृष्णुया꣡
+आदारो᳓ वाम् मतीनां᳐᳓  
+ना᳓सत्या मतवचसा  
+पातं᳓ सो᳓मस्य धृष्णुया᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

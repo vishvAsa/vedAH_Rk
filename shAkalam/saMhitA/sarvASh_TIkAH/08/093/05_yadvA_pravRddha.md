@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् वा प्रवृद्ध सत्पते  
-न꣡ मरा इ꣡ति म꣡न्यसे  
-उतो꣡ त꣡त् सत्य꣡म् इ꣡त् त꣡व
+य᳓द् वा प्रवृद्ध सत्पते  
+न᳓ मरा इ᳓ति म᳓न्यसे  
+उतो᳓ त᳓त् सत्य᳓म् इ᳓त् त᳓व
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -196,7 +196,7 @@ Lord of the good: lord of the **nakṣatras**
 <details><summary>Jamison Brereton</summary>
 
 Or if, o lord of settlements grown strong, you think, “I shall not die,” just that comes true for you.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/04-06.md">

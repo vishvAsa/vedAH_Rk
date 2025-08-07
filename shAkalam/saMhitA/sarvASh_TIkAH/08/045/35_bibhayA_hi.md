@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-बिभ꣡या हि꣡ तुवा꣡वत  
-उग्रा꣡द् अभिप्रभङ्गि꣡णः  
-दस्मा꣡द् अह꣡म् ऋतीष꣡हः
+बिभ᳓या हि᳓ तुवा᳓वत  
+उग्रा᳓द् अभिप्रभङ्गि᳓णः  
+दस्मा᳓द् अह᳓म् ऋतीष᳓हः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

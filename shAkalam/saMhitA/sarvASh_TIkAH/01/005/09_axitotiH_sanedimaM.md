@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡क्षितोतिः सनेद् इमं꣡  
-वा꣡जम् इ꣡न्द्रः सहस्रि꣡णम्  
-य꣡स्मिन् वि꣡श्वानि पउं꣡सिया
+अ᳓क्षितोतिः सनेद् इमं᳓  
+वा᳓जम् इ᳓न्द्रः सहस्रि᳓णम्  
+य᳓स्मिन् वि᳓श्वानि पउं᳓सिया
 </details>
 
 <details><summary>Vedaweb annotation</summary>

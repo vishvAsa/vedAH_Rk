@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋध꣡क् सोम सुअस्त꣡ये  
-संजग्मानो꣡ दिवः꣡ कविः꣡  
-प꣡वस्व सू꣡रियो दृशे꣡
+ऋध᳓क् सोम सुअस्त᳓ये  
+संजग्मानो᳓ दिवः᳓ कविः᳓  
+प᳓वस्व सू᳓रियो दृशे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

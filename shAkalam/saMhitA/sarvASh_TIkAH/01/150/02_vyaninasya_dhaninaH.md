@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ अनिन꣡स्य धनि꣡नः  
-प्रहोषे꣡ चिद् अ꣡ररुषः  
-कदा꣡ चन꣡ प्रजि꣡गतो अ꣡देवयोः
+वि᳓ अनिन᳓स्य धनि᳓नः  
+प्रहोषे᳓ चिद् अ᳓ररुषः  
+कदा᳓ चन᳓ प्रजि᳓गतो अ᳓देवयोः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

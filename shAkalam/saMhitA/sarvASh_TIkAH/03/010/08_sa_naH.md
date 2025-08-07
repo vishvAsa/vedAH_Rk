@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नः पवाक+ दीदिहि  
-द्युम꣡द् अस्मे꣡ सुवी꣡रियम्  
-भ꣡वा स्तोतृ꣡भ्यो अ꣡न्तमः सुअस्त꣡ये
+स᳓ नः पवाक+ दीदिहि  
+द्युम᳓द् अस्मे᳓ सुवी᳓रियम्  
+भ᳓वा स्तोतृ᳓भ्यो अ᳓न्तमः सुअस्त᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

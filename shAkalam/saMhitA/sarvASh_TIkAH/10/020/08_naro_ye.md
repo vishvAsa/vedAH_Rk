@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡रो ये꣡ के꣡ च अस्म꣡द् आ꣡  
-वि꣡श्वे꣡त् ते꣡ वाम꣡ आ꣡ सियुः  
-अग्निं꣡ हवि꣡षा व꣡र्धन्तः
+न᳓रो ये᳓ के᳓ च अस्म᳓द् आ᳓  
+वि᳓श्वे᳓त् ते᳓ वाम᳓ आ᳓ सियुः  
+अग्निं᳓ हवि᳓षा व᳓र्धन्तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

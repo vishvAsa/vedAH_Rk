@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नृ꣡भिर् धूतः꣡ सुतो꣡ अ꣡श्नैर्  
-अ꣡व्यो वा꣡रैः प꣡रिपूतः  
-अ꣡श्वो न꣡ निक्तो꣡ नदी꣡षु
+नृ᳓भिर् धूतः᳓ सुतो᳓ अ᳓श्नैर्  
+अ᳓व्यो वा᳓रैः प᳓रिपूतः  
+अ᳓श्वो न᳓ निक्तो᳓ नदी᳓षु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

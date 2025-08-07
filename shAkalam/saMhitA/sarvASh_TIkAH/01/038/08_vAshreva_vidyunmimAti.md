@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वाश्रे꣡व विद्यु꣡न् मिमाति  
-वत्सं꣡ न꣡ माता꣡ सिषक्ति  
-य꣡द् एषां वृष्टि꣡र् अ꣡सर्जि
+वाश्रे᳓व विद्यु᳓न् मिमाति  
+वत्सं᳓ न᳓ माता᳓ सिषक्ति  
+य᳓द् एषां वृष्टि᳓र् अ᳓सर्जि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

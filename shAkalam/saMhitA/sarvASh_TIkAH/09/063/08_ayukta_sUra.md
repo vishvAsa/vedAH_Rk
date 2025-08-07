@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡युक्त सू꣡र ए꣡तशम्  
-प꣡वमानो मना꣡व् अ꣡धि  
-अन्त꣡रिक्षेण या꣡तवे
+अ᳓युक्त सू᳓र ए᳓तशम्  
+प᳓वमानो मना᳓व् अ᳓धि  
+अन्त᳓रिक्षेण या᳓तवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

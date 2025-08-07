@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र त्वो꣡तास आ꣡ वयं꣡  
-व꣡ज्रं घना꣡ ददीमहि  
-ज꣡येम सं꣡ युधि꣡ स्पृ꣡धः
+इ᳓न्द्र त्वो᳓तास आ᳓ वयं᳓  
+व᳓ज्रं घना᳓ ददीमहि  
+ज᳓येम सं᳓ युधि᳓ स्पृ᳓धः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

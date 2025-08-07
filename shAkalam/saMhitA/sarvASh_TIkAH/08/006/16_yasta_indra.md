@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स् त इन्द्र मही꣡र् अप꣡  
-स्तभूय꣡मान आ꣡शयत्  
-नि꣡ त꣡म् प꣡द्यासु शिश्नथः
+य᳓स् त इन्द्र मही᳓र् अप᳓  
+स्तभूय᳓मान आ᳓शयत्  
+नि᳓ त᳓म् प᳓द्यासु शिश्नथः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि णेता꣡ मतीनां᳐꣡  
-विश्व꣡देवो अ꣡दाभियः  
-सो꣡मः पुनान꣡श् चमु꣡वोर् विशद् ध꣡रिः
+प᳓रि णेता᳓ मतीनां᳐᳓  
+विश्व᳓देवो अ᳓दाभियः  
+सो᳓मः पुनान᳓श् चमु᳓वोर् विशद् ध᳓रिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

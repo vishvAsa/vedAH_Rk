@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो भज परमे꣡षु  
-आ꣡ वा꣡जेषु मध्यमे꣡षु  
-शि꣡क्षा व꣡स्वो अ꣡न्तमस्य
+आ᳓ नो भज परमे᳓षु  
+आ᳓ वा᳓जेषु मध्यमे᳓षु  
+शि᳓क्षा व᳓स्वो अ᳓न्तमस्य
 </details>
 
 <details><summary>Vedaweb annotation</summary>

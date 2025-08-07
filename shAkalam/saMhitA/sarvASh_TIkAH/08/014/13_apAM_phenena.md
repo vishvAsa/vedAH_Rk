@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अपा꣡म् फे꣡नेन न꣡मुचेः  
-शि꣡र इन्द्रो꣡द् अवर्तयः  
-वि꣡श्वा य꣡द् अ꣡जय स्पृ꣡धः
+अपा᳓म् फे᳓नेन न᳓मुचेः  
+शि᳓र इन्द्रो᳓द् अवर्तयः  
+वि᳓श्वा य᳓द् अ᳓जय स्पृ᳓धः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ना꣡स्य वर्ता꣡ न꣡ तरुता꣡ नु꣡ अस्ति  
-म꣡रुतो य꣡म् अ꣡वथ वा꣡जसातौ  
-तोके꣡ वा गो꣡षु त꣡नये य꣡म् अप्सु꣡  
-स꣡ व्रजं꣡ द꣡र्ता पा꣡रिये अ꣡ध द्योः꣡
+ना᳓स्य वर्ता᳓ न᳓ तरुता᳓ नु᳓ अस्ति  
+म᳓रुतो य᳓म् अ᳓वथ वा᳓जसातौ  
+तोके᳓ वा गो᳓षु त᳓नये य᳓म् अप्सु᳓  
+स᳓ व्रजं᳓ द᳓र्ता पा᳓रिये अ᳓ध द्योः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -281,7 +281,7 @@ Dyoḥ = vijigiṣor vā śatroḥ, of one desirous to overcome, or an enemy
 
 There exists now no one to obstruct, no one to overcome him whom  you aid in the winning of prizes, o Maruts,  
 whom (you aid in the winning) of progeny, of cows, of descendants, of  waters. He is the splitter of the (cow)pen just then at the decisive end  of the day.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

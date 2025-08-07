@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ य꣡द् यो꣡निं हिरण्य꣡यम्  
-आशु꣡र् ऋत꣡स्य सी꣡दति  
-ज꣡हाति अ꣡प्रचेतसः
+आ᳓ य᳓द् यो᳓निं हिरण्य᳓यम्  
+आशु᳓र् ऋत᳓स्य सी᳓दति  
+ज᳓हाति अ᳓प्रचेतसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,7 +154,7 @@ I.e., he does not approach the sacrifice of those who do not worship; he only ap
 
 When the swift one sits on the golden womb of truth,  
 he leaves behind the undiscerning.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/19-21.md">

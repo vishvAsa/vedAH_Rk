@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रथमं꣡ जात꣡वेदसम्  
-अग्निं꣡ यज्ञे꣡षु पूर्विय꣡म्  
-प्र꣡ति स्रु꣡ग् एति न꣡मसा हवि꣡ष्मती
+प्रथमं᳓ जात᳓वेदसम्  
+अग्निं᳓ यज्ञे᳓षु पूर्विय᳓म्  
+प्र᳓ति स्रु᳓ग् एति न᳓मसा हवि᳓ष्मती
 </details>
 
 <details><summary>Vedaweb annotation</summary>

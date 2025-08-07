@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तर꣡णिं वो ज꣡नानां᳐  
-त्रदं꣡ वा꣡जस्य गो꣡मतः  
-समान꣡म् उ प्र꣡ शंसिषम्
+तर᳓णिं वो ज᳓नानां᳐  
+त्रदं᳓ वा᳓जस्य गो᳓मतः  
+समान᳓म् उ प्र᳓ शंसिषम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

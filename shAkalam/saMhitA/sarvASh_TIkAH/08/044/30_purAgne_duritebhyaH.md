@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरा꣡ग्ने दुरिते꣡भियः  
-पुरा꣡ मृध्रे꣡भियः कवे  
-प्र꣡ ण आ꣡युर् वसो तिर
+पुरा᳓ग्ने दुरिते᳓भियः  
+पुरा᳓ मृध्रे᳓भियः कवे  
+प्र᳓ ण आ᳓युर् वसो तिर
 </details>
 
 <details><summary>Vedaweb annotation</summary>

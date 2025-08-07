@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ त्वा स्त्री꣡ श꣡शीयसी  
-पुंसो꣡ भवति व꣡स्यसी  
-अ꣡देवत्राद् अराध꣡सः
+उत᳓ त्वा स्त्री᳓ श᳓शीयसी  
+पुंसो᳓ भवति व᳓स्यसी  
+अ᳓देवत्राद् अराध᳓सः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

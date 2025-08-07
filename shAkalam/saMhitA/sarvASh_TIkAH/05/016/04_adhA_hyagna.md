@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धा हि꣡ अग्न एषां᳐  
-सुवी꣡रियस्य मंह꣡ना  
-त꣡म् इ꣡द् यह्वं꣡ न꣡ रो꣡दसी  
-प꣡रि श्र꣡वो बभूवतुः
+अ᳓धा हि᳓ अग्न एषां᳐  
+सुवी᳓रियस्य मंह᳓ना  
+त᳓म् इ᳓द् यह्वं᳓ न᳓ रो᳓दसी  
+प᳓रि श्र᳓वो बभूवतुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

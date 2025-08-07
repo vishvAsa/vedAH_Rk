@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡योर् इ꣡द् घृत꣡वत् प꣡यो  
-वि꣡प्रा रिहन्ति धीति꣡भिः  
-गन्धर्व꣡स्य ध्रुवे꣡ पदे꣡
+त᳓योर् इ᳓द् घृत᳓वत् प᳓यो  
+वि᳓प्रा रिहन्ति धीति᳓भिः  
+गन्धर्व᳓स्य ध्रुवे᳓ पदे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

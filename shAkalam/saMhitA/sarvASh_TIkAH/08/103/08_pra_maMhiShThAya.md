@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ मं꣡हिष्ठाय गायत  
-ऋता꣡वने बृहते꣡ शुक्र꣡शोचिषे  
-उ꣡पस्तुतासो अग्न꣡ये
+प्र᳓ मं᳓हिष्ठाय गायत  
+ऋता᳓वने बृहते᳓ शुक्र᳓शोचिषे  
+उ᳓पस्तुतासो अग्न᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

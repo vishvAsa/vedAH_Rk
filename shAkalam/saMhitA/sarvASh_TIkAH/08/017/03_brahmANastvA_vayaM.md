@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ब्रह्मा꣡णस् त्वा वयं꣡ युजा꣡  
-सोमपा꣡म् इन्द्र सोमि꣡नः  
-सुता꣡वन्तो हवामहे
+ब्रह्मा᳓णस् त्वा वयं᳓ युजा᳓  
+सोमपा᳓म् इन्द्र सोमि᳓नः  
+सुता᳓वन्तो हवामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

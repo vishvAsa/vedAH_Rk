@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शु꣡चिम् अर्कइ꣡र् बृ꣡हस्प꣡तिम्  
-अध्वरे꣡षु नमस्यत  
-अ꣡नामि ओ꣡ज आ꣡ चके
+शु᳓चिम् अर्कइ᳓र् बृ᳓हस्प᳓तिम्  
+अध्वरे᳓षु नमस्यत  
+अ᳓नामि ओ᳓ज आ᳓ चके
 </details>
 
 <details><summary>Vedaweb annotation</summary>

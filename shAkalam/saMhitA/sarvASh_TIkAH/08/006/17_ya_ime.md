@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ इमे꣡ रो꣡दसी मही꣡  
-समीची꣡ सम꣡जग्रभीत्  
-त꣡मोभिर् इन्द्र तं꣡ गुहः
+य᳓ इमे᳓ रो᳓दसी मही᳓  
+समीची᳓ सम᳓जग्रभीत्  
+त᳓मोभिर् इन्द्र तं᳓ गुहः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

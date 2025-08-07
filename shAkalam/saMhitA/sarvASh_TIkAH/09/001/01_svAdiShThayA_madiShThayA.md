@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्वा꣡दिष्ठया म꣡दिष्ठया  
-प꣡वस्व सोम धा꣡रया  
-इ꣡न्द्राय पा꣡तवे सुतः꣡
+स्वा᳓दिष्ठया म᳓दिष्ठया  
+प᳓वस्व सोम धा᳓रया  
+इ᳓न्द्राय पा᳓तवे सुतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -138,7 +138,7 @@ _________
 
 Purify yourself in the sweetest, most exhilarating stream, Soma,  
 when you are pressed for Indra to drink.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/001/01-02.md">

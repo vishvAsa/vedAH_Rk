@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सं꣡वृक्तधृष्णुम् उक्थि꣡यम्  
-महा꣡महिव्रतम् म꣡दम्  
-शत꣡म् पु꣡रो रुरुक्ष꣡णिम्
+सं᳓वृक्तधृष्णुम् उक्थि᳓यम्  
+महा᳓महिव्रतम् म᳓दम्  
+शत᳓म् पु᳓रो रुरुक्ष᳓णिम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

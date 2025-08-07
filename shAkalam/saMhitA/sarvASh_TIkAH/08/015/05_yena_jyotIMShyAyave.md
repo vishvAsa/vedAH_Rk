@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡न ज्यो꣡तींषि आय꣡वे  
-म꣡नवे च विवे꣡दिथ  
-मन्दानो꣡ अस्य꣡ बर्हि꣡षो वि꣡ राजसि
+ये᳓न ज्यो᳓तींषि आय᳓वे  
+म᳓नवे च विवे᳓दिथ  
+मन्दानो᳓ अस्य᳓ बर्हि᳓षो वि᳓ राजसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

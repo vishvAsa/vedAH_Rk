@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स् ते चित्र꣡श्रवस्तमो  
-य꣡ इन्द्र वृत्रह꣡न्तमः  
-य꣡ ओजोदा꣡तमो म꣡दः
+य᳓स् ते चित्र᳓श्रवस्तमो  
+य᳓ इन्द्र वृत्रह᳓न्तमः  
+य᳓ ओजोदा᳓तमो म᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

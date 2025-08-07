@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡त् पुर꣡स्तात् सू꣡र्य एति  
-विश्व꣡दृष्टो अदृष्टहा꣡  
-अदृ꣡ष्टान् स꣡र्वाञ् जम्भ꣡यन्  
-स꣡र्वाश् च यातुधानि꣡यः
+उ᳓त् पुर᳓स्तात् सू᳓र्य एति  
+विश्व᳓दृष्टो अदृष्टहा᳓  
+अदृ᳓ष्टान् स᳓र्वाञ् जम्भ᳓यन्  
+स᳓र्वाश् च यातुधानि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -196,7 +196,7 @@ Destroyer of the unseen: adṛṣṭhā may also mean the dissipator of darkness
 
 Up from the east comes the Sun—the smasher of the no-see-ums, seen  by all,  
 crushing all the no-see-ums and all the sorceries.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/08-09.md">

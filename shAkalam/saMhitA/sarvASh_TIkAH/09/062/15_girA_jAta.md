@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गिरा꣡ जात꣡ इह꣡ स्तुत꣡  
-इ꣡न्दुर् इ꣡न्द्राय धीयते  
-वि꣡र् यो꣡ना वसता꣡व् इव
+गिरा᳓ जात᳓ इह᳓ स्तुत᳓  
+इ᳓न्दुर् इ᳓न्द्राय धीयते  
+वि᳓र् यो᳓ना वसता᳓व् इव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

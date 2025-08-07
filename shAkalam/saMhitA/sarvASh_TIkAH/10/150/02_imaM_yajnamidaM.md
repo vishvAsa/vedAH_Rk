@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमं꣡ यज्ञ꣡म् इदं꣡ व꣡चो  
-जुजुषाण꣡ उपा꣡गहि  
-म꣡र्तासस् त्वा समिधान हवामहे  
-मॄळीका꣡य+ हवामहे
+इमं᳓ यज्ञ᳓म् इदं᳓ व᳓चो  
+जुजुषाण᳓ उपा᳓गहि  
+म᳓र्तासस् त्वा समिधान हवामहे  
+मॄळीका᳓य+ हवामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

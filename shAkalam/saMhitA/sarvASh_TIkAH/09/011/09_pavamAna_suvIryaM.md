@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमान सुवी꣡रियं  
-रयिं꣡ सोम रिरीहि नः  
-इ꣡न्दव् इ꣡न्द्रेण नो युजा꣡
+प᳓वमान सुवी᳓रियं  
+रयिं᳓ सोम रिरीहि नः  
+इ᳓न्दव् इ᳓न्द्रेण नो युजा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

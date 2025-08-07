@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मरु꣡त्वाँ इन्द्र मीढुवः  
-पि꣡बा सो꣡मं शतक्रतो  
-अस्मि꣡न् यज्ञे꣡ पुरुष्टुत
+मरु᳓त्वाँ इन्द्र मीढुवः  
+पि᳓बा सो᳓मं शतक्रतो  
+अस्मि᳓न् यज्ञे᳓ पुरुष्टुत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

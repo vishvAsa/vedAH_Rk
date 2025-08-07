@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-कदा꣡ त इन्द्र गिर्वण  
-स्तोता꣡ भवाति शं꣡तमः  
-कदा꣡ नो ग꣡व्ये अ꣡श्विये व꣡सौ दधः
+कदा᳓ त इन्द्र गिर्वण  
+स्तोता᳓ भवाति शं᳓तमः  
+कदा᳓ नो ग᳓व्ये अ᳓श्विये व᳓सौ दधः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

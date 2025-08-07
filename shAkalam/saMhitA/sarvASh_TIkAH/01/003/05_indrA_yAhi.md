@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रा꣡ याहि धिये꣡षितो꣡  
-वि꣡प्रजूतः सुता꣡वतः  
-उ꣡प ब्र꣡ह्माणि वाघ꣡तः
+इ᳓न्द्रा᳓ याहि धिये᳓षितो᳓  
+वि᳓प्रजूतः सुता᳓वतः  
+उ᳓प ब्र᳓ह्माणि वाघ᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

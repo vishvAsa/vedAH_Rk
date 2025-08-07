@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ना पवाक+ च꣡क्षसा  
-भुरण्य꣡न्तं ज꣡नाँ अ꣡नु  
-तुवं꣡ वरुण प꣡श्यसि
+ये᳓ना पवाक+ च᳓क्षसा  
+भुरण्य᳓न्तं ज᳓नाँ अ᳓नु  
+तुवं᳓ वरुण प᳓श्यसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

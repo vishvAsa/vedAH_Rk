@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ई꣡ळे गिरा꣡ म꣡नुर्हितं  
-यं꣡ देवा꣡ दूत꣡म् अरतिं꣡ निएरिरे꣡  
-य꣡जिष्ठं हव्यवा꣡हनम्
+ई᳓ळे गिरा᳓ म᳓नुर्हितं  
+यं᳓ देवा᳓ दूत᳓म् अरतिं᳓ निएरिरे᳓  
+य᳓जिष्ठं हव्यवा᳓हनम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

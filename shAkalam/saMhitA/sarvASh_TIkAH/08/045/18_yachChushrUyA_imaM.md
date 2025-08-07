@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡च् छुश्रूया꣡ इमं꣡ ह꣡वं  
-दुर्म꣡र्षं चक्रिया उत꣡  
-भ꣡वेर् आपि꣡र् नो अ꣡न्तमः
+य᳓च् छुश्रूया᳓ इमं᳓ ह᳓वं  
+दुर्म᳓र्षं चक्रिया उत᳓  
+भ᳓वेर् आपि᳓र् नो अ᳓न्तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कि꣡म् अङ्ग꣡ रध्रचो꣡दनः  
-सुन्वान꣡स्याविते꣡द् असि  
-कुवि꣡त् सु꣡ इन्द्र णः श꣡कः
+कि᳓म् अङ्ग᳓ रध्रचो᳓दनः  
+सुन्वान᳓स्याविते᳓द् असि  
+कुवि᳓त् सु᳓ इन्द्र णः श᳓कः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

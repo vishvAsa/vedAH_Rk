@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तु꣡भ्यं घे꣡त् ते꣡ ज꣡ना इमे꣡  
-वि꣡श्वाः सुक्षित꣡यः पृ꣡थक्  
-धासिं꣡ हिन्वन्ति अ꣡त्तवे
+तु᳓भ्यं घे᳓त् ते᳓ ज᳓ना इमे᳓  
+वि᳓श्वाः सुक्षित᳓यः पृ᳓थक्  
+धासिं᳓ हिन्वन्ति अ᳓त्तवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

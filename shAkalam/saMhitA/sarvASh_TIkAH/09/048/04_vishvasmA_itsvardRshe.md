@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वस्मा इ꣡त् सु꣡वर् दृशे꣡  
-सा꣡धारणं रजस्तु꣡रम्  
-गोपा꣡म् ऋत꣡स्य वि꣡र् भरत्
+वि᳓श्वस्मा इ᳓त् सु᳓वर् दृशे᳓  
+सा᳓धारणं रजस्तु᳓रम्  
+गोपा᳓म् ऋत᳓स्य वि᳓र् भरत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -155,7 +155,7 @@ _________
 
 It was for everyone to see the sun that the bird brought you as one (to be)  held in common,  
 the herdsman of truth, crossing through the airy realm.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/048/03-04.md">

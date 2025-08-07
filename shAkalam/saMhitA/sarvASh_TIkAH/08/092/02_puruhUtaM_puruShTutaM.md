@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरुहूत꣡म् पुरुष्टुतं꣡  
-गाथानि꣡यं स꣡नश्रुतम्  
-इ꣡न्द्र इ꣡ति ब्रवीतन
+पुरुहूत᳓म् पुरुष्टुतं᳓  
+गाथानि᳓यं स᳓नश्रुतम्  
+इ᳓न्द्र इ᳓ति ब्रवीतन
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -132,7 +132,7 @@ _________
 
 Much-invoked, much-praised leader of song, famed of old—  
 call him, “Indra!”
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/02-03.md">

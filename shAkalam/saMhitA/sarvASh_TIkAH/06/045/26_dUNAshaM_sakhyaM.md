@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दूणा꣡शं सखियं꣡ त꣡व  
-गउ꣡र् असि वीर गव्यते꣡  
-अ꣡श्वो अश्वायते꣡ भव
+दूणा᳓शं सखियं᳓ त᳓व  
+गउ᳓र् असि वीर गव्यते᳓  
+अ᳓श्वो अश्वायते᳓ भव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -155,7 +155,7 @@ _________
 
 Partnership with you is difficult to attain. You are, o hero, the cow for  him who seeks cattle.  
 Become the horse for him who seeks horses.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/25-27.md">

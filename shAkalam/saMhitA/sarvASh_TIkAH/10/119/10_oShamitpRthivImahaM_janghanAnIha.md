@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ओष꣡म् इ꣡त् पृथिवी꣡म् अहं꣡  
-जङ्घ꣡नानीह꣡ वेह꣡ वा  
-कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
+ओष᳓म् इ᳓त् पृथिवी᳓म् अहं᳓  
+जङ्घ᳓नानीह᳓ वेह᳓ वा  
+कुवि᳓त् सो᳓मस्या᳓पाम् इ᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

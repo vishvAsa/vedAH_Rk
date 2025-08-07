@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमान धिया꣡ हितो꣡  
-अभि꣡ यो꣡निं क꣡निक्रदत्  
-ध꣡र्मणा वायु꣡म् आ꣡ विश
+प᳓वमान धिया᳓ हितो᳓  
+अभि᳓ यो᳓निं क᳓निक्रदत्  
+ध᳓र्मणा वायु᳓म् आ᳓ विश
 </details>
 
 <details><summary>Vedaweb annotation</summary>

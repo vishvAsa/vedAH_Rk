@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ ते दिवो꣡ न꣡ वृष्ट꣡यो  
-धा꣡रा यन्ति असश्च꣡तः  
-अभि꣡ शुक्रा꣡म् उपस्ति꣡रम्
+प्र᳓ ते दिवो᳓ न᳓ वृष्ट᳓यो  
+धा᳓रा यन्ति असश्च᳓तः  
+अभि᳓ शुक्रा᳓म् उपस्ति᳓रम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

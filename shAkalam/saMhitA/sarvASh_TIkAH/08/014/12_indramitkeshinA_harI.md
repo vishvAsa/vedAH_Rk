@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रम् इ꣡त् केशि꣡ना ह꣡री  
-सोमपे꣡याय वक्षतः  
-उ꣡प यज्ञं꣡ सुरा꣡धसम्
+इ᳓न्द्रम् इ᳓त् केशि᳓ना ह᳓री  
+सोमपे᳓याय वक्षतः  
+उ᳓प यज्ञं᳓ सुरा᳓धसम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

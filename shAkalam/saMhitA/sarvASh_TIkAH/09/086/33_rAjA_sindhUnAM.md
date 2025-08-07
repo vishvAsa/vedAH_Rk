@@ -15,10 +15,10 @@ ChandaH = "जगती"
 
 <details><summary>Thomson & Solcum</summary>
 
-रा꣡जा सि꣡न्धूनाम् पवते प꣡तिर् दिव꣡  
-ऋत꣡स्य याति पथि꣡भिः क꣡निक्रदत्  
-सह꣡स्रधारः प꣡रि षिच्यते ह꣡रिः  
-पुनानो꣡ वा꣡चं जन꣡यन्न् उ꣡पावसुः
+रा᳓जा सि᳓न्धूनाम् पवते प᳓तिर् दिव᳓  
+ऋत᳓स्य याति पथि᳓भिः क᳓निक्रदत्  
+सह᳓स्रधारः प᳓रि षिच्यते ह᳓रिः  
+पुनानो᳓ वा᳓चं जन᳓यन्न् उ᳓पावसुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -227,7 +227,7 @@ _________
 
 The king of rivers, the lord of heaven purifies himself. He proceeds  along the paths of truth, ever roaring.  
 The tawny one is poured around with his thousand streams as he is  being purified, begetting speech, bringing goods near at hand.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/31-33.md">

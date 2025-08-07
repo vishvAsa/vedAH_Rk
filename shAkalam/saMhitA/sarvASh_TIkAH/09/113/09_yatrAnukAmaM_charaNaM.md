@@ -15,11 +15,11 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त्रानुकामं꣡ च꣡रणं  
-त्रिनाके꣡ त्रिदिवे꣡ दिवः꣡  
-लोका꣡ य꣡त्र ज्यो꣡तिष्मन्तस्  
-त꣡त्र मा꣡म् अमृ꣡तं कृधि  
-इ꣡न्द्रायेन्दो प꣡रि स्रव
+य᳓त्रानुकामं᳓ च᳓रणं  
+त्रिनाके᳓ त्रिदिवे᳓ दिवः᳓  
+लोका᳓ य᳓त्र ज्यो᳓तिष्मन्तस्  
+त᳓त्र मा᳓म् अमृ᳓तं कृधि  
+इ᳓न्द्रायेन्दो प᳓रि स्रव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -231,7 +231,7 @@ Where one can move following one’s desire in the three-vaulted,
 three-heavened (place) of heaven,  
 where there are worlds filled with light, there make me immortal.  
 – O drop, flow around for Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/08-11.md">

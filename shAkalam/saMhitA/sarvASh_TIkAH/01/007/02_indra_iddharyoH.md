@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र इ꣡द् ध꣡रियोः स꣡चा  
-स꣡म्मिश्ल आ꣡ वचोयु꣡जा  
-इ꣡न्द्रो वज्री꣡ हिरण्य꣡यः
+इ᳓न्द्र इ᳓द् ध᳓रियोः स᳓चा  
+स᳓म्मिश्ल आ᳓ वचोयु᳓जा  
+इ᳓न्द्रो वज्री᳓ हिरण्य᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

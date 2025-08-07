@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् ई मृजन्ति आय꣡वो  
-ह꣡रिं नदी꣡षु वाजि꣡नम्  
-इ꣡न्दुम् इ꣡न्द्राय मत्सर꣡म्
+त᳓म् ई मृजन्ति आय᳓वो  
+ह᳓रिं नदी᳓षु वाजि᳓नम्  
+इ᳓न्दुम् इ᳓न्द्राय मत्सर᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -155,7 +155,7 @@ _________
 
 Him do the Āyus groom in the rivers, the tawny prize-seeker,  
 the drop exhilarating to Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/16-18.md">

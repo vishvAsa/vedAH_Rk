@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ सो꣡मः कपर्दि꣡ने  
-घृतं꣡ न꣡ पवते म꣡धु  
-आ꣡ भक्षत् कनि꣡यासु नः
+अयं᳓ सो᳓मः कपर्दि᳓ने  
+घृतं᳓ न᳓ पवते म᳓धु  
+आ᳓ भक्षत् कनि᳓यासु नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

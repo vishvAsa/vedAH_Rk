@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तियं꣡ चित् प꣡र्वतं गिरिं꣡  
-शत꣡वन्तं सहस्रि꣡णम्  
-वि꣡ स्तोतृ꣡भ्यो रुरोजिथ
+तियं᳓ चित् प᳓र्वतं गिरिं᳓  
+शत᳓वन्तं सहस्रि᳓णम्  
+वि᳓ स्तोतृ᳓भ्यो रुरोजिथ
 </details>
 
 <details><summary>Vedaweb annotation</summary>

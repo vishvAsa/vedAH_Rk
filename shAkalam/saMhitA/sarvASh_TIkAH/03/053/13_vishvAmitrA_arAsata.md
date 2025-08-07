@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-विश्वा꣡मित्रा अरासत  
-ब्र꣡ह्म इ꣡न्द्राय वज्रि꣡णे  
-क꣡रद् इ꣡न् नः सुरा꣡धसः
+विश्वा᳓मित्रा अरासत  
+ब्र᳓ह्म इ᳓न्द्राय वज्रि᳓णे  
+क᳓रद् इ᳓न् नः सुरा᳓धसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -163,7 +163,7 @@ The Viśvāmitras: The **bharatas**, or descendants of **Bharata**, are descenda
 
 The Viśvāmitras have given the formulation to Indra who bears  the mace.  
 He will make us well rewarded.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

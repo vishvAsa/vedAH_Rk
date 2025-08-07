@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने न꣡क्षत्रम् अज꣡रम्  
-आ꣡ सू꣡र्यं रोहयो दिवि꣡  
-द꣡धज् ज्यो꣡तिर् ज꣡नेभियः
+अ᳓ग्ने न᳓क्षत्रम् अज᳓रम्  
+आ᳓ सू᳓र्यं रोहयो दिवि᳓  
+द᳓धज् ज्यो᳓तिर् ज᳓नेभियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡नु प्रत्ना꣡स आय꣡वः  
-पदं꣡ न꣡वीयो अक्रमुः  
-रुचे꣡ जनन्त सू꣡रियम्
+अ᳓नु प्रत्ना᳓स आय᳓वः  
+पदं᳓ न᳓वीयो अक्रमुः  
+रुचे᳓ जनन्त सू᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

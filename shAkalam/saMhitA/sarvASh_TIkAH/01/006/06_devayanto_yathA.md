@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-देवय꣡न्तो य꣡था मति꣡म्  
-अ꣡छा विद꣡द्वसुं गि꣡रः  
-महा꣡म् अनूषत श्रुत꣡म्
+देवय᳓न्तो य᳓था मति᳓म्  
+अ᳓छा विद᳓द्वसुं गि᳓रः  
+महा᳓म् अनूषत श्रुत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

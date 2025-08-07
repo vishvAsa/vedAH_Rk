@@ -15,8 +15,8 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ ते देवा꣡य दा꣡शतः सियाम  
-महो꣡ नो र꣡त्ना वि꣡ दध इयानः꣡
+ते᳓ ते देवा᳓य दा᳓शतः सियाम  
+महो᳓ नो र᳓त्ना वि᳓ दध इयानः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

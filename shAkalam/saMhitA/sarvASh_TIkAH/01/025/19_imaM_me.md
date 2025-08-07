@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इम꣡म् मे वरुण श्रुधी  
-ह꣡वम् अद्या꣡ च मॄळय+  
-तुवा꣡म् अवस्यु꣡र् आ꣡ चके
+इम᳓म् मे वरुण श्रुधी  
+ह᳓वम् अद्या᳓ च मॄळय+  
+तुवा᳓म् अवस्यु᳓र् आ᳓ चके
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "पदपङ्क्तिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने त꣡म् अद्य꣡  
-अ꣡श्वं न꣡ स्तो꣡मैः  
-क्र꣡तुं न꣡ भद्रं꣡  
-हृदिस्पृ꣡शम् ऋधिया꣡मा त ओ꣡हैः
+अ᳓ग्ने त᳓म् अद्य᳓  
+अ᳓श्वं न᳓ स्तो᳓मैः  
+क्र᳓तुं न᳓ भद्रं᳓  
+हृदिस्पृ᳓शम् ऋधिया᳓मा त ओ᳓हैः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

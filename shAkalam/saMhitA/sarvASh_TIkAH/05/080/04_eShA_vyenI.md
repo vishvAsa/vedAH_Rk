@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-एषा꣡ वि꣡एनी भवति द्विब꣡र्हा  
-आविष्कृण्वाना꣡ तनु꣡वम् पुर꣡स्तात्  
-ऋत꣡स्य प꣡न्थाम् अ꣡नु एति साधु꣡  
-प्रजानती꣡व न꣡ दि꣡शो मिनाति
+एषा᳓ वि᳓एनी भवति द्विब᳓र्हा  
+आविष्कृण्वाना᳓ तनु᳓वम् पुर᳓स्तात्  
+ऋत᳓स्य प᳓न्थाम् अ᳓नु एति साधु᳓  
+प्रजानती᳓व न᳓ दि᳓शो मिनाति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -221,7 +221,7 @@ _________
 
 She, the dappled one, becomes doubly exalted as she reveals her body in  the east.  
 She follows along the path of truth, straight to the goal. Like one who  knows the way, she does not confound the directions.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/04-05.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्निं꣡ घृते꣡न वावृधुः  
-स्तो꣡मेभिर् विश्व꣡चर्षणिम्  
-सुआधी꣡भिर् वचस्यु꣡भिः
+अग्निं᳓ घृते᳓न वावृधुः  
+स्तो᳓मेभिर् विश्व᳓चर्षणिम्  
+सुआधी᳓भिर् वचस्यु᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

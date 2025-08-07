@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने वीहि꣡ पुरोळा꣡शम्  
-आ꣡हुतं तिरो꣡अह्नियम्  
-स꣡हसः सूनु꣡र् असि अध्वरे꣡ हितः꣡
+अ᳓ग्ने वीहि᳓ पुरोळा᳓शम्  
+आ᳓हुतं तिरो᳓अह्नियम्  
+स᳓हसः सूनु᳓र् असि अध्वरे᳓ हितः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

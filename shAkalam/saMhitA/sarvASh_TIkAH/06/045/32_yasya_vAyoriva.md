@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य वायो꣡र् इव द्रव꣡द्  
-भद्रा꣡ रातिः꣡ सहस्रि꣡णी  
-सद्यो꣡ दाना꣡य मं꣡हते
+य᳓स्य वायो᳓र् इव द्रव᳓द्  
+भद्रा᳓ रातिः᳓ सहस्रि᳓णी  
+सद्यो᳓ दाना᳓य मं᳓हते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

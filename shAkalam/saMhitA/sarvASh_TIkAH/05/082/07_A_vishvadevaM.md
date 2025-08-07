@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ विश्व꣡देवं स꣡त्पतिं  
-सूक्तइ꣡र् अद्या꣡ वृणीमहे  
-सत्य꣡सवं सविता꣡रम्
+आ᳓ विश्व᳓देवं स᳓त्पतिं  
+सूक्तइ᳓र् अद्या᳓ वृणीमहे  
+सत्य᳓सवं सविता᳓रम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

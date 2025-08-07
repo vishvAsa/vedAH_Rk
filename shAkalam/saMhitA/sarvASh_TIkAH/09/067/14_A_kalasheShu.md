@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ कल꣡शेषु धावति  
-श्येनो꣡ व꣡र्म वि꣡ गाहते  
-अभि꣡ द्रो꣡णा क꣡निक्रदत्
+आ᳓ कल᳓शेषु धावति  
+श्येनो᳓ व᳓र्म वि᳓ गाहते  
+अभि᳓ द्रो᳓णा क᳓निक्रदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ समह मा तनु  
-ऊह्या꣡ते ज꣡नाँ अ꣡नु  
-सोमपे꣡यं सुखो꣡ र꣡थः
+अयं᳓ समह मा तनु  
+ऊह्या᳓ते ज᳓नाँ अ᳓नु  
+सोमपे᳓यं सुखो᳓ र᳓थः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

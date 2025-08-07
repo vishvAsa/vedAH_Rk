@@ -15,7 +15,7 @@ ChandaH = "एकपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡सिक्नियां य꣡जमानो न꣡ हो꣡ता
+अ᳓सिक्नियां य᳓जमानो न᳓ हो᳓ता
 </details>
 
 <details><summary>Vedaweb annotation</summary>

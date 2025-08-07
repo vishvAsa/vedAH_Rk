@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡राधि हो꣡ता सु꣡वर् नि꣡षत्तः  
-कृण्व꣡न् वि꣡श्वानि अ꣡पांसि सत्या꣡
+अ᳓राधि हो᳓ता सु᳓वर् नि᳓षत्तः  
+कृण्व᳓न् वि᳓श्वानि अ᳓पांसि सत्या᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -133,7 +133,7 @@ _________
 
 He has been brought to success, installed as Hotar, as the sun,  
 performing all the tasks to be realized.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/070/08-09.md">

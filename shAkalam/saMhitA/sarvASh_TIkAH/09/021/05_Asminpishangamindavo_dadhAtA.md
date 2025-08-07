@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡स्मिन् पिश꣡ङ्गम् इन्दवो  
-द꣡धाता वेन꣡म् आदि꣡शे  
-यो꣡ अस्म꣡भ्यम् अ꣡रावा
+आ᳓स्मिन् पिश᳓ङ्गम् इन्दवो  
+द᳓धाता वेन᳓म् आदि᳓शे  
+यो᳓ अस्म᳓भ्यम् अ᳓रावा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

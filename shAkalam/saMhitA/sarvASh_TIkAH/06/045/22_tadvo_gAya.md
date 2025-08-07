@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡द् वो गाय सुते꣡ स꣡चा  
-पुरुहूता꣡य स꣡त्वने  
-शं꣡ य꣡द् ग꣡वे न꣡ शाकि꣡ने
+त᳓द् वो गाय सुते᳓ स᳓चा  
+पुरुहूता᳓य स᳓त्वने  
+शं᳓ य᳓द् ग᳓वे न᳓ शाकि᳓ने
 </details>
 
 <details><summary>Vedaweb annotation</summary>

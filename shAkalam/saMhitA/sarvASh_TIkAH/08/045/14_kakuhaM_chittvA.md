@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ककुहं꣡ चित् तुवा कवे  
-म꣡न्दन्तु धृष्णव् इ꣡न्दवः  
-आ꣡ त्वा पणिं꣡ य꣡द् ई꣡महे
+ककुहं᳓ चित् तुवा कवे  
+म᳓न्दन्तु धृष्णव् इ᳓न्दवः  
+आ᳓ त्वा पणिं᳓ य᳓द् ई᳓महे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

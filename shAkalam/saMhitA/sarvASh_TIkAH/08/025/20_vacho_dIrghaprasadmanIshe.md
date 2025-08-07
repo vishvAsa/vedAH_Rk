@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-व꣡चो दीर्घ꣡प्रसद्मनि  
-ई꣡शे वा꣡जस्य गो꣡मतः  
-ई꣡शे हि꣡ पित्वो꣡ अविष꣡स्य दाव꣡ने
+व᳓चो दीर्घ᳓प्रसद्मनि  
+ई᳓शे वा᳓जस्य गो᳓मतः  
+ई᳓शे हि᳓ पित्वो᳓ अविष᳓स्य दाव᳓ने
 </details>
 
 <details><summary>Vedaweb annotation</summary>

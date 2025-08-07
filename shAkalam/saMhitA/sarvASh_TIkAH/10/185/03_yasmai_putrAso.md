@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्मै पुत्रा꣡सो अ꣡दितेः  
-प्र꣡ जीव꣡से म꣡र्तियाय  
-ज्यो꣡तिर् य꣡छन्ति अ꣡जस्रम्
+य᳓स्मै पुत्रा᳓सो अ᳓दितेः  
+प्र᳓ जीव᳓से म᳓र्तियाय  
+ज्यो᳓तिर् य᳓छन्ति अ᳓जस्रम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

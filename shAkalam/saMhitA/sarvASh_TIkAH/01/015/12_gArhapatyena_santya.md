@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गा꣡र्हपत्येन सन्तिय  
-ऋतु꣡ना यज्ञनी꣡र् असि  
-देवा꣡न् देवयते꣡ यज
+गा᳓र्हपत्येन सन्तिय  
+ऋतु᳓ना यज्ञनी᳓र् असि  
+देवा᳓न् देवयते᳓ यज
 </details>
 
 <details><summary>Vedaweb annotation</summary>

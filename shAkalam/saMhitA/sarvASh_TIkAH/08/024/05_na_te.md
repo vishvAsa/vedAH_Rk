@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ ते सव्यं꣡ न꣡ द꣡क्षिणं  
-ह꣡स्तं वरन्त आमु꣡रः  
-न꣡ परिबा꣡धो हरिवो ग꣡विष्टिषु
+न᳓ ते सव्यं᳓ न᳓ द᳓क्षिणं  
+ह᳓स्तं वरन्त आमु᳓रः  
+न᳓ परिबा᳓धो हरिवो ग᳓विष्टिषु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

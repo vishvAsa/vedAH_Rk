@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्मिन् वि꣡श्वाश् चर्षण꣡य  
-उत꣡ च्यौत्ना꣡ ज्र꣡यांसि च  
-अ꣡नु घे꣡न् मन्दी꣡ मघो꣡नः
+य᳓स्मिन् वि᳓श्वाश् चर्षण᳓य  
+उत᳓ च्यौत्ना᳓ ज्र᳓यांसि च  
+अ᳓नु घे᳓न् मन्दी᳓ मघो᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ स्वरा꣡जे अ꣡दिति  
-स्तो꣡मम् इ꣡न्द्राय जीजनत्  
-पुरुप्रशस्त꣡म् ऊत꣡य ऋत꣡स्य य꣡त्
+उत᳓ स्वरा᳓जे अ᳓दिति  
+स्तो᳓मम् इ᳓न्द्राय जीजनत्  
+पुरुप्रशस्त᳓म् ऊत᳓य ऋत᳓स्य य᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -173,7 +173,7 @@ Product: or, belongs to the sacrifice, yajñasya **sambandhi** **bhavati**
 <details><summary>Jamison Brereton</summary>
 
 And Aditi gave birth to the praise song for Indra, the sovereign king, (the song) proclaimed by many for his help—(the song) that belongs  to truth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/13-15.md">

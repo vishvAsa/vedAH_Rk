@@ -15,9 +15,9 @@ ChandaH = "विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वेषा᳐म् इरज्य꣡न्तं व꣡सूनां  
-सासह्वां꣡सं चिद् अस्य꣡ व꣡र्पसः  
-कृपयतो꣡ नून꣡म् अ꣡ति अ꣡थ
+वि᳓श्वेषा᳐म् इरज्य᳓न्तं व᳓सूनां  
+सासह्वां᳓सं चिद् अस्य᳓ व᳓र्पसः  
+कृपयतो᳓ नून᳓म् अ᳓ति अ᳓थ
 </details>
 
 <details><summary>Vedaweb annotation</summary>

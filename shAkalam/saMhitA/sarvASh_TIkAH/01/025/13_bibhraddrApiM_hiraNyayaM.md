@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-बि꣡भ्रद् द्रापिं꣡ हिरण्य꣡यं  
-व꣡रुणो वस्त निर्णि꣡जम्  
-प꣡रि स्प꣡शो नि꣡ षेदिरे
+बि᳓भ्रद् द्रापिं᳓ हिरण्य᳓यं  
+व᳓रुणो वस्त निर्णि᳓जम्  
+प᳓रि स्प᳓शो नि᳓ षेदिरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

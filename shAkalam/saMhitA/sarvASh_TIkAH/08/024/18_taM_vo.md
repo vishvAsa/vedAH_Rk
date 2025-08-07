@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ वो वा꣡जाना᳐म् प꣡तिम्  
-अ꣡हूमहि श्रवस्य꣡वः  
-अ꣡प्रायुभिर् यज्ञे꣡भिर् वावृधे꣡नियम्
+तं᳓ वो वा᳓जाना᳐म् प᳓तिम्  
+अ᳓हूमहि श्रवस्य᳓वः  
+अ᳓प्रायुभिर् यज्ञे᳓भिर् वावृधे᳓नियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

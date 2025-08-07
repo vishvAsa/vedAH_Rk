@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ द्युम्ना꣡नि वनि꣡न  
-इ꣡न्द्रं सचन्ते अ꣡क्षिता  
-पीत्वी꣡ सो꣡मस्य वावृधे
+अभि᳓ द्युम्ना᳓नि वनि᳓न  
+इ᳓न्द्रं सचन्ते अ᳓क्षिता  
+पीत्वी᳓ सो᳓मस्य वावृधे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

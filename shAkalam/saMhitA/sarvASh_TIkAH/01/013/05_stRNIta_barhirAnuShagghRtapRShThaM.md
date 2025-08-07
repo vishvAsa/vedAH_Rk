@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्तृणीत꣡ बर्हि꣡र् आनुष꣡ग्  
-घृत꣡पृष्ठम् मनीषिणः  
-य꣡त्रामृ꣡तस्य च꣡क्षणम्
+स्तृणीत᳓ बर्हि᳓र् आनुष᳓ग्  
+घृत᳓पृष्ठम् मनीषिणः  
+य᳓त्रामृ᳓तस्य च᳓क्षणम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एते꣡ पृष्ठा꣡नि रो꣡दसोर्  
-विप्रय꣡न्तो वि꣡ आनशुः  
-उते꣡द꣡म् उत्तमं꣡ र꣡जः
+एते᳓ पृष्ठा᳓नि रो᳓दसोर्  
+विप्रय᳓न्तो वि᳓ आनशुः  
+उते᳓द᳓म् उत्तमं᳓ र᳓जः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

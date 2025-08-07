@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तु꣡भ्ये꣡द् इन्द्र स्व꣡ ओकि꣡ये  
-सो꣡मं चोदामि पीत꣡ये  
-एष꣡ रारन्तु ते हृदि꣡
+तु᳓भ्ये᳓द् इन्द्र स्व᳓ ओकि᳓ये  
+सो᳓मं चोदामि पीत᳓ये  
+एष᳓ रारन्तु ते हृदि᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

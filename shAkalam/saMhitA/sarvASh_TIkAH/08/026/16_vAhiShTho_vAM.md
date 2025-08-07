@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वा꣡हिष्ठो वां ह꣡वानां᳐  
-स्तो꣡मो दूतो꣡ हुवन् नरा  
-युवा꣡भ्याम् भूतु अश्विना
+वा᳓हिष्ठो वां ह᳓वानां᳐  
+स्तो᳓मो दूतो᳓ हुवन् नरा  
+युवा᳓भ्याम् भूतु अश्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

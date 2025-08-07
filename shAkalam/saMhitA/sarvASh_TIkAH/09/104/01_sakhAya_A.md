@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡खाय आ꣡ नि꣡ षीदत  
-पुनाना꣡य प्र꣡ गायत  
-शि꣡शुं न꣡ यज्ञइः꣡ प꣡रि भूषत श्रिये꣡
+स᳓खाय आ᳓ नि᳓ षीदत  
+पुनाना᳓य प्र᳓ गायत  
+शि᳓शुं न᳓ यज्ञइः᳓ प᳓रि भूषत श्रिये᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

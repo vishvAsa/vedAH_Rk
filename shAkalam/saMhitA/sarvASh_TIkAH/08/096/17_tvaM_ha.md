@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ ह त्य꣡द् अप्रतिमान꣡म् ओ꣡जो  
-व꣡ज्रेण वज्रिन् धृषितो꣡ जघन्थ  
-त्वं꣡ शु꣡ष्णस्य अ꣡वातिरो व꣡धत्रैस्  
-तुवं꣡ गा꣡ इन्द्र श꣡चिये꣡द् अविन्दः
+तुवं᳓ ह त्य᳓द् अप्रतिमान᳓म् ओ᳓जो  
+व᳓ज्रेण वज्रिन् धृषितो᳓ जघन्थ  
+त्वं᳓ शु᳓ष्णस्य अ᳓वातिरो व᳓धत्रैस्  
+तुवं᳓ गा᳓ इन्द्र श᳓चिये᳓द् अविन्दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -249,7 +249,7 @@ _________
 
 You then—emboldened, you smote the power without counterpart with  your mace, mace-bearer.  
 You brought low (the power) of Śuṣṇa with your murderous weapons.  You found the cows just with your skill, Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/16-18.md">

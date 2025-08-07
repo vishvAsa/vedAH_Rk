@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र प्र꣡ णो र꣡थम् अव  
-पश्चा꣡च् चित् स꣡न्तम् अद्रिवः  
-पुर꣡स्ताद् एनम् मे कृधि
+इ᳓न्द्र प्र᳓ णो र᳓थम् अव  
+पश्चा᳓च् चित् स᳓न्तम् अद्रिवः  
+पुर᳓स्ताद् एनम् मे कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

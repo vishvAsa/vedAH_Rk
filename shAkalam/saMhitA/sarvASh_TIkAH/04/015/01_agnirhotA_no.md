@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् हो꣡ता नो अध्वरे꣡  
-वाजी꣡ स꣡न् प꣡रि णीयते  
-देवो꣡ देवे꣡षु यज्ञि꣡यः
+अग्नि᳓र् हो᳓ता नो अध्वरे᳓  
+वाजी᳓ स᳓न् प᳓रि णीयते  
+देवो᳓ देवे᳓षु यज्ञि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

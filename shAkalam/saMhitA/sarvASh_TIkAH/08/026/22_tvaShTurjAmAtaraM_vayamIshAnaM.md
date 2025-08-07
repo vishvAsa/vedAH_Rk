@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्व꣡ष्टुर् जा꣡मातरं वय꣡म्  
-ई꣡शानं राय꣡ ईमहे  
-सुता꣡वन्तो वायुं꣡ द्युम्ना꣡ ज꣡नासः
+त्व᳓ष्टुर् जा᳓मातरं वय᳓म्  
+ई᳓शानं राय᳓ ईमहे  
+सुता᳓वन्तो वायुं᳓ द्युम्ना᳓ ज᳓नासः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

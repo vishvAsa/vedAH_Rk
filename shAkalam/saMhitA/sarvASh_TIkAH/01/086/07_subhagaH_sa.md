@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुभ꣡गः स꣡ प्रयज्यवो  
-म꣡रुतो अस्तु म꣡र्तियः  
-य꣡स्य प्र꣡यांसि प꣡र्षथ
+सुभ᳓गः स᳓ प्रयज्यवो  
+म᳓रुतो अस्तु म᳓र्तियः  
+य᳓स्य प्र᳓यांसि प᳓र्षथ
 </details>
 
 <details><summary>Vedaweb annotation</summary>

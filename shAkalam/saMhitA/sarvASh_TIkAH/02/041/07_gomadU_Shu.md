@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-गो꣡मद् ऊ षु꣡ नासतिया  
-अ꣡श्वावद् यातम् अश्विना  
-वर्ती꣡ रुद्रा नृपा꣡यियम्
+गो᳓मद् ऊ षु᳓ नासतिया  
+अ᳓श्वावद् यातम् अश्विना  
+वर्ती᳓ रुद्रा नृपा᳓यियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

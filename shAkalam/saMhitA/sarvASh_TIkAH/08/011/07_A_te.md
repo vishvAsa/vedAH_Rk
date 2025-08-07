@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ ते वत्सो꣡ म꣡नो यमत्  
-परमा꣡च् चित् सध꣡स्था᳐त्  
-अ꣡ग्ने त्वां꣡कामया गिरा꣡
+आ᳓ ते वत्सो᳓ म᳓नो यमत्  
+परमा᳓च् चित् सध᳓स्था᳐त्  
+अ᳓ग्ने त्वां᳓कामया गिरा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

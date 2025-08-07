@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡समातिं नितो꣡शनं  
-त्वेषं꣡ निययि꣡नं र꣡थम्  
-भजे꣡रथस्य स꣡त्पतिम्
+अ᳓समातिं नितो᳓शनं  
+त्वेषं᳓ निययि᳓नं र᳓थम्  
+भजे᳓रथस्य स᳓त्पतिम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

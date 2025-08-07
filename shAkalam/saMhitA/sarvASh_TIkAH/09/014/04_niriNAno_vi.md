@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-निरिणानो꣡ वि꣡ धावति  
-ज꣡हच् छ꣡र्याणि ता꣡नुवा  
-अ꣡त्रा सं꣡ जिघ्नते युजा꣡
+निरिणानो᳓ वि᳓ धावति  
+ज᳓हच् छ᳓र्याणि ता᳓नुवा  
+अ᳓त्रा सं᳓ जिघ्नते युजा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

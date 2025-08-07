@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उश꣡ना य꣡त् पराव꣡त  
-उक्ष्णो꣡ र꣡न्ध्रम् अ꣡यातन  
-दियउ꣡र् न꣡ चक्रदद् भिया꣡
+उश᳓ना य᳓त् पराव᳓त  
+उक्ष्णो᳓ र᳓न्ध्रम् अ᳓यातन  
+दियउ᳓र् न᳓ चक्रदद् भिया᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

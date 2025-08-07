@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रं वो विश्व꣡तस् प꣡रि  
-ह꣡वामहे ज꣡नेभियः  
-अस्मा꣡कम् अस्तु के꣡वलः
+इ᳓न्द्रं वो विश्व᳓तस् प᳓रि  
+ह᳓वामहे ज᳓नेभियः  
+अस्मा᳓कम् अस्तु के᳓वलः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

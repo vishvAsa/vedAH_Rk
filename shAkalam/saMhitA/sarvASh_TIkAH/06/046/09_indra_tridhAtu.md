@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र त्रिधा꣡तु शरणं꣡  
-त्रिव꣡रूथं सुअस्तिम꣡त्  
-छर्दि꣡र् यछ मघ꣡वद्भ्यश् च म꣡ह्य° च  
-याव꣡या दिद्यु꣡म् एभियः
+इ᳓न्द्र त्रिधा᳓तु शरणं᳓  
+त्रिव᳓रूथं सुअस्तिम᳓त्  
+छर्दि᳓र् यछ मघ᳓वद्भ्यश् च म᳓ह्य° च  
+याव᳓या दिद्यु᳓म् एभियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -206,7 +206,7 @@ _________
 O Indra, your threefold, triple-armored shelter that provides  
 well-being—  
 that protection hold out to our benefactors and to me. Keep the arrow  away from those
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/09-10.md">

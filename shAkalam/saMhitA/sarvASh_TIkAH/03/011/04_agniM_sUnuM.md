@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्निं꣡ सूनुं꣡ स꣡नश्रुतं  
-स꣡हसो जात꣡वेदसम्  
-व꣡ह्निं देवा꣡ अकृण्वत
+अग्निं᳓ सूनुं᳓ स᳓नश्रुतं  
+स᳓हसो जात᳓वेदसम्  
+व᳓ह्निं देवा᳓ अकृण्वत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

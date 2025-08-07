@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡षो अग्निः꣡ स꣡म् इध्यते  
-अ꣡श्वो न꣡ देववा꣡हनः  
-तं꣡ हवि꣡ष्मन्त ईळते
+वृ᳓षो अग्निः᳓ स᳓म् इध्यते  
+अ᳓श्वो न᳓ देववा᳓हनः  
+तं᳓ हवि᳓ष्मन्त ईळते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

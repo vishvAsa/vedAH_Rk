@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् आ꣡तैर् जिहते बृह꣡द्  
-द्वा꣡रो देवी꣡र् हिरण्य꣡यीः  
-प꣡वमानेन सु꣡ष्टुताः
+उ᳓द् आ᳓तैर् जिहते बृह᳓द्  
+द्वा᳓रो देवी᳓र् हिरण्य᳓यीः  
+प᳓वमानेन सु᳓ष्टुताः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

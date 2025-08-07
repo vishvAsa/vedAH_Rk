@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अय꣡म् अग्निः꣡ सहस्रि꣡णो  
-वा꣡जस्य शति꣡नस् प꣡तिः  
-मूर्धा꣡ कवी꣡ रयीणा᳐꣡म्
+अय᳓म् अग्निः᳓ सहस्रि᳓णो  
+वा᳓जस्य शति᳓नस् प᳓तिः  
+मूर्धा᳓ कवी᳓ रयीणा᳐᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् ई वत्सं꣡ न꣡ मातृ꣡भिः  
-सृज꣡ता गयसा꣡धनम्  
-देवावि꣡यम् म꣡दम् अभि꣡ द्वि꣡शवसम्
+स᳓म् ई वत्सं᳓ न᳓ मातृ᳓भिः  
+सृज᳓ता गयसा᳓धनम्  
+देवावि᳓यम् म᳓दम् अभि᳓ द्वि᳓शवसम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

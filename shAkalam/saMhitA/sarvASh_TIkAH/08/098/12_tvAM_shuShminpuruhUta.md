@@ -15,9 +15,9 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवां꣡ शुष्मिन् पुरुहूत वाजय꣡न्तम्  
-उ꣡प ब्रुवे शतक्रतो  
-स꣡ नो रास्व सुवी꣡रियम्
+तुवां᳓ शुष्मिन् पुरुहूत वाजय᳓न्तम्  
+उ᳓प ब्रुवे शतक्रतो  
+स᳓ नो रास्व सुवी᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

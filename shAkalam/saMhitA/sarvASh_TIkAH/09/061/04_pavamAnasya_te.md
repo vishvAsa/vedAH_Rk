@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानस्य ते वय꣡म्  
-पवि꣡त्रम् अभिउन्दतः꣡  
-सखित्व꣡म् आ꣡ वृणीमहे
+प᳓वमानस्य ते वय᳓म्  
+पवि᳓त्रम् अभिउन्दतः᳓  
+सखित्व᳓म् आ᳓ वृणीमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

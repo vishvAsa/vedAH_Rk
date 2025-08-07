@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡पेन्द्र द्विषतो꣡ म꣡नो  
-अ꣡प जि꣡ज्यासतो वध꣡म्  
-वि꣡ मन्योः꣡ श꣡र्म यछ  
-व꣡रीयो यवया वध꣡म्
+अ᳓पेन्द्र द्विषतो᳓ म᳓नो  
+अ᳓प जि᳓ज्यासतो वध᳓म्  
+वि᳓ मन्योः᳓ श᳓र्म यछ  
+व᳓रीयो यवया वध᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

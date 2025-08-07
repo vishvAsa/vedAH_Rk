@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ नः क꣡श् चिद् रि꣡रिक्षति  
-रक्षस्तुवे꣡न म꣡र्तियः  
-सुवइः꣡ ष꣡ ए꣡वै रिरिषीष्ट यु꣡र् ज꣡नः
+यो᳓ नः क᳓श् चिद् रि᳓रिक्षति  
+रक्षस्तुवे᳓न म᳓र्तियः  
+सुवइः᳓ ष᳓ ए᳓वै रिरिषीष्ट यु᳓र् ज᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

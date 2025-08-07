@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡स्य घा वीर꣡ ई꣡वतो  
-अग्ने꣡र् ईशीत म꣡र्तियः  
-तिग्म꣡जम्भस्य मीळ्हु꣡षः
+अ᳓स्य घा वीर᳓ ई᳓वतो  
+अग्ने᳓र् ईशीत म᳓र्तियः  
+तिग्म᳓जम्भस्य मीळ्हु᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

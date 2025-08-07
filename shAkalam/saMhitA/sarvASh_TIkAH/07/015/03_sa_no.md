@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो वे꣡दो अमा꣡तियम्  
-अग्नी꣡ रक्षतु विश्व꣡तः  
-उता꣡स्मा꣡न् पातु अं꣡हसः
+स᳓ नो वे᳓दो अमा᳓तियम्  
+अग्नी᳓ रक्षतु विश्व᳓तः  
+उता᳓स्मा᳓न् पातु अं᳓हसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वाजनन्त मात꣡रः  
-कविं꣡ देवा꣡सो अङ्गिरः  
-हव्यवा꣡हम् अ꣡मर्तियम्
+तं᳓ त्वाजनन्त मात᳓रः  
+कविं᳓ देवा᳓सो अङ्गिरः  
+हव्यवा᳓हम् अ᳓मर्तियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

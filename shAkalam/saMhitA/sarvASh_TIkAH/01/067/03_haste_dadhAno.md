@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ह꣡स्ते द꣡धानो नृम्णा꣡ वि꣡श्वानि  
-अ꣡मे देवा꣡न् धाद् गु꣡हा निषी꣡दन्
+ह᳓स्ते द᳓धानो नृम्णा᳓ वि᳓श्वानि  
+अ᳓मे देवा᳓न् धाद् गु᳓हा निषी᳓दन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

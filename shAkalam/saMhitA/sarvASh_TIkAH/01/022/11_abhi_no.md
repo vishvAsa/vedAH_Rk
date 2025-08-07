@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ नो देवी꣡र् अ꣡वसा  
-महः꣡ श꣡र्मणा नृप꣡त्नीः  
-अ꣡छिन्नपत्राः सचन्ताम्
+अभि᳓ नो देवी᳓र् अ᳓वसा  
+महः᳓ श᳓र्मणा नृप᳓त्नीः  
+अ᳓छिन्नपत्राः सचन्ताम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त् ते सोम ग꣡वाशिरो  
-य꣡वाशिरो भ꣡जामहे  
-वा꣡तापे पी꣡व इ꣡द् भव
+य᳓त् ते सोम ग᳓वाशिरो  
+य᳓वाशिरो भ᳓जामहे  
+वा᳓तापे पी᳓व इ᳓द् भव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

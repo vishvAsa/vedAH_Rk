@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ हि꣡ ष्मा सून꣡वे पिता꣡  
-आपि꣡र् य꣡जति आप꣡ये  
-स꣡खा स꣡ख्ये व꣡रेणियः
+आ᳓ हि᳓ ष्मा सून᳓वे पिता᳓  
+आपि᳓र् य᳓जति आप᳓ये  
+स᳓खा स᳓ख्ये व᳓रेणियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

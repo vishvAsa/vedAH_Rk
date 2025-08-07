@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡म् ईळे꣡नियं कविं꣡  
-घृत꣡पृष्ठं सपर्यत  
-वे꣡तु मे शृण꣡वद् ध꣡वम्
+अग्नि᳓म् ईळे᳓नियं कविं᳓  
+घृत᳓पृष्ठं सपर्यत  
+वे᳓तु मे शृण᳓वद् ध᳓वम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

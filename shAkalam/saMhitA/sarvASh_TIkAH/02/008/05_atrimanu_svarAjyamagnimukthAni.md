@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡त्रिम् अ꣡नु स्वरा꣡जियम्  
-अग्नि꣡म् उक्था꣡नि वावृधुः  
-वि꣡श्वा अ꣡धि श्रि꣡यो दधे
+अ᳓त्रिम् अ᳓नु स्वरा᳓जियम्  
+अग्नि᳓म् उक्था᳓नि वावृधुः  
+वि᳓श्वा अ᳓धि श्रि᳓यो दधे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -166,7 +166,7 @@ _________
 
 Atri and Agni, (each) according to his own sovereignty, have the solemn  pronouncements strengthened.  
 He has laid on himself all beauties.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/04-06.md">

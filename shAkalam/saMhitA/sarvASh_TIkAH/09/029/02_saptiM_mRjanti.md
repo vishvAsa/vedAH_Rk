@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡प्तिम् मृजन्ति वेध꣡सो  
-गृण꣡न्तः कार꣡वो गिरा꣡  
-ज्यो꣡तिर् जज्ञान꣡म् उक्थि꣡यम्
+स᳓प्तिम् मृजन्ति वेध᳓सो  
+गृण᳓न्तः कार᳓वो गिरा᳓  
+ज्यो᳓तिर् जज्ञान᳓म् उक्थि᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

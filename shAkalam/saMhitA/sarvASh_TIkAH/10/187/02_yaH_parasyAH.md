@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यः꣡ प꣡रस्याः पराव꣡तस्  
-तिरो꣡ ध꣡न्वातिरो꣡चते  
-स꣡ नः पर्षद् अ꣡ति द्वि꣡षः
+यः᳓ प᳓रस्याः पराव᳓तस्  
+तिरो᳓ ध᳓न्वातिरो᳓चते  
+स᳓ नः पर्षद् अ᳓ति द्वि᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

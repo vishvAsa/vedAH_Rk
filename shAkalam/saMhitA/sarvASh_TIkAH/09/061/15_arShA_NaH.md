@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡र्षा णः सोम शं꣡ ग꣡वे  
-धुक्ष꣡स्व पिप्यु꣡षीम् इ꣡षम्  
-व꣡र्धा समुद्र꣡म् उक्थि꣡यम्
+अ᳓र्षा णः सोम शं᳓ ग᳓वे  
+धुक्ष᳓स्व पिप्यु᳓षीम् इ᳓षम्  
+व᳓र्धा समुद्र᳓म् उक्थि᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -163,7 +163,7 @@ _________
 
 Rush as weal for our cow, Soma; milk out swelling refreshment.  
 Increase the sea, worthy of hymns.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/13-15.md">

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् अस्य शोचि꣡र् अस्था᳐द्  
-दीदियु꣡षो वि꣡ अज꣡रम्  
-त꣡पुर्जम्भस्य सुद्यु꣡तो गणश्रि꣡यः
+उ᳓द् अस्य शोचि᳓र् अस्था᳐द्  
+दीदियु᳓षो वि᳓ अज᳓रम्  
+त᳓पुर्जम्भस्य सुद्यु᳓तो गणश्रि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

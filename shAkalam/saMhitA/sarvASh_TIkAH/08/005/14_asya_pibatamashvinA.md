@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्य꣡ पिबतम् अश्विना  
-युव꣡म् म꣡दस्य चा꣡रुणः  
-म꣡ध्वो रात꣡स्य धिष्णिया
+अस्य᳓ पिबतम् अश्विना  
+युव᳓म् म᳓दस्य चा᳓रुणः  
+म᳓ध्वो रात᳓स्य धिष्णिया
 </details>
 
 <details><summary>Vedaweb annotation</summary>

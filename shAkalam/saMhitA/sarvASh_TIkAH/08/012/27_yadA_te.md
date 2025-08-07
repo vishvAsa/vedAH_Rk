@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यदा꣡ ते वि꣡ष्णुर् ओ꣡जसा  
-त्री꣡णि पदा꣡ विचक्रमे꣡  
-आ꣡द् इ꣡त् ते हर्यता꣡ ह꣡री ववक्षतुः
+यदा᳓ ते वि᳓ष्णुर् ओ᳓जसा  
+त्री᳓णि पदा᳓ विचक्रमे᳓  
+आ᳓द् इ᳓त् ते हर्यता᳓ ह᳓री ववक्षतुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

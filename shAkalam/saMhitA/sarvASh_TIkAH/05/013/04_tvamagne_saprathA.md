@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्व꣡म् अग्ने सप्र꣡था असि  
-जु꣡ष्टो हो꣡ता व꣡रेणियः  
-त्व꣡या यज्ञं꣡ वि꣡ तन्वते
+त्व᳓म् अग्ने सप्र᳓था असि  
+जु᳓ष्टो हो᳓ता व᳓रेणियः  
+त्व᳓या यज्ञं᳓ वि᳓ तन्वते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

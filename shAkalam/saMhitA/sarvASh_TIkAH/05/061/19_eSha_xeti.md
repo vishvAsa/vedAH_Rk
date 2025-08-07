@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ क्षेति र꣡थवीतिर्  
-मघ꣡वा गो꣡मतीर् अ꣡नु  
-प꣡र्वतेषु अ꣡पश्रितः
+एष᳓ क्षेति र᳓थवीतिर्  
+मघ᳓वा गो᳓मतीर् अ᳓नु  
+प᳓र्वतेषु अ᳓पश्रितः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

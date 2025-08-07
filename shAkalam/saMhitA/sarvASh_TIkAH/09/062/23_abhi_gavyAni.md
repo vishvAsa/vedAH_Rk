@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ ग꣡व्यानि वीत꣡ये  
-नृम्णा꣡ पुनानो꣡ अर्षसि  
-सन꣡द्वाजः प꣡रि स्रव
+अभि᳓ ग᳓व्यानि वीत᳓ये  
+नृम्णा᳓ पुनानो᳓ अर्षसि  
+सन᳓द्वाजः प᳓रि स्रव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -149,7 +149,7 @@ _________
 
 You rush to pursue bovine (goods) and manly powers, while being  purified.  
 Winning the prizes, flow around.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/22-24.md">

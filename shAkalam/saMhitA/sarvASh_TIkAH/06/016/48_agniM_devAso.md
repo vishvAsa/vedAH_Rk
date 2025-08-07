@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्निं꣡ देवा꣡सो अग्रिय꣡म्  
-इन्ध꣡ते वृत्रह꣡न्तमम्  
-ये꣡ना व꣡सूनि आ꣡भृता  
-तृळ्हा꣡ र꣡क्षांसि वाजि꣡ना
+अग्निं᳓ देवा᳓सो अग्रिय᳓म्  
+इन्ध᳓ते वृत्रह᳓न्तमम्  
+ये᳓ना व᳓सूनि आ᳓भृता  
+तृळ्हा᳓ र᳓क्षांसि वाजि᳓ना
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -169,7 +169,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Agni do the gods kindle at the front, as the best obstacle-smasher by whom goods are brought here and the demonic powers crushed—by  the prizewinner.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/47-48.md">

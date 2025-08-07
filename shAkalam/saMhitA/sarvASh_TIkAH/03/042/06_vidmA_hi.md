@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-विद्मा꣡ हि꣡ त्वा धनंजयं꣡  
-वा꣡जेषु दधृषं꣡ कवे  
-अ꣡धा ते सुम्न꣡म् ईमहे
+विद्मा᳓ हि᳓ त्वा धनंजयं᳓  
+वा᳓जेषु दधृषं᳓ कवे  
+अ᳓धा ते सुम्न᳓म् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡श्वं न꣡ त्वा वा꣡रवन्तं  
-वन्द꣡ध्या अग्निं꣡ न꣡मोभिः  
-सम्रा꣡जन्तम् अध्वरा꣡णाम्
+अ᳓श्वं न᳓ त्वा वा᳓रवन्तं  
+वन्द᳓ध्या अग्निं᳓ न᳓मोभिः  
+सम्रा᳓जन्तम् अध्वरा᳓णाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

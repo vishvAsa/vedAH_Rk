@@ -15,10 +15,10 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ वो रसा꣡ अ꣡नितभा कु꣡भा क्रु꣡मुर्  
-मा꣡ वः सि꣡न्धुर् नि꣡ रीरमत्  
-मा꣡ वः प꣡रि ष्ठात् सर꣡युः पुरीषि꣡णी  
-अस्मे꣡ ई꣡त् सुम्न꣡म् अस्तु वः
+मा᳓ वो रसा᳓ अ᳓नितभा कु᳓भा क्रु᳓मुर्  
+मा᳓ वः सि᳓न्धुर् नि᳓ रीरमत्  
+मा᳓ वः प᳓रि ष्ठात् सर᳓युः पुरीषि᳓णी  
+अस्मे᳓ ई᳓त् सुम्न᳓म् अस्तु वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -265,7 +265,7 @@ Rasa, Anitabhā, Kubhā: names of rivers; the wide-roving ocean: **kramuḥ** **
 
 Let not the Rasā (River), the Anitabhā, the Kubhā, the Krumu, let not  the Sindhu bring you to a halt.  
 Let not the overflowing Sarayu hem you around. On us alone let your  favor be.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/053/08-09.md">

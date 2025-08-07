@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ वि꣡श्वा दाशु꣡षे व꣡सु  
-सो꣡मा दिव्या꣡नि पा꣡र्थिवा  
-प꣡वन्ताम् आ꣡न्त꣡रिक्षिया
+ते᳓ वि᳓श्वा दाशु᳓षे व᳓सु  
+सो᳓मा दिव्या᳓नि पा᳓र्थिवा  
+प᳓वन्ताम् आ᳓न्त᳓रिक्षिया
 </details>
 
 <details><summary>Vedaweb annotation</summary>

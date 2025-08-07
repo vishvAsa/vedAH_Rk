@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दि꣡वा चित् त꣡मः कृण्वन्ति  
-पर्ज꣡न्येनोदवाहे꣡न  
-य꣡त् पृथिवीं꣡ विउन्द꣡न्ति
+दि᳓वा चित् त᳓मः कृण्वन्ति  
+पर्ज᳓न्येनोदवाहे᳓न  
+य᳓त् पृथिवीं᳓ विउन्द᳓न्ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

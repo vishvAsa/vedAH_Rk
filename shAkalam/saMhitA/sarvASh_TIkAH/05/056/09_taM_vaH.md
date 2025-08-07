@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ वः श꣡र्धं रथेशु꣡भं  
-त्वेष꣡म् पनस्यु꣡म् आ꣡ हुवे  
-य꣡स्मिन् सु꣡जाता सुभ꣡गा महीय꣡ते  
-स꣡चा मरु꣡त्सु मीळ्हुषी꣡
+तं᳓ वः श᳓र्धं रथेशु᳓भं  
+त्वेष᳓म् पनस्यु᳓म् आ᳓ हुवे  
+य᳓स्मिन् सु᳓जाता सुभ᳓गा महीय᳓ते  
+स᳓चा मरु᳓त्सु मीळ्हुषी᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -214,7 +214,7 @@ The rain-bestowing goddess: mīḷhuṣī is another name of **Rodasi**, the wif
 
 This troop of yours, beauty on the chariot, vibrant, inviting admiration  do I call here,  
 in which the noble, well-portioned (Rodasī) shows her greatness, the  generous one in company with the Maruts.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/056/08-09.md">

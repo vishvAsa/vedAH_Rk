@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-मुषाय꣡ सू꣡रियं कवे  
-चक्र꣡म् ई꣡शान ओ꣡जसा  
-व꣡ह शु꣡ष्णाय वधं꣡  
-कु꣡त्सं वा᳐꣡तस्य अ꣡श्वैः
+मुषाय᳓ सू᳓रियं कवे  
+चक्र᳓म् ई᳓शान ओ᳓जसा  
+व᳓ह शु᳓ष्णाय वधं᳓  
+कु᳓त्सं वा᳐᳓तस्य अ᳓श्वैः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दाता꣡ मे पृ꣡षतीनां᳐  
-रा꣡जा हिरण्यवी꣡ना᳐म्  
-मा꣡ देवा मघ꣡वा रिषत्
+दाता᳓ मे पृ᳓षतीनां᳐  
+रा᳓जा हिरण्यवी᳓ना᳐म्  
+मा᳓ देवा मघ᳓वा रिषत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

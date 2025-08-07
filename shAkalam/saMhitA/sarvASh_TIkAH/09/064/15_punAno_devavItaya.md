@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुनानो꣡ देव꣡वीतय  
-इ꣡न्द्रस्य याहि निष्कृत꣡म्  
-द्युतानो꣡ वाजि꣡भिर् यतः꣡
+पुनानो᳓ देव᳓वीतय  
+इ᳓न्द्रस्य याहि निष्कृत᳓म्  
+द्युतानो᳓ वाजि᳓भिर् यतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -142,7 +142,7 @@ _________
 
 Becoming purified for the pursuit of the gods, drive to your rendezvous  with Indra,  
 flashing, guided by the prize-seekers.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/13-15.md">

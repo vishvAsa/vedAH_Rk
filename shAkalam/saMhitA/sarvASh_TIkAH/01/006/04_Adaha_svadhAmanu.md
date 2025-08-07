@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ã꣡द् अ꣡ह स्वधा꣡म् अ꣡नु  
-पु꣡नर् गर्भत्व꣡म् एरिरे꣡  
-द꣡धाना ना꣡म यज्ञि꣡यम्
+ã᳓द् अ᳓ह स्वधा᳓म् अ᳓नु  
+पु᳓नर् गर्भत्व᳓म् एरिरे᳓  
+द᳓धाना ना᳓म यज्ञि᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

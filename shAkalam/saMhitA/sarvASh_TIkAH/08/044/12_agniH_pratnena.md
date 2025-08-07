@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्निः꣡ प्रत्ने꣡न म꣡न्मना  
-शु꣡म्भानस् तनु꣡वं सुवा꣡म्  
-कवि꣡र् वि꣡प्रेण वावृधे
+अग्निः᳓ प्रत्ने᳓न म᳓न्मना  
+शु᳓म्भानस् तनु᳓वं सुवा᳓म्  
+कवि᳓र् वि᳓प्रेण वावृधे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

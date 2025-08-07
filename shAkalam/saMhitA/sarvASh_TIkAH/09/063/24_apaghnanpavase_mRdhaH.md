@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अपघ्न꣡न् पवसे मृ꣡धः  
-क्रतुवि꣡त् सोम मत्सरः꣡  
-नुद꣡स्वा꣡देवयुं ज꣡नम्
+अपघ्न᳓न् पवसे मृ᳓धः  
+क्रतुवि᳓त् सोम मत्सरः᳓  
+नुद᳓स्वा᳓देवयुं ज᳓नम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -150,7 +150,7 @@ _________
 
 Smashing away the scorners, you purify yourself, finding the resolve,  exhilarating, o Soma.  
 Thrust from yourself the people who do not seek the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/22-24.md">

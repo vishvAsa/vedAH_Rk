@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रेहि वि꣡ग्रम् अ꣡स्तृतम्  
-इ꣡न्द्रम् पृछा विपश्चि꣡तम्  
-य꣡स् ते स꣡खिभ्य आ꣡ व꣡रम्
+प᳓रेहि वि᳓ग्रम् अ᳓स्तृतम्  
+इ᳓न्द्रम् पृछा विपश्चि᳓तम्  
+य᳓स् ते स᳓खिभ्य आ᳓ व᳓रम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

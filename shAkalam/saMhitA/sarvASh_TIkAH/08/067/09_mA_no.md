@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नो मृचा꣡ रिपूणां᳐꣡  
-वृजिना꣡नाम् अविष्यवः  
-दे꣡वा अभि꣡ प्र꣡ मृक्षत
+मा᳓ नो मृचा᳓ रिपूणां᳐᳓  
+वृजिना᳓नाम् अविष्यवः  
+दे᳓वा अभि᳓ प्र᳓ मृक्षत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

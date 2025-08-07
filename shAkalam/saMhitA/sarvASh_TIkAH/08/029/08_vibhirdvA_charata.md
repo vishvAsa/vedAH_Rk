@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡भिर् दुवा꣡ चरत ए꣡कया सह꣡  
-प्र꣡ प्रवासे꣡व वसतः
+वि᳓भिर् दुवा᳓ चरत ए᳓कया सह᳓  
+प्र᳓ प्रवासे᳓व वसतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

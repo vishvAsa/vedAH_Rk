@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एवा꣡ हि꣡ अस्य सूनृ꣡ता  
-विरप्शी꣡ गो꣡मती मही꣡  
-पक्वा꣡ शा꣡खा न꣡ दाशु꣡षे
+एवा᳓ हि᳓ अस्य सूनृ᳓ता  
+विरप्शी᳓ गो᳓मती मही᳓  
+पक्वा᳓ शा᳓खा न᳓ दाशु᳓षे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

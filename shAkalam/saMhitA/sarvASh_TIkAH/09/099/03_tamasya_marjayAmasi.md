@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् अस्य मर्जयामसि  
-म꣡दो य꣡ इन्द्रपा꣡तमः  
-यं꣡ गा꣡व आस꣡भिर् दधुः꣡  
-पुरा꣡ नूनं꣡ च सूर꣡यः
+त᳓म् अस्य मर्जयामसि  
+म᳓दो य᳓ इन्द्रपा᳓तमः  
+यं᳓ गा᳓व आस᳓भिर् दधुः᳓  
+पुरा᳓ नूनं᳓ च सूर᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

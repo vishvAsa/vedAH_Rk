@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡अग् वा꣡तो अ꣡व वाति  
-नि꣡अक् तपति सू꣡रियः  
-नीची꣡नम् अघ्निया꣡ दुहे  
-नि꣡अग् भवतु ते र꣡पः
+नि᳓अग् वा᳓तो अ᳓व वाति  
+नि᳓अक् तपति सू᳓रियः  
+नीची᳓नम् अघ्निया᳓ दुहे  
+नि᳓अग् भवतु ते र᳓पः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

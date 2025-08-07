@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋ꣡जीते प꣡रि वृङ्धि नो  
-अ꣡श्मा भवतु नस् तनूः꣡  
-सो꣡मो अ꣡धि ब्रवीतु नो  
-अ꣡दितिः श꣡र्म यछतु
+ऋ᳓जीते प᳓रि वृङ्धि नो  
+अ᳓श्मा भवतु नस् तनूः᳓  
+सो᳓मो अ᳓धि ब्रवीतु नो  
+अ᳓दितिः श᳓र्म यछतु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

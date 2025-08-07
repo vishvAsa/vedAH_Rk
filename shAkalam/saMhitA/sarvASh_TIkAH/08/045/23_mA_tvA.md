@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ त्वा मूरा꣡ अविष्य꣡वो  
-मो꣡पह꣡स्वान आ꣡ दभन्  
-मा꣡कीम् ब्रह्मद्वि꣡षो वनः
+मा᳓ त्वा मूरा᳓ अविष्य᳓वो  
+मो᳓पह᳓स्वान आ᳓ दभन्  
+मा᳓कीम् ब्रह्मद्वि᳓षो वनः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

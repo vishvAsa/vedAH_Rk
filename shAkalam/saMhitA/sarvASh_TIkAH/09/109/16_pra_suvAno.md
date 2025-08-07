@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ स्वानो꣡° अक्षाः सह꣡स्रधारस्  
-तिरः꣡ पवि꣡त्रं वि꣡ वा꣡रम् अ꣡व्यम्
+प्र᳓ स्वानो᳓° अक्षाः सह᳓स्रधारस्  
+तिरः᳓ पवि᳓त्रं वि᳓ वा᳓रम् अ᳓व्यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -144,7 +144,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Being pressed, he has streamed forth in a thousand streams, across the  filter, through the sheep’s fleece.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/16-18.md">

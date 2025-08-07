@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ अश्विनाव् अ꣡श्वावत्या  
-इषा꣡ यातं श꣡वीरया  
-गो꣡मद् दस्रा हि꣡रण्यवत्
+आ᳓ अश्विनाव् अ᳓श्वावत्या  
+इषा᳓ यातं श᳓वीरया  
+गो᳓मद् दस्रा हि᳓रण्यवत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

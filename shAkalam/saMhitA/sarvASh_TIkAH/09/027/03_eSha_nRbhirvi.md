@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ नृ꣡भिर् वि꣡ नीयते  
-दिवो꣡ मूर्धा꣡ वृ꣡षा सुतः꣡  
-सो꣡मो व꣡नेषु विश्ववि꣡त्
+एष᳓ नृ᳓भिर् वि᳓ नीयते  
+दिवो᳓ मूर्धा᳓ वृ᳓षा सुतः᳓  
+सो᳓मो व᳓नेषु विश्ववि᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

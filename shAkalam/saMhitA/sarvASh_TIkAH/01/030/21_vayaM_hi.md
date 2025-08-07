@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वयं꣡ हि꣡ ते अ꣡मन्महि  
-आ꣡ अ꣡न्ताद् आ꣡ पराका᳐꣡त्  
-अ꣡श्वे न꣡ चित्रे अरुषि
+वयं᳓ हि᳓ ते अ᳓मन्महि  
+आ᳓ अ᳓न्ताद् आ᳓ पराका᳐᳓त्  
+अ᳓श्वे न᳓ चित्रे अरुषि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

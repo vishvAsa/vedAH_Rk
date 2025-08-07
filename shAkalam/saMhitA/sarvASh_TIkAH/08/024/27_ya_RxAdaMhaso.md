@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ ऋ꣡क्षाद् अं꣡हसो मुच꣡द्  
-यो꣡ वा꣡र्यात् सप्त꣡ सि꣡न्धुषु  
-व꣡धर् दास꣡स्य तुविनृम्ण नीनमः
+य᳓ ऋ᳓क्षाद् अं᳓हसो मुच᳓द्  
+यो᳓ वा᳓र्यात् सप्त᳓ सि᳓न्धुषु  
+व᳓धर् दास᳓स्य तुविनृम्ण नीनमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

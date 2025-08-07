@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पराका꣡त्ताच् चिद् अद्रिवस्  
-तुवां꣡ नक्षन्त नो गि꣡रः  
-अ꣡रं गमाम ते वय꣡म्
+पराका᳓त्ताच् चिद् अद्रिवस्  
+तुवां᳓ नक्षन्त नो गि᳓रः  
+अ᳓रं गमाम ते वय᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -162,7 +162,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Even from a distance our hymns reach you, possessor of the stone. Let us go fittingly to you.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-27.md">

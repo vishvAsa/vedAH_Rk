@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡द् अस्य म꣡दे स꣡द् उ अस्य पीता꣡व्  
-इ꣡न्द्रः स꣡द् अस्य सखिये꣡ चकार  
-र꣡णा वा ये꣡ निष꣡दि स꣡त् ते꣡ अस्य  
-पुरा꣡ विविद्रे स꣡द् उ नू꣡तनासः
+स᳓द् अस्य म᳓दे स᳓द् उ अस्य पीता᳓व्  
+इ᳓न्द्रः स᳓द् अस्य सखिये᳓ चकार  
+र᳓णा वा ये᳓ निष᳓दि स᳓त् ते᳓ अस्य  
+पुरा᳓ विविद्रे स᳓द् उ नू᳓तनासः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -291,7 +291,7 @@ _________
 
 Indra created what exists in the exhilaration of it, what exists at the  drinking of it; what exists in the fellowship of it.  
 Or those [=priests] who were there with joy at the installation of it—the  previous ones acquired what exists; the current ones what exists.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/027/01-02.md">

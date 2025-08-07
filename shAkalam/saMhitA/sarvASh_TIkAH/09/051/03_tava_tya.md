@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡व त्य꣡ इन्दो अ꣡न्धसो  
-देवा꣡ म꣡धोर् वि꣡ अश्नते  
-प꣡वमानस्य मरु꣡तः
+त᳓व त्य᳓ इन्दो अ᳓न्धसो  
+देवा᳓ म᳓धोर् वि᳓ अश्नते  
+प᳓वमानस्य मरु᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

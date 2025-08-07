@@ -15,9 +15,9 @@ ChandaH = "निचृत्"
 
 <details><summary>Thomson & Solcum</summary>
 
-जघ꣡ने चो꣡द एषां᳐  
-वि꣡ सक्था꣡नि न꣡रो यमुः  
-पुत्रकृथे꣡ न꣡ ज꣡नयः
+जघ᳓ने चो᳓द एषां᳐  
+वि᳓ सक्था᳓नि न᳓रो यमुः  
+पुत्रकृथे᳓ न᳓ ज᳓नयः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡षम् ऊ꣡र्जं च पिन्वस  
-इ꣡न्द्राय मत्सरि꣡न्तमः  
-चमू꣡षु आ꣡ नि꣡ षीदसि
+इ᳓षम् ऊ᳓र्जं च पिन्वस  
+इ᳓न्द्राय मत्सरि᳓न्तमः  
+चमू᳓षु आ᳓ नि᳓ षीदसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -152,7 +152,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 You swell refreshment and nourishment; most exhilarating for Indra, you sit down here in the cups.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/01-03.md">

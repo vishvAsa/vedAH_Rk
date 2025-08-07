@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡छा को꣡शम् मधुश्चु꣡तम्  
-अ꣡सृग्रं वा꣡रे अव्य꣡ये  
-अ꣡वावशन्त धीत꣡यः
+अ᳓छा को᳓शम् मधुश्चु᳓तम्  
+अ᳓सृग्रं वा᳓रे अव्य᳓ये  
+अ᳓वावशन्त धीत᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -140,7 +140,7 @@ I.e., our fingers desire the **Soma** juices in order to cleanse them again and 
 
 Toward the cask dripping with honey they have surged onto the sheep’s  fleece.  
 The insightful thoughts have bellowed.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/10-12.md">

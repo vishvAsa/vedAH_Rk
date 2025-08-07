@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡सृक्षत प्र꣡ वाजि꣡नो  
-गव्या꣡ सो꣡मासो अश्वया꣡  
-शुक्रा꣡सो वीरया꣡श꣡वः
+अ᳓सृक्षत प्र᳓ वाजि᳓नो  
+गव्या᳓ सो᳓मासो अश्वया᳓  
+शुक्रा᳓सो वीरया᳓श᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

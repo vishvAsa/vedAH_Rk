@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-एत꣡म् उ त्य꣡म् मदच्यु꣡तं  
-सह꣡स्रधारं वृषभं꣡ दि꣡वो दुहुः  
-वि꣡श्वा व꣡सूनि बि꣡भ्रतम्
+एत᳓म् उ त्य᳓म् मदच्यु᳓तं  
+सह᳓स्रधारं वृषभं᳓ दि᳓वो दुहुः  
+वि᳓श्वा व᳓सूनि बि᳓भ्रतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

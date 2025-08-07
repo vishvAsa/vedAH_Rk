@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ त्वा वहन्तु ह꣡रयो  
-वृ꣡षणं सो꣡मपीतये  
-इ꣡न्द्र त्वा सू꣡रचक्षसः
+आ᳓ त्वा वहन्तु ह᳓रयो  
+वृ᳓षणं सो᳓मपीतये  
+इ᳓न्द्र त्वा सू᳓रचक्षसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

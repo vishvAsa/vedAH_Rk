@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एता꣡ च्यौत्ना꣡नि ते कृता꣡  
-व꣡र्षिष्ठानि प꣡रीणसा  
-हृदा꣡ वीडु꣡ अधारयः
+एता᳓ च्यौत्ना᳓नि ते कृता᳓  
+व᳓र्षिष्ठानि प᳓रीणसा  
+हृदा᳓ वीडु᳓ अधारयः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानस्य ज꣡ङ्घ्नतो  
-ह꣡रेश् चन्द्रा꣡ असृक्षत  
-जीरा꣡ अजिर꣡शोचिषः
+प᳓वमानस्य ज᳓ङ्घ्नतो  
+ह᳓रेश् चन्द्रा᳓ असृक्षत  
+जीरा᳓ अजिर᳓शोचिषः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

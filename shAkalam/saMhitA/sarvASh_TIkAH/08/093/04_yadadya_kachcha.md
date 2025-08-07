@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अद्य꣡ क꣡च् च वृत्रहन्न्  
-उद꣡गा अभि꣡ सूरिय  
-स꣡र्वं त꣡द् इन्द्र ते व꣡शे
+य᳓द् अद्य᳓ क᳓च् च वृत्रहन्न्  
+उद᳓गा अभि᳓ सूरिय  
+स᳓र्वं त᳓द् इन्द्र ते व᳓शे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

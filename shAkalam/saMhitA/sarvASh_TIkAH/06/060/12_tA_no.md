@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ नो वा꣡जवतीर् इ꣡ष  
-आशू꣡न् पिपृतम् अ꣡र्वतः  
-इ꣡न्द्रम् अग्निं꣡ च वो꣡ळ्हवे
+ता᳓ नो वा᳓जवतीर् इ᳓ष  
+आशू᳓न् पिपृतम् अ᳓र्वतः  
+इ᳓न्द्रम् अग्निं᳓ च वो᳓ळ्हवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

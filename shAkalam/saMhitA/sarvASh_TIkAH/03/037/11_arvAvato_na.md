@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अर्वाव꣡तो न आ꣡ गहि  
-अ꣡थो शक्र पराव꣡तः  
-उलोको꣡† य꣡स् ते अद्रिव  
-इ꣡न्द्रेह꣡ त꣡त आ꣡ गहि
+अर्वाव᳓तो न आ᳓ गहि  
+अ᳓थो शक्र पराव᳓तः  
+उलोको᳓† य᳓स् ते अद्रिव  
+इ᳓न्द्रेह᳓ त᳓त आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

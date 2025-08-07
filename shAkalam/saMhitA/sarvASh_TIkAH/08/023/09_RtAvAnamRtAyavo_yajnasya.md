@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋता꣡वानम् ऋतायवो  
-यज्ञ꣡स्य सा꣡धनं गिरा꣡  
-उ꣡पो एनं जुजुषुर् न꣡मसस् पदे꣡
+ऋता᳓वानम् ऋतायवो  
+यज्ञ᳓स्य सा᳓धनं गिरा᳓  
+उ᳓पो एनं जुजुषुर् न᳓मसस् पदे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

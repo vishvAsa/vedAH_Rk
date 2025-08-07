@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्मिन् वि꣡श्वा अ꣡धि श्रि꣡यो  
-र꣡णन्ति सप्त꣡ संस꣡दः  
-इ꣡न्द्रं सुते꣡ हवामहे
+य᳓स्मिन् वि᳓श्वा अ᳓धि श्रि᳓यो  
+र᳓णन्ति सप्त᳓ संस᳓दः  
+इ᳓न्द्रं सुते᳓ हवामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

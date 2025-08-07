@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ति भद्रा꣡ अदृक्षत  
-ग꣡वां स꣡र्गा न꣡ रश्म꣡यः  
-ओ꣡षा꣡ अप्रा उरु꣡ ज्र꣡यः
+प्र᳓ति भद्रा᳓ अदृक्षत  
+ग᳓वां स᳓र्गा न᳓ रश्म᳓यः  
+ओ᳓षा᳓ अप्रा उरु᳓ ज्र᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

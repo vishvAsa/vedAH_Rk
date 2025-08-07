@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ हि꣡ यो꣡ मा꣡नुषा युगा꣡  
-सी꣡दद् धो꣡ता कवि꣡क्रतुः  
-दूत꣡श् च हव्यवा꣡हनः
+स᳓ हि᳓ यो᳓ मा᳓नुषा युगा᳓  
+सी᳓दद् धो᳓ता कवि᳓क्रतुः  
+दूत᳓श् च हव्यवा᳓हनः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

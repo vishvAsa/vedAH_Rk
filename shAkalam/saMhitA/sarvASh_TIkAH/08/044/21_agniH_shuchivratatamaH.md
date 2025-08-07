@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्निः꣡ शु꣡चिव्रततमः  
-शु꣡चिर् वि꣡प्रः शु꣡चिः कविः꣡  
-शु꣡ची रोचत आ꣡हुतः
+अग्निः᳓ शु᳓चिव्रततमः  
+शु᳓चिर् वि᳓प्रः शु᳓चिः कविः᳓  
+शु᳓ची रोचत आ᳓हुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

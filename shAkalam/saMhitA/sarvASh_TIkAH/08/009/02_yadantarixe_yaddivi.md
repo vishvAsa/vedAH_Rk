@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अन्त꣡रिक्षे य꣡द् दिवि꣡  
-य꣡त् प꣡ञ्च मा꣡नुषाँ अ꣡नु  
-नृम्णं꣡ त꣡द् धत्तम् अश्विना
+य᳓द् अन्त᳓रिक्षे य᳓द् दिवि᳓  
+य᳓त् प᳓ञ्च मा᳓नुषाँ अ᳓नु  
+नृम्णं᳓ त᳓द् धत्तम् अश्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

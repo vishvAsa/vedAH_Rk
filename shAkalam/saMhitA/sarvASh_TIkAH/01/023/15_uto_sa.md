@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उतो꣡ स꣡ म꣡ह्यम् इ꣡न्दुभिः  
-ष꣡ड् युक्ताँ꣡ अनुसे꣡षिधत्  
-गो꣡भिर् य꣡वं न꣡ चर्कृषत्
+उतो᳓ स᳓ म᳓ह्यम् इ᳓न्दुभिः  
+ष᳓ड् युक्ताँ᳓ अनुसे᳓षिधत्  
+गो᳓भिर् य᳓वं न᳓ चर्कृषत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

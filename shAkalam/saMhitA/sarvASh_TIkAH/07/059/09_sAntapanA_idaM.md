@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सां꣡तपना इदं꣡ हवि꣡र्  
-म꣡रुतस् त꣡ज् जुजुष्टन  
-युष्मा꣡कोती꣡ रिशादसः
+सां᳓तपना इदं᳓ हवि᳓र्  
+म᳓रुतस् त᳓ज् जुजुष्टन  
+युष्मा᳓कोती᳓ रिशादसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

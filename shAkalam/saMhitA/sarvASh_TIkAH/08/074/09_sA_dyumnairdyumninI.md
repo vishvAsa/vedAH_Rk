@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सा꣡ द्युम्नइ꣡र् द्युम्नि꣡नी बृह꣡द्  
-उ꣡पोप श्र꣡वसि श्र꣡वः  
-द꣡धीत वृत्रतू꣡रिये
+सा᳓ द्युम्नइ᳓र् द्युम्नि᳓नी बृह᳓द्  
+उ᳓पोप श्र᳓वसि श्र᳓वः  
+द᳓धीत वृत्रतू᳓रिये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

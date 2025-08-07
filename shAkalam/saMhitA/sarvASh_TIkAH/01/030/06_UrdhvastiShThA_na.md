@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऊर्ध्व꣡स् तिष्ठा न ऊत꣡ये  
-अस्मि꣡न् वा꣡जे शतक्रतो  
-स꣡म् अन्ये꣡षु ब्रवावहै
+ऊर्ध्व᳓स् तिष्ठा न ऊत᳓ये  
+अस्मि᳓न् वा᳓जे शतक्रतो  
+स᳓म् अन्ये᳓षु ब्रवावहै
 </details>
 
 <details><summary>Vedaweb annotation</summary>

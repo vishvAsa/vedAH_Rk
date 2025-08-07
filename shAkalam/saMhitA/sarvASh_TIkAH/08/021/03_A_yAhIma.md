@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ याहि इम꣡ इ꣡न्दवो  
-अ꣡श्वपते गो꣡पत उ꣡र्वरापते  
-सो꣡मं सोमपते पिब
+आ᳓ याहि इम᳓ इ᳓न्दवो  
+अ᳓श्वपते गो᳓पत उ᳓र्वरापते  
+सो᳓मं सोमपते पिब
 </details>
 
 <details><summary>Vedaweb annotation</summary>

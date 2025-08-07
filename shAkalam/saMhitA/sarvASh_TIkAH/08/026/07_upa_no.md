@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प नो यातम् अश्विना  
-राया꣡ विश्वपु꣡षा सह꣡  
-मघ꣡वाना सुवी꣡राव् अ꣡नपच्युता
+उ᳓प नो यातम् अश्विना  
+राया᳓ विश्वपु᳓षा सह᳓  
+मघ᳓वाना सुवी᳓राव् अ᳓नपच्युता
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अनेनो꣡ वो मरुतो या꣡मो अस्तु  
-अनश्व꣡श् चिद् य꣡म् अ꣡जति अ꣡रथीः  
-अनवसो꣡ अनभीशू꣡ रजस्तू꣡र्  
-वि꣡ रो꣡दसी पथि꣡या याति सा꣡धन्
+अनेनो᳓ वो मरुतो या᳓मो अस्तु  
+अनश्व᳓श् चिद् य᳓म् अ᳓जति अ᳓रथीः  
+अनवसो᳓ अनभीशू᳓ रजस्तू᳓र्  
+वि᳓ रो᳓दसी पथि᳓या याति सा᳓धन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -250,7 +250,7 @@ Let your course be without antelopes, o Maruts, also without horses— the cours
 Without halt, without reins as it crosses the dusky realm, it travels  
 through the two world-halves along its paths, heading toward  
 its goal.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

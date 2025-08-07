@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अर्यो꣡ विशां꣡ गातु꣡र् एति  
-प्र꣡ य꣡द् आ꣡नड् दिवो꣡ अ꣡न्तान्  
-कवि꣡र् अभ्रं꣡ दी꣡दियानः
+अर्यो᳓ विशां᳓ गातु᳓र् एति  
+प्र᳓ य᳓द् आ᳓नड् दिवो᳓ अ᳓न्तान्  
+कवि᳓र् अभ्रं᳓ दी᳓दियानः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

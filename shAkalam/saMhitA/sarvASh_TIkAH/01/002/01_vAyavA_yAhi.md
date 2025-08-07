@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वा꣡यव् आ꣡ याहि दर्शत  
-इमे꣡ सो꣡मा अ꣡रंकृताः  
-ते꣡षाम् पाहि श्रुधी꣡ ह꣡वम्
+वा᳓यव् आ᳓ याहि दर्शत  
+इमे᳓ सो᳓मा अ᳓रंकृताः  
+ते᳓षाम् पाहि श्रुधी᳓ ह᳓वम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

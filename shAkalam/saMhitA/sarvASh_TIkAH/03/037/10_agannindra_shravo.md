@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡गन्न् इन्द्र श्र꣡वो बृह꣡द्  
-द्युम्नं꣡ दधिष्व दुष्ट꣡रम्  
-उ꣡त् ते शु꣡ष्मं तिरामसि
+अ᳓गन्न् इन्द्र श्र᳓वो बृह᳓द्  
+द्युम्नं᳓ दधिष्व दुष्ट᳓रम्  
+उ᳓त् ते शु᳓ष्मं तिरामसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

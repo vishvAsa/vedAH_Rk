@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् उ त्ये꣡ सून꣡वो गि꣡रः  
-का꣡ष्ठा अ꣡ज्मेषु अत्नत  
-वाश्रा꣡ अभिज्ञु꣡ या꣡तवे
+उ᳓द् उ त्ये᳓ सून᳓वो गि᳓रः  
+का᳓ष्ठा अ᳓ज्मेषु अत्नत  
+वाश्रा᳓ अभिज्ञु᳓ या᳓तवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

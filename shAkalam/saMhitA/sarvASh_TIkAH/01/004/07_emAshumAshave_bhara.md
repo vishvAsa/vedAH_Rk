@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ए꣡म् आशु꣡म् आश꣡वे भर  
-यज्ञश्रि꣡यं नृमा꣡दनम्  
-पतय꣡न् मन्दय꣡त्सखम्
+ए᳓म् आशु᳓म् आश᳓वे भर  
+यज्ञश्रि᳓यं नृमा᳓दनम्  
+पतय᳓न् मन्दय᳓त्सखम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

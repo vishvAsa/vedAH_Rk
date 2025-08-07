@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो अग्ने वयोवृ꣡धं  
-रयि꣡म् पवाक+ शं꣡सियम्  
-रा꣡स्वा च न उपमाते पुरुस्पृ꣡हं  
-सु꣡नीती स्व꣡यशस्तरम्
+आ᳓ नो अग्ने वयोवृ᳓धं  
+रयि᳓म् पवाक+ शं᳓सियम्  
+रा᳓स्वा च न उपमाते पुरुस्पृ᳓हं  
+सु᳓नीती स्व᳓यशस्तरम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -212,7 +212,7 @@ _________
 
 (Bring) here to us praiseworthy wealth that strengthens vital force, o  pure Agni,  
 and give it to us, o apportioner—(wealth) much craved and very  glorious—with your good guidance—
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

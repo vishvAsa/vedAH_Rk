@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि दइ꣡वीर् अ꣡नु स्वधा꣡  
-इ꣡न्द्रेण याहि सर꣡थम्  
-पुनानो꣡ वाघ꣡द् वाघ꣡द्भिर् अ꣡मर्तियः
+प᳓रि दइ᳓वीर् अ᳓नु स्वधा᳓  
+इ᳓न्द्रेण याहि सर᳓थम्  
+पुनानो᳓ वाघ᳓द् वाघ᳓द्भिर् अ᳓मर्तियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

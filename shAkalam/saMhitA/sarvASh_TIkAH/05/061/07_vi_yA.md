@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ या꣡ जाना꣡ति ज꣡सुरिं  
-वि꣡ तृ꣡ष्यन्तं वि꣡ कामि꣡नम्  
-देवत्रा꣡ कृणुते꣡ म꣡नः
+वि᳓ या᳓ जाना᳓ति ज᳓सुरिं  
+वि᳓ तृ᳓ष्यन्तं वि᳓ कामि᳓नम्  
+देवत्रा᳓ कृणुते᳓ म᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

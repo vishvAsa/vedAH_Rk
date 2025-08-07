@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡म् उ ष्विद् अस्य से꣡नया  
-अग्ने꣡र् अ꣡पाकचक्षसः  
-पणिं꣡ गो꣡षु स्तरामहे
+क᳓म् उ ष्विद् अस्य से᳓नया  
+अग्ने᳓र् अ᳓पाकचक्षसः  
+पणिं᳓ गो᳓षु स्तरामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

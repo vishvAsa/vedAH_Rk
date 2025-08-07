@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा गीर्भि꣡र् उरुक्ष꣡या  
-हव्यवा꣡हं स꣡म् ईधिरे  
-य꣡जिष्ठम् मा꣡नुषे ज꣡ने
+तं᳓ त्वा गीर्भि᳓र् उरुक्ष᳓या  
+हव्यवा᳓हं स᳓म् ईधिरे  
+य᳓जिष्ठम् मा᳓नुषे ज᳓ने
 </details>
 
 <details><summary>Vedaweb annotation</summary>

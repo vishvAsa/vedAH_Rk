@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡ धार꣡यन्त देवाः꣡  
-सुद꣡क्षा द꣡क्षपितरा  
-असुर्या᳡य प्र꣡महसा
+या᳓ धार᳓यन्त देवाः᳓  
+सुद᳓क्षा द᳓क्षपितरा  
+असुर्या᳡य प्र᳓महसा
 </details>
 
 <details><summary>मूलम्</summary>

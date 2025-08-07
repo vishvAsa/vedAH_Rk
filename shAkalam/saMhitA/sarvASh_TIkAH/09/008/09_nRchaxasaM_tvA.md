@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नृच꣡क्षसं तुवा वय꣡म्  
-इ꣡न्द्रपीतं सुवर्वि꣡दम्  
-भक्षीम꣡हि प्रजा꣡म् इ꣡षम्
+नृच᳓क्षसं तुवा वय᳓म्  
+इ᳓न्द्रपीतं सुवर्वि᳓दम्  
+भक्षीम᳓हि प्रजा᳓म् इ᳓षम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

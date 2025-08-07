@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गृ꣡हमेधास आ꣡ गत  
-म꣡रुतो मा꣡प भूतन  
-युष्मा꣡कोती꣡ सुदानवः
+गृ᳓हमेधास आ᳓ गत  
+म᳓रुतो मा᳓प भूतन  
+युष्मा᳓कोती᳓ सुदानवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -165,7 +165,7 @@ _________
 Come here, you sharers of the House-offering—Maruts, don’t  
 stay away—  
 with your help, you of good drops.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">

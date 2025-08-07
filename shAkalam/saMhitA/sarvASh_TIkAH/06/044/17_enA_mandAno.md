@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-एना꣡ मन्दानो꣡ जहि꣡ शूर श꣡त्रूञ्  
-जामि꣡म् अ꣡जामिम् मघवन्न् अमि꣡त्रान्  
-अभिषेणाँ꣡ अभि꣡ आदे꣡दिशानान्  
-प꣡राच इन्द्र प्र꣡ मृणा जही꣡ च
+एना᳓ मन्दानो᳓ जहि᳓ शूर श᳓त्रूञ्  
+जामि᳓म् अ᳓जामिम् मघवन्न् अमि᳓त्रान्  
+अभिषेणाँ᳓ अभि᳓ आदे᳓दिशानान्  
+प᳓राच इन्द्र प्र᳓ मृणा जही᳓ च
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -232,7 +232,7 @@ _________
 
 Becoming exhilarated by it, o champion, smash your rivals and your  foes, both kin and non-kin, o bounteous one.  
 Those with weapons aimed at us, setting their sights on us—pulverize  and smash them, Indra, (for them to become) far away.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

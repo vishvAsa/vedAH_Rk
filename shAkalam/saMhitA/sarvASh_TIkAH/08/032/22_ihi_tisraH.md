@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इहि꣡ तिस्रः꣡ पराव꣡त  
-इहि꣡ प꣡ञ्च ज꣡नाँ अ꣡ति  
-धे꣡ना इन्द्रावचा꣡कशत्
+इहि᳓ तिस्रः᳓ पराव᳓त  
+इहि᳓ प᳓ञ्च ज᳓नाँ अ᳓ति  
+धे᳓ना इन्द्रावचा᳓कशत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

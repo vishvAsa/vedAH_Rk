@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ त इन्द्र महिमा꣡नं  
-ह꣡रयो देव ते म꣡हः  
-र꣡थे वहन्तु बि꣡भ्रतः
+आ᳓ त इन्द्र महिमा᳓नं  
+ह᳓रयो देव ते म᳓हः  
+र᳓थे वहन्तु बि᳓भ्रतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

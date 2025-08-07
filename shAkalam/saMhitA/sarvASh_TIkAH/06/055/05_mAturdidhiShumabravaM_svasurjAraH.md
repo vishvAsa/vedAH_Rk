@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मातु꣡र् दिधिषु꣡म् अब्रवं  
-स्व꣡सुर् जारः꣡ शृणोतु नः  
-भ्रा꣡ते꣡न्द्रस्य स꣡खा म꣡म
+मातु᳓र् दिधिषु᳓म् अब्रवं  
+स्व᳓सुर् जारः᳓ शृणोतु नः  
+भ्रा᳓ते᳓न्द्रस्य स᳓खा म᳓म
 </details>
 
 <details><summary>Vedaweb annotation</summary>

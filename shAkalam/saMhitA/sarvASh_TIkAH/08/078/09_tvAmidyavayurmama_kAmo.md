@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवा꣡म् इ꣡द् यवयु꣡र् म꣡म  
-का꣡मो गव्यु꣡र् हिरण्ययुः꣡  
-तुवा꣡म् अश्वयु꣡र् ए꣡षते
+तुवा᳓म् इ᳓द् यवयु᳓र् म᳓म  
+का᳓मो गव्यु᳓र् हिरण्ययुः᳓  
+तुवा᳓म् अश्वयु᳓र् ए᳓षते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

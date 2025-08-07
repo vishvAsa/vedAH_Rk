@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प ते गा꣡ इवा꣡करं  
-वृणीष्व꣡ दुहितर् दिवः  
-रा꣡त्रि स्तो꣡मं न꣡ जिग्यु꣡षे
+उ᳓प ते गा᳓ इवा᳓करं  
+वृणीष्व᳓ दुहितर् दिवः  
+रा᳓त्रि स्तो᳓मं न᳓ जिग्यु᳓षे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

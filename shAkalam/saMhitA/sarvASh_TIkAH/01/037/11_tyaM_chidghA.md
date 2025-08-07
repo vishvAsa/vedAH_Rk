@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तियं꣡ चिद् घा दीर्घ꣡म् पृथु꣡म्  
-मिहो꣡ न꣡पातम् अ꣡मृध्रम्  
-प्र꣡ च्यावयन्ति या꣡मभिः
+तियं᳓ चिद् घा दीर्घ᳓म् पृथु᳓म्  
+मिहो᳓ न᳓पातम् अ᳓मृध्रम्  
+प्र᳓ च्यावयन्ति या᳓मभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

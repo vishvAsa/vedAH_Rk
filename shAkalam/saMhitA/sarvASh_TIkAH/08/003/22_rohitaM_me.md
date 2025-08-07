@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-रो꣡हितम् मे पा꣡कस्थामा  
-सुधु꣡रं कक्षियप्रा᳐꣡म्  
-अ꣡दाद् रायो꣡ विबो꣡धनम्
+रो᳓हितम् मे पा᳓कस्थामा  
+सुधु᳓रं कक्षियप्रा᳐᳓म्  
+अ᳓दाद् रायो᳓ विबो᳓धनम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

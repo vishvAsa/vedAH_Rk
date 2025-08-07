@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-व꣡स्वी ते अग्ने सं꣡दृष्टिर्  
-इषयते꣡ म꣡र्तियाय  
-ऊ꣡र्जो नपाद् अमृ꣡तस्य
+व᳓स्वी ते अग्ने सं᳓दृष्टिर्  
+इषयते᳓ म᳓र्तियाय  
+ऊ᳓र्जो नपाद् अमृ᳓तस्य
 </details>
 
 <details><summary>Vedaweb annotation</summary>

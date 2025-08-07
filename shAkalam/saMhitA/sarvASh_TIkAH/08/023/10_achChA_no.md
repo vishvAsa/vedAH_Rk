@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡छा नो अ꣡ङ्गिरस्तमं  
-यज्ञा꣡सो यन्तु संय꣡तः  
-हो꣡ता यो꣡ अ꣡स्ति विक्षु꣡ आ꣡ यश꣡स्तमः
+अ᳓छा नो अ᳓ङ्गिरस्तमं  
+यज्ञा᳓सो यन्तु संय᳓तः  
+हो᳓ता यो᳓ अ᳓स्ति विक्षु᳓ आ᳓ यश᳓स्तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

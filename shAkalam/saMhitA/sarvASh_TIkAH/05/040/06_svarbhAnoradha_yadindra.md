@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सु꣡वर्भानोर् अ꣡ध य꣡द् इन्द्र माया꣡  
-अवो꣡ दिवो꣡ व꣡र्तमाना अवा꣡हन्  
-गूळ्हं꣡ सू꣡र्यं त꣡मसा꣡पव्रतेन  
-तुरी꣡येण ब्र꣡ह्मणाविन्दद् अ꣡त्रिः
+सु᳓वर्भानोर् अ᳓ध य᳓द् इन्द्र माया᳓  
+अवो᳓ दिवो᳓ व᳓र्तमाना अवा᳓हन्  
+गूळ्हं᳓ सू᳓र्यं त᳓मसा᳓पव्रतेन  
+तुरी᳓येण ब्र᳓ह्मणाविन्दद् अ᳓त्रिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -229,7 +229,7 @@ I.e., by the four stanzas of this **sūkta** from the fifth to the eighth
 
 Then, o Indra, when you smashed down from heaven the circling magic  spells of Svarbhānu,  
 Atri with the fourth formulation found the sun, hidden by darkness  because of (an act) contrary to commandment.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

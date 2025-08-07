@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुव꣡म् इन्द्रासि वृत्रहा꣡  
-वि꣡ अन्त꣡रिक्षम् अतिरः  
-उ꣡द् द्या꣡म् अस्तभ्ना ओ꣡जसा
+तुव᳓म् इन्द्रासि वृत्रहा᳓  
+वि᳓ अन्त᳓रिक्षम् अतिरः  
+उ᳓द् द्या᳓म् अस्तभ्ना ओ᳓जसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

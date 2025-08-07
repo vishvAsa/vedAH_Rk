@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ ते धा꣡रा म꣡धुमतीर् असृग्रन्  
-वा꣡रान् य꣡त् पूतो꣡ अतिए꣡षि अ꣡व्यान्  
-प꣡वमान प꣡वसे धा꣡म गो꣡नां  
-जज्ञानः꣡ सू꣡रियम् अपिन्वो अर्कइः꣡
+प्र᳓ ते धा᳓रा म᳓धुमतीर् असृग्रन्  
+वा᳓रान् य᳓त् पूतो᳓ अतिए᳓षि अ᳓व्यान्  
+प᳓वमान प᳓वसे धा᳓म गो᳓नां  
+जज्ञानः᳓ सू᳓रियम् अपिन्वो अर्कइः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -232,7 +232,7 @@ _________
 
 Your honeyed streams have surged forth, when, purified, you go across  the sheep’s fleece.  
 Self-purifying one, purify yourself as the domain for the cows. On being  born, you swelled the sun with rays [/chants].
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md">

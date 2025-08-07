@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो अर्ष पवि꣡त्र आ꣡  
-म꣡दो यो꣡ देववी꣡तमः  
-इ꣡न्दव् इ꣡न्द्राय पीत꣡ये
+स᳓ नो अर्ष पवि᳓त्र आ᳓  
+म᳓दो यो᳓ देववी᳓तमः  
+इ᳓न्दव् इ᳓न्द्राय पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -172,7 +172,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Rush into our filter, as the exhilarating drink that best pursues the gods, o drop, for Indra to drink.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/10-12.md">

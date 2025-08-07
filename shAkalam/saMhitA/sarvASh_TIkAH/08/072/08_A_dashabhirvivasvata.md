@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ दश꣡भिर् विव꣡स्वत  
-इ꣡न्द्रः को꣡शम् अचुच्यवीत्  
-खे꣡दया त्रिवृ꣡ता दिवः꣡
+आ᳓ दश᳓भिर् विव᳓स्वत  
+इ᳓न्द्रः को᳓शम् अचुच्यवीत्  
+खे᳓दया त्रिवृ᳓ता दिवः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुप्र꣡तीके वयोवृ꣡धा  
-यह्वी꣡ ऋत꣡स्य मात꣡रा  
-दोषा꣡म् उषा꣡सम् ईमहे
+सुप्र᳓तीके वयोवृ᳓धा  
+यह्वी᳓ ऋत᳓स्य मात᳓रा  
+दोषा᳓म् उषा᳓सम् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

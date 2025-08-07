@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ ते र꣡थस्य पूषन्न्  
-अजा꣡ धु꣡रं ववृत्युः  
-वि꣡श्वस्य अर्थि꣡नः स꣡खा  
-सनोजा꣡ अ꣡नपच्युतः
+आ᳓ ते र᳓थस्य पूषन्न्  
+अजा᳓ धु᳓रं ववृत्युः  
+वि᳓श्वस्य अर्थि᳓नः स᳓खा  
+सनोजा᳓ अ᳓नपच्युतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

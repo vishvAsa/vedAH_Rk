@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ र꣡त्नम् म꣡र्तियो व꣡सु  
-वि꣡श्वं तोक꣡म् उत꣡ त्म꣡ना  
-अ꣡छा गछति अ꣡स्तृतः
+स᳓ र᳓त्नम् म᳓र्तियो व᳓सु  
+वि᳓श्वं तोक᳓म् उत᳓ त्म᳓ना  
+अ᳓छा गछति अ᳓स्तृतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

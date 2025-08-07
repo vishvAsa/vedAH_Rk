@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अर्वाचीनो꣡ वसो भव  
-अस्मे꣡ सु꣡ मत्सुवा꣡न्धसः  
-सो꣡मानाम् इन्द्र सोमपाः
+अर्वाचीनो᳓ वसो भव  
+अस्मे᳓ सु᳓ मत्सुवा᳓न्धसः  
+सो᳓मानाम् इन्द्र सोमपाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

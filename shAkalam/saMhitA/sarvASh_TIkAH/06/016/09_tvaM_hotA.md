@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ हो꣡ता म꣡नुर्हितो  
-व꣡ह्निर् आसा꣡ विदु꣡ष्टरः  
-अ꣡ग्ने य꣡क्षि दिवो꣡ वि꣡शः
+तुवं᳓ हो᳓ता म᳓नुर्हितो  
+व᳓ह्निर् आसा᳓ विदु᳓ष्टरः  
+अ᳓ग्ने य᳓क्षि दिवो᳓ वि᳓शः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -162,7 +162,7 @@ _________
 
 You are the Hotar established by Manu, the conveyor (of oblations)  with your mouth, the very wise one.  
 Agni, sacrifice to the clans of heaven.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/07-09.md">

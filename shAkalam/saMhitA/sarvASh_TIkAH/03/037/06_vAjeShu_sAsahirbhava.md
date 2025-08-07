@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वा꣡जेषु सासहि꣡र् भव  
-त्वा꣡म् ईमहे शतक्रतो  
-इ꣡न्द्र वृत्रा꣡य ह꣡न्तवे
+वा᳓जेषु सासहि᳓र् भव  
+त्वा᳓म् ईमहे शतक्रतो  
+इ᳓न्द्र वृत्रा᳓य ह᳓न्तवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

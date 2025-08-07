@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡व् इदा꣡ चिद् अ꣡हानां᳐  
-ता꣡व् अश्वि꣡ना व꣡न्दमान उ꣡प ब्रुवे  
-ता꣡ उ न꣡मोभिर् ईमहे
+ता᳓व् इदा᳓ चिद् अ᳓हानां᳐  
+ता᳓व् अश्वि᳓ना व᳓न्दमान उ᳓प ब्रुवे  
+ता᳓ उ न᳓मोभिर् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रवायू अयं꣡ सुत꣡स्  
-तं꣡ देवे꣡भिः सजो꣡षसा  
-पि꣡बतं दाशु꣡षो गृहे꣡
+इ᳓न्द्रवायू अयं᳓ सुत᳓स्  
+तं᳓ देवे᳓भिः सजो᳓षसा  
+पि᳓बतं दाशु᳓षो गृहे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

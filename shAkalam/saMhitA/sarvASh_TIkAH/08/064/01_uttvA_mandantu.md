@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡त् त्वा मन्दन्तु स्तो꣡माः  
-कृणुष्व꣡ रा꣡धो अद्रिवः  
-अ꣡व ब्रह्मद्वि꣡षो जहि
+उ᳓त् त्वा मन्दन्तु स्तो᳓माः  
+कृणुष्व᳓ रा᳓धो अद्रिवः  
+अ᳓व ब्रह्मद्वि᳓षो जहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

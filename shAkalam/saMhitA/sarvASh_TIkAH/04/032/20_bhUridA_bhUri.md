@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-भू꣡रिदा भू꣡रि देहि नो  
-मा꣡ दभ्र꣡म् भू꣡रि आ꣡ भर  
-भू꣡रि घे꣡द् इन्द्र दित्ससि
+भू᳓रिदा भू᳓रि देहि नो  
+मा᳓ दभ्र᳓म् भू᳓रि आ᳓ भर  
+भू᳓रि घे᳓द् इन्द्र दित्ससि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

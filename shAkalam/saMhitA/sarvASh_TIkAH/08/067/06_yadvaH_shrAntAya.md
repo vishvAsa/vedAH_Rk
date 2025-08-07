@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् वः श्रान्ता꣡य सुन्वते꣡  
-व꣡रूथम् अ꣡स्ति य꣡च् छर्दिः꣡  
-ते꣡ना नो अ꣡धि वोचत
+य᳓द् वः श्रान्ता᳓य सुन्वते᳓  
+व᳓रूथम् अ᳓स्ति य᳓च् छर्दिः᳓  
+ते᳓ना नो अ᳓धि वोचत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

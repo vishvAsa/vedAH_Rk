@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त् त्वा पृछा꣡द् ईजानः꣡  
-कुहया꣡ कुहयाकृते  
-एषो꣡ अ꣡पश्रितो वलो꣡  
-गोमती꣡म् अ꣡व तिष्ठति
+य᳓त् त्वा पृछा᳓द् ईजानः᳓  
+कुहया᳓ कुहयाकृते  
+एषो᳓ अ᳓पश्रितो वलो᳓  
+गोमती᳓म् अ᳓व तिष्ठति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

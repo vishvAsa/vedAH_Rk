@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡व् इत्था꣡ श्लो꣡कम् आ꣡ दिवो꣡  
-ज्यो꣡तिर् ज꣡नाय चक्र꣡थुः  
-आ꣡ न ऊ꣡र्जं वहतम् अश्विना युव꣡म्
+या᳓व् इत्था᳓ श्लो᳓कम् आ᳓ दिवो᳓  
+ज्यो᳓तिर् ज᳓नाय चक्र᳓थुः  
+आ᳓ न ऊ᳓र्जं वहतम् अश्विना युव᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

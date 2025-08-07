@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡म् अ꣡त्यम् इव वाजि꣡नम्  
-मृज꣡न्ति यो꣡षणो द꣡श  
-व꣡ने क्री꣡ळन्तम् अ꣡त्यविम्
+य᳓म् अ᳓त्यम् इव वाजि᳓नम्  
+मृज᳓न्ति यो᳓षणो द᳓श  
+व᳓ने क्री᳓ळन्तम् अ᳓त्यविम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

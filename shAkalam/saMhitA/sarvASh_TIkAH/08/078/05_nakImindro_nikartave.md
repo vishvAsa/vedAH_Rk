@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡कीम् इ꣡न्द्रो नि꣡कर्तवे  
-न꣡ शक्रः꣡ प꣡रिशक्तवे  
-वि꣡श्वं शृणोति प꣡श्यति
+न᳓कीम् इ᳓न्द्रो नि᳓कर्तवे  
+न᳓ शक्रः᳓ प᳓रिशक्तवे  
+वि᳓श्वं शृणोति प᳓श्यति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

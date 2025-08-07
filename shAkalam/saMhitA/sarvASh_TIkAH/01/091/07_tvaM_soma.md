@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सोम महे꣡ भ꣡गं  
-तुवं꣡ यू꣡न ऋतायते꣡  
-द꣡क्षं दधासि जीव꣡से
+तुवं᳓ सोम महे᳓ भ᳓गं  
+तुवं᳓ यू᳓न ऋतायते᳓  
+द᳓क्षं दधासि जीव᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>

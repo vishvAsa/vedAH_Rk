@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-म꣡त्स्वा सुशिप्र मन्दि꣡भि  
-स्तो꣡मेभिर् विश्वचर्षणे  
-स꣡चैषु꣡ स꣡वनेषु आ꣡
+म᳓त्स्वा सुशिप्र मन्दि᳓भि  
+स्तो᳓मेभिर् विश्वचर्षणे  
+स᳓चैषु᳓ स᳓वनेषु आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

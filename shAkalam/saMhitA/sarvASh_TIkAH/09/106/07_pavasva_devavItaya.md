@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व देव꣡वीतय  
-इ꣡न्दो धा꣡राभिर् ओ꣡जसा  
-आ꣡ कल꣡शम् म꣡धुमान् सोम नः सदः
+प᳓वस्व देव᳓वीतय  
+इ᳓न्दो धा᳓राभिर् ओ᳓जसा  
+आ᳓ कल᳓शम् म᳓धुमान् सोम नः सदः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

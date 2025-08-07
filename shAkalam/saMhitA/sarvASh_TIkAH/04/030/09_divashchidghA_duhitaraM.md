@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दिव꣡श् चिद् घा दुहित꣡रम्  
-महा꣡न् महीय꣡माना᳐म्  
-उषा꣡सम् इन्द्र स꣡म् पिणक्
+दिव᳓श् चिद् घा दुहित᳓रम्  
+महा᳓न् महीय᳓माना᳐म्  
+उषा᳓सम् इन्द्र स᳓म् पिणक्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

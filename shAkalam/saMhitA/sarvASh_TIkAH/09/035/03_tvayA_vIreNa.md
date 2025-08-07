@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्व꣡या वीरे꣡ण वीरवो  
-अभि꣡ ष्याम पृतन्यतः꣡  
-क्ष꣡रा णो अभि꣡ वा꣡रियम्
+त्व᳓या वीरे᳓ण वीरवो  
+अभि᳓ ष्याम पृतन्यतः᳓  
+क्ष᳓रा णो अभि᳓ वा᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

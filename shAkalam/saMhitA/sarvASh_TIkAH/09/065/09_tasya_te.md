@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡स्य ते वाजि꣡नो वयं꣡  
-वि꣡श्वा ध꣡नानि जिग्यु꣡षः  
-सखित्व꣡म् आ꣡ वृणीमहे
+त᳓स्य ते वाजि᳓नो वयं᳓  
+वि᳓श्वा ध᳓नानि जिग्यु᳓षः  
+सखित्व᳓म् आ᳓ वृणीमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -163,7 +163,7 @@ _________
 
 It’s with you—that prize-seeker who has won all the stakes—  
 that we choose partnership.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/07-09.md">

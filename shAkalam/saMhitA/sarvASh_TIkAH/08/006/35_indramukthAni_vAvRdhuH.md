@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रम् उक्था꣡नि वावृधुः  
-समुद्र꣡म् इव सि꣡न्धवः  
-अ꣡नुत्तमन्युम् अज꣡रम्
+इ᳓न्द्रम् उक्था᳓नि वावृधुः  
+समुद्र᳓म् इव सि᳓न्धवः  
+अ᳓नुत्तमन्युम् अज᳓रम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡दब्धस्य स्वधा꣡वतो  
-दूत꣡स्य रे꣡भतः स꣡दा  
-अग्नेः꣡ सख्यं꣡ वृणीमहे
+अ᳓दब्धस्य स्वधा᳓वतो  
+दूत᳓स्य रे᳓भतः स᳓दा  
+अग्नेः᳓ सख्यं᳓ वृणीमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

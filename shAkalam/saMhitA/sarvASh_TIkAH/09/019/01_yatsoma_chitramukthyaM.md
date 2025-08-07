@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त् सोम चित्र꣡म् उक्थि꣡यं  
-दिविय꣡म् पा꣡र्थिवं व꣡सु  
-त꣡न् नः पुनान꣡ आ꣡ भर
+य᳓त् सोम चित्र᳓म् उक्थि᳓यं  
+दिविय᳓म् पा᳓र्थिवं व᳓सु  
+त᳓न् नः पुनान᳓ आ᳓ भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>

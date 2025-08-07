@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡स्ति देवा अंहो꣡र् उरु꣡  
-अ꣡स्ति र꣡त्नम् अ꣡नागसः  
-आ꣡दित्या अ꣡द्भुतैनसः
+अ᳓स्ति देवा अंहो᳓र् उरु᳓  
+अ᳓स्ति र᳓त्नम् अ᳓नागसः  
+आ᳓दित्या अ᳓द्भुतैनसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमान ऋतः꣡ कविः꣡  
-सो꣡मः पवि꣡त्रम् आ꣡सदत्  
-द꣡धत् स्तोत्रे꣡ सुवी꣡रियम्
+प᳓वमान ऋतः᳓ कविः᳓  
+सो᳓मः पवि᳓त्रम् आ᳓सदत्  
+द᳓धत् स्तोत्रे᳓ सुवी᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

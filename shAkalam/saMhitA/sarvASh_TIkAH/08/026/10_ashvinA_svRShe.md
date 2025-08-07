@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अश्वि꣡ना सु꣡ ऋषे स्तुहि  
-कुवि꣡त् ते श्र꣡वतो ह꣡वम्  
-ने꣡दीयसः कूळयातः पणीँ꣡र् उत꣡
+अश्वि᳓ना सु᳓ ऋषे स्तुहि  
+कुवि᳓त् ते श्र᳓वतो ह᳓वम्  
+ने᳓दीयसः कूळयातः पणीँ᳓र् उत᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-भा꣡रती प꣡वमानस्य  
-स꣡रस्वती इ꣡ळा मही꣡  
-इमं꣡ नो यज्ञ꣡म् आ꣡ गमन्  
-तिस्रो꣡ देवीः꣡ सुपे꣡शसः
+भा᳓रती प᳓वमानस्य  
+स᳓रस्वती इ᳓ळा मही᳓  
+इमं᳓ नो यज्ञ᳓म् आ᳓ गमन्  
+तिस्रो᳓ देवीः᳓ सुपे᳓शसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

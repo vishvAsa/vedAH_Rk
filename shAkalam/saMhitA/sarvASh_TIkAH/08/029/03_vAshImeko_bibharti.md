@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वा꣡शीम् ए꣡को बिभर्ति ह꣡स्त आयसी꣡म्  
-अन्त꣡र् देवे꣡षु नि꣡ध्रुविः
+वा᳓शीम् ए᳓को बिभर्ति ह᳓स्त आयसी᳓म्  
+अन्त᳓र् देवे᳓षु नि᳓ध्रुविः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

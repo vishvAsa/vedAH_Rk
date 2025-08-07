@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मस्य मित्रावरुणा  
-उ꣡दिता सू꣡र आ꣡ ददे  
-त꣡द् आ꣡तुरस्य भेषज꣡म्
+सो᳓मस्य मित्रावरुणा  
+उ᳓दिता सू᳓र आ᳓ ददे  
+त᳓द् आ᳓तुरस्य भेषज᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

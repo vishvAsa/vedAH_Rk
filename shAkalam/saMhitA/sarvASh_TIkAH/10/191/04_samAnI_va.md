@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-समानी꣡ व आ꣡कूतिः  
-समाना꣡ हृ꣡दयानि वः  
-समान꣡म् अस्तु वो म꣡नो  
-य꣡था वः सु꣡सहा꣡सति
+समानी᳓ व आ᳓कूतिः  
+समाना᳓ हृ᳓दयानि वः  
+समान᳓म् अस्तु वो म᳓नो  
+य᳓था वः सु᳓सहा᳓सति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

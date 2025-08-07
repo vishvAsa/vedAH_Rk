@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ देवं꣡ देव꣡वीतये  
-भ꣡रता वसुवि꣡त्तमम्  
-आ꣡ स्वे꣡ यो꣡नौ नि꣡ षीदतु
+प्र᳓ देवं᳓ देव᳓वीतये  
+भ᳓रता वसुवि᳓त्तमम्  
+आ᳓ स्वे᳓ यो᳓नौ नि᳓ षीदतु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡प त्ये꣡ ताय꣡वो यथा  
-न꣡क्षत्रा यन्ति अक्तु꣡भिः  
-सू꣡राय विश्व꣡चक्षसे
+अ᳓प त्ये᳓ ताय᳓वो यथा  
+न᳓क्षत्रा यन्ति अक्तु᳓भिः  
+सू᳓राय विश्व᳓चक्षसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

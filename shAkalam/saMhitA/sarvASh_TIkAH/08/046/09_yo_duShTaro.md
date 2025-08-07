@@ -15,10 +15,10 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ दुष्ट꣡रो विश्ववार श्रवा꣡यियो  
-वा꣡जेषु अ꣡स्ति तरुता꣡  
-स꣡ नः शविष्ठ स꣡वना꣡ वसो गहि  
-गमे꣡म गो꣡मति व्रजे꣡
+यो᳓ दुष्ट᳓रो विश्ववार श्रवा᳓यियो  
+वा᳓जेषु अ᳓स्ति तरुता᳓  
+स᳓ नः शविष्ठ स᳓वना᳓ वसो गहि  
+गमे᳓म गो᳓मति व्रजे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -233,7 +233,7 @@ Delivererfromm enemies: tarutr. = jetr. (RV 8.1.28)
 
 Which, difficult to surpass, worthy of fame, is the overcomer in the  prize-contests, o you who grant all wishes—  
 you, o strongest good one—come here to our pressings. May we go to a  pen full of cows.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/046/08-09.md">

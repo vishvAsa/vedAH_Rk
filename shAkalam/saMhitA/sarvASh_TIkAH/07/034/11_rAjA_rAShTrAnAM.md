@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-रा꣡जा राष्ट्रा꣡नाम् पे꣡शो नदी꣡नाम्  
-अ꣡नुत्तम् अस्मै क्षत्रं꣡ विश्वा꣡यु
+रा᳓जा राष्ट्रा᳓नाम् पे᳓शो नदी᳓नाम्  
+अ᳓नुत्तम् अस्मै क्षत्रं᳓ विश्वा᳓यु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -131,7 +131,7 @@ _________
 
 King of kingdoms, ornament of the rivers:  
 lifelong lordship has been conceded to him.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/10-11.md">

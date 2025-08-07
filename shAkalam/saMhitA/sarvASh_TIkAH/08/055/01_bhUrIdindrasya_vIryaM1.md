@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-भू꣡री꣡द् इ꣡न्द्रस्य वीरि꣡यं  
-वि꣡ अ꣡ख्यम् अभि꣡ आ꣡यति  
-रा꣡धस् ते दस्यवे वृक
+भू᳓री᳓द् इ᳓न्द्रस्य वीरि᳓यं  
+वि᳓ अ᳓ख्यम् अभि᳓ आ᳓यति  
+रा᳓धस् ते दस्यवे वृक
 </details>
 
 <details><summary>Vedaweb annotation</summary>

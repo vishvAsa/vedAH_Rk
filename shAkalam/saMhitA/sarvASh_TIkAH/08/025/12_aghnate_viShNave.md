@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡घ्नते वि꣡ष्णवे वय꣡म्  
-अ꣡रिष्यन्तः सुदा꣡नवे  
-श्रुधि꣡ स्वयावन् सिन्धो पूर्व꣡चित्तये
+अ᳓घ्नते वि᳓ष्णवे वय᳓म्  
+अ᳓रिष्यन्तः सुदा᳓नवे  
+श्रुधि᳓ स्वयावन् सिन्धो पूर्व᳓चित्तये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

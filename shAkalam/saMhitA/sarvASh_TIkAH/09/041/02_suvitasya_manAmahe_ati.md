@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुवित꣡स्य मनामहे  
-अ꣡ति से꣡तुं दुरावि꣡यम्  
-साह्वां꣡सो द꣡स्युम् अव्रत꣡म्
+सुवित᳓स्य मनामहे  
+अ᳓ति से᳓तुं दुरावि᳓यम्  
+साह्वां᳓सो द᳓स्युम् अव्रत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा घृतस्नव् ईमहे  
-चि꣡त्रभानो सुवर्दृ꣡शम्  
-देवाँ꣡ आ꣡ वीत꣡ये वह
+तं᳓ त्वा घृतस्नव् ईमहे  
+चि᳓त्रभानो सुवर्दृ᳓शम्  
+देवाँ᳓ आ᳓ वीत᳓ये वह
 </details>
 
 <details><summary>Vedaweb annotation</summary>

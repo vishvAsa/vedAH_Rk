@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नी꣡ र꣡क्षांसि सेधति  
-शुक्र꣡शोचिर् अ꣡मर्तियः  
-शु꣡चिः पवाक꣡+ ई꣡डियः
+अग्नी᳓ र᳓क्षांसि सेधति  
+शुक्र᳓शोचिर् अ᳓मर्तियः  
+शु᳓चिः पवाक᳓+ ई᳓डियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

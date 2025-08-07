@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दिव꣡स् पृथिविया꣡ अ꣡धि  
-भ꣡वेन्दो द्युम्नव꣡र्धनः  
-भ꣡वा वा꣡जाना᳐म् प꣡तिः
+दिव᳓स् पृथिविया᳓ अ᳓धि  
+भ᳓वेन्दो द्युम्नव᳓र्धनः  
+भ᳓वा वा᳓जाना᳐म् प᳓तिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

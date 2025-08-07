@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमं꣡ घा वीरो꣡ अमृ꣡तं  
-दूतं꣡ कृण्वीत म꣡र्तियः  
-पवाकं꣡+ कृष्ण꣡वर्तनिं वि꣡हायसम्
+इमं᳓ घा वीरो᳓ अमृ᳓तं  
+दूतं᳓ कृण्वीत म᳓र्तियः  
+पवाकं᳓+ कृष्ण᳓वर्तनिं वि᳓हायसम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -164,7 +164,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 This same immortal should the mortal, the hero, make his messenger— the pure one of extensive power whose course is black.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/023/18-19.md">

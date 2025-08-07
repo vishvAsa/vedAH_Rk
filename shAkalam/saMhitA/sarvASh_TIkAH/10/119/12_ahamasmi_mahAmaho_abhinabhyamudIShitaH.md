@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अह꣡म् अस्मि महामहो꣡  
-अभिनभ्य꣡म् उ꣡दीषितः  
-कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
+अह᳓म् अस्मि महामहो᳓  
+अभिनभ्य᳓म् उ᳓दीषितः  
+कुवि᳓त् सो᳓मस्या᳓पाम् इ᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

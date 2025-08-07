@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡चेतसं तुवा कवे  
-अ꣡ग्ने दूतं꣡ व꣡रेणियम्  
-हव्यवा꣡हं नि꣡ षेदिरे
+प्र᳓चेतसं तुवा कवे  
+अ᳓ग्ने दूतं᳓ व᳓रेणियम्  
+हव्यवा᳓हं नि᳓ षेदिरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

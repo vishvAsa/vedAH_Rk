@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने देवाँ꣡ इहा꣡ वह  
-साद꣡या यो꣡निषु त्रिषु꣡  
-प꣡रि भूष पि꣡ब र्तु꣡ना
+अ᳓ग्ने देवाँ᳓ इहा᳓ वह  
+साद᳓या यो᳓निषु त्रिषु᳓  
+प᳓रि भूष पि᳓ब र्तु᳓ना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शशमान꣡स्य वा नरः  
-स्वे꣡दस्य सत्यशवसः  
-विदा꣡ का꣡मस्य वे꣡नतः
+शशमान᳓स्य वा नरः  
+स्वे᳓दस्य सत्यशवसः  
+विदा᳓ का᳓मस्य वे᳓नतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

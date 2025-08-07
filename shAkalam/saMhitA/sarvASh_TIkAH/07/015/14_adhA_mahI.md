@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धा मही꣡ न आ꣡यसी  
-अ꣡नाधृष्टो नृ꣡पीतये  
-पू᳐꣡र् भवा शत꣡भुजिः
+अ᳓धा मही᳓ न आ᳓यसी  
+अ᳓नाधृष्टो नृ᳓पीतये  
+पू᳐᳓र् भवा शत᳓भुजिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

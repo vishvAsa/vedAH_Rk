@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ वृत्र꣡म् पर्वशो꣡ ययुर्  
-वि꣡ प꣡र्वताँ अराजि꣡नः  
-चक्राणा꣡ वृ꣡ष्णि पउं꣡सियम्
+वि᳓ वृत्र᳓म् पर्वशो᳓ ययुर्  
+वि᳓ प᳓र्वताँ अराजि᳓नः  
+चक्राणा᳓ वृ᳓ष्णि पउं᳓सियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

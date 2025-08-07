@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि वि꣡श्वानि चे꣡तसा  
-मृश꣡से प꣡वसे मती꣡  
-स꣡ नः सोम श्र꣡वो विदः
+प᳓रि वि᳓श्वानि चे᳓तसा  
+मृश᳓से प᳓वसे मती᳓  
+स᳓ नः सोम श्र᳓वो विदः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

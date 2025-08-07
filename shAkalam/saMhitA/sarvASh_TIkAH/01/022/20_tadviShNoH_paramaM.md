@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡द् वि꣡ष्णोः परम꣡म् पदं꣡  
-स꣡दा पश्यन्ति सूर꣡यः  
-दिवी꣡व च꣡क्षुर् आ꣡ततम्
+त᳓द् वि᳓ष्णोः परम᳓म् पदं᳓  
+स᳓दा पश्यन्ति सूर᳓यः  
+दिवी᳓व च᳓क्षुर् आ᳓ततम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

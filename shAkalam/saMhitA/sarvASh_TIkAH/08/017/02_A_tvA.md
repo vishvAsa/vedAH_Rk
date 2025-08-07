@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ त्वा ब्रह्मयु꣡जा ह꣡री  
-व꣡हताम् इन्द्र केशि꣡ना  
-उ꣡प ब्र꣡ह्माणि नः शृणु
+आ᳓ त्वा ब्रह्मयु᳓जा ह᳓री  
+व᳓हताम् इन्द्र केशि᳓ना  
+उ᳓प ब्र᳓ह्माणि नः शृणु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

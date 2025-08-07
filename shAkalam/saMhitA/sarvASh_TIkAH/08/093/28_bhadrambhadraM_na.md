@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-भद्र꣡म्-भद्रं न आ꣡ भर  
-इ꣡षम् ऊ꣡र्जं शतक्रतो  
-य꣡द् इन्द्र मॄळ꣡यासि+ नः
+भद्र᳓म्-भद्रं न आ᳓ भर  
+इ᳓षम् ऊ᳓र्जं शतक्रतो  
+य᳓द् इन्द्र मॄळ᳓यासि+ नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -171,7 +171,7 @@ _________
 
 Bring us every good thing, every refreshment and nourishment, o you  of a hundred resolves,  
 when you will show us mercy, Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/28-30.md">

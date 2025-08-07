@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡ वृत्रहा꣡ पराव꣡ति  
-स꣡ना न꣡वा च चुच्युवे꣡  
-ता꣡ संस꣡त्सु प्र꣡ वोचत
+या᳓ वृत्रहा᳓ पराव᳓ति  
+स᳓ना न᳓वा च चुच्युवे᳓  
+ता᳓ संस᳓त्सु प्र᳓ वोचत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

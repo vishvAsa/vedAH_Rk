@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ नो अग्ने अग्नि꣡भिर्  
-ब्र꣡ह्म यज्ञं꣡ च वर्धय  
-तुवं꣡ नो देव꣡तातये  
-रायो꣡ दा꣡नाय चोदय
+तुवं᳓ नो अग्ने अग्नि᳓भिर्  
+ब्र᳓ह्म यज्ञं᳓ च वर्धय  
+तुवं᳓ नो देव᳓तातये  
+रायो᳓ दा᳓नाय चोदय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

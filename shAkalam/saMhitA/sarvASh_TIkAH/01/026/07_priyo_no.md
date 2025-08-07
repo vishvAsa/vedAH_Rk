@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रियो꣡ नो अस्तु विश्प꣡तिर्  
-हो꣡ता मन्द्रो꣡ व꣡रेणियः  
-प्रियाः꣡ सुअग्न꣡यो वय꣡म्
+प्रियो᳓ नो अस्तु विश्प᳓तिर्  
+हो᳓ता मन्द्रो᳓ व᳓रेणियः  
+प्रियाः᳓ सुअग्न᳓यो वय᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

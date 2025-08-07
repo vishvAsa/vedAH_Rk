@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरोळा꣡शं यो꣡ अस्मै  
-सो꣡मं र꣡रत आशि꣡रम्  
-पा꣡द् इ꣡त् तं꣡ शक्रो꣡ अं꣡हसः
+पुरोळा᳓शं यो᳓ अस्मै  
+सो᳓मं र᳓रत आशि᳓रम्  
+पा᳓द् इ᳓त् तं᳓ शक्रो᳓ अं᳓हसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

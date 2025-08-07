@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् उ त्यं꣡ जात꣡वेदसं  
-देवं꣡ वहन्ति केत꣡वः  
-दृशे꣡ वि꣡श्वाय सू꣡रियम्
+उ᳓द् उ त्यं᳓ जात᳓वेदसं  
+देवं᳓ वहन्ति केत᳓वः  
+दृशे᳓ वि᳓श्वाय सू᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

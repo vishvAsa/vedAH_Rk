@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ना꣡स्मा꣡कम् अस्ति त꣡त् त꣡र  
-आ꣡दित्यासो अतिष्क꣡दे  
-यूय꣡म् अस्म꣡भ्य° मॄळत+
+ना᳓स्मा᳓कम् अस्ति त᳓त् त᳓र  
+आ᳓दित्यासो अतिष्क᳓दे  
+यूय᳓म् अस्म᳓भ्य° मॄळत+
 </details>
 
 <details><summary>Vedaweb annotation</summary>

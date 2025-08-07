@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवां꣡ हि꣡ सत्य꣡म् अद्रिवो  
-विद्म꣡ दाता꣡रम् इषा᳐꣡म्  
-विद्म꣡ दाता꣡रं रयीणा꣡म्
+तुवां᳓ हि᳓ सत्य᳓म् अद्रिवो  
+विद्म᳓ दाता᳓रम् इषा᳐᳓म्  
+विद्म᳓ दाता᳓रं रयीणा᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य अग्नि꣡र् व꣡पुर् गृहे꣡  
-स्तो꣡मं च꣡नो द꣡धीत विश्व꣡वारियः  
-हव्या꣡ वा वे꣡विषद् वि꣡षः
+य᳓स्य अग्नि᳓र् व᳓पुर् गृहे᳓  
+स्तो᳓मं च᳓नो द᳓धीत विश्व᳓वारियः  
+हव्या᳓ वा वे᳓विषद् वि᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -180,7 +180,7 @@ _________
 
 The one in whose house the wondrous form Agni, possessing all  desirable things, should take delight in the praise song  
 or in the oblations, while he [=Agni] keeps laboring at his labors,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/11-12.md">

@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आधी꣡षमाणायाः प꣡तिः  
-शुचा꣡याश् च शुच꣡स्य च  
-वासोवायो꣡ अ꣡वीना᳐म्  
-आ꣡ वा꣡सांसि म꣡र्मृजत्
+आधी᳓षमाणायाः प᳓तिः  
+शुचा᳓याश् च शुच᳓स्य च  
+वासोवायो᳓ अ᳓वीना᳐म्  
+आ᳓ वा᳓सांसि म᳓र्मृजत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ब्रा꣡ह्मणाद् इन्द्र रा꣡धसः  
-पि꣡बा सो꣡मम् ऋतूँ꣡र् अ꣡नु  
-त꣡वे꣡द् धि꣡ सख्य꣡म् अ꣡स्तृतम्
+ब्रा᳓ह्मणाद् इन्द्र रा᳓धसः  
+पि᳓बा सो᳓मम् ऋतूँ᳓र् अ᳓नु  
+त᳓वे᳓द् धि᳓ सख्य᳓म् अ᳓स्तृतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

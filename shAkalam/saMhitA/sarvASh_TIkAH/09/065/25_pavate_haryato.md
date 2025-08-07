@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वते हर्यतो꣡ ह꣡रिर्  
-गृणानो꣡ जम꣡दग्निना  
-हिन्वानो꣡ गो꣡र् अ꣡धि त्वचि꣡
+प᳓वते हर्यतो᳓ ह᳓रिर्  
+गृणानो᳓ जम᳓दग्निना  
+हिन्वानो᳓ गो᳓र् अ᳓धि त्वचि᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

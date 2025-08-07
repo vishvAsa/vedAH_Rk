@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡प्रं हो꣡तारम् अद्रु꣡हं  
-धूम꣡केतुं विभा꣡वसुम्  
-यज्ञा꣡नां केतु꣡म् ईमहे
+वि᳓प्रं हो᳓तारम् अद्रु᳓हं  
+धूम᳓केतुं विभा᳓वसुम्  
+यज्ञा᳓नां केतु᳓म् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -143,7 +143,7 @@ _________
 
 The inspired poet, Hotar without deceit, whose beacon is smoke, with  far-radiant goods,  
 the beacon of the sacrifices do we implore:
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/044/10-11.md">

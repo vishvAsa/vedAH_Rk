@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ वि꣡श्वाभि꣡ विप꣡श्यति  
-भु꣡वना सं꣡ च प꣡श्यति  
-स꣡ नः पर्षद् अ꣡ति द्वि꣡षः
+यो᳓ वि᳓श्वाभि᳓ विप᳓श्यति  
+भु᳓वना सं᳓ च प᳓श्यति  
+स᳓ नः पर्षद् अ᳓ति द्वि᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

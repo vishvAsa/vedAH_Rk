@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ गा꣡वो अभ्य् अ᳡नूषत  
-सह꣡स्रधारम् अ꣡क्षितम्  
-इ꣡न्दुं धर्ता꣡रम् आ꣡ दिवः꣡
+तं᳓ गा᳓वो अभ्य् अ᳡नूषत  
+सह᳓स्रधारम् अ᳓क्षितम्  
+इ᳓न्दुं धर्ता᳓रम् आ᳓ दिवः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

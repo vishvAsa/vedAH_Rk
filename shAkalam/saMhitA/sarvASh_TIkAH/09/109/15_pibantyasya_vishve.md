@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पि꣡बन्ति अस्य वि꣡श्वे देवा꣡सो  
-गो꣡भिः श्रीत꣡स्य नृ꣡भिः सुत꣡स्य
+पि᳓बन्ति अस्य वि᳓श्वे देवा᳓सो  
+गो᳓भिः श्रीत᳓स्य नृ᳓भिः सुत᳓स्य
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -133,7 +133,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 All the gods drink of him, prepared with cows, pressed by men.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/13-15.md">

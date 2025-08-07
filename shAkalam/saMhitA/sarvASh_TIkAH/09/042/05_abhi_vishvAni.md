@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ वि꣡श्वानि वा꣡रिया  
-अभि꣡ देवाँ꣡ ऋतावृ꣡धः  
-सो꣡मः पुनानो꣡ अर्षति
+अभि᳓ वि᳓श्वानि वा᳓रिया  
+अभि᳓ देवाँ᳓ ऋतावृ᳓धः  
+सो᳓मः पुनानो᳓ अर्षति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

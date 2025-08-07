@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ स्य꣡ ते पवत इन्द्र सो꣡मश्  
-चमू꣡षु धी꣡र उशते꣡ त꣡वस्वान्  
-सु꣡वर्चक्षा रथिरः꣡ सत्य꣡शुष्मः  
-का꣡मो न꣡ यो꣡ देवयता꣡म् अ꣡सर्जि
+एष᳓ स्य᳓ ते पवत इन्द्र सो᳓मश्  
+चमू᳓षु धी᳓र उशते᳓ त᳓वस्वान्  
+सु᳓वर्चक्षा रथिरः᳓ सत्य᳓शुष्मः  
+का᳓मो न᳓ यो᳓ देवयता᳓म् अ᳓सर्जि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -240,7 +240,7 @@ _________
 
 This very Soma purifies himself for you, o Indra, in the cups, insightful  and powerful for you who desire it—  
 the charioteer having the eye of the sun, whose impetuosity is real, who  has been sent surging like the desire of those who seek the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ वि꣡चर्षणिर् हितः꣡  
-प꣡वमानः स꣡ चेतति  
-हिन्वान꣡ आ꣡पियम् बृह꣡त्
+अयं᳓ वि᳓चर्षणिर् हितः᳓  
+प᳓वमानः स᳓ चेतति  
+हिन्वान᳓ आ᳓पियम् बृह᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

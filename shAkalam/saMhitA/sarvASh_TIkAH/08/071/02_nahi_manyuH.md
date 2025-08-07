@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नहि꣡ मन्युः꣡ पउ꣡रुषेय  
-ई꣡शे हि꣡ वः प्रियजात  
-तुव꣡म् इ꣡द् असि क्ष꣡पावान्
+नहि᳓ मन्युः᳓ पउ᳓रुषेय  
+ई᳓शे हि᳓ वः प्रियजात  
+तुव᳓म् इ᳓द् असि क्ष᳓पावान्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

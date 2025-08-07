@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡द् ईं हंसो꣡ य꣡था गणं꣡  
-वि꣡श्वस्यावीवशन् मति꣡म्  
-अ꣡त्यो न꣡ गो꣡भिर् अज्यते
+आ᳓द् ईं हंसो᳓ य᳓था गणं᳓  
+वि᳓श्वस्यावीवशन् मति᳓म्  
+अ᳓त्यो न᳓ गो᳓भिर् अज्यते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

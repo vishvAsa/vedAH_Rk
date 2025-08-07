@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो वि꣡श्वेभिर् देवे꣡भिर्  
-ऊ꣡र्जो नपाद् भ꣡द्रशोचे  
-रयिं꣡ देहि विश्व꣡वारम्
+स᳓ नो वि᳓श्वेभिर् देवे᳓भिर्  
+ऊ᳓र्जो नपाद् भ᳓द्रशोचे  
+रयिं᳓ देहि विश्व᳓वारम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

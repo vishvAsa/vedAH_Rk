@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुता꣡सो म꣡धुमत्तमाः  
-सो꣡मा इ꣡न्द्राय मन्दि꣡नः  
-पवि꣡त्रवन्तो अक्षरन्  
-देवा꣡न् गछन्तु वो म꣡दाः
+सुता᳓सो म᳓धुमत्तमाः  
+सो᳓मा इ᳓न्द्राय मन्दि᳓नः  
+पवि᳓त्रवन्तो अक्षरन्  
+देवा᳓न् गछन्तु वो म᳓दाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -169,7 +169,7 @@ _________
 
 The most honeyed pressed soma drinks, exhilarating to Indra,  
 provided with filters, have flowed. Let your exhilarating drinks go to  the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/04-06.md">

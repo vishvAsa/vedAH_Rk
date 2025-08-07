@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एता꣡वतश् चिद् एषां᳐  
-सुम्न꣡म् भिक्षेत म꣡र्तियः  
-अ꣡दाभियस्य म꣡न्मभिः
+एता᳓वतश् चिद् एषां᳐  
+सुम्न᳓म् भिक्षेत म᳓र्तियः  
+अ᳓दाभियस्य म᳓न्मभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

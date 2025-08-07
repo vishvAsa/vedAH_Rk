@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उस्रा꣡ वेद व꣡सूना᳐म्  
-म꣡र्तस्य देवी꣡ अ꣡वसः  
-त꣡रत् स꣡ मन्दी꣡ धावति
+उस्रा᳓ वेद व᳓सूना᳐म्  
+म᳓र्तस्य देवी᳓ अ᳓वसः  
+त᳓रत् स᳓ मन्दी᳓ धावति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,7 +154,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The ruddy goddess knows of the goods, of the help of the mortal. – In crossing, the invigorating one runs.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/058/01-03.md">

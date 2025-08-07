@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धि पुत्रोपमश्रवो  
-न꣡पान् मित्रातिथेर् इहि  
-पितु꣡ष् टे अस्मि वन्दिता꣡
+अ᳓धि पुत्रोपमश्रवो  
+न᳓पान् मित्रातिथेर् इहि  
+पितु᳓ष् टे अस्मि वन्दिता᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

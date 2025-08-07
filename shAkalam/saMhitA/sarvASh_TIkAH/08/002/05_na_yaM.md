@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ यं꣡ शुक्रो꣡ न꣡ दु꣡राशीर्  
-न꣡ तृप्रा꣡ उरुव्य꣡चसम्  
-अपस्पृण्वते꣡ सुहा꣡र्दम्
+न᳓ यं᳓ शुक्रो᳓ न᳓ दु᳓राशीर्  
+न᳓ तृप्रा᳓ उरुव्य᳓चसम्  
+अपस्पृण्वते᳓ सुहा᳓र्दम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

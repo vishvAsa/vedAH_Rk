@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-परशुं꣡ चिद् वि꣡ तपति  
-शिम्बलं꣡ चिद् वि꣡ वृश्चति  
-उखा꣡ चिद् इन्द्र ये꣡षन्ती  
-प्र꣡यस्ता फे꣡नम् अस्यति
+परशुं᳓ चिद् वि᳓ तपति  
+शिम्बलं᳓ चिद् वि᳓ वृश्चति  
+उखा᳓ चिद् इन्द्र ये᳓षन्ती  
+प्र᳓यस्ता फे᳓नम् अस्यति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -204,7 +204,7 @@ The ellipse: as the tree is cut down by the axe, so may the enemy be cut down; a
 (Though) he heats his axe all the way through, it’s just a śimbala flower  he hacks off.  
 The ukhā-pot, (though) boiling, boiling over, just throws off foam,  
 o Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

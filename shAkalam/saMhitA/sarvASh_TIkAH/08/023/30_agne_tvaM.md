@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने तुवं꣡ यशा꣡ असि  
-आ꣡ मित्रा꣡व꣡रुणा वह  
-ऋता꣡वाना सम्रा꣡जा पूत꣡दक्षसा
+अ᳓ग्ने तुवं᳓ यशा᳓ असि  
+आ᳓ मित्रा᳓व᳓रुणा वह  
+ऋता᳓वाना सम्रा᳓जा पूत᳓दक्षसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

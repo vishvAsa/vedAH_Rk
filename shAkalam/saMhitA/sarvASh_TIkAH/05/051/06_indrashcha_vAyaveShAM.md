@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रश् च वायव् एषां᳐  
-सुता꣡नाम् पीति꣡म् अर्हथः  
-ता꣡ञ् जुषेथाम् अरेप꣡साव् अभि꣡ प्र꣡यः
+इ᳓न्द्रश् च वायव् एषां᳐  
+सुता᳓नाम् पीति᳓म् अर्हथः  
+ता᳓ञ् जुषेथाम् अरेप᳓साव् अभि᳓ प्र᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

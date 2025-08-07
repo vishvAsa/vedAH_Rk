@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡था वा꣡तो य꣡था व꣡नं  
-य꣡था समुद्र꣡ ए꣡जति  
-एवा꣡ त्वं꣡ दशमासिय  
-सहा꣡वेहि जरा꣡युणा
+य᳓था वा᳓तो य᳓था व᳓नं  
+य᳓था समुद्र᳓ ए᳓जति  
+एवा᳓ त्वं᳓ दशमासिय  
+सहा᳓वेहि जरा᳓युणा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

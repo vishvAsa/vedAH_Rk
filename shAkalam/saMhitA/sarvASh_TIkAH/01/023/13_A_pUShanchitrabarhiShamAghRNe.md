@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ पूषञ् चित्र꣡बर्हिषम्  
-आ꣡घृणे धरु꣡णं दिवः꣡  
-आ꣡जा नष्टं꣡ य꣡था पशु꣡म्
+आ᳓ पूषञ् चित्र᳓बर्हिषम्  
+आ᳓घृणे धरु᳓णं दिवः᳓  
+आ᳓जा नष्टं᳓ य᳓था पशु᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

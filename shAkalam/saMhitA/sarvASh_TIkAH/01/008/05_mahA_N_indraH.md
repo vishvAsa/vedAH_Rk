@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-महाँ꣡ इ꣡न्द्रः पर꣡श् च नु꣡  
-महित्व꣡म् अस्तु वज्रि꣡णे  
-दियउ꣡र् न꣡ प्रथिना꣡ श꣡वः
+महाँ᳓ इ᳓न्द्रः पर᳓श् च नु᳓  
+महित्व᳓म् अस्तु वज्रि᳓णे  
+दियउ᳓र् न᳓ प्रथिना᳓ श᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

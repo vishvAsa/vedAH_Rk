@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्दुर् इ꣡न्द्राय तोशते नि꣡ तोशते  
-श्रीण꣡न्न् उग्रो꣡ रिण꣡न्न् अपः꣡
+इ᳓न्दुर् इ᳓न्द्राय तोशते नि᳓ तोशते  
+श्रीण᳓न्न् उग्रो᳓ रिण᳓न्न् अपः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

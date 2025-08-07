@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ हो꣡ता से꣡द् उ दूति꣡यं  
-चिकित्वाँ꣡ अन्त꣡र् ईयते  
-विद्वाँ꣡ आरो꣡धनं दिवः꣡
+स᳓ हो᳓ता से᳓द् उ दूति᳓यं  
+चिकित्वाँ᳓ अन्त᳓र् ईयते  
+विद्वाँ᳓ आरो᳓धनं दिवः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

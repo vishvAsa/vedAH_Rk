@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-च꣡क्षुर् नो धेहि च꣡क्षुषे  
-च꣡क्षुर् विख्यइ꣡ तनू꣡भियः  
-सं꣡ चेदं꣡ वि꣡ च पश्येम
+च᳓क्षुर् नो धेहि च᳓क्षुषे  
+च᳓क्षुर् विख्यइ᳓ तनू᳓भियः  
+सं᳓ चेदं᳓ वि᳓ च पश्येम
 </details>
 
 <details><summary>Vedaweb annotation</summary>

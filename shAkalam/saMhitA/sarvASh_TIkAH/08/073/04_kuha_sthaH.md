@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कु꣡ह स्थः कु꣡ह जग्मथुः  
-कु꣡ह श्येने꣡व पेतथुः  
-अ꣡न्ति षद् भूतु वाम् अ꣡वः
+कु᳓ह स्थः कु᳓ह जग्मथुः  
+कु᳓ह श्येने᳓व पेतथुः  
+अ᳓न्ति षद् भूतु वाम् अ᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

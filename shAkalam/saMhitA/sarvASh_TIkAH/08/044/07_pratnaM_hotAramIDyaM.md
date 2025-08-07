@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रत्नं꣡ हो꣡तारम् ई꣡डियं  
-जु꣡ष्टम् अग्निं꣡ कवि꣡क्रतुम्  
-अध्वरा꣡णाम् अभिश्रि꣡यम्
+प्रत्नं᳓ हो᳓तारम् ई᳓डियं  
+जु᳓ष्टम् अग्निं᳓ कवि᳓क्रतुम्  
+अध्वरा᳓णाम् अभिश्रि᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

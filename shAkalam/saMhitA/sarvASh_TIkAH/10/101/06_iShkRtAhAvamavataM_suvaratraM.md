@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡ष्कृताहावम् अवतं꣡  
-सुवरत्रं꣡ सुषेचन꣡म्  
-उद्रि꣡णं सिञ्चे अ꣡क्षितम्
+इ᳓ष्कृताहावम् अवतं᳓  
+सुवरत्रं᳓ सुषेचन᳓म्  
+उद्रि᳓णं सिञ्चे अ᳓क्षितम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

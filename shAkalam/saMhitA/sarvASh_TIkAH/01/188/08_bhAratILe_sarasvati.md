@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-भा꣡रती꣡ळे स꣡रस्वति  
-या꣡ वः स꣡र्वा उपब्रुवे꣡  
-ता꣡ नश् चोदयत श्रिये꣡
+भा᳓रती᳓ळे स᳓रस्वति  
+या᳓ वः स᳓र्वा उपब्रुवे᳓  
+ता᳓ नश् चोदयत श्रिये᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

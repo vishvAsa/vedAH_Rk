@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्ने꣡र् इ꣡न्द्रस्य सो꣡मस्य  
-देवा꣡नाम् ऊति꣡भिर् वय꣡म्  
-अ꣡रिष्यन्तः सचेमहि  
-अभि꣡ ष्याम पृतन्यतः꣡
+अग्ने᳓र् इ᳓न्द्रस्य सो᳓मस्य  
+देवा᳓नाम् ऊति᳓भिर् वय᳓म्  
+अ᳓रिष्यन्तः सचेमहि  
+अभि᳓ ष्याम पृतन्यतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -174,7 +174,7 @@ _________
 
 May we be accompanied by the help of Agni, of Indra, of Soma, of (all)  the gods—  
 not suffering harm. May we surmount those who do battle.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/04-06.md">

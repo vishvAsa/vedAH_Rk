@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ध्वर्यो वीर प्र꣡ महे꣡ सुता꣡नाम्  
-इ꣡न्द्राय भर स꣡ हि꣡ अस्य रा꣡जा  
-यः꣡ पूर्विया꣡भिर् उत꣡ नू꣡तनाभिर्  
-गीर्भि꣡र् वावृधे꣡ गृणता꣡म् ऋ꣡षीणाम्
+अ᳓ध्वर्यो वीर प्र᳓ महे᳓ सुता᳓नाम्  
+इ᳓न्द्राय भर स᳓ हि᳓ अस्य रा᳓जा  
+यः᳓ पूर्विया᳓भिर् उत᳓ नू᳓तनाभिर्  
+गीर्भि᳓र् वावृधे᳓ गृणता᳓म् ऋ᳓षीणाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -241,7 +241,7 @@ _________
 
 O Adhvaryu, hero, give of the pressed (soma drinks) to great Indra, for  he is its king,  
 he who has grown strong by the previous and the present songs of  singing seers.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

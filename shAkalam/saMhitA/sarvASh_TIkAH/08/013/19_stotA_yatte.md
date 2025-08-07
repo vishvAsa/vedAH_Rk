@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्तोता꣡ य꣡त् ते अ꣡नुव्रत  
-उक्था꣡नि ऋतुथा꣡ दधे꣡  
-शु꣡चिः पवाक꣡+ उच्यते सो꣡ अ꣡द्भुतः
+स्तोता᳓ य᳓त् ते अ᳓नुव्रत  
+उक्था᳓नि ऋतुथा᳓ दधे᳓  
+शु᳓चिः पवाक᳓+ उच्यते सो᳓ अ᳓द्भुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "जगती"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡व्ये पुनान꣡म् प꣡रि वा꣡र ऊर्मि꣡णा  
-ह꣡रिं नवन्ते अभि꣡ सप्त꣡ धेन꣡वः  
-अपा꣡म् उप꣡स्थे अ꣡धि आय꣡वः कवि꣡म्  
-ऋत꣡स्य यो꣡ना महिषा꣡ अहेषत
+अ᳓व्ये पुनान᳓म् प᳓रि वा᳓र ऊर्मि᳓णा  
+ह᳓रिं नवन्ते अभि᳓ सप्त᳓ धेन᳓वः  
+अपा᳓म् उप᳓स्थे अ᳓धि आय᳓वः कवि᳓म्  
+ऋत᳓स्य यो᳓ना महिषा᳓ अहेषत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -241,7 +241,7 @@ The seven kine: the seven verses, **gāyatrī** and others, or the seven rivers;
 
 Seven milk-cows roar toward the tawny one being purified on the  sheep’s fleece in a wave all around.  
 Into the lap of the waters, into the womb of truth have the Āyus, the  buffaloes propelled the poet.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/25-27.md">

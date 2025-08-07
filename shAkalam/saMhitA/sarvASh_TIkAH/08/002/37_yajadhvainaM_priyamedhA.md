@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡जध्वैनम् प्रियमेधा  
-इ꣡न्द्रं सत्रा꣡चा म꣡नसा  
-यो꣡ भू꣡त् सो꣡मैः सत्य꣡मद्वा
+य᳓जध्वैनम् प्रियमेधा  
+इ᳓न्द्रं सत्रा᳓चा म᳓नसा  
+यो᳓ भू᳓त् सो᳓मैः सत्य᳓मद्वा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ सोम याहि इ꣡न्द्रस्य कुक्षा꣡  
-नृ꣡भिर् येमानो꣡ अ꣡द्रिभिः सुतः꣡
+प्र᳓ सोम याहि इ᳓न्द्रस्य कुक्षा᳓  
+नृ᳓भिर् येमानो᳓ अ᳓द्रिभिः सुतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

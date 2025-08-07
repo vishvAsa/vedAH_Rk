@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धुक्षत प्रिय꣡म् म꣡धु  
-धा꣡रा सुत꣡स्य वेध꣡सः  
-अपो꣡ वसिष्ट सुक्र꣡तुः
+अ᳓धुक्षत प्रिय᳓म् म᳓धु  
+धा᳓रा सुत᳓स्य वेध᳓सः  
+अपो᳓ वसिष्ट सुक्र᳓तुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

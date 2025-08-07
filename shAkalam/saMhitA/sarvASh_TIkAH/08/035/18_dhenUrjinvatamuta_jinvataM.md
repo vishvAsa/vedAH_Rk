@@ -15,10 +15,10 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-धेनू꣡र् जिन्वतम् उत꣡ जिन्वतं वि꣡शो  
-हतं꣡ र꣡क्षांसि से꣡धतम् अ꣡मीवाः  
-सजो꣡षसा उष꣡सा सू꣡रियेण च  
-सो꣡मं सुन्वतो꣡ अश्विना
+धेनू᳓र् जिन्वतम् उत᳓ जिन्वतं वि᳓शो  
+हतं᳓ र᳓क्षांसि से᳓धतम् अ᳓मीवाः  
+सजो᳓षसा उष᳓सा सू᳓रियेण च  
+सो᳓मं सुन्वतो᳓ अश्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -217,7 +217,7 @@ Be propitious to the people: **viśaḥ** = thevaiśyas
 Quicken our cows and quicken our clans. – Smite demons; keep away  diseases.  
 In concert with Dawn and the Sun, (drink) the soma of the presser,  
 o Aśvins.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/16-18.md">

@@ -15,10 +15,10 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ मामृजे तिरो꣡ अ꣡ण्वानि मेषि꣡यो  
-मीळ्हे꣡ स꣡प्तिर् न꣡ वाजयुः꣡  
-अनुमा꣡द्यः प꣡वमानो मनीषि꣡भिः  
-सो꣡मो वि꣡प्रेभिर् ऋ꣡क्वभिः
+स᳓ मामृजे तिरो᳓ अ᳓ण्वानि मेषि᳓यो  
+मीळ्हे᳓ स᳓प्तिर् न᳓ वाजयुः᳓  
+अनुमा᳓द्यः प᳓वमानो मनीषि᳓भिः  
+सो᳓मो वि᳓प्रेभिर् ऋ᳓क्वभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -199,7 +199,7 @@ _________
 
 He has become groomed across the fine (hairs) of the ewe, like a  prize-seeking team at a competition.  
 Self-purifying Soma is to be cheered on by those of inspired thought,  by the inspired reciters of verses.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/10-11.md">

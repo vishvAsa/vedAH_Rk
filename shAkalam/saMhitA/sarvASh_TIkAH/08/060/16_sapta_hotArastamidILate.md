@@ -15,10 +15,10 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-सप्त꣡ हो꣡तारस् त꣡म् इ꣡द् ईळते तुवा  
-अ꣡ग्ने सुत्य꣡जम् अ꣡ह्रयम्  
-भिन꣡त्सि अ꣡द्रिं त꣡पसा वि꣡ शोचि꣡षा  
-प्रा꣡ग्ने तिष्ठ ज꣡नाँ अ꣡ति
+सप्त᳓ हो᳓तारस् त᳓म् इ᳓द् ईळते तुवा  
+अ᳓ग्ने सुत्य᳓जम् अ᳓ह्रयम्  
+भिन᳓त्सि अ᳓द्रिं त᳓पसा वि᳓ शोचि᳓षा  
+प्रा᳓ग्ने तिष्ठ ज᳓नाँ अ᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -257,7 +257,7 @@ Janām = asmān, proceed to the gods with theoblation, having left us behind
 
 The seven Hotars reverently invoke just you, o Agni, the unabashed one  displaying great abandon.  
 You split apart the rock with your heat and your flame. Agni, stand out  beyond the peoples.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

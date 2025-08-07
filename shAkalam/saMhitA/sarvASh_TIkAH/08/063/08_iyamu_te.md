@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इय꣡म् उ ते अ꣡नुष्टुतिश्  
-चकृषे꣡ ता꣡नि पउं꣡सिया  
-प्रा꣡वश् चक्र꣡स्य वर्तनि꣡म्
+इय᳓म् उ ते अ᳓नुष्टुतिश्  
+चकृषे᳓ ता᳓नि पउं᳓सिया  
+प्रा᳓वश् चक्र᳓स्य वर्तनि᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

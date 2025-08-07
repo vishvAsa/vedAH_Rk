@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡मिद्धो अद्य꣡ राजसि  
-देवो꣡ देवइः꣡ सहस्रजित्  
-दूतो꣡ हव्या꣡ कवि꣡र् वह
+स᳓मिद्धो अद्य᳓ राजसि  
+देवो᳓ देवइः᳓ सहस्रजित्  
+दूतो᳓ हव्या᳓ कवि᳓र् वह
 </details>
 
 <details><summary>Vedaweb annotation</summary>

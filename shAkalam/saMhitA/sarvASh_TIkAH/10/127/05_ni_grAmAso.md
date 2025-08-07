@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡ ग्रा꣡मासो अविक्षत  
-नि꣡ पद्व꣡न्तो नि꣡ पक्षि꣡णः  
-नि꣡ श्येना꣡सश् चिद् अर्थि꣡नः
+नि᳓ ग्रा᳓मासो अविक्षत  
+नि᳓ पद्व᳓न्तो नि᳓ पक्षि᳓णः  
+नि᳓ श्येना᳓सश् चिद् अर्थि᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

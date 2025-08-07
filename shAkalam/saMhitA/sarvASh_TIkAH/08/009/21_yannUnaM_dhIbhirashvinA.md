@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡न् नूनं꣡ धीभि꣡र् अश्विना  
-पितु꣡र् यो꣡ना निषी꣡दथः  
-य꣡द् वा सुम्ने꣡भिर् उक्थिया
+य᳓न् नूनं᳓ धीभि᳓र् अश्विना  
+पितु᳓र् यो᳓ना निषी᳓दथः  
+य᳓द् वा सुम्ने᳓भिर् उक्थिया
 </details>
 
 <details><summary>Vedaweb annotation</summary>

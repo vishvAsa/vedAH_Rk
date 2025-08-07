@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ नो गो꣡मतीर् इ꣡ष  
-उत꣡ साती꣡र् अहर्विदा  
-वि꣡ पथः꣡ सात꣡ये सितम्
+उत᳓ नो गो᳓मतीर् इ᳓ष  
+उत᳓ साती᳓र् अहर्विदा  
+वि᳓ पथः᳓ सात᳓ये सितम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

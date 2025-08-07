@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पदं꣡ देव꣡स्य मीळ्हु꣡षो  
-अ꣡नाधृष्टाभिर् ऊति꣡भिः  
-भद्रा꣡ सू꣡र्य इवोपदृ꣡क्
+पदं᳓ देव᳓स्य मीळ्हु᳓षो  
+अ᳓नाधृष्टाभिर् ऊति᳓भिः  
+भद्रा᳓ सू᳓र्य इवोपदृ᳓क्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

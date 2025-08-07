@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उक्थं꣡ चन꣡ शस्य꣡मानम्  
-अ꣡गोर् अरि꣡र् आ꣡ चिकेत  
-न꣡ गायत्रं꣡ गीय꣡मानम्
+उक्थं᳓ चन᳓ शस्य᳓मानम्  
+अ᳓गोर् अरि᳓र् आ᳓ चिकेत  
+न᳓ गायत्रं᳓ गीय᳓मानम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

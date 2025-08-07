@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ न इ꣡न्द्राय य꣡ज्यवे  
-व꣡रुणाय मरु꣡द्भियः  
-वरिवोवि꣡त् प꣡रि स्रव
+स᳓ न इ᳓न्द्राय य᳓ज्यवे  
+व᳓रुणाय मरु᳓द्भियः  
+वरिवोवि᳓त् प᳓रि स्रव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -159,7 +159,7 @@ _________
 
 Flow around for worshipful Indra, for Varuṇa, for the Maruts,  
 finding a wide realm for us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/10-12.md">

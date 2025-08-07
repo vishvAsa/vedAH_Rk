@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुत꣡ इ꣡न्द्राय वि꣡ष्णवे  
-सो꣡मः कल꣡शे अक्षरत्  
-म꣡धुमाँ अस्तु वाय꣡वे
+सुत᳓ इ᳓न्द्राय वि᳓ष्णवे  
+सो᳓मः कल᳓शे अक्षरत्  
+म᳓धुमाँ अस्तु वाय᳓वे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -146,7 +146,7 @@ _________
 
 Pressed for Indra, for Viṣṇu, soma has streamed into the tub.  
 Let it be honeyed for Vāyu.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/01-03.md">

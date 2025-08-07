@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-युवो꣡र् उ षू꣡ र꣡थं हुवे  
-सध꣡स्तुत्याय सूरि꣡षु  
-अ꣡तूर्तदक्षा वृषणा वृषण्वसू
+युवो᳓र् उ षू᳓ र᳓थं हुवे  
+सध᳓स्तुत्याय सूरि᳓षु  
+अ᳓तूर्तदक्षा वृषणा वृषण्वसू
 </details>
 
 <details><summary>Vedaweb annotation</summary>

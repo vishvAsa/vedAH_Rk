@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मि꣡माति व꣡ह्निर् ए꣡तशः  
-पदं꣡ युजान꣡ ऋ꣡क्वभिः  
-प्र꣡ य꣡त् समुद्र꣡ आ꣡हितः
+मि᳓माति व᳓ह्निर् ए᳓तशः  
+पदं᳓ युजान᳓ ऋ᳓क्वभिः  
+प्र᳓ य᳓त् समुद्र᳓ आ᳓हितः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

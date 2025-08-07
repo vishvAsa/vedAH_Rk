@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ सूनु꣡र् मात꣡रा शु꣡चिर्  
-जातो꣡ जाते꣡ अरोचयत्  
-महा꣡न् मही꣡ ऋतावृ꣡धा
+स᳓ सूनु᳓र् मात᳓रा शु᳓चिर्  
+जातो᳓ जाते᳓ अरोचयत्  
+महा᳓न् मही᳓ ऋतावृ᳓धा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

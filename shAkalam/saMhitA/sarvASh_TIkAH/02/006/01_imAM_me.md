@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमा꣡म् मे अग्ने समि꣡धम्  
-इमा꣡म् उपस꣡दं वनेः  
-इमा꣡ उ षु꣡ श्रुधी गि꣡रः
+इमा᳓म् मे अग्ने समि᳓धम्  
+इमा᳓म् उपस᳓दं वनेः  
+इमा᳓ उ षु᳓ श्रुधी गि᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

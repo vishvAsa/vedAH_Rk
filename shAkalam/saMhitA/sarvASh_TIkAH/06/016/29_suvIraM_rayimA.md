@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुवी꣡रं रयि꣡म् आ꣡ भर  
-जा꣡तवेदो वि꣡चर्षणे  
-जहि꣡ र꣡क्षांसि सुक्रतो
+सुवी᳓रं रयि᳓म् आ᳓ भर  
+जा᳓तवेदो वि᳓चर्षणे  
+जहि᳓ र᳓क्षांसि सुक्रतो
 </details>
 
 <details><summary>Vedaweb annotation</summary>

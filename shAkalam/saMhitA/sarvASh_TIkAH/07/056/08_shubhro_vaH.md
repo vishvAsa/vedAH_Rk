@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-शुभ्रो꣡ वः शु꣡ष्मः क्रु꣡ध्मी म꣡नांसि  
-धु꣡निर् मु꣡निर् ऽव° श꣡र्धस्य धृष्णोः꣡
+शुभ्रो᳓ वः शु᳓ष्मः क्रु᳓ध्मी म᳓नांसि  
+धु᳓निर् मु᳓निर् ऽव° श᳓र्धस्य धृष्णोः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

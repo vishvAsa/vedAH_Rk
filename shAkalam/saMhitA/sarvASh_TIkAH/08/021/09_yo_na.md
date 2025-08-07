@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ न इद꣡म्-इदम् पुरा꣡  
-प्र꣡ व꣡स्य आनिना꣡य त꣡म् उ व स्तुषे  
-स꣡खाय इ꣡न्द्रम् ऊत꣡ये
+यो᳓ न इद᳓म्-इदम् पुरा᳓  
+प्र᳓ व᳓स्य आनिना᳓य त᳓म् उ व स्तुषे  
+स᳓खाय इ᳓न्द्रम् ऊत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

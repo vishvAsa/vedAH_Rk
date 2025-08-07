@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ पवस्व विचर्षण  
-आ꣡ मही꣡ रो꣡दसी पृण  
-उषाः꣡ सू꣡र्यो न꣡ रश्मि꣡भिः
+स᳓ पवस्व विचर्षण  
+आ᳓ मही᳓ रो᳓दसी पृण  
+उषाः᳓ सू᳓र्यो न᳓ रश्मि᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

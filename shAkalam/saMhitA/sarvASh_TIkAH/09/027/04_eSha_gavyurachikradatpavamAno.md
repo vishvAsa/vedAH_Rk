@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ गव्यु꣡र् अचिक्रदत्  
-प꣡वमानो हिरण्ययुः꣡  
-इ꣡न्दुः सत्राजि꣡द् अ꣡स्तृतः
+एष᳓ गव्यु᳓र् अचिक्रदत्  
+प᳓वमानो हिरण्ययुः᳓  
+इ᳓न्दुः सत्राजि᳓द् अ᳓स्तृतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

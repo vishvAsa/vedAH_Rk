@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सं꣡ वत्स꣡ इव मातृ꣡भिर्  
-इ꣡न्दुर् हिन्वानो꣡ अज्यते  
-देवावी꣡र् म꣡दो मति꣡भिः प꣡रिष्कृतः
+सं᳓ वत्स᳓ इव मातृ᳓भिर्  
+इ᳓न्दुर् हिन्वानो᳓ अज्यते  
+देवावी᳓र् म᳓दो मति᳓भिः प᳓रिष्कृतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

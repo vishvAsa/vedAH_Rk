@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उतो꣡ नु꣡ अस्य य꣡न् मह꣡द्  
-अ꣡श्वावद् यो꣡जनम् बृह꣡द्  
-दामा꣡ र꣡थस्य द꣡दृशे
+उतो᳓ नु᳓ अस्य य᳓न् मह᳓द्  
+अ᳓श्वावद् यो᳓जनम् बृह᳓द्  
+दामा᳓ र᳓थस्य द᳓दृशे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अनेहो꣡ मित्र अर्यमन्  
-नृव꣡द् वरुण शं꣡सियम्  
-त्रिव꣡रूथम् मरुतो यन्त नश् छर्दिः꣡
+अनेहो᳓ मित्र अर्यमन्  
+नृव᳓द् वरुण शं᳓सियम्  
+त्रिव᳓रूथम् मरुतो यन्त नश् छर्दिः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

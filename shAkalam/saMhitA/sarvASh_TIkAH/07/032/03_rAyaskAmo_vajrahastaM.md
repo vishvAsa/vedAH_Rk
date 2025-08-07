@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-राय꣡स्कामो व꣡ज्रहस्तं सुद꣡क्षिणम्  
-पुत्रो꣡ न꣡ पित꣡रं हुवे
+राय᳓स्कामो व᳓ज्रहस्तं सुद᳓क्षिणम्  
+पुत्रो᳓ न᳓ पित᳓रं हुवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

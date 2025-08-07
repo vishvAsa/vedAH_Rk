@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुवी꣡रासो वयं꣡ ध꣡ना  
-ज꣡येम सोम मीढुवः  
-पुनानो꣡ वर्ध नो गि꣡रः
+सुवी᳓रासो वयं᳓ ध᳓ना  
+ज᳓येम सोम मीढुवः  
+पुनानो᳓ वर्ध नो गि᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

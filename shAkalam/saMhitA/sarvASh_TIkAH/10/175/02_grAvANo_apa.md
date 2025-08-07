@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ग्रा꣡वाणो अ꣡प दुछु꣡नाम्  
-अ꣡प सेधत दुर्मति꣡म्  
-उस्राः꣡ कर्तन भेषज꣡म्
+ग्रा᳓वाणो अ᳓प दुछु᳓नाम्  
+अ᳓प सेधत दुर्मति᳓म्  
+उस्राः᳓ कर्तन भेषज᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

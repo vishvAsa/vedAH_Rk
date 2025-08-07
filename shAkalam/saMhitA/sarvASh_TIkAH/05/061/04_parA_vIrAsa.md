@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रा वीरास एतन  
-म꣡र्यासो भ꣡द्रजानयः  
-अग्नित꣡पो य꣡था꣡सथ
+प᳓रा वीरास एतन  
+म᳓र्यासो भ᳓द्रजानयः  
+अग्नित᳓पो य᳓था᳓सथ
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यू꣡न ऊ षु꣡ न꣡विष्ठया  
-वृ꣡ष्णः पवाकाँ꣡+ अभि꣡ सोभरे गिरा꣡  
-गा꣡य गा꣡ इव च꣡र्कृषत्
+यू᳓न ऊ षु᳓ न᳓विष्ठया  
+वृ᳓ष्णः पवाकाँ᳓+ अभि᳓ सोभरे गिरा᳓  
+गा᳓य गा᳓ इव च᳓र्कृषत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

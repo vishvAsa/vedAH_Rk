@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ चिद् धि꣡ पू꣡र्व ऋतसा꣡प आ꣡सन्  
-साकं꣡ देवे꣡भिर् अ꣡वदन्न् ऋता꣡नि  
-ते꣡ चिद् अ꣡वासुर् नहि꣡ अ꣡न्तम् आपुः꣡  
-स꣡म् ऊ नु꣡ प꣡त्नीर् वृ꣡षभिर् जगम्युः
+ये᳓ चिद् धि᳓ पू᳓र्व ऋतसा᳓प आ᳓सन्  
+साकं᳓ देवे᳓भिर् अ᳓वदन्न् ऋता᳓नि  
+ते᳓ चिद् अ᳓वासुर् नहि᳓ अ᳓न्तम् आपुः᳓  
+स᳓म् ऊ नु᳓ प᳓त्नीर् वृ᳓षभिर् जगम्युः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -284,7 +284,7 @@ _________
 [Lopāmudrā:] “For even those ancients, who served truth and at one with  the gods spoke truths,  
 even they got out of harness, for they did not reach the end. Wives  
 should now unite with their bullish (husbands).”
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/179/01-02.md">

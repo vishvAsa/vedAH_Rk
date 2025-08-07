@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मो न꣡ वेधा꣡ ऋत꣡प्रजातः  
-पशु꣡र् न꣡ शि꣡श्वा विभु꣡र् दूरे꣡भाः
+सो᳓मो न᳓ वेधा᳓ ऋत᳓प्रजातः  
+पशु᳓र् न᳓ शि᳓श्वा विभु᳓र् दूरे᳓भाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

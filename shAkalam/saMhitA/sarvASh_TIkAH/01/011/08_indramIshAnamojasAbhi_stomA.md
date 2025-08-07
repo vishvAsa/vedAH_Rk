@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रम् ई꣡शानम् ओ꣡जसा  
-अभि꣡ स्तो꣡मा अनूषत  
-सह꣡स्रं य꣡स्य रात꣡य  
-उत꣡ वा स꣡न्ति भू꣡यसीः
+इ᳓न्द्रम् ई᳓शानम् ओ᳓जसा  
+अभि᳓ स्तो᳓मा अनूषत  
+सह᳓स्रं य᳓स्य रात᳓य  
+उत᳓ वा स᳓न्ति भू᳓यसीः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

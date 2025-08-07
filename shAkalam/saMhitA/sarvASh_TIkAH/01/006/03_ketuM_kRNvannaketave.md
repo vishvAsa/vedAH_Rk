@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-केतुं꣡ कृण्व꣡न्न् अकेत꣡वे  
-पे꣡शो मर्या अपेश꣡से  
-स꣡म् उष꣡द्भिर् अजायथाः
+केतुं᳓ कृण्व᳓न्न् अकेत᳓वे  
+पे᳓शो मर्या अपेश᳓से  
+स᳓म् उष᳓द्भिर् अजायथाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

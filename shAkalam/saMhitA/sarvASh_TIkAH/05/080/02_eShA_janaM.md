@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-एषा꣡ ज꣡नं दर्शता꣡ बोध꣡यन्ती  
-सुगा꣡न् पथः꣡ कृण्वती꣡ याति अ꣡ग्रे  
-बृहद्रथा꣡ बृहती꣡ विश्वमिन्वा꣡  
-उषा꣡ ज्यो꣡तिर् यछति अ꣡ग्रे अ꣡ह्नाम्
+एषा᳓ ज᳓नं दर्शता᳓ बोध᳓यन्ती  
+सुगा᳓न् पथः᳓ कृण्वती᳓ याति अ᳓ग्रे  
+बृहद्रथा᳓ बृहती᳓ विश्वमिन्वा᳓  
+उषा᳓ ज्यो᳓तिर् यछति अ᳓ग्रे अ᳓ह्नाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -244,7 +244,7 @@ _________
 
 She, worthy to be seen, awakening the people, making the paths easy to  travel, drives in the vanguard  
 with a lofty chariot, herself lofty, setting all in motion. Dawn extends her  light in the vanguard of the days.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/02-03.md">

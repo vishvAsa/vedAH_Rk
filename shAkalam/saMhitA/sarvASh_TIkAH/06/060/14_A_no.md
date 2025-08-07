@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो ग꣡व्येभिर् अ꣡श्वियैर्  
-वसव्यइ᳡र् उ꣡प गछतम्  
-स꣡खायौ देवउ꣡ सखिया꣡य शम्भु꣡वा  
-इन्द्राग्नी꣡ ता꣡ हवामहे
+आ᳓ नो ग᳓व्येभिर् अ᳓श्वियैर्  
+वसव्यइ᳡र् उ᳓प गछतम्  
+स᳓खायौ देवउ᳓ सखिया᳓य शम्भु᳓वा  
+इन्द्राग्नी᳓ ता᳓ हवामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -205,7 +205,7 @@ _________
 
 Come here close to us with bovine and equine goods.  
 The two partners, the two gods who are luck itself, Indra and Agni, do  we call on for partnership.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/13-15.md">

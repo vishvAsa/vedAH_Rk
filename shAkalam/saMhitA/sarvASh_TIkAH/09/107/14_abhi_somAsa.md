@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ सो꣡मास आय꣡वः  
-प꣡वन्ते म꣡दियम् म꣡दम्  
-समुद्र꣡स्या꣡धि विष्ट꣡पि मनीषि꣡णो  
-मत्सरा꣡सः सुवर्वि꣡दः
+अभि᳓ सो᳓मास आय᳓वः  
+प᳓वन्ते म᳓दियम् म᳓दम्  
+समुद्र᳓स्या᳓धि विष्ट᳓पि मनीषि᳓णो  
+मत्सरा᳓सः सुवर्वि᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -179,7 +179,7 @@ _________
 The soma juices, the Āyus, purify themselves into an exhilarating drink  of exhilaration—  
 they of inspired thought, bringing exhilaration and finding the sun,  
 (purify themselves) upon the surface of the sea.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/14-16.md">

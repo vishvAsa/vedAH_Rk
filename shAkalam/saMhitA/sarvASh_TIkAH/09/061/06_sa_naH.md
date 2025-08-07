@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नः पुनान꣡ आ꣡ भर  
-रयिं꣡ वीर꣡वतीम् इ꣡षम्  
-ई꣡शानः सोम विश्व꣡तः
+स᳓ नः पुनान᳓ आ᳓ भर  
+रयिं᳓ वीर᳓वतीम् इ᳓षम्  
+ई᳓शानः सोम विश्व᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

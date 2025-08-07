@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प क्रमस्व आ꣡ भर  
-धृषता꣡ धृष्णो ज꣡नानाम्  
-अ꣡दाशूष्टरस्य वे꣡दः
+उ᳓प क्रमस्व आ᳓ भर  
+धृषता᳓ धृष्णो ज᳓नानाम्  
+अ᳓दाशूष्टरस्य वे᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

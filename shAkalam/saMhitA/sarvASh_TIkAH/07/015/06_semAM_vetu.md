@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-से꣡मां꣡ वेतु व꣡षट्कृतिम्  
-अग्नि꣡र् जुषत नो गि꣡रः  
-य꣡जिष्ठो हव्यवा꣡हनः
+से᳓मां᳓ वेतु व᳓षट्कृतिम्  
+अग्नि᳓र् जुषत नो गि᳓रः  
+य᳓जिष्ठो हव्यवा᳓हनः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

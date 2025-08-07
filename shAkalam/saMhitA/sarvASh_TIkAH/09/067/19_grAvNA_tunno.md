@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ग्रा꣡व्णा तुन्नो꣡ अभि꣡ष्टुतः  
-पवि꣡त्रं सोम गछसि  
-द꣡धत् स्तोत्रे꣡ सुवी꣡रियम्
+ग्रा᳓व्णा तुन्नो᳓ अभि᳓ष्टुतः  
+पवि᳓त्रं सोम गछसि  
+द᳓धत् स्तोत्रे᳓ सुवी᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -155,7 +155,7 @@ _________
 
 Pounded by the stone, bepraised, you go to the filter, o Soma,  
 establishing for the praiser an abundance of heroes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/19-21.md">

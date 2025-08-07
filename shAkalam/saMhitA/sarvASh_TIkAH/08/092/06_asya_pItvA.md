@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्य꣡ पीत्वा꣡ म꣡दानां᳐  
-देवो꣡ देव꣡स्य ओ꣡जसा  
-वि꣡श्वाभि꣡ भु꣡वना भुवत्
+अस्य᳓ पीत्वा᳓ म᳓दानां᳐  
+देवो᳓ देव᳓स्य ओ᳓जसा  
+वि᳓श्वाभि᳓ भु᳓वना भुवत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

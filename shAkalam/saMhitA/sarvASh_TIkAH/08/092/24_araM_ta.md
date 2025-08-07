@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡रं त इन्द्र कुक्ष꣡ये  
-सो꣡मो भवतु वृत्रहन्  
-अ꣡रं धा꣡मभ्य इ꣡न्दवः
+अ᳓रं त इन्द्र कुक्ष᳓ये  
+सो᳓मो भवतु वृत्रहन्  
+अ᳓रं धा᳓मभ्य इ᳓न्दवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -162,7 +162,7 @@ Dhāmabhyaḥ = for your various bodies or splendours, nānāvidhebhyaḥ śarī
 
 Let the soma be fit for your cheek, o Indra, Vr̥tra-smiter,  
 fit for your “fundament” the drops.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-25.md">

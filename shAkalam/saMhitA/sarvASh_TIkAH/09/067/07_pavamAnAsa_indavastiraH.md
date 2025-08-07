@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानास इ꣡न्दवस्  
-तिरः꣡ पवि꣡त्रम् आश꣡वः  
-इ꣡न्द्रं या꣡मेभिर् आशत
+प᳓वमानास इ᳓न्दवस्  
+तिरः᳓ पवि᳓त्रम् आश᳓वः  
+इ᳓न्द्रं या᳓मेभिर् आशत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -136,7 +136,7 @@ _________
 
 The self-purifying drops, swift across the filter,  
 have reached Indra on their journeys.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">

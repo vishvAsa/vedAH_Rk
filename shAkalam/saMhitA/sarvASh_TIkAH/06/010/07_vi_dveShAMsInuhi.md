@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ द्वे꣡षांसि इनुहि꣡ वर्ध꣡ये꣡ळाम्  
-म꣡देम · शत꣡हिमाः सुवी꣡राः
+वि᳓ द्वे᳓षांसि इनुहि᳓ वर्ध᳓ये᳓ळाम्  
+म᳓देम · शत᳓हिमाः सुवी᳓राः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

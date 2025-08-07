@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् ईरयन्त वायु꣡भिर्  
-वाश्रा꣡सः पृ꣡श्निमातरः  
-धुक्ष꣡न्त पिप्यु꣡षीम् इ꣡षम्
+उ᳓द् ईरयन्त वायु᳓भिर्  
+वाश्रा᳓सः पृ᳓श्निमातरः  
+धुक्ष᳓न्त पिप्यु᳓षीम् इ᳓षम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

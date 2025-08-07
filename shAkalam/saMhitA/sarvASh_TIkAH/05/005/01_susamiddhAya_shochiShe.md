@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सु꣡समिद्धाय शोचि꣡षे  
-घृतं꣡ तीव्रं꣡ जुहोतन  
-अग्न꣡ये जात꣡वेदसे
+सु᳓समिद्धाय शोचि᳓षे  
+घृतं᳓ तीव्रं᳓ जुहोतन  
+अग्न᳓ये जात᳓वेदसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡म या꣡स् ते मयोभु꣡व  
-ऊत꣡यः स꣡न्ति दाशु꣡षे  
-ता꣡भिर् नो अविता꣡ भव
+सो᳓म या᳓स् ते मयोभु᳓व  
+ऊत᳓यः स᳓न्ति दाशु᳓षे  
+ता᳓भिर् नो अविता᳓ भव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

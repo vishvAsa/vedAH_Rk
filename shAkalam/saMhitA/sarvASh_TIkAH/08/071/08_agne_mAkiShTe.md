@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने मा꣡किष् टे देव꣡स्य  
-राति꣡म् अ꣡देवो युयोत  
-तुव꣡म् ईशिषे व꣡सूनाम्
+अ᳓ग्ने मा᳓किष् टे देव᳓स्य  
+राति᳓म् अ᳓देवो युयोत  
+तुव᳓म् ईशिषे व᳓सूनाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡तो देवा꣡ अवन्तु नो  
-य꣡तो वि꣡ष्णुर् विचक्रमे꣡  
-पृथिव्याः꣡ सप्त꣡ धा꣡मभिः
+अ᳓तो देवा᳓ अवन्तु नो  
+य᳓तो वि᳓ष्णुर् विचक्रमे᳓  
+पृथिव्याः᳓ सप्त᳓ धा᳓मभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

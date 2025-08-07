@@ -15,10 +15,10 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-क्षत्रं꣡ जिन्वतम् उत꣡ जिन्वतं नॄ꣡न्  
-हतं꣡ र꣡क्षांसि से꣡धतम् अ꣡मीवाः  
-सजो꣡षसा उष꣡सा सू꣡रियेण च  
-सो꣡मं सुन्वतो꣡ अश्विना
+क्षत्रं᳓ जिन्वतम् उत᳓ जिन्वतं नॄ᳓न्  
+हतं᳓ र᳓क्षांसि से᳓धतम् अ᳓मीवाः  
+सजो᳓षसा उष᳓सा सू᳓रियेण च  
+सो᳓मं सुन्वतो᳓ अश्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -218,7 +218,7 @@ Nṛn = yoddhā, warriors
 
 Quicken our lordly power and quicken our men. – Smite demons; keep  away diseases.  
 In concert with Dawn and the Sun, (drink) the soma of the presser, o  Aśvins.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/16-18.md">

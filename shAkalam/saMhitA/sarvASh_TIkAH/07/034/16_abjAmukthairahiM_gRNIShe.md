@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अब्जा᳐꣡म् उक्थइ꣡र् अ꣡हिं गृणीषे  
-बुध्ने꣡ नदी꣡नां र꣡जस्सु षी꣡दन्
+अब्जा᳐᳓म् उक्थइ᳓र् अ᳓हिं गृणीषे  
+बुध्ने᳓ नदी᳓नां र᳓जस्सु षी᳓दन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

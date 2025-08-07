@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ इ꣡न् नु꣡ एव꣡ समना꣡ समानी꣡र्  
-अ꣡मीतवर्णा उष꣡सश् चरन्ति  
-गू꣡हन्तीर् अ꣡भ्वम् अ꣡सितं रु꣡शद्भिः  
-शुक्रा꣡स् तनू꣡भिः शु꣡चयो रुचानाः꣡
+ता᳓ इ᳓न् नु᳓ एव᳓ समना᳓ समानी᳓र्  
+अ᳓मीतवर्णा उष᳓सश् चरन्ति  
+गू᳓हन्तीर् अ᳓भ्वम् अ᳓सितं रु᳓शद्भिः  
+शुक्रा᳓स् तनू᳓भिः शु᳓चयो रुचानाः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -236,7 +236,7 @@ _________
 
 Just these now—the same ones in the same way—with immutable  colors, the Dawns proceed,  
 hiding the black void with their bright (colors), glistening, gleaming,  shining with their own bodies.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/051/08-09.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धि न इन्द्र एषां᳐  
-वि꣡ष्णो सजाति꣡याना᳐म्  
-इता꣡ म꣡रुतो अ꣡श्विना
+अ᳓धि न इन्द्र एषां᳐  
+वि᳓ष्णो सजाति᳓याना᳐म्  
+इता᳓ म᳓रुतो अ᳓श्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

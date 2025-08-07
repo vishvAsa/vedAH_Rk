@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने सुख꣡तमे र꣡थे  
-देवाँ꣡ ईळित꣡ आ꣡ वह  
-अ꣡सि हो꣡ता म꣡नुर्हितः
+अ᳓ग्ने सुख᳓तमे र᳓थे  
+देवाँ᳓ ईळित᳓ आ᳓ वह  
+अ᳓सि हो᳓ता म᳓नुर्हितः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

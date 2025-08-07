@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ गायत अभि꣡ अर्चाम देवा꣡न्  
-सो꣡मं हिनोत महते꣡ ध꣡नाय  
-स्वादुः꣡ पवाते अ꣡ति वा꣡रम् अ꣡व्यम्  
-आ꣡ सीदाति कल꣡शं देवयु꣡र् नः
+प्र᳓ गायत अभि᳓ अर्चाम देवा᳓न्  
+सो᳓मं हिनोत महते᳓ ध᳓नाय  
+स्वादुः᳓ पवाते अ᳓ति वा᳓रम् अ᳓व्यम्  
+आ᳓ सीदाति कल᳓शं देवयु᳓र् नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -239,7 +239,7 @@ _________
 
 Sing forth: let us recite to the gods. Impel Soma for great stakes.  
 The sweet one will purify himself across the sheep’s fleece. He will sit in  the tub, seeking the gods for us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/04-06.md">

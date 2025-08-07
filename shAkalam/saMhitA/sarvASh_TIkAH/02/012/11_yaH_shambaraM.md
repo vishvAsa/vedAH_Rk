@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यः꣡ श꣡म्बरम् प꣡र्वतेषु क्षिय꣡न्तं  
-चत्वारिंश्यां꣡ शर꣡दि अन्व꣡विन्दत्  
-ओजाय꣡मानं यो꣡ अ꣡हिं जघा꣡न  
-दा꣡नुं श꣡यानं स꣡ जनास इ꣡न्द्रः
+यः᳓ श᳓म्बरम् प᳓र्वतेषु क्षिय᳓न्तं  
+चत्वारिंश्यां᳓ शर᳓दि अन्व᳓विन्दत्  
+ओजाय᳓मानं यो᳓ अ᳓हिं जघा᳓न  
+दा᳓नुं श᳓यानं स᳓ जनास इ᳓न्द्रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -221,7 +221,7 @@ Um = son of Dānu; both are epithets of Śambara
 Who in the fortieth autumn discovered Śambara dwelling in the  mountains,  
 who smashed the serpent displaying its strength, the son of Dānu,  
 (thereby) lying (dead) – he, o peoples, is Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/09-11.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् इ꣡न्द्रेणोत꣡ वायु꣡ना  
-सुत꣡ एति पवि꣡त्र आ꣡  
-सं꣡ सू꣡रियस्य रश्मि꣡भिः
+स᳓म् इ᳓न्द्रेणोत᳓ वायु᳓ना  
+सुत᳓ एति पवि᳓त्र आ᳓  
+सं᳓ सू᳓रियस्य रश्मि᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -164,7 +164,7 @@ _________
 
 Pressed, he goes into the filter, uniting with Indra and Vāyu,  
 uniting with the rays of the sun.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/07-09.md">

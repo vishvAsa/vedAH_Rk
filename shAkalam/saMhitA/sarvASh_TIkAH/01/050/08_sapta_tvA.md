@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सप्त꣡ त्वा हरि꣡तो र꣡थे  
-व꣡हन्ति देव सूरिय  
-शोचि꣡ष्केशं विचक्षण
+सप्त᳓ त्वा हरि᳓तो र᳓थे  
+व᳓हन्ति देव सूरिय  
+शोचि᳓ष्केशं विचक्षण
 </details>
 
 <details><summary>Vedaweb annotation</summary>

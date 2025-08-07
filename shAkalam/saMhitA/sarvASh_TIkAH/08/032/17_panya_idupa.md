@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡न्य इ꣡द् उ꣡प गायत  
-प꣡न्य उक्था꣡नि शंसत  
-ब्र꣡ह्मा कृणोत प꣡न्य इ꣡त्
+प᳓न्य इ᳓द् उ᳓प गायत  
+प᳓न्य उक्था᳓नि शंसत  
+ब्र᳓ह्मा कृणोत प᳓न्य इ᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

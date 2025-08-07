@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡नु प्रत्न꣡स्य ओ꣡कसः  
-प्रिय꣡मेधास एषा᳐म्  
-पू꣡र्वाम् अ꣡नु प्र꣡यतिं वृक्त꣡बर्हिषो  
-हित꣡प्रयस आशत
+अ᳓नु प्रत्न᳓स्य ओ᳓कसः  
+प्रिय᳓मेधास एषा᳐म्  
+पू᳓र्वाम् अ᳓नु प्र᳓यतिं वृक्त᳓बर्हिषो  
+हित᳓प्रयस आशत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -183,7 +183,7 @@ Anu = lakṣīkṛtya; after the manner of former offerings
 
 Following the (custom) of their ancient house, the Priyamedhas  
 with twisted ritual grass, with their pleasing offering set in place, have  equaled their previous presentation.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/069/17-18.md">

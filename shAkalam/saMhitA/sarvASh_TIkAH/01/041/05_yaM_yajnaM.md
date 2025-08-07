@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यं꣡ यज्ञं꣡ न꣡यथा नर  
-आ꣡दित्या ऋजु꣡ना पथा꣡  
-प्र꣡ वः स꣡ धीत꣡ये नशत्
+यं᳓ यज्ञं᳓ न᳓यथा नर  
+आ᳓दित्या ऋजु᳓ना पथा᳓  
+प्र᳓ वः स᳓ धीत᳓ये नशत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

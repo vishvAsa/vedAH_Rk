@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ककुहः꣡ सोमियो꣡ र꣡स  
-इ꣡न्दुर् इ꣡न्द्राय पूर्वियः꣡  
-आयुः꣡ पवत आय꣡वे
+ककुहः᳓ सोमियो᳓ र᳓स  
+इ᳓न्दुर् इ᳓न्द्राय पूर्वियः᳓  
+आयुः᳓ पवत आय᳓वे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -147,7 +147,7 @@ _________
 
 The prominent somian sap, the primordial drop  
 purifies itself for Indra—a lively one for a lively one [/Āyu].
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">

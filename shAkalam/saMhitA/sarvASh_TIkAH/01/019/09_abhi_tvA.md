@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ त्वा पूर्व꣡पीतये  
-सृजा꣡मि सोमिय꣡म् म꣡धु  
-मरु꣡द्भिर् अग्न आ꣡ गहि
+अभि᳓ त्वा पूर्व᳓पीतये  
+सृजा᳓मि सोमिय᳓म् म᳓धु  
+मरु᳓द्भिर् अग्न आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

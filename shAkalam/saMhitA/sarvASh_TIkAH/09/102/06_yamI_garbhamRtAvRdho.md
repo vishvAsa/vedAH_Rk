@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡म् ई ग꣡र्भम् ऋतावृ꣡धो  
-दृशे꣡ चा꣡रुम् अ꣡जीजनन्  
-कवि꣡म् मं꣡हिष्ठम् अध्वरे꣡ पुरुस्पृ꣡हम्
+य᳓म् ई ग᳓र्भम् ऋतावृ᳓धो  
+दृशे᳓ चा᳓रुम् अ᳓जीजनन्  
+कवि᳓म् मं᳓हिष्ठम् अध्वरे᳓ पुरुस्पृ᳓हम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

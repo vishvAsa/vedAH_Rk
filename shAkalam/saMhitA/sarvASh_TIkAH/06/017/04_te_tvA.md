@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ त्वा म꣡दा बृह꣡द् इन्द्र स्वधाव  
-इमे꣡ पीता꣡ उक्षयन्त द्युम꣡न्तम्  
-महा꣡म् अ꣡नूनं तव꣡सं वि꣡भूतिम्  
-मत्सरा꣡सो जर्हृषन्त प्रसा꣡हम्
+ते᳓ त्वा म᳓दा बृह᳓द् इन्द्र स्वधाव  
+इमे᳓ पीता᳓ उक्षयन्त द्युम᳓न्तम्  
+महा᳓म् अ᳓नूनं तव᳓सं वि᳓भूतिम्  
+मत्सरा᳓सो जर्हृषन्त प्रसा᳓हम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -222,7 +222,7 @@ _________
 
 The exhilarating drinks here, when drunk, make you grow loftily  brilliant, o autonomous Indra;  
 the invigorating drinks continually excite (you who are) great, without  deficiency, powerful, distinguished, conquering—
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/03-05ab.md">

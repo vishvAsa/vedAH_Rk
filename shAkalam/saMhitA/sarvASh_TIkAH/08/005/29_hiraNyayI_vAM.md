@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-हिरण्य꣡यी वां᳐ र꣡भिर्  
-ईषा꣡ अ꣡क्षो हिरण्य꣡यः  
-उभा꣡ चक्रा꣡ हिरण्य꣡या
+हिरण्य᳓यी वां᳐ र᳓भिर्  
+ईषा᳓ अ᳓क्षो हिरण्य᳓यः  
+उभा᳓ चक्रा᳓ हिरण्य᳓या
 </details>
 
 <details><summary>Vedaweb annotation</summary>

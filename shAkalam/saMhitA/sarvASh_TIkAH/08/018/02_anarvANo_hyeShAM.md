@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अनर्वा꣡णो हि꣡ एषा᳐म्  
-प꣡न्था आदितिया꣡ना᳐म्  
-अ꣡दब्धाः स꣡न्ति पाय꣡वः सुगेवृ꣡धः
+अनर्वा᳓णो हि᳓ एषा᳐म्  
+प᳓न्था आदितिया᳓ना᳐म्  
+अ᳓दब्धाः स᳓न्ति पाय᳓वः सुगेवृ᳓धः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

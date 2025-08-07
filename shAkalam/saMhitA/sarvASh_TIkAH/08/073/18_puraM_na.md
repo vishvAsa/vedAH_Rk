@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पु꣡रं न꣡ धृष्णव् आ꣡ रुज  
-कृष्ण꣡या बाधितो꣡ विशा꣡  
-अ꣡न्ति षद् भूतु वाम् अ꣡वः
+पु᳓रं न᳓ धृष्णव् आ᳓ रुज  
+कृष्ण᳓या बाधितो᳓ विशा᳓  
+अ᳓न्ति षद् भूतु वाम् अ᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

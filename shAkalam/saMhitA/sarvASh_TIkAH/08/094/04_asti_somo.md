@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡स्ति सो꣡मो अयं꣡ सुतः꣡  
-पि꣡बन्ति अस्य मरु꣡तः  
-उत꣡ स्वरा꣡जो अश्वि꣡ना
+अ᳓स्ति सो᳓मो अयं᳓ सुतः᳓  
+पि᳓बन्ति अस्य मरु᳓तः  
+उत᳓ स्वरा᳓जो अश्वि᳓ना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

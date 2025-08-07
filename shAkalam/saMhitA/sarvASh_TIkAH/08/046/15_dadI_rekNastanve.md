@@ -15,9 +15,9 @@ ChandaH = "ककुम्न्यङ्कुशिरा"
 
 <details><summary>Thomson & Solcum</summary>
 
-ददी꣡ रे꣡कणस् तनु꣡वे ददि꣡र् व꣡सु  
-ददि꣡र् वा꣡जेषु पुरुहूत वाजि꣡नम्  
-नून꣡म् अ꣡थ
+ददी᳓ रे᳓कणस् तनु᳓वे ददि᳓र् व᳓सु  
+ददि᳓र् वा᳓जेषु पुरुहूत वाजि᳓नम्  
+नून᳓म् अ᳓थ
 </details>
 
 <details><summary>Vedaweb annotation</summary>

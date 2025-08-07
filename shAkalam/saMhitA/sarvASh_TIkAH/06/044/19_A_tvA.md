@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ त्वा ह꣡रयो वृ꣡षणो युजाना꣡  
-वृ꣡षरथासो वृ꣡षरश्मयो꣡ ऽत्याः  
-अस्मत्रा꣡ञ्चो वृ꣡षणो वज्रवा꣡हो  
-वृ꣡ष्णे म꣡दाय सुयु꣡जो वहन्तु
+आ᳓ त्वा ह᳓रयो वृ᳓षणो युजाना᳓  
+वृ᳓षरथासो वृ᳓षरश्मयो᳓ ऽत्याः  
+अस्मत्रा᳓ञ्चो वृ᳓षणो वज्रवा᳓हो  
+वृ᳓ष्णे म᳓दाय सुयु᳓जो वहन्तु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -234,7 +234,7 @@ _________
 
 Your fallow bays, the bulls that have been yoked, the steeds with their  bullish chariot and with their bullish reins,  
 the bulls that convey your mace—let them, well-yoked, convey you here  in our direction for bullish exhilaration.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/19-21.md">

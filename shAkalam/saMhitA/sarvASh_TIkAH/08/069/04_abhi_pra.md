@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ प्र꣡ गो꣡पतिं गिरा꣡  
-इ꣡न्द्रम् अर्च य꣡था विदे꣡  
-सूनुं꣡ सत्य꣡स्य स꣡त्पतिम्
+अभि᳓ प्र᳓ गो᳓पतिं गिरा᳓  
+इ᳓न्द्रम् अर्च य᳓था विदे᳓  
+सूनुं᳓ सत्य᳓स्य स᳓त्पतिम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

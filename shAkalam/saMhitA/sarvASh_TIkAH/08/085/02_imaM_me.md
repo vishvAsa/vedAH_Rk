@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इम꣡म् मे स्तो꣡मम् अश्विना  
-इम꣡म् मे शृणुतं ह꣡वम्  
-म꣡ध्वः सो꣡मस्य पीत꣡ये
+इम᳓म् मे स्तो᳓मम् अश्विना  
+इम᳓म् मे शृणुतं ह᳓वम्  
+म᳓ध्वः सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

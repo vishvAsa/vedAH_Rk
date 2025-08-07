@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्नीषोमा स꣡वेदसा  
-स꣡हूती वनतं गि꣡रः  
-सं꣡ देवत्रा꣡ बभूवथुः
+अ᳓ग्नीषोमा स᳓वेदसा  
+स᳓हूती वनतं गि᳓रः  
+सं᳓ देवत्रा᳓ बभूवथुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

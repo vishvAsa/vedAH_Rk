@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-व꣡सुर् अग्नि꣡र् व꣡सुश्रवा  
-अ꣡छा नक्षि द्युम꣡त्तमं रयिं꣡ दाः
+व᳓सुर् अग्नि᳓र् व᳓सुश्रवा  
+अ᳓छा नक्षि द्युम᳓त्तमं रयिं᳓ दाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

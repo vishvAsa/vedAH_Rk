@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ नः पाहि अं꣡हसो  
-जा꣡तवेदो अघायतः꣡  
-र꣡क्षा णो ब्रह्मणस् कवे
+तुवं᳓ नः पाहि अं᳓हसो  
+जा᳓तवेदो अघायतः᳓  
+र᳓क्षा णो ब्रह्मणस् कवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

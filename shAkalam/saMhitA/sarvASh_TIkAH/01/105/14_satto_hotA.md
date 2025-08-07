@@ -15,11 +15,11 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-सत्तो꣡ हो꣡ता मनुष्व꣡द् आ꣡  
-देवाँ꣡ अ꣡छा विदु꣡ष्टरः  
-अग्नि꣡र् हव्या꣡ सुषूदति  
-देवो꣡ देवे꣡षु मे꣡धिरो  
-वित्त꣡म् मे अस्य꣡ रोदसी
+सत्तो᳓ हो᳓ता मनुष्व᳓द् आ᳓  
+देवाँ᳓ अ᳓छा विदु᳓ष्टरः  
+अग्नि᳓र् हव्या᳓ सुषूदति  
+देवो᳓ देवे᳓षु मे᳓धिरो  
+वित्त᳓म् मे अस्य᳓ रोदसी
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -225,7 +225,7 @@ _________
 Seated here as Hotar, as for Manu, (facing?) toward the gods, as the one  who knows better,  
 Agni sweetens the oblations, the wise god among the gods.  
 – Take heed of this (speech) of mine, you two world-halves.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/12-15.md">

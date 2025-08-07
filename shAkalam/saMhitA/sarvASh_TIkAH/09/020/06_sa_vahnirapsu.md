@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ व꣡ह्निर् अप्सु꣡ दुष्ट꣡रो  
-मृज्य꣡मानो ग꣡भस्तियोः  
-सो꣡मश् चमू꣡षु सीदति
+स᳓ व᳓ह्निर् अप्सु᳓ दुष्ट᳓रो  
+मृज्य᳓मानो ग᳓भस्तियोः  
+सो᳓मश् चमू᳓षु सीदति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

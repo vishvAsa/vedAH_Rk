@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानो अ꣡ति स्रि꣡धो  
-अभि꣡ अर्षति सुष्टुति꣡म्  
-सू꣡रो न꣡ विश्व꣡दर्शतः
+प᳓वमानो अ᳓ति स्रि᳓धो  
+अभि᳓ अर्षति सुष्टुति᳓म्  
+सू᳓रो न᳓ विश्व᳓दर्शतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,7 +151,7 @@ _________
 The self-purifying one rushes across failures toward the lovely  
 praise hymn,  
 visible to all like the sun.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/22-24.md">

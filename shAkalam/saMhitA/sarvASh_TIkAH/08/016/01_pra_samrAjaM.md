@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ सम्रा꣡जं चर्षणीना꣡म्  
-इ꣡न्द्रं स्तोता न꣡व्यं गीर्भिः꣡  
-न꣡रं नृषा꣡हम् मं꣡हिष्ठम्
+प्र᳓ सम्रा᳓जं चर्षणीना᳓म्  
+इ᳓न्द्रं स्तोता न᳓व्यं गीर्भिः᳓  
+न᳓रं नृषा᳓हम् मं᳓हिष्ठम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

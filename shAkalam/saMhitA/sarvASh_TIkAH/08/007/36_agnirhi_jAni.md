@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् हि꣡ जा꣡नि पूर्विय꣡श्  
-छ꣡न्दो न꣡ सू꣡रो अर्चि꣡षा  
-ते꣡ भानु꣡भिर् वि꣡ तस्थिरे
+अग्नि᳓र् हि᳓ जा᳓नि पूर्विय᳓श्  
+छ᳓न्दो न᳓ सू᳓रो अर्चि᳓षा  
+ते᳓ भानु᳓भिर् वि᳓ तस्थिरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

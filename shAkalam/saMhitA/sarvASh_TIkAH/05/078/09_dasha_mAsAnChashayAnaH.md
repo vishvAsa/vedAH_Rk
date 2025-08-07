@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-द꣡श मा꣡साञ् छशयानः꣡  
-कुमारो꣡ अ꣡धि मात꣡रि  
-निरइ꣡तु जीवो꣡ अ꣡क्षतो  
-जीवो꣡ जी꣡वन्तिया अ꣡धि
+द᳓श मा᳓साञ् छशयानः᳓  
+कुमारो᳓ अ᳓धि मात᳓रि  
+निरइ᳓तु जीवो᳓ अ᳓क्षतो  
+जीवो᳓ जी᳓वन्तिया अ᳓धि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

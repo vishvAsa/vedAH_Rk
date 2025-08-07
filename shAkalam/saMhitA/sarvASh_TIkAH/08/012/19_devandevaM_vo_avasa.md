@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-देवं꣡-देवं वो अ꣡वस  
-इ꣡न्द्रम्-इन्द्रं गृणीष꣡णि  
-अ꣡धा यज्ञा꣡य तुर्व꣡णे वि꣡ आनशुः
+देवं᳓-देवं वो अ᳓वस  
+इ᳓न्द्रम्-इन्द्रं गृणीष᳓णि  
+अ᳓धा यज्ञा᳓य तुर्व᳓णे वि᳓ आनशुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

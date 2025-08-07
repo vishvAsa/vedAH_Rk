@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र प्र꣡ णो धिता꣡वानं  
-यज्ञं꣡ वि꣡श्वेभिर् देवे꣡भिः  
-तिर꣡ स्तवान विश्पते
+इ᳓न्द्र प्र᳓ णो धिता᳓वानं  
+यज्ञं᳓ वि᳓श्वेभिर् देवे᳓भिः  
+तिर᳓ स्तवान विश्पते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

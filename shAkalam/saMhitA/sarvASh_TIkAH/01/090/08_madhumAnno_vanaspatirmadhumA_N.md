@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-म꣡धुमान् नो व꣡नस्प꣡तिर्  
-म꣡धुमाँ अस्तु सू꣡रियः  
-मा꣡ध्वीर् गा꣡वो भवन्तु नः
+म᳓धुमान् नो व᳓नस्प᳓तिर्  
+म᳓धुमाँ अस्तु सू᳓रियः  
+मा᳓ध्वीर् गा᳓वो भवन्तु नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

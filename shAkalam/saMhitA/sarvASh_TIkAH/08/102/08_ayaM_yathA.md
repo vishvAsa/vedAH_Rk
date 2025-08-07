@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ य꣡था न आभु꣡वत्  
-त्व꣡ष्टा रूपे꣡व त꣡क्षिया  
-अस्य꣡ क्र꣡त्वा य꣡शस्वतः
+अयं᳓ य᳓था न आभु᳓वत्  
+त्व᳓ष्टा रूपे᳓व त᳓क्षिया  
+अस्य᳓ क्र᳓त्वा य᳓शस्वतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

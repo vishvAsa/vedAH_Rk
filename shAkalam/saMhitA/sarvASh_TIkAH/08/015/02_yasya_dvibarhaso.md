@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य द्विब꣡र्हसो बृह꣡त्  
-स꣡हो दाधा꣡र रो꣡दसी  
-गिरीँ꣡र् अ꣡ज्राँ अपः꣡ सु꣡वर् वृषत्वना꣡
+य᳓स्य द्विब᳓र्हसो बृह᳓त्  
+स᳓हो दाधा᳓र रो᳓दसी  
+गिरीँ᳓र् अ᳓ज्राँ अपः᳓ सु᳓वर् वृषत्वना᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

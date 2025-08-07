@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि प्र꣡जातः क्र꣡त्वा बभूथ  
-भु꣡वो देवा꣡नाम् पिता꣡ पुत्रः꣡ स꣡न्
+प᳓रि प्र᳓जातः क्र᳓त्वा बभूथ  
+भु᳓वो देवा᳓नाम् पिता᳓ पुत्रः᳓ स᳓न्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

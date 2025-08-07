@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡सर्जि वाजी꣡ तिरः꣡ पवि꣡त्रम्  
-इ꣡न्द्राय सो꣡मः सह꣡स्रधारः
+अ᳓सर्जि वाजी᳓ तिरः᳓ पवि᳓त्रम्  
+इ᳓न्द्राय सो᳓मः सह᳓स्रधारः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ गन्ता मा꣡ रिषण्यत  
-प्र꣡स्थावानो मा꣡प स्थाता समन्यवः  
-स्थिरा꣡ चिन् नमयिष्णवः
+आ᳓ गन्ता मा᳓ रिषण्यत  
+प्र᳓स्थावानो मा᳓प स्थाता समन्यवः  
+स्थिरा᳓ चिन् नमयिष्णवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

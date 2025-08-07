@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ सु꣡ग्मियाय सु꣡ग्मियम्  
-प्राता꣡ र꣡थेन अश्वि꣡ना वा सक्ष꣡णी  
-हुवे꣡ पिते꣡व सो꣡भरी
+आ᳓ सु᳓ग्मियाय सु᳓ग्मियम्  
+प्राता᳓ र᳓थेन अश्वि᳓ना वा सक्ष᳓णी  
+हुवे᳓ पिते᳓व सो᳓भरी
 </details>
 
 <details><summary>Vedaweb annotation</summary>

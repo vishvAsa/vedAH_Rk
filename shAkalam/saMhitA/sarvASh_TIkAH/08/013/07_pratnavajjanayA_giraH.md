@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रत्नव꣡ज् जनया गि꣡रः  
-शृणुधी꣡ जरितु꣡र् ह꣡वम्  
-म꣡दे-मदे ववक्षिथा सुकृ꣡त्वने
+प्रत्नव᳓ज् जनया गि᳓रः  
+शृणुधी᳓ जरितु᳓र् ह᳓वम्  
+म᳓दे-मदे ववक्षिथा सुकृ᳓त्वने
 </details>
 
 <details><summary>Vedaweb annotation</summary>

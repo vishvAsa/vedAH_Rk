@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ मित्रा꣡व꣡रुणा भ꣡गम्  
-म꣡ध्वः पवन्त ऊर्म꣡यः  
-विदाना꣡ अस्य श꣡क्मभिः
+आ᳓ मित्रा᳓व᳓रुणा भ᳓गम्  
+म᳓ध्वः पवन्त ऊर्म᳓यः  
+विदाना᳓ अस्य श᳓क्मभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

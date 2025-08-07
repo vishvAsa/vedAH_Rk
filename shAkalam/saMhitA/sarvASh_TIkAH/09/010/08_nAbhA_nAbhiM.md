@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ना꣡भा ना꣡भिं न आ꣡ ददे  
-च꣡क्षुश् चित् सू꣡रिये स꣡चा  
-कवे꣡र् अ꣡पत्यम् आ꣡ दुहे
+ना᳓भा ना᳓भिं न आ᳓ ददे  
+च᳓क्षुश् चित् सू᳓रिये स᳓चा  
+कवे᳓र् अ᳓पत्यम् आ᳓ दुहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

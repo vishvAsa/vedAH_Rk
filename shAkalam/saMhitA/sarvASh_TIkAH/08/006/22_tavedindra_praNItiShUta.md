@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡वे꣡द् इन्द्र प्र꣡णीतिषु  
-उत꣡ प्र꣡शस्तिर् अद्रिवः  
-यज्ञो꣡ वितन्तसा꣡यियः
+त᳓वे᳓द् इन्द्र प्र᳓णीतिषु  
+उत᳓ प्र᳓शस्तिर् अद्रिवः  
+यज्ञो᳓ वितन्तसा᳓यियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

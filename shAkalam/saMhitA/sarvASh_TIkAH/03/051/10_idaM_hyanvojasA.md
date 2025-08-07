@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इदं꣡ हि꣡ अ꣡नु ओ꣡जसा  
-सुतं꣡ राधाना᳐म् पते  
-पि꣡बा तु꣡ अस्य꣡ गिर्वणः
+इदं᳓ हि᳓ अ᳓नु ओ᳓जसा  
+सुतं᳓ राधाना᳐म् पते  
+पि᳓बा तु᳓ अस्य᳓ गिर्वणः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

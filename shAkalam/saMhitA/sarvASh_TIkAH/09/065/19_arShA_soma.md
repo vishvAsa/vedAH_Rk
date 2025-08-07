@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡र्षा सोम द्युम꣡त्तमो  
-अभि꣡ द्रो꣡णानि रो꣡रुवत्  
-सी꣡दञ् छ्येनो꣡ न꣡ यो꣡निम् आ꣡
+अ᳓र्षा सोम द्युम᳓त्तमो  
+अभि᳓ द्रो᳓णानि रो᳓रुवत्  
+सी᳓दञ् छ्येनो᳓ न᳓ यो᳓निम् आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -162,7 +162,7 @@ _________
 
 Rush, o Soma, most brilliant, to the wooden vessels, constantly  bellowing,  
 sitting like a falcon in your womb.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/19-21.md">

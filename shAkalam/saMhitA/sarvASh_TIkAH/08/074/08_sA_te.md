@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सा꣡ ते अग्ने शं꣡तमा  
-च꣡निष्ठा भवतु प्रिया꣡  
-त꣡या वर्धस्व सु꣡ष्टुतः
+सा᳓ ते अग्ने शं᳓तमा  
+च᳓निष्ठा भवतु प्रिया᳓  
+त᳓या वर्धस्व सु᳓ष्टुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

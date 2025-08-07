@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ सोम याहि धा꣡रया  
-सुत꣡ इ꣡न्द्राय मत्सरः꣡  
-द꣡धानो अ꣡क्षिति श्र꣡वः
+प्र᳓ सोम याहि धा᳓रया  
+सुत᳓ इ᳓न्द्राय मत्सरः᳓  
+द᳓धानो अ᳓क्षिति श्र᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

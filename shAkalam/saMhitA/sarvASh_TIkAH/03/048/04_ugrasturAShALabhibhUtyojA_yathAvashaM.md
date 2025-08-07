@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उग्र꣡स् तुराषा꣡ळ् अभि꣡भूतिओजा  
-यथावशं꣡ तनु꣡वं चक्र एषः꣡  
-त्व꣡ष्टारम् इ꣡न्द्रो जनु꣡षाभिभू꣡य  
-आमु꣡ष्या सो꣡मम् अपिबच् चमू꣡षु
+उग्र᳓स् तुराषा᳓ळ् अभि᳓भूतिओजा  
+यथावशं᳓ तनु᳓वं चक्र एषः᳓  
+त्व᳓ष्टारम् इ᳓न्द्रो जनु᳓षाभिभू᳓य  
+आमु᳓ष्या सो᳓मम् अपिबच् चमू᳓षु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -223,7 +223,7 @@ Made his form obedient to his will: According to **sūkta** 3.8, rūpam rūpam *
 
 Strong, overcoming the powerful, of overwhelming strength—he made  his body as he wished.  
 Having overwhelmed Tvaṣṭar at his birth, Indra, having stolen the soma,  drank it in the cups.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/048/03-04.md">

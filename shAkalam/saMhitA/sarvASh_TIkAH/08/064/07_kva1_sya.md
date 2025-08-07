@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कु꣡व स्य꣡ वृषभो꣡ यु꣡वा  
-तुविग्री꣡वो अ꣡नानतः  
-ब्रह्मा꣡ क꣡स् तं꣡ सपर्यति
+कु᳓व स्य᳓ वृषभो᳓ यु᳓वा  
+तुविग्री᳓वो अ᳓नानतः  
+ब्रह्मा᳓ क᳓स् तं᳓ सपर्यति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

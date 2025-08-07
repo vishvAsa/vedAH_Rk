@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ वि꣡श्वस्य मेधिर  
-दिव꣡श् च ग्म꣡श् च राजसि  
-स꣡ या꣡मनि प्र꣡ति श्रुधि
+तुवं᳓ वि᳓श्वस्य मेधिर  
+दिव᳓श् च ग्म᳓श् च राजसि  
+स᳓ या᳓मनि प्र᳓ति श्रुधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

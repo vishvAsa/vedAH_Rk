@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ राजसि पुरुष्टुतँ  
-ए꣡को वृत्रा꣡णि जिघ्नसे  
-इ꣡न्द्र जइ꣡त्रा श्रवसि꣡या च य꣡न्तवे
+स᳓ राजसि पुरुष्टुतँ  
+ए᳓को वृत्रा᳓णि जिघ्नसे  
+इ᳓न्द्र जइ᳓त्रा श्रवसि᳓या च य᳓न्तवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

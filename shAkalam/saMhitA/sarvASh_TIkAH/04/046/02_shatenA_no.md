@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शते꣡ना नो अभि꣡ष्टिभिर्  
-नियु꣡त्वाँ इ꣡न्द्रसारथिः  
-वा꣡यो सुत꣡स्य तृम्पतम्
+शते᳓ना नो अभि᳓ष्टिभिर्  
+नियु᳓त्वाँ इ᳓न्द्रसारथिः  
+वा᳓यो सुत᳓स्य तृम्पतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

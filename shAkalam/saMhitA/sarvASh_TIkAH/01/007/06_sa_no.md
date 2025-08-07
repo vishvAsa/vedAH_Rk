@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो वृषन्न् अमुं꣡ चरुं꣡  
-स꣡त्रादावन्न् अ꣡पा वृधि  
-अस्म꣡भ्यम् अ꣡प्रतिष्कुतः
+स᳓ नो वृषन्न् अमुं᳓ चरुं᳓  
+स᳓त्रादावन्न् अ᳓पा वृधि  
+अस्म᳓भ्यम् अ᳓प्रतिष्कुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

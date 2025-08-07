@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-गो꣡मन् न इन्दो अ꣡श्ववत्  
-सुतः꣡ सुदक्ष धनुव  
-शु꣡चिं ते व꣡र्णम् अ꣡धि गो꣡षु दीधरम्
+गो᳓मन् न इन्दो अ᳓श्ववत्  
+सुतः᳓ सुदक्ष धनुव  
+शु᳓चिं ते व᳓र्णम् अ᳓धि गो᳓षु दीधरम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

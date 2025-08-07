@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-हस्कारा꣡द् विद्यु꣡तस् प꣡रि  
-अ꣡तो जाता꣡ अवन्तु नः  
-मरु꣡तो मॄळयन्तु+ नः
+हस्कारा᳓द् विद्यु᳓तस् प᳓रि  
+अ᳓तो जाता᳓ अवन्तु नः  
+मरु᳓तो मॄळयन्तु+ नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

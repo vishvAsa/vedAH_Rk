@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡द् ईं त्रित꣡स्य यो꣡षणो  
-ह꣡रिं हिन्वन्ति अ꣡द्रिभिः  
-इ꣡न्दुम् इ꣡न्द्राय पीत꣡ये
+आ᳓द् ईं त्रित᳓स्य यो᳓षणो  
+ह᳓रिं हिन्वन्ति अ᳓द्रिभिः  
+इ᳓न्दुम् इ᳓न्द्राय पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

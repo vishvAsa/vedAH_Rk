@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् उ त्वा नून꣡म् ईमहे  
-न꣡व्यं दंसिष्ठ स꣡न्यसे  
-स꣡ त्वं꣡ नो वि꣡श्वा अभि꣡मातीः सक्ष꣡णिः
+त᳓म् उ त्वा नून᳓म् ईमहे  
+न᳓व्यं दंसिष्ठ स᳓न्यसे  
+स᳓ त्वं᳓ नो वि᳓श्वा अभि᳓मातीः सक्ष᳓णिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

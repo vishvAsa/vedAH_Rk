@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-युवा꣡दत्तस्य धिष्णिया  
-युवा꣡नीतस्य सूरि꣡भिः  
-अ꣡हर्-अहर् वृषण म꣡ह्य° शिक्षतम्
+युवा᳓दत्तस्य धिष्णिया  
+युवा᳓नीतस्य सूरि᳓भिः  
+अ᳓हर्-अहर् वृषण म᳓ह्य° शिक्षतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

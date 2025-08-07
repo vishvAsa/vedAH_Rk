@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने धृत꣡व्रताय ते  
-समुद्रा꣡येव सि꣡न्धवः  
-गि꣡रो वाश्रा꣡स ईरते
+अ᳓ग्ने धृत᳓व्रताय ते  
+समुद्रा᳓येव सि᳓न्धवः  
+गि᳓रो वाश्रा᳓स ईरते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

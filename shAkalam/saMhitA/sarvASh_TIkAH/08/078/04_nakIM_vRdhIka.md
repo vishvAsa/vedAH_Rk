@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡कीं वृधीक꣡ इन्द्र ते  
-न꣡ सुषा꣡ न꣡ सुदा꣡ उत꣡  
-ना꣡न्य꣡स् त्व꣡च् छूर वाघ꣡तः
+न᳓कीं वृधीक᳓ इन्द्र ते  
+न᳓ सुषा᳓ न᳓ सुदा᳓ उत᳓  
+ना᳓न्य᳓स् त्व᳓च् छूर वाघ᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

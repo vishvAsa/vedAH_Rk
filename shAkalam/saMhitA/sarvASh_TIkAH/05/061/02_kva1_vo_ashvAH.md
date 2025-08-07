@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क्व᳡ वो꣡ ऽश्वाः क्व᳡ अभी꣡शवः  
-कथं꣡ शेक कथा꣡ यय  
-पृष्ठे꣡ स꣡दो नसो꣡र् य꣡मः
+क्व᳡ वो᳓ ऽश्वाः क्व᳡ अभी᳓शवः  
+कथं᳓ शेक कथा᳓ यय  
+पृष्ठे᳓ स᳓दो नसो᳓र् य᳓मः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

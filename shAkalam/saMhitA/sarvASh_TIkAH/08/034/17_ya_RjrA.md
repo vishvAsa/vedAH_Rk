@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ ऋज्रा꣡ वा꣡तरंहसो  
-अरुषा꣡सो रघुष्य꣡दः  
-भ्रा꣡जन्ते सू꣡रिया इव
+य᳓ ऋज्रा᳓ वा᳓तरंहसो  
+अरुषा᳓सो रघुष्य᳓दः  
+भ्रा᳓जन्ते सू᳓रिया इव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

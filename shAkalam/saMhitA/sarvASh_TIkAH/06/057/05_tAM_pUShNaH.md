@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡म् पूष्णः꣡ सुमतिं꣡ वयं꣡  
-वृक्ष꣡स्य प्र꣡ वया꣡म् इव  
-इ꣡न्द्रस्य चा꣡ रभामहे
+ता᳓म् पूष्णः᳓ सुमतिं᳓ वयं᳓  
+वृक्ष᳓स्य प्र᳓ वया᳓म् इव  
+इ᳓न्द्रस्य चा᳓ रभामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

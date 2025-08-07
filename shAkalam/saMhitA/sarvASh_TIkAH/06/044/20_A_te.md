@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ ते वृषन् वृ꣡षणो द्रो꣡णम् अस्थुर्  
-घृतप्रु꣡षो न꣡ ऊर्म꣡यो म꣡दन्तः  
-इ꣡न्द्र प्र꣡ तु꣡भ्यं वृ꣡षभिः सुता꣡नां  
-वृ꣡ष्णे भरन्ति वृषभा꣡य सो꣡मम्
+आ᳓ ते वृषन् वृ᳓षणो द्रो᳓णम् अस्थुर्  
+घृतप्रु᳓षो न᳓ ऊर्म᳓यो म᳓दन्तः  
+इ᳓न्द्र प्र᳓ तु᳓भ्यं वृ᳓षभिः सुता᳓नां  
+वृ᳓ष्णे भरन्ति वृषभा᳓य सो᳓मम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -246,7 +246,7 @@ _________
 
 The bulls have mounted the wooden cup for you, o bull, like waves  spraying ghee as they bring exhilaration.  
 Indra, to you, the bullish bull, they present soma from out of the  (drops) pressed by bulls.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

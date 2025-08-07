@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ पवस्व मदिन्तम  
-गो꣡भिर् अञ्जानो꣡ अक्तु꣡भिः  
-इ꣡न्दव् इ꣡न्द्राय पीत꣡ये
+स᳓ पवस्व मदिन्तम  
+गो᳓भिर् अञ्जानो᳓ अक्तु᳓भिः  
+इ᳓न्दव् इ᳓न्द्राय पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

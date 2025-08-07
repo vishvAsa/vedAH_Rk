@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡दो दुवा꣡ चक्रते° उपमा꣡ दिवि꣡  
-सम्रा꣡जा सर्पि꣡रासुती
+स᳓दो दुवा᳓ चक्रते° उपमा᳓ दिवि᳓  
+सम्रा᳓जा सर्पि᳓रासुती
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एते꣡ धा꣡मानि आ꣡रिया  
-शुक्रा꣡ ऋत꣡स्य धा꣡रया  
-वा꣡जं गो꣡मन्तम् अक्षरन्
+एते᳓ धा᳓मानि आ᳓रिया  
+शुक्रा᳓ ऋत᳓स्य धा᳓रया  
+वा᳓जं गो᳓मन्तम् अक्षरन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

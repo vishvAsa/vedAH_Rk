@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡म रारन्धि꣡ नो हृदि꣡  
-गा꣡वो न꣡ य꣡वसेषु आ꣡  
-म꣡र्य इव स्व꣡ ओकि꣡ये
+सो᳓म रारन्धि᳓ नो हृदि᳓  
+गा᳓वो न᳓ य᳓वसेषु आ᳓  
+म᳓र्य इव स्व᳓ ओकि᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

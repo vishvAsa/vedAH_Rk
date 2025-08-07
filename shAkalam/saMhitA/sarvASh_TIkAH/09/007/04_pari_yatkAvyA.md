@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि य꣡त् का꣡विया कवि꣡र्  
-नृम्णा꣡ व꣡सानो अ꣡र्षति  
-सु꣡वर् वाजी꣡ सिषासति
+प᳓रि य᳓त् का᳓विया कवि᳓र्  
+नृम्णा᳓ व᳓सानो अ᳓र्षति  
+सु᳓वर् वाजी᳓ सिषासति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

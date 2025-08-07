@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ त꣡म् इन्द्र नशीमहि  
-रयिं꣡ गो꣡मन्तम् अश्वि꣡नम्  
-प्र꣡ ब्र꣡ह्म पूर्व꣡चित्तये
+प्र᳓ त᳓म् इन्द्र नशीमहि  
+रयिं᳓ गो᳓मन्तम् अश्वि᳓नम्  
+प्र᳓ ब्र᳓ह्म पूर्व᳓चित्तये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

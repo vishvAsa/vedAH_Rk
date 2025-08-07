@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् उ प्रिया꣡ अनूषत  
-गा꣡वो म꣡दाय घृ꣡ष्वयः  
-सो꣡मासः कृण्वते पथः꣡  
-प꣡वमानास इ꣡न्दवः
+स᳓म् उ प्रिया᳓ अनूषत  
+गा᳓वो म᳓दाय घृ᳓ष्वयः  
+सो᳓मासः कृण्वते पथः᳓  
+प᳓वमानास इ᳓न्दवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -189,7 +189,7 @@ Cows: or, voice of praise
 
 Together the dear ones have cried out to him, the cows avid for  exhilaration.  
 The soma drinks make their own paths, the self-purifying drops.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/07-09.md">

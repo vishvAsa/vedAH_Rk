@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ ते स्तो꣡मो अग्रियो꣡  
-हृदिस्पृ꣡ग् अस्तु शं꣡तमः  
-अ꣡था सो꣡मं सुत꣡म् पिब
+अयं᳓ ते स्तो᳓मो अग्रियो᳓  
+हृदिस्पृ᳓ग् अस्तु शं᳓तमः  
+अ᳓था सो᳓मं सुत᳓म् पिब
 </details>
 
 <details><summary>Vedaweb annotation</summary>

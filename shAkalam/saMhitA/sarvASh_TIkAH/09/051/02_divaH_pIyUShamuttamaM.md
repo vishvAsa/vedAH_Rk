@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दिवः꣡ पीयू꣡षम् उत्तमं꣡  
-सो꣡मम् इ꣡न्द्राय वज्रि꣡णे  
-सुनो꣡ता म꣡धुमत्तमम्
+दिवः᳓ पीयू᳓षम् उत्तमं᳓  
+सो᳓मम् इ᳓न्द्राय वज्रि᳓णे  
+सुनो᳓ता म᳓धुमत्तमम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

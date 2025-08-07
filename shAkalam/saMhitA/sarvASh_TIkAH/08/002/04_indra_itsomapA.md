@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र इ꣡त् सोमपा꣡ ए꣡क  
-इ꣡न्द्रः सुतपा꣡ विश्वा꣡युः  
-अन्त꣡र् देवा꣡न् म꣡र्तियांश् च
+इ᳓न्द्र इ᳓त् सोमपा᳓ ए᳓क  
+इ᳓न्द्रः सुतपा᳓ विश्वा᳓युः  
+अन्त᳓र् देवा᳓न् म᳓र्तियांश् च
 </details>
 
 <details><summary>Vedaweb annotation</summary>

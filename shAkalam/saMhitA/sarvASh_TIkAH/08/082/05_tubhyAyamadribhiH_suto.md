@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तु꣡भ्याय꣡म् अ꣡द्रिभिः सुतो꣡  
-गो꣡भिः श्रीतो꣡ म꣡दाय क꣡म्  
-प्र꣡ सो꣡म इन्द्र हूयते
+तु᳓भ्याय᳓म् अ᳓द्रिभिः सुतो᳓  
+गो᳓भिः श्रीतो᳓ म᳓दाय क᳓म्  
+प्र᳓ सो᳓म इन्द्र हूयते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -174,7 +174,7 @@ _________
 
 For you this one here has been pressed by stones, prepared with cows  [=milk], for exhilaration.  
 The soma is being poured forth, Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/082/04-05.md">

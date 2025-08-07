@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-म꣡नो नु꣡ आ꣡ हुवामहे  
-नाराशंसे꣡न सो꣡मेन  
-पितॄणां᳐꣡ च म꣡न्मभिः
+म᳓नो नु᳓ आ᳓ हुवामहे  
+नाराशंसे᳓न सो᳓मेन  
+पितॄणां᳐᳓ च म᳓न्मभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

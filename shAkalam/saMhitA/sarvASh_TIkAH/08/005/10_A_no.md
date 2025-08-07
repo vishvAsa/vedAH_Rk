@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो गो꣡मन्तम् अश्विना  
-सुवी꣡रं सुर꣡थं रयि꣡म्  
-वोळ्ह꣡म् अ꣡श्वावतीर् इ꣡षः
+आ᳓ नो गो᳓मन्तम् अश्विना  
+सुवी᳓रं सुर᳓थं रयि᳓म्  
+वोळ्ह᳓म् अ᳓श्वावतीर् इ᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

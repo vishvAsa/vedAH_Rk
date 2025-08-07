@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सत्तो꣡ हो꣡ता न ऋत्वि꣡यस्  
-तिस्तिरे꣡ बर्हि꣡र् आनुष꣡क्  
-अ꣡युज्रन् प्रात꣡र् अ꣡द्रयः
+सत्तो᳓ हो᳓ता न ऋत्वि᳓यस्  
+तिस्तिरे᳓ बर्हि᳓र् आनुष᳓क्  
+अ᳓युज्रन् प्रात᳓र् अ᳓द्रयः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

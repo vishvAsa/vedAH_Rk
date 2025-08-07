@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अय꣡म् अग्ने तुवे꣡ अ꣡पि  
-जरिता꣡ भूतु सन्तिय  
-त꣡स्मै पवाक+ मॄळय+
+अय᳓म् अग्ने तुवे᳓ अ᳓पि  
+जरिता᳓ भूतु सन्तिय  
+त᳓स्मै पवाक+ मॄळय+
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यूय꣡म् म꣡र्तं विपन्यवः  
-प्रणेता꣡र इत्था꣡ धिया꣡  
-श्रो꣡तारो या꣡महूतिषु
+यूय᳓म् म᳓र्तं विपन्यवः  
+प्रणेता᳓र इत्था᳓ धिया᳓  
+श्रो᳓तारो या᳓महूतिषु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

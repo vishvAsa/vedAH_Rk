@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ त्वा꣡म् अदिते महि  
-अहं꣡ देवि उ꣡प ब्रुवे  
-सुमॄळीका꣡म्+ अभि꣡ष्टये
+उत᳓ त्वा᳓म् अदिते महि  
+अहं᳓ देवि उ᳓प ब्रुवे  
+सुमॄळीका᳓म्+ अभि᳓ष्टये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

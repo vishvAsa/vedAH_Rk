@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पू꣡र्विय होतर् अस्य꣡ नो  
-म꣡न्दस्व सखिय꣡स्य च  
-इमा꣡ उ षु꣡ श्रुधी गि꣡रः
+पू᳓र्विय होतर् अस्य᳓ नो  
+म᳓न्दस्व सखिय᳓स्य च  
+इमा᳓ उ षु᳓ श्रुधी गि᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

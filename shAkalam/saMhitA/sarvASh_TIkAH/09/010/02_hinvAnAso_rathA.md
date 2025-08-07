@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-हिन्वाना꣡सो र꣡था इव  
-दधन्विरे꣡ ग꣡भस्तियोः  
-भ꣡रासः कारि꣡णाम् इव
+हिन्वाना᳓सो र᳓था इव  
+दधन्विरे᳓ ग᳓भस्तियोः  
+भ᳓रासः कारि᳓णाम् इव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शा꣡चिगो शा꣡चिपूजन  
-अयं꣡ र꣡णाय ते सुतः꣡  
-आ꣡खण्डल प्र꣡ हूयसे
+शा᳓चिगो शा᳓चिपूजन  
+अयं᳓ र᳓णाय ते सुतः᳓  
+आ᳓खण्डल प्र᳓ हूयसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -152,7 +152,7 @@ Radiance: śācigo: śaktā gāvo yasya, he whose cattle are strong;
 
 Śācigu, Śācipūjana, this has been pressed for your joy.  
 Ākhaṇḍala, you are called forth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/017/12-13.md">

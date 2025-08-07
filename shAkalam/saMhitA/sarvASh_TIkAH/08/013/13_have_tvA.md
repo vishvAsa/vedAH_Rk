@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ह꣡वे त्वा सू꣡र उ꣡दिते  
-ह꣡वे मध्यं꣡दिने दिवः꣡  
-जुषाण꣡ इन्द्र स꣡प्तिभिर् न आ꣡ गहि
+ह᳓वे त्वा सू᳓र उ᳓दिते  
+ह᳓वे मध्यं᳓दिने दिवः᳓  
+जुषाण᳓ इन्द्र स᳓प्तिभिर् न आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

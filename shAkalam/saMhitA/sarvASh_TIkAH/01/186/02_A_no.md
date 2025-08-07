@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो वि꣡श्व आ꣡स्क्रा गमन्तु देवा꣡  
-मित्रो꣡ अर्यमा꣡ व꣡रुणः सजो꣡षाः  
-भु꣡वन् य꣡था नो वि꣡श्वे वृधा꣡सः  
-क꣡रन् सुषा꣡हा विथुरं꣡ न꣡ श꣡वः
+आ᳓ नो वि᳓श्व आ᳓स्क्रा गमन्तु देवा᳓  
+मित्रो᳓ अर्यमा᳓ व᳓रुणः सजो᳓षाः  
+भु᳓वन् य᳓था नो वि᳓श्वे वृधा᳓सः  
+क᳓रन् सुषा᳓हा विथुरं᳓ न᳓ श᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -260,7 +260,7 @@ _________
 
 Let all the gods together come here to us: Mitra, Aryaman, and Varuṇa  in concert,  
 so that they all will become our strengtheners and will make (all things)  easy to overcome, like faltering power.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/186/01-03.md">

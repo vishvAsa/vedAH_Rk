@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ सोम म꣡धुमत्तमो  
-राये꣡ अर्ष पवि꣡त्र आ꣡  
-म꣡दो यो꣡ देववी꣡तमः
+प्र᳓ सोम म᳓धुमत्तमो  
+राये᳓ अर्ष पवि᳓त्र आ᳓  
+म᳓दो यो᳓ देववी᳓तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -159,7 +159,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 O Soma, as the most honeyed, rush forth into the filter for wealth, as the exhilarating drink that best pursues the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/16-18.md">

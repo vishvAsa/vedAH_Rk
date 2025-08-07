@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ आ꣡हुतो वि꣡ रोचते  
-अग्नि꣡र् ईळे꣡नियो गिरा꣡  
-स्रुचा꣡ प्र꣡तीकम् अज्यते
+स᳓ आ᳓हुतो वि᳓ रोचते  
+अग्नि᳓र् ईळे᳓नियो गिरा᳓  
+स्रुचा᳓ प्र᳓तीकम् अज्यते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

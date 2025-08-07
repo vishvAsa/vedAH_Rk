@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ त्वा गो꣡भिर् इव व्रजं꣡  
-गीर्भि꣡र् ऋणोमि अद्रिवः  
-आ꣡ स्मा का꣡मं जरितु꣡र् आ꣡ म꣡नः पृण
+आ᳓ त्वा गो᳓भिर् इव व्रजं᳓  
+गीर्भि᳓र् ऋणोमि अद्रिवः  
+आ᳓ स्मा का᳓मं जरितु᳓र् आ᳓ म᳓नः पृण
 </details>
 
 <details><summary>Vedaweb annotation</summary>

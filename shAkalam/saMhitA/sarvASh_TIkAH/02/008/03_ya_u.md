@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ उ श्रिया꣡ द꣡मेषु आ꣡  
-दोषो꣡ष꣡सि प्रशस्य꣡ते  
-य꣡स्य व्रतं꣡ न꣡ मी꣡यते
+य᳓ उ श्रिया᳓ द᳓मेषु आ᳓  
+दोषो᳓ष᳓सि प्रशस्य᳓ते  
+य᳓स्य व्रतं᳓ न᳓ मी᳓यते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -172,7 +172,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Who with his beauty is proclaimed in the houses at evening and at dawn, whose commandment is not confounded,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/01-04.md">

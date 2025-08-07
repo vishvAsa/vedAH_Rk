@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡दित्सन्तं चिद् आघृणे  
-पू꣡षन् दा꣡नाय चोदय  
-पणे꣡श् चिद् वि꣡ म्रदा म꣡नः
+अ᳓दित्सन्तं चिद् आघृणे  
+पू᳓षन् दा᳓नाय चोदय  
+पणे᳓श् चिद् वि᳓ म्रदा म᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

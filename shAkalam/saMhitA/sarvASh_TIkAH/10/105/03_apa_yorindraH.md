@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡प यो꣡र् इ꣡न्द्रः पा꣡पज  
-आ꣡ म꣡र्तो न꣡ शश्रमाणो꣡ बिभीवा꣡न्  
-शुभे꣡ य꣡द् युयुजे꣡ त꣡विषीवान्
+अ᳓प यो᳓र् इ᳓न्द्रः पा᳓पज  
+आ᳓ म᳓र्तो न᳓ शश्रमाणो᳓ बिभीवा᳓न्  
+शुभे᳓ य᳓द् युयुजे᳓ त᳓विषीवान्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

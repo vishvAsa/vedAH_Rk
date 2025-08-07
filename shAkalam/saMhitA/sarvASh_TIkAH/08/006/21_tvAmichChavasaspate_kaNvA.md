@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवा꣡म् इ꣡च् छवसस् पते  
-क꣡ण्वा उक्थे꣡न वावृधुः  
-तुवां꣡ सुता꣡स इ꣡न्दवः
+तुवा᳓म् इ᳓च् छवसस् पते  
+क᳓ण्वा उक्थे᳓न वावृधुः  
+तुवां᳓ सुता᳓स इ᳓न्दवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

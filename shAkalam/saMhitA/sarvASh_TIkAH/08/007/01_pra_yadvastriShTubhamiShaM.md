@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ य꣡द् वस् त्रिष्टु꣡भम् इ꣡षम्  
-म꣡रुतो वि꣡प्रो अ꣡क्षरत्  
-वि꣡ प꣡र्वतेषु राजथ
+प्र᳓ य᳓द् वस् त्रिष्टु᳓भम् इ᳓षम्  
+म᳓रुतो वि᳓प्रो अ᳓क्षरत्  
+वि᳓ प᳓र्वतेषु राजथ
 </details>
 
 <details><summary>Vedaweb annotation</summary>

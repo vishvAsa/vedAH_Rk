@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ त्वं꣡ वि꣡प्राय दाशु꣡षे  
-रयिं꣡ देहि सहस्रि꣡णम्  
-अ꣡ग्ने वीर꣡वतीम् इ꣡षम्
+स᳓ त्वं᳓ वि᳓प्राय दाशु᳓षे  
+रयिं᳓ देहि सहस्रि᳓णम्  
+अ᳓ग्ने वीर᳓वतीम् इ᳓षम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

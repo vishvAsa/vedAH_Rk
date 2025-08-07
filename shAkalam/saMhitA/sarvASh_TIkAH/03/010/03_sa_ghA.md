@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ घा य꣡स् ते द꣡दाशति  
-समि꣡धा जात꣡वेदसे  
-सो꣡ अग्ने धत्ते सुवी꣡र्यं स꣡ पुष्यति
+स᳓ घा य᳓स् ते द᳓दाशति  
+समि᳓धा जात᳓वेदसे  
+सो᳓ अग्ने धत्ते सुवी᳓र्यं स᳓ पुष्यति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

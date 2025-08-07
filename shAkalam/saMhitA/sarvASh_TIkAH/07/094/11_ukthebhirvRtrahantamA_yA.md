@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उक्थे꣡भिर् वृत्रह꣡न्तमा  
-या꣡ मन्दाना꣡ चिद् आ꣡ गिरा꣡  
-आङ्गूषइ꣡र् आवि꣡वासतः
+उक्थे᳓भिर् वृत्रह᳓न्तमा  
+या᳓ मन्दाना᳓ चिद् आ᳓ गिरा᳓  
+आङ्गूषइ᳓र् आवि᳓वासतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

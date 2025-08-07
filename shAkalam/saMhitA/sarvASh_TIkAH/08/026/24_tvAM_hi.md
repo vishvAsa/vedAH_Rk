@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवां꣡ हि꣡ सुप्स꣡रस्तमं  
-नृष꣡दनेषु हूम꣡हे  
-ग्रा꣡वाणं न꣡ अ꣡श्वपृष्ठम् मंह꣡ना
+तुवां᳓ हि᳓ सुप्स᳓रस्तमं  
+नृष᳓दनेषु हूम᳓हे  
+ग्रा᳓वाणं न᳓ अ᳓श्वपृष्ठम् मंह᳓ना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

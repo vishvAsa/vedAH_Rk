@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ त्व꣡म् मघवञ् छृणु  
-य꣡स् ते व꣡ष्टि वव꣡क्षि त꣡त्  
-य꣡द् वीळ꣡यासि वीळु꣡ त꣡त्
+उत᳓ त्व᳓म् मघवञ् छृणु  
+य᳓स् ते व᳓ष्टि वव᳓क्षि त᳓त्  
+य᳓द् वीळ᳓यासि वीळु᳓ त᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

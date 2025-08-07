@@ -15,10 +15,10 @@ ChandaH = "जगती"
 
 <details><summary>Thomson & Solcum</summary>
 
-रा꣡जा समुद्रं꣡ नदि꣡यो वि꣡ गाहते  
-अपा꣡म् ऊर्मिं꣡ सचते सि꣡न्धुषु श्रितः꣡  
-अ꣡ध्य् अस्थात् सा꣡नु प꣡वमानो अव्य꣡यं  
-ना꣡भा पृथिव्या꣡ धरु꣡णो महो꣡ दिवः꣡
+रा᳓जा समुद्रं᳓ नदि᳓यो वि᳓ गाहते  
+अपा᳓म् ऊर्मिं᳓ सचते सि᳓न्धुषु श्रितः᳓  
+अ᳓ध्य् अस्थात् सा᳓नु प᳓वमानो अव्य᳓यं  
+ना᳓भा पृथिव्या᳓ धरु᳓णो महो᳓ दिवः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -251,7 +251,7 @@ Navel of the earth: yajñamāhu bhuvanasya nābhim: **Taittirīya** **Saṃhitā
 
 The king plunges through the sea, the rivers. Fixed in the streams he  accompanies the wave of waters.  
 The self-purifying one has mounted upon the sheep’s back, on the navel  of the earth, as buttress of great heaven.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/07-09.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रे अग्ना꣡ न꣡मो बृह꣡त्  
-सुवृक्ति꣡म् ए꣡रयामहे  
-धिया꣡ धे꣡ना अवस्य꣡वः
+इ᳓न्द्रे अग्ना᳓ न᳓मो बृह᳓त्  
+सुवृक्ति᳓म् ए᳓रयामहे  
+धिया᳓ धे᳓ना अवस्य᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

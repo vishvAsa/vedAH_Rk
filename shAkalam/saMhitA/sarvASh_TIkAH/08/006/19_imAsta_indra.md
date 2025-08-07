@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमा꣡स् त इन्द्र पृ꣡श्नयो  
-घृतं꣡ दुहत आशि꣡रम्  
-एना꣡म् ऋत꣡स्य पिप्यु꣡षीः
+इमा᳓स् त इन्द्र पृ᳓श्नयो  
+घृतं᳓ दुहत आशि᳓रम्  
+एना᳓म् ऋत᳓स्य पिप्यु᳓षीः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

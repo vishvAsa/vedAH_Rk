@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡स्य हि꣡ स्व꣡यशस्तरं  
-सवितुः꣡ क꣡च् चन꣡ प्रिय꣡म्  
-न꣡ मिन꣡न्ति स्वरा꣡जियम्
+अ᳓स्य हि᳓ स्व᳓यशस्तरं  
+सवितुः᳓ क᳓च् चन᳓ प्रिय᳓म्  
+न᳓ मिन᳓न्ति स्वरा᳓जियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

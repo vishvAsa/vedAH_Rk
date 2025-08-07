@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् इन्द्राग्नी अवम꣡स्याम् पृथिव्या꣡म्  
-मध्यम꣡स्याम् परम꣡स्याम् उत꣡ स्थः꣡  
-अ꣡तः प꣡रि वृषणाव् आ꣡ हि꣡ यात꣡म्  
-अ꣡था सो꣡मस्य पिबतं सुत꣡स्य
+य᳓द् इन्द्राग्नी अवम᳓स्याम् पृथिव्या᳓म्  
+मध्यम᳓स्याम् परम᳓स्याम् उत᳓ स्थः᳓  
+अ᳓तः प᳓रि वृषणाव् आ᳓ हि᳓ यात᳓म्  
+अ᳓था सो᳓मस्य पिबतं सुत᳓स्य
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -240,7 +240,7 @@ _________
 
 When, o Indra and Agni, you are on the lowest earth, on the middle  one, and on the highest one,  
 from there, bulls—yes! drive here. Then drink of the pressed soma.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/09-10.md">

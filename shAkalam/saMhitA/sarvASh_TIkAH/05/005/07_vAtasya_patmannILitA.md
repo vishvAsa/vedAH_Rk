@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वा꣡तस्य प꣡त्मन् ईळिता꣡  
-दइ꣡व्या हो꣡तारा म꣡नुषः  
-इमं꣡ नो यज्ञ꣡म् आ꣡ गतम्
+वा᳓तस्य प᳓त्मन् ईळिता᳓  
+दइ᳓व्या हो᳓तारा म᳓नुषः  
+इमं᳓ नो यज्ञ᳓म् आ᳓ गतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

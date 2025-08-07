@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-महा꣡न्ता मित्रा꣡व꣡रुणा  
-सम्रा꣡जा देवा꣡व् अ꣡सुरा  
-ऋता꣡वानाव् ऋत꣡म् आ꣡ घोषतो बृह꣡त्
+महा᳓न्ता मित्रा᳓व᳓रुणा  
+सम्रा᳓जा देवा᳓व् अ᳓सुरा  
+ऋता᳓वानाव् ऋत᳓म् आ᳓ घोषतो बृह᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

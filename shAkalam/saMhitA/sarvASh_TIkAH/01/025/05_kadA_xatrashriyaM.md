@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कदा꣡ क्षत्रश्रि꣡यं न꣡रम्  
-आ꣡ व꣡रुणं करामहे  
-मॄळीका꣡योरुच꣡क्षसम्+
+कदा᳓ क्षत्रश्रि᳓यं न᳓रम्  
+आ᳓ व᳓रुणं करामहे  
+मॄळीका᳓योरुच᳓क्षसम्+
 </details>
 
 <details><summary>Vedaweb annotation</summary>

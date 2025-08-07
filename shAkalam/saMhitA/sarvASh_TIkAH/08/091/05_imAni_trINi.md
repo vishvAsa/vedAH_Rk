@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमा꣡नि त्री꣡णि विष्ट꣡पा  
-ता꣡नि इन्द्र वि꣡ रोहय  
-शि꣡रस् तत꣡स्य उर्व꣡राम्  
-आ꣡द् इद꣡म् म उ꣡पोद꣡रे
+इमा᳓नि त्री᳓णि विष्ट᳓पा  
+ता᳓नि इन्द्र वि᳓ रोहय  
+शि᳓रस् तत᳓स्य उर्व᳓राम्  
+आ᳓द् इद᳓म् म उ᳓पोद᳓रे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -202,7 +202,7 @@ _________
 
 “Indra, make these three surfaces grow forth—  
 the head of my Papa, the field, and this on my belly.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/091/05-07.md">

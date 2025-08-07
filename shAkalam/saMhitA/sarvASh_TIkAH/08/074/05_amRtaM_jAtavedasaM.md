@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अमृ꣡तं जात꣡वेदसं  
-तिर꣡स् त꣡मांसि दर्शत꣡म्  
-घृता꣡हवनम् ई꣡डियम्
+अमृ᳓तं जात᳓वेदसं  
+तिर᳓स् त᳓मांसि दर्शत᳓म्  
+घृता᳓हवनम् ई᳓डियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

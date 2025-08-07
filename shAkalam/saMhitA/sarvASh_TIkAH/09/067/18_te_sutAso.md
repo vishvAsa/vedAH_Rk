@@ -15,8 +15,8 @@ ChandaH = "द्विपदा गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ सुता꣡सो मदि꣡न्तमाः  
-शुक्रा꣡ वायु꣡म् असृक्षत
+ते᳓ सुता᳓सो मदि᳓न्तमाः  
+शुक्रा᳓ वायु᳓म् असृक्षत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -123,7 +123,7 @@ Vāyum = śabdam
 <details><summary>Jamison Brereton</summary>
 
 The clear pressed soma-juices, most invigorating, have surged to Vāyu.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/16-18.md">

@@ -15,9 +15,9 @@ ChandaH = "अनुष्टुप्पिपीलिकमध्या"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡नु हि꣡ त्वा सुतं꣡ सोम म꣡दामसि  
-महे꣡ समर्यरा꣡जिये  
-वा꣡जाँ अभि꣡ पवमान प्र꣡ गाहसे
+अ᳓नु हि᳓ त्वा सुतं᳓ सोम म᳓दामसि  
+महे᳓ समर्यरा᳓जिये  
+वा᳓जाँ अभि᳓ पवमान प्र᳓ गाहसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

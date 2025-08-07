@@ -15,8 +15,8 @@ ChandaH = "द्विपदा गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡सृग्रन् देव꣡वीतये  
-वाजय꣡न्तो र꣡था इव
+अ᳓सृग्रन् देव᳓वीतये  
+वाजय᳓न्तो र᳓था इव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -110,7 +110,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 They have been released to pursue the gods, like chariots seeking  the prize.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/16-18.md">

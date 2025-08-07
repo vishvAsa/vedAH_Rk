@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वानि विश्व꣡मनसो  
-धिया꣡ नो वृत्रहन्तम  
-उ꣡ग्र प्रणेतर् अ꣡धि षू꣡ वसो गहि
+वि᳓श्वानि विश्व᳓मनसो  
+धिया᳓ नो वृत्रहन्तम  
+उ᳓ग्र प्रणेतर् अ᳓धि षू᳓ वसो गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नहि꣡ ते पूर्त꣡म् अक्षिप꣡द्  
-भु꣡वन् नेमानां᳐ वसो  
-अ꣡था दु꣡वो वनवसे
+नहि᳓ ते पूर्त᳓म् अक्षिप᳓द्  
+भु᳓वन् नेमानां᳐ वसो  
+अ᳓था दु᳓वो वनवसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

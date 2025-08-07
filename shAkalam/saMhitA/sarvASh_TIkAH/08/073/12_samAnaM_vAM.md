@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-समानं꣡ वां सजाति꣡यं  
-समानो꣡ ब꣡न्धुर् अश्विना  
-अ꣡न्ति षद् भूतु वाम् अ꣡वः
+समानं᳓ वां सजाति᳓यं  
+समानो᳓ ब᳓न्धुर् अश्विना  
+अ᳓न्ति षद् भूतु वाम् अ᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

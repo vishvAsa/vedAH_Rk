@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-महो꣡ रुजामि बन्धु꣡ता व꣡चोभिस्  
-त꣡न् मा पितु꣡र् गो꣡तमाद् अ꣡न्व् इयाय  
-तुवं꣡ नो अस्य꣡ व꣡चसश् चिकिद्धि  
-हो꣡तर् यविष्ठ सुक्रतो द꣡मूनाः
+महो᳓ रुजामि बन्धु᳓ता व᳓चोभिस्  
+त᳓न् मा पितु᳓र् गो᳓तमाद् अ᳓न्व् इयाय  
+तुवं᳓ नो अस्य᳓ व᳓चसश् चिकिद्धि  
+हो᳓तर् यविष्ठ सुक्रतो द᳓मूनाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -303,7 +303,7 @@ The great I overcome [4] through kinship and my songs;
 That hath descended to me from Gotama, my sire;  
 Pay heed to this song of ours,  
 O Hotr, most youthful, skilful, friend of the house.
-꣡</details>
+᳓</details>
 
 <details><summary>Geldner</summary>
 

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शुम्भ꣡माना ऋतायु꣡भिर्  
-मृज्य꣡माना ग꣡भस्तियोः  
-प꣡वन्ते वा꣡रे अव्य꣡ये
+शुम्भ᳓माना ऋतायु᳓भिर्  
+मृज्य᳓माना ग᳓भस्तियोः  
+प᳓वन्ते वा᳓रे अव्य᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -123,7 +123,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Being beautified by those who seek truth, being groomed in the two hands, they purify themselves in the sheep’s fleece.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/04-06.md">

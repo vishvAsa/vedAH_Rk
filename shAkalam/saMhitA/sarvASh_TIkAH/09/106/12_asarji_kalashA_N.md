@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡सर्जि कल꣡शाँ अभि꣡  
-मीळ्हे꣡ स꣡प्तिर् न꣡ वाजयुः꣡  
-पुनानो꣡ वा꣡चं जन꣡यन्न् असिष्यदत्
+अ᳓सर्जि कल᳓शाँ अभि᳓  
+मीळ्हे᳓ स᳓प्तिर् न᳓ वाजयुः᳓  
+पुनानो᳓ वा᳓चं जन᳓यन्न् असिष्यदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -164,7 +164,7 @@ _________
 
 He has been sent surging toward the tubs, like a prize-seeking team at a  competition.  
 Being purified, begetting speech, he has flowed.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/10-12.md">

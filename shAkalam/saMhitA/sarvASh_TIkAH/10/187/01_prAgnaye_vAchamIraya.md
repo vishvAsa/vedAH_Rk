@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रा꣡ग्न꣡ये वा꣡चम् ईरय  
-वृषभा꣡य क्षितीना᳐꣡म्  
-स꣡ नः पर्षद् अ꣡ति द्वि꣡षः
+प्रा᳓ग्न᳓ये वा᳓चम् ईरय  
+वृषभा᳓य क्षितीना᳐᳓म्  
+स᳓ नः पर्षद् अ᳓ति द्वि᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

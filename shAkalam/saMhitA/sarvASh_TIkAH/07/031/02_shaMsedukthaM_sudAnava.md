@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शं꣡से꣡द् उक्थं꣡ सुदा꣡नव  
-उत꣡ द्युक्षं꣡ य꣡था न꣡रः  
-चकृमा꣡ सत्य꣡राधसे
+शं᳓से᳓द् उक्थं᳓ सुदा᳓नव  
+उत᳓ द्युक्षं᳓ य᳓था न᳓रः  
+चकृमा᳓ सत्य᳓राधसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

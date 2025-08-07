@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ अस्य धा꣡रा अक्षरन्  
-वृ꣡ष्णः सुत꣡स्य ओ꣡जसा  
-देवाँ꣡ अ꣡नु प्रभू꣡षतः
+प्र᳓ अस्य धा᳓रा अक्षरन्  
+वृ᳓ष्णः सुत᳓स्य ओ᳓जसा  
+देवाँ᳓ अ᳓नु प्रभू᳓षतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

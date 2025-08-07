@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-हतो꣡ वृत्रा꣡णि आ꣡रिया  
-हतो꣡ दा꣡सानि स꣡त्पती  
-हतो꣡ वि꣡श्वा अ꣡प द्वि꣡षः
+हतो᳓ वृत्रा᳓णि आ᳓रिया  
+हतो᳓ दा᳓सानि स᳓त्पती  
+हतो᳓ वि᳓श्वा अ᳓प द्वि᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

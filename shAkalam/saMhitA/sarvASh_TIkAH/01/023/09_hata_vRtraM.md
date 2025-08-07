@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-हत꣡ वृत्रं꣡ सुदानव  
-इ꣡न्द्रेण स꣡हसा युजा꣡  
-मा꣡ नो दुःशं꣡स ईशत
+हत᳓ वृत्रं᳓ सुदानव  
+इ᳓न्द्रेण स᳓हसा युजा᳓  
+मा᳓ नो दुःशं᳓स ईशत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

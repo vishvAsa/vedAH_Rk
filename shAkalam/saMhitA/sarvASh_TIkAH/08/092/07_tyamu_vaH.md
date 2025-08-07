@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तिय꣡म् उ वः सत्रासा꣡हं  
-वि꣡श्वासु गीर्षु꣡ आ꣡यतम्  
-आ꣡ च्यावयसि ऊत꣡ये
+तिय᳓म् उ वः सत्रासा᳓हं  
+वि᳓श्वासु गीर्षु᳓ आ᳓यतम्  
+आ᳓ च्यावयसि ऊत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ नः सहस्रि꣡णं रयि꣡म्  
-प꣡वन्ताम् आ꣡ सुवी꣡रियम्  
-स्वाना꣡° देवा꣡स इ꣡न्दवः
+ते᳓ नः सहस्रि᳓णं रयि᳓म्  
+प᳓वन्ताम् आ᳓ सुवी᳓रियम्  
+स्वाना᳓° देवा᳓स इ᳓न्दवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

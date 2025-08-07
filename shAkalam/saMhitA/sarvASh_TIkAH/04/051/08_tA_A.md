@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ आ꣡ चरन्ति समना꣡ पुर꣡स्तात्  
-समान꣡तः समना꣡ पप्रथानाः꣡  
-ऋत꣡स्य देवीः꣡ स꣡दसो बुधाना꣡  
-ग꣡वां न꣡ स꣡र्गा उष꣡सो जरन्ते
+ता᳓ आ᳓ चरन्ति समना᳓ पुर᳓स्तात्  
+समान᳓तः समना᳓ पप्रथानाः᳓  
+ऋत᳓स्य देवीः᳓ स᳓दसो बुधाना᳓  
+ग᳓वां न᳓ स᳓र्गा उष᳓सो जरन्ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -225,7 +225,7 @@ Rays: gavām sargā na raśmayaḥ: RV. 4.52.5
 
 They proceed, in the same way, from the east, spreading out from the  same place in the same way.  
 The Goddess Dawns, awakening from the seat of truth, like gushes of  cows, become wakeful.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/051/08-09.md">

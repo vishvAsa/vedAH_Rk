@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वा꣡र्त्रहत्याय श꣡वसे  
-पृतनाषा꣡हियाय च  
-इ꣡न्द्र त्वा꣡ वर्तयामसि
+वा᳓र्त्रहत्याय श᳓वसे  
+पृतनाषा᳓हियाय च  
+इ᳓न्द्र त्वा᳓ वर्तयामसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

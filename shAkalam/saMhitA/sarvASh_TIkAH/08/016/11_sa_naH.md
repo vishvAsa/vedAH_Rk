@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नः प꣡प्रिः पारयाति  
-स्वस्ति꣡ नावा꣡ पुरुहूतः꣡  
-इ꣡न्द्रो वि꣡श्वा अ꣡ति द्वि꣡षः
+स᳓ नः प᳓प्रिः पारयाति  
+स्वस्ति᳓ नावा᳓ पुरुहूतः᳓  
+इ᳓न्द्रो वि᳓श्वा अ᳓ति द्वि᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

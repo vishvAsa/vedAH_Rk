@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरोळा꣡शम् पचति꣡यं  
-जुष꣡स्वेन्द्रा꣡ गुरस्व च  
-तु꣡भ्यं हव्या꣡नि सिस्रते
+पुरोळा᳓शम् पचति᳓यं  
+जुष᳓स्वेन्द्रा᳓ गुरस्व च  
+तु᳓भ्यं हव्या᳓नि सिस्रते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् इ꣡त् सुहव्य꣡म् अङ्गिरः  
-सुदेवं꣡ सहसो यहो  
-ज꣡ना आहुः सुबर्हि꣡षम्
+त᳓म् इ᳓त् सुहव्य᳓म् अङ्गिरः  
+सुदेवं᳓ सहसो यहो  
+ज᳓ना आहुः सुबर्हि᳓षम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

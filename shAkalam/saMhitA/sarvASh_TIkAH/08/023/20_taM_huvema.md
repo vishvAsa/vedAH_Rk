@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ हुवेम यत꣡स्रुचः  
-सुभा꣡सं शुक्र꣡शोचिषम्  
-विशा꣡म् अग्नि꣡म् अज꣡रम् प्रत्न꣡म् ई꣡डियम्
+तं᳓ हुवेम यत᳓स्रुचः  
+सुभा᳓सं शुक्र᳓शोचिषम्  
+विशा᳓म् अग्नि᳓म् अज᳓रम् प्रत्न᳓म् ई᳓डियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

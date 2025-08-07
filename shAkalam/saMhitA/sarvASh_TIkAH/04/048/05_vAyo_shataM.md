@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वा꣡यो शतं꣡ ह꣡रीणां  
-युव꣡स्व पो꣡षियाणाम्  
-उत꣡ वा ते सहस्रि꣡णो  
-र꣡थ आ꣡ यातु पा꣡जसा
+वा᳓यो शतं᳓ ह᳓रीणां  
+युव᳓स्व पो᳓षियाणाम्  
+उत᳓ वा ते सहस्रि᳓णो  
+र᳓थ आ᳓ यातु पा᳓जसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-भूरिदा꣡ हि꣡ अ꣡सि श्रुतः꣡  
-पुरुत्रा꣡ शूर वृत्रहन्  
-आ꣡ नो भजस्व रा꣡धसि
+भूरिदा᳓ हि᳓ अ᳓सि श्रुतः᳓  
+पुरुत्रा᳓ शूर वृत्रहन्  
+आ᳓ नो भजस्व रा᳓धसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानस्य ते कवे  
-वा꣡जिन् स꣡र्गा असृक्षत  
-अ꣡र्वन्तो न꣡ श्रवस्य꣡वः
+प᳓वमानस्य ते कवे  
+वा᳓जिन् स᳓र्गा असृक्षत  
+अ᳓र्वन्तो न᳓ श्रवस्य᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

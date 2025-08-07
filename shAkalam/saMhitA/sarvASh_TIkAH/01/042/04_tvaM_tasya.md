@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ त꣡स्य द्वयावि꣡नो  
-अघ꣡शंसस्य क꣡स्य चित्  
-पदा꣡भि꣡ तिष्ठ त꣡पुषिम्
+तुवं᳓ त᳓स्य द्वयावि᳓नो  
+अघ᳓शंसस्य क᳓स्य चित्  
+पदा᳓भि᳓ तिष्ठ त᳓पुषिम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-रारन्धि꣡ स꣡वनेषु ण  
-एषु꣡ स्तो꣡मेषु वृत्रहन्  
-उक्थे꣡षु इन्द्र गिर्वणः
+रारन्धि᳓ स᳓वनेषु ण  
+एषु᳓ स्तो᳓मेषु वृत्रहन्  
+उक्थे᳓षु इन्द्र गिर्वणः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

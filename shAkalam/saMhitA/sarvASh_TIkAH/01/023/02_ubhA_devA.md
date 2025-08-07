@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उभा꣡ देवा꣡ दिविस्पृ꣡शा  
-इन्द्रवायू꣡ हवामहे  
-अस्य꣡ सो꣡मस्य पीत꣡ये
+उभा᳓ देवा᳓ दिविस्पृ᳓शा  
+इन्द्रवायू᳓ हवामहे  
+अस्य᳓ सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

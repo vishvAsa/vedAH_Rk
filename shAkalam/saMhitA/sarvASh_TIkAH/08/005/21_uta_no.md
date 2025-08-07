@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ नो दिविया꣡ इ꣡ष  
-उत꣡ सि꣡न्धूँर् अहर्विदा  
-अ꣡प द्वा꣡रेव वर्षथः
+उत᳓ नो दिविया᳓ इ᳓ष  
+उत᳓ सि᳓न्धूँर् अहर्विदा  
+अ᳓प द्वा᳓रेव वर्षथः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

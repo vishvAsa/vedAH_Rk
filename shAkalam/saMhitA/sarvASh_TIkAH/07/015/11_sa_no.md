@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो रा꣡धांसि आ꣡ भर  
-ई꣡शानः सहसो यहो  
-भ꣡गश् च दातु वा꣡रियम्
+स᳓ नो रा᳓धांसि आ᳓ भर  
+ई᳓शानः सहसो यहो  
+भ᳓गश् च दातु वा᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-जुष꣡स्व सप्र꣡थस्तमं  
-व꣡चो देव꣡प्सरस्तमम्  
-हव्या꣡ जु꣡ह्वान आस꣡नि
+जुष᳓स्व सप्र᳓थस्तमं  
+व᳓चो देव᳓प्सरस्तमम्  
+हव्या᳓ जु᳓ह्वान आस᳓नि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -131,7 +131,7 @@ _________
 
 Take delight in the most extensive speech, which affords most delight to  the gods,  
 while pouring the oblations into your own mouth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/01-02.md">

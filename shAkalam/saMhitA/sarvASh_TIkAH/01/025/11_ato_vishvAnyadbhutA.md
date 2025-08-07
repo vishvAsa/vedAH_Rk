@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡तो वि꣡श्वानि अ꣡द्भुता  
-चिकित्वाँ꣡ अभि꣡ पश्यति  
-कृता꣡नि या꣡ च क꣡र्तुवा
+अ᳓तो वि᳓श्वानि अ᳓द्भुता  
+चिकित्वाँ᳓ अभि᳓ पश्यति  
+कृता᳓नि या᳓ च क᳓र्तुवा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

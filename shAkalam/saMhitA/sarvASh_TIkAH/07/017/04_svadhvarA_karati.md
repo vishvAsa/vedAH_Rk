@@ -15,8 +15,8 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुअध्वरा꣡ करति जात꣡वेदा  
-य꣡क्षद् देवाँ꣡ अमृ꣡तान् पिप्र꣡यच् च
+सुअध्वरा᳓ करति जात᳓वेदा  
+य᳓क्षद् देवाँ᳓ अमृ᳓तान् पिप्र᳓यच् च
 </details>
 
 <details><summary>Vedaweb annotation</summary>

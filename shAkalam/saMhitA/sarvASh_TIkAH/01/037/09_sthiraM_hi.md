@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्थिरं꣡ हि꣡ जा꣡नम् एषां᳐  
-व꣡यो मातु꣡र् नि꣡रेतवे  
-य꣡त् सीम् अ꣡नु द्विता꣡ श꣡वः
+स्थिरं᳓ हि᳓ जा᳓नम् एषां᳐  
+व᳓यो मातु᳓र् नि᳓रेतवे  
+य᳓त् सीम् अ᳓नु द्विता᳓ श᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

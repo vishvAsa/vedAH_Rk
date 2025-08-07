@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कवि꣡म् अग्नि꣡म् उ꣡प स्तुहि  
-सत्य꣡धर्माणम् अध्वरे꣡  
-देव꣡म् अमीवचा꣡तनम्
+कवि᳓म् अग्नि᳓म् उ᳓प स्तुहि  
+सत्य᳓धर्माणम् अध्वरे᳓  
+देव᳓म् अमीवचा᳓तनम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि यो꣡ रो꣡दसी उभे꣡  
-सद्यो꣡ वा꣡जेभिर् अ꣡र्षति  
-म꣡देषु सर्वधा꣡ असि
+प᳓रि यो᳓ रो᳓दसी उभे᳓  
+सद्यो᳓ वा᳓जेभिर् अ᳓र्षति  
+म᳓देषु सर्वधा᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -163,7 +163,7 @@ _________
 
 Who on the same day rushes around both worlds with the prizes of  victory—  
 – You are the one who confers wholeness in the raptures of exhilaration.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/04-07.md">

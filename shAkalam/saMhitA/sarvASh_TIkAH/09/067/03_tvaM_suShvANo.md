@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सुष्वाणो꣡ अ꣡द्रिभिर्  
-अभि꣡ अर्ष क꣡निक्रदत्  
-द्युम꣡न्तं शु꣡ष्मम् उत्तम꣡म्
+तुवं᳓ सुष्वाणो᳓ अ᳓द्रिभिर्  
+अभि᳓ अर्ष क᳓निक्रदत्  
+द्युम᳓न्तं शु᳓ष्मम् उत्तम᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -145,7 +145,7 @@ _________
 
 You, having been pressed by stones—rush, roaring constantly,  
 toward highest brilliant tempestuous force.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/01-03.md">

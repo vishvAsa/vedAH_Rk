@@ -15,8 +15,8 @@ ChandaH = "द्विपदा गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व सोम मन्द꣡यन्न्  
-इ꣡न्द्राय म꣡धुमत्तमः
+प᳓वस्व सोम मन्द᳓यन्न्  
+इ᳓न्द्राय म᳓धुमत्तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -103,7 +103,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Purify yourself, Soma, causing exhilaration, most honeyed for Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/16-18.md">

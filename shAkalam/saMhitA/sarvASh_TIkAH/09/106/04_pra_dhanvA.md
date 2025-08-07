@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ धन्वा सोम जा꣡गृविर्  
-इ꣡न्द्रायेन्दो प꣡रि स्रव  
-द्युम꣡न्तं शु꣡ष्मम् आ꣡ भरा सुवर्वि꣡दम्
+प्र᳓ धन्वा सोम जा᳓गृविर्  
+इ᳓न्द्रायेन्दो प᳓रि स्रव  
+द्युम᳓न्तं शु᳓ष्मम् आ᳓ भरा सुवर्वि᳓दम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -189,7 +189,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Run forth as the wakeful one, o Soma; flow around for Indra, o drop. Bring here brilliant tempestuous force that finds the sun.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/04-06.md">

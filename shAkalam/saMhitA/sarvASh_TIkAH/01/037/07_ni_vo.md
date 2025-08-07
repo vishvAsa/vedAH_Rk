@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡ वो या꣡माय मा꣡नुषो  
-दध्र꣡ उग्रा꣡य मन्य꣡वे  
-जि꣡हीत प꣡र्वतो गिरिः꣡
+नि᳓ वो या᳓माय मा᳓नुषो  
+दध्र᳓ उग्रा᳓य मन्य᳓वे  
+जि᳓हीत प᳓र्वतो गिरिः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

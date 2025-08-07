@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एत꣡म् मृजन्ति म꣡र्जियम्  
-प꣡वमानं द꣡श क्षि꣡पः  
-इ꣡न्द्राय मत्सर꣡म् म꣡दम्
+एत᳓म् मृजन्ति म᳓र्जियम्  
+प᳓वमानं द᳓श क्षि᳓पः  
+इ᳓न्द्राय मत्सर᳓म् म᳓दम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

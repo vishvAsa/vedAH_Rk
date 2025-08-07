@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ वो ग्रावाणः सविता꣡  
-देवः꣡ सुवतु ध꣡र्मणा  
-धूर्षु꣡ युज्यध्वं सुनुत꣡
+प्र᳓ वो ग्रावाणः सविता᳓  
+देवः᳓ सुवतु ध᳓र्मणा  
+धूर्षु᳓ युज्यध्वं सुनुत᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

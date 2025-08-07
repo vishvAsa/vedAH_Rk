@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्ने꣡ स्तो꣡मम् मनामहे  
-सिध्र꣡म् अद्य꣡ दिविस्पृ꣡शः  
-देव꣡स्य द्रविणस्य꣡वः
+अग्ने᳓ स्तो᳓मम् मनामहे  
+सिध्र᳓म् अद्य᳓ दिविस्पृ᳓शः  
+देव᳓स्य द्रविणस्य᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

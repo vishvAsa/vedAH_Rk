@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-द्विता꣡ यो꣡ वृत्रह꣡न्तमो  
-विद꣡ इ꣡न्द्रः शत꣡क्रतुः  
-उ꣡प नो ह꣡रिभिः सुत꣡म्
+द्विता᳓ यो᳓ वृत्रह᳓न्तमो  
+विद᳓ इ᳓न्द्रः शत᳓क्रतुः  
+उ᳓प नो ह᳓रिभिः सुत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -166,7 +166,7 @@ Whose power is known in a two-fold way: i.e., you are known in your terribleform
 
 He who is known, now as before, as Indra, best smiter of Vr̥tra,  possessing a hundred resolves—  
 right up to our pressed soma with your fallow bays.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/31-33.md">

@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡षासि दिवो꣡ वृषभः꣡ पृथिव्या꣡  
-वृ꣡षा सि꣡न्धूनां वृषभ꣡ स्ति꣡यानाम्  
-वृ꣡ष्णे त इ꣡न्दुर् वृषभ पीपाय  
-स्वादू꣡ र꣡सो मधुपे꣡यो व꣡राय
+वृ᳓षासि दिवो᳓ वृषभः᳓ पृथिव्या᳓  
+वृ᳓षा सि᳓न्धूनां वृषभ᳓ स्ति᳓यानाम्  
+वृ᳓ष्णे त इ᳓न्दुर् वृषभ पीपाय  
+स्वादू᳓ र᳓सो मधुपे᳓यो व᳓राय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -242,7 +242,7 @@ Note the use of derivative of **vṛṣa**, to sprinkle, to rain; Indra's horses
 
 You are the bullish bull of heaven and of earth, the bullish bull of the  rivers and of the standing waters.  
 O bull, for bullish you the drop has swelled, the sweet sap, the honeyed  drink, to your liking.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

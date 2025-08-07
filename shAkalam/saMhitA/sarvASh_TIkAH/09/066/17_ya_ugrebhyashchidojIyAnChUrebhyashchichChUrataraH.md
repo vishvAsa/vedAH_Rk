@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ उग्रे꣡भ्यश् चिद् ओ꣡जीयाञ्  
-छू꣡रेभ्यश् चिच् छू꣡रतरः  
-भूरिदा꣡भ्यश् चिन् मं꣡हीयान्
+य᳓ उग्रे᳓भ्यश् चिद् ओ᳓जीयाञ्  
+छू᳓रेभ्यश् चिच् छू᳓रतरः  
+भूरिदा᳓भ्यश् चिन् मं᳓हीयान्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

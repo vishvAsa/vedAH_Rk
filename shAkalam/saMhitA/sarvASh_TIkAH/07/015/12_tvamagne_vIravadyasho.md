@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्व꣡म् अग्ने वीर꣡वद् य꣡शो  
-देव꣡श् च सविता꣡ भ꣡गः  
-दि꣡तिश् च दाति वा꣡रियम्
+त्व᳓म् अग्ने वीर᳓वद् य᳓शो  
+देव᳓श् च सविता᳓ भ᳓गः  
+दि᳓तिश् च दाति वा᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

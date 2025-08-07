@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य प्र꣡स्वादसो गि꣡र  
-उपम꣡श्रवसः पितुः꣡  
-क्षे꣡त्रं न꣡ रण्व꣡म् ऊचु꣡षे
+य᳓स्य प्र᳓स्वादसो गि᳓र  
+उपम᳓श्रवसः पितुः᳓  
+क्षे᳓त्रं न᳓ रण्व᳓म् ऊचु᳓षे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

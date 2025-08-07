@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने घृत꣡स्य धीति꣡भिस्  
-तेपानो꣡ देव शोचि꣡षा  
-आ꣡ देवा꣡न् वक्षि य꣡क्षि च
+अ᳓ग्ने घृत᳓स्य धीति᳓भिस्  
+तेपानो᳓ देव शोचि᳓षा  
+आ᳓ देवा᳓न् वक्षि य᳓क्षि च
 </details>
 
 <details><summary>Vedaweb annotation</summary>

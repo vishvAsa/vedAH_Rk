@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् उ अभि꣡ प्र꣡ गायत  
-पुरुहूत꣡म् पुरुष्टुत꣡म्  
-इ꣡न्द्रं गीर्भि꣡स् तविष꣡म् आ꣡ विवासत
+त᳓म् उ अभि᳓ प्र᳓ गायत  
+पुरुहूत᳓म् पुरुष्टुत᳓म्  
+इ᳓न्द्रं गीर्भि᳓स् तविष᳓म् आ᳓ विवासत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वावसाना꣡ विव꣡स्वति  
-सो꣡मस्य पीतिया꣡ गिरा꣡  
-मनुष्व꣡च् छम्भू आ꣡ गतम्
+वावसाना᳓ विव᳓स्वति  
+सो᳓मस्य पीतिया᳓ गिरा᳓  
+मनुष्व᳓च् छम्भू आ᳓ गतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्री꣡णि ए꣡क उरुगायो꣡ वि꣡ चक्रमे  
-य꣡त्र देवा꣡सो म꣡दन्ति
+त्री᳓णि ए᳓क उरुगायो᳓ वि᳓ चक्रमे  
+य᳓त्र देवा᳓सो म᳓दन्ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

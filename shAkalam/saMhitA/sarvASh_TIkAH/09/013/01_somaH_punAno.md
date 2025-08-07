@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मः पुनानो꣡ अर्षति  
-सह꣡स्रधारो अ꣡त्यविः  
-वायो꣡र् इ꣡न्द्रस्य निष्कृत꣡म्
+सो᳓मः पुनानो᳓ अर्षति  
+सह᳓स्रधारो अ᳓त्यविः  
+वायो᳓र् इ᳓न्द्रस्य निष्कृत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

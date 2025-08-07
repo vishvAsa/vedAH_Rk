@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-रयिं꣡ नश् चित्र꣡म् अश्वि꣡नम्  
-इ꣡न्दो विश्वा꣡युम् आ꣡ भर  
-अ꣡था नो व꣡स्यसस् कृधि
+रयिं᳓ नश् चित्र᳓म् अश्वि᳓नम्  
+इ᳓न्दो विश्वा᳓युम् आ᳓ भर  
+अ᳓था नो व᳓स्यसस् कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

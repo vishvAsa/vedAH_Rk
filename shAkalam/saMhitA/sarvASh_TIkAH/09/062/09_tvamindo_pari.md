@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुव꣡म् इन्दो प꣡रि स्रव  
-स्वा꣡दिष्ठो अ꣡ङ्गिरोभियः  
-वरिवोवि꣡द् घृत꣡म् प꣡यः
+तुव᳓म् इन्दो प᳓रि स्रव  
+स्वा᳓दिष्ठो अ᳓ङ्गिरोभियः  
+वरिवोवि᳓द् घृत᳓म् प᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

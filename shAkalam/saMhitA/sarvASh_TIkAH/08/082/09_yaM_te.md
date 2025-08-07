@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यं꣡ ते श्येनः꣡ पदा꣡भरत्  
-तिरो꣡ र꣡जांसि अ꣡स्पृतम्  
-पि꣡बे꣡द् अस्य त्व꣡म् ईशिषे
+यं᳓ ते श्येनः᳓ पदा᳓भरत्  
+तिरो᳓ र᳓जांसि अ᳓स्पृतम्  
+पि᳓बे᳓द् अस्य त्व᳓म् ईशिषे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

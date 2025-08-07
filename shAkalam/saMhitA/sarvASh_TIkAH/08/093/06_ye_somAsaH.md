@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ सो꣡मासः पराव꣡ति  
-ये꣡ अर्वाव꣡ति सुन्विरे꣡  
-स꣡र्वांस् ताँ꣡ इन्द्र गछसि
+ये᳓ सो᳓मासः पराव᳓ति  
+ये᳓ अर्वाव᳓ति सुन्विरे᳓  
+स᳓र्वांस् ताँ᳓ इन्द्र गछसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -158,7 +158,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The soma drinks which have been pressed in the distance, which nearby, to all those do you go, Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/04-06.md">

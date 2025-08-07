@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-रायो꣡ धा꣡रासि आघृणे  
-व꣡सो राशि꣡र् अजाशुव  
-धी꣡वतो-धीवतः स꣡खा
+रायो᳓ धा᳓रासि आघृणे  
+व᳓सो राशि᳓र् अजाशुव  
+धी᳓वतो-धीवतः स᳓खा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

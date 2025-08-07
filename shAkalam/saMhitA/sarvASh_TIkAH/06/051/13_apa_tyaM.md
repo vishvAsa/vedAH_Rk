@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡प त्यं꣡ वृजिनं꣡ रिपुं꣡  
-स्तेन꣡म् अग्ने दुराधि꣡यम्  
-दविष्ठ꣡म् अस्य सत्पते कृधी꣡ सुग꣡म्
+अ᳓प त्यं᳓ वृजिनं᳓ रिपुं᳓  
+स्तेन᳓म् अग्ने दुराधि᳓यम्  
+दविष्ठ᳓म् अस्य सत्पते कृधी᳓ सुग᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

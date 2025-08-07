@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् जागार त꣡म् ऋ꣡चः कामयन्ते  
-अग्नि꣡र् जागार त꣡म् उ सा꣡मानि यन्ति  
-अग्नि꣡र् जागार त꣡म् अयं꣡ सो꣡म आह  
-त꣡वाह꣡म् अस्मि सखिये꣡ नि꣡ओकाः
+अग्नि᳓र् जागार त᳓म् ऋ᳓चः कामयन्ते  
+अग्नि᳓र् जागार त᳓म् उ सा᳓मानि यन्ति  
+अग्नि᳓र् जागार त᳓म् अयं᳓ सो᳓म आह  
+त᳓वाह᳓म् अस्मि सखिये᳓ नि᳓ओकाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -277,7 +277,7 @@ _________
 Agni stays awake: him the verses desire. Agni stays awake: to him go the  melodies.  
 Agni stays awake: to him does this Soma say, “I am at home in  
 fellowship with you.”
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/044/14-15.md">

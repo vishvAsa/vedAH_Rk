@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उग्रा꣡ विघनि꣡ना मृ꣡ध  
-इन्द्रअग्नी꣡ हवामहे  
-ता꣡ नो मॄळात+ ईदृ꣡शे
+उग्रा᳓ विघनि᳓ना मृ᳓ध  
+इन्द्रअग्नी᳓ हवामहे  
+ता᳓ नो मॄळात+ ईदृ᳓शे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,7 +154,7 @@ _________
 
 The two strong ones who hew apart the negligent, Indra and Agni, do  we call upon.  
 They will be gracious to such as us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/04-05.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ रयि꣡म् पुरुवी꣡रम्  
-अ꣡ग्ने दाशु꣡षे म꣡र्ताय  
-प्र꣡ णो नय व꣡स्यो अ꣡छ
+तुवं᳓ रयि᳓म् पुरुवी᳓रम्  
+अ᳓ग्ने दाशु᳓षे म᳓र्ताय  
+प्र᳓ णो नय व᳓स्यो अ᳓छ
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡पो ह य꣡द् विद꣡थं वाजि꣡नो गु꣡र्  
-धीभि꣡र् वि꣡प्राः प्र꣡मतिम् इछ꣡मानाः  
-अ꣡र्वन्तो न꣡ का꣡ष्ठां᳐ न꣡क्षमाणा  
-इन्द्रअग्नी꣡ जो꣡हुवतो न꣡रस् ते꣡
+उ᳓पो ह य᳓द् विद᳓थं वाजि᳓नो गु᳓र्  
+धीभि᳓र् वि᳓प्राः प्र᳓मतिम् इछ᳓मानाः  
+अ᳓र्वन्तो न᳓ का᳓ष्ठां᳐ न᳓क्षमाणा  
+इन्द्रअग्नी᳓ जो᳓हुवतो न᳓रस् ते᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -250,7 +250,7 @@ _________
 When the prize-seekers have come to the rite of distribution, the inspired  poets with their visionary thoughts seeking your solicitude,  
 like steeds reaching the finish line, the men ever calling on Indra  
 and Agni—
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/093/03-04.md">

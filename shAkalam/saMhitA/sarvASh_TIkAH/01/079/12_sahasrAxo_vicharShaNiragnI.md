@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सहस्राक्षो꣡ वि꣡चर्षणिर्  
-अग्नी꣡ र꣡क्षांसि सेधति  
-हो꣡ता गृणीत उक्थि꣡यः
+सहस्राक्षो᳓ वि᳓चर्षणिर्  
+अग्नी᳓ र᳓क्षांसि सेधति  
+हो᳓ता गृणीत उक्थि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

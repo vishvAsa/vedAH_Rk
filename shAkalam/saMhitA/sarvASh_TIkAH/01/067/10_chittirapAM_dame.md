@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-चि꣡त्तिर् अपां᳐꣡ द꣡मे विश्वा꣡युः  
-स꣡द्मेव धी꣡राः सम्मा꣡य चक्रुः
+चि᳓त्तिर् अपां᳐᳓ द᳓मे विश्वा᳓युः  
+स᳓द्मेव धी᳓राः सम्मा᳓य चक्रुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

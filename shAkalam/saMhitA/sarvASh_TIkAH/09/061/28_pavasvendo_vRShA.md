@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्वेन्दो वृ꣡षा सुतः꣡  
-कृधी꣡ नो यश꣡सो ज꣡ने  
-वि꣡श्वा अ꣡प द्वि꣡षो जहि
+प᳓वस्वेन्दो वृ᳓षा सुतः᳓  
+कृधी᳓ नो यश᳓सो ज᳓ने  
+वि᳓श्वा अ᳓प द्वि᳓षो जहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -182,7 +182,7 @@ _________
 
 Purify yourself, o drop, when you, the bull, are pressed. Make us  glorious among the people.  
 Smash away all hatreds.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/28-30.md">

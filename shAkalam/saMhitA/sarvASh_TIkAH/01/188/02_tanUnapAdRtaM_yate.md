@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡नूनपाद् ऋतं꣡ यते꣡  
-म꣡ध्वा यज्ञः꣡ स꣡म् अज्यते  
-द꣡धत् सहस्रि꣡णीर् इ꣡षः
+त᳓नूनपाद् ऋतं᳓ यते᳓  
+म᳓ध्वा यज्ञः᳓ स᳓म् अज्यते  
+द᳓धत् सहस्रि᳓णीर् इ᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सं꣡ या꣡ दा꣡नूनि येम꣡थुर्  
-दिवियाः꣡ पा꣡र्थिवीर् इ꣡षः  
-न꣡भस्वतीर् आ꣡ वां चरन्तु वृष्ट꣡यः
+सं᳓ या᳓ दा᳓नूनि येम᳓थुर्  
+दिवियाः᳓ पा᳓र्थिवीर् इ᳓षः  
+न᳓भस्वतीर् आ᳓ वां चरन्तु वृष्ट᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -172,7 +172,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 You two who control the drops, the earthly and heavenly refreshments— let your cloud-accompanied rains drift here.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/05-06.md">

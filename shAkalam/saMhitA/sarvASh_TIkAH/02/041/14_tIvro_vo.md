@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तीव्रो꣡ वो म꣡धुमाँ अयं꣡  
-शुन꣡होत्रेषु मत्सरः꣡  
-एत꣡म् पिबत का꣡मियम्
+तीव्रो᳓ वो म᳓धुमाँ अयं᳓  
+शुन᳓होत्रेषु मत्सरः᳓  
+एत᳓म् पिबत का᳓मियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

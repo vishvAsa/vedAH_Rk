@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡षाम् आबाध꣡ ऋग्मि꣡य  
-इषः꣡ पृक्ष꣡श् च निग्र꣡भे  
-उपवि꣡दा · व꣡ह्निर् विन्दते व꣡सु
+ये᳓षाम् आबाध᳓ ऋग्मि᳓य  
+इषः᳓ पृक्ष᳓श् च निग्र᳓भे  
+उपवि᳓दा · व᳓ह्निर् विन्दते व᳓सु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

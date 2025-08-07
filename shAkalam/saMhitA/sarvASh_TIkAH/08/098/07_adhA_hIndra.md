@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धा हि꣡ इन्द्र गिर्वण  
-उ꣡प त्वा का꣡मान् महः꣡ ससृज्म꣡हे  
-उदे꣡व य꣡न्त उद꣡भिः
+अ᳓धा हि᳓ इन्द्र गिर्वण  
+उ᳓प त्वा का᳓मान् महः᳓ ससृज्म᳓हे  
+उदे᳓व य᳓न्त उद᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

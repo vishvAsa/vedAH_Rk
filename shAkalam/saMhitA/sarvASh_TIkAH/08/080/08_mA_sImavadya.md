@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ सीम् अवद्य꣡ आ꣡ भाग्  
-उर्वी꣡ का꣡ष्ठा हितं꣡ ध꣡नम्  
-अपा꣡वृक्ता अरत्न꣡यः
+मा᳓ सीम् अवद्य᳓ आ᳓ भाग्  
+उर्वी᳓ का᳓ष्ठा हितं᳓ ध᳓नम्  
+अपा᳓वृक्ता अरत्न᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

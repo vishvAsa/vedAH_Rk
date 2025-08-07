@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वयं꣡ शू꣡रेभिर् अ꣡स्तृभिर्  
-इ꣡न्द्र त्व꣡या युजा꣡ वय꣡म्  
-सासह्या꣡म पृतन्यतः꣡
+वयं᳓ शू᳓रेभिर् अ᳓स्तृभिर्  
+इ᳓न्द्र त्व᳓या युजा᳓ वय᳓म्  
+सासह्या᳓म पृतन्यतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

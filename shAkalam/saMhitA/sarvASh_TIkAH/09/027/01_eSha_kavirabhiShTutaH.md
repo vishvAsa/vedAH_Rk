@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ कवि꣡र् अभि꣡ष्टुतः  
-पवि꣡त्रे अ꣡धि तोशते  
-पुनानो꣡ घ्न꣡न्न् अ꣡प स्रि꣡धः
+एष᳓ कवि᳓र् अभि᳓ष्टुतः  
+पवि᳓त्रे अ᳓धि तोशते  
+पुनानो᳓ घ्न᳓न्न् अ᳓प स्रि᳓धः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

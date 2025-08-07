@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् हो꣡ता पुरो꣡हितो  
-अध्वर꣡स्य वि꣡चर्षणिः  
-स꣡ वेद यज्ञ꣡म् आनुष꣡क्
+अग्नि᳓र् हो᳓ता पुरो᳓हितो  
+अध्वर᳓स्य वि᳓चर्षणिः  
+स᳓ वेद यज्ञ᳓म् आनुष᳓क्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

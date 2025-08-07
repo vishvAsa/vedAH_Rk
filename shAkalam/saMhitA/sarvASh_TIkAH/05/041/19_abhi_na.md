@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ न इ꣡ळा यूथ꣡स्य माता꣡  
-स्म꣡न् नदी꣡भिर् उर्व꣡शी वा गृणातु  
-उर्व꣡शी वा बृहद्दिवा꣡ गृणाना꣡  
-अभिऊर्ण्वाना꣡ प्रभृथ꣡स्य आयोः꣡
+अभि᳓ न इ᳓ळा यूथ᳓स्य माता᳓  
+स्म᳓न् नदी᳓भिर् उर्व᳓शी वा गृणातु  
+उर्व᳓शी वा बृहद्दिवा᳓ गृणाना᳓  
+अभिऊर्ण्वाना᳓ प्रभृथ᳓स्य आयोः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -231,7 +231,7 @@ Prabhṛta = light, **tejas**, or water, udakam (**Nirukta** 2.49) and being in 
 Let Iḍā, mother of the flock, greet us, or let Urvaśī, along with the  rivers.  
 Or Urvaśī Br̥haddivā, being sung, covering herself, (mother) of the  
 (ritual) presentation, mother of Āyu,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/041/19-20.md">

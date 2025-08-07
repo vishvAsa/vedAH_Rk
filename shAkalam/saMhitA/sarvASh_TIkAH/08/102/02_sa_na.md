@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ न ई꣡ळानया सह꣡  
-देवाँ꣡ अग्ने दुवस्यु꣡वा  
-चिकि꣡द् विभानव् आ꣡ वह
+स᳓ न ई᳓ळानया सह᳓  
+देवाँ᳓ अग्ने दुवस्यु᳓वा  
+चिकि᳓द् विभानव् आ᳓ वह
 </details>
 
 <details><summary>Vedaweb annotation</summary>

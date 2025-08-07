@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ चन्द्रो꣡ विप्र म꣡र्तियो  
-महो꣡ व्रा꣡धन्तमो दिवि꣡  
-प्र꣡-प्रे꣡त् ते अग्ने वनु꣡षः सियाम
+स᳓ चन्द्रो᳓ विप्र म᳓र्तियो  
+महो᳓ व्रा᳓धन्तमो दिवि᳓  
+प्र᳓-प्रे᳓त् ते अग्ने वनु᳓षः सियाम
 </details>
 
 <details><summary>Vedaweb annotation</summary>

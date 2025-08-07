@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व देव आयुष꣡ग्  
-इ꣡न्द्रं गछतु ते म꣡दः  
-वायु꣡म् आ꣡ रोह ध꣡र्मणा
+प᳓वस्व देव आयुष᳓ग्  
+इ᳓न्द्रं गछतु ते म᳓दः  
+वायु᳓म् आ᳓ रोह ध᳓र्मणा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

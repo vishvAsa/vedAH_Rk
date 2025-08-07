@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इदं꣡ तिय꣡त् पा꣡तरम्+ इन्द्रपा꣡नम्  
-इ꣡न्द्रस्य प्रिय꣡म् अमृ꣡तम् अपायि  
-म꣡त्सद् य꣡था सौमनसा꣡य देवं꣡  
-वि꣡ अस्म꣡द् द्वे꣡षो युय꣡वद् वि꣡ अं꣡हः
+इदं᳓ तिय᳓त् पा᳓तरम्+ इन्द्रपा᳓नम्  
+इ᳓न्द्रस्य प्रिय᳓म् अमृ᳓तम् अपायि  
+म᳓त्सद् य᳓था सौमनसा᳓य देवं᳓  
+वि᳓ अस्म᳓द् द्वे᳓षो युय᳓वद् वि᳓ अं᳓हः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -239,7 +239,7 @@ _________
 
 Here is this drinking cup, giving drink to Indra. Indra’s dear immortal  (drink) has been drunk,  
 so that it will exhilarate the god for the sake of his good favor and will  keep hatred and constraint away from us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

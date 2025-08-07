@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् उ पूष्णा꣡ गमेमहि  
-यो꣡ गृहाँ꣡ अभिशा꣡सति  
-इम꣡ एवे꣡ति च ब्र꣡वत्
+स᳓म् उ पूष्णा᳓ गमेमहि  
+यो᳓ गृहाँ᳓ अभिशा᳓सति  
+इम᳓ एवे᳓ति च ब्र᳓वत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

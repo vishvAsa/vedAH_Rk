@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्य꣡ वीर꣡स्य बर्हि꣡षि  
-सुतः꣡ सो꣡मो दि꣡विष्टिषु  
-उक्थ꣡म् म꣡दश् च शस्यते
+अस्य᳓ वीर᳓स्य बर्हि᳓षि  
+सुतः᳓ सो᳓मो दि᳓विष्टिषु  
+उक्थ᳓म् म᳓दश् च शस्यते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,7 +154,7 @@ _________
 
 Of that hero here the soma has been pressed at the rituals of day(break)  on his ritual grass;  
 his solemn speech and exhilarating drink are being announced.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/04-05.md">

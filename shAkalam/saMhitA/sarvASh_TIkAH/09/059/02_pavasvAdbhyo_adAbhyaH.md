@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्वाद्भ्यो꣡ अ꣡दाभियः  
-प꣡वस्व ओ꣡षधीभियः  
-प꣡वस्व धिष꣡णाभियः
+प᳓वस्वाद्भ्यो᳓ अ᳓दाभियः  
+प᳓वस्व ओ᳓षधीभियः  
+प᳓वस्व धिष᳓णाभियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

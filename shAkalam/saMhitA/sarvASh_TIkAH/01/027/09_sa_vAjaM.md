@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ वा꣡जं विश्व꣡चर्षणिर्  
-अ꣡र्वद्भिर् अस्तु त꣡रुता  
-वि꣡प्रेभिर् अस्तु स꣡निता
+स᳓ वा᳓जं विश्व᳓चर्षणिर्  
+अ᳓र्वद्भिर् अस्तु त᳓रुता  
+वि᳓प्रेभिर् अस्तु स᳓निता
 </details>
 
 <details><summary>Vedaweb annotation</summary>

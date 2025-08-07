@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो दूरा꣡च् च आसा꣡च् च  
-नि꣡ म꣡र्तिया᳐द् अघायोः꣡  
-पाहि꣡ स꣡दम् इ꣡द् विश्वा꣡युः
+स᳓ नो दूरा᳓च् च आसा᳓च् च  
+नि᳓ म᳓र्तिया᳐द् अघायोः᳓  
+पाहि᳓ स᳓दम् इ᳓द् विश्वा᳓युः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

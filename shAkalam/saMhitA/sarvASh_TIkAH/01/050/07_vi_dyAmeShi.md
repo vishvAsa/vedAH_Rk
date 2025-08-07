@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ द्या꣡म् एषि र꣡जस् पृथु꣡  
-अ꣡हा मि꣡मानो अक्तु꣡भिः  
-प꣡श्यञ् ज꣡न्मानि सूरिय
+वि᳓ द्या᳓म् एषि र᳓जस् पृथु᳓  
+अ᳓हा मि᳓मानो अक्तु᳓भिः  
+प᳓श्यञ् ज᳓न्मानि सूरिय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

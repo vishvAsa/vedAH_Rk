@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यूयं꣡ हि꣡ ष्ठा꣡ सुदानवो  
-रु꣡द्रा ऋभुक्षणो द꣡मे  
-उत꣡ प्र꣡चेतसो म꣡दे
+यूयं᳓ हि᳓ ष्ठा᳓ सुदानवो  
+रु᳓द्रा ऋभुक्षणो द᳓मे  
+उत᳓ प्र᳓चेतसो म᳓दे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

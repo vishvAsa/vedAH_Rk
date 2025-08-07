@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡न् मा पीता꣡ अयंसत  
-र꣡थम् अ꣡श्वा इवाश꣡वः  
-कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
+उ᳓न् मा पीता᳓ अयंसत  
+र᳓थम् अ᳓श्वा इवाश᳓वः  
+कुवि᳓त् सो᳓मस्या᳓पाम् इ᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

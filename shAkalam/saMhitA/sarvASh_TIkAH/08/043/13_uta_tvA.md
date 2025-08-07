@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ त्वा भृगुव꣡च् छुचे  
-मनुष्व꣡द् अग्न आहुत  
-अङ्गिरस्व꣡द् धवामहे
+उत᳓ त्वा भृगुव᳓च् छुचे  
+मनुष्व᳓द् अग्न आहुत  
+अङ्गिरस्व᳓द् धवामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

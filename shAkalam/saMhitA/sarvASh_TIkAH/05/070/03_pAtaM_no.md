@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पातं꣡ नो रुद्रा पायु꣡भिर्  
-उत꣡ त्रायेथां सुत्रात्रा꣡  
-तुर्या꣡म द꣡स्यून् तनू꣡भिः
+पातं᳓ नो रुद्रा पायु᳓भिर्  
+उत᳓ त्रायेथां सुत्रात्रा᳓  
+तुर्या᳓म द᳓स्यून् तनू᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

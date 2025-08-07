@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शं꣡ नः करति अ꣡र्वते  
-सुग꣡म् मेषा꣡य मेषि꣡ये  
-नृ꣡भ्यो ना꣡रिभियो ग꣡वे
+शं᳓ नः करति अ᳓र्वते  
+सुग᳓म् मेषा᳓य मेषि᳓ये  
+नृ᳓भ्यो ना᳓रिभियो ग᳓वे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ शुष्मी꣡ कल꣡शेषु आ꣡  
-पुनानो꣡ अचिक्रदत्  
-म꣡देषु सर्वधा꣡ असि
+स᳓ शुष्मी᳓ कल᳓शेषु आ᳓  
+पुनानो᳓ अचिक्रदत्  
+म᳓देषु सर्वधा᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

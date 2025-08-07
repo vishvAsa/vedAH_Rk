@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡प्रेभिर् विप्र सन्तिय  
-प्रातर्या꣡वभिर् आ꣡ गहि  
-देवे꣡भिः सो꣡मपीतये
+वि᳓प्रेभिर् विप्र सन्तिय  
+प्रातर्या᳓वभिर् आ᳓ गहि  
+देवे᳓भिः सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

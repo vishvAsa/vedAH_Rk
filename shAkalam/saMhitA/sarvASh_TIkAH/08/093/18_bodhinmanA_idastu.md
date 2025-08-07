@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-बोधि꣡न्मना इ꣡द् अस्तु नो  
-वृत्रहा꣡ भू꣡रिआसुतिः  
-शृणो꣡तु शक्र꣡ आशि꣡षम्
+बोधि᳓न्मना इ᳓द् अस्तु नो  
+वृत्रहा᳓ भू᳓रिआसुतिः  
+शृणो᳓तु शक्र᳓ आशि᳓षम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ दुर्गा꣡ वि꣡ द्वि꣡षः पुरो꣡  
-घ्न꣡न्ति रा꣡जान एषा᳐म्  
-न꣡यन्ति दुरिता꣡ तिरः꣡
+वि᳓ दुर्गा᳓ वि᳓ द्वि᳓षः पुरो᳓  
+घ्न᳓न्ति रा᳓जान एषा᳐म्  
+न᳓यन्ति दुरिता᳓ तिरः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

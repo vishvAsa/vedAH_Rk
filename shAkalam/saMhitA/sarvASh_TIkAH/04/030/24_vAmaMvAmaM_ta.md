@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वामं꣡-वामं त आदुरे  
-देवो꣡ ददातु अर्यमा꣡  
-वाम꣡म् पूषा꣡ वाम꣡म् भ꣡गो  
-वामं꣡ देवः꣡ क꣡रूळती
+वामं᳓-वामं त आदुरे  
+देवो᳓ ददातु अर्यमा᳓  
+वाम᳓म् पूषा᳓ वाम᳓म् भ᳓गो  
+वामं᳓ देवः᳓ क᳓रूळती
 </details>
 
 <details><summary>Vedaweb annotation</summary>

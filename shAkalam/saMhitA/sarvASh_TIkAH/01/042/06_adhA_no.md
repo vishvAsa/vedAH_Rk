@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धा नो विश्वसौभग  
-हि꣡रण्यवाशीमत्तम  
-ध꣡नानि सुष꣡णा कृधि
+अ᳓धा नो विश्वसौभग  
+हि᳓रण्यवाशीमत्तम  
+ध᳓नानि सुष᳓णा कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

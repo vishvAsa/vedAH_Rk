@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् हो꣡ता कवि꣡क्रतुः  
-सत्य꣡श् चित्र꣡श्रवस्तमः  
-देवो꣡ देवे꣡भिर् आ꣡ गमत्
+अग्नि᳓र् हो᳓ता कवि᳓क्रतुः  
+सत्य᳓श् चित्र᳓श्रवस्तमः  
+देवो᳓ देवे᳓भिर् आ᳓ गमत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

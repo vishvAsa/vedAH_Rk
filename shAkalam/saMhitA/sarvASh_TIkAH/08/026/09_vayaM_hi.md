@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वयं꣡ हि꣡ वां ह꣡वामह  
-उक्षण्य꣡न्तो विअश्वव꣡त्  
-सुमति꣡भिर् उ꣡प विप्राव् इहा꣡ गतम्
+वयं᳓ हि᳓ वां ह᳓वामह  
+उक्षण्य᳓न्तो विअश्वव᳓त्  
+सुमति᳓भिर् उ᳓प विप्राव् इहा᳓ गतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,11 +15,11 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡ सुनीथे꣡ शौचद्रथे꣡  
-वि꣡ अउ꣡छो दुहितर् दिवः  
-सा꣡ वि꣡ उछ स꣡हीयसि  
-सत्य꣡श्रवसि वायिये꣡  
-सु꣡जाते अ꣡श्वसूनृते
+या᳓ सुनीथे᳓ शौचद्रथे᳓  
+वि᳓ अउ᳓छो दुहितर् दिवः  
+सा᳓ वि᳓ उछ स᳓हीयसि  
+सत्य᳓श्रवसि वायिये᳓  
+सु᳓जाते अ᳓श्वसूनृते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -214,7 +214,7 @@ _________
 
 You who dawned forth at Sunītha Śaucadratha’s, o Daughter of Heaven, dawn forth at the mightier Satyaśravas Vāyya’s  
 – o well-born lady, liberal with horses.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/01-03.md">

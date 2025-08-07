@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡छा नो याहि आ꣡ वह  
-अभि꣡ प्र꣡यांसि वीत꣡ये  
-आ꣡ देवा꣡न् सो꣡मपीतये
+अ᳓छा नो याहि आ᳓ वह  
+अभि᳓ प्र᳓यांसि वीत᳓ये  
+आ᳓ देवा᳓न् सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ वि꣡श्वानि अभि꣡ व्रता꣡  
-सो꣡मस्य म꣡दे अ꣡न्धसः  
-इ꣡न्द्रो देवे꣡षु चे꣡तति
+यो᳓ वि᳓श्वानि अभि᳓ व्रता᳓  
+सो᳓मस्य म᳓दे अ᳓न्धसः  
+इ᳓न्द्रो देवे᳓षु चे᳓तति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -158,7 +158,7 @@ _________
 
 Who in the exhilaration of the soma stalk  
 oversees all commandments among the gods—Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/032/27-28.md">

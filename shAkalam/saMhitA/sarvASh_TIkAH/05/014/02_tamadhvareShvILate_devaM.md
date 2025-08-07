@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् अध्वरे꣡षु ईळते  
-देव꣡म् म꣡र्ता अ꣡मर्तियम्  
-य꣡जिष्ठम् मा꣡नुषे ज꣡ने
+त᳓म् अध्वरे᳓षु ईळते  
+देव᳓म् म᳓र्ता अ᳓मर्तियम्  
+य᳓जिष्ठम् मा᳓नुषे ज᳓ने
 </details>
 
 <details><summary>Vedaweb annotation</summary>

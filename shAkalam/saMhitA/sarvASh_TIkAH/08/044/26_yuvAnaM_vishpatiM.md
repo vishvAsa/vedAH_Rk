@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यु꣡वानं विश्प꣡तिं कविं꣡  
-विश्वा꣡दम् पुरुवे꣡पसम्  
-अग्निं꣡ शुम्भामि म꣡न्मभिः
+यु᳓वानं विश्प᳓तिं कविं᳓  
+विश्वा᳓दम् पुरुवे᳓पसम्  
+अग्निं᳓ शुम्भामि म᳓न्मभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

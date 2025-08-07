@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ यः꣡ सु꣡वर् ण꣡ भानु꣡ना  
-चित्रो꣡ विभा꣡ति अर्चि꣡षा  
-अञ्जानो꣡ अज꣡रैर् अभि꣡
+आ᳓ यः᳓ सु᳓वर् ण᳓ भानु᳓ना  
+चित्रो᳓ विभा᳓ति अर्चि᳓षा  
+अञ्जानो᳓ अज᳓रैर् अभि᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -163,7 +163,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Who, like the sun with its radiance, shines forth bright with his flame, anointing himself with his own unaging (flames).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/04-06.md">

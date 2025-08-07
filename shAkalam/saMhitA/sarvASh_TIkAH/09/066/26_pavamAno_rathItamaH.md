@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानो रथी꣡तमः  
-शुभ्रे꣡भिः शुभ्र꣡शस्तमः  
-ह꣡रिश्चन्द्रो मरु꣡द्गणः
+प᳓वमानो रथी᳓तमः  
+शुभ्रे᳓भिः शुभ्र᳓शस्तमः  
+ह᳓रिश्चन्द्रो मरु᳓द्गणः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

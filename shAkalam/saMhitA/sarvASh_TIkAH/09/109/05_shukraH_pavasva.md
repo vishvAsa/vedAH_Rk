@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-शुक्रः꣡ पवस्व देवे꣡भ्यः सोम  
-दिवे꣡ पृथिव्यइ꣡ शं꣡ च प्रजा꣡यै
+शुक्रः᳓ पवस्व देवे᳓भ्यः सोम  
+दिवे᳓ पृथिव्यइ᳓ शं᳓ च प्रजा᳓यै
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -141,7 +141,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Gleaming, purify yourself for the gods, o Soma, for heaven, for earth,  and as weal for offspring.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/04-06.md">

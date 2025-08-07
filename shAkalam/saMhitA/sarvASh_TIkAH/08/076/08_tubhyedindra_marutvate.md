@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तु꣡भ्ये꣡द् इन्द्र मरु꣡त्वते  
-सुताः꣡ सो꣡मासो अद्रिवः  
-हृदा꣡ हूयन्त उक्थि꣡नः
+तु᳓भ्ये᳓द् इन्द्र मरु᳓त्वते  
+सुताः᳓ सो᳓मासो अद्रिवः  
+हृदा᳓ हूयन्त उक्थि᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ज꣡ने न꣡ शे꣡व आहू꣡रियः स꣡न्  
-म꣡ध्ये नि꣡षत्तो रण्वो꣡ दुरोणे꣡
+ज᳓ने न᳓ शे᳓व आहू᳓रियः स᳓न्  
+म᳓ध्ये नि᳓षत्तो रण्वो᳓ दुरोणे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

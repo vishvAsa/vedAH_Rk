@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ देवः꣡ शुभायते  
-अ꣡धि यो꣡नाव् अ꣡मर्तियः  
-वृत्रहा꣡ देववी꣡तमः
+एष᳓ देवः᳓ शुभायते  
+अ᳓धि यो᳓नाव् अ᳓मर्तियः  
+वृत्रहा᳓ देववी᳓तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ सू꣡र्येण हासते  
-प꣡वमानो अ꣡धि द्य꣡वि  
-पवि꣡त्रे मत्सरो꣡ म꣡दः
+एष᳓ सू᳓र्येण हासते  
+प᳓वमानो अ᳓धि द्य᳓वि  
+पवि᳓त्रे मत्सरो᳓ म᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

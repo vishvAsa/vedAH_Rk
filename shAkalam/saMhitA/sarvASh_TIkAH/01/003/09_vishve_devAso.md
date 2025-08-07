@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वे देवा꣡सो अस्रि꣡ध  
-ए꣡हिमायासो अद्रु꣡हः  
-मे꣡धं जुषन्त व꣡ह्नयः
+वि᳓श्वे देवा᳓सो अस्रि᳓ध  
+ए᳓हिमायासो अद्रु᳓हः  
+मे᳓धं जुषन्त व᳓ह्नयः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

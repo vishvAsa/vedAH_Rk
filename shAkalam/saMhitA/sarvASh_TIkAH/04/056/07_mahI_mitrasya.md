@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मही꣡ मित्र꣡स्य साधथस्  
-त꣡रन्ती पि꣡प्रती ऋत꣡म्  
-प꣡रि यज्ञं꣡ नि꣡ षेदथुः
+मही᳓ मित्र᳓स्य साधथस्  
+त᳓रन्ती पि᳓प्रती ऋत᳓म्  
+प᳓रि यज्ञं᳓ नि᳓ षेदथुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

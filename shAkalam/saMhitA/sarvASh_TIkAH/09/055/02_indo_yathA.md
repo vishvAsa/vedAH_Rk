@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्दो य꣡था त꣡व स्त꣡वो  
-य꣡था ते जात꣡म् अ꣡न्धसः  
-नि꣡ बर्हि꣡षि प्रिये꣡ सदः
+इ᳓न्दो य᳓था त᳓व स्त᳓वो  
+य᳓था ते जात᳓म् अ᳓न्धसः  
+नि᳓ बर्हि᳓षि प्रिये᳓ सदः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

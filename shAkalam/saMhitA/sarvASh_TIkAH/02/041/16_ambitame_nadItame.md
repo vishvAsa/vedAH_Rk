@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡म्बितमे न꣡दीतमे  
-दे꣡वितमे स꣡रस्वति  
-अप्रशस्ता꣡ इव स्मसि  
-प्र꣡शस्तिम् अम्ब नस् कृधि
+अ᳓म्बितमे न᳓दीतमे  
+दे᳓वितमे स᳓रस्वति  
+अप्रशस्ता᳓ इव स्मसि  
+प्र᳓शस्तिम् अम्ब नस् कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

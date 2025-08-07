@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡श्विना य꣡ज्वरीर् इ꣡षो  
-द्र꣡वत्पाणी शु꣡भस् पती  
-पु꣡रुभुजा चनस्य꣡तम्
+अ᳓श्विना य᳓ज्वरीर् इ᳓षो  
+द्र᳓वत्पाणी शु᳓भस् पती  
+पु᳓रुभुजा चनस्य᳓तम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

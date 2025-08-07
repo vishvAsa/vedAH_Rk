@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-द्रु꣡अन्नः सर्पि꣡रासुतिः  
-प्रत्नो꣡ हो꣡ता व꣡रेणियः  
-स꣡हसस् पुत्रो꣡ अ꣡द्भुतः
+द्रु᳓अन्नः सर्पि᳓रासुतिः  
+प्रत्नो᳓ हो᳓ता व᳓रेणियः  
+स᳓हसस् पुत्रो᳓ अ᳓द्भुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

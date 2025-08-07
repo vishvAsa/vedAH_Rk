@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ ते सिञ्चामि कुक्षियो꣡र्  
-अ꣡नु गा꣡त्रा वि꣡ धावतु  
-गृभाय꣡ जिह्व꣡या म꣡धु
+आ᳓ ते सिञ्चामि कुक्षियो᳓र्  
+अ᳓नु गा᳓त्रा वि᳓ धावतु  
+गृभाय᳓ जिह्व᳓या म᳓धु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

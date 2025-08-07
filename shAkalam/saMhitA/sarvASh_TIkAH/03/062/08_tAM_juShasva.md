@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तां꣡ जुषस्व गि꣡रम् म꣡म  
-वाजय꣡न्तीम् अवा धि꣡यम्  
-वधूयु꣡र् इव यो꣡षणाम्
+तां᳓ जुषस्व गि᳓रम् म᳓म  
+वाजय᳓न्तीम् अवा धि᳓यम्  
+वधूयु᳓र् इव यो᳓षणाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

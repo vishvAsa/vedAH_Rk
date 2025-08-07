@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पथ꣡ ए꣡कः पिपाय° त꣡स्करो यथाँ  
-एष꣡ वेद निधीना᳐꣡म्
+पथ᳓ ए᳓कः पिपाय° त᳓स्करो यथाँ  
+एष᳓ वेद निधीना᳐᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

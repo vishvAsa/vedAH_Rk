@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ नो वृष्टिं꣡ दिव꣡स् प꣡रि  
-प꣡वन्ताम् आ꣡ सुवी꣡रियम्  
-स्वाना꣡° देवा꣡स इ꣡न्दवः
+ते᳓ नो वृष्टिं᳓ दिव᳓स् प᳓रि  
+प᳓वन्ताम् आ᳓ सुवी᳓रियम्  
+स्वाना᳓° देवा᳓स इ᳓न्दवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -172,7 +172,7 @@ _________
 
 By purifying themselves, let them bring here to us rain from heaven and  an abundance of heroes—  
 the gods, the drops, being pressed.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/22-24.md">

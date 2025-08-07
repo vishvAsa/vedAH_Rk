@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ज꣡यताम् इव तन्यतु꣡र्  
-मरु꣡ताम् एति धृष्णुया꣡  
-य꣡च् छु꣡भं याथ꣡ना नरः
+ज᳓यताम् इव तन्यतु᳓र्  
+मरु᳓ताम् एति धृष्णुया᳓  
+य᳓च् छु᳓भं याथ᳓ना नरः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

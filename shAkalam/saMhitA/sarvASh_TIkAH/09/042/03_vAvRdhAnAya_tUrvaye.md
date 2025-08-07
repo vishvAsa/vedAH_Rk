@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वावृधाना꣡य तू꣡र्वये  
-प꣡वन्ते वा꣡जसातये  
-सो꣡माः सह꣡स्रपाजसः
+वावृधाना᳓य तू᳓र्वये  
+प᳓वन्ते वा᳓जसातये  
+सो᳓माः सह᳓स्रपाजसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

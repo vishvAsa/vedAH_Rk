@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ कवि꣡र् देव꣡वीतये  
-अ꣡व्यो वा꣡रेभिर् अर्षति  
-साह्वा꣡न् वि꣡श्वा अभि꣡ स्पृ꣡धः
+प्र᳓ कवि᳓र् देव᳓वीतये  
+अ᳓व्यो वा᳓रेभिर् अर्षति  
+साह्वा᳓न् वि᳓श्वा अभि᳓ स्पृ᳓धः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

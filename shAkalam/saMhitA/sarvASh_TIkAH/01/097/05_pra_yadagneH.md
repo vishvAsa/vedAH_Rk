@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ य꣡द् अग्नेः꣡ स꣡हस्वतो  
-विश्व꣡तो य꣡न्ति भान꣡वः  
-अ꣡प नः शो꣡शुचद् अघ꣡म्
+प्र᳓ य᳓द् अग्नेः᳓ स᳓हस्वतो  
+विश्व᳓तो य᳓न्ति भान᳓वः  
+अ᳓प नः शो᳓शुचद् अघ᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -164,7 +164,7 @@ _________
 
 When the beams of powerful Agni go forth in all directions  
 —(you) blazing away the bad for us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/097/03-05.md">

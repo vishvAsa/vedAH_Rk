@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आत्मा꣡ यज्ञ꣡स्य रं꣡हिया  
-सुष्वाणः꣡ पवते सुतः꣡  
-प्रत्नं꣡ नि꣡ पाति का꣡वियम्
+आत्मा᳓ यज्ञ᳓स्य रं᳓हिया  
+सुष्वाणः᳓ पवते सुतः᳓  
+प्रत्नं᳓ नि᳓ पाति का᳓वियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -153,7 +153,7 @@ _________
 
 The embodiment of the sacrifice, the pressed soma, having been pressed,  purifies himself at speed.  
 He protects the age-old poetic skill.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/006/08-09.md">

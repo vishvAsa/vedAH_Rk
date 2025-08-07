@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ इ꣡न्द्राय वचोयु꣡जा  
-ततक्षु꣡र् म꣡नसा ह꣡री  
-श꣡मीभिर् यज्ञ꣡म् आशत
+य᳓ इ᳓न्द्राय वचोयु᳓जा  
+ततक्षु᳓र् म᳓नसा ह᳓री  
+श᳓मीभिर् यज्ञ᳓म् आशत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

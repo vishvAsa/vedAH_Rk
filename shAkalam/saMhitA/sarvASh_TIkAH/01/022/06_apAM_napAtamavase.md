@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अपां꣡ न꣡पातम् अ꣡वसे  
-सविता꣡रम् उ꣡प स्तुहि  
-त꣡स्य व्रता꣡नि उश्मसि
+अपां᳓ न᳓पातम् अ᳓वसे  
+सविता᳓रम् उ᳓प स्तुहि  
+त᳓स्य व्रता᳓नि उश्मसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-घृ꣡ताहवन दीदिवः  
-प्र꣡ति ष्म रि꣡षतो दह  
-अ꣡ग्ने तुवं꣡ रक्षस्वि꣡नः
+घृ᳓ताहवन दीदिवः  
+प्र᳓ति ष्म रि᳓षतो दह  
+अ᳓ग्ने तुवं᳓ रक्षस्वि᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

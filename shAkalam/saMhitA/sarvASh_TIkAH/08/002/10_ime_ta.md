@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमे꣡ त इन्द्र सो꣡मास्  
-तीव्रा꣡ अस्मे꣡ सुता꣡सः  
-शुक्रा꣡ आशि꣡रं याचन्ते
+इमे᳓ त इन्द्र सो᳓मास्  
+तीव्रा᳓ अस्मे᳓ सुता᳓सः  
+शुक्रा᳓ आशि᳓रं याचन्ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

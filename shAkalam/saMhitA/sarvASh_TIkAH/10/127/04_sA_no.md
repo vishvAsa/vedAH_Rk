@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सा꣡ नो अद्य꣡ य꣡स्या वयं꣡  
-नि꣡ ते या꣡मन्न् अ꣡विक्ष्महि  
-वृक्षे꣡ न꣡ वसतिं꣡ व꣡यः
+सा᳓ नो अद्य᳓ य᳓स्या वयं᳓  
+नि᳓ ते या᳓मन्न् अ᳓विक्ष्महि  
+वृक्षे᳓ न᳓ वसतिं᳓ व᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-म꣡धु न꣡क्तम् उतो꣡ष꣡सो  
-म꣡धुमत् पा꣡र्थिवं र꣡जः  
-म꣡धु द्यउ꣡र् अस्तु नः पिता꣡
+म᳓धु न᳓क्तम् उतो᳓ष᳓सो  
+म᳓धुमत् पा᳓र्थिवं र᳓जः  
+म᳓धु द्यउ᳓र् अस्तु नः पिता᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

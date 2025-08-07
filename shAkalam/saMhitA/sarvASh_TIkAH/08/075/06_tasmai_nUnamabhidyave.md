@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡स्मै नून꣡म् अभि꣡द्यवे  
-वाचा꣡ विरूप नि꣡त्यया  
-वृ꣡ष्णे चोदस्व सुष्टुति꣡म्
+त᳓स्मै नून᳓म् अभि᳓द्यवे  
+वाचा᳓ विरूप नि᳓त्यया  
+वृ᳓ष्णे चोदस्व सुष्टुति᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

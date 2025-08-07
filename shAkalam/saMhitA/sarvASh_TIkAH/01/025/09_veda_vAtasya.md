@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वे꣡द वा꣡तस्य वर्तनि꣡म्  
-उरो꣡र् ऋष्व꣡स्य बृहतः꣡  
-वे꣡दा ये꣡ अधिआ꣡सते
+वे᳓द वा᳓तस्य वर्तनि᳓म्  
+उरो᳓र् ऋष्व᳓स्य बृहतः᳓  
+वे᳓दा ये᳓ अधिआ᳓सते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ न इन्द्र पीयत्न꣡वे  
-मा꣡ श꣡र्धते प꣡रा दाः  
-शि꣡क्षा शचीवः श꣡चीभिः
+मा᳓ न इन्द्र पीयत्न᳓वे  
+मा᳓ श᳓र्धते प᳓रा दाः  
+शि᳓क्षा शचीवः श᳓चीभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-जुषाणो꣡ अङ्गिरस्तम  
-इमा꣡ हव्या꣡नि आनुष꣡क्  
-अ꣡ग्ने यज्ञं꣡ नय र्तुथा꣡
+जुषाणो᳓ अङ्गिरस्तम  
+इमा᳓ हव्या᳓नि आनुष᳓क्  
+अ᳓ग्ने यज्ञं᳓ नय र्तुथा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

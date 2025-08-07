@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡व नो वृजिना꣡ शिशीह्य्  
-ऋचा꣡ वनेम अनृ꣡चः  
-ना꣡ब्रह्मा यज्ञ꣡ ऋ꣡धग् जो꣡षति त्वे꣡
+अ᳓व नो वृजिना᳓ शिशीह्य्  
+ऋचा᳓ वनेम अनृ᳓चः  
+ना᳓ब्रह्मा यज्ञ᳓ ऋ᳓धग् जो᳓षति त्वे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

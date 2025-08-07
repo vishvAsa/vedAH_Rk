@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ नो देवी꣡ अ꣡दितिर्  
-उरुष्य꣡तां ना꣡सतिया  
-उरुष्य꣡न्तु मरु꣡तो वृद्ध꣡शवसः
+उत᳓ नो देवी᳓ अ᳓दितिर्  
+उरुष्य᳓तां ना᳓सतिया  
+उरुष्य᳓न्तु मरु᳓तो वृद्ध᳓शवसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -149,7 +149,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 And let the goddess Aditi, let the two Nāsatyas [=Aśvins] give us room; let the Maruts, whose strength has increased, give room.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/10-12.md">

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-मित्रा꣡ त꣡ना न꣡ रथि꣡या  
-व꣡रुणो य꣡श् च सुक्र꣡तुः  
-सना꣡त् सुजाता꣡ त꣡नया धृत꣡व्रता
+मित्रा᳓ त᳓ना न᳓ रथि᳓या  
+व᳓रुणो य᳓श् च सुक्र᳓तुः  
+सना᳓त् सुजाता᳓ त᳓नया धृत᳓व्रता
 </details>
 
 <details><summary>Vedaweb annotation</summary>

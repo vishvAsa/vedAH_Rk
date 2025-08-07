@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुशे꣡वो नो मॄळया꣡कुर्+  
-अ꣡दृप्तक्रतुर् अवातः꣡  
-भ꣡वा नः सोम शं꣡ हृदे꣡
+सुशे᳓वो नो मॄळया᳓कुर्+  
+अ᳓दृप्तक्रतुर् अवातः᳓  
+भ᳓वा नः सोम शं᳓ हृदे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

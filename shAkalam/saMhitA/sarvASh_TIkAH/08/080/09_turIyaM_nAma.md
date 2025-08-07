@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुरी꣡यं ना꣡म यज्ञि꣡यं  
-यदा꣡ क꣡रस् त꣡द् उश्मसि  
-आ꣡द् इ꣡त् प꣡तिर् न ओहसे
+तुरी᳓यं ना᳓म यज्ञि᳓यं  
+यदा᳓ क᳓रस् त᳓द् उश्मसि  
+आ᳓द् इ᳓त् प᳓तिर् न ओहसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡द् उ मे निवरो꣡ भुवद्  
-वृत्रहा꣡दिष्ट पउं꣡सियम्  
-अ꣡जातशत्रुर् अ꣡स्तृतः
+आ᳓द् उ मे निवरो᳓ भुवद्  
+वृत्रहा᳓दिष्ट पउं᳓सियम्  
+अ᳓जातशत्रुर् अ᳓स्तृतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

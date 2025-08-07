@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ग्नि꣡र् अगामि भा꣡रतो  
-वृत्रहा꣡ पुरुचे꣡तनः  
-दि꣡वोदासस्य स꣡त्पतिः
+आ᳓ग्नि᳓र् अगामि भा᳓रतो  
+वृत्रहा᳓ पुरुचे᳓तनः  
+दि᳓वोदासस्य स᳓त्पतिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

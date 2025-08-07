@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मो जिगाति गातुवि꣡द्  
-देवा꣡नाम् एति निष्कृत꣡म्  
-ऋत꣡स्य यो꣡निम् आस꣡दम्
+सो᳓मो जिगाति गातुवि᳓द्  
+देवा᳓नाम् एति निष्कृत᳓म्  
+ऋत᳓स्य यो᳓निम् आस᳓दम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

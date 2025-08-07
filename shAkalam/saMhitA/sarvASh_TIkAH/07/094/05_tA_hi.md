@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ हि꣡ श꣡श्वन्त ई꣡ळत  
-इत्था꣡ वि꣡प्रास ऊत꣡ये  
-सबा꣡धो वा꣡जसातये
+ता᳓ हि᳓ श᳓श्वन्त ई᳓ळत  
+इत्था᳓ वि᳓प्रास ऊत᳓ये  
+सबा᳓धो वा᳓जसातये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -145,7 +145,7 @@ _________
 
 For these two do the inspired poets, each and every one, reverently  invoke in just this way, for aid,  
 urgently, for the winning of prizes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/094/05-06.md">

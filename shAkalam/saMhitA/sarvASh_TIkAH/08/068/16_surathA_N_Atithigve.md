@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुर꣡थाँ आतिथिग्वे꣡  
-सुअभीशूँ꣡र् आ᳐र्क्षे꣡  
-आश्वमेधे꣡ सुपे꣡शसः
+सुर᳓थाँ आतिथिग्वे᳓  
+सुअभीशूँ᳓र् आ᳐र्क्षे᳓  
+आश्वमेधे᳓ सुपे᳓शसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -125,7 +125,7 @@ _________
 
 (Horses) having good chariots from the son of Atithigva, those having  good reins from the son of R̥kṣa,  
 and those having good ornaments from the son of Aśvamedha.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/068/15-17.md">

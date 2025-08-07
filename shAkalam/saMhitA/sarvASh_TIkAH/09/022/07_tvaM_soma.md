@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सोम पणि꣡भ्य आ꣡  
-व꣡सु ग꣡व्यानि धारयः  
-ततं꣡ त꣡न्तुम् अचिक्रदः
+तुवं᳓ सोम पणि᳓भ्य आ᳓  
+व᳓सु ग᳓व्यानि धारयः  
+ततं᳓ त᳓न्तुम् अचिक्रदः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ चिकितान सुक्र꣡तू  
-देवउ꣡ मर्त रिशा꣡दसा  
-व꣡रुणाय र्त꣡पेशसे  
-दधीत꣡ प्र꣡यसे महे꣡
+आ᳓ चिकितान सुक्र᳓तू  
+देवउ᳓ मर्त रिशा᳓दसा  
+व᳓रुणाय र्त᳓पेशसे  
+दधीत᳓ प्र᳓यसे महे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

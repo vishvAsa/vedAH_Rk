@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-घृत꣡म् पवस्व धा꣡रया  
-यज्ञे꣡षु देववी꣡तमः  
-अस्म꣡भ्यं वृष्टि꣡म् आ꣡ पव
+घृत᳓म् पवस्व धा᳓रया  
+यज्ञे᳓षु देववी᳓तमः  
+अस्म᳓भ्यं वृष्टि᳓म् आ᳓ पव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

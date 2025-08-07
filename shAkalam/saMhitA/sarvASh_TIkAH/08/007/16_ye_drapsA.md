@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ द्रप्सा꣡ इव रो꣡दसी  
-ध꣡मन्ति अ꣡नु वृष्टि꣡भिः  
-उ꣡त्सं दुह꣡न्तो अ꣡क्षितम्
+ये᳓ द्रप्सा᳓ इव रो᳓दसी  
+ध᳓मन्ति अ᳓नु वृष्टि᳓भिः  
+उ᳓त्सं दुह᳓न्तो अ᳓क्षितम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्मा꣡कम् आ꣡यु° वर्ध꣡यन्न्  
-अभि꣡मातीः स꣡हमानः  
-सो꣡मः सध꣡स्थम् आ꣡सदत्
+अस्मा᳓कम् आ᳓यु° वर्ध᳓यन्न्  
+अभि᳓मातीः स᳓हमानः  
+सो᳓मः सध᳓स्थम् आ᳓सदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

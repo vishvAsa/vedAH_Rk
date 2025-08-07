@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्मा꣡कं धृष्णुया꣡ र꣡थो  
-द्युमाँ꣡ इन्द्रा꣡नपच्युतः  
-गव्यु꣡र् अश्वयु꣡र् ईयते
+अस्मा᳓कं धृष्णुया᳓ र᳓थो  
+द्युमाँ᳓ इन्द्रा᳓नपच्युतः  
+गव्यु᳓र् अश्वयु᳓र् ईयते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

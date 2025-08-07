@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्नीषोमाव् इमा꣡नि नो  
-युवं꣡ हव्या꣡ जुजोषतम्  
-आ꣡ यातम् उ꣡प नः स꣡चा
+अ᳓ग्नीषोमाव् इमा᳓नि नो  
+युवं᳓ हव्या᳓ जुजोषतम्  
+आ᳓ यातम् उ᳓प नः स᳓चा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

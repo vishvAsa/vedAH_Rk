@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इह꣡ त्या꣡ सधमा꣡दिया  
-ह꣡री हि꣡रण्यकेशिया  
-वोळ्हा꣡म् अभि꣡ प्र꣡यो हित꣡म्
+इह᳓ त्या᳓ सधमा᳓दिया  
+ह᳓री हि᳓रण्यकेशिया  
+वोळ्हा᳓म् अभि᳓ प्र᳓यो हित᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

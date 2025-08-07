@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ दासं꣡ कौलितर꣡म्  
-बृहतः꣡ प꣡र्वताद् अ꣡धि  
-अ꣡वाहन्न् इन्द्र श꣡म्बरम्
+उत᳓ दासं᳓ कौलितर᳓म्  
+बृहतः᳓ प᳓र्वताद् अ᳓धि  
+अ᳓वाहन्न् इन्द्र श᳓म्बरम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -148,7 +148,7 @@ _________
 
 And you struck Śambara, the Dāsa son of Kulitara,  
 down from the lofty mountain, Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">

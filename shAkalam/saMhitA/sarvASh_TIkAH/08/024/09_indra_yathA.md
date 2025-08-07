@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र य꣡था हि꣡ अ꣡स्ति ते  
-अ꣡परीतं नृतो श꣡वः  
-अ꣡मृक्ता रातिः꣡ पुरुहूत दाशु꣡षे
+इ᳓न्द्र य᳓था हि᳓ अ᳓स्ति ते  
+अ᳓परीतं नृतो श᳓वः  
+अ᳓मृक्ता रातिः᳓ पुरुहूत दाशु᳓षे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

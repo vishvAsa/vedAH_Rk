@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि णः शर्मय꣡न्तिया  
-धा꣡रया सोम विश्व꣡तः  
-स꣡रा रसे꣡व विष्ट꣡पम्
+प᳓रि णः शर्मय᳓न्तिया  
+धा᳓रया सोम विश्व᳓तः  
+स᳓रा रसे᳓व विष्ट᳓पम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

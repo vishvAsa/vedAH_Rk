@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡यसी꣡द् उ अ꣡ति द्वि꣡षः  
-कृणो꣡षि उक्थशंसि꣡नः  
-नृ꣡भिः सुवी꣡र उच्यसे
+न᳓यसी᳓द् उ अ᳓ति द्वि᳓षः  
+कृणो᳓षि उक्थशंसि᳓नः  
+नृ᳓भिः सुवी᳓र उच्यसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-जज्ञानं꣡ सप्त꣡ मात꣡रो  
-वेधा꣡म् अशासत श्रिये꣡  
-अयं꣡ ध्रुवो꣡ रयीणां᳐꣡ चि꣡केत य꣡त्
+जज्ञानं᳓ सप्त᳓ मात᳓रो  
+वेधा᳓म् अशासत श्रिये᳓  
+अयं᳓ ध्रुवो᳓ रयीणां᳐᳓ चि᳓केत य᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

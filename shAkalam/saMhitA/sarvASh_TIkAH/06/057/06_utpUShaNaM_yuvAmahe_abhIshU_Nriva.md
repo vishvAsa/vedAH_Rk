@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡त् पूष꣡णं युवामहे  
-अभी꣡शूँर् इव सा꣡रथिः  
-मह्या꣡ इ꣡न्द्रं सुअस्त꣡ये
+उ᳓त् पूष᳓णं युवामहे  
+अभी᳓शूँर् इव सा᳓रथिः  
+मह्या᳓ इ᳓न्द्रं सुअस्त᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

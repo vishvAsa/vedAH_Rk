@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पूषा꣡ रा꣡जानम् आ꣡घृणिर्  
-अ꣡पगूळ्हं गु꣡हा हित꣡म्  
-अ꣡विन्दच् चित्र꣡बर्हिषम्
+पूषा᳓ रा᳓जानम् आ᳓घृणिर्  
+अ᳓पगूळ्हं गु᳓हा हित᳓म्  
+अ᳓विन्दच् चित्र᳓बर्हिषम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

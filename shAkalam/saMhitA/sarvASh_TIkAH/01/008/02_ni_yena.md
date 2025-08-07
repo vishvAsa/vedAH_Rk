@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡ ये꣡न मुष्टिहत्य꣡या  
-नि꣡ वृत्रा꣡ रुण꣡धामहै  
-तुवो꣡तासो नि꣡ अ꣡र्वता
+नि᳓ ये᳓न मुष्टिहत्य᳓या  
+नि᳓ वृत्रा᳓ रुण᳓धामहै  
+तुवो᳓तासो नि᳓ अ᳓र्वता
 </details>
 
 <details><summary>Vedaweb annotation</summary>

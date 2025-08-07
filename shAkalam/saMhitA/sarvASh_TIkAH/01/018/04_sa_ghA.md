@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ घा वीरो꣡ न꣡ रिष्यति  
-य꣡म् इ꣡न्द्रो ब्र꣡ह्मणस् प꣡तिः  
-सो꣡मो हिनो꣡ति म꣡र्तियम्
+स᳓ घा वीरो᳓ न᳓ रिष्यति  
+य᳓म् इ᳓न्द्रो ब्र᳓ह्मणस् प᳓तिः  
+सो᳓मो हिनो᳓ति म᳓र्तियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

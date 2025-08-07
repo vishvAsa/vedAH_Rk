@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अरुषो꣡ जन꣡यन् गि꣡रः  
-सो꣡मः पवत आयुष꣡क्  
-इ꣡न्द्रं ग꣡छन् कवि꣡क्रतुः
+अरुषो᳓ जन᳓यन् गि᳓रः  
+सो᳓मः पवत आयुष᳓क्  
+इ᳓न्द्रं ग᳓छन् कवि᳓क्रतुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

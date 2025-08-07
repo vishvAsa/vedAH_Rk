@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-कदा꣡ म꣡र्तम् अराध꣡सम्  
-पदा꣡ क्षु꣡म्पम् इव स्फुरत्  
-कदा꣡ नः शुश्रवद् गि꣡र इ꣡न्द्रो अङ्ग꣡
+कदा᳓ म᳓र्तम् अराध᳓सम्  
+पदा᳓ क्षु᳓म्पम् इव स्फुरत्  
+कदा᳓ नः शुश्रवद् गि᳓र इ᳓न्द्रो अङ्ग᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

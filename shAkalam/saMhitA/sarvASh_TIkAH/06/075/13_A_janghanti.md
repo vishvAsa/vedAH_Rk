@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ जङ्घन्ति सा꣡नु एषां  
-जघ꣡नाँ उ꣡प जिघ्नते  
-अ꣡श्वाजनि प्र꣡चेतसो  
-अ꣡श्वान् सम꣡त्सु चोदय
+आ᳓ जङ्घन्ति सा᳓नु एषां  
+जघ᳓नाँ उ᳓प जिघ्नते  
+अ᳓श्वाजनि प्र᳓चेतसो  
+अ᳓श्वान् सम᳓त्सु चोदय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

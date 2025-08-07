@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अद्भिः꣡ परिषिच्य꣡से  
-मृज्य꣡मानो ग꣡भस्तियोः  
-द्रु꣡णा सध꣡स्थम् अश्नुषे
+य᳓द् अद्भिः᳓ परिषिच्य᳓से  
+मृज्य᳓मानो ग᳓भस्तियोः  
+द्रु᳓णा सध᳓स्थम् अश्नुषे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

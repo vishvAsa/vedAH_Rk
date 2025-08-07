@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कु꣡व नूनं꣡ क꣡द् वो अ꣡र्थं  
-ग꣡न्ता दिवो꣡ न꣡ पृथिव्याः꣡  
-क्व᳡ वो गा꣡वो न꣡ रण्यन्ति
+कु᳓व नूनं᳓ क᳓द् वो अ᳓र्थं  
+ग᳓न्ता दिवो᳓ न᳓ पृथिव्याः᳓  
+क्व᳡ वो गा᳓वो न᳓ रण्यन्ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

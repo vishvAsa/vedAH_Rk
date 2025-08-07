@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-घृत꣡वन्तम् उ꣡प मासि  
-म꣡धुमन्तं तनूनपात्  
-यज्ञं꣡ वि꣡प्रस्य मा꣡वतः  
-शशमान꣡स्य दाशु꣡षः
+घृत᳓वन्तम् उ᳓प मासि  
+म᳓धुमन्तं तनूनपात्  
+यज्ञं᳓ वि᳓प्रस्य मा᳓वतः  
+शशमान᳓स्य दाशु᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

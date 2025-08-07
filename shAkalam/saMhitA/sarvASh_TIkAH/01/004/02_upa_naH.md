@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प नः स꣡वना꣡ गहि  
-सो꣡मस्य सोमपाः पिब  
-गोदा꣡ इ꣡द् रेव꣡तो म꣡दः
+उ᳓प नः स᳓वना᳓ गहि  
+सो᳓मस्य सोमपाः पिब  
+गोदा᳓ इ᳓द् रेव᳓तो म᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

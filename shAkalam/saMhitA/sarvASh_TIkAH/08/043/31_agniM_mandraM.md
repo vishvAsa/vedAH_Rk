@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡म् मन्द्र꣡म् पुरुप्रियं꣡  
-शीर꣡म् पवाक꣡शोचिषम्+  
-हृद्भि꣡र् मन्द्रे꣡भिर् ईमहे
+अग्नि᳓म् मन्द्र᳓म् पुरुप्रियं᳓  
+शीर᳓म् पवाक᳓शोचिषम्+  
+हृद्भि᳓र् मन्द्रे᳓भिर् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,7 +15,7 @@ ChandaH = "एकपदा विराट् (पाद एव वा शान
 
 <details><summary>Thomson & Solcum</summary>
 
-भद्रं꣡ नो अ꣡पि वातय म꣡नः
+भद्रं᳓ नो अ᳓पि वातय म᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

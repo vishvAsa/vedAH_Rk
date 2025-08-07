@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क्रीळु꣡र् मखो꣡ न꣡ मंहयुः꣡  
-पवि꣡त्रं सोम गछसि  
-द꣡धत् स्तोत्रे꣡ सुवी꣡रियम्
+क्रीळु᳓र् मखो᳓ न᳓ मंहयुः᳓  
+पवि᳓त्रं सोम गछसि  
+द᳓धत् स्तोत्रे᳓ सुवी᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

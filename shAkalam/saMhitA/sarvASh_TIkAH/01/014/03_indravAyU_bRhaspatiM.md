@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इन्द्रवायू꣡ बृ꣡हस्प꣡तिम्  
-मित्रा꣡ग्नि꣡म् पूष꣡णम् भ꣡गम्  
-आदित्या꣡न् मा꣡रुतं गण꣡म्
+इन्द्रवायू᳓ बृ᳓हस्प᳓तिम्  
+मित्रा᳓ग्नि᳓म् पूष᳓णम् भ᳓गम्  
+आदित्या᳓न् मा᳓रुतं गण᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

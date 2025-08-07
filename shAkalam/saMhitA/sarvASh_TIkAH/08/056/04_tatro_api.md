@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡त्रो अ꣡पि प्रा꣡णीयत  
-पूत꣡क्रतायै वि꣡अक्ता  
-अ꣡श्वानाम् इ꣡न् न꣡ यूथि꣡याम्
+त᳓त्रो अ᳓पि प्रा᳓णीयत  
+पूत᳓क्रतायै वि᳓अक्ता  
+अ᳓श्वानाम् इ᳓न् न᳓ यूथि᳓याम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

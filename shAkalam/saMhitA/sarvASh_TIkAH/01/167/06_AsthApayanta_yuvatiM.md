@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡स्थापयन्त युवतिं꣡ यु꣡वानः  
-शुभे꣡ नि꣡मिश्लां विद꣡थेषु पज्रा꣡म्  
-अर्को꣡ य꣡द् वो · मरुतो हवि꣡ष्मान्  
-गा꣡यद् गाथं꣡ सुत꣡सोमो दुवस्य꣡न्
+आ᳓स्थापयन्त युवतिं᳓ यु᳓वानः  
+शुभे᳓ नि᳓मिश्लां विद᳓थेषु पज्रा᳓म्  
+अर्को᳓ य᳓द् वो · मरुतो हवि᳓ष्मान्  
+गा᳓यद् गाथं᳓ सुत᳓सोमो दुवस्य᳓न्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -219,7 +219,7 @@ _________
 
 The youths caused the young woman to mount for beauty, she steadfast  and commingling (with them) at the ceremonies.  
 When the chant is accompanied by oblations for you, o Maruts, and the  one who has pressed soma, seeking friendship, sings the song,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">

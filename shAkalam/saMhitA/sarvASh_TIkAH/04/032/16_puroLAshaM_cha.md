@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरोळा꣡शं च नो घ꣡सो  
-जोष꣡यासे गि꣡रश् च नः  
-वधूयु꣡र् इव यो꣡षणाम्
+पुरोळा᳓शं च नो घ᳓सो  
+जोष᳓यासे गि᳓रश् च नः  
+वधूयु᳓र् इव यो᳓षणाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

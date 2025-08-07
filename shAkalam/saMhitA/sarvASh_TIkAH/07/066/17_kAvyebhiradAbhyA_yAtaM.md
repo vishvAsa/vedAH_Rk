@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-का꣡वियेभिर् अदाभिया  
-आ꣡ यातं वरुण द्युम꣡त्  
-मित्र꣡श् च सो꣡मपीतये
+का᳓वियेभिर् अदाभिया  
+आ᳓ यातं वरुण द्युम᳓त्  
+मित्र᳓श् च सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् उ त्वा पाथियो꣡ वृ꣡षा  
-स꣡म् ईधे दस्युह꣡न्तमम्  
-धनंजयं꣡ र꣡णे-रणे
+त᳓म् उ त्वा पाथियो᳓ वृ᳓षा  
+स᳓म् ईधे दस्युह᳓न्तमम्  
+धनंजयं᳓ र᳓णे-रणे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -164,7 +164,7 @@ _________
 
 You did Vr̥ṣan Pāthya kindle as best Dasyu-smasher,  
 winning the stakes in every battle.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/13-15.md">

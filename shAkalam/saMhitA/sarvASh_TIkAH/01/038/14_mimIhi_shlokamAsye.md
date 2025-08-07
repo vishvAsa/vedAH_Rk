@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मिमीहि꣡ श्लो꣡कम् आसि꣡ये  
-पर्ज꣡न्य इव ततनः  
-गा꣡य गायत्र꣡म् उक्थि꣡यम्
+मिमीहि᳓ श्लो᳓कम् आसि᳓ये  
+पर्ज᳓न्य इव ततनः  
+गा᳓य गायत्र᳓म् उक्थि᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

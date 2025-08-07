@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राय सोम पा꣡तवे  
-म꣡दाय प꣡रि षिच्यसे  
-मनश्चि꣡न् म꣡नसस् प꣡तिः
+इ᳓न्द्राय सोम पा᳓तवे  
+म᳓दाय प᳓रि षिच्यसे  
+मनश्चि᳓न् म᳓नसस् प᳓तिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

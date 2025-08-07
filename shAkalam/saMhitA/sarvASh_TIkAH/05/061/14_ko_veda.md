@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-को꣡ वेद नून꣡म् एषां᳐  
-य꣡त्रा म꣡दन्ति धू꣡तयः  
-ऋत꣡जाता अरेप꣡सः
+को᳓ वेद नून᳓म् एषां᳐  
+य᳓त्रा म᳓दन्ति धू᳓तयः  
+ऋत᳓जाता अरेप᳓सः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

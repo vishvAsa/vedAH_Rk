@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡सर्जि र꣡थियो यथा  
-पवि꣡त्रे चमु꣡वोः सुतः꣡  
-का꣡र्ष्मन् वाजी꣡ नि꣡ अक्रमीत्
+अ᳓सर्जि र᳓थियो यथा  
+पवि᳓त्रे चमु᳓वोः सुतः᳓  
+का᳓र्ष्मन् वाजी᳓ नि᳓ अक्रमीत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् वा꣡तजूतो व꣡ना वि꣡ अ꣡स्थाद्  
-अग्नि꣡र् ह दाति रो꣡मा पृथिव्याः꣡
+य᳓द् वा᳓तजूतो व᳓ना वि᳓ अ᳓स्थाद्  
+अग्नि᳓र् ह दाति रो᳓मा पृथिव्याः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

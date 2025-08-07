@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ सियाम ये꣡ अग्न꣡ये  
-ददाशु꣡र् हव्य꣡दातिभिः  
-य꣡ ईम् पु꣡ष्यन्त इन्धते꣡
+ते᳓ सियाम ये᳓ अग्न᳓ये  
+ददाशु᳓र् हव्य᳓दातिभिः  
+य᳓ ईम् पु᳓ष्यन्त इन्धते᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

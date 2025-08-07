@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने त꣡व त्ये꣡ अजर  
-इ꣡न्धानासो बृह꣡द् भाः᳐꣡  
-अ꣡श्वा इव वृ꣡षणस् तविषीय꣡वः
+अ᳓ग्ने त᳓व त्ये᳓ अजर  
+इ᳓न्धानासो बृह᳓द् भाः᳐᳓  
+अ᳓श्वा इव वृ᳓षणस् तविषीय᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

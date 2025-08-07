@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-से꣡मं꣡ न स्तो꣡मम् आ꣡ गहि  
-उ꣡पेदं꣡ स꣡वनं सुत꣡म्  
-गौरो꣡ न꣡ तृषितः꣡ पिब
+से᳓मं᳓ न स्तो᳓मम् आ᳓ गहि  
+उ᳓पेदं᳓ स᳓वनं सुत᳓म्  
+गौरो᳓ न᳓ तृषितः᳓ पिब
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ यज्ञं꣡ गृणीहि नो  
-ग्ना꣡वो ने꣡ष्टः पि꣡ब र्तु꣡ना  
-तुवं꣡ हि꣡ रत्नधा꣡ अ꣡सि
+अभि᳓ यज्ञं᳓ गृणीहि नो  
+ग्ना᳓वो ने᳓ष्टः पि᳓ब र्तु᳓ना  
+तुवं᳓ हि᳓ रत्नधा᳓ अ᳓सि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

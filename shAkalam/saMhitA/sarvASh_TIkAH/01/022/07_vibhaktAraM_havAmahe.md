@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-विभक्ता꣡रं हवामहे  
-व꣡सोश् चित्र꣡स्य रा꣡धसः  
-सविता꣡रं नृच꣡क्षसम्
+विभक्ता᳓रं हवामहे  
+व᳓सोश् चित्र᳓स्य रा᳓धसः  
+सविता᳓रं नृच᳓क्षसम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

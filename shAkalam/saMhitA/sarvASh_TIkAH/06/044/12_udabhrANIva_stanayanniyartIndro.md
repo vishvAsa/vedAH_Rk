@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् अभ्रा꣡णीव स्तन꣡यन्न् इयर्ति  
-इ꣡न्द्रो रा꣡धांसि अ꣡श्वियानि ग꣡व्या  
-तुव꣡म् असि प्रदि꣡वः कारु꣡धाया  
-मा꣡ त्वादामा꣡न आ꣡ दभन् मघो꣡नः
+उ᳓द् अभ्रा᳓णीव स्तन᳓यन्न् इयर्ति  
+इ᳓न्द्रो रा᳓धांसि अ᳓श्वियानि ग᳓व्या  
+तुव᳓म् असि प्रदि᳓वः कारु᳓धाया  
+मा᳓ त्वादामा᳓न आ᳓ दभन् मघो᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -249,7 +249,7 @@ _________
 
 Like the thunderer the rain clouds, Indra stirs up bounties of horses  and cattle.  
 It is you who provide nourishment to the bard from of old. Let those  without gifts not trick you away from (our) benefactor.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

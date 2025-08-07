@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वा꣡चम् अष्टा꣡पदीम् अहं꣡  
-न꣡वस्रक्तिम् ऋतस्पृ꣡शम्  
-इ꣡न्द्रात् प꣡रि तन्व᳡म् ममे
+वा᳓चम् अष्टा᳓पदीम् अहं᳓  
+न᳓वस्रक्तिम् ऋतस्पृ᳓शम्  
+इ᳓न्द्रात् प᳓रि तन्व᳡म् ममे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

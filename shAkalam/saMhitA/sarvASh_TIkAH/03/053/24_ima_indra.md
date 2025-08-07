@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इम꣡ इन्दर+ भरत꣡स्य पुत्रा꣡  
-अपपित्वं꣡ चिकितुर् न꣡ प्रपित्व꣡म्  
-हिन्व꣡न्ति अ꣡श्वम् अ꣡रणं न꣡ नि꣡त्यं  
-जि꣡यावाजम् प꣡रि णयन्ति आजउ꣡
+इम᳓ इन्दर+ भरत᳓स्य पुत्रा᳓  
+अपपित्वं᳓ चिकितुर् न᳓ प्रपित्व᳓म्  
+हिन्व᳓न्ति अ᳓श्वम् अ᳓रणं न᳓ नि᳓त्यं  
+जि᳓यावाजम् प᳓रि णयन्ति आजउ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -234,7 +234,7 @@ Niruktam: sa vasiṣṭhadveṣī ṛk-aham ca kapiṣṭhalo **vasi**.ṣhaḥ 
 Are these the sons of Bharata, Indra? They take note of the non-meal,  not the meal.  
 They spur the alien horse, not their own. At the contest they lead  
 around the one whose prize is (just) a bowstring.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

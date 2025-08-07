@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ मे ह꣡वं नासतिया  
-अ꣡श्विना ग꣡छतं युव꣡म्  
-म꣡ध्वः सो꣡मस्य पीत꣡ये
+आ᳓ मे ह᳓वं नासतिया  
+अ᳓श्विना ग᳓छतं युव᳓म्  
+म᳓ध्वः सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

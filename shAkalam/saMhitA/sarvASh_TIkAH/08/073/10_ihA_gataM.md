@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इहा꣡ गतं वृषण्वसू  
-शृणुत꣡म् म इमं꣡ ह꣡वम्  
-अ꣡न्ति षद् भूतु वाम् अ꣡वः
+इहा᳓ गतं वृषण्वसू  
+शृणुत᳓म् म इमं᳓ ह᳓वम्  
+अ᳓न्ति षद् भूतु वाम् अ᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

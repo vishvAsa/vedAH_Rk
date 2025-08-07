@@ -15,9 +15,9 @@ ChandaH = "पिपीलिकमध्या"
 
 <details><summary>Thomson & Solcum</summary>
 
-व꣡ज्रं य꣡श् चक्रे꣡ सुह꣡नाय द꣡स्यवे  
-हिरीमशो꣡ हि꣡रीमान्  
-अ꣡रुतहनुर् अ꣡द्भुतं न꣡ र꣡जः
+व᳓ज्रं य᳓श् चक्रे᳓ सुह᳓नाय द᳓स्यवे  
+हिरीमशो᳓ हि᳓रीमान्  
+अ᳓रुतहनुर् अ᳓द्भुतं न᳓ र᳓जः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

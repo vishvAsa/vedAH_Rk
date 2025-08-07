@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-विद्मा꣡ हि꣡ ते पुरा꣡ वय꣡म्  
-अ꣡ग्ने पितु꣡र् य꣡था꣡वसः  
-अ꣡धा ते सुम्न꣡म् ईमहे
+विद्मा᳓ हि᳓ ते पुरा᳓ वय᳓म्  
+अ᳓ग्ने पितु᳓र् य᳓था᳓वसः  
+अ᳓धा ते सुम्न᳓म् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

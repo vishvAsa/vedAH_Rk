@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡ ते अ꣡ष्ट्रा गो꣡ओपशा  
-आ꣡घृणे पशुसा꣡धनी  
-त꣡स्यास् ते सुम्न꣡म् ईमहे
+या᳓ ते अ᳓ष्ट्रा गो᳓ओपशा  
+आ᳓घृणे पशुसा᳓धनी  
+त᳓स्यास् ते सुम्न᳓म् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

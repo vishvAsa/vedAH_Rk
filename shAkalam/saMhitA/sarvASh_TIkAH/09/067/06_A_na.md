@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ न इन्दो शतग्वि꣡नं  
-रयिं꣡ गो꣡मन्तम् अश्वि꣡नम्  
-भ꣡रा सोम सहस्रि꣡णम्
+आ᳓ न इन्दो शतग्वि᳓नं  
+रयिं᳓ गो᳓मन्तम् अश्वि᳓नम्  
+भ᳓रा सोम सहस्रि᳓णम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -153,7 +153,7 @@ _________
 
 Bring here to us, o drop, wealth in cattle and horses—  
 a hundredfold, a thousandfold, o soma.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/04-06.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡ त्वा नक्षिय विश्पते  
-द्युम꣡न्तं देव धीमहि  
-सुवी꣡रम् अग्न आहुत
+नि᳓ त्वा नक्षिय विश्पते  
+द्युम᳓न्तं देव धीमहि  
+सुवी᳓रम् अग्न आहुत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

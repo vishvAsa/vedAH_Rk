@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ वि꣡श्वा अभि꣡ श्रि꣡यो  
-अग्नि꣡र् देवे꣡षु पत्यते  
-आ꣡ वा꣡जैर् उ꣡प नो गमत्
+अयं᳓ वि᳓श्वा अभि᳓ श्रि᳓यो  
+अग्नि᳓र् देवे᳓षु पत्यते  
+आ᳓ वा᳓जैर् उ᳓प नो गमत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

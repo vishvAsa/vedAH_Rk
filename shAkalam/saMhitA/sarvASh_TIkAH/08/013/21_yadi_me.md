@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡दि मे सख्य꣡म् आव꣡र  
-इम꣡स्य पाहि अ꣡न्धसः  
-ये꣡न वि꣡श्वा अ꣡ति द्वि꣡षो अ꣡तारिम
+य᳓दि मे सख्य᳓म् आव᳓र  
+इम᳓स्य पाहि अ᳓न्धसः  
+ये᳓न वि᳓श्वा अ᳓ति द्वि᳓षो अ᳓तारिम
 </details>
 
 <details><summary>Vedaweb annotation</summary>

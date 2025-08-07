@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दे꣡वीर् द्वारो वि꣡ श्रयध्वं  
-सुप्रायणा꣡ न ऊत꣡ये  
-प्र꣡-प्र यज्ञ꣡म् पृणीतन
+दे᳓वीर् द्वारो वि᳓ श्रयध्वं  
+सुप्रायणा᳓ न ऊत᳓ये  
+प्र᳓-प्र यज्ञ᳓म् पृणीतन
 </details>
 
 <details><summary>Vedaweb annotation</summary>

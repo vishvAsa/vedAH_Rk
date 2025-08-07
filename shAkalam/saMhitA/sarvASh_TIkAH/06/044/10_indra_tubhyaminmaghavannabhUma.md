@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र तु꣡भ्यम् इ꣡न् मघवन्न् अभूम  
-वयं꣡ दात्रे꣡ हरिवो मा꣡ वि꣡ वेनः  
-न꣡किर् आपि꣡र् ददृशे मर्तियत्रा꣡  
-कि꣡म् अङ्ग꣡ रध्रचो꣡दनं तुवाहुः
+इ᳓न्द्र तु᳓भ्यम् इ᳓न् मघवन्न् अभूम  
+वयं᳓ दात्रे᳓ हरिवो मा᳓ वि᳓ वेनः  
+न᳓किर् आपि᳓र् ददृशे मर्तियत्रा᳓  
+कि᳓म् अङ्ग᳓ रध्रचो᳓दनं तुवाहुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -254,7 +254,7 @@ _________
 
 Indra, we have become ready just for you, the giver, you generous  possessor of the fallow bays. Do not lose the track.  
 No one has shown himself as our friend among mortals. Do they not  call you a rouser (even) of the weak?
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सं꣡ देवइः꣡ शोभते वृ꣡षा  
-कवि꣡र् यो꣡नाव् अ꣡धि प्रियः꣡  
-वृत्रहा꣡ देववी꣡तमः
+सं᳓ देवइः᳓ शोभते वृ᳓षा  
+कवि᳓र् यो᳓नाव् अ᳓धि प्रियः᳓  
+वृत्रहा᳓ देववी᳓तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

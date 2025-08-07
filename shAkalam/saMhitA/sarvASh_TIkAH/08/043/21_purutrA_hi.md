@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरुत्रा꣡ हि꣡ सदृ꣡ङ्ङ् अ꣡सि  
-वि꣡शो वि꣡श्वा अ꣡नु प्रभुः꣡  
-सम꣡त्सु त्वा हवामहे
+पुरुत्रा᳓ हि᳓ सदृ᳓ङ्ङ् अ᳓सि  
+वि᳓शो वि᳓श्वा अ᳓नु प्रभुः᳓  
+सम᳓त्सु त्वा हवामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

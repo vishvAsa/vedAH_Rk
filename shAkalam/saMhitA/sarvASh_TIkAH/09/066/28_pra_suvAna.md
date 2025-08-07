@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ सुवान꣡ इ꣡न्दुर् अक्षाः  
-पवि꣡त्रम् अ꣡ति अव्य꣡यम्  
-पुनान꣡ इ꣡न्दुर् इ꣡न्द्रम् आ꣡
+प्र᳓ सुवान᳓ इ᳓न्दुर् अक्षाः  
+पवि᳓त्रम् अ᳓ति अव्य᳓यम्  
+पुनान᳓ इ᳓न्दुर् इ᳓न्द्रम् आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

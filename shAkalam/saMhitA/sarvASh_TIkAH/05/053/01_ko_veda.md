@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-को꣡ वेद जा꣡नम् एषां᳐  
-को꣡ वा पुरा꣡ सुम्ने꣡षु आस मरु꣡ताम्  
-य꣡द् युयुज्रे꣡ किलासि꣡यः
+को᳓ वेद जा᳓नम् एषां᳐  
+को᳓ वा पुरा᳓ सुम्ने᳓षु आस मरु᳓ताम्  
+य᳓द् युयुज्रे᳓ किलासि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

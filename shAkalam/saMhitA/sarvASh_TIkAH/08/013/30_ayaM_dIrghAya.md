@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ दीर्घा꣡य च꣡क्षसे  
-प्रा꣡चि प्रयति꣡ अध्वरे꣡  
-मि꣡मीते यज्ञ꣡म् आनुष꣡ग् विच꣡क्षिय
+अयं᳓ दीर्घा᳓य च᳓क्षसे  
+प्रा᳓चि प्रयति᳓ अध्वरे᳓  
+मि᳓मीते यज्ञ᳓म् आनुष᳓ग् विच᳓क्षिय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

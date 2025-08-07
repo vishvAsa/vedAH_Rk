@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उतो꣡ सह꣡स्रभर्णसं  
-वा꣡चं सोम मखस्यु꣡वम्  
-पुनान꣡ इन्दव् आ꣡ भर
+उतो᳓ सह᳓स्रभर्णसं  
+वा᳓चं सोम मखस्यु᳓वम्  
+पुनान᳓ इन्दव् आ᳓ भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,7 +154,7 @@ _________
 
 And speech bringing a thousand presents, ready for combat [/bounty],  o Soma—  
 becoming purified, o drop, bring that hither.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/25-27.md">

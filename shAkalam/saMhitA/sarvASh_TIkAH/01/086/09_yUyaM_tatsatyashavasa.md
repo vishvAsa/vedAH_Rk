@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यूयं꣡ त꣡त् सत्यशवस  
-आवि꣡ष् कर्त महित्वना꣡  
-वि꣡ध्यता विद्यु꣡ता र꣡क्षः
+यूयं᳓ त᳓त् सत्यशवस  
+आवि᳓ष् कर्त महित्वना᳓  
+वि᳓ध्यता विद्यु᳓ता र᳓क्षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

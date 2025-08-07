@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ वच्यस्व म꣡हि प्स꣡रो  
-वृ꣡षेन्दो द्युम्न꣡वत्तमः  
-आ꣡ यो꣡निं धर्णसिः꣡ सदः
+आ᳓ वच्यस्व म᳓हि प्स᳓रो  
+वृ᳓षेन्दो द्युम्न᳓वत्तमः  
+आ᳓ यो᳓निं धर्णसिः᳓ सदः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

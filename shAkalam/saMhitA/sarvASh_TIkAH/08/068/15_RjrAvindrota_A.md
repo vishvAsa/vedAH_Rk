@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋज्रा꣡व् इन्द्रोत꣡ आ꣡ ददे  
-ह꣡री ऋ꣡क्षस्य सून꣡वि  
-आश्वमेध꣡स्य रो꣡हिता
+ऋज्रा᳓व् इन्द्रोत᳓ आ᳓ ददे  
+ह᳓री ऋ᳓क्षस्य सून᳓वि  
+आश्वमेध᳓स्य रो᳓हिता
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -150,7 +150,7 @@ Indrota: these princes with their respective fathers are the six mentioned in th
 
 From Indrota I received two silvery ones, from the son of R̥kṣa two  fallow bays,  
 and the two chestnuts of the son of Aśvamedha;
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/068/15-17.md">

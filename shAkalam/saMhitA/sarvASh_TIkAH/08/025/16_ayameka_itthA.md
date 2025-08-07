@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अय꣡म् ए꣡क इत्था꣡ पुरु꣡  
-उरु꣡ चष्टे वि꣡ विश्प꣡तिः  
-त꣡स्य व्रता꣡नि अ꣡नु वश् चरामसि
+अय᳓म् ए᳓क इत्था᳓ पुरु᳓  
+उरु᳓ चष्टे वि᳓ विश्प᳓तिः  
+त᳓स्य व्रता᳓नि अ᳓नु वश् चरामसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र इषे꣡ ददातु न  
-ऋभुक्ष꣡णम् ऋभुं꣡ रयि꣡म्  
-वाजी꣡ ददातु वाजि꣡नम्
+इ᳓न्द्र इषे᳓ ददातु न  
+ऋभुक्ष᳓णम् ऋभुं᳓ रयि᳓म्  
+वाजी᳓ ददातु वाजि᳓नम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

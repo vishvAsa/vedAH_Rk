@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡श् चिद् धि꣡ त्वा बहु꣡भ्य आ꣡  
-सुता꣡वाँ आवि꣡वासति  
-उग्रं꣡ त꣡त् पत्यते श꣡व इ꣡न्द्रो अङ्ग꣡
+य᳓श् चिद् धि᳓ त्वा बहु᳓भ्य आ᳓  
+सुता᳓वाँ आवि᳓वासति  
+उग्रं᳓ त᳓त् पत्यते श᳓व इ᳓न्द्रो अङ्ग᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

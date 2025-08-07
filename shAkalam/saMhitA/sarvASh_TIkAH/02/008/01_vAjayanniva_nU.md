@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वाजय꣡न्न् इव नू꣡ र꣡थान्  
-यो꣡गाँ अग्ने꣡र् उ꣡प स्तुहि  
-यश꣡स्तमस्य मीळ्हु꣡षः
+वाजय᳓न्न् इव नू᳓ र᳓थान्  
+यो᳓गाँ अग्ने᳓र् उ᳓प स्तुहि  
+यश᳓स्तमस्य मीळ्हु᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -158,7 +158,7 @@ _________
 
 As a prize-seeker (praises) his chariots, now praise the yoke(d teams)  of Agni,  
 the most glorious one, who grants rewards,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/01-04.md">

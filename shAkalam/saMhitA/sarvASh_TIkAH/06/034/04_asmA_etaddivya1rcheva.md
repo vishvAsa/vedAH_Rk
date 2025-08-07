@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡स्मा एत꣡द् दिवि꣡ अर्चे꣡व मासा꣡  
-मिमिक्ष꣡ इ꣡न्द्रे नि꣡ अयामि सो꣡मः  
-ज꣡नं न꣡ ध꣡न्वन्न् अभि꣡ सं꣡ य꣡द् आ꣡पः  
-सत्रा꣡ वावृधुर् ह꣡वनानि यज्ञइः꣡
+अ᳓स्मा एत᳓द् दिवि᳓ अर्चे᳓व मासा᳓  
+मिमिक्ष᳓ इ᳓न्द्रे नि᳓ अयामि सो᳓मः  
+ज᳓नं न᳓ ध᳓न्वन्न् अभि᳓ सं᳓ य᳓द् आ᳓पः  
+सत्रा᳓ वावृधुर् ह᳓वनानि यज्ञइः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -269,7 +269,7 @@ Adoration: divyarceva **māsā** = divase sautye ahani **arcana** sādhanena sto
 This is (weal) for him: seeking attachment, the soma has been set  firmly in Indra, like the two shining ones, (sun and) moon, in  
 heaven.  
 Our invocations along with our sacrifices have entirely strengthened  (him), like a man in the desert when waters con(verge) on him.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/034/04-05.md">

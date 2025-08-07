@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-बभ्र꣡वे नु꣡ स्व꣡तवसे  
-अरुणा꣡य दिविस्पृ꣡शे  
-सो꣡माय गाथ꣡म् अर्चत
+बभ्र᳓वे नु᳓ स्व᳓तवसे  
+अरुणा᳓य दिविस्पृ᳓शे  
+सो᳓माय गाथ᳓म् अर्चत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

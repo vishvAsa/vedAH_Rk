@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡चिक्रदद् वृ꣡षा ह꣡रिर्  
-महा꣡न् मित्रो꣡ न꣡ दर्शतः꣡  
-सं꣡ सू꣡रियेण रोचते
+अ᳓चिक्रदद् वृ᳓षा ह᳓रिर्  
+महा᳓न् मित्रो᳓ न᳓ दर्शतः᳓  
+सं᳓ सू᳓रियेण रोचते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

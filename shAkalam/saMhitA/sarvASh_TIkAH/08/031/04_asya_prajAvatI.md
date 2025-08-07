@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡स्य प्रजा꣡वती गृहे꣡  
-अ꣡सश्चन्ती दिवे꣡-दिवे  
-इ꣡ळा धेनुम꣡ती दुहे
+अ᳓स्य प्रजा᳓वती गृहे᳓  
+अ᳓सश्चन्ती दिवे᳓-दिवे  
+इ᳓ळा धेनुम᳓ती दुहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्र꣡यः को꣡शास श्चोतन्ति  
-तिस्र꣡श् चमु꣡वः सु꣡पूर्णाः  
-समाने꣡ अ꣡धि भा꣡र्मन्
+त्र᳓यः को᳓शास श्चोतन्ति  
+तिस्र᳓श् चमु᳓वः सु᳓पूर्णाः  
+समाने᳓ अ᳓धि भा᳓र्मन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋता꣡वाना नि꣡ षेदतुः  
-सा꣡म्राजियाय सुक्र꣡तू  
-धृत꣡व्रता क्षत्रि꣡या क्षत्र꣡म् आशतुः
+ऋता᳓वाना नि᳓ षेदतुः  
+सा᳓म्राजियाय सुक्र᳓तू  
+धृत᳓व्रता क्षत्रि᳓या क्षत्र᳓म् आशतुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -164,7 +164,7 @@ Vigour: **kṣatriyā** kṣatram āśatuḥ = balavantau balamvyāpnutaḥ
 
 Truth-possessing, strong-willed, the two took their place for sovereign  kingship.  
 Their commandments upheld, the rulers attained their rule.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/08-09.md">

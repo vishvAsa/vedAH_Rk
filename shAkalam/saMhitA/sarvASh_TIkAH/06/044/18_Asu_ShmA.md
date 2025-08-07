@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आसु꣡ ष्मा णो मघवन्न् इन्द्र पृत्सु  
-अ᳡स्म꣡भ्यम् म꣡हि व꣡रिवः सुगं꣡ कः  
-अपां꣡ तोक꣡स्य त꣡नयस्य जेष꣡  
-इ꣡न्द्र सूरी꣡न् कृणुहि꣡ स्मा नो अर्ध꣡म्
+आसु᳓ ष्मा णो मघवन्न् इन्द्र पृत्सु  
+अ᳡स्म᳓भ्यम् म᳓हि व᳓रिवः सुगं᳓ कः  
+अपां᳓ तोक᳓स्य त᳓नयस्य जेष᳓  
+इ᳓न्द्र सूरी᳓न् कृणुहि᳓ स्मा नो अर्ध᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -273,7 +273,7 @@ _________
 
 Once more, in these our battles, bounteous Indra, make for us a great  wide space and easy passage.  
 Go halves with our patrons, Indra, in the conquering of the waters, of  life and lineage.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

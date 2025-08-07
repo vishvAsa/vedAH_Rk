@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡कीं सू꣡र्यस्य रोचना꣡द्  
-वि꣡श्वान् देवाँ꣡ उषर्बु꣡धः  
-वि꣡प्रो हो꣡तेह꣡ वक्षति
+आ᳓कीं सू᳓र्यस्य रोचना᳓द्  
+वि᳓श्वान् देवाँ᳓ उषर्बु᳓धः  
+वि᳓प्रो हो᳓तेह᳓ वक्षति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

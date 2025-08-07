@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पू꣡षन् त꣡व व्रते꣡ वयं꣡  
-न꣡ रिष्येम क꣡दा चन꣡  
-स्तोता꣡रस् त इह꣡ स्मसि
+पू᳓षन् त᳓व व्रते᳓ वयं᳓  
+न᳓ रिष्येम क᳓दा चन᳓  
+स्तोता᳓रस् त इह᳓ स्मसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

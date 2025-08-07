@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ नः सन्तु यु꣡जः स꣡दा  
-व꣡रुणो मित्रो꣡ अर्यमा꣡  
-वृधा꣡सश् च प्र꣡चेतसः
+ते᳓ नः सन्तु यु᳓जः स᳓दा  
+व᳓रुणो मित्रो᳓ अर्यमा᳓  
+वृधा᳓सश् च प्र᳓चेतसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

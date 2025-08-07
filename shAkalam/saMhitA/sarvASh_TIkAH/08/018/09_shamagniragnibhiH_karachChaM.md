@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-श꣡म् अग्नि꣡र् अग्नि꣡भिः करच्  
-छं꣡ नस् तपतु सू꣡रियः  
-शं꣡ वा꣡तो वातु अरपा꣡ अ꣡प स्रि꣡धः
+श᳓म् अग्नि᳓र् अग्नि᳓भिः करच्  
+छं᳓ नस् तपतु सू᳓रियः  
+शं᳓ वा᳓तो वातु अरपा᳓ अ᳓प स्रि᳓धः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

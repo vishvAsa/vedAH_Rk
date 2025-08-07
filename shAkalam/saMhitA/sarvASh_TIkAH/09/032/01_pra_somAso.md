@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ सो꣡मासो मदच्यु꣡तः  
-श्र꣡वसे नो मघो᳐꣡नः  
-सुता꣡ विद꣡थे अक्रमुः
+प्र᳓ सो᳓मासो मदच्यु᳓तः  
+श्र᳓वसे नो मघो᳐᳓नः  
+सुता᳓ विद᳓थे अक्रमुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

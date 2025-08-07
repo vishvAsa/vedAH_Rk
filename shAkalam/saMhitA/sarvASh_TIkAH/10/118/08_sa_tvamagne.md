@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ त्व꣡म् अग्ने प्र꣡तीकेन  
-प्र꣡त्य् ओष यातुधानि꣡यः  
-उरुक्ष꣡येषु दी꣡दियत्
+स᳓ त्व᳓म् अग्ने प्र᳓तीकेन  
+प्र᳓त्य् ओष यातुधानि᳓यः  
+उरुक्ष᳓येषु दी᳓दियत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

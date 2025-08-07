@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमा꣡म् मे मरुतो गि꣡रम्  
-इमं꣡ स्तो꣡मम् ऋभुक्षणः  
-इम꣡म् मे वनता ह꣡वम्
+इमा᳓म् मे मरुतो गि᳓रम्  
+इमं᳓ स्तो᳓मम् ऋभुक्षणः  
+इम᳓म् मे वनता ह᳓वम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

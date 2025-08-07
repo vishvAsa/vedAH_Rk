@@ -15,9 +15,9 @@ ChandaH = "पादनिचृत्"
 
 <details><summary>Thomson & Solcum</summary>
 
-युवा꣡कु हि꣡ श꣡चीनां᳐  
-युवा꣡कु सुमतीना᳐꣡म्  
-भूया꣡म वाजदा꣡व्ना᳐म्
+युवा᳓कु हि᳓ श᳓चीनां᳐  
+युवा᳓कु सुमतीना᳐᳓म्  
+भूया᳓म वाजदा᳓व्ना᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

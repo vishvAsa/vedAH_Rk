@@ -15,9 +15,9 @@ ChandaH = "विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-दुहीय꣡न् मित्र꣡धितये युवा꣡कु  
-राये꣡ च नो मिमीतं꣡ वा꣡जवत्यै  
-इषे꣡ च नो मिमीतं धेनुम꣡त्यै
+दुहीय᳓न् मित्र᳓धितये युवा᳓कु  
+राये᳓ च नो मिमीतं᳓ वा᳓जवत्यै  
+इषे᳓ च नो मिमीतं धेनुम᳓त्यै
 </details>
 
 <details><summary>Vedaweb annotation</summary>

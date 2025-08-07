@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-द्रविणोदा꣡ ददातु नो  
-व꣡सूनि या꣡नि शृण्विरे꣡  
-देवे꣡षु ता꣡ वनामहे
+द्रविणोदा᳓ ददातु नो  
+व᳓सूनि या᳓नि शृण्विरे᳓  
+देवे᳓षु ता᳓ वनामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

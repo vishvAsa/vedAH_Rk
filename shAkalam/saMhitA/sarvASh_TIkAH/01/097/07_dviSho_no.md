@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-द्वि꣡षो नो विश्वतोमुख  
-अ꣡ति नावे꣡व पारय  
-अ꣡प नः शो꣡शुचद् अघ꣡म्
+द्वि᳓षो नो विश्वतोमुख  
+अ᳓ति नावे᳓व पारय  
+अ᳓प नः शो᳓शुचद् अघ᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

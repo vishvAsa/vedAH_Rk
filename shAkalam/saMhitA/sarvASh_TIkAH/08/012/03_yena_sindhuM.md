@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡न सि꣡न्धुम् मही꣡र् अपो꣡  
-र꣡थाँ इव प्रचोद꣡यः  
-प꣡न्थाम् ऋत꣡स्य या꣡तवे त꣡म् ईमहे
+ये᳓न सि᳓न्धुम् मही᳓र् अपो᳓  
+र᳓थाँ इव प्रचोद᳓यः  
+प᳓न्थाम् ऋत᳓स्य या᳓तवे त᳓म् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -174,7 +174,7 @@ _________
 
 (That) by which you impel the great waters forth to the Sindhu like  chariots  
 to travel the path of truth—for that we beg.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/01-03.md">

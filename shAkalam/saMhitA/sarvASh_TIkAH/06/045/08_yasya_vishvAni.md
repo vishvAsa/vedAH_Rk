@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य वि꣡श्वानि ह꣡स्तयोर्  
-ऊचु꣡र् व꣡सूनि नि꣡ द्विता꣡  
-वीर꣡स्य पृतनाष꣡हः
+य᳓स्य वि᳓श्वानि ह᳓स्तयोर्  
+ऊचु᳓र् व᳓सूनि नि᳓ द्विता᳓  
+वीर᳓स्य पृतनाष᳓हः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

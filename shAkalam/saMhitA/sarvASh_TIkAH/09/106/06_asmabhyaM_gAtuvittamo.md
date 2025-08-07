@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्म꣡भ्यं गातुवि꣡त्तमो  
-देवे꣡भ्यो म꣡धुमत्तमः  
-सह꣡स्रं याहि पथि꣡भिः क꣡निक्रदत्
+अस्म᳓भ्यं गातुवि᳓त्तमो  
+देवे᳓भ्यो म᳓धुमत्तमः  
+सह᳓स्रं याहि पथि᳓भिः क᳓निक्रदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -143,7 +143,7 @@ _________
 
 The best finder of the way for us, most honeyed for the gods,  
 drive along your thousand paths, ever roaring.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/04-06.md">

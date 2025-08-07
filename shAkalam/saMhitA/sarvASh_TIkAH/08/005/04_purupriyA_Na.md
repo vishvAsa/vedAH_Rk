@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरुप्रिया꣡ ण ऊत꣡ये  
-पुरुमन्द्रा꣡ पुरूव꣡सू  
-स्तुषे꣡ क꣡ण्वासो अश्वि꣡ना
+पुरुप्रिया᳓ ण ऊत᳓ये  
+पुरुमन्द्रा᳓ पुरूव᳓सू  
+स्तुषे᳓ क᳓ण्वासो अश्वि᳓ना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

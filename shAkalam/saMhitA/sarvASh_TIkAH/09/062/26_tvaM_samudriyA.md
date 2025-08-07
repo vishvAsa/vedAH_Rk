@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ समुद्रि꣡या अपो꣡  
-अग्रियो꣡ वा꣡च ईर꣡यन्  
-प꣡वस्व विश्वमेजय
+तुवं᳓ समुद्रि᳓या अपो᳓  
+अग्रियो᳓ वा᳓च ईर᳓यन्  
+प᳓वस्व विश्वमेजय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

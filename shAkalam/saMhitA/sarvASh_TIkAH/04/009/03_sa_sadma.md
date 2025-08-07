@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ स꣡द्म प꣡रि णीयते  
-हो꣡ता मन्द्रो꣡ दि꣡विष्टिषु  
-उत꣡ पो꣡ता नि꣡ षीदति
+स᳓ स᳓द्म प᳓रि णीयते  
+हो᳓ता मन्द्रो᳓ दि᳓विष्टिषु  
+उत᳓ पो᳓ता नि᳓ षीदति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

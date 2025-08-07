@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इदं꣡ ह नून꣡म् एषां᳐  
-सुम्न꣡म् भिक्षेत म꣡र्तियः  
-आदित्या꣡नाम् अ꣡पूर्वियं स꣡वीमनि
+इदं᳓ ह नून᳓म् एषां᳐  
+सुम्न᳓म् भिक्षेत म᳓र्तियः  
+आदित्या᳓नाम् अ᳓पूर्वियं स᳓वीमनि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

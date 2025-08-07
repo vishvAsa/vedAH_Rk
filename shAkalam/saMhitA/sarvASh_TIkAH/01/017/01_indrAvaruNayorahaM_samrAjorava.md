@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राव꣡रुणयोर् अहं꣡  
-सम्रा꣡जोर् अ꣡व आ꣡ वृणे  
-ता꣡ नो मॄळात+ ईदृ꣡शे
+इ᳓न्द्राव᳓रुणयोर् अहं᳓  
+सम्रा᳓जोर् अ᳓व आ᳓ वृणे  
+ता᳓ नो मॄळात+ ईदृ᳓शे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

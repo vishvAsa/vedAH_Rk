@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ष्टये सदा꣡वृधं  
-सु꣡वर्मीळ्हेषु यं꣡ न꣡रः  
-ना꣡ना ह꣡वन्त ऊत꣡ये
+अभि᳓ष्टये सदा᳓वृधं  
+सु᳓वर्मीळ्हेषु यं᳓ न᳓रः  
+ना᳓ना ह᳓वन्त ऊत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

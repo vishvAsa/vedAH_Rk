@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡श्विना हरिणा꣡व् इव  
-गौरा꣡व् इवा꣡नु य꣡वसम्  
-हंसा꣡व् इव पततम् आ꣡ सुताँ꣡ उ꣡प
+अ᳓श्विना हरिणा᳓व् इव  
+गौरा᳓व् इवा᳓नु य᳓वसम्  
+हंसा᳓व् इव पततम् आ᳓ सुताँ᳓ उ᳓प
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡प्रं वि꣡प्रासो अ꣡वसे  
-देव꣡म् म꣡र्तास ऊत꣡ये  
-अग्निं꣡ गीर्भि꣡र् हवामहे
+वि᳓प्रं वि᳓प्रासो अ᳓वसे  
+देव᳓म् म᳓र्तास ऊत᳓ये  
+अग्निं᳓ गीर्भि᳓र् हवामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-भद्रो꣡ नो अग्नि꣡र् आ꣡हुतो  
-भद्रा꣡ रातिः꣡ सुभग भद्रो꣡ अध्वरः꣡  
-भद्रा꣡ उत꣡ प्र꣡शस्तयः
+भद्रो᳓ नो अग्नि᳓र् आ᳓हुतो  
+भद्रा᳓ रातिः᳓ सुभग भद्रो᳓ अध्वरः᳓  
+भद्रा᳓ उत᳓ प्र᳓शस्तयः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

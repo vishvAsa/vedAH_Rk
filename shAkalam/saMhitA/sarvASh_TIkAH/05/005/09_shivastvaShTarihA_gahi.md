@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शिव꣡स् त्वष्टर् इहा꣡ गहि  
-विभुः꣡ पो꣡ष उत꣡ त्म꣡ना  
-यज्ञे꣡-यज्ञे न उ꣡द् अव
+शिव᳓स् त्वष्टर् इहा᳓ गहि  
+विभुः᳓ पो᳓ष उत᳓ त्म᳓ना  
+यज्ञे᳓-यज्ञे न उ᳓द् अव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

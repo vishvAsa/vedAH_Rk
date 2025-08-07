@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡किर् इन्द्र त्व꣡द् उ꣡त्तरो  
-न꣡ ज्या꣡याँ अस्ति वृत्रहन्  
-न꣡किर् एवा꣡ य꣡था तुव꣡म्
+न᳓किर् इन्द्र त्व᳓द् उ᳓त्तरो  
+न᳓ ज्या᳓याँ अस्ति वृत्रहन्  
+न᳓किर् एवा᳓ य᳓था तुव᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

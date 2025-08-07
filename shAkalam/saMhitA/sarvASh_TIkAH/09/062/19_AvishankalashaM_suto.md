@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आविश꣡न् कल꣡शं सुतो꣡  
-वि꣡श्वा अ꣡र्षन्न् अभि꣡ श्रि꣡यः  
-शू꣡रो न꣡ गो꣡षु तिष्ठति
+आविश᳓न् कल᳓शं सुतो᳓  
+वि᳓श्वा अ᳓र्षन्न् अभि᳓ श्रि᳓यः  
+शू᳓रो न᳓ गो᳓षु तिष्ठति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -174,7 +174,7 @@ I.e. as a hero resolutely stands among the enemy's cattle, so the **Soma** resol
 
 Pressed, entering the tub, rushing to all that is glorious,  
 he stands among the cows like a champion.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/19-21.md">

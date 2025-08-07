@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मन्द्रं꣡ हो꣡तारम् ऋत्वि꣡जं  
-चित्र꣡भानुं विभा꣡वसुम्  
-अग्नि꣡म् ईळे स꣡ उ श्रवत्
+मन्द्रं᳓ हो᳓तारम् ऋत्वि᳓जं  
+चित्र᳓भानुं विभा᳓वसुम्  
+अग्नि᳓म् ईळे स᳓ उ श्रवत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

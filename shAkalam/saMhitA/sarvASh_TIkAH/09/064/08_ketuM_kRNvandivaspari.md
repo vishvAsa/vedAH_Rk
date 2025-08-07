@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-केतुं꣡ कृण्व꣡न् दिव꣡स् प꣡रि  
-वि꣡श्वा रूपा꣡भि꣡ अर्षसि  
-समुद्रः꣡ सोम पिन्वसे
+केतुं᳓ कृण्व᳓न् दिव᳓स् प᳓रि  
+वि᳓श्वा रूपा᳓भि᳓ अर्षसि  
+समुद्रः᳓ सोम पिन्वसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

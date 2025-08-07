@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ यो꣡र् उपब्दि꣡र् अ꣡श्वियः  
-शृण्वे꣡ र꣡थस्य क꣡च् चन꣡  
-य꣡द् अग्ने या꣡सि दूति꣡यम्
+न᳓ यो᳓र् उपब्दि᳓र् अ᳓श्वियः  
+शृण्वे᳓ र᳓थस्य क᳓च् चन᳓  
+य᳓द् अग्ने या᳓सि दूति᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡षा यूथे꣡व वं꣡सगः  
-कृष्टी꣡र् इयर्ति ओ꣡जसा  
-ई꣡शानो अ꣡प्रतिष्कुतः
+वृ᳓षा यूथे᳓व वं᳓सगः  
+कृष्टी᳓र् इयर्ति ओ᳓जसा  
+ई᳓शानो अ᳓प्रतिष्कुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

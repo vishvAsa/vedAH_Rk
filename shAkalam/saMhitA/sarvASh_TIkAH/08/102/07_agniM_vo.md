@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्निं꣡ वो वृध꣡न्तम्  
-अध्वरा꣡णाम् पुरूत꣡मम्  
-अ꣡छा न꣡प्त्रे स꣡हस्वते
+अग्निं᳓ वो वृध᳓न्तम्  
+अध्वरा᳓णाम् पुरूत᳓मम्  
+अ᳓छा न᳓प्त्रे स᳓हस्वते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

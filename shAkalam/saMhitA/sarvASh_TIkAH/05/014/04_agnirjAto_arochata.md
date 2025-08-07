@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् जातो꣡ अरोचत  
-घ्न꣡न् द꣡स्यूञ् ज्यो꣡तिषा त꣡मः  
-अ꣡विन्दद् गा꣡ अपः꣡ सु꣡वः
+अग्नि᳓र् जातो᳓ अरोचत  
+घ्न᳓न् द᳓स्यूञ् ज्यो᳓तिषा त᳓मः  
+अ᳓विन्दद् गा᳓ अपः᳓ सु᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

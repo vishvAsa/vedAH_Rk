@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡द् अद्या꣡ चित् त उक्थि꣡नो  
-अ꣡नु ष्टुवन्ति पूर्व꣡था  
-वृ꣡षपत्नीर् अपो꣡ जया दिवे꣡-दिवे
+त᳓द् अद्या᳓ चित् त उक्थि᳓नो  
+अ᳓नु ष्टुवन्ति पूर्व᳓था  
+वृ᳓षपत्नीर् अपो᳓ जया दिवे᳓-दिवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

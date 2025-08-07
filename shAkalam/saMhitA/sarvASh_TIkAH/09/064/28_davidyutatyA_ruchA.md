@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-द꣡विद्युततिया रुचा꣡  
-परिष्टो꣡भन्तिया कृपा꣡  
-सो꣡माः शुक्रा꣡ ग꣡वाशिरः
+द᳓विद्युततिया रुचा᳓  
+परिष्टो᳓भन्तिया कृपा᳓  
+सो᳓माः शुक्रा᳓ ग᳓वाशिरः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

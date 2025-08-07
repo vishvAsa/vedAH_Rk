@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र गृणीष꣡ उ स्तुषे꣡  
-महाँ꣡ उग्र꣡ ईशानकृ꣡त्  
-आ꣡ इहि नः सुत꣡म् पि꣡ब
+इ᳓न्द्र गृणीष᳓ उ स्तुषे᳓  
+महाँ᳓ उग्र᳓ ईशानकृ᳓त्  
+आ᳓ इहि नः सुत᳓म् पि᳓ब
 </details>
 
 <details><summary>Vedaweb annotation</summary>

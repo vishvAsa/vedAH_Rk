@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्या अनन्तो꣡ अ꣡ह्रुतस्  
-त्वेष꣡श् चरिष्णु꣡र् अर्णवः꣡  
-अ꣡मश् च꣡रति रो꣡रुवत्
+य᳓स्या अनन्तो᳓ अ᳓ह्रुतस्  
+त्वेष᳓श् चरिष्णु᳓र् अर्णवः᳓  
+अ᳓मश् च᳓रति रो᳓रुवत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

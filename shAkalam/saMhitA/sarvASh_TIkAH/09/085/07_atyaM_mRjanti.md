@@ -15,10 +15,10 @@ ChandaH = "जगती"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡त्यम् मृजन्ति कल꣡शे द꣡श क्षि꣡पः  
-प्र꣡ वि꣡प्राणाम् मत꣡यो वा꣡च ईरते  
-प꣡वमाना अभि꣡ अर्षन्ति सुष्टुति꣡म्  
-ए꣡न्द्रं विशन्ति मदिरा꣡स इ꣡न्दवः
+अ᳓त्यम् मृजन्ति कल᳓शे द᳓श क्षि᳓पः  
+प्र᳓ वि᳓प्राणाम् मत᳓यो वा᳓च ईरते  
+प᳓वमाना अभि᳓ अर्षन्ति सुष्टुति᳓म्  
+ए᳓न्द्रं विशन्ति मदिरा᳓स इ᳓न्दवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -241,7 +241,7 @@ _________
 The ten fingers groom the steed in the tub. The thoughts, the words of  the inspired poets press forward.  
 Purifying themselves, they rush to the lovely praise hymn. The  
 exhilarating drops enter Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/07-08.md">

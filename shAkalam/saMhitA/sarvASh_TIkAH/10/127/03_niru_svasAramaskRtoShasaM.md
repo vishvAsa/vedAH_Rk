@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡र् उ स्व꣡सारम् अस्कृत  
-उष꣡सं देवी꣡ आयती꣡  
-अ꣡पे꣡द् उ हासते त꣡मः
+नि᳓र् उ स्व᳓सारम् अस्कृत  
+उष᳓सं देवी᳓ आयती᳓  
+अ᳓पे᳓द् उ हासते त᳓मः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

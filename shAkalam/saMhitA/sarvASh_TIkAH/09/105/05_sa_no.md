@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो हरीणा᳐म् पत  
-इ꣡न्दो देव꣡प्सरस्तमः  
-स꣡खेव स꣡ख्ये न꣡रियो रुचे꣡ भव
+स᳓ नो हरीणा᳐म् पत  
+इ᳓न्दो देव᳓प्सरस्तमः  
+स᳓खेव स᳓ख्ये न᳓रियो रुचे᳓ भव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

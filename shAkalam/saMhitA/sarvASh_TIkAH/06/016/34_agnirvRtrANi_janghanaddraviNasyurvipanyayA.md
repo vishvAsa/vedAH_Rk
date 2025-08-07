@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् वृत्रा꣡णि जङ्घनद्  
-द्रविणस्यु꣡र् विपन्य꣡या  
-स꣡मिद्धः शुक्र꣡ आ꣡हुतः
+अग्नि᳓र् वृत्रा᳓णि जङ्घनद्  
+द्रविणस्यु᳓र् विपन्य᳓या  
+स᳓मिद्धः शुक्र᳓ आ᳓हुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

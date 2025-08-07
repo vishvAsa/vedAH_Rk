@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ नो अग्ने ऽभिदा꣡सति  
-अ꣡न्ति दूरे꣡ पदीष्ट꣡ सः꣡  
-अस्मा꣡कम् इ꣡द् वृधे꣡ भव
+यो᳓ नो अग्ने ऽभिदा᳓सति  
+अ᳓न्ति दूरे᳓ पदीष्ट᳓ सः᳓  
+अस्मा᳓कम् इ᳓द् वृधे᳓ भव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

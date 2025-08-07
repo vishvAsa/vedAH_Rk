@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि त्रिधा꣡तुर् अध्वरं꣡  
-जूर्णि꣡र् एति न꣡वीयसी  
-म꣡ध्वा हो꣡तारो अञ्जते
+प᳓रि त्रिधा᳓तुर् अध्वरं᳓  
+जूर्णि᳓र् एति न᳓वीयसी  
+म᳓ध्वा हो᳓तारो अञ्जते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

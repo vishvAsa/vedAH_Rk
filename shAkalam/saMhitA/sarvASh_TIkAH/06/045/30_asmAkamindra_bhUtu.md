@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्मा꣡कम् इन्द्र भूतु ते  
-स्तो꣡मो वा꣡हिष्ठो अ꣡न्तमः  
-अस्मा꣡न् राये꣡ महे꣡ हिनु
+अस्मा᳓कम् इन्द्र भूतु ते  
+स्तो᳓मो वा᳓हिष्ठो अ᳓न्तमः  
+अस्मा᳓न् राये᳓ महे᳓ हिनु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

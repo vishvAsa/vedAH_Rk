@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्य꣡ व्रते꣡ सजो꣡षसो  
-वि꣡श्वे देवा꣡सो अद्रु꣡हः  
-स्पार्हा꣡ भवन्ति र꣡न्तयो जुष꣡न्त य꣡त्
+अस्य᳓ व्रते᳓ सजो᳓षसो  
+वि᳓श्वे देवा᳓सो अद्रु᳓हः  
+स्पार्हा᳓ भवन्ति र᳓न्तयो जुष᳓न्त य᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

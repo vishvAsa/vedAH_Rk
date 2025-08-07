@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡ गा꣡वो गोष्ठे꣡ असदन्  
-नि꣡ मृगा꣡सो अविक्षत  
-नि꣡ केत꣡वो ज꣡नानां᳐  
-नि꣡ अदृ꣡ष्टा अलिप्सत
+नि᳓ गा᳓वो गोष्ठे᳓ असदन्  
+नि᳓ मृगा᳓सो अविक्षत  
+नि᳓ केत᳓वो ज᳓नानां᳐  
+नि᳓ अदृ᳓ष्टा अलिप्सत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

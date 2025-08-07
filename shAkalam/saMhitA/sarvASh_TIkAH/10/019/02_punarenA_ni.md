@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पु꣡नर् एना नि꣡ वर्तय  
-पु꣡नर् एना नि꣡ आ꣡ कुरु  
-इ꣡न्द्र एणा नि꣡ यछतु  
-अग्नि꣡र् एना उपा꣡जतु
+पु᳓नर् एना नि᳓ वर्तय  
+पु᳓नर् एना नि᳓ आ᳓ कुरु  
+इ᳓न्द्र एणा नि᳓ यछतु  
+अग्नि᳓र् एना उपा᳓जतु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

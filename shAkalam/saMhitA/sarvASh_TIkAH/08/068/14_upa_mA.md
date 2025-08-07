@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प मा ष꣡ड् दुवा꣡-दुवा  
-न꣡रः सो꣡मस्य ह꣡र्षिया  
-ति꣡ष्ठन्ति स्वादुरात꣡यः
+उ᳓प मा ष᳓ड् दुवा᳓-दुवा  
+न᳓रः सो᳓मस्य ह᳓र्षिया  
+ति᳓ष्ठन्ति स्वादुरात᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यः꣡ स्नी꣡हितीषु पूर्वियः꣡  
-संजग्माना꣡सु कृष्टि꣡षु  
-अ꣡रक्षद् दाशु꣡षे ग꣡यम्
+यः᳓ स्नी᳓हितीषु पूर्वियः᳓  
+संजग्माना᳓सु कृष्टि᳓षु  
+अ᳓रक्षद् दाशु᳓षे ग᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

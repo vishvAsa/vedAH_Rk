@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ मित्र꣡स्य प्र꣡शस्तय  
-इन्द्राग्नी꣡ ता꣡ हवामहे  
-सोमपा꣡ सो꣡मपीतये
+ता᳓ मित्र᳓स्य प्र᳓शस्तय  
+इन्द्राग्नी᳓ ता᳓ हवामहे  
+सोमपा᳓ सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

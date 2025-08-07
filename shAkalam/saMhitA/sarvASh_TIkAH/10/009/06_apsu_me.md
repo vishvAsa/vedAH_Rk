@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अप्सु꣡ मे सो꣡मो अब्रवीद्  
-अन्त꣡र् वि꣡श्वानि भेषजा꣡  
-अग्निं꣡ च विश्व꣡शम्भुवम्
+अप्सु᳓ मे सो᳓मो अब्रवीद्  
+अन्त᳓र् वि᳓श्वानि भेषजा᳓  
+अग्निं᳓ च विश्व᳓शम्भुवम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

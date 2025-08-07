@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡त्यूर्मिर् मत्सरो꣡ म꣡दः  
-सो꣡मः पवि꣡त्रे अर्षति  
-विघ्न꣡न् र꣡क्षांसि देवयुः꣡
+अ᳓त्यूर्मिर् मत्सरो᳓ म᳓दः  
+सो᳓मः पवि᳓त्रे अर्षति  
+विघ्न᳓न् र᳓क्षांसि देवयुः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

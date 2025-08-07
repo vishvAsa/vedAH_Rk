@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पितु꣡र् न꣡ पुत्रः꣡ सु꣡भृतो दुरोण꣡ आ꣡  
-देवाँ꣡ एतु प्र꣡ णो हविः꣡
+पितु᳓र् न᳓ पुत्रः᳓ सु᳓भृतो दुरोण᳓ आ᳓  
+देवाँ᳓ एतु प्र᳓ णो हविः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

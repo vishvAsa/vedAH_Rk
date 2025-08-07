@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-पाहि꣡ नो अग्न ए꣡कया  
-पाहि꣡ उत꣡ द्विती꣡यया  
-पाहि꣡ गीर्भि꣡स् तिसृ꣡भिर् ऊर्जा᳐म् पते  
-पाहि꣡ चतसृ꣡भिर् वसो
+पाहि᳓ नो अग्न ए᳓कया  
+पाहि᳓ उत᳓ द्विती᳓यया  
+पाहि᳓ गीर्भि᳓स् तिसृ᳓भिर् ऊर्जा᳐म् पते  
+पाहि᳓ चतसृ᳓भिर् वसो
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -211,7 +211,7 @@ Four: ṛk, **yajuṣ**, **sāman** and **nigada**
 
 Protect us with one, Agni, and protect us with a second.  
 Protect us with three hymns, o lord of nourishments; protect us with  four, o good one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् उ तिष्ठ सुअध्वर  
-स्त꣡वानो देविया꣡ कृपा꣡  
-अभिख्या꣡ भासा꣡ बृहता꣡ शुशुक्व꣡निः
+उ᳓द् उ तिष्ठ सुअध्वर  
+स्त᳓वानो देविया᳓ कृपा᳓  
+अभिख्या᳓ भासा᳓ बृहता᳓ शुशुक्व᳓निः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

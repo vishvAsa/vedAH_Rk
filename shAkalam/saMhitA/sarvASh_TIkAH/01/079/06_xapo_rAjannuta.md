@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-क्षपो꣡ राजन्न् उत꣡ त्म꣡ना  
-अ꣡ग्ने व꣡स्तोर् उतो꣡ष꣡सः  
-स꣡ तिग्मजम्भ रक्ष꣡सो दह प्र꣡ति
+क्षपो᳓ राजन्न् उत᳓ त्म᳓ना  
+अ᳓ग्ने व᳓स्तोर् उतो᳓ष᳓सः  
+स᳓ तिग्मजम्भ रक्ष᳓सो दह प्र᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

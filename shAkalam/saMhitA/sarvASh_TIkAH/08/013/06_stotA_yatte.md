@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्तोता꣡ य꣡त् ते वि꣡चर्षणिर्  
-अतिप्रशर्ध꣡यद् गि꣡रः  
-वया꣡ इवा꣡नु रोहते जुष꣡न्त य꣡त्
+स्तोता᳓ य᳓त् ते वि᳓चर्षणिर्  
+अतिप्रशर्ध᳓यद् गि᳓रः  
+वया᳓ इवा᳓नु रोहते जुष᳓न्त य᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

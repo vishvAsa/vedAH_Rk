@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् उत्तम꣡म् मुमुग्धि नो  
-वि꣡ पा꣡शम् मध्यमं꣡ चृत  
-अ꣡वाधमा꣡नि जीव꣡से
+उ᳓द् उत्तम᳓म् मुमुग्धि नो  
+वि᳓ पा᳓शम् मध्यमं᳓ चृत  
+अ᳓वाधमा᳓नि जीव᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ पुनाना꣡य वेध꣡से  
-सो꣡माय व꣡च उ꣡द्यतम्  
-भृतिं꣡ न꣡ भरा मति꣡भिर् जु꣡जोषते
+प्र᳓ पुनाना᳓य वेध᳓से  
+सो᳓माय व᳓च उ᳓द्यतम्  
+भृतिं᳓ न᳓ भरा मति᳓भिर् जु᳓जोषते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

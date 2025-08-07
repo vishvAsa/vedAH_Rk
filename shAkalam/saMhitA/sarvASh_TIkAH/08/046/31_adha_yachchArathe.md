@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ध य꣡च् चा꣡रथे गणे꣡  
-शत꣡म् उ꣡ष्ट्राँ अ꣡चिक्रदत्  
-अ꣡ध श्वि꣡त्नेषु विंशतिं꣡ शता꣡
+अ᳓ध य᳓च् चा᳓रथे गणे᳓  
+शत᳓म् उ᳓ष्ट्राँ अ᳓चिक्रदत्  
+अ᳓ध श्वि᳓त्नेषु विंशतिं᳓ शता᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

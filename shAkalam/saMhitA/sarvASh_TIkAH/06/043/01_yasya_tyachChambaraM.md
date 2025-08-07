@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य त्य꣡च् छ꣡म्बरम् म꣡दे  
-दि꣡वोदासाय रन्ध꣡यः  
-अयं꣡ स꣡ सो꣡म इन्द्र ते सुतः꣡ पि꣡ब
+य᳓स्य त्य᳓च् छ᳓म्बरम् म᳓दे  
+दि᳓वोदासाय रन्ध᳓यः  
+अयं᳓ स᳓ सो᳓म इन्द्र ते सुतः᳓ पि᳓ब
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -189,7 +189,7 @@ It is known: yasya tyacchambaram made: tyat = tat prasiddham yathā **bhavati** 
 
 In whose exhilaration you subdued Śambara for Divodāsa—  
 here is that soma, Indra, pressed for you. Drink!
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/01-03.md">

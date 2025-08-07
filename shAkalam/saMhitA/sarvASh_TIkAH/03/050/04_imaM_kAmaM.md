@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमं꣡ का꣡मम् मन्दया गो꣡भिर् अ꣡श्वैश्  
-चन्द्र꣡वता रा꣡धसा पप्र꣡थश् च  
-सुवर्य꣡वो मति꣡भिस् तु꣡भ्य° वि꣡प्रा  
-इ꣡न्द्राय वा꣡हः कुशिका꣡सो अक्रन्
+इमं᳓ का᳓मम् मन्दया गो᳓भिर् अ᳓श्वैश्  
+चन्द्र᳓वता रा᳓धसा पप्र᳓थश् च  
+सुवर्य᳓वो मति᳓भिस् तु᳓भ्य° वि᳓प्रा  
+इ᳓न्द्राय वा᳓हः कुशिका᳓सो अक्रन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -227,7 +227,7 @@ _________
 
 Invigorate this desire with cows, with horses, with recompense in gold,  and you will (further) spread it out.  
 Seeking the sun, the inspired poets, the Kuśikas, have made with their  thoughts a (ritual) conveyance for you, for Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/050/04-05.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ त्यं꣡ चमसं꣡ न꣡वं  
-त्व꣡ष्टुर् देव꣡स्य नि꣡ष्कृतम्  
-अ꣡कर्त चतु꣡रः पु꣡नः
+उत᳓ त्यं᳓ चमसं᳓ न᳓वं  
+त्व᳓ष्टुर् देव᳓स्य नि᳓ष्कृतम्  
+अ᳓कर्त चतु᳓रः पु᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

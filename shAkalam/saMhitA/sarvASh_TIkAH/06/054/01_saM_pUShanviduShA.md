@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् पूषन् विदु꣡षा नय  
-यो꣡ अ꣡ञ्जसानुशा꣡सति  
-य꣡ एवे꣡द꣡म् इ꣡ति ब्र꣡वत्
+स᳓म् पूषन् विदु᳓षा नय  
+यो᳓ अ᳓ञ्जसानुशा᳓सति  
+य᳓ एवे᳓द᳓म् इ᳓ति ब्र᳓वत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कवि꣡म् इव प्र꣡चेतसं  
-यं꣡ देवा꣡सो अ꣡ध द्विता꣡  
-नि꣡ म꣡र्तियेषु आदधुः꣡
+कवि᳓म् इव प्र᳓चेतसं  
+यं᳓ देवा᳓सो अ᳓ध द्विता᳓  
+नि᳓ म᳓र्तियेषु आदधुः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

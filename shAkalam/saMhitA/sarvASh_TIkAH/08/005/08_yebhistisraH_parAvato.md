@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡भिस् तिस्रः꣡ पराव꣡तो  
-दिवो꣡ वि꣡श्वानि रोचना꣡  
-त्रीँ꣡र् अक्तू꣡न् परिदी꣡यथः
+ये᳓भिस् तिस्रः᳓ पराव᳓तो  
+दिवो᳓ वि᳓श्वानि रोचना᳓  
+त्रीँ᳓र् अक्तू᳓न् परिदी᳓यथः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

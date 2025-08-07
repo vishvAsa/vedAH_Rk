@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡स्य व्रता꣡नि ना꣡धृ꣡षे  
-प꣡वमानस्य दूढि꣡या  
-रुज꣡ य꣡स् त्वा पृतन्य꣡ति
+अ᳓स्य व्रता᳓नि ना᳓धृ᳓षे  
+प᳓वमानस्य दूढि᳓या  
+रुज᳓ य᳓स् त्वा पृतन्य᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

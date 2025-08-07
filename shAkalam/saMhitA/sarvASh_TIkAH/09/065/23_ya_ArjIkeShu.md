@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ आर्जीके꣡षु कृ꣡त्वसु  
-ये꣡ म꣡ध्ये पस्ति꣡याना᳐म्  
-ये꣡ वा ज꣡नेषु पञ्च꣡सु
+य᳓ आर्जीके᳓षु कृ᳓त्वसु  
+ये᳓ म᳓ध्ये पस्ति᳓याना᳐म्  
+ये᳓ वा ज᳓नेषु पञ्च᳓सु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

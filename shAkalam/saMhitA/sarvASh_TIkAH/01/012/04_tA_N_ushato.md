@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ताँ꣡ उशतो꣡ वि꣡ बोधय  
-य꣡द् अग्ने या꣡सि दूति꣡यम्  
-देवइ꣡र् आ꣡ सत्सि बर्हि꣡षि
+ताँ᳓ उशतो᳓ वि᳓ बोधय  
+य᳓द् अग्ने या᳓सि दूति᳓यम्  
+देवइ᳓र् आ᳓ सत्सि बर्हि᳓षि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ बोधि सूरि꣡र् मघ꣡वा  
-व꣡सुपते व꣡सुदावन्  
-युयोधि꣡ अस्म꣡द् द्वे꣡षांसि
+स᳓ बोधि सूरि᳓र् मघ᳓वा  
+व᳓सुपते व᳓सुदावन्  
+युयोधि᳓ अस्म᳓द् द्वे᳓षांसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

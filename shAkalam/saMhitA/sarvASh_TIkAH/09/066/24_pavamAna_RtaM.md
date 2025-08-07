@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमान ऋत꣡म् बृह꣡च्  
-छुक्रं꣡ ज्यो꣡तिर् अजीजनत्  
-कृष्णा꣡ त꣡मांसि ज꣡ङ्घनत्
+प᳓वमान ऋत᳓म् बृह᳓च्  
+छुक्रं᳓ ज्यो᳓तिर् अजीजनत्  
+कृष्णा᳓ त᳓मांसि ज᳓ङ्घनत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

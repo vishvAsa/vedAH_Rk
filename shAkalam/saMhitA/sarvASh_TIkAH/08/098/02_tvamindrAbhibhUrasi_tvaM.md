@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुव꣡म् इन्द्राभिभू꣡र् असि  
-तुवं꣡ सू꣡र्यम् अरोचयः  
-विश्व꣡कर्मा विश्व꣡देवो महाँ꣡ असि
+तुव᳓म् इन्द्राभिभू᳓र् असि  
+तुवं᳓ सू᳓र्यम् अरोचयः  
+विश्व᳓कर्मा विश्व᳓देवो महाँ᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -174,7 +174,7 @@ _________
 
 You, Indra, are the dominator; you caused the sun to shine.  
 Accomplishing all deeds, controlling all the gods, you are great.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/098/02-03.md">

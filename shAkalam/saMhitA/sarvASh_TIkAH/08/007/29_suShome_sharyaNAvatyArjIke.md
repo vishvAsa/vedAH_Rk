@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुषो꣡मे शर्यणा꣡वति  
-आर्जीके꣡ पस्ति꣡यावति  
-ययु꣡र् नि꣡चक्रया न꣡रः
+सुषो᳓मे शर्यणा᳓वति  
+आर्जीके᳓ पस्ति᳓यावति  
+ययु᳓र् नि᳓चक्रया न᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

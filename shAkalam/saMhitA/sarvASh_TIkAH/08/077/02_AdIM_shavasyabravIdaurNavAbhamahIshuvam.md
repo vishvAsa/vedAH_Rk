@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡द् ईं शवसि꣡ अब्रवीद्  
-और्णवाभ꣡म् अहीशु꣡वम्  
-ते꣡ पुत्र सन्तु निष्टु꣡रः
+आ᳓द् ईं शवसि᳓ अब्रवीद्  
+और्णवाभ᳓म् अहीशु᳓वम्  
+ते᳓ पुत्र सन्तु निष्टु᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

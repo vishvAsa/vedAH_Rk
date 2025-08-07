@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कुवि꣡द् वृषण्य꣡न्तीभियः  
-पुनानो꣡ ग꣡र्भम् आद꣡धत्  
-याः꣡ शुक्रं꣡ दुहते꣡ प꣡यः
+कुवि᳓द् वृषण्य᳓न्तीभियः  
+पुनानो᳓ ग᳓र्भम् आद᳓धत्  
+याः᳓ शुक्रं᳓ दुहते᳓ प᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

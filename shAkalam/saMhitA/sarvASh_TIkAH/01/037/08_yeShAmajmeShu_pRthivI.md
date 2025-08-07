@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡षाम् अ꣡ज्मेषु पृथिवी꣡  
-जुजुर्वाँ꣡ इव विश्प꣡तिः  
-भिया꣡ या꣡मेषु रे꣡जते
+ये᳓षाम् अ᳓ज्मेषु पृथिवी᳓  
+जुजुर्वाँ᳓ इव विश्प᳓तिः  
+भिया᳓ या᳓मेषु रे᳓जते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

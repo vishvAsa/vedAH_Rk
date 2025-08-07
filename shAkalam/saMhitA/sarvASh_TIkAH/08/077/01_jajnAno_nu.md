@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-जज्ञानो꣡ नु꣡ शत꣡क्रतुर्  
-वि꣡ पृछद् इ꣡ति मात꣡रम्  
-क꣡ उग्राः꣡ के꣡ ह शृण्विरे
+जज्ञानो᳓ नु᳓ शत᳓क्रतुर्  
+वि᳓ पृछद् इ᳓ति मात᳓रम्  
+क᳓ उग्राः᳓ के᳓ ह शृण्विरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

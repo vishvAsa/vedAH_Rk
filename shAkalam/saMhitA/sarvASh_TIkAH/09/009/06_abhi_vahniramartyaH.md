@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ व꣡ह्निर् अ꣡मर्तियः  
-सप्त꣡ पश्यति वा꣡वहिः  
-क्रि꣡विर् देवी꣡र् अतर्पयत्
+अभि᳓ व᳓ह्निर् अ᳓मर्तियः  
+सप्त᳓ पश्यति वा᳓वहिः  
+क्रि᳓विर् देवी᳓र् अतर्पयत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

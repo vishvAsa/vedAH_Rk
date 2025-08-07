@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ राया꣡ ते꣡ सुवी꣡रियैः  
-ससवां꣡सो वि꣡ शृण्विरे  
-ये꣡ अग्ना꣡ दधिरे꣡ दु꣡वः
+ते᳓ राया᳓ ते᳓ सुवी᳓रियैः  
+ससवां᳓सो वि᳓ शृण्विरे  
+ये᳓ अग्ना᳓ दधिरे᳓ दु᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

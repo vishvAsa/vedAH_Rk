@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ ते मा꣡नुषे ज꣡ने  
-सो꣡मः पूरु꣡षु सूयते  
-त꣡स्ये꣡हि प्र꣡ द्रवा पि꣡ब
+अयं᳓ ते मा᳓नुषे ज᳓ने  
+सो᳓मः पूरु᳓षु सूयते  
+त᳓स्ये᳓हि प्र᳓ द्रवा पि᳓ब
 </details>
 
 <details><summary>Vedaweb annotation</summary>

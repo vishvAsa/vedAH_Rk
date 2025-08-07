@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा गीर्भि꣡र् गि꣡र्वणसं  
-द्रविणस्युं꣡ द्रविणोदः  
-सपर्ये꣡म सपर्य꣡वः
+तं᳓ त्वा गीर्भि᳓र् गि᳓र्वणसं  
+द्रविणस्युं᳓ द्रविणोदः  
+सपर्ये᳓म सपर्य᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

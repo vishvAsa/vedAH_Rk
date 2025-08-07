@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ह꣡न्ताह꣡म् पृथिवी꣡म् इमां꣡  
-नि꣡ दधानीह꣡ वेह꣡ वा  
-कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
+ह᳓न्ताह᳓म् पृथिवी᳓म् इमां᳓  
+नि᳓ दधानीह᳓ वेह᳓ वा  
+कुवि᳓त् सो᳓मस्या᳓पाम् इ᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् अग्ने भारत द्युम꣡द्  
-अ꣡जस्रेण द꣡विद्युतत्  
-शो꣡चा वि꣡ भाहि अजर
+उ᳓द् अग्ने भारत द्युम᳓द्  
+अ᳓जस्रेण द᳓विद्युतत्  
+शो᳓चा वि᳓ भाहि अजर
 </details>
 
 <details><summary>Vedaweb annotation</summary>

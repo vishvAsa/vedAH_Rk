@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आयन्ता꣡रम् म꣡हि स्थिर꣡म्  
-पृ꣡तनासु श्रवोजि꣡तम्  
-भू꣡रेर् ई꣡शानम् ओ꣡जसा
+आयन्ता᳓रम् म᳓हि स्थिर᳓म्  
+पृ᳓तनासु श्रवोजि᳓तम्  
+भू᳓रेर् ई᳓शानम् ओ᳓जसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

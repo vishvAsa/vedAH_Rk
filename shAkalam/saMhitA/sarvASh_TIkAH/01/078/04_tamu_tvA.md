@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् उ त्वा वृत्रह꣡न्तमं  
-यो꣡ द꣡स्यूँर् अवधूनुषे꣡  
-द्युम्नइ꣡र् अभि꣡ प्र꣡ णोनुमः
+त᳓म् उ त्वा वृत्रह᳓न्तमं  
+यो᳓ द᳓स्यूँर् अवधूनुषे᳓  
+द्युम्नइ᳓र् अभि᳓ प्र᳓ णोनुमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡भिर् विधेम अग्न꣡ये  
-ज्य꣡यिष्ठाभिर्+ विअश्वव꣡त्  
-मं꣡हिष्ठाभिर् मति꣡भिः शुक्र꣡शोचिषे
+आ᳓भिर् विधेम अग्न᳓ये  
+ज्य᳓यिष्ठाभिर्+ विअश्वव᳓त्  
+मं᳓हिष्ठाभिर् मति᳓भिः शुक्र᳓शोचिषे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

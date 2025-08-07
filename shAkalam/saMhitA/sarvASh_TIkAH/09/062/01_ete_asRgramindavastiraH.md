@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एते꣡ असृग्रम् इ꣡न्दवस्  
-तिरः꣡ पवि꣡त्रम् आश꣡वः  
-वि꣡श्वानि अभि꣡ सउ꣡भगा
+एते᳓ असृग्रम् इ᳓न्दवस्  
+तिरः᳓ पवि᳓त्रम् आश᳓वः  
+वि᳓श्वानि अभि᳓ सउ᳓भगा
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -146,7 +146,7 @@ _________
 
 These drops have surged, swift across the filter,  
 toward all gifts of good fortune.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/01-03.md">

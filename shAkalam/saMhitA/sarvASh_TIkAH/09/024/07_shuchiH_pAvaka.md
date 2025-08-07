@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शु꣡चिः पवाक꣡+ उच्यते  
-सो꣡मः सुत꣡स्य म꣡धुवः  
-देवावी꣡र् अघशंसहा꣡
+शु᳓चिः पवाक᳓+ उच्यते  
+सो᳓मः सुत᳓स्य म᳓धुवः  
+देवावी᳓र् अघशंसहा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

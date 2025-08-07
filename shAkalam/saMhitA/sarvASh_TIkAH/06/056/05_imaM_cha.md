@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमं꣡ च नो गवे꣡षणं  
-सात꣡ये सीषधो गण꣡म्  
-आरा꣡त् पूषन्न् असि श्रुतः꣡
+इमं᳓ च नो गवे᳓षणं  
+सात᳓ये सीषधो गण᳓म्  
+आरा᳓त् पूषन्न् असि श्रुतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

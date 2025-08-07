@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ त्या꣡ यजता꣡ ह꣡री  
-कुमारा꣡त् साहदेविया꣡त्  
-प्र꣡यता सद्य꣡ आ꣡ ददे
+उत᳓ त्या᳓ यजता᳓ ह᳓री  
+कुमारा᳓त् साहदेविया᳓त्  
+प्र᳓यता सद्य᳓ आ᳓ ददे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ वाम् अ꣡द्रिभिः सुतः꣡  
-सो꣡मो नरा वृषण्वसू  
-आ꣡ यातं सो꣡मपीतये  
-पि꣡बतं दाशु꣡षो गृहे꣡
+अयं᳓ वाम् अ᳓द्रिभिः सुतः᳓  
+सो᳓मो नरा वृषण्वसू  
+आ᳓ यातं सो᳓मपीतये  
+पि᳓बतं दाशु᳓षो गृहे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

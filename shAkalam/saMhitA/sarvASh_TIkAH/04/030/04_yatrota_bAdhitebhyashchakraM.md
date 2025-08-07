@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त्रोत꣡ बाधिते꣡भियश्  
-चक्रं꣡ कु꣡त्साय यु꣡ध्यते  
-मुषाय꣡ इन्द्र सू꣡रियम्
+य᳓त्रोत᳓ बाधिते᳓भियश्  
+चक्रं᳓ कु᳓त्साय यु᳓ध्यते  
+मुषाय᳓ इन्द्र सू᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

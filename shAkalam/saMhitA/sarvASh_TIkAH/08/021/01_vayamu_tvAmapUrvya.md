@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वय꣡म् उ त्वा꣡म् अपूर्विय  
-स्थूरं꣡ न꣡ क꣡च् चिद् भ꣡रन्तो अवस्य꣡वः  
-वा꣡जे चित्रं꣡ हवामहे
+वय᳓म् उ त्वा᳓म् अपूर्विय  
+स्थूरं᳓ न᳓ क᳓च् चिद् भ᳓रन्तो अवस्य᳓वः  
+वा᳓जे चित्रं᳓ हवामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

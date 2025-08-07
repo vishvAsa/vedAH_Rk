@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एते꣡ धावन्ति इ꣡न्दवः  
-सो꣡मा इ꣡न्द्राय घृ꣡ष्वयः  
-मत्सरा꣡सः सुवर्वि꣡दः
+एते᳓ धावन्ति इ᳓न्दवः  
+सो᳓मा इ᳓न्द्राय घृ᳓ष्वयः  
+मत्सरा᳓सः सुवर्वि᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

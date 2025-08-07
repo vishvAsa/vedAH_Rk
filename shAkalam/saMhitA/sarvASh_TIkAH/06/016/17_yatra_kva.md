@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त्र कु꣡व च ते म꣡नो  
-द꣡क्षं दधस उ꣡त्तरम्  
-त꣡त्रा स꣡दः कृणवसे
+य᳓त्र कु᳓व च ते म᳓नो  
+द᳓क्षं दधस उ᳓त्तरम्  
+त᳓त्रा स᳓दः कृणवसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

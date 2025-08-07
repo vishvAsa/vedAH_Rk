@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡र्वतश् चिन् म꣡हि वृद्धो꣡ बिभाय  
-दिव꣡श् चित् सा꣡नु रेजत स्वने꣡ वः  
-य꣡त् क्री꣡ळथ मरुत ऋष्टिम꣡न्त  
-आ꣡प इव सध्रि꣡अञ्चो धवध्वे
+प᳓र्वतश् चिन् म᳓हि वृद्धो᳓ बिभाय  
+दिव᳓श् चित् सा᳓नु रेजत स्वने᳓ वः  
+य᳓त् क्री᳓ळथ मरुत ऋष्टिम᳓न्त  
+आ᳓प इव सध्रि᳓अञ्चो धवध्वे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -234,7 +234,7 @@ _________
 
 Even the mountain, grown great, has fear; even the back of heaven  trembles at your roar.  
 When you are at play, o Maruts, equipped with spears, you run toward a  single goal like the waters.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/060/02-03.md">

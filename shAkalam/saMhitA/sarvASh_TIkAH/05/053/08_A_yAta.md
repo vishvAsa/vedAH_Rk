@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ यात मरुतो दिव꣡  
-आ꣡न्त꣡रिक्षाद् अमा꣡द् उत꣡  
-मा꣡व स्थात पराव꣡तः
+आ᳓ यात मरुतो दिव᳓  
+आ᳓न्त᳓रिक्षाद् अमा᳓द् उत᳓  
+मा᳓व स्थात पराव᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

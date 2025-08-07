@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ ते दूरे꣡ परमा꣡ चिद् र꣡जांसि  
-आ꣡ तु꣡ प्र꣡ याहि हरिवो ह꣡रिभ्याम्  
-स्थिरा꣡य वृ꣡ष्णे स꣡वना कृते꣡मा꣡  
-युक्ता꣡ ग्रा꣡वाणः समिधाने꣡ अग्नउ꣡
+न᳓ ते दूरे᳓ परमा᳓ चिद् र᳓जांसि  
+आ᳓ तु᳓ प्र᳓ याहि हरिवो ह᳓रिभ्याम्  
+स्थिरा᳓य वृ᳓ष्णे स᳓वना कृते᳓मा᳓  
+युक्ता᳓ ग्रा᳓वाणः समिधाने᳓ अग्नउ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -271,7 +271,7 @@ _________
 
 Even the farthest dusky realms are not at a distance for you. But drive  here with your two fallow bays, bay-horsed one.  
 It is for (you), the sturdy bull, that these pressings here were made and  the pressing stones yoked when the fire was being kindled.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/030/02-03.md">

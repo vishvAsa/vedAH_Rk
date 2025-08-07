@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ वाजी꣡ रोचना꣡ दिवः꣡  
-प꣡वमानो वि꣡ धावति  
-रक्षोहा꣡ वा꣡रम् अव्य꣡यम्
+स᳓ वाजी᳓ रोचना᳓ दिवः᳓  
+प᳓वमानो वि᳓ धावति  
+रक्षोहा᳓ वा᳓रम् अव्य᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

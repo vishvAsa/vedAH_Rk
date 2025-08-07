@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡किर् हि꣡ एषां जनूं꣡षि वे꣡द  
-ते꣡ अङ्ग꣡ विद्रे मिथो꣡ जनि꣡त्रम्
+न᳓किर् हि᳓ एषां जनूं᳓षि वे᳓द  
+ते᳓ अङ्ग᳓ विद्रे मिथो᳓ जनि᳓त्रम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पूष्ण꣡श् चक्रं꣡ न꣡ रिष्यति  
-न꣡ को꣡शो अ꣡व पद्यते  
-नो꣡ अस्य व्यथते पविः꣡
+पूष्ण᳓श् चक्रं᳓ न᳓ रिष्यति  
+न᳓ को᳓शो अ᳓व पद्यते  
+नो᳓ अस्य व्यथते पविः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

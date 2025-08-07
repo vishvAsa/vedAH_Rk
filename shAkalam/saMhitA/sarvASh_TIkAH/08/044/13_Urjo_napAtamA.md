@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऊर्जो꣡ न꣡पातम् आ꣡ हुवे  
-अग्नि꣡म् पवाक꣡शोचिषम्+  
-अस्मि꣡न् यज्ञे꣡ सुअध्वरे꣡
+ऊर्जो᳓ न᳓पातम् आ᳓ हुवे  
+अग्नि᳓म् पवाक᳓शोचिषम्+  
+अस्मि᳓न् यज्ञे᳓ सुअध्वरे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

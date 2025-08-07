@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡र् आविध्यद् गिरि꣡भ्य आ꣡  
-धार꣡यत् पक्व꣡म् ओदन꣡म्  
-इ꣡न्द्रो बुन्दं꣡ सु꣡आततम्
+नि᳓र् आविध्यद् गिरि᳓भ्य आ᳓  
+धार᳓यत् पक्व᳓म् ओदन᳓म्  
+इ᳓न्द्रो बुन्दं᳓ सु᳓आततम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -161,7 +161,7 @@ _________
 
 He pierced (the boar Emuṣa), pierced the cooked rice porridge forth  from the mountains, and held it fast.  
 Indra (took) the well-stretched Bunda-bow.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/04-06.md">

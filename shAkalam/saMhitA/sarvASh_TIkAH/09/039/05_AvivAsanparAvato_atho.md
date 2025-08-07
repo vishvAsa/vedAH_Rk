@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आवि꣡वासन् पराव꣡तो  
-अ꣡थो अर्वाव꣡तः सुतः꣡  
-इ꣡न्द्राय सिच्यते म꣡धु
+आवि᳓वासन् पराव᳓तो  
+अ᳓थो अर्वाव᳓तः सुतः᳓  
+इ᳓न्द्राय सिच्यते म᳓धु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

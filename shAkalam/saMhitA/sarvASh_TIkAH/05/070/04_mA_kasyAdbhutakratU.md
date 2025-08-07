@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ क꣡स्य अद्भुतक्रतू  
-यक्ष꣡म् भुजेमा तनू꣡भिः  
-मा꣡ शे꣡षसा मा꣡ त꣡नसा
+मा᳓ क᳓स्य अद्भुतक्रतू  
+यक्ष᳓म् भुजेमा तनू᳓भिः  
+मा᳓ शे᳓षसा मा᳓ त᳓नसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

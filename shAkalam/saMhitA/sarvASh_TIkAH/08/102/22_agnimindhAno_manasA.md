@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡म् इ꣡न्धानो म꣡नसा  
-धि꣡यं सचेत म꣡र्तियः  
-अग्नि꣡म् ईधे विव꣡स्वभिः
+अग्नि᳓म् इ᳓न्धानो म᳓नसा  
+धि᳓यं सचेत म᳓र्तियः  
+अग्नि᳓म् ईधे विव᳓स्वभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -153,7 +153,7 @@ Idhe = indhe
 
 Kindling Agni with his mind, the mortal should follow his visionary  thought.  
 I have kindled Agni with the dawning lights.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/102/19-22.md">

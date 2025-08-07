@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ ग्ना꣡ अग्नि꣡र् अध्वर꣡  
-उतो꣡ गृह꣡पतिर् द꣡मे  
-उत꣡ ब्रह्मा꣡ नि꣡ षीदति
+उत᳓ ग्ना᳓ अग्नि᳓र् अध्वर᳓  
+उतो᳓ गृह᳓पतिर् द᳓मे  
+उत᳓ ब्रह्मा᳓ नि᳓ षीदति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

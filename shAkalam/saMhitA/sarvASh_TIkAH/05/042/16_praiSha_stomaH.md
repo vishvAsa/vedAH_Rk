@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रइ꣡ष꣡ स्तो꣡मः पृथिवी꣡म् अन्त꣡रिक्षं  
-व꣡नस्प꣡तीँर् ओ꣡षधी राये꣡ अश्याः  
-देवो꣡-देवः सुह꣡वो भूतु म꣡ह्यम्  
-मा꣡ नो माता꣡ पृथिवी꣡ दुर्मतउ꣡ धात्
+प्रइ᳓ष᳓ स्तो᳓मः पृथिवी᳓म् अन्त᳓रिक्षं  
+व᳓नस्प᳓तीँर् ओ᳓षधी राये᳓ अश्याः  
+देवो᳓-देवः सुह᳓वो भूतु म᳓ह्यम्  
+मा᳓ नो माता᳓ पृथिवी᳓ दुर्मतउ᳓ धात्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -254,7 +254,7 @@ _________
 
 May this praise reach to earth, to the midspace, to the trees, to the  plants, for wealth.  
 Let every god be easy for me to invoke. Let Mother Earth not set us in  disfavor.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/042/14-16.md">

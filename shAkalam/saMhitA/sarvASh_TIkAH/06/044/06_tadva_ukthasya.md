@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡द् व उक्थ꣡स्य बर्ह꣡णा  
-इ꣡न्द्रायोपस्तृणीष꣡णि  
-वि꣡पो न꣡ य꣡स्य ऊत꣡यो  
-वि꣡ य꣡द् रो꣡हन्ति सक्षि꣡तः
+त᳓द् व उक्थ᳓स्य बर्ह᳓णा  
+इ᳓न्द्रायोपस्तृणीष᳓णि  
+वि᳓पो न᳓ य᳓स्य ऊत᳓यो  
+वि᳓ य᳓द् रो᳓हन्ति सक्षि᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -195,7 +195,7 @@ Vipo na, medhāvirat iva, that is, the protective measures or expedients of a se
 
 It (is mine) to lay on your behalf, with the power of solemn speech, the  underlayer for Indra,  
 whose forms of helps are like inspired words, since, dwelling together,  they spread apart in their ascent.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

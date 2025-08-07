@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मित्रो꣡ नो अ꣡ति अंहतिं꣡  
-व꣡रुणः पर्षद् अर्यमा꣡  
-आदित्या꣡सो य꣡था विदुः꣡
+मित्रो᳓ नो अ᳓ति अंहतिं᳓  
+व᳓रुणः पर्षद् अर्यमा᳓  
+आदित्या᳓सो य᳓था विदुः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

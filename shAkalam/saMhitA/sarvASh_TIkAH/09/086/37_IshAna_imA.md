@@ -15,10 +15,10 @@ ChandaH = "जगती"
 
 <details><summary>Thomson & Solcum</summary>
 
-ईशान꣡ इमा꣡ भु꣡वनानि वी꣡यसे  
-युजान꣡ इन्दो हरि꣡तः सुपर्णि꣡यः  
-ता꣡स् ते क्षरन्तु म꣡धुमद् घृत꣡म् प꣡यस्  
-त꣡व व्रते꣡ सोम तिष्ठन्तु कृष्ट꣡यः
+ईशान᳓ इमा᳓ भु᳓वनानि वी᳓यसे  
+युजान᳓ इन्दो हरि᳓तः सुपर्णि᳓यः  
+ता᳓स् ते क्षरन्तु म᳓धुमद् घृत᳓म् प᳓यस्  
+त᳓व व्रते᳓ सोम तिष्ठन्तु कृष्ट᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -247,7 +247,7 @@ _________
 
 Showing mastery, you speed across these worlds here, o drop, having  hitched up your golden fine-feathered (mares).  
 Let them stream honeyed ghee and milk for you. O Soma, let the  separate peoples stay under your commandment.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/37-39.md">

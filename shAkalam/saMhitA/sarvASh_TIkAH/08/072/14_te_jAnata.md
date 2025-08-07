@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ जानत स्व꣡म् ओकि꣡यं  
-सं꣡ वत्सा꣡सो न꣡ मातृ꣡भिः  
-मिथो꣡ नसन्त जामि꣡भिः
+ते᳓ जानत स्व᳓म् ओकि᳓यं  
+सं᳓ वत्सा᳓सो न᳓ मातृ᳓भिः  
+मिथो᳓ नसन्त जामि᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡जा नो मित्रा꣡व꣡रुणा  
-य꣡जा देवाँ꣡ ऋत꣡म् बृह꣡त्  
-अ꣡ग्ने य꣡क्षि सुवं꣡ द꣡मम्
+य᳓जा नो मित्रा᳓व᳓रुणा  
+य᳓जा देवाँ᳓ ऋत᳓म् बृह᳓त्  
+अ᳓ग्ने य᳓क्षि सुवं᳓ द᳓मम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

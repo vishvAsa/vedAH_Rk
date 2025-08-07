@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ग꣡न्ता इ꣡यान्ति स꣡वना ह꣡रिभ्याम्  
-बभ्रि꣡र् व꣡ज्रम् पपिः꣡ सो꣡मं ददि꣡र् गाः꣡  
-क꣡र्ता वीरं꣡ न꣡रियं स꣡र्ववीरं  
-श्रो꣡ता ह꣡वं गृणत꣡ स्तो꣡मवाहाः
+ग᳓न्ता इ᳓यान्ति स᳓वना ह᳓रिभ्याम्  
+बभ्रि᳓र् व᳓ज्रम् पपिः᳓ सो᳓मं ददि᳓र् गाः᳓  
+क᳓र्ता वीरं᳓ न᳓रियं स᳓र्ववीरं  
+श्रो᳓ता ह᳓वं गृणत᳓ स्तो᳓मवाहाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -250,7 +250,7 @@ _________
 
 Going to even such pressings as these with his two fallow bays, bearing  his mace, drinking soma, giving cows,  
 who makes the manly hero possessed of hale heroes, the hearer of the  singer’s call, for praise songs are his vehicle.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/023/03-04.md">

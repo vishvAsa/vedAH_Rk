@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ कल꣡शा अनूषत  
-इ꣡न्दो धा꣡राभिर् ओ꣡जसा  
-ए꣡न्द्रस्य पीत꣡ये विश
+आ᳓ कल᳓शा अनूषत  
+इ᳓न्दो धा᳓राभिर् ओ᳓जसा  
+ए᳓न्द्रस्य पीत᳓ये विश
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,7 +154,7 @@ _________
 
 The tubs have cried out, o drop. In streams, with strength,  
 enter (them) for Indra’s drinking.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/13-15.md">

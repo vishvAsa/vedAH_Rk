@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सनि꣡र् मित्र꣡स्य पप्रथ  
-इ꣡न्द्रः सो꣡मस्य पीत꣡ये  
-प्रा꣡ची वा꣡शीव सुन्वते꣡ मि꣡मीत इ꣡त्
+सनि᳓र् मित्र᳓स्य पप्रथ  
+इ᳓न्द्रः सो᳓मस्य पीत᳓ये  
+प्रा᳓ची वा᳓शीव सुन्वते᳓ मि᳓मीत इ᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

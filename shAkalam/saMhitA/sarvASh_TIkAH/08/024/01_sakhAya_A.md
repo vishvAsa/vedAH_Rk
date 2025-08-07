@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡खाय आ꣡ शिषामहि  
-ब्र꣡ह्म इ꣡न्द्राय वज्रि꣡णे  
-स्तुष꣡ ऊ षु꣡ वो नृ꣡तमाय धृष्ण꣡वे
+स᳓खाय आ᳓ शिषामहि  
+ब्र᳓ह्म इ᳓न्द्राय वज्रि᳓णे  
+स्तुष᳓ ऊ षु᳓ वो नृ᳓तमाय धृष्ण᳓वे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वे꣡दा यो꣡ वीना᳐꣡म् पद꣡म्  
-अन्त꣡रिक्षेण प꣡तताम्  
-वे꣡द नावः꣡ समुद्रि꣡यः
+वे᳓दा यो᳓ वीना᳐᳓म् पद᳓म्  
+अन्त᳓रिक्षेण प᳓तताम्  
+वे᳓द नावः᳓ समुद्रि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

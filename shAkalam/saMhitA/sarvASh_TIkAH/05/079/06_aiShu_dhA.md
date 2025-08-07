@@ -15,11 +15,11 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-अइ꣡षु धा वीर꣡वद् य꣡श  
-उ꣡षो मघोनि सूरि꣡षु  
-ये꣡ नो रा꣡धांसि अ꣡ह्रया  
-मघ꣡वानो अ꣡रासत  
-सु꣡जाते अ꣡श्वसूनृते
+अइ᳓षु धा वीर᳓वद् य᳓श  
+उ᳓षो मघोनि सूरि᳓षु  
+ये᳓ नो रा᳓धांसि अ᳓ह्रया  
+मघ᳓वानो अ᳓रासत  
+सु᳓जाते अ᳓श्वसूनृते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -224,7 +224,7 @@ _________
 
 Upon them confer glory in heroes, bounteous Dawn—upon the patrons, who, bounteous (themselves), have granted us immoderate benefits  
 – o well-born lady, liberal with horses.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/06-07.md">

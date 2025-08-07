@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उरुशं꣡सा नमोवृ꣡धा  
-मह्ना꣡ द꣡क्षस्य राजथः  
-द्रा꣡घिष्ठाभिः शुचिव्रता
+उरुशं᳓सा नमोवृ᳓धा  
+मह्ना᳓ द᳓क्षस्य राजथः  
+द्रा᳓घिष्ठाभिः शुचिव्रता
 </details>
 
 <details><summary>Vedaweb annotation</summary>

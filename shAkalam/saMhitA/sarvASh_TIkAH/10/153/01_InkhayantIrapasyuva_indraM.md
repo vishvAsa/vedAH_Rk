@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ईङ्ख꣡यन्तीर् अपस्यु꣡व  
-इ꣡न्द्रं जात꣡म् उ꣡पासते  
-भेजाना꣡सः सुवी꣡रियम्
+ईङ्ख᳓यन्तीर् अपस्यु᳓व  
+इ᳓न्द्रं जात᳓म् उ᳓पासते  
+भेजाना᳓सः सुवी᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दिवो꣡ धा꣡मभिर् वरुण  
-मित्र꣡श् चा꣡ यातम् अद्रु꣡हा  
-पि꣡बतं सो꣡मम् आतुजी꣡
+दिवो᳓ धा᳓मभिर् वरुण  
+मित्र᳓श् चा᳓ यातम् अद्रु᳓हा  
+पि᳓बतं सो᳓मम् आतुजी᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-युवं꣡ क꣡ण्वाय नासत्या  
-अ꣡पिरिप्ताय हर्मिये꣡  
-श꣡श्वद् ऊती꣡र् दशस्यथः
+युवं᳓ क᳓ण्वाय नासत्या  
+अ᳓पिरिप्ताय हर्मिये᳓  
+श᳓श्वद् ऊती᳓र् दशस्यथः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

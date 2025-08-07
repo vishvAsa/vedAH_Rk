@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्मिन्न् उक्था꣡नि र꣡ण्यन्ति  
-वि꣡श्वानि च श्रवसि꣡या  
-अपा꣡म् अ꣡वो न꣡ समुद्रे꣡
+य᳓स्मिन्न् उक्था᳓नि र᳓ण्यन्ति  
+वि᳓श्वानि च श्रवसि᳓या  
+अपा᳓म् अ᳓वो न᳓ समुद्रे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

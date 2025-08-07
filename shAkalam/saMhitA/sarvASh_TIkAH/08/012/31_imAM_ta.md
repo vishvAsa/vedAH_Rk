@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमां꣡ त इन्द्र सुष्टुतिं꣡  
-वि꣡प्र इयर्ति धीति꣡भिः  
-जामि꣡म् पदे꣡व पि꣡प्रतीम् प्र꣡ अध्वरे꣡
+इमां᳓ त इन्द्र सुष्टुतिं᳓  
+वि᳓प्र इयर्ति धीति᳓भिः  
+जामि᳓म् पदे᳓व पि᳓प्रतीम् प्र᳓ अध्वरे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

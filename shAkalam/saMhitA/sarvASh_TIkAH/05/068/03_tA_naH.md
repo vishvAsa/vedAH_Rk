@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ नः शक्तम् पा꣡र्थिवस्य  
-महो꣡ रायो꣡ दिविय꣡स्य  
-म꣡हि वां क्षत्रं꣡ देवे꣡षु
+ता᳓ नः शक्तम् पा᳓र्थिवस्य  
+महो᳓ रायो᳓ दिविय᳓स्य  
+म᳓हि वां क्षत्रं᳓ देवे᳓षु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

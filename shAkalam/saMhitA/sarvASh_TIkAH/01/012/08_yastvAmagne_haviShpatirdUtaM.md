@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स् त्वा꣡म् अग्ने हवि꣡ष्पतिर्  
-दूतं꣡ देव सपर्य꣡ति  
-त꣡स्य स्म प्राविता꣡ भव
+य᳓स् त्वा᳓म् अग्ने हवि᳓ष्पतिर्  
+दूतं᳓ देव सपर्य᳓ति  
+त᳓स्य स्म प्राविता᳓ भव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

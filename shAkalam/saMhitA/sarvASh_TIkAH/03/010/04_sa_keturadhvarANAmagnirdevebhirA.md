@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ केतु꣡र् अध्वरा꣡णा᳐म्  
-अग्नि꣡र् देवे꣡भिर् आ꣡ गमत्  
-अञ्जानः꣡ सप्त꣡ हो꣡तृभिर् हवि꣡ष्मते
+स᳓ केतु᳓र् अध्वरा᳓णा᳐म्  
+अग्नि᳓र् देवे᳓भिर् आ᳓ गमत्  
+अञ्जानः᳓ सप्त᳓ हो᳓तृभिर् हवि᳓ष्मते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

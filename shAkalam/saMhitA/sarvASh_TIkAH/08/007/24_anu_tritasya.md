@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡नु त्रित꣡स्य यु꣡ध्यतः  
-शु꣡ष्मम् आवन्न् उत꣡ क्र꣡तुम्  
-अ꣡न्व् इ꣡न्द्रं वृत्रतू꣡रिये
+अ᳓नु त्रित᳓स्य यु᳓ध्यतः  
+शु᳓ष्मम् आवन्न् उत᳓ क्र᳓तुम्  
+अ᳓न्व् इ᳓न्द्रं वृत्रतू᳓रिये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

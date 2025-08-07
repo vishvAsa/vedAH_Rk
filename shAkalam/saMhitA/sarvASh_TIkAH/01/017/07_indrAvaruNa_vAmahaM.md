@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रावरुण वाम् अहं꣡  
-हुवे꣡ चित्रा꣡य रा꣡धसे  
-अस्मा꣡न् सु꣡ जिग्यु꣡षस् कृतम्
+इ᳓न्द्रावरुण वाम् अहं᳓  
+हुवे᳓ चित्रा᳓य रा᳓धसे  
+अस्मा᳓न् सु᳓ जिग्यु᳓षस् कृतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

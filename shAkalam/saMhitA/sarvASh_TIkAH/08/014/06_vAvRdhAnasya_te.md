@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वावृधान꣡स्य ते वयं꣡  
-वि꣡श्वा ध꣡नानि जिग्यु꣡षः  
-ऊति꣡म् इन्द्रा꣡ वृणीमहे
+वावृधान᳓स्य ते वयं᳓  
+वि᳓श्वा ध᳓नानि जिग्यु᳓षः  
+ऊति᳓म् इन्द्रा᳓ वृणीमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

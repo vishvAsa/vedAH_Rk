@@ -15,10 +15,10 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नो र꣡क्ष आ꣡ वेशीद् आघृणीवसो  
-मा꣡ यातु꣡र् यातुमा꣡वताम्  
-परोगव्यूति꣡ अ꣡निराम् अ꣡प क्षु꣡धम्  
-अ꣡ग्ने से꣡ध रक्षस्वि꣡नः
+मा᳓ नो र᳓क्ष आ᳓ वेशीद् आघृणीवसो  
+मा᳓ यातु᳓र् यातुमा᳓वताम्  
+परोगव्यूति᳓ अ᳓निराम् अ᳓प क्षु᳓धम्  
+अ᳓ग्ने से᳓ध रक्षस्वि᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -217,7 +217,7 @@ Let demonic power not enter into us, nor the sorcery of those who  deploy sorcer
 [=Pūṣan].  
 Keep thirst and hunger away, far beyond the pasture-lands; o Agni,  
 keep away those who deploy demonic power.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-को꣡ नु꣡ मर्या अ꣡मिथितः  
-स꣡खा स꣡खायम् अब्रवीत्  
-जहा꣡ को꣡ अस्म꣡द् ईषते
+को᳓ नु᳓ मर्या अ᳓मिथितः  
+स᳓खा स᳓खायम् अब्रवीत्  
+जहा᳓ को᳓ अस्म᳓द् ईषते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

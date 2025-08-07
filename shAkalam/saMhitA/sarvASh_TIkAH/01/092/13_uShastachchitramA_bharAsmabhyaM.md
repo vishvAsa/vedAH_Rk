@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡षस् त꣡च् चित्र꣡म् आ꣡ भर  
-अस्म꣡भ्यं वाजिनीवति  
-ये꣡न तोकं꣡ च त꣡नयं च धा꣡महे
+उ᳓षस् त᳓च् चित्र᳓म् आ᳓ भर  
+अस्म᳓भ्यं वाजिनीवति  
+ये᳓न तोकं᳓ च त᳓नयं च धा᳓महे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

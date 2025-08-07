@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡था रुद्र꣡स्य सून꣡वो  
-दिवो꣡ व꣡शन्ति अ꣡सुरस्य वेध꣡सः  
-यु꣡वानस् त꣡था इ꣡द् असत्
+य᳓था रुद्र᳓स्य सून᳓वो  
+दिवो᳓ व᳓शन्ति अ᳓सुरस्य वेध᳓सः  
+यु᳓वानस् त᳓था इ᳓द् असत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

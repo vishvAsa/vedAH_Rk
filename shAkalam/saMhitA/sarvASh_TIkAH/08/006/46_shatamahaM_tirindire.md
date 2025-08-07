@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शत꣡म् अहं꣡ तिरि꣡न्दिरे  
-सह꣡स्रम् प꣡र्शाव् आ꣡ ददे  
-रा꣡धांसि या꣡दुवाना᳐म्
+शत᳓म् अहं᳓ तिरि᳓न्दिरे  
+सह᳓स्रम् प᳓र्शाव् आ᳓ ददे  
+रा᳓धांसि या᳓दुवाना᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

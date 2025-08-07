@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ त्वं꣡ नो देव म꣡नसा  
-वा꣡यो मन्दानो꣡ अग्रियः꣡  
-कृधि꣡ वा꣡जाँ अपो꣡ धि꣡यः
+स᳓ त्वं᳓ नो देव म᳓नसा  
+वा᳓यो मन्दानो᳓ अग्रियः᳓  
+कृधि᳓ वा᳓जाँ अपो᳓ धि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

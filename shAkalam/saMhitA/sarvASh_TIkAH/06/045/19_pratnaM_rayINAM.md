@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रत्नं꣡ रयीणां᳐꣡ यु꣡जं  
-स꣡खायं कीरिचो꣡दनम्  
-ब्र꣡ह्मवाहस्तमं हुवे
+प्रत्नं᳓ रयीणां᳐᳓ यु᳓जं  
+स᳓खायं कीरिचो᳓दनम्  
+ब्र᳓ह्मवाहस्तमं हुवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -135,7 +135,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The ancient yokemate of riches, the comrade who spurs on the weak, the one who most has the sacred formulation as his vehicle—upon him  do I call.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/19-20.md">

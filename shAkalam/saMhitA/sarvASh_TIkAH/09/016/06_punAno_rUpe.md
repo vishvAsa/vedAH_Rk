@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुनानो꣡ रूपे꣡ अव्य꣡ये  
-वि꣡श्वा अ꣡र्षन्न् अभि꣡ श्रि꣡यः  
-शू꣡रो न꣡ गो꣡षु तिष्ठति
+पुनानो᳓ रूपे᳓ अव्य᳓ये  
+वि᳓श्वा अ᳓र्षन्न् अभि᳓ श्रि᳓यः  
+शू᳓रो न᳓ गो᳓षु तिष्ठति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

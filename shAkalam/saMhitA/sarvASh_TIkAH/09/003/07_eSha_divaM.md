@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ दि꣡वं वि꣡ धावति  
-तिरो꣡ र꣡जांसि धा꣡रया  
-प꣡वमानः क꣡निक्रदत्
+एष᳓ दि᳓वं वि᳓ धावति  
+तिरो᳓ र᳓जांसि धा᳓रया  
+प᳓वमानः क᳓निक्रदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -143,7 +143,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 This one streaks through heaven, across the airy spaces in his stream, whinnying again and again as he purifies himself.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/003/07-08.md">

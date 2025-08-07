@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ वा꣡जम् इ꣡न्दुर् इष्यति  
-सि꣡षासन् वाजसा꣡ ऋ꣡षिः  
-व्रता꣡ विदान꣡ आ꣡युधा
+प्र᳓ वा᳓जम् इ᳓न्दुर् इष्यति  
+सि᳓षासन् वाजसा᳓ ऋ᳓षिः  
+व्रता᳓ विदान᳓ आ᳓युधा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

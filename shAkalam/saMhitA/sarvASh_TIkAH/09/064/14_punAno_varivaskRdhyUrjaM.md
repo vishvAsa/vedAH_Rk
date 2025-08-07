@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुनानो꣡ व꣡रिवस् कृधि  
-ऊ꣡र्जं ज꣡नाय गिर्वणः  
-ह꣡रे सृजान꣡ आशि꣡रम्
+पुनानो᳓ व᳓रिवस् कृधि  
+ऊ᳓र्जं ज᳓नाय गिर्वणः  
+ह᳓रे सृजान᳓ आशि᳓रम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,7 +151,7 @@ _________
 
 Becoming purified, make wide space and nourishment for the people, o  you who long for song,  
 when you are released into the milk-mixture, o tawny one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/13-15.md">

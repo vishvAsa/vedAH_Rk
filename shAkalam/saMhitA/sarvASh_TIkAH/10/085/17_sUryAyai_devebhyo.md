@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सूरिया꣡यै देवे꣡भियो  
-मित्रा꣡य व꣡रुणाय च  
-ये꣡ भूत꣡स्य प्र꣡चेतस  
-इदं꣡ ते꣡भ्यो ऽकरं न꣡मः
+सूरिया᳓यै देवे᳓भियो  
+मित्रा᳓य व᳓रुणाय च  
+ये᳓ भूत᳓स्य प्र᳓चेतस  
+इदं᳓ ते᳓भ्यो ऽकरं न᳓मः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

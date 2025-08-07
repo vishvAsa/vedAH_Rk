@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-विदुः꣡ पृथिव्या꣡ दिवो꣡ जनि꣡त्रं  
-शृण्व꣡न्ति आ꣡पो अ꣡ध क्ष꣡रन्तीः
+विदुः᳓ पृथिव्या᳓ दिवो᳓ जनि᳓त्रं  
+शृण्व᳓न्ति आ᳓पो अ᳓ध क्ष᳓रन्तीः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

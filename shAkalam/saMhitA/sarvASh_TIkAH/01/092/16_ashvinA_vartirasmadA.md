@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡श्विना वर्ति꣡र् अस्म꣡द् आ꣡  
-गो꣡मद् दस्रा हि꣡रण्यवत्  
-अर्वा꣡ग् र꣡थं स꣡मनसा नि꣡ यछतम्
+अ᳓श्विना वर्ति᳓र् अस्म᳓द् आ᳓  
+गो᳓मद् दस्रा हि᳓रण्यवत्  
+अर्वा᳓ग् र᳓थं स᳓मनसा नि᳓ यछतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

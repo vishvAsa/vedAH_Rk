@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रो ब्रह्मा꣡ इ꣡न्द्र ऋ꣡षिर्  
-इ꣡न्द्रः पुरू꣡ पुरुहूतः꣡  
-महा꣡न् मही꣡भिः श꣡चीभिः
+इ᳓न्द्रो ब्रह्मा᳓ इ᳓न्द्र ऋ᳓षिर्  
+इ᳓न्द्रः पुरू᳓ पुरुहूतः᳓  
+महा᳓न् मही᳓भिः श᳓चीभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

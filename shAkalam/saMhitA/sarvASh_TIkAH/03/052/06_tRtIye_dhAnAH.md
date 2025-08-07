@@ -15,10 +15,10 @@ ChandaH = "जगती"
 
 <details><summary>Thomson & Solcum</summary>
 
-तृती꣡ये धानाः꣡ स꣡वने पुरुष्टुत  
-पुरोळा꣡शम् आ꣡हुतम् मामहस्व नः  
-ऋभुम꣡न्तं वा꣡जवन्तं तुवा कवे  
-प्र꣡यस्वन्त उ꣡प शिक्षेम धीति꣡भिः
+तृती᳓ये धानाः᳓ स᳓वने पुरुष्टुत  
+पुरोळा᳓शम् आ᳓हुतम् मामहस्व नः  
+ऋभुम᳓न्तं वा᳓जवन्तं तुवा कवे  
+प्र᳓यस्वन्त उ᳓प शिक्षेम धीति᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -209,7 +209,7 @@ _________
 At the Third Pressing, our roasted grains, our offering cake bepoured  (with ghee)—grant them to yourself, much-praised one.  
 Might we, dispensing ritual delights, entice you here with our hymnic  visions, o poet—you accompanied by the R̥bhus, provided with  
 prizes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/06-07.md">

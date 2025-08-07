@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-श्रुष्टी꣡ अग्ने न꣡वस्य मे  
-स्तो꣡मस्य वीर विश्पते  
-नि꣡ मायि꣡नस् त꣡पुषा रक्ष꣡सो दह
+श्रुष्टी᳓ अग्ने न᳓वस्य मे  
+स्तो᳓मस्य वीर विश्पते  
+नि᳓ मायि᳓नस् त᳓पुषा रक्ष᳓सो दह
 </details>
 
 <details><summary>Vedaweb annotation</summary>

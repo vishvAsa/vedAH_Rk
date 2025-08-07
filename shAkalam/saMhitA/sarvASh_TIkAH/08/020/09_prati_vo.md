@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ति वो वृषदञ्जयो  
-वृ꣡ष्णे श꣡र्धाय मा꣡रुताय भरध्वम्  
-हव्या꣡ वृ꣡षप्रयावणे
+प्र᳓ति वो वृषदञ्जयो  
+वृ᳓ष्णे श᳓र्धाय मा᳓रुताय भरध्वम्  
+हव्या᳓ वृ᳓षप्रयावणे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -157,7 +157,7 @@ _________
 
 O you who rain unguents, present oblations to your own bullish  Marutian troop  
 whose leader is a bull [=Indra].
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/09-10.md">

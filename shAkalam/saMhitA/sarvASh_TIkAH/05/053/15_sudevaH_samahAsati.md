@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुदेवः꣡ समहासति  
-सुवी꣡रो नरो मरुतः स꣡ म꣡र्तियः  
-यं꣡ त्रा꣡यध्वे सिया꣡म ते꣡
+सुदेवः᳓ समहासति  
+सुवी᳓रो नरो मरुतः स᳓ म᳓र्तियः  
+यं᳓ त्रा᳓यध्वे सिया᳓म ते᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

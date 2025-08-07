@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो मदाना᳐म् पत  
-इ꣡न्दो देव꣡प्सरा असि  
-स꣡खेव स꣡ख्ये गातुवि꣡त्तमो भव
+स᳓ नो मदाना᳐म् पत  
+इ᳓न्दो देव᳓प्सरा असि  
+स᳓खेव स᳓ख्ये गातुवि᳓त्तमो भव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

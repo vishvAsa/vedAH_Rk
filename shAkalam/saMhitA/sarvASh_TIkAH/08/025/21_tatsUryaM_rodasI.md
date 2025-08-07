@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡त् सू꣡र्यं रो꣡दसी उभे꣡  
-दोषा꣡ व꣡स्तोर् उ꣡प ब्रुवे  
-भोजे꣡षु अस्माँ꣡ अभि꣡ उ꣡च् चरा स꣡दा
+त᳓त् सू᳓र्यं रो᳓दसी उभे᳓  
+दोषा᳓ व᳓स्तोर् उ᳓प ब्रुवे  
+भोजे᳓षु अस्माँ᳓ अभि᳓ उ᳓च् चरा स᳓दा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

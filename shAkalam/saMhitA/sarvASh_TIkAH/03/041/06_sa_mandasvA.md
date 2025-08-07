@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ मन्दस्वा हि꣡ अ꣡न्धसो  
-रा꣡धसे तनु꣡वा महे꣡  
-न꣡ स्तोता꣡रं निदे꣡ करः
+स᳓ मन्दस्वा हि᳓ अ᳓न्धसो  
+रा᳓धसे तनु᳓वा महे᳓  
+न᳓ स्तोता᳓रं निदे᳓ करः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

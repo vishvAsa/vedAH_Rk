@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ ए꣡क इ꣡द् विद꣡यते  
-व꣡सु म꣡र्ताय दाशु꣡षे  
-ई꣡शानो अ꣡प्रतिष्कुत इ꣡न्द्रो अङ्ग꣡
+य᳓ ए᳓क इ᳓द् विद᳓यते  
+व᳓सु म᳓र्ताय दाशु᳓षे  
+ई᳓शानो अ᳓प्रतिष्कुत इ᳓न्द्रो अङ्ग᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

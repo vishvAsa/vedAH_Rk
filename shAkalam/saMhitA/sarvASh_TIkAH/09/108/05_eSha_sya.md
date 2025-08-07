@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ स्य꣡ धा꣡रया सुतो꣡  
-अ꣡व्यो वा꣡रेभिः पवते मदि꣡न्तमः  
-क्री꣡ळन्न् ऊर्मि꣡र् अपा꣡म् इव
+एष᳓ स्य᳓ धा᳓रया सुतो᳓  
+अ᳓व्यो वा᳓रेभिः पवते मदि᳓न्तमः  
+क्री᳓ळन्न् ऊर्मि᳓र् अपा᳓म् इव
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -169,7 +169,7 @@ _________
 
 This most exhilarating one here, pressed in a stream, purifies himself  with the fleeces of sheep,  
 playing like a wave of the waters,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/05-06.md">

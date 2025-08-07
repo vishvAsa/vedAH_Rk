@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ अभि꣡ स꣡न्तम् अ꣡स्तृतम्  
-महे꣡ यु꣡वानम् आ꣡ दधुः  
-इ꣡न्दुम् इन्द्र त꣡व व्रते꣡
+ता᳓ अभि᳓ स᳓न्तम् अ᳓स्तृतम्  
+महे᳓ यु᳓वानम् आ᳓ दधुः  
+इ᳓न्दुम् इन्द्र त᳓व व्रते᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

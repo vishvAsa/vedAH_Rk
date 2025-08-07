@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रः स꣡ दा꣡मने कृत꣡  
-ओ꣡जिष्ठः स꣡ म꣡दे हितः꣡  
-द्युम्नी꣡ श्लोकी꣡ स꣡ सोमियः꣡
+इ᳓न्द्रः स᳓ दा᳓मने कृत᳓  
+ओ᳓जिष्ठः स᳓ म᳓दे हितः᳓  
+द्युम्नी᳓ श्लोकी᳓ स᳓ सोमियः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

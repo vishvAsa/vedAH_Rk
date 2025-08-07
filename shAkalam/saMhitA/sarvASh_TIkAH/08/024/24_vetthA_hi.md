@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वे꣡त्था हि꣡ नि꣡रृतीनां᳐  
-व꣡ज्रहस्त परिवृ꣡जम्  
-अ꣡हर्-अहः शुन्ध्युः꣡ परिप꣡दाम् इव
+वे᳓त्था हि᳓ नि᳓रृतीनां᳐  
+व᳓ज्रहस्त परिवृ᳓जम्  
+अ᳓हर्-अहः शुन्ध्युः᳓ परिप᳓दाम् इव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

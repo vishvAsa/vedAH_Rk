@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡वोचाम र꣡हूगणा  
-अग्न꣡ये म꣡धुमद् व꣡चः  
-द्युम्नइ꣡र् अभि꣡ प्र꣡ णोनुमः
+अ᳓वोचाम र᳓हूगणा  
+अग्न᳓ये म᳓धुमद् व᳓चः  
+द्युम्नइ᳓र् अभि᳓ प्र᳓ णोनुमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

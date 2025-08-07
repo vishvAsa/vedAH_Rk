@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡न स्तोतृ꣡भ्य आ꣡ भर  
-नृ꣡भ्यो ना꣡रिभ्यो अ꣡त्तवे  
-सद्यो꣡ जात꣡ ऋभुष्ठिर
+ते᳓न स्तोतृ᳓भ्य आ᳓ भर  
+नृ᳓भ्यो ना᳓रिभ्यो अ᳓त्तवे  
+सद्यो᳓ जात᳓ ऋभुष्ठिर
 </details>
 
 <details><summary>Vedaweb annotation</summary>

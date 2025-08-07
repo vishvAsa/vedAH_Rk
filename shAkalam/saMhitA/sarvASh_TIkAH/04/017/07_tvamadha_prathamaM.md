@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुव꣡म् अ꣡ध प्रथमं꣡ जा꣡यमानो  
-अ꣡मे वि꣡श्वा अधिथा इन्द्र कृष्टीः꣡  
-तुव꣡म् प्र꣡ति प्रव꣡त आश꣡यानम्  
-अ꣡हिं व꣡ज्रेण मघवन् वि꣡ वृश्चः
+तुव᳓म् अ᳓ध प्रथमं᳓ जा᳓यमानो  
+अ᳓मे वि᳓श्वा अधिथा इन्द्र कृष्टीः᳓  
+तुव᳓म् प्र᳓ति प्रव᳓त आश᳓यानम्  
+अ᳓हिं व᳓ज्रेण मघवन् वि᳓ वृश्चः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -232,7 +232,7 @@ _________
 
 And on first being born, you placed all the separate peoples in (the path  of) your onslaught, Indra.  
 With your mace you hewed apart the serpent who was lying against the  (mountain) slopes, o bounteous one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/06-07.md">

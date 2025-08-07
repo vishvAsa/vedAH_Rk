@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्वादु꣡ष् टे अस्तु संसु꣡दे  
-म꣡धुमान् तनु꣡वे त꣡व  
-सो꣡मः श꣡म् अस्तु ते हृदे꣡
+स्वादु᳓ष् टे अस्तु संसु᳓दे  
+म᳓धुमान् तनु᳓वे त᳓व  
+सो᳓मः श᳓म् अस्तु ते हृदे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

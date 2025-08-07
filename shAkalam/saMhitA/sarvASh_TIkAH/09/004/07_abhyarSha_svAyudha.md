@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ अर्ष सुआयुध  
-सो꣡म द्विब꣡र्हसं रयि꣡म्  
-अ꣡था नो व꣡स्यसस् कृधि
+अभि᳓ अर्ष सुआयुध  
+सो᳓म द्विब᳓र्हसं रयि᳓म्  
+अ᳓था नो व᳓स्यसस् कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

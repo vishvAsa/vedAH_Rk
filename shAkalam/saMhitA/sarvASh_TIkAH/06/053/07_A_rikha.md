@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ रिख किकिरा꣡ कृणु  
-पणीनां꣡ हृ꣡दया कवे  
-अ꣡थेम् अस्म꣡भ्यं रन्धय
+आ᳓ रिख किकिरा᳓ कृणु  
+पणीनां᳓ हृ᳓दया कवे  
+अ᳓थेम् अस्म᳓भ्यं रन्धय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -172,7 +172,7 @@ This shows the purpose of ārā, to abrade, to smoothen, as an abrasive
 <details><summary>Jamison Brereton</summary>
 
 Shred them, make them shrapnel—the hearts of the niggards, you poet. And make them subject to us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/07-08.md">

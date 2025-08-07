@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ वे꣡दिष्ठो अव्यथि꣡षु  
-अ꣡श्वावन्तं जरितृ꣡भ्यः  
-वा꣡जं स्तोतृ꣡भ्यो गो꣡मन्तम्
+यो᳓ वे᳓दिष्ठो अव्यथि᳓षु  
+अ᳓श्वावन्तं जरितृ᳓भ्यः  
+वा᳓जं स्तोतृ᳓भ्यो गो᳓मन्तम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

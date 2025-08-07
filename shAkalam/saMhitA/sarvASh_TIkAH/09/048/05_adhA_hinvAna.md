@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धा हिन्वान꣡ इन्द्रियं꣡  
-ज्या꣡यो महित्व꣡म् आनशे  
-अभिष्टिकृ꣡द् वि꣡चर्षणिः
+अ᳓धा हिन्वान᳓ इन्द्रियं᳓  
+ज्या᳓यो महित्व᳓म् आनशे  
+अभिष्टिकृ᳓द् वि᳓चर्षणिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

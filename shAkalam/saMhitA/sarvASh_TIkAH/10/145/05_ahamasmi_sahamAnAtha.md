@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अह꣡म् अस्मि स꣡हमाना  
-अ꣡थ त्व꣡म् असि सासहिः꣡  
-उभे꣡ स꣡हस्वती भूत्वी꣡  
-सप꣡त्नीम् मे सहावहै
+अह᳓म् अस्मि स᳓हमाना  
+अ᳓थ त्व᳓म् असि सासहिः᳓  
+उभे᳓ स᳓हस्वती भूत्वी᳓  
+सप᳓त्नीम् मे सहावहै
 </details>
 
 <details><summary>Vedaweb annotation</summary>

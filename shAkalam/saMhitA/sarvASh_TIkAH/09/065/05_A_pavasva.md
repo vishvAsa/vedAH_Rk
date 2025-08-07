@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ पवस्व सुवी꣡रियम्  
-म꣡न्दमानः सुआयुध  
-इहो꣡ षु꣡ इन्दव् आ꣡ गहि
+आ᳓ पवस्व सुवी᳓रियम्  
+म᳓न्दमानः सुआयुध  
+इहो᳓ षु᳓ इन्दव् आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -184,7 +184,7 @@ Well-armed: or, having fine sacrificial implements, such as sphya, **kapāla**
 
 By purifying yourself bring here an abundance of heroes, you yourself  becoming exhilarated, o you of good weapons.  
 Come just here, o drop.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/04-06.md">

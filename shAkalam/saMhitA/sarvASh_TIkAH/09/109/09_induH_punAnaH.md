@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्दुः पुनानः꣡ प्रजा꣡म् उराणः꣡  
-क꣡रद् वि꣡श्वानि द्र꣡विणानि नः
+इ᳓न्दुः पुनानः᳓ प्रजा᳓म् उराणः᳓  
+क᳓रद् वि᳓श्वानि द्र᳓विणानि नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

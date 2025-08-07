@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ देवः꣡ स꣡हसा जा꣡यमान  
-इ꣡न्द्रेण युजा꣡ पणि꣡म् अस्तभायत्  
-अयं꣡ सुव꣡स्य पितु꣡र् आ꣡युधानि  
-इ꣡न्दुर् अमुष्णाद् अ꣡शिवस्य मायाः꣡
+अयं᳓ देवः᳓ स᳓हसा जा᳓यमान  
+इ᳓न्द्रेण युजा᳓ पणि᳓म् अस्तभायत्  
+अयं᳓ सुव᳓स्य पितु᳓र् आ᳓युधानि  
+इ᳓न्दुर् अमुष्णाद् अ᳓शिवस्य मायाः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -214,7 +214,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 This god here, being born with strength, with Indra as his yokemate,  blocked the Paṇi [/niggard]. This one here, the drop, stole the weapons of his own father, the tricks  of the unkindly one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

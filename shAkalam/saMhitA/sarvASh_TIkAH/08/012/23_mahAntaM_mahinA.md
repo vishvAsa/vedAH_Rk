@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-महा꣡न्तम् महिना꣡ वयं꣡  
-स्तो꣡मेभिर् हवनश्रु꣡तम्  
-अर्कइ꣡र् अभि꣡ प्र꣡ णोनुमः स꣡म् ओ꣡जसे
+महा᳓न्तम् महिना᳓ वयं᳓  
+स्तो᳓मेभिर् हवनश्रु᳓तम्  
+अर्कइ᳓र् अभि᳓ प्र᳓ णोनुमः स᳓म् ओ᳓जसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

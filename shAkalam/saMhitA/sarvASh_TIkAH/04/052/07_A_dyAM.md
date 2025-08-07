@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ द्यां꣡ तनोषि रश्मि꣡भिर्  
-आ꣡न्त꣡रिक्षम् उरु꣡ प्रिय꣡म्  
-उ꣡षः शुक्रे꣡ण शोचि꣡षा
+आ᳓ द्यां᳓ तनोषि रश्मि᳓भिर्  
+आ᳓न्त᳓रिक्षम् उरु᳓ प्रिय᳓म्  
+उ᳓षः शुक्रे᳓ण शोचि᳓षा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

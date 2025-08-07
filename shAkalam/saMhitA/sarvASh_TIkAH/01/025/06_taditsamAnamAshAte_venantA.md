@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡द् इ꣡त् समान꣡म् आशते°  
-वे꣡नन्ता न꣡ प्र꣡ युछतः  
-धृत꣡व्रताय दाशु꣡षे
+त᳓द् इ᳓त् समान᳓म् आशते°  
+वे᳓नन्ता न᳓ प्र᳓ युछतः  
+धृत᳓व्रताय दाशु᳓षे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

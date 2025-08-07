@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मः पुनान꣡ ऊर्मि꣡णा  
-अ꣡व्यो वा꣡रं वि꣡ धावति  
-अ꣡ग्रे वाचः꣡ प꣡वमानः क꣡निक्रदत्
+सो᳓मः पुनान᳓ ऊर्मि᳓णा  
+अ᳓व्यो वा᳓रं वि᳓ धावति  
+अ᳓ग्रे वाचः᳓ प᳓वमानः क᳓निक्रदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -163,7 +163,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Soma, being purified in a wave, runs across the fleece of the sheep, at the forefront of speech, self-purifying, ever roaring.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/10-12.md">

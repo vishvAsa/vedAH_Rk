@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-व꣡र्धन्तीम् आ꣡पः पन्वा꣡ सु꣡शिश्विम्  
-ऋत꣡स्य यो꣡ना ग꣡र्भे सु꣡जातम्
+व᳓र्धन्तीम् आ᳓पः पन्वा᳓ सु᳓शिश्विम्  
+ऋत᳓स्य यो᳓ना ग᳓र्भे सु᳓जातम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

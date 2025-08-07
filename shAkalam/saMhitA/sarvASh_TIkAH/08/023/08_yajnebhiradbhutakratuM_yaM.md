@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यज्ञे꣡भिर् अ꣡द्भुतक्रतुं  
-यं꣡ कृपा꣡ सूद꣡यन्त इ꣡त्  
-मित्रं꣡ न꣡ ज꣡ने सु꣡धितम् ऋता꣡वनि
+यज्ञे᳓भिर् अ᳓द्भुतक्रतुं  
+यं᳓ कृपा᳓ सूद᳓यन्त इ᳓त्  
+मित्रं᳓ न᳓ ज᳓ने सु᳓धितम् ऋता᳓वनि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

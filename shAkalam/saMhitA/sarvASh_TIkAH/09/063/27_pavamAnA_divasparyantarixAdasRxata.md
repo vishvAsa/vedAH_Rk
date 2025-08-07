@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमाना दिव꣡स् प꣡रि  
-अन्त꣡रिक्षाद् असृक्षत  
-पृथिव्या꣡ अ꣡धि सा꣡नवि
+प᳓वमाना दिव᳓स् प᳓रि  
+अन्त᳓रिक्षाद् असृक्षत  
+पृथिव्या᳓ अ᳓धि सा᳓नवि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -139,7 +139,7 @@ The summit of the ground: i.e., the raised plural ce, the plural ce of divine sa
 <details><summary>Jamison Brereton</summary>
 
 The self-purifying ones have surged from the heaven, from the midspace onto the back of the earth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/25-27.md">

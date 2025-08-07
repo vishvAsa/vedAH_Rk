@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-रा꣡जन्तम् अध्वरा꣡णां᳐  
-गोपा꣡म् ऋत꣡स्य दी꣡दिविम्  
-व꣡र्धमानं सुवे꣡ द꣡मे
+रा᳓जन्तम् अध्वरा᳓णां᳐  
+गोपा᳓म् ऋत᳓स्य दी᳓दिविम्  
+व᳓र्धमानं सुवे᳓ द᳓मे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

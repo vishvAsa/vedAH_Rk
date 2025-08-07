@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ देवो꣡ यातु सविता꣡ सुर꣡त्नो  
-अन्तरिक्षप्रा꣡ व꣡हमानो अ꣡श्वैः  
-ह꣡स्ते द꣡धानो न꣡रिया पुरू꣡णि  
-निवेश꣡यञ् च प्रसुव꣡ञ् च भू꣡म
+आ᳓ देवो᳓ यातु सविता᳓ सुर᳓त्नो  
+अन्तरिक्षप्रा᳓ व᳓हमानो अ᳓श्वैः  
+ह᳓स्ते द᳓धानो न᳓रिया पुरू᳓णि  
+निवेश᳓यञ् च प्रसुव᳓ञ् च भू᳓म
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -241,7 +241,7 @@ Niveśayan ca prasuvan ca **bhūma** = **bhūtāni** rātriṣu sve sthāpayansc
 Let god Savitar drive here, possessed of good treasure, filling the  
 midspace, journeying with his horses,  
 holding many things meant for men in his hand, bringing the world to  rest and impelling it forth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/045/01-02.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ ते बभ्रू꣡ विचक्षण  
-शं꣡सामि गोषणो नपात्  
-मा꣡भ्यां गा꣡ अ꣡नु शिश्रथः
+प्र᳓ ते बभ्रू᳓ विचक्षण  
+शं᳓सामि गोषणो नपात्  
+मा᳓भ्यां गा᳓ अ᳓नु शिश्रथः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡द् अग्ने द्युम्न꣡म् आ꣡ भर  
-य꣡त् सास꣡हत् स꣡दने कं꣡ चिद् अत्रि꣡णम्  
-मन्युं꣡ ज꣡नस्य दूढि꣡यः
+त᳓द् अग्ने द्युम्न᳓म् आ᳓ भर  
+य᳓त् सास᳓हत् स᳓दने कं᳓ चिद् अत्रि᳓णम्  
+मन्युं᳓ ज᳓नस्य दूढि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

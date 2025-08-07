@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ति न स्तो꣡मं त्व꣡ष्टा जुषेत  
-सिया꣡द् अस्मे꣡ अर꣡मतिर् वसूयुः꣡
+प्र᳓ति न स्तो᳓मं त्व᳓ष्टा जुषेत  
+सिया᳓द् अस्मे᳓ अर᳓मतिर् वसूयुः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

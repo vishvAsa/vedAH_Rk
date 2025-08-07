@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ ते धा꣡रा असश्च꣡तो  
-दिवो꣡ न꣡ यन्ति वृष्ट꣡यः  
-अ꣡छा वा꣡जं सहस्रि꣡णम्
+प्र᳓ ते धा᳓रा असश्च᳓तो  
+दिवो᳓ न᳓ यन्ति वृष्ट᳓यः  
+अ᳓छा वा᳓जं सहस्रि᳓णम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

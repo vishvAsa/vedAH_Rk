@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-युक्ष्वा꣡ हि꣡ देवहू꣡तमाँ  
-अ꣡श्वाँ अग्ने रथी꣡र् इव  
-नि꣡ हो꣡ता पूर्वियः꣡ सदः
+युक्ष्वा᳓ हि᳓ देवहू᳓तमाँ  
+अ᳓श्वाँ अग्ने रथी᳓र् इव  
+नि᳓ हो᳓ता पूर्वियः᳓ सदः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

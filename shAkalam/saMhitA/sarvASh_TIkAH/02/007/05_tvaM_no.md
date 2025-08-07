@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ नो असि भारत  
-अ꣡ग्ने वशा꣡भिर् उक्ष꣡भिः  
-अष्टा꣡पदीभिर् आ꣡हुतः
+तुवं᳓ नो असि भारत  
+अ᳓ग्ने वशा᳓भिर् उक्ष᳓भिः  
+अष्टा᳓पदीभिर् आ᳓हुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

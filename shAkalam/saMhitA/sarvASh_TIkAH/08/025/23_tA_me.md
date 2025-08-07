@@ -15,9 +15,9 @@ ChandaH = "उष्णिग्गर्भा"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ मे अ꣡श्वियानां᳐  
-ह꣡रीणां᳐ नितो꣡शना  
-उतो꣡ नु꣡ कृ꣡त्वियानां᳐ नृवा꣡हसा
+ता᳓ मे अ᳓श्वियानां᳐  
+ह᳓रीणां᳐ नितो᳓शना  
+उतो᳓ नु᳓ कृ᳓त्वियानां᳐ नृवा᳓हसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

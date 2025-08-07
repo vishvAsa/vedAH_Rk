@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ चिद् वृत्र꣡स्य दो꣡धतो  
-व꣡ज्रेण शत꣡पर्वणा  
-शि꣡रो बिभेद वृष्णि꣡ना
+वि᳓ चिद् वृत्र᳓स्य दो᳓धतो  
+व᳓ज्रेण शत᳓पर्वणा  
+शि᳓रो बिभेद वृष्णि᳓ना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

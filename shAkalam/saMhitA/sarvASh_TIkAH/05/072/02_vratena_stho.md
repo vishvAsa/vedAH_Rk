@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-व्रते꣡न स्थो ध्रुव꣡क्षेमा  
-ध꣡र्मणा यातय꣡ज्जना  
-नि꣡ बर्हि꣡षि सदतं सो꣡मपीतये
+व्रते᳓न स्थो ध्रुव᳓क्षेमा  
+ध᳓र्मणा यातय᳓ज्जना  
+नि᳓ बर्हि᳓षि सदतं सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

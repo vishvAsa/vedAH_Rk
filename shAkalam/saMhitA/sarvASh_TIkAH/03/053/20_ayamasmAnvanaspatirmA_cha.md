@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अय꣡म् अस्मा꣡न् व꣡नस्प꣡तिर्  
-मा꣡ च हा꣡ मा꣡ च रीरिषत्  
-सुअस्ति꣡ आ꣡ गृहे꣡भ्य आ꣡  
-अवसा꣡ आ꣡ विमो꣡चनात्
+अय᳓म् अस्मा᳓न् व᳓नस्प᳓तिर्  
+मा᳓ च हा᳓ मा᳓ च रीरिषत्  
+सुअस्ति᳓ आ᳓ गृहे᳓भ्य आ᳓  
+अवसा᳓ आ᳓ विमो᳓चनात्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -210,7 +210,7 @@ This lord of the forest: **vanaspati**, i.e. the timber of which the car is made
 
 Let this Lord of the Forest [=tree] here not leave us behind and not  cause us harm.  
 (Let there be) well-being all the way to the houses, to the unharnessing,  to the unhitching.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

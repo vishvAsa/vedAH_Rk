@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡निता वि꣡प्रो अ꣡र्वद्भिर्  
-ह꣡न्ता वृत्रं꣡ नृ꣡भिः शू꣡रः  
-सत्यो꣡ अविता꣡ विध꣡न्तम्
+स᳓निता वि᳓प्रो अ᳓र्वद्भिर्  
+ह᳓न्ता वृत्रं᳓ नृ᳓भिः शू᳓रः  
+सत्यो᳓ अविता᳓ विध᳓न्तम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

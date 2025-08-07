@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यं꣡ त्वा ज꣡नास ई꣡ळते  
-सबा꣡धो वा꣡जसातये  
-स꣡ बोधि वृत्रतू꣡रिये
+यं᳓ त्वा ज᳓नास ई᳓ळते  
+सबा᳓धो वा᳓जसातये  
+स᳓ बोधि वृत्रतू᳓रिये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

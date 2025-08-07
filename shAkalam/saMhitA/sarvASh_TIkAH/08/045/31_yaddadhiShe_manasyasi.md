@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् दधिषे꣡ मनस्य꣡सि  
-मन्दानः꣡ प्रे꣡द् इ꣡यक्षसि  
-मा꣡ त꣡त् कर् इन्द्र मॄळ꣡य+
+य᳓द् दधिषे᳓ मनस्य᳓सि  
+मन्दानः᳓ प्रे᳓द् इ᳓यक्षसि  
+मा᳓ त᳓त् कर् इन्द्र मॄळ᳓य+
 </details>
 
 <details><summary>Vedaweb annotation</summary>

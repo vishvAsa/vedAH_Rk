@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् इ꣡द् वर्धन्तु नो गि꣡रो  
-वत्सं꣡ संशि꣡श्वरीर् इव  
-य꣡ इ꣡न्द्रस्य हृदंस꣡निः
+त᳓म् इ᳓द् वर्धन्तु नो गि᳓रो  
+वत्सं᳓ संशि᳓श्वरीर् इव  
+य᳓ इ᳓न्द्रस्य हृदंस᳓निः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

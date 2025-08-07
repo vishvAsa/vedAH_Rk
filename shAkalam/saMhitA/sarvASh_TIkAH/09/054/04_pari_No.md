@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि णो देव꣡वीतये  
-वा꣡जाँ अर्षसि गो꣡मतः  
-पुनान꣡ इन्दव् इन्द्रयुः꣡
+प᳓रि णो देव᳓वीतये  
+वा᳓जाँ अर्षसि गो᳓मतः  
+पुनान᳓ इन्दव् इन्द्रयुः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

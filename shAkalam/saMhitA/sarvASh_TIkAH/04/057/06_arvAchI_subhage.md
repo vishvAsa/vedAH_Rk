@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अर्वा꣡ची सुभगे भव  
-सी꣡ते व꣡न्दामहे तुवा  
-य꣡था नः सुभ꣡गा꣡ससि  
-य꣡था नः सुफ꣡ला꣡ससि
+अर्वा᳓ची सुभगे भव  
+सी᳓ते व᳓न्दामहे तुवा  
+य᳓था नः सुभ᳓गा᳓ससि  
+य᳓था नः सुफ᳓ला᳓ससि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

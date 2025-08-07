@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दिवि꣡ मे अन्यः꣡ पक्षो꣡  
-अधो꣡ अन्य꣡म् अचीकृषम्  
-कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
+दिवि᳓ मे अन्यः᳓ पक्षो᳓  
+अधो᳓ अन्य᳓म् अचीकृषम्  
+कुवि᳓त् सो᳓मस्या᳓पाम् इ᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ वात पिता꣡सि न  
-उत꣡ भ्रा꣡तोत꣡ नः स꣡खा  
-स꣡ नो जीवा꣡तवे कृधि
+उत᳓ वात पिता᳓सि न  
+उत᳓ भ्रा᳓तोत᳓ नः स᳓खा  
+स᳓ नो जीवा᳓तवे कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

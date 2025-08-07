@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृष्टिं꣡ दिवः꣡ प꣡रि स्रव  
-द्युम्न꣡म् पृथिविया꣡ अ꣡धि  
-स꣡हो नः सोम पृत्सु꣡ धाः
+वृष्टिं᳓ दिवः᳓ प᳓रि स्रव  
+द्युम्न᳓म् पृथिविया᳓ अ᳓धि  
+स᳓हो नः सोम पृत्सु᳓ धाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

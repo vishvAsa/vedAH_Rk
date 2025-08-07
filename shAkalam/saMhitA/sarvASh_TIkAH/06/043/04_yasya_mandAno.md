@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य मन्दानो꣡ अ꣡न्धसो  
-मा꣡घोनं दधिषे꣡ श꣡वः  
-अयं꣡ स꣡ सो꣡म इन्द्र ते सुतः꣡ पि꣡ब
+य᳓स्य मन्दानो᳓ अ᳓न्धसो  
+मा᳓घोनं दधिषे᳓ श᳓वः  
+अयं᳓ स᳓ सो᳓म इन्द्र ते सुतः᳓ पि᳓ब
 </details>
 
 <details><summary>Vedaweb annotation</summary>

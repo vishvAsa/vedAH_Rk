@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एत꣡द् अस्या अ꣡नः शये  
-सु꣡सम्पिष्टं वि꣡पाशि आ꣡  
-ससा꣡र सीम् पराव꣡तः
+एत᳓द् अस्या अ᳓नः शये  
+सु᳓सम्पिष्टं वि᳓पाशि आ᳓  
+ससा᳓र सीम् पराव᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

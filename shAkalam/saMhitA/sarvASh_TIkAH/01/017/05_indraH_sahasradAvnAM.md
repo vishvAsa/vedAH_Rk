@@ -15,9 +15,9 @@ ChandaH = "पादनिचृत्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रः सहस्रदा꣡व्नां᳐  
-व꣡रुणः शं꣡सियाना᳐म्  
-क्र꣡तुर् भवति उक्थि꣡यः
+इ᳓न्द्रः सहस्रदा᳓व्नां᳐  
+व᳓रुणः शं᳓सियाना᳐म्  
+क्र᳓तुर् भवति उक्थि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

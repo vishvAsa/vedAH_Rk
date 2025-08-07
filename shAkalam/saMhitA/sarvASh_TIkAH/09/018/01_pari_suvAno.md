@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि स्वानो꣡° गिरिष्ठाः᳐꣡  
-पवि꣡त्रे सो꣡मो अक्षाः᳐  
-म꣡देषु सर्वधा꣡ असि
+प᳓रि स्वानो᳓° गिरिष्ठाः᳐᳓  
+पवि᳓त्रे सो᳓मो अक्षाः᳐  
+म᳓देषु सर्वधा᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

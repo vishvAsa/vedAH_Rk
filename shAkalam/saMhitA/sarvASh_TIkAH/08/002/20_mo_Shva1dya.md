@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मो꣡ षु꣡ अद्य꣡ दुर्ह꣡णावान्  
-सायं꣡ करद् आरे꣡ अस्म꣡त्  
-अश्रीर꣡ इव जा꣡माता
+मो᳓ षु᳓ अद्य᳓ दुर्ह᳓णावान्  
+सायं᳓ करद् आरे᳓ अस्म᳓त्  
+अश्रीर᳓ इव जा᳓माता
 </details>
 
 <details><summary>Vedaweb annotation</summary>

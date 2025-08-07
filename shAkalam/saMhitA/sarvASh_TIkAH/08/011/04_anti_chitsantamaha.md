@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡न्ति चित् स꣡न्तम् अ꣡ह  
-यज्ञ꣡म् म꣡र्तस्य रिपोः꣡  
-नो꣡प वेषि जातवेदः
+अ᳓न्ति चित् स᳓न्तम् अ᳓ह  
+यज्ञ᳓म् म᳓र्तस्य रिपोः᳓  
+नो᳓प वेषि जातवेदः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

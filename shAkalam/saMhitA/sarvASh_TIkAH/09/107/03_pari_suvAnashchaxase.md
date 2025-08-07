@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि स्वान꣡श्° च꣡क्षसे देवमा꣡दनः  
-क्र꣡तुर् इ꣡न्दुर् विचक्षणः꣡
+प᳓रि स्वान᳓श्° च᳓क्षसे देवमा᳓दनः  
+क्र᳓तुर् इ᳓न्दुर् विचक्षणः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

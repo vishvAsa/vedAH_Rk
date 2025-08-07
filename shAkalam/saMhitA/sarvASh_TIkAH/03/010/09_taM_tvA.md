@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा वि꣡प्रा विपन्य꣡वो  
-जागृवां꣡सः स꣡म् इन्धते  
-हव्यवा꣡हम् अ꣡मर्तियं सहोवृ꣡धम्
+तं᳓ त्वा वि᳓प्रा विपन्य᳓वो  
+जागृवां᳓सः स᳓म् इन्धते  
+हव्यवा᳓हम् अ᳓मर्तियं सहोवृ᳓धम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

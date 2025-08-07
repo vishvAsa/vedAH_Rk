@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृषभं꣡ चर्षणीनां᳐꣡  
-विश्व꣡रूपम् अ꣡दाभियम्  
-बृ꣡हस्प꣡तिं व꣡रेणियम्
+वृषभं᳓ चर्षणीनां᳐᳓  
+विश्व᳓रूपम् अ᳓दाभियम्  
+बृ᳓हस्प᳓तिं व᳓रेणियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -125,7 +125,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 To the bull of the settled domains, having all forms, undeceivable, Br̥haspati worthy to be chosen.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/05-06.md">

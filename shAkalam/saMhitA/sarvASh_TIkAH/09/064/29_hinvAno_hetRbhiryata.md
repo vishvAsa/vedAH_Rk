@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-हिन्वानो꣡ हेतृ꣡भिर् यत꣡  
-आ꣡ वा꣡जं वाजी꣡ अक्रमीत्  
-सी꣡दन्तो वनु꣡षो यथा
+हिन्वानो᳓ हेतृ᳓भिर् यत᳓  
+आ᳓ वा᳓जं वाजी᳓ अक्रमीत्  
+सी᳓दन्तो वनु᳓षो यथा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

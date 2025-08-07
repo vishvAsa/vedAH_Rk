@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡या तुवं꣡ न ऊतिया꣡  
-अभि꣡ प्र꣡ मन्दसे वृषन्  
-क꣡या स्तोतृ꣡भ्य आ꣡ भर
+क᳓या तुवं᳓ न ऊतिया᳓  
+अभि᳓ प्र᳓ मन्दसे वृषन्  
+क᳓या स्तोतृ᳓भ्य आ᳓ भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>

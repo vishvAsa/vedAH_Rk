@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ गृणता꣡म् इ꣡द् आ꣡सिथ  
-आपि꣡र् ऊती꣡ शिवः꣡ स꣡खा  
-स꣡ त्वं꣡ न इन्द्र मॄळय+
+यो᳓ गृणता᳓म् इ᳓द् आ᳓सिथ  
+आपि᳓र् ऊती᳓ शिवः᳓ स᳓खा  
+स᳓ त्वं᳓ न इन्द्र मॄळय+
 </details>
 
 <details><summary>Vedaweb annotation</summary>

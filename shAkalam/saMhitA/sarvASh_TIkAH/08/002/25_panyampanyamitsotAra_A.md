@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡न्यम्-पन्यम् इ꣡त् सोतार  
-आ꣡ धावत म꣡दियाय  
-सो꣡मं वीरा꣡य शू꣡राय
+प᳓न्यम्-पन्यम् इ᳓त् सोतार  
+आ᳓ धावत म᳓दियाय  
+सो᳓मं वीरा᳓य शू᳓राय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

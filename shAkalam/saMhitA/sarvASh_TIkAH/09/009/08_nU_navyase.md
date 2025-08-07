@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नू꣡ न꣡व्यसे न꣡वीयसे  
-सूक्ता꣡य साधया पथः꣡  
-प्रत्नव꣡द् रोचया रु꣡चः
+नू᳓ न᳓व्यसे न᳓वीयसे  
+सूक्ता᳓य साधया पथः᳓  
+प्रत्नव᳓द् रोचया रु᳓चः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

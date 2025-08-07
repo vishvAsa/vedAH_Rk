@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-नू꣡त्ना इ꣡द् इन्द्र ते वय꣡म्  
-ऊती꣡ अभूम नहि꣡ नू꣡ ते अद्रिवः  
-विद्मा꣡ पुरा꣡ प꣡रीणसः
+नू᳓त्ना इ᳓द् इन्द्र ते वय᳓म्  
+ऊती᳓ अभूम नहि᳓ नू᳓ ते अद्रिवः  
+विद्मा᳓ पुरा᳓ प᳓रीणसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

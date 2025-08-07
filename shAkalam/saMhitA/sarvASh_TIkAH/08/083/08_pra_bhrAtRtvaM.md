@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ भ्रातृत्वं꣡ सुदानवो  
-अ꣡ध द्विता꣡ समानिया꣡  
-मातु꣡र् ग꣡र्भे भरामहे
+प्र᳓ भ्रातृत्वं᳓ सुदानवो  
+अ᳓ध द्विता᳓ समानिया᳓  
+मातु᳓र् ग᳓र्भे भरामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

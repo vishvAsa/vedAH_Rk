@@ -15,10 +15,10 @@ ChandaH = "विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-द्युम꣡त्तमं · द꣡क्षं धेहि अस्मे꣡  
-से꣡धा ज꣡नानाम् पूर्वी꣡र् अ꣡रातीः  
-व꣡र्षीयो व꣡यः कृणुहि श꣡चीभिर्  
-ध꣡नस्य साता꣡व् अस्माँ꣡ अविड्ढि
+द्युम᳓त्तमं · द᳓क्षं धेहि अस्मे᳓  
+से᳓धा ज᳓नानाम् पूर्वी᳓र् अ᳓रातीः  
+व᳓र्षीयो व᳓यः कृणुहि श᳓चीभिर्  
+ध᳓नस्य साता᳓व् अस्माँ᳓ अविड्ढि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -218,7 +218,7 @@ _________
 
 Bestow the most brilliant skill on us. Repel the many hostilities of the  peoples.  
 Make our vitality higher through your abilities. Help us in the winning  of the stake.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

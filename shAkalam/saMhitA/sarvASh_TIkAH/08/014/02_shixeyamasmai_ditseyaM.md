@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शि꣡क्षेयम् अस्मै दि꣡त्सेयं  
-श꣡चीपते मनीषि꣡णे  
-य꣡द् अहं꣡ गो꣡पतिः सिया꣡म्
+शि᳓क्षेयम् अस्मै दि᳓त्सेयं  
+श᳓चीपते मनीषि᳓णे  
+य᳓द् अहं᳓ गो᳓पतिः सिया᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

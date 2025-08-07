@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡सावि अंशु꣡र् म꣡दाय  
-अप्सु꣡ द꣡क्षो गिरिष्ठाः᳐꣡  
-श्येनो꣡ न꣡ यो꣡निम् आ꣡सदत्
+अ᳓सावि अंशु᳓र् म᳓दाय  
+अप्सु᳓ द᳓क्षो गिरिष्ठाः᳐᳓  
+श्येनो᳓ न᳓ यो᳓निम् आ᳓सदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

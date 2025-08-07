@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा शोचिष्ठ दीदिवः  
-सुम्ना꣡य नून꣡म् ईमहे स꣡खिभ्यः
+तं᳓ त्वा शोचिष्ठ दीदिवः  
+सुम्ना᳓य नून᳓म् ईमहे स᳓खिभ्यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

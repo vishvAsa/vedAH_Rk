@@ -15,9 +15,9 @@ ChandaH = "पादनिचृत्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवा꣡वतः पुरूवसो  
-वय꣡म् इन्द्र प्रणयितः+  
-स्म꣡सि स्थातर् हरीणा᳐म्
+तुवा᳓वतः पुरूवसो  
+वय᳓म् इन्द्र प्रणयितः+  
+स्म᳓सि स्थातर् हरीणा᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ बुन्दं꣡ वृत्रहा꣡ ददे  
-जातः꣡ पृछद् वि꣡ मात꣡रम्  
-क꣡ उग्राः꣡ के꣡ ह शृण्विरे
+आ᳓ बुन्दं᳓ वृत्रहा᳓ ददे  
+जातः᳓ पृछद् वि᳓ मात᳓रम्  
+क᳓ उग्राः᳓ के᳓ ह शृण्विरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

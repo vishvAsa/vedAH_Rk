@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ नो भद्रे꣡ण श꣡र्मणा  
-युष्मा꣡कं नावा꣡ वसवः  
-अ꣡ति वि꣡श्वानि दुरिता꣡ पिपर्तन
+ते᳓ नो भद्रे᳓ण श᳓र्मणा  
+युष्मा᳓कं नावा᳓ वसवः  
+अ᳓ति वि᳓श्वानि दुरिता᳓ पिपर्तन
 </details>
 
 <details><summary>Vedaweb annotation</summary>

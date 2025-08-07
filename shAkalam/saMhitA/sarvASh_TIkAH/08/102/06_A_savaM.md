@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ सवं꣡ सवितु꣡र् यथा  
-भ꣡गस्येव भुजिं꣡ हुवे  
-अग्निं꣡ समुद्र꣡वाससम्
+आ᳓ सवं᳓ सवितु᳓र् यथा  
+भ᳓गस्येव भुजिं᳓ हुवे  
+अग्निं᳓ समुद्र᳓वाससम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

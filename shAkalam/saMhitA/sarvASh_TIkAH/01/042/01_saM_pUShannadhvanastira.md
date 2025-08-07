@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् पूषन्न् अ꣡ध्वनस् तिर  
-वि꣡ अं꣡हो विमुचो नपात्  
-स꣡क्ष्वा देव प्र꣡ णस् पुरः꣡
+स᳓म् पूषन्न् अ᳓ध्वनस् तिर  
+वि᳓ अं᳓हो विमुचो नपात्  
+स᳓क्ष्वा देव प्र᳓ णस् पुरः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कि꣡म् इदं꣡ वाम् पुराणव꣡ज्  
-ज꣡रतोर् इव शस्यते  
-अ꣡न्ति षद् भूतु वाम् अ꣡वः
+कि᳓म् इदं᳓ वाम् पुराणव᳓ज्  
+ज᳓रतोर् इव शस्यते  
+अ᳓न्ति षद् भूतु वाम् अ᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

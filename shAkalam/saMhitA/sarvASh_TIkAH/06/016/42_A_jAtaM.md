@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ जातं꣡ जात꣡वेदसि  
-प्रियं꣡ शिशीत अ꣡तिथिम्  
-सियोन꣡ आ꣡ गृह꣡पतिम्
+आ᳓ जातं᳓ जात᳓वेदसि  
+प्रियं᳓ शिशीत अ᳓तिथिम्  
+सियोन᳓ आ᳓ गृह᳓पतिम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

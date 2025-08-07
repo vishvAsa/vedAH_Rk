@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ द्या꣡वापृथिवी꣡ वि꣡ ष्कभायद्  
-अयं꣡ र꣡थम् अयुनक् सप्त꣡रश्मिम्  
-अयं꣡ गो꣡षु श꣡चिया पक्व꣡म् अन्तः꣡  
-सो꣡मो दाधार द꣡शयन्त्रम् उ꣡त्सम्
+अयं᳓ द्या᳓वापृथिवी᳓ वि᳓ ष्कभायद्  
+अयं᳓ र᳓थम् अयुनक् सप्त᳓रश्मिम्  
+अयं᳓ गो᳓षु श᳓चिया पक्व᳓म् अन्तः᳓  
+सो᳓मो दाधार द᳓शयन्त्रम् उ᳓त्सम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -244,7 +244,7 @@ Utsa = utsaraṇaśīlam, having the property of flowing forth, **payas**, milk;
 This one propped apart heaven and earth; this one yoked the chariot  with seven reins.  
 This one, Soma, by his ability, secures the cooked (milk) within the  
 cows, the wellspring with its ten fastenings: Soma!
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

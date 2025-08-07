@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पु꣡नर् नः पितरो म꣡नो  
-द꣡दातु दइ꣡वियो ज꣡नः  
-जीवं꣡ व्रा꣡तं सचेमहि
+पु᳓नर् नः पितरो म᳓नो  
+द᳓दातु दइ᳓वियो ज᳓नः  
+जीवं᳓ व्रा᳓तं सचेमहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

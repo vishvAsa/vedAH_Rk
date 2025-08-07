@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुव꣡म् अग्ने बृह꣡द् व꣡यो  
-द꣡धासि देव दाशु꣡षे  
-कवि꣡र् गृह꣡पतिर् यु꣡वा
+तुव᳓म् अग्ने बृह᳓द् व᳓यो  
+द᳓धासि देव दाशु᳓षे  
+कवि᳓र् गृह᳓पतिर् यु᳓वा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

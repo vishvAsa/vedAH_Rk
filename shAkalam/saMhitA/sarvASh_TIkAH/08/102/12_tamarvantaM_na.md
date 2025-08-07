@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् अ꣡र्वन्तं न꣡ सानसिं꣡  
-गृणीहि꣡ विप्र शुष्मि꣡णम्  
-मित्रं꣡ न꣡ यातय꣡ज्जनम्
+त᳓म् अ᳓र्वन्तं न᳓ सानसिं᳓  
+गृणीहि᳓ विप्र शुष्मि᳓णम्  
+मित्रं᳓ न᳓ यातय᳓ज्जनम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

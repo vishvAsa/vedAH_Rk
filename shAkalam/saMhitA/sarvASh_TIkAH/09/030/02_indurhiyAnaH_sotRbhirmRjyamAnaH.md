@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्दुर् हियानः꣡ सोतृ꣡भिर्  
-मृज्य꣡मानः क꣡निक्रदत्  
-इ꣡यर्ति वग्नु꣡म् इन्द्रिय꣡म्
+इ᳓न्दुर् हियानः᳓ सोतृ᳓भिर्  
+मृज्य᳓मानः क᳓निक्रदत्  
+इ᳓यर्ति वग्नु᳓म् इन्द्रिय᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

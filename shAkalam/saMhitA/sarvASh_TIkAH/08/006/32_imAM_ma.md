@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमा꣡म् म इन्द्र सुष्टुतिं꣡  
-जुष꣡स्व प्र꣡ सु꣡ मा꣡म् अव  
-उत꣡ प्र꣡ वर्धया मति꣡म्
+इमा᳓म् म इन्द्र सुष्टुतिं᳓  
+जुष᳓स्व प्र᳓ सु᳓ मा᳓म् अव  
+उत᳓ प्र᳓ वर्धया मति᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

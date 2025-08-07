@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प नो ह꣡रिभिः सुतं꣡  
-याहि꣡ मदाना᳐म् पते  
-उ꣡प नो ह꣡रिभिः सुत꣡म्
+उ᳓प नो ह᳓रिभिः सुतं᳓  
+याहि᳓ मदाना᳐म् पते  
+उ᳓प नो ह᳓रिभिः सुत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -167,7 +167,7 @@ _________
 
 Right up to our pressed soma with your fallow bays—drive, o lord of  exhilarating drinks—  
 right up to our pressed soma with your fallow bays.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/31-33.md">

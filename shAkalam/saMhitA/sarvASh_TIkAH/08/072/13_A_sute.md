@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ सुते꣡ सिञ्चत श्रि꣡यं  
-रो꣡दसीयोर् अभिश्रि꣡यम्  
-रसा꣡ दधीत वृषभ꣡म्
+आ᳓ सुते᳓ सिञ्चत श्रि᳓यं  
+रो᳓दसीयोर् अभिश्रि᳓यम्  
+रसा᳓ दधीत वृषभ᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

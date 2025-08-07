@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभ्य् अ᳡वस्थाः꣡ प्र꣡ जायन्ते  
-प्र꣡ वव्रे꣡र् वव्रि꣡श् चिकेत  
-उप꣡स्थे मातु꣡र् वि꣡ चष्टे
+अभ्य् अ᳡वस्थाः᳓ प्र᳓ जायन्ते  
+प्र᳓ वव्रे᳓र् वव्रि᳓श् चिकेत  
+उप᳓स्थे मातु᳓र् वि᳓ चष्टे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

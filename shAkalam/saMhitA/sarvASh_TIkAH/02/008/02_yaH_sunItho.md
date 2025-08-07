@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यः꣡ सुनीथो꣡ ददाशु꣡षे  
-अजुर्यो꣡ जर꣡यन्न् अरि꣡म्  
-चा꣡रुप्रतीक आ꣡हुतः
+यः᳓ सुनीथो᳓ ददाशु᳓षे  
+अजुर्यो᳓ जर᳓यन्न् अरि᳓म्  
+चा᳓रुप्रतीक आ᳓हुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -145,7 +145,7 @@ _________
 
 Who offers good guidance to the one doing pious work, himself unaging  but aging the other,  
 whose countenance is lovely when he is bepoured,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/01-04.md">

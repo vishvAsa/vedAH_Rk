@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ प्र꣡ स्थात अ꣡हेव यज्ञं꣡  
-या꣡तेव प꣡त्मन् त्म꣡ना हिनोत
+अभि᳓ प्र᳓ स्थात अ᳓हेव यज्ञं᳓  
+या᳓तेव प᳓त्मन् त्म᳓ना हिनोत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ त्वा विशन्तु इ꣡न्दवः  
-समुद्र꣡म् इव सि꣡न्धवः  
-न꣡ त्वा꣡म् इन्द्रा꣡ति रिच्यते
+आ᳓ त्वा विशन्तु इ᳓न्दवः  
+समुद्र᳓म् इव सि᳓न्धवः  
+न᳓ त्वा᳓म् इन्द्रा᳓ति रिच्यते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

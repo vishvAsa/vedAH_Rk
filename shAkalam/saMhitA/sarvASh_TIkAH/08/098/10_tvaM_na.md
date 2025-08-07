@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ न इन्द्र आ꣡ भरँ  
-ओ꣡जो नृम्णं꣡ शतक्रतो विचर्षणे  
-आ꣡ वीर꣡म् पृतनाष꣡हम्
+तुवं᳓ न इन्द्र आ᳓ भरँ  
+ओ᳓जो नृम्णं᳓ शतक्रतो विचर्षणे  
+आ᳓ वीर᳓म् पृतनाष᳓हम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

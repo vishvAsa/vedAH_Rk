@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-युवं꣡ वरो सुषा꣡मणे  
-महे꣡ त꣡ने नासतिया  
-अ꣡वोभिर् याथो वृषणा वृषण्वसू
+युवं᳓ वरो सुषा᳓मणे  
+महे᳓ त᳓ने नासतिया  
+अ᳓वोभिर् याथो वृषणा वृषण्वसू
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡भ्यां वि꣡श्वस्य राजसि  
-ये꣡ पवमान धा꣡मनी  
-प्रतीची꣡ सोम तस्थ꣡तुः
+ता᳓भ्यां वि᳓श्वस्य राजसि  
+ये᳓ पवमान धा᳓मनी  
+प्रतीची᳓ सोम तस्थ᳓तुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

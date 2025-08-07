@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡षा पुनान꣡ आयु꣡षु  
-स्तन꣡यन्न् अ꣡धि बर्हि꣡षि  
-ह꣡रिः स꣡न् यो꣡निम् आ꣡सदत्
+वृ᳓षा पुनान᳓ आयु᳓षु  
+स्तन᳓यन्न् अ᳓धि बर्हि᳓षि  
+ह᳓रिः स᳓न् यो᳓निम् आ᳓सदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

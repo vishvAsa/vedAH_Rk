@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ ह य꣡द् यविष्ठिय  
-स꣡हसः सूनव् आहुत  
-ऋता꣡वा यज्ञि꣡यो भु꣡वः
+तुवं᳓ ह य᳓द् यविष्ठिय  
+स᳓हसः सूनव् आहुत  
+ऋता᳓वा यज्ञि᳓यो भु᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

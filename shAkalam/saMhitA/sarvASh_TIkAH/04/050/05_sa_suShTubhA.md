@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ सुष्टु꣡भा स꣡ ऋ꣡क्वता गणे꣡न  
-वलं꣡ रुरोज फलिगं꣡ र꣡वेण  
-बृ꣡हस्प꣡तिर् उस्रि꣡या हव्यसू꣡दः  
-क꣡निक्रदद् वा꣡वशतीर् उ꣡द् आजत्
+स᳓ सुष्टु᳓भा स᳓ ऋ᳓क्वता गणे᳓न  
+वलं᳓ रुरोज फलिगं᳓ र᳓वेण  
+बृ᳓हस्प᳓तिर् उस्रि᳓या हव्यसू᳓दः  
+क᳓निक्रदद् वा᳓वशतीर् उ᳓द् आजत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -209,7 +209,7 @@ _________
 
 He with his flock possessing good rhythm, the flock possessing chant— he broke Vala, broke its bolt with his roar.  
 Br̥haspati drove up the ruddy (cows) who sweeten the oblation, who  kept lowing as he was bellowing.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">

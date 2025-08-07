@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ रयि꣡म् आ꣡ सुचेतु꣡नम्  
-आ꣡ सुक्रतो तनू꣡षु आ꣡  
-पा᳐꣡न्तम् आ꣡ पुरुस्पृ꣡हम्
+आ᳓ रयि᳓म् आ᳓ सुचेतु᳓नम्  
+आ᳓ सुक्रतो तनू᳓षु आ᳓  
+पा᳐᳓न्तम् आ᳓ पुरुस्पृ᳓हम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -167,7 +167,7 @@ _________
 
 Here wealth, here kind attention, here, o strong-willed one, right here  on our bodies,  
 here the much coveted drink.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/28-30.md">

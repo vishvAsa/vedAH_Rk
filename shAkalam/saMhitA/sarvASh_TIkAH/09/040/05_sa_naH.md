@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नः पुनान꣡ आ꣡ भर  
-रयिं꣡ स्तोत्रे꣡ सुवी꣡रियम्  
-जरितु꣡र् वर्धया गि꣡रः
+स᳓ नः पुनान᳓ आ᳓ भर  
+रयिं᳓ स्तोत्रे᳓ सुवी᳓रियम्  
+जरितु᳓र् वर्धया गि᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-श्रे꣡ष्ठं यविष्ठ भारत  
-अ꣡ग्ने द्युम꣡न्तम् आ꣡ भर  
-व꣡सो पुरुस्पृ꣡हं रयि꣡म्
+श्रे᳓ष्ठं यविष्ठ भारत  
+अ᳓ग्ने द्युम᳓न्तम् आ᳓ भर  
+व᳓सो पुरुस्पृ᳓हं रयि᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -183,7 +183,7 @@ VASU, thou most youthful God, Bharata, Agni, bring us wealth,
 <details><summary>Oldenberg</summary>
 
 Bring us, O youngest god, Bhârata 1, Agni, the best, resplendent, much-desired wealth, O Vasu 2!
-꣡</details>
+᳓</details>
 
 <details><summary>Keith</summary>
 

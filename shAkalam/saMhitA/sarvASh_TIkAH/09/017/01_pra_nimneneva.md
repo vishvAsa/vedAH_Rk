@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ निम्ने꣡नेव सि꣡न्धवो  
-घ्न꣡न्तो वृत्रा꣡णि भू꣡र्णयः  
-सो꣡मा असृग्रम् आश꣡वः
+प्र᳓ निम्ने᳓नेव सि᳓न्धवो  
+घ्न᳓न्तो वृत्रा᳓णि भू᳓र्णयः  
+सो᳓मा असृग्रम् आश᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

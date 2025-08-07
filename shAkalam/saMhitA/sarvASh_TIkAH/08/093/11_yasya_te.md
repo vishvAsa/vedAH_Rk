@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य ते नू꣡ चिद् आदि꣡शं  
-न꣡ मिन꣡न्ति स्वरा꣡जियम्  
-न꣡ देवो꣡ ना꣡ध्रिगुर् ज꣡नः
+य᳓स्य ते नू᳓ चिद् आदि᳓शं  
+न᳓ मिन᳓न्ति स्वरा᳓जियम्  
+न᳓ देवो᳓ ना᳓ध्रिगुर् ज᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

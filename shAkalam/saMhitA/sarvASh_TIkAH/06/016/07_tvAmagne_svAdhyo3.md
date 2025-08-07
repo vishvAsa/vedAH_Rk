@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवा꣡म् अग्ने सुआधि꣡यो  
-म꣡र्तासो देव꣡वीतये  
-यज्ञे꣡षु देव꣡म् ईळते
+तुवा᳓म् अग्ने सुआधि᳓यो  
+म᳓र्तासो देव᳓वीतये  
+यज्ञे᳓षु देव᳓म् ईळते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -149,7 +149,7 @@ _________
 
 You, Agni, do the very attentive mortals reverently invoke as god at the  sacrifices,  
 to pursue the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/07-09.md">

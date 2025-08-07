@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡च् छक्रा꣡सि पराव꣡ति  
-य꣡द् अर्वाव꣡ति वृत्रहन्  
-य꣡द् वा समुद्रे꣡ अ꣡न्धसो ऽविते꣡द् असि
+य᳓च् छक्रा᳓सि पराव᳓ति  
+य᳓द् अर्वाव᳓ति वृत्रहन्  
+य᳓द् वा समुद्रे᳓ अ᳓न्धसो ऽविते᳓द् असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

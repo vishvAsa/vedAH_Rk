@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रा꣡स्तौद् ऋष्वउ꣡जा ऋष्वे꣡भिस्  
-तत꣡क्ष शू꣡रः श꣡वसा  
-ऋभु꣡र् न꣡ क्र꣡तुभिर् मातरि꣡श्वा
+प्रा᳓स्तौद् ऋष्वउ᳓जा ऋष्वे᳓भिस्  
+तत᳓क्ष शू᳓रः श᳓वसा  
+ऋभु᳓र् न᳓ क्र᳓तुभिर् मातरि᳓श्वा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ ते दधामि इन्द्रिय꣡म्  
-उक्था꣡ वि꣡श्वा शतक्रतो  
-स्तोतृ꣡भ्य इन्द्र मॄळय+
+आ᳓ ते दधामि इन्द्रिय᳓म्  
+उक्था᳓ वि᳓श्वा शतक्रतो  
+स्तोतृ᳓भ्य इन्द्र मॄळय+
 </details>
 
 <details><summary>Vedaweb annotation</summary>

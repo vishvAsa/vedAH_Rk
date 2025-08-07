@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वा꣡त आ꣡ वातु भेषजं꣡  
-शम्भु꣡ मयोभु꣡ नो हृदे꣡  
-प्र꣡ ण आ꣡यूंषि तारिषत्
+वा᳓त आ᳓ वातु भेषजं᳓  
+शम्भु᳓ मयोभु᳓ नो हृदे᳓  
+प्र᳓ ण आ᳓यूंषि तारिषत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

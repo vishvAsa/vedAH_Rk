@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡पथयो वि꣡पथयो  
-अ꣡न्तस्पथा अ꣡नुपथाः  
-एते꣡भिर् म꣡ह्य° ना꣡मभिर्  
-यज्ञं꣡ विष्टार꣡ ओहते
+आ᳓पथयो वि᳓पथयो  
+अ᳓न्तस्पथा अ᳓नुपथाः  
+एते᳓भिर् म᳓ह्य° ना᳓मभिर्  
+यज्ञं᳓ विष्टार᳓ ओहते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

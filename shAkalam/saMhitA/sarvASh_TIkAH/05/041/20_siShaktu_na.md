@@ -15,7 +15,7 @@ ChandaH = "एकपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सि꣡षक्तु न ऊर्जवि꣡यस्य पुष्टेः꣡
+सि᳓षक्तु न ऊर्जवि᳓यस्य पुष्टेः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -99,7 +99,7 @@ Puṣṭeḥ = poṣakasya, one who cherishes or patronizes; the nominative nati
 <details><summary>Jamison Brereton</summary>
 
 Of the nourishing prosperity [/of the prosperity of Ūrjavya]—let her  accompany us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/041/19-20.md">

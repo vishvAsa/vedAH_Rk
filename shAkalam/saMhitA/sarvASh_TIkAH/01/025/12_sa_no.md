@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो विश्वा꣡हा सुक्र꣡तुर्  
-आदित्यः꣡ सुप꣡था करत्  
-प्र꣡ ण आ꣡यूंषि तारिषत्
+स᳓ नो विश्वा᳓हा सुक्र᳓तुर्  
+आदित्यः᳓ सुप᳓था करत्  
+प्र᳓ ण आ᳓यूंषि तारिषत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

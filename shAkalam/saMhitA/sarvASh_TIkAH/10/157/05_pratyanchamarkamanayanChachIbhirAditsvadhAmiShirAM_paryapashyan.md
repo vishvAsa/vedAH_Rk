@@ -15,8 +15,8 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रत्य꣡ञ्चम् अर्क꣡म् अनयञ् छ꣡चीभिर्  
-आ꣡द् इ꣡त् स्वधा꣡म् इषिरा꣡म् प꣡र्य् अपश्यन्
+प्रत्य᳓ञ्चम् अर्क᳓म् अनयञ् छ᳓चीभिर्  
+आ᳓द् इ᳓त् स्वधा᳓म् इषिरा᳓म् प᳓र्य् अपश्यन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

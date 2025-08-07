@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-नृ꣡भिर् येमानो꣡ हर्यतो꣡ विचक्षणो꣡  
-रा꣡जा देवः꣡ समुद्रि꣡यः
+नृ᳓भिर् येमानो᳓ हर्यतो᳓ विचक्षणो᳓  
+रा᳓जा देवः᳓ समुद्रि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -123,7 +123,7 @@ _________
 
 Being guided by men, the delightful, wide-gazing king and god  
 belonging to the sea.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/14-16.md">

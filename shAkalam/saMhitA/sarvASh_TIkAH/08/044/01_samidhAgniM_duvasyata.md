@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-समि꣡धाग्निं꣡ दुवस्यत  
-घृतइ꣡र् बोधयता꣡तिथिम्  
-आ꣡स्मिन् हव्या꣡ जुहोतन
+समि᳓धाग्निं᳓ दुवस्यत  
+घृतइ᳓र् बोधयता᳓तिथिम्  
+आ᳓स्मिन् हव्या᳓ जुहोतन
 </details>
 
 <details><summary>Vedaweb annotation</summary>

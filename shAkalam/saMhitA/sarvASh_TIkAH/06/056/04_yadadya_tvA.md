@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अद्य꣡ त्वा पुरुष्टुत  
-ब्र꣡वाम दस्र मन्तुमः  
-त꣡त् सु꣡ नो म꣡न्म साधय
+य᳓द् अद्य᳓ त्वा पुरुष्टुत  
+ब्र᳓वाम दस्र मन्तुमः  
+त᳓त् सु᳓ नो म᳓न्म साधय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

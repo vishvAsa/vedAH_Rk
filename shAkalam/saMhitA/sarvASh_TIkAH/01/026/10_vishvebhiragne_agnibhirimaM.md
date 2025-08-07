@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वेभिर् अग्ने अग्नि꣡भिर्  
-इमं꣡ यज्ञ꣡म् इदं꣡ व꣡चः  
-च꣡नो धाः सहसो यहो
+वि᳓श्वेभिर् अग्ने अग्नि᳓भिर्  
+इमं᳓ यज्ञ᳓म् इदं᳓ व᳓चः  
+च᳓नो धाः सहसो यहो
 </details>
 
 <details><summary>Vedaweb annotation</summary>

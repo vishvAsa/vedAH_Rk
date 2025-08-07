@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡द् ईम् अ꣡श्वं न꣡ हे꣡तारो  
-अ꣡शूशुभन्न् अमृ꣡ताय  
-म꣡ध्वो र꣡सं सधमा꣡दे
+आ᳓द् ईम् अ᳓श्वं न᳓ हे᳓तारो  
+अ᳓शूशुभन्न् अमृ᳓ताय  
+म᳓ध्वो र᳓सं सधमा᳓दे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,7 +154,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Then, like drivers a horse, they have beautified him for the immortal, the sap of honey for joint revelry.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/04-06.md">

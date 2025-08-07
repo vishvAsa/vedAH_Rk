@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि ते दूळ꣡भो र꣡थो  
-अस्माँ꣡ अश्नोतु विश्व꣡तः  
-ये꣡न र꣡क्षसि दाशु꣡षः
+प᳓रि ते दूळ᳓भो र᳓थो  
+अस्माँ᳓ अश्नोतु विश्व᳓तः  
+ये᳓न र᳓क्षसि दाशु᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

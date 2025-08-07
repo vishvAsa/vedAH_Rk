@@ -15,10 +15,10 @@ ChandaH = "जगती"
 
 <details><summary>Thomson & Solcum</summary>
 
-ससर्परी꣡र् अभरत् तू꣡यम् एभ्यो  
-अ꣡धि श्र꣡वः पा꣡ञ्चजन्यासु कृष्टि꣡षु  
-सा꣡ पक्षि꣡या न꣡व्यम् आ꣡युर् द꣡धाना  
-या꣡म् मे पलस्तिजमदग्न꣡यो ददुः꣡
+ससर्परी᳓र् अभरत् तू᳓यम् एभ्यो  
+अ᳓धि श्र᳓वः पा᳓ञ्चजन्यासु कृष्टि᳓षु  
+सा᳓ पक्षि᳓या न᳓व्यम् आ᳓युर् द᳓धाना  
+या᳓म् मे पलस्तिजमदग्न᳓यो ददुः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -234,7 +234,7 @@ Five races of men: pañcajanyāsu kṛṣṭiṣu: five distinctions are restric
 
 The squirming, sappy (cow called) Sasarparī swiftly brought fame to  them among the communities of the five peoples,  
 having taken on new life (like Dawn, though) in her winglessness, she  whom the Palastis and Jamadagnis gave me.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

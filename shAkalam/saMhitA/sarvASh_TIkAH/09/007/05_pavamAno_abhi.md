@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानो अभि꣡ स्पृ꣡धो  
-वि꣡शो रा꣡जेव सीदति  
-य꣡द् ईम् ऋण्व꣡न्ति वेध꣡सः
+प᳓वमानो अभि᳓ स्पृ᳓धो  
+वि᳓शो रा᳓जेव सीदति  
+य᳓द् ईम् ऋण्व᳓न्ति वेध᳓सः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

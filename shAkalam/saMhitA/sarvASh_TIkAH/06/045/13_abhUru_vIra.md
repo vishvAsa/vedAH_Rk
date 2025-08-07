@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡भूर् उ वीर गिर्वणो  
-महाँ꣡ इन्द्र ध꣡ने हिते꣡  
-भ꣡रे वितन्तसा꣡यियः
+अ᳓भूर् उ वीर गिर्वणो  
+महाँ᳓ इन्द्र ध᳓ने हिते᳓  
+भ᳓रे वितन्तसा᳓यियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

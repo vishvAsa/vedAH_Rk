@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡ अद्धा꣡ दाशु꣡अध्वरो  
-अ꣡ग्ने म꣡र्तः सुभग स꣡ प्रशं꣡सियः  
-स꣡ धीभि꣡र् अस्तु स꣡निता
+सो᳓ अद्धा᳓ दाशु᳓अध्वरो  
+अ᳓ग्ने म᳓र्तः सुभग स᳓ प्रशं᳓सियः  
+स᳓ धीभि᳓र् अस्तु स᳓निता
 </details>
 
 <details><summary>Vedaweb annotation</summary>

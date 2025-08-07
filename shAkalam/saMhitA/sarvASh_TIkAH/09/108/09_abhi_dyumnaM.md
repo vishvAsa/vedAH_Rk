@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ द्युम्न꣡म् बृह꣡द् य꣡श  
-इ꣡षस् पते दिदीहि꣡ देव देवयुः꣡  
-वि꣡ को꣡शम् मध्यमं꣡ युव
+अभि᳓ द्युम्न᳓म् बृह᳓द् य᳓श  
+इ᳓षस् पते दिदीहि᳓ देव देवयुः᳓  
+वि᳓ को᳓शम् मध्यमं᳓ युव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

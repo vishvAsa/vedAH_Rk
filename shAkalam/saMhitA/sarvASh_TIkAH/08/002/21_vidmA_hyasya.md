@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-विद्मा꣡ हि꣡ अस्य वीर꣡स्य  
-भूरिदा꣡वरीं सुमति꣡म्  
-त्रिषु꣡ जात꣡स्य म꣡नांसि
+विद्मा᳓ हि᳓ अस्य वीर᳓स्य  
+भूरिदा᳓वरीं सुमति᳓म्  
+त्रिषु᳓ जात᳓स्य म᳓नांसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

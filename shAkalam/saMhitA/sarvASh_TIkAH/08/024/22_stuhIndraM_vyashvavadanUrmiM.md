@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्तुहि꣡ इ꣡न्द्रं विअश्वव꣡द्  
-अ꣡नूर्मिं वाजि꣡नं य꣡मम्  
-अर्यो꣡ ग꣡यम् मं꣡हमानं वि꣡ दाशु꣡षे
+स्तुहि᳓ इ᳓न्द्रं विअश्वव᳓द्  
+अ᳓नूर्मिं वाजि᳓नं य᳓मम्  
+अर्यो᳓ ग᳓यम् मं᳓हमानं वि᳓ दाशु᳓षे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

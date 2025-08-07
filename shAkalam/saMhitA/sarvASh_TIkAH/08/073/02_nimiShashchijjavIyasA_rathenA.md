@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-निमि꣡षश् चिज् ज꣡वीयसा  
-र꣡थेना꣡ यातम् अश्विना  
-अ꣡न्ति ष꣡द् भूतु वाम् अ꣡वः
+निमि᳓षश् चिज् ज᳓वीयसा  
+र᳓थेना᳓ यातम् अश्विना  
+अ᳓न्ति ष᳓द् भूतु वाम् अ᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

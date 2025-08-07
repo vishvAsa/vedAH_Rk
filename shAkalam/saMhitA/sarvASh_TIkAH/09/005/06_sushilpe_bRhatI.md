@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुशिल्पे꣡ बृहती꣡ मही꣡  
-प꣡वमानो वृषण्यति  
-न꣡क्तोषा꣡सा न꣡ दर्शते꣡
+सुशिल्पे᳓ बृहती᳓ मही᳓  
+प᳓वमानो वृषण्यति  
+न᳓क्तोषा᳓सा न᳓ दर्शते᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

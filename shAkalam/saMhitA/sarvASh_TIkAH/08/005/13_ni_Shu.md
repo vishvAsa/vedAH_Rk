@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡ षु꣡ ब्र꣡ह्म ज꣡नानां᳐  
-या꣡विष्टं तू꣡यम् आ꣡ गतम्  
-मो꣡ षु꣡ अन्याँ꣡ उ꣡पारतम्
+नि᳓ षु᳓ ब्र᳓ह्म ज᳓नानां᳐  
+या᳓विष्टं तू᳓यम् आ᳓ गतम्  
+मो᳓ षु᳓ अन्याँ᳓ उ᳓पारतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

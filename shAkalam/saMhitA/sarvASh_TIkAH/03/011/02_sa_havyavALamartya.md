@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ हव्यवा꣡ळ् अ꣡मर्तिय  
-उशि꣡ग् दूत꣡श् च꣡नोहितः  
-अग्नि꣡र् धिया꣡ स꣡म् ऋण्वति
+स᳓ हव्यवा᳓ळ् अ᳓मर्तिय  
+उशि᳓ग् दूत᳓श् च᳓नोहितः  
+अग्नि᳓र् धिया᳓ स᳓म् ऋण्वति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

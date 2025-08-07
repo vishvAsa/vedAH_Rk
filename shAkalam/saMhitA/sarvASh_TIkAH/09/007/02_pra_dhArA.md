@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ धा꣡रा म꣡ध्वो अग्रियो꣡  
-मही꣡र् अपो꣡ वि꣡ गाहते  
-हवि꣡र् हवि꣡ष्षु व꣡न्दियः
+प्र᳓ धा᳓रा म᳓ध्वो अग्रियो᳓  
+मही᳓र् अपो᳓ वि᳓ गाहते  
+हवि᳓र् हवि᳓ष्षु व᳓न्दियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

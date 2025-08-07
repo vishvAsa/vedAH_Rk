@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो रयि꣡म् मदच्यु꣡तम्  
-पुरुक्षुं꣡ विश्व꣡धायसम्  
-इ꣡यर्ता मरुतो दिवः꣡
+आ᳓ नो रयि᳓म् मदच्यु᳓तम्  
+पुरुक्षुं᳓ विश्व᳓धायसम्  
+इ᳓यर्ता मरुतो दिवः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

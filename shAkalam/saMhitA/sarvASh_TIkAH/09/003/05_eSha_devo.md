@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ देवो꣡ रथर्यति  
-प꣡वमानो दशस्यति  
-आवि꣡ष् कृणोति वग्वनु꣡म्
+एष᳓ देवो᳓ रथर्यति  
+प᳓वमानो दशस्यति  
+आवि᳓ष् कृणोति वग्वनु᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

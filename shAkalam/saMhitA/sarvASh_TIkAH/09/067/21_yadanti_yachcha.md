@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अ꣡न्ति य꣡च् च दूरके꣡  
-भयं꣡ विन्द꣡ति मा꣡म् इह꣡  
-प꣡वमान वि꣡ त꣡ज् जहि
+य᳓द् अ᳓न्ति य᳓च् च दूरके᳓  
+भयं᳓ विन्द᳓ति मा᳓म् इह᳓  
+प᳓वमान वि᳓ त᳓ज् जहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -182,7 +182,7 @@ _________
 
 What peril nearby and what at a little distance finds me here—  
 o self-purifying one, smash that away.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/19-21.md">

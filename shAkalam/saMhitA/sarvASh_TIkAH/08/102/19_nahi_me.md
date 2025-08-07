@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नहि꣡ मे अ꣡स्ति अ꣡घ्निया  
-न꣡ स्व꣡धितिर् व꣡नन्वति  
-अ꣡थैतादृ꣡ग् भरामि ते
+नहि᳓ मे अ᳓स्ति अ᳓घ्निया  
+न᳓ स्व᳓धितिर् व᳓नन्वति  
+अ᳓थैतादृ᳓ग् भरामि ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -161,7 +161,7 @@ _________
 
 Because I have no cow, nor an axe in a wooden (tree),  
 I therefore bring just a thing like this to you.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/102/19-22.md">

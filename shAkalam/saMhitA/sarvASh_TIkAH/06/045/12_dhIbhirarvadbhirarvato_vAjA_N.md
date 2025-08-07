@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-धीभि꣡र् अ꣡र्वद्भिर् अ꣡र्वतो  
-वा꣡जाँ इन्द्र श्रवा꣡यियान्  
-त्व꣡या जेष्म हितं꣡ ध꣡नम्
+धीभि᳓र् अ᳓र्वद्भिर् अ᳓र्वतो  
+वा᳓जाँ इन्द्र श्रवा᳓यियान्  
+त्व᳓या जेष्म हितं᳓ ध᳓नम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

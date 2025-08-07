@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् अद्य꣡ रा꣡धसे महे꣡  
-चा꣡रुम् म꣡दाय घृ꣡ष्वये  
-ए꣡हीम् इन्द्र द्र꣡वा पि꣡ब
+त᳓म् अद्य᳓ रा᳓धसे महे᳓  
+चा᳓रुम् म᳓दाय घृ᳓ष्वये  
+ए᳓हीम् इन्द्र द्र᳓वा पि᳓ब
 </details>
 
 <details><summary>Vedaweb annotation</summary>

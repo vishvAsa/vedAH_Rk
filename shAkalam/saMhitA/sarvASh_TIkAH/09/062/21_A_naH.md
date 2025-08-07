@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नः सो꣡मम् पवि꣡त्र आ꣡  
-सृज꣡ता म꣡धुमत्तमम्  
-देवे꣡भ्यो देवश्रु꣡त्तमम्
+आ᳓ नः सो᳓मम् पवि᳓त्र आ᳓  
+सृज᳓ता म᳓धुमत्तमम्  
+देवे᳓भ्यो देवश्रु᳓त्तमम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,7 +151,7 @@ _________
 
 Into the filter send our soma, the most honeyed  
 for the gods, the most audible to the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/19-21.md">

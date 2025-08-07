@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ याहि अ꣡द्रिभिः सुतं꣡  
-सो꣡मं सोमपते पिब  
-वृ꣡षन्न् इन्द्र वृ꣡षभिर् वृत्रहन्तम
+आ᳓ याहि अ᳓द्रिभिः सुतं᳓  
+सो᳓मं सोमपते पिब  
+वृ᳓षन्न् इन्द्र वृ᳓षभिर् वृत्रहन्तम
 </details>
 
 <details><summary>Vedaweb annotation</summary>

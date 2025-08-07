@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तु꣡भ्यं ता꣡ अङ्गिरस्तम  
-वि꣡श्वाः सुक्षित꣡यः पृ꣡थक्  
-अ꣡ग्ने का꣡माय येमिरे
+तु᳓भ्यं ता᳓ अङ्गिरस्तम  
+वि᳓श्वाः सुक्षित᳓यः पृ᳓थक्  
+अ᳓ग्ने का᳓माय येमिरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

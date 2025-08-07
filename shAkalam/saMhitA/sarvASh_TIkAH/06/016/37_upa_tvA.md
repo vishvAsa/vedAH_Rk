@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प त्वा रण्व꣡संदृशम्  
-प्र꣡यस्वन्तः सहस्कृत  
-अ꣡ग्ने ससृज्म꣡हे गि꣡रः
+उ᳓प त्वा रण्व᳓संदृशम्  
+प्र᳓यस्वन्तः सहस्कृत  
+अ᳓ग्ने ससृज्म᳓हे गि᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् देवा य꣡तयो यथा  
-भु꣡वनानि अ꣡पिन्वत  
-अ꣡त्रा समुद्र꣡ आ꣡ गूळ्ह꣡म्  
-आ꣡ सू꣡र्यम् अजभर्तन
+य᳓द् देवा य᳓तयो यथा  
+भु᳓वनानि अ᳓पिन्वत  
+अ᳓त्रा समुद्र᳓ आ᳓ गूळ्ह᳓म्  
+आ᳓ सू᳓र्यम् अजभर्तन
 </details>
 
 <details><summary>Vedaweb annotation</summary>

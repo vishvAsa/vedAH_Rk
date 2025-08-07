@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-हो꣡ता देवो꣡ अ꣡मर्तियः  
-पुर꣡स्ताद् एति माय꣡या  
-विद꣡थानि प्रचोद꣡यन्
+हो᳓ता देवो᳓ अ᳓मर्तियः  
+पुर᳓स्ताद् एति माय᳓या  
+विद᳓थानि प्रचोद᳓यन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

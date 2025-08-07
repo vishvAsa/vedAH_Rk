@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ गा꣡व इवादन्ति  
-उत꣡ वे꣡श्मेव दृश्यते  
-उतो꣡ अरण्यानिः꣡ सायं꣡  
-शकटी꣡र् इव सर्जति
+उत᳓ गा᳓व इवादन्ति  
+उत᳓ वे᳓श्मेव दृश्यते  
+उतो᳓ अरण्यानिः᳓ सायं᳓  
+शकटी᳓र् इव सर्जति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

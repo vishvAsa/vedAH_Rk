@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्मान् न꣡ र्ते꣡ विज꣡यन्ते ज꣡नासो  
-यं꣡ यु꣡ध्यमाना अ꣡वसे ह꣡वन्ते  
-यो꣡ वि꣡श्वस्य प्रतिमा꣡नम् बभू꣡व  
-यो꣡ अच्युतच्यु꣡त् स꣡ जनास इ꣡न्द्रः
+य᳓स्मान् न᳓ र्ते᳓ विज᳓यन्ते ज᳓नासो  
+यं᳓ यु᳓ध्यमाना अ᳓वसे ह᳓वन्ते  
+यो᳓ वि᳓श्वस्य प्रतिमा᳓नम् बभू᳓व  
+यो᳓ अच्युतच्यु᳓त् स᳓ जनास इ᳓न्द्रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -242,7 +242,7 @@ _________
 Without whom peoples do not win, whom they call upon for help as  they fight,  
 who has become a match for everyone, who is the mover of the  
 immovable – he, o peoples, is Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/09-11.md">

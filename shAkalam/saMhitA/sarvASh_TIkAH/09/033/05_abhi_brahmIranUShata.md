@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ ब्र꣡ह्मीर् अनूषत  
-यह्वी꣡र् ऋत꣡स्य मात꣡रः  
-मर्मृज्य꣡न्ते दिवः꣡ शि꣡शुम्
+अभि᳓ ब्र᳓ह्मीर् अनूषत  
+यह्वी᳓र् ऋत᳓स्य मात᳓रः  
+मर्मृज्य᳓न्ते दिवः᳓ शि᳓शुम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

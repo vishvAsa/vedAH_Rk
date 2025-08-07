@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-द्रविणोदा꣡ द्र꣡विणसो  
-ग्रा꣡वहस्तासो अध्वरे꣡  
-यज्ञे꣡षु देव꣡म् ईळते
+द्रविणोदा᳓ द्र᳓विणसो  
+ग्रा᳓वहस्तासो अध्वरे᳓  
+यज्ञे᳓षु देव᳓म् ईळते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

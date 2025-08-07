@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रो अङ्ग꣡ मह꣡द् भय꣡म्  
-अभी꣡ ष꣡द् अ꣡प चुच्यवत्  
-स꣡ हि꣡ स्थिरो꣡ वि꣡चर्षणिः
+इ᳓न्द्रो अङ्ग᳓ मह᳓द् भय᳓म्  
+अभी᳓ ष᳓द् अ᳓प चुच्यवत्  
+स᳓ हि᳓ स्थिरो᳓ वि᳓चर्षणिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

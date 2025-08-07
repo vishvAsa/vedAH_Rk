@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-रेव꣡तीर् नः सधमा꣡द  
-इ꣡न्द्रे सन्तु तुवि꣡वाजाः  
-क्षुम꣡न्तो या꣡भिर् म꣡देम
+रेव᳓तीर् नः सधमा᳓द  
+इ᳓न्द्रे सन्तु तुवि᳓वाजाः  
+क्षुम᳓न्तो या᳓भिर् म᳓देम
 </details>
 
 <details><summary>Vedaweb annotation</summary>

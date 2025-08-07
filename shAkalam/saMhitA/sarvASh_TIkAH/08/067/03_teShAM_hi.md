@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡षां हि꣡ चित्र꣡म् उक्थि꣡यं  
-व꣡रूथम् अ꣡स्ति दाशु꣡षे  
-आदित्या꣡नाम् अरंकृ꣡ते
+ते᳓षां हि᳓ चित्र᳓म् उक्थि᳓यं  
+व᳓रूथम् अ᳓स्ति दाशु᳓षे  
+आदित्या᳓नाम् अरंकृ᳓ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

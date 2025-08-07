@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तिग्म꣡म् ए꣡को बिभर्ति ह꣡स्त आ꣡युधं  
-शु꣡चिर् उग्रो꣡ ज꣡लाषभेषजः
+तिग्म᳓म् ए᳓को बिभर्ति ह᳓स्त आ᳓युधं  
+शु᳓चिर् उग्रो᳓ ज᳓लाषभेषजः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

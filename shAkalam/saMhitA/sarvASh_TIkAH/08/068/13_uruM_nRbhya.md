@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उरुं꣡ नृ꣡भ्य उरुं꣡ ग꣡व  
-उरुं꣡ र꣡थाय प꣡न्था᳐म्  
-देव꣡वीतिम् मनामहे
+उरुं᳓ नृ᳓भ्य उरुं᳓ ग᳓व  
+उरुं᳓ र᳓थाय प᳓न्था᳐म्  
+देव᳓वीतिम् मनामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धारयन्त व꣡ह्नयो  
-अ꣡भजन्त सुकृत्य꣡या  
-भागं꣡ देवे꣡षु यज्ञि꣡यम्
+अ᳓धारयन्त व᳓ह्नयो  
+अ᳓भजन्त सुकृत्य᳓या  
+भागं᳓ देवे᳓षु यज्ञि᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

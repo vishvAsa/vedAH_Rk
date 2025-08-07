@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ वां यज्ञे꣡भिर् आ꣡वृतो  
-अ꣡धिवस्त्रा वधू꣡र् इव  
-सपर्य꣡न्ता शुभे꣡ चक्राते अश्वि꣡ना
+यो᳓ वां यज्ञे᳓भिर् आ᳓वृतो  
+अ᳓धिवस्त्रा वधू᳓र् इव  
+सपर्य᳓न्ता शुभे᳓ चक्राते अश्वि᳓ना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

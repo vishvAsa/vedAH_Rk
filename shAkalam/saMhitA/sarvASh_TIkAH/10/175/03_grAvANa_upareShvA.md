@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ग्रा꣡वाण उ꣡परेषु आ꣡  
-महीय꣡न्ते सजो꣡षसः  
-वृ꣡ष्णे द꣡धतो वृ꣡ष्णियम्
+ग्रा᳓वाण उ᳓परेषु आ᳓  
+महीय᳓न्ते सजो᳓षसः  
+वृ᳓ष्णे द᳓धतो वृ᳓ष्णियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

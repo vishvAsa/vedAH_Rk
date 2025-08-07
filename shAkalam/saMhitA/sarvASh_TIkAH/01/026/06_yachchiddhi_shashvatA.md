@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡च् चिद् धि꣡ श꣡श्वता त꣡ना  
-देवं꣡-देवं य꣡जामहे  
-तुवे꣡ इ꣡द् धूयते हविः꣡
+य᳓च् चिद् धि᳓ श᳓श्वता त᳓ना  
+देवं᳓-देवं य᳓जामहे  
+तुवे᳓ इ᳓द् धूयते हविः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

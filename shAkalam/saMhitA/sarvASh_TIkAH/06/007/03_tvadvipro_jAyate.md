@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुव꣡द् वि꣡प्रो जायते वाजी꣡ अग्ने  
-तुव꣡द् वीरा꣡सो अभिमातिषा꣡हः  
-वइ꣡श्वानर तुव꣡म् अस्मा꣡सु धेहि  
-व꣡सूनि राजन् स्पृहया꣡यियाणि
+तुव᳓द् वि᳓प्रो जायते वाजी᳓ अग्ने  
+तुव᳓द् वीरा᳓सो अभिमातिषा᳓हः  
+वइ᳓श्वानर तुव᳓म् अस्मा᳓सु धेहि  
+व᳓सूनि राजन् स्पृहया᳓यियाणि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -202,7 +202,7 @@ _________
 
 From you is born the inspired poet who wins the prize, o Agni; from you  the heroes vanquishing hostility.  
 O Vaiśvānara, establish in us goods to be craved, o king.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md">

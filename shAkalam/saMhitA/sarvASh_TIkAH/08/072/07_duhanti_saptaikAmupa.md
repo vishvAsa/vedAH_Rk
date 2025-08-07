@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दुह꣡न्ति सप्त꣡ ए꣡काम्  
-उ꣡प द्वा꣡ प꣡ञ्च सृजतः  
-तीर्थे꣡ सि꣡न्धोर् अ꣡धि स्वरे꣡
+दुह᳓न्ति सप्त᳓ ए᳓काम्  
+उ᳓प द्वा᳓ प᳓ञ्च सृजतः  
+तीर्थे᳓ सि᳓न्धोर् अ᳓धि स्वरे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

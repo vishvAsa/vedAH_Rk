@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ उद्नः꣡ फलिग꣡म् भिन꣡न्  
-नि꣡अक् सि꣡न्धूँर् अवा꣡सृजत्  
-यो꣡ गो꣡षु पक्वं꣡ धार꣡यत्
+य᳓ उद्नः᳓ फलिग᳓म् भिन᳓न्  
+नि᳓अक् सि᳓न्धूँर् अवा᳓सृजत्  
+यो᳓ गो᳓षु पक्वं᳓ धार᳓यत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

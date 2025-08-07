@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ प्यायस्व स꣡म् एतु ते  
-विश्व꣡तः सोम वृ꣡ष्णियम्  
-भ꣡वा वा꣡जस्य संगथे꣡
+आ᳓ प्यायस्व स᳓म् एतु ते  
+विश्व᳓तः सोम वृ᳓ष्णियम्  
+भ᳓वा वा᳓जस्य संगथे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

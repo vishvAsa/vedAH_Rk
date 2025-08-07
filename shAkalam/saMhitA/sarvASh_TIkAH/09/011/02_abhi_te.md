@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ ते म꣡धुना प꣡यो  
-अ꣡थर्वाणो अशिश्रयुः  
-देवं꣡ देवा꣡य देवयु꣡
+अभि᳓ ते म᳓धुना प᳓यो  
+अ᳓थर्वाणो अशिश्रयुः  
+देवं᳓ देवा᳓य देवयु᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

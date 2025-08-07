@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभी꣡ षु꣡ णस् तुवं꣡ रयि꣡म्  
-मन्दसानः꣡ सहस्रि꣡णम्  
-प्रयन्ता꣡ बोधि दाशु꣡षे
+अभी᳓ षु᳓ णस् तुवं᳓ रयि᳓म्  
+मन्दसानः᳓ सहस्रि᳓णम्  
+प्रयन्ता᳓ बोधि दाशु᳓षे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

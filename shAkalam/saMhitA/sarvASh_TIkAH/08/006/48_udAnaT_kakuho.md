@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् आनट् ककुहो꣡ दि꣡वम्  
-उ꣡ष्ट्राञ् चतुर्यु꣡जो द꣡दत्  
-श्र꣡वसा या꣡दुवं ज꣡नम्
+उ᳓द् आनट् ककुहो᳓ दि᳓वम्  
+उ᳓ष्ट्राञ् चतुर्यु᳓जो द᳓दत्  
+श्र᳓वसा या᳓दुवं ज᳓नम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

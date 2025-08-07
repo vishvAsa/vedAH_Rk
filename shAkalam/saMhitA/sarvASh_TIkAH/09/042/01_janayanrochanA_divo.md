@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-जन꣡यन् रोचना꣡ दिवो꣡  
-जन꣡यन्न् अप्सु꣡ सू꣡रियम्  
-व꣡सानो गा꣡ अपो꣡ ह꣡रिः
+जन᳓यन् रोचना᳓ दिवो᳓  
+जन᳓यन्न् अप्सु᳓ सू᳓रियम्  
+व᳓सानो गा᳓ अपो᳓ ह᳓रिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रो दीर्घा꣡य च꣡क्षस  
-आ꣡ सू꣡र्यं रोहयद् दिवि꣡  
-वि꣡ गो꣡भिर् अ꣡द्रिम् ऐरयत्
+इ᳓न्द्रो दीर्घा᳓य च᳓क्षस  
+आ᳓ सू᳓र्यं रोहयद् दिवि᳓  
+वि᳓ गो᳓भिर् अ᳓द्रिम् ऐरयत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

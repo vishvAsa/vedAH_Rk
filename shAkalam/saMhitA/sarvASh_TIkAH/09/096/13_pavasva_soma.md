@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व सोम म꣡धुमाँ ऋता꣡वा  
-अपो꣡ व꣡सानो अ꣡धि सा꣡नो अ꣡व्ये  
-अ꣡व द्रो꣡णानि घृत꣡वान्ति सीद  
-मदि꣡न्तमो मत्सर꣡ इन्द्रपा꣡नः
+प᳓वस्व सोम म᳓धुमाँ ऋता᳓वा  
+अपो᳓ व᳓सानो अ᳓धि सा᳓नो अ᳓व्ये  
+अ᳓व द्रो᳓णानि घृत᳓वान्ति सीद  
+मदि᳓न्तमो मत्सर᳓ इन्द्रपा᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -215,7 +215,7 @@ _________
 
 Purify yourself, Soma, rich in honey, following the truth, clothing  yourself in waters, on the sheep’s back.  
 Sit down in the cups full of ghee as the most elating, exhilarating drink  for Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/12-13.md">

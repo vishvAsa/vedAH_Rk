@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-घृते꣡नाग्निः꣡ स꣡म् अज्यते  
-म꣡धुप्रतीक आ꣡हुतः  
-रो꣡चमानो विभा꣡वसुः
+घृते᳓नाग्निः᳓ स᳓म् अज्यते  
+म᳓धुप्रतीक आ᳓हुतः  
+रो᳓चमानो विभा᳓वसुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

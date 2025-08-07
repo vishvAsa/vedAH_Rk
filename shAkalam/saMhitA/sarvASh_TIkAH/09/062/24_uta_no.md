@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ नो गो꣡मतीर् इ꣡षो  
-वि꣡श्वा अर्ष परिष्टु꣡भः  
-गृणानो꣡ जम꣡दग्निना
+उत᳓ नो गो᳓मतीर् इ᳓षो  
+वि᳓श्वा अर्ष परिष्टु᳓भः  
+गृणानो᳓ जम᳓दग्निना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

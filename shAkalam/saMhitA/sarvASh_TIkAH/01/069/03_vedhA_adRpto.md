@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वेधा꣡ अ꣡दृप्तो अग्नि꣡र् विजान꣡न्न्  
-ऊ꣡धर् न꣡ गो꣡नां स्वा꣡द्मा पितूना꣡म्
+वेधा᳓ अ᳓दृप्तो अग्नि᳓र् विजान᳓न्न्  
+ऊ᳓धर् न᳓ गो᳓नां स्वा᳓द्मा पितूना᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

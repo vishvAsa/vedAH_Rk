@@ -15,10 +15,10 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वे देवा꣡ नो अद्या꣡ सुअस्त꣡ये  
-वैश्वानरो꣡ व꣡सुर् अग्निः꣡ सुअस्त꣡ये  
-देवा꣡ अवन्तु ऋभ꣡वः सुअस्त꣡ये  
-सुअस्ति꣡ नो रुदरः꣡+ पातु अं꣡हसः
+वि᳓श्वे देवा᳓ नो अद्या᳓ सुअस्त᳓ये  
+वैश्वानरो᳓ व᳓सुर् अग्निः᳓ सुअस्त᳓ये  
+देवा᳓ अवन्तु ऋभ᳓वः सुअस्त᳓ये  
+सुअस्ति᳓ नो रुदरः᳓+ पातु अं᳓हसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -235,7 +235,7 @@ _________
 
 Let all the gods be there for us today, for well-being; let Vaiśvānara,  Vasu, Agni (be there) for well-being.  
 Let the gods, the R̥bhus give aid for (our) well-being. With well-being  let Rudra protect us from constraint.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">

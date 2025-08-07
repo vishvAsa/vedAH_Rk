@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कनीनके꣡व विद्रधे꣡  
-न꣡वे द्रुपदे꣡ अर्भके꣡  
-बभ्रू꣡ या꣡मेषु शोभेते
+कनीनके᳓व विद्रधे᳓  
+न᳓वे द्रुपदे᳓ अर्भके᳓  
+बभ्रू᳓ या᳓मेषु शोभेते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

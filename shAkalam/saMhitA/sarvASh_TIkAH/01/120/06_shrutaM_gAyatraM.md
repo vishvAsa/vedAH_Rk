@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-श्रुतं꣡ गायत्रं꣡ त꣡कवानस्य  
-अहं꣡ चिद् धि꣡ रिरे꣡भाश्विना वाम्  
-आ꣡ अक्षी꣡ शुभस् पती द꣡न्
+श्रुतं᳓ गायत्रं᳓ त᳓कवानस्य  
+अहं᳓ चिद् धि᳓ रिरे᳓भाश्विना वाम्  
+आ᳓ अक्षी᳓ शुभस् पती द᳓न्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

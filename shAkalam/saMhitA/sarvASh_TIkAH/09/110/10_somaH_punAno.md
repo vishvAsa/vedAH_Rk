@@ -15,9 +15,9 @@ ChandaH = "विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मः पुनानो꣡ अव्य꣡ये वा꣡रे  
-शि꣡शुर् न꣡ क्री꣡ळन् प꣡वमानो अक्षाः  
-सह꣡स्रधारः शत꣡वाज इ꣡न्दुः
+सो᳓मः पुनानो᳓ अव्य᳓ये वा᳓रे  
+शि᳓शुर् न᳓ क्री᳓ळन् प᳓वमानो अक्षाः  
+सह᳓स्रधारः शत᳓वाज इ᳓न्दुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -183,7 +183,7 @@ _________
 
 Self-purifying Soma, being purified in the sheep’s fleece, has streamed,  playing like a child—  
 the drop possessing a thousand streams and a hundred prizes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/10-12.md">

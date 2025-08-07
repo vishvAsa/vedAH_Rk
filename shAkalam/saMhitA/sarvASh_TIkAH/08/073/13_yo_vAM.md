@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ वां र꣡जांसि अश्विना  
-र꣡थो विया꣡ति रो꣡दसी  
-अ꣡न्ति षद् भूतु वाम् अ꣡वः
+यो᳓ वां र᳓जांसि अश्विना  
+र᳓थो विया᳓ति रो᳓दसी  
+अ᳓न्ति षद् भूतु वाम् अ᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

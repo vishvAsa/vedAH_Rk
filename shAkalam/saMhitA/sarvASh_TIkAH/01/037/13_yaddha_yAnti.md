@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् ध या᳐꣡न्ति मरु꣡तः  
-सं꣡ ह ब्रुवते अ꣡ध्वन् आ꣡  
-शृणो꣡ति क꣡श् चिद् एषा᳐म्
+य᳓द् ध या᳐᳓न्ति मरु᳓तः  
+सं᳓ ह ब्रुवते अ᳓ध्वन् आ᳓  
+शृणो᳓ति क᳓श् चिद् एषा᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

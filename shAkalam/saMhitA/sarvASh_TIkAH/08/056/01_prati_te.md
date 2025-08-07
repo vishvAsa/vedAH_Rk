@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ति ते दस्यवे वृक  
-रा꣡धो अदर्शि अ꣡ह्रयम्  
-दियउ꣡र् न꣡ प्रथिना꣡ श꣡वः
+प्र᳓ति ते दस्यवे वृक  
+रा᳓धो अदर्शि अ᳓ह्रयम्  
+दियउ᳓र् न᳓ प्रथिना᳓ श᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

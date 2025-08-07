@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ प्यायस्व मदिन्तम  
-सो꣡म वि꣡श्वेभिर् अंशु꣡भिः  
-भ꣡वा नः सुश्र꣡वस्तमः स꣡खा वृधे꣡
+आ᳓ प्यायस्व मदिन्तम  
+सो᳓म वि᳓श्वेभिर् अंशु᳓भिः  
+भ᳓वा नः सुश्र᳓वस्तमः स᳓खा वृधे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

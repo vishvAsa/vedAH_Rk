@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अ꣡ध्रिगावो अ꣡ध्रिगू  
-इदा꣡ चिद् अ꣡ह्नो अश्वि꣡ना ह꣡वामहे  
-वयं꣡ गीर्भि꣡र् विपन्य꣡वः
+य᳓द् अ᳓ध्रिगावो अ᳓ध्रिगू  
+इदा᳓ चिद् अ᳓ह्नो अश्वि᳓ना ह᳓वामहे  
+वयं᳓ गीर्भि᳓र् विपन्य᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

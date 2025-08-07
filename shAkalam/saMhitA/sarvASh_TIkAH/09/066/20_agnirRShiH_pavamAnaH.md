@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् ऋ꣡षिः प꣡वमानः  
-पा꣡ञ्चजन्यः पुरो꣡हितः  
-त꣡म् ईमहे महागय꣡म्
+अग्नि᳓र् ऋ᳓षिः प᳓वमानः  
+पा᳓ञ्चजन्यः पुरो᳓हितः  
+त᳓म् ईमहे महागय᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,7 +151,7 @@ Five orders: four **varṇas** and the **niṣāda**; or, the **gandharvas**, **
 
 Agni—a seer, self-purifying, belonging to the five peoples, installed  in front—  
 him we beseech for a great household.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इछ꣡न्न् अ꣡श्वस्य य꣡च् छि꣡रः  
-प꣡र्वतेषु अ꣡पश्रितम्  
-त꣡द् विदच् छर्यणा꣡वति
+इछ᳓न्न् अ᳓श्वस्य य᳓च् छि᳓रः  
+प᳓र्वतेषु अ᳓पश्रितम्  
+त᳓द् विदच् छर्यणा᳓वति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

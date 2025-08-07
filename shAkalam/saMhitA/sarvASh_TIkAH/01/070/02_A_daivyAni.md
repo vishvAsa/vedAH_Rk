@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ दइ꣡वियानि व्रता꣡ चिकित्वा꣡न्  
-आ꣡ मा꣡नुषस्य ज꣡नस्य ज꣡न्म
+आ᳓ दइ᳓वियानि व्रता᳓ चिकित्वा᳓न्  
+आ᳓ मा᳓नुषस्य ज᳓नस्य ज᳓न्म
 </details>
 
 <details><summary>Vedaweb annotation</summary>

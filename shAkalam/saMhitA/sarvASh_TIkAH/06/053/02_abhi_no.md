@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ नो न꣡रियं व꣡सु  
-वीर꣡म् प्र꣡यतदक्षिणम्  
-वामं꣡ गृह꣡पतिं नय
+अभि᳓ नो न᳓रियं व᳓सु  
+वीर᳓म् प्र᳓यतदक्षिणम्  
+वामं᳓ गृह᳓पतिं नय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋभुक्ष꣡णं न꣡ व꣡र्तव  
-उक्थे꣡षु तुग्रियावृ꣡धम्  
-इ꣡न्द्रं सो꣡मे स꣡चा सुते꣡
+ऋभुक्ष᳓णं न᳓ व᳓र्तव  
+उक्थे᳓षु तुग्रियावृ᳓धम्  
+इ᳓न्द्रं सो᳓मे स᳓चा सुते᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

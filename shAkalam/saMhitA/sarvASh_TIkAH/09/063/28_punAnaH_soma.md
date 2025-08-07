@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुनानः꣡ सोम धा꣡रया  
-इ꣡न्दो वि꣡श्वा अ꣡प स्रि꣡धः  
-जहि꣡ र꣡क्षांसि सुक्रतो
+पुनानः᳓ सोम धा᳓रया  
+इ᳓न्दो वि᳓श्वा अ᳓प स्रि᳓धः  
+जहि᳓ र᳓क्षांसि सुक्रतो
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -162,7 +162,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Becoming purified in a stream, o Soma drop, smash away all errors, away the demonic forces, o you of good resolve.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/28-30.md">

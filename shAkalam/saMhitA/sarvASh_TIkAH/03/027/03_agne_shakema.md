@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने शके꣡म ते वयं꣡  
-य꣡मं देव꣡स्य वाजि꣡नः  
-अ꣡ति द्वे꣡षांसि तरेम
+अ᳓ग्ने शके᳓म ते वयं᳓  
+य᳓मं देव᳓स्य वाजि᳓नः  
+अ᳓ति द्वे᳓षांसि तरेम
 </details>
 
 <details><summary>Vedaweb annotation</summary>

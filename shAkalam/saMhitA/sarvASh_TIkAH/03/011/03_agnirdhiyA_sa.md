@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् धिया꣡ स꣡ चेतति  
-केतु꣡र् यज्ञ꣡स्य पूर्वियः꣡  
-अ꣡र्थं हि꣡ अस्य तर꣡णि
+अग्नि᳓र् धिया᳓ स᳓ चेतति  
+केतु᳓र् यज्ञ᳓स्य पूर्वियः᳓  
+अ᳓र्थं हि᳓ अस्य तर᳓णि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

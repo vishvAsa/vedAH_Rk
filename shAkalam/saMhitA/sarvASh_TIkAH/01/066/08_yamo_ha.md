@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यमो꣡ ह जातो꣡ यमो꣡ ज꣡नित्वं  
-जारः꣡ कनी꣡नाम् प꣡तिर् ज꣡नीनाम्
+यमो᳓ ह जातो᳓ यमो᳓ ज᳓नित्वं  
+जारः᳓ कनी᳓नाम् प᳓तिर् ज᳓नीनाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यज्ञो꣡ हीळो꣡ वो अ꣡न्तर  
-आ꣡दित्या अ꣡स्ति मॄळ꣡त+  
-युष्मे꣡ इ꣡द् वो अ꣡पि ष्मसि सजाति꣡ये
+यज्ञो᳓ हीळो᳓ वो अ᳓न्तर  
+आ᳓दित्या अ᳓स्ति मॄळ᳓त+  
+युष्मे᳓ इ᳓द् वो अ᳓पि ष्मसि सजाति᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

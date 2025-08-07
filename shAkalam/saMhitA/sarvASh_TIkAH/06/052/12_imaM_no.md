@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमं꣡ नो अग्ने अध्वरं꣡  
-हो꣡तर् वयुनशो꣡ यज  
-चिकित्वा꣡न् दइ꣡वियं ज꣡नम्
+इमं᳓ नो अग्ने अध्वरं᳓  
+हो᳓तर् वयुनशो᳓ यज  
+चिकित्वा᳓न् दइ᳓वियं ज᳓नम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,7 +154,7 @@ _________
 
 O Agni, Hotar, perform this ceremony as sacrifice for us according to  its patterns,  
 as one who attends to the divine folk.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">

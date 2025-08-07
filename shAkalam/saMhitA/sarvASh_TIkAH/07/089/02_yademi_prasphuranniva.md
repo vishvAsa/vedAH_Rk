@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् ए꣡मि प्रस्फुर꣡न्न् इव  
-दृ꣡तिर् न꣡ ध्मातो꣡ अद्रिवः  
-मॄळा꣡+ सुक्षत्र मॄळ꣡य
+य᳓द् ए᳓मि प्रस्फुर᳓न्न् इव  
+दृ᳓तिर् न᳓ ध्मातो᳓ अद्रिवः  
+मॄळा᳓+ सुक्षत्र मॄळ᳓य
 </details>
 
 <details><summary>Vedaweb annotation</summary>

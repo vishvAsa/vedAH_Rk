@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्वा꣡हा यज्ञं꣡ कृणोतन  
-इ꣡न्द्राय य꣡ज्वनो गृहे꣡  
-त꣡त्र देवाँ꣡ उ꣡प ह्वये
+स्वा᳓हा यज्ञं᳓ कृणोतन  
+इ᳓न्द्राय य᳓ज्वनो गृहे᳓  
+त᳓त्र देवाँ᳓ उ᳓प ह्वये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

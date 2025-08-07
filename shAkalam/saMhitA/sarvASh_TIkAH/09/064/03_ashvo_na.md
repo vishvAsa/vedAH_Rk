@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡श्वो न꣡ चक्रदो वृ꣡षा  
-सं꣡ गा꣡ इन्दो स꣡म् अ꣡र्वतः  
-वि꣡ नो राये꣡ दु꣡रो वृधि
+अ᳓श्वो न᳓ चक्रदो वृ᳓षा  
+सं᳓ गा᳓ इन्दो स᳓म् अ᳓र्वतः  
+वि᳓ नो राये᳓ दु᳓रो वृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

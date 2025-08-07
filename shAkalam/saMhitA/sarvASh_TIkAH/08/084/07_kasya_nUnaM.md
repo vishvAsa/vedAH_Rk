@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡स्य नून꣡म् प꣡रीणसो  
-धि꣡यो जिन्वसि दम्पते  
-गो꣡षाता य꣡स्य ते गि꣡रः
+क᳓स्य नून᳓म् प᳓रीणसो  
+धि᳓यो जिन्वसि दम्पते  
+गो᳓षाता य᳓स्य ते गि᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

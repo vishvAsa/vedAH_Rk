@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त्र वे꣡त्थ वनस्पते  
-देवा꣡नां गु꣡ह्या ना꣡मानि  
-त꣡त्र हव्या꣡नि गामय
+य᳓त्र वे᳓त्थ वनस्पते  
+देवा᳓नां गु᳓ह्या ना᳓मानि  
+त᳓त्र हव्या᳓नि गामय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

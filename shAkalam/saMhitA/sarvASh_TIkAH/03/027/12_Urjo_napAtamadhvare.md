@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऊर्जो꣡ न꣡पातम् अध्वरे꣡  
-दीदिवां꣡सम् उ꣡प द्य꣡वि  
-अग्नि꣡म् ईळे कवि꣡क्रतुम्
+ऊर्जो᳓ न᳓पातम् अध्वरे᳓  
+दीदिवां᳓सम् उ᳓प द्य᳓वि  
+अग्नि᳓म् ईळे कवि᳓क्रतुम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

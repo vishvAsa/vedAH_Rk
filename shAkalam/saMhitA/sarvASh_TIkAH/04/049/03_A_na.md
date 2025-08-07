@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ न इन्द्राबृहस्पती  
-गृह꣡म् इ꣡न्द्रश् च गछतम्  
-सोमपा꣡ सो꣡मपीतये
+आ᳓ न इन्द्राबृहस्पती  
+गृह᳓म् इ᳓न्द्रश् च गछतम्  
+सोमपा᳓ सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

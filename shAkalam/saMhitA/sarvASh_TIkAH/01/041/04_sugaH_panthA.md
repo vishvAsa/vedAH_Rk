@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुगः꣡ प꣡न्था अनृक्षर꣡  
-आ꣡दित्यास ऋतं꣡ यते꣡  
-ना꣡त्रावखादो꣡ अस्ति वः
+सुगः᳓ प᳓न्था अनृक्षर᳓  
+आ᳓दित्यास ऋतं᳓ यते᳓  
+ना᳓त्रावखादो᳓ अस्ति वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

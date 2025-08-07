@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एना꣡ वि꣡श्वानि अर्य꣡ आ꣡  
-द्युम्ना꣡नि मा꣡नुषाणा᳐म्  
-सि꣡षासन्तो वनामहे
+एना᳓ वि᳓श्वानि अर्य᳓ आ᳓  
+द्युम्ना᳓नि मा᳓नुषाणा᳐म्  
+सि᳓षासन्तो वनामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -140,7 +140,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Seeking to gain all the brilliant things of humans from the stranger, with it we shall win them.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/10-12.md">

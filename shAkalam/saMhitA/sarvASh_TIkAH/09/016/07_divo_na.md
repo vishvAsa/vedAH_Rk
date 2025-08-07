@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दिवो꣡ न꣡ सा꣡नु पिप्यु꣡षी  
-धा꣡रा सुत꣡स्य वेध꣡सः  
-वृ꣡था पवि꣡त्रे अर्षति
+दिवो᳓ न᳓ सा᳓नु पिप्यु᳓षी  
+धा᳓रा सुत᳓स्य वेध᳓सः  
+वृ᳓था पवि᳓त्रे अर्षति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

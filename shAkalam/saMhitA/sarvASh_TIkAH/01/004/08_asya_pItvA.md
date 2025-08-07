@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्य꣡ पीत्वा꣡ शतक्रतो  
-घनो꣡ वृत्रा꣡णाम् अभवः  
-प्रा꣡वो वा꣡जेषु वाजि꣡नम्
+अस्य᳓ पीत्वा᳓ शतक्रतो  
+घनो᳓ वृत्रा᳓णाम् अभवः  
+प्रा᳓वो वा᳓जेषु वाजि᳓नम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

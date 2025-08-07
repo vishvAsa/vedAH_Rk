@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋज्र꣡म् उक्षणिया꣡यने  
-रजतं꣡ ह꣡रयाणे  
-र꣡थं युक्त꣡म् असनाम सुषा꣡मणि
+ऋज्र᳓म् उक्षणिया᳓यने  
+रजतं᳓ ह᳓रयाणे  
+र᳓थं युक्त᳓म् असनाम सुषा᳓मणि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

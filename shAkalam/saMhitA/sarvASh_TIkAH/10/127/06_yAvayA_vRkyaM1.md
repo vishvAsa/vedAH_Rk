@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-याव꣡या वृकि꣡यं वृ꣡कं  
-यव꣡य स्तेन꣡म् ऊर्मिये  
-अ꣡था नः सुत꣡रा भव
+याव᳓या वृकि᳓यं वृ᳓कं  
+यव᳓य स्तेन᳓म् ऊर्मिये  
+अ᳓था नः सुत᳓रा भव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

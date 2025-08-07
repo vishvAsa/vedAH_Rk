@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ यज्ञे꣡षु प्र꣡ शंसत  
-इन्द्राग्नी꣡ शुम्भता नरः  
-ता꣡ गायत्रे꣡षु गायत
+ता᳓ यज्ञे᳓षु प्र᳓ शंसत  
+इन्द्राग्नी᳓ शुम्भता नरः  
+ता᳓ गायत्रे᳓षु गायत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

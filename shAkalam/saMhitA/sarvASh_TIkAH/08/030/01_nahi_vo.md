@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नहि꣡ वो अ꣡स्ति अर्भको꣡  
-दे꣡वासो न꣡ कुमारकः꣡  
-वि꣡श्वे सतो꣡महान्त इ꣡त्
+नहि᳓ वो अ᳓स्ति अर्भको᳓  
+दे᳓वासो न᳓ कुमारकः᳓  
+वि᳓श्वे सतो᳓महान्त इ᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

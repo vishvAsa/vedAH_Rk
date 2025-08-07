@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-महो꣡ अ꣡र्णः स꣡रस्वती  
-प्र꣡ चेतयति केतु꣡ना  
-धि꣡यो वि꣡श्वा वि꣡ राजति
+महो᳓ अ᳓र्णः स᳓रस्वती  
+प्र᳓ चेतयति केतु᳓ना  
+धि᳓यो वि᳓श्वा वि᳓ राजति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

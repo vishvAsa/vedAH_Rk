@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡व्यो वा꣡रे प꣡रि प्रियो꣡  
-ह꣡रिर् व꣡नेषु सीदति  
-रेभो꣡ वनुष्यते मती꣡
+अ᳓व्यो वा᳓रे प᳓रि प्रियो᳓  
+ह᳓रिर् व᳓नेषु सीदति  
+रेभो᳓ वनुष्यते मती᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

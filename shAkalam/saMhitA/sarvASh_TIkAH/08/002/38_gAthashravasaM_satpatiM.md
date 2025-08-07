@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गाथ꣡श्रवसं स꣡त्पतिं  
-श्र꣡वस्कामम् पुरुत्मा꣡नम्  
-क꣡ण्वासो गात꣡ वाजि꣡नम्
+गाथ᳓श्रवसं स᳓त्पतिं  
+श्र᳓वस्कामम् पुरुत्मा᳓नम्  
+क᳓ण्वासो गात᳓ वाजि᳓नम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

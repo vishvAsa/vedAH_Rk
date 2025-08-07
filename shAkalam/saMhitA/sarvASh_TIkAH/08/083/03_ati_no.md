@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ति नो विष्पिता꣡ पुरु꣡  
-नौभि꣡र् अपो꣡ न꣡ पर्षथ  
-यूय꣡म् ऋत꣡स्य रथियः
+अ᳓ति नो विष्पिता᳓ पुरु᳓  
+नौभि᳓र् अपो᳓ न᳓ पर्षथ  
+यूय᳓म् ऋत᳓स्य रथियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

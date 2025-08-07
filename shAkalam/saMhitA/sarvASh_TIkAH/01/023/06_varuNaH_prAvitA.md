@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-व꣡रुणः प्राविता꣡ भुवन्  
-मित्रो꣡ वि꣡श्वाभिर् ऊति꣡भिः  
-क꣡रतां नः सुरा꣡धसः
+व᳓रुणः प्राविता᳓ भुवन्  
+मित्रो᳓ वि᳓श्वाभिर् ऊति᳓भिः  
+क᳓रतां नः सुरा᳓धसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

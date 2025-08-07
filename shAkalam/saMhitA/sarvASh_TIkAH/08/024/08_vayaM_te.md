@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वयं꣡ ते अस्य꣡ वृत्रहन्  
-विद्या꣡म शूर न꣡व्यसः  
-व꣡सो स्पार्ह꣡स्य पुरुहूत रा꣡धसः
+वयं᳓ ते अस्य᳓ वृत्रहन्  
+विद्या᳓म शूर न᳓व्यसः  
+व᳓सो स्पार्ह᳓स्य पुरुहूत रा᳓धसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

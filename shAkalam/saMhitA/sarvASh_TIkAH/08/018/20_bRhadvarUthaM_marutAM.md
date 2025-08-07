@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-बृह꣡द् व꣡रूथम् मरु꣡तां  
-देवं꣡ त्राता꣡रम् अश्वि꣡ना  
-मित्र꣡म् ईमहे व꣡रुणं सुअस्त꣡ये
+बृह᳓द् व᳓रूथम् मरु᳓तां  
+देवं᳓ त्राता᳓रम् अश्वि᳓ना  
+मित्र᳓म् ईमहे व᳓रुणं सुअस्त᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ देवा꣡नाम् अ꣡पि ह्नुतः  
-सुमतिं꣡ न꣡ जुगुक्षतः  
-श्र꣡वो बृह꣡द् विवासतः
+न᳓ देवा᳓नाम् अ᳓पि ह्नुतः  
+सुमतिं᳓ न᳓ जुगुक्षतः  
+श्र᳓वो बृह᳓द् विवासतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

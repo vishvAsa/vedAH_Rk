@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-एता꣡नि धी꣡रो निण्या꣡ चिकेत  
-पृ꣡श्निर् य꣡द् ऊ꣡धो मही꣡ जभा꣡र
+एता᳓नि धी᳓रो निण्या᳓ चिकेत  
+पृ᳓श्निर् य᳓द् ऊ᳓धो मही᳓ जभा᳓र
 </details>
 
 <details><summary>Vedaweb annotation</summary>

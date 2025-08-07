@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तु꣡भ्येमा꣡ भु꣡वना कवे  
-महिम्ने꣡ सोम तस्थिरे  
-तु꣡भ्यम् अर्षन्ति सि꣡न्धवः
+तु᳓भ्येमा᳓ भु᳓वना कवे  
+महिम्ने᳓ सोम तस्थिरे  
+तु᳓भ्यम् अर्षन्ति सि᳓न्धवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -161,7 +161,7 @@ I.e. these worlds honour you; the rivers observe your bidding
 For you, o poet, do these worlds here take their stand, for your  
 greatness, o Soma;  
 for you do the rivers rush.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/25-27.md">

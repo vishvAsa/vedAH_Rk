@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सह꣡स्रणीथाः कव꣡यो  
-ये꣡ गोपाय꣡न्ति सू꣡रियम्  
-ऋ꣡षीन् त꣡पस्वतो यम  
-तपोजाँ꣡ अ꣡पि गछतात्
+सह᳓स्रणीथाः कव᳓यो  
+ये᳓ गोपाय᳓न्ति सू᳓रियम्  
+ऋ᳓षीन् त᳓पस्वतो यम  
+तपोजाँ᳓ अ᳓पि गछतात्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

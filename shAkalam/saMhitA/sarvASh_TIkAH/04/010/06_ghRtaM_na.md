@@ -15,10 +15,10 @@ ChandaH = "पदपङ्क्तिः उष्णिग्वा"
 
 <details><summary>Thomson & Solcum</summary>
 
-घृतं꣡ न꣡ पूतं꣡  
-तनू꣡र् अरेपाः꣡  
-शु꣡चि हि꣡रण्यम्  
-त꣡त् ते रुक्मो꣡ न꣡ रोचत स्वधावः
+घृतं᳓ न᳓ पूतं᳓  
+तनू᳓र् अरेपाः᳓  
+शु᳓चि हि᳓रण्यम्  
+त᳓त् ते रुक्मो᳓ न᳓ रोचत स्वधावः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

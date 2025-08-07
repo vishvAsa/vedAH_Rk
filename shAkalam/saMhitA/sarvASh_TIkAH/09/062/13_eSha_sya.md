@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ स्य꣡ प꣡रि षिच्यते  
-मर्मृज्य꣡मान आयु꣡भिः  
-उरुगायः꣡ कवि꣡क्रतुः
+एष᳓ स्य᳓ प᳓रि षिच्यते  
+मर्मृज्य᳓मान आयु᳓भिः  
+उरुगायः᳓ कवि᳓क्रतुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -153,7 +153,7 @@ Having wise designs: kavikratuḥ = krāntaprajñaḥ krāntakarmo vā, possessi
 
 This one here is poured in circles, being continually groomed by  the Āyus,  
 the wide-going one with a poet’s purpose.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/13-15.md">

@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यमा꣡य सो꣡मं सुनुत  
-यमा꣡य जुहुता हविः꣡  
-यमं꣡ ह यज्ञो꣡ गछति  
-अग्नि꣡दूतो अ꣡रंकृतः
+यमा᳓य सो᳓मं सुनुत  
+यमा᳓य जुहुता हविः᳓  
+यमं᳓ ह यज्ञो᳓ गछति  
+अग्नि᳓दूतो अ᳓रंकृतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

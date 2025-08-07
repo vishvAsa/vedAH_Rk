@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-परायतीना꣡म् अ꣡नु एति पा꣡थ  
-आयतीना꣡म् प्रथमा꣡ श꣡श्वतीनाम्  
-विउछ꣡न्ती जीव꣡म् उदीर꣡यन्ति  
-उषा꣡ मृतं꣡ कं꣡ चन꣡ बोध꣡यन्ती
+परायतीना᳓म् अ᳓नु एति पा᳓थ  
+आयतीना᳓म् प्रथमा᳓ श᳓श्वतीनाम्  
+विउछ᳓न्ती जीव᳓म् उदीर᳓यन्ति  
+उषा᳓ मृतं᳓ कं᳓ चन᳓ बोध᳓यन्ती
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -207,7 +207,7 @@ Pāthontarikṣam (**Nirukta** 6.7)\] of the mornings that have passed, and firs
 She follows the troop of those who go away; she is the first of those  who, one by one, come hither—  
 Dawn, as she dawns forth, rousing up (every) living being, but  
 awakening no dead one at all.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">

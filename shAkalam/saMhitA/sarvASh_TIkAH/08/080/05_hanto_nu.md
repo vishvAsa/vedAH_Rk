@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ह꣡न्त ऊ नु꣡ कि꣡म् आससे  
-प्रथमं꣡ नो र꣡थं कृधि  
-उपमं꣡ वाजयु꣡ श्र꣡वः
+ह᳓न्त ऊ नु᳓ कि᳓म् आससे  
+प्रथमं᳓ नो र᳓थं कृधि  
+उपमं᳓ वाजयु᳓ श्र᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

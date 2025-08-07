@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-जो꣡षा सवितर् य꣡स्य ते  
-ह꣡रः शतं꣡ सवाँ꣡ अ꣡र्हति  
-पाहि꣡ नो दिद्यु꣡तः प꣡तन्त्याः
+जो᳓षा सवितर् य᳓स्य ते  
+ह᳓रः शतं᳓ सवाँ᳓ अ᳓र्हति  
+पाहि᳓ नो दिद्यु᳓तः प᳓तन्त्याः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

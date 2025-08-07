@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प प्रिय꣡म् प꣡निप्नतं  
-यु꣡वानम् आहुतीवृ꣡धम्  
-अ꣡गन्म बि꣡भ्रतो न꣡मः
+उ᳓प प्रिय᳓म् प᳓निप्नतं  
+यु᳓वानम् आहुतीवृ᳓धम्  
+अ᳓गन्म बि᳓भ्रतो न᳓मः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

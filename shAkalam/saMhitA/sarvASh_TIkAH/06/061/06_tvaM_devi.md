@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ देवि सरस्वति  
-अ꣡वा वा꣡जेषु वाजिनि  
-र꣡दा पूषे꣡व नः सनि꣡म्
+तुवं᳓ देवि सरस्वति  
+अ᳓वा वा᳓जेषु वाजिनि  
+र᳓दा पूषे᳓व नः सनि᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -161,7 +161,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Aid (him), goddess Sarasvatī, at the prize (contests), you prizewinner. Channel gain to us, like Pūṣan.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/04-06.md">

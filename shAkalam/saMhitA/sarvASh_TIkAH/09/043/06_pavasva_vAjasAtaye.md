@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व वा꣡जसातये  
-वि꣡प्रस्य गृणतो꣡ वृधे꣡  
-सो꣡म रा꣡स्व सुवी꣡रियम्
+प᳓वस्व वा᳓जसातये  
+वि᳓प्रस्य गृणतो᳓ वृधे᳓  
+सो᳓म रा᳓स्व सुवी᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

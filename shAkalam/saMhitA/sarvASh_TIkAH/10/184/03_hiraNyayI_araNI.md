@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-हिरण्य꣡यी अर꣡णी  
-यं꣡ निर्म꣡न्थतो अश्वि꣡ना  
-तं꣡ ते ग꣡र्भं हवामहे  
-दशमे꣡ मासि꣡ सू꣡तवे
+हिरण्य᳓यी अर᳓णी  
+यं᳓ निर्म᳓न्थतो अश्वि᳓ना  
+तं᳓ ते ग᳓र्भं हवामहे  
+दशमे᳓ मासि᳓ सू᳓तवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानम् अवस्यवो  
-वि꣡प्रम् अभि꣡ प्र꣡ गायत  
-सुष्वाणं꣡ देव꣡वीतये
+प᳓वमानम् अवस्यवो  
+वि᳓प्रम् अभि᳓ प्र᳓ गायत  
+सुष्वाणं᳓ देव᳓वीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

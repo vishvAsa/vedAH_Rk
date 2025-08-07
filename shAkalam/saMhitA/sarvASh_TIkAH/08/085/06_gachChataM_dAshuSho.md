@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ग꣡छतं दाशु꣡षो गृह꣡म्  
-इत्था꣡ स्तुवतो꣡ अश्विना  
-म꣡ध्वः सो꣡मस्य पीत꣡ये
+ग᳓छतं दाशु᳓षो गृह᳓म्  
+इत्था᳓ स्तुवतो᳓ अश्विना  
+म᳓ध्वः सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

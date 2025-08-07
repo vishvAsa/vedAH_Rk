@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡व तिये꣡ पितो र꣡सा  
-र꣡जांसि अ꣡नु वि꣡ष्ठिताः  
-दिवि꣡ वा꣡ता इव श्रिताः꣡
+त᳓व तिये᳓ पितो र᳓सा  
+र᳓जांसि अ᳓नु वि᳓ष्ठिताः  
+दिवि᳓ वा᳓ता इव श्रिताः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

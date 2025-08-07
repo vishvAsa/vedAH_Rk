@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्दुर् हिन्वानो꣡ अर्षति  
-तिरो꣡ वा꣡राणि अव्य꣡या  
-ह꣡रिर् वा꣡जम् अचिक्रदत्
+इ᳓न्दुर् हिन्वानो᳓ अर्षति  
+तिरो᳓ वा᳓राणि अव्य᳓या  
+ह᳓रिर् वा᳓जम् अचिक्रदत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -144,7 +144,7 @@ _________
 
 The drop, being impelled, rushes across the sheep’s fleece;  
 the tawny one has roared for the prize.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/04-06.md">

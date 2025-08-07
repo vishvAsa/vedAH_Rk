@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्माद् ऋते꣡ न꣡ सि꣡ध्यति  
-यज्ञो꣡ विपश्चि꣡तश् चन꣡  
-स꣡ धीनां꣡ यो꣡गम् इन्वति
+य᳓स्माद् ऋते᳓ न᳓ सि᳓ध्यति  
+यज्ञो᳓ विपश्चि᳓तश् चन᳓  
+स᳓ धीनां᳓ यो᳓गम् इन्वति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नो हेति꣡र् विव꣡स्वत  
-आ꣡दित्याः कृत्रि꣡मा श꣡रुः  
-पुरा꣡ नु꣡ जर꣡सो वधीत्
+मा᳓ नो हेति᳓र् विव᳓स्वत  
+आ᳓दित्याः कृत्रि᳓मा श᳓रुः  
+पुरा᳓ नु᳓ जर᳓सो वधीत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

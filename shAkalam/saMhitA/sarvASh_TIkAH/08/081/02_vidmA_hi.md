@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-विद्मा꣡ हि꣡ त्वा तुविकूर्मिं꣡  
-तुवि꣡देष्णं तुवी꣡मघम्  
-तुविमात्र꣡म् अ꣡वोभिः
+विद्मा᳓ हि᳓ त्वा तुविकूर्मिं᳓  
+तुवि᳓देष्णं तुवी᳓मघम्  
+तुविमात्र᳓म् अ᳓वोभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

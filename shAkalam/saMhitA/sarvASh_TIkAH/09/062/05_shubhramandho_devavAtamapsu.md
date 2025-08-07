@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शुभ्र꣡म् अ꣡न्धो देव꣡वातम्  
-अप्सु꣡ धूतो꣡ नृ꣡भिः सुतः꣡  
-स्व꣡दन्ति गा꣡वः प꣡योभिः
+शुभ्र᳓म् अ᳓न्धो देव᳓वातम्  
+अप्सु᳓ धूतो᳓ नृ᳓भिः सुतः᳓  
+स्व᳓दन्ति गा᳓वः प᳓योभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

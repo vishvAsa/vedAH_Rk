@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वा꣡यव् इ꣡न्द्रश् च शुष्मि꣡णा  
-सर꣡थं शवसस् पती  
-नियु꣡त्वन्ता न ऊत꣡य  
-आ꣡ यातं सो꣡मपीतये
+वा᳓यव् इ᳓न्द्रश् च शुष्मि᳓णा  
+सर᳓थं शवसस् पती  
+नियु᳓त्वन्ता न ऊत᳓य  
+आ᳓ यातं सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

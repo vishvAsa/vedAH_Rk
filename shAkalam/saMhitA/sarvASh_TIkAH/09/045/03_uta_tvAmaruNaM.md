@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ त्वा꣡म् अरुणं꣡ वयं꣡  
-गो꣡भिर् अञ्ज्मो म꣡दाय क꣡म्  
-वि꣡ नो राये꣡ दु꣡रो वृधि
+उत᳓ त्वा᳓म् अरुणं᳓ वयं᳓  
+गो᳓भिर् अञ्ज्मो म᳓दाय क᳓म्  
+वि᳓ नो राये᳓ दु᳓रो वृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

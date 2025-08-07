@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धुक्षत् पिप्यु꣡षीम् इ꣡षम्  
-ऊ꣡र्जं सप्त꣡पदीम् अरिः꣡  
-सू꣡र्यस्य सप्त꣡ रश्मि꣡भिः
+अ᳓धुक्षत् पिप्यु᳓षीम् इ᳓षम्  
+ऊ᳓र्जं सप्त᳓पदीम् अरिः᳓  
+सू᳓र्यस्य सप्त᳓ रश्मि᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

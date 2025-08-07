@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यदा꣡ सू꣡र्यम् अमुं꣡ दिवि꣡  
-शुक्रं꣡ ज्यो꣡तिर् अ꣡धारयः  
-आ꣡द् इ꣡त् ते वि꣡श्वा भु꣡वनानि येमिरे
+यदा᳓ सू᳓र्यम् अमुं᳓ दिवि᳓  
+शुक्रं᳓ ज्यो᳓तिर् अ᳓धारयः  
+आ᳓द् इ᳓त् ते वि᳓श्वा भु᳓वनानि येमिरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -184,7 +184,7 @@ _________
 
 When you fixed yonder sun, the blazing light, fast in heaven,  
 just after that all these worlds held themselves in submission to you.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/28-30.md">

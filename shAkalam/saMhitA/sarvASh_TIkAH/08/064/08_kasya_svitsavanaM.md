@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡स्य स्वित् स꣡वनं वृ꣡षा  
-जुजुष्वाँ꣡ अ꣡व गछति  
-इ꣡न्द्रं क꣡ उ स्विद् आ꣡ चके
+क᳓स्य स्वित् स᳓वनं वृ᳓षा  
+जुजुष्वाँ᳓ अ᳓व गछति  
+इ᳓न्द्रं क᳓ उ स्विद् आ᳓ चके
 </details>
 
 <details><summary>Vedaweb annotation</summary>

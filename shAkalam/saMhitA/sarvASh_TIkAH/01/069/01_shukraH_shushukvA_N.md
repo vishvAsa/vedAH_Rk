@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-शुक्रः꣡ शुशुक्वाँ꣡ उषो꣡ न꣡ जारः꣡  
-पप्रा꣡ समीची꣡ दिवो꣡ न꣡ ज्यो꣡तिः
+शुक्रः᳓ शुशुक्वाँ᳓ उषो᳓ न᳓ जारः᳓  
+पप्रा᳓ समीची᳓ दिवो᳓ न᳓ ज्यो᳓तिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

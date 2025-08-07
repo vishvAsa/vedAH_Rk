@@ -15,10 +15,10 @@ ChandaH = "विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡विदद् द꣡क्षम् मित्रो꣡ न꣡वीयान्  
-पपानो꣡ देवे꣡भ्यो व꣡स्यो अचैत्  
-ससवा꣡न् स्तौला꣡भिर् धौत꣡रीभिर्  
-उरुष्या꣡ पायु꣡र् अभवत् स꣡खिभ्यः
+अ᳓विदद् द᳓क्षम् मित्रो᳓ न᳓वीयान्  
+पपानो᳓ देवे᳓भ्यो व᳓स्यो अचैत्  
+ससवा᳓न् स्तौला᳓भिर् धौत᳓रीभिर्  
+उरुष्या᳓ पायु᳓र् अभवत् स᳓खिभ्यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -208,7 +208,7 @@ Implied: vaḍavābhiḥ **yuktaḥ**, joined with such mares; epithets, though 
 Our newer ally [=Soma] has found the skill. Having been drunk, he has  perceived what is better for the gods.  
 Having won with the brawny racers [?], in making broad shelter he  
 became a protector for his comrades.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

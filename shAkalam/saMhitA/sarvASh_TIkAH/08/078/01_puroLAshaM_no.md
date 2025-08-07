@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरोळा꣡शं नो अ꣡न्धस  
-इ꣡न्द्र सह꣡स्रम् आ꣡ भर  
-शता꣡ च शूर गो꣡ना᳐म्
+पुरोळा᳓शं नो अ᳓न्धस  
+इ᳓न्द्र सह᳓स्रम् आ᳓ भर  
+शता᳓ च शूर गो᳓ना᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

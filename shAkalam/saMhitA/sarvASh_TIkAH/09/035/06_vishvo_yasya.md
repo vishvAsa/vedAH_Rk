@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वो य꣡स्य व्रते꣡ ज꣡नो  
-दाधा꣡र ध꣡र्मणस् प꣡तेः  
-पुनान꣡स्य प्रभू꣡वसोः
+वि᳓श्वो य᳓स्य व्रते᳓ ज᳓नो  
+दाधा᳓र ध᳓र्मणस् प᳓तेः  
+पुनान᳓स्य प्रभू᳓वसोः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

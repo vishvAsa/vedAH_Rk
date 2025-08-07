@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आयजी꣡ वाजसा꣡तमा  
-ता꣡ हि꣡ उच्चा꣡ विजर्भृतः꣡  
-ह꣡री ऽवा꣡न्धांसि° ब꣡प्सता
+आयजी᳓ वाजसा᳓तमा  
+ता᳓ हि᳓ उच्चा᳓ विजर्भृतः᳓  
+ह᳓री ऽवा᳓न्धांसि° ब᳓प्सता
 </details>
 
 <details><summary>Vedaweb annotation</summary>

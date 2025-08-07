@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ देवो꣡ विपन्यु꣡भिः  
-प꣡वमान ऋतायु꣡भिः  
-ह꣡रिर् वा꣡जाय मृज्यते
+एष᳓ देवो᳓ विपन्यु᳓भिः  
+प᳓वमान ऋतायु᳓भिः  
+ह᳓रिर् वा᳓जाय मृज्यते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

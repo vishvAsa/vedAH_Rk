@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् अस्य शु꣡ष्माद् भानु꣡र् न꣡ आर्त  
-बि꣡भर्ति भार꣡म् पृथिवी꣡ न꣡ भू꣡म
+उ᳓द् अस्य शु᳓ष्माद् भानु᳓र् न᳓ आर्त  
+बि᳓भर्ति भार᳓म् पृथिवी᳓ न᳓ भू᳓म
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "वर्धमाना"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुव꣡म् असि प्रश꣡सियो  
-विद꣡थेषु सहन्तिय  
-अ꣡ग्ने रथी꣡र् अध्वरा꣡णाम्
+तुव᳓म् असि प्रश᳓सियो  
+विद᳓थेषु सहन्तिय  
+अ᳓ग्ने रथी᳓र् अध्वरा᳓णाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

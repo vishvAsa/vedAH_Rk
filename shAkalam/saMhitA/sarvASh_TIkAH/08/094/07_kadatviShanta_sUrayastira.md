@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡द् अत्विषन्त सूर꣡यस्  
-तिर꣡ आ꣡प इव स्रि꣡धः  
-अ꣡र्षन्ति पूत꣡दक्षसः
+क᳓द् अत्विषन्त सूर᳓यस्  
+तिर᳓ आ᳓प इव स्रि᳓धः  
+अ᳓र्षन्ति पूत᳓दक्षसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -148,7 +148,7 @@ _________
 
 Have the patrons [=Maruts] grown excited? Like the waters they rush  beyond failures,  
 the (Maruts) of refined skill.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/07-08.md">

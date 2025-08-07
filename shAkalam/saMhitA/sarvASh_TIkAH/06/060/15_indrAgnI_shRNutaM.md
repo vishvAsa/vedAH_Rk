@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राग्नी शृणुतं꣡ ह꣡वं  
-य꣡जमानस्य सुन्वतः꣡  
-वीतं꣡ हव्या꣡नि आ꣡ गतम्  
-पि꣡बतं सोमिय꣡म् म꣡धु
+इ᳓न्द्राग्नी शृणुतं᳓ ह᳓वं  
+य᳓जमानस्य सुन्वतः᳓  
+वीतं᳓ हव्या᳓नि आ᳓ गतम्  
+पि᳓बतं सोमिय᳓म् म᳓धु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -183,7 +183,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 O Indra and Agni, hear the call of the sacrificer who presses (soma). Pursue his oblations: come here, drink the somian honey.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/13-15.md">

@@ -15,9 +15,9 @@ ChandaH = "पादनिचृत्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ श꣡र्म प꣡र्वतानां᳐  
-वृणीम꣡हे नदी꣡ना᳐म्  
-आ꣡ वि꣡ष्णोः सचाभु꣡वः
+आ᳓ श᳓र्म प᳓र्वतानां᳐  
+वृणीम᳓हे नदी᳓ना᳐म्  
+आ᳓ वि᳓ष्णोः सचाभु᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

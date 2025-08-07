@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्वा꣡दो पितो म꣡धो पितो  
-वयं꣡ तुवा ववृमहे  
-अस्मा꣡कम् अविता꣡ भव
+स्वा᳓दो पितो म᳓धो पितो  
+वयं᳓ तुवा ववृमहे  
+अस्मा᳓कम् अविता᳓ भव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

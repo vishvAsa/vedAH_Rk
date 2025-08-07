@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ ह वाम् म꣡धुनो दृ꣡तिर्  
-आ꣡हितो रथच꣡र्षणे  
-त꣡तः पिबतम् अश्विना
+यो᳓ ह वाम् म᳓धुनो दृ᳓तिर्  
+आ᳓हितो रथच᳓र्षणे  
+त᳓तः पिबतम् अश्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

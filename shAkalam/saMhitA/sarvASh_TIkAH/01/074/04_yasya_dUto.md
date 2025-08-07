@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य दूतो꣡ अ꣡सि क्ष꣡ये  
-वे꣡षि हव्या꣡नि वीत꣡ये  
-दस्म꣡त् कृणो꣡षि अध्वर꣡म्
+य᳓स्य दूतो᳓ अ᳓सि क्ष᳓ये  
+वे᳓षि हव्या᳓नि वीत᳓ये  
+दस्म᳓त् कृणो᳓षि अध्वर᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

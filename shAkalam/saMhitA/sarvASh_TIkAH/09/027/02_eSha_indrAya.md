@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ इ꣡न्द्राय वाय꣡वे  
-सुवर्जि꣡त् प꣡रि षिच्यते  
-पवि꣡त्रे दक्षसा꣡धनः
+एष᳓ इ᳓न्द्राय वाय᳓वे  
+सुवर्जि᳓त् प᳓रि षिच्यते  
+पवि᳓त्रे दक्षसा᳓धनः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

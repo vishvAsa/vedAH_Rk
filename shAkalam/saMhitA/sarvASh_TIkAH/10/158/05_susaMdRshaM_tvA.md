@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुसंदृ꣡शं तुवा वय꣡म्  
-प्र꣡ति पश्येम सूरिय  
-वि꣡ पश्येम नृच꣡क्षसः
+सुसंदृ᳓शं तुवा वय᳓म्  
+प्र᳓ति पश्येम सूरिय  
+वि᳓ पश्येम नृच᳓क्षसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

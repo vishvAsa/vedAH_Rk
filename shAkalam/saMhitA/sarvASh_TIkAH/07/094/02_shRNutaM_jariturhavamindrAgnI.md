@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शृणुतं꣡ जरितु꣡र् ह꣡वम्  
-इ꣡न्द्राग्नी व꣡नतं गि꣡रः  
-ईशाना꣡ पिप्यतं धि꣡यः
+शृणुतं᳓ जरितु᳓र् ह᳓वम्  
+इ᳓न्द्राग्नी व᳓नतं गि᳓रः  
+ईशाना᳓ पिप्यतं धि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

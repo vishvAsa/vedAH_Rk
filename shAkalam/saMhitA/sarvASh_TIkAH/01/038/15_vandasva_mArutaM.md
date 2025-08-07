@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-व꣡न्दस्व मा꣡रुतं गणं꣡  
-त्वेष꣡म् पनस्यु꣡म् अर्कि꣡णम्  
-अस्मे꣡ वृद्धा꣡ असन्न् इह꣡
+व᳓न्दस्व मा᳓रुतं गणं᳓  
+त्वेष᳓म् पनस्यु᳓म् अर्कि᳓णम्  
+अस्मे᳓ वृद्धा᳓ असन्न् इह᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

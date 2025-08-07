@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मो अर्षति धर्णसि꣡र्  
-द꣡धान इन्द्रियं꣡ र꣡सम्  
-सुवी꣡रो अभिशस्तिपाः꣡
+सो᳓मो अर्षति धर्णसि᳓र्  
+द᳓धान इन्द्रियं᳓ र᳓सम्  
+सुवी᳓रो अभिशस्तिपाः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

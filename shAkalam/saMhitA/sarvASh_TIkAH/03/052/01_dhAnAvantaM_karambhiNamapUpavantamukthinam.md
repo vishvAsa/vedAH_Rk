@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-धाना꣡वन्तं करम्भि꣡णम्  
-अपूप꣡वन्तम् उक्थि꣡नम्  
-इ꣡न्द्र प्रात꣡र् जुषस्व नः
+धाना᳓वन्तं करम्भि᳓णम्  
+अपूप᳓वन्तम् उक्थि᳓नम्  
+इ᳓न्द्र प्रात᳓र् जुषस्व नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

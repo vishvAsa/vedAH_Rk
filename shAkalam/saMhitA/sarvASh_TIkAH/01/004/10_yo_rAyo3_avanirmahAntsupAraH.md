@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ रायो꣡ अव꣡निर् महा꣡न्  
-सुपारः꣡ सुन्वतः꣡ स꣡खा  
-त꣡स्मा इ꣡न्द्राय गायत
+यो᳓ रायो᳓ अव᳓निर् महा᳓न्  
+सुपारः᳓ सुन्वतः᳓ स᳓खा  
+त᳓स्मा इ᳓न्द्राय गायत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

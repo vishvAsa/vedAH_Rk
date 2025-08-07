@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुविग्री꣡वो वपो꣡दरः  
-सुबाहु꣡र् अ꣡न्धसो म꣡दे  
-इ꣡न्द्रो वृत्रा꣡णि जिघ्नते
+तुविग्री᳓वो वपो᳓दरः  
+सुबाहु᳓र् अ᳓न्धसो म᳓दे  
+इ᳓न्द्रो वृत्रा᳓णि जिघ्नते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

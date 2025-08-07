@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ द꣡क्षाय सा꣡धनो  
-अयं꣡ श꣡र्धाय वीत꣡ये  
-अयं꣡ देवे꣡भ्यो म꣡धुमत्तमः सुतः꣡
+अयं᳓ द᳓क्षाय सा᳓धनो  
+अयं᳓ श᳓र्धाय वीत᳓ये  
+अयं᳓ देवे᳓भ्यो म᳓धुमत्तमः सुतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानो असिष्यदद्  
-र꣡क्षांसि अपज꣡ङ्घनत्  
-प्रत्नव꣡द् रोच꣡यन् रु꣡चः
+प᳓वमानो असिष्यदद्  
+र᳓क्षांसि अपज᳓ङ्घनत्  
+प्रत्नव᳓द् रोच᳓यन् रु᳓चः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

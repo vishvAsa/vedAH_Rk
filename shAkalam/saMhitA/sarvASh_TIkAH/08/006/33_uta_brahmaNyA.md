@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ ब्रह्मणिया꣡ वयं꣡  
-तु꣡भ्यम् प्रवृद्ध वज्रिवः  
-वि꣡प्रा अतक्ष्म जीव꣡से
+उत᳓ ब्रह्मणिया᳓ वयं᳓  
+तु᳓भ्यम् प्रवृद्ध वज्रिवः  
+वि᳓प्रा अतक्ष्म जीव᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>

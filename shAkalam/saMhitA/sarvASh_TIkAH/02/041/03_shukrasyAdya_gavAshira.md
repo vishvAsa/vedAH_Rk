@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-शुक्र꣡स्याद्य꣡ ग꣡वाशिर  
-इ꣡न्द्रवायू नियु꣡त्वतः  
-आ꣡ यातम् पि꣡बतं नरा
+शुक्र᳓स्याद्य᳓ ग᳓वाशिर  
+इ᳓न्द्रवायू नियु᳓त्वतः  
+आ᳓ यातम् पि᳓बतं नरा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऊर्मि꣡र् य꣡स् ते पवि꣡त्र आ꣡  
-देवावीः꣡ परिअ꣡क्षरत्  
-सी꣡दन्न् ऋत꣡स्य यो꣡निम् आ꣡
+ऊर्मि᳓र् य᳓स् ते पवि᳓त्र आ᳓  
+देवावीः᳓ परिअ᳓क्षरत्  
+सी᳓दन्न् ऋत᳓स्य यो᳓निम् आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

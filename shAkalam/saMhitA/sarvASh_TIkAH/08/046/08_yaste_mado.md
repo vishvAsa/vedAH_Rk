@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स् ते म꣡दो व꣡रेणियो  
-य꣡ इन्द्र वृत्रह꣡न्तमः  
-य꣡ आददिः꣡ सु꣡वर् नृ꣡भिर्  
-यः꣡ पृ꣡तनासु दुष्ट꣡रः
+य᳓स् ते म᳓दो व᳓रेणियो  
+य᳓ इन्द्र वृत्रह᳓न्तमः  
+य᳓ आददिः᳓ सु᳓वर् नृ᳓भिर्  
+यः᳓ पृ᳓तनासु दुष्ट᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -203,7 +203,7 @@ From men: nṛbhiḥ = śatrubhyaḥ, from your foes
 
 Your exhilaration, which is worthy to be chosen, which is the most  Vr̥tra-smiting, o Indra,  
 which with superior men takes the sun, which is difficult to surpass in  battles—
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/046/08-09.md">

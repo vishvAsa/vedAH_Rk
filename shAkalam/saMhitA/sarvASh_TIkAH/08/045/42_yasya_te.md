@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य ते विश्व꣡मानुषो  
-भू꣡रेर् दत्त꣡स्य वे꣡दति  
-व꣡सु स्पार्हं꣡ त꣡द् आ꣡ भर
+य᳓स्य ते विश्व᳓मानुषो  
+भू᳓रेर् दत्त᳓स्य वे᳓दति  
+व᳓सु स्पार्हं᳓ त᳓द् आ᳓ भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>

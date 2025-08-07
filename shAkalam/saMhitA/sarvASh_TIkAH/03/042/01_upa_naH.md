@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प नः सुत꣡म् आ꣡ गहि  
-सो꣡मम् इन्द्र ग꣡वाशिरम्  
-ह꣡रिभ्यां य꣡स् ते अस्मयुः꣡
+उ᳓प नः सुत᳓म् आ᳓ गहि  
+सो᳓मम् इन्द्र ग᳓वाशिरम्  
+ह᳓रिभ्यां य᳓स् ते अस्मयुः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

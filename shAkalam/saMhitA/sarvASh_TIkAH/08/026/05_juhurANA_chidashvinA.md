@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-जुहुराणा꣡ चिद् अश्विना  
-आ꣡ मन्येथां वृषण्वसू  
-युवं꣡ हि꣡ रुद्रा प꣡र्षथो अ꣡ति द्वि꣡षः
+जुहुराणा᳓ चिद् अश्विना  
+आ᳓ मन्येथां वृषण्वसू  
+युवं᳓ हि᳓ रुद्रा प᳓र्षथो अ᳓ति द्वि᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

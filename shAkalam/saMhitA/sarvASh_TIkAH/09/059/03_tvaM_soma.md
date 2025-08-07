@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सोम प꣡वमानो  
-वि꣡श्वानि दुरिता꣡ तर  
-कविः꣡ सीद नि꣡ बर्हि꣡षि
+तुवं᳓ सोम प᳓वमानो  
+वि᳓श्वानि दुरिता᳓ तर  
+कविः᳓ सीद नि᳓ बर्हि᳓षि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

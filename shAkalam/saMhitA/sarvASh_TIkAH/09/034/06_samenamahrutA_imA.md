@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् एनम् अ꣡ह्रुता इमा꣡  
-गि꣡रो अर्षन्ति सस्रु꣡तः  
-धेनू꣡र् वाश्रो꣡ अवीवशत्
+स᳓म् एनम् अ᳓ह्रुता इमा᳓  
+गि᳓रो अर्षन्ति सस्रु᳓तः  
+धेनू᳓र् वाश्रो᳓ अवीवशत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

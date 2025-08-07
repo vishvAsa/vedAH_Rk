@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ अन्त꣡रिक्षम् अतिरन्  
-म꣡दे सो꣡मस्य रोचना꣡  
-इ꣡न्द्रो य꣡द् अ꣡भिनद् वल꣡म्
+वि᳓ अन्त᳓रिक्षम् अतिरन्  
+म᳓दे सो᳓मस्य रोचना᳓  
+इ᳓न्द्रो य᳓द् अ᳓भिनद् वल᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

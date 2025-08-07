@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ धूर्षु꣡ अस्मै द꣡धात अ꣡श्वान्  
-इ꣡न्द्रो न꣡ वज्री꣡ हि꣡रण्यबाहुः
+आ᳓ धूर्षु᳓ अस्मै द᳓धात अ᳓श्वान्  
+इ᳓न्द्रो न᳓ वज्री᳓ हि᳓रण्यबाहुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वते हर्यतो꣡ ह꣡रिर्  
-अ꣡ति ह्व꣡रांसि रं꣡हिया  
-अभिअ꣡र्षन् स्तोतृ꣡भ्यो वीर꣡वद् य꣡शः
+प᳓वते हर्यतो᳓ ह᳓रिर्  
+अ᳓ति ह्व᳓रांसि रं᳓हिया  
+अभिअ᳓र्षन् स्तोतृ᳓भ्यो वीर᳓वद् य᳓शः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

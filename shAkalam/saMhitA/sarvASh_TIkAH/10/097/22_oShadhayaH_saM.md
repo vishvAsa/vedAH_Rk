@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ओ꣡षधयः सं꣡ वदन्ते  
-सो꣡मेन सह꣡ रा꣡जञा  
-य꣡स्मै कृणो꣡ति ब्राह्मण꣡स्  
-तं꣡ राजन् पारयामसि
+ओ᳓षधयः सं᳓ वदन्ते  
+सो᳓मेन सह᳓ रा᳓जञा  
+य᳓स्मै कृणो᳓ति ब्राह्मण᳓स्  
+तं᳓ राजन् पारयामसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

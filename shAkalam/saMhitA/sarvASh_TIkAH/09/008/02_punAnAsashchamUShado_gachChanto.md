@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुनाना꣡सश् चमूष꣡दो  
-ग꣡छन्तो वायु꣡म् अश्वि꣡ना  
-ते꣡ नो धान्तु सुवी꣡रियम्
+पुनाना᳓सश् चमूष᳓दो  
+ग᳓छन्तो वायु᳓म् अश्वि᳓ना  
+ते᳓ नो धान्तु सुवी᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

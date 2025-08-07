@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-गीर्भि꣡र् वि꣡प्रः प्र꣡मतिम् इछ꣡मान  
-ई꣡ट्टे रयिं꣡ यश꣡सम् पूर्वभा꣡जम्  
-इ꣡न्द्रअग्नी वृत्रहणा सुवज्रा  
-प्र꣡ नो न꣡व्येभिस् तिरतं दयिष्णइः꣡+
+गीर्भि᳓र् वि᳓प्रः प्र᳓मतिम् इछ᳓मान  
+ई᳓ट्टे रयिं᳓ यश᳓सम् पूर्वभा᳓जम्  
+इ᳓न्द्रअग्नी वृत्रहणा सुवज्रा  
+प्र᳓ नो न᳓व्येभिस् तिरतं दयिष्णइः᳓+
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -235,7 +235,7 @@ Formerly enjoyed riches: i.e. riches desirable even in older time, pūrvam eva s
 <details><summary>Jamison Brereton</summary>
 
 With his hymns the inspired poet seeking your solicitude reverently  invokes (you) for glorious wealth that provides the foremost portion. Indra and Agni, smiters of Vr̥tra, possessing good maces, further us with  new gifts.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/093/03-04.md">

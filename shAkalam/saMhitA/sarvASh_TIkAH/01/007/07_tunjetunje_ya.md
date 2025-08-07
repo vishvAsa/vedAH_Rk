@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुञ्जे꣡-तुञ्जे य꣡ उ꣡त्तरे  
-स्तो꣡मा इ꣡न्द्रस्य वज्रि꣡णः  
-न꣡ विन्धे अस्य सुष्टुति꣡म्
+तुञ्जे᳓-तुञ्जे य᳓ उ᳓त्तरे  
+स्तो᳓मा इ᳓न्द्रस्य वज्रि᳓णः  
+न᳓ विन्धे अस्य सुष्टुति᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

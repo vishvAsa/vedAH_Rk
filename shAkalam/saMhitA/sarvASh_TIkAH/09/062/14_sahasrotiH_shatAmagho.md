@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सह꣡स्रोतिः शता꣡मघो  
-विमा꣡नो र꣡जसः कविः꣡  
-इ꣡न्द्राय पवते म꣡दः
+सह᳓स्रोतिः शता᳓मघो  
+विमा᳓नो र᳓जसः कविः᳓  
+इ᳓न्द्राय पवते म᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -144,7 +144,7 @@ _________
 
 Possessing a thousand forms of help, a hundred bounties, measurer of  the airy realm, poet—  
 the exhilarating drink purifies himself for Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/13-15.md">

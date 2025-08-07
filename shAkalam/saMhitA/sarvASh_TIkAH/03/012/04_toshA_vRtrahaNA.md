@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तोशा꣡ वृत्रह꣡णा हुवे  
-सजि꣡त्वाना꣡पराजिता  
-इन्द्राग्नी꣡ वाजसा꣡तमा
+तोशा᳓ वृत्रह᳓णा हुवे  
+सजि᳓त्वाना᳓पराजिता  
+इन्द्राग्नी᳓ वाजसा᳓तमा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

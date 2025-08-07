@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि सो꣡म ऋत꣡म् बृह꣡द्  
-आशुः꣡ पवि꣡त्रे अर्षति  
-विघ्न꣡न् र꣡क्षांसि देवयुः꣡
+प᳓रि सो᳓म ऋत᳓म् बृह᳓द्  
+आशुः᳓ पवि᳓त्रे अर्षति  
+विघ्न᳓न् र᳓क्षांसि देवयुः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

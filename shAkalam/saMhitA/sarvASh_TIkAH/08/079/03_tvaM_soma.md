@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सोम तनूकृ꣡द्भ्यो  
-द्वे꣡षोभ्यो अन्य꣡कृतेभ्यः  
-उरु꣡ यन्ता꣡सि व꣡रूथम्
+तुवं᳓ सोम तनूकृ᳓द्भ्यो  
+द्वे᳓षोभ्यो अन्य᳓कृतेभ्यः  
+उरु᳓ यन्ता᳓सि व᳓रूथम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

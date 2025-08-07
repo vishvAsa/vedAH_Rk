@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ प्यायस्व प्र꣡ स्यन्दस्व  
-सो꣡म वि꣡श्वेभिर् अंशु꣡भिः  
-देवे꣡भ्य उत्तमं꣡ हविः꣡
+प्र᳓ प्यायस्व प्र᳓ स्यन्दस्व  
+सो᳓म वि᳓श्वेभिर् अंशु᳓भिः  
+देवे᳓भ्य उत्तमं᳓ हविः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -156,7 +156,7 @@ _________
 
 Swell forth, flow forth, Soma, with all your shoots  
 as highest oblation for the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/28-29.md">

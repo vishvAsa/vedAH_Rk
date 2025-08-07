@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवा꣡म् इ꣡द् वृत्रहन्तम  
-सुता꣡वन्तो हवामहे  
-य꣡द् इन्द्र मॄळ꣡यासि+ नः
+तुवा᳓म् इ᳓द् वृत्रहन्तम  
+सुता᳓वन्तो हवामहे  
+य᳓द् इन्द्र मॄळ᳓यासि+ नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -148,7 +148,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 We who have pressed soma call upon just you, best smiter of Vr̥tra, when you will show us mercy, Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/28-30.md">

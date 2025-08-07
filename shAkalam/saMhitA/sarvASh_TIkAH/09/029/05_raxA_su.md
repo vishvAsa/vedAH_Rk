@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-र꣡क्षा सु꣡ नो अ꣡ररुषः  
-स्वना꣡त् समस्य क꣡स्य चित्  
-निदो꣡ य꣡त्र मुमुच्म꣡हे
+र᳓क्षा सु᳓ नो अ᳓ररुषः  
+स्वना᳓त् समस्य क᳓स्य चित्  
+निदो᳓ य᳓त्र मुमुच्म᳓हे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

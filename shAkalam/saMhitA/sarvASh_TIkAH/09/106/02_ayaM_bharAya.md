@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अय꣡म् भ꣡राय सानसि꣡र्  
-इ꣡न्द्राय पवते सुतः꣡  
-सो꣡मो जइ꣡त्रस्य चेतति य꣡था विदे꣡
+अय᳓म् भ᳓राय सानसि᳓र्  
+इ᳓न्द्राय पवते सुतः᳓  
+सो᳓मो जइ᳓त्रस्य चेतति य᳓था विदे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ मा꣡म् इमं꣡ · त꣡व स꣡न्तम् अत्र  
-इरस्या꣡ द्रुग्धो꣡ भिय꣡सा नि꣡ गारीत्  
-तुव꣡म् मित्रो꣡ · असि सत्य꣡राधास्  
-तउ꣡ मेहा꣡वतं व꣡रुणश् च रा꣡जा
+मा᳓ मा᳓म् इमं᳓ · त᳓व स᳓न्तम् अत्र  
+इरस्या᳓ द्रुग्धो᳓ भिय᳓सा नि᳓ गारीत्  
+तुव᳓म् मित्रो᳓ · असि सत्य᳓राधास्  
+तउ᳓ मेहा᳓वतं व᳓रुणश् च रा᳓जा
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -273,7 +273,7 @@ _________
 [The Sun:] “O Atri, let him not, deceived by jealousy and fear, swallow  me, who am one of yours.  
 You are an ally whose bounty is real; do you and King Varuṇa help  
 me here.”
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

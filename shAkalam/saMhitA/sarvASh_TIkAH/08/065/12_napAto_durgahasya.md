@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡पातो दुर्ग꣡हस्य मे  
-सह꣡स्रेण सुरा꣡धसः  
-श्र꣡वो देवे꣡षु अक्रत
+न᳓पातो दुर्ग᳓हस्य मे  
+सह᳓स्रेण सुरा᳓धसः  
+श्र᳓वो देवे᳓षु अक्रत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुत्रो꣡ न꣡ जातो꣡ रण्वो꣡ दुरोणे꣡  
-वाजी꣡ न꣡ प्रीतो꣡ वि꣡शो वि꣡ तारीत्
+पुत्रो᳓ न᳓ जातो᳓ रण्वो᳓ दुरोणे᳓  
+वाजी᳓ न᳓ प्रीतो᳓ वि᳓शो वि᳓ तारीत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

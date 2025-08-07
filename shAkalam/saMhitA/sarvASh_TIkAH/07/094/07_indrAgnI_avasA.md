@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राग्नी अ꣡वसा꣡ गतम्  
-अस्म꣡भ्यं चर्षणीसहा  
-मा꣡ नो दुःशं꣡स ईशत
+इ᳓न्द्राग्नी अ᳓वसा᳓ गतम्  
+अस्म᳓भ्यं चर्षणीसहा  
+मा᳓ नो दुःशं᳓स ईशत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

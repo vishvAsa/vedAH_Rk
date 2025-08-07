@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ई꣡ळे अग्निं꣡ विपश्चि꣡तं  
-गिरा꣡ यज्ञ꣡स्य सा꣡धनम्  
-श्रुष्टीवा꣡नं धिता꣡वानम्
+ई᳓ळे अग्निं᳓ विपश्चि᳓तं  
+गिरा᳓ यज्ञ᳓स्य सा᳓धनम्  
+श्रुष्टीवा᳓नं धिता᳓वानम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

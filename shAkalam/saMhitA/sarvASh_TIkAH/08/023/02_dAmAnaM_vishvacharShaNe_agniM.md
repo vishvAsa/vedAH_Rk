@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-दामा꣡नं विश्वचर्षणे  
-अग्निं꣡ विश्वमनो गिरा꣡  
-उत꣡ स्तुषे वि꣡ष्पर्धसो र꣡थाना᳐म्
+दामा᳓नं विश्वचर्षणे  
+अग्निं᳓ विश्वमनो गिरा᳓  
+उत᳓ स्तुषे वि᳓ष्पर्धसो र᳓थाना᳐म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

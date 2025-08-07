@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवो꣡तो वाजी꣡ अ꣡ह्रयो  
-अभि꣡ पू꣡र्वस्माद् अ꣡परः  
-प्र꣡ दाश्वाँ꣡ अग्ने अस्था᳐त्
+तुवो᳓तो वाजी᳓ अ᳓ह्रयो  
+अभि᳓ पू᳓र्वस्माद् अ᳓परः  
+प्र᳓ दाश्वाँ᳓ अग्ने अस्था᳐त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

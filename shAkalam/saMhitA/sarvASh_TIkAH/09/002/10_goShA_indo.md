@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गोषा꣡ इन्दो नृषा꣡ असि  
-अश्वसा꣡ वाजसा꣡ उत꣡  
-आत्मा꣡ यज्ञ꣡स्य पूर्वियः꣡
+गोषा᳓ इन्दो नृषा᳓ असि  
+अश्वसा᳓ वाजसा᳓ उत᳓  
+आत्मा᳓ यज्ञ᳓स्य पूर्वियः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

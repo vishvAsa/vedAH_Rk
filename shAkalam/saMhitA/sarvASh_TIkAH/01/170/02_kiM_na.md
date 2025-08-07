@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-किं꣡ न इन्द्र जिघांससि  
-भ्रा꣡तरो मरु꣡तस् त꣡व  
-ते꣡भिः कल्पस्व साधुया꣡  
-मा꣡ नः सम꣡रणे वधीः
+किं᳓ न इन्द्र जिघांससि  
+भ्रा᳓तरो मरु᳓तस् त᳓व  
+ते᳓भिः कल्पस्व साधुया᳓  
+मा᳓ नः सम᳓रणे वधीः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡र्वाँ इव श्र꣡वसे साति꣡म् अ꣡छ  
-इ꣡न्द्रस्य वायो꣡र् अभि꣡ वीति꣡म् अर्ष  
-स꣡ नः सह꣡स्रा बृहती꣡र् इ꣡षो दा  
-भ꣡वा सोम द्रविणोवि꣡त् पुनानः꣡
+अ᳓र्वाँ इव श्र᳓वसे साति᳓म् अ᳓छ  
+इ᳓न्द्रस्य वायो᳓र् अभि᳓ वीति᳓म् अर्ष  
+स᳓ नः सह᳓स्रा बृहती᳓र् इ᳓षो दा  
+भ᳓वा सोम द्रविणोवि᳓त् पुनानः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -260,7 +260,7 @@ _________
 
 Like a steed rushing to a win for the sake of fame, rush to the pursuit  of Indra and Vāyu.  
 Give us a thousand lofty refreshments; become a finder of chattels  while you are being purified, o Soma.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md">

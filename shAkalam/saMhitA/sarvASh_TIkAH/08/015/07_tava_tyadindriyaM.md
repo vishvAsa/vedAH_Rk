@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡व त्य꣡द् इन्द्रिय꣡म् बृह꣡त्  
-त꣡व शु꣡ष्मम् उत꣡ क्र꣡तुम्  
-व꣡ज्रं शिशाति धिष꣡णा व꣡रेणियम्
+त᳓व त्य᳓द् इन्द्रिय᳓म् बृह᳓त्  
+त᳓व शु᳓ष्मम् उत᳓ क्र᳓तुम्  
+व᳓ज्रं शिशाति धिष᳓णा व᳓रेणियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -173,7 +173,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 This lofty Indrian power of yours, your unbridled force and resolve, and the mace worthy to be chosen—these does the Holy Place sharpen.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">

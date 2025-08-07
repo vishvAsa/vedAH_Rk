@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ ये꣡ तन्व꣡न्ति रश्मि꣡भिस्  
-तिरः꣡ समुद्र꣡म् ओ꣡जसा  
-मरु꣡द्भिर् अग्न आ꣡ गहि
+आ᳓ ये᳓ तन्व᳓न्ति रश्मि᳓भिस्  
+तिरः᳓ समुद्र᳓म् ओ᳓जसा  
+मरु᳓द्भिर् अग्न आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -171,7 +171,7 @@ Note, the idea of influence of winds upon the sea.
 <details><summary>Jamison Brereton</summary>
 
 Those who stretch with their reins across the sea with their strength— with the Maruts, o Agni, come hither.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/019/07-08.md">

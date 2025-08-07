@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ द्या꣡व इ꣡न्द्रम् ओ꣡जसा  
-ना꣡न्त꣡रिक्षाणि वज्रि꣡णम्  
-न꣡ विव्यचन्त भू꣡मयः
+न᳓ द्या᳓व इ᳓न्द्रम् ओ᳓जसा  
+ना᳓न्त᳓रिक्षाणि वज्रि᳓णम्  
+न᳓ विव्यचन्त भू᳓मयः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

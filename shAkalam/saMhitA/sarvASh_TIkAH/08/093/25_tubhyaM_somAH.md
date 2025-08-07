@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तु꣡भ्यं सो꣡माः सुता꣡ इमे꣡  
-स्तीर्ण꣡म् बर्हि꣡र् विभावसो  
-स्तोतृ꣡भ्य इ꣡न्द्रम् आ꣡ वह
+तु᳓भ्यं सो᳓माः सुता᳓ इमे᳓  
+स्तीर्ण᳓म् बर्हि᳓र् विभावसो  
+स्तोतृ᳓भ्य इ᳓न्द्रम् आ᳓ वह
 </details>
 
 <details><summary>Vedaweb annotation</summary>

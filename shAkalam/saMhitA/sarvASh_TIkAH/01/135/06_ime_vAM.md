@@ -15,13 +15,13 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमे꣡ वां सो꣡मा अप्सु꣡ आ꣡ सुता꣡ इह꣡  
-अध्वर्यु꣡भिर् भ꣡रमाणा अयंसत  
-वा꣡यो शुक्रा꣡ अयंसत  
-एते꣡ वाम् अभ्य् अ᳡सृक्षत  
-तिरः꣡ पवि꣡त्रम् आश꣡वः  
-युवाय꣡वो अ꣡ति रो꣡माणि अव्य꣡या  
-सो꣡मासो अ꣡ति अव्य꣡या
+इमे᳓ वां सो᳓मा अप्सु᳓ आ᳓ सुता᳓ इह᳓  
+अध्वर्यु᳓भिर् भ᳓रमाणा अयंसत  
+वा᳓यो शुक्रा᳓ अयंसत  
+एते᳓ वाम् अभ्य् अ᳡सृक्षत  
+तिरः᳓ पवि᳓त्रम् आश᳓वः  
+युवाय᳓वो अ᳓ति रो᳓माणि अव्य᳓या  
+सो᳓मासो अ᳓ति अव्य᳓या
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -323,7 +323,7 @@ These soma drinks were pressed here in the waters for you two. Being  carried, t
 gleaming (soma drinks) have been guided.  
 They have surged toward you two, swift across the filter,  
 seeking you two beyond the sheep’s fleece—the soma drinks beyond the  sheep’s (fleece).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/04-06.md">

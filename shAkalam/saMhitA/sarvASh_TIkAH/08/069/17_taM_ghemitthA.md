@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ घेम् इत्था꣡ नमस्वि꣡न  
-उ꣡प स्वरा꣡जम् आसते  
-अ꣡र्थं चिद् अस्य सु꣡धितं य꣡द् ए꣡तव  
-आवर्त꣡यन्ति दाव꣡ने
+तं᳓ घेम् इत्था᳓ नमस्वि᳓न  
+उ᳓प स्वरा᳓जम् आसते  
+अ᳓र्थं चिद् अस्य सु᳓धितं य᳓द् ए᳓तव  
+आवर्त᳓यन्ति दाव᳓ने
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -220,7 +220,7 @@ His horses: or, their praises
 Bringing homage, they reverently approach him, their sovereign king,  just so.  
 Just this is his well-set goal when they turn him here to come and  
 to give.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/069/17-18.md">

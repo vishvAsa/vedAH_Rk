@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-समीचीना꣡ अनूषत  
-ह꣡रिं हिन्वन्ति अ꣡द्रिभिः  
-यो꣡नाव् ऋत꣡स्य सीदत
+समीचीना᳓ अनूषत  
+ह᳓रिं हिन्वन्ति अ᳓द्रिभिः  
+यो᳓नाव् ऋत᳓स्य सीदत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् अग्ने पृतनाष꣡हं  
-रयिं꣡ सहस्व आ꣡ भर  
-तुवं꣡ हि꣡ सत्यो꣡ अ꣡द्भुतो  
-दाता꣡ वा꣡जस्य गो꣡मतः
+त᳓म् अग्ने पृतनाष᳓हं  
+रयिं᳓ सहस्व आ᳓ भर  
+तुवं᳓ हि᳓ सत्यो᳓ अ᳓द्भुतो  
+दाता᳓ वा᳓जस्य गो᳓मतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

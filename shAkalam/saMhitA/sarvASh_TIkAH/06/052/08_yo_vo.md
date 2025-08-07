@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ वो देवा घृत꣡स्नुना  
-हव्ये꣡न प्रतिभू꣡षति  
-तं꣡ वि꣡श्व उ꣡प गछथ
+यो᳓ वो देवा घृत᳓स्नुना  
+हव्ये᳓न प्रतिभू᳓षति  
+तं᳓ वि᳓श्व उ᳓प गछथ
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -162,7 +162,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The one who attends to you with a ghee-backed oblation, o gods— you all come close to him.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">

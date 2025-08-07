@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-देवं꣡ न꣡रः सविता꣡रं  
-वि꣡प्रा यज्ञइः꣡ सुवृक्ति꣡भिः  
-नमस्य꣡न्ति धिये꣡षिताः꣡
+देवं᳓ न᳓रः सविता᳓रं  
+वि᳓प्रा यज्ञइः᳓ सुवृक्ति᳓भिः  
+नमस्य᳓न्ति धिये᳓षिताः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -145,7 +145,7 @@ _________
 
 To god Savitar do the men, the inspired poets, give reverence with  sacrifices and well-twisted hymns,  
 when impelled by insight.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/10-12.md">

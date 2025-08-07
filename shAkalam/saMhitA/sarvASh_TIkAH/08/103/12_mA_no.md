@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नो हृणीताम् अ꣡तिथिर्  
-व꣡सुर् अग्निः꣡ पुरुप्रशस्त꣡ एषः꣡  
-यः꣡ सुहो꣡ता सुअध्वरः꣡
+मा᳓ नो हृणीताम् अ᳓तिथिर्  
+व᳓सुर् अग्निः᳓ पुरुप्रशस्त᳓ एषः᳓  
+यः᳓ सुहो᳓ता सुअध्वरः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

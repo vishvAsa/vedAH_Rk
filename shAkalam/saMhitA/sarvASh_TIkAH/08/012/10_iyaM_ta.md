@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इयं꣡ त ऋत्वि꣡यावती  
-धीति꣡र् एति न꣡वीयसी  
-सपर्य꣡न्ती पुरुप्रिया꣡ मि꣡मीत इ꣡त्
+इयं᳓ त ऋत्वि᳓यावती  
+धीति᳓र् एति न᳓वीयसी  
+सपर्य᳓न्ती पुरुप्रिया᳓ मि᳓मीत इ᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

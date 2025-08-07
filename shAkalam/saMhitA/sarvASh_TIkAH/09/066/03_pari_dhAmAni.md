@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि धा꣡मानि या꣡नि ते  
-तुवं꣡ सोमासि विश्व꣡तः  
-प꣡वमान र्तु꣡भिः कवे
+प᳓रि धा᳓मानि या᳓नि ते  
+तुवं᳓ सोमासि विश्व᳓तः  
+प᳓वमान र्तु᳓भिः कवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

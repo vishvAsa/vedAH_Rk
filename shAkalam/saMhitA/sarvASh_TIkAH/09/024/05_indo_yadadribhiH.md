@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्दो य꣡द् अ꣡द्रिभिः सुतः꣡  
-पवि꣡त्रम् परिधा꣡वसि  
-अ꣡रम् इ꣡न्द्रस्य धा꣡मने
+इ᳓न्दो य᳓द् अ᳓द्रिभिः सुतः᳓  
+पवि᳓त्रम् परिधा᳓वसि  
+अ᳓रम् इ᳓न्द्रस्य धा᳓मने
 </details>
 
 <details><summary>Vedaweb annotation</summary>

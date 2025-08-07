@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि ते जिग्यु꣡षो यथा  
-धा꣡रा सुत꣡स्य धावति  
-रं꣡हमाणा वि꣡ अव्य꣡यं  
-वा꣡रं वाजी꣡व सानसिः꣡
+प᳓रि ते जिग्यु᳓षो यथा  
+धा᳓रा सुत᳓स्य धावति  
+रं᳓हमाणा वि᳓ अव्य᳓यं  
+वा᳓रं वाजी᳓व सानसिः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

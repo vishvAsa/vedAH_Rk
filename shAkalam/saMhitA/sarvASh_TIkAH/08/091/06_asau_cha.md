@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-असउ꣡ च या꣡ न उर्व꣡रा  
-आ꣡द् इमां꣡ तनु꣡वम् म꣡म  
-अ꣡थो तत꣡स्य य꣡च् छि꣡रः  
-स꣡र्वा ता꣡ रोमशा꣡ कृधि
+असउ᳓ च या᳓ न उर्व᳓रा  
+आ᳓द् इमां᳓ तनु᳓वम् म᳓म  
+अ᳓थो तत᳓स्य य᳓च् छि᳓रः  
+स᳓र्वा ता᳓ रोमशा᳓ कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -242,7 +242,7 @@ Crop: i.e., make them all hairy, romaśani
 
 “That field of ours, this body of mine,  
 and my Papa’s head—make all these hairy.”
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/091/05-07.md">

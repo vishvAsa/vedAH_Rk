@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दिवो꣡ मा꣡नं न꣡ उ꣡त् सदन्  
-सो꣡मपृष्ठासो अ꣡द्रयः  
-उक्था꣡ ब्र꣡ह्म च शं꣡सिया
+दिवो᳓ मा᳓नं न᳓ उ᳓त् सदन्  
+सो᳓मपृष्ठासो अ᳓द्रयः  
+उक्था᳓ ब्र᳓ह्म च शं᳓सिया
 </details>
 
 <details><summary>Vedaweb annotation</summary>

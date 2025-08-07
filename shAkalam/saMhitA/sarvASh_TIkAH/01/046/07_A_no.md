@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो नावा꣡ मतीनां᳐꣡  
-यात꣡म् पारा꣡य ग꣡न्तवे  
-युञ्जा꣡थाम् अश्विना र꣡थम्
+आ᳓ नो नावा᳓ मतीनां᳐᳓  
+यात᳓म् पारा᳓य ग᳓न्तवे  
+युञ्जा᳓थाम् अश्विना र᳓थम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

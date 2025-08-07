@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ना꣡मानि ते शतक्रतो  
-वि꣡श्वाभिर् गीर्भि꣡र् ईमहे  
-इ꣡न्द्राभिमातिषा꣡हिये
+ना᳓मानि ते शतक्रतो  
+वि᳓श्वाभिर् गीर्भि᳓र् ईमहे  
+इ᳓न्द्राभिमातिषा᳓हिये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -137,7 +137,7 @@ _________
 
 We implore your names with all our songs—  
 Indra of a hundred resolves—in vanquishing hostility.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/037/03-04.md">

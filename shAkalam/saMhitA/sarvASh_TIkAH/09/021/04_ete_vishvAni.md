@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एते꣡ वि꣡श्वानि वा꣡रिया  
-प꣡वमानास आशत  
-हिता꣡ न꣡ स꣡प्तयो र꣡थे
+एते᳓ वि᳓श्वानि वा᳓रिया  
+प᳓वमानास आशत  
+हिता᳓ न᳓ स᳓प्तयो र᳓थे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

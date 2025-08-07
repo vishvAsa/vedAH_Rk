@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अया꣡ निजघ्नि꣡र् ओ꣡जसा  
-रथसंगे꣡ ध꣡ने हिते꣡  
-स्त꣡वा अ꣡बिभ्युषा हृदा꣡
+अया᳓ निजघ्नि᳓र् ओ᳓जसा  
+रथसंगे᳓ ध᳓ने हिते᳓  
+स्त᳓वा अ᳓बिभ्युषा हृदा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

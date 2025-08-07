@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शतं꣡ श्वेता꣡स उक्ष꣡णो  
-दिवि꣡ ता꣡रो न꣡ रोचन्ते  
-मह्ना꣡ दि꣡वं न꣡ तस्तभुः
+शतं᳓ श्वेता᳓स उक्ष᳓णो  
+दिवि᳓ ता᳓रो न᳓ रोचन्ते  
+मह्ना᳓ दि᳓वं न᳓ तस्तभुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

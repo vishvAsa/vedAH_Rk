@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-शुनं꣡ हुवेम मघ꣡वानम् इ꣡न्द्रम्  
-अस्मि꣡न् भ꣡रे नृ꣡तमं वा꣡जसातौ  
-शृण्व꣡न्तम् उग्र꣡म् ऊत꣡ये सम꣡त्सु  
-घ्न꣡न्तं वृत्रा꣡णि संजि꣡तं ध꣡नानाम्
+शुनं᳓ हुवेम मघ᳓वानम् इ᳓न्द्रम्  
+अस्मि᳓न् भ᳓रे नृ᳓तमं वा᳓जसातौ  
+शृण्व᳓न्तम् उग्र᳓म् ऊत᳓ये सम᳓त्सु  
+घ्न᳓न्तं वृत्रा᳓णि संजि᳓तं ध᳓नानाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -211,7 +211,7 @@ _________
 
 – For blessing we would invoke bounteous Indra, most manly, at this  raid, at the winning of the prize of victory,  
 the strong one who listens, (we would invoke) for help in battles, him  who smashes obstacles, the winner of prizes.534 III.51
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/050/04-05.md">

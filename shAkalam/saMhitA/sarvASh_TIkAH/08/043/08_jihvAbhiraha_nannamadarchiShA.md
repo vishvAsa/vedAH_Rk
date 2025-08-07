@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-जिह्वा꣡भिर् अ꣡ह न꣡न्नमद्  
-अर्चि꣡षा जञ्जणाभ꣡वन्  
-अग्नि꣡र् व꣡नेषु रोचते
+जिह्वा᳓भिर् अ᳓ह न᳓न्नमद्  
+अर्चि᳓षा जञ्जणाभ᳓वन्  
+अग्नि᳓र् व᳓नेषु रोचते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

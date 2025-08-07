@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नो अ꣡हिर् बुध्नि꣡यो रिषे꣡ धान्  
-मा꣡ यज्ञो꣡ अस्य स्रिधद् ऋतायोः꣡
+मा᳓ नो अ᳓हिर् बुध्नि᳓यो रिषे᳓ धान्  
+मा᳓ यज्ञो᳓ अस्य स्रिधद् ऋतायोः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

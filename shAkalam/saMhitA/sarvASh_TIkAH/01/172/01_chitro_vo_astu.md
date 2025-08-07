@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-चित्रो꣡ वो अस्तु या꣡मश्  
-चित्र꣡ ऊती꣡ सुदानवः  
-म꣡रुतो अ꣡हिभानवः
+चित्रो᳓ वो अस्तु या᳓मश्  
+चित्र᳓ ऊती᳓ सुदानवः  
+म᳓रुतो अ᳓हिभानवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ प्रिया꣡ दिव꣡स् पदा꣡  
-सो꣡मो हिन्वानो꣡ अर्षति  
-वि꣡प्रस्य धा꣡रया कविः꣡
+अभि᳓ प्रिया᳓ दिव᳓स् पदा᳓  
+सो᳓मो हिन्वानो᳓ अर्षति  
+वि᳓प्रस्य धा᳓रया कविः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

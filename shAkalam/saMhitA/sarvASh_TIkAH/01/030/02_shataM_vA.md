@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शतं꣡ वा यः꣡ शु꣡चीनां᳐  
-सह꣡स्रं वा स꣡माशिराम्  
-ए꣡द् उ निम्नं꣡ न꣡ रीयते
+शतं᳓ वा यः᳓ शु᳓चीनां᳐  
+सह᳓स्रं वा स᳓माशिराम्  
+ए᳓द् उ निम्नं᳓ न᳓ रीयते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

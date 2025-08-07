@@ -15,10 +15,10 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रस्य हा꣡र्दि सोमधा꣡नम् आ꣡ विश  
-समुद्र꣡म् इव सि꣡न्धवः  
-जु꣡ष्टो मित्रा꣡य व꣡रुणाय वाय꣡वे  
-दिवो꣡ विष्टम्भ꣡ उत्तमः꣡
+इ᳓न्द्रस्य हा᳓र्दि सोमधा᳓नम् आ᳓ विश  
+समुद्र᳓म् इव सि᳓न्धवः  
+जु᳓ष्टो मित्रा᳓य व᳓रुणाय वाय᳓वे  
+दिवो᳓ विष्टम्भ᳓ उत्तमः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -213,7 +213,7 @@ Enter into the heart of Indra, the repository of soma, like rivers into  the sea
 being pleasing to Mitra, to Varuṇa, to Vāyu, the highest prop of  
 heaven.  
 Hymns in Assorted Meters: 109–114
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/15-16.md">

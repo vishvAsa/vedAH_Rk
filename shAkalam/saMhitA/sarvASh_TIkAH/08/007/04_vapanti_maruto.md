@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-व꣡पन्ति मरु꣡तो मि꣡हम्  
-प्र꣡ वेपयन्ति प꣡र्वतान्  
-य꣡द् या꣡मं या꣡न्ति वायु꣡भिः
+व᳓पन्ति मरु᳓तो मि᳓हम्  
+प्र᳓ वेपयन्ति प᳓र्वतान्  
+य᳓द् या᳓मं या᳓न्ति वायु᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ब꣡ळ् ऋत्वि꣡याय धा꣡मन  
-ऋ꣡क्वभिः शूर नोनुमः  
-जे꣡षामेन्द्र त्व꣡या युजा꣡
+ब᳓ळ् ऋत्वि᳓याय धा᳓मन  
+ऋ᳓क्वभिः शूर नोनुमः  
+जे᳓षामेन्द्र त्व᳓या युजा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

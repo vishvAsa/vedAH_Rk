@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानस्य ते र꣡सो  
-म꣡दो राजन्न् अदुछुनः꣡  
-वि꣡ वा꣡रम् अ꣡व्यम् अर्षति
+प᳓वमानस्य ते र᳓सो  
+म᳓दो राजन्न् अदुछुनः᳓  
+वि᳓ वा᳓रम् अ᳓व्यम् अर्षति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -156,7 +156,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 When you are purifying yourself, o king, your sap, the exhilarating  drink that brings no misfortune, rushes through the sheep’s fleece.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/16-18.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत्ति꣡ष्ठन्न् ओ꣡जसा सह꣡  
-पीत्वी꣡ शि꣡प्रे अवेपयः  
-सो꣡मम् इन्द्र चमू꣡ सुत꣡म्
+उत्ति᳓ष्ठन्न् ओ᳓जसा सह᳓  
+पीत्वी᳓ शि᳓प्रे अवेपयः  
+सो᳓मम् इन्द्र चमू᳓ सुत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

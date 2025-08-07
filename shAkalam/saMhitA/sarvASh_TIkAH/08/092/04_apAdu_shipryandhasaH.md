@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡पाद् उ शिप्री꣡ अ꣡न्धसः  
-सुद꣡क्षस्य प्रहोषि꣡णः  
-इ꣡न्दोर् इ꣡न्द्रो य꣡वाशिरः
+अ᳓पाद् उ शिप्री᳓ अ᳓न्धसः  
+सुद᳓क्षस्य प्रहोषि᳓णः  
+इ᳓न्दोर् इ᳓न्द्रो य᳓वाशिरः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

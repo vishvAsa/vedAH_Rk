@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡दृश्रम् अस्य केत꣡वो  
-वि꣡ रश्म꣡यो ज꣡नाँ अ꣡नु  
-भ्रा꣡जन्तो अग्न꣡यो यथा
+अ᳓दृश्रम् अस्य केत᳓वो  
+वि᳓ रश्म᳓यो ज᳓नाँ अ᳓नु  
+भ्रा᳓जन्तो अग्न᳓यो यथा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

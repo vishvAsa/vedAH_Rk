@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ महा꣡न्ता स꣡दस्प꣡ती  
-इ꣡न्द्राग्नी र꣡क्ष उब्जतम्  
-अ꣡प्रजाः सन्तु अत्रि꣡णः
+ता᳓ महा᳓न्ता स᳓दस्प᳓ती  
+इ᳓न्द्राग्नी र᳓क्ष उब्जतम्  
+अ᳓प्रजाः सन्तु अत्रि᳓णः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

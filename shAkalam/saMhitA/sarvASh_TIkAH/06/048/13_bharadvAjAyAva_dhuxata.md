@@ -15,9 +15,9 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-भर꣡द्वाजाय अ꣡व धुक्षत द्विता꣡  
-धेनुं꣡ च विश्व꣡दोहसम्  
-इ꣡षं च विश्व꣡भोजसम्
+भर᳓द्वाजाय अ᳓व धुक्षत द्विता᳓  
+धेनुं᳓ च विश्व᳓दोहसम्  
+इ᳓षं च विश्व᳓भोजसम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

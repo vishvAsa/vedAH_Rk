@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋ꣡षिर् हि꣡ पूर्वजा꣡ अ꣡सि  
-ए꣡क ई꣡शान ओ꣡जसा  
-इ꣡न्द्र चोष्कूय꣡से व꣡सु
+ऋ᳓षिर् हि᳓ पूर्वजा᳓ अ᳓सि  
+ए᳓क ई᳓शान ओ᳓जसा  
+इ᳓न्द्र चोष्कूय᳓से व᳓सु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

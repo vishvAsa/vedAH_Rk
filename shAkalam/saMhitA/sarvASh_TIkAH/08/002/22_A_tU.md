@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ तू꣡ षिञ्च क꣡ण्वमन्तं  
-न꣡ घा विद्म शवसाना꣡त्  
-यश꣡स्तरं शत꣡मूतेः
+आ᳓ तू᳓ षिञ्च क᳓ण्वमन्तं  
+न᳓ घा विद्म शवसाना᳓त्  
+यश᳓स्तरं शत᳓मूतेः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

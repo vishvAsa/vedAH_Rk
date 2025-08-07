@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ अस्मै हवि꣡षा꣡विधन्  
-न꣡ त꣡म् पूषा꣡पि मृष्यते  
-प्रथमो꣡ विन्दते व꣡सु
+यो᳓ अस्मै हवि᳓षा᳓विधन्  
+न᳓ त᳓म् पूषा᳓पि मृष्यते  
+प्रथमो᳓ विन्दते व᳓सु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

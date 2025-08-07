@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रम् अ꣡छ सुता꣡ इमे꣡  
-वृ꣡षणं यन्तु ह꣡रयः  
-श्रुष्टी꣡ जाता꣡स इ꣡न्दवः सुवर्वि꣡दः
+इ᳓न्द्रम् अ᳓छ सुता᳓ इमे᳓  
+वृ᳓षणं यन्तु ह᳓रयः  
+श्रुष्टी᳓ जाता᳓स इ᳓न्दवः सुवर्वि᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

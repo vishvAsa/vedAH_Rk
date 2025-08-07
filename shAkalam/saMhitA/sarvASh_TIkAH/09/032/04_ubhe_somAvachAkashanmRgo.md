@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उभे꣡ सोमावचा꣡कशन्  
-मृगो꣡ न꣡ तक्तो꣡ अर्षसि  
-सी꣡दन्न् ऋत꣡स्य यो꣡निम् आ꣡
+उभे᳓ सोमावचा᳓कशन्  
+मृगो᳓ न᳓ तक्तो᳓ अर्षसि  
+सी᳓दन्न् ऋत᳓स्य यो᳓निम् आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

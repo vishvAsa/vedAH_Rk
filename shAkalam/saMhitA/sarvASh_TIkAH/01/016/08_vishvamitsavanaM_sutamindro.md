@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वम् इ꣡त् स꣡वनं सुत꣡म्  
-इ꣡न्द्रो म꣡दाय गछति  
-वृत्रहा꣡ सो꣡मपीतये
+वि᳓श्वम् इ᳓त् स᳓वनं सुत᳓म्  
+इ᳓न्द्रो म᳓दाय गछति  
+वृत्रहा᳓ सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

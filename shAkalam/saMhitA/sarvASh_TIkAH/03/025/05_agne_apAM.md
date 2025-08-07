@@ -15,9 +15,9 @@ ChandaH = "विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने अपां꣡ स꣡म् इध्यसे दुरोणे꣡  
-नि꣡त्यः सूनो सहसो जातवेदः  
-सध꣡स्थानि मह꣡यमान ऊती꣡
+अ᳓ग्ने अपां᳓ स᳓म् इध्यसे दुरोणे᳓  
+नि᳓त्यः सूनो सहसो जातवेदः  
+सध᳓स्थानि मह᳓यमान ऊती᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

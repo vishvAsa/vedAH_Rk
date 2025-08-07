@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ न स्तिपा꣡ तनूपा᳐꣡  
-व꣡रुण जरितॄणा᳐꣡म्  
-मि꣡त्र साध꣡यतं धि꣡यः
+ता᳓ न स्तिपा᳓ तनूपा᳐᳓  
+व᳓रुण जरितॄणा᳐᳓म्  
+मि᳓त्र साध᳓यतं धि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

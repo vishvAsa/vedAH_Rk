@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-च꣡क्षुर् नो देवः꣡ सविता꣡  
-च꣡क्षुर् न उत꣡ प꣡र्वतः  
-च꣡क्षुर् धाता꣡ दधातु नः
+च᳓क्षुर् नो देवः᳓ सविता᳓  
+च᳓क्षुर् न उत᳓ प᳓र्वतः  
+च᳓क्षुर् धाता᳓ दधातु नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

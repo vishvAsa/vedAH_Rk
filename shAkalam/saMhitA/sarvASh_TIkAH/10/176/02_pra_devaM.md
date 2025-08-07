@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ देवं꣡ देविया꣡ धिया꣡  
-भ꣡रता जात꣡वेदसम्  
-हव्या꣡ नो वक्षद् आनुष꣡क्
+प्र᳓ देवं᳓ देविया᳓ धिया᳓  
+भ᳓रता जात᳓वेदसम्  
+हव्या᳓ नो वक्षद् आनुष᳓क्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ न एषु꣡ नृ꣡षु श्र꣡वो धुः  
-प्र꣡ राये꣡ यन्तु श꣡र्धन्तो अर्यः꣡
+उत᳓ न एषु᳓ नृ᳓षु श्र᳓वो धुः  
+प्र᳓ राये᳓ यन्तु श᳓र्धन्तो अर्यः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

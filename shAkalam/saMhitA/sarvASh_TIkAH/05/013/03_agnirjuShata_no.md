@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् जुषत नो गि꣡रो  
-हो꣡ता यो꣡ मा꣡नुषेषु आ꣡  
-स꣡ यक्षद् दइ꣡वियं ज꣡नम्
+अग्नि᳓र् जुषत नो गि᳓रो  
+हो᳓ता यो᳓ मा᳓नुषेषु आ᳓  
+स᳓ यक्षद् दइ᳓वियं ज᳓नम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

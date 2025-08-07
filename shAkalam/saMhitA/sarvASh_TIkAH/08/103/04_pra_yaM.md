@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ यं꣡ राये꣡ नि꣡नीषसि  
-म꣡र्तो य꣡स् ते वसो दा꣡शत्  
-स꣡ वीरं꣡ धत्ते अग्न उक्थशंसि꣡नं  
-त्म꣡ना सहस्रपोषि꣡णम्
+प्र᳓ यं᳓ राये᳓ नि᳓नीषसि  
+म᳓र्तो य᳓स् ते वसो दा᳓शत्  
+स᳓ वीरं᳓ धत्ते अग्न उक्थशंसि᳓नं  
+त्म᳓ना सहस्रपोषि᳓णम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -228,7 +228,7 @@ A lord of great wealth:sahasrapoṣiṇa = bahudhanam, nourisher of thousands
 The mortal whom you wish to lead forward for wealth, who does pious  service for you, good one,  
 he acquires a hero who proclaims solemn speech, who fosters a  
 thousand by himself, o Agni.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/03-04.md">

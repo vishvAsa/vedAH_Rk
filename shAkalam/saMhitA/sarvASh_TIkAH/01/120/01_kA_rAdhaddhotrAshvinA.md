@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-का꣡ राधद् धो꣡त्राश्विना वां  
-को꣡ वां जो꣡ष उभ꣡योः  
-कथा꣡ विधात्य् अ꣡प्रचेताः
+का᳓ राधद् धो᳓त्राश्विना वां  
+को᳓ वां जो᳓ष उभ᳓योः  
+कथा᳓ विधात्य् अ᳓प्रचेताः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

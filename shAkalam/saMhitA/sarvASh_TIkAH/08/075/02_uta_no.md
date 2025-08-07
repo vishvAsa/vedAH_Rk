@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ नो देव देवाँ꣡  
-अ꣡छा वोचो विदु꣡ष्टरः  
-श्र꣡द् वि꣡श्वा वा꣡रिया कृधि
+उत᳓ नो देव देवाँ᳓  
+अ᳓छा वोचो विदु᳓ष्टरः  
+श्र᳓द् वि᳓श्वा वा᳓रिया कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

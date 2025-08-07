@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सु꣡समिद्धो न आ꣡ वह  
-देवाँ꣡ अग्ने हवि꣡ष्मते  
-हो꣡तः पवाक+ य꣡क्षि च
+सु᳓समिद्धो न आ᳓ वह  
+देवाँ᳓ अग्ने हवि᳓ष्मते  
+हो᳓तः पवाक+ य᳓क्षि च
 </details>
 
 <details><summary>Vedaweb annotation</summary>

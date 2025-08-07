@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-दिवो꣡ धर्ता꣡सि शुक्रः꣡ पीयू꣡षः  
-सत्ये꣡ वि꣡धर्मन् वाजी꣡ पवस्व
+दिवो᳓ धर्ता᳓सि शुक्रः᳓ पीयू᳓षः  
+सत्ये᳓ वि᳓धर्मन् वाजी᳓ पवस्व
 </details>
 
 <details><summary>Vedaweb annotation</summary>

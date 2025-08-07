@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ उ स्य꣡ पुरुव्रतो꣡  
-जज्ञानो꣡ जन꣡यन्न् इ꣡षः  
-धा꣡रया पवते सुतः꣡
+एष᳓ उ स्य᳓ पुरुव्रतो᳓  
+जज्ञानो᳓ जन᳓यन्न् इ᳓षः  
+धा᳓रया पवते सुतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

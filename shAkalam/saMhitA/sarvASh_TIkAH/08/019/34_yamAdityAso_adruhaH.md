@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡म् आदित्यासो अद्रुहः  
-पारं꣡ न꣡यथ म꣡र्तियम्  
-मघो꣡नां᳐ वि꣡श्वेषां᳐ सुदानवः
+य᳓म् आदित्यासो अद्रुहः  
+पारं᳓ न᳓यथ म᳓र्तियम्  
+मघो᳓नां᳐ वि᳓श्वेषां᳐ सुदानवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -150,7 +150,7 @@ When you conduct to the limit: yam nayatha pāram, whom you ledto the opposite b
 
 O you Ādityas without deceit—the mortal whom you lead to the  far shore—  
 you who are the best givers among all the generous—
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/34-35.md">

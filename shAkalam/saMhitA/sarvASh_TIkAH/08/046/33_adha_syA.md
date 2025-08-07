@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ध स्या꣡ यो꣡षणा मही꣡  
-प्रतीची꣡ व꣡शम् अश्विय꣡म्  
-अ꣡धिरुक्मा वि꣡ नीयते
+अ᳓ध स्या᳓ यो᳓षणा मही᳓  
+प्रतीची᳓ व᳓शम् अश्विय᳓म्  
+अ᳓धिरुक्मा वि᳓ नीयते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

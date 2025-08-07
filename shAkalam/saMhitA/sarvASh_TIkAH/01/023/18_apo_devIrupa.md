@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अपो꣡ देवी꣡र् उ꣡प ह्वये  
-य꣡त्र गा꣡वः पि꣡बन्ति नः  
-सि꣡न्धुभ्यः क꣡र्तुवं हविः꣡
+अपो᳓ देवी᳓र् उ᳓प ह्वये  
+य᳓त्र गा᳓वः पि᳓बन्ति नः  
+सि᳓न्धुभ्यः क᳓र्तुवं हविः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

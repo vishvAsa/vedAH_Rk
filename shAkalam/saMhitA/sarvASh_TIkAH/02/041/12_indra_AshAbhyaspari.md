@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र आ꣡शाभियस् प꣡रि  
-स꣡र्वाभ्यो अ꣡भयं करत्  
-जे꣡ता श꣡त्रून् वि꣡चर्षणिः
+इ᳓न्द्र आ᳓शाभियस् प᳓रि  
+स᳓र्वाभ्यो अ᳓भयं करत्  
+जे᳓ता श᳓त्रून् वि᳓चर्षणिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡मिनती दइ꣡वियानि व्रता꣡नि  
-प्रमिनती꣡ मनुषि꣡या युगा꣡नि  
-ईयु꣡षीणाम् उपमा꣡ श꣡श्वतीनाम्  
-आयतीना꣡म् प्रथमो꣡षा꣡ वि꣡ अद्यौत्
+अ᳓मिनती दइ᳓वियानि व्रता᳓नि  
+प्रमिनती᳓ मनुषि᳓या युगा᳓नि  
+ईयु᳓षीणाम् उपमा᳓ श᳓श्वतीनाम्  
+आयतीना᳓म् प्रथमो᳓षा᳓ वि᳓ अद्यौत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -204,7 +204,7 @@ Unimpeding: aminati ahiṃsantī, not injuring, not opposing, not unsuited to; b
 
 Not belittling the divine commandments, but diminishing human (life-) spans,  
 the last of those who, one by one, have gone, the first of those who come  hither—Dawn has flashed forth.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/02-03.md">

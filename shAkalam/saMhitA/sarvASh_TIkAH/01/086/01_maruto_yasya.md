@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-म꣡रुतो य꣡स्य हि꣡ क्ष꣡ये  
-पाथा꣡ दिवो꣡ विमहसः  
-स꣡ सुगोपा꣡तमो ज꣡नः
+म᳓रुतो य᳓स्य हि᳓ क्ष᳓ये  
+पाथा᳓ दिवो᳓ विमहसः  
+स᳓ सुगोपा᳓तमो ज᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

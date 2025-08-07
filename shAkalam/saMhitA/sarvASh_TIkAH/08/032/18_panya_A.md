@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡न्य आ꣡ दर्दिरच् छता꣡  
-सह꣡स्रा वाजी꣡ अ꣡वृतः  
-इ꣡न्द्रो यो꣡ य꣡ज्वनो वृधः꣡
+प᳓न्य आ᳓ दर्दिरच् छता᳓  
+सह᳓स्रा वाजी᳓ अ᳓वृतः  
+इ᳓न्द्रो यो᳓ य᳓ज्वनो वृधः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

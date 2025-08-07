@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ पवमान नो भर  
-अर्यो꣡ अ꣡दाशुषो ग꣡यम्  
-कृधि꣡ प्रजा꣡वतीर् इ꣡षः
+आ᳓ पवमान नो भर  
+अर्यो᳓ अ᳓दाशुषो ग᳓यम्  
+कृधि᳓ प्रजा᳓वतीर् इ᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

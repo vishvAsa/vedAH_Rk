@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ अग्निं꣡ देव꣡वीतये  
-हवि꣡ष्माँ आवि꣡वासति  
-त꣡स्मै पवाक+ मॄळय+
+यो᳓ अग्निं᳓ देव᳓वीतये  
+हवि᳓ष्माँ आवि᳓वासति  
+त᳓स्मै पवाक+ मॄळय+
 </details>
 
 <details><summary>Vedaweb annotation</summary>

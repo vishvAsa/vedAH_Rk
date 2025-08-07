@@ -15,9 +15,9 @@ ChandaH = "वर्धमाना गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ दूतो꣡ अ꣡मर्तिय  
-आ꣡ वहा दइ꣡वियं ज꣡नम्  
-शृण्व꣡न् वि꣡प्रस्य सुष्टुति꣡म्
+तुवं᳓ दूतो᳓ अ᳓मर्तिय  
+आ᳓ वहा दइ᳓वियं ज᳓नम्  
+शृण्व᳓न् वि᳓प्रस्य सुष्टुति᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

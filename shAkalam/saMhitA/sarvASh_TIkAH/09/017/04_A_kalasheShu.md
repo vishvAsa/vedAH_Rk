@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ कल꣡शेषु धावति  
-पवि꣡त्रे प꣡रि षिच्यते  
-उक्थइ꣡र् यज्ञे꣡षु वर्धते
+आ᳓ कल᳓शेषु धावति  
+पवि᳓त्रे प᳓रि षिच्यते  
+उक्थइ᳓र् यज्ञे᳓षु वर्धते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

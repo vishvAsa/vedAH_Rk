@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अग्ने स्या꣡म् अहं꣡ तुवं꣡  
-तुवं꣡ वा घा सिया꣡ अह꣡म्  
-स्यु꣡ष् टे सत्या꣡ इहा꣡शि꣡षः
+य᳓द् अग्ने स्या᳓म् अहं᳓ तुवं᳓  
+तुवं᳓ वा घा सिया᳓ अह᳓म्  
+स्यु᳓ष् टे सत्या᳓ इहा᳓शि᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

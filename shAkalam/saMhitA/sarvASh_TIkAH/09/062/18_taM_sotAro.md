@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ सोतारो धनस्पृ꣡तम्  
-आशुं꣡ वा꣡जाय या꣡तवे  
-ह꣡रिं हिनोत वाजि꣡नम्
+तं᳓ सोतारो धनस्पृ᳓तम्  
+आशुं᳓ वा᳓जाय या᳓तवे  
+ह᳓रिं हिनोत वाजि᳓नम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

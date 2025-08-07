@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ध्वस्र꣡योः पुरुष꣡न्तियोर्  
-आ꣡ सह꣡स्राणि दद्महे  
-त꣡रत् स꣡ मन्दी꣡ धावति
+ध्वस्र᳓योः पुरुष᳓न्तियोर्  
+आ᳓ सह᳓स्राणि दद्महे  
+त᳓रत् स᳓ मन्दी᳓ धावति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -152,7 +152,7 @@ Dhvasra and Puruṣanti: two kings who conferred great wealth on Taranta and Pur
 
 At (the hands of) Dhvasra and Puruṣanti we take thousands.  
 – In crossing, the invigorating one runs.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/058/01-03.md">

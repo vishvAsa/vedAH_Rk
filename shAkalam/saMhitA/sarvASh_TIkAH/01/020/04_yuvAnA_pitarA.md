@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यु꣡वाना पित꣡रा पु꣡नः  
-सत्य꣡मन्त्रा ऋजूय꣡वः  
-ऋभ꣡वो विष्टि꣡ अक्रत
+यु᳓वाना पित᳓रा पु᳓नः  
+सत्य᳓मन्त्रा ऋजूय᳓वः  
+ऋभ᳓वो विष्टि᳓ अक्रत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

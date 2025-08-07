@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ हि꣡ सत्य सोमपा  
-उभे꣡ बभू꣡थ रो꣡दसी  
-इ꣡न्द्रा꣡सि सुन्वतो꣡ वृधः꣡ प꣡तिर् दिवः꣡
+अभि᳓ हि᳓ सत्य सोमपा  
+उभे᳓ बभू᳓थ रो᳓दसी  
+इ᳓न्द्रा᳓सि सुन्वतो᳓ वृधः᳓ प᳓तिर् दिवः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

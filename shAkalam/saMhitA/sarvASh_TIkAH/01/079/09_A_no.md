@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो अग्ने सुचेतु꣡ना  
-रयिं꣡ विश्वा꣡युपोषसम्  
-मार्डीकं꣡ धेहि जीव꣡से
+आ᳓ नो अग्ने सुचेतु᳓ना  
+रयिं᳓ विश्वा᳓युपोषसम्  
+मार्डीकं᳓ धेहि जीव᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>

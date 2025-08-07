@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तु꣡भ्यं गा꣡वो घृत꣡म् प꣡यो  
-ब꣡भ्रो दुदुह्रे꣡ अ꣡क्षितम्  
-व꣡र्षिष्ठे अ꣡धि सा꣡नवि
+तु᳓भ्यं गा᳓वो घृत᳓म् प᳓यो  
+ब᳓भ्रो दुदुह्रे᳓ अ᳓क्षितम्  
+व᳓र्षिष्ठे अ᳓धि सा᳓नवि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

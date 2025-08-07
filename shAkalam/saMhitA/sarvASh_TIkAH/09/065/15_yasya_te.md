@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य ते म꣡दियं र꣡सं  
-तीव्रं꣡ दुह꣡न्ति अ꣡द्रिभिः  
-स꣡ पवस्वाभिमातिहा꣡
+य᳓स्य ते म᳓दियं र᳓सं  
+तीव्रं᳓ दुह᳓न्ति अ᳓द्रिभिः  
+स᳓ पवस्वाभिमातिहा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

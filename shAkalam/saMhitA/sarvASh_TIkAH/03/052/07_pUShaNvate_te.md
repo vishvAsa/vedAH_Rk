@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पूषण्व꣡ते ते चकृमा करम्भं꣡  
-ह꣡रिवते ह꣡रिअश्वाय धानाः꣡  
-अपूप꣡म् अद्धि स꣡गणो मरु꣡द्भिः  
-सो꣡मम् पिब वृत्रहा꣡ शूर विद्वा꣡न्
+पूषण्व᳓ते ते चकृमा करम्भं᳓  
+ह᳓रिवते ह᳓रिअश्वाय धानाः᳓  
+अपूप᳓म् अद्धि स᳓गणो मरु᳓द्भिः  
+सो᳓मम् पिब वृत्रहा᳓ शूर विद्वा᳓न्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -223,7 +223,7 @@ _________
 
 We made gruel for you who are accompanied by Pūṣan, roasted grains  for you of the fallow bay horses, accompanied by your fallow bays.  
 Eat the cake; in joint throng with the Maruts drink the soma, o hero, as  Vr̥tra-smasher and knowing one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/06-07.md">

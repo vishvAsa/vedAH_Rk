@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡नु प्रत्न꣡स्य ओ꣡कसो  
-हुवे꣡ तुविप्रतिं꣡ न꣡रम्  
-यं꣡ ते पू꣡र्वम् पिता꣡ हुवे꣡
+अ᳓नु प्रत्न᳓स्य ओ᳓कसो  
+हुवे᳓ तुविप्रतिं᳓ न᳓रम्  
+यं᳓ ते पू᳓र्वम् पिता᳓ हुवे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

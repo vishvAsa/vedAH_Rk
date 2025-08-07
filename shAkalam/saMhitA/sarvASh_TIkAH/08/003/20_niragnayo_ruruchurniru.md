@@ -15,10 +15,10 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡र् अग्न꣡यो रुरुचुर् नि꣡र् उ सू꣡रियो  
-निः꣡ सो꣡म इन्द्रियो꣡ र꣡सः  
-नि꣡र् अन्त꣡रिक्षाद् अधमो महा꣡म् अ꣡हिं  
-कृषे꣡ त꣡द् इन्द्र पउं꣡सियम्
+नि᳓र् अग्न᳓यो रुरुचुर् नि᳓र् उ सू᳓रियो  
+निः᳓ सो᳓म इन्द्रियो᳓ र᳓सः  
+नि᳓र् अन्त᳓रिक्षाद् अधमो महा᳓म् अ᳓हिं  
+कृषे᳓ त᳓द् इन्द्र पउं᳓सियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -254,7 +254,7 @@ _________
 
 The fires shone out, out the sun, out the soma, the Indrian sap.  
 You blew the great serpent out from the midspace: that manly act did  you perform, Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/19-20.md">

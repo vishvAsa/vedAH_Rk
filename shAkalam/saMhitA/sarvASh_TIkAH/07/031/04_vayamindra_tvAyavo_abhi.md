@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वय꣡म् इन्द्र तुवाय꣡वो  
-अभि꣡ प्र꣡ णोनुमो वृषन्  
-विद्धी꣡ तु꣡ अस्य꣡ नो वसो
+वय᳓म् इन्द्र तुवाय᳓वो  
+अभि᳓ प्र᳓ णोनुमो वृषन्  
+विद्धी᳓ तु᳓ अस्य᳓ नो वसो
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -170,7 +170,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 We are seeking you, o Indra; we keep bellowing out to you, o bull. Know this (cry?) of ours, o good one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/03-04.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्वं꣡ हि꣡ वृत्रहन्न् एषा᳐म्  
-पाता꣡ सो꣡माना᳐म् अ꣡सि  
-उ꣡प नो ह꣡रिभिः सुत꣡म्
+त्वं᳓ हि᳓ वृत्रहन्न् एषा᳐म्  
+पाता᳓ सो᳓माना᳐म् अ᳓सि  
+उ᳓प नो ह᳓रिभिः सुत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -163,7 +163,7 @@ _________
 
 For you, Vr̥tra-smiter, are the drinker of these soma-drinks—  
 right up to our pressed soma with your fallow bays.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/31-33.md">

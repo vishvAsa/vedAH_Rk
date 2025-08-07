@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-एते꣡ पूता꣡ विपश्चि꣡तः  
-सो꣡मासो द꣡धिआशिरः  
-सू꣡र्यासो न꣡ दर्शता꣡सो  
-जिगत्न꣡वो ध्रुवा꣡ घृते꣡
+एते᳓ पूता᳓ विपश्चि᳓तः  
+सो᳓मासो द᳓धिआशिरः  
+सू᳓र्यासो न᳓ दर्शता᳓सो  
+जिगत्न᳓वो ध्रुवा᳓ घृते᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -170,7 +170,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 These purified soma juices, attentive to poetic inspiration, mixed with curds, are worthy to be seen like suns, mobile yet fixed in the ghee.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/10-12.md">

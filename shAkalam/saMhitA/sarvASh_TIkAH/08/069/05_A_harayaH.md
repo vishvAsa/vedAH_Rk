@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ ह꣡रयः ससृज्रिरे  
-अ꣡रुषीर् अ꣡धि बर्हि꣡षि  
-य꣡त्राभि꣡ संन꣡वामहे
+आ᳓ ह᳓रयः ससृज्रिरे  
+अ᳓रुषीर् अ᳓धि बर्हि᳓षि  
+य᳓त्राभि᳓ संन᳓वामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

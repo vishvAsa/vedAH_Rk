@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡ श꣡त्रोः सोम वृ꣡ष्णियं  
-नि꣡ शु꣡ष्मं नि꣡ व꣡यस् तिर  
-दूरे꣡ वा सतो꣡ अ꣡न्ति वा
+नि᳓ श᳓त्रोः सोम वृ᳓ष्णियं  
+नि᳓ शु᳓ष्मं नि᳓ व᳓यस् तिर  
+दूरे᳓ वा सतो᳓ अ᳓न्ति वा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

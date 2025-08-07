@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡ य꣡द् या꣡माय वो गिरि꣡र्  
-नि꣡ सि꣡न्धवो वि꣡धर्मणे  
-महे꣡ शु꣡ष्माय येमिरे꣡
+नि᳓ य᳓द् या᳓माय वो गिरि᳓र्  
+नि᳓ सि᳓न्धवो वि᳓धर्मणे  
+महे᳓ शु᳓ष्माय येमिरे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡ अघ्निय꣡स्य मूर्ध꣡नि  
-चक्रं꣡ र꣡थस्य येमथुः  
-प꣡रि द्या꣡म् अन्य꣡द् ईयते
+नि᳓ अघ्निय᳓स्य मूर्ध᳓नि  
+चक्रं᳓ र᳓थस्य येमथुः  
+प᳓रि द्या᳓म् अन्य᳓द् ईयते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

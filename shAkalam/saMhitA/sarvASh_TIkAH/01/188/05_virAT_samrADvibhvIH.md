@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-विरा꣡ट् सम्रा꣡ड् विभ्वीः꣡ प्रभ्वी꣡र्  
-बह्वी꣡श् च भू꣡यसीश् च याः꣡  
-दु꣡रो घृता꣡नि अक्षरन्
+विरा᳓ट् सम्रा᳓ड् विभ्वीः᳓ प्रभ्वी᳓र्  
+बह्वी᳓श् च भू᳓यसीश् च याः᳓  
+दु᳓रो घृता᳓नि अक्षरन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

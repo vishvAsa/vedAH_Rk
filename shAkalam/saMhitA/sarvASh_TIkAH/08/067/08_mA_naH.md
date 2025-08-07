@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नः से꣡तुः सिषेद् अय꣡म्  
-महे꣡ वृणक्तु नस् प꣡रि  
-इ꣡न्द्र इ꣡द् धि꣡ श्रुतो꣡ वशी꣡
+मा᳓ नः से᳓तुः सिषेद् अय᳓म्  
+महे᳓ वृणक्तु नस् प᳓रि  
+इ᳓न्द्र इ᳓द् धि᳓ श्रुतो᳓ वशी᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

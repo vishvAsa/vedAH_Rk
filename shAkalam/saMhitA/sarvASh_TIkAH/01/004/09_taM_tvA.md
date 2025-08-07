@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा वा꣡जेषु वाजि꣡नं  
-वाज꣡यामः शतक्रतो  
-ध꣡नानाम् इन्द्र सात꣡ये
+तं᳓ त्वा वा᳓जेषु वाजि᳓नं  
+वाज᳓यामः शतक्रतो  
+ध᳓नानाम् इन्द्र सात᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

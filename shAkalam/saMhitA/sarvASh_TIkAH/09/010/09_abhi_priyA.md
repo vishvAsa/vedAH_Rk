@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ प्रिया꣡ दिव꣡स् पद꣡म्  
-अध्वर्यु꣡भिर् गु꣡हा हित꣡म्  
-सू꣡रः पश्यति च꣡क्षसा
+अभि᳓ प्रिया᳓ दिव᳓स् पद᳓म्  
+अध्वर्यु᳓भिर् गु᳓हा हित᳓म्  
+सू᳓रः पश्यति च᳓क्षसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

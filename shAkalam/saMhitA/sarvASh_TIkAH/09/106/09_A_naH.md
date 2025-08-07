@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नः सुतास इन्दवः  
-पुनाना꣡ धावता रयि꣡म्  
-वृष्टि꣡द्यावो रीतिआपः सुवर्वि꣡दः
+आ᳓ नः सुतास इन्दवः  
+पुनाना᳓ धावता रयि᳓म्  
+वृष्टि᳓द्यावो रीतिआपः सुवर्वि᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प स्र꣡क्वेषु ब꣡प्सतः  
-कृण्वते꣡ धरु꣡णं दिवि꣡  
-इ꣡न्द्रे अग्ना꣡ न꣡मः सु꣡वः
+उ᳓प स्र᳓क्वेषु ब᳓प्सतः  
+कृण्वते᳓ धरु᳓णं दिवि᳓  
+इ᳓न्द्रे अग्ना᳓ न᳓मः सु᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

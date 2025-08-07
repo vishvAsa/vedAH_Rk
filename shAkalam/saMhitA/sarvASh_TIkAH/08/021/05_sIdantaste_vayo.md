@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सी꣡दन्तस् ते व꣡यो यथा  
-गो꣡श्रीते म꣡धौ मदिरे꣡ विव꣡क्षणे  
-अभि꣡ त्वा꣡म् इन्द्र नोनुमः
+सी᳓दन्तस् ते व᳓यो यथा  
+गो᳓श्रीते म᳓धौ मदिरे᳓ विव᳓क्षणे  
+अभि᳓ त्वा᳓म् इन्द्र नोनुमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

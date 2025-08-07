@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने हं꣡सि नि꣡ अत्रि꣡णं  
-दी꣡दियन् म꣡र्तियेषु आ꣡  
-सुवे꣡ क्ष꣡ये शुचिव्रत
+अ᳓ग्ने हं᳓सि नि᳓ अत्रि᳓णं  
+दी᳓दियन् म᳓र्तियेषु आ᳓  
+सुवे᳓ क्ष᳓ये शुचिव्रत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

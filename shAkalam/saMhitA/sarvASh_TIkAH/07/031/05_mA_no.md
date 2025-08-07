@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नो निदे꣡ च व꣡क्तवे  
-अर्यो꣡ रन्धीर् अ꣡रावणे  
-तुवे꣡ अ꣡पि क्र꣡तुर् म꣡म
+मा᳓ नो निदे᳓ च व᳓क्तवे  
+अर्यो᳓ रन्धीर् अ᳓रावणे  
+तुवे᳓ अ᳓पि क्र᳓तुर् म᳓म
 </details>
 
 <details><summary>Vedaweb annotation</summary>

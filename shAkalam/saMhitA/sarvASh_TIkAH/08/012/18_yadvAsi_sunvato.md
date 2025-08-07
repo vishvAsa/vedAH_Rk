@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् वा꣡सि सुन्वतो꣡ वृधो꣡  
-य꣡जमानस्य सत्पते  
-उक्थे꣡ वा य꣡स्य र꣡ण्यसि स꣡म् इ꣡न्दुभिः
+य᳓द् वा᳓सि सुन्वतो᳓ वृधो᳓  
+य᳓जमानस्य सत्पते  
+उक्थे᳓ वा य᳓स्य र᳓ण्यसि स᳓म् इ᳓न्दुभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

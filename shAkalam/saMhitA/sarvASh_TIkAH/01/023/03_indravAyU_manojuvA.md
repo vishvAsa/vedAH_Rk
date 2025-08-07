@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इन्द्रवायू꣡ मनोजु꣡वा  
-वि꣡प्रा हवन्त ऊत꣡ये  
-सहस्राक्षा꣡ धिय꣡स् प꣡ती
+इन्द्रवायू᳓ मनोजु᳓वा  
+वि᳓प्रा हवन्त ऊत᳓ये  
+सहस्राक्षा᳓ धिय᳓स् प᳓ती
 </details>
 
 <details><summary>Vedaweb annotation</summary>

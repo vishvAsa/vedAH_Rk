@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि प्रिया꣡ दिवः꣡ कवि꣡र्  
-व꣡यांसि नप्ति꣡योर् हितः꣡  
-स्वानो꣡° याति कवि꣡क्रतुः
+प᳓रि प्रिया᳓ दिवः᳓ कवि᳓र्  
+व᳓यांसि नप्ति᳓योर् हितः᳓  
+स्वानो᳓° याति कवि᳓क्रतुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

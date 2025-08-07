@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने पवाक+ रोचि꣡षा  
-मन्द्र꣡या देव जिह्व꣡या  
-आ꣡ देवा꣡न् वक्षि य꣡क्षि च
+अ᳓ग्ने पवाक+ रोचि᳓षा  
+मन्द्र᳓या देव जिह्व᳓या  
+आ᳓ देवा᳓न् वक्षि य᳓क्षि च
 </details>
 
 <details><summary>Vedaweb annotation</summary>

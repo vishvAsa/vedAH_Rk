@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पि꣡बे꣡द् इन्द्र मरु꣡त्सखा  
-सुतं꣡ सो꣡मं दि꣡विष्टिषु  
-व꣡ज्रं शि꣡शान ओ꣡जसा
+पि᳓बे᳓द् इन्द्र मरु᳓त्सखा  
+सुतं᳓ सो᳓मं दि᳓विष्टिषु  
+व᳓ज्रं शि᳓शान ओ᳓जसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡द् ऋध्नोति हवि꣡ष्कृतिम्  
-प्रा꣡ञ्चं कृणोति अध्वर꣡म्  
-हो꣡त्रा देवे꣡षु गछति
+आ᳓द् ऋध्नोति हवि᳓ष्कृतिम्  
+प्रा᳓ञ्चं कृणोति अध्वर᳓म्  
+हो᳓त्रा देवे᳓षु गछति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

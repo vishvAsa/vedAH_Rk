@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡षा सोम द्युमाँ꣡ असि  
-वृ꣡षा देव वृ꣡षव्रतः  
-वृ꣡षा ध꣡र्माणि दधिषे
+वृ᳓षा सोम द्युमाँ᳓ असि  
+वृ᳓षा देव वृ᳓षव्रतः  
+वृ᳓षा ध᳓र्माणि दधिषे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

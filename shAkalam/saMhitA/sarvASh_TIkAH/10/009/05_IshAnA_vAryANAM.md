@@ -15,9 +15,9 @@ ChandaH = "वर्धमाना"
 
 <details><summary>Thomson & Solcum</summary>
 
-ई꣡शाना वा꣡रियाणां᳐  
-क्ष꣡यन्तीश् चर्षणीना᳐꣡म्  
-अपो꣡ याचामि भेषज꣡म्
+ई᳓शाना वा᳓रियाणां᳐  
+क्ष᳓यन्तीश् चर्षणीना᳐᳓म्  
+अपो᳓ याचामि भेषज᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

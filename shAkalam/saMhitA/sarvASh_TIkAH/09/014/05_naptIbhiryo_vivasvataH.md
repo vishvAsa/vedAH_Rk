@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नप्ती꣡भिर् यो꣡ विव꣡स्वतः  
-शुभ्रो꣡ न꣡ मामृजे꣡ यु꣡वा  
-गाः꣡ कृण्वानो꣡ न꣡ निर्णि꣡जम्
+नप्ती᳓भिर् यो᳓ विव᳓स्वतः  
+शुभ्रो᳓ न᳓ मामृजे᳓ यु᳓वा  
+गाः᳓ कृण्वानो᳓ न᳓ निर्णि᳓जम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

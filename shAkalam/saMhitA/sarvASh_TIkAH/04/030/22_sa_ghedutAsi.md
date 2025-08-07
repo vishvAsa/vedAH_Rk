@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ घे꣡द् उता꣡सि वृत्रहन्  
-समान꣡ इन्द्र गो꣡पतिः  
-य꣡स् ता꣡ वि꣡श्वानि चिच्युषे꣡
+स᳓ घे᳓द् उता᳓सि वृत्रहन्  
+समान᳓ इन्द्र गो᳓पतिः  
+य᳓स् ता᳓ वि᳓श्वानि चिच्युषे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

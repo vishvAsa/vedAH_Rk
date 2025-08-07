@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡पो षु꣡ जात꣡म् अप्तु꣡रं  
-गो꣡भिर् भङ्ग꣡म् प꣡रिष्कृतम्  
-इ꣡न्दुं देवा꣡ अयासिषुः
+उ᳓पो षु᳓ जात᳓म् अप्तु᳓रं  
+गो᳓भिर् भङ्ग᳓म् प᳓रिष्कृतम्  
+इ᳓न्दुं देवा᳓ अयासिषुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -165,7 +165,7 @@ _________
 
 Up to the one who, just born, crosses the waters, breaking through,  adorned by cows—  
 up to the drop have the gods traveled.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/13-15.md">

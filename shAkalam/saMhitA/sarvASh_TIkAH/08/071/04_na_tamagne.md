@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ त꣡म् अग्ने अ꣡रातयो  
-म꣡र्तं युवन्त रा᳐यः꣡  
-यं꣡ त्रा꣡यसे दाशुवां꣡सम्
+न᳓ त᳓म् अग्ने अ᳓रातयो  
+म᳓र्तं युवन्त रा᳐यः᳓  
+यं᳓ त्रा᳓यसे दाशुवां᳓सम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

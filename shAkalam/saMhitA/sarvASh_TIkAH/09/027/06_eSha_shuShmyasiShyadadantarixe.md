@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ शुष्मी꣡ असिष्यदद्  
-अन्त꣡रिक्षे वृ꣡षा ह꣡रिः  
-पुनान꣡ इ꣡न्दुर् इ꣡न्द्रम् आ꣡
+एष᳓ शुष्मी᳓ असिष्यदद्  
+अन्त᳓रिक्षे वृ᳓षा ह᳓रिः  
+पुनान᳓ इ᳓न्दुर् इ᳓न्द्रम् आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

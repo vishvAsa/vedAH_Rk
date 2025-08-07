@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡भिर् आ꣡ गछतं नरा  
-उ꣡पेदं꣡ स꣡वनं सुत꣡म्  
-इ꣡न्द्राग्नी सो꣡मपीतये
+ता᳓भिर् आ᳓ गछतं नरा  
+उ᳓पेदं᳓ स᳓वनं सुत᳓म्  
+इ᳓न्द्राग्नी सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -173,7 +173,7 @@ _________
 With those come here, you superior men, up to this pressing  
 pressed here,  
 o Indra and Agni, for soma-drinking.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/08-09.md">

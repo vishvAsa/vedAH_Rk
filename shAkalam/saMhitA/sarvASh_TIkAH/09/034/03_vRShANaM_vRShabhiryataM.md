@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡षाणं वृ꣡षभिर् यतं꣡  
-सुन्व꣡न्ति सो꣡मम् अ꣡द्रिभिः  
-दुह꣡न्ति श꣡क्मना प꣡यः
+वृ᳓षाणं वृ᳓षभिर् यतं᳓  
+सुन्व᳓न्ति सो᳓मम् अ᳓द्रिभिः  
+दुह᳓न्ति श᳓क्मना प᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

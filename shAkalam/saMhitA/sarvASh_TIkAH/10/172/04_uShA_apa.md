@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उषा꣡ अ꣡प स्व꣡सुस् त꣡मः  
-सं꣡ वर्तयति वर्तनिं꣡ सुजात꣡ता
+उषा᳓ अ᳓प स्व᳓सुस् त᳓मः  
+सं᳓ वर्तयति वर्तनिं᳓ सुजात᳓ता
 </details>
 
 <details><summary>Vedaweb annotation</summary>

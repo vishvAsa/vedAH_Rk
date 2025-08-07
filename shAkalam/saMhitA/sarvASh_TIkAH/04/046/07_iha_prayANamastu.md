@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इह꣡ प्रया꣡णम् अस्तु वाम्  
-इ꣡न्द्रवायू विमो꣡चनम्  
-इह꣡ वां सो꣡मपीतये
+इह᳓ प्रया᳓णम् अस्तु वाम्  
+इ᳓न्द्रवायू विमो᳓चनम्  
+इह᳓ वां सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

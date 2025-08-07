@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ त्वा विशन्तु आश꣡वः  
-सो꣡मास इन्द्र गिर्वणः  
-शं꣡ ते सन्तु प्र꣡चेतसे
+आ᳓ त्वा विशन्तु आश᳓वः  
+सो᳓मास इन्द्र गिर्वणः  
+शं᳓ ते सन्तु प्र᳓चेतसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

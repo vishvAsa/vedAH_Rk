@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-ब꣡ण् महाँ꣡ असि सूरिय  
-ब꣡ळ् आदित्य महाँ꣡ असि  
-मह꣡स् ते सतो꣡ महिमा꣡ पनस्यते  
-अद्धा꣡ देव महाँ꣡ असि
+ब᳓ण् महाँ᳓ असि सूरिय  
+ब᳓ळ् आदित्य महाँ᳓ असि  
+मह᳓स् ते सतो᳓ महिमा᳓ पनस्यते  
+अद्धा᳓ देव महाँ᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -225,7 +225,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Yes indeed! you are great, Sūrya; yes indeed! Āditya, you are great. The greatness of you who are great attracts admiration. Certainly, god,  you are great.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/101/11-12.md">

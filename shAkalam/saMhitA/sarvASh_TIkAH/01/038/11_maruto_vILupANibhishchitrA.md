@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-म꣡रुतो वीळुपाणि꣡भिश्  
-चित्रा꣡ रो꣡धस्वतीर् अ꣡नु  
-याते꣡म् अ꣡खिद्रयामभिः
+म᳓रुतो वीळुपाणि᳓भिश्  
+चित्रा᳓ रो᳓धस्वतीर् अ᳓नु  
+याते᳓म् अ᳓खिद्रयामभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

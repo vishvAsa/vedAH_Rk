@@ -15,9 +15,9 @@ ChandaH = "ह्रसीयसी"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡यिष्ठम्+ उ प्रिया꣡णां᳐  
-स्तुहि꣡ आसाव अ꣡तिथिम्  
-अग्निं꣡ र꣡थानां᳐ य꣡मम्
+प्र᳓यिष्ठम्+ उ प्रिया᳓णां᳐  
+स्तुहि᳓ आसाव अ᳓तिथिम्  
+अग्निं᳓ र᳓थानां᳐ य᳓मम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

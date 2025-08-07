@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡म् बाहु꣡तेव पि꣡प्रति  
-पा᳐꣡न्ति म꣡र्तियं रिषः꣡  
-अ꣡रिष्टः स꣡र्व एधते
+य᳓म् बाहु᳓तेव पि᳓प्रति  
+पा᳐᳓न्ति म᳓र्तियं रिषः᳓  
+अ᳓रिष्टः स᳓र्व एधते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

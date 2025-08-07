@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इछ꣡न्त रे꣡तो मिथ꣡स् तनू꣡षु  
-सं꣡ जानत स्वइ꣡र् द꣡क्षैर् अ꣡मूराः
+इछ᳓न्त रे᳓तो मिथ᳓स् तनू᳓षु  
+सं᳓ जानत स्वइ᳓र् द᳓क्षैर् अ᳓मूराः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

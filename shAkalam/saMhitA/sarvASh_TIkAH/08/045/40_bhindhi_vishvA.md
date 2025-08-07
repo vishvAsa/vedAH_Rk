@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-भिन्धि꣡ वि꣡श्वा अ꣡प द्वि꣡षः  
-प꣡रि बा꣡धो जही꣡ मृ꣡धः  
-व꣡सु स्पार्हं꣡ त꣡द् आ꣡ भर
+भिन्धि᳓ वि᳓श्वा अ᳓प द्वि᳓षः  
+प᳓रि बा᳓धो जही᳓ मृ᳓धः  
+व᳓सु स्पार्हं᳓ त᳓द् आ᳓ भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>

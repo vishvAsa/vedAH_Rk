@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-द꣡धानो गो꣡मद् अ꣡श्ववत्  
-सुवी꣡रियम् आदित्य꣡जूत एधते  
-स꣡दा राया꣡ पुरुस्पृ꣡हा
+द᳓धानो गो᳓मद् अ᳓श्ववत्  
+सुवी᳓रियम् आदित्य᳓जूत एधते  
+स᳓दा राया᳓ पुरुस्पृ᳓हा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

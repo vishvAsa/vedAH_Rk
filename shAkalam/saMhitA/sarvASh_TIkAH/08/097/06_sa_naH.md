@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नः सो꣡मेषु सोमपाः  
-सुते꣡षु शवसस् पते  
-माद꣡यस्व रा꣡धसा सूनृ꣡तावत  
-इ꣡न्द्र राया꣡ प꣡रीणसा
+स᳓ नः सो᳓मेषु सोमपाः  
+सुते᳓षु शवसस् पते  
+माद᳓यस्व रा᳓धसा सूनृ᳓तावत  
+इ᳓न्द्र राया᳓ प᳓रीणसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

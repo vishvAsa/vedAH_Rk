@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रथमा꣡ हि꣡ सुवा꣡चसा  
-हो꣡तारा दइ꣡विया कवी꣡  
-यज्ञं꣡ नो यक्षताम् इम꣡म्
+प्रथमा᳓ हि᳓ सुवा᳓चसा  
+हो᳓तारा दइ᳓विया कवी᳓  
+यज्ञं᳓ नो यक्षताम् इम᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

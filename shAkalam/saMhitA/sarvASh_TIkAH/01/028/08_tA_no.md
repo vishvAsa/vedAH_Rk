@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ नो अद्य꣡ वनस्पती  
-ऋष्वा꣡व् ऋष्वे꣡भिः सोतृ꣡भिः  
-इ꣡न्द्राय म꣡धुमत् सुतम्
+ता᳓ नो अद्य᳓ वनस्पती  
+ऋष्वा᳓व् ऋष्वे᳓भिः सोतृ᳓भिः  
+इ᳓न्द्राय म᳓धुमत् सुतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

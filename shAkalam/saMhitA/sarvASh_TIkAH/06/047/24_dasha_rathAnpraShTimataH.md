@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-द꣡श र꣡थान् प्र꣡ष्टिमतः  
-शतं꣡ गा᳐꣡ अ꣡थर्वभ्यः  
-अश्वथः꣡ पाय꣡वे अदात्
+द᳓श र᳓थान् प्र᳓ष्टिमतः  
+शतं᳓ गा᳐᳓ अ᳓थर्वभ्यः  
+अश्वथः᳓ पाय᳓वे अदात्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

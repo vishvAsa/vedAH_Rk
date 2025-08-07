@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सहो꣡ षु꣡ णो व꣡ज्रहस्तैः  
-क꣡ण्वासो अग्नि꣡म् मरु꣡द्भिः  
-स्तुषे꣡ हि꣡रण्यवाशीभिः
+सहो᳓ षु᳓ णो व᳓ज्रहस्तैः  
+क᳓ण्वासो अग्नि᳓म् मरु᳓द्भिः  
+स्तुषे᳓ हि᳓रण्यवाशीभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -167,7 +167,7 @@ _________
 
 O Kaṇvas, for us I will praise Agni along with the Maruts, who have  maces in their hands,  
 who have golden axes.1044 VIII.8
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/32-33.md">

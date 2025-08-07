@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ए꣡ह꣡ ह꣡री ब्रह्मयु꣡जा  
-शग्मा꣡ वक्षतः स꣡खायम्  
-गीर्भिः꣡ श्रुतं꣡ गि꣡र्वणसम्
+ए᳓ह᳓ ह᳓री ब्रह्मयु᳓जा  
+शग्मा᳓ वक्षतः स᳓खायम्  
+गीर्भिः᳓ श्रुतं᳓ गि᳓र्वणसम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

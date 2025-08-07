@@ -15,8 +15,8 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने वीहि꣡ हवि꣡षा य꣡क्षि देवा꣡न्  
-सुअध्वरा꣡ कृणुहि जातवेदः
+अ᳓ग्ने वीहि᳓ हवि᳓षा य᳓क्षि देवा᳓न्  
+सुअध्वरा᳓ कृणुहि जातवेदः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

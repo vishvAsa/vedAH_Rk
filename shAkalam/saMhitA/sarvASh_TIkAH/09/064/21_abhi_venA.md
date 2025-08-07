@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ वेना꣡ अनूषत  
-इ꣡यक्षन्ति प्र꣡चेतसः  
-म꣡ज्जन्ति अ꣡विचेतसः
+अभि᳓ वेना᳓ अनूषत  
+इ᳓यक्षन्ति प्र᳓चेतसः  
+म᳓ज्जन्ति अ᳓विचेतसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡नून꣡पात् प꣡वमानः  
-शृ꣡ङ्गे शि꣡शानो अर्षति  
-अन्त꣡रिक्षेण रा꣡रजत्
+त᳓नून᳓पात् प᳓वमानः  
+शृ᳓ङ्गे शि᳓शानो अर्षति  
+अन्त᳓रिक्षेण रा᳓रजत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

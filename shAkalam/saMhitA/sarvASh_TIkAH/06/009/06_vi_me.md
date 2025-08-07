@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ मे क꣡र्णा पतयतो वि꣡ च꣡क्षुर्  
-वी꣡दं꣡ ज्यो꣡तिर् हृ꣡दय आ꣡हितं य꣡त्  
-वि꣡ मे म꣡नश् चरति दूर꣡आधीः  
-किं꣡ स्विद् वक्ष्या꣡मि कि꣡म् उ नू꣡ मनिष्ये
+वि᳓ मे क᳓र्णा पतयतो वि᳓ च᳓क्षुर्  
+वी᳓दं᳓ ज्यो᳓तिर् हृ᳓दय आ᳓हितं य᳓त्  
+वि᳓ मे म᳓नश् चरति दूर᳓आधीः  
+किं᳓ स्विद् वक्ष्या᳓मि कि᳓म् उ नू᳓ मनिष्ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -297,7 +297,7 @@ _________
 
 My two ears fly widely, widely my sight, widely this light that was  deposited in my heart.  
 Widely goes my mind, my intentions at a distance. What shall I say, and  what now shall I think?
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/05-07.md">

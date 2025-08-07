@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡स्मा अद्य꣡ सु꣡जाताय  
-रात꣡हव्याय प्र꣡ ययुः  
-एना꣡ या꣡मेन मरु꣡तः
+क᳓स्मा अद्य᳓ सु᳓जाताय  
+रात᳓हव्याय प्र᳓ ययुः  
+एना᳓ या᳓मेन मरु᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

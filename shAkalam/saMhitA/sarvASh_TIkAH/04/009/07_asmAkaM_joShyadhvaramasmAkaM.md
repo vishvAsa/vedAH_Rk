@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्मा꣡कं जोषि अध्वर꣡म्  
-अस्मा꣡कं यज्ञ꣡म् अङ्गिरः  
-अस्मा꣡कं शृणुधी ह꣡वम्
+अस्मा᳓कं जोषि अध्वर᳓म्  
+अस्मा᳓कं यज्ञ᳓म् अङ्गिरः  
+अस्मा᳓कं शृणुधी ह᳓वम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

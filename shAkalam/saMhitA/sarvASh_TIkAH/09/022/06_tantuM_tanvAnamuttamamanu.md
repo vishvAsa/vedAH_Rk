@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡न्तुं तन्वान꣡म् उत्तम꣡म्  
-अ꣡नु प्रव꣡त आशत  
-उते꣡द꣡म् उत्तमा꣡यियम्
+त᳓न्तुं तन्वान᳓म् उत्तम᳓म्  
+अ᳓नु प्रव᳓त आशत  
+उते᳓द᳓म् उत्तमा᳓यियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -149,7 +149,7 @@ As it spreads out the sacrifice: tantum = yajñam; or, alternatively, straining-
 <details><summary>Jamison Brereton</summary>
 
 They have reached the highest thread being stretched, along the inclines, and this one that is to be higher still.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/04-06.md">

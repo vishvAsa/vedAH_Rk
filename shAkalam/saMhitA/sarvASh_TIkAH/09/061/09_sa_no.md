@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो भ꣡गाय वाय꣡वे  
-पूष्णे꣡ पवस्व म꣡धुमान्  
-चा꣡रुर् मित्रे꣡ व꣡रुणे च
+स᳓ नो भ᳓गाय वाय᳓वे  
+पूष्णे᳓ पवस्व म᳓धुमान्  
+चा᳓रुर् मित्रे᳓ व᳓रुणे च
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -166,7 +166,7 @@ _________
 
 Purify yourself for us, honeyed for Bhaga, for Vāyu, for Pūṣan,  
 dear to Mitra and Varuṇa.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/07-09.md">

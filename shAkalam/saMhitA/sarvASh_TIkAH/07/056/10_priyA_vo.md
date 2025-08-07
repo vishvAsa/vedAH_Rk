@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रिया꣡ वो ना꣡म हुवे तुरा꣡णाम्  
-आ꣡ य꣡त् तृप꣡न् मरुतो वावशानाः꣡
+प्रिया᳓ वो ना᳓म हुवे तुरा᳓णाम्  
+आ᳓ य᳓त् तृप᳓न् मरुतो वावशानाः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

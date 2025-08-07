@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्निं꣡ दूत꣡म् पुरो꣡ दधे  
-हव्यवा꣡हम् उ꣡प ब्रुवे  
-देवाँ꣡ आ꣡ सादयाद् इह꣡
+अग्निं᳓ दूत᳓म् पुरो᳓ दधे  
+हव्यवा᳓हम् उ᳓प ब्रुवे  
+देवाँ᳓ आ᳓ सादयाद् इह᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रस् ते सोम सुत꣡स्य पेयाः  
-क्र꣡त्वे द꣡क्षाय वि꣡श्वे च देवाः꣡
+इ᳓न्द्रस् ते सोम सुत᳓स्य पेयाः  
+क्र᳓त्वे द᳓क्षाय वि᳓श्वे च देवाः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -152,7 +152,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Indra should drink of you, Soma, when you are pressed, for will and  skill—and (so should) all the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/01-03.md">

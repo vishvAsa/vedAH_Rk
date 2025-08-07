@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्वा꣡म् अग्ने वाजसा꣡तमं  
-वि꣡प्रा वर्धन्ति सु꣡ष्टुतम्  
-स꣡ नो रास्व सुवी꣡रियम्
+त्वा᳓म् अग्ने वाजसा᳓तमं  
+वि᳓प्रा वर्धन्ति सु᳓ष्टुतम्  
+स᳓ नो रास्व सुवी᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

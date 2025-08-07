@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र श्रुधि꣡ सु꣡ मे ह꣡वम्  
-अस्मे꣡ सुत꣡स्य गो꣡मतः  
-वि꣡ पीतिं꣡ तृप्ति꣡म् अश्नुहि
+इ᳓न्द्र श्रुधि᳓ सु᳓ मे ह᳓वम्  
+अस्मे᳓ सुत᳓स्य गो᳓मतः  
+वि᳓ पीतिं᳓ तृप्ति᳓म् अश्नुहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

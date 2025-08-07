@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इत्था꣡ धी꣡वन्तम् अद्रिवः  
-काणुव꣡म् मे꣡धियातिथिम्  
-मेषो꣡ भूतो꣡ ऽभि꣡ य꣡न्न् अ꣡यः
+इत्था᳓ धी᳓वन्तम् अद्रिवः  
+काणुव᳓म् मे᳓धियातिथिम्  
+मेषो᳓ भूतो᳓ ऽभि᳓ य᳓न्न् अ᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ अग्निं꣡ हव्य꣡दातिभिर्  
-न꣡मोभिर् वा सुद꣡क्षम् आवि꣡वासति  
-गिरा꣡ वाजिर꣡शोचिषम्
+यो᳓ अग्निं᳓ हव्य᳓दातिभिर्  
+न᳓मोभिर् वा सुद᳓क्षम् आवि᳓वासति  
+गिरा᳓ वाजिर᳓शोचिषम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

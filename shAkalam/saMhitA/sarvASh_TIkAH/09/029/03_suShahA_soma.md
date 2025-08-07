@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुष꣡हा सोम ता꣡नि ते  
-पुनाना꣡य प्रभूवसो  
-व꣡र्धा समुद्र꣡म् उक्थि꣡यम्
+सुष᳓हा सोम ता᳓नि ते  
+पुनाना᳓य प्रभूवसो  
+व᳓र्धा समुद्र᳓म् उक्थि᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

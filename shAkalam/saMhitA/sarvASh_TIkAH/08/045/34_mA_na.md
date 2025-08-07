@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ न ए꣡कस्मिन्न् आ꣡गसि  
-मा꣡ दुव꣡योर् उत꣡ त्रिषु꣡  
-व꣡धीर् मा꣡ शूर भू꣡रिषु
+मा᳓ न ए᳓कस्मिन्न् आ᳓गसि  
+मा᳓ दुव᳓योर् उत᳓ त्रिषु᳓  
+व᳓धीर् मा᳓ शूर भू᳓रिषु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

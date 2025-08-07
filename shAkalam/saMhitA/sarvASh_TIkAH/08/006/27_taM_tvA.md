@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा हवि꣡ष्मतीर् वि꣡श  
-उ꣡प ब्रुवत ऊत꣡ये  
-उरुज्र꣡यसम् इ꣡न्दुभिः
+तं᳓ त्वा हवि᳓ष्मतीर् वि᳓श  
+उ᳓प ब्रुवत ऊत᳓ये  
+उरुज्र᳓यसम् इ᳓न्दुभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -153,7 +153,7 @@ _________
 
 Upon you the clans, offering oblations, call for help,  
 (you who are) of broad expanse through the drops.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/26-27.md">

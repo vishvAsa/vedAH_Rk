@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ति ष्या꣡ सून꣡री ज꣡नी  
-विउछ꣡न्ती प꣡रि स्व꣡सुः  
-दिवो꣡ अदर्शि दुहिता꣡
+प्र᳓ति ष्या᳓ सून᳓री ज᳓नी  
+विउछ᳓न्ती प᳓रि स्व᳓सुः  
+दिवो᳓ अदर्शि दुहिता᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

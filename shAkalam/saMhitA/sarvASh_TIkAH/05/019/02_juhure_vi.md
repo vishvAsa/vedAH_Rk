@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-जुहुरे꣡ वि꣡ चित꣡यन्तो  
-अ꣡निमिषं नृम्ण꣡म् पान्ति  
-आ꣡ दॄळ्हा꣡म्+ पु꣡रं विविशुः
+जुहुरे᳓ वि᳓ चित᳓यन्तो  
+अ᳓निमिषं नृम्ण᳓म् पान्ति  
+आ᳓ दॄळ्हा᳓म्+ पु᳓रं विविशुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

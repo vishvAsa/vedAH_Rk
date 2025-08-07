@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ चष्ट आसाम् पा꣡थो नदी꣡नां  
-व꣡रुण उग्रः꣡ सह꣡स्रचक्षाः
+आ᳓ चष्ट आसाम् पा᳓थो नदी᳓नां  
+व᳓रुण उग्रः᳓ सह᳓स्रचक्षाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -139,7 +139,7 @@ _________
 
 He inspects the haven of these (waters), of the rivers—  
 powerful Varuṇa of a thousand eyes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/10-11.md">

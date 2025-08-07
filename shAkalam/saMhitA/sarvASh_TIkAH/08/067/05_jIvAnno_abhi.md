@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-जीवा꣡न् नो अभि꣡ धेतन  
-आ꣡दित्यासः पुरा꣡ ह꣡थात्  
-क꣡द् ध स्थ हवनश्रुतः
+जीवा᳓न् नो अभि᳓ धेतन  
+आ᳓दित्यासः पुरा᳓ ह᳓थात्  
+क᳓द् ध स्थ हवनश्रुतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

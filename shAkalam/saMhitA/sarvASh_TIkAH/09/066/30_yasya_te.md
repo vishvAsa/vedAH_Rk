@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य ते द्युम्न꣡वत् प꣡यः  
-प꣡वमाना꣡भृतं दिवः꣡  
-ते꣡न नो मॄळ+ जीव꣡से
+य᳓स्य ते द्युम्न᳓वत् प᳓यः  
+प᳓वमाना᳓भृतं दिवः᳓  
+ते᳓न नो मॄळ+ जीव᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -162,7 +162,7 @@ _________
 
 You, self-purifying one, whose heaven-bright milk was brought here  from heaven,  
 with it be gracious to us, for us to live.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/28-30.md">

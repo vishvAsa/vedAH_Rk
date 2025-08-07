@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्मा꣡कं सु꣡ र꣡थम् पुर꣡  
-इ꣡न्द्रः कृणोतु सात꣡ये  
-न꣡ यं꣡ धू꣡र्वन्ति धूर्त꣡यः
+अस्मा᳓कं सु᳓ र᳓थम् पुर᳓  
+इ᳓न्द्रः कृणोतु सात᳓ये  
+न᳓ यं᳓ धू᳓र्वन्ति धूर्त᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वय꣡म् इन्द्र तुवाय꣡वो  
-हवि꣡ष्मन्तो जरामहे  
-उत꣡ त्व꣡म् अस्मयु꣡र् वसो
+वय᳓म् इन्द्र तुवाय᳓वो  
+हवि᳓ष्मन्तो जरामहे  
+उत᳓ त्व᳓म् अस्मयु᳓र् वसो
 </details>
 
 <details><summary>Vedaweb annotation</summary>

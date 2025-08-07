@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नो अस्मि꣡न् महाधने꣡  
-प꣡रा वर्ग् भारभृ꣡द् यथा  
-संव꣡र्गं सं꣡ रयिं꣡ जय
+मा᳓ नो अस्मि᳓न् महाधने᳓  
+प᳓रा वर्ग् भारभृ᳓द् यथा  
+संव᳓र्गं सं᳓ रयिं᳓ जय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

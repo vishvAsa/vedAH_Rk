@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-õ꣡ षु꣡ वृ꣡ष्णः प्र꣡यज्यून्  
-आ꣡ न꣡व्यसे सुविता꣡य  
-ववृतियां꣡ चित्र꣡वाजान्
+õ᳓ षु᳓ वृ᳓ष्णः प्र᳓यज्यून्  
+आ᳓ न᳓व्यसे सुविता᳓य  
+ववृतियां᳓ चित्र᳓वाजान्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -161,7 +161,7 @@ _________
 
 I (would turn) hither the bulls, worshiped first at the sacrifice, hither for  newer good progress,  
 would turn them who bring glittering prizes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/32-33.md">

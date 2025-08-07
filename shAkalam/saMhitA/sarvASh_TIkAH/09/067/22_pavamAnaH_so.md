@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानः सो꣡ अद्य꣡ नः  
-पवि꣡त्रेण वि꣡चर्षणिः  
-यः꣡ पोता꣡ स꣡ पुनातु नः
+प᳓वमानः सो᳓ अद्य᳓ नः  
+पवि᳓त्रेण वि᳓चर्षणिः  
+यः᳓ पोता᳓ स᳓ पुनातु नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ सो꣡मो अ꣡धि त्वचि꣡  
-ग꣡वां क्रीळति अ꣡द्रिभिः  
-इ꣡न्द्रम् म꣡दाय जो꣡हुवत्
+एष᳓ सो᳓मो अ᳓धि त्वचि᳓  
+ग᳓वां क्रीळति अ᳓द्रिभिः  
+इ᳓न्द्रम् म᳓दाय जो᳓हुवत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -161,7 +161,7 @@ I.e. then the priests by means of the Soma, perform Indra's praise
 
 This Soma plays on the hide of cows with the stones,  
 repeatedly invoking Indra to exhilaration.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/28-30.md">

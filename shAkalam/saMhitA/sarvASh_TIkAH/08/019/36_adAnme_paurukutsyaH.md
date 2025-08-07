@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡दान् मे पौरुकुत्सियः꣡  
-पञ्चाश꣡तं त्रस꣡दस्युर् वधू꣡नाम्  
-मं꣡हिष्ठो अर्यः꣡ स꣡त्पतिः
+अ᳓दान् मे पौरुकुत्सियः᳓  
+पञ्चाश᳓तं त्रस᳓दस्युर् वधू᳓नाम्  
+मं᳓हिष्ठो अर्यः᳓ स᳓त्पतिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्वधा꣡म् अ꣡नु श्रि꣡यं न꣡रो  
-म꣡हि त्वेषा꣡ अ꣡मवन्तो वृ꣡षप्सवः  
-व꣡हन्ते अ꣡ह्रुतप्सवः
+स्वधा᳓म् अ᳓नु श्रि᳓यं न᳓रो  
+म᳓हि त्वेषा᳓ अ᳓मवन्तो वृ᳓षप्सवः  
+व᳓हन्ते अ᳓ह्रुतप्सवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

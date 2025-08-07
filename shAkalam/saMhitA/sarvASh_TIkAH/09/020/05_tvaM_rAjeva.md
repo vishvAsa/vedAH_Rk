@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ रा꣡जेव सुव्रतो꣡  
-गि꣡रः सोमा꣡ विवेशिथ  
-पुनानो꣡ वह्ने अद्भुत
+तुवं᳓ रा᳓जेव सुव्रतो᳓  
+गि᳓रः सोमा᳓ विवेशिथ  
+पुनानो᳓ वह्ने अद्भुत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

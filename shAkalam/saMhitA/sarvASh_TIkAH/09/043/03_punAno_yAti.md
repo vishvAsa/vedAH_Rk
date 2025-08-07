@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुनानो꣡ याति हर्यतः꣡  
-सो꣡मो गीर्भिः꣡ प꣡रिष्कृतः  
-वि꣡प्रस्य मे꣡धियातिथेः
+पुनानो᳓ याति हर्यतः᳓  
+सो᳓मो गीर्भिः᳓ प᳓रिष्कृतः  
+वि᳓प्रस्य मे᳓धियातिथेः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

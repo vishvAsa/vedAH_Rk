@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡र् इन्द्र बृहती꣡भियो  
-वृत्रं꣡ ध꣡नुभ्यो अस्फुरः  
-नि꣡र् अ꣡र्बुदस्य मृ꣡गयस्य मायि꣡नो  
-निः꣡ प꣡र्वतस्य गा꣡ आजः
+नि᳓र् इन्द्र बृहती᳓भियो  
+वृत्रं᳓ ध᳓नुभ्यो अस्फुरः  
+नि᳓र् अ᳓र्बुदस्य मृ᳓गयस्य मायि᳓नो  
+निः᳓ प᳓र्वतस्य गा᳓ आजः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -194,7 +194,7 @@ _________
 You kicked Vr̥tra out from the lofty steppes, Indra.  
 You drove (the cows) of Arbuda and the tricky Mr̥gaya out, out the  
 cows of Parvata.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/19-20.md">

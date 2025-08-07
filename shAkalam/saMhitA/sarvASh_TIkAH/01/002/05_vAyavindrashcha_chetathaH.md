@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वा꣡यव् इ꣡न्द्रश् च चेतथः  
-सुता꣡नां वाजिनीवसू  
-ता꣡व् आ꣡ यातम् उ꣡प द्रव꣡त्
+वा᳓यव् इ᳓न्द्रश् च चेतथः  
+सुता᳓नां वाजिनीवसू  
+ता᳓व् आ᳓ यातम् उ᳓प द्रव᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

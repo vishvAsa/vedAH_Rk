@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व दक्षसा꣡धनो  
-देवे꣡भ्यः पीत꣡ये हरे  
-मरु꣡द्भ्यो वाय꣡वे म꣡दः
+प᳓वस्व दक्षसा᳓धनो  
+देवे᳓भ्यः पीत᳓ये हरे  
+मरु᳓द्भ्यो वाय᳓वे म᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

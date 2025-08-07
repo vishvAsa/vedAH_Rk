@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-माया꣡भिर् उत्सि꣡सृप्सत  
-इ꣡न्द्र द्या꣡म् आरु꣡रुक्षतः  
-अ꣡व द꣡स्यूँर् अधूनुथाः
+माया᳓भिर् उत्सि᳓सृप्सत  
+इ᳓न्द्र द्या᳓म् आरु᳓रुक्षतः  
+अ᳓व द᳓स्यूँर् अधूनुथाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

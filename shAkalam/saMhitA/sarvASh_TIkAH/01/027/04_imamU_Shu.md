@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इम꣡म् ऊ षु꣡ त्व꣡म् अस्मा꣡कं  
-सनिं꣡ गायत्रं꣡ न꣡व्यांसम्  
-अ꣡ग्ने देवे꣡षु प्र꣡ वोचः
+इम᳓म् ऊ षु᳓ त्व᳓म् अस्मा᳓कं  
+सनिं᳓ गायत्रं᳓ न᳓व्यांसम्  
+अ᳓ग्ने देवे᳓षु प्र᳓ वोचः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

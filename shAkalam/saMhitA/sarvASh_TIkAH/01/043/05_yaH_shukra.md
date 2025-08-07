@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यः꣡ शुक्र꣡ इव सू꣡रियो  
-हि꣡रण्यम् इव रो꣡चते  
-श्रे꣡ष्ठो देवा꣡नां᳐ व꣡सुः
+यः᳓ शुक्र᳓ इव सू᳓रियो  
+हि᳓रण्यम् इव रो᳓चते  
+श्रे᳓ष्ठो देवा᳓नां᳐ व᳓सुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

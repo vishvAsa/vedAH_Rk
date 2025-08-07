@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पि꣡ब स्व꣡धैनवाना᳐म्  
-उत꣡ य꣡स् तु꣡ग्रिये स꣡चा  
-उता꣡य꣡म् इन्द्र य꣡स् त꣡व
+पि᳓ब स्व᳓धैनवाना᳐म्  
+उत᳓ य᳓स् तु᳓ग्रिये स᳓चा  
+उता᳓य᳓म् इन्द्र य᳓स् त᳓व
 </details>
 
 <details><summary>Vedaweb annotation</summary>

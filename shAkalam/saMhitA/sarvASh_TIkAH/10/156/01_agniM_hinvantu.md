@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्निं꣡ हिन्वन्तु नो धि꣡यः  
-स꣡प्तिम् आशु꣡म् इवाजि꣡षु  
-ते꣡न जेष्म ध꣡नं-धनम्
+अग्निं᳓ हिन्वन्तु नो धि᳓यः  
+स᳓प्तिम् आशु᳓म् इवाजि᳓षु  
+ते᳓न जेष्म ध᳓नं-धनम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

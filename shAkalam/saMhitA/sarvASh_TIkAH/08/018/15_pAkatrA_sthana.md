@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पाकत्रा꣡ स्थन देवा  
-हृत्सु꣡ जानीथ म꣡र्तियम्  
-उ꣡प द्वयुं꣡ च अ꣡द्वयुं च वसवः
+पाकत्रा᳓ स्थन देवा  
+हृत्सु᳓ जानीथ म᳓र्तियम्  
+उ᳓प द्वयुं᳓ च अ᳓द्वयुं च वसवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-श्रुतं꣡ वो वृत्रह꣡न्तमम्  
-प्र꣡ श꣡र्धं चर्षणीना᳐꣡म्  
-आ꣡ शुषे रा꣡धसे महे꣡
+श्रुतं᳓ वो वृत्रह᳓न्तमम्  
+प्र᳓ श᳓र्धं चर्षणीना᳐᳓म्  
+आ᳓ शुषे रा᳓धसे महे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

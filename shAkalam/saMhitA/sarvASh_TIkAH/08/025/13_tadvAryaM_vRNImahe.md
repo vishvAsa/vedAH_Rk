@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡द् वा꣡रियं वृणीमहे  
-व꣡रिष्ठं गोपय꣡तियम्  
-मित्रो꣡ य꣡त् पा꣡न्ति व꣡रुणो य꣡द् अर्यमा꣡
+त᳓द् वा᳓रियं वृणीमहे  
+व᳓रिष्ठं गोपय᳓तियम्  
+मित्रो᳓ य᳓त् पा᳓न्ति व᳓रुणो य᳓द् अर्यमा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

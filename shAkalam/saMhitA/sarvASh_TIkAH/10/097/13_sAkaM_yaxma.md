@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-साकं꣡ यक्ष्म प्र꣡ पत  
-चा꣡षेण किकिदीवि꣡ना  
-साकं꣡ वा꣡तस्य ध्रा꣡जिया  
-साकं꣡ नश्य निहा꣡कया
+साकं᳓ यक्ष्म प्र᳓ पत  
+चा᳓षेण किकिदीवि᳓ना  
+साकं᳓ वा᳓तस्य ध्रा᳓जिया  
+साकं᳓ नश्य निहा᳓कया
 </details>
 
 <details><summary>Vedaweb annotation</summary>

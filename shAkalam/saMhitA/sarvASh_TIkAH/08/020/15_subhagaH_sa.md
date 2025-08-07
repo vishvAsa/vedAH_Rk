@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुभ꣡गः स꣡ व ऊति꣡षु  
-आ꣡स पू꣡र्वासु मरुतो वि꣡उष्टिषु  
-यो꣡ वा नून꣡म् उता꣡सति
+सुभ᳓गः स᳓ व ऊति᳓षु  
+आ᳓स पू᳓र्वासु मरुतो वि᳓उष्टिषु  
+यो᳓ वा नून᳓म् उता᳓सति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ हि꣡ सुप्रतू꣡र् अ꣡सि  
-तुवं꣡ नो गो꣡मतीर् इ꣡षः  
-महो꣡ रायः꣡ साति꣡म् अग्ने अ꣡पा वृधि
+तुवं᳓ हि᳓ सुप्रतू᳓र् अ᳓सि  
+तुवं᳓ नो गो᳓मतीर् इ᳓षः  
+महो᳓ रायः᳓ साति᳓म् अग्ने अ᳓पा वृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

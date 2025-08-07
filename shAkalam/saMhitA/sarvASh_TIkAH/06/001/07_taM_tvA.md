@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा वयं꣡ सुधि꣡यो न꣡व्यम् अग्ने  
-सुम्नाय꣡व ईमहे देवय꣡न्तः  
-तुवं꣡ वि꣡शो अनयो दी꣡दियानो  
-दिवो꣡ अग्ने बृहता꣡ रोचने꣡न
+तं᳓ त्वा वयं᳓ सुधि᳓यो न᳓व्यम् अग्ने  
+सुम्नाय᳓व ईमहे देवय᳓न्तः  
+तुवं᳓ वि᳓शो अनयो दी᳓दियानो  
+दिवो᳓ अग्ने बृहता᳓ रोचने᳓न
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -225,7 +225,7 @@ _________
 
 You do we of good insight implore when you are new, Agni, seeking your  benevolence, seeking the gods—  
 you led the clans, while shining through the lofty luminous realm of  heaven, o Agni.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/06-07.md">

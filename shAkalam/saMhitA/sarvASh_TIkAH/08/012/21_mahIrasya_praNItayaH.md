@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-मही꣡र् अस्य प्र꣡णीतयः  
-पूर्वी꣡र् उत꣡ प्र꣡शस्तयः  
-वि꣡श्वा व꣡सूनि दाशु꣡षे वि꣡ आनशुः
+मही᳓र् अस्य प्र᳓णीतयः  
+पूर्वी᳓र् उत᳓ प्र᳓शस्तयः  
+वि᳓श्वा व᳓सूनि दाशु᳓षे वि᳓ आनशुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अनुकामं꣡ तर्पयेथाम्  
-इ꣡न्द्रावरुण राय꣡ आ꣡  
-ता꣡ वां ने꣡दिष्ठम् ईमहे
+अनुकामं᳓ तर्पयेथाम्  
+इ᳓न्द्रावरुण राय᳓ आ᳓  
+ता᳓ वां ने᳓दिष्ठम् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

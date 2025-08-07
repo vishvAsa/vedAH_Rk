@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प नः सुत꣡म् आ꣡ गतं  
-व꣡रुण मि꣡त्र दाशु꣡षः  
-अस्य꣡ सो꣡मस्य पीत꣡ये
+उ᳓प नः सुत᳓म् आ᳓ गतं  
+व᳓रुण मि᳓त्र दाशु᳓षः  
+अस्य᳓ सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

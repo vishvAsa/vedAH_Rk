@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ हि꣡ सोम वर्ध꣡यन्  
-सुतो꣡ म꣡दाय भू꣡र्णये  
-वृ꣡षन् स्तोता꣡रम् ऊत꣡ये
+तुवं᳓ हि᳓ सोम वर्ध᳓यन्  
+सुतो᳓ म᳓दाय भू᳓र्णये  
+वृ᳓षन् स्तोता᳓रम् ऊत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

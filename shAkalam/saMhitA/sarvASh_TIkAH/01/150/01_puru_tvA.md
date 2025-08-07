@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरु꣡ त्वा दाशुवा꣡न् वोचे  
-अरि꣡र् अग्ने त꣡व स्विद् आ꣡  
-तोद꣡स्येव शरण꣡ आ꣡ मह꣡स्य
+पुरु᳓ त्वा दाशुवा᳓न् वोचे  
+अरि᳓र् अग्ने त᳓व स्विद् आ᳓  
+तोद᳓स्येव शरण᳓ आ᳓ मह᳓स्य
 </details>
 
 <details><summary>Vedaweb annotation</summary>

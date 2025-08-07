@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋजुनीती꣡ नो व꣡रुणो  
-मित्रो꣡ नयतु विद्वा꣡न्  
-अर्यमा꣡ देवइः꣡ सजो꣡षाः
+ऋजुनीती᳓ नो व᳓रुणो  
+मित्रो᳓ नयतु विद्वा᳓न्  
+अर्यमा᳓ देवइः᳓ सजो᳓षाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

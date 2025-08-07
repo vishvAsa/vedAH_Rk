@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् ईळिष्व य꣡ आ꣡हुतो  
-अग्नि꣡र् विभ्रा꣡जते घृतइः꣡  
-इमं꣡ नः शृणवद् ध꣡वम्
+त᳓म् ईळिष्व य᳓ आ᳓हुतो  
+अग्नि᳓र् विभ्रा᳓जते घृतइः᳓  
+इमं᳓ नः शृणवद् ध᳓वम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

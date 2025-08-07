@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एते꣡ सो꣡मा असृक्षत  
-गृणानाः꣡ श्र꣡वसे महे꣡  
-मदि꣡न्तमस्य धा꣡रया
+एते᳓ सो᳓मा असृक्षत  
+गृणानाः᳓ श्र᳓वसे महे᳓  
+मदि᳓न्तमस्य धा᳓रया
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -134,7 +134,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 These soma juices, while being hymned, have surged for great fame in a stream of most exhilarating (soma).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/22-24.md">

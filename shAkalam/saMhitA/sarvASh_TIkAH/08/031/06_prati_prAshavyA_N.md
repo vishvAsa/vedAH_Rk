@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ति प्राशवि꣡याँ इतः  
-सम्य꣡ञ्चा बर्हि꣡र् आशते°  
-न꣡ ता꣡ वा꣡जेषु वायतः
+प्र᳓ति प्राशवि᳓याँ इतः  
+सम्य᳓ञ्चा बर्हि᳓र् आशते°  
+न᳓ ता᳓ वा᳓जेषु वायतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

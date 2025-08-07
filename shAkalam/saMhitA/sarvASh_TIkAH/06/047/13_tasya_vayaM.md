@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡स्य वयं꣡ सुमतउ꣡ यज्ञि꣡यस्य  
-अ꣡पि भद्रे꣡ सौमनसे꣡ सियाम  
-स꣡ सुत्रा꣡मा सुअ꣡वाँ इ꣡न्द्रो अस्मे꣡  
-आरा꣡च् चिद् द्वे꣡षः सनुत꣡र् युयोतु
+त᳓स्य वयं᳓ सुमतउ᳓ यज्ञि᳓यस्य  
+अ᳓पि भद्रे᳓ सौमनसे᳓ सियाम  
+स᳓ सुत्रा᳓मा सुअ᳓वाँ इ᳓न्द्रो अस्मे᳓  
+आरा᳓च् चिद् द्वे᳓षः सनुत᳓र् युयोतु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -242,7 +242,7 @@ _________
 
 Might we be in the favor of him who deserves the sacrifice, in his  propitious benevolence.  
 Let Indra of good protection, of good help to us keep hatred away even  from a distance.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">

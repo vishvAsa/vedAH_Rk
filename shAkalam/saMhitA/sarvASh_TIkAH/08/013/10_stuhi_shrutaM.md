@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स्तुहि꣡ श्रुतं꣡ विपश्चि꣡तं  
-ह꣡री य꣡स्य प्रसक्षि꣡णा  
-ग꣡न्तारा दाशु꣡षो गृहं꣡ नमस्वि꣡नः
+स्तुहि᳓ श्रुतं᳓ विपश्चि᳓तं  
+ह᳓री य᳓स्य प्रसक्षि᳓णा  
+ग᳓न्तारा दाशु᳓षो गृहं᳓ नमस्वि᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

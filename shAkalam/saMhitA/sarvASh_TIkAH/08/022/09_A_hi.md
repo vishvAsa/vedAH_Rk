@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ हि꣡ रुह꣡तम् अश्विना  
-र꣡थे को꣡शे हिरण्य꣡ये वृषण्वसू  
-युञ्जा꣡थाम् पी꣡वरीर् इ꣡षः
+आ᳓ हि᳓ रुह᳓तम् अश्विना  
+र᳓थे को᳓शे हिरण्य᳓ये वृषण्वसू  
+युञ्जा᳓थाम् पी᳓वरीर् इ᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

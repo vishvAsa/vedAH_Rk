@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡द् वो अद्य꣡ महा꣡नां᳐  
-देवा꣡ना᳐म् अ꣡वो वृणे  
-त्म꣡ना च दस्म꣡वर्चसाम्
+क᳓द् वो अद्य᳓ महा᳓नां᳐  
+देवा᳓ना᳐म् अ᳓वो वृणे  
+त्म᳓ना च दस्म᳓वर्चसाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -161,7 +161,7 @@ _________
 
 Do I today choose the help of you gods, who are great  
 and by nature of wondrous luster?
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/07-08.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ रा꣡जाना शु꣡चिव्रता  
-आदित्या꣡न् मा꣡रुतं गण꣡म्  
-व꣡सो य꣡क्षीह꣡ रो꣡दसी
+ता᳓ रा᳓जाना शु᳓चिव्रता  
+आदित्या᳓न् मा᳓रुतं गण᳓म्  
+व᳓सो य᳓क्षीह᳓ रो᳓दसी
 </details>
 
 <details><summary>Vedaweb annotation</summary>

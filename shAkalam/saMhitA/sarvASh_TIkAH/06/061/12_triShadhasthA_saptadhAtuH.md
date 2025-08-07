@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्रिषध꣡स्था सप्त꣡धातुः  
-प꣡ञ्च जाता꣡ वर्ध꣡यन्ती  
-वा꣡जे-वाजे ह꣡विया भूत्
+त्रिषध᳓स्था सप्त᳓धातुः  
+प᳓ञ्च जाता᳓ वर्ध᳓यन्ती  
+वा᳓जे-वाजे ह᳓विया भूत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

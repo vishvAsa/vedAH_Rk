@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त् ते समुद्र꣡म् अर्णव꣡म्  
-म꣡नो जगा꣡म दूरक꣡म्  
-त꣡त् त आ꣡ वर्तयामसि  
-इह꣡ क्ष꣡याय जीव꣡से
+य᳓त् ते समुद्र᳓म् अर्णव᳓म्  
+म᳓नो जगा᳓म दूरक᳓म्  
+त᳓त् त आ᳓ वर्तयामसि  
+इह᳓ क्ष᳓याय जीव᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>

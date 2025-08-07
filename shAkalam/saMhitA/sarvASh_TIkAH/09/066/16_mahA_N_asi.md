@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-महाँ꣡ असि सोम ज्ये꣡ष्ठ  
-उग्रा꣡णाम् इन्द ओ꣡जिष्ठः  
-यु꣡ध्वा स꣡ञ् छ꣡श्वज् जिगेथ
+महाँ᳓ असि सोम ज्ये᳓ष्ठ  
+उग्रा᳓णाम् इन्द ओ᳓जिष्ठः  
+यु᳓ध्वा स᳓ञ् छ᳓श्वज् जिगेथ
 </details>
 
 <details><summary>Vedaweb annotation</summary>

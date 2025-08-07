@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡र्षि दीने꣡ गभीर꣡ आँ꣡  
-उ꣡ग्रपुत्रे जि꣡घांसतः  
-मा꣡किस् तोक꣡स्य नो रिषत्
+प᳓र्षि दीने᳓ गभीर᳓ आँ᳓  
+उ᳓ग्रपुत्रे जि᳓घांसतः  
+मा᳓किस् तोक᳓स्य नो रिषत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

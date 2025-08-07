@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो वृष्टिं꣡ दिव꣡स् प꣡रि  
-स꣡ नो वा꣡जम् अनर्वा꣡णम्  
-स꣡ नः सहस्रि꣡णीर् इ꣡षः
+स᳓ नो वृष्टिं᳓ दिव᳓स् प᳓रि  
+स᳓ नो वा᳓जम् अनर्वा᳓णम्  
+स᳓ नः सहस्रि᳓णीर् इ᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡षणं त्वा वयं꣡ वृषन्  
-वृ꣡षणः स꣡म् इधीमहि  
-अ꣡ग्ने दी꣡दियतम् बृह꣡त्
+वृ᳓षणं त्वा वयं᳓ वृषन्  
+वृ᳓षणः स᳓म् इधीमहि  
+अ᳓ग्ने दी᳓दियतम् बृह᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवा꣡म् अग्ने मनीषि꣡णः  
-सम्रा꣡जं चर्षणीना᳐꣡म्  
-देव꣡म् म꣡र्तास इन्धते स꣡म् अध्वरे꣡
+तुवा᳓म् अग्ने मनीषि᳓णः  
+सम्रा᳓जं चर्षणीना᳐᳓म्  
+देव᳓म् म᳓र्तास इन्धते स᳓म् अध्वरे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

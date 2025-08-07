@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अइ꣡तु पूषा꣡ रयि꣡र् भ꣡गः  
-सुअस्ति꣡ सर्वधा꣡तमः  
-उरु꣡र् अ꣡ध्वा सुअस्त꣡ये
+अइ᳓तु पूषा᳓ रयि᳓र् भ᳓गः  
+सुअस्ति᳓ सर्वधा᳓तमः  
+उरु᳓र् अ᳓ध्वा सुअस्त᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ग्रा꣡वाणः सोम नो हि꣡ कं  
-सखित्वना꣡य वावशुः꣡  
-जही꣡ नि꣡ अत्रि꣡णम् पणिं꣡ वृ꣡को हि꣡ षः꣡
+ग्रा᳓वाणः सोम नो हि᳓ कं  
+सखित्वना᳓य वावशुः᳓  
+जही᳓ नि᳓ अत्रि᳓णम् पणिं᳓ वृ᳓को हि᳓ षः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

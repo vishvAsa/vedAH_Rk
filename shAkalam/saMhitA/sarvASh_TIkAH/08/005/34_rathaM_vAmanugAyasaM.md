@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-र꣡थं वाम् अ꣡नुगायसं  
-य꣡ इषा꣡ व꣡र्तते सह꣡  
-न꣡ चक्र꣡म् अभि꣡ बाधते
+र᳓थं वाम् अ᳓नुगायसं  
+य᳓ इषा᳓ व᳓र्तते सह᳓  
+न᳓ चक्र᳓म् अभि᳓ बाधते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

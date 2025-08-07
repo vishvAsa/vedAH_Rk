@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इयत्तकः꣡ कुषुम्भक꣡स्  
-तक꣡म् भिनद्मि अ꣡श्मना  
-त꣡तो विष꣡म् प्र꣡ वावृते  
-प꣡राचीर् अ꣡नु संव꣡तः
+इयत्तकः᳓ कुषुम्भक᳓स्  
+तक᳓म् भिनद्मि अ᳓श्मना  
+त᳓तो विष᳓म् प्र᳓ वावृते  
+प᳓राचीर् अ᳓नु संव᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -185,7 +185,7 @@ The mongoose: kuṣumbako **nakulaḥ**, the mongoose, whose hostility to the sn
 
 Such a little teeny kuṣumbha-bug—I split that itty-bitty thing with a  rock.  
 Thence has the poison rolled forth, following channels facing away  (from us).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/15-16.md">

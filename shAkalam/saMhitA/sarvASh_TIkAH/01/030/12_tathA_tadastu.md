@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡था त꣡द् अस्तु सोमपाः  
-स꣡खे वज्रिन् त꣡था कृणु  
-य꣡था त उश्म꣡सीष्ट꣡ये
+त᳓था त᳓द् अस्तु सोमपाः  
+स᳓खे वज्रिन् त᳓था कृणु  
+य᳓था त उश्म᳓सीष्ट᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

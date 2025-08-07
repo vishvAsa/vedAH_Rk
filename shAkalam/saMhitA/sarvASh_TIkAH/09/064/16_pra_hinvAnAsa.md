@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ हिन्वाना꣡स इ꣡न्दवो  
-अ꣡छा समुद्र꣡म् आश꣡वः  
-धिया꣡ जूता꣡ असृक्षत
+प्र᳓ हिन्वाना᳓स इ᳓न्दवो  
+अ᳓छा समुद्र᳓म् आश᳓वः  
+धिया᳓ जूता᳓ असृक्षत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,7 +151,7 @@ The firmament: **samudram** may mean the vasatīvarī waters
 
 Being impelled forth, the swift drops,  
 sped by insightful thought, have surged to the sea.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/16-18.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एष꣡ सू꣡र्यम् अरोचयत्  
-प꣡वमानो वि꣡चर्षणिः  
-वि꣡श्वा धा꣡मानि विश्ववि꣡त्
+एष᳓ सू᳓र्यम् अरोचयत्  
+प᳓वमानो वि᳓चर्षणिः  
+वि᳓श्वा धा᳓मानि विश्ववि᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

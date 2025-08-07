@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्मे꣡ आ꣡ वहतं रयिं꣡  
-शत꣡वन्तं सहस्रि꣡णम्  
-पुरुक्षुं꣡ विश्व꣡धायसम्
+अस्मे᳓ आ᳓ वहतं रयिं᳓  
+शत᳓वन्तं सहस्रि᳓णम्  
+पुरुक्षुं᳓ विश्व᳓धायसम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

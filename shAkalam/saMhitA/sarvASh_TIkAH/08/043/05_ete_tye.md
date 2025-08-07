@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एते꣡ त्ये꣡ वृ꣡थग् अग्न꣡य  
-इद्धा꣡सः स꣡म् अदृक्षत  
-उष꣡साम् इव केत꣡वः
+एते᳓ त्ये᳓ वृ᳓थग् अग्न᳓य  
+इद्धा᳓सः स᳓म् अदृक्षत  
+उष᳓साम् इव केत᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -156,7 +156,7 @@ _________
 
 These fires kindled here in opposing (places) have come to sight all  at once,  
 like the beacons of the dawns.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/043/04-05.md">

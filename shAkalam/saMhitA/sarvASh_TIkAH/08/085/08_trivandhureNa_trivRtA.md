@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्रिवन्धुरे꣡ण त्रिवृ꣡ता  
-र꣡थेना꣡ यातम् अश्विना  
-म꣡ध्वः सो꣡मस्य पीत꣡ये
+त्रिवन्धुरे᳓ण त्रिवृ᳓ता  
+र᳓थेना᳓ यातम् अश्विना  
+म᳓ध्वः सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ पथो꣡ वा꣡जसातये  
-चिनुहि꣡ वि꣡ मृ꣡धो जहि  
-सा꣡धन्ताम् उग्र नो धि꣡यः
+वि᳓ पथो᳓ वा᳓जसातये  
+चिनुहि᳓ वि᳓ मृ᳓धो जहि  
+सा᳓धन्ताम् उग्र नो धि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -170,7 +170,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Clear out the paths for prize-winning; smash away the negligent. Let our poetic visions reach their goal, o strong one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/03-04.md">

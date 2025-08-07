@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-क्र꣡त्वे द꣡क्षाय नः कवे  
-प꣡वस्व सोम धा꣡रया  
-इ꣡न्द्राय पा꣡तवे सुतो꣡  
-मित्रा꣡य व꣡रुणाय च
+क्र᳓त्वे द᳓क्षाय नः कवे  
+प᳓वस्व सोम धा᳓रया  
+इ᳓न्द्राय पा᳓तवे सुतो᳓  
+मित्रा᳓य व᳓रुणाय च
 </details>
 
 <details><summary>Vedaweb annotation</summary>

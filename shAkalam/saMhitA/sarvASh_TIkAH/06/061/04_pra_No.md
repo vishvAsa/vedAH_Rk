@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ णो देवी꣡ स꣡रस्वती  
-वा꣡जेभिर् वाजि꣡नीवती  
-धीना꣡म् अवित्रि꣡ अवतु
+प्र᳓ णो देवी᳓ स᳓रस्वती  
+वा᳓जेभिर् वाजि᳓नीवती  
+धीना᳓म् अवित्रि᳓ अवतु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -160,7 +160,7 @@ Further us, she that aideth prayer.
 
 Let goddess Sarasvatī, rich in prize mares, with her prizes  
 help us—the helper of visionary thoughts.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/04-06.md">

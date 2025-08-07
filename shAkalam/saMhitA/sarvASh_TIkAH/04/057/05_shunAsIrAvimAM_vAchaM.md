@@ -15,9 +15,9 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-शु꣡नासीराव् इमां꣡ वा꣡चं जुषेथां  
-य꣡द् दिवि꣡ चक्र꣡थुः प꣡यः  
-ते꣡नेमा꣡म् उ꣡प सिञ्चतम्
+शु᳓नासीराव् इमां᳓ वा᳓चं जुषेथां  
+य᳓द् दिवि᳓ चक्र᳓थुः प᳓यः  
+ते᳓नेमा᳓म् उ᳓प सिञ्चतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

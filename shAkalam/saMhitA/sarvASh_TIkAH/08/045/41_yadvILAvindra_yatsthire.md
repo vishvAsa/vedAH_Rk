@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् वीळा꣡व् इन्द्र य꣡त् स्थिरे꣡  
-य꣡त् प꣡र्शाने प꣡राभृतम्  
-व꣡सु स्पार्हं꣡ त꣡द् आ꣡ भर
+य᳓द् वीळा᳓व् इन्द्र य᳓त् स्थिरे᳓  
+य᳓त् प᳓र्शाने प᳓राभृतम्  
+व᳓सु स्पार्हं᳓ त᳓द् आ᳓ भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>

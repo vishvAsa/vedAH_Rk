@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वेषा᳐म् इह꣡ स्तुहि  
-हो꣡तॄणां᳐ यश꣡स्तमम्  
-अग्निं꣡ यज्ञे꣡षु पूर्विय꣡म्
+वि᳓श्वेषा᳐म् इह᳓ स्तुहि  
+हो᳓तॄणां᳐ यश᳓स्तमम्  
+अग्निं᳓ यज्ञे᳓षु पूर्विय᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

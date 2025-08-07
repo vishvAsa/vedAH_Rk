@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वयं꣡ सोम व्रते꣡ त꣡व  
-म꣡नस् तनू꣡षु बि꣡भ्रतः  
-प्रजा꣡वन्तः सचेमहि
+वयं᳓ सोम व्रते᳓ त᳓व  
+म᳓नस् तनू᳓षु बि᳓भ्रतः  
+प्रजा᳓वन्तः सचेमहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

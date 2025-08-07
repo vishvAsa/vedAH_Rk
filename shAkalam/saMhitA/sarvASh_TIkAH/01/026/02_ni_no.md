@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡ नो हो꣡ता व꣡रेणियः  
-स꣡दा यविष्ठ म꣡न्मभिः  
-अ꣡ग्ने दिवि꣡त्मता व꣡चः
+नि᳓ नो हो᳓ता व᳓रेणियः  
+स᳓दा यविष्ठ म᳓न्मभिः  
+अ᳓ग्ने दिवि᳓त्मता व᳓चः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

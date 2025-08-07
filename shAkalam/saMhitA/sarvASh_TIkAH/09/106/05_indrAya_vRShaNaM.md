@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राय वृ꣡षणम् म꣡दम्  
-प꣡वस्व विश्व꣡दर्शतः  
-सह꣡स्रयामा पथिकृ꣡द् विचक्षणः꣡
+इ᳓न्द्राय वृ᳓षणम् म᳓दम्  
+प᳓वस्व विश्व᳓दर्शतः  
+सह᳓स्रयामा पथिकृ᳓द् विचक्षणः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,7 +151,7 @@ _________
 
 For Indra purify yourself into bullish exhilaration, as the one visible  to all,  
 possessing a thousand courses, path-making, wide-gazing.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/04-06.md">

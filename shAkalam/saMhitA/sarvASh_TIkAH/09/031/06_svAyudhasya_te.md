@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुआयुध꣡स्य ते सतो꣡  
-भु꣡वनस्य पते वय꣡म्  
-इ꣡न्दो सखित्व꣡म् उश्मसि
+सुआयुध᳓स्य ते सतो᳓  
+भु᳓वनस्य पते वय᳓म्  
+इ᳓न्दो सखित्व᳓म् उश्मसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुरोळा꣡ अग्ने पचत꣡स्  
-तु꣡भ्यं वा घा प꣡रिष्कृतः  
-तं꣡ जुषस्व यविष्ठिय
+पुरोळा᳓ अग्ने पचत᳓स्  
+तु᳓भ्यं वा घा प᳓रिष्कृतः  
+तं᳓ जुषस्व यविष्ठिय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

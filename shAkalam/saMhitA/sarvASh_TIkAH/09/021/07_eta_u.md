@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एत꣡ उ त्ये꣡ अवीवशन्  
-का꣡ष्ठां वाजि꣡नो अक्रत  
-सतः꣡ प्रा꣡साविषुर् मति꣡म्
+एत᳓ उ त्ये᳓ अवीवशन्  
+का᳓ष्ठां वाजि᳓नो अक्रत  
+सतः᳓ प्रा᳓साविषुर् मति᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

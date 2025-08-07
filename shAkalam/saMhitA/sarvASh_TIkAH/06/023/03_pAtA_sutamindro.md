@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पा꣡ता सुत꣡म् इ꣡न्दरो+ अस्तु सो꣡मम्  
-प्रणेनी꣡र् उग्रो꣡ जरिता꣡रम् ऊती꣡  
-क꣡र्ता वीरा꣡य सु꣡ष्वये उलोकं꣡†  
-दा꣡ता व꣡सु स्तुवते꣡ कीर꣡ये चित्
+पा᳓ता सुत᳓म् इ᳓न्दरो+ अस्तु सो᳓मम्  
+प्रणेनी᳓र् उग्रो᳓ जरिता᳓रम् ऊती᳓  
+क᳓र्ता वीरा᳓य सु᳓ष्वये उलोकं᳓†  
+दा᳓ता व᳓सु स्तुवते᳓ कीर᳓ये चित्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -244,7 +244,7 @@ _________
 
 Let Indra be the drinker of the pressed soma, the mighty one ever  leading the singer forward with his help,  
 the maker of wide space for the hero and the soma-presser, the giver of  goods to his praiser, even a feeble one,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/023/03-04.md">

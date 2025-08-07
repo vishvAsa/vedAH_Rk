@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व सोम क्र꣡त्वे द꣡क्षाय  
-अ꣡श्वो न꣡ निक्तो꣡ वाजी꣡ ध꣡नाय
+प᳓वस्व सोम क्र᳓त्वे द᳓क्षाय  
+अ᳓श्वो न᳓ निक्तो᳓ वाजी᳓ ध᳓नाय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -141,7 +141,7 @@ _________
 
 Purify yourself, Soma, for will and skill, washed down like a  
 prizewinning horse for the stake.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/10-12.md">

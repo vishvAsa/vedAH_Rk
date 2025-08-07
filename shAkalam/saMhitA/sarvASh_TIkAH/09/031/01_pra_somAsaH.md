@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ सो꣡मासः सुआधि꣡यः  
-प꣡वमानासो अक्रमुः  
-रयिं꣡ कृण्वन्ति चे꣡तनम्
+प्र᳓ सो᳓मासः सुआधि᳓यः  
+प᳓वमानासो अक्रमुः  
+रयिं᳓ कृण्वन्ति चे᳓तनम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

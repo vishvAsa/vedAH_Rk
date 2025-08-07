@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-द꣡र्शं नु꣡ विश्व꣡दर्शतं  
-द꣡र्शं र꣡थम् अ꣡धि क्ष꣡मि  
-एता꣡ जुषत मे गि꣡रः
+द᳓र्शं नु᳓ विश्व᳓दर्शतं  
+द᳓र्शं र᳓थम् अ᳓धि क्ष᳓मि  
+एता᳓ जुषत मे गि᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

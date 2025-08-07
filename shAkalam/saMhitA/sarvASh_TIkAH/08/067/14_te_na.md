@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ न आस्नो꣡ वृ꣡काणा᳐म्  
-आ꣡दित्यासो मुमो꣡चत  
-स्तेन꣡म् बद्ध꣡म् इवादिते
+ते᳓ न आस्नो᳓ वृ᳓काणा᳐म्  
+आ᳓दित्यासो मुमो᳓चत  
+स्तेन᳓म् बद्ध᳓म् इवादिते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

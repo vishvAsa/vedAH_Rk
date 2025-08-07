@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-शृण्व꣡न्तु नो वृ꣡षणः प꣡र्वतासो  
-ध्रुव꣡क्षेमास इ꣡ळया म꣡दन्तः  
-आदितियइ꣡र् नो अ꣡दितिः शृणोतु  
-य꣡छन्तु नो मरु꣡तः श꣡र्म भद्र꣡म्
+शृण्व᳓न्तु नो वृ᳓षणः प᳓र्वतासो  
+ध्रुव᳓क्षेमास इ᳓ळया म᳓दन्तः  
+आदितियइ᳓र् नो अ᳓दितिः शृणोतु  
+य᳓छन्तु नो मरु᳓तः श᳓र्म भद्र᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -221,7 +221,7 @@ Abiding in fixed habitations: dhruvakṣemāsaḥ niścalasthānaḥ, those of f
 
 Let the bullish mountains with stable dwelling places hear us, as they  become exhilarated on the refreshing drink.  
 Let Aditi with the Ādityas hear us. Let the Maruts extend to us  beneficial shelter.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/054/19-20.md">

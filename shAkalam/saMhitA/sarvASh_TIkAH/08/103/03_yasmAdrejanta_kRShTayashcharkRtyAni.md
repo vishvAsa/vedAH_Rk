@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्माद् रे꣡जन्त कृष्ट꣡यश्  
-चर्कृ꣡तियानि कृण्वतः꣡  
-सहस्रसा꣡म् मेध꣡साताव् इव त्म꣡ना  
-अग्निं꣡ धीभिः꣡ सपर्यत
+य᳓स्माद् रे᳓जन्त कृष्ट᳓यश्  
+चर्कृ᳓तियानि कृण्वतः᳓  
+सहस्रसा᳓म् मेध᳓साताव् इव त्म᳓ना  
+अग्निं᳓ धीभिः᳓ सपर्यत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -195,7 +195,7 @@ _________
 Before whom the communities tremble, as he performs (deeds) to be  constantly acclaimed,  
 the one who by himself wins thousands as if at the winning of  
 wisdom—serve Agni with insightful thoughts.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/03-04.md">

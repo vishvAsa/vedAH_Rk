@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡स् त उषः कधप्रिये  
-भुजे꣡ म꣡र्तो अमर्तिये  
-कं꣡ नक्षसे विभावरि
+क᳓स् त उषः कधप्रिये  
+भुजे᳓ म᳓र्तो अमर्तिये  
+कं᳓ नक्षसे विभावरि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

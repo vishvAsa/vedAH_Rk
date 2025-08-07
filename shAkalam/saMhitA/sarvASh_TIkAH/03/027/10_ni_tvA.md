@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡ त्वा दधे व꣡रेणियं  
-द꣡क्षस्येळा꣡ सहस्कृत  
-अ꣡ग्ने सुदीति꣡म् उशि꣡जम्
+नि᳓ त्वा दधे व᳓रेणियं  
+द᳓क्षस्येळा᳓ सहस्कृत  
+अ᳓ग्ने सुदीति᳓म् उशि᳓जम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

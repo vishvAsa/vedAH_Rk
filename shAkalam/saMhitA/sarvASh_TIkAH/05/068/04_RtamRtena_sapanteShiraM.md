@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋत꣡म् ऋते꣡न स꣡पन्ता  
-इषिरं꣡ द꣡क्षम् आशाते  
-अद्रु꣡हा देवउ꣡ वर्धेते
+ऋत᳓म् ऋते᳓न स᳓पन्ता  
+इषिरं᳓ द᳓क्षम् आशाते  
+अद्रु᳓हा देवउ᳓ वर्धेते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

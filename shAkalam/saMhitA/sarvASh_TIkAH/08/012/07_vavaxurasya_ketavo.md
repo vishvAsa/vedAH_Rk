@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ववक्षु꣡र् अस्य केत꣡वो  
-उत꣡ व꣡ज्रो ग꣡भस्तियोः  
-य꣡त् सू꣡रियो न꣡ रो꣡दसी अ꣡वर्धयत्
+ववक्षु᳓र् अस्य केत᳓वो  
+उत᳓ व᳓ज्रो ग᳓भस्तियोः  
+य᳓त् सू᳓रियो न᳓ रो᳓दसी अ᳓वर्धयत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

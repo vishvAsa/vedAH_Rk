@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ब्रह्मा꣡णम् ब्र꣡ह्मवाहसं  
-गीर्भिः꣡ स꣡खायम् ऋग्मि꣡यम्  
-गां᳐꣡ न꣡ दोह꣡से हुवे
+ब्रह्मा᳓णम् ब्र᳓ह्मवाहसं  
+गीर्भिः᳓ स᳓खायम् ऋग्मि᳓यम्  
+गां᳐᳓ न᳓ दोह᳓से हुवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

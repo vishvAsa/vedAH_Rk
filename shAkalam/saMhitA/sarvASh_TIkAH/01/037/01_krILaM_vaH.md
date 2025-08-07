@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क्रीळं꣡ वः श꣡र्धो मा꣡रुतम्  
-अनर्वा꣡णं रथेशु꣡भम्  
-क꣡ण्वा अभि꣡ प्र꣡ गायत
+क्रीळं᳓ वः श᳓र्धो मा᳓रुतम्  
+अनर्वा᳓णं रथेशु᳓भम्  
+क᳓ण्वा अभि᳓ प्र᳓ गायत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

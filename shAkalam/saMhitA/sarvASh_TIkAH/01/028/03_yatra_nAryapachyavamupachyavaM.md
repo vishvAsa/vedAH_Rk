@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त्र ना꣡री अपच्यव꣡म्  
-उपच्यवं꣡ च शि꣡क्षते  
-उलू꣡खलसुताना᳐म्  
-अ꣡वे꣡द् उ इन्द्र जल्गुलः
+य᳓त्र ना᳓री अपच्यव᳓म्  
+उपच्यवं᳓ च शि᳓क्षते  
+उलू᳓खलसुताना᳐म्  
+अ᳓वे᳓द् उ इन्द्र जल्गुलः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्या꣡मितानि वीरि꣡या  
-न꣡ रा꣡धः प꣡रिएतवे  
-ज्यो꣡तिर् न꣡ वि꣡श्वम् अभि꣡ अ꣡स्ति द꣡क्षिणा
+य᳓स्या᳓मितानि वीरि᳓या  
+न᳓ रा᳓धः प᳓रिएतवे  
+ज्यो᳓तिर् न᳓ वि᳓श्वम् अभि᳓ अ᳓स्ति द᳓क्षिणा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

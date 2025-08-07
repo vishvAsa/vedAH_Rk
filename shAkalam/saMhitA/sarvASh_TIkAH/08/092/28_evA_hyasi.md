@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एवा꣡ हि꣡ अ꣡सि वीरयु꣡र्  
-एवा꣡ शू꣡र उत꣡ स्थिरः꣡  
-एवा꣡ ते रा꣡धियम् म꣡नः
+एवा᳓ हि᳓ अ᳓सि वीरयु᳓र्  
+एवा᳓ शू᳓र उत᳓ स्थिरः᳓  
+एवा᳓ ते रा᳓धियम् म᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

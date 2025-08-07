@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शत꣡म् मे गर्दभा꣡नां᳐  
-शत꣡म् ऊ꣡र्णावतीना᳐म्  
-शतं꣡ दासाँ꣡ अ꣡ति स्र꣡जः
+शत᳓म् मे गर्दभा᳓नां᳐  
+शत᳓म् ऊ᳓र्णावतीना᳐म्  
+शतं᳓ दासाँ᳓ अ᳓ति स्र᳓जः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

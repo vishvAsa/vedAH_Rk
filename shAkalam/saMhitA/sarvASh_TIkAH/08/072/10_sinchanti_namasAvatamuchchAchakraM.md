@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सिञ्च꣡न्ति न꣡मसावत꣡म्  
-उच्चा꣡चक्रम् प꣡रिज्मानम्  
-नीची꣡नबारम् अ꣡क्षितम्
+सिञ्च᳓न्ति न᳓मसावत᳓म्  
+उच्चा᳓चक्रम् प᳓रिज्मानम्  
+नीची᳓नबारम् अ᳓क्षितम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

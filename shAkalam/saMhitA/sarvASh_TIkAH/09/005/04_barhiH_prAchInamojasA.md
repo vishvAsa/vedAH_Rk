@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-बर्हिः꣡ प्राची꣡नम् ओ꣡जसा  
-प꣡वमान स्तृण꣡न् ह꣡रिः  
-देवे꣡षु देव꣡ ईयते
+बर्हिः᳓ प्राची᳓नम् ओ᳓जसा  
+प᳓वमान स्तृण᳓न् ह᳓रिः  
+देवे᳓षु देव᳓ ईयते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

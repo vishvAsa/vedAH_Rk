@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡ अग्निं꣡ जात꣡वेदसं  
-होत्रवा꣡हं य꣡विष्ठियम्  
-द꣡धाता देव꣡म् ऋत्वि꣡जम्
+नि᳓ अग्निं᳓ जात᳓वेदसं  
+होत्रवा᳓हं य᳓विष्ठियम्  
+द᳓धाता देव᳓म् ऋत्वि᳓जम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-परिष्कृण्व꣡न्न् अ꣡निष्कृतं  
-ज꣡नाय यात꣡यन्न् इ꣡षः  
-वृष्टिं꣡ दिवः꣡ प꣡रि स्रव
+परिष्कृण्व᳓न्न् अ᳓निष्कृतं  
+ज᳓नाय यात᳓यन्न् इ᳓षः  
+वृष्टिं᳓ दिवः᳓ प᳓रि स्रव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

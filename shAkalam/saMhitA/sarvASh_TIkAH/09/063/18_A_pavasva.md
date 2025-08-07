@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ पवस्व हि꣡रण्यवद्  
-अ꣡श्वावत् सोम वीर꣡वत्  
-वा꣡जं गो꣡मन्तम् आ꣡ भर
+आ᳓ पवस्व हि᳓रण्यवद्  
+अ᳓श्वावत् सोम वीर᳓वत्  
+वा᳓जं गो᳓मन्तम् आ᳓ भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -158,7 +158,7 @@ Yasus. 8.63
 
 In purifying yourself, o Soma, bring masses of gold, of horses, of  heroes;  
 bring hither a prize of cows.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/16-18.md">

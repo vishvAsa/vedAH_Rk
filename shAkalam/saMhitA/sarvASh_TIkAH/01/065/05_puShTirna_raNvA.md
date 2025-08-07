@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुष्टि꣡र् न꣡ रण्वा꣡ क्षिति꣡र् न꣡ पृथ्वी꣡  
-गिरि꣡र् न꣡ भु꣡ज्म क्षो꣡दो न꣡ शम्भु꣡
+पुष्टि᳓र् न᳓ रण्वा᳓ क्षिति᳓र् न᳓ पृथ्वी᳓  
+गिरि᳓र् न᳓ भु᳓ज्म क्षो᳓दो न᳓ शम्भु᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

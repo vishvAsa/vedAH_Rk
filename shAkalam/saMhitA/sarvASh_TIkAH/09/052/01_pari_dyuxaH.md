@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि द्युक्षः꣡ सन꣡द्रयिर्  
-भ꣡रद् वा꣡जं नो अ꣡न्धसा  
-स्वानो꣡° अर्ष पवि꣡त्र आ꣡
+प᳓रि द्युक्षः᳓ सन᳓द्रयिर्  
+भ᳓रद् वा᳓जं नो अ᳓न्धसा  
+स्वानो᳓° अर्ष पवि᳓त्र आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

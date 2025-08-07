@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्म꣡भ्यं रोदसी रयि꣡म्  
-म꣡ध्वो वा꣡जस्य सात꣡ये  
-श्र꣡वो व꣡सूनि सं꣡ जितम्
+अस्म᳓भ्यं रोदसी रयि᳓म्  
+म᳓ध्वो वा᳓जस्य सात᳓ये  
+श्र᳓वो व᳓सूनि सं᳓ जितम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

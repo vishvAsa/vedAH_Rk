@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ज꣡नासो वृक्त꣡बर्हिषो  
-हवि꣡ष्मन्तो अरंकृ꣡तः  
-युवां꣡ हवन्ते अश्विना
+ज᳓नासो वृक्त᳓बर्हिषो  
+हवि᳓ष्मन्तो अरंकृ᳓तः  
+युवां᳓ हवन्ते अश्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

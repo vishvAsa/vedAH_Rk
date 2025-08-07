@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-नृ꣡भिर् येमानो꣡ जज्ञानः꣡ पूतः꣡  
-क्ष꣡रद् वि꣡श्वानि मन्द्रः꣡ सुवर्वि꣡त्
+नृ᳓भिर् येमानो᳓ जज्ञानः᳓ पूतः᳓  
+क्ष᳓रद् वि᳓श्वानि मन्द्रः᳓ सुवर्वि᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡त्रा꣡ह गो꣡र् अमन्वत  
-ना꣡म त्व꣡ष्टुर् अपीचि꣡यम्  
-इत्था꣡ चन्द्र꣡मसो गृहे꣡
+अ᳓त्रा᳓ह गो᳓र् अमन्वत  
+ना᳓म त्व᳓ष्टुर् अपीचि᳓यम्  
+इत्था᳓ चन्द्र᳓मसो गृहे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

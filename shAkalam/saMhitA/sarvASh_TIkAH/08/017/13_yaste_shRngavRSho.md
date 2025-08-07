@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स् ते शृङ्गवृषो नपात्  
-प्र꣡णपात् कुण्डपा꣡यियः  
-नि꣡ अस्मिन् दध्र आ꣡ म꣡नः
+य᳓स् ते शृङ्गवृषो नपात्  
+प्र᳓णपात् कुण्डपा᳓यियः  
+नि᳓ अस्मिन् दध्र आ᳓ म᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ मित्रे꣡ व꣡रुणे वयं꣡  
-गीर्भि꣡र् जुहुमो अत्रिव꣡त्  
-नि꣡ बर्हि꣡षि सदतं सो꣡मपीतये
+आ᳓ मित्रे᳓ व᳓रुणे वयं᳓  
+गीर्भि᳓र् जुहुमो अत्रिव᳓त्  
+नि᳓ बर्हि᳓षि सदतं सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

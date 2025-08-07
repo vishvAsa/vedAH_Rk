@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वीतारः पुनीत꣡न  
-सो꣡मम् इ꣡न्द्राय पा꣡तवे  
-अ꣡था नो व꣡स्यसस् कृधि
+प᳓वीतारः पुनीत᳓न  
+सो᳓मम् इ᳓न्द्राय पा᳓तवे  
+अ᳓था नो व᳓स्यसस् कृधि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

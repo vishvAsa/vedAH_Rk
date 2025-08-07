@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡नाग्निः꣡ स꣡म् इध्यते  
-कवि꣡र् गृह꣡पतिर् यु꣡वा  
-हव्यवा꣡ड् जुहु꣡वासियः
+अग्नि᳓नाग्निः᳓ स᳓म् इध्यते  
+कवि᳓र् गृह᳓पतिर् यु᳓वा  
+हव्यवा᳓ड् जुहु᳓वासियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

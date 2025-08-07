@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ अ꣡त्य इव मृज्य꣡ते  
-गो꣡भिर् म꣡दाय हर्यतः꣡  
-तं꣡ गीर्भि꣡र् वासयामसि
+यो᳓ अ᳓त्य इव मृज्य᳓ते  
+गो᳓भिर् म᳓दाय हर्यतः᳓  
+तं᳓ गीर्भि᳓र् वासयामसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

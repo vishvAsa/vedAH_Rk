@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡पाता श꣡वसो महः꣡  
-सूनू꣡ द꣡क्षस्य सुक्र꣡तू  
-सृप्र꣡दानू इषो꣡ वा꣡स्तु अ꣡धि क्षितः
+न᳓पाता श᳓वसो महः᳓  
+सूनू᳓ द᳓क्षस्य सुक्र᳓तू  
+सृप्र᳓दानू इषो᳓ वा᳓स्तु अ᳓धि क्षितः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -173,7 +173,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 The two grandsons of great strength, the sons of skill, strong-willed, possessing fat drops, dwell in the house of refreshment.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/05-06.md">

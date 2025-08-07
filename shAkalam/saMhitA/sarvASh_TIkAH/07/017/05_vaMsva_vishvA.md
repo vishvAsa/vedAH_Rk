@@ -15,8 +15,8 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वं꣡स्व वि꣡श्वा वा꣡रियाणि प्रचेतः  
-सत्या꣡ भवन्तु आशि꣡षो नो अद्य꣡
+वं᳓स्व वि᳓श्वा वा᳓रियाणि प्रचेतः  
+सत्या᳓ भवन्तु आशि᳓षो नो अद्य᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

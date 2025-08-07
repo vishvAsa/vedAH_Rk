@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡नु त्वा रो꣡दसी उभे꣡  
-क्र꣡क्षमाणम् अकृपेताम्  
-इ꣡न्द्र य꣡द् दस्युहा꣡भवः
+अ᳓नु त्वा रो᳓दसी उभे᳓  
+क्र᳓क्षमाणम् अकृपेताम्  
+इ᳓न्द्र य᳓द् दस्युहा᳓भवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

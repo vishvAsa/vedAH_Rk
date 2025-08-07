@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवा꣡म् इ꣡द् धि꣡ ह꣡वामहे  
-साता꣡ वा꣡जस्य कार꣡वः  
-तुवां꣡ वृत्रे꣡षु इन्द्र स꣡त्पतिं न꣡रस्  
-तुवां꣡ का꣡ष्ठासु अ꣡र्वतः
+तुवा᳓म् इ᳓द् धि᳓ ह᳓वामहे  
+साता᳓ वा᳓जस्य कार᳓वः  
+तुवां᳓ वृत्रे᳓षु इन्द्र स᳓त्पतिं न᳓रस्  
+तुवां᳓ का᳓ष्ठासु अ᳓र्वतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -212,7 +212,7 @@ Kāṣṭhāsu **arvataḥ**, in the quarters or regions of the hors, where hors
 Because it is just you that we bards call upon at the winning of  the prize,  
 you, Indra, as master of settlements that our men (call upon) amid  
 obstacles, you at the finish lines of our steed,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/01-02.md">

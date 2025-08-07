@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इषा꣡ मन्दस्व आ꣡द् उ ते  
-अ꣡रं व꣡राय मन्य꣡वे  
-भु꣡वत् त इन्द्र शं꣡ हृदे꣡
+इषा᳓ मन्दस्व आ᳓द् उ ते  
+अ᳓रं व᳓राय मन्य᳓वे  
+भु᳓वत् त इन्द्र शं᳓ हृदे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

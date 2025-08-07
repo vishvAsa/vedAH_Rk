@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ ए꣡क इ꣡त् त꣡म् उ ष्टुहि  
-कृष्टीनां᳐꣡ वि꣡चर्षणिः  
-प꣡तिर् जज्ञे꣡ वृ꣡षक्रतुः
+य᳓ ए᳓क इ᳓त् त᳓म् उ ष्टुहि  
+कृष्टीनां᳐᳓ वि᳓चर्षणिः  
+प᳓तिर् जज्ञे᳓ वृ᳓षक्रतुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

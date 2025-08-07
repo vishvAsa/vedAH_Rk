@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् अह्यन् भुरि꣡जोर् धिया꣡  
-संव꣡सानं विव꣡स्वतः  
-प꣡तिं वाचो꣡ अ꣡दाभियम्
+त᳓म् अह्यन् भुरि᳓जोर् धिया᳓  
+संव᳓सानं विव᳓स्वतः  
+प᳓तिं वाचो᳓ अ᳓दाभियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

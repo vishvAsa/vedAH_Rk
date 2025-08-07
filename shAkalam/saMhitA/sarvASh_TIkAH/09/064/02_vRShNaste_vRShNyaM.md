@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡ष्णस् ते वृ꣡ष्णियं श꣡वो  
-वृ꣡षा व꣡नं वृ꣡षा म꣡दः  
-सत्यं꣡ वृषन् वृ꣡षे꣡द् असि
+वृ᳓ष्णस् ते वृ᳓ष्णियं श᳓वो  
+वृ᳓षा व᳓नं वृ᳓षा म᳓दः  
+सत्यं᳓ वृषन् वृ᳓षे᳓द् असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -181,7 +181,7 @@ _________
 
 Of you, the bull, bullish is the strength; your wooden (cup) is a bull, your  exhilarating drink a bull.  
 In truth, o bull, you are really a bull.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/01-03.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वमानास आश꣡वः  
-शुभ्रा꣡ असृग्रम् इ꣡न्दवः  
-घ्न꣡न्तो वि꣡श्वा अ꣡प द्वि꣡षः
+प᳓वमानास आश᳓वः  
+शुभ्रा᳓ असृग्रम् इ᳓न्दवः  
+घ्न᳓न्तो वि᳓श्वा अ᳓प द्वि᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -148,7 +148,7 @@ _________
 
 The swift, resplendent, self-purifying drops have surged,  
 smashing away all hatreds.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/25-27.md">

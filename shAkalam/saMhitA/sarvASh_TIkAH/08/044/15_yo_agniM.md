@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ अग्निं꣡ तनु꣡वो द꣡मे  
-देव꣡म् म꣡र्तः सपर्य꣡ति  
-त꣡स्मा इ꣡द् दीदयद् व꣡सु
+यो᳓ अग्निं᳓ तनु᳓वो द᳓मे  
+देव᳓म् म᳓र्तः सपर्य᳓ति  
+त᳓स्मा इ᳓द् दीदयद् व᳓सु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

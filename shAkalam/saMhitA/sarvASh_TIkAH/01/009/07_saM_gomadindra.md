@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सं꣡ गो꣡मद् इन्द्र वा꣡जवद्  
-अस्मे꣡ पृथु꣡ श्र꣡वो बृह꣡त्  
-विश्वा꣡युर् धेहि अ꣡क्षितम्
+सं᳓ गो᳓मद् इन्द्र वा᳓जवद्  
+अस्मे᳓ पृथु᳓ श्र᳓वो बृह᳓त्  
+विश्वा᳓युर् धेहि अ᳓क्षितम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

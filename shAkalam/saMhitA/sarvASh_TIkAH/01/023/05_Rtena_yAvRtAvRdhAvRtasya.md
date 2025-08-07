@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋते꣡न या꣡व् ऋतावृ꣡धाव्  
-ऋत꣡स्य ज्यो꣡तिषस् प꣡ती  
-ता꣡ मित्रा꣡व꣡रुणा हुवे
+ऋते᳓न या᳓व् ऋतावृ᳓धाव्  
+ऋत᳓स्य ज्यो᳓तिषस् प᳓ती  
+ता᳓ मित्रा᳓व᳓रुणा हुवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

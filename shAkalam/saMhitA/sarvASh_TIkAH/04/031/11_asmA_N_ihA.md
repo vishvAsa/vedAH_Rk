@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्माँ꣡ इहा꣡ वृणीषुव  
-सखिया꣡य सुअस्त꣡ये  
-महो꣡ राये꣡ दिवि꣡त्मते
+अस्माँ᳓ इहा᳓ वृणीषुव  
+सखिया᳓य सुअस्त᳓ये  
+महो᳓ राये᳓ दिवि᳓त्मते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

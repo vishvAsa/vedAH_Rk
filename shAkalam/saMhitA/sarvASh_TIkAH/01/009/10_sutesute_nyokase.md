@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुते꣡-सुते नि꣡ओकसे  
-बृह꣡द् बृहत꣡ ए꣡द् अरिः꣡  
-इ꣡न्द्राय शूष꣡म् अर्चति
+सुते᳓-सुते नि᳓ओकसे  
+बृह᳓द् बृहत᳓ ए᳓द् अरिः᳓  
+इ᳓न्द्राय शूष᳓म् अर्चति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

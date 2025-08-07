@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡ ईं वि꣡अक्ता न꣡रः स꣡नीळा  
-रुद्र꣡स्य म꣡र्या अ꣡ध सुअ꣡श्वाः
+क᳓ ईं वि᳓अक्ता न᳓रः स᳓नीळा  
+रुद्र᳓स्य म᳓र्या अ᳓ध सुअ᳓श्वाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रा꣡ याहि चित्रभानो  
-सुता꣡ इमे꣡ तुवाय꣡वः  
-अ꣡ण्वीभिस् त꣡ना पूता꣡सः
+इ᳓न्द्रा᳓ याहि चित्रभानो  
+सुता᳓ इमे᳓ तुवाय᳓वः  
+अ᳓ण्वीभिस् त᳓ना पूता᳓सः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

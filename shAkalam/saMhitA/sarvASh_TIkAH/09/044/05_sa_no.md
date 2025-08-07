@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो भ꣡गाय वाय꣡वे  
-वि꣡प्रवीरः सदा꣡वृधः  
-सो꣡मो देवे꣡षु आ꣡ यमत्
+स᳓ नो भ᳓गाय वाय᳓वे  
+वि᳓प्रवीरः सदा᳓वृधः  
+सो᳓मो देवे᳓षु आ᳓ यमत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

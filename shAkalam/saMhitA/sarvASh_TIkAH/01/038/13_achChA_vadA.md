@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡छा वदा त꣡ना गिरा꣡  
-जरा꣡यै ब्र꣡ह्मणस् प꣡तिम्  
-अग्नि꣡म् मित्रं꣡ न꣡ दर्शत꣡म्
+अ᳓छा वदा त᳓ना गिरा᳓  
+जरा᳓यै ब्र᳓ह्मणस् प᳓तिम्  
+अग्नि᳓म् मित्रं᳓ न᳓ दर्शत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

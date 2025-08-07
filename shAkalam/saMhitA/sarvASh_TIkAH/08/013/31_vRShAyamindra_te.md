@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡षाय꣡म् इन्द्र ते र꣡थ  
-उतो꣡ ते वृ꣡षणा ह꣡री  
-वृ꣡षा तुवं꣡ शतक्रतो वृ꣡षा ह꣡वः
+वृ᳓षाय᳓म् इन्द्र ते र᳓थ  
+उतो᳓ ते वृ᳓षणा ह᳓री  
+वृ᳓षा तुवं᳓ शतक्रतो वृ᳓षा ह᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

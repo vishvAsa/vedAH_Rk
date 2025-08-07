@@ -15,8 +15,8 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-हत्वा꣡य देवा꣡ अ꣡सुरान् य꣡द् आ꣡यन्  
-देवा꣡ देवत्व꣡म् अभिर꣡क्षमाणाः
+हत्वा᳓य देवा᳓ अ᳓सुरान् य᳓द् आ᳓यन्  
+देवा᳓ देवत्व᳓म् अभिर᳓क्षमाणाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

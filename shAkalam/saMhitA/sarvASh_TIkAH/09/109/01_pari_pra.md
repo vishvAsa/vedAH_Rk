@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि प्र꣡ धन्व इ꣡न्द्राय सोम  
-स्वादु꣡र् मित्रा꣡य पूष्णे꣡ भ꣡गाय
+प᳓रि प्र᳓ धन्व इ᳓न्द्राय सोम  
+स्वादु᳓र् मित्रा᳓य पूष्णे᳓ भ᳓गाय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -141,7 +141,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Run forth and around for Indra, o Soma, sweet for Mitra, Pūṣan,  and Bhaga.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/01-03.md">

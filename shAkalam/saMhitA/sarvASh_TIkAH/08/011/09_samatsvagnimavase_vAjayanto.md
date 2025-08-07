@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सम꣡त्सु अग्नि꣡म् अ꣡वसे  
-वाजय꣡न्तो हवामहे  
-वा꣡जेषु चित्र꣡राधसम्
+सम᳓त्सु अग्नि᳓म् अ᳓वसे  
+वाजय᳓न्तो हवामहे  
+वा᳓जेषु चित्र᳓राधसम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

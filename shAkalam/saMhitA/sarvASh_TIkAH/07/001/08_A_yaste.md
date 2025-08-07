@@ -15,9 +15,9 @@ ChandaH = "विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ य꣡स् ते अग्न इधते꣡ अ꣡नीकं  
-व꣡सिष्ठ शु꣡क्र दी꣡दिवः प꣡वाक  
-उतो꣡ न एभि꣡ स्तव꣡थैर् इह꣡ स्याः
+आ᳓ य᳓स् ते अग्न इधते᳓ अ᳓नीकं  
+व᳓सिष्ठ शु᳓क्र दी᳓दिवः प᳓वाक  
+उतो᳓ न एभि᳓ स्तव᳓थैर् इह᳓ स्याः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

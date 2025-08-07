@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ इन्द्र नो गधि प्रियः꣡  
-सत्राजि꣡द् अ꣡गोहियः  
-गिरि꣡र् न꣡ विश्व꣡तस् पृथुः꣡ प꣡तिर् दिवः꣡
+आ᳓ इन्द्र नो गधि प्रियः᳓  
+सत्राजि᳓द् अ᳓गोहियः  
+गिरि᳓र् न᳓ विश्व᳓तस् पृथुः᳓ प᳓तिर् दिवः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

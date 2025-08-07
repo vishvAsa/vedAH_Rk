@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡जिष्ठं त्वा ववृमहे  
-देवं꣡ देवत्रा꣡ हो꣡तारम् अ꣡मर्तियम्  
-अस्य꣡ यज्ञ꣡स्य सुक्र꣡तुम्
+य᳓जिष्ठं त्वा ववृमहे  
+देवं᳓ देवत्रा᳓ हो᳓तारम् अ᳓मर्तियम्  
+अस्य᳓ यज्ञ᳓स्य सुक्र᳓तुम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

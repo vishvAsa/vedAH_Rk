@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ मर्मृजान꣡ आयु꣡भिः  
-प्र꣡यस्वान् प्र꣡यसे हितः꣡  
-इ꣡न्दुर् अ꣡त्यो विचक्षणः꣡
+स᳓ मर्मृजान᳓ आयु᳓भिः  
+प्र᳓यस्वान् प्र᳓यसे हितः᳓  
+इ᳓न्दुर् अ᳓त्यो विचक्षणः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

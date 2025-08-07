@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो वि꣡श्वा दिवो꣡ व꣡सु  
-उतो꣡ पृथिविया꣡ अ꣡धि  
-पुनान꣡ इन्दव् आ꣡ भर
+स᳓ नो वि᳓श्वा दिवो᳓ व᳓सु  
+उतो᳓ पृथिविया᳓ अ᳓धि  
+पुनान᳓ इन्दव् आ᳓ भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>

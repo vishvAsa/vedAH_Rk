@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् ईं हिन्वन्ति अग्रु꣡वो  
-ध꣡मन्ति बाकुरं꣡ दृ꣡तिम्  
-त्रिधा꣡तु वारण꣡म् म꣡धु
+त᳓म् ईं हिन्वन्ति अग्रु᳓वो  
+ध᳓मन्ति बाकुरं᳓ दृ᳓तिम्  
+त्रिधा᳓तु वारण᳓म् म᳓धु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

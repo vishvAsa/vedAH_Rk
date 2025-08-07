@@ -15,8 +15,8 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने भ꣡व सुषमि꣡धा स꣡मिद्ध  
-उत꣡ बर्हि꣡र् उर्विया꣡ वि꣡ स्तृणीताम्
+अ᳓ग्ने भ᳓व सुषमि᳓धा स᳓मिद्ध  
+उत᳓ बर्हि᳓र् उर्विया᳓ वि᳓ स्तृणीताम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

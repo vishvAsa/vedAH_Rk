@@ -15,9 +15,9 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡च् च꣡क्षुर् देव꣡हितं शुक्र꣡म् उच्च꣡रत्  
-प꣡श्येम शर꣡दः शतं꣡  
-जी꣡वेम शर꣡दः शत꣡म्
+त᳓च् च᳓क्षुर् देव᳓हितं शुक्र᳓म् उच्च᳓रत्  
+प᳓श्येम शर᳓दः शतं᳓  
+जी᳓वेम शर᳓दः शत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

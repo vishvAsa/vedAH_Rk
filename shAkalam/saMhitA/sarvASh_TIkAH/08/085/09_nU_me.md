@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नू꣡ मे गि꣡रो नासतिया  
-अ꣡श्विना प्रा꣡वतं युव꣡म्  
-म꣡ध्वः सो꣡मस्य पीत꣡ये
+नू᳓ मे गि᳓रो नासतिया  
+अ᳓श्विना प्रा᳓वतं युव᳓म्  
+म᳓ध्वः सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

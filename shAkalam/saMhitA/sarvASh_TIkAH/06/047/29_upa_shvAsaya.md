@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प श्वासय पृथिवी꣡म् उत꣡ द्या꣡म्  
-पुरुत्रा꣡ ते मनुतां वि꣡ष्ठितं ज꣡गत्  
-स꣡ दुन्दुभे सजू꣡र् इ꣡न्द्रेण देवइ꣡र्  
-दूरा꣡द् द꣡वीयो अ꣡प सेध श꣡त्रून्
+उ᳓प श्वासय पृथिवी᳓म् उत᳓ द्या᳓म्  
+पुरुत्रा᳓ ते मनुतां वि᳓ष्ठितं ज᳓गत्  
+स᳓ दुन्दुभे सजू᳓र् इ᳓न्द्रेण देवइ᳓र्  
+दूरा᳓द् द᳓वीयो अ᳓प सेध श᳓त्रून्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -248,7 +248,7 @@ _________
 Make Heaven and Earth gasp. Let the moving (world [=living  
 creatures]) dispersed in many places pay attention to you.  
 O Drum, along with Indra, with the gods, drive away the rivals farther  than far.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">

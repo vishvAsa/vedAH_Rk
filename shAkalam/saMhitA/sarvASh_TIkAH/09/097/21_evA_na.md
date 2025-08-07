@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-एवा꣡ न इन्दो अभि꣡ देव꣡वीतिम्  
-प꣡रि स्रव न꣡भो अ꣡र्णश् चमू꣡षु  
-सो꣡मो अस्म꣡भ्यं का꣡मियम् बृह꣡न्तं  
-रयिं꣡ ददातु वीर꣡वन्तम् उग्र꣡म्
+एवा᳓ न इन्दो अभि᳓ देव᳓वीतिम्  
+प᳓रि स्रव न᳓भो अ᳓र्णश् चमू᳓षु  
+सो᳓मो अस्म᳓भ्यं का᳓मियम् बृह᳓न्तं  
+रयिं᳓ ददातु वीर᳓वन्तम् उग्र᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -240,7 +240,7 @@ _________
 
 Thus, o drop, flow around the cloud, the flood in the cups, toward our  pursuit of the gods.  
 Let Soma give to us desirable, lofty wealth, powerful and abounding in  heroes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/19-21.md">

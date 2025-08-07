@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यदा꣡ वृत्रं꣡ नदीवृ꣡तं  
-श꣡वसा वज्रिन् अ꣡वधीः  
-आ꣡द् इ꣡त् ते हर्यता꣡ ह꣡री ववक्षतुः
+यदा᳓ वृत्रं᳓ नदीवृ᳓तं  
+श᳓वसा वज्रिन् अ᳓वधीः  
+आ᳓द् इ᳓त् ते हर्यता᳓ ह᳓री ववक्षतुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -170,7 +170,7 @@ _________
 
 When, o mace-bearer, with your vast power you smashed Vr̥tra who was  blocking the rivers,  
 just after that your two beloved fallow bays waxed strong.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/25-28.md">

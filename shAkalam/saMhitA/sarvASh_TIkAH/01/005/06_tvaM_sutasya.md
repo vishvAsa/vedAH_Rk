@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सुत꣡स्य पीत꣡ये  
-सद्यो꣡ वृद्धो꣡ अजायथाः  
-इ꣡न्द्र ज्यइ꣡ष्ठ्याय सुक्रतो
+तुवं᳓ सुत᳓स्य पीत᳓ये  
+सद्यो᳓ वृद्धो᳓ अजायथाः  
+इ᳓न्द्र ज्यइ᳓ष्ठ्याय सुक्रतो
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡राशं꣡सः सुषूदति  
-इमं꣡ यज्ञ꣡म् अ꣡दाभियः  
-कवि꣡र् हि꣡ म꣡धुहस्तियः
+न᳓राशं᳓सः सुषूदति  
+इमं᳓ यज्ञ᳓म् अ᳓दाभियः  
+कवि᳓र् हि᳓ म᳓धुहस्तियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

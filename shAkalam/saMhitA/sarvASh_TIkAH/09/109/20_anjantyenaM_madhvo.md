@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अञ्ज꣡न्ति एनम् म꣡ध्वो र꣡सेन  
-इ꣡न्द्राय वृ꣡ष्ण इ꣡न्दुम् म꣡दाय
+अञ्ज᳓न्ति एनम् म᳓ध्वो र᳓सेन  
+इ᳓न्द्राय वृ᳓ष्ण इ᳓न्दुम् म᳓दाय
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -138,7 +138,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 With the sap of honey they anoint him, the drop for Indra the bull, for  exhilaration.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/19-21.md">

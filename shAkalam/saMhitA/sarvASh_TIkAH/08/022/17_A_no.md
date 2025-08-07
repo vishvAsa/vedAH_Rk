@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो अ꣡श्वावद् अश्विना  
-वर्ति꣡र् यासिष्टम् मधुपातमा नरा  
-गो꣡मद् दस्रा हि꣡रण्यवत्
+आ᳓ नो अ᳓श्वावद् अश्विना  
+वर्ति᳓र् यासिष्टम् मधुपातमा नरा  
+गो᳓मद् दस्रा हि᳓रण्यवत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

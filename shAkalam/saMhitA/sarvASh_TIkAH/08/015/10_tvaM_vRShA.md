@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ वृ꣡षा ज꣡नाना᳐म्  
-मं꣡हिष्ठ इन्द्र जज्ञिषे  
-सत्रा꣡ वि꣡श्वा सुअपत्या꣡नि दधिषे
+तुवं᳓ वृ᳓षा ज᳓नाना᳐म्  
+मं᳓हिष्ठ इन्द्र जज्ञिषे  
+सत्रा᳓ वि᳓श्वा सुअपत्या᳓नि दधिषे
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -169,7 +169,7 @@ i.e. you give offspring, and all good things
 You are the bull of the peoples; you were born as the most  
 munificent, Indra.  
 In every way you have acquired all things that bring good descendants.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">

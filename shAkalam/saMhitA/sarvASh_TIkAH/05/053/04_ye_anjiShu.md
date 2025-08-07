@@ -15,9 +15,9 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ अञ्जि꣡षु ये꣡ वा꣡शीषु स्व꣡भानवः  
-स्रक्षु꣡ रुक्मे꣡षु खादि꣡षु  
-श्राया꣡ र꣡थेषु ध꣡न्वसु
+ये᳓ अञ्जि᳓षु ये᳓ वा᳓शीषु स्व᳓भानवः  
+स्रक्षु᳓ रुक्मे᳓षु खादि᳓षु  
+श्राया᳓ र᳓थेषु ध᳓न्वसु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

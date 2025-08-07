@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्निं꣡ वर्धन्तु नो गि꣡रो  
-य꣡तो जा꣡यत उक्थि꣡यः  
-महे꣡ वा꣡जाय द्र꣡विणाय दर्शतः꣡
+अग्निं᳓ वर्धन्तु नो गि᳓रो  
+य᳓तो जा᳓यत उक्थि᳓यः  
+महे᳓ वा᳓जाय द्र᳓विणाय दर्शतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

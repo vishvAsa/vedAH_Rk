@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ नो वा꣡जसातये  
-प꣡वस्व बृहती꣡र् इ꣡षः  
-द्युम꣡द् इन्दो सुवी꣡रियम्
+उत᳓ नो वा᳓जसातये  
+प᳓वस्व बृहती᳓र् इ᳓षः  
+द्युम᳓द् इन्दो सुवी᳓रियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

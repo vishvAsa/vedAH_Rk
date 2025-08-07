@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-सजू꣡र् आदित्यइ꣡र् व꣡सुभिः  
-सजू꣡र् इ꣡न्द्रेण वायु꣡ना  
-आ꣡ याहि अग्ने अत्रिव꣡त् सुते꣡ रण
+सजू᳓र् आदित्यइ᳓र् व᳓सुभिः  
+सजू᳓र् इ᳓न्द्रेण वायु᳓ना  
+आ᳓ याहि अग्ने अत्रिव᳓त् सुते᳓ रण
 </details>
 
 <details><summary>Vedaweb annotation</summary>

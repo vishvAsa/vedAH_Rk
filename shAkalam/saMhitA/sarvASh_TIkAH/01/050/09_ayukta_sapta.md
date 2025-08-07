@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡युक्त सप्त꣡ शुन्ध्यु꣡वः  
-सू꣡रो र꣡थस्य नप्ति꣡यः  
-ता꣡भिर् याति स्व꣡युक्तिभिः
+अ᳓युक्त सप्त᳓ शुन्ध्यु᳓वः  
+सू᳓रो र᳓थस्य नप्ति᳓यः  
+ता᳓भिर् याति स्व᳓युक्तिभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

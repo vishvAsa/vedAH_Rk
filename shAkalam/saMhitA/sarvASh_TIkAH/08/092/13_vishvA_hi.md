@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वा हि꣡ मर्तियत्वना꣡  
-अनुकामा꣡ शतक्रतो  
-अ꣡गन्म वज्रिन्न् आश꣡सः
+वि᳓श्वा हि᳓ मर्तियत्वना᳓  
+अनुकामा᳓ शतक्रतो  
+अ᳓गन्म वज्रिन्न् आश᳓सः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

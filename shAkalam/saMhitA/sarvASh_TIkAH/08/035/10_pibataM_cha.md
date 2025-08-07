@@ -15,10 +15,10 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-पि꣡बतं च तृप्णुतं꣡ चा꣡ च गछतम्  
-प्रजां꣡ च धत्तं꣡ द्र꣡विणं च धत्तम्  
-सजो꣡षसा उष꣡सा सू꣡रियेण च  
-ऊ꣡र्जं नो धत्तम् अश्विना
+पि᳓बतं च तृप्णुतं᳓ चा᳓ च गछतम्  
+प्रजां᳓ च धत्तं᳓ द्र᳓विणं च धत्तम्  
+सजो᳓षसा उष᳓सा सू᳓रियेण च  
+ऊ᳓र्जं नो धत्तम् अश्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -261,7 +261,7 @@ _________
 
 Drink and satisfy yourself and come here. – Provide progeny and  provide property.  
 In concert with Dawn and the Sun, provide nourishment for us, Aśvins.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/10-12.md">

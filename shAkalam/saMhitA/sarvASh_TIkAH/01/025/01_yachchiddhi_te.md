@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡च् चिद् धि꣡ ते वि꣡शो यथा  
-प्र꣡ देव वरुण व्रत꣡म्  
-मिनीम꣡सि द्य꣡वि-द्यवि
+य᳓च् चिद् धि᳓ ते वि᳓शो यथा  
+प्र᳓ देव वरुण व्रत᳓म्  
+मिनीम᳓सि द्य᳓वि-द्यवि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-धी꣡रो हि꣡ अ꣡सि अद्मस꣡द्  
-वि꣡प्रो न꣡ जा꣡गृविः स꣡दा  
-अ꣡ग्ने दीद꣡यसि द्य꣡वि
+धी᳓रो हि᳓ अ᳓सि अद्मस᳓द्  
+वि᳓प्रो न᳓ जा᳓गृविः स᳓दा  
+अ᳓ग्ने दीद᳓यसि द्य᳓वि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

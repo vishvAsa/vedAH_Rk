@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उषो꣡ न꣡ जारो꣡ विभा꣡वा उस्रः꣡  
-सं꣡ज्ञातरूपश् चि꣡केतद् अस्मै
+उषो᳓ न᳓ जारो᳓ विभा᳓वा उस्रः᳓  
+सं᳓ज्ञातरूपश् चि᳓केतद् अस्मै
 </details>
 
 <details><summary>Vedaweb annotation</summary>

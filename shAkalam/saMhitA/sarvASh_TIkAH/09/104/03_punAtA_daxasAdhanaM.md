@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुना꣡ता दक्षसा꣡धनं  
-य꣡था श꣡र्धाय वीत꣡ये  
-य꣡था मित्रा꣡य व꣡रुणाय शं꣡तमः
+पुना᳓ता दक्षसा᳓धनं  
+य᳓था श᳓र्धाय वीत᳓ये  
+य᳓था मित्रा᳓य व᳓रुणाय शं᳓तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

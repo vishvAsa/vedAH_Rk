@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡विष्टो अस्मा꣡न् वि꣡श्वासु विक्षु꣡  
-अ꣡द्युं कृणोत शं꣡सं निनित्सोः꣡
+अ᳓विष्टो अस्मा᳓न् वि᳓श्वासु विक्षु᳓  
+अ᳓द्युं कृणोत शं᳓सं निनित्सोः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

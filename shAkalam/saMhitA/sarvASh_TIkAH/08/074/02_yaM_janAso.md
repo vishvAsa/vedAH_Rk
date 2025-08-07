@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यं꣡ ज꣡नासो हवि꣡ष्मन्तो  
-मित्रं꣡ न꣡ सर्पि꣡रासुतिम्  
-प्रशं꣡सन्ति प्र꣡शस्तिभिः
+यं᳓ ज᳓नासो हवि᳓ष्मन्तो  
+मित्रं᳓ न᳓ सर्पि᳓रासुतिम्  
+प्रशं᳓सन्ति प्र᳓शस्तिभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

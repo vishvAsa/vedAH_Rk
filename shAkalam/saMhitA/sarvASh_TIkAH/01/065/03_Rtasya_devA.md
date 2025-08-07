@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऋत꣡स्य देवा꣡ अ꣡नु व्रता꣡ गुर्  
-भु꣡वत् प꣡रिष्टिर् दियउ꣡र् न꣡ भू꣡म
+ऋत᳓स्य देवा᳓ अ᳓नु व्रता᳓ गुर्  
+भु᳓वत् प᳓रिष्टिर् दियउ᳓र् न᳓ भू᳓म
 </details>
 
 <details><summary>Vedaweb annotation</summary>

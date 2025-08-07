@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रज्येष्ठा म꣡रुद्गणा  
-दे꣡वासः पू꣡षरातयः  
-वि꣡श्वे म꣡म श्रुता ह꣡वम्
+इ᳓न्द्रज्येष्ठा म᳓रुद्गणा  
+दे᳓वासः पू᳓षरातयः  
+वि᳓श्वे म᳓म श्रुता ह᳓वम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

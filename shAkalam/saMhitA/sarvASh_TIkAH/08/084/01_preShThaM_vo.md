@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡यिष्ठं+ वो अ꣡तिथिं  
-स्तुषे꣡ मित्र꣡म् इव प्रिय꣡म्  
-अग्निं꣡ र꣡थं न꣡ वे꣡दियम्
+प्र᳓यिष्ठं+ वो अ᳓तिथिं  
+स्तुषे᳓ मित्र᳓म् इव प्रिय᳓म्  
+अग्निं᳓ र᳓थं न᳓ वे᳓दियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

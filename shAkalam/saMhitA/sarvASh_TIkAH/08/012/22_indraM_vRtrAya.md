@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रं वृत्रा꣡य ह꣡न्तवे  
-देवा꣡सो दधिरे पुरः꣡  
-इ꣡न्द्रं वा꣡णीर् अनूषता स꣡म् ओ꣡जसे
+इ᳓न्द्रं वृत्रा᳓य ह᳓न्तवे  
+देवा᳓सो दधिरे पुरः᳓  
+इ᳓न्द्रं वा᳓णीर् अनूषता स᳓म् ओ᳓जसे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

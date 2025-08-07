@@ -15,10 +15,10 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृषणश्वे꣡न मरुतो वृ꣡षप्सुना  
-र꣡थेन वृ꣡षनाभिना  
-आ꣡ श्येना꣡सो न꣡ पक्षि꣡णो वृ꣡था नरो  
-हव्या꣡ नो वीत꣡ये गत
+वृषणश्वे᳓न मरुतो वृ᳓षप्सुना  
+र᳓थेन वृ᳓षनाभिना  
+आ᳓ श्येना᳓सो न᳓ पक्षि᳓णो वृ᳓था नरो  
+हव्या᳓ नो वीत᳓ये गत
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -207,7 +207,7 @@ _________
 
 O Maruts, with your chariot with its bullish horses, bullish breath,  bullish wheel-naves,  
 come here at will, like winged falcons, to pursue our oblations, o men.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/09-10.md">

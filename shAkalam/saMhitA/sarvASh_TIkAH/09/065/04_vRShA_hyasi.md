@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡षा हि꣡ अ꣡सि भानु꣡ना  
-द्युम꣡न्तं त्वा हवामहे  
-प꣡वमान सुआधि꣡यः
+वृ᳓षा हि᳓ अ᳓सि भानु᳓ना  
+द्युम᳓न्तं त्वा हवामहे  
+प᳓वमान सुआधि᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -145,7 +145,7 @@ _________
 
 Because you are a bull, we, very attentive, invoke you who are brilliant  with radiance,  
 o self-purifying one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/04-06.md">

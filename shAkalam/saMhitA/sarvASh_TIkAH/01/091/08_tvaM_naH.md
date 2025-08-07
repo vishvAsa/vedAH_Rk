@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ नः सोम विश्व꣡तो  
-र꣡क्षा राजन्न् अघायतः꣡  
-न꣡ रिष्येत् त्वा꣡वतः स꣡खा
+तुवं᳓ नः सोम विश्व᳓तो  
+र᳓क्षा राजन्न् अघायतः᳓  
+न᳓ रिष्येत् त्वा᳓वतः स᳓खा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

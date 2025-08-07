@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभ्य् अ᳡र्षत सुष्टुतिं꣡ ग꣡व्यम् आजि꣡म्  
-अस्मा꣡सु भद्रा꣡ द्र꣡विणानि धत्त  
-इमं꣡ यज्ञं꣡ नयत देव꣡ता नो  
-घृत꣡स्य धा꣡रा म꣡धुमत् पवन्ते
+अभ्य् अ᳡र्षत सुष्टुतिं᳓ ग᳓व्यम् आजि᳓म्  
+अस्मा᳓सु भद्रा᳓ द्र᳓विणानि धत्त  
+इमं᳓ यज्ञं᳓ नयत देव᳓ता नो  
+घृत᳓स्य धा᳓रा म᳓धुमत् पवन्ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -236,7 +236,7 @@ Priests: the text has no nominative native; Ṛtvijaḥ, priests are impied; an 
 
 Rush toward the lovely praise hymn, to the contest for cows; on us  confer auspicious chattels.  
 Lead this sacrifice here to the divinities for us. The streams of ghee  purify themselves like honey.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">

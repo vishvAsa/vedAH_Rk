@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡था ते अ꣡न्तमानां᳐  
-विद्या꣡म सुमतीना᳐꣡म्  
-मा꣡ नो अ꣡ति ख्य आ꣡ गहि
+अ᳓था ते अ᳓न्तमानां᳐  
+विद्या᳓म सुमतीना᳐᳓म्  
+मा᳓ नो अ᳓ति ख्य आ᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

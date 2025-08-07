@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ति वां सू꣡र उ꣡दिते  
-मित्रं꣡ गृणीषे व꣡रुणम्  
-अर्यम꣡णं रिशा꣡दसम्
+प्र᳓ति वां सू᳓र उ᳓दिते  
+मित्रं᳓ गृणीषे व᳓रुणम्  
+अर्यम᳓णं रिशा᳓दसम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

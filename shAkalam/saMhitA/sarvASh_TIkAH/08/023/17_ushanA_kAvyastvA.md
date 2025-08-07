@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उश꣡ना काविय꣡स् तुवा  
-नि꣡ हो꣡तारम् असादयत्  
-आयजिं꣡ त्वा म꣡नवे जात꣡वेदसम्
+उश᳓ना काविय᳓स् तुवा  
+नि᳓ हो᳓तारम् असादयत्  
+आयजिं᳓ त्वा म᳓नवे जात᳓वेदसम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

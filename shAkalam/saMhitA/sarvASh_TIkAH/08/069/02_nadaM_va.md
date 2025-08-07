@@ -15,10 +15,10 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-नदं꣡ व ओ꣡दतीनां᳐  
-नदं꣡ यो꣡युवतीना᳐म्  
-प꣡तिं वो अ꣡घ्नियानां᳐  
-धेनूना᳐꣡म् इषुध्यसि
+नदं᳓ व ओ᳓दतीनां᳐  
+नदं᳓ यो᳓युवतीना᳐म्  
+प᳓तिं वो अ᳓घ्नियानां᳐  
+धेनूना᳐᳓म् इषुध्यसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

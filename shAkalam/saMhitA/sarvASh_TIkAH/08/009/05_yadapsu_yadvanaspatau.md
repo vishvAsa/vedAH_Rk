@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अप्सु꣡ य꣡द् व꣡नस्प꣡तौ  
-य꣡द् ओ꣡षधीषु पुरुदंससा कृत꣡म्  
-ते꣡न माविष्टम् अश्विना
+य᳓द् अप्सु᳓ य᳓द् व᳓नस्प᳓तौ  
+य᳓द् ओ᳓षधीषु पुरुदंससा कृत᳓म्  
+ते᳓न माविष्टम् अश्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

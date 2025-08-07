@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गा꣡व उ꣡पावतावत꣡म्  
-मही꣡ यज्ञ꣡स्य रप्सु꣡दा  
-उभा꣡ क꣡र्णा हिरण्य꣡या
+गा᳓व उ᳓पावतावत᳓म्  
+मही᳓ यज्ञ᳓स्य रप्सु᳓दा  
+उभा᳓ क᳓र्णा हिरण्य᳓या
 </details>
 
 <details><summary>Vedaweb annotation</summary>

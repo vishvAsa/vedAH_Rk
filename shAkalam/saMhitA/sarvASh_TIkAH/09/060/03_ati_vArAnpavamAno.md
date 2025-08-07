@@ -15,9 +15,9 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ति वा꣡रान् प꣡वमानो असिष्यदत्  
-कल꣡शाँ अभि꣡ धावति  
-इ꣡न्द्रस्य हा꣡र्दि आविश꣡न्
+अ᳓ति वा᳓रान् प᳓वमानो असिष्यदत्  
+कल᳓शाँ अभि᳓ धावति  
+इ᳓न्द्रस्य हा᳓र्दि आविश᳓न्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

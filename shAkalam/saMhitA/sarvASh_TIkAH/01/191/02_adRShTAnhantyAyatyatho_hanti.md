@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अदृ꣡ष्टान् हन्ति आयती꣡  
-अ꣡थो हन्ति परायती꣡  
-अ꣡थो अवघ्नती꣡ हन्ति  
-अ꣡थो पिनष्टि पिंषती꣡
+अदृ᳓ष्टान् हन्ति आयती᳓  
+अ᳓थो हन्ति परायती᳓  
+अ᳓थो अवघ्नती᳓ हन्ति  
+अ᳓थो पिनष्टि पिंषती᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

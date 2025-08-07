@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡रत् स꣡ मन्दी꣡ धावति  
-धा꣡रा सुत꣡स्य अ꣡न्धसः  
-त꣡रत् स꣡ मन्दी꣡ धावति
+त᳓रत् स᳓ मन्दी᳓ धावति  
+धा᳓रा सुत᳓स्य अ᳓न्धसः  
+त᳓रत् स᳓ मन्दी᳓ धावति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -164,7 +164,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 In crossing, the invigorating one runs, the stream of the pressed stalk. – In crossing, the invigorating one runs.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/058/01-03.md">

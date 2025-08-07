@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ घा ने꣡मो अ꣡स्तुतः  
-पु꣡माँ इ꣡ति ब्रुवे पणिः꣡  
-स꣡ वइ꣡रदेय इ꣡त् समः꣡
+उत᳓ घा ने᳓मो अ᳓स्तुतः  
+पु᳓माँ इ᳓ति ब्रुवे पणिः᳓  
+स᳓ वइ᳓रदेय इ᳓त् समः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

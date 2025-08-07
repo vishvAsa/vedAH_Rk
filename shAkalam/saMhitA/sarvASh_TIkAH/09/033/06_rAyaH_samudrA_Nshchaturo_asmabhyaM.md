@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-रायः꣡ समुद्रां꣡श् चतु꣡रो  
-अस्म꣡भ्यं सोम विश्व꣡तः  
-आ꣡ पवस्व सहस्रि꣡णः
+रायः᳓ समुद्रां᳓श् चतु᳓रो  
+अस्म᳓भ्यं सोम विश्व᳓तः  
+आ᳓ पवस्व सहस्रि᳓णः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पिश꣡ङ्गभृष्टिम् अम्भृण꣡म्  
-पिशा꣡चिम् इन्द्र स꣡म् मृण  
-स꣡र्वं र꣡क्षो नि꣡ बर्हय
+पिश᳓ङ्गभृष्टिम् अम्भृण᳓म्  
+पिशा᳓चिम् इन्द्र स᳓म् मृण  
+स᳓र्वं र᳓क्षो नि᳓ बर्हय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

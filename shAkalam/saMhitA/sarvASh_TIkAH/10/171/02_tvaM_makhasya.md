@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुव꣡म् मख꣡स्य दो꣡धतः  
-शि꣡रो अ꣡व त्वचो꣡ भरः  
-अ꣡गछः सोमि꣡नो गृह꣡म्
+तुव᳓म् मख᳓स्य दो᳓धतः  
+शि᳓रो अ᳓व त्वचो᳓ भरः  
+अ᳓गछः सोमि᳓नो गृह᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

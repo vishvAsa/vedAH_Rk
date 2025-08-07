@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वे हि꣡ त्वा सजो꣡षसो  
-देवा꣡सो दूत꣡म् अ꣡क्रत  
-श्रुष्टी꣡ देव प्रथमो꣡ यज्ञि꣡यो भुवः
+वि᳓श्वे हि᳓ त्वा सजो᳓षसो  
+देवा᳓सो दूत᳓म् अ᳓क्रत  
+श्रुष्टी᳓ देव प्रथमो᳓ यज्ञि᳓यो भुवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -188,7 +188,7 @@ May you: may you quickly become worthy of the sacrifice,(as bearing our oblation
 
 Because all the gods, altogether, made you their messenger,  
 by harkening (to them), o god, you became the first one worthy of the  sacrifice.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/023/18-19.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡तीहि मन्युषावि꣡णं  
-सुषुवां꣡सम् उपा꣡रणे  
-इमं꣡ रातं꣡ सुत꣡म् पिब
+अ᳓तीहि मन्युषावि᳓णं  
+सुषुवां᳓सम् उपा᳓रणे  
+इमं᳓ रातं᳓ सुत᳓म् पिब
 </details>
 
 <details><summary>Vedaweb annotation</summary>

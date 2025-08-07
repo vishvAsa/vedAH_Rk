@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ अस्य꣡ पारे꣡ र꣡जसः  
-शुक्रो꣡ अग्नि꣡र् अ꣡जायत  
-स꣡ नः पर्षद् अ꣡ति द्वि꣡षः
+यो᳓ अस्य᳓ पारे᳓ र᳓जसः  
+शुक्रो᳓ अग्नि᳓र् अ᳓जायत  
+स᳓ नः पर्षद् अ᳓ति द्वि᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

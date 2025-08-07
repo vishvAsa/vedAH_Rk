@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-धीभि꣡र् हिन्वन्ति वाजि꣡नं  
-व꣡ने क्री꣡ळन्तम् अ꣡त्यविम्  
-अभि꣡ त्रिपृष्ठ꣡म् मत꣡यः स꣡म् अस्वरन्
+धीभि᳓र् हिन्वन्ति वाजि᳓नं  
+व᳓ने क्री᳓ळन्तम् अ᳓त्यविम्  
+अभि᳓ त्रिपृष्ठ᳓म् मत᳓यः स᳓म् अस्वरन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -174,7 +174,7 @@ With their fingers: dhībhiḥ = dhītibiḥ; or, by their praises
 
 With insights they impel the prizewinner, playing in the wood, across  the sheep [=fleece].  
 The thoughts sound together toward the three-backed one.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/10-12.md">

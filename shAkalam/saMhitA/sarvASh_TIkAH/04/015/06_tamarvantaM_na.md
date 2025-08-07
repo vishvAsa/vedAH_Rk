@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् अ꣡र्वन्तं न꣡ सानसि꣡म्  
-अरुषं꣡ न꣡ दिवः꣡ शि꣡शुम्  
-मर्मृज्य꣡न्ते दिवे꣡-दिवे
+त᳓म् अ᳓र्वन्तं न᳓ सानसि᳓म्  
+अरुषं᳓ न᳓ दिवः᳓ शि᳓शुम्  
+मर्मृज्य᳓न्ते दिवे᳓-दिवे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

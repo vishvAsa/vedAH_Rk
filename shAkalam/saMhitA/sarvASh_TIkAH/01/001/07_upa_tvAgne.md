@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प त्वाग्ने दिवे꣡-दिवे  
-दो꣡षावस्तर् धिया꣡ वय꣡म्  
-न꣡मो भ꣡रन्त ए꣡मसि
+उ᳓प त्वाग्ने दिवे᳓-दिवे  
+दो᳓षावस्तर् धिया᳓ वय᳓म्  
+न᳓मो भ᳓रन्त ए᳓मसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-के꣡ ष्ठा नरः श्रे꣡ष्ठतमा  
-य꣡ ए꣡क-एक आयय꣡  
-परम꣡स्याः पराव꣡तः
+के᳓ ष्ठा नरः श्रे᳓ष्ठतमा  
+य᳓ ए᳓क-एक आयय᳓  
+परम᳓स्याः पराव᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

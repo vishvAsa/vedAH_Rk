@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सोम सू꣡र ए꣡षस्  
-तोक꣡स्य साता꣡ तनू꣡नाम्  
-वृणीम꣡हे सखिया꣡य  
-वृणीम꣡हे यु꣡जियाय
+तुवं᳓ सोम सू᳓र ए᳓षस्  
+तोक᳓स्य साता᳓ तनू᳓नाम्  
+वृणीम᳓हे सखिया᳓य  
+वृणीम᳓हे यु᳓जियाय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡ अर्षे꣡न्द्राय पीत꣡ये  
-तिरो꣡ रो꣡माणि अव्य꣡या  
-सी꣡दन् यो꣡ना व꣡नेषु आ꣡
+सो᳓ अर्षे᳓न्द्राय पीत᳓ये  
+तिरो᳓ रो᳓माणि अव्य᳓या  
+सी᳓दन् यो᳓ना व᳓नेषु आ᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -167,7 +167,7 @@ _________
 
 Rush, for Indra to drink, across the sheep’s fleece,  
 sitting on your womb, in the wooden (vessels).
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/07-09.md">

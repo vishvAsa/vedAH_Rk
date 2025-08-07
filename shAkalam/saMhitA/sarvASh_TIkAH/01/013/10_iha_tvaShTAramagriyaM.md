@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इह꣡ त्व꣡ष्टारम् अग्रियं꣡  
-विश्व꣡रूपम् उ꣡प ह्वये  
-अस्मा꣡कम् अस्तु के꣡वलः
+इह᳓ त्व᳓ष्टारम् अग्रियं᳓  
+विश्व᳓रूपम् उ᳓प ह्वये  
+अस्मा᳓कम् अस्तु के᳓वलः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

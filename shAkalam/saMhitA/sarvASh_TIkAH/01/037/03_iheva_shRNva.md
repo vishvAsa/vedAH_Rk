@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इहे꣡व शृण्व एषां᳐  
-क꣡शा ह꣡स्तेषु य꣡द् व꣡दान्  
-नि꣡ या꣡मञ् चित्र꣡म् ऋञ्जते
+इहे᳓व शृण्व एषां᳐  
+क᳓शा ह᳓स्तेषु य᳓द् व᳓दान्  
+नि᳓ या᳓मञ् चित्र᳓म् ऋञ्जते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

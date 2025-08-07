@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सत्रा꣡ ते अ꣡नु कृष्ट꣡यो  
-वि꣡श्वा चक्रे꣡व वावृतुः  
-सत्रा꣡ महाँ꣡ असि श्रुतः꣡
+सत्रा᳓ ते अ᳓नु कृष्ट᳓यो  
+वि᳓श्वा चक्रे᳓व वावृतुः  
+सत्रा᳓ महाँ᳓ असि श्रुतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

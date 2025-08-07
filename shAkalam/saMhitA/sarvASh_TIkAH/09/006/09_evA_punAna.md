@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एवा꣡ पुनान꣡ इन्द्रयु꣡र्  
-म꣡दम् मदिष्ठ वीत꣡ये  
-गु꣡हा चिद् दधिषे गि꣡रः
+एवा᳓ पुनान᳓ इन्द्रयु᳓र्  
+म᳓दम् मदिष्ठ वीत᳓ये  
+गु᳓हा चिद् दधिषे गि᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

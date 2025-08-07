@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रः सू꣡र्यस्य रश्मि꣡भिर्  
-नि꣡ अर्शसान꣡म् ओषति  
-अग्नि꣡र् व꣡नेव सासहिः꣡ प्र꣡ वावृधे
+इ᳓न्द्रः सू᳓र्यस्य रश्मि᳓भिर्  
+नि᳓ अर्शसान᳓म् ओषति  
+अग्नि᳓र् व᳓नेव सासहिः᳓ प्र᳓ वावृधे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

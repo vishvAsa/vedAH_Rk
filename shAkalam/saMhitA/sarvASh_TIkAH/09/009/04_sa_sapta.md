@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ सप्त꣡ धीति꣡भिर् हितो꣡  
-नद्यो᳡ अजिन्वद् अद्रु꣡हः  
-या꣡ ए꣡कम् अ꣡क्षि वावृधुः꣡
+स᳓ सप्त᳓ धीति᳓भिर् हितो᳓  
+नद्यो᳡ अजिन्वद् अद्रु᳓हः  
+या᳓ ए᳓कम् अ᳓क्षि वावृधुः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

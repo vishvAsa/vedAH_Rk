@@ -15,9 +15,9 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अला꣡यियस्य परशु꣡र् ननाश  
-त꣡म् आ꣡ पवस्व देव सोम  
-आखुं꣡ चिद् एव꣡ देव सोम
+अला᳓यियस्य परशु᳓र् ननाश  
+त᳓म् आ᳓ पवस्व देव सोम  
+आखुं᳓ चिद् एव᳓ देव सोम
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वैयश्व꣡स्य श्रुतं नरा  
-उतो꣡ मे अस्य꣡ वेदथः  
-सजो꣡षसा व꣡रुणो मित्रो꣡ अर्यमा꣡
+वैयश्व᳓स्य श्रुतं नरा  
+उतो᳓ मे अस्य᳓ वेदथः  
+सजो᳓षसा व᳓रुणो मित्रो᳓ अर्यमा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मरु꣡त्वन्तम् ऋजीषि꣡णम्  
-ओ꣡जस्वन्तं विरप्शि꣡नम्  
-इ꣡न्द्रं गीर्भि꣡र् हवामहे
+मरु᳓त्वन्तम् ऋजीषि᳓णम्  
+ओ᳓जस्वन्तं विरप्शि᳓नम्  
+इ᳓न्द्रं गीर्भि᳓र् हवामहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

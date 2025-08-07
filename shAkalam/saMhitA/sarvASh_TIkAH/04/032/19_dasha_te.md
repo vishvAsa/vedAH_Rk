@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-द꣡श ते कल꣡शानां᳐  
-हि꣡रण्यानाम् अधीमहि  
-भूरिदा꣡ असि वृत्रहन्
+द᳓श ते कल᳓शानां᳐  
+हि᳓रण्यानाम् अधीमहि  
+भूरिदा᳓ असि वृत्रहन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

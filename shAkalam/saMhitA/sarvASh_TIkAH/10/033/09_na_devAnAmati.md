@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ देवा꣡नाम् अ꣡ति व्रतं꣡  
-शता꣡त्मा चन꣡ जीवति  
-त꣡था युजा꣡ वि꣡ वावृते
+न᳓ देवा᳓नाम् अ᳓ति व्रतं᳓  
+शता᳓त्मा चन᳓ जीवति  
+त᳓था युजा᳓ वि᳓ वावृते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

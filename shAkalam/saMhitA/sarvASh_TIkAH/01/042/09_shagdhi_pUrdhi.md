@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शग्धि꣡ पूर्धि꣡ प्र꣡ यंसि च  
-शिशीहि꣡ प्रा꣡सि उद꣡रम्  
-पू꣡षन्न् इह꣡ क्र꣡तुं विदः
+शग्धि᳓ पूर्धि᳓ प्र᳓ यंसि च  
+शिशीहि᳓ प्रा᳓सि उद᳓रम्  
+पू᳓षन्न् इह᳓ क्र᳓तुं विदः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

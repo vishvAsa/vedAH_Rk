@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रस्य सोम रा꣡धसे  
-पुनानो꣡ हा꣡र्दि चोदय  
-ऋत꣡स्य यो꣡निम् आस꣡दम्
+इ᳓न्द्रस्य सोम रा᳓धसे  
+पुनानो᳓ हा᳓र्दि चोदय  
+ऋत᳓स्य यो᳓निम् आस᳓दम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

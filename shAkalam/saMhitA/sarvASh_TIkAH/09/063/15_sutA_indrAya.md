@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुता꣡ इ꣡न्द्राय वज्रि꣡णे  
-सो꣡मासो द꣡धिआशिरः  
-पवि꣡त्रम् अ꣡ति अक्षरन्
+सुता᳓ इ᳓न्द्राय वज्रि᳓णे  
+सो᳓मासो द᳓धिआशिरः  
+पवि᳓त्रम् अ᳓ति अक्षरन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -140,7 +140,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Pressed for Indra the mace-bearer, the soma juices, mixed with curds, have streamed across the filter.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/13-15.md">

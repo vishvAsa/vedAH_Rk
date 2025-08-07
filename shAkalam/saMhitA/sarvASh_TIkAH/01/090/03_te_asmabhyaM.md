@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ अस्म꣡भ्यं श꣡र्म यंसन्न्  
-अमृ꣡ता म꣡र्तियेभियः  
-बा꣡धमाना अ꣡प द्वि꣡षः
+ते᳓ अस्म᳓भ्यं श᳓र्म यंसन्न्  
+अमृ᳓ता म᳓र्तियेभियः  
+बा᳓धमाना अ᳓प द्वि᳓षः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

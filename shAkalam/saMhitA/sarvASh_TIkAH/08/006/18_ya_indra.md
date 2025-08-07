@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ इन्द्र य꣡तयस् तुवा  
-भृ꣡गवो ये꣡ च तुष्टुवुः꣡  
-म꣡मे꣡द् उग्र श्रुधी ह꣡वम्
+य᳓ इन्द्र य᳓तयस् तुवा  
+भृ᳓गवो ये᳓ च तुष्टुवुः᳓  
+म᳓मे᳓द् उग्र श्रुधी ह᳓वम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

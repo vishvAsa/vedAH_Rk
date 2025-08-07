@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ति त्वा शवसी꣡ वदद्  
-गिरा꣡व् अ꣡प्सो न꣡ योधिषत्  
-य꣡स् ते शत्रुत्व꣡म् आचके꣡
+प्र᳓ति त्वा शवसी᳓ वदद्  
+गिरा᳓व् अ᳓प्सो न᳓ योधिषत्  
+य᳓स् ते शत्रुत्व᳓म् आचके᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

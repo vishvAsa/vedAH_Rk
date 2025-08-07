@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ वां कृ꣡ष्णो अश्विना  
-ह꣡वते वाजिनीवसू  
-म꣡ध्वः सो꣡मस्य पीत꣡ये
+अयं᳓ वां कृ᳓ष्णो अश्विना  
+ह᳓वते वाजिनीवसू  
+म᳓ध्वः सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -143,7 +143,7 @@ _________
 
 This Kr̥ṣṇa is calling you, o Aśvins whose goods are prizewinning  mares,  
 to drink of the honeyed soma.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/085/03-04.md">

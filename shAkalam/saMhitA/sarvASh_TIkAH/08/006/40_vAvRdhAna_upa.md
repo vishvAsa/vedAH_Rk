@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वावृधान꣡ उ꣡प द्य꣡वि  
-वृ꣡षा वज्री꣡ अरोरवीत्  
-वृत्रहा꣡ सोमपा꣡तमः
+वावृधान᳓ उ᳓प द्य᳓वि  
+वृ᳓षा वज्री᳓ अरोरवीत्  
+वृत्रहा᳓ सोमपा᳓तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एते꣡ सो꣡मास इ꣡न्दवः  
-प्र꣡यस्वन्तः चमू꣡ सुताः꣡  
-इ꣡न्द्रं वर्धन्ति क꣡र्मभिः
+एते᳓ सो᳓मास इ᳓न्दवः  
+प्र᳓यस्वन्तः चमू᳓ सुताः᳓  
+इ᳓न्द्रं वर्धन्ति क᳓र्मभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

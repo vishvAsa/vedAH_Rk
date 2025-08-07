@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-श꣡वसा हि꣡ अ꣡सि श्रुतो꣡  
-वृत्रह꣡त्येन वृत्रहा꣡  
-मघइ꣡र् मघो꣡नो अ꣡ति शूर दाशसि
+श᳓वसा हि᳓ अ᳓सि श्रुतो᳓  
+वृत्रह᳓त्येन वृत्रहा᳓  
+मघइ᳓र् मघो᳓नो अ᳓ति शूर दाशसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

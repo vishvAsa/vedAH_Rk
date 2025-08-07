@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अय꣡म् अकृणोद् उष꣡सः सुप꣡त्नीर्  
-अयं꣡ सू꣡र्ये अदधाज् ज्यो꣡तिर् अन्तः꣡  
-अयं꣡ त्रिधा꣡तु दिवि꣡ रोचने꣡षु  
-त्रिते꣡षु विन्दद् अमृ꣡तं नि꣡गूळ्हम्
+अय᳓म् अकृणोद् उष᳓सः सुप᳓त्नीर्  
+अयं᳓ सू᳓र्ये अदधाज् ज्यो᳓तिर् अन्तः᳓  
+अयं᳓ त्रिधा᳓तु दिवि᳓ रोचने᳓षु  
+त्रिते᳓षु विन्दद् अमृ᳓तं नि᳓गूळ्हम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -247,7 +247,7 @@ _________
 
 This one gave the dawns a good husband; this one placed light within  the sun.  
 This one found the threefold immortal one hidden in heaven among the  third realms of light.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

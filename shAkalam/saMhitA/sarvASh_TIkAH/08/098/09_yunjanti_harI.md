@@ -15,9 +15,9 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-युञ्ज꣡न्ति ह꣡री इषिर꣡स्य गा꣡थया  
-उरउ꣡ र꣡थ उरु꣡युगे  
-इन्द्रवा꣡हा वचोयु꣡जा
+युञ्ज᳓न्ति ह᳓री इषिर᳓स्य गा᳓थया  
+उरउ᳓ र᳓थ उरु᳓युगे  
+इन्द्रवा᳓हा वचोयु᳓जा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

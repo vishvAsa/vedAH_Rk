@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡ वां स꣡न्ति पुरुस्पृ꣡हो  
-नियु꣡तो दाशु꣡षे नरा  
-इ꣡न्द्राग्नी ता꣡भिर् आ꣡ गतम्
+या᳓ वां स᳓न्ति पुरुस्पृ᳓हो  
+नियु᳓तो दाशु᳓षे नरा  
+इ᳓न्द्राग्नी ता᳓भिर् आ᳓ गतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

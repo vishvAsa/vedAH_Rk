@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्रिभि꣡ष् ट्वं꣡ देव सवितर्  
-व꣡र्षिष्ठैः सोम धा꣡मभिः  
-अ꣡ग्ने द꣡क्षैः पुनीहि नः
+त्रिभि᳓ष् ट्वं᳓ देव सवितर्  
+व᳓र्षिष्ठैः सोम धा᳓मभिः  
+अ᳓ग्ने द᳓क्षैः पुनीहि नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

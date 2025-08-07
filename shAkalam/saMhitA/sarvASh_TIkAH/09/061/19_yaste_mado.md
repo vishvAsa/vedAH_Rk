@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स् ते म꣡दो व꣡रेणियस्  
-ते꣡ना पवस्व अ꣡न्धसा  
-देवावी꣡र् अघशंसहा꣡
+य᳓स् ते म᳓दो व᳓रेणियस्  
+ते᳓ना पवस्व अ᳓न्धसा  
+देवावी᳓र् अघशंसहा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -158,7 +158,7 @@ _________
 
 Your exhilarating drink that is worthy to be chosen, with that stalk  purify yourself,  
 pursuing the gods, smashing those who utter evil.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/19-21.md">

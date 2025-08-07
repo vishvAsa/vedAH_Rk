@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रोति꣡भिर् बहुला꣡भिर् नो अद्य꣡  
-याच्छ्रेष्ठा꣡भिर् मघवञ् छूर जिन्व  
-यो꣡ नो द्वे꣡ष्टि अ꣡धरः स꣡स् पदीष्ट  
-य꣡म् उ द्विष्म꣡स् त꣡म् उ प्राणो꣡ जहातु
+इ᳓न्द्रोति᳓भिर् बहुला᳓भिर् नो अद्य᳓  
+याच्छ्रेष्ठा᳓भिर् मघवञ् छूर जिन्व  
+यो᳓ नो द्वे᳓ष्टि अ᳓धरः स᳓स् पदीष्ट  
+य᳓म् उ द्विष्म᳓स् त᳓म् उ प्राणो᳓ जहातु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -273,7 +273,7 @@ _________
 Indra, with your manifold means of help, which are the best possible  ones, quicken us today, bounteous champion.  
 Whoever hates us, let him fall low. Whomever we hate, let breath  
 leave him.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/21-24.md">

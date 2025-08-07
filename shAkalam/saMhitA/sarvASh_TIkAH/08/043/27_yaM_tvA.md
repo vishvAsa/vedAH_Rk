@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यं꣡ त्वा ज꣡नास इन्धते꣡  
-मनुष्व꣡द् अङ्गिरस्तम  
-अ꣡ग्ने स꣡ बोधि मे व꣡चः
+यं᳓ त्वा ज᳓नास इन्धते᳓  
+मनुष्व᳓द् अङ्गिरस्तम  
+अ᳓ग्ने स᳓ बोधि मे व᳓चः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

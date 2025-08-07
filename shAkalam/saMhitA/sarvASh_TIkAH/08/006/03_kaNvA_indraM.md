@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡ण्वा इ꣡न्द्रं य꣡द् अ꣡क्रत  
-स्तो꣡मैर् यज्ञ꣡स्य सा꣡धनम्  
-जामि꣡ ब्रुवत आ꣡युधम्
+क᳓ण्वा इ᳓न्द्रं य᳓द् अ᳓क्रत  
+स्तो᳓मैर् यज्ञ᳓स्य सा᳓धनम्  
+जामि᳓ ब्रुवत आ᳓युधम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

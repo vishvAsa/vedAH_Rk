@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सी꣡रा युञ्जन्ति कव꣡यो  
-युगा꣡ वि꣡ तन्वते पृ꣡थक्  
-धी꣡रा देवे꣡षु सुम्नया꣡
+सी᳓रा युञ्जन्ति कव᳓यो  
+युगा᳓ वि᳓ तन्वते पृ᳓थक्  
+धी᳓रा देवे᳓षु सुम्नया᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

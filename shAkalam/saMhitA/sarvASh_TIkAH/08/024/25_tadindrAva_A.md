@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡द् इन्द्र अ꣡व आ꣡ भर  
-ये꣡ना दंसिष्ठ कृ꣡त्वने  
-द्विता꣡ कु꣡त्साय शिश्नथो नि꣡ चोदय
+त᳓द् इन्द्र अ᳓व आ᳓ भर  
+ये᳓ना दंसिष्ठ कृ᳓त्वने  
+द्विता᳓ कु᳓त्साय शिश्नथो नि᳓ चोदय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

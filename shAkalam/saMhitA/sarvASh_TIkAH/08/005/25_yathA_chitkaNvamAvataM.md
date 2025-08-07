@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡था चित् क꣡ण्वम् आ꣡वतम्  
-प्रिय꣡मेधम् उपस्तुत꣡म्  
-अ꣡त्रिं शिञ्जा꣡रम् अश्विना
+य᳓था चित् क᳓ण्वम् आ᳓वतम्  
+प्रिय᳓मेधम् उपस्तुत᳓म्  
+अ᳓त्रिं शिञ्जा᳓रम् अश्विना
 </details>
 
 <details><summary>Vedaweb annotation</summary>

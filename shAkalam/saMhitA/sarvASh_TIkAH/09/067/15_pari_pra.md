@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि प्र꣡ सोम ते र꣡सो  
-अ꣡सर्जि कल꣡शे सुतः꣡  
-श्येनो꣡ न꣡ तक्तो꣡ अर्षति
+प᳓रि प्र᳓ सोम ते र᳓सो  
+अ᳓सर्जि कल᳓शे सुतः᳓  
+श्येनो᳓ न᳓ तक्तो᳓ अर्षति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -174,7 +174,7 @@ _________
 
 Your sap, Soma, when pressed, has surged forth and around into  the tub.  
 Like a falcon launched in flight, it rushes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/13-15.md">

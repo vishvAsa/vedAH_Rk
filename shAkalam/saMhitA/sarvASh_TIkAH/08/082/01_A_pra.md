@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ प्र꣡ द्रव पराव꣡तो  
-अर्वाव꣡तश् च वृत्रहन्  
-म꣡ध्वः प्र꣡ति प्र꣡भर्मणि
+आ᳓ प्र᳓ द्रव पराव᳓तो  
+अर्वाव᳓तश् च वृत्रहन्  
+म᳓ध्वः प्र᳓ति प्र᳓भर्मणि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

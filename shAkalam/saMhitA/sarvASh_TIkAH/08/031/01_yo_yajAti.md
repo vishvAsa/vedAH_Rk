@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ य꣡जाति य꣡जात इ꣡त्  
-सुन꣡वच् च प꣡चाति च  
-ब्रह्मे꣡द् इ꣡न्द्रस्य चाकनत्
+यो᳓ य᳓जाति य᳓जात इ᳓त्  
+सुन᳓वच् च प᳓चाति च  
+ब्रह्मे᳓द् इ᳓न्द्रस्य चाकनत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

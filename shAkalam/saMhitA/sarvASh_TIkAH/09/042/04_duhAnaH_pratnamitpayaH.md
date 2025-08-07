@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-दुहानः꣡ प्रत्न꣡म् इ꣡त् प꣡यः  
-पवि꣡त्रे प꣡रि षिच्यते  
-क्र꣡न्दन् देवाँ꣡ अजीजनत्
+दुहानः᳓ प्रत्न᳓म् इ᳓त् प᳓यः  
+पवि᳓त्रे प᳓रि षिच्यते  
+क्र᳓न्दन् देवाँ᳓ अजीजनत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

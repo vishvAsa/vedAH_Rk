@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ए꣡कया प्रतिधा꣡पिबत्  
-साकं꣡ स꣡रांसि त्रिंश꣡तम्  
-इ꣡न्द्रः सो꣡मस्य काणुका꣡
+ए᳓कया प्रतिधा᳓पिबत्  
+साकं᳓ स᳓रांसि त्रिंश᳓तम्  
+इ᳓न्द्रः सो᳓मस्य काणुका᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

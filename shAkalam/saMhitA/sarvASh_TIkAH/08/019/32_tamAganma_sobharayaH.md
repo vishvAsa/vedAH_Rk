@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् आ꣡गन्म सो꣡भरयः  
-सह꣡स्रमुष्कं सुअभिष्टि꣡म् अ꣡वसे  
-सम्रा꣡जं त्रा꣡सदस्यवम्
+त᳓म् आ᳓गन्म सो᳓भरयः  
+सह᳓स्रमुष्कं सुअभिष्टि᳓म् अ᳓वसे  
+सम्रा᳓जं त्रा᳓सदस्यवम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

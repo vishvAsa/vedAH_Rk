@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ दुरो꣡षम् अभी꣡ न꣡रः  
-सो꣡मं विश्वा꣡चिया धिया꣡  
-यज्ञं꣡ हिन्वन्ति अ꣡द्रिभिः
+तं᳓ दुरो᳓षम् अभी᳓ न᳓रः  
+सो᳓मं विश्वा᳓चिया धिया᳓  
+यज्ञं᳓ हिन्वन्ति अ᳓द्रिभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -153,7 +153,7 @@ _________
 
 That one, the soma, poor at burning [?], do the superior men, with their  insight aimed toward all,  
 impel to the sacrifice with stones.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/01-03.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡तः परिज्मन् आ꣡ गहि  
-दिवो꣡ वा रोचना꣡द् अ꣡धि  
-स꣡म् अस्मिन्न् ऋञ्जते गि꣡रः
+अ᳓तः परिज्मन् आ᳓ गहि  
+दिवो᳓ वा रोचना᳓द् अ᳓धि  
+स᳓म् अस्मिन्न् ऋञ्जते गि᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

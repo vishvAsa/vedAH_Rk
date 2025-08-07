@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एवा꣡ राति꣡स् तुवीमघ  
-वि꣡श्वेभिर् धायि धातृ꣡भिः  
-अ꣡धा चिद् इन्द्र मे स꣡चा
+एवा᳓ राति᳓स् तुवीमघ  
+वि᳓श्वेभिर् धायि धातृ᳓भिः  
+अ᳓धा चिद् इन्द्र मे स᳓चा
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -164,7 +164,7 @@ _________
 
 Just as surely has your giving, powerfully liberal one, been ordained by  all the Ordainers.  
 And so, Indra, (you are) in partnership with me.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/28-29.md">

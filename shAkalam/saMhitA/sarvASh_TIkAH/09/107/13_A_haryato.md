@@ -15,10 +15,10 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ हर्यतो꣡ अ꣡र्जुने अ꣡त्के अव्यत  
-प्रियः꣡ सूनु꣡र् न꣡ म꣡र्जियः  
-त꣡म् ईं हिन्वन्ति अप꣡सो य꣡था र꣡थं  
-नदी꣡षु आ꣡ ग꣡भस्तियोः
+आ᳓ हर्यतो᳓ अ᳓र्जुने अ᳓त्के अव्यत  
+प्रियः᳓ सूनु᳓र् न᳓ म᳓र्जियः  
+त᳓म् ईं हिन्वन्ति अप᳓सो य᳓था र᳓थं  
+नदी᳓षु आ᳓ ग᳓भस्तियोः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -233,7 +233,7 @@ In a shining robe: i.e., the filter
 
 The delightful one has clothed himself in a silvery cloak, to be caressed  like a dear son.  
 The laborers propel him, in their two hands, as they would a chariot,  into the rivers.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/12-13.md">

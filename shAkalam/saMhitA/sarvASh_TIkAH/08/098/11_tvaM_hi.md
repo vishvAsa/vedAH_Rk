@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ हि꣡ नः पिता꣡ वसो  
-तुव꣡म् माता꣡ शतक्रतो बभू꣡विथ  
-अ꣡धा ते सुम्न꣡म् ईमहे
+तुवं᳓ हि᳓ नः पिता᳓ वसो  
+तुव᳓म् माता᳓ शतक्रतो बभू᳓विथ  
+अ᳓धा ते सुम्न᳓म् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अश्वि꣡ना सु꣡ विचा꣡कशद्  
-वृक्ष꣡म् परशुमाँ꣡ इव  
-अ꣡न्ति षद् भूतु वाम् अ꣡वः
+अश्वि᳓ना सु᳓ विचा᳓कशद्  
+वृक्ष᳓म् परशुमाँ᳓ इव  
+अ᳓न्ति षद् भूतु वाम् अ᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

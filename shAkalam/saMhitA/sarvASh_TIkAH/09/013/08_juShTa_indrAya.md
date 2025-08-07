@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-जु꣡ष्ट इ꣡न्द्राय मत्सरः꣡  
-प꣡वमान क꣡निक्रदत्  
-वि꣡श्वा अ꣡प द्वि꣡षो जहि
+जु᳓ष्ट इ᳓न्द्राय मत्सरः᳓  
+प᳓वमान क᳓निक्रदत्  
+वि᳓श्वा अ᳓प द्वि᳓षो जहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -147,7 +147,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Pleasing to Indra, exhilarating, constantly roaring—o self-purifying one, strike away all hatreds.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/013/08-09.md">

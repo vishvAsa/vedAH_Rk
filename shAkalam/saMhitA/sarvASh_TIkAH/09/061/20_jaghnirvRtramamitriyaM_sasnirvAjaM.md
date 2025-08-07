@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ज꣡घ्निर् वृत्र꣡म् अमित्रि꣡यं  
-स꣡स्निर् वा꣡जं दिवे꣡-दिवे  
-गोषा꣡ उ अश्वसा꣡ असि
+ज᳓घ्निर् वृत्र᳓म् अमित्रि᳓यं  
+स᳓स्निर् वा᳓जं दिवे᳓-दिवे  
+गोषा᳓ उ अश्वसा᳓ असि
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -172,7 +172,7 @@ _________
 
 Smashing Vr̥tra the hostile, winning the prize every day,  
 you are a winner of cows and of horses.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/19-21.md">

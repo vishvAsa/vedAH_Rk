@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ त्व꣡म् अस्म꣡द् अ꣡प द्वि꣡षो  
-युयोधि꣡ जातवेदः  
-अ꣡देवीर् अग्ने अ꣡रातीः
+स᳓ त्व᳓म् अस्म᳓द् अ᳓प द्वि᳓षो  
+युयोधि᳓ जातवेदः  
+अ᳓देवीर् अग्ने अ᳓रातीः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

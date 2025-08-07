@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् ईळिष्व यो꣡ अर्चि꣡षा  
-व꣡ना वि꣡श्वा परिष्व꣡जत्  
-कृष्णा꣡ कृणो꣡ति जिह्व꣡या
+त᳓म् ईळिष्व यो᳓ अर्चि᳓षा  
+व᳓ना वि᳓श्वा परिष्व᳓जत्  
+कृष्णा᳓ कृणो᳓ति जिह्व᳓या
 </details>
 
 <details><summary>Vedaweb annotation</summary>

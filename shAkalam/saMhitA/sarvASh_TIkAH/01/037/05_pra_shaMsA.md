@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ शंसा गो꣡षु अ꣡घ्नियं  
-क्रीळं꣡ य꣡च् छ꣡र्धो मा꣡रुतम्  
-ज꣡म्भे र꣡सस्य वावृधे
+प्र᳓ शंसा गो᳓षु अ᳓घ्नियं  
+क्रीळं᳓ य᳓च् छ᳓र्धो मा᳓रुतम्  
+ज᳓म्भे र᳓सस्य वावृधे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

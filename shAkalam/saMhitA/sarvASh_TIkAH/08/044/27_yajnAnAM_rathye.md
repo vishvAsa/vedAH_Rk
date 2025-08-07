@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यज्ञा꣡नां रथि꣡ये वयं꣡  
-तिग्म꣡जम्भाय वीळ꣡वे  
-स्तो꣡मैर् इषेम अग्न꣡ये
+यज्ञा᳓नां रथि᳓ये वयं᳓  
+तिग्म᳓जम्भाय वीळ᳓वे  
+स्तो᳓मैर् इषेम अग्न᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

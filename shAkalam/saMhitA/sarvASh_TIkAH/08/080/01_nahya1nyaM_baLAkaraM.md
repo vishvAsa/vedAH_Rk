@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नहि꣡ अन्य꣡म् बळा꣡करम्  
-मर्डिता꣡रं शतक्रतो  
-तुवं꣡ न इन्द्र मॄळय+
+नहि᳓ अन्य᳓म् बळा᳓करम्  
+मर्डिता᳓रं शतक्रतो  
+तुवं᳓ न इन्द्र मॄळय+
 </details>
 
 <details><summary>Vedaweb annotation</summary>

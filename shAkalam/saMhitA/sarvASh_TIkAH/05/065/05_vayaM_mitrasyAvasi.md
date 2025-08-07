@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वय꣡म् मित्र꣡स्य अ꣡वसि  
-सिया꣡म सप्र꣡थस्तमे  
-अनेह꣡सस् तुवो꣡तयः  
-सत्रा꣡ व꣡रुणशेषसः
+वय᳓म् मित्र᳓स्य अ᳓वसि  
+सिया᳓म सप्र᳓थस्तमे  
+अनेह᳓सस् तुवो᳓तयः  
+सत्रा᳓ व᳓रुणशेषसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

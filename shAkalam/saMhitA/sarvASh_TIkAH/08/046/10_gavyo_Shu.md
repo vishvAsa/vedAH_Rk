@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-गव्यो꣡ षु꣡ णो य꣡था पुरा꣡  
-अश्वया꣡ उत꣡ रथया꣡  
-वरिवस्य꣡ महामह
+गव्यो᳓ षु᳓ णो य᳓था पुरा᳓  
+अश्वया᳓ उत᳓ रथया᳓  
+वरिवस्य᳓ महामह
 </details>
 
 <details><summary>Vedaweb annotation</summary>

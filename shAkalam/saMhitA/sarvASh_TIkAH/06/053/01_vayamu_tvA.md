@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वय꣡म् उ त्वा पथस् पते  
-र꣡थं न꣡ वा꣡जसातये  
-धिये꣡ पूषन्न् अयुज्महि
+वय᳓म् उ त्वा पथस् पते  
+र᳓थं न᳓ वा᳓जसातये  
+धिये᳓ पूषन्न् अयुज्महि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

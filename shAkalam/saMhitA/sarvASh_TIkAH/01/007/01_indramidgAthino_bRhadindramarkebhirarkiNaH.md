@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रम् इ꣡द् गाथि꣡नो बृह꣡द्  
-इ꣡न्द्रम् अर्के꣡भिर् अर्कि꣡णः  
-इ꣡न्द्रं वा꣡णीर् अनूषत
+इ᳓न्द्रम् इ᳓द् गाथि᳓नो बृह᳓द्  
+इ᳓न्द्रम् अर्के᳓भिर् अर्कि᳓णः  
+इ᳓न्द्रं वा᳓णीर् अनूषत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

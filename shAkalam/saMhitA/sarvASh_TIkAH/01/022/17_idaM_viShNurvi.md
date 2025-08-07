@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इदं꣡ वि꣡ष्णुर् वि꣡ चक्रमे  
-त्रे᳐धा꣡ नि꣡ दधे पद꣡म्  
-स꣡मूळ्हम् अस्य पांसुरे꣡
+इदं᳓ वि᳓ष्णुर् वि᳓ चक्रमे  
+त्रे᳐धा᳓ नि᳓ दधे पद᳓म्  
+स᳓मूळ्हम् अस्य पांसुरे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

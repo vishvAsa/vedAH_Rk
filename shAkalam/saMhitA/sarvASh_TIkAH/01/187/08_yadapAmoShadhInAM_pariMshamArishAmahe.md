@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अपा꣡म् ओ꣡षधीना᳐म्  
-परिंश꣡म् आरिशा꣡महे  
-वा꣡तापे पी꣡व इ꣡द् भव
+य᳓द् अपा᳓म् ओ᳓षधीना᳐म्  
+परिंश᳓म् आरिशा᳓महे  
+वा᳓तापे पी᳓व इ᳓द् भव
 </details>
 
 <details><summary>Vedaweb annotation</summary>

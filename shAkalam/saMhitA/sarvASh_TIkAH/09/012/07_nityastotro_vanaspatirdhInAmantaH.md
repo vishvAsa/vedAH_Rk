@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡त्यस्तोत्रो व꣡नस्प꣡तिर्  
-धीना꣡म् अन्तः꣡ सबर्दु꣡घः  
-हिन्वानो꣡ मा꣡नुषा युगा꣡
+नि᳓त्यस्तोत्रो व᳓नस्प᳓तिर्  
+धीना᳓म् अन्तः᳓ सबर्दु᳓घः  
+हिन्वानो᳓ मा᳓नुषा युगा᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

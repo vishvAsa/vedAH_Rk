@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡रि वा꣡जे न꣡ वाजयु꣡म्  
-अ꣡व्यो वा꣡रेषु सिञ्चत  
-इ꣡न्द्राय म꣡धुमत्तमम्
+प᳓रि वा᳓जे न᳓ वाजयु᳓म्  
+अ᳓व्यो वा᳓रेषु सिञ्चत  
+इ᳓न्द्राय म᳓धुमत्तमम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

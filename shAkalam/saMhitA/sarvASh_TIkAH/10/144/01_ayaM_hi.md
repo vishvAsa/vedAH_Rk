@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ हि꣡ ते अ꣡मर्तिय  
-इ꣡न्दुर् अ꣡त्यो न꣡ प꣡त्यते  
-द꣡क्षो विश्वा꣡युर् वेध꣡से
+अयं᳓ हि᳓ ते अ᳓मर्तिय  
+इ᳓न्दुर् अ᳓त्यो न᳓ प᳓त्यते  
+द᳓क्षो विश्वा᳓युर् वेध᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>

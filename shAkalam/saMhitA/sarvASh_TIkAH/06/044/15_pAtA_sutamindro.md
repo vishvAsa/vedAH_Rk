@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-पा꣡ता सुत꣡म् इ꣡न्दरो+ अस्तु सो꣡मं  
-ह꣡न्ता वृत्रं꣡ व꣡ज्रेण मन्दसानः꣡  
-ग꣡न्ता यज्ञ꣡म् पराव꣡तश् चिद् अ꣡छा  
-व꣡सुर् धीना꣡म् अविता꣡ कारु꣡धायाः
+पा᳓ता सुत᳓म् इ᳓न्दरो+ अस्तु सो᳓मं  
+ह᳓न्ता वृत्रं᳓ व᳓ज्रेण मन्दसानः᳓  
+ग᳓न्ता यज्ञ᳓म् पराव᳓तश् चिद् अ᳓छा  
+व᳓सुर् धीना᳓म् अविता᳓ कारु᳓धायाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -241,7 +241,7 @@ _________
 
 Let Indra be the one who drinks the pressed soma, who smashes the  obstacle [/Vr̥tra] with his mace in his exhilaration,  
 who goes to the sacrifice, even from far away, who is the good helper of  insights, providing nourishment to the bard.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

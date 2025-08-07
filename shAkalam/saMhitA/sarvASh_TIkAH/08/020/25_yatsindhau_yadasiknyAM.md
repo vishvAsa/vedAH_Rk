@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त् सि꣡न्धौ य꣡द् अ꣡सिक्नियां  
-य꣡त् समुद्रे꣡षु मरुतः सुबर्हिषः  
-य꣡त् प꣡र्वतेषु भेषज꣡म्
+य᳓त् सि᳓न्धौ य᳓द् अ᳓सिक्नियां  
+य᳓त् समुद्रे᳓षु मरुतः सुबर्हिषः  
+य᳓त् प᳓र्वतेषु भेषज᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

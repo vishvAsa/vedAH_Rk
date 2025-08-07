@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उपस꣡द्याय मीळ्हु꣡ष  
-आसि꣡ये जुहुता हविः꣡  
-यो꣡ नो ने꣡दिष्ठम् आ꣡पियम्
+उपस᳓द्याय मीळ्हु᳓ष  
+आसि᳓ये जुहुता हविः᳓  
+यो᳓ नो ने᳓दिष्ठम् आ᳓पियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

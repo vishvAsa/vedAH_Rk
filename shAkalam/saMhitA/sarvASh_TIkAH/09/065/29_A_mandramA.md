@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ मन्द्र꣡म् आ꣡ व꣡रेणियम्  
-आ꣡ वि꣡प्रम् आ꣡ मनीषि꣡णम्  
-पा᳐꣡न्तम् आ꣡ पुरुस्पृ꣡हम्
+आ᳓ मन्द्र᳓म् आ᳓ व᳓रेणियम्  
+आ᳓ वि᳓प्रम् आ᳓ मनीषि᳓णम्  
+पा᳐᳓न्तम् आ᳓ पुरुस्पृ᳓हम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -161,7 +161,7 @@ _________
 
 Here the gladdening (drink), here the one worthy to be chosen, here the  inspired poet, here the inspirited one,  
 here the much coveted drink,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/28-30.md">

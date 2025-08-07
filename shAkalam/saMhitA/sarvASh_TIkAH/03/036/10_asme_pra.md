@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्मे꣡ प्र꣡ यन्धि मघवन्न् ऋजीषिन्न्  
-इ꣡न्द्र रायो꣡ विश्व꣡वारस्य भू꣡रेः  
-अस्मे꣡ शतं꣡ शर꣡दो जीव꣡से धा  
-अस्मे꣡ वीरा꣡ञ् छ꣡श्वत इन्द्र शिप्रिन्
+अस्मे᳓ प्र᳓ यन्धि मघवन्न् ऋजीषिन्न्  
+इ᳓न्द्र रायो᳓ विश्व᳓वारस्य भू᳓रेः  
+अस्मे᳓ शतं᳓ शर᳓दो जीव᳓से धा  
+अस्मे᳓ वीरा᳓ञ् छ᳓श्वत इन्द्र शिप्रिन्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -244,7 +244,7 @@ _________
 Offer us (a portion) of abundant, all-desirable wealth, o bounteous  Indra of the silvery drink.  
 Provide a hundred autumns for us to live; (provide) for us ever new  
 heroes, o Indra of the lips.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/09-10.md">

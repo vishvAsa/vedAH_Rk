@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-कन्या᳡ इव वहतु꣡म् ए꣡तवा꣡ उ  
-अञ्जि꣡ अञ्जाना꣡ अभि꣡ चाकशीमि  
-य꣡त्र सो꣡मः सूय꣡ते य꣡त्र यज्ञो꣡  
-घृत꣡स्य धा꣡रा अभि꣡ त꣡त् पवन्ते
+कन्या᳡ इव वहतु᳓म् ए᳓तवा᳓ उ  
+अञ्जि᳓ अञ्जाना᳓ अभि᳓ चाकशीमि  
+य᳓त्र सो᳓मः सूय᳓ते य᳓त्र यज्ञो᳓  
+घृत᳓स्य धा᳓रा अभि᳓ त᳓त् पवन्ते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -237,7 +237,7 @@ _________
 
 I keep gazing upon them, who are like maidens smearing on unguent to  go to their wedding.  
 Where the soma is pressed, where the sacrifice (is performed), toward  that do the streams of ghee go purifying themselves.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नहि꣡ मे अक्षिप꣡च् चन꣡  
-अ꣡छान्त्सुः प꣡ञ्च कृष्ट꣡यः  
-कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
+नहि᳓ मे अक्षिप᳓च् चन᳓  
+अ᳓छान्त्सुः प᳓ञ्च कृष्ट᳓यः  
+कुवि᳓त् सो᳓मस्या᳓पाम् इ᳓ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

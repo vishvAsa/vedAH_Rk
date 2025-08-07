@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् वा शक्र पराव꣡ति  
-समुद्रे꣡ अ꣡धि म꣡न्दसे  
-अस्मा꣡कम् इ꣡त् सुते꣡ रणा स꣡म् इ꣡न्दुभिः
+य᳓द् वा शक्र पराव᳓ति  
+समुद्रे᳓ अ᳓धि म᳓न्दसे  
+अस्मा᳓कम् इ᳓त् सुते᳓ रणा स᳓म् इ᳓न्दुभिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

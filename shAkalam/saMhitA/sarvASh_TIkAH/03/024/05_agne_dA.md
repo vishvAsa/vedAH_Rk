@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने दा꣡ दाशु꣡षे रयिं꣡  
-वीर꣡वन्तम् प꣡रीणसम्  
-शिशीहि꣡ नः सूनुम꣡तः
+अ᳓ग्ने दा᳓ दाशु᳓षे रयिं᳓  
+वीर᳓वन्तम् प᳓रीणसम्  
+शिशीहि᳓ नः सूनुम᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

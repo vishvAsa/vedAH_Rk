@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नो म꣡र्ता अभि꣡ द्रुहन्  
-तनू꣡नाम् इन्द्र गिर्वणः  
-ई꣡शानो यवया वध꣡म्
+मा᳓ नो म᳓र्ता अभि᳓ द्रुहन्  
+तनू᳓नाम् इन्द्र गिर्वणः  
+ई᳓शानो यवया वध᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

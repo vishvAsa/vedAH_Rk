@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो अग्ने रयि꣡म् भर  
-सत्रासा꣡हं व꣡रेणियम्  
-वि꣡श्वासु पृत्सु꣡ दुष्ट꣡रम्
+आ᳓ नो अग्ने रयि᳓म् भर  
+सत्रासा᳓हं व᳓रेणियम्  
+वि᳓श्वासु पृत्सु᳓ दुष्ट᳓रम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

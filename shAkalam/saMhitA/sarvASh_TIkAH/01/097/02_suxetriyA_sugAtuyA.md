@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुक्षेत्रिया꣡ सुगातुया꣡  
-वसूया꣡ च यजामहे  
-अ꣡प नः शो꣡शुचद् अघ꣡म्
+सुक्षेत्रिया᳓ सुगातुया᳓  
+वसूया᳓ च यजामहे  
+अ᳓प नः शो᳓शुचद् अघ᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

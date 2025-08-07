@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ऊ꣡र्णम्रदा वि꣡ प्रथस्व  
-अभि꣡ अर्का꣡ अनूषत  
-भ꣡वा नः शुभ्र सात꣡ये
+ऊ᳓र्णम्रदा वि᳓ प्रथस्व  
+अभि᳓ अर्का᳓ अनूषत  
+भ᳓वा नः शुभ्र सात᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

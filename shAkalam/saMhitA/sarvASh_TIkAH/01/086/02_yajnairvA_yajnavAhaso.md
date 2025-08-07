@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यज्ञइ꣡र् वा यज्ञवाहसो  
-वि꣡प्रस्य वा मतीना᳐꣡म्  
-म꣡रुतः शृणुता꣡ ह꣡वम्
+यज्ञइ᳓र् वा यज्ञवाहसो  
+वि᳓प्रस्य वा मतीना᳐᳓म्  
+म᳓रुतः शृणुता᳓ ह᳓वम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इन्द्रिया꣡णि शतक्रतो  
-या꣡ ते ज꣡नेषु पञ्च꣡सु  
-इ꣡न्द्र ता꣡नि त आ꣡ वृणे
+इन्द्रिया᳓णि शतक्रतो  
+या᳓ ते ज᳓नेषु पञ्च᳓सु  
+इ᳓न्द्र ता᳓नि त आ᳓ वृणे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

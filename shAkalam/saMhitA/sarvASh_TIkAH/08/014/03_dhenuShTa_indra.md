@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-धेनु꣡ष् ट इन्द्र सूनृ꣡ता  
-य꣡जमानाय सुन्वते꣡  
-गा꣡म् अ꣡श्वम् पिप्यु꣡षी दुहे
+धेनु᳓ष् ट इन्द्र सूनृ᳓ता  
+य᳓जमानाय सुन्वते᳓  
+गा᳓म् अ᳓श्वम् पिप्यु᳓षी दुहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

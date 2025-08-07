@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡भर्ता र꣡थं गव्य꣡न्तम्  
-अपाका꣡च् चिद् य꣡म् अ꣡वति  
-इनो꣡ व꣡सु स꣡ हि꣡ वो꣡ळ्हा
+प्र᳓भर्ता र᳓थं गव्य᳓न्तम्  
+अपाका᳓च् चिद् य᳓म् अ᳓वति  
+इनो᳓ व᳓सु स᳓ हि᳓ वो᳓ळ्हा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

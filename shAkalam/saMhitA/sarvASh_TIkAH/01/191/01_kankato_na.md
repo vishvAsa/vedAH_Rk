@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡ङ्कतो न꣡ क꣡ङ्कतो  
-अ꣡थो सतीन꣡कङ्कतः  
-दुवा꣡व् इ꣡ति प्लु꣡षी इ꣡ति  
-नि꣡ अदृ꣡ष्टा अलिप्सत
+क᳓ङ्कतो न᳓ क᳓ङ्कतो  
+अ᳓थो सतीन᳓कङ्कतः  
+दुवा᳓व् इ᳓ति प्लु᳓षी इ᳓ति  
+नि᳓ अदृ᳓ष्टा अलिप्सत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

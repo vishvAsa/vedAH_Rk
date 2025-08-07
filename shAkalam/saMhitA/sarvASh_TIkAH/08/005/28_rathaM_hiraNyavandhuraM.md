@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-र꣡थं हि꣡रण्यवन्धुरं  
-हि꣡रण्याभीशुम् अश्विना  
-आ꣡ हि꣡ स्था꣡थो दिविस्पृ꣡शम्
+र᳓थं हि᳓रण्यवन्धुरं  
+हि᳓रण्याभीशुम् अश्विना  
+आ᳓ हि᳓ स्था᳓थो दिविस्पृ᳓शम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

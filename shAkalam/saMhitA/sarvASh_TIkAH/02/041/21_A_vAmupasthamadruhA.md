@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ वाम् उप꣡स्थम् अद्रुहा  
-देवाः꣡ सीदन्तु यज्ञि꣡याः  
-इहा꣡द्य꣡ सो꣡मपीतये
+आ᳓ वाम् उप᳓स्थम् अद्रुहा  
+देवाः᳓ सीदन्तु यज्ञि᳓याः  
+इहा᳓द्य᳓ सो᳓मपीतये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

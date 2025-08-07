@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ तं꣡ जिनन्ति बह꣡वो न꣡ दभ्रा꣡  
-उरु꣡ अस्मा अ꣡दितिः श꣡र्म यंसत्  
-प्रियः꣡ सुकृ꣡त् प्रिय꣡ इ꣡न्द्रे मनायुः꣡  
-प्रियः꣡ सुप्रावीः꣡ प्रियो꣡ अस्य सोमी꣡
+न᳓ तं᳓ जिनन्ति बह᳓वो न᳓ दभ्रा᳓  
+उरु᳓ अस्मा अ᳓दितिः श᳓र्म यंसत्  
+प्रियः᳓ सुकृ᳓त् प्रिय᳓ इ᳓न्द्रे मनायुः᳓  
+प्रियः᳓ सुप्रावीः᳓ प्रियो᳓ अस्य सोमी᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -273,7 +273,7 @@ _________
 
 The many do not overpower him, nor the few. Aditi will hold out wide  shelter for him.  
 Dear to Indra is the good performer (of sacrifice), dear the zealous man,  dear the hard-striver, dear the provider of soma.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/025/05-06.md">

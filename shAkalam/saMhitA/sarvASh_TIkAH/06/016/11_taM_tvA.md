@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा समि꣡द्भिर् अङ्गिरो  
-घृते꣡न वर्धयामसि  
-बृह꣡च् छोचा यविष्ठिय
+तं᳓ त्वा समि᳓द्भिर् अङ्गिरो  
+घृते᳓न वर्धयामसि  
+बृह᳓च् छोचा यविष्ठिय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

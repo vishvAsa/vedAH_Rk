@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡यस्वतीर् ओ꣡षधयः  
-प꣡यस्वन् मामकं꣡ व꣡चः  
-अपा꣡म् प꣡यस्वद् इ꣡त् प꣡यस्  
-ते꣡न मा सह꣡ शुन्धत
+प᳓यस्वतीर् ओ᳓षधयः  
+प᳓यस्वन् मामकं᳓ व᳓चः  
+अपा᳓म् प᳓यस्वद् इ᳓त् प᳓यस्  
+ते᳓न मा सह᳓ शुन्धत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

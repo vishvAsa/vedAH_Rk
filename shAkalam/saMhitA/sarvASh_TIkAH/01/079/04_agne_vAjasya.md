@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने वा꣡जस्य गो꣡मत  
-ई꣡शानः सहसो यहो  
-अस्मे꣡ धेहि जातवेदो म꣡हि श्र꣡वः
+अ᳓ग्ने वा᳓जस्य गो᳓मत  
+ई᳓शानः सहसो यहो  
+अस्मे᳓ धेहि जातवेदो म᳓हि श्र᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

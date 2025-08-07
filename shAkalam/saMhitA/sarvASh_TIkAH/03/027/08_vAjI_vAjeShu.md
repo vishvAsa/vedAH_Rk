@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वाजी꣡ वा꣡जेषु धीयते  
-अध्वरे꣡षु प्र꣡ णीयते  
-वि꣡प्रो यज्ञ꣡स्य सा꣡धनः
+वाजी᳓ वा᳓जेषु धीयते  
+अध्वरे᳓षु प्र᳓ णीयते  
+वि᳓प्रो यज्ञ᳓स्य सा᳓धनः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

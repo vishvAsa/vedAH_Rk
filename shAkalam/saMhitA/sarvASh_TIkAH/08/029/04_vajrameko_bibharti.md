@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-व꣡ज्रम् ए꣡को बिभर्ति ह꣡स्त आ꣡हितं  
-ते꣡न वृत्रा꣡णि जिघ्नते
+व᳓ज्रम् ए᳓को बिभर्ति ह᳓स्त आ᳓हितं  
+ते᳓न वृत्रा᳓णि जिघ्नते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ त्य꣡म् पुत्र꣡म् अग्रु꣡वः  
-प꣡रावृक्तं शत꣡क्रतुः  
-उक्थे꣡षु इ꣡न्द्र आ꣡भजत्
+उत᳓ त्य᳓म् पुत्र᳓म् अग्रु᳓वः  
+प᳓रावृक्तं शत᳓क्रतुः  
+उक्थे᳓षु इ᳓न्द्र आ᳓भजत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

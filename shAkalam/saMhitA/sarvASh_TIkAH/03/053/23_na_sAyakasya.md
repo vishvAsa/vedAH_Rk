@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ सा꣡यकस्य चिकिते जनासो  
-लोधं꣡ नयन्ति प꣡शु म꣡न्यमानाः  
-ना꣡वाजिनं वाजि꣡ना हासयन्ति  
-न꣡ गर्दभ꣡म् पुरो꣡ अ꣡श्वान् नयन्ति
+न᳓ सा᳓यकस्य चिकिते जनासो  
+लोधं᳓ नयन्ति प᳓शु म᳓न्यमानाः  
+ना᳓वाजिनं वाजि᳓ना हासयन्ति  
+न᳓ गर्दभ᳓म् पुरो᳓ अ᳓श्वान् नयन्ति
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -232,7 +232,7 @@ Lodha = from lubdham, desirous that his penance might not be frustrated, **tapas
 
 There is no notice taken of his missile, you people. They lead a lump,  thinking it a beast.  
 (But) they are not making a non-prizewinner race with a prizewinner,  nor leading a donkey before the horses.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 

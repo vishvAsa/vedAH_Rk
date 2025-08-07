@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ ते अमाजु꣡रो यथा  
-मूरा꣡स इन्द्र सखिये꣡ तुवा꣡वतः  
-नि꣡ षदाम स꣡चा सुते꣡
+मा᳓ ते अमाजु᳓रो यथा  
+मूरा᳓स इन्द्र सखिये᳓ तुवा᳓वतः  
+नि᳓ षदाम स᳓चा सुते᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

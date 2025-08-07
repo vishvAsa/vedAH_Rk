@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स् ते रेवाँ꣡ अ꣡दाशुरिः  
-प्रमम꣡र्ष मघ꣡त्तये  
-त꣡स्य नो वे꣡द आ꣡ भर
+य᳓स् ते रेवाँ᳓ अ᳓दाशुरिः  
+प्रमम᳓र्ष मघ᳓त्तये  
+त᳓स्य नो वे᳓द आ᳓ भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रणेता꣡रं व꣡स्यो अ꣡छा  
-क꣡र्तारं ज्यो꣡तिः सम꣡त्सु  
-सासह्वां꣡सं युधा꣡मि꣡त्रान्
+प्रणेता᳓रं व᳓स्यो अ᳓छा  
+क᳓र्तारं ज्यो᳓तिः सम᳓त्सु  
+सासह्वां᳓सं युधा᳓मि᳓त्रान्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

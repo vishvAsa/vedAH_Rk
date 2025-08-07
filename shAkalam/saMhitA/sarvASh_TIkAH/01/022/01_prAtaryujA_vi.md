@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रातर्यु꣡जा वि꣡ बोधय  
-अश्वि꣡नाव् ए꣡ह꣡ गछताम्  
-अस्य꣡ सो꣡मस्य पीत꣡ये
+प्रातर्यु᳓जा वि᳓ बोधय  
+अश्वि᳓नाव् ए᳓ह᳓ गछताम्  
+अस्य᳓ सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

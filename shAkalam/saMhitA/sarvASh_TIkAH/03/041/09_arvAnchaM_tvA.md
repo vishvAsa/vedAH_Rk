@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अर्वा꣡ञ्चं त्वा सुखे꣡ र꣡थे  
-व꣡हताम् इन्द्र केशि꣡ना  
-घृत꣡स्नू बर्हि꣡र् आस꣡दे
+अर्वा᳓ञ्चं त्वा सुखे᳓ र᳓थे  
+व᳓हताम् इन्द्र केशि᳓ना  
+घृत᳓स्नू बर्हि᳓र् आस᳓दे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

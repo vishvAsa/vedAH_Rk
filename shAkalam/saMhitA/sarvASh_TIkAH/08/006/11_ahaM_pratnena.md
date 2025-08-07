@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अह꣡म् प्रत्ने꣡न म꣡न्मना  
-गि꣡रः शुम्भामि कण्वव꣡त्  
-ये꣡ने꣡न्द्रः शु꣡ष्मम् इ꣡द् दधे꣡
+अह᳓म् प्रत्ने᳓न म᳓न्मना  
+गि᳓रः शुम्भामि कण्वव᳓त्  
+ये᳓ने᳓न्द्रः शु᳓ष्मम् इ᳓द् दधे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -170,7 +170,7 @@ _________
 
 I, like Kaṇva, beautify my songs with an age-old thought—  
 just the one with which Indra acquired his unbridled force.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/10-12.md">

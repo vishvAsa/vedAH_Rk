@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सं꣡ चोदय चित्र꣡म् अर्वा꣡ग्  
-रा꣡ध इन्द्र व꣡रेणियम्  
-अ꣡सद् इ꣡त् ते विभु꣡ प्रभु꣡
+सं᳓ चोदय चित्र᳓म् अर्वा᳓ग्  
+रा᳓ध इन्द्र व᳓रेणियम्  
+अ᳓सद् इ᳓त् ते विभु᳓ प्रभु᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

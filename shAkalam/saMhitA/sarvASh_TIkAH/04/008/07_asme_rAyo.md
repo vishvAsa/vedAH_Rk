@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्मे꣡ रा꣡यो दिवे꣡-दिवे  
-सं꣡ चरन्तु पुरुस्पृ꣡हः  
-अस्मे꣡ वा꣡जास ईरताम्
+अस्मे᳓ रा᳓यो दिवे᳓-दिवे  
+सं᳓ चरन्तु पुरुस्पृ᳓हः  
+अस्मे᳓ वा᳓जास ईरताम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

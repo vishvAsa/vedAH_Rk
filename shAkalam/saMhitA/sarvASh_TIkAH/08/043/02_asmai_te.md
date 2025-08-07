@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡स्मै ते प्रतिह꣡र्यते  
-जा꣡तवेदो वि꣡चर्षणे  
-अ꣡ग्ने ज꣡नामि सुष्टुति꣡म्
+अ᳓स्मै ते प्रतिह᳓र्यते  
+जा᳓तवेदो वि᳓चर्षणे  
+अ᳓ग्ने ज᳓नामि सुष्टुति᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

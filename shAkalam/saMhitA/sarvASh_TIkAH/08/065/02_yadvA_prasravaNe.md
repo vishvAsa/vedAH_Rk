@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् वा प्रस्र꣡वणे दिवो꣡  
-माद꣡यासे सु꣡वर्णरे  
-य꣡द् वा समुद्रे꣡ अ꣡न्धसः
+य᳓द् वा प्रस्र᳓वणे दिवो᳓  
+माद᳓यासे सु᳓वर्णरे  
+य᳓द् वा समुद्रे᳓ अ᳓न्धसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

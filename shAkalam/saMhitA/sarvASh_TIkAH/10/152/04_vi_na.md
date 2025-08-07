@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ न इन्द्र मृ꣡धो जहि  
-नीचा꣡ यछ पृतन्यतः꣡  
-यो꣡ अस्माँ꣡ अभिदा꣡सति  
-अ꣡धरं गमया त꣡मः
+वि᳓ न इन्द्र मृ᳓धो जहि  
+नीचा᳓ यछ पृतन्यतः᳓  
+यो᳓ अस्माँ᳓ अभिदा᳓सति  
+अ᳓धरं गमया त᳓मः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

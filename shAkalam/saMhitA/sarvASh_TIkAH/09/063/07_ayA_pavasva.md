@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अया꣡ पवस्व धा꣡रया  
-य꣡या सू꣡र्यम् अ꣡रोचयः  
-हिन्वानो꣡ मा꣡नुषीर् अपः꣡
+अया᳓ पवस्व धा᳓रया  
+य᳓या सू᳓र्यम् अ᳓रोचयः  
+हिन्वानो᳓ मा᳓नुषीर् अपः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

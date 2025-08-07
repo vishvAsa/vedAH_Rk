@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा धर्ता꣡रम् ओणि꣡योः  
-प꣡वमान सुवर्दृ꣡शम्  
-हिन्वे꣡ वा꣡जेषु वाजि꣡नम्
+तं᳓ त्वा धर्ता᳓रम् ओणि᳓योः  
+प᳓वमान सुवर्दृ᳓शम्  
+हिन्वे᳓ वा᳓जेषु वाजि᳓नम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

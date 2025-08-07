@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ शु꣡ष्णस्य धृष्णुया꣡  
-प्र꣡ मृक्षो अभि꣡ वे꣡दनम्  
-पु꣡रो य꣡द् अस्य सम्पिण꣡क्
+उत᳓ शु᳓ष्णस्य धृष्णुया᳓  
+प्र᳓ मृक्षो अभि᳓ वे᳓दनम्  
+पु᳓रो य᳓द् अस्य सम्पिण᳓क्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -161,7 +161,7 @@ _________
 
 And you boldly seized the possessions of Śuṣṇa,  
 when you completely crushed his fortresses.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">

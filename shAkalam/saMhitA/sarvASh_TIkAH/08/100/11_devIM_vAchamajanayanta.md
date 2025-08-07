@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-देवीं꣡ वा꣡चम् अजनयन्त देवा꣡स्  
-तां꣡ विश्व꣡रूपाः पश꣡वो वदन्ति  
-सा꣡ नो मन्द्रा꣡ इ꣡षम् ऊ꣡र्जं दु꣡हाना  
-धेनु꣡र् वा꣡ग् अस्मा꣡न् उ꣡प सु꣡ष्टुतइ꣡तु
+देवीं᳓ वा᳓चम् अजनयन्त देवा᳓स्  
+तां᳓ विश्व᳓रूपाः पश᳓वो वदन्ति  
+सा᳓ नो मन्द्रा᳓ इ᳓षम् ऊ᳓र्जं दु᳓हाना  
+धेनु᳓र् वा᳓ग् अस्मा᳓न् उ᳓प सु᳓ष्टुतइ᳓तु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -276,7 +276,7 @@ The thunder entering into all beings,becomes the speaker of moral truth, eṣā 
 <details><summary>Jamison Brereton</summary>
 
 The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, milking out refreshment and nourishment for us, let  Speech, the milk-cow, come well praised to us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">

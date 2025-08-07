@@ -15,8 +15,8 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-म꣡हि रा꣡धो विश्व꣡जन्यं द꣡धानान्  
-भर꣡द्वाजान् सार्ञ्जयो꣡ अभ्य् अ᳡यष्ट
+म᳓हि रा᳓धो विश्व᳓जन्यं द᳓धानान्  
+भर᳓द्वाजान् सार्ञ्जयो᳓ अभ्य् अ᳡यष्ट
 </details>
 
 <details><summary>Vedaweb annotation</summary>

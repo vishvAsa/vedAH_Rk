@@ -15,9 +15,9 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-द्या꣡वा नः पृथिवी꣡ इमं꣡  
-सिध्र꣡म् अद्य꣡ दिविस्पृ꣡शम्  
-यज्ञं꣡ देवे꣡षु यछताम्
+द्या᳓वा नः पृथिवी᳓ इमं᳓  
+सिध्र᳓म् अद्य᳓ दिविस्पृ᳓शम्  
+यज्ञं᳓ देवे᳓षु यछताम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अङ्ग꣡ तविषीय꣡स  
-इ꣡न्द्र प्ररा꣡जसि क्षितीः꣡  
-महाँ꣡ अपार꣡ ओ꣡जसा
+य᳓द् अङ्ग᳓ तविषीय᳓स  
+इ᳓न्द्र प्ररा᳓जसि क्षितीः᳓  
+महाँ᳓ अपार᳓ ओ᳓जसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -145,7 +145,7 @@ _________
 
 When, indeed, you display your power and rule over the settled peoples,  o Indra,  
 great and unbounded in your might,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/26-27.md">

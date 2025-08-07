@@ -15,11 +15,11 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡भ्यो द्युम्न꣡म् बृह꣡द् य꣡श  
-उ꣡षो मघोनि आ꣡ वह  
-ये꣡ नो रा꣡धांसि अ꣡श्विया  
-गव्या꣡ भ꣡जन्त सूर꣡यः  
-सु꣡जाते अ꣡श्वसूनृते
+ते᳓भ्यो द्युम्न᳓म् बृह᳓द् य᳓श  
+उ᳓षो मघोनि आ᳓ वह  
+ये᳓ नो रा᳓धांसि अ᳓श्विया  
+गव्या᳓ भ᳓जन्त सूर᳓यः  
+सु᳓जाते अ᳓श्वसूनृते
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -240,7 +240,7 @@ To them bring lofty brilliance and glory, o bounteous Dawn,
 to the patrons who apportion to us benefits consisting of horses  
 and cows  
 – o well-born lady, liberal with horses.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/06-07.md">

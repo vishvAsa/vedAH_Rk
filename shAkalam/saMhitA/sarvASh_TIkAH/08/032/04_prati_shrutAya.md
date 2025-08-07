@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ति श्रुता꣡य वो धृष꣡त्  
-तू꣡र्णाशं न꣡ गिरे꣡र् अ꣡धि  
-हुवे꣡ सुशिप्र꣡म् ऊत꣡ये
+प्र᳓ति श्रुता᳓य वो धृष᳓त्  
+तू᳓र्णाशं न᳓ गिरे᳓र् अ᳓धि  
+हुवे᳓ सुशिप्र᳓म् ऊत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

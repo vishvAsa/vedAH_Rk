@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ गन्धर्व꣡म् अतृणद्  
-अबुध्ने꣡षु र꣡जस्सु आ꣡  
-इ꣡न्द्रो ब्रह्म꣡भ्य इ꣡द् वृधे꣡
+अभि᳓ गन्धर्व᳓म् अतृणद्  
+अबुध्ने᳓षु र᳓जस्सु आ᳓  
+इ᳓न्द्रो ब्रह्म᳓भ्य इ᳓द् वृधे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

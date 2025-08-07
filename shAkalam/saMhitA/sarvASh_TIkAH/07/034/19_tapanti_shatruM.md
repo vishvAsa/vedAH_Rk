@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त꣡पन्ति श꣡त्रुं सु꣡वर् ण꣡ भू꣡मा  
-महा꣡सेनासो अ꣡मेभिर् एषाम्
+त᳓पन्ति श᳓त्रुं सु᳓वर् ण᳓ भू᳓मा  
+महा᳓सेनासो अ᳓मेभिर् एषाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

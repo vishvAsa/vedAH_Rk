@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡ इमा꣡ वि꣡श्वा जाता꣡नि  
-आश्राव꣡यति श्लो꣡केन  
-प्र꣡ च सुवा꣡ति सविता꣡
+य᳓ इमा᳓ वि᳓श्वा जाता᳓नि  
+आश्राव᳓यति श्लो᳓केन  
+प्र᳓ च सुवा᳓ति सविता᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

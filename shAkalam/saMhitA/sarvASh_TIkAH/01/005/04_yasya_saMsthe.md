@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य संस्थे꣡ न꣡ वृण्व꣡ते  
-ह꣡री सम꣡त्सु श꣡त्रवः  
-त꣡स्मा इ꣡न्द्राय गायत
+य᳓स्य संस्थे᳓ न᳓ वृण्व᳓ते  
+ह᳓री सम᳓त्सु श᳓त्रवः  
+त᳓स्मा इ᳓न्द्राय गायत
 </details>
 
 <details><summary>Vedaweb annotation</summary>

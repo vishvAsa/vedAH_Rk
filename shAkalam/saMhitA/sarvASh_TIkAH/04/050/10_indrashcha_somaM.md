@@ -15,10 +15,10 @@ ChandaH = "जगती"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रश् च सो꣡मम् पिबतम् बृहस्पते  
-अस्मि꣡न् यज्ञे꣡ मन्दसाना꣡ वृषण्वसू  
-आ꣡ वां विशन्तु इ꣡न्दवः सुआभु꣡वो  
-अस्मे꣡ रयिं꣡ स꣡र्ववीरं नि꣡ यछतम्
+इ᳓न्द्रश् च सो᳓मम् पिबतम् बृहस्पते  
+अस्मि᳓न् यज्ञे᳓ मन्दसाना᳓ वृषण्वसू  
+आ᳓ वां विशन्तु इ᳓न्दवः सुआभु᳓वो  
+अस्मे᳓ रयिं᳓ स᳓र्ववीरं नि᳓ यछतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -252,7 +252,7 @@ _________
 Br̥haspati and Indra, drink the soma, becoming exhilarated at this  sacrifice here, you who have bullish goods.  
 Let the drops that stand by you enter you. In us deposit wealth  
 consisting of hale heroes.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/09-10.md">

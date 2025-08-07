@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-हवि꣡षा जारो꣡ अपा᳐꣡म्  
-पि꣡पर्ति प꣡पुरिर् नरा  
-पिता꣡ कु꣡टस्य चर्षणिः꣡
+हवि᳓षा जारो᳓ अपा᳐᳓म्  
+पि᳓पर्ति प᳓पुरिर् नरा  
+पिता᳓ कु᳓टस्य चर्षणिः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

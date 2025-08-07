@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्व꣡या वय꣡म् प꣡वमानेन सोम  
-भ꣡रे कृतं꣡ वि꣡ चिनुयाम श꣡श्वत्  
-त꣡न् नो मित्रो꣡ व꣡रुणो मामहन्ताम्  
-अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡
+त्व᳓या वय᳓म् प᳓वमानेन सोम  
+भ᳓रे कृतं᳓ वि᳓ चिनुयाम श᳓श्वत्  
+त᳓न् नो मित्रो᳓ व᳓रुणो मामहन्ताम्  
+अ᳓दितिः सि᳓न्धुः पृथिवी᳓ उत᳓ द्यउः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -241,7 +241,7 @@ With you who purify yourself, o Soma, we would pull out the perfect  (“hand”
 – This let Mitra and Varuṇa grant this to us, and Aditi, River, and  
 Earth and Heaven.1344 IX.98  
 Anusṭubh Hymns: 98–101 ̣
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">

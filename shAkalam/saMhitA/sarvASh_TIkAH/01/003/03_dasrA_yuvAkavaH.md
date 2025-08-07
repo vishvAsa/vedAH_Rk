@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-द꣡स्रा युवा꣡कवः सुता꣡  
-ना꣡सत्या वृक्त꣡बर्हिषः  
-आ꣡ यातं रुद्रवर्तनी
+द᳓स्रा युवा᳓कवः सुता᳓  
+ना᳓सत्या वृक्त᳓बर्हिषः  
+आ᳓ यातं रुद्रवर्तनी
 </details>
 
 <details><summary>Vedaweb annotation</summary>

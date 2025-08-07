@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡पिबत् कद्रु꣡वः सुत꣡म्  
-इ꣡न्द्रः सह꣡स्रबाहुवे  
-अ꣡त्रादेदिष्ट पउं꣡सियम्
+अ᳓पिबत् कद्रु᳓वः सुत᳓म्  
+इ᳓न्द्रः सह᳓स्रबाहुवे  
+अ᳓त्रादेदिष्ट पउं᳓सियम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

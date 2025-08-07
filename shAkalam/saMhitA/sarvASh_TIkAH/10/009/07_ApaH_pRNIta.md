@@ -15,9 +15,9 @@ ChandaH = "प्रतिष्ठा"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡पः पृणीत꣡ भेषजं꣡  
-व꣡रूथं तनु꣡वे म꣡म  
-जियो꣡क् च सू꣡रियं दृशे꣡
+आ᳓पः पृणीत᳓ भेषजं᳓  
+व᳓रूथं तनु᳓वे म᳓म  
+जियो᳓क् च सू᳓रियं दृशे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

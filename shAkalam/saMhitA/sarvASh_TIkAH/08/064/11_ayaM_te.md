@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ ते शर्यणा꣡वति  
-सुषो꣡मायाम् अ꣡धि प्रियः꣡  
-आर्जीकी꣡ये मदि꣡न्तमः
+अयं᳓ ते शर्यणा᳓वति  
+सुषो᳓मायाम् अ᳓धि प्रियः᳓  
+आर्जीकी᳓ये मदि᳓न्तमः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

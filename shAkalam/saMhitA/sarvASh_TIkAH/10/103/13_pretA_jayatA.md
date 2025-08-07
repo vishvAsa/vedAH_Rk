@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ इता ज꣡यता नर  
-इ꣡न्द्रो वः श꣡र्म यछतु  
-उग्रा꣡ वः सन्तु बाह꣡वो  
-अनाधृष्या꣡ य꣡था꣡सथ
+प्र᳓ इता ज᳓यता नर  
+इ᳓न्द्रो वः श᳓र्म यछतु  
+उग्रा᳓ वः सन्तु बाह᳓वो  
+अनाधृष्या᳓ य᳓था᳓सथ
 </details>
 
 <details><summary>Vedaweb annotation</summary>

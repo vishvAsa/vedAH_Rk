@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ध स्व꣡प्नस्य नि꣡र् विदे  
-अ꣡भुञ्जतश् च रेव꣡तः  
-उभा꣡ ता꣡ ब꣡स्रि नश्यतः
+अ᳓ध स्व᳓प्नस्य नि᳓र् विदे  
+अ᳓भुञ्जतश् च रेव᳓तः  
+उभा᳓ ता᳓ ब᳓स्रि नश्यतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

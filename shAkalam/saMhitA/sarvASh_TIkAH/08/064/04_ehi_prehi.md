@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ए꣡हि प्रे꣡हि क्ष꣡यो दिवि꣡  
-आघो꣡षञ् चर्षणीना᳐꣡म्  
-ओ꣡भे꣡ पृणासि रो꣡दसी
+ए᳓हि प्रे᳓हि क्ष᳓यो दिवि᳓  
+आघो᳓षञ् चर्षणीना᳐᳓म्  
+ओ᳓भे᳓ पृणासि रो᳓दसी
 </details>
 
 <details><summary>Vedaweb annotation</summary>

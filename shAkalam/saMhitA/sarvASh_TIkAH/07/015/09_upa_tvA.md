@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प त्वा सात꣡ये न꣡रो  
-वि꣡प्रासो यन्ति धीति꣡भिः  
-उ꣡पा꣡क्षरा सहस्रि꣡णी
+उ᳓प त्वा सात᳓ये न᳓रो  
+वि᳓प्रासो यन्ति धीति᳓भिः  
+उ᳓पा᳓क्षरा सहस्रि᳓णी
 </details>
 
 <details><summary>Vedaweb annotation</summary>

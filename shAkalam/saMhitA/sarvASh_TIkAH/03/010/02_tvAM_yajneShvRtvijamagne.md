@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवां꣡ यज्ञे꣡षु ऋत्वि꣡जम्  
-अ꣡ग्ने हो꣡तारम् ईळते  
-गोपा꣡ ऋत꣡स्य दीदिहि सुवे꣡ द꣡मे
+तुवां᳓ यज्ञे᳓षु ऋत्वि᳓जम्  
+अ᳓ग्ने हो᳓तारम् ईळते  
+गोपा᳓ ऋत᳓स्य दीदिहि सुवे᳓ द᳓मे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

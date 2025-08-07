@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्य꣡ प्रत्ना꣡म् अ꣡नु द्यु꣡तं  
-शुक्रं꣡ दुदुह्रे अ꣡ह्रयः  
-प꣡यः सहस्रसा꣡म् ऋ꣡षिम्
+अस्य᳓ प्रत्ना᳓म् अ᳓नु द्यु᳓तं  
+शुक्रं᳓ दुदुह्रे अ᳓ह्रयः  
+प᳓यः सहस्रसा᳓म् ऋ᳓षिम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

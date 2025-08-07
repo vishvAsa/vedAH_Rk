@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अप्सु꣡ अग्ने स꣡धिष् ट꣡व  
-सउ꣡षधीर् अ꣡नु रुध्यसे  
-ग꣡र्भे स꣡ञ् जायसे पु꣡नः
+अप्सु᳓ अग्ने स᳓धिष् ट᳓व  
+सउ᳓षधीर् अ᳓नु रुध्यसे  
+ग᳓र्भे स᳓ञ् जायसे पु᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

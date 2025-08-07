@@ -22,9 +22,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प नः सून꣡वो गि꣡रः  
-शृण्व꣡न्तु अमृ꣡तस्य ये꣡  
-सुमॄळीका꣡+ भवन्तु नः
+उ᳓प नः सून᳓वो गि᳓रः  
+शृण्व᳓न्तु अमृ᳓तस्य ये᳓  
+सुमॄळीका᳓+ भवन्तु नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

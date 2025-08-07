@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा वि꣡प्रा वचोवि꣡दः  
-प꣡रि ष्कृण्वन्ति+ वेध꣡सः  
-सं꣡ त्वा मृजन्ति आय꣡वः
+तं᳓ त्वा वि᳓प्रा वचोवि᳓दः  
+प᳓रि ष्कृण्वन्ति+ वेध᳓सः  
+सं᳓ त्वा मृजन्ति आय᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

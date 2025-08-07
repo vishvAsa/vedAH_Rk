@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ ते अग्न ऋचा꣡ हवि꣡र्  
-हृदा꣡ तष्ट꣡म् भरामसि  
-ते꣡ ते भवन्तु उक्ष꣡ण  
-ऋषभा꣡सो वशा꣡ उत꣡
+आ᳓ ते अग्न ऋचा᳓ हवि᳓र्  
+हृदा᳓ तष्ट᳓म् भरामसि  
+ते᳓ ते भवन्तु उक्ष᳓ण  
+ऋषभा᳓सो वशा᳓ उत᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

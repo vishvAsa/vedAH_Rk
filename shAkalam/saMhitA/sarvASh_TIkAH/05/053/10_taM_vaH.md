@@ -15,9 +15,9 @@ ChandaH = "ककुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ वः श꣡र्धं र꣡थानां᳐  
-त्वेषं꣡ गण꣡म् मा꣡रुतं न꣡व्यसीना᳐म्  
-अ꣡नु प्र꣡ यन्ति वृष्ट꣡यः
+तं᳓ वः श᳓र्धं र᳓थानां᳐  
+त्वेषं᳓ गण᳓म् मा᳓रुतं न᳓व्यसीना᳐म्  
+अ᳓नु प्र᳓ यन्ति वृष्ट᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

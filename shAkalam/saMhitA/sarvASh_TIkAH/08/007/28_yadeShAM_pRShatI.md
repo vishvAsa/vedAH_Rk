@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् एषाम् पृ꣡षती र꣡थे  
-प्र꣡ष्टिर् व꣡हति रो꣡हितः  
-या꣡न्ति शुभ्रा꣡ रिण꣡न्न् अपः꣡
+य᳓द् एषाम् पृ᳓षती र᳓थे  
+प्र᳓ष्टिर् व᳓हति रो᳓हितः  
+या᳓न्ति शुभ्रा᳓ रिण᳓न्न् अपः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

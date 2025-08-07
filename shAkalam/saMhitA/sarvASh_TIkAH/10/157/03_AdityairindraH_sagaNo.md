@@ -15,8 +15,8 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-आदित्यइ꣡र् इ꣡न्द्रः स꣡गणो मरु꣡द्भिर्  
-अस्मा꣡कम् भूतु अविता꣡ तनू꣡नाम्
+आदित्यइ᳓र् इ᳓न्द्रः स᳓गणो मरु᳓द्भिर्  
+अस्मा᳓कम् भूतु अविता᳓ तनू᳓नाम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

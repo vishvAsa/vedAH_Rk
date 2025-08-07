@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अग्निं꣡ दूतं꣡ वृणीमहे  
-हो꣡तारं विश्व꣡वेदसम्  
-अस्य꣡ यज्ञ꣡स्य सुक्र꣡तुम्
+अग्निं᳓ दूतं᳓ वृणीमहे  
+हो᳓तारं विश्व᳓वेदसम्  
+अस्य᳓ यज्ञ᳓स्य सुक्र᳓तुम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-युञ्ज꣡न्ति ब्रध्न꣡म् अरुषं꣡  
-च꣡रन्तम् प꣡रि तस्थु꣡षः  
-रो꣡चन्ते रोचना꣡ दिवि꣡
+युञ्ज᳓न्ति ब्रध्न᳓म् अरुषं᳓  
+च᳓रन्तम् प᳓रि तस्थु᳓षः  
+रो᳓चन्ते रोचना᳓ दिवि᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡दि मे रार꣡णः सुत꣡  
-उक्थे꣡ वा द꣡धसे च꣡नः  
-आरा꣡द् उ꣡प स्वधा꣡ गहि
+य᳓दि मे रार᳓णः सुत᳓  
+उक्थे᳓ वा द᳓धसे च᳓नः  
+आरा᳓द् उ᳓प स्वधा᳓ गहि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

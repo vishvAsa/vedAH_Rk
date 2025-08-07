@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ के꣡ च ज्मा꣡ महि꣡नो अ꣡हिमाया  
-दिवो꣡ जज्ञिरे꣡ अपां᳐꣡ सध꣡स्थे  
-ते꣡ अस्म꣡भ्यम् इष꣡ये वि꣡श्वम् आ꣡युः  
-क्ष꣡प उस्रा꣡ वरिवस्यन्तु देवाः꣡
+ये᳓ के᳓ च ज्मा᳓ महि᳓नो अ᳓हिमाया  
+दिवो᳓ जज्ञिरे᳓ अपां᳐᳓ सध᳓स्थे  
+ते᳓ अस्म᳓भ्यम् इष᳓ये वि᳓श्वम् आ᳓युः  
+क्ष᳓प उस्रा᳓ वरिवस्यन्तु देवाः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -250,7 +250,7 @@ Having power to destroy: ahimāyāḥ = āhantṛ prajñāH, having the wisdom o
 
 Whichever great ones, snake-sly, were born on the earth or in the seat of  heaven or of the waters,  
 let those gods seek a wide place for us to prosper day and night for our  whole lifetime.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md">

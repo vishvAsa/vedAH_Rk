@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-नून꣡म् अर्च वि꣡हायसे  
-स्तो꣡मेभि स्थूरयूपव꣡त्  
-ऋ꣡षे वैयश्व द꣡मियाय अग्न꣡ये
+नून᳓म् अर्च वि᳓हायसे  
+स्तो᳓मेभि स्थूरयूपव᳓त्  
+ऋ᳓षे वैयश्व द᳓मियाय अग्न᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

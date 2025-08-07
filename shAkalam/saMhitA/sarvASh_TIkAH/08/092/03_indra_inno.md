@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र इ꣡न् नो महा꣡नां᳐  
-दाता꣡ वा꣡जानां᳐ नृतुः꣡  
-महाँ꣡ अभिज्ञु꣡ आ꣡ यमत्
+इ᳓न्द्र इ᳓न् नो महा᳓नां᳐  
+दाता᳓ वा᳓जानां᳐ नृतुः᳓  
+महाँ᳓ अभिज्ञु᳓ आ᳓ यमत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

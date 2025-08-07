@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡प त्य꣡म् परिपन्थि꣡नम्  
-मुषीवा꣡णं हुरश्चि꣡तम्  
-दूर꣡म् अ꣡धि स्रुते꣡र् अज
+अ᳓प त्य᳓म् परिपन्थि᳓नम्  
+मुषीवा᳓णं हुरश्चि᳓तम्  
+दूर᳓म् अ᳓धि स्रुते᳓र् अज
 </details>
 
 <details><summary>Vedaweb annotation</summary>

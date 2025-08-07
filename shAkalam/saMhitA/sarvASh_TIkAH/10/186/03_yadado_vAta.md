@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अदो꣡ वात ते गृहे꣡  
-अमृ꣡तस्य निधि꣡र् हितः꣡  
-त꣡तो नो देहि जीव꣡से
+य᳓द् अदो᳓ वात ते गृहे᳓  
+अमृ᳓तस्य निधि᳓र् हितः᳓  
+त᳓तो नो देहि जीव᳓से
 </details>
 
 <details><summary>Vedaweb annotation</summary>

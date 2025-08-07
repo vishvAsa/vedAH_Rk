@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमां꣡ सु꣡ पूर्वियां꣡ धि꣡यम्  
-म꣡धोर् घृत꣡स्य पिप्यु꣡षीम्  
-क꣡ण्वा उक्थे꣡न वावृधुः
+इमां᳓ सु᳓ पूर्वियां᳓ धि᳓यम्  
+म᳓धोर् घृत᳓स्य पिप्यु᳓षीम्  
+क᳓ण्वा उक्थे᳓न वावृधुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

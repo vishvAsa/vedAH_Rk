@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-म꣡हिकेरव ऊत꣡ये  
-प्रिय꣡मेधा अहूषत  
-रा꣡जन्तम् अध्वरा꣡णा᳐म्  
-अग्निं꣡ शुक्रे꣡ण शोचि꣡षा
+म᳓हिकेरव ऊत᳓ये  
+प्रिय᳓मेधा अहूषत  
+रा᳓जन्तम् अध्वरा᳓णा᳐म्  
+अग्निं᳓ शुक्रे᳓ण शोचि᳓षा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

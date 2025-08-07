@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ वो घ्न꣡न्तम् मा꣡ श꣡पन्तम्  
-प्र꣡ति वोचे देवय꣡न्तम्  
-सुम्नइ꣡र् इ꣡द् व आ꣡ विवासे
+मा᳓ वो घ्न᳓न्तम् मा᳓ श᳓पन्तम्  
+प्र᳓ति वोचे देवय᳓न्तम्  
+सुम्नइ᳓र् इ᳓द् व आ᳓ विवासे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

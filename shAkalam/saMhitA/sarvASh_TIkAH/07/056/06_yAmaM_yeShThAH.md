@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡मं य꣡यिष्ठाः+ शुभा꣡ शो꣡भिष्ठाः  
-श्रिया꣡ स꣡म्मिश्ला ओ꣡जोभिर् उग्राः꣡
+या᳓मं य᳓यिष्ठाः+ शुभा᳓ शो᳓भिष्ठाः  
+श्रिया᳓ स᳓म्मिश्ला ओ᳓जोभिर् उग्राः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

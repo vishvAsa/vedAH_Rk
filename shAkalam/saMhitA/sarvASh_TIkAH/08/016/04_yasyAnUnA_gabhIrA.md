@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स्य अ꣡नूना गभीरा꣡  
-म꣡दा उर꣡वस् त꣡रुत्राः  
-हर्षुम꣡न्तः शू꣡रसातौ
+य᳓स्य अ᳓नूना गभीरा᳓  
+म᳓दा उर᳓वस् त᳓रुत्राः  
+हर्षुम᳓न्तः शू᳓रसातौ
 </details>
 
 <details><summary>Vedaweb annotation</summary>

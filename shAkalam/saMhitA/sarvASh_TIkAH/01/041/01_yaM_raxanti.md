@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यं꣡ र꣡क्षन्ति प्र꣡चेतसो  
-व꣡रुणो मित्रो꣡ अर्यमा꣡  
-नू꣡ चित् स꣡ दभ्यते ज꣡नः
+यं᳓ र᳓क्षन्ति प्र᳓चेतसो  
+व᳓रुणो मित्रो᳓ अर्यमा᳓  
+नू᳓ चित् स᳓ दभ्यते ज᳓नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

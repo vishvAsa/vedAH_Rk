@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-कि꣡म् आ꣡द् उता꣡सि वृत्रहन्  
-म꣡घवन् मन्युम꣡त्तमः  
-अ꣡त्रा꣡ह दा꣡नुम् आ꣡तिरः
+कि᳓म् आ᳓द् उता᳓सि वृत्रहन्  
+म᳓घवन् मन्युम᳓त्तमः  
+अ᳓त्रा᳓ह दा᳓नुम् आ᳓तिरः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

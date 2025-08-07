@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पर्ज꣡न्याय प्र꣡ गायत  
-दिव꣡स् पुत्रा꣡य मीळ्हु꣡षे  
-स꣡ नो य꣡वसम् इछतु
+पर्ज᳓न्याय प्र᳓ गायत  
+दिव᳓स् पुत्रा᳓य मीळ्हु᳓षे  
+स᳓ नो य᳓वसम् इछतु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

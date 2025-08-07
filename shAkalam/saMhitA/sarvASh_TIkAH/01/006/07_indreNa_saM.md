@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रेण सं꣡ हि꣡ दृ꣡क्षसे  
-संजग्मानो꣡ अ꣡बिभ्युषा  
-मन्दू꣡ समान꣡वर्चसा
+इ᳓न्द्रेण सं᳓ हि᳓ दृ᳓क्षसे  
+संजग्मानो᳓ अ᳓बिभ्युषा  
+मन्दू᳓ समान᳓वर्चसा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

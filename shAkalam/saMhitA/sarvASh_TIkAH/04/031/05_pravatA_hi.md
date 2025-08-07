@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प्रव꣡ता हि꣡ क्र꣡तूना᳐म्  
-आ꣡ हा पदे꣡व ग꣡छसि  
-अ꣡भक्षि सू꣡रिये स꣡चा
+प्रव᳓ता हि᳓ क्र᳓तूना᳐म्  
+आ᳓ हा पदे᳓व ग᳓छसि  
+अ᳓भक्षि सू᳓रिये स᳓चा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

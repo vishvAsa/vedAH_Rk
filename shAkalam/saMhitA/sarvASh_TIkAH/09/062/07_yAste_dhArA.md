@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡स् ते धा꣡रा मधुश्चु꣡तो  
-अ꣡सृग्रम् इन्द ऊत꣡ये  
-ता꣡भिः पवि꣡त्रम् आ꣡सदः
+या᳓स् ते धा᳓रा मधुश्चु᳓तो  
+अ᳓सृग्रम् इन्द ऊत᳓ये  
+ता᳓भिः पवि᳓त्रम् आ᳓सदः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -158,7 +158,7 @@ _________
 
 Your streams, dripping with honey, which have surged for our aid,  o drop,  
 with them you have sat down on the filter.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/07-09.md">

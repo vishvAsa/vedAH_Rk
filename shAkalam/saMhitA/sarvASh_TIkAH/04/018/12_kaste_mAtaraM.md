@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-क꣡स् ते मात꣡रं विध꣡वाम् अचक्रच्  
-छयुं꣡ क꣡स् त्वा꣡म् अजिघांसच् च꣡रन्तम्  
-क꣡स् ते देवो꣡ अ꣡धि मार्डीक꣡ आसीद्  
-य꣡त् प्रा꣡क्षिणाः पित꣡रम् पादगृ꣡ह्य
+क᳓स् ते मात᳓रं विध᳓वाम् अचक्रच्  
+छयुं᳓ क᳓स् त्वा᳓म् अजिघांसच् च᳓रन्तम्  
+क᳓स् ते देवो᳓ अ᳓धि मार्डीक᳓ आसीद्  
+य᳓त् प्रा᳓क्षिणाः पित᳓रम् पादगृ᳓ह्य
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -263,7 +263,7 @@ Since you have slain the father: yat prākṣiṇāḥ pitaram pādagṛhya; cf.
 
 Who made your mother a widow? Who tried to smash you as you lay,  as you wandered?  
 What god was merciful toward you when you destroyed your father,  having grasped him by the foot?
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/12-13.md">

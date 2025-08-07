@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रम् प्रत्ने꣡न म꣡न्मना  
-मरु꣡त्वन्तं हवामहे  
-अस्य꣡ सो꣡मस्य पीत꣡ये
+इ᳓न्द्रम् प्रत्ने᳓न म᳓न्मना  
+मरु᳓त्वन्तं हवामहे  
+अस्य᳓ सो᳓मस्य पीत᳓ये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

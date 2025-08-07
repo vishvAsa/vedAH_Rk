@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-दिव꣡स् प꣡रि प्रथमं꣡ जज्ञे अग्नि꣡र्  
-अस्म꣡द् द्विती꣡यम् प꣡रि जात꣡वेदाः  
-तृती꣡यम् अप्सु꣡ नृम꣡णा अ꣡जस्रम्  
-इ꣡न्धान एनं जरते सुआधीः꣡
+दिव᳓स् प᳓रि प्रथमं᳓ जज्ञे अग्नि᳓र्  
+अस्म᳓द् द्विती᳓यम् प᳓रि जात᳓वेदाः  
+तृती᳓यम् अप्सु᳓ नृम᳓णा अ᳓जस्रम्  
+इ᳓न्धान एनं जरते सुआधीः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -209,7 +209,7 @@ _________
 <details><summary>हरदत्तः</summary>
 
 परिशब्दः पञ्चम्यर्थानुवादी । अयं जातवेदाः अग्निः प्रथमं दिवो जज्ञे आदि त्यात्मना वैद्युतात्मना वा । अस्मत्परि अस्मत्तः द्वितीयं जज्ञे यजमानादग्निर्जायते? । ते मत्प्रातः प्रजनिष्येथे । ते मा प्रजाते प्रजनयिष्यथः इति दर्शनात् । अप्सु तृतीयं जज्ञे बाडबरूपेण । कीदृशः? नृमणाः नृषु मनो यस्य अनुग्राहकत्वेन स नृमणाः । एनं एवं भूतमाग्निं स्वाधीः स्वाध्यानः पुरुषः अजस्रमिन्धानः भूत्वा जरते स्तौति दुर्बुद्धिस्तु न तथा ॥
-꣡</details>
+᳓</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -238,7 +238,7 @@ From heaven was Agni born first; from us was he born second as Jātavedas. (Born
 
 FIRST Agni sprang to life from out of Heaven: the second time from us came Jatavedas.  
      Thirdly the Manly-souled was in the waters. The pious lauds and kindles him the Eternal.
-꣡</details>
+᳓</details>
 
 <details><summary>Keith</summary>
 

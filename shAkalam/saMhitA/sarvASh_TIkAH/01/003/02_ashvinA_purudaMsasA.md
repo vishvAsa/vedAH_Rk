@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡श्विना पु꣡रुदंससा  
-न꣡रा श꣡वीरया धिया꣡  
-धि꣡ष्णिया व꣡नतं गि꣡रः
+अ᳓श्विना पु᳓रुदंससा  
+न᳓रा श᳓वीरया धिया᳓  
+धि᳓ष्णिया व᳓नतं गि᳓रः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

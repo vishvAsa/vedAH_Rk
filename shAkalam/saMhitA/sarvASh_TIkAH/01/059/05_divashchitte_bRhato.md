@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-दिव꣡श् चित् ते बृहतो꣡ जातवेदो  
-वइ꣡श्वानर प्र꣡ रिरिचे महित्व꣡म्  
-रा꣡जा कृष्टीना꣡म् असि मा꣡नुषीणां  
-युधा꣡ देवे꣡भ्यो व꣡रिवश् चकर्थ
+दिव᳓श् चित् ते बृहतो᳓ जातवेदो  
+वइ᳓श्वानर प्र᳓ रिरिचे महित्व᳓म्  
+रा᳓जा कृष्टीना᳓म् असि मा᳓नुषीणां  
+युधा᳓ देवे᳓भ्यो व᳓रिवश् चकर्थ
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -234,7 +234,7 @@ _________
 Even beyond lofty heaven does your greatness project, o Jātavedas  Vaiśvānara.  
 You are king of the communities belonging to the sons of Manu.  
 Through combat you made a wide realm for the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/059/05-06.md">

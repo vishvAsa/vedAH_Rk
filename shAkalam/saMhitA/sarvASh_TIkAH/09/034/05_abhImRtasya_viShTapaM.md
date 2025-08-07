@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभी꣡म् ऋत꣡स्य विष्ट꣡पं  
-दुहते꣡ पृ꣡श्निमातरः  
-चा꣡रु प्रिय꣡तमं हविः꣡
+अभी᳓म् ऋत᳓स्य विष्ट᳓पं  
+दुहते᳓ पृ᳓श्निमातरः  
+चा᳓रु प्रिय᳓तमं हविः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

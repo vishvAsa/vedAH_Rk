@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-देव꣡स्य सवितु꣡र् वयं꣡  
-वाजय꣡न्तः पु꣡रंधिया  
-भ꣡गस्य राति꣡म् ईमहे
+देव᳓स्य सवितु᳓र् वयं᳓  
+वाजय᳓न्तः पु᳓रंधिया  
+भ᳓गस्य राति᳓म् ईमहे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

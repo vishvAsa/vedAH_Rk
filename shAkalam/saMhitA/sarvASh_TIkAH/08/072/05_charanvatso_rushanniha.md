@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-च꣡रन् वत्सो꣡ रु꣡शन्न् इह꣡  
-निदाता꣡रं न꣡ विन्दते  
-वे꣡ति स्तो꣡तव अम्बि꣡यम्
+च᳓रन् वत्सो᳓ रु᳓शन्न् इह᳓  
+निदाता᳓रं न᳓ विन्दते  
+वे᳓ति स्तो᳓तव अम्बि᳓यम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,10 +15,10 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ते꣡ ते देव नयितर्+  
-ये꣡ च इमाँ꣡ अनुश꣡से  
-ते꣡ राया꣡ ते꣡ हि꣡ आपृ꣡चे  
-स꣡चेमहि सचथि꣡यैः
+ते᳓ ते देव नयितर्+  
+ये᳓ च इमाँ᳓ अनुश᳓से  
+ते᳓ राया᳓ ते᳓ हि᳓ आपृ᳓चे  
+स᳓चेमहि सचथि᳓यैः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

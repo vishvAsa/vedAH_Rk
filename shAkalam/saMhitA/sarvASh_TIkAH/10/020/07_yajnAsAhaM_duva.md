@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यज्ञासा꣡हं दु꣡व इषे  
-अग्नि꣡म् पू꣡र्वस्य शे꣡वस्य  
-अ꣡द्रेः सूनु꣡म् आयु꣡म् आहुः
+यज्ञासा᳓हं दु᳓व इषे  
+अग्नि᳓म् पू᳓र्वस्य शे᳓वस्य  
+अ᳓द्रेः सूनु᳓म् आयु᳓म् आहुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

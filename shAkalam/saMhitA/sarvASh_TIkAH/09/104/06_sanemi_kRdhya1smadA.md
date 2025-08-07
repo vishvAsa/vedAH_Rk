@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡नेमि कृधि꣡ अस्म꣡द् आ꣡  
-रक्ष꣡सं कं꣡ चिद् अत्रि꣡णम्  
-अ꣡पा꣡देवं द्वयु꣡म् अं꣡हो युयोधि नः
+स᳓नेमि कृधि᳓ अस्म᳓द् आ᳓  
+रक्ष᳓सं कं᳓ चिद् अत्रि᳓णम्  
+अ᳓पा᳓देवं द्वयु᳓म् अं᳓हो युयोधि नः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

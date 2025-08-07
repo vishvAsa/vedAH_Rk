@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने सुत꣡स्य पीत꣡ये  
-वि꣡श्वैर् ऊ꣡मेभिर् आ꣡ गहि  
-देवे꣡भिर् हव्य꣡दातये
+अ᳓ग्ने सुत᳓स्य पीत᳓ये  
+वि᳓श्वैर् ऊ᳓मेभिर् आ᳓ गहि  
+देवे᳓भिर् हव्य᳓दातये
 </details>
 
 <details><summary>Vedaweb annotation</summary>

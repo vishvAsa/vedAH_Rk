@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नः शु꣡ष्मं नृषा꣡हियं  
-वीर꣡वन्तम् पुरुस्पृ꣡हम्  
-प꣡वस्व सोम धा꣡रया
+आ᳓ नः शु᳓ष्मं नृषा᳓हियं  
+वीर᳓वन्तम् पुरुस्पृ᳓हम्  
+प᳓वस्व सोम धा᳓रया
 </details>
 
 <details><summary>Vedaweb annotation</summary>

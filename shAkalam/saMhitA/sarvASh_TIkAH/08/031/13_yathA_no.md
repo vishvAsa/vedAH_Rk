@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡था नो मित्रो꣡ अर्यमा꣡  
-व꣡रुणः स꣡न्ति गोपाः᳐꣡  
-सुगा꣡ ऋत꣡स्य प꣡न्थाः᳐
+य᳓था नो मित्रो᳓ अर्यमा᳓  
+व᳓रुणः स᳓न्ति गोपाः᳐᳓  
+सुगा᳓ ऋत᳓स्य प᳓न्थाः᳐
 </details>
 
 <details><summary>Vedaweb annotation</summary>

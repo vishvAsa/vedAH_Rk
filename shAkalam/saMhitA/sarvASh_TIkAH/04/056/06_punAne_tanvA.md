@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुनाने꣡ तनु꣡वा मिथः꣡  
-स्वे꣡न द꣡क्षेण राजथः  
-ऊहिया꣡थे सना꣡द् ऋत꣡म्
+पुनाने᳓ तनु᳓वा मिथः᳓  
+स्वे᳓न द᳓क्षेण राजथः  
+ऊहिया᳓थे सना᳓द् ऋत᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

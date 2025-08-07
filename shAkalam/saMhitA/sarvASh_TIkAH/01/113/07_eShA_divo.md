@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-एषा꣡ दिवो꣡ दुहिता꣡ प्र꣡त्य् अदर्शि  
-विउछ꣡न्ती युवतिः꣡ शुक्र꣡वासाः  
-वि꣡श्वस्ये꣡शाना पा꣡र्थिवस्य व꣡स्व  
-उ꣡षो अद्ये꣡ह꣡ सुभगे वि꣡ उछ
+एषा᳓ दिवो᳓ दुहिता᳓ प्र᳓त्य् अदर्शि  
+विउछ᳓न्ती युवतिः᳓ शुक्र᳓वासाः  
+वि᳓श्वस्ये᳓शाना पा᳓र्थिवस्य व᳓स्व  
+उ᳓षो अद्ये᳓ह᳓ सुभगे वि᳓ उछ
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -236,7 +236,7 @@ _________
 
 This Daughter of Heaven has appeared opposite, dawning forth, the  youthful one with gleaming garment.  
 Holding sway over every earthly good, o well-portioned Dawn, dawn  forth here today.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">

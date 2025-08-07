@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ब्र꣡ह्म प्रजा꣡वद् आ꣡ भर  
-जा꣡तवेदो वि꣡चर्षणे  
-अ꣡ग्ने य꣡द् दीद꣡यद् दिवि꣡
+ब्र᳓ह्म प्रजा᳓वद् आ᳓ भर  
+जा᳓तवेदो वि᳓चर्षणे  
+अ᳓ग्ने य᳓द् दीद᳓यद् दिवि᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

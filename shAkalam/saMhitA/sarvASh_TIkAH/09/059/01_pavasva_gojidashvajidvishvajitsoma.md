@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-प꣡वस्व गोजि꣡द् अश्वजि꣡द्  
-विश्वजि꣡त् सोम रण्यजि꣡त्  
-प्रजा꣡वद् र꣡त्नम् आ꣡ भर
+प᳓वस्व गोजि᳓द् अश्वजि᳓द्  
+विश्वजि᳓त् सोम रण्यजि᳓त्  
+प्रजा᳓वद् र᳓त्नम् आ᳓ भर
 </details>
 
 <details><summary>Vedaweb annotation</summary>

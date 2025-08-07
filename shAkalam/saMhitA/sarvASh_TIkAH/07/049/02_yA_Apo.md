@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡ आ꣡पो दिव्या꣡ उत꣡ वा स्र꣡वन्ति  
-खनि꣡त्रिमा उत꣡ वा याः꣡ स्वयंजाः꣡  
-समुद्रा꣡र्था याः꣡ शु꣡चयः पवाका꣡स्+  
-ता꣡ आ꣡पो देवी꣡र् इह꣡ मा꣡म् अवन्तु
+या᳓ आ᳓पो दिव्या᳓ उत᳓ वा स्र᳓वन्ति  
+खनि᳓त्रिमा उत᳓ वा याः᳓ स्वयंजाः᳓  
+समुद्रा᳓र्था याः᳓ शु᳓चयः पवाका᳓स्+  
+ता᳓ आ᳓पो देवी᳓र् इह᳓ मा᳓म् अवन्तु
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -271,7 +271,7 @@ Those whose channels have been dug: khanitrimā = khanenanivṛttaḥ, formed, o
 
 The heavenly waters, or those that flow, or are found by digging, or arise  by themselves,  
 those, clear and pure, whose goal is the sea—let those waters, goddesses,  help me here.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/049/02-03.md">

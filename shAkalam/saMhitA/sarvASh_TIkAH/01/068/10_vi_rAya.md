@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ रा꣡य और्णोद् दु꣡रः पुरुक्षुः꣡  
-पिपे꣡श ना꣡कं स्तृ꣡भिर् द꣡मूनाः
+वि᳓ रा᳓य और्णोद् दु᳓रः पुरुक्षुः᳓  
+पिपे᳓श ना᳓कं स्तृ᳓भिर् द᳓मूनाः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

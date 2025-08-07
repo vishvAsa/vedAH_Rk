@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-एवे꣡द् एष꣡ तुविकूर्मि꣡र्  
-वा꣡जाँ ए꣡को व꣡ज्रहस्तः  
-सना꣡द् अ꣡मृक्तो दयते
+एवे᳓द् एष᳓ तुविकूर्मि᳓र्  
+वा᳓जाँ ए᳓को व᳓ज्रहस्तः  
+सना᳓द् अ᳓मृक्तो दयते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

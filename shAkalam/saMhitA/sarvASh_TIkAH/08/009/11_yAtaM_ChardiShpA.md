@@ -15,9 +15,9 @@ ChandaH = "विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यातं꣡ छर्दिष्पा꣡ उत꣡ नः परस्पा꣡  
-भूतं꣡ जगत्पा꣡ उत꣡ नस् तनूपा꣡  
-वर्ति꣡स् तोका꣡य त꣡नयाय यातम्
+यातं᳓ छर्दिष्पा᳓ उत᳓ नः परस्पा᳓  
+भूतं᳓ जगत्पा᳓ उत᳓ नस् तनूपा᳓  
+वर्ति᳓स् तोका᳓य त᳓नयाय यातम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

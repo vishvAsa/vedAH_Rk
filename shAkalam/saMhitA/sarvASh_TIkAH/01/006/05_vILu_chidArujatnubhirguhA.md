@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वीळु꣡ चिद् आरुजत्नु꣡भिर्  
-गु꣡हा चिद् इन्द्र व꣡ह्निभिः  
-अ꣡विन्द उस्रि꣡या अ꣡नु
+वीळु᳓ चिद् आरुजत्नु᳓भिर्  
+गु᳓हा चिद् इन्द्र व᳓ह्निभिः  
+अ᳓विन्द उस्रि᳓या अ᳓नु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

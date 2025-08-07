@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सुता꣡ अ꣡नु स्व꣡म् आ꣡ र꣡जो  
-अभि꣡ अर्षन्ति बभ्र꣡वः  
-इ꣡न्द्रं ग꣡छन्त इ꣡न्दवः
+सुता᳓ अ᳓नु स्व᳓म् आ᳓ र᳓जो  
+अभि᳓ अर्षन्ति बभ्र᳓वः  
+इ᳓न्द्रं ग᳓छन्त इ᳓न्दवः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -168,7 +168,7 @@ _________
 
 The pressed juices rush along their own realm, the brown ones,  
 the drops, going to Indra.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/04-06.md">

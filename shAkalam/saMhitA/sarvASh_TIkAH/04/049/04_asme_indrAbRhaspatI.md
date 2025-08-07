@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अस्मे꣡ इन्द्राबृहस्पती  
-रयिं꣡ धत्तं शतग्वि꣡नम्  
-अ꣡श्वावन्तं सहस्रि꣡णम्
+अस्मे᳓ इन्द्राबृहस्पती  
+रयिं᳓ धत्तं शतग्वि᳓नम्  
+अ᳓श्वावन्तं सहस्रि᳓णम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-विघ्न꣡न्तो दुरिता꣡ पुरु꣡  
-सुगा꣡ तोका꣡य वाजि꣡नः  
-त꣡ना कृण्व꣡न्तो अ꣡र्वते
+विघ्न᳓न्तो दुरिता᳓ पुरु᳓  
+सुगा᳓ तोका᳓य वाजि᳓नः  
+त᳓ना कृण्व᳓न्तो अ᳓र्वते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

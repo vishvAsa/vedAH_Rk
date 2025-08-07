@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृष्टि꣡द्यावा रीति꣡आपा  
-इष꣡स् प꣡ती दा꣡नुमत्याः  
-बृह꣡न्तं ग꣡र्तम् आशाते
+वृष्टि᳓द्यावा रीति᳓आपा  
+इष᳓स् प᳓ती दा᳓नुमत्याः  
+बृह᳓न्तं ग᳓र्तम् आशाते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ नो महाँ꣡ अनिमानो꣡  
-धूम꣡केतुः पुरुश्चन्द्रः꣡  
-धिये꣡ वा꣡जाय हिन्वतु
+स᳓ नो महाँ᳓ अनिमानो᳓  
+धूम᳓केतुः पुरुश्चन्द्रः᳓  
+धिये᳓ वा᳓जाय हिन्वतु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

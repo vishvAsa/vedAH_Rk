@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने र꣡क्षा णो अं꣡हसः  
-प्र꣡ति ष्म देव री꣡षतः  
-त꣡पिष्ठैर् अज꣡रो दह
+अ᳓ग्ने र᳓क्षा णो अं᳓हसः  
+प्र᳓ति ष्म देव री᳓षतः  
+त᳓पिष्ठैर् अज᳓रो दह
 </details>
 
 <details><summary>Vedaweb annotation</summary>

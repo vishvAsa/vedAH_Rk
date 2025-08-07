@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ अर्ष सहस्रि꣡णं  
-रयिं꣡ गो꣡मन्तम् अश्वि꣡नम्  
-अभि꣡ वा꣡जम् उत꣡ श्र꣡वः
+अभि᳓ अर्ष सहस्रि᳓णं  
+रयिं᳓ गो᳓मन्तम् अश्वि᳓नम्  
+अभि᳓ वा᳓जम् उत᳓ श्र᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -152,7 +152,7 @@ _________
 
 Rush toward wealth in thousands of cows and of horses,  
 toward the prize of victory and fame.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/10-12.md">

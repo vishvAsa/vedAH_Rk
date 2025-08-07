@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् इन्द्र मन्मश꣡स् तुवा  
-ना꣡ना ह꣡वन्त ऊत꣡ये  
-अस्मा꣡केभिर् नृ꣡भिर् अ꣡त्रा सु꣡वर् जय
+य᳓द् इन्द्र मन्मश᳓स् तुवा  
+ना᳓ना ह᳓वन्त ऊत᳓ये  
+अस्मा᳓केभिर् नृ᳓भिर् अ᳓त्रा सु᳓वर् जय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

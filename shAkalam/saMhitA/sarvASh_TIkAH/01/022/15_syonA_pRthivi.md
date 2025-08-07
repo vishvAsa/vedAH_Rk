@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सियोना꣡ पृथिवि भव  
-अनृक्षरा꣡ निवे꣡शनी  
-य꣡छा नः श꣡र्म सप्र꣡थः
+सियोना᳓ पृथिवि भव  
+अनृक्षरा᳓ निवे᳓शनी  
+य᳓छा नः श᳓र्म सप्र᳓थः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

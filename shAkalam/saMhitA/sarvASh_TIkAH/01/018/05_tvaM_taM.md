@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ त꣡म् ब्रह्मणस् पते  
-सो꣡म इ꣡न्द्रश् च म꣡र्तियम्  
-द꣡क्षिणा पातु अं꣡हसः
+तुवं᳓ त᳓म् ब्रह्मणस् पते  
+सो᳓म इ᳓न्द्रश् च म᳓र्तियम्  
+द᳓क्षिणा पातु अं᳓हसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

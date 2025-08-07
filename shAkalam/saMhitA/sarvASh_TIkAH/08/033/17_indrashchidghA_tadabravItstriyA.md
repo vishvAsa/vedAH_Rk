@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रश् चिद् घा त꣡द् अब्रवीत्  
-स्त्रिया꣡ अशासिय꣡म् म꣡नः  
-उतो꣡ अ꣡ह क्र꣡तुं रघु꣡म्
+इ᳓न्द्रश् चिद् घा त᳓द् अब्रवीत्  
+स्त्रिया᳓ अशासिय᳓म् म᳓नः  
+उतो᳓ अ᳓ह क्र᳓तुं रघु᳓म्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

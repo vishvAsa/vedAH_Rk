@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राग्नी अ꣡पसस् प꣡रि  
-उ꣡प प्र꣡ यन्ति धीत꣡यः  
-ऋत꣡स्य पथि꣡या अ꣡नु
+इ᳓न्द्राग्नी अ᳓पसस् प᳓रि  
+उ᳓प प्र᳓ यन्ति धीत᳓यः  
+ऋत᳓स्य पथि᳓या अ᳓नु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ सोम विपश्चि꣡तं  
-त꣡ना पुनान꣡ आयु꣡षु  
-अ꣡व्यो वा꣡रं वि꣡ धावसि
+तुवं᳓ सोम विपश्चि᳓तं  
+त᳓ना पुनान᳓ आयु᳓षु  
+अ᳓व्यो वा᳓रं वि᳓ धावसि
 </details>
 
 <details><summary>Vedaweb annotation</summary>

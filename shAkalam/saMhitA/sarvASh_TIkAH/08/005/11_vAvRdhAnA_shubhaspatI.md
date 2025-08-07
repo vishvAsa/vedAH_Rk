@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-वावृधाना꣡ शुभस् पती  
-दस्रा हि꣡रण्यवर्तनी  
-पि꣡बतं सोमिय꣡म् म꣡धु
+वावृधाना᳓ शुभस् पती  
+दस्रा हि᳓रण्यवर्तनी  
+पि᳓बतं सोमिय᳓म् म᳓धु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

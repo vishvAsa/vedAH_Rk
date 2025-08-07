@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-त्री꣡णि त्रित꣡स्य धा꣡रया  
-पृष्ठे꣡षु ए꣡रया रयि꣡म्  
-मि꣡मीते अस्य यो꣡जना वि꣡ सुक्र꣡तुः
+त्री᳓णि त्रित᳓स्य धा᳓रया  
+पृष्ठे᳓षु ए᳓रया रयि᳓म्  
+मि᳓मीते अस्य यो᳓जना वि᳓ सुक्र᳓तुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

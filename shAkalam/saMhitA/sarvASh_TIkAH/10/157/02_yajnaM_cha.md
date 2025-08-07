@@ -15,8 +15,8 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यज्ञं꣡ च नस् तनु꣡वं च प्रजां꣡ च  
-आदित्यइ꣡र् इ꣡न्द्रः सह꣡ चीकॢपाति
+यज्ञं᳓ च नस् तनु᳓वं च प्रजां᳓ च  
+आदित्यइ᳓र् इ᳓न्द्रः सह᳓ चीकॢपाति
 </details>
 
 <details><summary>Vedaweb annotation</summary>

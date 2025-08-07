@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तीव्राः꣡ सो꣡मास आ꣡ गहि  
-आशी꣡र्वन्तः सुता꣡ इमे꣡  
-वा꣡यो ता꣡न् प्र꣡स्थितान् पिब
+तीव्राः᳓ सो᳓मास आ᳓ गहि  
+आशी᳓र्वन्तः सुता᳓ इमे᳓  
+वा᳓यो ता᳓न् प्र᳓स्थितान् पिब
 </details>
 
 <details><summary>Vedaweb annotation</summary>

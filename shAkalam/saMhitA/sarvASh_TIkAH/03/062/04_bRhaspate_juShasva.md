@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-बृ꣡हस्पते जुष꣡स्व नो  
-हव्या꣡नि विश्वदेविय  
-रा꣡स्व र꣡त्नानि दाशु꣡षे
+बृ᳓हस्पते जुष᳓स्व नो  
+हव्या᳓नि विश्वदेविय  
+रा᳓स्व र᳓त्नानि दाशु᳓षे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

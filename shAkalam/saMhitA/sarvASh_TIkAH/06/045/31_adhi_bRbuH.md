@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡धि बृबुः꣡ पणीनां᳐꣡  
-व꣡र्षिष्ठे मूर्ध꣡न् अस्था᳐त्  
-उरुः꣡ क꣡क्षो न꣡ गाङ्गियः꣡
+अ᳓धि बृबुः᳓ पणीनां᳐᳓  
+व᳓र्षिष्ठे मूर्ध᳓न् अस्था᳐त्  
+उरुः᳓ क᳓क्षो न᳓ गाङ्गियः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

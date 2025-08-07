@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नः शं꣡सो अ꣡ररुषो  
-धूर्तिः꣡ प्र꣡णङ् म꣡र्तियस्य  
-र꣡क्षा णो ब्रह्मणस् पते
+मा᳓ नः शं᳓सो अ᳓ररुषो  
+धूर्तिः᳓ प्र᳓णङ् म᳓र्तियस्य  
+र᳓क्षा णो ब्रह्मणस् पते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

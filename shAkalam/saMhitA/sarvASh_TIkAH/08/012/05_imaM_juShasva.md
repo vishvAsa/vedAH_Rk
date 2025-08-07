@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-इमं꣡ जुषस्व गिर्वणः  
-समुद्र꣡ इव पिन्वते  
-इ꣡न्द्र वि꣡श्वाभिर् ऊति꣡भिर् वव꣡क्षिथ
+इमं᳓ जुषस्व गिर्वणः  
+समुद्र᳓ इव पिन्वते  
+इ᳓न्द्र वि᳓श्वाभिर् ऊति᳓भिर् वव᳓क्षिथ
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,7 +154,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 This one enjoy, o you who yearn for songs—it swells like the sea. O Indra, with all your forms of help you have waxed strong.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/05-06.md">

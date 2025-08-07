@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ चिद् धि꣡ मृत्यु꣡बन्धव  
-आ꣡दित्या म꣡नवः स्म꣡सि  
-प्र꣡ सू꣡ न आ꣡यु° जीव꣡से तिरेतन
+ये᳓ चिद् धि᳓ मृत्यु᳓बन्धव  
+आ᳓दित्या म᳓नवः स्म᳓सि  
+प्र᳓ सू᳓ न आ᳓यु° जीव᳓से तिरेतन
 </details>
 
 <details><summary>Vedaweb annotation</summary>

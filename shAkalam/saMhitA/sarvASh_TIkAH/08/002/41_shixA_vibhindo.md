@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-शि꣡क्षा विभिन्दो अस्मै  
-चत्वा꣡रि अयु꣡ता द꣡दत्  
-अष्टा꣡ परः꣡ सह꣡स्रा
+शि᳓क्षा विभिन्दो अस्मै  
+चत्वा᳓रि अयु᳓ता द᳓दत्  
+अष्टा᳓ परः᳓ सह᳓स्रा
 </details>
 
 <details><summary>Vedaweb annotation</summary>

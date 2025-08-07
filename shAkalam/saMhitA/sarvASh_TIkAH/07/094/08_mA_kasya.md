@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ क꣡स्य नो अ꣡ररुषो  
-धूर्तिः꣡ प्र꣡णङ् म꣡र्तियस्य  
-इ꣡न्द्राग्नी श꣡र्म यछतम्
+मा᳓ क᳓स्य नो अ᳓ररुषो  
+धूर्तिः᳓ प्र᳓णङ् म᳓र्तियस्य  
+इ᳓न्द्राग्नी श᳓र्म यछतम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

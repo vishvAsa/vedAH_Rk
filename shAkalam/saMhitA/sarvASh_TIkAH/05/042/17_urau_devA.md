@@ -15,7 +15,7 @@ ChandaH = "एकपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-उरउ꣡ देवा अनिबाधे꣡ सियाम
+उरउ᳓ देवा अनिबाधे᳓ सियाम
 </details>
 
 <details><summary>Vedaweb annotation</summary>

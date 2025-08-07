@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नहि꣡ ष्मा ते शतं꣡ चन꣡  
-रा꣡धो व꣡रन्त आमु꣡रः  
-न꣡ च्यौत्ना꣡नि करिष्यतः꣡
+नहि᳓ ष्मा ते शतं᳓ चन᳓  
+रा᳓धो व᳓रन्त आमु᳓रः  
+न᳓ च्यौत्ना᳓नि करिष्यतः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

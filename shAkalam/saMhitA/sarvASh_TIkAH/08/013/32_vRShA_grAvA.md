@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡षा ग्रा꣡वा वृ꣡षा म꣡दो  
-वृ꣡षा सो꣡मो अयं꣡ सुतः꣡  
-वृ꣡षा यज्ञो꣡ य꣡म् इ꣡न्वसि वृ꣡षा ह꣡वः
+वृ᳓षा ग्रा᳓वा वृ᳓षा म᳓दो  
+वृ᳓षा सो᳓मो अयं᳓ सुतः᳓  
+वृ᳓षा यज्ञो᳓ य᳓म् इ᳓न्वसि वृ᳓षा ह᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

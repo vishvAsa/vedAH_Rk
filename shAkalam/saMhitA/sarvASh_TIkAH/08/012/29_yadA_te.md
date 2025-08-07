@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यदा꣡ ते मा꣡रुतीर् वि꣡शस्  
-तु꣡भ्यम् इन्द्र नियेमिरे꣡  
-आ꣡द् इ꣡त् ते वि꣡श्वा भु꣡वनानि येमिरे
+यदा᳓ ते मा᳓रुतीर् वि᳓शस्  
+तु᳓भ्यम् इन्द्र नियेमिरे᳓  
+आ᳓द् इ᳓त् ते वि᳓श्वा भु᳓वनानि येमिरे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

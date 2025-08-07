@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यः꣡ कुक्षिः꣡ सोमपा꣡तमः  
-समुद्र꣡ इव पि꣡न्वते  
-उर्वी꣡र् आ꣡पो न꣡ काकु꣡दः
+यः᳓ कुक्षिः᳓ सोमपा᳓तमः  
+समुद्र᳓ इव पि᳓न्वते  
+उर्वी᳓र् आ᳓पो न᳓ काकु᳓दः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

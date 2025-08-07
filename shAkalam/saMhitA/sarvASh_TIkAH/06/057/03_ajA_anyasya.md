@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अजा꣡ अन्य꣡स्य व꣡ह्नयो  
-ह꣡री अन्य꣡स्य स꣡म्भृता  
-ता꣡भ्यां वृत्रा꣡णि जिघ्नते
+अजा᳓ अन्य᳓स्य व᳓ह्नयो  
+ह᳓री अन्य᳓स्य स᳓म्भृता  
+ता᳓भ्यां वृत्रा᳓णि जिघ्नते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

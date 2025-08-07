@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प छाया꣡म् इव घृ꣡णेर्  
-अ꣡गन्म श꣡र्म ते वय꣡म्  
-अ꣡ग्ने हि꣡रण्यसंदृशः
+उ᳓प छाया᳓म् इव घृ᳓णेर्  
+अ᳓गन्म श᳓र्म ते वय᳓म्  
+अ᳓ग्ने हि᳓रण्यसंदृशः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

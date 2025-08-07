@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा मरु꣡त्वती प꣡रि  
-भु꣡वद् वा꣡णी सया꣡वरी  
-न꣡क्षमाणा सह꣡ द्यु꣡भिः
+तं᳓ त्वा मरु᳓त्वती प᳓रि  
+भु᳓वद् वा᳓णी सया᳓वरी  
+न᳓क्षमाणा सह᳓ द्यु᳓भिः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -163,7 +163,7 @@ _________
 
 The choir of Maruts, your fellow travelers, surrounds you,  
 reaching you all together throughout the days.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/07-08.md">

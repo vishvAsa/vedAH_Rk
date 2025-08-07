@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उच्चा꣡ ते जात꣡म् अ꣡न्धसो  
-दिवि꣡ ष꣡द् भू꣡मि आ꣡ ददे  
-उग्रं꣡ श꣡र्म म꣡हि श्र꣡वः
+उच्चा᳓ ते जात᳓म् अ᳓न्धसो  
+दिवि᳓ ष᳓द् भू᳓मि आ᳓ ददे  
+उग्रं᳓ श᳓र्म म᳓हि श्र᳓वः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

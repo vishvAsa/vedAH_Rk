@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-उत꣡ नः पितु꣡म् आ꣡ भर  
-संरराणो꣡ अ꣡विक्षितम्  
-म꣡घवन् भू꣡रि ते व꣡सु
+उत᳓ नः पितु᳓म् आ᳓ भर  
+संरराणो᳓ अ᳓विक्षितम्  
+म᳓घवन् भू᳓रि ते व᳓सु
 </details>
 
 <details><summary>Vedaweb annotation</summary>

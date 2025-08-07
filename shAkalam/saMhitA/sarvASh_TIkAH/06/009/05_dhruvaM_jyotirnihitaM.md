@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-ध्रुवं꣡ ज्यो꣡तिर् नि꣡हितं दृश꣡ये क꣡म्  
-म꣡नो ज꣡विष्ठम् पत꣡यत्सु अन्तः꣡  
-वि꣡श्वे देवाः꣡ स꣡मनसः स꣡केता  
-ए꣡कं क्र꣡तुम् अभि꣡ वि꣡ यन्ति साधु꣡
+ध्रुवं᳓ ज्यो᳓तिर् नि᳓हितं दृश᳓ये क᳓म्  
+म᳓नो ज᳓विष्ठम् पत᳓यत्सु अन्तः᳓  
+वि᳓श्वे देवाः᳓ स᳓मनसः स᳓केता  
+ए᳓कं क्र᳓तुम् अभि᳓ वि᳓ यन्ति साधु᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -257,7 +257,7 @@ A steady light: According to the vedāntins, the light is **brahma**, seated spo
 
 The steadfast light, set down to be seen—the mind swiftest among (all)  those that fly—  
 all the gods, of one mind and one perception, come separately straight to  (him) as their single resolve.784 VI.10
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/05-07.md">

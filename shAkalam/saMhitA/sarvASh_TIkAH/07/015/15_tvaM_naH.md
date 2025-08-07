@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-तुवं꣡ नः पाहि अं꣡हसो  
-दो꣡षावस्तर् अघायतः꣡  
-दि꣡वा न꣡क्तम् अदाभिय
+तुवं᳓ नः पाहि अं᳓हसो  
+दो᳓षावस्तर् अघायतः᳓  
+दि᳓वा न᳓क्तम् अदाभिय
 </details>
 
 <details><summary>Vedaweb annotation</summary>

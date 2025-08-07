@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् अस्य मन्यु꣡र् अ꣡ध्वनीद्  
-वि꣡ वृत्र꣡म् पर्वशो꣡ रुज꣡न्  
-अपः꣡ समुद्र꣡म् अइ꣡रयत्
+य᳓द् अस्य मन्यु᳓र् अ᳓ध्वनीद्  
+वि᳓ वृत्र᳓म् पर्वशो᳓ रुज᳓न्  
+अपः᳓ समुद्र᳓म् अइ᳓रयत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

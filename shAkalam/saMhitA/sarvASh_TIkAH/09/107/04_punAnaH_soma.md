@@ -15,10 +15,10 @@ ChandaH = "बृहती"
 
 <details><summary>Thomson & Solcum</summary>
 
-पुनानः꣡ सोम धा꣡रया  
-अपो꣡ व꣡सानो अर्षसि  
-आ꣡ रत्नधा꣡ यो꣡निम् ऋत꣡स्य सीदसि  
-उ꣡त्सो देव हिरण्य꣡यः
+पुनानः᳓ सोम धा᳓रया  
+अपो᳓ व᳓सानो अर्षसि  
+आ᳓ रत्नधा᳓ यो᳓निम् ऋत᳓स्य सीदसि  
+उ᳓त्सो देव हिरण्य᳓यः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -206,7 +206,7 @@ Devānām hitaramaṇīyaḥ = **deva** **hiraṇyayaḥ**
 
 O Soma, you rush while being purified in a stream and clothing yourself  in the waters.  
 Conferring treasure, you sit here upon the womb of truth as the golden  wellspring, o god.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/04-05.md">

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡म गीर्भि꣡ष् टुवा वयं꣡  
-वर्ध꣡यामो वचोवि꣡दः  
-सुमॄळीको꣡+ न आ꣡ विश
+सो᳓म गीर्भि᳓ष् टुवा वयं᳓  
+वर्ध᳓यामो वचोवि᳓दः  
+सुमॄळीको᳓+ न आ᳓ विश
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -164,7 +164,7 @@ _________
 
 Soma, we who know speech strengthen you with our hymns.  
 Very compassionate to us, enter us.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/091/11-12.md">

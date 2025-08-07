@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ दिव꣡स् पृष्ठ꣡म् अश्वयु꣡र्  
-गव्ययुः꣡ सोम रोहसि  
-वीरयुः꣡ शवसस् पते
+आ᳓ दिव᳓स् पृष्ठ᳓म् अश्वयु᳓र्  
+गव्ययुः᳓ सोम रोहसि  
+वीरयुः᳓ शवसस् पते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

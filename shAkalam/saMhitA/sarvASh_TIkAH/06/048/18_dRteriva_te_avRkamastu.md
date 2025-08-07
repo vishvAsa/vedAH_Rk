@@ -15,9 +15,9 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-दृ꣡तेर् ऽव° ते अवृक꣡म् अस्तु सख्य꣡म्  
-अ꣡छिद्रस्य दधन्व꣡तः  
-सु꣡पूर्णस्य दधन्व꣡तः
+दृ᳓तेर् ऽव° ते अवृक᳓म् अस्तु सख्य᳓म्  
+अ᳓छिद्रस्य दधन्व᳓तः  
+सु᳓पूर्णस्य दधन्व᳓तः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

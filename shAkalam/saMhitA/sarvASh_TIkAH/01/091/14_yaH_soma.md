@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-यः꣡ सोम सखिये꣡ त꣡व  
-रार꣡णद् देव म꣡र्तियः  
-तं꣡ द꣡क्षः सचते कविः꣡
+यः᳓ सोम सखिये᳓ त᳓व  
+रार᳓णद् देव म᳓र्तियः  
+तं᳓ द᳓क्षः सचते कविः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

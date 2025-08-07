@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ हि꣡ क्षे꣡मो हवि꣡र् यज्ञः꣡  
-श्रुष्टी꣡द् अस्य गातु꣡र् एति  
-अग्निं꣡ देवा꣡ वा꣡शीमन्तम्
+स᳓ हि᳓ क्षे᳓मो हवि᳓र् यज्ञः᳓  
+श्रुष्टी᳓द् अस्य गातु᳓र् एति  
+अग्निं᳓ देवा᳓ वा᳓शीमन्तम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

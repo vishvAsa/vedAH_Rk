@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-य꣡स् त्वा देवि सरस्वति  
-उपब्रूते꣡ ध꣡ने हिते꣡  
-इ꣡न्द्रं न꣡ वृत्रतू꣡रिये
+य᳓स् त्वा देवि सरस्वति  
+उपब्रूते᳓ ध᳓ने हिते᳓  
+इ᳓न्द्रं न᳓ वृत्रतू᳓रिये
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -154,7 +154,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 Whoever makes appeal to you, goddess Sarasvatī, when the stake is set, as if to Indra at the overcoming of Vr̥tra,
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/04-06.md">

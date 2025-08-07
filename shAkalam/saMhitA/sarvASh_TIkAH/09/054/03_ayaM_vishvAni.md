@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ वि꣡श्वानि तिष्ठति  
-पुनानो꣡ भु꣡वनोप꣡रि  
-सो꣡मो देवो꣡ न꣡ सू꣡रियः
+अयं᳓ वि᳓श्वानि तिष्ठति  
+पुनानो᳓ भु᳓वनोप᳓रि  
+सो᳓मो देवो᳓ न᳓ सू᳓रियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

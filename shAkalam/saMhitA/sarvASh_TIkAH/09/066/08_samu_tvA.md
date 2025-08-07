@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् उ त्वा धीभि꣡र् अस्वरन्  
-हिन्वतीः꣡ सप्त꣡ जाम꣡यः  
-वि꣡प्रम् आजा꣡ विव꣡स्वतः
+स᳓म् उ त्वा धीभि᳓र् अस्वरन्  
+हिन्वतीः᳓ सप्त᳓ जाम᳓यः  
+वि᳓प्रम् आजा᳓ विव᳓स्वतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-नि꣡ शु꣡ष्ण इन्द्र धर्णसिं꣡  
-व꣡ज्रं जघन्थ द꣡स्यवि  
-वृ꣡षा हि꣡ उग्र शृण्विषे꣡
+नि᳓ शु᳓ष्ण इन्द्र धर्णसिं᳓  
+व᳓ज्रं जघन्थ द᳓स्यवि  
+वृ᳓षा हि᳓ उग्र शृण्विषे᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

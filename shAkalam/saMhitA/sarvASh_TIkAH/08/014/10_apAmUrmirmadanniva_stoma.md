@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अपा꣡म् ऊर्मि꣡र् म꣡दन्न् इव  
-स्तो꣡म इन्द्राजिरायते  
-वि꣡ ते म꣡दा अराजिषुः
+अपा᳓म् ऊर्मि᳓र् म᳓दन्न् इव  
+स्तो᳓म इन्द्राजिरायते  
+वि᳓ ते म᳓दा अराजिषुः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

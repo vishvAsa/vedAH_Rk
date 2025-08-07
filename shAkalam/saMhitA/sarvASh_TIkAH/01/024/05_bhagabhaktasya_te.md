@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-भ꣡गभक्तस्य ते वय꣡म्  
-उ꣡द् अशेम त꣡वा꣡वसा  
-मूर्धा꣡नं राय꣡ आर꣡भे
+भ᳓गभक्तस्य ते वय᳓म्  
+उ᳓द् अशेम त᳓वा᳓वसा  
+मूर्धा᳓नं राय᳓ आर᳓भे
 </details>
 
 <details><summary>Vedaweb annotation</summary>

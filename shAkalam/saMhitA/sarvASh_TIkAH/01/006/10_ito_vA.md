@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-इतो꣡ वा साति꣡म् ई꣡महे  
-दिवो꣡ वा पा꣡र्थिवाद् अ꣡धि  
-इ꣡न्द्रम् महो꣡ वा र꣡जसः
+इतो᳓ वा साति᳓म् ई᳓महे  
+दिवो᳓ वा पा᳓र्थिवाद् अ᳓धि  
+इ᳓न्द्रम् महो᳓ वा र᳓जसः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

@@ -15,8 +15,8 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Thomson & Solcum</summary>
 
-शि꣡शुं जज्ञानं꣡ ह꣡रिम् मृजन्ति  
-पवि꣡त्रे सो꣡मं देवे꣡भ्य इ꣡न्दुम्
+शि᳓शुं जज्ञानं᳓ ह᳓रिम् मृजन्ति  
+पवि᳓त्रे सो᳓मं देवे᳓भ्य इ᳓न्दुम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -134,7 +134,7 @@ _________
 <details><summary>Jamison Brereton</summary>
 
 They groom the tawny child just born, the soma in the filter, the drop  for the gods.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/10-12.md">

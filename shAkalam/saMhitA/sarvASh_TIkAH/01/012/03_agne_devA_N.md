@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने देवाँ꣡ इहा꣡ वह  
-जज्ञानो꣡ वृक्त꣡बर्हिषे  
-अ꣡सि हो꣡ता न ई꣡डियः
+अ᳓ग्ने देवाँ᳓ इहा᳓ वह  
+जज्ञानो᳓ वृक्त᳓बर्हिषे  
+अ᳓सि हो᳓ता न ई᳓डियः
 </details>
 
 <details><summary>Vedaweb annotation</summary>

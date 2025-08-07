@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-ता꣡ वां सम्य꣡ग् अद्रुह्वाणा  
-इ꣡षम् अश्याम धा꣡यसे  
-वयं꣡ ते꣡ रुद्रा सियाम
+ता᳓ वां सम्य᳓ग् अद्रुह्वाणा  
+इ᳓षम् अश्याम धा᳓यसे  
+वयं᳓ ते᳓ रुद्रा सियाम
 </details>
 
 <details><summary>Vedaweb annotation</summary>

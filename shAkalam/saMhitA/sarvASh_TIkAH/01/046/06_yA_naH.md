@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-या꣡ नः पी꣡परद् अश्विना  
-ज्यो꣡तिष्मती त꣡मस् तिरः꣡  
-ता꣡म् अस्मे꣡ रासथाम्° इ꣡षम्
+या᳓ नः पी᳓परद् अश्विना  
+ज्यो᳓तिष्मती त᳓मस् तिरः᳓  
+ता᳓म् अस्मे᳓ रासथाम्° इ᳓षम्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

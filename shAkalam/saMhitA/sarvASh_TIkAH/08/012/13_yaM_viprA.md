@@ -15,9 +15,9 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Thomson & Solcum</summary>
 
-यं꣡ वि꣡प्रा उक्थ꣡वाहसो  
-अभिप्रमन्दु꣡र् आय꣡वः  
-घृतं꣡ न꣡ पिप्य आस꣡नि ऋत꣡स्य य꣡त्
+यं᳓ वि᳓प्रा उक्थ᳓वाहसो  
+अभिप्रमन्दु᳓र् आय᳓वः  
+घृतं᳓ न᳓ पिप्य आस᳓नि ऋत᳓स्य य᳓त्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

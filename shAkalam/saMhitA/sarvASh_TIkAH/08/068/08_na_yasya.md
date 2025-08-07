@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ य꣡स्य ते शवसान  
-सख्य꣡म् आनं꣡श म꣡र्तियः  
-न꣡किः श꣡वांसि ते नशत्
+न᳓ य᳓स्य ते शवसान  
+सख्य᳓म् आनं᳓श म᳓र्तियः  
+न᳓किः श᳓वांसि ते नशत्
 </details>
 
 <details><summary>Vedaweb annotation</summary>

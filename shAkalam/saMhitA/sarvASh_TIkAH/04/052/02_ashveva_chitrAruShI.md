@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡श्वेव चित्रा꣡ अ꣡रुषी  
-माता꣡ ग꣡वाम् ऋता꣡वरी  
-स꣡खाभूद् अश्वि꣡नोर् उषाः꣡
+अ᳓श्वेव चित्रा᳓ अ᳓रुषी  
+माता᳓ ग᳓वाम् ऋता᳓वरी  
+स᳓खाभूद् अश्वि᳓नोर् उषाः᳓
 </details>
 
 <details><summary>Vedaweb annotation</summary>

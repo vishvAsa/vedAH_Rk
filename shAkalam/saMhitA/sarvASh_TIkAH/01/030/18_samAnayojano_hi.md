@@ -15,9 +15,9 @@ ChandaH = "गायत्री"
 
 <details><summary>Thomson & Solcum</summary>
 
-समान꣡योजनो हि꣡ वां  
-र꣡थो दस्राव् अ꣡मर्तियः  
-समुद्रे꣡ अश्विने꣡यते
+समान᳓योजनो हि᳓ वां  
+र᳓थो दस्राव् अ᳓मर्तियः  
+समुद्रे᳓ अश्विने᳓यते
 </details>
 
 <details><summary>Vedaweb annotation</summary>

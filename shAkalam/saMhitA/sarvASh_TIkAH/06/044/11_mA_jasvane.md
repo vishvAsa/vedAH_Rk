@@ -15,10 +15,10 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ ज꣡स्वने वृषभ नो ररीथा  
-मा꣡ ते रेव꣡तः सखिये꣡ रिषाम  
-पूर्वी꣡ष् ट इन्द्र निष्षि꣡धो ज꣡नेषु  
-जहि꣡ अ꣡सुष्वीन् प्र꣡ वृहा꣡पृणतः
+मा᳓ ज᳓स्वने वृषभ नो ररीथा  
+मा᳓ ते रेव᳓तः सखिये᳓ रिषाम  
+पूर्वी᳓ष् ट इन्द्र निष्षि᳓धो ज᳓नेषु  
+जहि᳓ अ᳓सुष्वीन् प्र᳓ वृहा᳓पृणतः
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -253,7 +253,7 @@ _________
 Give us not to exhaustion, bull. Let us not come to harm in our  comradeship with you, the wealthy.  
 Many are the tributes for you among the peoples, Indra. Smite the  
 non-pressers; rip away those who don’t deliver.
-꣡</details>
+᳓</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
