@@ -2,7 +2,9 @@
 title = "Metrical restoration"
 +++
 
-+++(Source - https://liberalarts.utexas.edu/lrc/rigveda/RV00.php . Copied here for easy search and reference.)+++ 
+Source: [TW](https://liberalarts.utexas.edu/lrc/rigveda/RV00.php)
+
++++(Copied here for easy search and reference.)+++ 
 
 The form in which the Rigveda was handed down by Indian tradition, the saṃhitā text, applied later rules of sound combination throughout that systematically destroyed the metrical form of the poems. These inappropriate combinations have to be resolved before the text can be read, and they frequently obscure meaning. For illustration of the many ways in which the later editorial process distorted and obscured the original, see section 45.1 of our online course on the language of the Rigveda, Ancient Sanskrit Online.
 
