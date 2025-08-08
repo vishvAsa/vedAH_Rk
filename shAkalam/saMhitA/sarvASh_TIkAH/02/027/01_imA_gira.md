@@ -219,7 +219,7 @@ _________
 
 With the juhū ladle [which is my tongue], I perpetually offer to the royal Āditya-s these ghee-dripping invocations. May each one of them, Mitra, Aryaman, Bhaga, the one with widely manifesting favor [or Vivasvān], Varuṇa, Dakṣa and Aṃśa, hear us!
 
-&gt; imās= these [feminine accusative plural]; gira= invocations [feminine accusative plural]; ādityebhyo= for the Āditya-s; ghṛtasnūḥ= dripping with ghee [feminine accusative plural]; sanāt= always; rājabhyo= for the royal; juhvā= with the juhū ladle; juhomi= I offer; śṛṇotu = each one hears; mitraḥ; aryaman; bhagaḥ; nas= us; tuvijātaḥ= widely manifest favor; varuṇaḥ; aṃśaḥ.
+> imās= these [feminine accusative plural]; gira= invocations [feminine accusative plural]; ādityebhyo= for the Āditya-s; ghṛtasnūḥ= dripping with ghee [feminine accusative plural]; sanāt= always; rājabhyo= for the royal; juhvā= with the juhū ladle; juhomi= I offer; śṛṇotu = each one hears; mitraḥ; aryaman; bhagaḥ; nas= us; tuvijātaḥ= widely manifest favor; varuṇaḥ; aṃśaḥ.
 
 Before we render a translation we should note three points:
 

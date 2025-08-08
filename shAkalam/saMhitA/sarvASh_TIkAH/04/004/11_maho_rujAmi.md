@@ -280,7 +280,7 @@ The next question is what to do with maháḥ. Oldenberg (SBE) takes it as acc. 
 object of rujāmi; Geldner (/Witzel Gotō) as gen. sg. with vácobhiḥ, referring to the poet’s great (father). With Renou I prefer to take maháḥ as adverbial. Although this leaves rujāmi without an object, an object is easily supplied: the root √ruj is typed for the breaking of the Vala cave, particularly in this group of hymns so dominated by that myth. Cf. &gt; 2.15
 ... áṅgiraso bhavema, ádriṃ rujema ...
 
-&gt; “Might we become Aṅgirases; might
+> “Might we become Aṅgirases; might
 we break the rock.”
 
 On grounds of sense I don’t think maháḥ is gen. with vácobhiḥ because I think the poet is asserting the power of his own poetic gift: he acquired this gift from his father (pāda b), but he is not using his father’s words but his own -- or so I take his proud boast. By casting himself as the subject of the Vala-breaking verb, he is also implicitly asserting his identification with the Aṅgirases, who broke into Vala with their words. Like the speaker(s) of IV.2.15 he seems to be saying “might I become an Aṅgiras.”

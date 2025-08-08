@@ -260,15 +260,15 @@ The verse is RV. i. 164. 50,\* found also in VS. (xxxi. 16), TS. (iii.
    comment); ⌊*Kaṭha-hss.*, p. 83;⌋ the only variant is *sacante* for  
    *sacanta* in TS.TA. 
    
-&gt; "This passage and vii. 79. 2 cast light upon the idea of *sādhya;* there are two kinds of gods: 
-&gt; 
-&gt; - those with Indra at their head and 
-&gt; - the *sādhya* 'they who are to be won' (*sādhya* 'what is to be  
+> "This passage and vii. 79. 2 cast light upon the idea of *sādhya;* there are two kinds of gods: 
+> 
+> - those with Indra at their head and 
+> - the *sādhya* 'they who are to be won' (*sādhya* 'what is to be  
    brought into order, under control, or into comprehension'). 
 
-&gt; They are thus the unknown, conceived as preceding the known. Later they are worked into the ordinary classification of Vasus, Rudras, etc.; and what was formerly a serious religious problem, a hierarchy conceived as possible before the now-accepted gods (something like the pre-Olympians with the Greeks), has become an empty name." 
-&gt; 
-&gt; R. \*⌊Also RV. x. 90. 16.⌋
+> They are thus the unknown, conceived as preceding the known. Later they are worked into the ordinary classification of Vasus, Rudras, etc.; and what was formerly a serious religious problem, a hierarchy conceived as possible before the now-accepted gods (something like the pre-Olympians with the Greeks), has become an empty name." 
+> 
+> R. \*⌊Also RV. x. 90. 16.⌋
 </details>
 
 <details><summary>Griffith</summary>

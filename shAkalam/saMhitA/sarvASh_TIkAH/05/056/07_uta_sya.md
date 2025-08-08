@@ -255,7 +255,7 @@ Flg. Wackernagel (Fs. Jacobi), Hoffmann (Injunk. 55-56; see also 92) explains th
 
 Witzel Gotō produce a curious hybrid of prohibitive and subjunctive: “Nicht soll und wird er … (euch) langsam machen” (my italics). I do not understand the explanation given in the n., or at least do not understand what sort of grammatical category is envisioned: “Uns scheint ein expekativer oder voluntativer Konjunktiv deutlich mitzuschwingen: &gt;(Auf keinen Fall erwarten wir), dass er euch langsam mache← bzw.
 
-&gt;Dass er euch ja nicht langsame mache!← This clearly builds on Tichy’s analysis of
+>Dass er euch ja nicht langsame mache!← This clearly builds on Tichy’s analysis of
 the function of the subjunctive as “expectation,” but I do not understand how the subjunctive would interact with the mā́.
 </details>
 

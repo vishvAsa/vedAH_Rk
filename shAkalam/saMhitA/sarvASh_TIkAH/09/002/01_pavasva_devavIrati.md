@@ -170,7 +170,7 @@ As noted in the published introduction, this hymn begins with the quintessential
 
 The 2nd word devavī́ḥ ‘pursuing the gods’ also matches up with the previous hymn:
 
-&gt; 1.4
+> 1.4
 devā́nāṃ vītím.
 
 The expression “across the filter” is iconically split across the pāda break: áti, pavítram.

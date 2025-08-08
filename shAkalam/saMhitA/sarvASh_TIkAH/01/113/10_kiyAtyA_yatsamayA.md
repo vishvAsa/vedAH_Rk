@@ -256,18 +256,18 @@ A different interpr. of the word arises from examining all the occurrences in co
 Every passage crucially contains the preverb/particle ví (save for VII.66.15, where víśvam takes its place):
 
 
-&gt; ví vṛtrásya samáyā pāṣyā̀rujaḥ
+> ví vṛtrásya samáyā pāṣyā̀rujaḥ
 ví síndhavaḥ samáyā sasrur ádrim
 
 
-&gt; kíyāty ā́yát samáyā bhávāti yā́vyūṣúr yā́ś ca nūnáṃ vyuchā́n
+> kíyāty ā́yát samáyā bhávāti yā́vyūṣúr yā́ś ca nūnáṃ vyuchā́n
 
 
-&gt; I.163.3ási sùmena samáyā vípṛktaḥ
-&gt; I.166.9ákṣo vaś cakrā́samáyā ví vāvṛte
-&gt; VII.66.15 śīrṣṇáḥ-śīrṣṇo jágatas tasthúṣas pátiṃ samáyā víśvam ā́rájaḥ
-&gt; IX.75.4 rómāṇy ávyā samáyā ví dhāvati
-&gt; IX.85.5 vy àvyáyaṃ samáyā vā́ram arṣasi
+> I.163.3ási sùmena samáyā vípṛktaḥ
+> I.166.9ákṣo vaś cakrā́samáyā ví vāvṛte
+> VII.66.15 śīrṣṇáḥ-śīrṣṇo jágatas tasthúṣas pátiṃ samáyā víśvam ā́rájaḥ
+> IX.75.4 rómāṇy ávyā samáyā ví dhāvati
+> IX.85.5 vy àvyáyaṃ samáyā vā́ram arṣasi
 
 Since ví ‘apart’ and sám ‘together’ are oppositional preverbs that frequently work formulaically with each other, samáyā seems to partake more in the semantics of sám than of samá- ‘same’ and to mean ‘altogether’, ‘all at once’, or ‘together with’. I take it in the last meaning here: the question being asked is when the current Dawn will be (re)joined with her sister Dawns, both preceding and following her.
 

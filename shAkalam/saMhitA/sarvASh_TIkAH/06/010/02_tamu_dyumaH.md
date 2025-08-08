@@ -272,8 +272,8 @@ Let us begin with asmai. It surely refers to the recipient of the praise, which 
 whose strongest support is the vṛddhi deriv. māmateyá-, usually a metronymic of Dīrghatamas (I.147.3, 152.6, 158.6, particularly clear in the last passage), which presupposes an underlying PN of this shape. Both the -eyá- suffix of māmateyá- and the name Mamatā itself suggest that the person may be female. However, there is some direct evidence that a masc. *mamáta- is found in the Bharadvāja lineage. Cf. VI.50.15
 
 
-&gt; evā́ nápāto máma tásya dhībhír / bharádvājā abhí arcanti arkaíḥ
-&gt; “In just this way the Bharadvājas, the descendants of me, this Mamata, chant with their insightful thoughts, with their chants,”
+> evā́ nápāto máma tásya dhībhír / bharádvājā abhí arcanti arkaíḥ
+> “In just this way the Bharadvājas, the descendants of me, this Mamata, chant with their insightful thoughts, with their chants,”
 
 where máma tásya is probably a play on the PN. For disc. see Oldenberg, ZDMG 42.211-12 = KlSch 580-81, though I do not think the text needs emending. However, our mamátā is also most probably a pun, on a -tāabstract built to the gen. sg. of the 1st ps. pronoun; such a stem is attested Epic+ in the sense ‘Selbstsucht, Eigennutz’. In this reading it could be an instr. sg. of the -tā- stem, ‘with/in my me-ness,’ in addition to being a nom. ‘like Mamatā’. On these questions see now Mayr, PN 2.1.393. Oldenberg (ZDMG 55.298-99) explored the possibility of taking mamátā (or -ta) as the missing verb of the rel. cl., as did I, but both of us came up short.
 
