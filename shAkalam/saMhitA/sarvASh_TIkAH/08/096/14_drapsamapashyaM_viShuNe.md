@@ -219,7 +219,7 @@ _________
 _________
 **English translation:**  
 
-“"I have seen the swift-moving (demon) lurking in an inaccessible plural ce, in the depths of the riverAṃśumatī, (I have seen) **Kṛṣṇa** standing there as (the sun) in a cloud; I appeal to you, showerers; conquerhim in battle".”
+“"I have seen the swift-moving (demon) lurking in an inaccessible plural ce, in the depths of the riverAṃśumatī, (I have seen) **Kṛṣṇa** standing there as (the sun) in a cloud; I appeal to you, showerers; conquer him in battle".”
 
 _________
 **Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
