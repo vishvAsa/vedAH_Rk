@@ -1,9 +1,0 @@
-+++
-title = "०३ तैत्तिरं ब्रह्मवर्चसकामः"
-
-+++
-3 [^2] . Flesh of partridge, if desirous of holy lustre,
-
-
-[^2]:  This rule evidently rests on the allusion of taittira (partridge flesh) to the Taittirīya school.
-

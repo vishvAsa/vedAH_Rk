@@ -1,7 +1,0 @@
-+++
-title = "०८ कुषुम्भकस्तदब्रवीदावदँ स्त्वं शकुने"
-
-+++
-8. 'The Kuṣumbhaka (mungoose?) has said it;' 'If thou criest, O bird, announce luck to us;' 'Sung by Jamadagni;' 'In thy abode the whole world rests;'
-
-'Come to our sacrifice, O you that are worthy of sacrifice, with care;' 'Whosoever, be he ours, be he alien;' 'Look on, look about;' 'Come here, Agni, the Maruts’ friend;' 'The oblation, O king, cooked for thee:' each time two verses,

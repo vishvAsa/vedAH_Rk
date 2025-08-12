@@ -1,5 +1,0 @@
-+++
-title = "०३ अधियज्ञमधिविवाहं कुरुतेत्येव ब्रूयाद्"
-
-+++
-3. On the occasion of a sacrifice and of a wedding let (the guest) say, 'Make it (ready).'

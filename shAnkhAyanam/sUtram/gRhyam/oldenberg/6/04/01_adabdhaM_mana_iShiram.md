@@ -1,9 +1,0 @@
-+++
-title = "०१ अदब्धं मन इषिरम्"
-
-+++
-1 [^1] . 'Unerring mind, vigorous eye (is) the sun, the noblest of the stars. Inauguration, do no harm to me!' - with (these words) they look at Savitṛ (I.e. the sun).
-
-
-[^1]:  4, 1. The formula 'Adabdhaṃ manaḥ,' &c. has to be recited before each of the single Āraṇyaka texts (the Śakvarī verses, the Mahāvrata, &c.); to this formula are added, before or after it, as the case may be, other texts specified in the Sūtras 2-8. Of these there can be no doubt about the meaning of Sūtras 7, 8, treating of the introductory formulas of the Saṃhitā section (Kaush. Ār. VII-VIII) and of the Mantha section (ibid. IX): before the text adabdham, &c. are to be added, in the first case the formula ṛtaṃ vadishyāmi, &c., in the second case two Ṛcas addressed to Savitṛ. These formulas and verses have been received into the Āraṇyaka text and are found there in the order here stated, at the beginning of books VII and IX. The meaning of the words saṃhitānāṃ tu pūrvam (Sūtra 7) having thus been established, I can see no reason why we should not interpret the words śakvarīṇāṃ to pūrvam (Sūtra 3) quite in the same way. Thus the introductory benediction for the recital of the Śakvarī verses would consist, firstly of the verses stated in Sūtra 4, then of the formula adabdham, &c.; those verses would have to be repeated again after the Śakvarī verses (end of Sūtra 4). The recitation of the Mahāvrata (Sūtras 1, 2) and of the Upaniṣads (Sūtra 5) is preceded by adabdham, &c., and then by the four verses stated in Sūtra 2. The interpretation which Nārāyaṇa gives of this Sūtra is not quite the same as that which I have here proposed; see p. 163 of the German edition.
-

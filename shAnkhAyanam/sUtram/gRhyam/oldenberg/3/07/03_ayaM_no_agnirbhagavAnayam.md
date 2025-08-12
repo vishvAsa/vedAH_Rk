@@ -1,5 +1,0 @@
-+++
-title = "०३ अयं नो अग्निर्भगवानयम्"
-
-+++
-3. Having approached the (sacred) domestic fire with the verse, 'This Agni is glorious to us, this is highly glorious. Worshipping him (?) may we suffer no harm; may he bring us to supremity' - 

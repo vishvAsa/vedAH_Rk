@@ -1,9 +1,0 @@
-+++
-title = "०६ खे रथस्येत्येतया फलवतो"
-
-+++
-6 [^2] . After (the wife?) has put, with this (verse), 'In the box of the wheel' (Rig-veda VIII, 80, 7), a branch of a fruit-bearing tree into each of the holes destined for the pins,
-
-
-[^2]:  See Nārāyaṇa's note on śamyāgarta, p. 129 of the German edition.
-

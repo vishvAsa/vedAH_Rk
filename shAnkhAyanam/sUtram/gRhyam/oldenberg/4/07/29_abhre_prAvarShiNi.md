@@ -1,9 +1,0 @@
-+++
-title = "२९ अभ्रे प्रावर्षिणि"
-
-+++
-29 [^8] . If a cloud emits (heavy) rain;
-
-
-[^8]:  Except during the rainy season. Nārāyaṇa.
-

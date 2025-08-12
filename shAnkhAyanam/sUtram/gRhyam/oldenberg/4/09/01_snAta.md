@@ -1,9 +1,0 @@
-+++
-title = "०१ स्नात"
-
-+++
-1 [^1] . Having bathed,
-
-
-[^1]:  9, 1. It is not expressly stated in our text for what occasion the tarpaṇa (i.e. satiating of deities, Ṛṣis, &c. with water-offerings), which is treated of in chap. 9-10, shall be prescribed. The comparison of Baudhāyana II, 9 might perhaps lead us to believe that the ceremony in question is to be performed whenever the sacrificer takes a bath. But the two texts which are most closely connected with ours, the Śāmbavya and Āśvalāyana Gṛhyas, seem to point clearly to another conclusion. The Śāmbavya-sūtra transposes the rules about the tarpaṇa to the place which would correspond to Sūtra II, 7, 28 of our text. The passage of the Śāmbavya-sūtra runs thus: mūle kuṇḍaṃ kṛtvā yathoktam adbhiḥ paṛṣiñcaty athemās (so the MS.) tarpayati Agniḥ Prajāpatir Virūpākṣaḥ, &c. It ends: pitaraḥ pitāmahāḥ prapitāmahāḥ Pailaḥ Kahoḷaḥ Kauṣītakaḥ (sic) Kahoḷāya Kauṣītakaye svadhāstv iti pratipuruṣaḥ (sic) pitṝṃs tarpayitvā. The last words are taken from the Sūtra IV, 6, 6 of our text. Thus there can be no doubt that Śāmbavya intended to prescribe the tarpaṇa for the conclusion of the p. 121 vedādhyayana. The same can be said of Āśvalāyana, who also by the position which he assigns to the tarpaṇa sections (III, 4) brings it into a similar connection with the vedādhyayana (see Nārāyaṇa's commentary on Āśv., loc. cit.). We may also refer to the treatise about the study of the Āraṇyaka, which is appended to the Śāṅkhāyana-Gṛhya as its sixth book; there the tarpaṇa is mentioned quite in the same connection (VI, 6, 10 seq.). I believe, therefore, that in our text, chapters 9 and 10 have found their place here as a sort of supplementary addition to chap. 6, 6, just as in the first book the list of Nakṣatras seems likewise appended to the Sūtra I, 25, 5.
-

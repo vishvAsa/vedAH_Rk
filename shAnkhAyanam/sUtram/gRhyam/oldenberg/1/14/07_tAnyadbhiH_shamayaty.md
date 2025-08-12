@@ -1,5 +1,0 @@
-+++
-title = "०७ तान्यद्भिः शमयत्य्"
-
-+++
-7. (The Ācārya?) 'appeases' those (foot-steps) with water.
