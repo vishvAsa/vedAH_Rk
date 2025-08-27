@@ -12,16 +12,20 @@ unicode_script = "devanagari"
 - पुरा कल्पे विषुवस्थानं सौरं तत्रावर्तत। तेन हि स सोमाधिपतिर् बभूव, इन्द्रस्य सखा।
 - BG Tilak in Orion: "Vr̥ṣākapi is a Mr̥ga+++(=Orion)+++, and sacrifices are stopped where he revels +++(autumnal to vernal equinox, or Orion visible in night sky before sunrise)+++. He is, however, a favourite of Indra, and consequently the latter, instead of punishing, follows him."
 
-{{<figure class="thumbnail" src="../../images/naxatram/stellarium/mRgashIrSham.png" title="मृगशीर्षम्">}}  
-{{<figure class="thumbnail" src="../../images/naxatram/mRgashiras-tilak.png" title="मृगशीर्षम् (Tilak)">}}  
+![](../../images/naxatram/stellarium/mRgashIrSham.png" title="मृगशीर्षम्)
+{class="thumbnail"}  
+![](../../images/naxatram/mRgashiras-tilak.png" title="मृगशीर्षम् (Tilak))
+{class="thumbnail"}  
 
 - यदा विषुवस्थानं वृष-राशाव् अवर्तत, तदेदं सूक्तं प्रवृत्तम्।
 - इन्द्राणी तत्रेन्द्रायोक्षः पचति। इन्द्रम् मृगे मग्नं तर्जयति, मृगञ्च दण्डयति। BG Tilak in Orion: "Indrāṇī, who has herself been offended by the Kapi, now reproaches Indra for his over fondness for the animal and threatens to punish the beast by cutting off his head and letting loose a dog+++(=Canis Major)+++ at his ear. Indra intercedes." एवं रोहिणीम् अनु धावन्तं मृगं दण्डयन्ति नैकासु कथासु (प्रजापतिर् यथा रुद्रेण विद्धः)।
 - इन्द्रस् त्व् इन्द्राण्य्-आह्वानाल् लुब्धस् तत्रैव स्वोल्लासं सूचयति - नाम विषुवभोगं वृषामिषसहितं तत्रैव लब्धुम् अङ्गीकरोतीतः परम्। पुरा कल्पे नैवमासीद् यदा विषुवस्थानम् मृगे ऽवर्तत। वृषाकपिं तु चिरप्रियं सान्त्वयति - स्वगृहम् अस्तं गच्छसि - विषुवाद् ऊर्ध्वमं यदा सूर्यस् त्वाम् प्राप्स्यति। तदा ऽऽवाम् पुनरेव भुञ्जावहै - देवनक्षत्रेष्व् अन्तर् भवस्येव।
 - अन्ते मङ्गलं वक्ति - स्वगृहम् अस्तं गतो यदा, सूर्योदयात् प्राग् अदृश्यमानः, तदा मृग्या सहापत्यानि जनयति - इन्द्राणी तान् सहेन्द्रेण भोक्ष्यते काले।
 
-{{<figure class="thumbnail" src="../../images/naxatram/wiki/kRttikA.png" title="रोहि॒णी">}}
-{{<figure class="thumbnail" src="../../images/naxatram/stellarium/rohiNI.png" title="रोहि॒णी">}}  
+![](../../images/naxatram/wiki/kRttikA.png" title="रोहि॒णी)
+{class="thumbnail"}
+![](../../images/naxatram/stellarium/rohiNI.png" title="रोहि॒णी)
+{class="thumbnail"}  
 
 ## सूक्तम्
 ### मृगीभूतस्य वृषाकपेः प्रीतिः
@@ -307,4 +311,3 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-</figure></figure></figure></figure>

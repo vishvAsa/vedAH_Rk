@@ -13,7 +13,8 @@ unicode_script = "devanagari"
 
  सूक्तत्रयोक्तार्थे तैत्तिरीयब्राह्मणम्-' अग्नेस्त्रयो ज्यायांसो भ्रातर आसन् ते देवेभ्यो हव्यं वहन्तः प्रामीयन्त ' (तै. सं. २. ६. ६) इत्यादि ।
 
-{{<figure class="thumbnail" src="../../../../../jyotiSham/history/images/zodiac_history/bce-2300_naxatra-chakra.png">}}
+![](../../../../../jyotiSham/history/images/zodiac_history/bce-2300_naxatra-chakra.png)
+{class="thumbnail"}
 
 ## पाठः
 देववचनम् -
@@ -156,4 +157,3 @@ unicode_script = "devanagari"
 घृतं चापां पुरुषं चौषधीनामग्नेश्च दीर्घमायुरस्तु देवाः ॥८॥
 तव प्रयाजा अनुयाजाश्च केवल ऊर्जस्वन्तो हविषः सन्तु भागाः ।
 तवाग्ने यज्ञोऽयमस्तु सर्वस्तुभ्यं नमन्तां प्रदिशश्चतस्रः ॥९॥
-</figure>

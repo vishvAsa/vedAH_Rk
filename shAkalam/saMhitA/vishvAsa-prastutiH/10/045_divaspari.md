@@ -8,23 +8,30 @@ unicode_script = "devanagari"
 
 ## त्रेधा जन्म  
 
-{{<figure class="thumbnail" src="/devaH/AryaH/hindukaH/agniH/images/lightning.jpg">}}  
+![](/devaH/AryaH/hindukaH/agniH/images/lightning.jpg)
+{class="thumbnail"}  
+![](/devaH/AryaH/hindukaH/agniH/images/agni-rising-from-a-vedI-giving-bearing-gifts.jpg)
+{class="thumbnail pb-3"}
+![](/devaH/AryaH/hindukaH/agniH/images/baku-fire-spring.jpg)
+{class="thumbnail"}
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/01_divaspari_prathamaM.md" unfilled newLevelForH1="5" includeTitle="false"> 
 दि॒वस् परि॑ प्रथ॒मं ज॑ज्ञे अ॒ग्निर्  
-{{<figure class="thumbnail pb-3" src="/devaH/AryaH/hindukaH/agniH/images/agni-rising-from-a-vedI-giving-bearing-gifts.jpg">}}  
 अ॒स्मद् द्वि॒तीय॒म् परि॑ जा॒तवे॑दाः ।  
-{{<figure class="thumbnail" src="/devaH/AryaH/hindukaH/agniH/images/baku-fire-spring.jpg">}}  
 तृ॒तीय॑म् अ॒प्सु नृ॒मणा॒ अज॑स्र॒म्  
 इन्धा॑न एनं जरते +++(=स्तौति)+++ स्वा॒धीः ।  
+</div>  
 
 ## त्रेधा रूपाणि  
-{{<figure class="thumbnail" src="/devaH/AryaH/hindukaH/agniH/images/lightning.jpg">}}  
+![](/devaH/AryaH/hindukaH/agniH/images/lightning.jpg)
+{class="thumbnail"}  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/02_vidmA_te.md">
 <details open><summary><h2>०२ विद्मा ते ...{Loading}...</h2></summary>
 
 +++(प्रतिज्ञा+ऋक्। अग्रिमायाम् उत्तरम्।)+++  
-विद्मा᳓ ते अग्ने त्रेधा᳓ +++{रू᳓पा᳓णि᳓ अ᳓ग्नि᳓-वि᳓द्यु᳓त्-सू᳓र्या᳓स्}+++ त्रया᳓णि  
-विद्मा᳓ ते स᳓द्म +++{ना᳓ना᳓कु᳓ण्डे᳓षु᳓}+++ वि᳓भृतम् पुरुत्रा᳓ +++(=बहुधा)+++।  
+विद्मा᳓ ते अग्ने त्रेधा᳓ +++(रूपाणि᳓ अ᳓ग्नि᳓-वि᳓द्यु᳓त्-सू᳓र्या᳓स्)+++ त्रया᳓णि  
+विद्मा᳓ ते स᳓द्म +++(नानाकु᳓ण्डे᳓षु᳓)+++ वि᳓भृतम् पुरुत्रा᳓ +++(=बहुधा)+++।  
 विद्मा᳓ ते ना᳓म परमं᳓ गु᳓हा य᳓द्  
 विद्मा᳓ त᳓म् उ᳓त्सं +++(=fount)+++ य᳓त आजग᳓न्थ ।
 
@@ -44,20 +51,22 @@ unicode_script = "devanagari"
 
 ## लोके क्व दृश्यते?
 ### दवानलः  
-{{<figure class="thumbnail" src="/devaH/AryaH/hindukaH/agniH/images/forest-fire.jpg">}}  
+![](/devaH/AryaH/hindukaH/agniH/images/forest-fire.jpg)
+{class="thumbnail"}  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/04_akrandadagniH_stanayanniva.md">
 <details open><summary><h2>०४ अक्रन्ददग्निः स्तनयन्निव ...{Loading}...</h2></summary>
 
 **अ᳓क्रन्दद्** अग्निः᳓ स्तन᳓यन्निव द्यौः᳓  
 क्षा᳓मा +++(=पृथिवीं)+++ **रे᳓रिहद्** +++(=आस्वादयन्)+++ वीरु᳓धः +++(={वृक्ष}गुल्मान्)+++ समञ्ज᳓न्न् ।  
-सद्यो᳓ **जज्ञानो᳓** +++{दा᳓वा᳓न᳓लः᳓}+++ वि᳓ ही᳓म् **इद्धो᳓**  
+सद्यो᳓ **जज्ञानो᳓** +++(दावान᳓लः᳓)+++ वि᳓ ही᳓म् **इद्धो᳓**  
 **अ᳓ख्यद्** आ᳓ रो᳓दसी भानु᳓ना **भात्य्** अन्तः᳓ ।  
 
 </details>
 </div>
 
 ### कुण्डस्थः
-{{<figure class="thumbnail" src="/devaH/AryaH/hindukaH/agniH/images/agni-with-pillar-of-smoke-above.jpg">}}  
+![](/devaH/AryaH/hindukaH/agniH/images/agni-with-pillar-of-smoke-above.jpg)
+{class="thumbnail"}  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/07_ushikpAvako_aratiH.md">
 <details open><summary><h2>०७ उशिक्पावको अरतिः ...{Loading}...</h2></summary>
 
@@ -70,7 +79,8 @@ unicode_script = "devanagari"
 </div>
 
 ### ज्वालामुखी  
-{{<figure class="thumbnail" src="/devaH/AryaH/hindukaH/agniH/images/mud-volcano.jpg" title="Mud volcanoes">}}[!](https://en.wikipedia.org/wiki/Mud_volcanoes_in_Azerbaijan)  
+![](/devaH/AryaH/hindukaH/agniH/images/mud-volcano.jpg" title="Mud volcanoes)
+{class="thumbnail"}[!](https://en.wikipedia.org/wiki/Mud_volcanoes_in_Azerbaijan)  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/06_vishvasya_keturbhuvanasya.md">
 <details open><summary><h2>०६ विश्वस्य केतुर्भुवनस्य ...{Loading}...</h2></summary>
 
@@ -109,7 +119,7 @@ unicode_script = "devanagari"
 आ᳓ त᳓म् भज सौश्रवसे᳓ष्व् +++(स्वन्नेषु [यागेषु])+++ अग्न  
 उक्थ᳓उक्थ आ᳓ भज शस्य᳓माने ।  
 प्रियः᳓ सू᳓र्ये प्रियो᳓ अग्ना᳓ भवात्य्  
-उ᳓ज् जाते᳓न +++{पुत्रादिना}+++ भिन᳓दद् +++(=उद्भिद्य प्रकाशताम्)+++ उ᳓ज्ज᳓नित्वैः +++(=जनिष्यमाणैः)+++।  
+उ᳓ज् जाते᳓न +++(पुत्रादिना)+++ भिन᳓दद् +++(=उद्भिद्य प्रकाशताम्)+++ उ᳓ज्ज᳓नित्वैः +++(=जनिष्यमाणैः)+++।  
 
 </details>
 </div>
@@ -126,7 +136,8 @@ unicode_script = "devanagari"
 
 ## तेजोविभूतिर् जन्म च  
 
-{{<figure class="thumbnail" src="/devaH/AryaH/hindukaH/agniH/images/lightning.jpg">}}  
+![](/devaH/AryaH/hindukaH/agniH/images/lightning.jpg)
+{class="thumbnail"}  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/08_dRshAno_rukma.md">
 <details open><summary><h2>०८ दृशानो रुक्म ...{Loading}...</h2></summary>
 
@@ -137,4 +148,11 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-</figure></figure></figure></figure></figure></figure></figure></figure>
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/09_yaste_adya.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/10_A_taM.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/11_tvAmagne_yajamAnA.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/12_astAvyagnirnarAM_sushevo.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
