@@ -1,0 +1,198 @@
++++
+title = "011"
+devataa = "मरुतः"
+RShiH = "बिन्दुः पूतदक्षो वा"
+ChandaH = "गायत्री"
+
++++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मरुतः
+- ऋषिः - बिन्दुः पूतदक्षो वा
+- छन्दः - गायत्री
+</details>
+
+
+<details><summary>Thomson & Solcum</summary>
+
+तिया᳓न् नु᳓ ये᳓ वि᳓ रो᳓दसी  
+तस्तभु᳓र् मरु᳓तो हुवे  
+अस्य᳓ सो᳓मस्य पीत᳓ये
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+_________
+**Morph**  
+nú ← nú (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tyā́n ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tastabhúḥ ← √stambhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्यान् । नु । ये । वि । रोद॑सी॒ इति॑ । त॒स्त॒भुः । म॒रुतः॑ । हु॒वे॒ ।  
+अ॒स्य । सोम॑स्य । पी॒तये॑ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *tyān* ← *tya*
+- \[noun\], accusative, plural, masculine
+- “that.”
+
+_________
+
+- *nu*
+- \[adverb\]
+- “now; already.”
+
+_________
+
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+
+_________
+
+- *rodasī*
+- \[noun\], accusative, dual, feminine
+- “heaven and earth; Earth.”
+
+_________
+
+- *tastabhur* ← *tastabhuḥ* ← *stambh*
+- \[verb\], plural, Perfect indicative
+- “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
+    constipate.”
+
+_________
+
+- *maruto* ← *marutaḥ* ← *marut*
+- \[noun\], accusative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+
+_________
+
+- *huve* ← *hvā*
+- \[verb\], singular, Present indikative
+- “raise; call on; call; summon.”
+
+_________
+
+- *asya* ← *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *somasya* ← *soma*
+- \[noun\], genitive, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+
+_________
+
+- *pītaye* ← *pā*
+- \[verb noun\]
+- “drink; gulp; soak; drink; suck; inhale.”
+
+_________
+
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**ये** **मरुतः** **रोदसी** द्यावापृथिव्यौ **वि** **तस्तभुः** स्वबलेनैवात्यर्थं स्तब्धे चक्रुः । ते रोदसी स्वाधीने अकार्षुरित्यर्थः। **त्यान्** तान् सर्वतः प्रसिद्धान् **नु** क्षिप्रमहं **हुवे** आह्वयामि । किमर्थम् । **अस्य** इत्यादि ।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“I invoke those **Maruts** to drink this **Soma**, who have established heaven and earth.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Just these, who propped apart the two world-halves, the Maruts  I now call,  
+to drink of this soma.
+</details>
+
+<details><summary>Griffith</summary>
+
+The Maruts, those who have sustained and propped the heavens and earth apart,  
+     I call to drink this Soma juice.
+</details>
+
+<details><summary>Geldner</summary>
+
+Sie, die beide Welten auseinandergestemmt haben, die Marut rufe ich - zum Trunke dieses Soma.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Sie, welche beide Welten nun gestützt, die Maruts, rufe ich Zum Trunke dieses Soma's her.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Вон тех, что расставили две половины вселенной,  
+Марутов я зову  
+Для питья этого сомы.
+</details>
+
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- बिन्दुः पूतदक्षो वा
+- निचृद्गायत्री
+- षड्जः
+</details>
