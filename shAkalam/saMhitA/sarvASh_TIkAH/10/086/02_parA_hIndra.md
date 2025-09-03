@@ -1,0 +1,281 @@
++++
+title = "002"
+devataa = "इन्द्रः"
+RShiH = "इन्द्राणी"
+ChandaH = "पङ्क्तिः"
+
++++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - इन्द्राणी
+- छन्दः - पङ्क्तिः
+</details>
+
+
+<details><summary>Thomson & Solcum</summary>
+
+प᳓रा हि᳓ इन्द्र धा᳓वसि  
+वृषा᳓कपेर् अ᳓ति व्य᳓थिः  
+न᳓ ऊ अ᳓ह प्र᳓ विन्दसि  
+अन्य᳓त्र सो᳓मपीतये  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
+_________
+**Morph**  
+dhā́vasi ← √dhāv- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+áti ← áti (invariable)  
+{}
+
+vr̥ṣā́kapeḥ ← vr̥ṣā́kapi- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vyáthiḥ ← vyáthi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vindasi ← √vid- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+anyátra ← anyátra (invariable)  
+{}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+परा॑ । हि । इ॒न्द्र॒ । धाव॑सि । वृ॒षाक॑पेः । अति॑ । व्यथिः॑ ।  
+नो इति॑ । अह॑ । प्र । वि॒न्द॒सि॒ । अ॒न्यत्र॑ । सोम॑ऽपीतये । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *parā*
+- \[adverb\]
+- “away.”
+
+_________
+
+- *hīndra* ← *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+
+_________
+
+- *hīndra* ← *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+
+_________
+
+- *dhāvasi* ← *dhāv*
+- \[verb\], singular, Present indikative
+- “run; run; wash.”
+
+_________
+
+- *vṛṣākaper* ← *vṛṣākapeḥ* ← *vṛṣākapi*
+- \[noun\], genitive, singular, masculine
+- “Vishnu; vṛṣākapi \[word\]; Indra.”
+
+_________
+
+- *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+
+_________
+
+- *vyathiḥ* ← *vyathis*
+- \[noun\], accusative, singular, neuter
+
+_________
+
+- *no*
+- \[adverb\]
+- “not.”
+
+_________
+
+- *aha*
+- \[adverb\]
+- “aha \[word\]; indeed.”
+
+_________
+
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *vindasy* ← *vindasi* ← *vid*
+- \[verb\], singular, Present indikative
+- “find; detect; marry; get; think.”
+
+_________
+
+- *anyatra*
+- \[adverb\]
+- “elsewhere; except for; below; otherwise; without; differently;
+    excluding.”
+
+_________
+
+- *somapītaye* ← *soma*
+- \[noun\], masculine
+- “Soma; moon; soma \[word\]; Candra.”
+
+_________
+
+- *somapītaye* ← *pītaye* ← *pīti*
+- \[noun\], dative, singular, masculine
+- “drinking; haritāla.”
+
+_________
+
+- *viśvasmād* ← *viśvasmāt* ← *viśva*
+- \[noun\], ablative, singular, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *indra* ← *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+
+_________
+
+- *uttaraḥ* ← *uttara*
+- \[noun\], nominative, singular, masculine
+- “northern; following; upper; additional; better; more(a); last;
+    concluding; superior; later(a); uttara \[word\]; prevailing; future;
+    left; northerly; northerly; higher; second; dominant; excellent;
+    chief(a).”
+
+_________
+
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्र** त्वम् **अति** अत्यन्तं **व्यथिः** चलितः **वृषाकपेः** वृषाकपिं **परा** **धावसि** प्रतिगच्छसि । **अन्यत्र** **सोमपीतये** सोमपानाय **नो** **अह** नैव च **प्र** **विन्दसि** प्रगच्छसीत्यर्थः । सोऽयम् **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥ ।
+</details>
+
+
+<details><summary>Tilak - Commentary</summary>
+
+Indra is here reproached for following up Vriṣākapi, though he has offended Indrāṇī. Says she to Indra : "O Indra! (how is it that) you run down fast after Vr̥ṣākapi and do not go anywhere else to drink soma. Indra is, &c."
+
+The word parā in this verse seems to denote the region where Vr̥ṣākapi has gone. Parāvat is often said to be the place in the distant or lower portion of the sphere, and is thus contrasted with arvāvat (Rig. viii. 13. 10). In Rig. viii. 33. 10 Indra is said to be Vr̥ṣā in the parāvat and also in the arvāvat regions. Indra is again very often spoken of as going to distant regions to see whether Vr̥tra is duly killed. The same fact appears to be here expressed in a different form.
+</details>
+
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“**Indrāṇī** speaks: You, **Indra**, much annoyed, hasten towards **Vṛṣākapi**; and yet you find no otherplace to drink the **Soma**; Indra is above all (the world).”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+[Indrāṇī:] “But although, o Indra, you run away, beyond the wayward  course of Vr̥ṣākapi,  
+you do not find anywhere else for soma-drinking.”  
+– Above all Indra!
+</details>
+
+<details><summary>Griffith</summary>
+
+Thou, Indra, heedless passest by the ill Vrsakapi hath wrought;  
+     Yet nowhere else thou findest place wherein to drink the Soma juice. Supreme is Indra over all.
+</details>
+
+<details><summary>Geldner</summary>
+
+Du läufst ja weiter, Indra, über die Verfehlung des Vrisakapi hinweg sehend. Auch anderswo bekommst du keinen Soma mehr zu trinken. - Höher als alles steht Indra!
+</details>
+
+<details><summary>Grassmann</summary>
+
+»Du, o Indra, läufst fort über den Weg, den Vrischākapi eingeschlagen, und doch findest du nirgend wo anders eine Gelegenheit zum Somatrunke.« Höher als alles ist Indra.
+</details>
+
+
+
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- वृषाकपिरैन्द्र इन्द्राणीन्द्रश्च
+- पादनिचृत्पङ्क्ति
+- पञ्चमः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (इन्द्र)हे उत्तर ध्रुव ! हे मेरे पति ! तू(वृषाकपेः)वृषाकपि सूर्य के लिये (अति व्यथिः) अत्यन्त व्यथित हुआ (परा धावसि) मुझ व्योमकक्षा से परे जा रहा है (अह-अन्यत्र) आश्चर्य है, अन्य समय में भी (सोमपीतये) सोमपीति-गृहस्थतृप्ति के निमित्त (न-उ प्र विन्दसि) नहीं मुझे प्राप्त करता है ॥२॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  ज्योतिर्विद्या की दृष्टि से ध्रुवप्रचलन होता है, जो व्योमकक्षा से प्रतिलोम गति करता है, इसलिये आलंकारिक ढंग से व्योमकक्षा से परे हटता हुआ होने से वह उपालम्भ सा दे रही है कि सूर्यादि को लिये हुए ध्रुवव्योमकक्षा से परे हटता है ॥२॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (इन्द्र वृषाकपेः-अति व्यथिः) हे इन्द्र ! उत्तरध्रुव ! मम पते ! त्वं वृषाकपये सूर्याय “चतुर्थ्यर्थे बहुलं छन्दसि” [अष्टा० २।३।६२] इति षष्ठी, अतिव्यथितः सन् (परा धावसि) मम सकाशात्-व्योमकक्षातः परा गच्छसि (अह-अन्यत्र सोमपीतये न-उ प्र विन्दसि) आश्चर्यमन्यत्र समयेऽपि सोमपीतिनिमित्तं नैव मां प्राप्नोषि ॥२॥
+</details>

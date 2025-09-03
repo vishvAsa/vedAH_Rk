@@ -1,0 +1,213 @@
++++
+title = "003"
+devataa = "प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)"
+RShiH = "कृशः काण्वः"
+ChandaH = "अनुष्टुप्"
+
++++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)
+- ऋषिः - कृशः काण्वः
+- छन्दः - अनुष्टुप्
+</details>
+
+
+<details><summary>Thomson & Solcum</summary>
+
+शतं᳓ वेणू᳓ञ् छतं᳓ शु᳓नः  
+शतं᳓ च᳓र्माणि म्लाता᳓नि  
+शत᳓म् मे बल्बजस्तुका᳓  
+अ᳓रुषीणां च᳓तुःशतम्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic
+
+_________
+**Pāda-label**  
+genre M;; Vālakhilya  
+genre M;; Vālakhilya  
+genre M;; Vālakhilya  
+genre M;; Vālakhilya
+_________
+**Morph**  
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śúnaḥ ← śván- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+veṇū́n ← veṇú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+cármāṇi ← cárman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mlātā́ni ← √mlā- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+balbajastukā́ḥ ← balbajastuká- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áruṣīṇām ← áruṣī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+cátuḥśatam ← cátuḥśata- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श॒तम् । वे॒णून् । श॒तम् । शुनः॑ । श॒तम् । चर्मा॑णि । म्ला॒तानि॑ ।  
+श॒तम् । मे॒ । ब॒ल्ब॒ज॒ऽस्तु॒काः । अरु॑षीणाम् । चतुः॑ऽशतम् ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *śataṃ* ← *śatam* ← *śata*
+- \[noun\], accusative, singular, neuter
+- “hundred; one-hundredth; śata \[word\].”
+
+_________
+
+- *veṇūñchataṃ* ← *veṇūn* ← *veṇu*
+- \[noun\], accusative, plural, masculine
+- “bamboo; flute; veṇu \[word\]; Veṇu; reed; cane.”
+
+_________
+
+- *veṇūñchataṃ* ← *śatam* ← *śata*
+- \[noun\], accusative, singular, neuter
+- “hundred; one-hundredth; śata \[word\].”
+
+_________
+
+- *śunaḥ* ← *śvan*
+- \[noun\], accusative, plural, masculine
+- “dog; śvan \[word\].”
+
+_________
+
+- *śataṃ* ← *śatam* ← *śata*
+- \[noun\], accusative, singular, neuter
+- “hundred; one-hundredth; śata \[word\].”
+
+_________
+
+- *carmāṇi* ← *carman*
+- \[noun\], accusative, plural, neuter
+- “leather; hide; shield; skin; carman \[word\]; carman; hide.”
+
+_________
+
+- *mlātāni* ← *mlā*
+- \[verb noun\], accusative, plural
+- “shrivel; tan; fade.”
+
+_________
+
+- *śatam* ← *śata*
+- \[noun\], accusative, singular, neuter
+- “hundred; one-hundredth; śata \[word\].”
+
+_________
+
+- *me* ← *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+
+_________
+
+- *balbajastukā* ← *balbaja*
+- \[noun\], masculine
+
+_________
+
+- *balbajastukā* ← *stukāḥ* ← *stukā*
+- \[noun\], accusative, plural, feminine
+- “tuft.”
+
+_________
+
+- *aruṣīṇāṃ* ← *aruṣīṇām* ← *aruṣa*
+- \[noun\], genitive, plural, feminine
+- “red; red.”
+
+_________
+
+- *catuḥśatam* ← *catur*
+- \[noun\]
+- “four; catur \[word\].”
+
+_________
+
+- *catuḥśatam* ← *śatam* ← *śata*
+- \[noun\], accusative, singular, neuter
+- “hundred; one-hundredth; śata \[word\].”
+
+_________
+
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+Sayana bhashya empty
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“A hundred bamboos, a hundred dogs, a hundred dressed hides, a hundred bunches of **balbaja** grass,and four hundred red mares are mine.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+A hundred bamboo stalks, a hundred dogs, a hundred tanned hides, a hundred ewes with tufts like balbaja-grass, four hundred ruddy (cows)  (did you give me).
+</details>
+
+<details><summary>Geldner</summary>
+
+Hundert Bambusstäbe, hundert Hunde, hundert gegerbte Felle, hundert Schafe mit Flocken wie Balbajagras, hundertvier rötliche Schafe.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Hundert Bambusstäbe, hundert Hunde, hundert gegerbte Felle, hundert Geflechte von Balbadscha-Gras, vierhundert rothe Stuten sind mein.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Сотню бамбуковых палок, сотню собак,  
+Сотню дубленых шкур,  
+Сотню пучков (травы) балбаджа,  
+Четыре сотни рыжих коров (коров ты) мне (дал).
+</details>
+
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रस्कण्वस्य दानस्तुतिः
+- कृशः काण्वः
+- अनुष्टुप्
+- गान्धारः
+</details>
