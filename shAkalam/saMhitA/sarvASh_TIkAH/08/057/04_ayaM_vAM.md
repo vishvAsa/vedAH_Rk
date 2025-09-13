@@ -1,0 +1,262 @@
++++
+title = "004"
+devataa = "अश्विनौ"
+RShiH = "मेध्यः काण्वः"
+ChandaH = "त्रिष्टुप्"
+
++++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ
+- ऋषिः - मेध्यः काण्वः
+- छन्दः - त्रिष्टुप्
+</details>
+
+
+<details><summary>Thomson & Solcum</summary>
+
+अयं᳓ वाम् भागो᳓ नि᳓हितो यजत्रा  
+इमा᳓ गि᳓रो नासतियो᳓प यातम्  
+पि᳓बतं सो᳓मम् म᳓धुमन्तम् अस्मे᳓  
+प्र᳓ दाशुवां᳓सम् अवतं श᳓चीभिः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic
+
+_________
+**Pāda-label**  
+genre M;; Vālakhilya  
+genre M;; Vālakhilya  
+genre M;; Vālakhilya  
+genre M;; Vālakhilya
+_________
+**Morph**  
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhāgáḥ ← bhāgá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+níhitaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yajatrā ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+asmé ← ahám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+mádhumantam ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+píbatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dāśvā́ṁsam ← dāśváṁs- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । वा॒म् । भा॒गः । निऽहि॑तः । य॒ज॒त्रा॒ । इ॒माः । गिरः॑ । ना॒स॒त्या॒ । उप॑ । या॒त॒म् ।  
+पिब॑तम् । सोम॑म् । मधु॑ऽमन्तम् । अ॒स्मे इति॑ । प्र । दा॒श्वांस॑म् । अ॒व॒त॒म् । शची॑भिः ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *ayaṃ* ← *ayam* ← *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *vām* ← *tvad*
+- \[noun\], genitive, dual
+- “you.”
+
+_________
+
+- *bhāgo* ← *bhāgaḥ* ← *bhāga*
+- \[noun\], nominative, singular, masculine
+- “part; part; part; parcel; quarter; body part; location; region;
+    allotment; part; numerator; division; application; function;
+    outside; bhāga \[word\]; volume; helping.”
+
+_________
+
+- *nihito* ← *nihitaḥ* ← *nidhā* ← *√dhā*
+- \[verb noun\], nominative, singular
+- “put; fill into; stow; insert; ignite; insert; add; put on;
+    establish; keep down.”
+
+_________
+
+- *yajatremā* ← *yajatrā* ← *yajatra*
+- \[noun\], vocative, dual, masculine
+- “adorable.”
+
+_________
+
+- *yajatremā* ← *imāḥ* ← *idam*
+- \[noun\], accusative, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *giro* ← *giraḥ* ← *gir*
+- \[noun\], accusative, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+
+_________
+
+- *nāsatyopa* ← *nāsatyā* ← *nāsatya*
+- \[noun\], vocative, dual, masculine
+- “Asvins; nāsatya \[word\].”
+
+_________
+
+- *nāsatyopa* ← *upa*
+- \[adverb\]
+- “towards; on; next.”
+
+_________
+
+- *yātam* ← *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+
+_________
+
+- *pibataṃ* ← *pibatam* ← *pā*
+- \[verb\], dual, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+
+_________
+
+- *somam* ← *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+
+_________
+
+- *madhumantam* ← *madhumat*
+- \[noun\], accusative, singular, masculine
+- “sweet; honeyed; sweet; pleasant.”
+
+_________
+
+- *asme* ← *mad*
+- \[noun\], locative, plural
+- “I; mine.”
+
+_________
+
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *dāśvāṃsam* ← *dāś*
+- \[verb noun\], accusative, singular
+- “sacrifice; give.”
+
+_________
+
+- *avataṃ* ← *avatam* ← *av*
+- \[verb\], dual, Present imperative
+- “support; help; prefer; prefer; like.”
+
+_________
+
+- *śacībhiḥ* ← *śacī*
+- \[noun\], instrumental, plural, feminine
+- “Śacī; power; dexterity; ability; aid.”
+
+_________
+
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+Sayana bhashya empty
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“O sacred ones, this your portion has been plural ced for you, O truthful ones, come to these your praises;drink among us the sweet **Soma**, succour your worshipper with your powers.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Here is a portion deposited for you, you worthy of the sacrifice; here are  hymns, o Nāsatyas—drive up to them.  
+Drink the honeyed soma among us. Foster the pious man with your skills.
+</details>
+
+<details><summary>Geldner</summary>
+
+Dieser Anteil ist für euch aufgetischt, ihr Opferwürdige; kommet her zu diesen Lobreden, Nasatya`s! Trinket den versüßten Soma bei uns, helfet dem Opfernden mit euren Künsten vorwärts!
+</details>
+
+<details><summary>Grassmann</summary>
+
+Hier ist eur Antheil hingestellt, o hehre, o kommt, ihr Treuen, her zu diesen Liedern; Bei uns geniesst den honigsüssen Soma, mit euren Kräften helfet dem Verehrer.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Вот выставлена ваша доля, о достойные жертв  
+Приезжайте, о Насатьи, на эти песни!  
+Пейте сому, самого сладкого у нас!  
+Поддерживайте (вашего) почитателя (своими) милостями!
+</details>
+
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- मेध्यः काण्वः
+- पादनिचृत्त्रिष्टुप्
+- धैवतः
+</details>
