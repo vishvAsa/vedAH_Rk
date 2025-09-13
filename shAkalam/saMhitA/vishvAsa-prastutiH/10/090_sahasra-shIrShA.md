@@ -184,11 +184,25 @@ unicode_script = "devanagari"
 <details><summary>तैत्तिरीयक-योगः (द्रष्टुं नोद्यम्)</summary>
 
 ## पुरुषस्तुतिः, यज्ञस्तुतिः
-वेदा॒हम् ए॒तं पुरु॑षं म॒हान्त॑म् । आ॒दि॒त्यव॑र्णं॒ तम॑सस् तु॒ पा॒रे ।  
-सर्वा॑णि रू॒पाणि॑ वि॒चित्य॒ धीरः॑ । नामा॑नि कृ॒त्वाऽभि॒वद॒न् यद् आस्ते॑ । १६
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/16_vedAham_etam.md">
+<details open><summary><h5>16 वेदा॒हम् ए॒तं ...{Loading}...</h5></summary>
 
-धा॒ता पु॒रस्ता॒द् यम् +++(पुरुषम्)+++ उ॑दाज॒हार॑,, श॒क्रः प्रवि॒द्वान् प्र॒दिश॒श् चत॑स्रः ।  
-तम् ए॒वं वि॒द्वान् अ॒मृत॑ इ॒ह भ॑वति । नान्यः पन्था॒ अय॑नाय विद्यते । १७
+वेदा॒हम् ए॒तं पुरु॑षं म॒हान्त॑म् ।  
+आ॒दि॒त्यव॑र्णं॒ तम॑सस् तु॒ पा॒रे ।  
+सर्वा॑णि रू॒पाणि॑ वि॒चित्य॒ धीरः॑ ।  
+नामा॑नि कृ॒त्वाऽभि॒वद॒न् यद् आस्ते॑ । १६
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/17_dhAtA_purastAt.md">
+<details open><summary><h5>17 धा॒ता पु॒रस्ता॒द् ...{Loading}...</h5></summary>
+
+धा॒ता पु॒रस्ता॒द् यम् +++(पुरुषम्)+++ उ॑दाज॒हार॑,,  
+श॒क्रः प्रवि॒द्वान् प्र॒दिश॒श् चत॑स्रः ।  
+तम् ए॒वं वि॒द्वान् अ॒मृत॑ इ॒ह भ॑वति ।  
+नान्यः पन्था॒ अय॑नाय विद्यते । १७
+</details>
+</div>
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/16_yajnena_yajnamayajanta.md">
 <details open><summary><h2>१६ यज्ञेन यज्ञमयजन्त ...{Loading}...</h2></summary>
