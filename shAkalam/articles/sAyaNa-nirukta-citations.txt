@@ -1,0 +1,732 @@
+Targets
+    Occurrences of 'निरुक्त' in Directory /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH
+Found occurrences in Directory /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH  (315 usages found)
+    Unclassified  (315 usages found)
+        vedAH_Rk  (315 usages found)
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/001  (3 usages found)
+                01_agnimILe_purohitaM.md  (3 usages found)
+                    111 तम् । स्थूलाष्ठीवनामकस्य महर्षेः पुत्रो निरुक्तकारः कश्चित् “ अक्नोपनः' इति अग्निशब्दं निर्वक्ति । तत्र न क्नोपयतीत्युक्ते न स्नेहयति, किंतु काष्ठ
+                    111 कं रूक्षयतीत्युक्तं भवति । शाकपूणिनामको निरुक्तकारो धातुत्रयादग्निशब्दनिष्पतिं मन्यते । इतः ‘इण् गतौ ' इति धातुः । अक्तः ‘अञ्जूव्यक्तिम्रक्षणकान्त
+                    111 । दधातिधातुरत्र दानार्थवाचीति । तदिदं निरुक्तकारस्य यास्कस्य मन्त्रव्याख्यानम् ॥ अथ व्याकरणप्रक्रियोच्यते । अगिधातोर्गत्यर्थात् ' अङ्गेर्नलोपश्च
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/002  (3 usages found)
+                01_vAyavA_yAhi.md  (2 usages found)
+                    184 वायवा याहि दर्शनीये०) इत्यादि व्याख्यान निरुक्तकार ने भी किया है, सो संस्कृत में देख लेना। वहां भी वायु शब्द से परमेश्वर और भौतिक इन दोनों का ग्रहण
+                    204 तये॑ नि॒युत्वा॑न्॥ (यजु०३३.४४) अस्योपरि निरुक्तव्याख्यानरीत्येश्वरभौतिकौ पुष्टिकर्त्तारौ नियन्तारौ द्वावर्थौ वायुशब्देन गृह्येते। तथा अथातो मध्यस्थ
+                09_kavI_no.md  (1 usage found)
+                    191 तदर्शनो भवति कवतेर्वा। (निरु०१२.१३) एतन्निरुक्ताभिप्रायेण कविशब्देन सुखसाधकौ मित्रावरुणौ गृह्येते। (नः) अस्माकम् (मित्रावरुणौ) पूर्वोक्तौ (तुविजात
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/003  (7 usages found)
+                01_ashvinA_yajvarIriSho.md  (2 usages found)
+                    165 वन किया करो। अब अश्विनौ शब्द के विषय में निरुक्त आदि के प्रमाण दिखलाते हैं-(या सुरथा) हम लोग अच्छी अच्छी सवारियों को सिद्ध करने के लिये (अश्विना) प
+                    165 का विद्याप्रकाश निकट ही है। (अथा०) इस निरुक्त में जो कि द्युस्थान शब्द है, उससे प्रकाश में रहनेवाले और प्रकाश से युक्त सूर्य्य अग्नि जल और पृथिव
+                02_ashvinA_purudaMsasA.md  (3 usages found)
+                    182 लसन आदि साहबों ने मध्यम पुरुष के विषय में निरुक्तकार के कहे हुए विशेष अभिप्राय को न जान कर इस मन्त्र के अर्थ का वर्णन अन्यथा किया है॥२॥
+                    202 य इति। सायणाचार्य्यादिभिर्मध्यमपुरुषस्य निरुक्तोक्तं विशिष्टनियमाभिप्रायमविदित्वाऽस्य मन्त्रस्यार्थोऽन्यथा वर्णितः। तथैव यूरोपवासिभिर्विलसनाख्यादिभ
+                    212 टिप्पणी:   सायणाचार्य व विल्सन इत्यादी साहेबांनी मध्यम पुरुषाविषयीचा निरुक्तकाराने सांगितलेला विशेष अभिप्राय न जाणता या मंत्राचा वेगळाच अर्थ लावलेला आहे. ॥ २ ॥
+                10_pAvakA_naH.md  (1 usage found)
+                    184 एवैतद् भ्रान्त्या व्याख्यातवान्। इमामृचं निरुक्तकार एवं समाचष्टे-पावका नः सरस्वत्यन्नैरन्नवती यज्ञं वष्टु धियावसुः कर्मवसुः। (निरु०११.२६) अत्रान्नवत
+                12_maho_arNaH.md  (1 usage found)
+                    201 ) प्रकाशयति। अत्रान्तर्भावितो ण्यर्थः। निरुक्तकार एनं मन्त्रमेवं समाचष्टे-महदर्णः सरस्वती प्रचेतयति प्रज्ञापयति केतुना कर्मणा प्रज्ञया वेमानि च सर
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/006  (6 usages found)
+                07_indreNa_saM.md  (6 usages found)
+                    191 स्थान में एकवचन का प्रयोग किया गया, तथा निरुक्तकार ने द्विवचन के स्थान में एकवचन का प्रयोग माना है, सो असङ्गत है। यह भी मोक्षमूलर साहब की कल्पना ठ
+                    191 के इस प्रमाण से वचनव्यत्यय होता है। तथा निरुक्तकार का व्याख्यान सत्य है, क्योंकि सुपा सु० इस सूत्र से मन्दू इस शब्द में द्विवचन को पूर्वसवर्ण दीर्घ
+                    211 वचनस्यैकवचने प्रयोगः कृतोऽस्तीति। यच्च निरुक्तकारेण द्विवचनस्य स्थान एकवचनप्रयोगः कृतोऽस्त्यतोऽसङ्गतोऽस्ति।’ इति च मोक्षमूलरकल्पना सम्यङ् न वर्त्तत
+                    211 धायकस्य शास्त्रस्य विद्यमानत्वात्। तथा निरुक्तकारस्य व्याख्यानं समञ्जसमस्ति। कुतः, मन्दू इत्यत्र सुपां सुलुग्० इति पूर्वसवर्णादेशविधायकस्य शास्त्रस
+                    221 या स्थानी एकवचनाचा प्रयोग केलेला आहे व निरुक्तकाराने तर द्विवचनाच्या स्थानी एकवचनाचा प्रयोग मानलेला आहे, त्यासाठी तो असंगत आहे. ’ ही मोक्षमूलर साह
+                    221 करणाच्या या प्रमाणाने वचनव्यत्यय होतो व निरुक्तकाराची व्याख्या सत्य आहे, कारण ‘सुपां सु. ’ या सूत्राने ‘मन्दू’ या शब्दात द्विवचनाला पूर्वसवर्ण दीर
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/007  (1 usage found)
+                07_tunjetunje_ya.md  (1 usage found)
+                    122 इत्यनुदात्तत्वम् । दातरि दातरीत्यर्थः । निरुक्ते तु • दाने दाने' इत्यर्थतो व्याख्यानम् । उत्तरे ।  ‘ तॄ प्लवनतरणयोः '। भावे ‘ऋदोरप्' (पा. सू. ३. ३
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/010  (1 usage found)
+                01_gAyanti_tvA.md  (1 usage found)
+                    301 कुर्वन्ति तथा (येमिरे) उद्युञ्जन्ति॥१॥निरुक्तकार इमं मन्त्रमेवं व्याख्यातवान्-गायन्ति त्वा गायत्रिणः प्रार्चन्ति तेऽर्कमर्किणो ब्राह्मणास्त्वा शतक
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/015  (3 usages found)
+                07_draviNodA_draviNaso.md  (3 usages found)
+                    185 भ्योऽसुन् इत्युसुन्प्रत्ययः। तद्ददातीति निरुक्त्या पदनामसु पठितत्वाज्ज्ञानस्वरूपत्वादीश्वरो ज्ञानक्रियाहेतुत्वादग्न्यादयश्च गृह्यन्ते। द्रूयन्ते प
+                    185 दस इत्यस्यैव तद्भवति॥ निरु०८.१-२) अनेन निरुक्तेनैवमेव द्रविणोदश्शब्दस्य यथायोग्यं सर्वत्रार्थान्वयो विज्ञेयः।सायणाचार्य्येण द्रविणोदा इति पदं क्व
+                    185 तं साधितं तदप्यत्राशुद्धमेवास्ति। कुतः, निरुक्तकारस्य द्राविणोदसमित्यादिव्याख्यानविरोधात्। स्वरस्तु गतिकारकोपदात्० इति सिद्ध एव॥७॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/018  (1 usage found)
+                01_somAnaM_svaraNaM.md  (1 usage found)
+                    222 क् तस्य विद्यावतः पुत्र इव। इमं मन्त्रं निरुक्तकार एवं व्याख्यातवान्-सोमानं सोतारं प्रकाशनवन्तं कुरु ब्रह्मणस्पते कक्षीवन्तमिव य औशिजः। कक्षीवान् कक
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/022  (2 usages found)
+                _index.md  (2 usages found)
+                    8 सूक्तसंख्यानुवर्तते ' इत्यस्मिन् खण्डे अनिरुक्ता संख्या विंशतिः' (अनु. १२. ४ ) इति परिभाषितत्वात् ‘ प्रातर्युजा' इति सूक्ते संख्याविशेषस्यानिरुक्त
+                    8 प्रातर्युजा' इति सूक्ते संख्याविशेषस्यानिरुक्ता संख्या विंशतिसंख्या द्रष्टव्या । सा च विंशतिः एकयाधिकया सह वर्तते इति सैका । तत्रादौ चतस्र ऋचः अश
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/024  (1 usage found)
+                _index.md  (1 usage found)
+                    8 त्वा देव' इति तृचो गायत्रः । आद्याया अनिरुक्तत्वात् प्रजापतिर्देवता । ‘अग्नेर्वयम्' इत्यस्य अग्निः । ‘अभि त्वा देव' इत्यस्य तृचस्य सविता । ‘भगभक
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/025  (1 usage found)
+                06_taditsamAnamAshAte_venantA.md  (1 usage found)
+                    202 सुपां सुलुग्० इत्याकारादेशश्च। (न) इव। निरुक्तकारनियमेन परः प्रयुज्यमानो नकार उपमार्थे भवतीति हेतोः सायणाचार्य्यस्य निषेधार्थव्याख्यानमशुद्धमेव। 
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/032  (1 usage found)
+                11_dAsapatnIrahigopA_atiShThanniruddhA.md  (1 usage found)
+                    270 निवानपववार। निरु० २।१७। ॥११॥ *[वै० यं० निरुक्ते ‘रूपदासयतीति’ पाठो वर्तते।सं०]
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/033  (1 usage found)
+                09_pari_yadindra.md  (1 usage found)
+                    264 इति विनिग्रहार्थीयः’ इति वै० यं० मुद्रित निरुक्ते पाठः।सं०] *[लङ्। सं०]
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/038  (1 usage found)
+                12_sthirA_vaH.md  (1 usage found)
+                    117 ऽभ्यश्नुवते कर्माणि ' ( निरु. ३. ९ ) इति निरुक्तम् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/039  (1 usage found)
+                10_asAmyojo_bibhRthA.md  (1 usage found)
+                    152 शत्रोरुपरि बाणं मुञ्चन्ति तद्वत् । अत्र निरुक्तम् -' असामि सामि प्रतिषिद्धं सामि स्यतेः । असाम्योजो बिभृथा सुदानवः । असुसमाप्तं बलं बिभृथ कल्याणदान
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/040  (1 usage found)
+                02_tvAmiddhi_sahasasputra.md  (1 usage found)
+                    178 त्रायते निपरणाद्वा' (निरु. २.११ ) इति निरुक्तम् । 'मर्त्यः मनुष्यः **हिते** शत्रुषु प्रक्षिप्ते **धने** निमित्तभूते सति **त्वामित्** त्वामेव **उपब
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/041  (1 usage found)
+                09_chaturashchiddadamAnAdbibhIyAdA_nidhAtoH.md  (1 usage found)
+                    113 शपन्तं मा प्रतिवोचे इत्यभिप्रायः । अत्र निरुक्तं - चतुरोऽक्षान् धारयत इति तद्यथा कितवाद्बिभीयादेवमेव दुरुक्ताद्बिभीयान्न दुरुक्ताय स्पृहयेत्' (निर
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/045  (1 usage found)
+                03_priyamedhavadatrivajjAtavedo_virUpavat.md  (1 usage found)
+                    133 एतेषामाह्वानं यथा शृणोषि तद्वत् । अत्र निरुक्तं- प्रियमेधः प्रिया अस्य मेधा यथैतेषामृषीणामेवं प्रस्कण्वस्य शृणु ह्वानम् । प्रस्कण्वः कण्वस्य पुत्र
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/046  (1 usage found)
+                04_haviShA_jAro.md  (1 usage found)
+                    110 टस्य** **चर्षणिः** कर्मणो द्रष्टा । अत्र निरुक्तं- हविषापां जरयिता पिपर्ति पपुरिरिति पृणातिनिगमौ वा प्रीणातिनिगमौ वा पिता कृतस्य कर्मणश्चायितादित्य
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/050  (1 usage found)
+                01_udu_tyaM.md  (1 usage found)
+                    123 ञं जातधनं वा **देवं** द्योतमानम् । अत्र निरुक्तम् - उद्वहन्ति तं जातवेदसं देवमश्वाः केतवो रश्मयो वा सर्वेषां भूतानां संदर्शनाय सूर्यम् ' ( निरु. १
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/054  (2 usages found)
+                05_ni_yadvRNaxi.md  (1 usage found)
+                    193 शौ । आगमानुदात्तत्वे विकरणस्वरः । अत्र निरुक्तं - ' व्रन्दी व्रन्दतेर्मृदूभावकर्मणः । निवृणक्षि यच्छ्वसनस्य मूर्धनि शब्दकारिणः शुष्णस्यादित्यस्य च
+                07_sa_ghA.md  (1 usage found)
+                    206 घान् । उपरः इति मेघनाम । स च यास्केनैवं निरुक्तः- ‘ उपर उपलो मेघो भवत्युपरमन्तेऽस्मिन्नभ्राण्युपरता आप इति वा ' (निरु. २. २१) इति । तान् मेघान् **द
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/059  (1 usage found)
+                06_pra_nU.md  (1 usage found)
+                    193 तकारस्य लोपः । पूर्ववत् अडभावः । अत्र निरुक्तं - प्र ब्रवीमि तन्महित्वं महाभाग्यं वृषभस्य वर्षितुरपां यं पूरवः पूरयितव्या मनुष्या वृत्रहणं मेघहन
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/061  (3 usages found)
+                06_asmA_idu.md  (1 usage found)
+                    178 इति विभक्तेरुदात्तत्वम् । कियेधाः । अत्र निरुक्तं - कियेधाः कियद्धा इति वा क्रममाणधा इति वा ' ( निरु. ६. २०) इति । अस्यायमभिप्रायः । कियत् किंपरिमाणम
+                07_asyedu_mAtuH.md  (1 usage found)
+                    190 पृषोदरादित्वात् वराह इत्युच्यते । अत्र निरुक्तं- वराहो मेघो भवति वराहारः । वरमाहारमाहार्षीरिति च ब्राह्मणम् ' (निरु. ५. ४) इति । यज्ञपक्षे तु वरं
+                12_asmA_idu.md  (1 usage found)
+                    194 पशोरवयवानितस्ततो विभजन्ति तद्वत्। अत्र निरुक्तम्- अस्मै प्रहर तूर्णं त्वरमाणो वृत्राय वज्रमीशानः कियेधाः कियद्धा इति वा क्रममाणधा इति वा गोरिव पर
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/062  (1 usage found)
+                _index.md  (1 usage found)
+                    14 तम् । अत्रानुक्रम्यते- प्र सप्तोनेति । अनिरुक्ता संख्या विंशतिः । ( अनु. १२. ४ ) इत्युक्तत्वात् प्र सप्तोनेत्युक्ते त्रयोदशेत्युक्तं भवति ।  ‘ ऋषिश
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/063  (1 usage found)
+                04_tvaM_ha.md  (1 usage found)
+                    209 ‘पराचैः पराञ्चनैः ' (निरु. ११. २५) इति निरुक्तम् । दस्यून् ।' दीर्घादटि समानपादे' इति नकारस्य रुत्वम् । अत्रानुनासिकः पूर्वस्य तु वा' इति ऊकारस्य
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/066  (1 usage found)
+                08_yamo_ha.md  (1 usage found)
+                    111 रपि राक्षसादीन् भीषयते इत्यर्थः । अत्र निरुक्तं-- सेनेव सृष्टा भयं वा बलं वा दधात्यस्तुरिव दिद्युत्त्वेषप्रतीका' ( निरु. १०. २१ ) इत्यादि । यच्छत
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/079  (1 usage found)
+                01_hiraNyakesho_rajaso.md  (1 usage found)
+                    245 छः अङ्ग अर्थात् शिक्षा, कल्प, व्याकरण, निरुक्त, छन्द और ज्योतिष, उपाङ्ग अर्थात् मीमांसा, वैशेषिक, न्याय, योग, सांख्य और वेदान्त तथा आयुर्वेद अर्थ
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/084  (2 usages found)
+                08_kadA_martamarAdhasaM.md  (1 usage found)
+                    141 श्रवत्** श्रोष्यतीति वितर्क्यते । अत्र निरुक्तम् - ‘क्षुम्पमहिच्छत्रकं भवति यत् क्षुभ्यते। कदा मर्तमनाराधयन्तं पादेन क्षुम्पमिवावस्फुरिष्यति । कद
+                15_atrAha_goramanvata.md  (1 usage found)
+                    137 अत्र निरुक्तम् -  
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/088  (2 usages found)
+                01_A_vidyunmadbhirmarutaH.md  (1 usage found)
+                    177 * **पप्तत** आपतत आगच्छतेत्यर्थः । अत्र निरुक्तम् - ‘ अथातो मध्यस्थाना देवगणास्तेषां मरुतः प्रथमागामिनो भवन्ति । मरुतो मितराविणो वा मितरोचिनो वा महद
+                05_etattyanna_yojanamacheti.md  (1 usage found)
+                    172 अस्माभिः सर्वैरुपलभ्यते इत्यर्थः । अत्र निरुक्तम् - अथाप्येते माध्यमका देवगणा वराहव उच्यन्ते । पश्यन्हिरण्यचक्रान्' (निरु. ५, ४ ) इति । अचेति ।  ‘
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/092  (3 usages found)
+                01_etA_u.md  (1 usage found)
+                    204 धा उषसोऽस्मान् रक्षन्त्वित्यर्थः । अत्र निरुक्तम् -' एतास्ता उषसः केतुमकृषत प्रज्ञानमेकस्या एव पूजनार्थे बहुवचनं स्यात् पूर्वेऽर्धेऽन्तरिक्षलोकस्य
+                13_uShastachchitramA_bharAsmabhyaM.md  (2 usages found)
+                    144 **च** **धामहे** दध्महे  धारयामः । अत्र निरुक्तम् - उषस्तच्चित्रं चायनीयं धनमाहरास्मभ्यमन्नवति येन पुत्रांश्च पौत्रांश्च दधीमहि ' (निरु. १२. ६) इत
+                    226 तोर्लेटि बहुलं छन्दसीति श्लोरभावः। अत्र निरुक्तम्। उषस्तच्चित्रं चायनीयं मंहनीयं धनमाहरास्मभ्यमन्नवति येन पुत्रांश्च पौत्रांश्च दधीमहि। निरु० १२। 
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/099  (1 usage found)
+                01_jAtavedase_sunavAma.md  (1 usage found)
+                    187 पापादपि अस्मानुत्तारयत्वित्यर्थः । अत्र निरुक्तं-जातवेदाः कस्मात् जातानि वेद जातानि वैनं विदुर्जाते जाते विद्यत इति वा जातवित्तो वा जातधनो वा जातव
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/101  (1 usage found)
+                04_yo_ashvAnAM.md  (1 usage found)
+                    203 प्रत्यृतः स्तोमान्' (निरु. ५. १५) इति निरुक्तम् । **यः** च **इन्द्रः** **असुन्वतः** सुन्वतां यागानुष्ठातॄणां विरोधिनः **वीळोश्चित्** दृढस्यापि शत
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/104  (2 usages found)
+                01_yoniShTa_indra.md  (1 usage found)
+                    203 तांश्च तुरगान् **अवसाय** विमुच्य । अत्र निरुक्तम्-' अवसायाश्वानिति स्यतिरुपसृष्टो विमोचने ' (निरु. १. १७ ) इति । कीदृशानश्वान् । **प्रपित्वे** यागक
+                05_prati_yatsyA.md  (1 usage found)
+                    230 तथास्मान् मा परित्याक्षीरित्यर्थः । अत्र निरुक्तं-निष्पपी स्त्रीकामो भवति विनिर्गतसपः। सपः सपतेः स्पृशतिकर्मणः। मा नो मघेव निष्षपी परा दाः । स यथा धन
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/105  (4 usages found)
+                08_saM_mA.md  (1 usage found)
+                    198 पात् मामुत्तारय । अन्यत् समानम् । अत्र निरुक्तं- संतपन्ति मामभितः सपत्न्य इवेमाः पर्शवः कूपपर्शवो मूषिका इवास्नातानि सूत्राणि व्यदन्ति । स्वाङ्गाभ
+                18_aruNo_mA.md  (3 usages found)
+                    182 व्यौ मदीयमिमं वृत्तान्तं जानीतम् ॥ अत्र निरुक्तं-' वृकश्चन्द्रमा भवति विवृतज्योतिष्को वा विकृतज्योतिष्को वा विक्रान्तज्योतिष्को वा । अरुण आरोचन: म
+                    272 दीनां च कर्त्ता। अत्र मासकृदित्येकं पदं निरुक्तकारप्रामाण्यादनुमीयते। अथ शाकल्यस्तु (मा, सकृत्) इति पदद्वयमभिजानीते। (वृकः) यथा चन्द्रमाः शान्तगुणस
+                    272 यते यस्य सः। अन्यत्पूर्ववत् ॥ १८ ॥अत्र निरुक्तम्। वृकश्चन्द्रमा भवति विवृतज्योतिष्को वा, विकृतज्योतिष्को वा, विक्रान्तज्योतिष्को वा। अरुण आरोचनो म
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/109  (1 usage found)
+                02_ashravaM_hi.md  (1 usage found)
+                    177 स्तोत्रं **जनयामि** निष्पादयामि । अत्र निरुक्तम् - अश्रौषं हि बहुदातृतरौ वां विजामातुरसुसमाप्ताज्जामातुः । विजामातेति शश्वद्दाक्षिणाजाः क्रीतापतिम
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/110  (3 usages found)
+                01_tataM_me.md  (1 usage found)
+                    277 ऋभुरिति मेधाविना०। निघं० ३। १५। अत्राह निरुक्तकारः−ऋभव उरुभान्तीति वर्त्तेन भान्तीति वर्त्तेन भवन्तीति वा। निरु० ११। १५। ॥ १ ॥
+                04_viShTvI_shamI.md  (2 usages found)
+                    167 अभवन् हविर्भागार्हा बभूवुरित्यर्थः । अत्र निरुक्तं - ‘ कृत्वा कर्माणि क्षिप्रत्वेन वोढारो मेधाविनो वा मर्तासः सन्तोऽमृतत्वमानशिरे सौधन्वना ऋभवः सूरख
+                    251 च्यन्ति (धीतिभिः) कर्मभिः। इमं मन्त्रं निरुक्तकार एवं समाचष्टे−कृत्वा कर्माणि क्षिप्रत्वेन वोढारो मेधाविनो वा, मर्त्तासः सन्तोऽमृतत्वमानशिरे, सौधन
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/113  (2 usages found)
+                01_idaM_shreShThaM.md  (1 usage found)
+                    185 ं स्वापरभागलक्षणं स्थानं कृतवती । अत्र निरुक्तम् - इदं श्रेष्ठं ज्योतिषां ज्योतिरागमत् चित्रं प्रकेतनं प्रज्ञाततममजनिष्ट विभूततमं यथा प्रसूता सवित
+                02_rushadvatsA_rushatI.md  (1 usage found)
+                    175 षमार्गेण चरतः प्रतिदिवसं गच्छतः । अत्र निरुक्तं -रुशद्वत्सा सूर्यवत्सा रुशदिति वर्णनाम रोचतेर्ज्वलतिकर्मणः । सूर्यमस्या वत्समाह साहचर्याद्रसहरणाद
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/115  (1 usage found)
+                04_tatsUryasya_devatvaM.md  (1 usage found)
+                    203 अस्माल्लोकादपनीय रात्री तमस्तनुते । अत्र निरुक्तं - तत्सूर्यस्य देवत्वं तन्महित्वं मध्ये यत्कर्मणां क्रियमाणानां विततं संह्रियते यदासौ अयुक्त हरणान
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/117  (1 usage found)
+                21_yavaM_vRkeNAshvinA.md  (1 usage found)
+                    167 कर्माणि युवाभ्यां कृतानि इति भावः । अत्र निरुक्तं-- बकुरो भास्करो भयंकरो भासमानो द्रवतीति वा '। ‘यवमिव वृकेणाश्विनौ निवपन्तौ वृको लाङ्गलं भवति विकर
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/123  (2 usages found)
+                03_yadadya_bhAgaM.md  (1 usage found)
+                    176 ममना वा दान्तमना वा' (निरु. ४. ४ ) इति निरुक्तवचनम् । तादृशः **सविता** प्रेरकः **देवः** **नः** अस्मान् **अनागसः** **वोचति** अपापान् यागयोग्यान् ब
+                08_sadRshIradya_sadRshIridu.md  (1 usage found)
+                    180 रूपं कर्म तद्विषयां प्रज्ञां वा । तथा च निरुक्तं- क्रतुं दधिक्राः कर्म वा प्रज्ञां वा ' ( निरु. २. २८ ) इति । सद्यः तदानीमेव स्वोदयकाले एव **परि**
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/124  (2 usages found)
+                04_upo_adarshi.md  (1 usage found)
+                    194 का सती नियतम् आगच्छतीत्यभिप्रायः । अत्र निरुक्तम्-' उपादर्शि शुन्ध्युवः शुन्ध्युरादित्यो भवति शोधनात्तस्यैव वक्षो भासोऽध्यूळहमिदमपीतरद्वक्ष एतस्माद
+                07_abhrAteva_puMsa.md  (1 usage found)
+                    191 रूपाणि प्रकाशयतीत्यर्थः । अयं मन्त्रो निरुक्ते स्पष्टं व्याख्यातः-* अभ्रातृकेव पुंसः पितॄनेत्यभिमुखी संतानकर्मणे पिण्डदानाय न पतिं गर्तारोहिणीव धनल
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/125  (1 usage found)
+                03_Ayamadya_sukRtaM.md  (1 usage found)
+                    171 मन्दतेस्तृप्तिकर्मणः ' ( निरु. २. ५) इति निरुक्तम् । तस्य **सुतम्** अभिषुतं रसं **पायय** आत्मानं पायय इष्टसाधनं सोमयागं कुर्वित्यर्थः । कृत्वा च **क
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/127  (1 usage found)
+                01_agniM_hotAraM.md  (1 usage found)
+                    232 जातबलं वा । जातवेदःशब्दो यास्केन बहुधा निरुक्तः ( निरु. ७. १९ ) । अग्नेर्जातवेदस्त्वे दृष्टान्तः । **विप्रं** **न** **जातवेदसं** जातविद्यं मेधाविन
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/128  (1 usage found)
+                05_kratvA_yadasya.md  (1 usage found)
+                    264 दीयन्ते तद्वत् । इषिरशब्दो यास्केनैवं निरुक्तः-’ ईषणेन वैषणेन वा ' ( निरु. ४. ७) इति । अतः कारणात् **सः** खलु यजमानः **दानम्** **इन्वति** हविष्प
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/129  (1 usage found)
+                10_tvaM_na.md  (1 usage found)
+                    275 नापि वात्तेः स्यात् ' (निरु. ४. ४ ) इति निरुक्तम् । रिरिक्षन्तं चित अत्यन्तं कुत्सितं हिंसन्तमपि शत्रुं रिरिषेः बाधस्व॥ ‘रिष हिंसायाम् । छान्दसः शप
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/130  (1 usage found)
+                09_sUrashchakraM_pra.md  (1 usage found)
+                    263 तुर्वणिस्तूर्णवनिः' (निरु. ३. १४ ) इति निरुक्तम् । तत्र दृष्टान्तः । **मनुषेव** मनुष्येणेव । यथा त्वोतेन परिवृढाय देशान्तरादभिमतं धनमानीयते तद्वत
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/135  (1 usage found)
+                01_stIrNaM_barhirupa.md  (1 usage found)
+                    244 यं, ' नियुतो वायोः' (नि. १. १५. १०) इति निरुक्तत्वात् । तथा **शतिनीभिः** शतसंख्योपेताभिः नियुद्भिः आगच्छेति शेषः । यद्वा । सहस्रेण नियुता शतिनीभिश
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/139  (3 usages found)
+                03_yuvAM_stomebhirdevayanto.md  (1 usage found)
+                    244 यद्विपुनाति भूमिम् ' ( निरु. ५. ५. ) इति निरुक्तम् । अश्विनोः रथस्य मधुपूर्णत्वं त्रयः पवयो मधुवाहने रथे  (ऋ. सं. १, ३४. २) इत्यादिषु प्रसिद्धम् । क
+                09_dadhya~Nha_me.md  (2 usages found)
+                    310 रा अङ्कना अञ्चनाः' ( निरु. ३. १७.) इति निरुक्तम् । एतन्नामा महर्षिश्च **प्रियमेधः** मेधाप्रियः । ‘ प्रियमेधः प्रिया अस्य मेधाः' (निरु. ३.१७) इति य
+                    310 रयरहितः । अत्रिर्न श्रयः ' (निरु.३.१७) इति निरुक्तम् । **मनुः** मननवान् एतन्नामा महर्षिः। एते सर्वे महात्मानो महर्षयः **मे** **जनुषं** दिवोदासपुत्रस्य
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/142  (1 usage found)
+                _index.md  (1 usage found)
+                    8 यते । अतः स एव देवतेति शाकपूणेर्मतम् । निरुक्ते किंदेवताः प्रयाजानुयाजा इति छन्दोदेवता इत्यादिपक्षान्तरं बहुधा प्रदर्श्य तदर्थे ब्राह्मणादि चोदाह
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/148  (2 usages found)
+                01_mathIdyadIM_viShTo.md  (2 usages found)
+                    176 *दधुः** धारयन्ति यजमानाः । मनुष्यशब्दो निरुक्ते बहुधा निरुक्तः-’ मनुष्याः कस्मान्मत्वा कर्माणि सीव्यन्ति मनस्यमानेन सृष्टा मनोरपस्यं मनुषो वा ' (न
+                    176 ति यजमानाः । मनुष्यशब्दो निरुक्ते बहुधा निरुक्तः-’ मनुष्याः कस्मान्मत्वा कर्माणि सीव्यन्ति मनस्यमानेन सृष्टा मनोरपस्यं मनुषो वा ' (निरु. ३. ७ ) इत
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/150  (1 usage found)
+                01_puru_tvA.md  (1 usage found)
+                    151 वोचे त्वमपि तत्सर्वं देहीत्यर्थः । अत्र निरुक्तं- बहु दाश्वांस्त्वामेवाभिह्वयाम्यरिरमित्र ऋच्छतेः । ईश्वरोऽप्यरिरेतस्मादेव। यदन्यदेवत्या अग्नावाहुतय
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/154  (1 usage found)
+                02_pra_tadviShNuH.md  (1 usage found)
+                    169 रदेशस्थायी सर्वैः स्तूयते । अस्मिन्नर्थे निरुक्तं - मृगो न भीमः कुचरो गिरिष्ठाः । मृग इव भीमः कुचरो गिरिष्ठा मृगो मार्ष्टेर्गतिकर्मणो भीमो बिभ्यत्यस
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/155  (1 usage found)
+                01_pra_vaH.md  (1 usage found)
+                    186 णनवतां पूरणवतां वा । पर्वतशब्दो यास्केनैवं निरुक्तः -- ‘ पर्ववान् पर्वतः पर्व पुनः पृणातेः प्रीणातेर्वा ' इति । उक्तलक्षणानां लोकानाँ **सानुनि** समुच
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/156  (1 usage found)
+                01_bhavA_mitro.md  (1 usage found)
+                    209 ‘प्रमीतेस्त्रायते' (निरु. १०. २१) इति निरुक्तम् । तद्वत् **शेव्यः** सुखे साधुः सुखकर्ता **घृतासुतिः** । घृतमुदकम् आसूयते येन स तादृशः । यद्वा । घ
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/158  (1 usage found)
+                02_ko_vAM.md  (1 usage found)
+                    196 ) इति श्रुतेः। गौरिति भूमिनाम । तथा च निरुक्तं - गौरिति पृथिव्या नामधेयं यद्दूरं गता भवति यच्चास्यां भूतानि गच्छन्ति गातेर्वौकारो नामकरणः ' (निर
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/159  (2 usages found)
+                02_uta_manye.md  (1 usage found)
+                    199 मीयन्तेऽस्मिन्भूतानि' ( निरु. २. ८) इति निरुक्तम् । यद्वा । पितुर्द्युलोकस्य मातुर्भूम्याः। द्यौर्वः पिता पृथिवी माता' ( ऋ. सं. १. १९१. ६) इति श्र
+                04_te_mAyino.md  (1 usage found)
+                    182 षनामसु पाठात् तद्वचनः । स चैवं यास्केन निरुक्तः - समुद्रः कस्मात्समुद्भवन्त्यस्मादापः समभिद्रवन्त्येनमापः संमोदन्तेऽस्मिन्भूतानि समुदको भवति समुनत
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/160  (1 usage found)
+                01_te_hi.md  (1 usage found)
+                    184 ‘ उदकं रज उच्यते ' ( निरु. ४. १९) इति निरुक्तम् । **धारयत्कवी** अकृच्छ्रेण धारकं कवि ययोस्ते तादृश्यौ । उदकोत्पादनाय अप्रयत्नवत्यौ इत्यर्थः । यद
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/161  (2 usages found)
+                04_chakRvAMsa_RbhavastadapRchChata.md  (1 usage found)
+                    239 ग्ना इति स्त्रीणाम्' ( निरु. ३. २१) इति निरुक्तम् । **अन्तः** मध्ये **न्यानजे** न्यक्तोऽभूत् । स्त्रियम् आत्मानम् अमन्यत इत्यर्थः ॥ अञ्जेर्लिटि तस
+                11_udvatsvasmA_akRNotanA.md  (1 usage found)
+                    192 पान् ऋभून् इदानीं स्तौति । तथा च यास्को निरुक्ते पुराणप्रक्रिया सिद्धानृभून् बहुधा निरुच्य तदुदाहरणत्वेन  ‘ विष्ट्वी शमी ' इत्येतामुदाहृत्य • आदित
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/162  (2 usages found)
+                21_na_vA.md  (2 usages found)
+                    208 शः । ‘हरी इन्द्रस्य' (नि. १. १५. १) इति निरुक्तम् । तथा **पृषती** पृषत्यौ मरुतां वाहनभूतौ युञ्जा' अभूतां युक्तौ भविष्यतः । ‘पृषत्यो मरुताम् ' (नि.
+                    208 पृषत्यो मरुताम् ' (नि. १. १५. ६) इति च निरुक्तम् ॥ युजेः ‘ऋत्विक् ' इत्यादिना क्विन् । 'युजेरसमासे' (पा. सू. ७. १. ७१ ) इति नुम् । ‘सुपां सुलुक्'
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/164  (25 usages found)
+                01_asya_vAmasya.md  (1 usage found)
+                    182 ।  ‘ पृष्ठं स्पृशतेः' (निरु. ४. ३) इति निरुक्तम् । यद्वा प्रदीप्तपृष्ठः । पृष्ठशब्दः कृत्स्नशरीरोपलक्षकः । प्रकाशितशरीराभिमानीत्यर्थः । न त्वयं स
+                06_achikitvAnchikituShashchidatra_kavInpRchChAmi.md  (1 usage found)
+                    212 का रजांस्युच्यन्ते' (निरु. ४. १९ ) इति निरुक्तम् । यद्यपि लोकाः सप्त तथापि सत्यलोकस्य कर्मिणां सर्वेषां साधारणस्वाभावात् षडित्युक्तम् । ननु षडेवोक
+                14_sanemi_chakramajaraM.md  (1 usage found)
+                    197 ख्यातेर्वा चष्टेर्वा '( निरु. ४. ३) इति निरुक्तम् । **रजसा** वृष्ट्युदकेन **आवृतं** व्याप्तम् **एति** गच्छति । उदकं रज उच्यते ' ( निरु. ४. १९) इति
+                20_dvA_suparNA.md  (1 usage found)
+                    175 धर्मकर्तारौ ' ( निरु. १४. ३० ) इत्यादि निरुक्ते गतम् अस्य मन्त्रस्य व्याख्यानमनुसंधेयम् ॥ ॥ १७ ॥
+                21_yatrA_suparNA.md  (1 usage found)
+                    180 प्राप्तिः उपपद्यते । अस्य मन्त्रस्य यन्निरुक्तं यत्र सुपर्णाः सुपतना आदित्यरश्मयः' (निरु. ३. १२ ) इत्यादिकं तदत्र द्रष्टव्यम् ॥
+                24_gAyatreNa_prati.md  (1 usage found)
+                    160 भवति यदेनेनार्चन्ति' (निरु. ५, ४ ) इति निरुक्तम् । प्रतिमन्त्रं गायत्रेण छन्दसा उपनिबद्धं करोति । उपलक्षणमेतदन्येषां छन्दसाम् । यद्वा । इतरेषां छन
+                29_ayaM_sa.md  (1 usage found)
+                    214 अयमेकोऽर्थः। अर्थान्तरं च । शाकपूणिर्नाम निरुक्ताचार्यः सकलमन्त्रदेवता जानामीति अभिमानितवान्। दुर्ज्ञेयस्य तत्त्वस्य स्वरूपमसौ जानाति किल एनं व्याम
+                39_Rcho_axare.md  (2 usages found)
+                    235 वासात् । शिष्टमविशिष्टम् । अयं मन्त्रो निरुक्ते (निरु. १३. १०) व्याख्यातः । अपरे तु अपरथा वर्णयन्ति । ऋचः । ऋक् अर्चनीयो जीवः । तस्य संबन्धिन्यक्षर
+                    318 (ते) (इमे) (सम्) (आसते) सम्यगासते। अयं निरुक्ते व्याख्यातः । निरु० १३। १०। ॥ ३९ ॥
+                40_sUyavasAdbhagavatI_hi.md  (1 usage found)
+                    253 जलम् (आचरन्ती) सत्याचरणं कुर्वती। अयं निरुक्ते व्याख्यातः। निरु० ११। ४४ ॥ ४० ॥
+                41_gaurIrmimAya_salilAni.md  (1 usage found)
+                    246 व्योमन्) व्योमवद्व्याप्तेऽक्षुब्धे। अयं निरुक्ते व्याख्यातः निरु० ११। ४० ॥ ४१ ॥
+                42_tasyAH_samudrA.md  (1 usage found)
+                    248 वम्) सर्वं जगत् (उप) (जीवति) अयं मन्त्रो निरुक्ते व्याख्यातः । निरु० ११। ४१। ॥ ४२ ॥
+                44_trayaH_keshina.md  (1 usage found)
+                    275 वायोः (ददृशे) दृश्यते (न) (रूपम्)। इयं निरुक्ते व्याख्याता । निरु० १२। २७। ॥ ४४ ॥
+                45_chatvAri_vAkparimitA.md  (2 usages found)
+                    186 अर्थप्रकाशनाय प्रयुञ्जते । अयं मन्त्रो निरुक्ते व्याख्यातः सोऽत्राप्यनुसंधेयः- ‘ अथापि ब्राह्मणं भवति । सा वै वाक् सृष्टा चतुर्धा व्यभवदेष्वेव लोक
+                    287 रणाः (वदन्ति) उच्चारयन्ति। अयं मन्त्रो निरुक्ते व्याख्यातः । निरु० १३। ९। ॥ ४५ ॥
+                46_indraM_mitraM.md  (2 usages found)
+                    200 य इन्द्राद्यात्मकत्वकथनम्। अयं मन्त्रो निरुक्ते एवं व्याख्यातः - ‘ इममेवाग्निं महान्तमात्मानमेकमात्मानं बहुधा मेधाविनो वदन्ति इन्द्रं मित्रं वरुणमग
+                    281 तल्लक्षणम् (आहुः) कथयन्ति। अयं मन्त्रो निरुक्ते व्याख्यातः । निरु० ७। १८। ॥ ४६ ॥
+                47_kRShNaM_niyAnaM.md  (2 usages found)
+                    187 आदित्यरश्मयः । (निरु. ७. २४ ) इत्यादि निरुक्तं द्रष्टव्यम् ॥
+                    264 ः (वि) (उद्यते) क्लिद्यते। अयं मन्त्रो निरुक्ते व्याख्यातः । निरु० ७। २४। ॥ ४७ ॥
+                48_dvAdasha_pradhayashchakramekaM.md  (2 usages found)
+                    192 ं मासा मानात् ' (निरु. ४, २७ ) इत्यादि निरुक्तम् ॥
+                    273 इव (चलाचलासः) चलाश्च अचलाश्च ताः। अयं निरुक्ते०। ४। २७। ॥ ४८ ॥
+                49_yaste_stanaH.md  (3 usages found)
+                    219 दत्रः कल्याणदानः ' ( निरु. ६. १४ ) इति निरुक्तम् । अत्र असकृत् यच्छब्दश्रवणं स्तनस्य अतिप्रशस्तत्वज्ञापनार्थम् । हे देवि **तं** तादृशं सर्वप्राण्य
+                    296 तवे) धातुं पातुम् (कः) कुरु। अयं मन्त्रो निरुक्ते व्याख्यातः । निरु० ६। १४। [*] ॥ ४९ ॥ [*अत्र निरुक्तेऽस्य मन्त्रस्य व्याख्यानं न विद्यते। (सुदत्रः
+                    296 ख्यातः । निरु० ६। १४। [*] ॥ ४९ ॥ [*अत्र निरुक्तेऽस्य मन्त्रस्य व्याख्यानं न विद्यते। (सुदत्रः) इति पदस्य निर्वचनं तु दरीदृश्यते ॥ सं० ॥ ]
+                50_yajnena_yajnamayajanta.md  (1 usage found)
+                    186 निमयजन्त देवाः' (निरु. १२. ४१) इत्यादि निरुक्तमनुसंधेयम् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/166  (1 usage found)
+                11_mahAnto_mahnA.md  (1 usage found)
+                    172 रिति नक्षत्राणाम् ' ( निरु. ३. २० ) इति निरुक्तत्वात् । दिवि भवा देवाः स्तृभिः स्वपुष्पकभूतैस्तेजःपुञ्जैर्नक्षत्रैर्यथा दूरे दृश्यमाना भवन्ति तद्वत
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/174  (1 usage found)
+                02_dano_visha.md  (1 usage found)
+                    177 धीः** असाधयः अहनः । अयमैतिहासिकपक्षः । निरुक्तरूढ्या तु हे इन्द्र मृध्रवाचो विशो मर्षणध्वनियुक्ता वृष्टिरूपाः प्रजा दनः अदमयः । अशब्दयो वा । अवर्षय
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/179  (1 usage found)
+                04_nadasya_mA.md  (1 usage found)
+                    177 य मा रुधतः काम आगमत्' (निरु. ५.२), इति निरुक्तम् । कस्य हेतोरिति उच्यते। **इतः** त्वत्संगमनिमित्तात् तथा **अमुतः** वसन्तादिकालात् **कुतश्चित्** क
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/180  (1 usage found)
+                08_yuvAM_chiddhi.md  (1 usage found)
+                    171 रत्यर्थे प्रयोगः ' ( निरु. ७. ३१ ) इति निरुक्तम् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/181  (2 usages found)
+                04_iheha_jAtA.md  (2 usages found)
+                    190 चन्द्रमसावित्येके ' ( निरु. १२. १ ) इति निरुक्तम् । **अरेपसा** अपापौ । आथर्वणस्य गुरोः शिरश्छेदनादिना पापलेपरहिताविति भावः । ‘आथर्वणायाश्विना दधीच
+                    190 हकौ महानुभावौ युवां सह स्तूयेथे । अन्न निरुक्तम्-' इहेह जातौ संस्तूयेथे पापेनालिप्यमानया तन्वा नामभिश्च स्वैर्जिष्णुर्वामन्यः सुमहतो बलस्येरयिता मध
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/185  (1 usage found)
+                01_katarA_pUrvA.md  (1 usage found)
+                    215 वा कतरापरैनयोः ' ( निरु. ३. २२) इत्यादि निरुक्तं द्रष्टव्यम् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/188  (1 usage found)
+                11_purogA_agnirdevAnAM.md  (1 usage found)
+                    105 कस्मादग्रणीर्भवति' ( निरु. ७. १४ ) इति निरुक्तम् । तादृशोऽयं **गायत्रेण** एतदुपलक्षितेन मन्त्रेण **समज्यते** सम्यग्लक्ष्यते । **स्वाहाकृतीषु** स्व
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/01/190  (2 usages found)
+                01_anarvANaM_vRShabhaM.md  (1 usage found)
+                    156 यृतमन्यस्मिन् ' (निरु. ६. २३ ) इत्यादि निरुक्तं द्रष्टव्यम् ॥
+                05_ye_tvA.md  (1 usage found)
+                    179 यच्चातयसि देवपीयुम् (निरु. ४. २५) इति निरुक्तम् ॥ ॥ १२ ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/02/001  (7 usages found)
+                01_tvamagne_dyubhistvamAshushuxaNistvamadbhyastvamashmanaspari.md  (4 usages found)
+                    188 यसइत्यर्थः अत्रत्वमग्नेद्युभिरहोभिरित्यादिनिरुक्तमनुसन्धेयम् ॥ १ ॥
+                    264 उन्नति करनेवाला होता है । इस मन्त्र का निरुक्त में भी व्याख्यान है ॥१॥
+                    284 सर्वेषामुन्नतिकरो भवति । अयं [मन्त्रः] निरुक्ते व्याख्यतः । ६। १ ॥१॥
+                    294 सर्वांची उन्नती करणारा असतो. या मंत्राची निरुक्तमध्येही व्याख्या आहे. ॥ १ ॥
+                02_tavAgne_hotraM.md  (2 usages found)
+                    203 अध्वर्युरध्व- रयुरध्वरङ्कामयतइतिवेतिहिनिरुक्तम् । तथाब्रह्माचब्राह्मणाच्छंस्यप्यसि तथानोदमेस्मद्यज्ञगृहेगृह- पतिश्चासीति ॥ २ ॥
+                    297 यस्मिन् गृहे तस्मिन् गृहे। अयं मन्त्रः निरुक्ते व्याख्यातः [?] । निरु० १। ८॥ ॥२॥
+                06_tvamagne_rudro.md  (1 usage found)
+                    206 तीतिरुद्रः तादृशोसि रुद्रोरौतीति- सतइतिनिरुक्तम् । तथामहोमहतोदिवोद्युलोकस्यसम्बन्धी असुरोसि असुर्बलन्तस्यदाताआदित्यरूप- श्चत्वमसि अग्नेर्द्युलोकसम
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/02/011  (1 usage found)
+                21_nUnaM_sA.md  (1 usage found)
+                    205 तेर्वास्याद्गतिकर्मणोवीरयतेर्वेत्यन्तन्निरुक्तमनुसन्धेयम् ॥ २१ ॥ ॥ इतिगार्त्समदेमण्डलेप्रथमोनुवाकः ॥ १ ॥द्वितीयेनुवाकेएकादशसूक्तानि तत्रयोजातइतिपञ
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/02/012  (1 usage found)
+                01_yo_jAta.md  (1 usage found)
+                    184 नामहत्त्वेनयुक्तः । सइन्द्रोनाहमिति अत्रनिरुक्तम्— योजातएवप्रथमोमनस्वीदेवोदेवान् क्रतुनाकर्मणापर्यभवत्पर्यगृह्णात्पर्यारक्षदत्यतिक्रामदितिवायस्य- बल
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/02/023  (1 usage found)
+                09_tvayA_vayaM.md  (1 usage found)
+                    196 शत्रून् जम्भय नाशय जभिनाशनेचुरादिः अत्रनिरुक्तम्—त्व यावयंसुवर्धयित्राब्रह्मणस्पतेस्पृहणीयानिवसूनिमनुष्येभ्यआददीमहियाश्चनोदूरेतळितोयाश्चान्ति केर
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/02/025  (1 usage found)
+                01_indhAno_agniM.md  (1 usage found)
+                    293 विभक्तिव्यत्ययः। वनुष्यतिर्हन्तिकर्मेति निरुक्ते (कृतब्रह्मा) कृतानि ब्रह्माणि धनानि येन सः (शूशुवत्) विजानाति। अत्राडभावो लडर्थे लुङ् च (रातहव्यः
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/02/031  (1 usage found)
+                02_adha_smA.md  (1 usage found)
+                    270 च (रजः) लोकान् लोका रजांस्युच्यन्त इति निरुक्तात् (पृथिव्याः) भूमेः (सानौ) उच्चप्रदेशे (जङ्घनन्त) भृशं हत (पाणिभिः) करैः ॥२॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/02/033  (1 usage found)
+                05_havImabhirhavate_yo.md  (1 usage found)
+                    275 दरः। दूदरः सोमो मृदूदरो मृदुरुदरेष्विति निरुक्ते ६। ४। (सुहवः) सुष्ठुदानः (मा) (नः) अस्माकम् (अस्यै) (बभ्रुः) पालकाः (सुशिप्रः) सुन्दराननः (रीरधत्
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/03/008  (1 usage found)
+                01_anjanti_tvAmadhvare.md  (1 usage found)
+                    187 तादित्येव तदाह । ऐ ब्रा २-२ । इति तथा च निरुक्तमपि । अञ्जन्ति त्वामध्वरे देवान्कामयमाना वनस्पते मधुना दैव्येन च घृतेन च यदूर्ध्वः स्थास्यसि द्रविण
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/03/011  (1 usage found)
+                06_sAhvAnvishvA_abhiyujaH.md  (1 usage found)
+                    111 रव इत्यन्ननाम श्रूयते । नि. १८-३ । इति निरुक्तेऽभिधानात् । अतिशयेन बहुविधान्नोपेतो वर्तते । यस्मादेवं तस्मादस्मानपि बहुविधान्नोपेतान्कुअरोत्विति भ
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/03/031  (1 usage found)
+                02_na_jAmaye.md  (1 usage found)
+                    201 यार्हा सा तु केवलं परस्मै दीयते। तथा च निरुक्तं’--न जामये भगिन्यै । जामिरन्येऽस्यां जनयन्ति जामपत्यं जमतेर्वा स्याद्गतिकर्मणो निर्गमनप्राया भवति 
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/03/033  (2 usages found)
+                01_pra_parvatAnAmushatI.md  (1 usage found)
+                    170 । समुद्रं [रतो स्जोग्ज्र गच्छतझ् । अत्रनिरुक्तम् । पर्वतानामुपस्थादुपस्थानादुशतौ कामयमाने अश्वे इव विमुक्ते इति वा विशण्णे इति वा हासमाने हासतिः स
+                05_ramadhvaM_me.md  (1 usage found)
+                    170 येन प्राह्वे । प्रकर्षेणाह्वयामि । अत्र निरुक्तम् । उपरमध्वरं मे वचसे सोम्याय सोमसम्पादिन ऋतावरीरुतवत्य ऋतमित्युदकनाम प्रत्यृतं भवति मुहूर्तमेवैरयन
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/03/049  (1 usage found)
+                02_yaM_nu.md  (1 usage found)
+                    176 मिनाति हिनस्ति । **ह** प्रसिद्धौ । अत्र निरुक्तं-- ‘ पृथुज्रयाः पृथुजवः । पृथुज्रया अमिनादायुर्दस्योः । प्रामापयदायुर्दस्योः' (निरु. ५. ९ ) इति ॥ तरत
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/03/062  (1 usage found)
+                13_somo_jigAti.md  (1 usage found)
+                    122 त्व् अयं गतिकर्मा गतिकर्मसु हि जिगातीति निरुक्तकाराः पठन्ति ।
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/04/004  (1 usage found)
+                01_kRNuShva_pAjaH.md  (1 usage found)
+                    189 रक्षसः** राक्षसान् **विध्य** ताडय । अत्र निरुक्तम् -- ‘ कुरुष्व पाजः । पाजः पालनात् । प्रसितिमिव पृथ्वीम् । प्रसितिः प्रसहनात्तन्तुर्वा जालं वा । य
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/04/006  (1 usage found)
+                04_stIrNe_barhiShi.md  (1 usage found)
+                    181 उरु कुर्वाणः ।  ‘ उराण उरु कुर्वाणः' इति निरुक्तम् । यद्वै देवैर्जोष्यते हविस्तद्गिरिमात्रं वर्धते । इति श्रुतेः अग्नेरुरुकरणमुचितम् । ईदृशः **अग्न
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/04/016  (1 usage found)
+                11_yAsi_kutsena.md  (1 usage found)
+                    179 नित्यपि निगमो भवति ' (निरु. ५. १५) इति निरुक्तम् । **वाजं** **न** अन्नमिव **ऋज्रा** ऋजुगामिनौ अश्वौ **युयूषन्** स्वकीये रथे योजयन् **कविः** प्राज
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/04/030  (1 usage found)
+                24_vAmaMvAmaM_ta.md  (1 usage found)
+                    149 वामं बननीयं भवति' (निरु. ६. ३१) इत्यादि निरुक्तमत्र द्रष्टव्यम् ॥ ॥ २३ ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/04/032  (1 usage found)
+                23_kanInakeva_vidradhe.md  (1 usage found)
+                    108 कान्तिकर्मणः ' ( निरु. ४. १५) इत्यादि निरुक्तम् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/04/034  (1 usage found)
+                07_sajoShA_indra.md  (1 usage found)
+                    160 ना इति स्त्रीणाम् ' ( निरु. ३. २१ ) इति निरुक्तम् । **रत्नधाभिः** रमणीयधनदातृभिर्ऋभुभिः सह पिब । यद्वा । एतत् ग्नाः पत्नीभिरित्यस्य विशेषणम् । ताभ
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/04/038  (2 usages found)
+                04_yaH_smArundhAno.md  (1 usage found)
+                    169 र्मिश्रीभावकर्मा ' ( निरु. ५. १५ ) इति निरुक्तम् । मिश्रयितव्यानि फलानि **समत्सु** संग्रामेषु **आरुन्धानः** सर्वतो निरोधयन् **सनुतरः** संभक्तृतरः
+                05_uta_smainaM.md  (1 usage found)
+                    191 व वस्त्रमाथिनम् ' (निरु. ४. २४ ) इत्यादिनिरुक्तमत्रानुसंधेयम् ॥ ॥ ११ ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/04/040  (1 usage found)
+                04_uta_sya.md  (1 usage found)
+                    170 स वाजी वेजनवान्' (निरु. २.२८ ) इत्यादि निरुक्तमनुसंधेयम् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/04/050  (1 usage found)
+                04_bRhaspatiH_prathamaM.md  (1 usage found)
+                    167 ।' धमतिर्गतिकर्मा ' ( निरु. ६. २ ) इति निरुक्तम् । विविधं गच्छति । नाशयतीत्यर्थः ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/04/057  (1 usage found)
+                01_xetrasya_patinA.md  (1 usage found)
+                    153 षेत्रस्य पतिना' ( निरु. १०. १५ ) इत्यादिनिरुक्तं जानीयात् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/04/058  (2 usages found)
+                03_chatvAri_shRngA.md  (1 usage found)
+                    188 वात् पञ्चधायं मन्त्रो व्याख्येयस्तथापि निरुक्ताद्युक्तनीत्या यज्ञात्मकाग्नेः सूर्यस्य च प्रकाशकत्वेन तत्परतया व्याख्यायते । अस्य यज्ञात्मकस्याग्न
+                07_sindhoriva_prAdhvane.md  (1 usage found)
+                    161 क्षिप्रनामनी भवतः ' ( निरु. ६. १ ) इति निरुक्तम् । **वातप्रमियः** वायुवत् प्रकृष्टवेगाः **यह्वाः** महत्यः **घृतस्य** **धाराः** **पतयन्ति** गच्छन्त
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/05/004  (1 usage found)
+                05_juShTo_damUnA.md  (1 usage found)
+                    181 रभ्यतितो गृहान्भवति' (निरु. ४. ५) इत्यादिनिरुक्तं द्रष्टव्यम् ॥ ॥ १८ ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/05/032  (1 usage found)
+                01_adardarutsamasRjo_vi.md  (1 usage found)
+                    205 घं वा **अव** **हन्** अभिहतवानसि । अत्र निरुक्तम्  - ' अदृणा उत्सम् । उत्स उत्सदनाद्वोत्स्यन्दनाद्वा उनत्तेर्वा स्यात् । व्यसृजोऽस्य खानि त्वमर्णव
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/05/039  (1 usage found)
+                01_yadindra_chitra.md  (1 usage found)
+                    150 न्द्रचित्रचायनीयम्मंहनीयन्धनमस्तीत्यादिनिरुक्तन्द्रष्टव्यम् ॥ १ ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/05/041  (1 usage found)
+                19_abhi_na.md  (1 usage found)
+                    172 य तेजसो वोदकस्य ' ( निरु. ११. ४९ ) इति निरुक्तम् । अथवा प्रभृथस्य प्रभरणवत आयोर्यज्ञमभ्यूर्ण्वानाच्छादयन्ती ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/05/046  (1 usage found)
+                08_uta_gnA.md  (1 usage found)
+                    171 तु देवपत्न्यः ' (निरु. १२. ४६ ) इत्यादि निरुक्तं द्रष्टव्यम् ॥ ॥ २८ ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/05/052  (1 usage found)
+                06_A_rukmairA.md  (1 usage found)
+                    186 भवन्ति शब्दकारिण्यः' (निरु. ६. १६ ) इति निरुक्तम् । **अनु** **अह** अनुगच्छन्त्येव । **दिवः** द्योतमानस्य मरुद्गणस्य **भानुः** दीप्तिः **त्मना** स्वयम
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/05/053  (1 usage found)
+                09_mA_vo.md  (1 usage found)
+                    201 ।  रसा नदी भवति ' ( निरु. ११. २५) इति निरुक्तम् । रसनवती शब्दवती । **अनितभा** । इता प्राप्ता भा यस्याः सा इतभा । न तादृश्यनितभा । **कुभा** कुत्स
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/05/056  (1 usage found)
+                04_ni_ye.md  (1 usage found)
+                    163 णातेः प्रीणतेर्वा ' ( निरु. १. २० ) इति निरुक्तम् । तादृशं **गिरिं** मेघम् । यद्वा । पर्वतमिति विशेष्यं गिरिमिति विशेषणम् निगिरत्युदकमिति गिरिः । त
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/05/061  (1 usage found)
+                08_uta_ghA.md  (1 usage found)
+                    144 वो नेम इत्यर्धस्य ' ( निरु. ३. २० ) इति निरुक्तम् । नेमोऽर्धः । जायापत्योर्मिलित्वैककार्यकर्तृत्वादेक एव पदार्थः ।  ‘ अर्धं शरीरस्य भार्या । इत्याद
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/05/075  (1 usage found)
+                02_atyAyAtamashvinA_tiro.md  (1 usage found)
+                    155 सत इति प्राप्तस्य ' ( निरु. ३. २० ) इति निरुक्तम् । प्राप्ता विश्वाः सर्वाः क्रिया युष्मदीयाः अनुतिष्ठेयमित्यर्थः । सना सनातनौ **दस्रा** शत्रूणामुपक
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/05/083  (2 usages found)
+                01_achChA_vada.md  (1 usage found)
+                    177 प्रार्थय । पर्जन्यशब्दो यास्केन बहुधा निरुक्तः -- पर्जन्यस्तृपेराद्यन्तविपरीतस्य तर्पयिता जन्यः परो जेता वा जनयिता वा प्रार्जयिता वा रसानाम् ' (
+                02_vi_vRxAnhantyuta.md  (1 usage found)
+                    195 अयम्मन्त्रोनिरुक्तेस्पष्टव्याख्यातत्वात्तदेवात्रलिख्यते पर्जन्यःविहन्ति वृक्षान्विहन्तिच रक्षांसि सर्वाणिचास्माद्भूतान
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/05/085  (1 usage found)
+                03_nIchInabAraM_varuNaH.md  (1 usage found)
+                    175 वरुणः कवन्धम् ' ( निरु. १०. ४ ) इत्यादिनिरुक्तं द्रष्टव्यम् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/06/047  (1 usage found)
+                29_upa_shvAsaya.md  (1 usage found)
+                    192 अस्मदीयान् **अप** **सेध** अपगमय । अत्र निरुक्तं - दुन्दुभिरिति शब्दानुकरणं दुमो भिन्न इति वा दुन्दुभ्यतेर्वा स्याद्वधकर्मणः' (निरु. ९. १२) इत्याद
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/06/059  (1 usage found)
+                04_ya_indrAgnI.md  (1 usage found)
+                    159 न भक्षयथः । **चन** इति पादपूरणः । अत्र निरुक्तं - जोषवाकमित्यविज्ञातनामधेयं जोषयितव्यं भवति । य इन्द्राग्नी सुतेषु वां सोमेषु स्तौति तेष्वृतस्य वर
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/07/060  (1 usage found)
+                03_ayukta_sapta.md  (1 usage found)
+                    180 क्तवान् रथे । 'हरित आदित्यस्य ' इति हि निरुक्तम् । **याः** हरितः **ईम्** एनम् **सूर्यं** देवं **घृताचीः** घृताञ्चना उदकवत्यः । उदकप्रदा इत्यर्थः 
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/07/063  (3 usages found)
+                05_yatrA_chakruramRtA.md  (3 usages found)
+                    253 है, शीघ्रगामी होने के अभिप्राय से नहीं। निरुक्त एकादश अध्याय में श्येन के अर्थ इन्द्र किये हैं और इन्द्र तथा विद्युत् यह एकार्थवाची शब्द है, इसकी व
+                    253 महत्त्व लोगों के हृदय से उठ रहा है। जब निरुक्तकार ने श्येन के अर्थ स्पष्टतया इन्द्र के किये हैं तो फिर यहाँ गिद्ध तथा बाज आदि पक्षियों का ग्रहण करन
+                    253 रहण करना कैसे संगत हो सकता है, इसी प्रकार निरुक्तादि प्राचीन वेदाङ्गों का आश्रय छोड़कर सायणादि भाष्यकारों ने अनेक स्थलों में भूल की है, जैसा कि इसी मन
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/07/079  (1 usage found)
+                02_vyanjate_divo.md  (1 usage found)
+                    207 अरुण्यो गाव उषसाम्' (नि. १. १५, ७) इति निरुक्तम् । **सूर्यः** च **रोदसी** द्यावापृथिव्यौ तमोयुक्ते **चक्षसा** प्रकाशकेन तेजसा **वि** **आवः** विवृण
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/07/089  (1 usage found)
+                04_apAM_madhye.md  (1 usage found)
+                    177 कर्म्मों का ग्रहण है, क्योंकि ‘अप’ नाम निरुक्त में कर्म्मों का है, जैसा कि “अपः, अप्नः, दंसः इत्यादीनि षड्विंशतिः कर्म्मनामानि” निघं०।२।१।४॥४॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/07/092  (1 usage found)
+                01_A_vAyo.md  (1 usage found)
+                    311 द गतिकर्मवाली धातुओं से सिद्ध होता है (निरुक्त, दैवतकाण्ड १०–३)। इस प्रकार यहाँ वायु नाम कर्मयोगी का है। हे कर्मयोगिन् ! आप आकर हमारे यज्ञ को (आभ
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/07/095  (1 usage found)
+                02_ekAchetatsarasvatI_nadInAM.md  (1 usage found)
+                    242 यसन्तान है, कोई राजा विशेष नहीं। इसी से निरुक्तकार ने भी कहा है कि वेदों में शब्द यौगिक और योगरूढ़ हैं, केवल रूढ़ नहीं। इस बात को सायण ने भी अपनी भूम
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/07/100  (5 usages found)
+                06_kimitte_viShNo.md  (5 usages found)
+                    210 चकार । तं जाननृषिरनया प्रत्याचष्टे। अत्र निरुक्तं - ‘ शिपिविष्टो विष्णुरिति विष्णोर्द्वे नामनी भवतः । कुत्सितार्थीयं पूर्वं भवतीत्यौपमन्यवः । किं त
+                    282 क्योंकि निरु० ५।८ में शेप के अर्थ स्वयं निरुक्तकार ने किये हैं कि ‘शेप’ नाम प्रकाश का है। प्रकाश से आविष्ट का नाम ‘शिपिविष्ट’ है।हमें यहाँ इनके ऐस
+                    282 थ कदापि न करते।और जो यह कहा जाता है कि निरुक्त के कर्त्ता ने स्वयं यहाँ लज्जाजनक अर्थ किये हैं और यह कहा है कि विष्णु की हँसी उड़ाने के लिये दूसरा
+                    282 न नाम रखा है। यह कथन उन लोगों का है, जो निरुक्तकार के आशय को न समझ कर अन्यथा टीका-टिप्पणी करते हैं, अस्तु ॥मुख्य बात यह है कि ‘शिपिविष्ट’ नाम ज्योत
+                    282 है, क्योंकि ‘शिपि’ नाम ज्योति का स्वयं निरुक्तकार ने माना है, यह हम अनेकस्थलों में दर्शा आये हैं ॥६॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/07/103  (1 usage found)
+                01_saMvatsaraM_shashayAnA.md  (1 usage found)
+                    124 अत्र निरुक्तम्-वसिष्ठोवर्षकामः पर्जन्यं तुष्टाव तं मण्डूका अन्वमोदन्त समण्डूकाननुमोदमानान्दृष्ट्वा तुष्टावेति मण
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/08/001  (3 usages found)
+                01_mA_chidanyadvi.md  (1 usage found)
+                    249 रयिता वा द्रावयिता वादरयिता च यज्वनाम्। निरुक्त दै० ४।१।८ ॥अर्थ−१−(इराम्+दृणाति+इति+वा) इरा=अन्न। दॄ विदारणे। अन्न के उद्देश से जल की सिद्धि के लिय
+                34_anvasya_sthUraM.md  (2 usages found)
+                    254 शब्द मन्त्र में ईश्वर का वाचक है, जिसको निरुक्त और निघण्टु अपनी कण्ठोक्ति से ईश्वर का वाचक मानते हैं, अस्तु।इसी प्रकार अन्य मन्त्रों के अर्थ भी वेद
+                    254 अल्पश आध्यात्मिकाः” निरु० ५।१ इत्यादि निरुक्त तथा निघण्टु को देखकर वेदों का मुख्यार्थ करना चाहिये, जिससे वेदों का गौरव बढ़े और सम्पूर्ण मनुष्य व
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/08/002  (2 usages found)
+                06_gobhiryadImanye_asmanmRgaM.md  (1 usage found)
+                    197 सबने व्रा शब्द का अर्थ व्याध ही किया है। निरुक्त ५।३ में भी देखो। २−निघण्टु अ० १। खं० ११ में वाणी के नाम ५७ आए हैं। उनमें गो और धेनु दोनों के पाठ ह
+                12_hRtsu_pItAso.md  (1 usage found)
+                    196 हैं। २−नग्न−मेना ग्ना इति स्त्रीणाम् ॥ निरुक्त ३।२१ ॥ मेना और ग्ना ये दोनों नाम स्त्रियों के हैं। न विद्यते ग्ना स्त्री यस्य स नग्नः। जिसके स्त्र
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/08/019  (3 usages found)
+                01_taM_gUrdhayA.md  (1 usage found)
+                    198 नि” शब्द का अर्थ अग्रणी=अग्रगतिवाला आदि निरुक्तोक्त जानना चाहिये कि हे उपासक लोगो ! तुम सब कर्मों के प्रारम्भ में उस परमात्मा की स्तुति करो, क्योंक
+                37_uta_me.md  (2 usages found)
+                    158 । सुवास्तुर्नामनदी तुग्वतीर्थं भवतीति निरुक्तम् । अस्याऋचोव्याख्यानं निरुक्तटीकायाउद्धतम् ॥ ३७ ॥आगन्तेति षड्विंशर्चमष्टमं सूक्तम् काण्वस्य सोभरेर
+                    158 भवतीति निरुक्तम् । अस्याऋचोव्याख्यानं निरुक्तटीकायाउद्धतम् ॥ ३७ ॥आगन्तेति षड्विंशर्चमष्टमं सूक्तम् काण्वस्य सोभरेरार्षम् मारुतं प्रथमाद्यायुजः कक
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/08/023  (10 usages found)
+                30_agne_tvaM.md  (10 usages found)
+                    205 ही “इन्द्र” शब्द के कई अर्थ करता है।और निरुक्तकार नि० अ० १० खं० ८ में इस प्रकार “इन्द्र” का वर्णन करता है कि “इन्द्रः, इरा दृणातीति वा” “इरां ददात
+                    205 नाम “इन्द्र” है। अस्तु, हम इधर-उधर की निरुक्ति में न पड़कर वेद से ही “इन्द्र” का अर्थ करते हैं। वेद स्वयं “इन्द्र” के यह अर्थ करता है कि जो निम्नल
+                    205 त्र” है और जिसको “मेदयतेर्वा” इस कथन से निरुक्त भी प्रमाणित करता है और जो अपने सदुपदेशों द्वारा सब आविद्यिक छिद्रों को आच्छादित करे=ढक दे, उसको “वर
+                    205 ण करे, उसको “वरुण” कहते हैं, ये ही अर्थ निरुक्त में किये हैं।अन्य युक्ति उक्तार्थ की पुष्टि में यह है कि जब मित्र के अर्थ ऋग्० ३।५९।१। में सायणाचार
+                    205 अन्न यश के नहीं आये। यदि कहा जाय कि यहाँ निरुक्त के अनुसार किये हैं तो फिर “ये वाजिनं परिपश्यन्ति पक्वम्” यहाँ विचारे अनाथ घोड़े की हत्या के क्यों क
+                    205 तियों का घोर आक्रमण हो रहा था। इसी कारण निरुक्तादि ग्रन्थों के अनुसन्धान तथा वेदों के महत्त्व का समय न था। पौराणिक वायु भी इतस्ततः बलपूर्वक बह रहा
+                    205 मविद्या का नाम था, क्योंकि “उर्वशी” शब्द निरुक्त में ब्रह्मविद्या के नामों में पढ़ा गया है, अन्य प्रमाण यह है कि−अन्तरिक्षप्रां रजसो विमानीमुप शिक्ष
+                    205 नामों को ही श्रेष्ठ समझकर रखते थे। यदि निरुक्तादि ग्रन्थों का आलोचन बना रहता, तो यह बात स्पष्ट रीति से ज्ञात रहती कि भरत नाम वेद में याज्ञिक कर्मक
+                    205 रहित किये हैं अर्थात् “अत्रिर्न त्रय इति निरुक्तम्” निरु० ३।१७। इत्यादि निरुक्त के प्रमाण देकर यह सिद्ध किया है कि जिसमें तीनों दुःख न हों, उसका नाम
+                    205 त्रय इति निरुक्तम्” निरु० ३।१७। इत्यादि निरुक्त के प्रमाण देकर यह सिद्ध किया है कि जिसमें तीनों दुःख न हों, उसका नाम “अत्रि” है, एवं कहीं गुणप्रधान
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/08/048  (1 usage found)
+                07_iShireNa_te.md  (1 usage found)
+                    177 षणेन वार्षणेन वा ’ (निरु. ४, ७) इत्यादि निरुक्तं ज्ञातव्यम् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/08/061  (1 usage found)
+                11_na_pApAso.md  (1 usage found)
+                    169 न पापा मन्यामहे ' (निरु. ६. २५) इत्यादि निरुक्तं द्रष्टव्यम् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/08/063  (1 usage found)
+                12_asme_rudrA.md  (1 usage found)
+                    176 पृणातेः प्रीणातेर्वा' (निरु. १. २०) इति निरुक्तम् । वृत्रहत्ये भरहूतौ सजोषाः सजोषसः सहायभूता मरुतो देवा इन्द्रज्येष्ठा उक्तलक्षण इन्द्रश्चास्मानवन
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/08/072  (1 usage found)
+                13_A_sute.md  (1 usage found)
+                    112 यावापृथिव्यावित्येके' (निरु. १२. १) इति निरुक्तत्वादश्विनोरभिश्रियमित्यर्थः । सेचनानन्तरं **रसा** रस आजे पयसि **वृषभं** वर्षकमग्निं **दधीत** स्थापयत
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/08/075  (1 usage found)
+                09_mA_naH.md  (1 usage found)
+                    126 सर्वस्य दुर्धियः' (निरु. ५. २३) इत्यादि निरुक्तं द्रष्टव्यम् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/08/077  (3 usages found)
+                04_ekayA_pratidhApibatsAkaM.md  (1 usage found)
+                    112 प्रतिधानेनापिबत्' (निरु. ५. ११) इत्यादिनिरुक्ते तद्व्याख्याने च स्पष्टमुक्तम् । तदत्र द्रष्टव्यम् ॥
+                10_vishvettA_viShNurAbharadurukramastveShitaH.md  (1 usage found)
+                    170 दस एकारः । आमुषमुदकस्य मोषकमित्यर्थः । निरुक्तपक्ष एवम् । ऐतिहासिकपक्षे चरकब्राह्मण इतिहास आम्नायते । विष्णुर्यज्ञः । स देवेभ्य आत्मानमन्तरधात् ।
+                11_tuvixaM_te.md  (1 usage found)
+                    172 एषा निरुक्ते एकमपि पदं विहाय यास्केन व्याख्याता तदेवलिख्यते-तुविक्षं बहुविक्षेपं महाविक्षेपं वा ते सुकृतं सूमय
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/09/013  (1 usage found)
+                08_juShTa_indrAya.md  (1 usage found)
+                    115 मन्दतेस्तृप्तिकर्मणः ' (निरु. २.५) इति निरुक्तम् । हे **पवमान** त्वं **कनिक्रदत्** शब्दयन् **विश्वाः** **द्विषः** सर्वानस्माकं द्वेष्टॄन् **अप** 
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/09/079  (1 usage found)
+                04_divi_te.md  (1 usage found)
+                    208 ः** । 'हस्तो हन्तेः ' (निरु. १. ७) इति निरुक्तम् । के। **मनीषिणः** मेधाविनोऽध्वर्य्वादयः ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/09/083  (3 usages found)
+                03_arUruchaduShasaH_pRshniragriya.md  (1 usage found)
+                    177 प्राश्नुत एनं वर्णः' (निरु. २.१४ ) इति निरुक्तम्। **अग्रियः** मुख्यः सोऽयं सोमः **अरूरुचत्** रोचयति । सः **उक्षा** जलस्य सेक्ता **बिभर्ति** पुष्ण
+                04_gandharva_itthA.md  (2 usages found)
+                    259 तराणां धारकः (इत्था) अयं सत्यनामसु पठितो निरुक्ते ३।१३।१०। सत्यस्वरूपः परमात्मा (देवानां जनिमानि) विदुषां जन्मानि (रक्षति) गोपायति। स परमेश्वरः (अद
+                    259 तः) महानस्ति अद्भुत इति महन्नामसु पठितं निरुक्ते ३।१३।१३। (निधापतिः) सर्वशक्तीनां स्वामी (निधया) स्वशक्त्या (रिपुम्) स्वानुकूलशक्तिं (गृभ्णाति) स्व
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/09/086  (3 usages found)
+                40_unmadhva_UrmirvananA.md  (1 usage found)
+                    257 मसु पठितम्।” नि. अ.।३। खं. १३ ॥ महिष यह निरुक्त में महत्त्व का वाचक है। महापुरुष यहाँ कर्मयोगी और ज्ञानयोगी को माना है। उक्त पुरुषों में महत्त्व परम
+                43_anjate_vyanjate.md  (2 usages found)
+                    184 रम् । ‘पशुः पश्यतेः ' (निरु. ३.१६) इति निरुक्तम् । **आसु** वसतीवरीषु **गृभ्णते** गृह्णन्ति ॥
+                    258 ञानदृष्टि से देखता है “पशुः पश्यतेः” इतिनिरुक्तम् ३।१६ उक्त पुरुष को परमात्मा (आसु) अपने आर्द्रभाव से अर्थात् कृपादृष्टि से (गृभ्णते) ग्रहण करता ह
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/09/112  (1 usage found)
+                03_kArurahaM_tato.md  (1 usage found)
+                    175 ध्येषणा सत्कारपूर्विका व्यापारणा । अत्र निरुक्तम्-’उपलप्रक्षिणीत्युपलेषु प्रक्षिणात्युपलप्रक्षेपिणी वा । कारुरहमस्मि कर्ता स्तोमानां ततो भिषक् । तत
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/005  (2 usages found)
+                06_sapta_maryAdAH.md  (2 usages found)
+                    188 वां पातकेऽनृतोद्यम्' (निरु. ६. २७) इति निरुक्ते निर्दिष्टाः सप्त मर्यादाः । अवस्थिताः **ततक्षुः** । तक्षतिः करोतिकर्मा । सुष्ठु लङ्घनीयाश्चक्रुः 
+                    244 उनका लङ्घन न करें-उन पर न पहुँचें, जो कि निरुक्त में प्रदर्शित हैं−चोरी-डाका, गुरुपत्नी से सम्भोग, ब्रह्महत्या, गर्भपात, सुरापान, पापकर्म की पुनराव
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/010  (2 usages found)
+                02_na_te.md  (1 usage found)
+                    184 गतिकर्मणो वीरयतेर्वा' (निरु. १. ७) इति निरुक्तम् । शत्रूणां विविधमीरयितारः **धर्तारः** धारयितारः **दिवः** द्युलोकस्य । प्रदर्शनमेतत् । द्युप्रभृत
+                09_rAtrIbhirasmA_ahabhirdashasyetsUryasya.md  (1 usage found)
+                    236 तोस्तदर्थातिशयेन योगस्तदुच्यते पञ्चविधं निरुक्तम्”इति वचनात्। तत्कथं पृथक् कुर्यादित्युच्यते (रात्रीभिः) रात्रिगणेन (अहभिः) अहर्गणेन सह,अर्थादहोरात
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/014  (10 usages found)
+                01_pareyivAMsaM_pravato.md  (2 usages found)
+                    209 इस सूक्त के प्रथम और षष्ठ मन्त्र निरुक्त में व्याख्यात हैं, निरुक्तकार ने यम का अर्थ या उसका सम्बन्ध मृतपुरुषों के अधिष्ठाता का नहीं दर्शाय
+                    209 षष्ठ मन्त्र निरुक्त में व्याख्यात हैं, निरुक्तकार ने यम का अर्थ या उसका सम्बन्ध मृतपुरुषों के अधिष्ठाता का नहीं दर्शाया, अपितु उससे भिन्न किसी विश
+                03_mAtalI_kavyairyamo.md  (4 usages found)
+                    251 रथम तो मातली इन्द्र का सारथि हो, इसके लिए निरुक्तादि वैदिक साहित्य में स्थान नहीं, दूसरे इकारान्त शब्द से मत्वर्थीय इन् प्रत्यय हो ही नहीं सकता, उसक
+                    256 द्वितीयश्च भौतिको वर्षाधिपतिर्देवः, यथा निरुक्ते “बृहस्पतिर्बृहतः पाता वा पालयिता वा” [निरु० १०।१२] “द्यौर्वै बृहत्” [श०९।१।२।३७] “असौ द्युलोको बृहत
+                    256 षशब्देन बृहस्पतिर्निहृतवान् पृथिव्यामिति निरुक्तार्थः। स एवं द्विविधः शरीरभुवनभेदाभ्यां जीवनः प्राणो वर्षाधिपतिश्च बृहस्पतिर्देव ऋक्वभिर्विविधगुणवत
+                    256 त्यत्र शब्दश्च सामान्यो धात्वर्थः, यथा निरुक्ते-“मित्रो जनान्यातयति प्रब्रुवाणः-शब्दं कुर्वन्” [निरु०१०।२२] एवं सति (देवाः-यान्-च ववृधुः) पूर्वोक
+                06_angiraso_naH.md  (2 usages found)
+                    234 शब्दस्य देवतात्वं प्रतिपादितम्। अस्तु, निरुक्तेऽप्यस्मद्वत् पितर इत्यस्य स्वतन्त्रं देवतात्वमेव प्रतिपादितमङ्गिरआदीनामर्थाश्च यथा−“पिता पाता वा प
+                    234 सन्ति देवा ऋतुयुक्तसूर्यरश्मयः। उक्तं च निरुक्ते ‘पितर’ इत्याख्यानम्। “माध्यमिको देवगण इति नैरुक्ताः” [निरु०११।९९] रश्मयो देवाः-“उदिता देवाः सूर्यस
+                09_apeta_vIta.md  (1 usage found)
+                    286 त्रेधा निदधे पदम्” [ऋ० १।२२।१७] तथा च निरुक्तमत्र “यदिदं किञ्च तद्विक्रमते विष्णुस्त्रिधा निधत्ते पदं त्रेधा भावाय पृथिव्यामन्तरिक्षे दिवीति” [न
+                10_ati_drava.md  (1 usage found)
+                    243 नदेवताप्रकरणे पदनामसु निघण्टौ पठितत्वान्निरुक्ते च सरमा सरणादिति व्याख्यातत्वाददितिशब्देनं साकं वर्णनाच्च सरमाशब्दस्यार्थ उषोऽत्र गृह्यते। सूर्यचन
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/015  (4 usages found)
+                01_udIratAmavara_utparAsa.md  (3 usages found)
+                    256 इस सूक्त के प्रथम मन्त्र की व्याख्या निरुक्त में की गई है, जो नीचे मन्त्रभाष्य मेंउद्धृतहै। उसमें निरुक्तकार ने आधिदैविक विषय को दर्शाया है। तथ
+                    256 जो नीचे मन्त्रभाष्य मेंउद्धृतहै। उसमें निरुक्तकार ने आधिदैविक विषय को दर्शाया है। तथा ‘तस्मान्माध्यमिकान् पितॄन् मन्यन्ते’इस निरुक्तवचन से भी विश
+                    256 ‘तस्मान्माध्यमिकान् पितॄन् मन्यन्ते’इस निरुक्तवचन से भी विशेष स्पष्टीकरण हो जाता है। सम्पूर्ण सूक्त के देवता पितर हैं और इसमें मुख्यरूपेण यज्ञप्रक
+                04_barhiShadaH_pitara.md  (1 usage found)
+                    270 गाणां शमनं यावनं च भयानां धारयत, तथा च निरुक्तम् [४।११] ॥४॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/018  (2 usages found)
+                _index.md  (2 usages found)
+                    8 धायिन्यः । अतस्तद्देवताकाः । अन्त्या त्वनिरुक्तत्वात प्राजापत्या वा । तथा चानुक्रान्तं -- परं मृत्यो संकुसुकश्चतस्रो मृत्युदेवताः परा धात्री परा त
+                    8 पान्त्यान्त्यानुष्टुप् प्राजापत्या वा सानिरुक्ता ' इति ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/022  (1 usage found)
+                02_iha_shruta.md  (1 usage found)
+                    240 सकैः स्तूयते। ‘ऋचीषमः’ शब्दोऽनेकार्थः, निरुक्ते नैगमप्रकरणे पठितत्वात् ॥२॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/025  (1 usage found)
+                04_samu_pra.md  (1 usage found)
+                    255 रज्ञाः कर्मप्रवृत्तयश्च “धीतिः प्रज्ञा” [निरुक्त १०।४४]“धीतिभिः कर्मभिः” [निरु० ११।१६] (उ) निरन्तरम् (सम्प्रयन्ति) सम्यक् प्रगतिं कुर्वन्ति (सर्गास
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/027  (3 usages found)
+                22_vRxevRxe_niyatA.md  (2 usages found)
+                    246 रबलरूप से गिरते हैं। यह एक प्रकार का अर्थ निरुक्त में दिये यास्काचार्य के अनुसार अधिभौतिक दृष्टि से है। आध्यात्मिकदृष्टिसे−(वृक्षे वृक्षे) व्रश्चनशील
+                    256 रपतान्) जनानामत्तारो बाणाः प्रपतन्ति “इति निरुक्तम्” इत्थं च वृक्षे वृक्षे व्रश्चनशीले “वृक्षो व्रश्चनात्” [निरु० २।६] नश्वरशरीरे शरीरमात्रे गौर्गमनश
+                23_devAnAM_mAne.md  (1 usage found)
+                    234 ति) त्रयः “पर्जन्यो वायुरादित्यः” इति च निरुक्तम्। वर्षणेन शीतेनोष्णेन “शीतोष्णवर्षैरोषधीः पाचयन्ति” [निरु० २।२२] पृथिवीं पृथिवीस्थिताः-ओषधीः पाचयन
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/030  (2 usages found)
+                11_hinotA_no.md  (2 usages found)
+                    183 षवणचर्मणा ऊधसोऽधस्तादवस्थितेनेति मन्यमानो निरुक्तकारो ब्रवीति...’याज्ञे शकट इति वा ' (निरु. ६. २२) इति । यदेतद्यज्ञशकटस्याधस्तादुपरि चाधिषवणचर्म एतत
+                    183 यर्थत्वमुपपद्यते । एतस्या ऋचो व्याख्यानं निरुक्तटीकाया उद्धृतम् ॥४
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/031  (1 usage found)
+                01_A_no.md  (1 usage found)
+                    260 यतिभिर्योगिभिः सह “तुर इति यमनाम तरतेः” [निरुक्त १२।१४] संसारसागरं पारयितुं यतमानैः रक्षणाय योगिनामुपदेशं श्रुत्वा वयं परमात्मनः साक्षात्कारे प्रवृत
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/048  (2 usages found)
+                06_ahametAnChAshvasato_dvAdvendraM.md  (1 usage found)
+                    189 दारकम् । इन्द्रः शत्रूणां दारयिता इति निरुक्तम् (निरु. १०. ८ )। ईदृशं **वज्रं** बलिनं यद्वा वज्रवन्तं **युधये** युद्धाय **अकृण्वत** अकुर्वत तानेत
+                07_abhI3damekameko_asmi.md  (1 usage found)
+                    228 अत्र ‘ अभिभवामि' (निरु. ३. १०) इत्यादि निरुक्तं द्रष्टव्यम् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/053  (1 usage found)
+                04_tadadya_vAchaH.md  (1 usage found)
+                    185 अत्र ‘तदद्य वाचः' (निरु. ३. ८) इत्यादि निरुक्तं द्रष्टव्यम् ॥ ।
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/056  (1 usage found)
+                05_sahobhirvishvaM_pari.md  (1 usage found)
+                    185 ** लोकम् । ‘लोका रजांस्युच्यन्ते । इति निरुक्तम् । **पूर्वा** पूर्वाणि **धामानि** स्थानानि **अमिता** अन्यैरमितानि **मिमानाः** परिच्छिन्दन्तः **पर
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/061  (1 usage found)
+                04_kRShNA_yadgoShvaruNIShu.md  (1 usage found)
+                    200 ठतीत्यर्थः । ‘ अरुण्यो गाव उषसाम् ' इति निरुक्तम् । उषःकाले हे **दिवो** **नपाता** दीप्यमानस्य स्वर्गस्य प्रकाशात्मकस्य यागस्य वा न पातयितारौ हे अश
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/062  (2 usages found)
+                05_virUpAsa_idRShayasta.md  (2 usages found)
+                    156 (ऐ. ब्रा. ३. ३४) इति ब्राह्मणम् । अत्र निरुक्तं च द्रष्टव्यम् ( निरु. ३. १७ ) ॥ ॥ १ ॥
+                    224 निघ० २।११] “गम्भीरवेपसः गम्भीरकर्मणः” [निरुक्त ११।१६] (ते अङ्गिरसः सूनवः) परमात्माग्नेः सूनुसदृशाः (अग्नेः परिजज्ञिरे) यतस्ते परमात्माग्नौ परमात्मध
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/064  (1 usage found)
+                05_daxasya_vAdite.md  (1 usage found)
+                    169 तर्तवो यस्य होतारो भवन्ति तादृशः। अत्र निरुक्तम्। दक्षस्य वादिते जन्मनि कर्मणि व्रते राजानौ। नि. ११-२३। इत्यादि॥५॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/065  (1 usage found)
+                13_pAvIravI_tanyaturekapAdajo.md  (1 usage found)
+                    179 पुनाति कायम् । ( निरु. १२.३० ) इत्यादि निरुक्तमनुसंधेयम् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/071  (7 usages found)
+                02_saktumiva_titaunA.md  (1 usage found)
+                    200 तुमिव तितउना ' ( निरु. ४. १० ) इत्यादि निरुक्तमनुसंधेयम् ॥
+                04_uta_tvaH.md  (1 usage found)
+                    220 न पश्यति वाचम् ' (निरु. १. १९) इत्यादि निरुक्तमत्र द्रष्टव्यम् ॥
+                05_uta_tvaM.md  (1 usage found)
+                    196 सख्ये स्थिरपीतम्' (निरु. १.२० ) इत्यादि निरुक्तमत्रानुसंधेयम् ॥ ॥२३॥
+                07_axaNvantaH_karNavantaH.md  (1 usage found)
+                    169 योऽक्षि चष्टेः ' (निरु. १. ९) इत्यादिकं निरुक्तमत्र द्रष्टव्यम् ॥
+                08_hRdA_taShTeShu.md  (2 usages found)
+                    186 मनसां प्रजवेषु' (निरु. १३. १३ ) इत्यादिकं निरुक्तं द्रष्टव्यम् ॥
+                    257 नितान्तं विचरन्ति-प्रविशन्ति। अर्थोऽयं निरुक्तानुसारी [निरु० १३।१३] ॥८॥
+                11_RchAM_tvaH.md  (1 usage found)
+                    190 न् होतर्गंर्चनी ' ( निरु. १. ८) इत्यादिनिरुक्तानुसारेणार्थोऽभ्यधाथि । एवं बृहस्पतिर्विदितवेदार्थं तुष्टाव ॥ ॥ २४ ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/073  (1 usage found)
+                11_vayaH_suparNA.md  (1 usage found)
+                    190 वयो वेर्बहुवचनम्' (निरु. ४. ३) इत्यादि निरुक्तं द्रष्टव्यम् ॥ ॥ ४ ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/075  (2 usages found)
+                05_imaM_me.md  (2 usages found)
+                    168 आर्जीकीयाया वितस्तया सुषोमया च साहित्यं निरुक्त उक्तं -- ‘ वितस्तया चार्जीकीया आ शृणुहि सुषोमया च ' इति । अत्र 'गङ्गा गमनात्' (निरु. ९.२६) इत्यादि
+                    168 अत्र 'गङ्गा गमनात्' (निरु. ९.२६) इत्यादि निरुक्तं द्रष्टव्यम् ॥ ॥ ६ ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/077  (1 usage found)
+                01_abhrapruSho_na.md  (1 usage found)
+                    262 ० ७।८) सम्प्रति “नकारः सम्प्रत्यर्थे” [निरुक्त ६।८] तेषां सत्काराय (न शोभसे) तथा च भाषणाय “शुभ भाषणे” [भ्वादि०] (अस्तोषि) प्रशंसय “स्तुहि प्रशंसय
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/081  (3 usages found)
+                01_ya_imA.md  (1 usage found)
+                    188 अत्र निरुक्तं - ‘ विश्वकर्मा सर्वमेधे सर्वाणि भूतानि जुहवांचकार स आत्मानमप्यन्ततो जुहवांचकार । तदभिवादिन्येषर्ग
+                06_vishvakarmanhaviShA_vAvRdhAnaH.md  (2 usages found)
+                    172 र स आत्मानमप्यन्ततो जुहवांचकार ' इति हि निरुक्तं पूर्वमुदाहृतम् । **स्वयम्** एव **पृथिवीम्** **उत** अपि च **द्यां** दिवं च स्वसृष्टे द्यावापृथिव्य
+                    172 हविषा वर्धमानः ' (निरु. १०. २७) इत्यादि निरुक्तमनुसंधेयम् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/082  (1 usage found)
+                02_vishvakarmA_vimanA.md  (1 usage found)
+                    191 तमना व्याप्ता ' ( निरु. १०. २६ ) इत्यादि निरुक्तमनुसंधेयम् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/083  (1 usage found)
+                01_yaste_manyo_avidhadvajra.md  (1 usage found)
+                    184 धकर्मणो वधकर्मणो वा ' (निरु. १०. २९) इति निरुक्तम् । **यः** यजमानः **ते** तुभ्यम् **अविधत्** परिचरति हे **वज्र** वज्रवत्सारभूत **सायक** सायकवच्छत्र
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/084  (1 usage found)
+                01_tvayA_manyo.md  (1 usage found)
+                    166 रुह्य रुजन्तः' ( निरु. १०. ३०) इत्यादि निरुक्तमनुसंधेयम् ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/085  (4 usages found)
+                19_navonavo_bhavati.md  (3 usages found)
+                    210 उक्तं च निरुक्ते - 'तस्यैको रश्मिश्चन्द्रमसं प्रति दीप्यते' इति,   
+                    281 घ आयु को देता है। यह चन्द्र के पक्ष में निरुक्त के अनुसार आधिदैविक अर्थ है॥ प्रस्तुत गृहस्थपक्ष में तो−(जायमानः)पुत्ररूप से उत्पन्न हुआ (नवः नवः भवत
+                    291 गेन दीर्घमायुर्वर्धयति इति चन्द्रपक्षे निरुक्तमनुसृत्याधिदैविकोऽर्थः॥ प्रस्तुतगृहस्थपक्षे तु−(जायमानः) पुत्ररूपेणोत्पद्यमानः (नवः-नवः-भवति) नवो नव
+                20_sukiMshukaM_shalmaliM.md  (1 usage found)
+                    185 मनः प्रापणं **कृणुष्व** कुरुष्व । अत्र निरुक्तं (१२. ८) द्रष्टव्यम् ॥ ॥ २३ ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/086  (3 usages found)
+                01_vi_hi.md  (1 usage found)
+                    268 र्थान्वयभाषाः -  वक्तव्यम्−अयं मन्त्रो निरुक्ते आगतः, तत्र सूर्यकिरणानां व्यवहारो दर्शितः “अथैषादित्यरश्मीनाम्-वि हि सोतोः” [निरु० १३।४] तथैवात्र
+                04_yamimaM_tvaM.md  (1 usage found)
+                    232 कः श्वा चन्द्रमाः “वृकश्चन्द्रमा भवति” [निरुक्त ५।२०] अस्य कर्णं-कोणं ग्रसितवान् (शिरः नु-अस्य राविषम्) अस्य शिरोऽवश्यं लुनीयाम् (दुष्कृते न सुगं भ
+                05_priyA_taShTAni.md  (1 usage found)
+                    258 कः श्वा चन्द्रमाः “वृकश्चन्द्रमा भवति” [निरुक्त ५।२०] अस्य कर्णं-कोणं ग्रसितवान् (शिरः नु-अस्य राविषम्) अस्य शिरोऽवश्यं लुनीयाम् (दुष्कृते न सुगं भ
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/088  (3 usages found)
+                01_haviShpAntamajaraM_svarvidi.md  (1 usage found)
+                    248 त) सुखकरमग्निं प्रथयन्ति विद्वांसः, इति निरुक्तानुसारी खल्वर्थः ॥१॥
+                10_stomena_hi.md  (1 usage found)
+                    268 ऽग्निपदार्थः सर्वरूपा ओषधीः पोषयति, इति निरुक्तमनुसृत्यार्थः ॥१०॥
+                11_yadedenamadadhuryajniyAso_divi.md  (1 usage found)
+                    251 णिनः प्रत्यक्षं पश्यन्ति, इत्येषोऽर्थो निरुक्तानुसारी ॥११॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/094  (2 usages found)
+                07_dashAvanibhyo_dashakaxyebhyo.md  (1 usage found)
+                    218 तत्र दशावनिप्रभृतिगुणवन्तः स्युः-अयमर्थो निरुक्तानुसारी ॥७॥
+                14_sute_adhvare.md  (1 usage found)
+                    251 रेरयन्तः “अत्र तुद् धातुर्न व्यथनेऽर्थे निरुक्ते “तोदः-तुद्यते” [निरु०५।८] दिवादिरूपदर्शनात् प्रेरणार्थे वर्त्तते, “तोदः-प्रेरणसाधनम्” पठनाच्च तद्वत
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/095  (1 usage found)
+                04_sA_vasu.md  (1 usage found)
+                    171 इति पुंस्प्रजननस्य' ( निरु. ३. ३१) इति निरुक्तम् । पुंस्प्रजननेन **श्नथिता** ताडिता च भवति । एवमुर्वश्यात्मानं परोक्षेण निर्दिदेश ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/097  (1 usage found)
+                01_yA_oShadhIH.md  (1 usage found)
+                    165 तदाह' (श. ब्रा. ७. २. ४. ३६ ) इति । अत्र निरुक्तं च--' या औषधयः पूर्व जाता देवेभ्यस्त्रीणि युगानि पुरा मन्ये नु तद्बभ्रूणामहं बभ्रुवर्णानां भरणानां
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/098  (2 usages found)
+                05_ArShTiSheNo_hotramRShirniShIdandevApirdevasumatiM.md  (1 usage found)
+                    173 टिषेणस्य पुत्रः' (निरु. २. ११) इत्यादि निरुक्तं द्रष्टव्यम् ॥
+                _index.md  (1 usage found)
+                    8 गतः सूक्तविनियोगः । अस्य सूक्तस्याख्यानं निरुक्तकारः प्रदर्शयति-- देवापिश्चार्ष्टिषेणः शंतनुश्च कौरव्यौ भ्रातरौ बभूवतुः । स शंतनुः कनीयानभिषेचयांचक
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/101  (1 usage found)
+                07_prINItAshvAnhitaM_jayAtha.md  (1 usage found)
+                    174 चरतेर्वा क्रामतेर्वा' (निरु.४.२७) इति निरुक्तम् । अंसत्रकोशम् । अंसत्राणि धनूंषि कवचानि च कोशस्थानीयानि यस्मिन् तं सिञ्चत। नृपाणं यस्मिन् योद्धार
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/102  (2 usages found)
+                09_imaM_taM.md  (1 usage found)
+                    167 यन्तोऽपि काष्ठोच्यते' (निरु. २.१५) इति निरुक्तम् । आज्यन्तस्य मध्ये। संग्राम इत्यर्थः । तत्र **शयानं** हन्तव्यान् सर्वान् हत्वा सुखेन स्वपन्तं निर
+                _index.md  (1 usage found)
+                    8 प्त्वा चोरेभ्यो जगृहे स्वगाः' इति । तथा निरुक्तेऽपीयं कथा सूचिता----’ मुद्गलो भार्म्यश्व ऋषिर्वृषभं च द्रुघणं च युक्त्वा संग्रामे व्यवहृत्याजिं जिग
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/106  (3 usages found)
+                06_sRNyeva_jarbharI.md  (2 usages found)
+                    166 लकादौणादिकोऽरीतुप्रत्यय उत्वं च । अत्र निरुक्तं--- ‘द्विविधा सृणिर्भवति भर्ता च हन्ता च तथाश्विनौ चापि भर्तारौ जर्भरी भर्तारावित्यर्थस्तुर्फरीतू हन
+                    234 अश्विनौ वै देवानां भिषजौ” [ऐ० १।१८] इति निरुक्तानुसारी खल्वर्थोऽयम् ॥६॥
+                11_RdhyAma_stomaM.md  (1 usage found)
+                    212 यस्माभिर्दिङ्मात्रं प्रदर्शितानि । एवं निरुक्तव्याकरणादिभिरर्थविशेषे बुद्धिमद्भिरुन्नेयानि ॥ ॥ २ ॥
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/108  (3 usages found)
+                01_kimichChantI_saramA.md  (3 usages found)
+                    188 सरमेदं प्रानट् ' (निरु. ११. २५) इत्यादिकं निरुक्तं द्रष्टव्यम् ॥
+                    256 र्थान्वयभाषाः -  वक्तव्यम्−इस सूक्त में निरुक्त के अनुसारआलङ्कारिकचर्चा है। यहाँ “सरमा” माध्यमिका वाक् मेघ के अन्दर स्तनयित्नु नाम की गर्जना है, व
+                    271 पदार्थान्वयभाषाः -  वक्तव्यम्−निरुक्तानुसारतोऽत्रालङ्कारिकी चर्चा विद्यते। सरमा माध्यमिका वाक्, स्तनयित्नुवाक् “वाग् वै सरमा” [मै० सं० ४
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/110  (1 usage found)
+                05_vyachasvatIrurviyA_vi.md  (1 usage found)
+                    226 तिभ्यः सर्वप्रापिकाः सुखप्रदा भवत। इति निरुक्तानुसारी खल्वर्थः। अध्यात्मयज्ञे परमात्मनो व्याप्तयो विभूतयो वा तद्द्वारभूताः पतिभ्यः सुशोभमानाः पत्न
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/146  (1 usage found)
+                01_araNyAnyaraNyAnyasau_yA.md  (1 usage found)
+                    165 इवः संप्रत्यर्थे परिभयार्थे वा । अत्र निरुक्तम् -- ‘ अरण्यान्यरण्यस्य पत्न्यरण्यमपार्णं भवति ग्रामादरमणं भवतीति वा । अरण्यानीत्येनामामन्त्रयते ।
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/149  (2 usages found)
+                01_savitA_yantraiH.md  (1 usage found)
+                    171 येवं वर्षणाय मेघं क्लेशयतीत्यर्थः। अत्र निरुक्तं --- सविता यन्त्रैः पृथिवीमरमयदनारम्भणेऽन्तरिक्षे सविता द्यामदृंहदश्वमिवाधुक्षद्धुनिमन्तरिक्षे मेघ
+                05_hiraNyastUpaH_savitaryathA.md  (1 usage found)
+                    183 जागर्तेर्णल्युत्तमैकवचने रूपम् । अत्र निरुक्तं - ' हिरण्यस्तूपो हिरण्मयस्तूपो हिरण्यमयः स्तूपोऽस्येति वा । स्तूपः स्त्यायतेः संघातः । सवितर्यथा त
+            /home/vvasuki/gitland/vishvAsa/vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/178  (1 usage found)
+                03_sadyashchidyaH_shavasA.md  (1 usage found)
+                    207 षा कैश्चिदपि वारयितुमशक्येत्यर्थः। अत्र निरुक्तं - सद्योऽपि यः शवसा बलेन तनोत्यपः सूर्यइव ज्योतिषा पञ्च मनुष्यजातानि सहस्रसानिनी शतसानिन्यस्य सा गत

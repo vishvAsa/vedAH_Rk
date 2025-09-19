@@ -1,0 +1,222 @@
++++
+title = "001"
+devataa = "इन्द्रः"
+RShiH = "पुरुहन्मा"
+ChandaH = "बृहती"
+
++++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - पुरुहन्मा
+- छन्दः - बृहती
+</details>
+
+
+<details><summary>Thomson & Solcum</summary>
+
+यो᳓ रा᳓जा चर्षणीनां᳐᳓  
+या᳓ता र᳓थेभिर् अ᳓ध्रिगुः  
+वि᳓श्वासां᳐ तरुता᳓ पृ᳓तनानां᳐  
+ज्ये᳓ष्ठो यो᳓ वृत्रहा᳓ गृणे᳓
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Archaic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádhriguḥ ← ádhrigu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthebhiḥ ← rátha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yā́tā ← yā́tar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pŕ̥tanānām ← pŕ̥tanā- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+tarutā́ ← tarutár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvāsām ← víśva- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+gr̥ṇé ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+jyéṣṭhaḥ ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । राजा॑ । च॒र्ष॒णी॒नाम् । याता॑ । रथे॑भिः । अध्रि॑ऽगुः ।  
+विश्वा॑साम् । त॒रु॒ता । पृत॑नानाम् । ज्येष्ठः॑ । यः । वृ॒त्र॒ऽहा । गृ॒णे ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *rājā* ← *rājan*
+- \[noun\], nominative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+
+_________
+
+- *carṣaṇīnāṃ* ← *carṣaṇīnām* ← *carṣaṇi*
+- \[noun\], genitive, plural, feminine
+- “people.”
+
+_________
+
+- *yātā* ← *yātṛ*
+- \[noun\], nominative, singular, masculine
+
+_________
+
+- *rathebhir* ← *rathebhiḥ* ← *ratha*
+- \[noun\], instrumental, plural, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+
+_________
+
+- *adhriguḥ* ← *adhrigu*
+- \[noun\], nominative, singular, masculine
+- “rich; powerful.”
+
+_________
+
+- *viśvāsāṃ* ← *viśvāsām* ← *viśva*
+- \[noun\], genitive, plural, feminine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *tarutā* ← *tarutṛ*
+- \[noun\], nominative, singular, masculine
+- “tarutṛ \[word\].”
+
+_________
+
+- *pṛtanānāṃ* ← *pṛtanānām* ← *pṛtanā*
+- \[noun\], genitive, plural, feminine
+- “army; battle; pṛtanā \[word\]; pṛtanā.”
+
+_________
+
+- *jyeṣṭho* ← *jyeṣṭhaḥ* ← *jyeṣṭha*
+- \[noun\], nominative, singular, masculine
+- “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
+
+_________
+
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *vṛtrahā* ← *vṛtra*
+- \[noun\], masculine
+- “Vṛtra; vṛtra \[word\].”
+
+_________
+
+- *vṛtrahā* ← *hā* ← *han*
+- \[noun\], nominative, singular, masculine
+- “killing; curative; destroying; removing; māraka; stabbing.”
+
+_________
+
+- *gṛṇe* ← *gṛ*
+- \[verb\], singular, Present indikative
+- “praise.”
+
+_________
+
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**यः** इन्द्रः **चर्षणीनां** मनुष्याणां **राजा** स्वामी रथैः **याता** गन्ता च **अध्रिगुः** अधृतगमनोऽन्यैः **विश्वासां** **पृतनानां** सेनानां **तरुता** तारकः । **यः** च **ज्येष्ठः** गुणैर्ज्यायान् । यश्च **वृत्रहा** वृत्रं हतवान् । तं महाभागमिन्द्रं **गृणे** स्तौमि ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“I praise that **Indra** who is the lord of men, who proceeds irresistible in his chariots, the breaker-throughof all armies, the pre-eminent one, the slayer of **Vṛtra**.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+**Tarutā** = **tārakaḥ**, deliverer; (RV 8.1.21): conqueror
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+He who is king of the separate peoples, a driver with chariots, rich, an overcomer in all battles, who is sung as the preeminent smasher of  Vr̥tra—
+</details>
+
+<details><summary>Griffith</summary>
+
+HE who, as Sovran Lord of men, moves with his chariots unrestrained,  
+     The Vrtra-slayer vanquisher, of fighting hosts, preeminent, is praised with song.
+</details>
+
+<details><summary>Geldner</summary>
+
+Der der König der Völker ist, der Vornehme, der zu Wagen fährt, der Überwinder in allen Kämpfen, der als größter Vritratöter gefeiert wird;
+</details>
+
+<details><summary>Grassmann</summary>
+
+Ihn, der der Menschen König ist, auf Wagen unaufhaltsam fährt, Den Schlachtensieger preise ich, den besten Vritratödter ihn.
+</details>
+
+
+
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- पुरुहन्मा
+- पाद्निचृद्बृहती
+- मध्यमः
+</details>
