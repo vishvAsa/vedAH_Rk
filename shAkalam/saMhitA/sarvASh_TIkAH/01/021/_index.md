@@ -1,6 +1,5 @@
 +++
 title = "+021"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ Verses 5–6 then suggest what these allies can do for us; the final verse is in
 Indra and Agni The verbal “hero” of this hymn is the nom.-acc. du. pronoun tā́‘these two’, which represents the pairing of the otherwise very different gods Indra and Agni.
 
 The form appears 6x in the hymn, with an additional gen.-loc. táyoḥ in 1b.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२१   मेधातिथिः काण्वः। इन्द्राग्नी। गायत्री।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+080"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ The fifth-pāda refrain in every verse is an especially salient feature of the  
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+८०   गोतमो राहूगणः।  इन्द्रः, १६ इन्द्रः, (अथर्वा, मनुः दध्यङ् च)। पंक्तिः
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+102"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -25,4 +24,10 @@ tion between the jagatī and triṣṭubh sections is especially nicely handled:
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१०२   कुत्स आङ्गिरसः। इन्द्रः।  जगती, ११ त्रिष्टुप्
 </details>

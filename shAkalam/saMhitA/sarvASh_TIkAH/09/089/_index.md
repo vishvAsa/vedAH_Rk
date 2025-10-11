@@ -1,6 +1,5 @@
 +++
 title = "+089"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+089"
 <details><summary>Jamison Brereton</summary>
 
 89 (801)  
-Soma Pavamāna  
+Soma Pavamāna  
 Uśanas Kāvya  
 7 verses: triṣṭubh  
 The standard tropes of soma preparation, the swelling of Soma in water, his  manipulation by the priests’ fingers, his journey across the filter, and his mixing  with milk, provide the subject of this hymn, but, as often, each of these depic tions has a cosmic dimension—as in verses 1–2, where Soma is compared with  heavenly rain.
@@ -32,4 +31,10 @@ The section containing Triṣṭubh hymns
 These three hymns are attributed to Uśanas Kāvya, probably on the basis of the mention of his name in 87.3.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८९  उशना काव्यः।पवमानः सोमः। त्रिष्टुप्
 </details>

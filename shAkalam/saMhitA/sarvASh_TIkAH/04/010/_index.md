@@ -1,6 +1,5 @@
 +++
 title = "+010"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ ent abbreviated syntactic constituents, such as similes or tightly organized nou
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni On the unusual meter of this hymn and its interaction with the syntactic and semantic organization, see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १०  वामदेवो गौतमः। अग्निः। पदपङ्क्तिः, ४,६,७ उष्णिग्वा, ५ महापङ्क्तिः, ८ उष्णिक्
 </details>

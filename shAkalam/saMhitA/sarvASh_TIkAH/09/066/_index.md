@@ -1,6 +1,5 @@
 +++
 title = "+066"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,12 +10,12 @@ title = "+066"
 <details><summary>Jamison Brereton</summary>
 
 66 (778)  
-Soma Pavamāna, except Agni 19–21  
+Soma Pavamāna, except Agni 19–21  
 One hundred Vaikhānasa poets  
 30 verses: gāyatrī (except anuṣṭubh 18), arranged in trcas ̥  
-This hymn sets larger rhetorical goals for itself than the last one and inhabits  a less airless rhetorical space. Indeed, the hymn is in part about space: the con stricted area in which the soma is prepared and the materials employed in the  preparation are likened to various cosmic domains and natural phenomena (see,  e.g., vss. 2–3, 5–6, 12–13). Soma himself is explicitly or implicitly identified with  other deities and natural forces, and they with him:  the sun (vss. 18, 22, 27),  probably Indra (vs. 26), and especially Agni (vss. 19–21). This last identification  is so complete that the Anukramaṇī identifies Agni as the divinity of this tr̥ca— not surprisingly, as it begins (vs. 19) with an address to Agni, who is assigned  the archetypal Soma epithet “self-purifying” (vs. 20, with verbal forms in vss. 19  and 21), while also keeping his own characteristic vocabulary (esp. “installed in  front” [puróhita] vs. 20).  
+This hymn sets larger rhetorical goals for itself than the last one and inhabits  a less airless rhetorical space. Indeed, the hymn is in part about space: the con stricted area in which the soma is prepared and the materials employed in the  preparation are likened to various cosmic domains and natural phenomena (see,  e.g., vss. 2–3, 5–6, 12–13). Soma himself is explicitly or implicitly identified with  other deities and natural forces, and they with him:  the sun (vss. 18, 22, 27),  probably Indra (vs. 26), and especially Agni (vss. 19–21). This last identification  is so complete that the Anukramaṇī identifies Agni as the divinity of this tr̥ca— not surprisingly, as it begins (vs. 19) with an address to Agni, who is assigned  the archetypal Soma epithet “self-purifying” (vs. 20, with verbal forms in vss. 19  and 21), while also keeping his own characteristic vocabulary (esp. “installed in  front” [puróhita] vs. 20).  
 The poet also seeks comradeship with Soma (vss. 1, 4, 14, 18), in addition to the  usual good things.  
-From an Indo-European perspective, the hymn is notable for containing one of  three R̥gvedic occurrences of the famous phrase ákṣiti śrávaḥ “imperishable fame,”  cognate with Greek kléos áphthiton “idem,” and the formula, identified by Adelbert  Kuhn in 1853, that launched the field of comparative Indo-European poetics.
+From an Indo-European perspective, the hymn is notable for containing one of  three R̥gvedic occurrences of the famous phrase ákṣiti śrávaḥ “imperishable fame,”  cognate with Greek kléos áphthiton “idem,” and the formula, identified by Adelbert  Kuhn in 1853, that launched the field of comparative Indo-European poetics.
 </details>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -28,4 +27,10 @@ This is the second to the last of the composite Gāyatrī hymns in this maṇḍ
 
 On the place of these long hymns in the structure of the maṇḍala, see published introduction. to IX.61. All of these hymns consist of collections of tṛcas of varying degrees of cohesion. In fact, it is surprising how few tṛcas display a real attempt at thematic or lexical unity, and what they do show is often simply the byproduct of the fact that both the lexicon and thematic preoccupations of Maṇḍala IX are comparatively limited and so similar words and themes are not unlikely to show up in adjacent verses. This lack of unity contrasts, I think (this is my unsystematic and anecdotal impression) with collections of tṛcas in other maṇḍalas, notably VIII.</details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६६  शतं वैखानसाः।पवमानः सोमः, १९-२१ अग्निः पवमानः। गायत्री, १८ अनुष्टुप्।
 </details>

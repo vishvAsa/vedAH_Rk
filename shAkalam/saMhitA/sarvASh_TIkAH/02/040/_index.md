@@ -1,6 +1,5 @@
 +++
 title = "+040"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+040"
 <details><summary>Jamison Brereton</summary>
 
 40 (231)  
-Soma and Pūsaṇ  
+Soma and Pūsaṇ  
 Gr̥tsamada  
 6 verses: triṣṭubh  
 Soma and Pūṣan are addressed jointly in just this one hymn, and it is difficult to see  what brings them together here. The last three verses of this six-verse hymn contrast  their functions; in the first three they act jointly, but these actions are not particu larly characteristic of either of the two.
@@ -20,4 +19,10 @@ Soma and Pūṣan are addressed jointly in just this one hymn, and it is difficu
 <details><summary>Jamison Brereton Notes</summary>
 
 Soma and Pūṣan
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४०  गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः।सोमापूषणौ, ६ (अन्त्यार्धर्चस्य) अदितिः ।  त्रिष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+079"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ Instead of the ritual soma, we have here a portrait of an all-powerful and multi
 <details><summary>Jamison Brereton Notes</summary>
 
 Soma
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७९  कृत्नुर्भार्गवः।सोमः। गायत्री, ९ अनुष्टुप् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+059"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ As in some other Indra-Agni hymns, Agni is assimilated to Indra at least in the 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra and Agni On the structure of this hymn and the relationship between the two gods, see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५९  बार्हस्पत्यो भरद्वाजः।इन्द्राग्नी। बृहती, ७-१० अनुष्टुप्।
 </details>

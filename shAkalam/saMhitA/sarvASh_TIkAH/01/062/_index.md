@@ -1,6 +1,5 @@
 +++
 title = "+062"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -29,4 +28,10 @@ The hymn falls into two main sections. The first five verses are the more conven
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra Shares much vocabulary with I.61 and sometimes plays off the turns of phrase in that hymn.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+६२   ऋ. नोधा गोतमः,  इन्द्रः।  त्रिष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+029"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ It ends with three verses (13–15) in which the poet refers globally to the ama
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra As noted in the published introduction, the hymn is punctuated by expressions of somadrinking, each slightly different and generally found in the 2nd half of an even pāda: 2b ... papivā́ṃsaṃ sutásya 3b ... sómasya súṣutasya peyāḥ 3d ... papivā́m índro asya [rhyming with 2b] 5b ... somapéyam [cf. 3b] [7d sutám pibat ... sómam] 8b ... somyā́pā́ḥ 11d ... ápibaḥ sómam asya
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २९  गौरिवीतिः शाक्त्यः।इन्द्रः, ९(प्रथमपादस्य) उशना वा। त्रिष्टुप्।
 </details>

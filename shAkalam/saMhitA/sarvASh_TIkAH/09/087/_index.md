@@ -1,6 +1,5 @@
 +++
 title = "+087"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+087"
 <details><summary>Jamison Brereton</summary>
 
 87 (799)  
-Soma Pavamāna  
+Soma Pavamāna  
 Uśanas Kāvya  
 9 verses: triṣṭubh  
 This hymn, attributed to Uśanas Kāvya (perhaps because of the mention of that  figure in vs. 3), is built in part of standard soma-hymn tropes, but the militant  
@@ -35,4 +34,10 @@ The section containing Triṣṭubh hymns
 These three hymns are attributed to Uśanas Kāvya, probably on the basis of the mention of his name in 87.3.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८७  उशना काव्यः।पवमानः सोमः। त्रिष्टुप्।
 </details>

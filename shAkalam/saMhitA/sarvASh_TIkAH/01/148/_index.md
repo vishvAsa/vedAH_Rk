@@ -1,6 +1,5 @@
 +++
 title = "+148"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ Verse 4 is a thematic intrusion, with a standard description of a wildfire in  n
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१४८   दीर्घतमा औचथ्यः।अग्निः। त्रिष्टुप्
 </details>

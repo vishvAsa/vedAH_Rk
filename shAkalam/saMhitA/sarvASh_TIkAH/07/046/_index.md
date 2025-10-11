@@ -1,6 +1,5 @@
 +++
 title = "+046"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This brief hymn primarily begs Rudra to restrain his characteristic power to do 
 <details><summary>Jamison Brereton Notes</summary>
 
 Rudra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४६  मैत्रावरुणर्वसिष्ठः।रुद्रः। जगती, ४ त्रिष्टुप् ।
 </details>

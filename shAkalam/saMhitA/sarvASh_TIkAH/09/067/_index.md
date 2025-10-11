@@ -1,6 +1,5 @@
 +++
 title = "+067"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+067"
 <details><summary>Jamison Brereton</summary>
 
 67 (779)  
-Soma Pavamāna [or, according to Anukramaṇı̄, Soma Pavamāna 1–9, 13–22, 28–30; Soma Pavamāna or Pūsan ̣ 10–12; Agni 23, 24; Agni or Savitar 25; Agni or Agni and Savitar  26; Agni or the All Gods 27; Praise of the Student of the Pavamānı̄ Verses 31–32]  
+Soma Pavamāna [or, according to Anukramaṇı̄, Soma Pavamāna 1–9, 13–22, 28–30; Soma Pavamāna or Pūsan ̣ 10–12; Agni 23, 24; Agni or Savitar 25; Agni or Agni and Savitar  26; Agni or the All Gods 27; Praise of the Student of the Pavamānı̄ Verses 31–32]  
 Bharadvāja 1–3, Kaśyapa 4–6, Gotama 7–9, Atri 10–12, Viśvāmitra 13–15, Jamadagni  16–18, Vasiṣṭha 19–21, Pavitra Āṅgirasa or Vasiṣtha or both 22–32  
 32 verses: gāyatrī, except dvipadā gāyatrī 16–18, anuṣṭubh 27, 31–32, puraüṣṇih 30,  arranged in trcas through verse 21. ̥  
 
@@ -37,4 +36,10 @@ On the structure and authorship of this hymn and their implications for RVic stu
 
 On the place of these long hymns in the structure of the maṇḍala, see published introduction. to IX.61. All of these hymns consist of collections of tṛcas of varying degrees of cohesion. In fact, it is surprising how few tṛcas display a real attempt at thematic or lexical unity, and what they do show is often simply the byproduct of the fact that both the lexicon and thematic preoccupations of Maṇḍala IX are comparatively limited and so similar words and themes are not unlikely to show up in adjacent verses. This lack of unity contrasts, I think (this is my unsystematic and anecdotal impression) with collections of tṛcas in other maṇḍalas, notably VIII.</details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६७  ऋ. १-३ भरद्वाजो बार्हस्पत्यः, ४-६ कश्यपो मारीचः, ७-९ गोतमो राहूगणः, १०-१२ अत्रिर्भौमः, १३- १५ विश्वामित्रो गाथिनः, १६-१८ जमदग्निर्भार्गवः, १९-२१वसिष्ठो मैत्रावरुणिः, २२-३२ पवित्र आङ्गिरसो  वसिष्ठो वा उभौ वा।पवमानः सोमः, १०-१२ पवमानः पूषा वा, २३-२७ पवमानोऽग्निः, २५ पवमानः  सविता वा, २६ पवमानाग्निसवितारः, २७ विश्वे देवा वा, ३१-३२ पावमान्यध्येता। गायत्री, १६-१८  नित्यद्विपदा गायत्री, ३० पुरउष्णिक्, २७, ३१, ३२ अनुष्टुप्।
 </details>

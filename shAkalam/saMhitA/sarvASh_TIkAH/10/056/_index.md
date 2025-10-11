@@ -1,6 +1,5 @@
 +++
 title = "+056"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -18,4 +17,10 @@ Traditionally this hymn was interpreted as Br̥haduktha’s funeral hymn for his
 The first two verses urge the dead to merge his body with a light in an unspeci fied but very distant place, presumably even beyond heavenly lights like the sun, but  associated with the gods. This merger is considered a kind of birth (see vs. 1d). The  distance traveled on this good journey is treated in verse 3.  
 The meter changes in the next three verses (4–6) and so, to some extent, does  the topic. Verse 4 is quite unclear and quite disputed, in part because the ref erent of the pronoun “their” (eṣām) is not specified. In our opinion the verse  asserts that the ancestors (“forefathers”) do not control the fate of the recently  dead: “their” greatness (i.e., that of the recently dead) is not in the power of their  predecessors, the ancestors (4a); rather, the gods transfer the mental spirit of the  dead to the realm of the gods (4b), where they, the dead, incorporate animating  motion (4c) and re-enter their bodies (4d). In other words, the verse is an attempt  to describe the mechanism whereby the dead regain their bodies, joining mental  power with physical activity within the envelope of the old body. As such, it is  more detailed than the simple, reassuring command to the dead in the funeral  hymn X.14.8 “Unite with your body in your full luster,” which gives no directions  as to how to go about it.  
 The happy result of this heavenly reincarnation is expressed in the first half of  verse 5, but in the second half a more certain, because more visible, means to life  after death is depicted—the familiar one of extending one’s own life in the lives of  one’s progeny. This R̥gvedic truism is, in our view, developed in the following very  difficult verse (6) in two complementary ways. On the one hand, sons can make their  “lord” (in our view, their father) into a “finder of the sun”—here we take “sun” to  be equivalent to the light in verse 1, with which the dead are to merge—in two ways.  The father can merge with the highest light by being provided with a proper funeral,  and he can have further life on earth, continue to see the sun, as it were, by being  propagated in his children and grandchildren. Viewed from the opposite direction,  the forefathers, already in the heavenly afterlife, established their paternal dominion  by placing descendants in later generations. The final verse, returning to triṣṭubh meter, simply sums up in simpler language  Br̥haduktha’s understanding of this process. For a more detailed interpretation of  this hymn as a funeral hymn, see Brereton (forthcoming a).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५६  बृहदुक्थो वामदेव्यः। विश्वे देवाः। त्रिष्टुप्, ४-६ जगती।
 </details>

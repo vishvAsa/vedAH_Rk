@@ -1,6 +1,5 @@
 +++
 title = "+104"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+104"
 <details><summary>Jamison Brereton</summary>
 
 104 (620)  
-Destroying Demons, Using Imprecations and Curses.  Indra and Soma (1–7, 15, 25), Indra (8, 16, 19–22, 24), Soma (9,  12–13), Agni (10, 14), Gods (11), Pressing Stones (17), Maruts (18),  Vasisṭha’s Hopes for Himself (23ab), Earth and Midspace (23cd) ̣  
+Destroying Demons, Using Imprecations and Curses.  Indra and Soma (1–7, 15, 25), Indra (8, 16, 19–22, 24), Soma (9,  12–13), Agni (10, 14), Gods (11), Pressing Stones (17), Maruts (18),  Vasisṭha’s Hopes for Himself (23ab), Earth and Midspace (23cd) ̣  
 Vasiṣṭha Maitrāvaruṇi  
 25 verses: triṣṭubh, except jagatī 1–6, 18, 21, 23; anuṣṭubh 25; jagatī or triṣṭubh 7  
 This long and rambling hymn coming at the very end of the VIIth Maṇḍala is obvi ously an addition to the original collection, not only on formal grounds but on those  of content. Not a praise hymn, it calls upon a series of gods and other powers to  destroy all manner of threats to us, in all manner of creatively bloodthirsty ways. It  therefore has more in common with what we might term the “instrumental” hymns  of the Atharvaveda than with the R̥gvedic manner, and it is in fact found in almost  identical form as Atharvaveda Śaunaka VIII.4 and in Atharvaveda Paippalāda  XVI. The relentless focus on the elimination of evildoers and the changes rung on  the methods of destroying them can give an impression of homogeneity, despite the  number of different gods called on (mostly Indra and Soma, but with a number of  others interspersed: see the Anukramaṇī ascriptions above).  
@@ -28,4 +27,10 @@ Vasiṣṭha–Viśvāmitra feud elsewhere in the R̥gveda. It is always necessa
 Multiple divinities, to destroy demons and ward off evil 138 See the published introduction. for an introduction. to this complex composite hymn and its parts.
 
 Complete translations are given by Norman Brown (“The Rigvedic Equivalent for Hell,” JAOS 61 [1941]: 76-80) and Herman Lommel (“Vasiṣṭha und Viśvāmitra,” Oriens 18-19 [1965/66]: 200-27), as well as Doniger.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१०४  मैत्रावरुणर्वसिष्ठः। (राक्षोघ्नं) इन्द्रासोमौ, ८, १६, १९-२२ इन्द्रः, ९, १२-१३ सोमः, १०, १४ अग्निः, ११  देवाः, १७ ग्रावाणः, १८ मरुतः, २३ (पूर्वार्धस्य) वसिष्ठाशीः, (उत्तरार्धस्य) पृथिव्यन्तरिक्षे। त्रिष्टुप्, १ -  त्र, २१, २३ जगती, ७ जगती त्रिष्टुब्वा, २५ अनुष्टुप्।
 </details>

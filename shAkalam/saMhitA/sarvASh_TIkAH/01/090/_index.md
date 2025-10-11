@@ -1,6 +1,5 @@
 +++
 title = "+090"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The first segment begins with the principal Ādityas as our guides (vs. 1)  and 
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+९०   गोतमो राहूगणः, विश्वेदेवाः। गायत्री्, ९ अनुष्टुप् ।
 </details>

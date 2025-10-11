@@ -1,6 +1,5 @@
 +++
 title = "+125"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+125"
 <details><summary>Jamison Brereton</summary>
 
 125  
-Svanaya’s Dānastuti  
+Svanaya’s Dānastuti  
 Kakṣīvant Dairghatamasa  
 7 verses: triṣṭubh, except jagatī 4–5  
 This hymn falls into two distinct but thematically connected parts. The second part  (vss. 4–7) develops an extravagant picture of the rewards that accrue to the gener ous giver and sacrificer. The whole cosmos seems to exist only to gratify him, and  a place among the gods as an immortal awaits him. The syntax and sentiments are  straightforward and indeed somewhat simplistic.  
@@ -23,4 +22,10 @@ more inclined to receive the itinerant Prātaritvan because he may be entertaini
 <details><summary>Jamison Brereton Notes</summary>
 
 (The Early-coming one.) Svayana's Dānastuti For a sustained treatment of the “early-coming one” (prātáritvan-) see Jamison, Sac.Wife 184-89.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१२५   कक्षीवान् दैर्घतमस औशिजः।स्वनयस्य दानस्तुतिः। त्रिष्टुप्, ४-५ जगती।
 </details>

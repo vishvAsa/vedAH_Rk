@@ -1,6 +1,5 @@
 +++
 title = "+049"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ In contrast to VII.47, the waters in this hymn have more physical definition: in
 <details><summary>Jamison Brereton Notes</summary>
 
 Waters 77
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४९  मैत्रावरुणर्वसिष्ठः।आपः। त्रिष्टुप्।
 </details>

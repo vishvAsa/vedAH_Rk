@@ -1,6 +1,5 @@
 +++
 title = "+058"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+058"
 <details><summary>Jamison Brereton</summary>
 
 58 (770)  
-Soma Pavamāna  
+Soma Pavamāna  
 Avatsāra Kāśyapa  
 4 verses: gāyatrī  
 A curious little hymn or hymn-fragment. All four verses have a pāda-length refrain,  which is entirely applicable to Soma, and the hymn begins with this same refrain.  The first verse is clearly a soma verse throughout, but verse 2 is more appropriate to  Dawn and verses 3 and 4 appear to be an abbreviated dānastuti. The patrons named  in verse 3 are identified as protegés of the Aśvins in I.112.23 (though with the first in  slightly different form); middle Vedic literature also has a confused tradition about  these same personages.
@@ -29,4 +28,10 @@ The next 8 hymns, the last ones before the lengthy hymns assembled from tṛcas 
 IX.53-57. Oldenberg tends to analyze them as a tṛca with Schlussvers, which is strictly accurate, but I think the point is the interplay of 3+1.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५८ अवत्सारः काश्यपः।पवमानः सोमः। गायत्री।
 </details>

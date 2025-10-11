@@ -1,6 +1,5 @@
 +++
 title = "+019"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The divinity pairing in this hymn—the fire-god Agni and the stormy troop of  M
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni and the Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१९   मेधातिथिः काण्वः। अग्निर्मरुतश्च। गायत्री।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+059"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+059"
 <details><summary>Jamison Brereton</summary>
 
 59 (771)  
-Soma Pavamāna  
+Soma Pavamāna  
 Avatsāra Kāśyapa  
 4 verses: gāyatrī  
 Each of the four verses contains at least one form of “purify oneself/self-purifying,”  with three such imperatives in verse 2. That verse seems to contain a trio of elemental  substances, which are also connected with the ritual: waters, plants, and, in our interpre tation, the hearths as holy places, representative of fire. Soma as finder of good things  for us provides a thematic ring for the hymn; in verse 1 he finds the material and psy chological goods men desire, while in verse 4 he has raised the stakes to the cosmic level.
@@ -26,4 +25,10 @@ The next 8 hymns, the last ones before the lengthy hymns assembled from tṛcas 
 IX.53-57. Oldenberg tends to analyze them as a tṛca with Schlussvers, which is strictly accurate, but I think the point is the interplay of 3+1.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५९   अवत्सारः काश्यपः।पवमानः सोमः। गायत्री।
 </details>

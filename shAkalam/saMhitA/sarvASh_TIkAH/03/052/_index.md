@@ -1,6 +1,5 @@
 +++
 title = "+052"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This hymn is also an addition to the Indra collection. Entirely parallel to III.
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५२  गाथिनो विश्वामित्रः। इन्द्रः। त्रिष्टुप्, १-४ गायत्री, ६ जगती
 </details>

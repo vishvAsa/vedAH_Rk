@@ -1,6 +1,5 @@
 +++
 title = "+071"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The first nine verses beg Agni’s protection for the pious worshiper from all  
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७१  सुदीति-पुरुमीळ्हावाङ्गिरसौ, तयोर्वान्यतरः।अग्निः । गायत्री, १०-१५ प्रगाथः (विषमा बृहती समा  सतोबृहती)।
 </details>

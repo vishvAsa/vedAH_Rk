@@ -1,6 +1,5 @@
 +++
 title = "+048"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The final few verses (12–14) take a more ritual turn, with our ceremonial dedi
 <details><summary>Jamison Brereton Notes</summary>
 
 Soma
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४८  प्रगाथो घौरः काण्वः।सोमः। त्रिष्टुप्, ५ जगती
 </details>

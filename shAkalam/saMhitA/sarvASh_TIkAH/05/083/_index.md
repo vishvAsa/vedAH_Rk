@@ -1,6 +1,5 @@
 +++
 title = "+083"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Parjanya (“Thunder”) is the subject of only three hymns in the R̥gveda. Thi
 <details><summary>Jamison Brereton Notes</summary>
 
 Parjanya
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८३  भौमोऽत्रिः।पर्जन्यः। त्रिष्टुप्, २-४ जगती, ९ अनुष्टुप्।
 </details>

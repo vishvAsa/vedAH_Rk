@@ -1,6 +1,5 @@
 +++
 title = "+061"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The syntax is fairly straightforward, but there are a number of rare words and  
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६१  भर्गः प्रागाथः।इन्द्रः । प्रगाथः (विषमा बृहती समा सतोबृहती), १७ शंकुमती।
 </details>

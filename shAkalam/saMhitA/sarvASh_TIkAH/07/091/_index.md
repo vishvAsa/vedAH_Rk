@@ -1,6 +1,5 @@
 +++
 title = "+091"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+091"
 <details><summary>Jamison Brereton</summary>
 
 91 (607)  
-Vāyu (1, 3), Indra and Vāyu (2, 4–7)  
+Vāyu (1, 3), Indra and Vāyu (2, 4–7)  
 Vasiṣṭha Maitrāvaruṇi  
 7 verses: triṣṭubh  
 The last half of this hymn (vss. 4cd through 7, the last verse being repeated from  VII.90.7) is a straightforward invitation to Indra and Vāyu to journey to the sacri fice, bringing goods to distribute, and to drink the soma. The first half of the hymn  is both more miscellaneous and more obscurely phrased. True, verse 2 also issues  the invitation to the two gods, but it is sandwiched between two verses with which it  seems to have little in common.  
@@ -21,4 +20,10 @@ Verse 1 is variously interpreted, with its parts variously arranged in translati
 <details><summary>Jamison Brereton Notes</summary>
 
 Vāyu / Indra and Vāyu
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+९१  मैत्रावरुणर्वसिष्ठः।१, ३ वायुः, २, ४-७ इन्द्रवायू। त्रिष्टुप्।
 </details>

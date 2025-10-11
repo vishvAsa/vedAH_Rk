@@ -1,6 +1,5 @@
 +++
 title = "+142"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -17,4 +16,10 @@ Though short, this hymn displays both a well-articulated structure and intricate
 tive power of wildfire with vivid descriptions of its progress through the land. The final two verses, in a different meter, append a magical charm, to banish  dangerous fire from the land and make that land the abode of water and plants. The Anukramaṇī identifies “the four Śārṅgas” as the poets of the hymn. This is  an allusion to an episode in the Mahābhārata (Śārṅgopākhyānam, MBh I.220–25),  
 
 in which four birds, sons of an ascetic, are spared by Agni during the otherwise  complete burning of the Khāṇḍava Forest. This tale almost certainly postdates the  composition of our hymn.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १४२  शार्ङ्गाः - १-२ जरिता, ३-४ द्रोणः, ५-६ सारिसृक्कः, ७-८ स्तम्बमित्रः। अग्निः। त्रिष्टुप्, १-२ जगती, ७-८  अनुष्टुप्।
 </details>

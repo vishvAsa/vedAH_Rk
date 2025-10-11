@@ -1,6 +1,5 @@
 +++
 title = "+010"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ tive “that.” It is only in the second half of the verse that it becomes clea
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १०  बार्हस्पत्यो भरद्वाजः।अग्निः। त्रिष्टुप्, ७ द्विपदा विराट्
 </details>

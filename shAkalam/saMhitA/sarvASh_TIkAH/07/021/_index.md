@@ -1,6 +1,5 @@
 +++
 title = "+021"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The final two verses before the refrain (8–9) recognize Indra’s help in the 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२१  मैत्रावरुणर्वसिष्ठः।इन्द्रः। त्रिष्टुप्।
 </details>

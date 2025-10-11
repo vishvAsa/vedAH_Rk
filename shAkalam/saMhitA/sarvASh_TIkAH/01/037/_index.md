@@ -1,6 +1,5 @@
 +++
 title = "+037"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Typical Marut themes fill this hymn: their glittering beauty (lightning), their 
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३७   कण्वो घौरः। मरुतः। गायत्री
 </details>

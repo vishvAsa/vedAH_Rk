@@ -1,6 +1,5 @@
 +++
 title = "+062"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The final verse, as often, is a summary, and it seems to establish the truth val
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६२  प्रगाथो घौरः काण्वः ।इन्द्रः । पंक्तिः, ७-९ बृहती ।
 </details>

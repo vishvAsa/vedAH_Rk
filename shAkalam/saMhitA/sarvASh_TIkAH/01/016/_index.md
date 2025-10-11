@@ -1,6 +1,5 @@
 +++
 title = "+016"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This is nothing more than an extended invitation to Indra to come to the sacrifi
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१६   मेधातिथिः काण्वः। इन्द्रः। गायत्री
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+169"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -15,4 +14,10 @@ Cows
 Śabara Kākṣīvata  
 4 verses: triṣṭubh  
 For the protection, thriving, and safe return of the cows, invoking a formidable  range of gods to ensure these goals. In later ritual the first two verses are spoken  when the cows go to pasture, the latter two when they return home.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १६९  शबरः काक्षीवतः। गावः। त्रिष्टुप्
 </details>

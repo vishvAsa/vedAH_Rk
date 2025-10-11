@@ -1,6 +1,5 @@
 +++
 title = "+022"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+022"
 <details><summary>Jamison Brereton</summary>
 
 22 (734)  
-Soma Pavamāna  
+Soma Pavamāna  
 Asita Kāśyapa or Devala Kāśyapa  
 7 verses: gāyatrī  
 The hymn begins with the conventional image of the soma juices racing forward (vs.  1), but their journey soon becomes both cosmic and mystical. Their rush is com pared to cosmic forces in verse 2, and in verses 4–5 they travel through the cosmos  itself. But the poet reaches even further conceptually: he equates this cosmic jour ney with a ritual one. In matched expressions in verses 3 and 5 the juices pervade  not only the cosmic spaces (vs. 5) but also our “insights” (vs. 3), that is, the thoughts  that produce ritual poetry. And in verse 6 they reach a higher place than the cosmic  
@@ -23,4 +22,10 @@ who reacquired for him the cows stolen by the Paṇis (see esp. X.108)—an equa
 <details><summary>Jamison Brereton Notes</summary>
 
 On the structure and thematics of this hymn, see published introduction. Note also that the first 5 vss. begin eté, while the 2nd hemistichs of vss. 5 and 6 begin utédám. Further local chainings are discussed below.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २२  कश्यपोऽसितो देवलो वा।पवमानः सोमः। गायत्री।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+060"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ tic picture of their parentage. Notable also is the dicing imagery in verse 1.
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६०  श्यावाश्व आत्रेयः।मरुतोऽग्नमरुतौ वा। त्रिष्टुप्, ७-८ जगती।
 </details>

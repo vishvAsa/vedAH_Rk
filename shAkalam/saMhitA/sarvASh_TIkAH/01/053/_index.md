@@ -1,6 +1,5 @@
 +++
 title = "+053"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This hymn is divided into two roughly equal halves. After an initial verse exhor
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५३   सव्य आङ्गिरसः। इन्द्रः। जगती, १०-११ त्रिष्टुप् ।
 </details>

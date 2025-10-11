@@ -1,6 +1,5 @@
 +++
 title = "+095"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ bal accompaniments, as well as to Indra and the help he will bring. This verb is
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९५  तिरश्चिराङ्गिरसः।इन्द्रः। अनुष्टुप्।
 </details>

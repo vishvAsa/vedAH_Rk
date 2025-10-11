@@ -1,6 +1,5 @@
 +++
 title = "+022"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Although there are many puzzles in these mythological verses, the real crux is t
 
 (e.g., Yasna 44.20, Yasna 32.12, 14–15, Yasna 46.11)—just as our kārpāṇé occurs  in a verse with unidentified (and, as it happens, syntactically untethered) kavis. In  the topsy-turvy religious system of the Gāthās, of course, entities viewed positively  in the R̥gveda (like kavis) have negative valuation. This is not the place to explore  this hypothesis in detail, but for another apparent manifestation of this myth, see  X.99.9, and for further discussion see Jamison (2009d [2013]).  
 The hymn ends with an impeccable triṣṭubh verse (15), containing a conven tional invitation to Indra to drink the soma and conventional wishes for his good  will and patronage.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२२  ऐन्द्रोविमदः, प्राजापत्यो वा,वासुक्रो वसुकृद्वा। इन्द्रः। पुरस्ताद्बृहती, ५, ७, ९ अनुष्टुप्, १५ त्रिष्टुप्
 </details>

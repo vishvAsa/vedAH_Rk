@@ -1,6 +1,5 @@
 +++
 title = "+095"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The multitalented goddess of wisdom and patroness of arts and music familiar fro
 <details><summary>Jamison Brereton Notes</summary>
 
 Sarasvatī
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+९५  मैत्रावरुणर्वसिष्ठः।सरस्वती, ३ सरस्वान्। त्रिष्टुप्।
 </details>

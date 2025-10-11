@@ -1,6 +1,5 @@
 +++
 title = "+041"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Another invitation to Indra to drink the soma. The usual “drive” theme is al
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४१  बार्हस्पत्यो भरद्वाजः।इन्द्रः। त्रिष्टुप् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+020"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -29,4 +28,10 @@ trasts the proper patron–client behavior among humans with Indra’s failure t
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra 19 This hymn shows some stylistic tics, esp. a penchant for oddly placed particles (vss. 2, 4, 5) and for final enclitics (1d, 7d, 8b, 9a, 9d, as well as the refrain 10d).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२०  मैत्रावरुणर्वसिष्ठः।इन्द्रः। त्रिष्टुप्।
 </details>

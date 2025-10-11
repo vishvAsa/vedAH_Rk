@@ -1,6 +1,5 @@
 +++
 title = "+061"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ statement of her superiority (vs. 13) and a plea for her aid and sustenance (vs.
 <details><summary>Jamison Brereton Notes</summary>
 
 Sarasvatī On the structure of this hymn and its similarity to the immediately preceding one, see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६१  बार्हस्पत्यो भरद्वाजः।सरस्वती। गायत्री, १-३, १३ जगती, १४ त्रिष्टुप् ।
 </details>

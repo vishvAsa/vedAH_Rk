@@ -1,6 +1,5 @@
 +++
 title = "+062"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+062"
 <details><summary>Jamison Brereton</summary>
 
 62 (774)  
-Soma Pavamāna  
+Soma Pavamāna  
 Jamadagni Bhārgava  
 30 verses: gāyatrī, arranged in trcas ̥  
 Though long, this hymn remains focused on the familiar details of the preparation  of the soma, often ennobled by establishing cosmic parallels. The journey across1284 IX.62  
@@ -27,4 +26,10 @@ Though some of the tr̥cas display internal formal unity (e.g., vss. 19–21 beg
 
 On the place of these long hymns in the structure of the maṇḍala, see published introduction. to IX.61. All of these hymns consist of collections of tṛcas of varying degrees of cohesion. In fact, it is surprising how few tṛcas display a real attempt at thematic or lexical unity, and what they do show is often simply the byproduct of the fact that both the lexicon and thematic preoccupations of Maṇḍala IX are comparatively limited and so similar words and themes are not unlikely to show up in adjacent verses. This lack of unity contrasts, I think (this is my unsystematic and anecdotal impression) with collections of tṛcas in other maṇḍalas, notably VIII.</details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६२  जमदग्निर्भार्गवः।पवमानः सोमः। गायत्री।
 </details>

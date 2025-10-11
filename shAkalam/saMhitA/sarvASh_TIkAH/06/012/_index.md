@@ -1,6 +1,5 @@
 +++
 title = "+012"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ As often, the attempt to capture in words the actions of natural fire calls out 
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १२  बार्हस्पत्यो भरद्वाजः।अग्निः। त्रिष्ष्टुप् (६ पुरस्ताज्ज्योतिर्वा )
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+087"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ The first half of verse 4 returns to the style of verse 1, with a torrent of adj
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+८७  गोतमो राहूगणः। मरुतः। जगती
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+081"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -25,4 +24,10 @@ Vasiṣṭha Maitrāvaruṇi
 <details><summary>Jamison Brereton Notes</summary>
 
 Dawn
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+८१  मैत्रावरुणर्वसिष्ठः।इन्द्रावरुणौ। जगती।
 </details>

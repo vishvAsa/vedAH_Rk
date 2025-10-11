@@ -1,6 +1,5 @@
 +++
 title = "+110"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+110"
 <details><summary>Jamison Brereton</summary>
 
 110 (822)  
-Soma Pavamāna  
+Soma Pavamāna  
 Tryaruṇa and Trasadasyu  
 12 verses: pipīlikamadhyā 1–3, ūrdhvabr̥hatī 4–9, virāj 10–12, arranged in trcas ̥  
 This hymn is made up of verses in three rare meters; in fact verses 4–9 are the only  ones in all of the R̥gveda in this meter (consisting of verses of three pādas of twelve  syllables each), and the first three verses are the only pipīlikamadhyā stanzas in the  R̥gveda with this syllable count (12 8 12). (The meter’s name means “ant-middled,”  because a short pāda is sandwiched between two longer ones.) Despite the hetero  
@@ -24,4 +23,10 @@ In content the first three and the last three (10–12) verses are fairly straig
 <details><summary>Jamison Brereton Notes</summary>
 
 On the rare meters and their deployment in the hymn see published introduction. Likewise for its thematic structure and its connections to the previous hymn, IX.109. It is probably not an accident that the six middle verses, in a meter otherwise not found in the RV (see Oldenberg, Proleg. 130), are the conceptually challenging ones, flanked by three vss. at the beginning and three at the end that are fairly straightforward. An omphalos structure signalled by meter.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ११०  त्र्यरुणस्त्रैवृष्ण्यः त्रसदस्युः पौरुकुत्स्यः।पवमानः सोमः। १-३ पिपीलिकामध्या अनुष्टुप्, ४-९ ऊर्ध्वबृहती,  १०-१२ विराट् ।
 </details>

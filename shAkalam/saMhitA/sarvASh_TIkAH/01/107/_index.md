@@ -1,6 +1,5 @@
 +++
 title = "+107"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The first verse of this brief and elementary hymn continues the theme of “broa
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१०७   कुत्स आङ्गिरसः। विश्वे देवाः। त्रिष्टुप्।
 </details>

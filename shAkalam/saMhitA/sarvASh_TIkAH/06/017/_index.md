@@ -1,6 +1,5 @@
 +++
 title = "+017"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -28,4 +27,10 @@ This hymn is divided into two roughly equal parts, with the first devoted to the
 Indra This hymn is marked by clusters of localized repetitions and echoes; see disc.
 
 below.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १७  बार्हस्पत्यो भरद्वाजः।इन्द्रः। त्रिष्टुप्, १५ द्विपदा त्रिष्टुप्
 </details>

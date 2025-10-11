@@ -1,6 +1,5 @@
 +++
 title = "+073"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ ment of those motifs in earlier parts of the cycle. That both gods and men  and,
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+७३   पराशरः शाक्त्यः।अग्निः। त्रिष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+020"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -28,4 +27,10 @@ This hymn works briskly and efficiently through the marvelous feats accomplished
 <details><summary>Jamison Brereton Notes</summary>
 
 Ṛbhus
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२०    मेधातिथिः काण्वः। इन्द्राग्नी। गायत्री
 </details>

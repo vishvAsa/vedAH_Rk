@@ -1,6 +1,5 @@
 +++
 title = "+035"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,8 +10,14 @@ title = "+035"
 <details><summary>Jamison Brereton</summary>
 
 35 (747)  
-Soma Pavamāna  
+Soma Pavamāna  
 Prabhūvasu Āṅgirasa  
 6 verses: gāyatrī  
 Soma as the source and support of wealth and as ally in conflict is the theme of this  hymn, which is characterized by pleasing etymological figures (e.g., vss. 3, 4, 6) and  variant repetitions (e.g., vss. 2 + 5).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३५  प्रभूवसुराङ्गिरसः।पवमानः सोमः। गायत्री।
 </details>

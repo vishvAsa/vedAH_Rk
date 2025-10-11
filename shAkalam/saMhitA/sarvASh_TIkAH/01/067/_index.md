@@ -1,6 +1,5 @@
 +++
 title = "+067"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ Agni’s disappearance and hiding (vss. 3, 6–7) and his discovery by the gods 
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+६७ पराशरः शाक्त्यः।अग्निः। द्विपदा विराट्।
 </details>

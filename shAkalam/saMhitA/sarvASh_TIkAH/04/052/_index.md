@@ -1,6 +1,5 @@
 +++
 title = "+052"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ A simple hymn in contrast to the immediately preceding dawn hymn, with Dawn  dep
 <details><summary>Jamison Brereton Notes</summary>
 
 Dawn
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५२  वामदेवो गौतमः। उषाः। गायत्री
 </details>

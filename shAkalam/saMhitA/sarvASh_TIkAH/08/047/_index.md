@@ -1,6 +1,5 @@
 +++
 title = "+047"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+047"
 <details><summary>Jamison Brereton</summary>
 
 47 (667)  
-Ādityas  
+Ādityas  
 Trita Āptya  
 18 verses: mahāpaṅkti  
 The first two-thirds of this hymn (through vs. 12) beg the Ādityas for general help  and protection from generic evils—the nonspecific nature of what is requested  underlined by the rather redundantly phrased refrain. The refrain continues through  the last third of the hymn (vss. 13–18), but in the non-refrain portions the focus nar  
@@ -21,4 +20,10 @@ rows—to the elimination of the “bad dream,” which is sent far away to the 
 <details><summary>Jamison Brereton Notes</summary>
 
 Ādityas
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४७  त्रित आप्त्यः।आदित्याः, १४-१८ आदित्योषसः(दुःस्वप्नघ्नं) । महापङ्क्तिः
 </details>

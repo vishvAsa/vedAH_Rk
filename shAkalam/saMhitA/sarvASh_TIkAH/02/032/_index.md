@@ -1,6 +1,5 @@
 +++
 title = "+032"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This is a composite hymn, whose structure is not entirely clear. The first three
 <details><summary>Jamison Brereton Notes</summary>
 
 Various Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३२  गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः।१ द्यावापृथिवी, २-३ इन्द्रस्त्वष्टा वा, ४-५ राका,  ६-७ सिनीवाली, ८ लिङ्गोक्ताः । जगती, ६-८ अनुष्टुप्
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+181"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -15,4 +14,10 @@ All Gods
 Pratha Vāsiṣṭha (1), Sapratha Bhāradvāja (2), Gharma Saurya (3)  
 3 verses: triṣṭubh  
 Like X.179 this hymn is tightly tied to the Pravargya ritual—in this case celebrating  the great sāmans associated with that ritual, the Rathantara and the Br̥hat, and the  gharma, the hot milk offering that is its high point.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १८१  क्रमेण - प्रथो वासिष्ठः, सप्रथो भारद्वाजः, घर्मः सौर्यः। विश्वे देवाः । त्रिष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+051"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -18,7 +17,7 @@ This sixteen-verse hymn falls metrically into three quite unequal portions: 1–
 The hymn so defined differs markedly from the last two All God hymns (VI.49– 50), which catalogue a series of gods and their attributes in an unordered list. This  hymn, in contrast, is highly reminiscent of the Mitra, Varuṇa, and Sūrya hymns in  Maṇḍala VII (VII.60–63), in which the Sun surveys the human world and bears wit ness to Mitra and Varuṇa about the innocence and guilt of men. Like those hymns,  this begins with the rising of the sun (vss. 1–2); it then turns to praise of the Ādityas.  The emphasis is on their truth and lack of deceit—Ādityan preoccupations.  
 
 The omphalos verses (6–7), marked by initial repeated mā́ “don’t!,” beg the gods  not to subject us to undeserved punishment, thus implicitly claiming our innocence,  which should be visible to the all-seeing Sun (though the final pāda of the follow ing vs. 8 seems to allow the possibility of a modicum of guilt). The remaining five  verses (8–12) return to the theme of the truthful gods, with somewhat more insis tent prayers for grace and help. Toward the end, in verse 11, a larger group of gods  is named: invocations of additional gods at the end of a hymn are very common.  The last verse (12), naming the priestly family and summarizing the content and  intent of the hymn that precedes it, is a typical final verse.  
-The remaining verses (13–16) may have been appended to this hymn because they  chiefly concern various malefactors whom we wish to banish or destroy, including  the cheat (ripú, vs. 13) and the (clearly human) “wolf” (vŕ̥ka, vs. 14), both of which  were also mentioned as dangers in the omphalos verses (“cheat” vs. 7, “wolf” vs. 6).
+The remaining verses (13–16) may have been appended to this hymn because they  chiefly concern various malefactors whom we wish to banish or destroy, including  the cheat (ripú, vs. 13) and the (clearly human) “wolf” (vŕ̥ka, vs. 14), both of which  were also mentioned as dangers in the omphalos verses (“cheat” vs. 7, “wolf” vs. 6).
 </details>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -26,4 +25,10 @@ The remaining verses (13–16) may have been appended to this hymn because they 
 All Gods For the structure of this hymn (or, rather, composite of two hymns), see published
 
 introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५१  ऋजिश्वा भारद्वाजः।विश्वे देवाः। त्रिष्टुप्, १३-१५ उष्णिक्, १६ अनुष्टुप् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+017"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The other two hymns, or hymn fragments, are more opaque. The first (vss.  11–1
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१७  इरिम्बिठिः काण्वः। इन्द्रः, १४ वास्तोष्पतिर्वा । गायत्री, प्रगाथः (१४ बृहती, १५ सतोबृहती )
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+078"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ seem to be immediately present, while the other verses have singular Dawn. But t
 Dawn On the lexical marks of this hymn, see published introduction. The signature word práti opens the hymn and is repeated at the beginning of the first two pādas of vs. 2 and in the middle of 3a; it returns at the beginning of the last vs. (5), thus sketching a ring.
 
 The other signature word, fem. pres. part. vibhātī́- ‘radiating widely’ is concentrated in the latter part of the hymn, ending the pādas 3b, 4b, and 5c.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+७८  मैत्रावरुणर्वसिष्ठः।उषसः। त्रिष्टुप्।
 </details>

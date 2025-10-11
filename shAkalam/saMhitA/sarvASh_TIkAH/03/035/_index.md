@@ -1,6 +1,5 @@
 +++
 title = "+035"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ In the context of R̥gvedic poetry what is striking are the absent elements. The
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३५  गाथिनो विश्वामित्रः।इन्द्रः। त्रिष्टुप्
 </details>

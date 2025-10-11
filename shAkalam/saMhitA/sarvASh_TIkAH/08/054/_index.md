@@ -1,6 +1,5 @@
 +++
 title = "+054"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The three pragāthas dedicated to Indra (vss. 1–2, 5–6, 7–8) are interrupt
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५४  मेध्यः काण्वः।इन्द्रः। प्रगाथः (विषमा बृहती समा सतोबृहती)।
 </details>

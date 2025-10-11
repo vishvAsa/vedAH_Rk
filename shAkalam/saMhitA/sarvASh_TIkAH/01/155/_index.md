@@ -1,6 +1,5 @@
 +++
 title = "+155"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+155"
 <details><summary>Jamison Brereton</summary>
 
 155  
-Viṣṇu and Indra (1–3), Viṣṇu (4–6)  
+Viṣṇu and Indra (1–3), Viṣṇu (4–6)  
 Dīrghatamas Aucathya  
 6 verses: jagatī  
 This hymn starts by praising Indra and Viṣṇu jointly (vss. 1–2), but by verse 3 (pace  the Anukramaṇī) it is entirely Viṣṇu’s. The beginning seems to offer alternative sce narios for the creation of the wide space that is ordinarily attributed to Viṣṇu’s  three strides. In verse 1 the two gods standing on the back of the mountains seem  to enlarge the space, and in verse 2 their clash (presumably with unnamed enemies)  creates breathing room, while they also deflect the arrow of the archer Kr̥śānu,  whose presence here is not explained. (Kr̥śānu is best known as the archer who  
@@ -22,4 +21,10 @@ The paired verses 3 and 4, with their mysteries and paradoxes, appear to consti 
 <details><summary>Jamison Brereton Notes</summary>
 
 Viṣṇu and Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१५५   दीर्घतमा औचथ्यः।विष्णुः, १-३ इन्द्राविष्णू। जगती ।
 </details>

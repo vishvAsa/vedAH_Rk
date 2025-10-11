@@ -1,6 +1,5 @@
 +++
 title = "+028"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The final verse (5) is in the same riddling style as the following hymn (VIII.29
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२८  मनुर्वैवस्वतः। विश्वे देवाः। गायत्री, ४ पुरउष्णिक्
 </details>

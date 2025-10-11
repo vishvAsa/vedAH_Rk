@@ -1,6 +1,5 @@
 +++
 title = "+019"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+019"
 <details><summary>Jamison Brereton</summary>
 
 19 (731)  
-Soma Pavamāna  
+Soma Pavamāna  
 Asita Kāśyapa or Devala Kāśyapa  
 7 verses: gāyatrī  
 This hymn contains fewer direct ritual references than recent hymns. The focus is  instead on the exchange relation between Soma and his praisers: hymns for goods,  an exchange that is seen as, literally, fecund. Our insights and the words they pro duce are depicted as females waiting to be impregnated (vs. 5) and made to swell (vs.  2), as they call to the bullish Soma for his semen (vs. 4). The impregnated thoughts  will give birth not only to inspired poetry, but also to the material goods that this  poetry will win, as verses 1 and 6 make clear. The final two verses (6–7) also call for  Soma’s help in besting rivals.
@@ -20,4 +19,10 @@ This hymn contains fewer direct ritual references than recent hymns. The focus i
 <details><summary>Jamison Brereton Notes</summary>
 
 On the imagery in the hymn, see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १९  कश्यपोऽसितो देवलो वा।पवमानः सोमः। गायत्री।
 </details>

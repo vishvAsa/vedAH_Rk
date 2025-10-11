@@ -1,6 +1,5 @@
 +++
 title = "+063"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ vartaním), which reminds us of the later designation cakra-vartin “turner of 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६३  प्रगाथः काण्वः।इन्द्रः, १२ देवाः। १, ४-५, ७ अनुष्टुप्, १२ त्रिष्टुप् ।
 </details>

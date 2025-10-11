@@ -1,6 +1,5 @@
 +++
 title = "+100"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+100"
 <details><summary>Jamison Brereton</summary>
 
 100 (812)  
-Soma Pavamāna  
+Soma Pavamāna  
 Two sons of Rebha, the Kāśyapas  
 9 verses: anuṣṭubh  
 As Oldenberg suggests (1888:  128–29), in order to conform to the principles of  arrangement, this hymn must have originally consisted of two separate hymns, of  five and four verses respectively. This division, made solely on numerical grounds,  is confirmed by the structure of the hymn, for the final four verses repeat or ring  changes on the first five. Verse 6, the first of the original second hymn, is structur  
@@ -30,4 +29,10 @@ On the structure of this hymn, or rather two twinned hymns (1-5, 4-9), see publi
 Hymns predominantly in Anuṣṭubh
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १००  रेभसूनू काश्यपौ।पवमानः सोमः। अनुष्टुप्
 </details>

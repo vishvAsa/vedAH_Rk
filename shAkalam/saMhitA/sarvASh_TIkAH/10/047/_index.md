@@ -1,6 +1,5 @@
 +++
 title = "+047"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -18,4 +17,10 @@ Though the Anukramaṇī attributes this hymn to a different poet from the last 
 rupted by the syntactically unconnected refrain; in the latter case with the accusative  rayím in the refrain. The semantics of the predicate adjectives in these verses would  allow either, sometimes slightly tipped toward one or the other. It may seem that  the question is settled finally in verse 5, where we encounter the first noun—vā́jam  
 “prize”—in this sea of adjectives, since “prize” might seem a more likely synonym of  “wealth” than of Indra. However, in the rhetorical universe of the R̥gveda it would  certainly be possible to refer to a god as a prize. We think it highly likely that the  poet intended the audience to consider both possibilities throughout the sequence.  
 The last three verses (6–8) more conventionally state that praises are being  offered, to Br̥haspati (vs. 6) and to Indra (vss. 7–8), in return for favors.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४७  सप्तगुराङ्गिरसः। वैकुण्ठ इन्द्रः।  त्रिष्टुप्
 </details>

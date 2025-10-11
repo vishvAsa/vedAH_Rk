@@ -1,6 +1,5 @@
 +++
 title = "+054"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Etymological figures and lexical repetitions abound in this hymn, and through  t
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५४    सव्य आङ्गिरसः।  इन्द्रः । जगती, ६, ८-९, ११ त्रिष्टुप्।
 </details>

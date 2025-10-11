@@ -1,6 +1,5 @@
 +++
 title = "+085"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ Although the focus throughout is firmly on the Maruts, there is one seemingly  i
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts On the concatenative repetition in this hymn, see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+८५   गोतमो राहूगणः। मरुतः। जगती, ५, १२ त्रिष्टुप्
 </details>

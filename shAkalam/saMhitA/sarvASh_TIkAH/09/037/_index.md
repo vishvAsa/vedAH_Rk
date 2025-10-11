@@ -1,6 +1,5 @@
 +++
 title = "+037"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+037"
 <details><summary>Jamison Brereton</summary>
 
 37 (749)  
-Soma Pavamāna  
+Soma Pavamāna  
 Rahūgaṇa Āṅgirasa  
 6 verses: gāyatrī  
 Several overt devices provide unity to this hymn: each verse begins with sá “he,”  and each verse but 4 contains a verb of motion (“rush, run, flow”) expressing the  journey of the soma through the filter and into the cups for Indra. In addition to  the mundane details of the preparation, however, the hymn makes cosmic claims for  the ritual actions. The sheep’s fleece of verse 3 also stands for “the luminous realms  of heaven”; in verse 5 Soma finds a wide realm, usually a symbol of freedom and  the acquisition of territory.  
@@ -21,4 +20,10 @@ Verse 4, the pause on the journey, has been much discussed, and its various  phr
 <details><summary>Jamison Brereton Notes</summary>
 
 For the rhetorical structure of the hymn, see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३७  रहूगण आङ्गिरसः। पवमानः सोमः। गायत्री।
 </details>

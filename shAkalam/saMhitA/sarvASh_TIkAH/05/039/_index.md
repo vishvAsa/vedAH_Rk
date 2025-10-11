@@ -1,6 +1,5 @@
 +++
 title = "+039"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ As was already noted, this hymn is paired with V.38, sharing some vocabulary and
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra As was noted in the published introduction, this hymn is twinned with V.38 in Vālakhilya fashion, though it does not give as much help as it might in interpreting the previous hymn.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३९ भौमोऽत्रिः।इन्द्रः। अनुष्टुप्, ५ पङ्क्तिः।
 </details>

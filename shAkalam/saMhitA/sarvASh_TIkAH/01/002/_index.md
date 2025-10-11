@@ -1,6 +1,5 @@
 +++
 title = "+002"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -55,7 +54,7 @@ title = "+002"
 <details><summary>Jamison Brereton</summary>
 
 2  
-Vāyu (1–3), Indra and Vāyu (4–6), Mitra and Varuṇa (7–9)  
+Vāyu (1–3), Indra and Vāyu (4–6), Mitra and Varuṇa (7–9)  
 Madhuchandas Vaiśvāmitra  
 9 verses: gāyatrī, arranged in tr̥cas  
 This and the following hymn constitute what is later called the Praügaśastra, the  “yoke-pole-tip recitation,” which is the second recited litany in the morning soma pressing. In classical śrauta ritual the śastra consists of seven sets of three verses or tr̥cas. In the recitation each triplet of verses is preceded by an introductory nivid, a  brief declaration of the deities invoked in the recitation. Recitations typically combine  verses from different hymns, or they may require that the form of the R̥gvedic verses be  recast, but in this case the nivids need only be added to produce the recitation. These  two hymns, therefore, are already fit for the classical performance of the soma ritual.  
@@ -65,7 +64,7 @@ In the R̥gvedic rite, Vāyu was the first of the gods to receive the soma and t
 In I.3 the first tr̥ca is dedicated to the two Aśvins, who are the third set of dual  divinities at the classical Morning Pressing. In the classical rite there are also morn ing offerings to Indra and to the All Gods. Those gods are mentioned in the next  two tr̥cas (Indra, vss. 4–6; the All Gods, vss. 7–9), but at the time of the composition  of these hymns, these verses probably refer to the midday and evening rites rather  than to the morning offering.  
 In most of the Family Books of the R̥gveda, Indra alone is the principal at the  Midday Pressing, though especially in Maṇḍala III there is evidence that the Maruts  have joined Indra as dedicands, as in the classical rite. The Maruts are not mentioned  in our hymn, however, and were probably not a part of the soma rite for which these  hymns were composed. Although the R̥bhus and Indra were the principal recipients  of soma at the Third Pressing for most of the R̥gvedic period, the R̥bhus are absent  from this hymn, indicating that, as also in the classical rite, they had already all  but disappeared from the soma rite. Rather, in this hymn and in the classical rite,  there is a soma offering to the All Gods in the evening. This association of the All  Gods with the Third Pressing must be fairly old, since the Brāhmaṇa texts refer to  the Third Pressing as vaiśvadevyam “belonging to the All Gods.” The last tr̥ca (vss.  10–12) of I.3 is to Sarasvatī, who does not receive an offering in the Third Pressing  at the classical rite and has only a limited presence in the R̥gveda. However, she  likely did receive soma at the Third Pressing in the period of this transitional rite.  
 For further on this śastra and the order of divinities addressed, see the other  hymns with this structure, I.23 and II.41, as well as I.139 in part. It is not clear why  the śastra has been split into two hymns just in this case.  
-The actual content of the two hymns is quite simple. In I.2 the first two tr̥cas to  Vāyu and Indra and Vāyu respectively announce that the soma has been pressed  and urge the gods to come to our sacrifice. The tr̥ca to Mitra and Varuṇa is slightly  more interesting, in that it mentions the frequently conjoined notions of “insight” (dhī́), “skill” (dákṣa), and “resolve” or “purpose” (krátu), the three elements neces sary to conceive and carry out an action.
+The actual content of the two hymns is quite simple. In I.2 the first two tr̥cas to  Vāyu and Indra and Vāyu respectively announce that the soma has been pressed  and urge the gods to come to our sacrifice. The tr̥ca to Mitra and Varuṇa is slightly  more interesting, in that it mentions the frequently conjoined notions of “insight” (dhī́), “skill” (dákṣa), and “resolve” or “purpose” (krátu), the three elements neces sary to conceive and carry out an action.
 </details>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -75,4 +74,10 @@ Vāyu, etc. (Praügaśastra)
 The recipients of the various tṛcas making up these two rather simple hymns are clearly signalled. All three verses making up the first tṛca to Vāyu (vss. 1-3) open with a voc. vāyo; the second tṛca (to Indra and Vāyu, vss. 4-6) opens with the voc. índravāyū, while the next two begin with the famous “Vāyav Indraś ca” construction (on which see Jamison 1988). The pattern is varied in the Mitra and Varuṇa tṛca (7- 9), with the conjoined accusatives mitrám and váruṇaṃ ca opening the first and second pādas of vs. 7, and the dual dvandva mitrā́váruṇā(v) in second position in the next two verses, first as a vocative, then as a nominative.
 
 There appears to be some attempt to create bridges between the tṛcas: verses 3 and 4 both sketch a reversal of the usual ritual model; vss. 6 and 7 both concern our ‘insight’ (dhī́).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२  मधुच्छन्दा वैश्वामित्रः। १-३ वायुः, ४-६ इन्द्र-वायू, ७-९ मित्रा-वरुणौ। गायत्री
 </details>

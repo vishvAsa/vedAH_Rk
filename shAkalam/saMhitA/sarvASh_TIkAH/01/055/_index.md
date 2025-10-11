@@ -1,6 +1,5 @@
 +++
 title = "+055"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The hymn has a weak omphalos shape, with the paired middle verses 4 and 5  contr
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५५   सव्य आङ्गिरसः। इन्द्रः। जगती।
 </details>

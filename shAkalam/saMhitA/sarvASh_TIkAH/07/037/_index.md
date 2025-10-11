@@ -1,6 +1,5 @@
 +++
 title = "+037"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ The first four verses concern the sacrifice: the gods come, drink together, and 
 All Gods As noted in the published introduction, this hymn is primarily devoted to the Ṛbhus (vss.
 
 1-2) and Indra (vss. 3-7), which associates the hymn with the Third Pressing.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३७  मैत्रावरुणर्वसिष्ठः।विश्वे देवाः। त्रिष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+044"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The major trick of this short hymn is the extended pun between the words hári �
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra On the extended pun in this hymn, see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४४  गाथिनो विश्वामित्रः।इन्द्रः । बृहती
 </details>

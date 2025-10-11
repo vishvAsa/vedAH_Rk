@@ -1,6 +1,5 @@
 +++
 title = "+031"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+031"
 <details><summary>Jamison Brereton</summary>
 
 31 (651)  
-Yajamāna + Patnı̄[Praise of Offering and Laud of  the Sacrificer 1–4; Household 5–9; Blessings for the Household  Pair 10–18]  
+Yajamāna + Patnı̄[Praise of Offering and Laud of  the Sacrificer 1–4; Household 5–9; Blessings for the Household  Pair 10–18]  
 Manu Vaivasvata  
 18 verses: gāyatrī 1–8, 10–13; anuṣṭubh 9, 14; paṅkti 15–18  
 This last hymn of the small Manu Vaivasvata collection shows its composite nature  by its length, its mixture of meters, and, especially, by its themes. The first nine  verses contain two parallel treatments of the same subject; verses 10–14 seem  unconnected both with what precedes and what follows, and resemble some of the  disordered All God sequences in earlier Manu Vaivasvata hymns (VIII.27.1–8 and  VIII.28) in calling on an odd assortment of gods for protection; the final four verses  (15–18) return to the topic of the beginning of the hymn, the benefits accruing to  the punctilious sacrificer, though in rather general terms.  
@@ -24,4 +23,10 @@ The Anukramaṇī considers the final four verses (15–18) to be blessings for 
 <details><summary>Jamison Brereton Notes</summary>
 
 Yajamāna and patnī, etc.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३१  मनुर्वैवस्वतः।१-४ यज्ञः यजमानश्च, ५-९ दंपती, १०-१८ दंपत्याशिषः । गायत्री, ९, १४ अनुष्टुप्, १०  पादनिचृत्, १५, १८ पङ्क्तिः।
 </details>

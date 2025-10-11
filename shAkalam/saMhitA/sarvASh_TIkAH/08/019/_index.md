@@ -1,6 +1,5 @@
 +++
 title = "+019"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+019"
 <details><summary>Jamison Brereton</summary>
 
 19 (639)  
-Agni (1–33), Ādityas (34–35), Trasadasyu’s Dānastuti  (36–37)  
+Agni (1–33), Ādityas (34–35), Trasadasyu’s Dānastuti  (36–37)  
 Sobhari Kāṇva  
 37 verses: 1–26, 28–33 pragātha strophes of kakubh (8 12 8) and satobr̥hatī (12 8 12  8), except dvipadā virāj 27, uṣṇih 34, satobr̥hatī 35, kakubh 36, paṅkti 37  
 Save for VI.16 with its 48 verses, this is the longest hymn dedicated to Agni in  the R̥gveda, but unlike the composite VI.16, this hymn shows clear signs of unity.  This unity is evident (though more clearly in the Sanskrit) in the constant recy cling and recombination of vocabulary, especially the lexicon related to sacrifice.  Thematically the hymn focuses on Agni’s role in the sacrifice and on mortals’ tasks1064 VIII.19  
@@ -27,4 +26,10 @@ It is hoped that this introduction gives some sense of the richness and intricat
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१९   सोभरिः काण्वः। अग्निः, ३४-३५ आदित्याः, ३६-३७ त्रसदस्युः पौरुकुत्स्यः। १-२६ प्रगाथः - विषमा  ककुप्, समा सतोबृहती, २७ द्विपदा विराट्, २८-३३ प्रगाथः - समा ककुप्, विषमा सतोबृहती, ३४ उष्णिक्,  ३५ सतोबृहती, ३६ ककप्, ३७ पङ्क्तिः ।
 </details>

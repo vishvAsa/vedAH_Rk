@@ -1,6 +1,5 @@
 +++
 title = "+140"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ sioned as a transformation into a better and more vigorous form (see esp. vss. 7
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१४०   दीर्घतमा औचथ्यः।अग्निः। जगती, १० त्रिष्टुब्वा, १२-१३ त्रिष्टुप् ।
 </details>

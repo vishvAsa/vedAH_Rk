@@ -1,6 +1,5 @@
 +++
 title = "+058"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+058"
 <details><summary>Jamison Brereton</summary>
 
 58 (499)  
-Pūsaṇ  
+Pūsaṇ  
 Bharadvāja Bārhaspatya  
 4 verses: triṣṭubh, except jagatī 2  
 This last hymn in the Pūṣan cycle in Maṇḍala VI is the only one in trimeter meter,  rather than the less formal dimeter. It pictures Pūṣan in a more cosmic context than  the previous hymns and ascribes rather more powers to him. The final verse (4),  probably with verse 3, refers to the apparent marriage of Pūṣan to Sūryā, daughter  of the Sun, a tale alluded to in passing earlier in this cycle.854 VI.59
@@ -20,4 +19,10 @@ This last hymn in the Pūṣan cycle in Maṇḍala VI is the only one in trimet
 <details><summary>Jamison Brereton Notes</summary>
 
 Pūṣan As noted in the published introduction, the style and in part the register of this, the only trimeter hymn in the Pūṣan cycle, is more elevated than the rest. Still, characteristic lexical items -- ajā́śva- ‘having goats for horses’, áṣṭra- ‘goad -- are found.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५८  बार्हस्पत्यो भरद्वाजः।पूषा। त्रिष्टुप्, २ जगती।
 </details>

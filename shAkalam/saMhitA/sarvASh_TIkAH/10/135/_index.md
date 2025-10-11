@@ -1,6 +1,5 @@
 +++
 title = "+135"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -30,4 +29,10 @@ For a detailed presentation of this interpretation of X.135, see Jamison  (forth
 <details><summary>Geldner</summary>
 
 Der Sohn:
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १३५  कुमारो यामायनः। यमः। अनुष्टुप्
 </details>

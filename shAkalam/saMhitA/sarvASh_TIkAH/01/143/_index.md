@@ -1,6 +1,5 @@
 +++
 title = "+143"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The beginning and end of this hymn focus on the ritual fire and our relationship
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni I.143.2, 4: The two examples of majmánā (2c, 4b), both characterizing Agni (in my opinion), should have been rendered in the same way in the published translation, rather than as by “might” and “greatness” respectively.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१४३   दीर्घतमा औचथ्यः।अग्निः । जगती, ८ त्रिष्टुप् ।
 </details>

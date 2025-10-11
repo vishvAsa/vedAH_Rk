@@ -1,6 +1,5 @@
 +++
 title = "+018"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -32,4 +31,10 @@ Indra For general discussion of my interpr. of this hymn, see published introduc
 <details><summary>Geldner</summary>
 
 Die Mutter:
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १८  वामदेवो गौतमः, १ इन्द्रः, ४(उत्तरार्धर्चस्य), ७ अदितिः।। १ वामदेवः, २-४(पूर्वार्धर्चस्य), ८-१३ इन्द्रः,  ४(उत्तरार्धर्चस्य), ७ वामदेवः।। त्रिष्टुप्
 </details>

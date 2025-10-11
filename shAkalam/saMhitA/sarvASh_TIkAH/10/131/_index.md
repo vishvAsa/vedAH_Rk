@@ -1,6 +1,5 @@
 +++
 title = "+131"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ This message, that everyone needs a helper, is then projected onto the mythologi
 discussed in the literature (see especially Bloomfield [1893] and Oldenberg [1893], as  well as Jamison [1991: 98–103]), especially in its relationship to the later Sautrāmaṇī ritual, which in fact utilizes some of the verses in this hymn and which owes its  name to the epithet of Indra found in verses 6–7, sutrā́man “of good protection.”  We will not pursue the issue in detail here. In brief summary, Indra became sick  after drinking an excess of soma, and in order to heal him the Aśvins and Sarasvatī  
 had him drink the usually forbidden alcohol surā, which they obtained in one way  or another (the methods are different at different periods in Vedic) from the asuric  Namuci. The surā was not pure but mixed, and both the Aśvins and Indra are here  depicted as performing the singular feat of separating the two mixed liquids in the  course of drinking them.  
 If even Indra occasionally needs helpers, we need feel no shame in seeking one  ourselves, and in the last two verses (6–7) we express the hope that Indra will fill  this role for us.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १३१  सुकीर्तिः काक्षीवतः। इन्द्रः, ४-५ अश्विनौ। त्रिष्टुप्, ४ अनुष्टुप्
 </details>

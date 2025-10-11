@@ -1,6 +1,5 @@
 +++
 title = "+024"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Entirely an invitation to the sacrifice, this hymn conforms to the “journey”
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२४  मैत्रावरुणर्वसिष्ठः।इन्द्रः। त्रिष्टुप् ।
 </details>

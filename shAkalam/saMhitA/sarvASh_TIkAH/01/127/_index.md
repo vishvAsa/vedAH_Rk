@@ -1,6 +1,5 @@
 +++
 title = "+127"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Full of puns, phonological tricks, and syntactic give-and-take, this hymn celebr
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१२७   परुच्छेपो दैवोदासिः। अग्निः। अत्यष्टिः, ६ अतिधृतिः।
 </details>

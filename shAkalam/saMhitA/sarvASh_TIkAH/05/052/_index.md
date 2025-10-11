@@ -1,6 +1,5 @@
 +++
 title = "+052"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -29,4 +28,10 @@ Maruts The pattern of the mention of the Maruts’ name in this hymn is worth no
 On the responsions and ring-compositional structure of vss. 1-5, see the published
 
 introduction. and my “Poetic ‘Repair’ in the Rig Veda” (2006: 133-36), as well as The Rigveda between Two Worlds (2007: 112-13). The responsions and the versified paradigm are most likely related; as I argue in “Poetic ‘Repair’” the instr. in the phrase árcā marúdbhiḥ … in vs. 1 is somewhat anomalous, but it is “repaired” by the substitution of the expected dat. in 5d … arcā marúdbhyaḥ. To summarize those discussions briefly, in a hymn devoted to the Maruts, beginning with the selfexhortation of the poet “chant forth,” we might expect the Maruts to be the recipients (dat.) of the chant, not, as it seems, fellow-chanters (instr.) with the human poet. But putting them in the instr. emphasizes an important part of their profile, that they are also known to chant, a feature that is alluded to by the hemistich-final adj. ṛ́kvabhiḥ ‘possessing the chant’. Thus the beginning of the hymn seems concerned with the Maruts’ contrastive and mediating functional roles as expressed by the oblique cases of the paradigm.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५२  श्यावाश्व आत्रेयः ।मरुतः। अनुष्टुप्, ६, १६-१७ पंक्तिः ।
 </details>

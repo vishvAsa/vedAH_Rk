@@ -1,6 +1,5 @@
 +++
 title = "+139"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,10 +19,16 @@ As so often, the difficulties in the hymn may stem in part from the fact that th
 ficers, including Manu—whose own ties are to the gods. He thus provides himself  with a poetic pedigree and in following their track, or model, produces his own  hymns that have some chance of reaching the gods, since his predecessors’ did.  In verse 1 he mentions only one such predecessor: Vivasvant (lit., “possessing the shining forth”), who in later Vedic and even in late R̥gveda (Vālakh., VIII.52.1) is  considered the father of Manu and who is often associated, as a proto-priest, with  the pressing of soma. (His Avestan correspondent Vīvaŋuuaṇt is the first man who  pressed haoma [Y 9.4].) So in verse 1 our poet proclaims that he is beginning a new  hymn, by newly attaching himself to a legendary seer-sacrificer. But there is another  likely meaning there as well: Vivasvant is identified as the sun in later Vedic, and  quite possibly in some passages in the R̥gveda as well, and therefore the poet may  also be making reference to the time of “shining forth,” namely early morning.  
 The double reference to ritual poetry and to dawn continues in verse 2. Mitra  and Varuṇa take “untruth away from truth,” thus enabling the poet and his peers  to see the gods’ golden throne. On the one hand, the untruth can be darkness, and  the removal of this darkness reveals the sun. On the other hand, the priests see this  vision with their insights and their mind, and though they also see with their eyes,  these are the “eyes of soma,” presumably the vision arising from drinking the soma.  So on another level of interpretation what they see is a poetic vision.  
 The three Aśvins verses (3–5) are fairly clear descriptions of the journey of those  gods to the dawn sacrifice, and the invitation to Indra (vs. 6) is also straightforward,  as is the praise of the Maruts (vs. 8). This clarity is unfortunately obscured in verse  7, whose translation is only provisional, though the direct speech of Agni is quite  intriguing. He seems to be chiding the gods for having given the Aṅgirases a cow  they (or in most interpretations, Aryaman and unspecified others) have milked out.  From the mythological point of view, the cow should represent the cows imprisoned  in the Vala cave that the Aṅgirases helped to liberate. In a ritual context this could  be the cow that provides the milk to mix with soma; in a poetic context the poetic  insight or vision that provided the Aṅgirases with songs. The role of Aryaman here  is entirely unclear.  
-As noted above, in verse 9 the poet situates himself in the poetic and sacrificial  tradition, and in verse 10, another obscure verse (Geldner calls it “unintelligible”  [unverständlich]), the ritual and poetic ring is closed.
+As noted above, in verse 9 the poet situates himself in the poetic and sacrificial  tradition, and in verse 10, another obscure verse (Geldner calls it “unintelligible”  [unverständlich]), the ritual and poetic ring is closed.
 </details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१३९   परुच्छेपो दैवोदासिः।१ विश्वे देवाः, २ मित्रावरुणौ, ३-५ अश्विनौ, ६ इन्द्रः, ७ अग्निः, ८ मरुतः, ९ इन्द्राग्नी,  १० बृहस्पतिः, ११ विश्वे देवाः। अत्यष्टिः, ५ बृहती, ११ त्रिष्टुप्।
 </details>

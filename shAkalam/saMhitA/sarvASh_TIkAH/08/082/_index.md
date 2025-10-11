@@ -1,6 +1,5 @@
 +++
 title = "+082"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -26,4 +25,10 @@ This hymn is an insistent invitation to the soma sacrifice, punctuated by impera
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८२  कुसीदी काण्वः ।इन्द्रः । गायत्री।
 </details>

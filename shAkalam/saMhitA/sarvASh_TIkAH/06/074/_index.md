@@ -1,6 +1,5 @@
 +++
 title = "+074"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Although there is another R̥gvedic hymn dedicated to Rudra and Soma (I.43), in 
 <details><summary>Jamison Brereton Notes</summary>
 
 Soma and Rudra Renou EVP IX.74 and 128.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७४  बार्हस्पत्यो भरद्वाजः।सोमारुद्रौ। त्रिष्टुप्।
 </details>

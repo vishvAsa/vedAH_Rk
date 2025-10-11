@@ -1,6 +1,5 @@
 +++
 title = "+071"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The parallelism is especially clear at the beginning: the first verses of each (
 <details><summary>Jamison Brereton Notes</summary>
 
 Savitar Renou EVP XV.26ff. On the division into two hymns, see published introduction, as well as Oldenberg and Geldner (both minimally).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७१  बार्हस्पत्यो भरद्वाजः।सविता। जगती, ४-६ त्रिष्टुप् ।
 </details>

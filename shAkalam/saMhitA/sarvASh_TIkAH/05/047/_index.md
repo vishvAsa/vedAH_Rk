@@ -1,6 +1,5 @@
 +++
 title = "+047"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -29,4 +28,10 @@ Although this observation is unconnected to the riddle structure just discussed,
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४७  प्रतिरथ आत्रेयः।विश्वे देवाः । त्रिष्टुप्
 </details>

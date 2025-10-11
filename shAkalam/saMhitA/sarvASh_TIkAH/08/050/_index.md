@@ -1,6 +1,5 @@
 +++
 title = "+050"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -19,4 +18,10 @@ Puṣṭigu Kāṇva
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५०  पुष्टिगुः काण्वः।इन्द्रः । प्रगाथः (विषमा बृहती, समा सतोबृहती )
 </details>

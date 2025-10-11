@@ -1,6 +1,5 @@
 +++
 title = "+055"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -25,4 +24,10 @@ If these speculations about the structure of this hymn are at all correct, it is
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods For the structure of the hymn and its parts, see published introduction. As indicated there, the first 7 vss. (in Triṣṭubh) are concentrically structured, with the agenda set by the questions posed in vs. 1. There are a number of difficulties, and much remains uncertain. The final three vss. (in Gāyatrī) appear to have originally been a separate hymn, as has long been recognized, and are quite straightforward.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५५  वामदेवो गौतमः। विश्वे देवाः। त्रिष्टुप्, ८-१० गायत्री
 </details>

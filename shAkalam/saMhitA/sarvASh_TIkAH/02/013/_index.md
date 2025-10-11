@@ -1,6 +1,5 @@
 +++
 title = "+013"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -25,4 +24,10 @@ son who was blind and lame, but of Indra’s role in producing the soma hidden i
 <details><summary>Jamison Brereton Notes</summary>
 
 [II.13 Indra (misc. comments by SJ to JPB tr.) This hymn is extremely challenging, with a discouraging number of puzzles and no clear overall theme -- though Indra’s cosmogonic activities and his help to particular clients dominate the latter part of the hymn.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१३  गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः।इन्द्रः। जगती, १३ त्रिष्टुप्
 </details>

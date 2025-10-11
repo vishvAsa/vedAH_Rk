@@ -1,6 +1,5 @@
 +++
 title = "+052"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ is instead an effort to include all the gods, whatever their current or original
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods For the structure of the hymn, see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५२  ऋजिष्वा भारद्वाजः।विश्वे देवाः। त्रिष्टुप् , ७-१२ गायत्री, १४ जगती।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+179"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+179"
 <details><summary>Jamison Brereton</summary>
 
 179  
-Agastya and Lopāmudrā [Anukramaṇī: Rati “Delight”]  
+Agastya and Lopāmudrā [Anukramaṇī: Rati “Delight”]  
 Lopāmudrā 1–2, Agastya 3–4, student 5–6 (so the Anukramaṇī)  
 6 verses: triṣṭubh, except br̥hatī 5  
 This justly famous and memorable hymn compresses much matter in a few verses.  The first four verses consist of a dialogue between the seer Agastya, the poet of  this hymn cycle (I.165–191), and his wife Lopāmudrā. It concerns, and contains  in embryo, a persistent theme in Indian religious literature and thought, the com  
@@ -28,4 +27,10 @@ partnership that deteriorates in the next verse into a mere sexual encounter. In
 <details><summary>Jamison Brereton Notes</summary>
 
 Agastya and Lopāmudrā
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१७९   १-२ लोपामुद्रा, ३-४ अगस्त्यो मैत्रावरुणिः, ५-६ अगस्त्यशिष्यो ब्रह्मचारी।रतिः। त्रिष्टुप्, ५ बृहती
 </details>

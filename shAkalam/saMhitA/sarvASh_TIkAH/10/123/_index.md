@@ -1,6 +1,5 @@
 +++
 title = "+123"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -19,4 +18,10 @@ A famous and mystical hymn, whose opacity still defies complete comprehension  a
 It is noteworthy that the Seeker is also eagerly sought: the inspired poets pursue  him (vss. 1, 4, probably 6), as do women seeking a husband (vs. 2) and mothers (vs. 3)—both feminine references probably standing for the hymns produced by these  poets. Needless to say, both Soma and the Sun are regularly the object of such  poetic attentions, and the intimate bond between poets and what they celebrate is a  prominent theme in the hymn.
 
 Less prominent, but perhaps not less important, is the theme of name-and-form.  This first surfaces explicitly in verse 4, where it is their recognition of the form of  the Seeker that inspires the poets’ longing for him. In the same verse the Seeker, as  Gandharva, finds “the immortal names.” Later, in verse 7, this same Gandharva  engenders his own names. These verses seem to adumbrate the later preoccupation  with name and form as representing the creation of the multiplicity of objects in the  world by the division of the formless into “forms” and the assignment of “names” to  each in order to differentiate them. This theme is treated with great skill and subtlety  also in III.38. In this hymn here the Gandharva’s engendering his own names in the  penultimate verse of the hymn leads to a climax of sorts in the final verse (8), though  one that is quite downplayed. In that final verse the undifferentiated figure of Soma/ Sun is actually divided into its two constituent parts, though neither is mentioned by  name. The first half of the verse concerns the drop (drapsá), a word regularly used of  Soma, while the second half has as its subject bhānú “radiance,” which is especially  characteristic of the Sun. Through the power of the poets’ perception of the true  “form” of things and their ability to assign them “names,” Sun and Soma emerge at  the end of the hymn as separate, though mutually dependent, entities.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १२३  वेनो भार्गवः। वेनः। त्रिष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+091"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ sion by Hanns-Peter Schmidt in chapter 1 “The Affliction of Apālā (R̥gveda 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra (/Apālā)
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९१  आत्रेयी अपाला।इन्द्रः । अनुष्टुप्, १-२ पङ्क्तिः ।
 </details>

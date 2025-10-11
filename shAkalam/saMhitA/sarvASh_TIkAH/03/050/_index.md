@@ -1,6 +1,5 @@
 +++
 title = "+050"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This brief “journey” hymn signals its application to the Midday Pressing by 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५०  गाथिनो विश्वामित्रः।इन्द्रः। त्रिष्टुप्
 </details>

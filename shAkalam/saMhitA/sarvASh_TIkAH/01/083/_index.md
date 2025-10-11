@@ -1,6 +1,5 @@
 +++
 title = "+083"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ In this hymn the poet uses two different senses of the word “first” to imbue
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+८३   गोतमो राहूगणः।  इन्द्रः। जगती।
 </details>

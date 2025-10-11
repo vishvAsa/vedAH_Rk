@@ -1,6 +1,5 @@
 +++
 title = "+051"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ Both in content and form, all the segments are simple, predictable, and closely 
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods On the structure of this composite hymn, see published introduction. It is bland and featureless throughout, reminding us that there must have been a lot of mediocre Rigvedic poets and/or ritual occasions that did not require (or pay for) the best of what the poets had to offer.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५१  स्वस्त्यात्रेयः।विश्वे देवाः, ४, ६-७ इन्द्रवायू, ५ वायुः। १-४ गायत्री, ५-१० उष्णिक्, ११-१३ जगती  त्रिष्टुपब्वा, १४-१५ अनुष्टुप् ।
 </details>

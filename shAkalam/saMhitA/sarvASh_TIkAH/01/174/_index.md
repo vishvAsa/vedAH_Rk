@@ -1,6 +1,5 @@
 +++
 title = "+174"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ Two separate devices structure the hymn. On the one hand, the vocative indra (al
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१७४    अगस्त्यो मैत्रावरुणिः।इन्द्रः। त्रिष्टुप्
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+083"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The first two tr̥cas (vss. 1–6) of this hymn to the All Gods mention only the
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८३  कुसीदी काण्वः।विश्वे देवाः। गायत्री।
 </details>

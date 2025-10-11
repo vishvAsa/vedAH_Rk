@@ -1,6 +1,5 @@
 +++
 title = "+047"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+047"
 <details><summary>Jamison Brereton</summary>
 
 47 (343)  
-Vāyu (1), Vāyu and Indra (2–4)  
+Vāyu (1), Vāyu and Indra (2–4)  
 Vāmadeva Gautama  
 4 verses: anuṣṭubh  
 Like the immediately preceding hymn, this one fulfills its ritual purpose with a mini mum of fuss: Vāyu, and then Indra and Vāyu, are invited to partake of the first  soma offerings at the Morning Pressing.
@@ -20,4 +19,10 @@ Like the immediately preceding hymn, this one fulfills its ritual purpose with a
 <details><summary>Jamison Brereton Notes</summary>
 
 Vāyu and Indra As in the preceding hymn, vs. 1 is addressed only to Vāyu, with single voc., but the rest of the vss. address them jointly, in three different ways. In 2a we have a reverse Vāyav Indraś ca construction índraś ca vāyo, in 3a the same construction in normal order, and in 4d the dual dvandva voc. índravāyū found in 46.3-7.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४७  वामदेवो गौतमः। इन्द्रवायू, १ वायुः। अनुष्टुप्।
 </details>

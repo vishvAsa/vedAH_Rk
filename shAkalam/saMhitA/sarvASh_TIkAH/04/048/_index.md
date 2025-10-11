@@ -1,6 +1,5 @@
 +++
 title = "+048"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+048"
 <details><summary>Jamison Brereton</summary>
 
 48 (344)  
-Vāyu  
+Vāyu  
 Vāmadeva Gautama  
 5 verses: anuṣṭubh  
 Unlike the two preceding hymns to Vāyu and Indra (IV.46–47), with their simple  diction and single purpose, this hymn to Vāyu alone, although it also continues  the journey motif, especially in the refrain of verses 1–4, contains some enigmatic  phraseology and striking images. In particular both the sense and the syntactic con  
@@ -22,4 +21,10 @@ Note that the soma-drinking, the purpose of Vāyu’s journey, is mentioned only
 <details><summary>Jamison Brereton Notes</summary>
 
 Vāyu
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४८  वामदेवो गौतमः। वायुः।। अनुष्टुप्
 </details>

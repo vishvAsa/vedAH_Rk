@@ -1,6 +1,5 @@
 +++
 title = "+152"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+152"
 <details><summary>Jamison Brereton</summary>
 
 152  
-Mitra and Varuṇa  
+Mitra and Varuṇa  
 Dīrghatamas Aucathya  
 7 verses: triṣṭubh  
 The nub of this hymn may be found in verse 5c, “(Though it cannot be) compre hended, the youths enjoy the formulation,” and the poet almost seems to be recom mending this course of action to us, the audience:  to enjoy poetic formulations  whether we understand them or not. The hymn provides a number of examples on  which to test this advice.  
@@ -24,4 +23,10 @@ The final verse is a simple invitation to the sacrifice with prayers for the  go
 <details><summary>Jamison Brereton Notes</summary>
 
 Mitra and Varuṇa
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१५२   दीर्घतमा औचथ्यः।मित्रावरुणौ । त्रिष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+043"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ Another thematic strain evident in the hymn and asserting itself more and more  
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४३  विरूप आङ्गिरसः।अग्निः। गायत्री।
 </details>

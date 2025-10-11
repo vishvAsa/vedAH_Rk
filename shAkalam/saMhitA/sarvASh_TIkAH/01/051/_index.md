@@ -1,6 +1,5 @@
 +++
 title = "+051"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The catalogue of deeds is interrupted by demands that Indra use his same mar tia
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५१   सव्य आङ्गिरसः। इन्द्रः। जगती, १४-१५ त्रिष्टुप् ।
 </details>

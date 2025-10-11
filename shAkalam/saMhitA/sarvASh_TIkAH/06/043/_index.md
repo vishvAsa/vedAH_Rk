@@ -1,6 +1,5 @@
 +++
 title = "+043"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ A simple hymn, in which the refrain (pāda c of each verse) offers Indra soma to
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४३  बार्हस्पत्यो भरद्वाजः।इन्द्रः। उष्णिक्।
 </details>

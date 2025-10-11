@@ -1,6 +1,5 @@
 +++
 title = "+054"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ to intercede on our behalf with anyone, divine or mortal, whom we have offended.
 <details><summary>Jamison Brereton Notes</summary>
 
 Savitar
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५४  वामदेवो गौतमः। सविता।जगती, ६ त्रिष्टुप्
 </details>

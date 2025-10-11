@@ -1,6 +1,5 @@
 +++
 title = "+053"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The next four verses (17–20) appear to have no connection with the rest of the
 The final four verses (21–24) are very difficult to interpret. They have tradition ally been taken as the expression of the implacable hostility between Viśvāmitra  and Vasiṣṭha, which is a staple of later texts (e.g., the Mahābhārata). But there  is no whiff of this personal hostility in the R̥gveda, in our opinion, and there is  certainly no mention of Vasiṣṭha, direct or indirect, in the verses here. There is,  however, hostility: verse 21 calls on Indra to help us defeat our enemy, and the next  few verses express in colorful images the impotence of the enemy’s actions and  weapons. The most puzzling verse is the final one, where the Bharatas, the people  
 
 of Sudās, celebrated in verse 12, appear to be presented in an unflattering light. We  have no explanation for this.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५३  गाथिनो विश्वामित्रः।इन्द्रः, १ इन्द्रापर्वतौ, १५, १६ वाक् (ससर्परी), १७-२० रथाङ्गानि, २१-२४  अभिशापः। त्रिष्टुप्, १0, १६ जगती, १३ गायत्री, १२, २०, २२ अनुष्टुप्, १८ बृहती
 </details>

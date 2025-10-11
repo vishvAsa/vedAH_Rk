@@ -1,6 +1,5 @@
 +++
 title = "+053"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ The most enigmatic verses of the hymn are the last three (9–11), in jagatī me
 <details><summary>Geldner</summary>
 
 Die Priester:
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५३  देवाः, ४-५ सौचीकोऽग्निः। अग्निः, ४-५ देवाः। १-५, ८ त्रिष्टुप्, ६-७, ९-११ जगती
 </details>

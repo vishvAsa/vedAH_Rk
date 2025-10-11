@@ -1,6 +1,5 @@
 +++
 title = "+002"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This hymn shares a number of features, including phraseology, with the previous 
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २  वामदेवो गौतमः। अग्निः। त्रिष्टुप्
 </details>

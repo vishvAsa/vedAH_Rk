@@ -1,6 +1,5 @@
 +++
 title = "+113"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -28,4 +27,10 @@ The final section (vss. 16–20) begins (vs. 16) with a triumphal exhortation, w
 <details><summary>Jamison Brereton Notes</summary>
 
 Dawn
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+११३   कुत्स आङ्गिरसः।१ उषाः (उत्तरार्धस्य) रात्रिश्च, २-२० उषाः। त्रिष्टुप् ।
 </details>

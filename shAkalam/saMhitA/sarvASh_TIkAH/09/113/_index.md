@@ -1,6 +1,5 @@
 +++
 title = "+113"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+113"
 <details><summary>Jamison Brereton</summary>
 
 113 (825)  
-Soma Pavamāna  
+Soma Pavamāna  
 Kaśyapa Mārīca  
 11 verses: paṅkti  
 The special interest of this hymn rests in the vision of heaven in its second half.  Most strikingly, the imagery that describes this heaven—its freedom, joy, and sat isfaction of all desires—occurs again in the Upaniṣads to characterize the mysti cal realization of the self. The hymn begins more or less as a conventional soma  hymn, however. In verse 1 Indra is urged to drink the soma to strengthen himself  for action, and in verse 2 Soma is commanded to purify himself, with the signature  imperative pavasva. Verse 2 also introduces the theme of true ritual speech, which is  taken up again in verses 4–6. Verse 3 seems to contain an interlude about the rain,  which provides the sap to the soma plant, though the mythological sequence involv ing the Daughter of the Sun and the Gandharvas is obscure.  
@@ -25,4 +24,10 @@ pared by the Placer in verse 4; the sun was placed in the heavenly world in 7b, 
 <details><summary>Jamison Brereton Notes</summary>
 
 On the structure and thematics of the hymn see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ११३  कश्यपो मारीचः।पवमानः सोमः। पङ्क्तिः।
 </details>

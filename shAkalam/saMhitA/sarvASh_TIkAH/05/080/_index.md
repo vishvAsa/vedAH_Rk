@@ -1,6 +1,5 @@
 +++
 title = "+080"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ Each verse but the first begins with the emphatic pronoun eṣā́ “she,” an
 <details><summary>Jamison Brereton Notes</summary>
 
 Dawn As noted in the published introduction, every vs. but the first begins with eṣā́‘she, this one here’.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८०  सत्यश्रवा आत्रेयः।उषाः। त्रिष्टुप्।
 </details>

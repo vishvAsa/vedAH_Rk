@@ -1,6 +1,5 @@
 +++
 title = "+021"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ his favoring another group of sacrificers and poets or from the fact that he doe
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २१  बार्हस्पत्यो भरद्वाजः।इन्द्रः, ९,११ विश्वे देवाः। त्रिष्टुप् ।
 </details>

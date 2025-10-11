@@ -1,6 +1,5 @@
 +++
 title = "+013"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,7 +20,7 @@ title = "+013"
 <details><summary>Jamison Brereton</summary>
 
 13 (725)  
-Soma Pavamāna  
+Soma Pavamāna  
 Asita Kāśyapa or Devala Kāśyapa  
 9 verses: gāyatrī  
 The first verse, with its mention of Vāyu and Indra, identifies this as the first soma offering of the day. Otherwise the hymn is a confection of clichés familiar from  many other soma hymns.
@@ -32,4 +31,10 @@ The first verse, with its mention of Vāyu and Indra, identifies this as the fir
 This hymn is dominated by forms of med. pávate (vss. 2-4, 8-9), with the first vs. containing instead med. punānáḥ. Only vss. 6-7 lack such forms. Perhaps coincidentally, these two vss. are the only ones containing similes.
 
 The hymn is also constructed from bricolage and ready-made phrases, many found verbatim in other hymns. There is a certain amount of chaining between vss.; it is difficult to know if this is just a result of the assembly process (a word in one vs. suggests to the poet another such phrase, which he then attaches) or was meant as a unifying poetic device.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १३  कश्यपोऽसितो देवलो वा।पवमानः सोमः। गायत्री।
 </details>

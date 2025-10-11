@@ -1,6 +1,5 @@
 +++
 title = "+102"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ As simple and straightforward an address to Parjanya as the preceding hymn was  
 <details><summary>Jamison Brereton Notes</summary>
 
 Parjanya Although the Anukr. identifies the meter of vs. 2 as Pādanicṛṭ (7 7 / 7), it is clearly a Gāyatrī like the other two vss., with distraction of the gen. pl. ending -nãm at the end of pādas a, c.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१०२  मैत्रावरुणिर्वसिष्ठः(वृष्टिकामः), कुमार आग्नेयो वा।पर्जन्यः। गायत्री, २ पादनिचृत्
 </details>

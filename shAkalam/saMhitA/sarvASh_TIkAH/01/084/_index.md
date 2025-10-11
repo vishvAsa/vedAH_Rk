@@ -1,6 +1,5 @@
 +++
 title = "+084"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -27,4 +26,10 @@ Although no strong unity among the various pieces of this hymn is perceptible, i
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra See the published introduction. for the structure of this composite hymn.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+८४   गोतमो राहूगणः।  इन्द्रः। १-६ अनुष्टुप्, ७-९ उष्णिक्, १०-१२ पंक्तिः, १३-१५ गायत्री, १६-१८ त्रिष्टुप्,  (प्रगाथः =) १९ बृहती, २० सतोबृहती।
 </details>

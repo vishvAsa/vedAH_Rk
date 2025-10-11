@@ -1,6 +1,5 @@
 +++
 title = "+176"
-
 +++
 
 <details><summary>Jamison Brereton</summary>
@@ -15,4 +14,10 @@ Though also in dimeter meter, this hymn displays an exuberance that the previ ou
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१७६   अगस्त्यो मैत्रावरुणिः।इन्द्रः । अनुष्टुप्, ६ त्रिष्टुप् ।
 </details>

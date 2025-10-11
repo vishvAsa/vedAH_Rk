@@ -1,6 +1,5 @@
 +++
 title = "+013"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ Mythological material is mostly lacking in the hymn, and what is found is given 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra Although the introduction. to the published translation is somewhat dismissive of this hymn and dubious about any unifying factors, closer examination shows a subsurface thematic unity esp. in the mid and later parts of the hymn, roughly vss. 16-30. For discussion see below.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१३  नारदः काण्वः। इन्द्रः। उष्णिक्।
 </details>

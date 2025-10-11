@@ -1,6 +1,5 @@
 +++
 title = "+055"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+055"
 <details><summary>Jamison Brereton</summary>
 
 55 (571)  
-Lord of the Dwelling Place (Vāstospati) (1), Sleep ̣ Incantations (2–8)  
+Lord of the Dwelling Place (Vāstospati) (1), Sleep ̣ Incantations (2–8)  
 Vasiṣṭha Maitrāvaruṇi  
 8 verses: gāyatrī 1, upariṣṭādbr̥hatī 2–4, anuṣṭubh 5–8  
 As was noted in the introduction to VII.54, the first verse of this hymn, dedicated  to the Lord of the Dwelling Place, really belongs with the previous hymn—though  it was not simply wrongly divided from that hymn: it is in a different meter, and the  final verse of VII.54 ends with the Vasiṣṭha clan refrain, which is always the final  pāda of the hymns in which it is found.  
@@ -25,4 +24,10 @@ A number of fanciful scenarios have been devised, both ancient and modern,  Indi
 Sleep As noted in the published introduction, the first vs. does not belong with the rest of the hymn but rather with the preceding one, VII.54, to Vāstoṣpati, the Lord of the Dwelling Place. However, as also noted there, this is not just a product of wrong division of hymns: VII.55.1 is in a different meter from VII.54, and VII.54 ends with the Vasiṣṭha clan refrain, which is always the final pāda of a hymn. Moreover, as Oldenberg points out, VII.54 has three vss. and follows correctly on the three-vs. hymns VII.51- 53, while an additional vs. would break that sequence. Oldenberg suggests that the single vs. _________
 **01**  
 originally formed its own hymn and that the rest of VII.55, with 7 vss., is an addition to the original collection (Anhangslied).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५५  मैत्रावरुणर्वसिष्ठः।वास्तोष्पतिः, २-८ इन्द्रः ( २-८ प्रस्वापिनी उपनिषद्)। गायत्री, २-४ उपरिष्टाद्बृहती,  ५-८ अनुष्टुप्।
 </details>

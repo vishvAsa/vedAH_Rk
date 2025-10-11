@@ -1,6 +1,5 @@
 +++
 title = "+029"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ A fairly straightforward invitation and journey hymn. Indra is urged to drive to
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २९  वामदेवो गौतमः। इन्द्रः। त्रिष्टुप्
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+039"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ and releasing the cows (of dawn) and by extension the sun (vss. 4–6). The impl
 Indra Though nowhere near as obscure as the previous hymn, the first three vss. of this one also portray poetic craft and, especially, poetic inspiration.
 
 Morphological parallelism and lexical repetitions dominate the rest of the hymn.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३९  गाथिनो विश्वामित्रः।इन्द्रः। त्रिष्टुप् ।
 </details>

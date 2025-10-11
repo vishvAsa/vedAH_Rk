@@ -1,6 +1,5 @@
 +++
 title = "+034"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The hymn also contains a reference (vs. 2) to the enigmatic and sometimes para d
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts A very difficult hymn, whose problems were perhaps not sufficiently signalled in the published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३४  गृत्समद (आङ्गिरसः शौनहोत्रः पश्चात्) भार्गवः शौनकः। मरुतः। जगती, १५ त्रिष्टुप्
 </details>

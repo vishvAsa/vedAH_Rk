@@ -1,6 +1,5 @@
 +++
 title = "+031"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Like the previous Indra hymns in this maṇḍala, this hymn provides a survey  
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३१  अवस्युरात्रेयः।इन्द्रः, ८ तृतीयपादस्य कुत्सो वा, चतुर्थपादस्य उशना वा, ९ इन्द्राकुत्सौ। त्रिष्टुप्।
 </details>

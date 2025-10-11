@@ -1,6 +1,5 @@
 +++
 title = "+007"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+007"
 <details><summary>Jamison Brereton</summary>
 
 7 (448)  
-Agni Vaiśvānara  
+Agni Vaiśvānara  
 Bharadvāja Bārhaspatya  
 7 verses: triṣṭubh, except jagatī 6–7  
 The hymn is dedicated to Agni as Vaiśvānara (“belonging to all men”), but the  focus is primarily on his relationship with the gods (see, e.g., vss. 1–2, 4), on his  cosmic reach and cosmogonic powers (see, e.g., vss. 1, 5–7), in which aspect he  is identified with the sun (see esp. vs. 5), and, especially, on his birth: the root jan  
@@ -21,4 +20,10 @@ The hymn is dedicated to Agni as Vaiśvānara (“belonging to all men”), but 
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni Vaiśvānara As noted in the published introduction, this hymn is heavily seeded with forms of √jan ‘beget, be born’. The epithet vaiśvānará- is also found in every vs. (1b, 2c, 3c, 4d, 5a, 6a, 7a), in all cases initial in its pāda.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७  बार्हस्पत्यो भरद्वाजः।वैश्वानरोऽग्निः। त्रिष्टुप्, ६-७ जगती
 </details>

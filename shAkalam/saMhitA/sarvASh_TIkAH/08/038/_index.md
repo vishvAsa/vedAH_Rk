@@ -1,6 +1,5 @@
 +++
 title = "+038"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ As often in hymns dedicated jointly to these two gods, who share little in terms
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra and Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३८  श्यावाश्व आत्रेयः।इन्द्राग्नी। गायत्री
 </details>

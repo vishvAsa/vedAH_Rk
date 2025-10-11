@@ -1,6 +1,5 @@
 +++
 title = "+044"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -60,4 +59,10 @@ Although numerous puzzles remain in the hymn, we hope to have shown that  it is 
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods On the manifold difficulties of this hymn and a possible framework in which to interpret them (as a hymn simultaneously applicable to Agni and Soma), see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४४  काश्यपोऽवत्सारः (१० क्षत्र-मनस-एवावद-यजत-सध्रि-अवत्साराः, ११ विश्ववार - यजत-मायी -  अवत्साराः, १२ अवत्सारेण सह सदापृण-यजत-बाहुवृक्त-श्रुतवित्- तर्याः, १३ सुतंभरश्च) ।विश्वे देवाः।  जगती, १४-१५ त्रिष्टुप् ।
 </details>

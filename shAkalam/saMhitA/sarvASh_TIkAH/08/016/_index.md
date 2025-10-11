@@ -1,6 +1,5 @@
 +++
 title = "+016"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ As for the content of the praise, it focuses on Indra’s power in warfare, wher
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१६  इरिम्बिठिः काण्वः। इन्द्रः । गायत्री ।
 </details>

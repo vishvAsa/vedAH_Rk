@@ -1,6 +1,5 @@
 +++
 title = "+009"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -15,4 +14,10 @@ Agni
 Vāmadeva Gautama  
 8 verses: gāyatrī  
 Like II.1 and II.11, this short hymn enumerates Agni’s ritual roles by identifying  him with various priests, but it is considerably simpler and more straightforward  than either of those two hymns. The order of the priestly offices here is close to that  found in II.1.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९  वामदेवो गौतमः। अग्निः। गायत्री
 </details>

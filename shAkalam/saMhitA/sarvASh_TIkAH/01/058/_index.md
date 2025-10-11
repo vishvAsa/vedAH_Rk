@@ -1,6 +1,5 @@
 +++
 title = "+058"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The counterpoint between wild uncontrollable fire and ritual fire may subtly  em
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५८   नोधा गौतमः। अग्निः। जगती, ६-९ त्रिष्टुप्
 </details>

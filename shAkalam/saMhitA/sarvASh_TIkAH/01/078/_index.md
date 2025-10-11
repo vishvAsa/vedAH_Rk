@@ -1,6 +1,5 @@
 +++
 title = "+078"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ Agni See the published introduction. for the structure of this rather dull hymn.
 It is thus only the second pāda of each verse that contains fully independent material.
 
 The tvā in the various a-pādas has a slightly different syntactic status in this seemingly rigid schema. In vs. 1 it serves as the goal of the verb in pāda c, with doubling of the preverb abhí (a, c). (Alternatively one can supply a verb in ab and an object in c, as Geldner (/Witzel Gotō) do, but this seems uneconomical.) In the following two verses it is governed by a verb in pāda b (2 duvasyati, 3 havāmahe), leaving nonumaḥ in c without an expressed object. In vs. 4 it is again the goal of the verb in c, with an apparent embedded relative clause in b.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+७८   गोतमो राहूगणः।अग्निः। गायत्री
 </details>

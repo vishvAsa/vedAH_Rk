@@ -1,6 +1,5 @@
 +++
 title = "+070"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -37,4 +36,10 @@ Agni I consider these three hymns to be thematically and verbally linked, treati
 5-6.	Denn der Agni ist der Schirmherr der Reichtümer für den, der ihm mit schönen Worten pünktlich aufwartet - Du, Kundiger, schütze diese Geschöpfe, der du die Geschlechter der Götter und Sterblichen kennst!
 7-8.	Den sie während der vielen ungleichen Nächte und Morgen großzogen, den zur rechten Zeit empfangenen Keim alles dessen, was geht und steht. - Der Hotri ist jetzt zustande gekommen, als die Sonne eingesetzt, alle wahrhaften Werke verrichtend.
 9-10.	Du legst Wert auf die Kühe, auf die Hölzer. Alle bringen unserer Sonne den Tribut - Dich ehren die Männer vielerorts um die Wette; sie verteilen dich wie die Söhne das Besitztum des greisen Vaters.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+७०   पराशरः शाक्त्यः।अग्निः। द्विपदा विराट्।
 </details>

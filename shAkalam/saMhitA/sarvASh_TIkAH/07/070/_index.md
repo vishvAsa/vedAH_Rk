@@ -1,6 +1,5 @@
 +++
 title = "+070"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+070"
 <details><summary>Jamison Brereton</summary>
 
 70 (586)  
-Aśvins  
+Aśvins  
 Vasiṣṭha Maitrāvaruṇi  
 7 verses: jagatī  
 In the last verse the poet calls the attention of the Aśvins to his hymn, calling it  “intricate” or “well-twisted” (suvr̥ktí). He is quite right: his hymn is complex, since  it presents metaphors of unclear reference and ellipses of uncertain interpretation.  Such intricacy is attractive to gods like the Aśvins, and the purpose of the poet is to  get the attention of the Aśvins by means of the hymn and to cause them to take notice  of the offerings and other elements of the sacrifice so that they will be present at it.  
@@ -19,4 +18,10 @@ In verse 1 the poet summons the Aśvins to take their place at the sacrifice, bu
 In verse 3 the poet shifts attention to the rewards that the Aśvins will bring. The  sacrificer hopes to find prosperity for the sacrificer from the rivers, plants, and clans,  among which the Aśvins find a place, over which they sit “at the peak of the moun tain”—in heaven perhaps? In verse 4a the “plants and the waters” recall the rivers,  plants, and clans of verse 3 and verbally connect the two verses, even though the  poet again shifts the theme back to the sacrifice being offered to the Aśvins. Here  the waters and plants represent sacrificial libations and offerings. In 4b it is not clear  what are the “harness cords” (yogyā́). They might be rites or offerings (especially  the hot milk offering), or hymns. That is, they are elements of the sacrifice of one  kind or another. Whatever these cords are, the image carries forward the descrip  
 tion of the Aśvins in 2cd as “well-harnessed” horses and therefore should represent  what attaches the Aśvins to the sacrifice. In 4cd the Aśvins reward the present sacri ficers while keeping in mind the ancient ones. The present sacrifices are the equal to  the ones of the past and therefore deserve the reward of the Aśvins.  
 In the last verses the poet becomes more straightforward in calling the Aśvins’  attention to his hymn, his “formulations,” which he has sent out in search of them  (vs. 7), and to the sacrifice which stands ready for them (vs. 6).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+७०  मैत्रावरुणर्वसिष्ठः।अश्विनौ। त्रिष्टुप्।
 </details>

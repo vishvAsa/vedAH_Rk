@@ -1,6 +1,5 @@
 +++
 title = "+087"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+087"
 <details><summary>Jamison Brereton</summary>
 
 87 (696)  
-Aśvins  
+Aśvins  
 Dyumnīka Vāsiṣṭha or Priyamedha Āṅgirasa or Krṣ̥ ṇa Āṅgirasa  
 6 verses: br̥hatī alternating with satobr̥hatī arranged in pragāthas  
 A typical and rather banal Aśvin hymn, with the simple message “come here, drink  the soma, give us aid and goods,” although there are a few striking images, espe cially in verse 1.  
@@ -21,4 +20,10 @@ As Oldenberg (1888: 217) points out, this six-verse hymn, following a five-verse
 <details><summary>Jamison Brereton Notes</summary>
 
 Aśvins
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८७  कृष्ण आङ्गिरसो, वासिष्ठो वा द्युम्नीकः, प्रियमेध आङ्गिरसो वा।अश्विनौ । प्रगाथः ( विषमा बृहती, समा  सतोबृहती )
 </details>

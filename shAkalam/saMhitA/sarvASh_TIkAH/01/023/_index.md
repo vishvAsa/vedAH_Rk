@@ -1,6 +1,5 @@
 +++
 title = "+023"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+023"
 <details><summary>Jamison Brereton</summary>
 
 23  
-Various Gods (Vāyu 1, Indra and Vāyu 2–3, Mitra and Varuṇa  4–6, Indra Marutvant 7–9, All Gods 10–12, Pūsan 13–15, Waters ̣ 16–23ab, Agni 23cd–24)  
+Various Gods (Vāyu 1, Indra and Vāyu 2–3, Mitra and Varuṇa  4–6, Indra Marutvant 7–9, All Gods 10–12, Pūsan 13–15, Waters ̣ 16–23ab, Agni 23cd–24)  
 Medhātithi Kāṇva  
 24 verses: gāyatrī, except puraüṣṇih 19, anuṣṭubh 20, 22–24, pratiṣṭhā 21, arranged  in tr̥cas  
 Although the principles of hymn arrangement strongly suggest that this twenty four-verse hymn is a composite, consisting of eight individual tr̥cas, the situation  is quite different from the previous hymn, I.22, where the collection was dictated  merely and mechanically by the number of verses in each segment, without a par ticular ritual application. Here the separate tr̥cas follow the order of a structured  recitation in the Morning Pressing, later called the Praügaśastra. Other instances  of this litany are found in R̥gveda I.2–3 and II.41, and to some extent I.139; for a  detailed discussion of the Praügaśastra see the introduction to I.2.  
@@ -25,4 +24,10 @@ stock.” Most commentators identify this king as Soma, but the thematics and  p
 <details><summary>Jamison Brereton Notes</summary>
 
 Various gods (Praügaśastra) I.23.4-6: This tṛca to Mitra and Varuṇa stations the two names in three different ways in the three verses. In 4 mitrá- opens the first pāda and váruṇa- the second; in 5 they are expressed in the dual dvandva mitrā́váruṇā in c; in 6 they again open the first two pādas, but with váruṇa- first and mitrá- second.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२३   मेधातिथिः काण्वः। १ वायुः, २-३ इन्द्रवायूः, ४--६ मित्रावरुणौ, ७-९ इन्द्रो मरुत्वान्, १०-१२ विश्वे देवाः,  १३-१५ पूषाः, १६-२२, २३(पूर्वार्धस्य) आपः, २३ (उत्तरार्धस्य), २४ अग्निः। १-१८ गायत्री, १९  पुरउष्णिक्, २१ प्रतिष्ठा, २०, २२-२४ अनुष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+182"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -15,4 +14,10 @@ Br̥haspati
 Tapurmūrdhan Bārhaspatya  
 3 verses: triṣṭubh  
 Br̥haspati, the master of ritual speech, is called upon to aid our speech, but also to  punish all forms of evil speech and their speakers.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १८२  तपुर्मूर्धा बार्हस्पत्यः। बृहस्पतिः। त्रिष्टुप्
 </details>

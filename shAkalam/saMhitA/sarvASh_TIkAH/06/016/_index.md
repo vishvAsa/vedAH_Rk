@@ -1,6 +1,5 @@
 +++
 title = "+016"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This lengthy hymn must, like the last one (VI.15), be dissolved into tr̥cas in 
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १६  बार्हस्पत्यो भरद्वाजः।अग्निः। गायत्री, १, ६ वर्धमाना, २७, ४७-४८ अनुष्टुप्, ४६ त्रिष्टुप्।
 </details>

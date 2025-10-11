@@ -1,6 +1,5 @@
 +++
 title = "+029"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -38,4 +37,10 @@ Yet, despite all this clever machinery,  the hymn wears its structure lightly, a
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods On the intricate structure of this hymn see published introduction. and my Rigveda between Two Worlds (75-77).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२९  मनुर्वैवस्वतः, कश्यपो वा मारीचः।विश्वे देवाः। द्विपदा विराट्।
 </details>

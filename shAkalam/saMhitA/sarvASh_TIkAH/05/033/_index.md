@@ -1,6 +1,5 @@
 +++
 title = "+033"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -37,4 +36,10 @@ Indra Although the general outline of this hymn is pretty straightforward, it is
 Indra These two hymns attributed to Saṃvaraṇa Prājāpatya are full of puzzles, many insoluble.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३३  प्राजापत्यः संवरणः।इन्द्रः। त्रिष्टुप्।
 </details>

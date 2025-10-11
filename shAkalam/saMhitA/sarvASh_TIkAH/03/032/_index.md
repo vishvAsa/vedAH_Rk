@@ -1,6 +1,5 @@
 +++
 title = "+032"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ For the most part the language of this hymn is straightforward and even a bit  m
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३२  गाथिनो विश्वामित्रः।इन्द्रः। त्रिष्टुप्
 </details>

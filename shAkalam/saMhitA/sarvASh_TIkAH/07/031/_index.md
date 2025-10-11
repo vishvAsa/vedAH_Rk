@@ -1,6 +1,5 @@
 +++
 title = "+031"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The praise of Indra and the benefits we request of him are generic, but nicely b
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३१  मैत्रावरुणर्वसिष्ठः।इन्द्रः। गायत्री, १०-१२ विराट्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+032"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ secure, the competing interpretations are even less so, and the prurient nature 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३२  वामदेवो गौतमः। इन्द्रः, २३-२४ इन्द्राश्वौ। गायत्री
 </details>

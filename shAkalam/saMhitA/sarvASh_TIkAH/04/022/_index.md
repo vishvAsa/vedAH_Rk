@@ -1,6 +1,5 @@
 +++
 title = "+022"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Within a slender frame depicting Indra’s presence at and participation in our 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra Hoffmann treats and translates the first four vss. of this hymn (Injunk. 186- 88) as an ex. of “die erwähnende Beschreibung eines präteritalen Tatbestandes” associated with the general description of a god. He notes the unclear boundaries between past and present in such contexts.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २२  वामदेवो गौतमः। इन्द्रः। त्रिष्टुप्
 </details>

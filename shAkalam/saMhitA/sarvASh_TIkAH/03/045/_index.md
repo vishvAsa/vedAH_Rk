@@ -1,6 +1,5 @@
 +++
 title = "+045"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The hymn begins by inviting Indra to “drive here,” as is familiar from the p
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४५  गाथिनो विश्वामित्रः।इन्द्रः। बृहती
 </details>

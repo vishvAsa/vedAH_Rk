@@ -1,6 +1,5 @@
 +++
 title = "+080"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ In the final verse, in a different meter, the poet names himself and reminds all
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८०  एकद्यूर्नौधसः।इन्द्रः, १० देवाः । गायत्री, १० त्रिष्टुप्।
 </details>

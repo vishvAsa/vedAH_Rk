@@ -1,6 +1,5 @@
 +++
 title = "+034"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ One curious feature of the hymn is the presence of phraseology and imagery  char
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३४  गाथिनो विश्वामित्रः।इन्द्रः । त्रिष्टुप्
 </details>

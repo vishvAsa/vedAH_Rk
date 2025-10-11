@@ -1,6 +1,5 @@
 +++
 title = "+006"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ its second half. The hymn in quite ritually focused, particularly in its first h
 fice, and fire was carried around them. See III.8, dedicated to the sacrificial post. The subject of the second half is less clear, the ritual references both less precise  and more poetically enigmatic. It is perhaps simply the kindling of fire at dawn,  as so often, with striking and shifting descriptions of its birth and of its resulting  flames. The most difficult part of the hymn is the first half of verse 7, and its trans lation here is speculative.  
 Although the hymn seems to fall into two halves, there is no reason to suppose  that it is not a unitary composition. The exact ritual references of the first part  simply open out to a general treatment of the ritual fire, by way of a transition (vss.  5–6) mentioning the fearsome aspects of Agni, perhaps suggested by the associa  
 tion with animal sacrifice.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६  वामदेवो गौतमः। अग्निः। त्रिष्टुप्
 </details>

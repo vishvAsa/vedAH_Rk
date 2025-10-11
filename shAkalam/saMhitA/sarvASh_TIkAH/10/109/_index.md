@@ -1,6 +1,5 @@
 +++
 title = "+109"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ We instead believe that the hymn relates to the much-debated issue in the late  
 The middle verses (3–5) concern the wife’s activities on the ritual ground and  their importance. It is she who “places what is difficult to place in the highest dis tant heaven” (vs. 4), in our view a reference to her role in mediating between the earthly and divine realms especially in the animal sacrifice: she figuratively depos its the oblation in heaven by touching and ritually preparing the sacrificed ani mal. The most difficult verse is 5, which also contains the only R̥gvedic occurrence  of the word brahmacārín (already in the Atharvaveda a word for “Vedic student”  and later a standard way of referring to a man practicing chastity). Although the  verse remains enigmatic, it is possible that it suggests that a single ritual performer  (reciter of formulations) is necessary but not sufficient, and it is for this reason that  the Wife has been introduced into ritual practice.  
 The hymn is also saturated with wedding vocabulary (“grasp the hand,” “lead,”  etc.). This domestic ritual, in which man and wife participate jointly, provides a  reassuring model for the wife’s foray into the more solemn and serious realm of  śrauta ritual.  
 For more detailed discussion, see Jamison (forthcoming b).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १०९  जुहूर्ब्रह्मजाया, ब्राह्मः ऊर्ध्वनाभा वा। विश्वे देवाः। त्रिष्टुप्, ६-७ अनुष्टुप्
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+033"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ The major part of this hymn is devoted to begging the god Rudra for his indul ge
 Rudra This is a much anthologized hymn, fully translated by Macdonell in VRS, Doniger, and Maurer. Its popularity is not surprising: it’s lively and varied, but does not pose major difficulties, though it has its share of small knots.
 
 Renou EVP XV.157-60.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३३  गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः।रुद्रः। त्रिष्टुप्
 </details>

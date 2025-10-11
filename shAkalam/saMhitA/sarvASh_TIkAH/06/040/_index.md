@@ -1,6 +1,5 @@
 +++
 title = "+040"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ The final word of the hymn, “with the Maruts,” establishes the Midday Pressi
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४०    बार्हस्पत्यो भरद्वाजः।इन्द्रः। त्रिष्टुप्।
 </details>

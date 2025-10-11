@@ -1,6 +1,5 @@
 +++
 title = "+182"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+182"
 <details><summary>Jamison Brereton</summary>
 
 182  
-Aśvins  
+Aśvins  
 Agastya Maitrāvaruṇi  
 8 verses: jagatī, except triṣṭubh 6, 8  
 The hymn begins (vs. 1) by addressing the ritual participants (in the plural) and  announcing the Aśvins to them; the poet then addresses the Aśvins themselves with extravagant praise (vs. 2), but in the next verse (3) he expresses some impatience  with them: why are the gods wasting their time with a non-sacrificer? They should  destroy such people and reward us, the faithful sacrificers and poets (vss. 3–4). The  “baying hounds” of verse 4 may well be a reference to rival poets.  
@@ -23,4 +22,10 @@ The final verse (8) is a typical summary verse, referring to the poem just recit
 <details><summary>Jamison Brereton Notes</summary>
 
 Aśvins
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१८२   अगस्त्यो मैत्रावरुणिः।अश्विनौ। जगती, ६-८ त्रिष्टुप्।
 </details>

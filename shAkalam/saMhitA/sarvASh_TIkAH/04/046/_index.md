@@ -1,6 +1,5 @@
 +++
 title = "+046"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+046"
 <details><summary>Jamison Brereton</summary>
 
 46 (342)  
-Vāyu (1), Vāyu and Indra (2–7)  
+Vāyu (1), Vāyu and Indra (2–7)  
 Vāmadeva Gautama  
 7 verses: gāyatrī  
 This simple hymn never strays from its ritual purpose:  at the Morning Pressing  of the soma sacrifice, Vāyu and then Indra and Vāyu receive the first offerings of  soma. Here they are urged to come to the sacrifice and drink their shares.
@@ -20,4 +19,10 @@ This simple hymn never strays from its ritual purpose:  at the Morning Pressing 
 <details><summary>Jamison Brereton Notes</summary>
 
 Vāyu and Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४६  वामदेवो गौतमः, १- ३ इन्द्रो वा।। इन्द्रवायू, १ वायुः। गायत्री
 </details>

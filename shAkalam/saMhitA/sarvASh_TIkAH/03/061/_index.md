@@ -1,6 +1,5 @@
 +++
 title = "+061"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The only hymn dedicated to Dawn in Maṇḍala III, it combines the usual themes
 <details><summary>Jamison Brereton Notes</summary>
 
 Dawn
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६१  गाथिनो विश्वामित्रः।उषाः। त्रिष्टुप्
 </details>

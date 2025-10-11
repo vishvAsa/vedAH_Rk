@@ -1,6 +1,5 @@
 +++
 title = "+027"
-
 +++
 
 <details><summary>Jamison Brereton</summary>
@@ -23,4 +22,10 @@ ceded. The first two verses of this section (19–20) seem to be riddles turning
 If we are correct, the implicit answer to this question is the sacrifice and its cen ter, fire, and this answer is given obliquely in verse 22. Fire the substance is always  potentially present, but not always actually present, and so it appears to defy the  temporally defined progress to old age and death. Latent “within every tree,” it  can burst forth at any time. It is frightening in some of its effects (the flames as  “man-eating birds”) and strikes terror in all beings (pāda c), but is also the benevo lent focus of sacrifice (pāda d). The original establishment of the sacrifice by the  gods seems to be treated in verse 23, and in the thoroughly obscure last pāda of  that verse Indra, unnamed, may come himself to the sacrifice for epiphany, thus  returning us to the beginning of the hymn and the direct involvement of Indra with  sacrificers.  
 The last verse is no clearer than the preceding ones, though it seems to be  announcing a final, instructive truth according to which one should lead one’s life.  Perhaps the idea is that the sacrifice is the means to life, which connects one to the  eternal world of heaven and the sun. The destructive temporal forces mentioned  earlier (vss. 20–21) were “below the sun,” but in this final verse the sun reveals itself,  hides the mist (if that’s what the phonologically problematic hapax busá means),  and reaches its “foot” (a sunbeam going toward the ground?) out to be seen, thus  providing a potential bond for the sacrificing mortal to the higher world. This shaft of light, liberated from its covering, that ends the hymn, seems an optimistic prom ise to the addressee of better things than decay and death.  
 But much of this is poorly supported speculation, and the hymn, especially the  final verses of the hymn, invites further detailed investigation.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२७  ऐन्द्रो वसुक्रः। इन्द्रः। त्रिष्टुप्
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+038"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The hymn is in some ways a twin to the following one, sharing vocabulary  and th
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra For the general contents, see disc. in published introduction. Witzel Gotō interpr. it as plea to Indra for rain -- a purpose that I find very hard to discern and that results in farfetched interpr. of details.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३८  भौमोऽत्रिः।इन्द्रः। अनुष्टुप् ।
 </details>

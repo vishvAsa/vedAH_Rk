@@ -1,6 +1,5 @@
 +++
 title = "+016"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ The hymn is full of deep and surface puns, phonological play, and subtle echoes 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १६  वामदेवो गौतमः। इन्द्रः। त्रिष्टुप्
 </details>

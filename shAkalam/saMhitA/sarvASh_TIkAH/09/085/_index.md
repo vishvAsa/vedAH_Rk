@@ -1,6 +1,5 @@
 +++
 title = "+085"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+085"
 <details><summary>Jamison Brereton</summary>
 
 85 (797)  
-Soma Pavamāna  
+Soma Pavamāna  
 Vena Bhārgava  
 12 verses: jagatī, except triṣṭubh 11–12  
 The last two hymns of the jagatī group, IX.85–86, break the standard pattern of  decreasing numbers of verses, having twelve and forty-eight verses respectively, after  a group of hymns with five verses (IX.75–84). However, each of these longer hymns  can be divided into a series of shorter ones, which then conform to the patterns of  hymn arrangement. In the case of IX.85, it consists of three groups of four verses  each. The entire assemblage is attributed to Vena Bhārgava, also the supposed poet of the enigmatic “Vena” hymn (X.123; see also a brief discussion under IX.83). As  we will see, there are certainly striking similarities between the last quartet of IX.85  (vss. 9–12) and X.123.  
@@ -42,4 +41,10 @@ On the structure of the last two hymns of the Jagatī group, see the published
 introductions to IX.85 and 86. In brief, after a series of hymns of 5 vss. (IX.75-84), these last two have 12 vss. and 48 vss. respectively. However, they are clearly composites: IX.85 consists of three groups of four vss. apiece, IX.86 of 16 tṛcas. The standard principles of hymn arrangement can thus be restored.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८५  वेनो भार्गवः। पवमानः सोमः। जगती, ११-१२ त्रिष्टुप् ।
 </details>

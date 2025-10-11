@@ -1,6 +1,5 @@
 +++
 title = "+075"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This Dawn hymn contains most of the usual Dawn themes: her immediate arrival,  w
 <details><summary>Jamison Brereton Notes</summary>
 
 Dawn
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+७५  मैत्रावरुणर्वसिष्ठः।उषसः। त्रिष्टुप्।
 </details>

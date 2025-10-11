@@ -1,6 +1,5 @@
 +++
 title = "+011"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,8 +10,14 @@ title = "+011"
 <details><summary>Jamison Brereton</summary>
 
 11 (723)  
-Soma Pavamāna  
+Soma Pavamāna  
 Asita Kāśyapa or Devala Kāśyapa  
 9 verses: gāyatrī  
 Much of this hymn consists of exhortations to the priests to perform their parts of  the soma preparation, interspersed with addresses to Soma to purify himself for  our benefit. Unlike the last few hymns attributed to the same poet, the language and  syntax present no difficulties, and there is almost no imagery or verbal figuration. It  is a no-nonsense production.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ११  कश्यपोऽसितो देवलो वा।पवमानः सोमः। गायत्री।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+151"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+151"
 <details><summary>Jamison Brereton</summary>
 
 151  
-Mitra and Varuṇa  
+Mitra and Varuṇa  
 Dīrghatamas Aucathya  
 9 verses: jagatī  
 The second part of this hymn (vss. 6cd through 9) is fairly straightforward, depict ing Mitra and Varuṇa as the focus of the sacrifice and the patrons of the sacrificer.  The first part is a different story—enigmatic in reference and convoluted in expres sion. However, it appears to concern the same topic: Mitra and Varuṇa’s presence at  and participation in the sacrifice. We can therefore think of the hymn as an example  of large-scale “poetic repair,” with the second part rephrasing the first in less con torted expressions. (On poetic repair see Jamison 2006.)  
@@ -24,4 +23,10 @@ As mentioned above, the highly wrought and cryptic treatment of the sacrifice  a
 <details><summary>Jamison Brereton Notes</summary>
 
 Mitra and Varuṇa The published introduction. gives a conspectus of the hymn, esp. the difficult first 5 vss.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१५१   दीर्घतमा औचथ्यः।१ मित्रः, २-९ मित्रावरुणौ । जगती।
 </details>

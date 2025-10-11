@@ -1,6 +1,5 @@
 +++
 title = "+178"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ The next verse (3), which is the center of the hymn, predicates of Indra (in age
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१७८   अगस्त्यो मैत्रावरुणिः।इन्द्रः। त्रिष्टुप्।
 </details>

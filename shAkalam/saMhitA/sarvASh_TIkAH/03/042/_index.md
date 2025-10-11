@@ -1,6 +1,5 @@
 +++
 title = "+042"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Another straightforward hymn centered on the soma-drinking, very similar to the 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४२  गाथिनो विश्वामित्रः।इन्द्रः। गायत्री
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+121"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -26,8 +25,14 @@ The final two verses (14–15), asking for protection and valuables, are by cont
 
 <details><summary>Jamison Brereton Notes</summary>
 
-Indra or the All Gods This is a very problematic hymn, and both the published translation and this comm. are tentative and tenuous on many points. There are some quirks that reappear throughout the hymn: a remarkable no. of pāda-final góḥ (2b, 2d, 7b, 9a) - is this some sort of hidden encoding? It’s also part of a pattern of favoring pāda-final monosyllables (vrā́m 2c, rā́ṭ 3a, dyū́n 3b, 7c, dyā́m 3d, vaḥ 4d, nṝ́n 12a, 13a, dā́t 12c
+Indra or the All Gods This is a very problematic hymn, and both the published translation and this comm. are tentative and tenuous on many points. There are some quirks that reappear throughout the hymn: a remarkable no. of pāda-final góḥ (2b, 2d, 7b, 9a) - is this some sort of hidden encoding? It’s also part of a pattern of favoring pāda-final monosyllables (vrā́m 2c, rā́ṭ 3a, dyū́n 3b, 7c, dyā́m 3d, vaḥ 4d, nṝ́n 12a, 13a, dā́t 12c
 
 - and, flg. Hoffmann, daḥ 10d). Also a fondness for pári and prá, the former esp. in
 opaque contexts.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१२१   कक्षीवान् दैर्घतमस औशिजः।इन्द्रो विश्वे देवा वा। त्रिष्ष्टुप्।
 </details>

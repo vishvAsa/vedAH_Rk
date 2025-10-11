@@ -1,6 +1,5 @@
 +++
 title = "+129"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The hymn begins with familiar, and positive, themes: calls to Indra to aid our a
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra This hymn is particularly studded with indefinite expressions: pṛ́tanāsu kā́su cid 2a, 4d, káṃ cid 3b, káyasya cid 5a; later in the hymn rátham kám cid 10d, anyám ... kám cid 10f.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१२९   परुच्छेपो दैवोदासिः।इन्द्रः, ६ इन्दुः। अत्यष्टिः, ८-९ अतिशक्वर्यौ, ११ अष्टिः।
 </details>

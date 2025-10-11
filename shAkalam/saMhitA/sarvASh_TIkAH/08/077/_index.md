@@ -1,6 +1,5 @@
 +++
 title = "+077"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -25,4 +24,10 @@ ing the Viṣṇu verse onto the Viṣṇu-less version found in the gāyatrī p
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७७  कुरुसुतिः काण्वः।इन्द्रः । गायत्री, १०-११ प्रगाथः ( बृहती, सतोबृहती )
 </details>

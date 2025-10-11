@@ -1,6 +1,5 @@
 +++
 title = "+096"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+096"
 <details><summary>Jamison Brereton</summary>
 
 96 (808)  
-Soma Pavamāna  
+Soma Pavamāna  
 Pratardana Daivodāsi  
 24 verses: triṣṭubh  
 This twenty-four-verse hymn, immediately following three five-verse hymns in the  same meter, can easily be made to fit the sequence if it is analyzed as consisting of  a collection of four-verse hymns, as Oldenberg clearly states (1888: 201). The six  hymns thus obtained show different degrees of internal cohesion.  
@@ -33,4 +32,10 @@ The section containing Triṣṭubh hymns
 
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९६  दैवोदासिः प्रतर्दनः।पवमानः सोमः। त्रिष्टुप्
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+067"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+067"
 <details><summary>Jamison Brereton</summary>
 
 67 (508)  
-Mitra and Varuṇa  
+Mitra and Varuṇa  
 Bharadvāja Bārhaspatya  
 11 verses: triṣṭubh  
 This is the only hymn dedicated to Mitra and Varuṇa in Maṇḍala VI, though Indra  and Varuṇa are the recipients of the next, unremarkable hymn. By contrast, this  hymn is obscure in reference and meaning, and full of rare words, unclear morpho logical forms, contorted phraseology, puzzling imagery, and ellipses difficult to fill.  Our interpretation of the hymn both in detail and in general outline differs from the  many incompatible interpretations offered by other scholars (differences that we  cannot discuss here), but our interpretation does produce a clear structure within  which the many puzzles can be evaluated.  
@@ -24,4 +23,10 @@ ing that the preceding hymn also made brief allusion to sacrificial rivalry in i
 <details><summary>Jamison Brereton Notes</summary>
 
 Mitra and Varuṇa
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६६  बार्हस्पत्यो भरद्वाजः।मरुतः। त्रिष्टुप्।
 </details>

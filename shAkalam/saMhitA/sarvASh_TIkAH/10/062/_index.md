@@ -1,6 +1,5 @@
 +++
 title = "+062"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -34,4 +33,10 @@ mending his patron and/or his family to the protection of the Aṅgirases. The f
 <details><summary>Geldner</summary>
 
 Danksagung an Savarni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+६२  नाभानेदिष्ठो मानवः। विश्वे देवाः, १-६ अङ्गिरसो वा, ८-११ सावर्णेर्दानम्। जगती, ५,८,९ अनुष्टुप्, प्रगाथ-  - ६ बृहती, ७ सतोबृहती, १० गायत्री, ११ त्रिष्टुप्
 </details>

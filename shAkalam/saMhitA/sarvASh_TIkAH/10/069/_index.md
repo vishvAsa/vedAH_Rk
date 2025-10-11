@@ -1,6 +1,5 @@
 +++
 title = "+069"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -18,4 +17,10 @@ This hymn is discussed at length and translated in full by Proferes (2007: 40–
 One curious detail in the hymn is found in verse 7, where various possessions are  ascribed to the fire (here called a craftsman), including “a thousand barren cows.”  The negative connotations of this property are immediately counteracted in the  next verse (8ab), in which the fire is credited with having an abundantly fertile cow  whose flow of milk is inexhaustible, but the great flock of barren cows is nonethe  
 less odd. It finds its explanation in a semantic pun: just as the triumphant and suc cessful Vadhryaśva bears the name “possessing gelded horses” so does his equally  triumphant and successful fire “possess barren cows.”  
 Stylistically there is much chaining of phraseology and repetition of syntactic  patterns.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+६९  सुमित्रो वाध्र्यश्वः। अग्निः। त्रिष्टुप्, १-२ जगती
 </details>

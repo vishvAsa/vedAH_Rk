@@ -1,6 +1,5 @@
 +++
 title = "+031"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -32,4 +31,10 @@ in its first three vss. I will not attempt to represent the many conflicting int
 In the published introduction. I say that Indra is not named in the narrative of the Vala myth until vs. 11, but this is false: the last word of the 1st verse of the Vala treatment, 4d, is índraḥ. He is also named in the last vs. of the Vala section, 11b -- thus producing a satisfying ring.
 
 Vss. 3 to the end are tr. and discussed by H.-P. Schmidt in Bṛhaspati und Indra (pp. 166-75).
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३१  कुशिक ऐषीरथिः, गाथिनो विश्वामित्रो वा।इन्द्रः। त्रिष्टुप्
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+033"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ A martial hymn. The poet reminds Indra that he will receive entreaties for help 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३३  शुनहोत्रो भारद्वाजः।इन्द्रः। त्रिष्टुप्।
 </details>

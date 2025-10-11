@@ -1,6 +1,5 @@
 +++
 title = "+024"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ The hymn consists of tr̥cas, but there is little unity within most of these tri
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२४  विश्वमना वैयश्वः।इन्द्रः, २८- ३० वरुः सौषाम्णिः। उष्णिक्, ३० अनुष्टुप्।
 </details>

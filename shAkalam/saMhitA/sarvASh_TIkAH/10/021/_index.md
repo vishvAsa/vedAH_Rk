@@ -1,6 +1,5 @@
 +++
 title = "+021"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ sible to render in translation, and so the refrain has been unified and placed a
 As if with (hymns) with their own twists, we choose you, Agni, as Hotar for our sacrifice whose ritual grass has been strewn—in exhilaration you  (gods)—  
 (we choose you,) sharp and pure-flamed—I wish to acclaim.  
 The formal novelty of the hymn is not matched by its content, which is simply a  typical celebration of Agni’s installation as Hotar at his kindling, along with wishes  for his gifts of wealth.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+२१  ऐन्द्रो विमदः, प्राजापत्यो वा,वासुक्रो वसुकृद्वा। अग्निः। आस्तारपङ्क्तिः
 </details>

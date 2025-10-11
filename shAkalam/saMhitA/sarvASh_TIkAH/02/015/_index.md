@@ -1,6 +1,5 @@
 +++
 title = "+015"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ preceding verses, such as the references to the ritual seats and possibly the la
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra (misc. comments by SJ to JPB tr.)
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१५  गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः।इन्द्रः। त्रिष्टुप्।
 </details>

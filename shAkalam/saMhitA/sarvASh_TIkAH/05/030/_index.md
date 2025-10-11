@@ -1,6 +1,5 @@
 +++
 title = "+030"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This hymn follows a fairly straightforward chronological trajectory. The poet  b
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra There are a number of paired repetitions of words and phrases in earlier and later parts of the hymn, but not enough to define an omphalos: e.g., -senaḥ# 3d / sénāḥ# 9b; X Y cakrṣ̥ e 4a / X Y cakre 9a; yudháye 4b / 9d; áśmānam cid 4c / 8c; gávām ... usríyānām 4d / 11d.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ३०  बभ्रुरात्रेयः।इन्द्रः, १२-१५ ऋणंचयेन्द्रौ। त्रिष्टुप्।
 </details>

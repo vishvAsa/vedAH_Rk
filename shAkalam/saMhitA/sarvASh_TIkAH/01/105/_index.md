@@ -1,6 +1,5 @@
 +++
 title = "+105"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -44,4 +43,10 @@ The intricacy of the responsive patterns and the tension between the two struc t
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods For the structure and meaning of the hymn as a whole see the published introduction. as well as Jamison 2007: 82-85. In what follows here I will comment only on the details of particular verses.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१०५   त्रित आप्त्यः, कुत्स आङ्गिरसो वा।  विश्वे देवाः। पङ्क्तिः, ८ यवमध्या महाबृहती, १९ त्रिष्टुप्।
 </details>

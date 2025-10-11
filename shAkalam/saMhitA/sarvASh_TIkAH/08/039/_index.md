@@ -1,6 +1,5 @@
 +++
 title = "+039"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -24,4 +23,10 @@ The poet handles the six-pāda structure of the mahāpaṅkti flexibly. The last
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३९  नाभाकः काण्वः।अग्निः। महापङ्क्तिः
 </details>

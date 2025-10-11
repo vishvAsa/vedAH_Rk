@@ -1,6 +1,5 @@
 +++
 title = "+089"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ In between are a series of verses invoking various gods and asking for their hel
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+८९   गोतमो राहूगणः। विश्वेदेवाः (१-२, ८-९ देवाः, १० अदितिः )। जगती, ६ विराट्-स्थाना, ८-१० त्रिष्टुप्
 </details>

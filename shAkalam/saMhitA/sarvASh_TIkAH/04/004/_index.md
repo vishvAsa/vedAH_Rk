@@ -1,6 +1,5 @@
 +++
 title = "+004"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The Anukramaṇī names Agni Demon-Smasher (Rakṣo-han) as the divinity of this
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni the Demon-Smasher
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४  वामदेवो गौतमः। रक्षोहाऽग्निः। त्रिष्टुप्
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+172"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ A brief and simple pendant to Agastya’s Indra/Marut cycle. The Maruts as bring
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts One of the shortest hymns in the RV.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१७२   अगस्त्यो मैत्रावरुणिः।मरुतः। गायत्री।
 </details>

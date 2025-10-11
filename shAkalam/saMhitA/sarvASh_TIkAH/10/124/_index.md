@@ -1,6 +1,5 @@
 +++
 title = "+124"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -34,4 +33,10 @@ from their assignment below. Verse 1, I believe, is not in the voice of Indra, b
 In my view the dialogue ends with verse 5. In verse 6 the sacrificer and new king  makes a final declaration, in which he explicitly identifies himself with Indra, here by  assuming Indra’s most characteristic deed, the destruction of Vr̥tra. The final three  verses are in the voice of the priestly narrator. In verse 7 he identifies the new king with  Varuṇa by attributing to him the deeds of Varuṇa, and in verse 8 the new king once  again becomes Indra. Finally in verse 9 the sage poets “discern” Indra. And where do  they discern him? In the king, who acts in accordance with the praise that follows him!  
 Thus, the hymn parallels IV.42, in which Trasadasyu acts as both Varuṇa and  Indra in peace and in war. Unlike Trasadasyu, however, the claimant here seems to  have had opposition, which would have made the ritual affirmation of his rule all the  more essential. In this interpretation, ásura “lord” or “lordly” dissolves as a designa  
 tion for a group of gods. In its two occurrences, in the singular in verse 3 and in the  plural in verse 5, ásura refers to human lords, not to gods or antigods or old gods.  And not only does it refer to humans, but also to quite different humans: in verse 3  to the predecessor of the sacrificer and in verse 5 to the sacrificer’s enemies or rivals.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १२४  अग्निः, १, ५-९ अग्नि - वरुण - सोमाः। १ अग्निः, २-४ अग्नेरात्मा, ५, ७-८ वरुणः, ६ सोमः , ९ इन्द्रः।  त्रिष्टुप्, ७ जगती ।
 </details>

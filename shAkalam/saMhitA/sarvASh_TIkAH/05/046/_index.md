@@ -1,6 +1,5 @@
 +++
 title = "+046"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ If this scenario is correct—that verse 1 represents an argument in favor of th
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods On my hypothesis concerning the reason for this hymn, viz., support for the ritual innovation of the Patnī, see published introduction. Save for the final two vss. devoted to the wives of the gods, there seems no rationale for the deities included or excluded from the enumerative vss. or for the repetition of some and not others.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४६  प्रतिक्षत्र आत्रेयः।विश्वे देवाः, ७-८ देवपत्न्यः। जगती, २,८ त्रिष्टुप्।
 </details>

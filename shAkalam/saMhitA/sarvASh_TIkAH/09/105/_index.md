@@ -1,6 +1,5 @@
 +++
 title = "+105"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+105"
 <details><summary>Jamison Brereton</summary>
 
 105 (817)  
-Soma Pavamāna  
+Soma Pavamāna  
 Parvata and Narada  
 6 verses: uṣṇih  
 For discussion of this twin to IX.104, see the introduction to that hymn.
@@ -20,4 +19,10 @@ For discussion of this twin to IX.104, see the introduction to that hymn.
 <details><summary>Jamison Brereton Notes</summary>
 
 As noted ad IX.104, this hymn has a very palpable twinned relationship with 104, though extensive exact repetition is avoided. What follows explicitly traces the parallels and the variations.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १०५  पर्वतनारदौ काण्वौ।पवमानः सोमः। उष्णिक्।
 </details>

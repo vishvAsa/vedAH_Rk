@@ -1,6 +1,5 @@
 +++
 title = "+091"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,7 +20,7 @@ title = "+091"
 <details><summary>Jamison Brereton</summary>
 
 91 (803)  
-Soma Pavamāna  
+Soma Pavamāna  
 Kaśyapa Mārīca  
 6 verses: triṣṭubh  
 The first three verses of this hymn concentrate on the journey of the soma across  the filter toward the mixing milk and toward Indra, but the militancy characteristic  of the previous hymn (IX.90) asserts itself in verse 4. The final two verses (5–6) ask  for bounties and blessings in return for our verbal and ritual service.
@@ -36,4 +35,10 @@ The section containing Triṣṭubh hymns
 
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९१  कश्यपो मारीचः।पवमानः सोमः। त्रिष्टुप्
 </details>

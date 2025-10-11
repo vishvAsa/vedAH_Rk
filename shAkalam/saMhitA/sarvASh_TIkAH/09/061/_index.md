@@ -1,6 +1,5 @@
 +++
 title = "+061"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+061"
 <details><summary>Jamison Brereton</summary>
 
 61 (773)  
-Soma Pavamāna  
+Soma Pavamāna  
 Amahīyu Āṅgirasa  
 30 verses: gāyatrī, arranged in trcas ̥  
 The first sixty hymns of the Soma Maṇḍala, all in gāyatrī meter, are arranged in the  normal order of descending number of verses, starting with hymns of ten verses  and ending with those of four. (The only exception is the Āprī hymn, IX.5, which  has eleven.) But the gāyatrī sequence ends with six thirty-verse hymns (IX.61–66),  followed by one with thirty-two verses (IX.67)—all arranged in tr̥cas (the final two  verses in IX.67 are supplements) and each attributed to a different poet or group  of poets—before the jagatī group begins. It is probably not an accident that these  groupings of tr̥cas come at the end of the gāyatrī sequence, since, as agglomerations  of three-verse sequences, they logically follow the four-verse hymns.  
@@ -28,4 +27,10 @@ naming Indra, and the theme of Soma the smiter and aggressive warrior returns  t
 
 On the place of these long hymns in the structure of the maṇḍala, see published introduction. to IX.61. All of these hymns consist of collections of tṛcas of varying degrees of cohesion. In fact, it is surprising how few tṛcas display a real attempt at thematic or lexical unity, and what they do show is often simply the byproduct of the fact that both the lexicon and thematic preoccupations of Maṇḍala IX are comparatively limited and so similar words and themes are not unlikely to show up in adjacent verses. This lack of unity contrasts, I think (this is my unsystematic and anecdotal impression) with collections of tṛcas in other maṇḍalas, notably VIII.</details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६१  अमहीयुराङ्गिरसः।पवमानः सोमः। गायत्री
 </details>

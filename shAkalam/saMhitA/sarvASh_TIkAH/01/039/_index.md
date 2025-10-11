@@ -1,6 +1,5 @@
 +++
 title = "+039"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ The usual buoyant descriptions of the Maruts’ appearance and behavior as the  
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३९   कण्वो घौरः। ब्रह्मणस्पतिः। प्रगाथः - विषमा बृहत्यः, समाः सतोबृहत्यः।
 </details>

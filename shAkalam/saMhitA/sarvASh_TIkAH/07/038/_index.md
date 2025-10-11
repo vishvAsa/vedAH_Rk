@@ -1,6 +1,5 @@
 +++
 title = "+038"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ winners” (vājín). This word is frequently a descriptor of horses in competit
 <details><summary>Jamison Brereton Notes</summary>
 
 Savitar [/All Gods] On the likelihood that this is actually an All Gods hymn, despite the Anukr.’s ascription to Savitar and the domination of Savitar in the first vss., see published introduction.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३८  मैत्रावरुणर्वसिष्ठः।१-६ सविता, ६ उत्तरार्धस्य भगो वा, ७-८ वाजिनः। त्रिष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+099"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ The second half of the hymn (vss. 4–8) is the praise hymn proper, with emphasi
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९९  नृमेध आङ्गिरसः।इन्द्रः। प्रगाथः - विषमा बृहती, समा सतोबृहती।
 </details>

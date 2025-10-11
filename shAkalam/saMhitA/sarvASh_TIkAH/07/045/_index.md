@@ -1,6 +1,5 @@
 +++
 title = "+045"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This simple hymn concentrates on Savitar as giver of goods and human necessities
 <details><summary>Jamison Brereton Notes</summary>
 
 Savitar 75
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४५  मैत्रावरुणर्वसिष्ठः।सविता। त्रिष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+056"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+056"
 <details><summary>Jamison Brereton</summary>
 
 56 (768)  
-Soma Pavamāna  
+Soma Pavamāna  
 Avatsāra Kāśyapa  
 4 verses: gāyatrī  
 The first three verses of this simple hymn describe Soma’s journey in the filter (vs.  1), as the liquid separates into multiple streams in the channels of the fleece (vs. 2),  and his preparation by the fingers (vs. 3). The fourth verse then requests protection  for ourselves and our men, while urging the soma to flow for its divine recipients.
@@ -26,4 +25,10 @@ The next 8 hymns, the last ones before the lengthy hymns assembled from tṛcas 
 IX.53-57. Oldenberg tends to analyze them as a tṛca with Schlussvers, which is strictly accurate, but I think the point is the interplay of 3+1.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५६  अवत्सारः काश्यपः।पवमानः सोमः। गायत्री।
 </details>

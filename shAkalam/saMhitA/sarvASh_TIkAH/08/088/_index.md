@@ -1,6 +1,5 @@
 +++
 title = "+088"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The hymn contains the usual mixture of praise for Indra’s overwhelming might  
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८८  नोधा गौतमः।इन्द्रः। प्रगाथः - (विषमा बृहती, समा सतोबृहती)
 </details>

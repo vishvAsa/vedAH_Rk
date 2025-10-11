@@ -1,6 +1,5 @@
 +++
 title = "+049"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This hymn picks up where the previous hymn ended, with the gods Savitar  (“Imp
 <details><summary>Jamison Brereton Notes</summary>
 
 All Gods
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४९  प्रतिप्रभ आत्रेयः ( ५ तृणपाणिः)।विश्वे देवाः। त्रिष्टुप्
 </details>

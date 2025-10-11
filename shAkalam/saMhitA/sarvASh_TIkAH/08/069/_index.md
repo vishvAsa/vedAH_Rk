@@ -1,6 +1,5 @@
 +++
 title = "+069"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+069"
 <details><summary>Jamison Brereton</summary>
 
 69 (678)  
-Indra (1–10, 13–18), All Gods (11ab), Varuṇa  
+Indra (1–10, 13–18), All Gods (11ab), Varuṇa  
 (11cd–12)  
 Priyamedha Āṅgirasa  
 18 verses: anuṣṭubh, except gāyatrī 4–6, paṅkti 11, 16, br̥hatī 17–18 [2 wrongly identi fied as uṣṇih by Anukramaṇī]  
@@ -30,4 +29,10 @@ The following verse (16) brings us back to the present, with the poet’s second
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६९  प्रियमेध आङ्गिरसः।इन्द्रः, ११ (अर्धर्चस्य) विश्वे देवाः, ११(उत्तरार्धस्य)- १२ वरुणः। अनुष्टुप्, २  उष्णिक्, ४-६ गायत्री, ११, १६ पङ्क्तिः, १७-१८ बृहती
 </details>

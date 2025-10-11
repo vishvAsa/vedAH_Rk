@@ -1,6 +1,5 @@
 +++
 title = "+060"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+060"
 <details><summary>Jamison Brereton</summary>
 
 60 (772)  
-Soma Pavamāna  
+Soma Pavamāna  
 Avatsāra Kāśyapa  
 4 verses: gāyatrī  
 A satisfyingly tight structure knits together this little hymn. The first and last verses  contain the epithet “boundless” (vícarṣaṇi) providing a faint ring. More salient is  the chaining from verse to verse: a significant portion of the final pāda of one verse  opens the next verse.  
@@ -30,4 +29,10 @@ The next 8 hymns, the last ones before the lengthy hymns assembled from tṛcas 
 IX.53-57. Oldenberg tends to analyze them as a tṛca with Schlussvers, which is strictly accurate, but I think the point is the interplay of 3+1.
 </details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६०  अवत्सारः काश्यपः।पवमानः सोमः। गायत्री, ३ पुरउष्णिक्।
 </details>

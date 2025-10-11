@@ -1,6 +1,5 @@
 +++
 title = "+001"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The arrival and installation occupy verses 1–3; verses 4–8 show Agni’s rea
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १  बार्हस्पत्यो भरद्वाजः। अग्निः। त्रिष्टुप् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+027"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -37,4 +36,10 @@ Unfortunately they are very obscure in many details, esp. IV.27. The myth and th
 <details><summary>Geldner</summary>
 
 Der Adler:
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २७   वामदेवो गौतमः। श्येनः, ५ इन्द्रो वा। त्रिष्टुप्, ५ शक्वरी।
 </details>

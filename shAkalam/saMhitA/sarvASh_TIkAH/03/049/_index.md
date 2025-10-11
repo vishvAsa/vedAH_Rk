@@ -1,6 +1,5 @@
 +++
 title = "+049"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The first word of this hymn, śáṃsā “I will proclaim” (or possibly 2nd s
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४९  गाथिनो विश्वामित्रः। इन्द्रः।  त्रिष्टुप् ।
 </details>

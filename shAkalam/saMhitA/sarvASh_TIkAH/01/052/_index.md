@@ -1,6 +1,5 @@
 +++
 title = "+052"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ This version also allots a large role to the helpers that encouraged and aided  
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५२   सव्य आङ्गिरसः। इन्द्रः। जगती, १३-१५ त्रिष्टुप्।
 </details>

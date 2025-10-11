@@ -1,6 +1,5 @@
 +++
 title = "+059"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+059"
 <details><summary>Jamison Brereton</summary>
 
 59 (1028)  
-Indra and Varuṇa  
+Indra and Varuṇa  
 Suparṇa Kāṇva  
 7 verses: jagatī  
 This last Vālakhilya hymn presents a number of uncertainties in transmission, and  so it is difficult to know whether its sometimes awkward phrasing belonged to the  original poem or is the result of flawed transmission. In contrast, the hymn has a  rather tight structure, with an apparent omphalos: verses 3 and 5 have a number  of lexical correspondences, and in particular they both announce a truth (satyám).  These correspondences form a ring that defines verse 4, the central verse of the  hymn, as the omphalos, as well as containing the “truth” proclaimed in the adja  
@@ -26,4 +25,10 @@ ing and give prosperity to the sacrificers in return. In fact, vocabulary approp
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra and Varuṇa
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५९  सुपर्णः काण्वः।इन्द्रावरुणौ। जगती
 </details>

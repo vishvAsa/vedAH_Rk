@@ -1,6 +1,5 @@
 +++
 title = "+018"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+018"
 <details><summary>Jamison Brereton</summary>
 
 18  
-Brahmaṇaspati [Lord of the Sacred Formulation] (1–3),  Brahmaṇaspati, Indra, and Soma (4), the Same with Daksiṇ ̣ā (5);  Sadasaspati [Lord of the Seat] (6–8), Sadasaspati or Narāsaḿ ̣sa (9)  
+Brahmaṇaspati [Lord of the Sacred Formulation] (1–3),  Brahmaṇaspati, Indra, and Soma (4), the Same with Daksiṇ ̣ā (5);  Sadasaspati [Lord of the Seat] (6–8), Sadasaspati or Narāsaḿ ̣sa (9)  
 Medhātithi Kāṇva  
 9 verses: gāyatrī  
 This hymn falls into two parts: verses 1–5 concern Brahmaṇaspati (in part in con junction with other gods), 6–9 Sadasaspati. Though Brahmaṇaspati is a well-estab lished divinity and an allo-form of the even better established Br̥haspati, Sadasaspati  “Lord of the Seat” occurs only here (and once elsewhere, in Medhātithi’s oeuvre,  in the variant epithet sádaspáti used of the dual divinities Indra and Agni, I.21.5).  Thus “lord of the seat” is not a separate divinity, but the functional descriptor of  another god. In our view the god in question is Agni, and the hymn balances the  two major constituents of the sacrifice: the verbal portion overseen by the Lord of  the Sacred Formulation and the physical portion embodied by Agni, the Lord of  the (Ritual) Seat and the conduit for oblations to the gods.  
@@ -24,4 +23,10 @@ ers in this group.
 <details><summary>Jamison Brereton Notes</summary>
 
 Brahmaṇaspati and Sadaspati
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१८   मेधातिथिः काण्वः। ब्रह्मणस्पतिः, ४ इन्द्रो ब्रह्मणस्पतिः सोमश्च, ५ ब्रह्मणस्पतिः सोम इन्द्रो दक्षिणा च,  ६-८ सदसस्पतिः, ९ सदसस्पतिर्नराशंसो वा। गायत्री
 </details>

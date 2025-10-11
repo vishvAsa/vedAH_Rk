@@ -1,6 +1,5 @@
 +++
 title = "+011"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ of gods and mortals, and the final verse is marked by alliterative sequences. Th
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ११  वामदेवो गौतमः। अग्निः। त्रिष्टुप्
 </details>

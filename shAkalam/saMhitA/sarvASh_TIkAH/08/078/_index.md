@@ -1,6 +1,5 @@
 +++
 title = "+078"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ The middle tr̥ca (vss. 4–6) contrasts somewhat with its surroundings. Though 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ७८  कुरुसुतिः काण्वः।इन्द्रः। गायत्री, १० बृहती ।
 </details>

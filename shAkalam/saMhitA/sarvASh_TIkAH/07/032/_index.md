@@ -1,6 +1,5 @@
 +++
 title = "+032"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ Indra is supreme in this hymn. In its twenty-seven verses there is only one men 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३२   ऋ. मैत्रावरुणिर्वसिष्ठः, २६ पूर्वार्धर्चस्य शक्तिर्वासिष्ठो वा (शाट्यायने ब्राह्मणे), २६-२७ शक्तिर्वासिष्ठो  वा(ताण्डके ब्राह्मणे)।इन्द्रः। प्रगाथः - ( बृहती, सतोबृहती), ३ द्विपदा विराट् ।
 </details>

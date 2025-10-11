@@ -1,6 +1,5 @@
 +++
 title = "+036"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ In contrast to the pared-down aesthetic of the immediately preceding hymn, this 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३६  गाथिनो विश्वामित्रः, १० घोर आङ्गिरसः।इन्द्रः। त्रिष्टुप्
 </details>

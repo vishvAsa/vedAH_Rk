@@ -1,6 +1,5 @@
 +++
 title = "+012"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The first half of this hymn (vss. 1–3) describes the rewards Agni gives to a p
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १२  वामदेवो गौतमः। अग्निः। त्रिष्टुप्
 </details>

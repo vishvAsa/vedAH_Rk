@@ -1,6 +1,5 @@
 +++
 title = "+056"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ Like the preceding hymn, this one is divided into two by meter: 1–4, 5–7; th
 <details><summary>Jamison Brereton Notes</summary>
 
 Heaven and Earth
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५६  वामदेवो गौतमः। द्यावापृथिवी। त्रिष्टुप्, ५-७ गायत्री
 </details>

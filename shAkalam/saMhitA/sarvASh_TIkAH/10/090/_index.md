@@ -1,6 +1,5 @@
 +++
 title = "+०९०"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -48,7 +47,7 @@ title = "+०९०"
 <details><summary>Jamison Brereton</summary>
 
 90 (916)  
-Purusạ  
+Purusạ  
 Nārāyaṇa  
 16 verses: anuṣṭubh, except triṣṭubh 16  
 
@@ -69,4 +68,10 @@ This theme of dominance or rule continues also in verse 5 in the mutual generati
 The Man is the “offering” (vs. 6), the sacrificial victim (vs. 15), but more especially he is the sacrifice itself that the gods, the Sādhyas, and seers performed  (vs. 7). Through this sacrifice the elements of subsequent sacrifices emerged: the  “clotted-mixture” (vs. 8), the verses, chants, meters, and sacrificial formulae (vs.  9), and the sacrificial animals (vs. 10). The parts of the sacrifice also became the  three upper varṇas (vss. 11–12): his mouth the brahmins, masters of knowledge and  speech; his arms the rulers, the possessors of power; and his thighs the freemen or  clansmen, who are the productive support of society. These three classes form parts  of the sacrifice because they can participate in the sacrifice. The śūdras or “servants”  are not part of the sacrifice but rather emerge from the feet of the Man, a symbol  of their low social status and their exclusion from the sacrifice. Finally, the elements  of the cosmos and gods themselves come forth from the sacrifice (vss. 13–14). This  primeval sacrifice thus establishes the “first foundations” for the performance of the sacrifice or even for the ritual, social, divine, and visible worlds more generally (vs.  16ab), and it creates access to heaven (16cd).  
 
 The identity of the Sādhyas (in vss. 7 and 16) is not clear. Their name means  “those to be brought to success,” and they appear to be ancient sacrificers whose  proper ritual performance has “perfected” them and who have attained god-like  status or the status of gods.+++(4)+++
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ९०  नारायणः । पुरुषः ।अनुष्टुप्, १६ त्रिष्टुप्
 </details>

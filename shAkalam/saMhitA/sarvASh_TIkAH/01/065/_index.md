@@ -1,6 +1,5 @@
 +++
 title = "+065"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ plished by the end of the hymn, where Agni spreads through the firewood and  awa
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+६५   पराशरः शाक्त्यःअग्निः। द्विपदा विराट् ।
 </details>

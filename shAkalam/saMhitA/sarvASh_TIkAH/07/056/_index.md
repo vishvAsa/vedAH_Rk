@@ -1,6 +1,5 @@
 +++
 title = "+056"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ ence to the Maruts at the Sākamedha in this Marut cycle, see VII.59.9–10. On 
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts 79
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+५६  मैत्रावरुणर्वसिष्ठः।मरुतः। त्रिष्टुप् , १-११ द्विपदा विराट्।
 </details>

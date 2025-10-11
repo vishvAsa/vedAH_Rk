@@ -1,6 +1,5 @@
 +++
 title = "+074"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -22,4 +21,10 @@ activities are mostly the familiar ones, of serving as messenger between the mor
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni Several verses in this hymn are linked in relative cl. / main cl. structures: 1/2, 4/5. Vs. 6 may also be connected to 4/5. See disc. below.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+७४   गोतमो राहूगणः।अग्निः। गायत्री
 </details>

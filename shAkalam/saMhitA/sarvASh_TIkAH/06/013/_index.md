@@ -1,6 +1,5 @@
 +++
 title = "+013"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ This hymn stays focused on its theme of Agni as the possessor and distributor of
 <details><summary>Jamison Brereton Notes</summary>
 
 Agni
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १३  बार्हस्पत्यो भरद्वाजः।अग्निः। त्रिष्टुप्।
 </details>

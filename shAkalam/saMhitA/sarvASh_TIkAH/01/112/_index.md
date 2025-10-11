@@ -1,6 +1,5 @@
 +++
 title = "+112"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -23,4 +22,10 @@ The beginning of the hymn (vss. 1–4), while the rhetorical pattern is still be
 <details><summary>Jamison Brereton Notes</summary>
 
 Aśvins On the structure of the hymn, see the published introduction. The challenging verses are the first four. I will not comment on the many obscure mythic fragments that constitute the Aśvins’ various rescues, nor attempt to etymologize the many personal names.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+११२ कुत्स आङ्गिरसः। १(आद्यपादस्य) द्यावापृथिव्यौ, १ (द्वितीयपादस्य) अग्निः, १ (उत्तरार्धस्य)  अश्विनौ, २-२५ अश्विनौ । जगती, २४-२५ त्रिष्टुप्।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+012"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -31,4 +30,10 @@ The verb form shared by those two refrains (“waxed strong,” root vakṣ) is 
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१२  पर्वतः काण्वः। इन्द्रः । उष्णिक्, ३३ शंकुमती (पिंगलमतेन )
 </details>

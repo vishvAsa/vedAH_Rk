@@ -1,6 +1,5 @@
 +++
 title = "+063"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+063"
 <details><summary>Jamison Brereton</summary>
 
 63 (775)  
-Soma Pavamāna  
+Soma Pavamāna  
 Nidhruvi Kāśyapa  
 30 verses: gāyatrī, arranged in trcas ̥  
 Like the last hymn, this one is much concerned with the ritual preparation of soma,  but it sketches a larger conceptual world in which this preparation takes place. On the  one hand, the purification is seen as a process of Ārya-ization (vs. 5), and the spaces  that Soma traverses, for example the filter, become “Ārya domains” (vs. 14). The waters  that Soma crosses (vss. 5, 21) and the rivers in which he is groomed (vs. 17) are both  the ritual waters in which the soma plant is rinsed and rehydrated and, metaphorically,  the frontier rivers the Āryas crossed in expanding their realms. (See also the mentions  of finding or making “wide space” in the two preceding hymns [IX.61.12; 62.3, 9].)  
@@ -27,4 +26,10 @@ Although the hymn does not seem tightly structured, some tr̥cas show formal  un
 
 On the place of these long hymns in the structure of the maṇḍala, see published introduction. to IX.61. All of these hymns consist of collections of tṛcas of varying degrees of cohesion. In fact, it is surprising how few tṛcas display a real attempt at thematic or lexical unity, and what they do show is often simply the byproduct of the fact that both the lexicon and thematic preoccupations of Maṇḍala IX are comparatively limited and so similar words and themes are not unlikely to show up in adjacent verses. This lack of unity contrasts, I think (this is my unsystematic and anecdotal impression) with collections of tṛcas in other maṇḍalas, notably VIII.</details>
 </div>
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ६३  निध्रुविः काश्यपः।पवमानः सोमः। गायत्री
 </details>

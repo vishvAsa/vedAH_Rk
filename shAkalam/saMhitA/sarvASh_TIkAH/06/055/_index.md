@@ -1,6 +1,5 @@
 +++
 title = "+055"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+055"
 <details><summary>Jamison Brereton</summary>
 
 55 (496)  
-Pūsaṇ  
+Pūsaṇ  
 Bharadvāja Bārhaspatya  
 6 verses: gāyatrī  
 This little hymn is noteworthy for its structure, with a lexical chain knitting the  verses together: each verse, except the last (6), contains at least one word or phrase  from the preceding verse. The last verse does contain a phonological echo of the  preceding one: “brother” in verse 5 (bhrā́tā) is echoed by the last word of verse 6  (“bearing” bíbhrataḥ).  
@@ -23,4 +22,10 @@ It is also noteworthy for the startling, but oddly offhand and uncensorious, all
 Pūṣan As noted in the published introduction, the hymn is structured by an ever-shifting lexical chain. The links are as follows: vs. 1 rathī́ḥ -- 2 rathī́tamam / 2 rāyáḥ sákhā́yam -- 3 rāyáḥ ... sákhā / 3 ajāśva -- 4 ajā́śvam / 4 svásur ... jāráḥ -- 5 svásur jāráh. For the last vs. which lacks a precise repetition, note bhrā́tā in 5 phonologically echoed by bíbhrataḥ ending 6, although they are of course lexically unrelated. We might also note that the verb in 1b, sacāvahai ‘let us two accompany each other’, is echoed by the ‘companion’ word sákhi- in vss. 2, 3, and 5, and ajá- ‘goat’, found in the cmpd.
 
 ajā́śva- ‘having goats as horses’ of vss. 3-4, reappears in 6 without the horses.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५५  बार्हस्पत्यो भरद्वाजः।पूषा। गायत्री।
 </details>

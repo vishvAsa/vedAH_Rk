@@ -1,6 +1,5 @@
 +++
 title = "+013"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+013"
 <details><summary>Jamison Brereton</summary>
 
 13  
-Āprī  
+Āprī  
 Medhātithi Kāṇva  
 12 verses: gāyatrī  
 This is the first Āprī hymn to be encountered in the R̥gveda of the ten in the text.  In these hymns, associated with a litany during the Animal Sacrifice, a set series  of subjects or key words (here italicized) is treated verse by verse, in fixed order  but with variable wording. This particular Āprī hymn is a much less elaborated  version than some exemplars of this form; in this hymn the default model verse is  a bare mention of the topic as object of the phrase “I invite” (vss. 3, 7, 8, 10, 12).  Description is minimal and for the most part predictable.
@@ -20,4 +19,10 @@ This is the first Āprī hymn to be encountered in the R̥gveda of the ten in th
 <details><summary>Jamison Brereton Notes</summary>
 
 Āprī
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१३   मेधातिथिः काण्वः। आप्री सूक्तं, अग्निरूपा देवताः = (१ इध्मः समिद्धोऽग्निर्वा, २ तनूनपात्, ३ नराशंसः,  ४ इळः, ५ बर्हिः, ६ देवीर्द्वारः, ७ उषासानक्ता, ८ दैव्यौ होतारौ प्रचेतसौ, ९ तिस्रो देव्यः  सरस्वतीळाभारत्यः, १० त्वष्टा, ११ वनस्पतिः, १२ स्वाहाकृतयः ।गायत्री ।
 </details>

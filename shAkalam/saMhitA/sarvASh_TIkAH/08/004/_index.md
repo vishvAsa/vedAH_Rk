@@ -1,6 +1,5 @@
 +++
 title = "+004"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -11,7 +10,7 @@ title = "+004"
 <details><summary>Jamison Brereton</summary>
 
 4 (624)  
-Indra (1–14), Indra or Pūsan (15–18), Kurun ̣ ̇ga’s  Dānastuti (19–21)  
+Indra (1–14), Indra or Pūsan (15–18), Kurun ̣ ̇ga’s  Dānastuti (19–21)  
 Devātithi Kāṇva  
 21 verses:  br̥hatī alternating with satobr̥hatī, arranged in pragāthas, except  puraüṣṇih 21.  
 Like the previous hymn, this one is arranged in pragāthas. However, there is less inter nal cohesion in the verse pairs, but more discernible structure in their arrangement in  the hymn. As noted in the Anukramaṇī the hymn falls into three major sections: the  longest (vss. 1–14) devoted to Indra, the next (vss. 15–18) to Pūṣan, and the last (vss.  19–21) a dānastuti. The Indra portion opens with a pragātha (vss. 1–2) listing many  
@@ -25,4 +24,10 @@ The Pūṣan section (though the Anukramaṇī offers a choice of Indra or Pū�
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+४  देवातिथिः काण्वः।इन्द्रः, १५-१८ पूषा वा, १९-२१ कुरुङ्गः। प्रगाथः (विषमा बृहती, समा सतोबृहती),  २१ पुरउष्णिक् ।
 </details>

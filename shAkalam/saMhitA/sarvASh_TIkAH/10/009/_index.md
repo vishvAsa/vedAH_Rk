@@ -1,6 +1,5 @@
 +++
 title = "+009"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -19,4 +18,10 @@ where in the figure of Apām Napat “Child of the Waters,” identified with Ag
 The first three verses of the hymn stand somewhat apart from the remainder of  the hymn and progress from the bland and generic to a rather surprising conclusion.  Verse 1 simply describes the Waters as refreshing and asks them for nourishment  
 
 and happiness. In verse 2 the refreshment is specified as juice or sap (rása) and  implicitly compared to breast milk, since the Waters themselves are compared to  mothers. And then there is the very puzzling verse 3, which can only be understood  as an enlargement of that simile, for it is said that the Waters “animate and beget  us.” But even more puzzling than their apparent role in giving birth to “us” is their  purpose in so doing: so that we will go to be “fit” for the dwelling of an unidentified  third party. This third party is generally assumed, most likely correctly, to be the  patron of the sacrifice, and the poet/sacrificer calls upon the Waters to (re)vivify  him, send him to the house of the patron, and make him fit to render service to this  patron in the form of hymns and ritual labor—but the stark economy with which  this sentiment is expressed challenges the modern interpreter.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+९  त्रिशिरास्त्वाष्ट्रः, सिन्धुद्वीप आम्बरीषो वा। आपः। गायत्री, ५ वर्धमाना गायत्री, ७ प्रतिष्ठा गायत्री, ८-९  अनुष्टुप्
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "+101"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -26,4 +25,10 @@ Dedicated to Parjanya, the god of thunder, this hymn celebrates the fructifying 
 <details><summary>Jamison Brereton Notes</summary>
 
 Parjanya
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१०१  मैत्रावरुणिर्वसिष्ठः (वृष्टिकामः), कुमार आग्नेयो वा।पर्जन्यः। त्रिष्टुप्।
 </details>

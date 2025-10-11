@@ -1,6 +1,5 @@
 +++
 title = "+025"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,4 +20,10 @@ phes. However, Oldenberg (1888: 188) also suggests that V.25–28 may be an adde
 In the first tr̥ca Agni is apparently first becoming present (vs. 2) and has begun  to shine (vs. 3). Then in the second (vss. 4–6) the presence of Agni explodes, and  the poet marks the force of Agni by constantly repeating his name at the beginning  of every hemistich except one (5cd). In the final tr̥ca (vss. 7–9) the poet turns not so  much to the sight of Agni as the sound of Agni. His louder and louder crackling  is reflected in the words of the sacrifice and the other sounds of the sacrifice, nota  
 bly the sounds of the pressing stones that pound the soma, which are themselves  regularly connected to the chants and recitations of the rite. The danger of tr̥cas,  especially when the strophes are as thematically distinct as they are in this hymn, is  that the hymn itself may seem to break into blocks. This poet uses ring composi  
 tion to unify the poem and to underscore its ultimate purpose. In 1d he says that  Agni parṣati dviṣáḥ “will bring to safety from hatred,” and again in 9cd, at the end  of the hymn, that sá no víśvā áti dvíṣaḥ / párṣat “he will bring us to safety across all  hatreds.” While the two phrases obviously echo one another, note that the poet has  not quite repeated himself. Most especially his first assertion seems to be a general  one: Agni is the one who brings to safety. But in the last, Agni is the one who brings  us to safety, applying Agni’s more general power to himself and his people.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    २५  वसूयव आत्रेयाः।  अग्निः। अनुष्टुप्।
 </details>

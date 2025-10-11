@@ -1,6 +1,5 @@
 +++
 title = "+034"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -18,7 +17,13 @@ One of the most famous, most translated, and most anthologized hymns in the  R̥
 
 hymn has the form of a ritual expiation, embodied especially in the last words of  12d, in which the gambler avows the truth of his speech.  
 Dicing was an important cultural feature of ancient India, especially associ ated with kings and the ruling class. Already in middle Vedic sacrifice, in the  Rājasūya, the ritual of the consecration of the king, there is a ritual dicing  match, rigged so that the king-to-be wins. Of course, the whole of the great epic,  the Mahābhārata, is determined by the outcome of the dicing match between  Yudhiṣṭhira and his cousins: Yudhiṣṭhira gambles away his kingdom, his broth ers, his wife, and himself and must fight to regain his kingship. The much-loved  story of Nala and Damayantī also involves the gambling away of a kingdom,  this time by Nala. And the dharma texts consider gambling, along with hunting  and womanizing, to be a characteristic pursuit—and vice—of kings (cf. Mānava  Dharma Śāstra VII.47, 50; for condemnation of gambling in general see, e.g.,  MDŚ IX.220–28).  
-Ancient Indian dicing was quite different from the game that the word con jures up in the modern mind, and much scholarship has been devoted to figur ing out what the play actually consisted of (see, e.g., Lüders 1907; Falk 1986).  It seems to have involved a large quantity of a particular kind of nut (vibhīdaka /vibhītaka) as the dice; these had no markings on them. They were thrown into  a hollow on the ground, and the players took turns pulling out a handful. The  best “hand” was one divisible by four, and the other hands were ranked accord ing to how many nuts were left over after a division by four, with a single leftover  nut being the worst (see vs. 2c). For details, see Falk (1986: 73–133). Although  it may be hard for us to imagine the passions enflamed by this kind of long  division, our own games of chance probably will not stand up to scrutiny some  millennia in the future.  
+Ancient Indian dicing was quite different from the game that the word con jures up in the modern mind, and much scholarship has been devoted to figur ing out what the play actually consisted of (see, e.g., Lüders 1907; Falk 1986).  It seems to have involved a large quantity of a particular kind of nut (vibhīdaka /vibhītaka) as the dice; these had no markings on them. They were thrown into  a hollow on the ground, and the players took turns pulling out a handful. The  best “hand” was one divisible by four, and the other hands were ranked accord ing to how many nuts were left over after a division by four, with a single leftover  nut being the worst (see vs. 2c). For details, see Falk (1986: 73–133). Although  it may be hard for us to imagine the passions enflamed by this kind of long  division, our own games of chance probably will not stand up to scrutiny some  millennia in the future.  
 The monologue form found here is almost unprecedented in the R̥gveda, and  the shifting play of emotions—guilty excitement, tender remembrance of his  past life and family, scorn for his own weakness and the disgust he arouses in  others, bitter anger at the inanimate dice that brought him low, to which he  ascribes agency and malign intention and for which he still longs—is psychologi  
 cally convincing and very moving. Showing our own biases, we might proudly  deem it quite “modern.”
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+३४  कवष ऐलूषः अश्नो भोजवान् वा। १, ७, ९, १२ अक्षाः, १३ कृषिः, २, ६, ८, १०, ११, १४ अक्ष कितव- निन्दा। त्रिष्टुप्, ७ जगती
 </details>

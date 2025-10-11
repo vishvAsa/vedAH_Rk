@@ -1,6 +1,5 @@
 +++
 title = "+046"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -21,7 +20,7 @@ title = "+046"
 <details><summary>Jamison Brereton</summary>
 
 46 (666)  
-Indra (1–20), Dānastuti (21–24), Vāyu (25–28),  Dānastuti (29–33)  
+Indra (1–20), Dānastuti (21–24), Vāyu (25–28),  Dānastuti (29–33)  
 Vaśa Aśvya  
 33 verses: a variety of lyric meters combining 8- and 12- and 4-syllable pādas  
 This hymn has been called the most metrically varied hymn in the R̥gveda: it con tains verses of nearly twenty different meters, although all the verses that allow  analysis appear to be made up of the standard building blocks of eight-, twelve-,  and four-syllable pādas in various combinations. (Some irresolvable irregularities  remain.) For the most part, the verses are grouped into two-verse pairs (anomalous  pragāthas), but the hymn begins with a tr̥ca (vss. 1–3), and the metrically messy  verses 14–16 also appear to form a tr̥ca. The two dānastuti sections (vss. 21–24  and 29–33), broken by two pragāthas to Vāyu, show no internal metrical struc ture. The meter is discussed by Oldenberg with his characteristic acuity both in the  Prolegomena (1888: 109–10) and in the Noten. The hymn is miscellaneous in content as well. It begins and continues for some  time as a fairly standard Indra hymn, insistently focused on begging Indra for gifts  of all sorts. The Indra section continues through verse 20, but becomes more and  more problematic, with metrical and syntactic difficulties reinforcing each other.  Verses 14–16 are metrically almost unanalyzable, and they consist in great part of  syntactic fragments the relationships among which are difficult to construct. Verse  17 (paired in a pragātha with 18) equally resists metrical and exegetical certainty,  but introduces the Maruts as a counterweight to Indra; in verse 18 we return to  more rational metrical structure and, to some degree, analyzable syntax. The last  two verses of the Indra section (19–20) are fairly straightforward and bring the  praise of Indra to a conclusion with an explosion of adjectives (the first hemistich  of 20 is also made entirely of vocatives).  
@@ -32,4 +31,10 @@ mary tone and clearly spells out the cause-and-effect relation between gifts and
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ४६  वशोऽश्व्यः।इन्द्रः, २१-२४ कानीतः पृथुश्रवाः, २५-२८, ३२ वायुः । गायत्री, १ पादनिचृत् , ५ ककुप्, ७  बृहती,  ८ अनुष्टुप् ,  ९ सतोबृहती,  ११-१२ विपरीतोत्तरः प्रगाथः= (बृहती विपरीता),  १३ द्विपदा  जगती,  १४ बृहती पिपीलिकमध्या,  १५ ककुग्न्यकुशिरा,  १६ विराट्,  १७ जगती,  १८ उपरिष्टाद्  बृहती,  १९ बृहती,  २० विषमपदा बृहती,  २१, २४ पंख्निः,  २२ संस्तारपंख्निः,  २५-२८ प्रगाथः=  (बृहती सतोबृहती),  ३० द्विपदा विराट्,  ३१ उष्णिक्,  ३२ पंख्निः।
 </details>

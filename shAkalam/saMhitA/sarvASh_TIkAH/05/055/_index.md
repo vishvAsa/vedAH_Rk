@@ -1,6 +1,5 @@
 +++
 title = "+055"
-
 +++
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -20,4 +19,10 @@ The first nine of the ten verses in this hymn end with a refrain, “as they dro
 <details><summary>Jamison Brereton Notes</summary>
 
 Maruts
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ५५  श्यावाश्व आत्रेयः।मरुतः। जगती, १० त्रिष्टुप्।
 </details>
