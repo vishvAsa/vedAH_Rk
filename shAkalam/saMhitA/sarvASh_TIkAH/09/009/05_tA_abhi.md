@@ -3,7 +3,6 @@ title = "005"
 devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - असितः काश्यपो देवलो वा
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -161,6 +159,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र- परमेश्वर। इन्दुम्- हृदयक्लेदनकरम्। अस्तृतम्- अहिंसितम्। युवानम्- नित्याभिनवम्।  सन्तम्- सद्रसम्। तव- भवतः। व्रते- नियत्याम्। महे- महते लक्ष्याय। ताः- जीवोदकानि।  अभि- अभितः। आ दधुः- धारयामासुः॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **तव** त्वदीये **व्रते** कर्मणि **ताः** अङ्गुल्यः । पूर्वत्र धीतिभिः इत्यङ्गुलीनामुपात्तत्वात् तच्छब्देन परामर्शः । **सन्तं** विद्यमानम् **अस्तृतम्** अहिसितं **युवानं** नित्यतरुणम् **इन्दुं** सोमं **महे** महतेऽभिषवादिलक्षणाय कर्मणे **अभि** **आ** **दधुः** ॥ ॥ ३३ ॥
@@ -184,8 +187,6 @@ They installed the youth as dominating and indestructible for the great; they in
 This vs. presents the same problem as 4c: because of init. tā́ḥ, nom. pl. fem., the subject of ā́dadhuḥ has to be feminine, and there are several pl. feminines in play: the “insightful thoughts” (dhītí-) of 4a and the rivers (nadī́-) of 4b. But which one (or both)? In any case, presumably the subjects of 4c and 5 are the same -- though Sāyaṇa opts for “fingers” in this vs. but “rivers” in 4c.
 
 The unspecified dat. (or with Renou loc.) mahé ‘for/in great …” has too many possibilities for its referent, and I have made no effort to choose one.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/009/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
@@ -218,8 +219,6 @@ Den Indu strömten, Indra, sie, den siegenden zu deinem Dienst Den jungen dir de
 Они привели к великому (состоянию):  
 Сок (сомы), о Индра, в твое распоряжение.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

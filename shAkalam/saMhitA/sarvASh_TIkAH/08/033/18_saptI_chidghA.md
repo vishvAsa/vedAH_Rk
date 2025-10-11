@@ -3,7 +3,6 @@ title = "018"
 devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मेधातिथिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -165,6 +163,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मदच्युता- हर्षस्रावकौ। मिथुना- युगळौ। सप्ती- प्राणाश्वौ। रथम्। वहतः- प्रापयतः। एवेत्-  एवमेव। वृष्णः- वर्षकस्येन्द्रस्य रथस्य। धूः। उत्तरा- अश्वयोरुत्तरा भवति॥१८॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **सप्ती** **चिद्ध** इन्द्रस्याश्वावपि खलु **मदच्युता** सोमं प्रति गन्ताराविन्द्रस्यैव **रथं** मिथुनौ **वहतः** । **एवेत्** एवमेव **वृष्णः** इन्द्रस्य रथस्य **धूः** **उत्तरा** अश्वयोरुत्तरा भवति ॥
@@ -187,8 +190,6 @@ but even so the chariot-pole of the bull [=husband] is higher.”
 <details><summary>Jamison Brereton Notes</summary>
 
 In my interpretation Indra’s speech continues here, and having admitted the drawbacks to employing women in the ritual, he introduces the model of the yoked pair (that is, the married couple) drawing the chariot of sacrifice, a pair that must be more or less equally matched, but with the pole of the male somewhat higher than that of the female. (Some animals are more equal than others.) The image of the sacrifice as a chariot is of course a common one, and the word mithunā́ ‘complementary pair, sexual pair’ seems to me the tipoff that this is about the married couple. (Oldenberg is in general agreement.)
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/033/16-19.md">
 <details open><summary><h2>16-19 ...{Loading}...</h2></summary>
@@ -223,8 +224,6 @@ Die beiden gepaarten Rosse, von Rausch erregt, ziehen den Wagen; das Joch liegt 
 Везет (вместе) колесницу,  
 Но дышло выше жеребца.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

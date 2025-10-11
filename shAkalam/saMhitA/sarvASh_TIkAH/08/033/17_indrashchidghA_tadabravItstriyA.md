@@ -3,7 +3,6 @@ title = "017"
 devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मेधातिथिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -175,6 +173,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रः। तत्। अब्रवीत्- अवदीत्। स्त्रियाः- नार्याः। मनः- चित्तम्। अशास्यम्- शासितुमशक्यम्।  यथा सीताया मनो रावणेन शासितुमशक्यं भवति। उत- अपि च। क्रतुम्- तस्याः प्रज्ञाम्। रघुम्-  लघ्वीं मृद्वीमनायासाम्। अह- आह। यथा सीतायाः प्रज्ञा रामेण गृहीता। यद्यपि तस्या हृदयं प्रेममयं मृदु भवति तस्याश्चित्तं दृढं वीर्ययुख्नमिति भावः। तथापि। एतदेवाबलाया बलम्।  नारीचित्तवदिन्द्रस्य चित्तमपि लघु चाशास्यं चेति पूर्वमन्त्रेण योजनीयम्॥१७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 यो मेध्यातिथेर्धनप्रदाता प्लायोगिरासङ्गः स पुमान् भूत्वा स्त्र्यभवत् । तदा यदिन्द्र उवाच तदिदमाह । तथा चाहुः -‘प्लायोगिश्चासङ्गो यः स्त्री भूत्वा पुमानभूत् स मेध्यातिथये दानं दत्त्वा ' इति । **इन्द्रश्चिद्ध** इन्द्रः खलु **तदब्रवीत्** । **स्त्रियाः** **मनः** चित्तम् **अशास्यं** पुरुषेणाशिष्यं शासितुमशक्यं प्रबलत्वादिति । **उतो** अपि च स्त्रियाः **क्रतुं** प्रज्ञां **रघुं** लघुमाह ॥
@@ -202,8 +205,6 @@ and her will is fickle.
 <details><summary>Jamison Brereton Notes</summary>
 
 Indra begins, cleverly, with concession: he admits that women’s mental powers are not as strong as they should be. I take this as Indra’s direct speech, even though pāda c is in the accusative (and pāda b could be), since I think such mixed constructions (X said “abc” / said that abc) are found elsewhere. However, little is lost if it is taken as indirect discourse.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/033/16-19.md">
 <details open><summary><h2>16-19 ...{Loading}...</h2></summary>
@@ -238,8 +239,6 @@ Auch Indra selbst nannte ja diesen Sinn des Weibes untadelig und ihre rüstige T
 Женский разум ненаучаем,  
 А сила духа легковесна.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

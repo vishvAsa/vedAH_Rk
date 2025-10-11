@@ -3,7 +3,6 @@ title = "025"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -146,6 +144,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तुभ्यम्- ते। सोमाः- रसाः। इमे। सुताः- निष्पन्नाः। विभावसो- दीप्तिधन। बर्हिः- दर्भासनम्।  स्तीर्णं- कल्पितम्। स्तोतृभ्यः। इन्द्रम्। आ वह- प्रापय॥२५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **विभावसो** विशेषेण भासमानवसुमन् । यद्वा । विशिष्टा भा विभाः प्रकृष्टदीप्तयः । ता निवसन्त्यत्रेति विभावसुरग्निः । हे तादृशाग्ने **तुभ्यं** त्वदर्थम् **इमे** **सोमाः** **सुताः** अभिषुताः । तथा **बर्हिः** **स्तीर्णम्** । तस्मात् **स्तोतृभ्यः** अस्मभ्यमस्मदर्थम् **इन्द्रं** सोमपानार्थम् **आ** **वह** आह्वय । यज्ञे प्रति प्रापयेत्यर्थः ॥ ॥ २५ ॥
@@ -171,8 +174,6 @@ The verse begins with a 2nd ps. pronoun túbhyam, and the content of what follow
 
 However, the vocative closing b, vibhāvaso, otherwise used only of Agni, and the fact that Indra is the 3rd ps. object of the imperative ā́vaha in c, whose subject should be Agni, call the interpretation of the earlier part of the verse into question. Yet it is next to impossible, in my view, that the announcing of the soma drinks in a is made to anyone but Indra, and so we must reckon with a half verse that changed horses in midstream, as it were, without any poetic benefit accruing.
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -197,10 +198,6 @@ Für dich sind diese Soma´s ausgepreßt, ist das Barhis ausgelegt, du Glanzvoll
 
 Dir sind die Soma's hier gepresst, gestreut der Sitz, o Glänzender, Den Sängern fahr den Indra her.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

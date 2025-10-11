@@ -3,7 +3,6 @@ title = "005"
 devataa = "भगः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -256,6 +254,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+भगः- सौभाग्याधिदेवता। एव। भगवान्- सौभाग्यसम्पन्ना। अस्तु- भवतु। देवाः। तेन- तया  सौभाग्याधिदेवतया। वयम्। भगवन्तः- सौभाग्यवन्तः। स्याम- भवेम। भग। तम्- अमुम्।  त्वाम्- भवन्तम्। सर्वो जनः। जोहवीति- आह्वयति। सः- असौ त्वम्। नः- अस्माकम्। पुरएता-  पुरोगामी। इह- अत्र। भव॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे देवाः **भगः** देवः **एव** **भगवान्** धनवान् **अस्तु** । **तेन** भगेन देवेन धनेन वा **वयं** **भगवन्तः** **स्याम** धनवन्तो भवेम । हे **भग** **तं** प्रसिद्धं **त्वा** त्वां **सर्व** **इत्** सर्व एव जनः **जोहवीति** भृशं पुनःपुनर्वाह्वयति । हे **भग** देव **सः** त्वम् **इह** अस्मिन् यज्ञे **नः** अस्माकं **पुरएता** पुरोगन्ता **भव** ॥
@@ -264,12 +267,10 @@ _________________
 
 </details>
 
-
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 21अथ हविषः पुरोनुवाक्यामाह ।
 </details>
-
 
 <details><summary>हरदत्तः</summary>
 
@@ -300,7 +301,6 @@ Each and every one constantly calls on you, Bhaga. Become our guide  here, Bhaga
 The punning continues here with a clever twist: even Bhaga himself should become possessed of a portion (bhágavant-) (a); (only) in this way (téna) will we become bhágavant- (b). In other words, Bhaga needs to get his own portion before he can pass it on to us.
 
 This vs. forms a slight ring with vs. 1: the intensive verb johavīti provides one additional stem to the two forms of √hū in vs. 1, havāmahe and huvema.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
 <details open><summary><h2>03-05 ...{Loading}...</h2></summary>
@@ -334,8 +334,6 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 Ведь каждый громко зовет тебя, о Бхага.  
 Будь нам тут, о Бхага, идущим впереди!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -3,7 +3,6 @@ title = "029"
 devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "उष्णिक्"
 - ऋषिः - पर्वतः काण्वः
 - छन्दः - उष्णिक्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -164,6 +162,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यदा। ते- तव। मारुतीर्विशः- मरुतः प्राणविशेषा वाता वा। इन्द्र। तुभ्यम्- त्वदर्थम्। नियेमिरे-  नियम्यन्ते॥२९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **तुभ्यं** त्वदर्थं 'मारुतीः मारुत्यो मरुद्रूपाः **ते** त्वदीयाः **विशः** प्रजाः **यदा** यस्मिन् काले **नियेमिरे** नियच्छन्ति भूतजातानि । अन्यद्गतम् ॥
@@ -191,7 +194,6 @@ just after that all these worlds held themselves in submission to you.
 <details><summary>Jamison Brereton Notes</summary>
 
 The doubling of te … túbhyam is presumably pleonastic+++(=redundant)+++ in ab, with the yadā́te simply repeated from 27a, 28a.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
@@ -226,8 +228,6 @@ Als deine Marutscharen dann um dich, o Indra, scharten sich, Da schmiegten alle 
 Покорились тебе,о Индра,  
 Только тогда тебе подчинились все существа.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

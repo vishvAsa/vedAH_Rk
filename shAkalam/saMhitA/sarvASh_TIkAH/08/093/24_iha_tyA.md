@@ -3,7 +3,6 @@ title = "024"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -134,6 +132,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इह- अत्र। त्या- तौ। सधमाद्या- सहमादकौ। हिरण्यकेश्या- ज्वलत्केशौ। हरी- प्राणतुरगौ।  हितम्- निहितं स्थापितम्। प्रयः- हव्यम्। अभि- अभिलक्ष्य। इन्द्रम्। वोळ्हाम्- वहताम्॥२४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 एषा व्याख्याता (ऋ. सं. ८. ३२. २९ ) । अत्रापि वाक्यार्थो विधीयते । **सधमाद्या** इन्द्रेण सह हविर्भिस्तर्पयितव्यौ यद्वा संग्रामे सह माद्यन्तौ **हिरण्यकेश्या** हिरण्मयस्कन्धगतकेशवन्तौ **त्या** तौ प्रसिद्धौ **हरी** हरितवर्णावेतन्नामकावश्वौ **इह** अस्मिन् यज्ञे **हितं** - - वादिषु निहितं हितकरं वा **प्रयः** हवीरूपमन्नमभिलक्ष्य **वोळ्हाम्** इन्द्रं वहताम् । प्रापयतामिति ॥
@@ -168,10 +171,6 @@ Hierher sollen die beiden Kumpane, die goldmähnigen Falben fahren zum vorgesetz
 
 Es fahre her der Füchse Paar zum Mahl vereint, mit goldnem Haar, Zu dieser aufgetragnen Kost.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

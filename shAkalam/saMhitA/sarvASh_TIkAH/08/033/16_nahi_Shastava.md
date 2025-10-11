@@ -3,7 +3,6 @@ title = "016"
 devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - मेधातिथिः काण्वः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -167,6 +165,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यः। वीरः। अस्मान्- नः। आनयत्- प्रापयति। सः। मम वा। तव वा। अन्यस्य वा। शास्त्रे-  शासने। नहि रण्यति- न रमते। इन्द्रोनुशासनीयो न भवतीति भावः॥१६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** **वीरः** शूरः **अस्मान्** **आनयत्** **सः** इन्द्रः **तव** **शास्त्रे** शासने **नहि** **रण्यति** न रमते । **मम** अपि शास्त्रे शासने **नो** रण्यति । **अन्यस्य** अपि शासने न रण्यति । किंतु रक्षण एव रमत इत्यर्थः । ।
@@ -194,8 +197,6 @@ the hero who led us hither.
 <details><summary>Jamison Brereton Notes</summary>
 
 I take the disgruntled speaker to be the poet and the subject of ráṇyati to be a rival ritualist, who has accepted the new doctrine. The “you or me” of pāda a is rather like the English expression “the likes of you and me,” meaning “ordinary people.” I take the nahí … nó (= ná u) as having domain only over táva and máma, not the anyásya of pāda b. By my rules (Jamison 1997) anyá- in this position should be definite (not Geldner’s indefinite “oder eines anderen…”), and I take its referent to be Indra. The referent of the yáḥ in the rel. clause in c I again take to be Indra (that is, anyásya), rather than the subject of ráṇyati, as Geldner does. The designation vīrá- is of course regularly applied to Indra, and “led us here” can refer both to Indra’s leadership in the acquisition of new territory and to his role in introducing the ritual innovation. And Indra starts off the next verse.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/033/16-19.md">
 <details open><summary><h2>16-19 ...{Loading}...</h2></summary>
@@ -230,8 +231,6 @@ Denn weder auf dein noch auf mein Geheiss, auf das eines andern thut sich der Ma
 Ни (в наставлении) другого не находит удовольствия  
 Тот муж, который нас привел.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

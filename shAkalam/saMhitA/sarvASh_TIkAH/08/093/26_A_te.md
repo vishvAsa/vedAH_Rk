@@ -3,7 +3,6 @@ title = "026"
 devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "गायत्री"
 - ऋषिः - सुकक्षः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -156,6 +154,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दाशुषे- दात्रे। ते- तुभ्यम्। रोचना- दीप्तानि। रत्ना- रत्नानि। दक्षम्- बलम्। वि- विशेषेण।  दधत्- इन्द्रो यच्छतु। स्तोतृभ्यः। इन्द्रम्। अर्चत- पूजयत॥२६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 ऋषिर्ऋत्विग्यजमानान् प्रत्याह । हे यष्टः **दाशुषे** इन्द्राय हविर्दत्तवते **ते** तुभ्यं **रोचना** रोचनं दीप्यमानं **दक्षं** बलम् **आ** आभिमुख्येन **वि** **दधत्** इन्द्रो विदधातु । यद्वा । रोचनमिति स्वर्गः । देवतेजसा दीप्तं रोचननामानं लोकं विदधातु । तथा **रत्ना** रत्नानि च तुभ्यं करोतु ।' डुधाञ् धारणपोषणयोः'। लेटि ‘घोर्लोपो लेटि वा' (पा. सू. ७. ३. ७० ) इत्याकारलोपः । अडागमः । हे स्तोतारः **स्तोतृभ्यः** इन्द्रविषयस्तोत्रकारिभ्यो युष्मभ्यं च बलरत्नादिकमिन्द्रः कुरुताम्। तस्मात् तम् **इन्द्रं** यूयम् **अर्चत** हविर्भिः स्तुतिभिश्च पूजयत ॥
@@ -185,8 +188,6 @@ The 2nd pl. impv. in c must be addressed to the whole set of ritual participants
 
 Geldner insists (n. to 26c) that stotṛ́bhyaḥ must be read with pāda b, parallel to dāśúṣe “die Kleinode verteile für den Opfernden, für die Sänger,” but the rigid parallelism of the c pādas in this tṛca suggests rather that it belongs with its pāda. Presumably the full set of participants are chanting on behalf of the subset of “praisers.”
 
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -211,10 +212,6 @@ Ich bringe dir Kraft, indem ich die Lichter, die Kleinode verteile für den Opfe
 
 Dir theil er Kraft und Himmelsglanz und Schätze dem Verehrer zu, Den Sängern stimmt den Indra hold.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

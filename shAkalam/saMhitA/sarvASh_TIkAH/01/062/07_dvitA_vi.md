@@ -3,7 +3,6 @@ title = "007"
 devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - नोधा गौतमः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -201,6 +199,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+स्तवमानेभिः- स्तोतृभिः। अर्कैः- मन्त्रैः। अयास्यः- प्राणशख्निसंपन्नः सन्। आस्याद्यदयते तेनेति  छान्दोग्ये। सनजा- सनातने। सनीले- संलग्ने। समानं नीळं ओको निवासस्थानं ययोस्ते।  द्यावापृथिव्यौ। द्विता- द्विधा। वि वव्रे- विवृते अकरोत्। रोदसी- द्यावापृथिव्यौ। सुदंसाः-  सुदर्शनः। भगो न- सूर्य इव। मेने- मान्ये। परमे व्योमन्- परमाकाशे। अधारयत्- दधार।  मनःशरीरे पृथगिव कृत्वा चिदाकाशे दधारेति सूक्ष्मार्थः॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **अयास्यः** । यासः प्रयत्नः । तत्साध्यो यास्यः । न यास्योऽयास्यः । युद्धरूपैः प्रयत्नैः साधयितुमशक्य इत्यर्थः । कथं साध्यते इत्यत आह । **स्तवमानेभिः** स्तोत्रं कुर्वद्भिः पुरुषैः **अर्कैः** स्तुतिरूपैर्मन्त्रैः स्तूयमानः सन्निन्द्रः सुसाध्यः भवति । यद्वा । अयास्यः पञ्चवृत्तिर्मुख्यप्राणः । स हि आस्यात् मुखात् अयते गच्छति निष्क्रामति । तदुपासकोऽप्यङ्गिरा उपचारात् अयास्य उच्यते । तथा च छन्दोगैराम्नातं -- तं हायास्य उद्गीथमुपासांचक्रे एतमु एवायास्यं मन्यन्त आस्याद्यदयते तेन । ( छा. उ. १. २. १२ ) इति । अथवा । अयमास्ये मुखे वर्तते इत्ययास्यः । तथा च वाजसनेयकं--  ‘ ते होचुः क्व नु सोऽभूद्यो न इत्थमसक्तेत्ययमास्येऽन्तरिति ' (बृ. उ. १. ३. ८ ) इति । पूर्ववदुपासकोऽप्ययास्यः । तेन ऋषिणा स्तवमानेभिः गुणिनिष्ठगुणाभिधानलक्षणां स्तुतिं कुर्वद्भिः अर्कैः मन्त्रैः करणभूतैः स्तूयमानः सन् **सनजा**। सना इति निपातो नित्यार्थः । नित्यजाते सर्वदा विद्यमानस्वभावे इत्यर्थः। प्रथमभावविकारवाचिना जनिना द्वितीयो भावविकारः सत्ता लक्ष्यते । यथा “ औत्पत्तिकस्तु शब्दस्यार्थेन संबन्धः' इति । ‘औत्पत्तिकमिति नित्यं ब्रूमः' (शा. भा. १.१.५) इति हि तद्भाष्यम्। **सनीळे** समानं नीळम् ओको निवासस्थानं ययोस्ते । संलग्ने इत्यर्थः । एवंविधे द्यावापृथिव्यौ **द्विता** द्विधा **वि** **वव्रे** विवृते अकरोत् भेदेनास्थापयदित्यर्थः । **मेने** मननीये **परमे** उत्कृष्टे **व्योमन्** विविधरक्षणे नभसि वर्तमानः **भगो** **न** सूर्य इव **सुदंसाः** शोभनकर्मेन्द्रः **रोदसी** द्यावापृथिव्यौ **अधारयत्** अपोषयत् । यद्वा । मेना इति स्त्रीनाम । तथा च यास्कः--- ‘ मेनाग्ना इति स्त्रीणां मेना मानयन्त्येनाः ' (निरु. ३. २१ ) इति । स्त्रीरूपमापन्ने रोदसी इन्द्रोऽपुष्यदित्यर्थः४॥ द्विता । द्विधा इत्यस्य धकारस्य तकारश्छान्दसः । सनजा ।  ‘ जनी प्रादुर्भावे ' । अस्मात् भावे  ‘ अन्येष्वपि दृश्यते ' इति दृशिग्रहणस्य सर्वोपाधिव्यभिचारार्थत्वात् केवलादपि जनेर्डप्रत्ययः । सना नित्यं जो जननं ययोस्ते सनजे । पूर्वपदस्य ह्रस्वश्छान्दसः । एवमादित्वादन्तोदात्तत्वम् । तदेव बहुव्रीहिस्वरेण शिष्यते । सुपां सुलुक्' इति विभक्तेः आकारः । अयास्यः ।  ‘ यसु प्रयत्ने '। यासः प्रयत्नः । तत्र भवो यास्यः ।  ‘ भवे छन्दसि ' इति यत् । न यास्योऽयास्यः ।  ‘ परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् । श्रुत्युक्तनिर्वचने तु पृषोदरादित्वात् अभिमतरूपस्वरसिद्धिः । मेने । सप्तम्येकवचनस्य ' सुपां सुलुक् ' इति शेआदेशः ।  ‘ शे' (पा. सू. १. १. १३) इति प्रगृह्यत्वम् । यद्वा । मन्यते इति मेना । पचाद्यच् ।' नशिमन्योरलिढ्येत्वं वक्तव्यम् ' ( पा. सू. ६. ४. १२०.५) इति एत्वम् । ततः टाप् । द्विवचने 'ईदूदेद्द्विवचनम् ' ( पा. सू. १. १. ११ ) इति प्रगृह्यत्वम् । सुदंसाः । दंस इति कर्मवाची । असुन्प्रत्ययान्तः आद्युदात्तः । बहुव्रीहौ ' आद्युदात्तं द्व्यच्छन्दसि ' इत्युत्तरपदाद्युदात्तत्वम् ॥
@@ -232,7 +235,7 @@ Nodhas continues to deploy his tricks in this verse. He has moved on from the ob
 He also reuses the √ṛc lexical theme from vss. 1-2, with arkaíḥ in b, which is apparently qualified by the middle participle stávamānebhiḥ (remember stuvatá in 1c). This participle is somewhat disturbing; like all middle participles to the root √stu, it is used passively here, but unlike all the other passive uses, its subject is not the god praised but the praises themselves. It may be that Nodhas want his audience to take notice of such an aberrant usage. However, I am tempted to read
 
 *stavamānaibhíḥ here - that is, nom. sg. stávamānas + pron. ebhíḥ, with rare double
-application of sandhi: -as + e- &gt; -a + e- &gt; -ai-. The participle stávamānas would modify Indra, as would be expected; ebhíḥ occurs several times with arkaíḥ (IV.3.15, 10.13) and the passive of √stu also appears with this instr. (see passages adduced by Geldner in n. 7b, where he suggests a similar, but far from identical, reanalysis of the form in the text, calling it “vielleicht Hypallage”). If the emendation is accepted, I would change the tr. to “the irrepressible one being praised by these chants.” The arkaíḥ might also be construed secondarily as it currently is in the tr., with ví vavre, as the instrument with which he performed the uncovering.
+application of sandhi: -as + e- > -a + e- > -ai-. The participle stávamānas would modify Indra, as would be expected; ebhíḥ occurs several times with arkaíḥ (IV.3.15, 10.13) and the passive of √stu also appears with this instr. (see passages adduced by Geldner in n. 7b, where he suggests a similar, but far from identical, reanalysis of the form in the text, calling it “vielleicht Hypallage”). If the emendation is accepted, I would change the tr. to “the irrepressible one being praised by these chants.” The arkaíḥ might also be construed secondarily as it currently is in the tr., with ví vavre, as the instrument with which he performed the uncovering.
 
 ayā́sya- regularly qualifies Indra; there is no reason to take it as a personal name, identifying a distinct second figure here (pace Geldner, Renou). Phonetic figure: sanájā sánīḷe taking up the sa’s in vs. 4 and prefiguring the sa’s that will be conspicuous in the next few verses.
 
@@ -262,8 +265,6 @@ Zwiefach enthüllte er die urgebornen, verschwisterten mit Preisgesängen rastlo
 Словно богатый господин – двух жен, на верхнем небе  
 Держит он оба мира, (он,) совершающий удивительный подвиг.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

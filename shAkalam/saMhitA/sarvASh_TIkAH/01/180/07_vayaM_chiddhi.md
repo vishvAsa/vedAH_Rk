@@ -3,7 +3,6 @@ title = "007"
 devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "त्रिष्टुप्"
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -230,6 +228,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वयम्।  वाम्- युवयोः। जरितारः- स्तोतारः। सत्याः- आर्जवभावसंपन्नाः। हि- खलु।  विपन्यामहे- स्तुमः। पणिः- वणिक्। हितावान्- स्ववाणिज्येन सर्वहितकारी। वि- विमुच्यताम्।  अधा- अथ। अनिन्द्या- अनिन्दकौ। अश्विनौ। वृषणौ- वर्षकौ। अन्तिदेवम्- देवानामन्तिके।  पाथः- सोमं पिबथः॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वयं** **चिद्धि** वयमपि **जरितारः** तव स्तोतारः **सत्याः** सत्यफलाः सन्तः **विपन्यामहे** विविधं स्तुमः । **पणिः** पणाधारो द्रोणकलशः **वि** **हितवान्** स्थापितरसवानासीत् । यद्वा । पणिर्वणिग्लुब्धकोऽयष्टा हितवान्नियतधनो धनाढ्योऽप्ययष्टा वि वियुज्यताम् ॥ उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥ **अध** अपि च **चिद्धि** **ष्म** । एते त्रयः पूरणाः । हे **अश्विनौ** **अनिन्द्या** । प्रशस्यनामैतत् । हे प्रशस्यौ **वृषणौ** हे कामानां वर्षितारौ युवाम् **अन्तिदेवं** देवानामन्तिके **पाथः** सोमं पिबथः । यद्वा । अन्तिके वर्तमानं देवान् प्राप्नुवानं सोममिति योज्यम् ॥
@@ -263,7 +266,6 @@ And since, o Aśvins, (you are) irreproachable, because you protect (the  man) w
 The nonce verbal form vipanyā́mahe has attracted a remarkable amount of discussion; for a detailed and clear summary see Kulikov (-ya-presents, 143-46), though his passive/reciprocal interpr. I cannot follow. Insofar as there has been a standard analysis of it, it has been as a passive to √pan ‘admire’ (Wh Rts, reflected in Geldner’s tr.), but other root associations and morphological analyses abound, which I will not discuss further. It belongs with a group of other, better-attested formations: fem. noun vipanyā́- and adj. vipanyú-, which I take as ‘admiration’ and ‘seeking/expressing admiration’ respectively. (This point was made forcefully by Thieme in Fs. Risch [1986: 165-66], though I do not follow his ultimately etymology.) (For a similar system, cf. vasūyá-(ti), vasūyā́-, vasūyú-.) I take vipanyā́mahe as a denominative -yá-verb associated with these nominal forms, derived from the root √pan (in my view); it is transitive in value and takes vām as object. With Thieme (an analysis fld. by subsequent interpr. Kulikov Witzel Gotō), I take the last part of pāda b, ví paṇír hitā́vān, as a separate nominal clause, but unlike these interpr. I take it as the main clause attached to the causal clause beginning in pāda a.
 
 The phonological play of vipan(yā́mahe) ví paṇ(ír) clearly contributed to the word choice here, as Kulikov also notes. As for the sense of this hemistich, it simply rephrases the purport of vs. 6: because we singers are doing our job in the ritual economy by praising the gods, our patron is being generous to us and cannot be labeled a ‘niggard’.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/180/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
@@ -301,8 +303,6 @@ Wir rühmen uns als eure treuen Sänger, der Karge rühmt sich als des Schatzes 
 Вы же, о Ашвины, потому безупречны,  
 Что храните, о два быка, того, к кому близки боги.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

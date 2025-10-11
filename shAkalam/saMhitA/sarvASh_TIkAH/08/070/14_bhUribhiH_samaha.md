@@ -3,7 +3,6 @@ title = "014"
 devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "अनुष्टुप्"
-
 +++
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -11,7 +10,6 @@ ChandaH = "अनुष्टुप्"
 - ऋषिः - पुरुहन्मा
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -164,6 +162,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+समह- माहात्म्यसहित। भूरिभिः- बहुभिः। ऋषिभिः- सूक्ष्मदर्शिभिः। बर्हिष्मद्भिः- लब्धभूमिकैः।  स्तविष्यसे- स्तूयसे। शर- हे शत्रुहिंसक। त्वम्। इत्थम्- एवम्। एकमेकम्। वत्सान्। पराददः-  स्तोतृभ्यो यच्छसि॥१४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **समह** समानपूज। सर्वैः पूज्येत्यर्थः। **भूरिभिः** बहुभिः **ऋषिभिः** अतीन्द्रियज्ञैर्ऋत्विग्भिः **बर्हिष्मद्भिः** यागवद्भिः **स्तविष्यसे** स्तूयसे। **यत्** य इन्द्रः **इत्थमेकमेकमित्** एकमेकमेव वत्समित्येवं बहून् **वत्सान्** स्तोतृभ्यः **पराददः** प्रयच्छसि। हे **शर** हिंसक शत्रोः । अत्र वत्सशब्दो वत्समातॄणां गवामुपलक्षकः । गाः प्रयच्छसीति ॥
@@ -204,10 +207,6 @@ Von vielen opfernden Rishi´s wirst du jedenfalls gepriesen werden, wenn du, Sar
 
 Von vielen Sängern, die mit Streu versehn sind, wirst du vielfach gepriesen werden, weil du, o Çara, einen nach dem andern mit Kälbern beschenktest.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
